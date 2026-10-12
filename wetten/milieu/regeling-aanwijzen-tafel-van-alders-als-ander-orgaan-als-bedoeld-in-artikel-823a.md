@@ -8,7 +8,7 @@ laatste_update: 2009-09-17
 status: geldig
 toestand: 2009-09-17
 bron: "https://wetten.overheid.nl/BWBR0026374"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling aanwijzen Tafel van Alders als ander orgaan als bedoeld in artikel 8.23a, eerste en negende lid, Wet luchtvaart

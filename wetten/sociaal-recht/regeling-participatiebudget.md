@@ -9,7 +9,7 @@ laatste_update: 2019-03-01
 status: geldig
 toestand: 2019-03-01
 bron: "https://wetten.overheid.nl/BWBR0026924"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 16 december 2009, nr. IVV/FB/2009/26897, tot regels ter uitvoering van de Wet participatiebudget (Regeling participatiebudget)

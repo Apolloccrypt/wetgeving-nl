@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0026591"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Wet van 29 oktober 2009, houdende regels omtrent de aanwijzing van een nationale accreditatie-instantie in verband met de implementatie van EG-verordening nr. 765/2008 (Wet aanwijzing nationale accreditatie-instantie)

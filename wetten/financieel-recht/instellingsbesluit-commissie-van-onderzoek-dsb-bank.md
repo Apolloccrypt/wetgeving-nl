@@ -9,7 +9,7 @@ laatste_update: 2009-12-31
 status: geldig
 toestand: 2009-12-31
 bron: "https://wetten.overheid.nl/BWBR0026984"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van de minister van Financiën houdende de instelling van een commissie van onderzoek (Instellingsbesluit commissie van onderzoek DSB Bank)

@@ -9,7 +9,7 @@ laatste_update: 2025-03-12
 status: geldig
 toestand: 2025-03-12
 bron: "https://wetten.overheid.nl/BWBR0026953"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van de Minister van Verkeer en Waterstaat tot het instellen van het directoraat-generaal Rijkswaterstaat (Instellingsbesluit directoraat-generaal Rijkswaterstaat)

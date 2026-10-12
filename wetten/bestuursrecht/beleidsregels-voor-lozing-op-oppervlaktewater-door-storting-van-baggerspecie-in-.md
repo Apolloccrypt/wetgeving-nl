@@ -9,7 +9,7 @@ laatste_update: 2010-04-16
 status: geldig
 toestand: 2010-04-16
 bron: "https://wetten.overheid.nl/BWBR0027505"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Besluit van de Minister van Verkeer en Waterstaat houdende beleidsregels voor lozing op een oppervlaktewater door storting van baggerspecie in Wm-vergunningplichtige winputten (beleidsregels voor lozing op een oppervlaktewater door storting van baggerspecie in Wm-vergunningplichtige winputten)

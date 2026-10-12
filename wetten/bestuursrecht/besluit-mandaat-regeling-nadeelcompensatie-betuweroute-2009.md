@@ -8,7 +8,7 @@ laatste_update: 2009-10-01
 status: geldig
 toestand: 2009-10-01
 bron: "https://wetten.overheid.nl/BWBR0026432"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit mandaat Regeling Nadeelcompensatie Betuweroute 2009

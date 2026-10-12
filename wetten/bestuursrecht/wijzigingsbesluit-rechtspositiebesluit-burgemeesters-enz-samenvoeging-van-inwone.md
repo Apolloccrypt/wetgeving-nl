@@ -9,7 +9,7 @@ laatste_update: 2010-01-01
 status: geldig
 toestand: 2010-01-01
 bron: "https://wetten.overheid.nl/BWBR0026906"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van 16 december 2009 houdende wijziging van enkele rechtspositiebesluiten politieke ambtsdragers in verband met de samenvoeging van inwonersklassen en enkele technische aanpassingen

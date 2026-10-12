@@ -9,7 +9,7 @@ laatste_update: 2017-04-01
 status: geldig
 toestand: 2017-04-01
 bron: "https://wetten.overheid.nl/BWBR0027765"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 5 juni 2010, nr. WJZ/211998 (2719), houdende regels in verband met de erkenning van EG-beroepskwalificaties voor personeel in de kinderopvang (Regeling erkenning EG-beroepskwalificaties kinderopvangpersoneel)

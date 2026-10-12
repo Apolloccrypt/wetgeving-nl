@@ -9,7 +9,7 @@ laatste_update: 2017-04-11
 status: geldig
 toestand: 2017-04-11
 bron: "https://wetten.overheid.nl/BWBR0027600"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Besluit van 10 april 2010, houdende nadere regels voor subsidiëring van cultuuruitingen (Besluit op het specifiek cultuurbeleid)

@@ -8,7 +8,7 @@ laatste_update: 2009-11-20
 status: geldig
 toestand: 2009-11-20
 bron: "https://wetten.overheid.nl/BWBR0026767"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Circulaire Aanhoudings- en ondersteuningseenheden (AOE 'en)

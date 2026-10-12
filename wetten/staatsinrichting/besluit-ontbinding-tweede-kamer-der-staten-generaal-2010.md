@@ -9,7 +9,7 @@ laatste_update: 2010-05-01
 status: geldig
 toestand: 2010-05-01
 bron: "https://wetten.overheid.nl/BWBR0027423"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van 18 maart 2010 betreffende de ontbinding van de Tweede Kamer der Staten-Generaal

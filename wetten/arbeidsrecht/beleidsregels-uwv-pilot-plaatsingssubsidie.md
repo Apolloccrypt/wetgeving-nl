@@ -8,7 +8,7 @@ laatste_update: 2010-04-10
 status: geldig
 toestand: 2010-04-10
 bron: "https://wetten.overheid.nl/BWBR0027481"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Beleidsregels UWV pilot plaatsingssubsidie

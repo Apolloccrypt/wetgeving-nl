@@ -8,7 +8,7 @@ laatste_update: 2026-07-16
 status: geldig
 toestand: 2026-07-16
 bron: "https://wetten.overheid.nl/BWBR0027695"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Kadasterregeling 1994

@@ -9,7 +9,7 @@ laatste_update: 2013-12-24
 status: geldig
 toestand: 2013-12-24
 bron: "https://wetten.overheid.nl/BWBR0027008"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 17 december 2009, nr. HO&S/BS/2009/178035, inzake de ‘Opheffing terugwerkende kracht Hoofdstuk 4 WTOS’ op grond van artikel 11.4 Wet tegemoetkoming onderwijsbijdrage en schoolkosten en bestemd voor leerlingen en deelnemers van 18 jaar en ouder, die in aanmerking komen voor een tegemoetkoming in de onderwijsbijdrage en schoolkosten ingevolge hoofdstuk 4 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten

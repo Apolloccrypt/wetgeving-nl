@@ -9,7 +9,7 @@ laatste_update: 2025-08-21
 status: geldig
 toestand: 2025-08-21
 bron: "https://wetten.overheid.nl/BWBR0027597"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 16 april 2010, nr. WJZ/204802 (8258), houdende regels voor de subsidiëring van cultuuruitingen (Regeling op het specifiek cultuurbeleid)

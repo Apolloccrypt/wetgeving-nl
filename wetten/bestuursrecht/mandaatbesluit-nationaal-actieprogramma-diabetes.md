@@ -9,7 +9,7 @@ laatste_update: 2011-07-01
 status: geldig
 toestand: 2011-07-01
 bron: "https://wetten.overheid.nl/BWBR0027256"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 10 februari 2010, nr. PG/OGZ 2984607, houdende verlening mandaat en machtiging aan de Nederlandse Diabetes Federatie ter uitvoering van subsidies in het kader van het Nationaal Actieprogramma Diabetes

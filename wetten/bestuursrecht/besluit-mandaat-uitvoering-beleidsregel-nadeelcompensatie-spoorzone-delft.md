@@ -8,7 +8,7 @@ laatste_update: 2009-12-31
 status: geldig
 toestand: 2009-12-31
 bron: "https://wetten.overheid.nl/BWBR0026982"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit mandaat uitvoering Beleidsregel nadeelcompensatie Spoorzone Delft

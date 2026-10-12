@@ -9,7 +9,7 @@ laatste_update: 2010-04-01
 status: geldig
 toestand: 2010-04-01
 bron: "https://wetten.overheid.nl/BWBR0026646"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister van Economische Zaken van 6 november 2009, nr. WJZ / 9196477, houdende vaststelling van regels ter uitvoering van de Rijksoctrooiwet 1995 en het Uitvoeringsbesluit Rijksoctrooiwet 1995 (Uitvoeringsregeling 2009 Rijksoctrooiwet 1995)

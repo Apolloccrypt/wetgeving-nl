@@ -9,7 +9,7 @@ laatste_update: 2011-06-16
 status: geldig
 toestand: 2011-06-16
 bron: "https://wetten.overheid.nl/BWBR0026869"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister van Economische Zaken van 2 december 2009, nr. WJZ/9165300, houdende intrekking van een aantal subsidieregelingen in verband met de stroomlijning hiervan

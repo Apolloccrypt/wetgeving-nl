@@ -9,7 +9,7 @@ laatste_update: 2010-04-23
 status: geldig
 toestand: 2010-04-23
 bron: "https://wetten.overheid.nl/BWBR0027551"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Besluit van 10 april 2010, tot wijziging van het Besluit vergoedingen rechtsbijstand 2000 en het Besluit rechtsbijstand- en toevoegcriteria in verband met de aanpassing van de hoogte van vergoedingen voor bepaalde beroepszaken in vreemdelingenbewaring en de verhoging van de eis van voldoende financieel belang

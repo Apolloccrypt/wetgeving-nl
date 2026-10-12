@@ -9,7 +9,7 @@ laatste_update: 2010-04-10
 status: geldig
 toestand: 2010-04-10
 bron: "https://wetten.overheid.nl/BWBR0027480"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Besluit van de Minister van Justitie van 29 maart 2010, nr. 5646744/10/CBJ, houdende aanwijzing van de Centrale autoriteit internationale kinderontvoering (Aanwijzingsbesluit Centrale autoriteit internationale kinderontvoering)

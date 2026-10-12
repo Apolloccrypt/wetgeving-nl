@@ -9,7 +9,7 @@ laatste_update: 2010-12-25
 status: geldig
 toestand: 2010-12-25
 bron: "https://wetten.overheid.nl/BWBR0027153"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 1 februari 2010, nr. BJZ2010002774 houdende vaststelling van een tenderperiode en subsidieplafond voor het jaar 2010 krachtens de Subsidieregeling Wet op het Waddenfonds

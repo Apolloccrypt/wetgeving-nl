@@ -9,7 +9,7 @@ laatste_update: 2026-02-28
 status: geldig
 toestand: 2026-02-28
 bron: "https://wetten.overheid.nl/BWBR0027297"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister voor Wonen, Wijken en Integratie van 19 februari 2010, nr. BJZ2010004657, tot vaststelling van de minimumbijdrage, bedoeld in de artikelen 220 lid 6 en 275 lid 4 van Boek 7 van het Burgerlijk Wetboek (Regeling minimum-bijdrage verhuis- en inrichtingskosten bij renovatie)

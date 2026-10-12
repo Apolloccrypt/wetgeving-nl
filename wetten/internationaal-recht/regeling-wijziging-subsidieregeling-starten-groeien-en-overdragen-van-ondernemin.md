@@ -9,7 +9,7 @@ laatste_update: 2010-01-01
 status: geldig
 toestand: 2010-01-01
 bron: "https://wetten.overheid.nl/BWBR0026889"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister van Economische Zaken van 10 december 2009, nr. WJZ/9222189, tot wijziging van de Subsidieregeling starten, groeien en overdragen van ondernemingen in verband met onder meer wijziging van het Kaderbesluit EZ-subsidies

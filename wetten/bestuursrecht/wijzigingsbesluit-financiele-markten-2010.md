@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0026789"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van 27 november 2009 houdende wijziging van het Besluit bestuurlijke boetes financiële sector, het Besluit bijzondere prudentiële maatregelen, beleggerscompensatie en depositogarantie Wft, het Besluit Gedragstoezicht financiële ondernemingen Wft, het Besluit Markttoegang financiële ondernemingen Wft, het Besluit prudentieel toezicht financiële groepen Wft, het Besluit prudentiële regels Wft, het Besluit reikwijdtebepalingen Wft, en het Besluit toezicht accountantsorganisaties (Wijzigingsbesluit financiële markten 2010)

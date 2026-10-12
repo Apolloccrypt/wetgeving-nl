@@ -8,7 +8,7 @@ laatste_update: 2010-10-11
 status: geldig
 toestand: 2010-10-11
 bron: "https://wetten.overheid.nl/BWBR0027735"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Erfbelasting, aftrekposten nalatenschap

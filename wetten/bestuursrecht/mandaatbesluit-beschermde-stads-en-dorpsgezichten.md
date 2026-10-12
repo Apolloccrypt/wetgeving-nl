@@ -9,7 +9,7 @@ laatste_update: 2010-04-29
 status: geldig
 toestand: 2010-04-29
 bron: "https://wetten.overheid.nl/BWBR0027565"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Besluit van de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer tot het verlenen van mandaat, volmacht en machtiging ter uitvoering van de bevoegdheden als bedoeld in artikel 35, eerste lid, van de Monumentenwet 1988 inclusief de afhandeling van bezwaar- en (hoger) beroepschriften dienaangaande (Mandaatbesluit beschermde stads- en dorpsgezichten)

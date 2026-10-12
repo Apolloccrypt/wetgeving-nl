@@ -9,7 +9,7 @@ laatste_update: 2010-01-05
 status: geldig
 toestand: 2010-01-05
 bron: "https://wetten.overheid.nl/BWBR0027267"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van het Stimuleringsfonds voor de pers van 23 december 2009, nr. 19063, tot vaststelling van een Tijdelijke subsidieregeling persinnovatie

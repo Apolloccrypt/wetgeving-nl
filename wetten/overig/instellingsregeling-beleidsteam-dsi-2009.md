@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0026994"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister van Justitie, in overeenstemming met de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Defensie tot instelling van een Beleidsteam voor de advisering en ondersteuning van de Minister van Justitie bij de inzet van de DSI (Instellingsregeling Beleidsteam DSI 2009)

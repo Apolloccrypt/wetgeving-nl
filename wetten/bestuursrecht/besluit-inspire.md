@@ -9,7 +9,7 @@ laatste_update: 2009-12-04
 status: geldig
 toestand: 2009-12-04
 bron: "https://wetten.overheid.nl/BWBR0026601"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van 30 oktober 2009 tot uitvoering van de Implementatiewet EG-richtlijn infrastructuur ruimtelijke informatie (Besluit Inspire)

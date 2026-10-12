@@ -8,7 +8,7 @@ laatste_update: 2008-09-21
 status: geldig
 toestand: 2008-09-21
 bron: "https://wetten.overheid.nl/BWBR0026360"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling cultuurparticipatie provincies en gemeenten 2009–2012

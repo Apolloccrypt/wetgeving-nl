@@ -9,7 +9,7 @@ laatste_update: 2011-11-19
 status: geldig
 toestand: 2011-11-19
 bron: "https://wetten.overheid.nl/BWBR0027303"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Wet van 17 februari 2010 tot wijziging van de Algemene pensioenwet politieke ambtsdragers en enige andere wetten in verband met de harmonisatie van de uitkeringsrechten en het onder de werking van de Algemene pensioenwet politieke ambtsdragers brengen van de commissarissen van de Koning, de burgemeesters en de bestuurders van waterschappen

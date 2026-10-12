@@ -9,7 +9,7 @@ laatste_update: 2018-07-28
 status: geldig
 toestand: 2018-07-28
 bron: "https://wetten.overheid.nl/BWBR0026624"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 22 september 2009, nr. DBV/PZ 2947060, tot het verlenen van machtiging aan P-Direkt

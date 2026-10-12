@@ -8,7 +8,7 @@ laatste_update: 2010-01-13
 status: geldig
 toestand: 2010-01-13
 bron: "https://wetten.overheid.nl/BWBR0027051"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen Nederlandsche Bank en Rijkscommissie en Dagelijkse commissie Export-, import- en investeringsgaranties beleidsterrein Herverzekering van export- en importkredieten en investeringsgaranties 1922–2008

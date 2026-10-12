@@ -9,7 +9,7 @@ laatste_update: 2009-12-30
 status: geldig
 toestand: 2009-12-30
 bron: "https://wetten.overheid.nl/BWBR0026975"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van 22 december 2009 houdende wijziging van de Wet toezicht accountantsorganisaties (aanpassing bijlage)

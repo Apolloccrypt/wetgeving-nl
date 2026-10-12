@@ -9,7 +9,7 @@ laatste_update: 2011-05-04
 status: geldig
 toestand: 2011-05-04
 bron: "https://wetten.overheid.nl/BWBR0026914"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister van Economische Zaken van 10 december 2009, nr. WJZ/9162315, houdende vaststelling van subsidieplafonds en termijnen van openstelling van EZ-subsidieregelingen (Regeling openstelling en subsidieplafonds EZ 2010)

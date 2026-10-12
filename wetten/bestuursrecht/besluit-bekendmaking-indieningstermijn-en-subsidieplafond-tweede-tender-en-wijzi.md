@@ -9,7 +9,7 @@ laatste_update: 2010-03-13
 status: geldig
 toestand: 2010-03-13
 bron: "https://wetten.overheid.nl/BWBR0027376"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van de minister van Buitenlandse Zaken van 3 maart 2010, nr. HAN/2010-056, tot bekendmaking van de indieningstermijn en het subsidieplafond voor de tweede tender in het kader van de Vietnam Faciliteit en tot wijziging van het besluit van de minister voor Ontwikkelingssamenwerking van 27 augustus 2009, nr. HAN/2009-244, tot vaststelling van beleidsregels en een subsidieplafond voor subsidieverlening op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 in het kader van de Vietnam Faciliteit

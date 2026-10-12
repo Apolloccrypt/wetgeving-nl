@@ -9,7 +9,7 @@ laatste_update: 2009-11-12
 status: geldig
 toestand: 2009-11-12
 bron: "https://wetten.overheid.nl/BWBR0026628"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling tot wijziging van de Tijdelijke subsidieregeling innovatieketen water

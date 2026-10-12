@@ -9,7 +9,7 @@ laatste_update: 2010-04-03
 status: geldig
 toestand: 2010-04-03
 bron: "https://wetten.overheid.nl/BWBR0026487"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van 29 september 2009 tot intrekking van het Besluit financiële zekerheid milieubeheer en herstel van enkele gebreken in enkele besluiten op de beleidsterreinen van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer

@@ -9,7 +9,7 @@ laatste_update: 1815-08-21
 status: geldig
 toestand: 1815-08-21
 bron: "https://wetten.overheid.nl/BWBR0026400"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Koninklijk besluit van 21 augustus 1815, no. 79, betreffende Engelse adel

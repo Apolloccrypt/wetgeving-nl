@@ -9,7 +9,7 @@ laatste_update: 2009-10-30
 status: geldig
 toestand: 2009-10-30
 bron: "https://wetten.overheid.nl/BWBR0026556"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van de Minister van Financiën van 14 oktober 2009, nr. BJZ2009/600, tot het verlenen van machtiging aan P-Direkt

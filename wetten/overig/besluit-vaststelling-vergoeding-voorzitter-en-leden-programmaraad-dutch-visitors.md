@@ -9,7 +9,7 @@ laatste_update: 2010-02-16
 status: geldig
 toestand: 2010-02-16
 bron: "https://wetten.overheid.nl/BWBR0027203"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 5 februari 2010, nr. DVL-0093, houdende vaststelling van een vergoeding voor de voorzitter en leden van de Programmaraad Dutch Visitors Programme

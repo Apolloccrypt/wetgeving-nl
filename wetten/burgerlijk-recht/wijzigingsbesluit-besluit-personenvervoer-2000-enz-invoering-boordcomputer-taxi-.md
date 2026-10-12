@@ -9,7 +9,7 @@ laatste_update: 2013-06-29
 status: geldig
 toestand: 2013-06-29
 bron: "https://wetten.overheid.nl/BWBR0026675"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van 16 oktober 2009, houdende wijziging van het Besluit personenvervoer 2000, het Arbeidstijdenbesluit vervoer en het Reglement rijbewijzen in verband met de invoering van de boordcomputer taxi, de afschaffing van de vergunning voor collectief personenvervoer en een technische wijziging in verband met het elektronisch vervoerbewijs

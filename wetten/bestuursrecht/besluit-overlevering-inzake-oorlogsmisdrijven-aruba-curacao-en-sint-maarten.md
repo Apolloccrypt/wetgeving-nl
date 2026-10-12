@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0027536"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Koninklijk besluit van 16 juni 1954 houdende overlevering inzake oorlogsmisdrijven Nederlandse Antillen

@@ -9,7 +9,7 @@ laatste_update: 2021-06-23
 status: geldig
 toestand: 2021-06-23
 bron: "https://wetten.overheid.nl/BWBR0027744"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Besluit van de Minister van Economische Zaken van 7 juni 2010, nr. WJZ/10083738, houdende aanwijzing van het hoofd van het begeleidingsteam als bedoeld in artikel 12 van de Uitvoeringswet verdrag chemische wapens

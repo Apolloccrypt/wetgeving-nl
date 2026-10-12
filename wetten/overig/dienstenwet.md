@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0026759"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Wet van 12 november 2009 tot implementatie van Europese regelgeving betreffende het verkeer van diensten op de interne markt (Dienstenwet)

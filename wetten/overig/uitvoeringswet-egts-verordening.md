@@ -9,7 +9,7 @@ laatste_update: 2021-07-01
 status: geldig
 toestand: 2021-07-01
 bron: "https://wetten.overheid.nl/BWBR0026784"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Wet van 26 november 2009, houdende uitvoering van verordening (EG) nr. 1082/2006 van het Europees Parlement en de Raad van de Europese Unie van 5 juli 2006 betreffende een Europese groepering voor territoriale samenwerking (EGTS) (PbEU L 210) (Uitvoeringswet EGTS-verordening)

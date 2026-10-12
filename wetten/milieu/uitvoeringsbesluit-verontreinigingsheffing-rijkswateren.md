@@ -9,7 +9,7 @@ laatste_update: 2022-10-08
 status: geldig
 toestand: 2022-10-08
 bron: "https://wetten.overheid.nl/BWBR0026880"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van de Staatssecretaris van Verkeer en Waterstaat houdende een aanwijzing van ambtenaren van het Bureau verontreinigingsheffing rijkswateren voor bevoegdheden van de Algemene wet inzake rijksbelastingen (Uitvoeringsbesluit verontreinigingsheffing rijkswateren)

@@ -9,7 +9,7 @@ laatste_update: 2009-10-21
 status: geldig
 toestand: 2009-10-21
 bron: "https://wetten.overheid.nl/BWBR0026534"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van de Minister van Financiën d.d. 25 september 2009, nr. BenC 2008-2287 N, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archief van Agentschap van het Ministerie van Financiën met betrekking tot haar taken op het gebied van na-oorlogs rechtsherstel, over de periode 1943–1999

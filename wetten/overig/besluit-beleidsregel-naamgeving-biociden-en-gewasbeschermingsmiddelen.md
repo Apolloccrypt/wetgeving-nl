@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-10-02
 toestand: 2016-10-19
 bron: "https://wetten.overheid.nl/BWBR0038618"
-opgehaald: 2026-10-11
+opgehaald: 2026-10-12
 ---
 
 # Besluit beleidsregel naamgeving biociden en gewasbeschermingsmiddelen

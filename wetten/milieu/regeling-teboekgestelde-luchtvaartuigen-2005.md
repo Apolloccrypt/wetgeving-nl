@@ -8,7 +8,7 @@ laatste_update: 2006-11-24
 status: geldig
 toestand: 2006-11-24
 bron: "https://wetten.overheid.nl/BWBR0027604"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Regeling teboekgestelde luchtvaartuigen 2005

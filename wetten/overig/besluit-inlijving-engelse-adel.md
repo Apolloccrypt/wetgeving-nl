@@ -9,7 +9,7 @@ laatste_update: 1815-09-16
 status: geldig
 toestand: 1815-09-16
 bron: "https://wetten.overheid.nl/BWBR0026401"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Koninklijk besluit van 16 september 1815, no. 70, betreffende de inlijving van Engelse adel

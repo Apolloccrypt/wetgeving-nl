@@ -9,7 +9,7 @@ laatste_update: 2011-12-20
 status: geldig
 toestand: 2011-12-20
 bron: "https://wetten.overheid.nl/BWBR0027775"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister van Justitie van 19 april 2010, nr. DDS-nummer 5646604 inzake de vervanging van papieren door digitale personeelsdossiers (Regeling digitale vervanging personeelsdossiers Ministerie van Justitie 2010)

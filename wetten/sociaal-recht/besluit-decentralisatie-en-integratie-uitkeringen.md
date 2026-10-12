@@ -9,7 +9,7 @@ laatste_update: 2019-04-26
 status: geldig
 toestand: 2019-04-26
 bron: "https://wetten.overheid.nl/BWBR0027383"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van 22 februari 2010, houdende regels over de verdeling van diverse decentralisatie- en integratie-uitkeringen aan provincies en gemeenten (Besluit decentralisatie- en integratie-uitkeringen)

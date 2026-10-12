@@ -9,7 +9,7 @@ laatste_update: 2010-04-01
 status: geldig
 toestand: 2010-04-01
 bron: "https://wetten.overheid.nl/BWBR0026970"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van 23 december 2009, houdende aanpassing van het Uitvoeringsbesluit accijns

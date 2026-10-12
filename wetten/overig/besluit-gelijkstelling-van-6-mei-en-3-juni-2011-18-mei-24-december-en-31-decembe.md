@@ -9,7 +9,7 @@ laatste_update: 2010-06-18
 status: geldig
 toestand: 2010-06-18
 bron: "https://wetten.overheid.nl/BWBR0027755"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Besluit van 7 juni 2010, nr. 10.001566, houdende gelijkstelling van 6 mei en 3 juni 2011, 18 mei, 24 december en 31 december 2012 en 29 april, 10 mei en 27 december 2013 met een algemeen erkende feestdag

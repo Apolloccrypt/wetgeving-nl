@@ -8,7 +8,7 @@ laatste_update: 2010-06-10
 status: geldig
 toestand: 2010-06-10
 bron: "https://wetten.overheid.nl/BWBR0027730"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Besluit vervanging door zorgdrager

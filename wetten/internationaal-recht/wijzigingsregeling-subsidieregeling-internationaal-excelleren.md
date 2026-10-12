@@ -9,7 +9,7 @@ laatste_update: 2010-06-10
 status: geldig
 toestand: 2010-06-10
 bron: "https://wetten.overheid.nl/BWBR0027719"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister van Economische Zaken van 27 mei 2010, nr. WJZ/10080041, tot wijziging van de Subsidieregeling internationaal excelleren

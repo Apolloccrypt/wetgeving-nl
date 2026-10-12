@@ -9,7 +9,7 @@ laatste_update: 2010-03-24
 status: geldig
 toestand: 2010-03-24
 bron: "https://wetten.overheid.nl/BWBR0027403"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Wet van 15 maart 2010 tot harmonisatie van uitkeringsrechten van leden van de Tweede Kamer, wijzigingen in verband met de openbaarmaking van nevenfuncties en inkomsten uit nevenfuncties van leden van de Eerste en Tweede Kamer en leden van het Europees Parlement en enkele technische wijzigingen

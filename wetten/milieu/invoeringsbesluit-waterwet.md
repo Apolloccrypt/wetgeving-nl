@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0026839"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van 2 december 2009, houdende aanpassing van besluiten met het oog op de invoering van de Waterwet (Invoeringsbesluit Waterwet)

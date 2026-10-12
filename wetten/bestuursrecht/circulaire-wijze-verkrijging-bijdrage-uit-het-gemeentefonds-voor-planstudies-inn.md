@@ -9,7 +9,7 @@ laatste_update: 2009-11-12
 status: geldig
 toestand: 2009-11-12
 bron: "https://wetten.overheid.nl/BWBR0026617"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Circulaire van 2 november 2009, nr. DGM/K&L 2009060686, ter bekendmaking van de wijze van verkrijging van een bijdrage uit het Gemeentefonds voor planstudies op grond van het Innovatieprogramma Klimaatneutrale Steden (IKS)

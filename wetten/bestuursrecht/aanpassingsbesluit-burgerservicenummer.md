@@ -9,7 +9,7 @@ laatste_update: 2009-09-18
 status: geldig
 toestand: 2009-09-18
 bron: "https://wetten.overheid.nl/BWBR0026386"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van 2 september 2009, houdende aanpassing van enige algemene maatregelen van bestuur in verband met de invoering van het burgerservicenummer (Aanpassingsbesluit burgerservicenummer)

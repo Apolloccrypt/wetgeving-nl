@@ -9,7 +9,7 @@ laatste_update: 2010-01-01
 status: geldig
 toestand: 2010-01-01
 bron: "https://wetten.overheid.nl/BWBR0026694"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van de Minister van Justitie, houdende beperking van de openbaarheid van het archief van de Excessen in Indonesië, ressorterend onder het Ministerie van Justitie (1945–1969) (als bedoeld in artikel 10 van het Archiefbesluit 1995)

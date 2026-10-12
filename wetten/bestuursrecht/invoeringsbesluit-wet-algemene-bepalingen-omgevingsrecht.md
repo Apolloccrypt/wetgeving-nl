@@ -9,7 +9,7 @@ laatste_update: 2010-10-01
 status: geldig
 toestand: 2010-10-01
 bron: "https://wetten.overheid.nl/BWBR0027470"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van 25 maart 2010, houdende wijzigingen van diverse algemene maatregelen van bestuur in verband met de invoering van de Wet algemene bepalingen omgevingsrecht (Invoeringsbesluit Wet algemene bepalingen omgevingsrecht)

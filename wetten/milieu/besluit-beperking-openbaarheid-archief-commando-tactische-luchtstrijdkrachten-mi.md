@@ -9,7 +9,7 @@ laatste_update: 2009-10-02
 status: geldig
 toestand: 2009-10-02
 bron: "https://wetten.overheid.nl/BWBR0026455"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van de Minister van Defensie van 17 september 2009, nr. CDC/IVENT/DCDI/SSA 2009007645, houdende beperking van de openbaarheid van het archief van de Commando Tactische Luchtstrijdkrachten van het Ministerie van Defensie 1952–1979 (1997)

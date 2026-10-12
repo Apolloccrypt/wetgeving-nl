@@ -9,7 +9,7 @@ laatste_update: 2009-11-12
 status: geldig
 toestand: 2009-11-12
 bron: "https://wetten.overheid.nl/BWBR0026622"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 2 november 2009, nr. BV/TPD/2009/17708, tot het verlenen van machtiging aan P-Direkt

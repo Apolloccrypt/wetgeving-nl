@@ -9,7 +9,7 @@ laatste_update: 2009-12-09
 status: geldig
 toestand: 2009-12-09
 bron: "https://wetten.overheid.nl/BWBR0026790"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 27 november 2009, nr. VGP/VC 2971146, houdende aanwijzing van controleurs van de VROM-Inspectie als toezichthouders Warenwet (Warenwetregeling aanwijzing toezichthouders VROM-Inspectie)

@@ -9,7 +9,7 @@ laatste_update: 2009-10-02
 status: geldig
 toestand: 2009-10-02
 bron: "https://wetten.overheid.nl/BWBR0026462"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 23 september 2009, nr. R&P/RA/2009/17019, tot Instelling van een Comité van Experts subsidieregeling ESF 2007–2013/Actie E

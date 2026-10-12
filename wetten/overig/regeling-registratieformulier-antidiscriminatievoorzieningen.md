@@ -9,7 +9,7 @@ laatste_update: 2016-11-02
 status: geldig
 toestand: 2016-11-02
 bron: "https://wetten.overheid.nl/BWBR0027116"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 19 januari 2010, nr. 2010-0000023760, CZW/WSG, tot vaststelling van het registratieformulier voor klachten over discriminatie en intrekking van de Stimuleringsregeling professionalisering antidiscriminatiebureaus (ADB’s)

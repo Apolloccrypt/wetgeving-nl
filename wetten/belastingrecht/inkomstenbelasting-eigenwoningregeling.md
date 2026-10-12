@@ -8,7 +8,7 @@ laatste_update: 2022-11-09
 status: geldig
 toestand: 2022-11-09
 bron: "https://wetten.overheid.nl/BWBR0026751"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Inkomstenbelasting, eigenwoningregeling

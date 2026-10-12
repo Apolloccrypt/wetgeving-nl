@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0027113"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 8 januari 2010, nr. DL/A/182197, houdende regels voor aanvullende personele bekostiging voor de versterking van de functiemix van leraren in het voortgezet onderwijs in de Randstadregio’s 2010–2012 (Regeling versterking van functiemix leraren VO in de Randstadregio’s 2010–2012)

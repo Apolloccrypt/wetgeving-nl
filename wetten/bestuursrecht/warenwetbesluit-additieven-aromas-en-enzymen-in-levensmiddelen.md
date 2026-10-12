@@ -9,7 +9,7 @@ laatste_update: 2021-07-01
 status: geldig
 toestand: 2021-07-01
 bron: "https://wetten.overheid.nl/BWBR0026325"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van 19 augustus 2009, houdende regels in verband met verordeningen (EG) nrs. 1332/2008, 1333/2008 en 1334/2008 (Warenwetbesluit additieven, aroma's en enzymen in levensmiddelen)

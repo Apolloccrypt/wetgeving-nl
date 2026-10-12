@@ -9,7 +9,7 @@ laatste_update: 2009-11-01
 status: geldig
 toestand: 2009-11-01
 bron: "https://wetten.overheid.nl/BWBR0026446"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister van Volkshuishuisvesting, Ruimtelijke Ordening en Milieubeheer van 21 september 2009, Directie Bestuurlijke en Juridische Zaken, nr. BJZ2009051778, houdende wijziging van de Regeling EG-verordening overbrenging van afvalstoffen (borgsystematiek en vooraf goedgekeurde inrichtingen)

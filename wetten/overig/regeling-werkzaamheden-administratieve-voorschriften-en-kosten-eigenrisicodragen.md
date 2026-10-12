@@ -9,7 +9,7 @@ laatste_update: 2024-04-01
 status: geldig
 toestand: 2024-04-01
 bron: "https://wetten.overheid.nl/BWBR0027022"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 22 december 2009, IVV/I/09/27239, houdende regels inzake werkzaamheden, administratieve voorschriften en kosten eigenrisicodragen Ziektewet (Regeling werkzaamheden, administratieve voorschriften en kosten eigenrisicodragen ZW)

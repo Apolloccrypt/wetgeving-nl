@@ -9,7 +9,7 @@ laatste_update: 2010-06-19
 status: geldig
 toestand: 2010-06-19
 bron: "https://wetten.overheid.nl/BWBR0027766"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Instellingsbesluit begeleidingscommissie fenomeenonderzoek ernstige ordeverstoringen bij grootschalige evenementen en gebeurtenissen

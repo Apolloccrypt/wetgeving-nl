@@ -9,7 +9,7 @@ laatste_update: 2009-11-27
 status: geldig
 toestand: 2009-11-27
 bron: "https://wetten.overheid.nl/BWBR0026714"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Wet van 29 oktober 2009 tot wijziging van enkele wetten vanwege enige technische verbeterpunten en het vervallen van een bepaling in een wijzigingswet

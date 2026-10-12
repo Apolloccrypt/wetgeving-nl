@@ -9,7 +9,7 @@ laatste_update: 2009-11-18
 status: geldig
 toestand: 2009-11-18
 bron: "https://wetten.overheid.nl/BWBR0026642"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Beschikking van de minister van Justitie van 6 november 2009, nr. 5627198/09, houdende instelling van de taskforce aanpak kinderporno en kindersekstoerisme

@@ -9,7 +9,7 @@ laatste_update: 2009-12-31
 status: geldig
 toestand: 2009-12-31
 bron: "https://wetten.overheid.nl/BWBR0027009"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 17 december 2009, nr. HO&S/BS/2009/178032, inzake het controlebeleid Dienst Uitvoering Onderwijs op het uitwonend zijn van studerenden met een toelage ingevolge de Wet studiefinanciering 2000 op grond van artikel 11.5 Wet studiefinanciering 2000

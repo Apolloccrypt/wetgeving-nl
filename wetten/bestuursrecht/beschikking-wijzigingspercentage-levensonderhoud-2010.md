@@ -9,7 +9,7 @@ laatste_update: 2010-01-01
 status: geldig
 toestand: 2010-01-01
 bron: "https://wetten.overheid.nl/BWBR0026588"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Beschikking van de Minister van Justitie van 28 oktober 2009, nr. 5625586/09/6, tot vaststelling van het percentage waarmee de bedragen voor levensonderhoud met ingang van 1 januari 2010 worden verhoogd (Beschikking wijzigingspercentage levensonderhoud 2010)

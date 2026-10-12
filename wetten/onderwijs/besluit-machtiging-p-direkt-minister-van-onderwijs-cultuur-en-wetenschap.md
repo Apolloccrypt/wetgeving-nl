@@ -9,7 +9,7 @@ laatste_update: 2018-06-21
 status: geldig
 toestand: 2018-06-21
 bron: "https://wetten.overheid.nl/BWBR0026638"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 3 november 2009, nr. CO/BIC/P-DIR/154080, tot het verlenen van machtiging aan P-Direkt

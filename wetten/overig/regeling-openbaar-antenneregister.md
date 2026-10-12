@@ -9,7 +9,7 @@ laatste_update: 2013-03-15
 status: geldig
 toestand: 2013-03-15
 bron: "https://wetten.overheid.nl/BWBR0027031"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken van 17 december 2009, nr. WJZ/9226789, houdende nadere regels ten aanzien van het antenneregister (Regeling openbaar antenneregister)

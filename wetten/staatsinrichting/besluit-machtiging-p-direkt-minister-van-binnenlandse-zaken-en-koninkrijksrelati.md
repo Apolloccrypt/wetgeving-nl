@@ -8,7 +8,7 @@ laatste_update: 2010-02-19
 status: geldig
 toestand: 2010-02-19
 bron: "https://wetten.overheid.nl/BWBR0027255"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit machtiging P-Direkt (Minister van Binnenlandse Zaken en Koninkrijksrelaties)

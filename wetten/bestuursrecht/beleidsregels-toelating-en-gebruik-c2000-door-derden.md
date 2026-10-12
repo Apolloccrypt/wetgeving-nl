@@ -9,7 +9,7 @@ laatste_update: 2009-12-21
 status: geldig
 toestand: 2009-12-21
 bron: "https://wetten.overheid.nl/BWBR0026900"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Beleidsregels van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 2 december 2009, nr. DGV/DVB/VIT, over de toelating en het gebruik van het radiocommunicatienetwerk C2000 door derden.

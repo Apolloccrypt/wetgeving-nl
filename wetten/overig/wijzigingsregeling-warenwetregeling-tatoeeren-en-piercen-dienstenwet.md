@@ -9,7 +9,7 @@ laatste_update: 2009-12-07
 status: geldig
 toestand: 2009-12-07
 bron: "https://wetten.overheid.nl/BWBR0026888"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 14 december 2009, nr. VGP/VC 2976013, houdende wijziging van de Warenwetregeling tatoeëren en piercen in verband met de Dienstenwet

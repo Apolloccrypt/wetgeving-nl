@@ -9,7 +9,7 @@ laatste_update: 2010-02-26
 status: geldig
 toestand: 2010-02-26
 bron: "https://wetten.overheid.nl/BWBR0027287"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van de Minister van Economische Zaken van 17 februari 2010, nr. WJZ/9222263, houdende vaststelling van beleidsregels met betrekking tot de handhaving van splitsingsplannen door de Raad van bestuur van de Nederlandse mededingingsautoriteit (Beleidsregel handhaving splitsingsplannen)

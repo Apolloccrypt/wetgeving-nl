@@ -9,7 +9,7 @@ laatste_update: 2010-03-30
 status: geldig
 toestand: 2010-03-30
 bron: "https://wetten.overheid.nl/BWBR0027436"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit beperking van de openbaarheid van de archieven van de Bedrijfsvereniging voor de Leder- en Lederverwerkende Industrie en van de Bedrijfsvereniging voor de Horeca, Pension- en Aanverwante Bedrijven

@@ -9,7 +9,7 @@ laatste_update: 2010-01-01
 status: geldig
 toestand: 2010-01-01
 bron: "https://wetten.overheid.nl/BWBR0026703"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van de Minister van Justitie, houdende beperking van de openbaarheid van het archief betreffen het Koninklijk Huis ressorterend onder het Ministerie van Justitie 1816–1980 (als bedoeld in artikel 10 van het Archiefbesluit 1995)

@@ -8,7 +8,7 @@ laatste_update: 2009-10-18
 status: geldig
 toestand: 2009-10-18
 bron: "https://wetten.overheid.nl/BWBR0026519"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit instelling bezwarenadviescommissie personele aangelegenheden BZK

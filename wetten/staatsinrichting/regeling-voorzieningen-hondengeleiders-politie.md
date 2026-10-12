@@ -9,7 +9,7 @@ laatste_update: 2026-07-15
 status: geldig
 toestand: 2026-07-15
 bron: "https://wetten.overheid.nl/BWBR0027675"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 20 mei 2010, nr. DCB/CZW/WVOB 2010-0000225178, houdende bepalingen betreffende voorzieningen voor hondengeleiders bij de politie (Regeling voorzieningen hondengeleiders politie)

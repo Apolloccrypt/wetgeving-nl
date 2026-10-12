@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0027465"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Wet van 11 maart 2010 tot aanpassing van een aantal wetten aan de Wet veiligheidsregio’s en enkele wijzigingen in de Wet veiligheidsregio’s (Aanpassingswet veiligheidsregio’s)

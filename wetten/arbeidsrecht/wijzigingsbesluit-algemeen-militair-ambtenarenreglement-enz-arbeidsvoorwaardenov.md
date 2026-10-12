@@ -9,7 +9,7 @@ laatste_update: 2011-02-01
 status: geldig
 toestand: 2011-02-01
 bron: "https://wetten.overheid.nl/BWBR0027336"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van 8 februari 2010 tot vaststelling van een eenmalige uitkering 2009 en tot wijziging van enige besluiten in het kader van de arbeidsvoorwaardenovereenkomst voor de sector Defensie over de periode 1 maart 2009 tot en met 28 februari 2010

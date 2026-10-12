@@ -9,7 +9,7 @@ laatste_update: 2010-08-01
 status: geldig
 toestand: 2010-08-01
 bron: "https://wetten.overheid.nl/BWBR0027778"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport, OHW-U-3004891, houdende aanwijzing van de vestigingsplaats van de Pensioen- en Uitkeringsraad per 1 januari 2011

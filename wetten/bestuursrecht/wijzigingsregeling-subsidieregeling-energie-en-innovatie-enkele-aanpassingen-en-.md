@@ -9,7 +9,7 @@ laatste_update: 2010-05-19
 status: geldig
 toestand: 2010-05-19
 bron: "https://wetten.overheid.nl/BWBR0027645"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister van Economische Zaken van 10 mei 2010, nr. WJZ/10041241, houdende wijziging van de Subsidieregeling energie en innovatie in verband met enkele aanpassingen en het vaststellen van twee tenders

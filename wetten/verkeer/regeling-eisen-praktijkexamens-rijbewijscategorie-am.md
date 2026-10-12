@@ -9,7 +9,7 @@ laatste_update: 2010-03-01
 status: geldig
 toestand: 2010-03-01
 bron: "https://wetten.overheid.nl/BWBR0027266"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister van Verkeer en Waterstaat houdende vaststelling eisen praktijkexamens rijbewijscategorie AM (Regeling praktijkexamens rijbewijscategorie AM)

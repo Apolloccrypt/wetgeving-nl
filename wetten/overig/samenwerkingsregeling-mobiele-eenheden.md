@@ -9,7 +9,7 @@ laatste_update: 2017-03-18
 status: geldig
 toestand: 2017-03-18
 bron: "https://wetten.overheid.nl/BWBR0026720"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van 17 november 2009, houdende regels voor de samenwerking tussen de mobiele eenheden van de politie en de mobiele eenheden van de Koninklijke marechaussee (Samenwerkingsregeling mobiele eenheden)

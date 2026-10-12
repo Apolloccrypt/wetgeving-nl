@@ -9,7 +9,7 @@ laatste_update: 2010-01-01
 status: geldig
 toestand: 2010-01-01
 bron: "https://wetten.overheid.nl/BWBR0026718"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 19 november 2009, nr. OHW-U-2968696, houdende de vaststelling van het vrijstellingsbedrag inkomsten uit vermogen ingevolge de wetten voor verzetsdeelnemers en oorlogsgetroffenen per 1 januari 2010

@@ -9,7 +9,7 @@ laatste_update: 2011-07-01
 status: geldig
 toestand: 2011-07-01
 bron: "https://wetten.overheid.nl/BWBR0026562"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Wet van 15 oktober 2009 tot wijziging van de Wet op het financieel toezicht, het Burgerlijk Wetboek en de Wet inzake geldtransactiekantoren en intrekking van de Wet op het grensoverschrijdend betalingsverkeer ter implementatie van richtlijn nr. 2007/64/EG van het Europees Parlement en de Raad betreffende betalingsdiensten in de interne markt en tot wijziging van de Richtlijnen 97/7/EG, 2002/65/EG, 2005/60/EG en 2006/48/EG, en tot intrekking van Richtlijn 97/5/EG (PbEU L 319)

@@ -8,7 +8,7 @@ laatste_update: 2009-12-17
 status: geldig
 toestand: 2009-12-17
 bron: "https://wetten.overheid.nl/BWBR0026826"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Wijzigingsbesluit Beleidsregels grote rivieren

@@ -9,7 +9,7 @@ laatste_update: 2010-01-01
 status: geldig
 toestand: 2010-01-01
 bron: "https://wetten.overheid.nl/BWBR0026734"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Wet van 12 november 2009 tot wijziging van de Kaderwet financiële verstrekkingen Financiën, in verband met de verzekering door de Staat van handelsrisico’s en de verbetering van het risicobeheer

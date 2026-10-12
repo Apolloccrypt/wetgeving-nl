@@ -9,7 +9,7 @@ laatste_update: 2010-07-24
 status: geldig
 toestand: 2010-07-24
 bron: "https://wetten.overheid.nl/BWBR0026690"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister van Economische Zaken van 18 november 2009, nr. WJZ/9203919, tot aanwijzing van productie-installaties voor het opwekken van hernieuwbare elektriciteit met behulp van windenergie op zee als een subsidiabele categorie in het kader van de stimulering van duurzame energieproductie (Regeling windenergie op zee 2009)

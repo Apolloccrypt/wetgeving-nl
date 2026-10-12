@@ -9,7 +9,7 @@ laatste_update: 2010-02-04
 status: geldig
 toestand: 2010-02-04
 bron: "https://wetten.overheid.nl/BWBR0027144"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van 23 december 2009 tot wijziging van het Besluit personenvervoer 2000 in verband met de invoering van concessies voor het personenvervoer van en naar de Waddeneilanden Vlieland, Terschelling, Ameland en Schiermonnikoog

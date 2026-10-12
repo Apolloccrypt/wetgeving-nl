@@ -9,7 +9,7 @@ laatste_update: 2026-06-12
 status: geldig
 toestand: 2026-06-12
 bron: "https://wetten.overheid.nl/BWBR0027466"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Wet van 11 februari 2010, houdende bepalingen over de brandweerzorg, de rampenbestrijding, de crisisbeheersing en de geneeskundige hulpverlening (Wet veiligheidsregio’s)

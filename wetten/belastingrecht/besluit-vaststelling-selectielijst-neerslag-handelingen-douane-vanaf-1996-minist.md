@@ -8,7 +8,7 @@ laatste_update: 2010-05-05
 status: geldig
 toestand: 2010-05-05
 bron: "https://wetten.overheid.nl/BWBR0027610"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen Douane vanaf 1996 (minister van Financiën, ressort Belastingdienst)

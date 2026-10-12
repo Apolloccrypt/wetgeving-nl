@@ -9,7 +9,7 @@ laatste_update: 2012-01-01
 status: geldig
 toestand: 2012-01-01
 bron: "https://wetten.overheid.nl/BWBR0027348"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Staatssecretaris van Verkeer en Waterstaat houdende regels inzake de meldingsplicht bij voorvallen in de luchtvaart en de informatieplicht bij luchtvaartongevallen (Regeling meldings- en informatieplicht vervoer gevaarlijke stoffen door de lucht)

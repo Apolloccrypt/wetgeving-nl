@@ -9,7 +9,7 @@ laatste_update: 2010-04-01
 status: geldig
 toestand: 2010-04-01
 bron: "https://wetten.overheid.nl/BWBR0027455"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister voor Wonen, Wijken en Integratie van 26 maart 2010, nr. BJZ2010008982, houdende wijziging van de Uitvoeringsregeling huurprijzen woonruimte (regels in verband met de instelling van een landelijke huurcommissie)

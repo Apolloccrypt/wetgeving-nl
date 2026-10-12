@@ -9,7 +9,7 @@ laatste_update: 2010-09-01
 status: geldig
 toestand: 2010-09-01
 bron: "https://wetten.overheid.nl/BWBR0027618"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Wet van 22 april 2010 tot wijziging van de Wet op de Raad van State in verband met de herstructurering van de Raad van State

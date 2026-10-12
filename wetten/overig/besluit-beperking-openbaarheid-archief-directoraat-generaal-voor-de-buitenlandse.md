@@ -9,7 +9,7 @@ laatste_update: 2010-06-01
 status: geldig
 toestand: 2010-06-01
 bron: "https://wetten.overheid.nl/BWBR0027690"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Besluit van het Ministerie van Economische Zaken te Den Haag van 17 mei 2010, nr. DBV/10062025, houdende beperking van de openbaarheid van het archief Directoraat-Generaal voor de Buitenlandse Economische Betrekkingen (1949) 1976–1983 (1986) (als bedoeld in artikel 10 van het archiefbesluit 1995)

@@ -9,7 +9,7 @@ laatste_update: 2009-09-11
 status: geldig
 toestand: 2009-09-11
 bron: "https://wetten.overheid.nl/BWBR0026352"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van 21 augustus 2009, houdende toekenning van een standaard aan het Korps landelijke politiediensten

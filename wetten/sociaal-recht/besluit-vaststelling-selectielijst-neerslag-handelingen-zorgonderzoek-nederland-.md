@@ -8,7 +8,7 @@ laatste_update: 2009-10-08
 status: geldig
 toestand: 2009-10-08
 bron: "https://wetten.overheid.nl/BWBR0026472"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen Zorgonderzoek Nederland beleidsterrein Volksgezondheidsubsidies vanaf 1995 tot 2001

@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0027063"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling houdende uitvoering voor de Nederlandse Antillen van artikel 276, zesde lid, van het Vissersvaartuigenbesluit (Regeling wachtalarminstallatie voor de Nederlandse Antillen)

@@ -8,7 +8,7 @@ laatste_update: 2018-12-18
 status: geldig
 toestand: 2018-12-18
 bron: "https://wetten.overheid.nl/BWBR0026373"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Inkomstenbelasting, schenk- en erfbelasting; diverse tegemoetkomingen bij bijzondere gebeurtenissen

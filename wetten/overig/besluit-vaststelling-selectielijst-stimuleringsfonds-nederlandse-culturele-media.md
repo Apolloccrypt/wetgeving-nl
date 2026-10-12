@@ -8,7 +8,7 @@ laatste_update: 2009-10-21
 status: geldig
 toestand: 2009-10-21
 bron: "https://wetten.overheid.nl/BWBR0026521"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit vaststelling selectielijst Stimuleringsfonds Nederlandse Culturele Mediaproducties (Mediafonds) vanaf 1988

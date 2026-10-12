@@ -8,7 +8,7 @@ laatste_update: 2010-01-27
 status: geldig
 toestand: 2010-01-27
 bron: "https://wetten.overheid.nl/BWBR0027105"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Selectielijst neerslag handelingen Koninklijke Beroepsorganisatie voor Gerechtsdeurwaarders beleidsterrein Gerechtsdeurwaarders vanaf 2001

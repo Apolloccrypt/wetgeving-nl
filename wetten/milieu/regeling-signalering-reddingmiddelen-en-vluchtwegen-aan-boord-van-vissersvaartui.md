@@ -8,7 +8,7 @@ laatste_update: 1995-11-23
 status: geldig
 toestand: 1995-11-23
 bron: "https://wetten.overheid.nl/BWBR0027062"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling signalering reddingmiddelen en vluchtwegen aan boord van vissersvaartuigen

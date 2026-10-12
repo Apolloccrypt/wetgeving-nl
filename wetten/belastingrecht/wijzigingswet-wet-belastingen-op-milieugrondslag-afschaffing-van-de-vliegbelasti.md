@@ -9,7 +9,7 @@ laatste_update: 2009-12-30
 status: geldig
 toestand: 2009-12-30
 bron: "https://wetten.overheid.nl/BWBR0026964"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Wet van 23 december 2009 tot wijziging van de Wet belastingen op milieugrondslag in verband met de afschaffing van de vliegbelasting

@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0027053"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Wet van 17 december 2009 tot wijziging van het Wetboek van Strafvordering en het Wetboek van Strafrecht ter versterking van de positie van het slachtoffer in het strafproces

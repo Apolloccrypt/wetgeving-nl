@@ -9,7 +9,7 @@ laatste_update: 2010-01-01
 status: geldig
 toestand: 2010-01-01
 bron: "https://wetten.overheid.nl/BWBR0026695"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van de Minister van Justitie, houdende beperking van de openbaarheid van het semi-ambtelijk archief van de minister van Justitie, I. Samkalden (1940) 1956–1966 (als bedoeld in artikel 10 van het Archiefbesluit 1995)

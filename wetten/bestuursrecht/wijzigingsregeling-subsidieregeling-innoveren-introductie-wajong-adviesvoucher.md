@@ -9,7 +9,7 @@ laatste_update: 2010-09-14
 status: geldig
 toestand: 2010-09-14
 bron: "https://wetten.overheid.nl/BWBR0026963"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 17 december 2009, nr. R&P/RPA/2009/28483, tot wijziging van de Subsidieregeling innoveren in verband met de introductie van de Wajong adviesvoucher

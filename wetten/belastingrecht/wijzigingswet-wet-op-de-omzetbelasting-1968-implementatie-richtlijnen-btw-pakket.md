@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0026833"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Wet van 3 december 2009 tot wijziging van de Wet op de omzetbelasting 1968 in verband met de invoering van een nieuwe regeling voor de plaats van dienst voor de heffing van omzetbelasting, alsmede een nieuwe regeling voor de teruggaaf van omzetbelasting aan in een andere lidstaat gevestigde ondernemers (implementatie richtlijnen BTW-pakket)

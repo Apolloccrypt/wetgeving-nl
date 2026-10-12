@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0027352"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Onderlinge regeling tussen Curaçao, Sint Maarten en Nederland, zoals bedoeld in artikel 38, eerste lid, van het Statuut voor het Koninkrijk der Nederlanden, regelende de samenwerking tussen de landen op het gebied van de vreemdelingenketen

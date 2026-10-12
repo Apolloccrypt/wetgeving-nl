@@ -9,7 +9,7 @@ laatste_update: 2009-12-02
 status: geldig
 toestand: 2009-12-02
 bron: "https://wetten.overheid.nl/BWBR0026724"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Wet van 9 november 2009, houdende regels met betrekking tot een wettelijke grondslag voor de brede doeluitkering sociaal, integratie en veiligheid (Wet wettelijke grondslag bdu siv)

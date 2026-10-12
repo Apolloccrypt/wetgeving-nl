@@ -8,7 +8,7 @@ laatste_update: 2024-07-01
 status: geldig
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0027517"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Regeling massale gegevensverstrekking uit de kadastrale registratie 1994

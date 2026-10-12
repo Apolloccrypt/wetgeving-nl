@@ -9,7 +9,7 @@ laatste_update: 2026-06-13
 status: geldig
 toestand: 2026-06-13
 bron: "https://wetten.overheid.nl/BWBR0027093"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister van Justitie van 5 januari 2010, nr. 5636246/10, houdende vaststelling van de hoogte van de onkostenvergoeding als bedoeld in het Besluit rechtspositie leden gerechtsbesturen en Raad voor de rechtspraak (Regeling indexering onkostenvergoeding leden gerechtsbesturen en Raad voor de rechtspraak)

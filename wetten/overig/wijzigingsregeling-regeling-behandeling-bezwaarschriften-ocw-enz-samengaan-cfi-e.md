@@ -9,7 +9,7 @@ laatste_update: 2010-04-01
 status: geldig
 toestand: 2010-04-01
 bron: "https://wetten.overheid.nl/BWBR0027459"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 25 maart 2010, nr. WJZ/176918 (8276), houdende wijziging van de Regeling behandeling bezwaarschriften OCW in verband met het samengaan van CFI en de IB-Groep tot de Dienst Uitvoering Onderwijs alsmede wijziging van de Regeling vaste vergoeding voorzitters Commissie voor bezwaarschriften OCW

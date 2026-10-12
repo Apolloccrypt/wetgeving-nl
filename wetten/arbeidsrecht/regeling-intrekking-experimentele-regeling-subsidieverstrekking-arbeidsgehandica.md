@@ -9,7 +9,7 @@ laatste_update: 2009-10-01
 status: geldig
 toestand: 2009-10-01
 bron: "https://wetten.overheid.nl/BWBR0026449"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 23 september 2009, nr. R&P/RA/09/20961, tot intrekking van de Experimentele regeling subsidieverstrekking arbeidsgehandicapten

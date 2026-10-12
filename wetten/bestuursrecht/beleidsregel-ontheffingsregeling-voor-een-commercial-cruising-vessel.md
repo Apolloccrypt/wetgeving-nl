@@ -8,7 +8,7 @@ laatste_update: 2004-04-06
 status: geldig
 toestand: 2004-04-06
 bron: "https://wetten.overheid.nl/BWBR0027553"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Beleidsregel ontheffingsregeling voor een Commercial Cruising Vessel

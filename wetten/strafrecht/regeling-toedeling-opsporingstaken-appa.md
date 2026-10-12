@@ -9,7 +9,7 @@ laatste_update: 2010-02-13
 status: geldig
 toestand: 2010-02-13
 bron: "https://wetten.overheid.nl/BWBR0027181"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 2 februari 2010, nr. CZW/WVOB 2009-0000745684, tot het opdragen van opsporingstaken die samenhangen met de uitkeringen krachtens de Algemene pensioenwet politieke ambtsdragers en enige andere wetten aan de Sociale Inlichtingen- en Opsporingsdienst (Regeling toedeling opsporingstaken Appa)

@@ -9,7 +9,7 @@ laatste_update: 2010-03-18
 status: geldig
 toestand: 2010-03-18
 bron: "https://wetten.overheid.nl/BWBR0027014"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Wijzigingsregeling enige fiscale uitvoeringsregelingen

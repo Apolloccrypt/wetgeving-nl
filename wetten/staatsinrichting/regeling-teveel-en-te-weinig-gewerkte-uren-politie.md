@@ -9,7 +9,7 @@ laatste_update: 2025-04-01
 status: geldig
 toestand: 2025-04-01
 bron: "https://wetten.overheid.nl/BWBR0026670"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 11 november 2009, nr. 2009-0000635138, houdende regels over te veel en te weinig gewerkte uren voor de politie (Regeling te veel en te weinig gewerkte uren politie)

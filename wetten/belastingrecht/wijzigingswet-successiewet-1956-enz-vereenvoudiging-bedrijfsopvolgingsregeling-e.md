@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0026937"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Wet van 17 december 2009 tot wijziging van de Successiewet 1956 en enige andere belastingwetten (vereenvoudiging bedrijfsopvolgingsregeling en herziening tariefstructuur in de Successiewet 1956, alsmede introductie van een regeling voor afgezonderd particulier vermogen in de Wet inkomstenbelasting 2001 en de Successiewet 1956)

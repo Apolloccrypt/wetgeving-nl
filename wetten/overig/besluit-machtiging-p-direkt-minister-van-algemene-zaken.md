@@ -9,7 +9,7 @@ laatste_update: 2009-10-21
 status: geldig
 toestand: 2009-10-21
 bron: "https://wetten.overheid.nl/BWBR0026523"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van de Minister van Algemene Zaken van 17 september 2009, nr. 3457336, tot het verlenen van machtiging aan P-Direkt

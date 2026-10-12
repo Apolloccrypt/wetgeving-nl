@@ -9,7 +9,7 @@ laatste_update: 2010-04-13
 status: geldig
 toestand: 2010-04-13
 bron: "https://wetten.overheid.nl/BWBR0027484"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Besluit van de Minister voor Wonen, Wijken en Integratie van 30 maart 2010, nr. DDS2010010102, tot het verlenen van mandaat, volmacht en machtiging ter uitvoering van de Tijdelijke stimuleringsregeling inburgering op de werkvloer

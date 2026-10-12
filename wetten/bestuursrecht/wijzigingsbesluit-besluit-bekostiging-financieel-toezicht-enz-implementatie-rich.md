@@ -9,7 +9,7 @@ laatste_update: 2009-11-01
 status: geldig
 toestand: 2009-11-01
 bron: "https://wetten.overheid.nl/BWBR0026560"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van 23 oktober 2009 tot wijziging van het Besluit bekostiging financieel toezicht, het Besluit bestuurlijke boetes financiële sector, het Besluit Markttoegang financiële ondernemingen Wft, het Besluit prudentiële regels Wft, het Besluit prudentieel toezicht financiële groepen Wft en het Besluit Gedragstoezicht financiële ondernemingen Wft ter implementatie van richtlijn 2007/64/EG van het Europees Parlement en de Raad van de Europese Unie van 13 november 2007 betreffende betalingsdiensten in de interne markt tot wijziging van de Richtlijnen 97/7/EG, 2002/65/EG, 2006/48/EG, en tot intrekking van Richtlijn 97/5/EG

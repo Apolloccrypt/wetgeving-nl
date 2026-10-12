@@ -9,7 +9,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0027098"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Wet van 19 november 2009 tot wijziging van de Kernenergiewet in verband met vereenvoudiging van het bevoegd gezag, invoering van een verplichting tot financiële zekerheidstelling en enkele andere wijzigingen

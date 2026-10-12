@@ -9,7 +9,7 @@ laatste_update: 2009-12-15
 status: geldig
 toestand: 2009-12-15
 bron: "https://wetten.overheid.nl/BWBR0026807"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport en de Minister voor Jeugd en Gezin van 1 december 2009, nr. IZ 2971712, houdende verlening van mandaat, volmacht en machtiging aan de gezant voor de BES-eilanden, Bonaire, St. Eustatius en Saba

@@ -9,7 +9,7 @@ laatste_update: 2025-08-14
 status: geldig
 toestand: 2025-08-14
 bron: "https://wetten.overheid.nl/BWBR0026901"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister van Verkeer en Waterstaat, houdende regels omtrent erkenning en toezicht op erkende instanties inzake het vervoer van gevaarlijke stoffen (Regeling erkende instanties vervoer gevaarlijke stoffen)

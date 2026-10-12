@@ -9,7 +9,7 @@ laatste_update: 2010-01-01
 status: geldig
 toestand: 2010-01-01
 bron: "https://wetten.overheid.nl/BWBR0026815"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister van Justitie van 4 december 2009, nr. 5620763/09, houdende verlening van mandaat, volmacht en machtiging aan de voorzitter van het College gerechtelijk deskundigen ten aanzien van de aangelegenheden die het beheer van het bureau van het Nederlands Register Gerechtelijk Deskundigen betreffen (Mandaatregeling beheer bureau NRGD)

@@ -8,7 +8,7 @@ laatste_update: 2010-02-18
 status: geldig
 toestand: 2010-02-18
 bron: "https://wetten.overheid.nl/BWBR0027230"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Instellingsbesluit Consultatief Orgaan Fries 2010

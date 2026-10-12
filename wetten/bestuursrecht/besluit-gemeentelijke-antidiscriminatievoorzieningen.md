@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0026353"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van 25 augustus 2009, houdende regels betreffende de inrichting van en de onafhankelijke bijstandsverlening door antidiscriminatievoorzieningen alsmede de verslaglegging over de door de antidiscriminatievoorziening geregistreerde klachten door gemeenten (Besluit gemeentelijke antidiscriminatievoorzieningen)

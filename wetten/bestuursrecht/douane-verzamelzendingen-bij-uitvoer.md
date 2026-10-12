@@ -8,7 +8,7 @@ laatste_update: 2009-12-15
 status: geldig
 toestand: 2009-12-15
 bron: "https://wetten.overheid.nl/BWBR0026808"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Douane, verzamelzendingen bij uitvoer

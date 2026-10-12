@@ -9,7 +9,7 @@ laatste_update: 2014-07-01
 status: geldig
 toestand: 2014-07-01
 bron: "https://wetten.overheid.nl/BWBR0026710"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Wet van 9 november 2009 tot intrekking van enige wetten betreffende het waterbeheer, aanpassing van een aantal andere wetten, regeling van het overgangsrecht en aanvulling van de Waterwet, met het oog op de invoering van die wet (Invoeringswet Waterwet)

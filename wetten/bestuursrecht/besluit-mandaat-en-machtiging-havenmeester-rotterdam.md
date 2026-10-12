@@ -8,7 +8,7 @@ laatste_update: 2012-03-24
 status: geldig
 toestand: 2012-03-24
 bron: "https://wetten.overheid.nl/BWBR0027607"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Besluit mandaat en machtiging havenmeester Rotterdam

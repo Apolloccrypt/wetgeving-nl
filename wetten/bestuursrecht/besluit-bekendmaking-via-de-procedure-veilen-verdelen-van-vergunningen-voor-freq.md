@@ -9,7 +9,7 @@ laatste_update: 2009-10-28
 status: geldig
 toestand: 2009-10-28
 bron: "https://wetten.overheid.nl/BWBR0026544"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van de Staatssecretaris van Economische Zaken van 18 oktober 2009, nr. WJZ/9154325, houdende bekendmaking van het via de procedure van veilen verdelen van vergunningen voor frequentieruimte in de 2,6 GHz-band

@@ -9,7 +9,7 @@ laatste_update: 2021-07-06
 status: geldig
 toestand: 2021-07-06
 bron: "https://wetten.overheid.nl/BWBR0027038"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 17 december 2009, nr. HO&S/BS/2009/178048, inzake de ‘Buiteninvorderingstelling lesgeld asielzoekers en bepaalde categorieën vreemdelingen’ op grond van artikel 9b Les- en cursusgeldwet (LCW) is bestemd voor asielzoekers en bepaalde categorieën vreemdelingen, die lesgeld dienen te betalen en voor buiteninvorderingstelling hiervan in aanmerking willen komen

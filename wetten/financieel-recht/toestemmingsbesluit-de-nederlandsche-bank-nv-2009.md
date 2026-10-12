@@ -9,7 +9,7 @@ laatste_update: 2009-12-09
 status: geldig
 toestand: 2009-12-09
 bron: "https://wetten.overheid.nl/BWBR0026782"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van 23 november 2009, houdende toestemming aan De Nederlandsche Bank N.V. tot het verrichten van voorbereidende werkzaamheden ten behoeve van de invoering van de US dollar als munteenheid van de openbare lichamen Bonaire, Sint Eustatius en Saba (Toestemmingsbesluit De Nederlandsche Bank N.V. 2009)

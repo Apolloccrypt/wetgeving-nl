@@ -8,7 +8,7 @@ laatste_update: 2009-05-09
 status: geldig
 toestand: 2009-05-09
 bron: "https://wetten.overheid.nl/BWBR0026366"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Huishoudelijk reglement van de Stichting Fonds voor Cultuurparticipatie

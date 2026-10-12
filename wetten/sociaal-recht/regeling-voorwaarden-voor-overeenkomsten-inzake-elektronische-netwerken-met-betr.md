@@ -8,7 +8,7 @@ laatste_update: 2009-12-25
 status: geldig
 toestand: 2009-12-25
 bron: "https://wetten.overheid.nl/BWBR0026950"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling voorwaarden voor overeenkomsten inzake elektronische netwerken met betrekking tot zorg

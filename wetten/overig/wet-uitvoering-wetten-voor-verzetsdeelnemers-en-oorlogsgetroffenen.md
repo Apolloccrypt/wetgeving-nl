@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0027660"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Wet van 15 april 2010, houdende regeling van de uitvoering van de wetten voor verzetsdeelnemers en oorlogsgetroffenen door de Pensioen- en Uitkeringsraad en de Sociale verzekeringsbank (Wet uitvoering wetten voor verzetsdeelnemers en oorlogsgetroffenen)

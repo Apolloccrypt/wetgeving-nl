@@ -9,7 +9,7 @@ laatste_update: 2011-07-01
 status: geldig
 toestand: 2011-07-01
 bron: "https://wetten.overheid.nl/BWBR0026911"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de minister van Financiën tot wijziging van een aantal ministeriële regelingen op het terrein van de financiële markten (Wijzigingsregeling financiële markten 2010)

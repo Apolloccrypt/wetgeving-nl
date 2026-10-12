@@ -8,7 +8,7 @@ laatste_update: 2022-10-28
 status: geldig
 toestand: 2022-10-28
 bron: "https://wetten.overheid.nl/BWBR0027614"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Mandaatregeling Defensie Wet vervoer gevaarlijke stoffen 2010

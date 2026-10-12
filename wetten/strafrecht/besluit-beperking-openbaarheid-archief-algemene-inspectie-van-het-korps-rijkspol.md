@@ -9,7 +9,7 @@ laatste_update: 2009-11-01
 status: geldig
 toestand: 2009-11-01
 bron: "https://wetten.overheid.nl/BWBR0026324"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van de Minister van Justitie, houdende beperking van de openbaarheid van het archief van de Algemene Inspectie van het Korps Rijkspolitie van het Ministerie van Justitie (1945–1992) (als bedoeld in artikel 10 van het Archiefbesluit 1995)

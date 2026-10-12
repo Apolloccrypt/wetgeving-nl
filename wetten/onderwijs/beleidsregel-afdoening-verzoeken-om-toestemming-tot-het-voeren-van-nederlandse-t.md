@@ -9,7 +9,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0027029"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 17 december 2009, nr. HO&S/BS/2009/177909, inzake de afdoening van verzoeken om toestemming tot het voeren van Nederlandse titulatuur op grond van een in het buitenland behaalde graad als bedoeld in artikel 7.23 derde lid van de Wet op het hoger onderwijs en het wetenschappelijk onderzoek (WHW)

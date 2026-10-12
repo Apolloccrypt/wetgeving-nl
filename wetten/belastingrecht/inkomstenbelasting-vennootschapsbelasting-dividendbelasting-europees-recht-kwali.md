@@ -8,7 +8,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0026887"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Inkomstenbelasting, vennootschapsbelasting, dividendbelasting, Europees recht, kwalificatie rechtsvormen

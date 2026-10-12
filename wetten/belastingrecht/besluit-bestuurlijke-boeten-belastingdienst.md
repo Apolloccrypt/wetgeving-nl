@@ -8,7 +8,7 @@ laatste_update: 2026-08-08
 status: geldig
 toestand: 2026-08-08
 bron: "https://wetten.overheid.nl/BWBR0038145"
-opgehaald: 2026-10-11
+opgehaald: 2026-10-12
 ---
 
 # Besluit Bestuurlijke Boeten Belastingdienst

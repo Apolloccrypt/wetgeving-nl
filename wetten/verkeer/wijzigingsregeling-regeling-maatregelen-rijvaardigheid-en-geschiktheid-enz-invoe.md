@@ -9,7 +9,7 @@ laatste_update: 2010-03-01
 status: geldig
 toestand: 2010-03-01
 bron: "https://wetten.overheid.nl/BWBR0027272"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling tot wijziging van enkele ministeriële regelingen in verband met de invoering van een praktijkexamen voor de rijbewijscategorie AM

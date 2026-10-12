@@ -9,7 +9,7 @@ laatste_update: 2009-12-19
 status: geldig
 toestand: 2009-12-19
 bron: "https://wetten.overheid.nl/BWBR0026851"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van de minister van Verkeer en Waterstaat tot het verlenen van machtiging aan P-Direkt

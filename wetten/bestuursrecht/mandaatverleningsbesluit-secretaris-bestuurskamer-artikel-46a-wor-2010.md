@@ -9,7 +9,7 @@ laatste_update: 2010-01-02
 status: geldig
 toestand: 2010-01-02
 bron: "https://wetten.overheid.nl/BWBR0027526"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Besluit van de Bestuurskamer van 28 december 2009, houdende mandatering aan de secretaris van de Bestuurskamer van de bevoegdheden van de Bestuurskamer in het kader van de heffing op grond van artikel 46a van de Wet op de ondernemingsraden (Mandaatverleningsbesluit secretaris Bestuurskamer artikel 46a WOR 2010)

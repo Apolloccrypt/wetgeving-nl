@@ -9,7 +9,7 @@ laatste_update: 2010-01-01
 status: geldig
 toestand: 2010-01-01
 bron: "https://wetten.overheid.nl/BWBR0026778"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 1 december 2009, nr. ZF-2971027, houdende vaststelling van de standaardpremie 2010 (Regeling vaststelling standaardpremie 2010)

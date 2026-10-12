@@ -9,7 +9,7 @@ laatste_update: 2009-10-01
 status: geldig
 toestand: 2009-10-01
 bron: "https://wetten.overheid.nl/BWBR0026376"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van 4 september 2009, houdende aanpassing van de bijlage bij het Besluit proceskosten bestuursrecht in verband met de indexering van bedragen in die bijlage

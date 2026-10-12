@@ -9,7 +9,7 @@ laatste_update: 2011-05-22
 status: geldig
 toestand: 2011-05-22
 bron: "https://wetten.overheid.nl/BWBR0027562"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Verordening van het bestuur van het Productschap Tuinbouw, d.d. 26 januari 2010 houdende de vaststelliing van algernene bepalingen die gelden ten aanzen van het productschap (Verordening PT algemene bepalingen 2009)

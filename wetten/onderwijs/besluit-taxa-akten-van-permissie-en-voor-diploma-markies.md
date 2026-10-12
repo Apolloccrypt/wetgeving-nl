@@ -9,7 +9,7 @@ laatste_update: 1827-04-04
 status: geldig
 toestand: 1827-04-04
 bron: "https://wetten.overheid.nl/BWBR0026403"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Koninklijk besluit van 4 april 1827, no. 169, betreffende taxa voor akten van permissie en voor diploma van markies

@@ -9,7 +9,7 @@ laatste_update: 2010-04-09
 status: geldig
 toestand: 2010-04-09
 bron: "https://wetten.overheid.nl/BWBR0027478"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Besluit van de Minister van Economische Zaken van 26 maart 2010, nr. WJZ/10046563 tot aanwijzing van het contactpunt in de zin van artikel 55 van de Dienstenwet in het kader van de administratieve samenwerking op grond van de dienstenrichtlijn (Aanwijzingsbesluit contactpunt administratieve samenwerking dienstenrichtlijn)

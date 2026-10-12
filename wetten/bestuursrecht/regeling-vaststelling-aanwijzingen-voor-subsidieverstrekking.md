@@ -9,7 +9,7 @@ laatste_update: 2012-07-01
 status: geldig
 toestand: 2012-07-01
 bron: "https://wetten.overheid.nl/BWBR0027023"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister-President, Minister van Algemene Zaken, van 15 december 2009, nr. 3086451, houdende vaststelling van Aanwijzingen voor subsidieverstrekking

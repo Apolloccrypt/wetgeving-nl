@@ -9,7 +9,7 @@ laatste_update: 2017-09-08
 status: geldig
 toestand: 2017-09-08
 bron: "https://wetten.overheid.nl/BWBR0027347"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van 9 februari 2010 tot wijziging van het Besluit voorkoming verontreiniging door schepen in verband met de implementatie van het Ballastwaterverdrag en de herziene Bijlage VI van het MARPOL-verdrag

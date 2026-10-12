@@ -9,7 +9,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0027041"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 15 december 2009, nr. WJZ/178205 (8189), met betrekking tot de duurzaamheid en de geordende en toegankelijke staat van archiefbescheiden en de bouw en inrichting van archiefruimten en archiefbewaarplaatsen (Archiefregeling)

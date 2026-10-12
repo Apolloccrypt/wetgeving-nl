@@ -9,7 +9,7 @@ laatste_update: 2009-12-01
 status: geldig
 toestand: 2009-12-01
 bron: "https://wetten.overheid.nl/BWBR0026637"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van 31 oktober 2009 tot wijziging van een aantal socialezekerheidsbesluiten, het Besluit inburgering en het Uitvoeringsbesluit loonbelasting 1965 in verband met de Wet inkomensvoorziening oudere werklozen (Aanpassingsbesluit IOW)

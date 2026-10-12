@@ -9,7 +9,7 @@ laatste_update: 2010-01-22
 status: geldig
 toestand: 2010-01-22
 bron: "https://wetten.overheid.nl/BWBR0027104"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van de Minister-President, Minister van Algemene Zaken, voor deze de secretaris-generaal van het ministerie van Algemene Zaken, en de Minister van Onderwijs, Cultuur en Wetenschap, voor deze de Algemene Rijksarchivaris, d.d. 18 januari 2010, houdende beperking van de openbaarheid van bescheiden uit het in 2003 naar het Nationaal Archief overgebrachte archief van het Ministerie voor Algemeene Oorlogvoering van het Koninkrijk (1942–1946), het Kabinet van de Minister-President (1946–1947) en het Ministerie van Algemene Zaken, Kabinet van de Minister-President (1947–heden), over het tijdvak (1924)1942–1979 (1989)

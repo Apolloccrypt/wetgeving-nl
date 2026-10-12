@@ -9,7 +9,7 @@ laatste_update: 2016-04-01
 status: geldig
 toestand: 2016-04-01
 bron: "https://wetten.overheid.nl/BWBR0027509"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 30 maart 2010, nr. IVV/FB/10/6483, tot vaststelling van de vergoeding van de voorzitter en de leden van de Toetsingscommissie Wet werk en bijstand

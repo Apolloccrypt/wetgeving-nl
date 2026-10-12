@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0026381"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling houdende bepalingen over de organisatie en inzet van de Dienst speciale interventies (Regeling Dienst speciale interventies)

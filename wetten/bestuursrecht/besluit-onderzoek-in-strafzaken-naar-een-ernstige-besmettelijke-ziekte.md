@@ -9,7 +9,7 @@ laatste_update: 2020-04-24
 status: geldig
 toestand: 2020-04-24
 bron: "https://wetten.overheid.nl/BWBR0027394"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van 8 maart 2010, houdende regels over het strafvorderlijk onderzoek naar besmetting met een ernstige besmettelijke ziekte en fylogenetisch onderzoek (Besluit bloedtest in strafzaken in geval van een ernstige besmettelijke ziekte)

@@ -9,7 +9,7 @@ laatste_update: 2009-12-23
 status: geldig
 toestand: 2009-12-23
 bron: "https://wetten.overheid.nl/BWBR0026821"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Wet van 26 november 2009, houdende regeling voor aanpassing van bedragen in de Wet op het kindgebonden budget en niet-indexering van kinderbijslagbedragen en bedragen kindgebonden budget in de jaren 2010 en 2011

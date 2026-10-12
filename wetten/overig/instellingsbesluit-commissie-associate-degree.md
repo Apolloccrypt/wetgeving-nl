@@ -9,7 +9,7 @@ laatste_update: 2009-12-02
 status: geldig
 toestand: 2009-12-02
 bron: "https://wetten.overheid.nl/BWBR0026738"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 17 november 2009, nr. HO&S/BL/165742, houdende instelling van de Commissie Associate degree (Instellingsbesluit Commissie Associate degree)

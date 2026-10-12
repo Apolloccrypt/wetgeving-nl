@@ -9,7 +9,7 @@ laatste_update: 2010-07-01
 status: geldig
 toestand: 2010-07-01
 bron: "https://wetten.overheid.nl/BWBR0027609"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 27 april 2010, nr. 127697 houdende de benoeming en de vaststelling van een vergoeding voor de voorzitter en leden van de Adviescommissie Bioraffinage

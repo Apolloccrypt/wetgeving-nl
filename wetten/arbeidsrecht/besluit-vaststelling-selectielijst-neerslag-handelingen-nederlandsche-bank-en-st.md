@@ -8,7 +8,7 @@ laatste_update: 2010-01-13
 status: geldig
 toestand: 2010-01-13
 bron: "https://wetten.overheid.nl/BWBR0027052"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen Nederlandsche Bank en Stichting Pensioen en Verzekeringskamer 1923–2004

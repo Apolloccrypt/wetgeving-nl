@@ -9,7 +9,7 @@ laatste_update: 2010-07-07
 status: geldig
 toestand: 2010-07-07
 bron: "https://wetten.overheid.nl/BWBR0027473"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Wet van 18 maart 2010 tot wijziging van de Wet luchtvaart en enkele andere wetten, houdende diverse wijzigingen met betrekking tot de luchtvaart

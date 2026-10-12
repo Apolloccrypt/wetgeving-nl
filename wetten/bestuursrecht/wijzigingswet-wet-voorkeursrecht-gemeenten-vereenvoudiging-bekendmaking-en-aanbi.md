@@ -9,7 +9,7 @@ laatste_update: 2010-07-01
 status: geldig
 toestand: 2010-07-01
 bron: "https://wetten.overheid.nl/BWBR0027548"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Wet van 18 maart 2010 tot wijziging van de Wet voorkeursrecht gemeenten (vereenvoudiging bekendmaking en aanbiedingsprocedure)

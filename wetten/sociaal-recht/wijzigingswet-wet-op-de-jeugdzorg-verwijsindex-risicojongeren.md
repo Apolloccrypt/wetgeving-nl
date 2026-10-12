@@ -9,7 +9,7 @@ laatste_update: 2014-02-15
 status: geldig
 toestand: 2014-02-15
 bron: "https://wetten.overheid.nl/BWBR0027338"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Wet van 4 februari 2010 tot wijziging van de Wet op de jeugdzorg in verband met de introductie van een verwijsindex om vroegtijdige en onderling afgestemde verlening van hulp, zorg of bijsturing ten behoeve van risicojongeren die bepaalde risico’s lopen te bevorderen (verwijsindex risicojongeren)

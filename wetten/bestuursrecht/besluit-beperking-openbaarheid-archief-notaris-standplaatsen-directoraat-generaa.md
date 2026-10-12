@@ -9,7 +9,7 @@ laatste_update: 2009-11-01
 status: geldig
 toestand: 2009-11-01
 bron: "https://wetten.overheid.nl/BWBR0026334"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van de Minister van Justitie, houdende beperking van de openbaarheid van het archief betreffende Notaris-standplaatsen van het Directoraat-Generaal Rechtspleging en Rechtshandhaving ressorterend onder het Ministerie van Justitie 1842–2007, toegang nr. 2.09.91 (als bedoeld in artikel 10 van het Archiefbesluit 1995)

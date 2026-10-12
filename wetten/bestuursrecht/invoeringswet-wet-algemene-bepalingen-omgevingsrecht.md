@@ -9,7 +9,7 @@ laatste_update: 2015-07-01
 status: geldig
 toestand: 2015-07-01
 bron: "https://wetten.overheid.nl/BWBR0027474"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Wet van 25 maart 2010 tot vaststelling van overgangsrecht en wijziging van diverse wetten ten behoeve van de invoering van de Wet algemene bepalingen omgevingsrecht (Invoeringswet Wet algemene bepalingen omgevingsrecht)

@@ -9,7 +9,7 @@ laatste_update: 2010-10-14
 status: geldig
 toestand: 2010-10-14
 bron: "https://wetten.overheid.nl/BWBR0026796"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Staatsecretaris van Onderwijs, Cultuur en Wetenschap van 30 november 2009, nr. WJZ/172902 (2709), houdende regels voor het verstrekken van subsidie ten behoeve van het volgen van een certificeringsprocedure door gastouders kinderopvang (Subsidieregeling goed gastouderschap kinderopvang 2010)

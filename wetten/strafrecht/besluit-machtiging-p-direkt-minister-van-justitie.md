@@ -9,7 +9,7 @@ laatste_update: 2009-10-18
 status: geldig
 toestand: 2009-10-18
 bron: "https://wetten.overheid.nl/BWBR0026517"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van de Minister van Justitie van 6 oktober 2009, nr. DDS 5620948, tot het verlenen van machtiging aan P-Direkt

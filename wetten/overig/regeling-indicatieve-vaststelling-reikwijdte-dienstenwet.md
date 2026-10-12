@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0027242"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister van Economische Zaken van 10 februari 2010, nr. WJZ/9216044, houdende vaststelling van de eisen en vergunningstelsels die in ieder geval onder de reikwijdte van de Dienstenwet vallen (Regeling indicatieve vaststelling reikwijdte Dienstenwet)

@@ -9,7 +9,7 @@ laatste_update: 2010-01-29
 status: geldig
 toestand: 2010-01-29
 bron: "https://wetten.overheid.nl/BWBR0027128"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 20 januari 2010, nr. DBV/IenA/I , houdende beperking van de openbaarheid van archiefbescheiden, opgenomen in het archief van het Regionaal Medisch Tuchtcollege Groningen, over de periode (1930) 1931–1985 (1986)

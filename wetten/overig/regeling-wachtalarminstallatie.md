@@ -8,7 +8,7 @@ laatste_update: 1997-12-25
 status: geldig
 toestand: 1997-12-25
 bron: "https://wetten.overheid.nl/BWBR0027065"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling wachtalarminstallatie

@@ -9,7 +9,7 @@ laatste_update: 2010-02-24
 status: geldig
 toestand: 2010-02-24
 bron: "https://wetten.overheid.nl/BWBR0027151"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Wet van 21 januari 2010 tot wijziging van de Wet milieubeheer, de Wet luchtvaart en de Wet op de economische delicten ten behoeve van de implementatie van richtlijn nr. 2008/101/EG van het Europees Parlement en de Raad van de Europese Unie van 19 november 2008 (PbEU 2009, L 8) tot wijziging van Richtlijn 2003/87/EG teneinde ook luchtvaartactiviteiten op te nemen in de regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap (handel in emissierechten luchtvaart)

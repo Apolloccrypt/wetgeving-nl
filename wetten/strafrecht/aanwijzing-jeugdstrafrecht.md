@@ -8,7 +8,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0053171"
-opgehaald: 2026-10-11
+opgehaald: 2026-10-12
 ---
 
 # Aanwijzing jeugdstrafrecht

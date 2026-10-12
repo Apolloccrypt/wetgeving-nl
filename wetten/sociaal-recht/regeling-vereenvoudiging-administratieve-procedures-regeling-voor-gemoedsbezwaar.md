@@ -9,7 +9,7 @@ laatste_update: 2010-01-01
 status: geldig
 toestand: 2010-01-01
 bron: "https://wetten.overheid.nl/BWBR0026909"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 14 december 2009, nr. Z/VV-2973800, houdende vereenvoudiging van de administratieve procedures van de regeling voor gemoedsbezwaarden in de Zorgverzekeringswet

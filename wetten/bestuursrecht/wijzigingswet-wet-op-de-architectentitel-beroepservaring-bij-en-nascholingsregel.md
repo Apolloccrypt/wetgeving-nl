@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0027415"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Wet van 4 maart 2010 tot wijziging van de Wet op de architectentitel (beroepservaring, bij- en nascholingsregeling voor stedenbouwkundigen, tuin- en landschapsarchitecten en interieurarchitecten, wijzigingen in verband met de Kaderwet zelfstandige bestuursorganen, alsmede enige andere wijzigingen)

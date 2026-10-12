@@ -9,7 +9,7 @@ laatste_update: 2010-01-21
 status: geldig
 toestand: 2010-01-21
 bron: "https://wetten.overheid.nl/BWBR0027082"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister van Financiën van 11 januari 2010, houdende regels voor de uitvoering van exportkrediet- en investeringsverzekeringsfaciliteiten van de Staat (Regeling uitvoering EKI)

@@ -8,7 +8,7 @@ laatste_update: 2004-01-01
 status: geldig
 toestand: 2004-01-01
 bron: "https://wetten.overheid.nl/BWBR0027603"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Regeling vaststelling legitimatiebewijs Kadasterwet

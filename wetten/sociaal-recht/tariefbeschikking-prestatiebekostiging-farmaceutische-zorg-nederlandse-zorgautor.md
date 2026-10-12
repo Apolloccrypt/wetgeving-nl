@@ -8,7 +8,7 @@ laatste_update: 2009-12-17
 status: geldig
 toestand: 2009-12-17
 bron: "https://wetten.overheid.nl/BWBR0026852"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Tariefbeschikking Prestatiebekostiging farmaceutische zorg Nederlandse Zorgautoriteit

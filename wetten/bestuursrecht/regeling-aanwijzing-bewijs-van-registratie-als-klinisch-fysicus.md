@@ -9,7 +9,7 @@ laatste_update: 2009-10-29
 status: geldig
 toestand: 2009-10-29
 bron: "https://wetten.overheid.nl/BWBR0026546"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 20 augustus 2009, nr. MEVA/BO-2939356, ter uitvoering van artikel 107a van de Wet op de beroepen in de individuele gezondheidszorg inzake het bewijs van registratie als klinisch fysicus (Regeling aanwijzing bewijs van registratie als klinisch fysicus)

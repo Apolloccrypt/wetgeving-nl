@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0027402"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 15 maart 2010 nr. PG/JFB 2990179, houdende vaststelling van de vergoedingen van de leden en externe deskundigen van de Gezondheidsraad (Vergoedingenbesluit leden en externe deskundigen Gezondheidsraad)

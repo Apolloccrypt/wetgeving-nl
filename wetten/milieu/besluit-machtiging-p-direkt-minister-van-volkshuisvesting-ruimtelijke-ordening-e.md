@@ -9,7 +9,7 @@ laatste_update: 2009-11-12
 status: geldig
 toestand: 2009-11-12
 bron: "https://wetten.overheid.nl/BWBR0026618"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van de Minister van VROM tot het verlenen van machtiging aan P-Direkt

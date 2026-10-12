@@ -9,7 +9,7 @@ laatste_update: 2010-01-23
 status: geldig
 toestand: 2010-01-23
 bron: "https://wetten.overheid.nl/BWBR0027106"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Wet van 21 januari 2010 tot goedkeuring en uitvoering van het op 31 oktober 2009 te Tilburg totstandgekomen Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België over de terbeschikkingstelling van een penitentiaire inrichting in Nederland ten behoeve van de tenuitvoerlegging van bij Belgische veroordelingen opgelegde vrijheidsstraffen (Trb. 2009, 202)

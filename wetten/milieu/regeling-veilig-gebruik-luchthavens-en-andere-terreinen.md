@@ -9,7 +9,7 @@ laatste_update: 2024-07-01
 status: geldig
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0026570"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister van Verkeer en Waterstaat van 27 oktober 2009, nr. CEND/HDJZ-2009/1166 sector LUV, houdende regels in verband met de aanleg, de inrichting, de uitrusting en het veilig gebruik van luchthavens en andere terreinen met het oog op de orde en de veiligheid op die luchthavens en terreinen (Regeling veilig gebruik luchthavens en andere terreinen)

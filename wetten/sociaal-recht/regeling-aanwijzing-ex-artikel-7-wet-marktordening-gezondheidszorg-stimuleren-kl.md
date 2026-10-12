@@ -9,7 +9,7 @@ laatste_update: 2009-12-16
 status: geldig
 toestand: 2009-12-16
 bron: "https://wetten.overheid.nl/BWBR0026834"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 7 december 2009, nr. DLZ/KZ-2974548, op grond van artikel 7 van de Wet Marktordening gezondheidszorg inzake het stimuleren van kleinschalige zorg met verblijf voor mensen met een psychogeriatrische aandoening

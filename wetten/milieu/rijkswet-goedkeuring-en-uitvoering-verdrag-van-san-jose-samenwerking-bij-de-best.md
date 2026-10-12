@@ -9,7 +9,7 @@ laatste_update: 2010-04-30
 status: geldig
 toestand: 2010-04-30
 bron: "https://wetten.overheid.nl/BWBR0027602"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Rijkswet van 20 februari 2010 tot goedkeuring en uitvoering van het op 10 april 2003 te San José totstandgekomen Verdrag inzake samenwerking bij de bestrijding van sluikhandel in verdovende middelen en psychotrope stoffen over zee en door de lucht in het Caribisch gebied (Trb. 2003, 82 en Trb. 2004, 54)

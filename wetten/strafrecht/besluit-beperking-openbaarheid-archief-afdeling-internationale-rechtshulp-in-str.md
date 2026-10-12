@@ -9,7 +9,7 @@ laatste_update: 2009-11-01
 status: geldig
 toestand: 2009-11-01
 bron: "https://wetten.overheid.nl/BWBR0026332"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van de Minister van Justitie, houdende beperking van de openbaarheid van het archief van de afdeling Internationale Rechtshulp in Strafzaken, 1921–1995, toegang nr. 2.09.85 (als bedoeld in artikel 10 van het Archiefbesluit 1995)

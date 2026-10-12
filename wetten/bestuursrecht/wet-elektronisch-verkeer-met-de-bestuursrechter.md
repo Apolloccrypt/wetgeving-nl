@@ -9,7 +9,7 @@ laatste_update: 2010-07-01
 status: geldig
 toestand: 2010-07-01
 bron: "https://wetten.overheid.nl/BWBR0027622"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Wet van 22 april 2010 tot aanvulling van de Algemene wet bestuursrecht met regels over elektronisch verkeer met de bestuursrechter (Wet elektronisch verkeer met de bestuursrechter)

@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0026845"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling houdende regels met betrekking tot het beheer en gebruik van watersystemen (Waterregeling)

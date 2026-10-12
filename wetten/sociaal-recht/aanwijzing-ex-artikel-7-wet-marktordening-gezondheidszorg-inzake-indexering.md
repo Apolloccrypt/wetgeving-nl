@@ -9,7 +9,7 @@ laatste_update: 2009-09-14
 status: geldig
 toestand: 2009-09-14
 bron: "https://wetten.overheid.nl/BWBR0026375"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 6 juli 2009, nr. CZ-FBI-2940858, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake indexering

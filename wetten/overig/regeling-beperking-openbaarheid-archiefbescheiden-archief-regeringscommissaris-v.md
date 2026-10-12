@@ -9,7 +9,7 @@ laatste_update: 2010-05-20
 status: geldig
 toestand: 2010-05-20
 bron: "https://wetten.overheid.nl/BWBR0027649"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 29 april 2010, DBV/IenA/I 2995849, houdende beperking van de openbaarheid van archiefbescheiden, opgenomen in het archief van de Regeringscommissaris voor het Radiowezen, vanaf 1969 voor de Omroep, over de periode (1926–) 1947–1987 (–1989)

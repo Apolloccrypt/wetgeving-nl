@@ -9,7 +9,7 @@ laatste_update: 2010-07-01
 status: geldig
 toestand: 2010-07-01
 bron: "https://wetten.overheid.nl/BWBR0027058"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Wet van 17 december 2009 tot aanpassing van de Wet op de rechtsbijstand in verband met de bestuurlijke centralisatie van de raden voor rechtsbijstand

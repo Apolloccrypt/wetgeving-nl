@@ -9,7 +9,7 @@ laatste_update: 2009-12-19
 status: geldig
 toestand: 2009-12-19
 bron: "https://wetten.overheid.nl/BWBR0026846"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Wet van 10 december 2009 tot wijziging van de Mediawet 2008 en de Tabakswet ter implementatie van de richtlijn Audiovisuele mediadiensten

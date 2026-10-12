@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0026877"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Wet van 3 december 2009 tot wijziging van enkele bijzondere wetten in verband met de Wet dwangsom en beroep bij niet tijdig beslissen

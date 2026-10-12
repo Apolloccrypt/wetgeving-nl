@@ -9,7 +9,7 @@ laatste_update: 2009-11-21
 status: geldig
 toestand: 2009-11-21
 bron: "https://wetten.overheid.nl/BWBR0026679"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 9 november 2009, nr. WJZ/165713 (8251), inzake het niet verstrekken van financiële bijdragen ten behoeve van programma’s van omroepinstellingen (OCW-beleidsregel inzake niet verstrekken financiële bijdragen coproducties)

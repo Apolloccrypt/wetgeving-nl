@@ -9,7 +9,7 @@ laatste_update: 2009-11-28
 status: geldig
 toestand: 2009-11-28
 bron: "https://wetten.overheid.nl/BWBR0026713"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 20 november 2009, R&P/RA/2009/26289 tot Instelling van een Comité van Experts subsidieregeling ESF 2007–2013 (herzien), Actie Jeugd2

@@ -8,7 +8,7 @@ laatste_update: 2009-09-15
 status: geldig
 toestand: 2009-09-15
 bron: "https://wetten.overheid.nl/BWBR0026370"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Inkomstenbelasting, Besluit voorkoming dubbele belasting 2001, doorschuifregeling na overlijden

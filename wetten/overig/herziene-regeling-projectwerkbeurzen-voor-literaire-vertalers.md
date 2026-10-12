@@ -8,7 +8,7 @@ laatste_update: 2009-07-21
 status: geldig
 toestand: 2009-07-21
 bron: "https://wetten.overheid.nl/BWBR0027430"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Herziene regeling projectwerkbeurzen voor literaire vertalers

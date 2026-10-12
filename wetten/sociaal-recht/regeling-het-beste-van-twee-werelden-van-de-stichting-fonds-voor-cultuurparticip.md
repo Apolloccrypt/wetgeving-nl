@@ -8,7 +8,7 @@ laatste_update: 2010-05-04
 status: geldig
 toestand: 2010-05-04
 bron: "https://wetten.overheid.nl/BWBR0027611"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Regeling ‘Het beste van twee werelden’ van de Stichting Fonds voor Cultuurparticipatie

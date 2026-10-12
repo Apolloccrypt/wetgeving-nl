@@ -9,7 +9,7 @@ laatste_update: 2009-11-04
 status: geldig
 toestand: 2009-11-04
 bron: "https://wetten.overheid.nl/BWBR0026580"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Wet van 24 september 2009 tot uitbreiding en wijziging van de Wet milieubeheer in verband met de uitvoering van de verordening (EG) nr. 1272/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 betreffende de indeling, etikettering en verpakking van stoffen en mengsels en tot wijziging en intrekking van de Richtlijnen 67/548/EEG en 1999/45/EEG en tot wijziging van Verordening (EG) nr. 1907/2006 alsmede daarmee samenhangende wijzigingen van andere wetten (Uitvoeringswet EG-verordening indeling, etikettering en verpakking van stoffen en mengsels)

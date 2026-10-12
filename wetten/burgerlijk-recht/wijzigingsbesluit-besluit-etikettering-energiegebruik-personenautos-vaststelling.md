@@ -9,7 +9,7 @@ laatste_update: 2010-01-01
 status: geldig
 toestand: 2010-01-01
 bron: "https://wetten.overheid.nl/BWBR0026878"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van 9 december 2009 tot wijziging van het Besluit etikettering energiegebruik personenauto’s in verband met de vaststelling van de constanten en waarden voor bepaling van de referentie CO2-uitstootnorm voor de etikettering van personenauto’s

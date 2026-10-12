@@ -9,7 +9,7 @@ laatste_update: 2009-12-07
 status: geldig
 toestand: 2009-12-07
 bron: "https://wetten.overheid.nl/BWBR0026761"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van 26 november 2009, houdende regels ter uitvoering van de Dienstenwet met betrekking tot het centraal loket (Dienstenbesluit centraal loket)

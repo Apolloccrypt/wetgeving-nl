@@ -9,7 +9,7 @@ laatste_update: 2010-01-20
 status: geldig
 toestand: 2010-01-20
 bron: "https://wetten.overheid.nl/BWBR0026471"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van 31 augustus 2009 tot aanpassing van algemene maatregelen van bestuur aan wijzigingen van de Luchtvaartwet en de Wet luchtvaart (Regelgeving burgerluchthavens en militaire luchthavens)

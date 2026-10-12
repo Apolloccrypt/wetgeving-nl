@@ -9,7 +9,7 @@ laatste_update: 2009-12-28
 status: geldig
 toestand: 2009-12-28
 bron: "https://wetten.overheid.nl/BWBR0026936"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Wet van 23 december 2009 tot aanpassing van diverse wetten ter implementatie van richtlijn 2006/123/EG van het Europees parlement en de Raad van de Europese Unie van 12 december 2006 betreffende diensten op de interne markt (PbEU L 376/6) (Aanpassingswet dienstenrichtlijn)

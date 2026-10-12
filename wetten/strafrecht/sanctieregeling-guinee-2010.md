@@ -9,7 +9,7 @@ laatste_update: 2024-01-16
 status: geldig
 toestand: 2024-01-16
 bron: "https://wetten.overheid.nl/BWBR0027648"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 11 mei 2010, nr. DJZ/BR/0299-10, betreffende beperkende maatregelen ten aanzien van Guinee (Sanctieregeling Guinee 2010)

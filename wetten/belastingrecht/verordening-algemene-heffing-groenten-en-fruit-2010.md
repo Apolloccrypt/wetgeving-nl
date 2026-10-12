@@ -9,7 +9,7 @@ laatste_update: 2011-09-11
 status: geldig
 toestand: 2011-09-11
 bron: "https://wetten.overheid.nl/BWBR0027564"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw van 11 november 2009, houdende de vaststelling van een algemene heffing groenten en fruit 2010 (Verordening PT algemene heffing groenten en fruit 2010)

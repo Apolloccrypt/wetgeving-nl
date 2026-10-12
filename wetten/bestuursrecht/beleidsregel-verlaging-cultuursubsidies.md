@@ -9,7 +9,7 @@ laatste_update: 2012-03-22
 status: geldig
 toestand: 2012-03-22
 bron: "https://wetten.overheid.nl/BWBR0027592"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Beleidsregel van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 16 april 2010, nr. DK/204280, inzake de bevoegdheid, bedoeld in de artikelen 4:46, tweede lid, en 4:48, eerste lid, van de Algemene wet bestuursrecht tot het lager vaststellen onderscheidenlijk het verlagen van bij of krachtens de Wet op het specifiek cultuurbeleid verleende instellingssubsidies bij te late indiening van verantwoordingsbescheiden (Beleidsregel verlaging cultuursubsidies)

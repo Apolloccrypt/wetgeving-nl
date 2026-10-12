@@ -9,7 +9,7 @@ laatste_update: 2026-04-01
 status: geldig
 toestand: 2026-04-01
 bron: "https://wetten.overheid.nl/BWBR0026608"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 23 oktober 2009, nr. MEVA/BO-2919631, houdende vaststelling van de vacatiegelden voor personen die lid, plaatsvervangend lid of plaatsvervangend secretaris zijn van een tuchtcollege als bedoeld in artikel 47, derde lid, van de Wet op de beroepen in de individuele gezondheidszorg (Regeling vacatiegelden tuchtcolleges voor de gezondheidszorg 2009)

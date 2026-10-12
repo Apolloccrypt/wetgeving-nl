@@ -9,7 +9,7 @@ laatste_update: 2010-04-23
 status: geldig
 toestand: 2010-04-23
 bron: "https://wetten.overheid.nl/BWBR0026722"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van 24 november 2009 tot aanpassing van diverse besluiten ter implementatie van richtlijn nr. 2006/123/EG van het Europees Parlement en de Raad van de Europese Unie van 12 december 2006 betreffende diensten op de interne markt (PbEU L 376) (Aanpassingsbesluit dienstenrichtlijn)

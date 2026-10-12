@@ -9,7 +9,7 @@ laatste_update: 2010-03-30
 status: geldig
 toestand: 2010-03-30
 bron: "https://wetten.overheid.nl/BWBR0027435"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister van Economische Zaken van 19 maart 2010, nr. WJZ/10043132, houdende vaststelling van de definitieve correcties voor de stimulering van duurzame energieproductie in het jaar 2009 (Regeling vaststelling definitieve correcties duurzame energieproductie 2009)

@@ -9,7 +9,7 @@ laatste_update: 2009-12-25
 status: geldig
 toestand: 2009-12-25
 bron: "https://wetten.overheid.nl/BWBR0026941"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 15 december 2009, nr. Z/F-2964408, tot nadere aanwijzing van de besteedbare middelen ter dekking van de beheerskosten AWBZ 2009 (Nadere aanwijzing besteedbare middelen beheerskosten AWBZ 2009)

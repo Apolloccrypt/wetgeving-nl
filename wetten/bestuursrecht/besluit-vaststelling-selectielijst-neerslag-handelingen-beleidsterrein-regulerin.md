@@ -8,7 +8,7 @@ laatste_update: 2009-10-29
 status: geldig
 toestand: 2009-10-29
 bron: "https://wetten.overheid.nl/BWBR0026547"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Regulering en toezicht bank- en kredietwezen 1992–2002

@@ -9,7 +9,7 @@ laatste_update: 2009-10-31
 status: geldig
 toestand: 2009-10-31
 bron: "https://wetten.overheid.nl/BWBR0026575"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister van Verkeer en Waterstaat tot aanpassing van regelingen aan wijzigingen van de Luchtvaartwet en de Wet luchtvaart

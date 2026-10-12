@@ -9,7 +9,7 @@ laatste_update: 2010-02-06
 status: geldig
 toestand: 2010-02-06
 bron: "https://wetten.overheid.nl/BWBR0027150"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van de Minister van Justitie en de Staatssecretaris van Justitie van 26 januari 2010, nr. (5638955), strekkende tot instelling van de Task Force Vreemdeling in de strafrechtsketen (Instellingsbesluit Task Force VRIS)

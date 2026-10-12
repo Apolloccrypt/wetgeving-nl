@@ -8,7 +8,7 @@ laatste_update: 2010-05-01
 status: geldig
 toestand: 2010-05-01
 bron: "https://wetten.overheid.nl/BWBR0027357"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling kwaliteitszorg en de evaluatie van de kwaliteitszorg bij de politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba

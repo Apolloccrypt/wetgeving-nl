@@ -9,7 +9,7 @@ laatste_update: 2010-06-08
 status: geldig
 toestand: 2010-06-08
 bron: "https://wetten.overheid.nl/BWBR0027710"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister van Justitie van 27 mei 2010, nr. DDS5653437, houdende verlening van mandaat en machtiging aan de voorzitter van de Commissie Schadefonds Geweldsmisdrijven voor verstrekking van subsidies in het kader van de Tijdelijke beleidsregels stimulering preventieve maatregelen woning- en bedrijfsovervallen (Mandaatregeling Tijdelijke beleidsregels stimulering preventieve maatregelen woning- en bedrijfsovervallen)

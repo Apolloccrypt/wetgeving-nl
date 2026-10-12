@@ -9,7 +9,7 @@ laatste_update: 2010-03-28
 status: geldig
 toestand: 2010-03-28
 bron: "https://wetten.overheid.nl/BWBR0027428"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van 11 maart 2010, nr. 2010007597 houdende de instelling van de adviescommissie excellente gebieden innovatieve energiebesparing in de nieuwbouw

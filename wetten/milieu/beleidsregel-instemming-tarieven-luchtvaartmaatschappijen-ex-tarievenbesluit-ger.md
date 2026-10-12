@@ -9,7 +9,7 @@ laatste_update: 2010-06-12
 status: geldig
 toestand: 2010-06-12
 bron: "https://wetten.overheid.nl/BWBR0027623"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Beleidsregel van de Minister van Verkeer en Waterstaat inzake de instemming met tarieven van luchtvaartmaatschappijen als bedoeld in het Tarievenbesluit geregeld luchtvervoer

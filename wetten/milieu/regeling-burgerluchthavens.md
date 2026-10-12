@@ -9,7 +9,7 @@ laatste_update: 2024-07-30
 status: geldig
 toestand: 2024-07-30
 bron: "https://wetten.overheid.nl/BWBR0026564"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling houdende regels voor burgerluchthavens (Regeling burgerluchthavens)

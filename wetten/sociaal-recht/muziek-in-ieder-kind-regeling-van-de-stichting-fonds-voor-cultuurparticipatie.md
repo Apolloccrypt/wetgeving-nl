@@ -9,7 +9,7 @@ laatste_update: 2009-12-24
 status: geldig
 toestand: 2009-12-24
 bron: "https://wetten.overheid.nl/BWBR0026927"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling Muziek in ieder kind [vastgesteld door het Bestuur van de Stichting Fonds voor Cultuurparticipatie op 9 december 2009]

@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0026965"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister voor Jeugd en Gezin van 17 december 2009, nr. JZ/LJ-2977004, houdende vaststelling van regels voor de rechtstreekse subsidiëring van het huisvesten, verzorgen en opvoeden van kinderen of pleegkinderen van binnenschippers, kermisexploitanten en circusartiesten (Subsidieregeling opvang kinderen van ouders met trekkend/varend bestaan)

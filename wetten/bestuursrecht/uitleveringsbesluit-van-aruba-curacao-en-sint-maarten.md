@@ -9,7 +9,7 @@ laatste_update: 2024-05-01
 status: geldig
 toestand: 2024-05-01
 bron: "https://wetten.overheid.nl/BWBR0027429"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Koninklijk besluit van 21 september 1926 tot vaststelling van het Curacaosch Uitleveringsbesluit

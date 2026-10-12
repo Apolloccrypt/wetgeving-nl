@@ -9,7 +9,7 @@ laatste_update: 2010-07-01
 status: geldig
 toestand: 2010-07-01
 bron: "https://wetten.overheid.nl/BWBR0027663"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Besluit van 10 mei 2010 tot wijziging van het Besluit milieu-effectrapportage 1994 en enkele andere algemene maatregelen van bestuur (technische aanpassing ten gevolge van modernisering regelgeving milieueffectrapportage)

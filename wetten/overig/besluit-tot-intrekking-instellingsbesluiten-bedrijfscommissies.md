@@ -9,7 +9,7 @@ laatste_update: 2010-09-01
 status: geldig
 toestand: 2010-09-01
 bron: "https://wetten.overheid.nl/BWBR0027742"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Besluit van de Bestuurskamer van de Sociaal-Economische Raad van 27 mei 2010 tot intrekking van de instellingsbesluiten van de bedrijfscommissies in de marktsector

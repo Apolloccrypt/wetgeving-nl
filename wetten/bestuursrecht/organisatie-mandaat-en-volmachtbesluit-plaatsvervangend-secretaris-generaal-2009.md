@@ -9,7 +9,7 @@ laatste_update: 2024-09-19
 status: geldig
 toestand: 2024-09-19
 bron: "https://wetten.overheid.nl/BWBR0026589"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 28 oktober 2009, nr. BO/BA/2009/23642, houdende toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan onder de plaatsvervangend Secretaris-Generaal ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit plaatsvervangend secretaris-generaal 2009 SZW)

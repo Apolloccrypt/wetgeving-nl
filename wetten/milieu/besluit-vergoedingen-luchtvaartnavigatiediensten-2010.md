@@ -9,7 +9,7 @@ laatste_update: 2010-01-30
 status: geldig
 toestand: 2010-01-30
 bron: "https://wetten.overheid.nl/BWBR0027134"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van 20 januari 2010, houdende regels voor vergoedingen van luchtvaartnavigatiediensten ter uitvoering van Verordening (EG) nr. 1794/2006 tot vaststelling van een gemeenschappelijk heffingenstelsel voor luchtvaartnavigatiediensten (PbEU L 341) (Besluit vergoedingen luchtvaartnavigatiediensten 2010)

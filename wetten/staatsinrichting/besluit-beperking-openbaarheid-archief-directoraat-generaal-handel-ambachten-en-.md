@@ -9,7 +9,7 @@ laatste_update: 2010-03-11
 status: geldig
 toestand: 2010-03-11
 bron: "https://wetten.overheid.nl/BWBR0027367"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van het Ministerie van Economische Zaken te Den Haag, van 1 maart 2010, nr. DBV/10005838, houdende beperking van de openbaarheid van archief Directoraat-GeneraalHandel Ambachten en Diensten 1939–1975 (als bedoeld in artikel 10 van het archiefbesluit 1995)

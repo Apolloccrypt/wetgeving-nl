@@ -9,7 +9,7 @@ laatste_update: 2010-01-09
 status: geldig
 toestand: 2010-01-09
 bron: "https://wetten.overheid.nl/BWBR0027049"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Beleidsregel houdende bepalingen met betrekking tot het aanvragen en behandelen van aanvragen voor nadeelcompensatie in verband met de uitvoering van het ‘spoorse deel’ van de uitvoering van het project Spoorzone Delft (Beleidsregel nadeelcompensatie Spoorzone Delft)

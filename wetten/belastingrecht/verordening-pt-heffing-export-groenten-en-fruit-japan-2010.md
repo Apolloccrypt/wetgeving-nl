@@ -9,7 +9,7 @@ laatste_update: 2010-03-14
 status: geldig
 toestand: 2010-03-14
 bron: "https://wetten.overheid.nl/BWBR0027563"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw van 11 november 2009, houdende regels ter zake van de aan ondernemers, die groenten en fruit naar Japan exporteren, op te leggen heffing voor het jaar 2010 (Verordening PT heffing export groenten en fruit Japan 2010)

@@ -8,7 +8,7 @@ laatste_update: 2009-12-09
 status: geldig
 toestand: 2009-12-09
 bron: "https://wetten.overheid.nl/BWBR0026765"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit vaststelling selectielijst Rijksmuseum

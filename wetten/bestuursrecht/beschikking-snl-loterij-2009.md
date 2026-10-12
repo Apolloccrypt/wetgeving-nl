@@ -9,7 +9,7 @@ laatste_update: 2010-01-01
 status: geldig
 toestand: 2010-01-01
 bron: "https://wetten.overheid.nl/BWBR0026979"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Beschikking van de Minister van Justitie van 7 december 2009, nr. 5631620/09/DSP, houdende verlening van een vergunning tot het organiseren van een loterij (Beschikking SNL Loterij 2009)

@@ -8,7 +8,7 @@ laatste_update: 2009-12-23
 status: geldig
 toestand: 2009-12-23
 bron: "https://wetten.overheid.nl/BWBR0026910"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Instellingsbesluit Task Force Next Generation Networks

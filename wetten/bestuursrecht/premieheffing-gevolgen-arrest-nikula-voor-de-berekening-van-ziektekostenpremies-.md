@@ -8,7 +8,7 @@ laatste_update: 2010-02-05
 status: geldig
 toestand: 2010-02-05
 bron: "https://wetten.overheid.nl/BWBR0027148"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Premieheffing, gevolgen arrest Nikula voor de berekening van ziektekostenpremies van dubbelgepensioneerden

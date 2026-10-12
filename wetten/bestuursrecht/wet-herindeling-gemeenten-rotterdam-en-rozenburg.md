@@ -9,7 +9,7 @@ laatste_update: 2010-10-01
 status: geldig
 toestand: 2010-10-01
 bron: "https://wetten.overheid.nl/BWBR0026599"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Wet van 29 oktober 2009 tot herindeling van de gemeenten Rotterdam en Rozenburg

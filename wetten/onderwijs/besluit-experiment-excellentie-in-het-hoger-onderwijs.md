@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0027601"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Besluit van 1 april 2010, houdende bepalingen voor een experiment met het oog op het bevorderen van excellentie in het hoger onderwijs (Besluit experiment excellentie in het hoger onderwijs)

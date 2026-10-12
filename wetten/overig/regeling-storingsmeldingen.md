@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0026550"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken van 18 oktober 2009, nr. WJZ/9182058, houdende regels voor het behandelen van meldingen over storing in uitrusting (Regeling storingsmeldingen)

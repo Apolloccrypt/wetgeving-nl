@@ -9,7 +9,7 @@ laatste_update: 2010-02-23
 status: geldig
 toestand: 2010-02-23
 bron: "https://wetten.overheid.nl/BWBR0027277"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties, d.d. 18 februari 2010, nr. 85920, houdende instelling van de Stuurgroep Nationale Veiligheid

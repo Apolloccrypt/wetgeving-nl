@@ -9,7 +9,7 @@ laatste_update: 2010-07-01
 status: geldig
 toestand: 2010-07-01
 bron: "https://wetten.overheid.nl/BWBR0026897"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Wet van 12 november 2009 tot aanpassing van LNV-wetgeving in verband met de Kaderwet zelfstandige bestuursorganen

@@ -9,7 +9,7 @@ laatste_update: 2009-12-04
 status: geldig
 toestand: 2009-12-04
 bron: "https://wetten.overheid.nl/BWBR0026752"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken, de Minister voor Ontwikkelingssamenwerking en de Staatssecretaris voor Europese Zaken, van 18 november 2009, nr. DJZ/BR/0822-2008, tot vaststelling van een beleidsregel met het oog op het onthouden van financiële bijdragen aan de vervaardiging, verwerving of uitzending van omroepprogramma’s

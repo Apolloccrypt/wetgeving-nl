@@ -9,7 +9,7 @@ laatste_update: 2010-03-01
 status: geldig
 toestand: 2010-03-01
 bron: "https://wetten.overheid.nl/BWBR0027054"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Wet van 17 december 2009, tot wijziging van de Wet educatie en beroepsonderwijs en de Wet op de ondernemingsraden in verband met de medezeggenschap van personeel en deelnemers in de educatie en het beroepsonderwijs (medezeggenschap educatie en beroepsonderwijs)

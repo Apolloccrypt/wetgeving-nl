@@ -9,7 +9,7 @@ laatste_update: 2018-08-01
 status: geldig
 toestand: 2018-08-01
 bron: "https://wetten.overheid.nl/BWBR0026753"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 1 december 2009, nr. CZ/TSZ-2969842, houdende vaststelling van het Planningsbesluit PCI’s, ICD’s en THI’s

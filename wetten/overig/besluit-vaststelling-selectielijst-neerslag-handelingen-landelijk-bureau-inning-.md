@@ -8,7 +8,7 @@ laatste_update: 2010-04-21
 status: geldig
 toestand: 2010-04-21
 bron: "https://wetten.overheid.nl/BWBR0027514"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-12
 ---
 
 # Besluit vaststelling Selectielijst neerslag handelingen Landelijk Bureau Inning Onderhoudsbijdragen (LBIO) vanaf 1993

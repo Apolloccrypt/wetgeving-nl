@@ -9,7 +9,7 @@ laatste_update: 1822-09-24
 status: geldig
 toestand: 1822-09-24
 bron: "https://wetten.overheid.nl/BWBR0026402"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Koninklijk besluit van 24 september 1822, no. 22, betreffende taxa voor titelerkenning

@@ -9,7 +9,7 @@ laatste_update: 2010-03-06
 status: geldig
 toestand: 2010-03-06
 bron: "https://wetten.overheid.nl/BWBR0027345"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van het Stimuleringsfonds voor de Pers van 19 februari 2009, nr. 19215, tot vaststelling van subsidieplafonds voor het jaar 2010

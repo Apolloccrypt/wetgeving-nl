@@ -8,7 +8,7 @@ laatste_update: 2010-01-21
 status: geldig
 toestand: 2010-01-21
 bron: "https://wetten.overheid.nl/BWBR0027078"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Wijzigingsregeling Aanwijzingsregeling boeteopleggers arbeidstijden vervoer

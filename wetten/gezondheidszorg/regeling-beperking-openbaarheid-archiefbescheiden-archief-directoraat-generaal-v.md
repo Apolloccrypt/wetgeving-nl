@@ -9,7 +9,7 @@ laatste_update: 2009-09-15
 status: geldig
 toestand: 2009-09-15
 bron: "https://wetten.overheid.nl/BWBR0026369"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 31 augustus 2009, nr. DBV/IenA/I 2952710, houdende beperking van de openbaarheid van archiefbescheiden, opgenomen in het archief van het Directoraat-Generaal Volksgezondheid, over de periode (1913) 1946–1982 (1989)

@@ -9,7 +9,7 @@ laatste_update: 2009-11-01
 status: geldig
 toestand: 2009-11-01
 bron: "https://wetten.overheid.nl/BWBR0026331"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Besluit van de Minister van Justitie, houdende beperking van de openbaarheid van het archief betreffende Personele aangelegenheden onder het Ministerie van Justitie 1922–2000 (als bedoeld in artikel 10 van het Archiefbesluit 1995)

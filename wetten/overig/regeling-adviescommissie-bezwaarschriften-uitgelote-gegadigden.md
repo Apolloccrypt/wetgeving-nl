@@ -9,7 +9,7 @@ laatste_update: 2010-01-01
 status: geldig
 toestand: 2010-01-01
 bron: "https://wetten.overheid.nl/BWBR0027030"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Directeur-Generaal van de Dienst Uitvoering Onderwijs van 15 december 2009, nr. HD-09.196, inzake de behandeling bezwaarschriften aanmelding en selectie (Regeling adviescommissie bezwaarschriften uitgelote gegadigden)

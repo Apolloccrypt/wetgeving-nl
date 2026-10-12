@@ -9,7 +9,7 @@ laatste_update: 2010-03-04
 status: geldig
 toestand: 2010-03-04
 bron: "https://wetten.overheid.nl/BWBR0027344"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-12
 ---
 
 # Regeling van de Minister van Economische Zaken van 23 februari 2010, nr. WJZ / 10013091, houdende uitvoering van het Besluit subsidies regionale investeringsprojecten 2000 in verband met vaststelling subsidieplafond 2010
