@@ -9,7 +9,7 @@ laatste_update: 2013-07-01
 status: geldig
 toestand: 2013-07-01
 bron: "https://wetten.overheid.nl/BWBR0027975"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 19 juli 2010, MEVA/BO-3007958, houdende herziening van de Regeling tarifering kennis- en vaardighedentoets

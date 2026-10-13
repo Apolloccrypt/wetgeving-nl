@@ -8,7 +8,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0028239"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Uitvoeringswet van het Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland betreffende de wederzijdse erkenning en tenuitvoerlegging van rechterlijk beslissingen en andere executoriale titels in burgerlijke zaken BES

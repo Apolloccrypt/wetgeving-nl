@@ -8,7 +8,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0028576"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-13
 ---
 
 # Wet, houdende bepalingen tegen verstekelingen BES

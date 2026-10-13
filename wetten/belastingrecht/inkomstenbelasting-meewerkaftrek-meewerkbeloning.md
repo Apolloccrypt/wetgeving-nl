@@ -9,7 +9,7 @@ laatste_update: 2006-01-19
 status: geldig
 toestand: 2006-01-19
 bron: "https://wetten.overheid.nl/BWBR0027946"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit van 19 januari 2006, nr. CPP2006/73M

@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0028123"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 20 augustus 2010, nr. 145464, houdende voorschriften inzake diervoeders (Regeling diervoeders 2010)

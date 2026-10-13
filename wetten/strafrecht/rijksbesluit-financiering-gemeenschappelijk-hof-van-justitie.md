@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0028144"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit van 23 augustus 2010 betreffende nieuwe regels inzake de financiering van het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba (Rijksbesluit financiering Gemeenschappelijk Hof van Justitie)

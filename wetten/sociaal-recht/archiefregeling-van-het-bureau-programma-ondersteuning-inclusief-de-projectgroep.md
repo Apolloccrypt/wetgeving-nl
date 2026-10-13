@@ -9,7 +9,7 @@ laatste_update: 2010-07-27
 status: geldig
 toestand: 2010-07-27
 bron: "https://wetten.overheid.nl/BWBR0027967"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 5 juli 2010, nr. Directie BV/DCA/2010/13227, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden uit het archief van het Bureau Programma Ondersteuning inclusief de Projectgroep Parlementair Onderzoek College van Toezicht Sociale Verzekeringen

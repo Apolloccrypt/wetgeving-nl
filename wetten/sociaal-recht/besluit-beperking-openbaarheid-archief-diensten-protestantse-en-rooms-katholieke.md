@@ -9,7 +9,7 @@ laatste_update: 2010-08-20
 status: geldig
 toestand: 2010-08-20
 bron: "https://wetten.overheid.nl/BWBR0028057"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit van de Minister van Defensie van 3 augustus 2010, nr. CDC/IVENT/DCDI/SSA 2010007706, houdende beperking van de openbaarheid van het archief van de diensten Protestantse en Rooms-Katholieke Geestelijke Verzorging bij de krijgsmacht (1938) 1945–1982

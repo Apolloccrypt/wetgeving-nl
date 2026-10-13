@@ -9,7 +9,7 @@ laatste_update: 2010-09-01
 status: geldig
 toestand: 2010-09-01
 bron: "https://wetten.overheid.nl/BWBR0028026"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 30 juli 2010, nr. BJZ2010019151, tot wijziging van de Regeling genetisch gemodificeerde organismen (herziening lijst van micro-organismen in bijlage 1 en actualisering indeling handelingen in procesinstallaties)

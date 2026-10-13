@@ -9,7 +9,7 @@ laatste_update: 2011-09-01
 status: geldig
 toestand: 2011-09-01
 bron: "https://wetten.overheid.nl/BWBR0027813"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit van 26 mei 2010 tot wijziging van het Besluit rechtspositie Raad van State, Algemene Rekenkamer en Nationale ombudsman in verband met de herstructurering van de Raad van State

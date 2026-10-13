@@ -8,7 +8,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0028238"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Wet op de Kamers van Koophandel en Nijverheid BES

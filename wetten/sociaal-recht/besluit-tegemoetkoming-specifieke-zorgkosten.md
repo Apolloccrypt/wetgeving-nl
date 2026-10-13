@@ -9,7 +9,7 @@ laatste_update: 2018-07-28
 status: geldig
 toestand: 2018-07-28
 bron: "https://wetten.overheid.nl/BWBR0027859"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit van 31 mei 2010, houdende regels inzake een financiële tegemoetkoming ter zake van uitgaven voor specifieke zorgkosten die in de inkomstenbelasting als gevolg van heffingskortingen niet of niet geheel zijn verzilverd alsmede wijziging van enige andere regelingen (Besluit tegemoetkoming specifieke zorgkosten)

@@ -8,7 +8,7 @@ laatste_update: 2020-12-19
 status: geldig
 toestand: 2020-12-19
 bron: "https://wetten.overheid.nl/BWBR0027945"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Regeling specificaties en typegoedkeuring boordcomputer taxi

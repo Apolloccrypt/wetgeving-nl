@@ -8,7 +8,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBR0028506"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Wet sociale kanstrajecten jongeren BES

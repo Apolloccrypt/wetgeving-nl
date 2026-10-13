@@ -9,7 +9,7 @@ laatste_update: 2010-07-20
 status: geldig
 toestand: 2010-07-20
 bron: "https://wetten.overheid.nl/BWBR0027949"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Prestatiebeschrijvingsbeschikking

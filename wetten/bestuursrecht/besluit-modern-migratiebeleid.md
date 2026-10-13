@@ -9,7 +9,7 @@ laatste_update: 2013-10-01
 status: geldig
 toestand: 2013-10-01
 bron: "https://wetten.overheid.nl/BWBR0027992"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit van 24 juli 2010, houdende wijziging van het Vreemdelingenbesluit 2000 en enkele andere besluiten in verband met de versterking van de positie van de referent in het reguliere vreemdelingenrecht en versnelling van de vreemdelingenrechtelijke procedure, in verband met de implementatie van Richtlijn 2009/50/EG van de Raad van 25 mei 2009 betreffende de voorwaarden voor toegang en verblijf van onderdanen van derde landen met het oog op een hooggekwalificeerde baan (PbEU L 155), in verband met de openbare orde en enkele andere onderwerpen (Besluit modern migratiebeleid)

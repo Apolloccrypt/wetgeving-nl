@@ -9,7 +9,7 @@ laatste_update: 2012-10-01
 status: geldig
 toestand: 2012-10-01
 bron: "https://wetten.overheid.nl/BWBR0027919"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Wet van 7 juli 2010 tot wijziging van onder meer Boek 2 van het Burgerlijk Wetboek en de Wet documentatie vennootschappen in verband met het vervallen van de verklaring van geen bezwaar en het verbeteren en uitbreiden van de controle op rechtspersonen met het oog op de voorkoming en bestrijding van misbruik van rechtspersonen

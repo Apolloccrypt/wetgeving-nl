@@ -8,7 +8,7 @@ laatste_update: 2026-06-04
 status: geldig
 toestand: 2026-06-04
 bron: "https://wetten.overheid.nl/BWBR0028455"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Wet administratieve rechtspraak BES

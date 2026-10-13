@@ -8,7 +8,7 @@ laatste_update: 2010-07-29
 status: geldig
 toestand: 2010-07-29
 bron: "https://wetten.overheid.nl/BWBR0027987"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Openstelling extra ronde subsidieaanvragen onder regeling ‘Muziek in ieder kind’

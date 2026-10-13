@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0028588"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-13
 ---
 
 # Besluit van 30 september 2010, houdende regels voor de bewapening en overige uitrusting van de politie van Bonaire, Sint Eustatius en Saba (Besluit bewapening en overige uitrusting politie BES)

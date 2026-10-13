@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0028072"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Rijkswet van 7 juli 2010 tot regeling van de inrichting, de organisatie en het beheer van de openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba en de samenwerking daartussen (Rijkswet openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba)

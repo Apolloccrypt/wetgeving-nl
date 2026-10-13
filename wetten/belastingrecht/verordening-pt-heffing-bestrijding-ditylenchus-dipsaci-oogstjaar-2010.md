@@ -9,7 +9,7 @@ laatste_update: 2010-09-05
 status: geldig
 toestand: 2010-09-05
 bron: "https://wetten.overheid.nl/BWBR0028233"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw van 30 maart 2010, houdende de vaststelling van aan telers van bloembollen op te leggen heffing ter bestrijding van de ziekte Ditylenchus dipsaci, voor het oogstjaar 2010 (Verordening PT heffing bestrijding Ditylenchus dipsaci oogstjaar 2010)

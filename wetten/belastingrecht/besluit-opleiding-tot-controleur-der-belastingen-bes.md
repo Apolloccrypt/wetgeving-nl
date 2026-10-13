@@ -8,7 +8,7 @@ laatste_update: 2011-10-09
 status: geldig
 toestand: 2011-10-09
 bron: "https://wetten.overheid.nl/BWBR0028492"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit opleiding tot controleur der Belastingen BES

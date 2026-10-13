@@ -8,7 +8,7 @@ laatste_update: 2026-10-07
 status: geldig
 toestand: 2026-10-07
 bron: "https://wetten.overheid.nl/BWBR0053165"
-opgehaald: 2026-10-12
+opgehaald: 2026-10-13
 ---
 
 # Tijdelijke subsidieregels Aangepast Lezen 2027–2030

@@ -9,7 +9,7 @@ laatste_update: 2012-01-01
 status: geldig
 toestand: 2012-01-01
 bron: "https://wetten.overheid.nl/BWBR0027993"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit van 24 juli 2010 tot wijziging van het Besluit financieel toetsingskader pensioenfondsen in verband met vaststelling van de parameters voor fondsen

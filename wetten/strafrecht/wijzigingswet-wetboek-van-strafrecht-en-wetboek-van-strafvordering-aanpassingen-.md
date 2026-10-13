@@ -9,7 +9,7 @@ laatste_update: 2010-09-01
 status: geldig
 toestand: 2010-09-01
 bron: "https://wetten.overheid.nl/BWBR0027890"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Wet van 1 juli 2010 tot wijziging van het Wetboek van Strafrecht en het Wetboek van Strafvordering in verband met de maatregel van terbeschikkingstelling met voorwaarden (Aanpassingen tbs met voorwaarden)

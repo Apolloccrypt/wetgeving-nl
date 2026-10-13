@@ -8,7 +8,7 @@ laatste_update: 2010-07-17
 status: geldig
 toestand: 2010-07-17
 bron: "https://wetten.overheid.nl/BWBR0027921"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Beleidsregel behandeling concentratierisico opkomende landen

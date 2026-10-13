@@ -9,7 +9,7 @@ laatste_update: 2010-08-11
 status: geldig
 toestand: 2010-08-11
 bron: "https://wetten.overheid.nl/BWBR0028031"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit van de Minister van Justitie van het Koninkrijk van 1 juli 2010, nummer 2010/1, houdende bekendmaking in Aruba van de Handleiding voor de toepassing van de Rijkswet op het Nederlanderschap 2003 toegespitst op het gebruik in Aruba

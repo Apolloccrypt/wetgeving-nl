@@ -8,7 +8,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0028330"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit vaststelling van de vergoeding voor opiumverloven BES

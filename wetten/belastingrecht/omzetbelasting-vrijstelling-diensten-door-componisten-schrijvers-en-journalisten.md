@@ -8,7 +8,7 @@ laatste_update: 2005-12-05
 status: geldig
 toestand: 2005-12-05
 bron: "https://wetten.overheid.nl/BWBR0027969"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Omzetbelasting, vrijstelling diensten door componisten, schrijvers en journalisten

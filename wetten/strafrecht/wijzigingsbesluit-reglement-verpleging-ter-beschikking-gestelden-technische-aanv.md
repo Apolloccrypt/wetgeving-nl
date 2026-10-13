@@ -9,7 +9,7 @@ laatste_update: 2010-08-04
 status: geldig
 toestand: 2010-08-04
 bron: "https://wetten.overheid.nl/BWBR0027995"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit van 24 juli 2010 tot wijziging van het Reglement verpleging ter beschikking gestelden wegens een technische aanvulling en tot wijziging van de Penitentiaire maatregel in verband met de schrapping van de bepaling dat de plaatsing van een veroordeelde die tevens de maatregel van tbs met dwangverpleging is opgelegd, in beginsel geschiedt nadat eenderde van de opgelegde gevangenisstraf ten uitvoer is gelegd en enige technische verbeteringen

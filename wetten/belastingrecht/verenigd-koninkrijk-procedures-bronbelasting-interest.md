@@ -9,7 +9,7 @@ laatste_update: 1992-01-16
 status: geldig
 toestand: 1992-01-16
 bron: "https://wetten.overheid.nl/BWBR0027799"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit van 16 januari 1992, nr. IFZ 91/1540

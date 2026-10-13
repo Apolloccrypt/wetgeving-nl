@@ -9,7 +9,7 @@ laatste_update: 2010-07-23
 status: geldig
 toestand: 2010-07-23
 bron: "https://wetten.overheid.nl/BWBR0027958"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit van de Minister van Defensie houdende instelling van een Nagedachtenisoorkonde en -sculptuur voor nabestaanden (Besluit Nagedachtenisoorkonde en -sculptuur)

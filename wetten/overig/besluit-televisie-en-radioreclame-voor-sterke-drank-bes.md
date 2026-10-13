@@ -8,7 +8,7 @@ laatste_update: 2011-02-17
 status: geldig
 toestand: 2011-02-17
 bron: "https://wetten.overheid.nl/BWBR0028414"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit televisie- en radioreclame voor sterke drank BES

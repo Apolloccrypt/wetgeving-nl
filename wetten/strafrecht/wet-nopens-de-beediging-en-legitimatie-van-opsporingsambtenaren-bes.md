@@ -8,7 +8,7 @@ laatste_update: 2013-07-01
 status: geldig
 toestand: 2013-07-01
 bron: "https://wetten.overheid.nl/BWBR0028577"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-13
 ---
 
 # Wet nopens de beëdiging en legitimatie van opsporingsambtenaren BES

@@ -8,7 +8,7 @@ laatste_update: 2023-07-15
 status: geldig
 toestand: 2023-07-15
 bron: "https://wetten.overheid.nl/BWBR0028413"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Visserijbesluit BES

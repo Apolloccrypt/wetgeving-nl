@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-06-30
 toestand: 2010-07-20
 bron: "https://wetten.overheid.nl/BWBR0027937"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport, van 16 juni 2010, nr. GMT/MVG-3006021, houdende vaststelling van als gelijkwaardig erkende opleidingen voor het werken als verantwoordelijk persoon in een weefselinstelling (Regeling gelijkwaardig erkende opleidingen Eisenbesluit lichaamsmateriaal 2006)

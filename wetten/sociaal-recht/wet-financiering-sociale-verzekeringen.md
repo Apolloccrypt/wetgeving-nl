@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0017745"
-opgehaald: 2026-10-06
+opgehaald: 2026-10-13
 ---
 
 # Wet van 16 december 2004, houdende regels betreffende de financiering van de sociale verzekeringen (Wet financiering sociale verzekeringen)
@@ -444,7 +444,7 @@ Het bepaalde bij of krachtens het zevende lid, inzake de in het derde, vierde en
 
 [artikel 10b, eerste lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10b):
 
-- a. die met ondersteuning bij de arbeidsinschakeling van het college van burgemeester en wethouders op grond van [artikel 7, eerste lid, onderdeel a, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7) naar een dienstbetrekking is of wordt toegeleid of ten behoeve van wie loonkostensubsidie wordt verstrekt op grond van [artikel 10d, tweede lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10d), en van wie uitsluitend op verzoek van het college van burgemeester en wethouders door het UWV is vastgesteld dat hij niet in staat is tot het verdienen van het wettelijk minimumloon, bedoeld in [artikel 2, onderdeel c, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=2), dan wel van wie door het college van burgemeester en wethouders in overeenstemming met de eisen gesteld aan een loonwaardevaststelling op grond van artikel 10d, eerste of tweede lid, van de Participatiewet een loonwaarde is vastgesteld die bij voltijdse arbeid minder bedraagt dan het wettelijk minimumloon, bedoeld in artikel 2, onderdeel c, van de Participatiewet,
+- a. die met ondersteuning bij de arbeidsinschakeling van het college van burgemeester en wethouders op grond van [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7), of [artikel 7a, eerste lid, onderdeel a, of derde lid van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7a) naar een dienstbetrekking is of wordt toegeleid of ten behoeve van wie loonkostensubsidie wordt verstrekt op grond van [artikel 10d, tweede lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10d), en van wie uitsluitend op verzoek van het college van burgemeester en wethouders door het UWV is vastgesteld dat hij niet in staat is tot het verdienen van het wettelijk minimumloon, bedoeld in [artikel 2, onderdeel c, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=2), dan wel van wie door het college van burgemeester en wethouders in overeenstemming met de eisen gesteld aan een loonwaardevaststelling op grond van artikel 10d, eerste of tweede lid, van de Participatiewet een loonwaarde is vastgesteld die bij voltijdse arbeid minder bedraagt dan het wettelijk minimumloon, bedoeld in artikel 2, onderdeel c, van de Participatiewet,
 
 - b. die geïndiceerd is als bedoeld in de [Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903) of een nog geldende indicatiebeschikking heeft op grond van [artikel 11 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=11), zoals dat artikel luidde op 31 december 2014,
 
@@ -452,7 +452,7 @@ Het bepaalde bij of krachtens het zevende lid, inzake de in het derde, vierde en
 
 - d. die voldoet aan een bij of krachtens algemene maatregel van bestuur vastgestelde indicatie,
 
-- e. die met ondersteuning bij de arbeidsinschakeling van het college van burgemeester en wethouders op grond van [artikel 7, eerste lid, onderdeel a, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7) naar een dienstbetrekking is of wordt toegeleid, en van wie op eigen verzoek door het UWV is of wordt vastgesteld dat hij niet in staat is tot het verdienen van het wettelijk minimumloon, bedoeld in [artikel 2, onderdeel c, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=2). Bij algemene maatregel van bestuur kunnen ten aanzien van de persoon, bedoeld in de vorige zin, nadere regels worden gesteld,
+- e. die met ondersteuning bij de arbeidsinschakeling van het college van burgemeester en wethouders op grond van [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7), of [artikel 7a, eerste lid, onderdeel a, of derde lid van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7a) naar een dienstbetrekking is of wordt toegeleid, en van wie op eigen verzoek door het UWV is of wordt vastgesteld dat hij niet in staat is tot het verdienen van het wettelijk minimumloon, bedoeld in [artikel 2, onderdeel c, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=2). Bij algemene maatregel van bestuur kunnen ten aanzien van de persoon, bedoeld in de vorige zin, nadere regels worden gesteld,
 
 - f. die op of na 1 januari 2013 een persoon was als bedoeld in het eerste lid, onderdeel b of c, en op 1 mei 2015 niet langer een zodanige persoon was, met uitzondering van de persoon, bedoeld in onderdeel c, die duurzaam geen mogelijkheden tot arbeidsparticipatie meer heeft als bedoeld in [artikel 1a:1 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=1a:1), of
 

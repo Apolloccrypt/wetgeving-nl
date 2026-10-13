@@ -8,7 +8,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0028325"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit op basis van artikel 8, tweede lid, van de Wet minimumlonen BES

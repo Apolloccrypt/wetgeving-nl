@@ -8,7 +8,7 @@ laatste_update: 2018-08-01
 status: geldig
 toestand: 2018-08-01
 bron: "https://wetten.overheid.nl/BWBR0028449"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit geneeskunde BES

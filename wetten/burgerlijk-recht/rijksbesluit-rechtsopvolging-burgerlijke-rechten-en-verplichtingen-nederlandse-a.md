@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0028594"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-13
 ---
 
 # Besluit van 21 september 2010, houdende regels met betrekking tot de opvolging onder algemene titel in de rechten en verplichtingen van het land de Nederlandse Antillen naar burgerlijk recht (Rijksbesluit rechtsopvolging burgerlijke rechten en verplichtingen Nederlandse Antillen)

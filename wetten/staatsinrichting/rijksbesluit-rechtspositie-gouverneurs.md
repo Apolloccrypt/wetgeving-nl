@@ -9,7 +9,7 @@ laatste_update: 2026-07-07
 status: geldig
 toestand: 2026-07-07
 bron: "https://wetten.overheid.nl/BWBR0028603"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-13
 ---
 
 # Besluit van 27 september 2010, houdende regeling van de materiële rechtspositie van de Gouverneur van Curaçao en de Gouverneur van Sint Maarten (Rijksbesluit rechtspositie Gouverneur van Curaçao en Gouverneur van Sint Maarten)

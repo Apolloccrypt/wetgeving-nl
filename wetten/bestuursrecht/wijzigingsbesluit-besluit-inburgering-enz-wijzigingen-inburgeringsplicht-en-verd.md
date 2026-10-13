@@ -9,7 +9,7 @@ laatste_update: 2010-09-07
 status: geldig
 toestand: 2010-09-07
 bron: "https://wetten.overheid.nl/BWBR0028171"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit van 31 augustus 2010 tot wijziging van het Besluit inburgering, het Besluit participatiebudget en enkele andere besluiten (wijzigingen inburgeringsplicht en verdeelsleutel participatiebudget)

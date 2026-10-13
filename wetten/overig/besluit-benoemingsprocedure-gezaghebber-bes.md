@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0028145"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit van 13 augustus 2010, houdende nadere regels inzake de bij benoeming en herbenoeming van de gezaghebber te volgen procedure (Besluit benoemingsprocedure gezaghebber BES)

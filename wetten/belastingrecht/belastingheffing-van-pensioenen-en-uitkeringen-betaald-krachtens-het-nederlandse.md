@@ -8,7 +8,7 @@ laatste_update: 1996-10-08
 status: geldig
 toestand: 1996-10-08
 bron: "https://wetten.overheid.nl/BWBR0028087"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Belastingheffing van pensioenen en uitkeringen betaald krachtens het Nederlandse sociale zekerheidsstelsel onder de werking van de Nederlandse belastingverdragen en de Belastingregeling voor het Koninkrijk

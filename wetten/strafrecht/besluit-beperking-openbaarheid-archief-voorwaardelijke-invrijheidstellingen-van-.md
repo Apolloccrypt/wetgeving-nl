@@ -9,7 +9,7 @@ laatste_update: 2010-11-01
 status: geldig
 toestand: 2010-11-01
 bron: "https://wetten.overheid.nl/BWBR0028190"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit van de Minister van Justitie, houdende beperking van de openbaarheid van het archief van de voorwaardelijke invrijheidstellingen van het Ministerie van Justitie, periode 1950−1978

@@ -8,7 +8,7 @@ laatste_update: 2022-05-13
 status: geldig
 toestand: 2022-05-13
 bron: "https://wetten.overheid.nl/BWBR0028396"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit randapparatuur BES

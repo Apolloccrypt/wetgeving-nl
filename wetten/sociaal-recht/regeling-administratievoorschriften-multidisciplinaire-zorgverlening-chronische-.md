@@ -8,7 +8,7 @@ laatste_update: 2010-07-22
 status: geldig
 toestand: 2010-07-22
 bron: "https://wetten.overheid.nl/BWBR0027941"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Regeling administratievoorschriften multidisciplinaire zorgverlening chronische aandoeningen (DM type 2, CVR, COPD)

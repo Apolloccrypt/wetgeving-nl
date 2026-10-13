@@ -9,7 +9,7 @@ laatste_update: 2018-09-01
 status: geldig
 toestand: 2018-09-01
 bron: "https://wetten.overheid.nl/BWBR0028093"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Rijkswet van 7 juli 2010 tot vaststelling van een zeegrens tussen Curaçao en Bonaire, en tussen Sint Maarten en Saba

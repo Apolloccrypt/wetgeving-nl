@@ -9,7 +9,7 @@ laatste_update: 2020-04-01
 status: geldig
 toestand: 2020-04-01
 bron: "https://wetten.overheid.nl/BWBR0028096"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Rijkswet van 7 juli 2010, houdende Reglement voor de Gouverneur van Sint Maarten

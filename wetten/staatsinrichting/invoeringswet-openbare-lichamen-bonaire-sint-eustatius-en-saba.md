@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0028063"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Wet van 17 mei 2010 tot invoering van de regelgeving met betrekking tot de openbare lichamen Bonaire, Sint Eustatius en Saba (Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba)

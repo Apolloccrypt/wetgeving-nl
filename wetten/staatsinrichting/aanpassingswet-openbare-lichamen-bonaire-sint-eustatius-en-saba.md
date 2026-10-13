@@ -9,7 +9,7 @@ laatste_update: 2020-08-01
 status: geldig
 toestand: 2020-08-01
 bron: "https://wetten.overheid.nl/BWBR0028129"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Wet van 17 mei 2010 tot aanpassing van wetten in verband met de nieuwe staatsrechtelijke positie van Bonaire, Sint Eustatius en Saba als openbaar lichaam binnen Nederland (Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba)

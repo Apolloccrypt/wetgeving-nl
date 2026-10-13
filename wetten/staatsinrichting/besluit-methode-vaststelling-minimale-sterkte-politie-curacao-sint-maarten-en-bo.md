@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0028559"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-13
 ---
 
 # Besluit van 23 september 2010, houdende de methode van vaststelling van de minimale sterkte van de politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba

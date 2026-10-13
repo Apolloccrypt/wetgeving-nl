@@ -9,7 +9,7 @@ laatste_update: 2026-07-07
 status: geldig
 toestand: 2026-07-07
 bron: "https://wetten.overheid.nl/BWBR0028016"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit van 24 juli 2010 houdende regeling van de materiele rechtspositie van de Rijksvertegenwoordiger van de openbare lichamen Bonaire, Sint Eustatius en Saba (Rechtspositiebesluit Rijksvertegenwoordiger BES)

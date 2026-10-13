@@ -8,7 +8,7 @@ laatste_update: 2011-08-30
 status: geldig
 toestand: 2011-08-30
 bron: "https://wetten.overheid.nl/BWBR0028467"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Werkliedenwet 1944 BES

@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0028593"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-13
 ---
 
 # Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 16 september 2010, nr. 2010-0000607568, tot het stellen van nadere regels betreffende het vinden van passende arbeid voor gewezen politieke gezagdragers van de openbare lichamen Bonaire, Sint Eustatius en Saba en het opleggen van sancties aan gewezen politieke gezagdragers van de openbare lichamen Bonaire, Sint Eustatius en Saba (Regeling sollicitatieplicht voor gewezen politieke gezagdragers BES)

@@ -9,7 +9,7 @@ laatste_update: 2024-11-26
 status: geldig
 toestand: 2024-11-26
 bron: "https://wetten.overheid.nl/BWBR0028402"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Beleidsregel van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 8 september 2010, nr. HO&S/BS/2010/ 227934, betreffende onder meer de bevoegdheid tot het verlenen van toestemming aan rechtspersonen om graden te verlenen (Beleidsregel bevoegdheid graadverlening hoger onderwijs)

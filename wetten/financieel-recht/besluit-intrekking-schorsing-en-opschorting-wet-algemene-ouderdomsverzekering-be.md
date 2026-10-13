@@ -8,7 +8,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0028532"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit intrekking, schorsing en opschorting Wet algemene ouderdomsverzekering BES

@@ -9,7 +9,7 @@ laatste_update: 2010-07-09
 status: geldig
 toestand: 2010-07-09
 bron: "https://wetten.overheid.nl/BWBR0027872"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Regeling van het College van Procureurs Generaal van 18 december 2009, nummer PaG 14389, houdende de verlening van mandaat, volmacht en machtiging aan de hoofdofficieren van justitie van de arrondissementsparketten

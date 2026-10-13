@@ -8,7 +8,7 @@ laatste_update: 2022-03-02
 status: geldig
 toestand: 2022-03-02
 bron: "https://wetten.overheid.nl/BWBR0028503"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Handelsregisterwet 2009 BES

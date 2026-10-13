@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0028595"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-13
 ---
 
 # Besluit van 14 september 2010, houdende regels met betrekking tot het verlenen van onderstand in de openbare lichamen Bonaire, Sint Eustatius en Saba (Besluit onderstand BES)

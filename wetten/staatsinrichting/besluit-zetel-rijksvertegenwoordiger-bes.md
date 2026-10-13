@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0028556"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-13
 ---
 
 # Besluit van 29 september 2010, houdende vaststelling van het openbaar lichaam waar de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba zijn zetel heeft (Besluit zetel Rijksvertegenwoordiger BES)

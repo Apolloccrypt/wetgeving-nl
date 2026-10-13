@@ -8,7 +8,7 @@ laatste_update: 2012-07-01
 status: geldig
 toestand: 2012-07-01
 bron: "https://wetten.overheid.nl/BWBR0028254"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Wet aansprakelijkheidsverzekering motorrijtuigen BES

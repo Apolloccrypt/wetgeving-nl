@@ -9,7 +9,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBR0027879"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit van 17 juni 2010, houdende vaststelling van referentieniveaus Nederlandse taal en referentieniveaus rekenen (Besluit referentieniveaus Nederlandse taal en rekenen)

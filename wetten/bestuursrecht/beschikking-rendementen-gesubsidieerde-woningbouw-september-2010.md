@@ -8,7 +8,7 @@ laatste_update: 2010-11-01
 status: geldig
 toestand: 2010-11-01
 bron: "https://wetten.overheid.nl/BWBR0028436"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Beschikking rendementen gesubsidieerde woningbouw, september 2010

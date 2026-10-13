@@ -9,7 +9,7 @@ laatste_update: 1987-08-24
 status: geldig
 toestand: 1987-08-24
 bron: "https://wetten.overheid.nl/BWBR0027791"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Resolutie Ministerie van Financiën 24 augustus 1987, nr. 087-1692

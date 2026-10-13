@@ -8,7 +8,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0028616"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-13
 ---
 
 # Wet ambtenarenrechtspraak 1951 BES

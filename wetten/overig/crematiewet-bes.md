@@ -8,7 +8,7 @@ laatste_update: 2011-10-04
 status: geldig
 toestand: 2011-10-04
 bron: "https://wetten.overheid.nl/BWBR0028203"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Crematiewet BES

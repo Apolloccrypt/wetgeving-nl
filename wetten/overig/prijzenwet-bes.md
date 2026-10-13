@@ -8,7 +8,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0028250"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Prijzenwet BES

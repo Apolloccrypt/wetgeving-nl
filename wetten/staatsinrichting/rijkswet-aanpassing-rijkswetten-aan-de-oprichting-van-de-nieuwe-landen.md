@@ -9,7 +9,7 @@ laatste_update: 2016-07-01
 status: geldig
 toestand: 2016-07-01
 bron: "https://wetten.overheid.nl/BWBR0028128"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Rijkswet van 7 juli 2010 tot wijziging van verschillende rijkswetten in verband met de verkrijging van de hoedanigheid van land binnen het Koninkrijk door Curaçao en Sint Maarten en de toetreding van Bonaire, Sint Eustatius en Saba tot het Nederlandse staatsbestel (Rijkswet aanpassing rijkswetten aan de oprichting van de nieuwe landen)

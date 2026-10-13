@@ -9,7 +9,7 @@ laatste_update: 1999-09-20
 status: geldig
 toestand: 1999-09-20
 bron: "https://wetten.overheid.nl/BWBR0027807"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit staatssecretaris van Financiën 20 september 1999, nr. IFZ99/1044

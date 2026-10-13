@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0028133"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit van 23 augustus 2010, houdende regels ter uitvoering van de Rijkswet Raad voor de rechtshandhaving (Rijksbesluit rechtspositie leden Raad voor de rechtshandhaving)

@@ -9,7 +9,7 @@ laatste_update: 2011-12-21
 status: geldig
 toestand: 2011-12-21
 bron: "https://wetten.overheid.nl/BWBR0028600"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-13
 ---
 
 # Besluit van 21 september 2010, houdende opvolging van de Sociale Verzekeringsbank van de Nederlandse Antillen (Rijksbesluit opvolging Sociale Verzekeringsbank Nederlandse Antillen)

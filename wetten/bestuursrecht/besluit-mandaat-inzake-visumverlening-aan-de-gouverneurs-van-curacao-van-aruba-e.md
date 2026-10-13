@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0027938"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 9 juli 2010, nr. DJZ/BR-0492/2010, houdende verlening van mandaat inzake visumverlening aan de Gouverneurs van Curaçao, van Aruba en van Sint Maarten

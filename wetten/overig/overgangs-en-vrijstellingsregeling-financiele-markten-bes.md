@@ -9,7 +9,7 @@ laatste_update: 2012-05-23
 status: geldig
 toestand: 2012-05-23
 bron: "https://wetten.overheid.nl/BWBR0028601"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-13
 ---
 
 # Regeling van de minister van Financiën houdende aanvullende regels betreffende het overgangsrecht voor de financiële markten in Bonaire, Sint Eustatius en Saba, alsmede regels betreffende vrijstellingen op grond van de Wet toezicht bank- en kredietwezen 1994 BES en de Wet toezicht verzekeringsbedrijf BES (Overgangs- en vrijstellingsregeling financiële markten BES)

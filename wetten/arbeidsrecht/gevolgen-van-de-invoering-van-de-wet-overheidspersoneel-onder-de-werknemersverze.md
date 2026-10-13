@@ -8,7 +8,7 @@ laatste_update: 1998-05-20
 status: geldig
 toestand: 1998-05-20
 bron: "https://wetten.overheid.nl/BWBR0028049"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Gevolgen van de invoering van de Wet overheidspersoneel onder de werknemersverzekeringen voor de toepassing van de Belastingregeling voor het Koninkrijk en de belastingverdragen

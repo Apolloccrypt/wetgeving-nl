@@ -9,7 +9,7 @@ laatste_update: 2010-06-25
 status: geldig
 toestand: 2010-06-25
 bron: "https://wetten.overheid.nl/BWBR0027796"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit van 9 juni 2010, houdende de overdracht van de zorg voor de Pandhuiswet 1910

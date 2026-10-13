@@ -9,7 +9,7 @@ laatste_update: 2013-09-21
 status: geldig
 toestand: 2013-09-21
 bron: "https://wetten.overheid.nl/BWBR0027930"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Wet van 7 juli 2010 tot wijziging van de Vreemdelingenwet 2000 en enkele andere wetten in verband met de versterking van de positie van de referent in het reguliere vreemdelingenrecht en versnelling van de vreemdelingenrechtelijke procedure (Wet modern migratiebeleid)

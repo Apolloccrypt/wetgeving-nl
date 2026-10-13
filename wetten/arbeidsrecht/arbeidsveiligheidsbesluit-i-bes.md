@@ -8,7 +8,7 @@ laatste_update: 2022-05-20
 status: geldig
 toestand: 2022-05-20
 bron: "https://wetten.overheid.nl/BWBR0028627"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-13
 ---
 
 # Arbeidsveiligheidsbesluit I BES

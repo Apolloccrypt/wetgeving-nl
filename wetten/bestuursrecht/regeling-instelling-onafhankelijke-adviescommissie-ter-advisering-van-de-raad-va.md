@@ -9,7 +9,7 @@ laatste_update: 2010-07-22
 status: geldig
 toestand: 2010-07-22
 bron: "https://wetten.overheid.nl/BWBR0027951"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Regeling van de Minister voor Jeugd en Gezin van 13 juli 2010, nr. IVV/J&G/3013046, houdende de instelling van een onafhankelijke adviescommissie ter advisering van de Raad van bestuur van de Sociale verzekeringsbank over de aspecten van de Leerplichtwet 1969 ten behoeve van de beslissing op bezwaar inzake artikel 7, tweede lid, onder a, van de Algemene Kinderbijslagwet

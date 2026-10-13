@@ -9,7 +9,7 @@ laatste_update: 2011-10-07
 status: geldig
 toestand: 2011-10-07
 bron: "https://wetten.overheid.nl/BWBR0028310"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Regeling van de Minister van Economische Zaken van 9 september 2010, nr. WJZ/10134751 houdende een tijdelijke voorziening voor internationale merken en regels ter uitvoering van het Uitvoeringsbesluit merken BES (Uitvoeringsregeling merken BES)

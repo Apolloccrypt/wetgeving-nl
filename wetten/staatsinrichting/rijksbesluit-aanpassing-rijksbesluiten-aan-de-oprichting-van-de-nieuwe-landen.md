@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0028157"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit van 20 augustus 2010 tot wijziging van verschillende algemene maatregelen van rijksbestuur in verband met de verkrijging van de hoedanigheid van land binnen het Koninkrijk door Curaçao en Sint Maarten en de toetreding van Bonaire, Sint Eustatius en Saba tot het Nederlandse staatsbestel (Rijksbesluit aanpassing rijksbesluiten aan de oprichting van de nieuwe landen)

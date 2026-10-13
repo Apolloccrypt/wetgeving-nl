@@ -9,7 +9,7 @@ laatste_update: 2012-06-03
 status: geldig
 toestand: 2012-06-03
 bron: "https://wetten.overheid.nl/BWBR0028002"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw van 30 maart 2010, houdende de vaststelling van aan exporteurs van bloembollen op te leggen heffing voor de export van bloembollen naar Japan, voor het oogstjaar 2010 (Verordening PT heffing export bloembollen naar Japan oogstjaar 2010)

@@ -9,7 +9,7 @@ laatste_update: 1994-06-03
 status: geldig
 toestand: 1994-06-03
 bron: "https://wetten.overheid.nl/BWBR0027803"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit van 3 juni 1994, nr. IFZ 94/331

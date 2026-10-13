@@ -9,7 +9,7 @@ laatste_update: 2010-07-14
 status: geldig
 toestand: 2010-07-14
 bron: "https://wetten.overheid.nl/BWBR0027896"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Wet van 4 juni 2010 tot samenvoeging van de gemeenten Margraten en Eijsden

@@ -9,7 +9,7 @@ laatste_update: 2018-08-01
 status: geldig
 toestand: 2018-08-01
 bron: "https://wetten.overheid.nl/BWBR0028586"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-13
 ---
 
 # Wet van 30 september 2010, houdende bepalingen over de politie en over de brandweerzorg, de rampenbestrijding en de crisisbeheersing op Bonaire, Sint Eustatius en Saba (Veiligheidswet BES)

@@ -9,7 +9,7 @@ laatste_update: 2011-12-01
 status: geldig
 toestand: 2011-12-01
 bron: "https://wetten.overheid.nl/BWBR0027867"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Wet van 4 juni 2010 tot wijziging van de Wegenverkeerswet 1994 in verband met de aanpassing van de Vorderingsprocedure en de invoering van het alcoholslotprogramma

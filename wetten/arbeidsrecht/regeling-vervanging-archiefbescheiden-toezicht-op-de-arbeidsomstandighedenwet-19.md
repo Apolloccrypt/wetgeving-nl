@@ -9,7 +9,7 @@ laatste_update: 2010-09-18
 status: geldig
 toestand: 2010-09-18
 bron: "https://wetten.overheid.nl/BWBR0028275"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 10 september 2010, nr. BV/DCA/2010/15373, tot vervanging van archiefbescheiden rond het toezicht op de Arbeidsomstandighedenwet 1998 en de Arbeidstijdenwet

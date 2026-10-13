@@ -8,7 +8,7 @@ laatste_update: 2018-12-25
 status: geldig
 toestand: 2018-12-25
 bron: "https://wetten.overheid.nl/BWBR0028541"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Wachtgeldbesluit overheidsdienaren BES

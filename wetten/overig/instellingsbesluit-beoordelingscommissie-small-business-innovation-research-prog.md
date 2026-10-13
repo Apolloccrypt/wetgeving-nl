@@ -9,7 +9,7 @@ laatste_update: 2010-08-12
 status: geldig
 toestand: 2010-08-12
 bron: "https://wetten.overheid.nl/BWBR0028029"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit van de Minister van Economische Zaken van 31 juli 2010, nr. WJZ/10032665, houdende instelling van de Beoordelingscommissie Small Business Innovation Research programma

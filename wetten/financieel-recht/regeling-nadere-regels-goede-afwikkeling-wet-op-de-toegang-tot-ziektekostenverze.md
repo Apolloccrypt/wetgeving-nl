@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0028277"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 7 september 2010, nr. Z/M-3020417, houdende nadere regels omtrent een goede afwikkeling van de Wet op de toegang tot ziektekostenverzekeringen 1998 met betrekking tot de uitvoering van de wachtgeldregeling van het personeel van de Stichting Uitvoering Omslagregelingen

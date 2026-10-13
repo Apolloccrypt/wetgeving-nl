@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0028565"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-13
 ---
 
 # Besluit van 27 september 2010, houdende regels ter uitvoering van de Rijkswet openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba (Rijksbesluit rechtspositie leden openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba)

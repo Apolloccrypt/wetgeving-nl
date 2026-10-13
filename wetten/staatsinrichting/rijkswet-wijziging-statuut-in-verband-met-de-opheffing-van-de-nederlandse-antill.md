@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0028249"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Rijkswet van 7 september 2010 tot wijziging van het Statuut voor het Koninkrijk der Nederlanden in verband met de wijziging van de staatkundige hoedanigheid van de eilandgebieden van de Nederlandse Antillen (Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen)

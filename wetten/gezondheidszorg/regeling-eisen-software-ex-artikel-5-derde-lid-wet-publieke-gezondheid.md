@@ -9,7 +9,7 @@ laatste_update: 2010-10-01
 status: geldig
 toestand: 2010-10-01
 bron: "https://wetten.overheid.nl/BWBR0027959"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Regeling van de Minister voor Jeugd en Gezin van 13 juli 2010, nr. PG/JFB 3.011.321, houdende eisen voor de software als bedoeld in artikel 5, derde lid, van de Wet publieke gezondheid

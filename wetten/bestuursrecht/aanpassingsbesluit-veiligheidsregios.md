@@ -9,7 +9,7 @@ laatste_update: 2010-10-01
 status: geldig
 toestand: 2010-10-01
 bron: "https://wetten.overheid.nl/BWBR0027846"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit van 24 juni 2010, houdende wijziging van diverse besluiten vanwege de invoering van de Wet veiligheidsregio's (Aanpassingsbesluit veiligheidsregio's)

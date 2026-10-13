@@ -8,7 +8,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0028329"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit aanwijzing verenigingen als bedoeld in artikel 146, tweede lid, van het Wetboek van Strafrecht BES

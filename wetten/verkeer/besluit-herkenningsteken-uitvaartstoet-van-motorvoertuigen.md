@@ -9,7 +9,7 @@ laatste_update: 2010-07-01
 status: geldig
 toestand: 2010-07-01
 bron: "https://wetten.overheid.nl/BWBR0027787"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Regeling van de Minister van Verkeer en Waterstaat houdende het herkenningsteken dat motorvoertuigen in een uitvaartstoet van motorvoertuigen voeren (Besluit herkenningsteken uitvaartstoet van motorvoertuigen)

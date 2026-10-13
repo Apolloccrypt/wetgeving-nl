@@ -9,7 +9,7 @@ laatste_update: 2013-10-10
 status: geldig
 toestand: 2013-10-10
 bron: "https://wetten.overheid.nl/BWBR0028316"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit van 30 augustus 2010, houdende de vaststelling van regels ter uitwerking van de Pensioenwet BES (Besluit Pensioenwet BES)

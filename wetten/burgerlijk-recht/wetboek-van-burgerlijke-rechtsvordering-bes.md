@@ -8,7 +8,7 @@ laatste_update: 2015-07-01
 status: geldig
 toestand: 2015-07-01
 bron: "https://wetten.overheid.nl/BWBR0028496"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Wetboek van Burgerlijke Rechtsvordering BES

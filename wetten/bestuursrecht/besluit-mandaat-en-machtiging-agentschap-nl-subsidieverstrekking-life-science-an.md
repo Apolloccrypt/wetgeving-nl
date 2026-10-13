@@ -9,7 +9,7 @@ laatste_update: 2010-07-20
 status: geldig
 toestand: 2010-07-20
 bron: "https://wetten.overheid.nl/BWBR0027939"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 8 juli 2010, nr. GMT/IB 3010709, houdende verlening van mandaat en machtiging aan Agentschap NL

@@ -9,7 +9,7 @@ laatste_update: 2017-12-01
 status: geldig
 toestand: 2017-12-01
 bron: "https://wetten.overheid.nl/BWBR0027841"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit van 24 juni 2010, houdende regels over het personeel van de brandweer, functies voor de bedrijfsbrandweer, functies binnen de GHOR en functies binnen de organisatie van de rampenbestrijding en de crisisbeheersing en het overleg over het personeel van de brandweer (Besluit personeel veiligheidsregio’s)

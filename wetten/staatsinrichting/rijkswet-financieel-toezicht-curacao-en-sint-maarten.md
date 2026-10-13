@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0028132"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Rijkswet van 7 juli 2010, houdende regels voor het financieel toezicht op de landen Curaçao en Sint Maarten (Rijkswet financieel toezicht Curaçao en Sint Maarten)

@@ -8,7 +8,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0028511"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit verklaring derdenbeslag BES

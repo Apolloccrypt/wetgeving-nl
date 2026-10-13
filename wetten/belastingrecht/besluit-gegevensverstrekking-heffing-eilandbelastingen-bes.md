@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0028562"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-13
 ---
 
 # Besluit van 1 september 2010, houdende regels inzake de verstrekking van gegevens ten behoeve van de heffing van eilandbelastingen (Besluit gegevensverstrekking heffing eilandbelastingen BES)

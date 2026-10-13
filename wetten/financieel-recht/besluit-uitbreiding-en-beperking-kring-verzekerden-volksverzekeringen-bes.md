@@ -8,7 +8,7 @@ laatste_update: 2022-07-01
 status: geldig
 toestand: 2022-07-01
 bron: "https://wetten.overheid.nl/BWBR0028533"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit uitbreiding en beperking kring verzekerden volksverzekeringen BES

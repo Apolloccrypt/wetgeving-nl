@@ -9,7 +9,7 @@ laatste_update: 2026-07-16
 status: geldig
 toestand: 2026-07-16
 bron: "https://wetten.overheid.nl/BWBR0028136"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit van 24 juli 2010, houdende tijdelijke voorzieningen voor de samenwerking bij en de waarborging van de uitvoering van de plannen van aanpak door de landen Curaçao en Sint Maarten (Samenwerkingsregeling waarborging plannen van aanpak landstaken Curaçao en Sint Maarten)

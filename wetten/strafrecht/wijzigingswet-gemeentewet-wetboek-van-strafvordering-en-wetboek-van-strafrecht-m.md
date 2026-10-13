@@ -9,7 +9,7 @@ laatste_update: 2010-09-01
 status: geldig
 toestand: 2010-09-01
 bron: "https://wetten.overheid.nl/BWBR0028120"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Wet van 7 juli 2010 tot wijziging van de Gemeentewet, het Wetboek van Strafvordering en het Wetboek van Strafrecht ter regeling van de bevoegdheid van de burgemeester en de bevoegdheid van de officier van justitie tot het treffen van maatregelen ter bestrijding van voetbalvandalisme, ernstige overlast of ernstig belastend gedrag jegens personen of goederen (maatregelen bestrijding voetbalvandalisme en ernstige overlast)

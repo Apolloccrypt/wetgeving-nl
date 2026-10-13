@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0028308"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit van 8 september 2010, houdende regels ter uitvoering van artikel 7, derde lid, van de Wet op de bijzondere opsporingsdiensten met betrekking tot de bekwaamheid en betrouwbaarheid van opsporingsambtenaren van de bijzondere opsporingsdiensten (Besluit bekwaamheid en betrouwbaarheid opsporingsambtenaren bijzondere opsporingsdiensten 2010)

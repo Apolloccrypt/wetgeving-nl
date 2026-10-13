@@ -9,7 +9,7 @@ laatste_update: 2012-07-01
 status: geldig
 toestand: 2012-07-01
 bron: "https://wetten.overheid.nl/BWBR0028551"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Wet van 30 september 2010, houdende regels met betrekking tot het geldstelsel van de openbare lichamen Bonaire, Sint Eustatius en Saba, alsmede enige voorzieningen van overgangsrechtelijke aard (Wet geldstelsel BES)

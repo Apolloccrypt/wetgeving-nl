@@ -8,7 +8,7 @@ laatste_update: 2011-10-07
 status: geldig
 toestand: 2011-10-07
 bron: "https://wetten.overheid.nl/BWBR0028591"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-13
 ---
 
 # Uitvoeringsbesluit merken BES

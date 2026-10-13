@@ -9,7 +9,7 @@ laatste_update: 2010-07-01
 status: geldig
 toestand: 2010-07-01
 bron: "https://wetten.overheid.nl/BWBR0027833"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Wet van 17 december 2009 tot aanpassing van het Wetboek van Burgerlijke Rechtsvordering tot invoering van een procedure voor deelgeschillen ter bevordering van de buitengerechtelijke afhandeling van letsel- en overlijdensschade (Wet deelgeschilprocedure voor letsel- en overlijdensschade)

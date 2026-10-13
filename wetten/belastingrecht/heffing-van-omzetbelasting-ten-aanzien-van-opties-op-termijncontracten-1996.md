@@ -9,7 +9,7 @@ laatste_update: 1996-04-24
 status: geldig
 toestand: 1996-04-24
 bron: "https://wetten.overheid.nl/BWBR0027809"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit van 24 april 1996, nr. VB96/1157

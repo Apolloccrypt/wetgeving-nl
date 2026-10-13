@@ -9,7 +9,7 @@ laatste_update: 1979-01-22
 status: geldig
 toestand: 1979-01-22
 bron: "https://wetten.overheid.nl/BWBR0027789"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Het begrip ,,vaste inrichting’’ in de verdragen tot het vermijden van dubbele belasting Resolutie staatssecretaris van Financiën 22 januari 1979, nr. 079-24, gewijzigd bij Resolutie staatssecretaris van Financiën 26 maart 1989, nr. 088-3766

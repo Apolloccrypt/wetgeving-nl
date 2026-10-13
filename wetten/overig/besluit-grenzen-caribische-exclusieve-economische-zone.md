@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0027897"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit van 10 juni 2010, houdende vaststelling van de grenzen van de exclusieve economische zone van het Caribische deel van het Koninkrijk der Nederlanden (Besluit grenzen Caribische exclusieve economische zone)

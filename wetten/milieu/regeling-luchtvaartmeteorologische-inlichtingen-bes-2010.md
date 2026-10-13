@@ -8,7 +8,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0028494"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Regeling luchtvaartmeteorologische inlichtingen BES 2010

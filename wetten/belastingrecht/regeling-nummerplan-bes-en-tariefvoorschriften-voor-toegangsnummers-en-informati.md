@@ -8,7 +8,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0028614"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-13
 ---
 
 # Regeling nummerplan BES en tariefvoorschriften voor toegangsnummers en informatienummers BES

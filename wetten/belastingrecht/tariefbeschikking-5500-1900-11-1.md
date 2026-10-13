@@ -8,7 +8,7 @@ laatste_update: 2010-08-31
 status: geldig
 toestand: 2010-08-31
 bron: "https://wetten.overheid.nl/BWBR0028137"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Tariefbeschikking 5500-1900-11-1

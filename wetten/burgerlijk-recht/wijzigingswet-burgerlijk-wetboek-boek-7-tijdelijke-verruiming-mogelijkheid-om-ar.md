@@ -9,7 +9,7 @@ laatste_update: 2010-07-09
 status: geldig
 toestand: 2010-07-09
 bron: "https://wetten.overheid.nl/BWBR0027877"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Wet van 30 juni 2010 tot tijdelijke verruiming van de mogelijkheid in artikel 668a van Boek 7 van het Burgerlijk Wetboek om arbeidsovereenkomsten voor bepaalde tijd aan te gaan in verband met het bevorderen van de arbeidsparticipatie van jongeren

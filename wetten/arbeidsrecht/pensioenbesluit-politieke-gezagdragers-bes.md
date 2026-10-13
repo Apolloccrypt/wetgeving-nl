@@ -8,7 +8,7 @@ laatste_update: 2015-04-01
 status: geldig
 toestand: 2015-04-01
 bron: "https://wetten.overheid.nl/BWBR0028554"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-13
 ---
 
 # Pensioenbesluit politieke gezagdragers BES

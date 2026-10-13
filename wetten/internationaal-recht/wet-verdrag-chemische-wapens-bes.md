@@ -8,7 +8,7 @@ laatste_update: 2014-01-25
 status: geldig
 toestand: 2014-01-25
 bron: "https://wetten.overheid.nl/BWBR0028248"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Wet Verdrag Chemische Wapens BES

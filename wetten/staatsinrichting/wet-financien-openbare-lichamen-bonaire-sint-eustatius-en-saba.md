@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0028151"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Wet van 17 mei 2010, houdende regels met betrekking tot de financiële functie van de openbare lichamen Bonaire, Sint Eustatius en Saba, hun bevoegdheid tot het heffen van belastingen en hun financiële verhouding met het Rijk (Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba)

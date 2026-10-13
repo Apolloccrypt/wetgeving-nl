@@ -8,7 +8,7 @@ laatste_update: 1988-06-02
 status: geldig
 toestand: 1988-06-02
 bron: "https://wetten.overheid.nl/BWBR0027792"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Iran-United States Claims Tribunal

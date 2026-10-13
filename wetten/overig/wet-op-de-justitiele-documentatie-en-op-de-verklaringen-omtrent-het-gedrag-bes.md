@@ -8,7 +8,7 @@ laatste_update: 2010-12-15
 status: geldig
 toestand: 2010-12-15
 bron: "https://wetten.overheid.nl/BWBR0028258"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag BES

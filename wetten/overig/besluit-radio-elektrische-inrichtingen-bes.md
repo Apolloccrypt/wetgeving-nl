@@ -8,7 +8,7 @@ laatste_update: 2022-05-13
 status: geldig
 toestand: 2022-05-13
 bron: "https://wetten.overheid.nl/BWBR0028621"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-13
 ---
 
 # Besluit radio-elektrische inrichtingen BES

@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0028560"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-13
 ---
 
 # Besluit van 27 september 2010, houdende een onderlinge regeling met betrekking tot de overname door de Staat der Nederlanden van door het land de Nederlandse Antillen en de eilandgebieden Curaçao en Sint Maarten aangegane geldleningen (Rijksbesluit overname geldleningen Nederlandse Antillen, Curaçao en Sint Maarten)

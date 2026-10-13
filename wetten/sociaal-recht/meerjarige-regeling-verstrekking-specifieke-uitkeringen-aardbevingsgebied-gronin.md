@@ -9,7 +9,7 @@ laatste_update: 2026-10-07
 status: geldig
 toestand: 2026-10-07
 bron: "https://wetten.overheid.nl/BWBR0049907"
-opgehaald: 2026-10-12
+opgehaald: 2026-10-13
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 28 juni 2024, nr. WJZ/ 59343160, houdende regels met betrekking tot de verstrekking van specifieke uitkeringen aan gemeenten in de provincie Groningen en aan de provincie Groningen ten behoeve van activiteiten die verband houden met de uitvoering van de versterkingsopgave en met maatregelen benoemd in de kabinetsreactie op het rapport van de Parlementaire enquête aardgaswinning Groningen (Meerjarige regeling verstrekking specifieke uitkeringen aardbevingsgebied Groningen 2024–2030)

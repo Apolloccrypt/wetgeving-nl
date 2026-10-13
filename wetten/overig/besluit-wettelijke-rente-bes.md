@@ -8,7 +8,7 @@ laatste_update: 2012-02-16
 status: geldig
 toestand: 2012-02-16
 bron: "https://wetten.overheid.nl/BWBR0028339"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit wettelijke rente BES

@@ -9,7 +9,7 @@ laatste_update: 2020-02-25
 status: geldig
 toestand: 2020-02-25
 bron: "https://wetten.overheid.nl/BWBR0027866"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Ministeriële regeling van 18 mei 2010, nr. BS/2010015570, van de afdeling Pensioenen, Sociale Zekerheid, Zorg en Veteranen

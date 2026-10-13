@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0044212"
-opgehaald: 2026-10-01
+opgehaald: 2026-10-13
 ---
 
 # Wet van 30 september 2020, houdende regels over het voortgezet onderwijs (Wet voortgezet onderwijs 2020)
@@ -3970,6 +3970,56 @@ Het bevoegd gezag beheert de middelen van de school op zodanige wijze dat het vo
 
 2. Bij algemene maatregel van bestuur worden regels gesteld over de bruto vloeroppervlakten per gelijktijdig aanwezige leerling die huisvestingsvoorzieningen ten minste dienen te bevatten. Deze oppervlakten kunnen per schoolsoort verschillend worden vastgesteld.
 
+##### Artikel 6.2a. Inhoud integraal huisvestingsplan
+
+1. De gemeenteraad stelt het integraal huisvestingsplan vast, dat in elk geval bevat:
+
+- a. een beschrijving van elk schoolgebouw op het grondgebied van de gemeente;
+
+- b. de geraamde investeringsbedragen per schoolgebouw voor de voorzieningen in de huisvesting, bedoeld in [artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&hoofdstuk=6&paragraaf=1&artikel=6.2&z=2026-08-01&g=2026-08-01), voor een periode van vier jaar;
+
+- c. het beleid voor de onderwijshuisvesting in relatie tot de prognose van het aantal leerlingen in de gemeente in de periode waarop het plan betrekking heeft.
+
+2. Elk schoolgebouw op het grondgebied van de gemeente wordt aangeduid met vermelding van in ieder geval:
+
+- a. de kadastrale gegevens van het perceel;
+
+- b. het bouwjaar, het bruto vloeroppervlakte, de bouwtechnische staat, de functionaliteit van het gebouw in relatie tot de onderwijsvorm, het energieverbruik, de overige exploitatielasten, de verwachte technische levensduur en de duurzaamheid van het gebouw;
+
+- c. de aanwezige sportvoorzieningen;
+
+- d. de wijze waarop afstemming heeft plaatsgevonden met de meerjarenonderhoudsplannen, bedoeld in [artikel 6.2c](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&hoofdstuk=6&paragraaf=1&artikel=6.2c&z=2026-08-01&g=2026-08-01);
+
+- e. de voornemens voor het schoolgebouw in de periode van twaalf jaar volgend op de periode van vier jaar waarvoor het plan geldt.
+
+3. Indien de gemeenteraad een besluit heeft genomen als bedoeld in [artikel 6.21](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&hoofdstuk=6&paragraaf=6&artikel=6.21&z=2026-08-01&g=2026-08-01), vermeldt het integraal huisvestingsplan voor welk bevoegd gezag, voor welke voorziening in de huisvesting en voor welke termijn dit besluit is genomen.
+
+4. Het betreffende bevoegd gezag verstrekt voor zover nodig de gegevens, bedoeld in het in het tweede lid, aan de gemeenteraad.
+
+5. Bij ministeriële regeling kunnen nadere regels worden gesteld over de wijze waarop de gegevens, bedoeld in het eerste en tweede lid, In het integraal huisvestingsplan worden vermeld en welke informatie hierbij betrokken moet worden.
+
+##### Artikel 6.2b. Procedure integraal huisvestingsplan
+
+1. Voor vaststelling of wijziging van het integraal huisvestingsplan voert de gemeenteraad op overeenstemming gericht overleg met de bevoegde gezagen van de scholen in de gemeente.
+
+2. De Onderwijsraad geeft op verzoek van de gemeenteraad tijdens het op overeenstemming gericht overleg advies over de vaststelling of wijziging van het integraal huisvestingsplan in relatie tot de vrijheid van richting en de vrijheid van inrichting. De gemeenteraad vraagt het advies op verzoek van een bevoegd gezag of ambtshalve. Het verzoek bevat een omschrijving van de onderwerpen waarover advies wordt gevraagd.
+
+3. De Onderwijsraad brengt binnen acht weken na ontvangst van het verzoek advies uit aan de gemeenteraad. De gemeenteraad maakt het advies met het integraal huisvestingsplan of de wijziging daarvan bekend.
+
+4. Het integraal huisvestingsplan of wijziging daarvan wordt ter kennisneming aan Onze Minister gezonden.
+
+5. Bij ministeriële regeling kunnen regels worden gesteld over de wijze waarop de toezending, bedoeld in het vierde lid, plaatsvindt.
+
+##### Artikel 6.2c. Meerjarenonderhoudsplan
+
+1. Het bevoegd gezag stelt op basis van een bouwkundige inspectie per schoolgebouw een meerjarenonderhoudsplan vast voor het onderhoud en brengt het meerjarenonderhoudsplan ter kennis van de gemeenteraad van de gemeente waar het betreffende schoolgebouw is gelegen.
+
+2. Het meerjarenonderhoudsplan bestrijkt een periode van vier jaar en vermeldt in ieder geval welke onderhoudswerkzaamheden in welk jaar plaatsvinden en de daarvoor beschikbare middelen en de voornemens voor onderhoudswerkzaamheden in de periode van twaalf jaar volgend op de periode van vier jaar waarvoor het meerjarenonderhoudsplan geldt.
+
+3. Voorafgaand aan het op overeenstemming gericht overleg over het integraal huisvestingsplan, bedoeld in [artikel 6.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&hoofdstuk=6&paragraaf=1&artikel=6.2a&z=2026-08-01&g=2026-08-01), brengt het bevoegd gezag het meerjarenonderhoudsplan ter kennis van de deelnemers aan dit overleg.
+
+4. Bij ministeriële regeling kunnen nadere regels worden gesteld over de wijze waarop de informatie, bedoeld in het tweede lid, in het meerjarenonderhoudsplan wordt vermeld.
+
 #### Paragraaf 2. Bekostigingsplafond; programma huisvestingsvoorzieningen; overzicht
 
 ##### Artikel 6.3. Vaststelling door college van burgemeester en wethouders van bekostigingsplafond voor nieuwe huisvestingsvoorzieningen
@@ -6034,6 +6084,56 @@ De [artikelen 11.62 tot en met 11.80](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 2. De kosten van bouwvoorbereiding kunnen tot de kosten van huisvesting worden gerekend.
 
+##### Artikel 11.63a. Inhoud integraal huisvestingsplan
+
+1. De eilandsraad stelt het integraal huisvestingsplan vast, dat in elk geval bevat:
+
+- a. een beschrijving van elk schoolgebouw op het grondgebied van de gemeente;
+
+- b. de investeringsbedragen per schoolgebouw van de voorzieningen in de huisvesting, bedoeld in [artikel 11.63](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&hoofdstuk=11&paragraaf=6&artikel=11.63&z=2026-08-01&g=2026-08-01) voor een periode van vier jaar;
+
+- c. het beleid voor de onderwijshuisvesting in relatie tot de prognose van het aantal leerlingen in het openbaar lichaam in de periode waarop het plan betrekking heeft.
+
+2. Elk schoolgebouw op het grondgebied van het openbaar lichaam wordt aangeduid met vermelding van in ieder geval:
+
+- a. de kadastrale gegevens van het perceel;
+
+- b. het bouwjaar, het bruto vloeroppervlakte, de bouwtechnische staat, de functionaliteit van het gebouw in relatie tot de onderwijsvorm, het energieverbruik, de overige exploitatielasten, de verwachte technische levensduur en duurzaamheid van het gebouw;
+
+- c. de aanwezige sportvoorzieningen;
+
+- d. de wijze waarop de afstemming heeft plaatsgevonden met de meerjarenonderhoudsplannen, bedoeld in [artikel 11.63c](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&hoofdstuk=11&paragraaf=6&artikel=11.63c&z=2026-08-01&g=2026-08-01);
+
+- e. de voornemens voor het schoolgebouw in de periode van twaalf jaar volgend op de periode van vier jaar waarvoor het plan geldt.
+
+3. Indien de eilandsraad een besluit heeft genomen als bedoeld in [artikel 11.79](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&hoofdstuk=11&paragraaf=6&artikel=11.79&z=2026-08-01&g=2026-08-01), vermeldt het integraal huisvestingsplan voor welk bevoegd gezag, voor welke voorziening in de huisvesting en voor welke termijn dit besluit is genomen.
+
+4. Het betreffende bevoegd gezag verstrekt voor zover nodig de gegevens, bedoeld in het tweede lid, aan de eilandraad.
+
+5. Bij ministeriële regeling kunnen nadere regels worden gesteld over de wijze waarop de gegevens, bedoeld in het eerste en tweede lid, in het integraal huisvestingsplan worden vermeld en welke informatie hierbij betrokken moet worden.
+
+##### Artikel 11.63b. Procedure integraal huisvestingsplan
+
+1. Voor vaststelling of wijziging van het integraal huisvestingsplan voert de eilandsraad op overeenstemming gericht overleg met de bevoegde gezagen van de scholen op het grondgebied van het openbaar lichaam.
+
+2. De Onderwijsraad geeft op verzoek van de eilandsraad tijdens het op overeenstemming gericht overleg advies over de vaststelling of wijziging van het integraal huisvestingsplan in relatie tot de vrijheid van richting en de vrijheid van inrichting. De eilandsraad vraagt het advies op verzoek van een bevoegd gezag of ambtshalve. Het verzoek bevat een omschrijving van de onderwerpen waarover advies wordt gevraagd.
+
+3. De Onderwijsraad brengt binnen acht weken na ontvangst van het verzoek advies uit aan de eilandsraad. De eilandsraad maakt het advies met het integraal huisvestingsplan of de wijziging daarvan bekend.
+
+4. Het integraal huisvestingsplan of wijziging daarvan wordt ter kennisneming aan Onze Minister gezonden.
+
+5. Bij ministeriële regeling kunnen regels worden gesteld over de wijze waarop de toezending, bedoeld in het vierde lid, plaatsvindt.
+
+##### Artikel 11.63c. Meerjarenonderhoudsplan
+
+1. Het bevoegd gezag stelt op basis van een bouwkundige inspectie per schoolgebouw een meerjarenonderhoudsplan vast voor het onderhoud en brengt het meerjarenonderhoudsplan ter kennis van de eilandsraad van het openbaar lichaam op wiens grondgebied het betreffende schoolgebouw is gelegen.
+
+2. Het meerjarenonderhoudsplan bestrijkt een periode van vier jaar en vermeldt in ieder geval welke onderhoudswerkzaamheden in welk jaar plaatsvinden en de daarvoor beschikbare middelen, en de voornemens voor onderhoudswerkzaamheden in de periode van twaalf jaar volgend op de periode van vier jaar waarvoor het meerjarenonderhoudsplan geldt.
+
+3. Voorafgaand aan het op overeenstemming gericht overleg over het integraal huisvestingsplan, bedoeld in [artikel 11.63a](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&hoofdstuk=11&paragraaf=6&artikel=11.63a&z=2026-08-01&g=2026-08-01), brengt het bevoegd gezag het meerjarenonderhoudsplan ter kennis van de deelnemers aan dit overleg.
+
+4. Bij ministeriële regeling kunnen nadere regels worden gesteld over de wijze waarop de informatie, bedoeld in het tweede lid, in het meerjarenonderhoudsplan wordt vermeld.
+
 ##### Artikel 11.64. Vaststelling door het bestuurscollege van bekostigingsplafond voor nieuwe voorzieningen in de huisvesting
 
 1. Het bestuurscollege stelt jaarlijks, na overleg met de betrokken bevoegde gezagsorganen, ten behoeve van het eerstvolgende jaar voor een door hem te bepalen tijdstip een bekostigingsplafond vast voor de bekostiging van de voorzieningen in de huisvesting voor:
@@ -6791,6 +6891,10 @@ Onze Minister voor Basis- en Voortgezet Onderwijs en Media zendt binnen drie jaa
 ##### Artikel 13.14. Evaluatie Wet vereenvoudiging grondslagen bekostiging vo-scholen (Stb. 2020, 437)
 
 Onze Minister zendt binnen vijf jaar na 1 oktober 2021, en vervolgens telkens na vier jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van de [artikelen 5.4 tot en met 5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&hoofdstuk=5&paragraaf=2&artikel=5.4&z=2026-08-01&g=2026-08-01), [5.25](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&hoofdstuk=5&paragraaf=4&artikel=5.25&z=2026-08-01&g=2026-08-01), [5.27](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&hoofdstuk=5&paragraaf=4&artikel=5.27&z=2026-08-01&g=2026-08-01), [5.28](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&hoofdstuk=5&paragraaf=4&artikel=5.28&z=2026-08-01&g=2026-08-01) en [11.56](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&hoofdstuk=11&paragraaf=5&artikel=11.56&z=2026-08-01&g=2026-08-01) in de praktijk.
+
+##### Artikel 13.15*. Evaluatie Wet planmatige aanpak onderwijshuisvesting
+
+Onze Minister zendt binnen vijf jaar en binnen tien jaar na de inwerkingtreding van de [Wet planmatige aanpak onderwijshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0053168) aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van de [artikelen 6.2, eerste lid, onderdeel a, onderdeel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&hoofdstuk=6&paragraaf=1&artikel=6.2&z=2026-08-01&g=2026-08-01), [6.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&hoofdstuk=6&paragraaf=1&artikel=6.2a&z=2026-08-01&g=2026-08-01), [6.2b](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&hoofdstuk=6&paragraaf=1&artikel=6.2b&z=2026-08-01&g=2026-08-01), [6.2c](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&hoofdstuk=6&paragraaf=1&artikel=6.2c&z=2026-08-01&g=2026-08-01), [11.63, eerste lid, onderdeel a, onderdeel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&hoofdstuk=11&paragraaf=6&artikel=11.63&z=2026-08-01&g=2026-08-01), [11.63a](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&hoofdstuk=11&paragraaf=6&artikel=11.63a&z=2026-08-01&g=2026-08-01), [11.63b](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&hoofdstuk=11&paragraaf=6&artikel=11.63b&z=2026-08-01&g=2026-08-01) en [11.63c](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&hoofdstuk=11&paragraaf=6&artikel=11.63c&z=2026-08-01&g=2026-08-01) in de praktijk.
 
 ##### Artikel 13.15. Evaluatie Wet herziening wettelijke grondslagen kerndoelen
 

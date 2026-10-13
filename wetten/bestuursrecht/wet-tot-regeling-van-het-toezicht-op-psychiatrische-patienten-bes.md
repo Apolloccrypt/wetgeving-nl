@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0028223"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Wet tot regeling van het toezicht op krankzinnigen BES

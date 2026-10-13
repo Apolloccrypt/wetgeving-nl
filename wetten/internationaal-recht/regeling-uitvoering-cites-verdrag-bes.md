@@ -9,7 +9,7 @@ laatste_update: 2023-03-15
 status: geldig
 toestand: 2023-03-15
 bron: "https://wetten.overheid.nl/BWBR0028590"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-13
 ---
 
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 22 september 2010, nr. 143224, houdende bepalingen ten aanzien van de uitvoering van het CITES-verdrag op de openbare lichamen Bonaire, Sint Eustatius en Saba

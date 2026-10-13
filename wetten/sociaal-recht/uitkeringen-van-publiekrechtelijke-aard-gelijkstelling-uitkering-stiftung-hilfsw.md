@@ -9,7 +9,7 @@ laatste_update: 1994-10-24
 status: geldig
 toestand: 1994-10-24
 bron: "https://wetten.overheid.nl/BWBR0027805"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit van 24 oktober 1994, nr. IFZ94/1206

@@ -9,7 +9,7 @@ laatste_update: 2012-03-22
 status: geldig
 toestand: 2012-03-22
 bron: "https://wetten.overheid.nl/BWBR0028140"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit van de Minister van Justitie en de Minister voor Jeugd en Gezin van 16 augustus 2010, nr. DDS 5663593, houdende instelling van de Commissie onderzoek seksueel misbruik van minderjarigen die onder verantwoordelijkheid van de overheid in instellingen zijn geplaatst (Instellingsbesluit Commissie Samson)

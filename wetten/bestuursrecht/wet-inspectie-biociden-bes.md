@@ -9,7 +9,7 @@ laatste_update: 2012-07-28
 status: geldig
 toestand: 2012-07-28
 bron: "https://wetten.overheid.nl/BWBR0028563"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-13
 ---
 
 # Wet Inspectie voor de Volksgezondheid BES

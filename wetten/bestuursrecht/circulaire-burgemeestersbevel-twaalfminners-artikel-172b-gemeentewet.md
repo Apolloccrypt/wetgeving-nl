@@ -8,7 +8,7 @@ laatste_update: 2010-09-01
 status: geldig
 toestand: 2010-09-01
 bron: "https://wetten.overheid.nl/BWBR0028138"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Circulaire Burgemeestersbevel twaalfminners, artikel 172b Gemeentewet

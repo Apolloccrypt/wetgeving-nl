@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0028602"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-13
 ---
 
 # Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 16 september 2010, nr. 2010-0000607117, houdende een aantal rechtspositionele aangelegenheden ten aanzien van de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba (Regeling rechtspositie Rijksvertegenwoordiger BES)

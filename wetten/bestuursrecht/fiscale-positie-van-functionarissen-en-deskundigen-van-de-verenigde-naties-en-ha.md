@@ -9,7 +9,7 @@ laatste_update: 1995-03-07
 status: geldig
 toestand: 1995-03-07
 bron: "https://wetten.overheid.nl/BWBR0027806"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit staatssecretaris van Financiën 7 maart 1995, nr. IFZ95/223, oorspronkelijk 29 juni 1962, nr. B2/9545 (art. V, § 18,Verdrag nopens de voorrechten en immuniteiten VN)

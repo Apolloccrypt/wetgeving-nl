@@ -9,7 +9,7 @@ laatste_update: 2010-08-28
 status: geldig
 toestand: 2010-08-28
 bron: "https://wetten.overheid.nl/BWBR0027899"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Regeling tot vaststelling voor 2010 van de maatstaven, bandbreedtes en tarieven bedoeld in artikel 8, tweede lid, van de Regeling bekostiging Wet toezicht trustkantoren

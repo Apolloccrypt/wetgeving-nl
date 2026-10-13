@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0028343"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit van 6 september 2010, betreffende regels inzake de financiering van het parket van de procureur-generaal (Rijksbesluit financiering parket van de procureur-generaal)

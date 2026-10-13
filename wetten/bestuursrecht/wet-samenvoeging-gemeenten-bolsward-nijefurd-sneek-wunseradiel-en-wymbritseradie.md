@@ -9,7 +9,7 @@ laatste_update: 2010-07-30
 status: geldig
 toestand: 2010-07-30
 bron: "https://wetten.overheid.nl/BWBR0027991"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Wet van 7 juli 2010 tot samenvoeging van de gemeenten Bolsward, Nijefurd, Sneek, Wûnseradiel en Wymbritseradiel

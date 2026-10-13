@@ -9,7 +9,7 @@ laatste_update: 2012-01-21
 status: geldig
 toestand: 2012-01-21
 bron: "https://wetten.overheid.nl/BWBR0027956"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Wet van 7 juli 2010 tot wijziging van de Wet kinderopvang, de Wet op het onderwijstoezicht, de Wet op het primair onderwijs en enkele andere wetten in verband met wijzigingen in het onderwijsachterstandenbeleid

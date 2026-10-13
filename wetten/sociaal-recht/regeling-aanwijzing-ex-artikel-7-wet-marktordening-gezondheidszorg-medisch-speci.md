@@ -9,7 +9,7 @@ laatste_update: 2010-08-06
 status: geldig
 toestand: 2010-08-06
 bron: "https://wetten.overheid.nl/BWBR0028021"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 7 mei 2010, nr. CZ/TSZ-3003410 op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake medisch specialistische zorg 2010

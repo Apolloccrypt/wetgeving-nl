@@ -9,7 +9,7 @@ laatste_update: 2010-08-13
 status: geldig
 toestand: 2010-08-13
 bron: "https://wetten.overheid.nl/BWBR0028035"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Wet van 7 juli 2010 tot samenvoeging van de gemeenten Breukelen, Loenen en Maarssen, en van de gemeenten Abcoude en De Ronde Venen

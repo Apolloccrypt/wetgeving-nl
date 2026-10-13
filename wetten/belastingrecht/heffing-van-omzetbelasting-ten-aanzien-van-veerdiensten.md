@@ -8,7 +8,7 @@ laatste_update: 2003-01-01
 status: geldig
 toestand: 2003-01-01
 bron: "https://wetten.overheid.nl/BWBR0027976"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Heffing van omzetbelasting ten aanzien van veerdiensten

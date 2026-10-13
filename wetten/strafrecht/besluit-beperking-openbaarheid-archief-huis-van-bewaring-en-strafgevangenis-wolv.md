@@ -9,7 +9,7 @@ laatste_update: 2010-11-01
 status: geldig
 toestand: 2010-11-01
 bron: "https://wetten.overheid.nl/BWBR0028185"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit van de Minister van Justitie, houdende beperking van de openbaarheid van het archief van het Huis van Bewaring en de Strafgevangenis Wolvenplein te Utrecht (aanvulling), 1940−1978 (2000)

@@ -8,7 +8,7 @@ laatste_update: 1998-11-03
 status: geldig
 toestand: 1998-11-03
 bron: "https://wetten.overheid.nl/BWBR0028047"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Interpretatie begrip "gelieerd persoon" in art. 36 Verdrag met de Verenigde Staten

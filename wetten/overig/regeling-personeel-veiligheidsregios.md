@@ -9,7 +9,7 @@ laatste_update: 2026-04-18
 status: geldig
 toestand: 2026-04-18
 bron: "https://wetten.overheid.nl/BWBR0027840"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 24 juni 2010, nr. 2010-0000147401, CZW/WVOB, houdende regels over functies voor het personeel van de veiligheidsregio’s (Regeling personeel veiligheidsregio’s)

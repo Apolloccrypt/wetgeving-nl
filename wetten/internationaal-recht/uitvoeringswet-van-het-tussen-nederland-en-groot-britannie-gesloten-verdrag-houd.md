@@ -8,7 +8,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0028201"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Uitvoeringswet van het tussen Nederland en Groot-Britannië gesloten verdrag, houdende bepalingen tot het vergemakkelijken van het voeren van rechtsgedingen BES

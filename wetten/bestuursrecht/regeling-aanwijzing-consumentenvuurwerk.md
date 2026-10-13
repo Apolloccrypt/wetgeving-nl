@@ -9,7 +9,7 @@ laatste_update: 2025-12-01
 status: geldig
 toestand: 2025-12-01
 bron: "https://wetten.overheid.nl/BWBR0027932"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 13 juli 2010, nr. BJZ2010018765, tot aanwijzing van consumenten- en theatervuurwerk (Regeling aanwijzing consumenten- en theatervuurwerk)

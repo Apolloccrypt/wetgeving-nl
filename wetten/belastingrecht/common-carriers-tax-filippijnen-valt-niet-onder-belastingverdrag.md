@@ -8,7 +8,7 @@ laatste_update: 1994-12-15
 status: geldig
 toestand: 1994-12-15
 bron: "https://wetten.overheid.nl/BWBR0028091"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Common carriers tax Filippijnen valt niet onder belastingverdrag

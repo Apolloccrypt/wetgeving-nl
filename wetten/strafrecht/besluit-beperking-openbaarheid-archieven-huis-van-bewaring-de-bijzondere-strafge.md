@@ -9,7 +9,7 @@ laatste_update: 2010-11-01
 status: geldig
 toestand: 2010-11-01
 bron: "https://wetten.overheid.nl/BWBR0028186"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit van de Minister van Justitie, houdende beperking van de openbaarheid van de archieven van het Huis van Bewaring, de Bijzondere Strafgevangenis voor Jonge Mannen te Zutphen en de Graafse Kamp te Warnsveld (1888) 1937−1993

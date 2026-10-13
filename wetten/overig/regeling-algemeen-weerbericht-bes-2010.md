@@ -8,7 +8,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0028500"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Regeling algemeen weerbericht BES 2010

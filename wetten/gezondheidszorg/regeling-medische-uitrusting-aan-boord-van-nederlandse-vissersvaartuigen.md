@@ -8,7 +8,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0027842"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Regeling medische uitrusting aan boord van Nederlandse vissersvaartuigen

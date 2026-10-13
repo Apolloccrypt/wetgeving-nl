@@ -8,7 +8,7 @@ laatste_update: 2018-08-01
 status: geldig
 toestand: 2018-08-01
 bron: "https://wetten.overheid.nl/BWBR0028483"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit ter uitvoering van de artikelen 16 en 19 van de Wet medisch tuchtrecht BES

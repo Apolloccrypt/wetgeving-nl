@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0027961"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit van 7 juli 2010, houdende vaststelling van basisvoorwaarden voor de kwaliteit van voorschoolse educatie (Besluit basisvoorwaarden kwaliteit voorschoolse educatie)

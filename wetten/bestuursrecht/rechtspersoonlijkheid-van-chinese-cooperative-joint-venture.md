@@ -8,7 +8,7 @@ laatste_update: 1995-12-21
 status: geldig
 toestand: 1995-12-21
 bron: "https://wetten.overheid.nl/BWBR0028038"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Rechtspersoonlijkheid van Chinese Cooperative Joint Venture

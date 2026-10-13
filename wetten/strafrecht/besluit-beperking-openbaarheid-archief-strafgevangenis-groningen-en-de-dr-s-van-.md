@@ -9,7 +9,7 @@ laatste_update: 2010-11-01
 status: geldig
 toestand: 2010-11-01
 bron: "https://wetten.overheid.nl/BWBR0028187"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit van de Minister van Justitie, houdende beperking van de openbaarheid van het archief van de Strafgevangenis Groningen en de dr. S. van Mesdagkliniek te Groningen (1943) 1951−1993

@@ -8,7 +8,7 @@ laatste_update: 2025-04-01
 status: geldig
 toestand: 2025-04-01
 bron: "https://wetten.overheid.nl/BWBR0028519"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Opiumwet 1960 BES

@@ -9,7 +9,7 @@ laatste_update: 2010-07-30
 status: geldig
 toestand: 2010-07-30
 bron: "https://wetten.overheid.nl/BWBR0027986"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit van de Minister van Economische Zaken van 20 juli 2010, nr. WJZ/10108334, houdende instelling van de Commissie FES Bedrijventerreinen 2010–2020 (Instellingsbesluit Commissie FES Bedrijventerreinen 2010–2020)

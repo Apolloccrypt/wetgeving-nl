@@ -8,7 +8,7 @@ laatste_update: 2023-06-20
 status: geldig
 toestand: 2023-06-20
 bron: "https://wetten.overheid.nl/BWBR0028228"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Arbeidsveiligheidswet BES

@@ -8,7 +8,7 @@ laatste_update: 2010-06-28
 status: geldig
 toestand: 2010-06-28
 bron: "https://wetten.overheid.nl/BWBR0027817"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Circulaire Intrekking Circulaire Wijziging toepassing Elektronische Detentie

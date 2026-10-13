@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0027831"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Rijkswet van 17 juni 2010, houdende wijziging van de Rijkswet op het Nederlanderschap met betrekking tot meervoudige nationaliteit en andere nationaliteitsrechtelijke kwesties

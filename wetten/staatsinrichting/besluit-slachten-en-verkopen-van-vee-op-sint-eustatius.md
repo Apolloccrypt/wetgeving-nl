@@ -8,7 +8,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0028485"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit slachten en verkopen van vee op Sint Eustatius

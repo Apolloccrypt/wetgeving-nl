@@ -9,7 +9,7 @@ laatste_update: 2019-05-01
 status: geldig
 toestand: 2019-05-01
 bron: "https://wetten.overheid.nl/BWBR0028229"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit van de Minister-President, Minister van Algemene Zaken, de Minister van Verkeer en Waterstaat en de Minister van Defensie van 3 september 2010, nr. 3095255, tot gebruik van het regeringsvliegtuig en luchtvaartuigen van de krijgsmacht

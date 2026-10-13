@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0028605"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-13
 ---
 
 # Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 16 september 2010, nr. 2010-0000605688, houdende regels ter uitvoering van de Wet basisadministraties persoonsgegevens BES en het Besluit basisadministraties persoonsgegevens BES (Regeling basisadministraties persoonsgegevens BES)

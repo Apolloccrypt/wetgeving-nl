@@ -8,7 +8,7 @@ laatste_update: 1996-06-28
 status: geldig
 toestand: 1996-06-28
 bron: "https://wetten.overheid.nl/BWBR0028086"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Overheidspensioen, opbouw ter zake van diensten bewezen aan voormalige overzeese gebiedsdelen

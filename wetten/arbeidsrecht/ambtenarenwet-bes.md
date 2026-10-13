@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0028215"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Wet materieel ambtenarenrecht BES

@@ -1,5 +1,5 @@
 ---
-title: "Besluit van het College van procureurs-generaal houdende verlening van ondermandaat, volmacht en machtiging ten aanzien van aangelegenheden van het Openbaar Ministerie die niet het beheer van het Openbaar Ministerie betreffen (Ondermandaatbesluit niet-beheersaangelegenheden van het College van procureurs-generaal 2017)"
+title: "Besluit van het College van procureurs-generaal houdende verlening van ondermandaat, volmacht en machtiging ten aanzien van aangelegenheden van het Openbaar Ministerie die niet het beheer van het Openbaar Ministerie betreffen (Ondermandaatbesluit niet-beheersaangelegenheden van het College van procureurs-generaal 2026)"
 citeertitel: "Ondermandaatbesluit niet-beheersaangelegenheden van het College van procureurs-generaal 2026"
 identifier: "BWBR0052482"
 categorie: "Overig"
@@ -9,10 +9,10 @@ laatste_update: 2026-04-02
 status: geldig
 toestand: 2026-04-02
 bron: "https://wetten.overheid.nl/BWBR0052482"
-opgehaald: 2026-09-10
+opgehaald: 2026-10-13
 ---
 
-# Besluit van het College van procureurs-generaal houdende verlening van ondermandaat, volmacht en machtiging ten aanzien van aangelegenheden van het Openbaar Ministerie die niet het beheer van het Openbaar Ministerie betreffen (Ondermandaatbesluit niet-beheersaangelegenheden van het College van procureurs-generaal 2017)
+# Besluit van het College van procureurs-generaal houdende verlening van ondermandaat, volmacht en machtiging ten aanzien van aangelegenheden van het Openbaar Ministerie die niet het beheer van het Openbaar Ministerie betreffen (Ondermandaatbesluit niet-beheersaangelegenheden van het College van procureurs-generaal 2026)
 
 ##### Artikel 1. (de hoofdofficier van justitie en de hoofdadvocaat-generaal)
 
@@ -66,7 +66,7 @@ opgehaald: 2026-09-10
 
 - a. het in [artikel 6, eerste lid, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0052482&artikel=6&z=2026-04-02&g=2026-04-02) gegeven ondermandaat maximaal twee hiërarchische niveaus doorgeven;
 
-- b. het in [artikel 6, eerste lid, onder b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0052482&artikel=6&z=2026-04-02&g=2026-04-02)gegeven ondermandaat één hiërarchisch niveau doorgeven;
+- b. het in [artikel 6, eerste lid, onder b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0052482&artikel=6&z=2026-04-02&g=2026-04-02) gegeven ondermandaat één hiërarchisch niveau doorgeven;
 
 - c. het in [artikel 6, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0052482&artikel=6&z=2026-04-02&g=2026-04-02) gegeven ondermandaat doorgeven aan onder hem ressorterende medewerkers die met die taak zijn belast.
 

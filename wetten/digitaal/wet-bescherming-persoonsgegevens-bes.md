@@ -9,7 +9,7 @@ laatste_update: 2025-11-11
 status: geldig
 toestand: 2025-11-11
 bron: "https://wetten.overheid.nl/BWBR0028067"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Wet van 17 mei 2010, houdende regels inzake de bescherming van persoonsgegevens van Bonaire, Sint Eustatius en Saba (Wet bescherming persoonsgegevens BES)

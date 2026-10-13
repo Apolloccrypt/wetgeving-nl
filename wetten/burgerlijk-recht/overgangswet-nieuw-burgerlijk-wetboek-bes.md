@@ -8,7 +8,7 @@ laatste_update: 2019-07-01
 status: geldig
 toestand: 2019-07-01
 bron: "https://wetten.overheid.nl/BWBR0028466"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Overgangswet nieuw Burgerlijk Wetboek BES

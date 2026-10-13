@@ -9,7 +9,7 @@ laatste_update: 2010-07-29
 status: geldig
 toestand: 2010-07-29
 bron: "https://wetten.overheid.nl/BWBR0027971"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Regeling van de hoofdofficier van justitie te Den Bosch houdende het verlenen van mandaat, volmacht en machtiging aan de directeur bedrijfsvoering

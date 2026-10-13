@@ -8,7 +8,7 @@ laatste_update: 1995-11-28
 status: geldig
 toestand: 1995-11-28
 bron: "https://wetten.overheid.nl/BWBR0028051"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Belastingverdrag Nederland – Vietnam, uitleg woorden ,,all or virtually all’’

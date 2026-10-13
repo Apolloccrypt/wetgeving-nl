@@ -9,7 +9,7 @@ laatste_update: 2010-07-02
 status: geldig
 toestand: 2010-07-02
 bron: "https://wetten.overheid.nl/BWBR0027853"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 22 juni 2010, nr. CZ-U-3001512, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake overgangsregeling kapitaallasten algemene en academische ziekenhuizen

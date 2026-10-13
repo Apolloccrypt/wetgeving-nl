@@ -9,7 +9,7 @@ laatste_update: 1994-07-12
 status: geldig
 toestand: 1994-07-12
 bron: "https://wetten.overheid.nl/BWBR0027804"
-opgehaald: 2026-08-15
+opgehaald: 2026-10-13
 ---
 
 # Besluit staatssecretaris van Financiën van 12 Juli 1994, Nr. IFZ 94/257.2
