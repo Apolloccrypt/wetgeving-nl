@@ -4,11 +4,11 @@ identifier: "BWBR0024797"
 categorie: "Overig"
 soort: "ministeriele-regeling"
 publicatiedatum: 2008-12-06
-laatste_update: 2025-10-30
+laatste_update: 2026-10-08
 status: geldig
-toestand: 2025-10-30
+toestand: 2026-10-08
 bron: "https://wetten.overheid.nl/BWBR0024797"
-opgehaald: 2026-10-10
+opgehaald: 2026-10-14
 ---
 
 # Regeling tegemoetkoming rechtskundige hulp politie
@@ -37,7 +37,7 @@ In deze regeling wordt verstaan onder:
 
 2. De vergoeding, bedoeld in het eerste lid, onderdeel b en c, bedraagt per uur niet meer dan het bedrag van de kosten, bedoeld in het eerste lid, onderdeel a, maar ten minste het basisbedrag zoals vastgesteld op grond van [artikel 3, eerste lid, van het Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=3), tenzij de werkelijke kosten per uur lager waren dan dat basisbedrag.
 
-3. Indien het bevoegd gezag voor de tegemoetkoming bedoeld in het eerste lid, onderdeel a, een rechtsbijstandverzekering heeft afgesloten, geldt voor de berekening van de vergoeding bedoeld in het eerste lid, onderdeel b en c, een uurtarief van ten hoogste € 200,30, met uitzondering van de gevallen waarin naar oordeel van het bevoegd gezag bijzondere eisen worden gesteld aan de persoon die de rechtskundige hulp verleent en die alsdan leiden tot een hoger uurtarief.
+3. Indien het bevoegd gezag voor de tegemoetkoming bedoeld in het eerste lid, onderdeel a, een rechtsbijstandverzekering heeft afgesloten, geldt voor de berekening van de vergoeding bedoeld in het eerste lid, onderdeel b en c, een uurtarief van ten hoogste € 208,11, met uitzondering van de gevallen waarin naar oordeel van het bevoegd gezag bijzondere eisen worden gesteld aan de persoon die de rechtskundige hulp verleent en die alsdan leiden tot een hoger uurtarief.
 
 4. De toekenning van de tegemoetkoming kan betrekking hebben op:
 

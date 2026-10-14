@@ -8,7 +8,7 @@ laatste_update: 2011-01-19
 status: geldig
 toestand: 2011-01-19
 bron: "https://wetten.overheid.nl/BWBR0029437"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling beperkende bepalingen van naar het Nationaal Archief overgebrachte archiefbescheiden (archief Hoofdafdeling Pensioenen en Wachtgelden 1952–1997)

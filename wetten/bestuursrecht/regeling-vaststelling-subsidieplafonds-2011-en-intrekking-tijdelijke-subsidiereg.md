@@ -9,7 +9,7 @@ laatste_update: 2011-02-10
 status: geldig
 toestand: 2011-02-10
 bron: "https://wetten.overheid.nl/BWBR0029539"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van het Stimuleringsfonds voor de pers van 1 februari 2011, nr. 20448 tot vaststelling van subsidieplafonds voor het jaar 2011 en intrekking van de Tijdelijke subsidieregeling minderhedenbladen en journalistieke internet-informatieproducten

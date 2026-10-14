@@ -9,7 +9,7 @@ laatste_update: 2011-03-05
 status: geldig
 toestand: 2011-03-05
 bron: "https://wetten.overheid.nl/BWBR0028973"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van 5 november 2010, houdende wijziging van het Arbeidstijdenbesluit vervoer in verband met de toevoeging van een ontheffingsmogelijkheid voor boordpersoneel van helikopters

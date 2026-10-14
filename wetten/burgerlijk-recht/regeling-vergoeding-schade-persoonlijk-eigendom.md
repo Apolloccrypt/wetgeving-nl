@@ -4,11 +4,11 @@ identifier: "BWBR0024784"
 categorie: "Overig"
 soort: "ministeriele-regeling"
 publicatiedatum: 2008-12-05
-laatste_update: 2025-04-01
+laatste_update: 2026-10-08
 status: geldig
-toestand: 2025-04-01
+toestand: 2026-10-08
 bron: "https://wetten.overheid.nl/BWBR0024784"
-opgehaald: 2026-10-10
+opgehaald: 2026-10-14
 ---
 
 # Regeling vergoeding schade persoonlijk eigendom
@@ -43,13 +43,13 @@ In deze regeling wordt verstaan onder:
 
 3. Voor de volgende artikelen geldt per gebeurtenis bij schade een maximale vergoeding:
 
-- a. brilmonturen: € 277,02
+- a. brilmonturen: € 298,02
 
-- b. horloges: € 138,50
+- b. horloges: € 149,00
 
-- c. sieraden: € 138,50
+- c. sieraden: € 149,00
 
-- d. zonnebrillen: € 69,24.
+- d. zonnebrillen: € 74,49.
 
 4. Iedere drie jaar wordt de hoogte van de in het derde lid genoemde bedragen herzien.
 

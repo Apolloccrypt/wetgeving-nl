@@ -9,7 +9,7 @@ laatste_update: 2010-12-08
 status: geldig
 toestand: 2010-12-08
 bron: "https://wetten.overheid.nl/BWBR0029042"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport, van 30 november 2010, nr. DLZ/SFI-U-3036644 op grond van artikel 7 van de Wet marktordening gezondheidszorg, houdende vervolg op de aanwijzing inzake de Contracteerruimte AWBZ 2011

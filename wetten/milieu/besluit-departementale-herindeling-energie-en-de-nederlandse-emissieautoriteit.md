@@ -9,7 +9,7 @@ laatste_update: 2010-11-27
 status: geldig
 toestand: 2010-11-27
 bron: "https://wetten.overheid.nl/BWBR0028988"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van 11 november 2010, nr. 10.003075, houdende departementale herindeling met betrekking tot energie en de Nederlandse Emissieautoriteit

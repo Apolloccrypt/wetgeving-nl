@@ -9,7 +9,7 @@ laatste_update: 2010-10-15
 status: geldig
 toestand: 2010-10-15
 bron: "https://wetten.overheid.nl/BWBR0028841"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Aanpassingsregeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van (datum) 2010, nr. 153989 houdende regels ter uitvoering van de Wet voorschriften bestrijdingsmiddelen BES (Regeling uitvoering Wet voorschriften bestrijdingsmiddelen BES)

@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0028806"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 22 september 2010, nr. 151932, houdende regels inzake de slacht en vleeskeuring op Bonaire (Regeling slacht- en vleeskeuring Bonaire)

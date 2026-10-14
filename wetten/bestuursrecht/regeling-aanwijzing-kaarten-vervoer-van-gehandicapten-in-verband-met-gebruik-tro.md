@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0029120"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu tot aanwijzing van kaarten ten behoeve van het vervoer van gehandicapten in verband met het gebruik van het trottoir en het voetpad door gehandicapte bestuurders van bijzondere snorfietsen

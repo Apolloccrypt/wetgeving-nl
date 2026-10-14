@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0028754"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 28 september 2010, nr. IZ/IA/2010/18982, tot aanwijzing toezichthoudende ambtenaren SZW-regelgeving BES (Aanwijzingsregeling toezichthoudende ambtenaren SZW-regelgeving BES)

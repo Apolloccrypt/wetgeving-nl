@@ -9,7 +9,7 @@ laatste_update: 2018-10-01
 status: geldig
 toestand: 2018-10-01
 bron: "https://wetten.overheid.nl/BWBR0029422"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 5 januari 2011, nr. 2010-0000006667, houdende vaststelling van de reis- en verblijfkosten wegens dienstreizen van ambtenaren in dienst van de staat en werkzaam in de openbare lichamen Bonaire, Sint Eustatius en Saba (Reis-, verblijf- en verhuiskostenregeling ambtenaren BES)

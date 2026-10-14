@@ -9,7 +9,7 @@ laatste_update: 2015-03-15
 status: geldig
 toestand: 2015-03-15
 bron: "https://wetten.overheid.nl/BWBR0029695"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-14
 ---
 
 # Wet van 26 februari 2011 tot wijziging van de Algemene Wet Bijzondere Ziektekosten en de Zorgverzekeringswet, houdende maatregelen tot opsporing en verzekering van personen die ondanks hun verzekeringsplicht geen zorgverzekering hebben en beperking van het aantal zorgverzekeringen tot één per verzekeringsplichtige (opsporing en verzekering onverzekerden zorgverzekering)

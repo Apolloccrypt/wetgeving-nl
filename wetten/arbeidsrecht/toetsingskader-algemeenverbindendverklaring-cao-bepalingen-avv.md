@@ -9,7 +9,7 @@ laatste_update: 2024-06-26
 status: geldig
 toestand: 2024-06-26
 bron: "https://wetten.overheid.nl/BWBR0028909"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Toetsingskader Algemeen Verbindend Verklaring CAO-bepalingen (AVV)

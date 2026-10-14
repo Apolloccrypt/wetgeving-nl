@@ -9,7 +9,7 @@ laatste_update: 2010-11-14
 status: geldig
 toestand: 2010-11-14
 bron: "https://wetten.overheid.nl/BWBR0028931"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de hoofdofficieren van justitie van de Arrondissementsparketten Dordrecht en Rotterdam houdende het verlenen van mandaat, volmacht en machtiging aan de regionaal directeur bedrijfsvoering

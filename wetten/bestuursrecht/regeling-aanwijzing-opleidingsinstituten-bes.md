@@ -9,7 +9,7 @@ laatste_update: 2010-12-23
 status: geldig
 toestand: 2010-12-23
 bron: "https://wetten.overheid.nl/BWBR0029184"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 14 december 2010, nr. WJZ/258716 (8308), houdende uitvoering van artikel 3, zesde lid, artikel 4, tweede lid en artikel 6, eerste lid van de Wet primair onderwijs BES (Regeling aanwijzing opleidingsinstituten BES)

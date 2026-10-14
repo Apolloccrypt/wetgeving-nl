@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0029162"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken, Landbouw en Innovatie van 17 december 2010, nr. WJZ/10188217, houdende enkele kleine verbeteringen van de Subsidieregeling internationaal excelleren

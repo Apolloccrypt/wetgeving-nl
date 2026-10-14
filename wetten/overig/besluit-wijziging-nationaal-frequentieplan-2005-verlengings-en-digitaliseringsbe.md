@@ -9,7 +9,7 @@ laatste_update: 2011-09-01
 status: geldig
 toestand: 2011-09-01
 bron: "https://wetten.overheid.nl/BWBR0029632"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van de Minister van Economische Zaken, Landbouw en Innovatie van 16 februari 2011, nr. ETM/IT10180293, houdende wijziging van het Nationaal Frequentieplan 2005 in verband met het verlengings- en digitaliseringsbeleid commerciële radio

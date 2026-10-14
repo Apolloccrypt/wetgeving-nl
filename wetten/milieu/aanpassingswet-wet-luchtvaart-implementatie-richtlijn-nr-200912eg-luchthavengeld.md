@@ -9,7 +9,7 @@ laatste_update: 2011-05-25
 status: geldig
 toestand: 2011-05-25
 bron: "https://wetten.overheid.nl/BWBR0029629"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Wet van 27 januari 2011, houdende aanpassing van de Wet luchtvaart ten behoeve van de implementatie van richtlijn nr. 2009/12/EG van het Europese Parlement en de Raad van de Europese Unie van 11 maart 2009 inzake luchthavengelden (PbEG L 70)

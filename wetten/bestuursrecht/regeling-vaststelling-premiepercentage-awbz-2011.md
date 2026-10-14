@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0028991"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 17 november 2010, nr. Z/F-3034281, houdende vaststelling van het premiepercentage voor de algemene verzekering bijzondere ziektekosten 2011

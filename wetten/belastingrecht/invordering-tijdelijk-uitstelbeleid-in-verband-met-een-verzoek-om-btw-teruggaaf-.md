@@ -8,7 +8,7 @@ laatste_update: 2011-03-24
 status: geldig
 toestand: 2011-03-24
 bron: "https://wetten.overheid.nl/BWBR0029743"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-14
 ---
 
 # Invordering, tijdelijk uitstelbeleid in verband met een verzoek om BTW-teruggaaf uit een andere EU-lidstaat

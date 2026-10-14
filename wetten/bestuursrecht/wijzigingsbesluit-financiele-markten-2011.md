@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0029062"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van 23 november 2010, houdende wijziging van het Besluit bestuurlijke boetes financiële sector, het Besluit Gedragstoezicht financiële ondernemingen Wft, het Besluit markttoegang financiële ondernemingen Wft, het Besluit openbare biedingen Wft, het Besluit prudentiële regels Wft, het Besluit bijzondere prudentiële maatregelen, beleggerscompensatie en depositogarantie Wft en het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling (Wijzigingsbesluit financiële markten 2011)

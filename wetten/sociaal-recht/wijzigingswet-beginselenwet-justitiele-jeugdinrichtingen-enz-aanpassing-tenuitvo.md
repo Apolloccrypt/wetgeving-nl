@@ -9,7 +9,7 @@ laatste_update: 2011-07-01
 status: geldig
 toestand: 2011-07-01
 bron: "https://wetten.overheid.nl/BWBR0029147"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Wet van 13 december 2010 tot wijziging van de Beginselenwet justitiële jeugdinrichtingen, het Wetboek van Strafrecht, het Wetboek van Strafvordering en enige andere wetten, in verband met de aanpassing van de tenuitvoerlegging van vrijheidsbenemende jeugdsancties

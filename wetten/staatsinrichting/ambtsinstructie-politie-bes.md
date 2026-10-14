@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0028717"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van 30 september 2010, houdende de ambtsinstructie voor de politie, de Koninklijke marechaussee en de buitengewone agenten van politie en regels met betrekking tot de maatregelen waaraan rechtens van hun vrijheid beroofde personen kunnen worden onderworpen voor Bonaire, Sint Eustatius en Saba (Ambtsinstructie politie BES)

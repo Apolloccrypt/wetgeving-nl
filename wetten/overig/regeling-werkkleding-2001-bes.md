@@ -8,7 +8,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0029316"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling werkkleding 2001 BES

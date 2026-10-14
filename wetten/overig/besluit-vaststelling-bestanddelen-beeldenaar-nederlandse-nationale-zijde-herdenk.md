@@ -9,7 +9,7 @@ laatste_update: 2011-02-11
 status: geldig
 toestand: 2011-02-11
 bron: "https://wetten.overheid.nl/BWBR0029543"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van 24 januari 2011, nr. 11.000107, houdende vaststelling van de bestanddelen van de beeldenaar van de Nederlandse nationale zijde van de herdenkingsmunt van twee euro ‘Erasmus Laus Stultitiae’

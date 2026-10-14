@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0028960"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Onderlinge regeling uitrusting politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba (uitrustingsregeling voor de politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba)

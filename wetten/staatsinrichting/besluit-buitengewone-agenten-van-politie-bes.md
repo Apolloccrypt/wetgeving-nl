@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0029175"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van 13 december 2010, houdende regels over de aanstelling, bevordering, schorsing en ontslag als buitengewoon agent van politie alsmede over de verlening van opsporingsbevoegdheid en over de eisen van bekwaamheid, geschiktheid en betrouwbaarheid waaraan zij moeten voldoen op Bonaire, Sint Eustatius en Saba (Besluit buitengewone agenten van politie BES)

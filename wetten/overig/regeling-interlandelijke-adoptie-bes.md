@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0028793"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van 29 september 2010, nr. 5668860/10/6 tot wijzing van Boek 1 van het Burgerlijk Wetboek BES ter uitvoering van het op 29 mei 1993 te 's-Gravenhage tot stand gekomen verdrag inzake de bescherming van kinderen en de samenwerking op het gebied van de interlandelijke adoptie (Regeling interlandelijke adoptie BES)

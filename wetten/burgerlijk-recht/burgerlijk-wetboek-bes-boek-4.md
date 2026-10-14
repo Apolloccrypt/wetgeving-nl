@@ -8,7 +8,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0028746"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Burgerlijk Wetboek BES Boek 4

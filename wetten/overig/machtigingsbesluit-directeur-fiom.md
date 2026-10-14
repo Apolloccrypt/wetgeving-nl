@@ -9,7 +9,7 @@ laatste_update: 2010-11-25
 status: geldig
 toestand: 2010-11-25
 bron: "https://wetten.overheid.nl/BWBR0028981"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 15 november 2010, nr. DSS5670823, houdende verlening van machtiging aan de directeur van de Stichting Ambulante FIOM tot het verlenen van inzage als bedoeld in de Wet opneming buitenlandse kinderen ter adoptie van de bij Koninklijke Saan Archiefbeheer B.V. ondergebrachte adoptiedossiers welke hebben toebehoord aan de voormalige Stichting Flash alsmede het verrichten van administratieve handelingen die daarmee verband houden (Machtigingsbesluit directeur FIOM)

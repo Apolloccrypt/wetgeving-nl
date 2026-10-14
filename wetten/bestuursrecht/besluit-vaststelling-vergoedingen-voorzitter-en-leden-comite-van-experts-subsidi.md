@@ -9,7 +9,7 @@ laatste_update: 2010-10-20
 status: geldig
 toestand: 2010-10-20
 bron: "https://wetten.overheid.nl/BWBR0028869"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 11 oktober 2010, nr. R&P/RA/2010/19348 tot vaststelling van de vergoedingen van de voorzitter en de leden van het Comité van Experts subsidieregeling ESF 2007-2013/Actie A

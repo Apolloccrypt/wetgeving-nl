@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0029127"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 9 december 2010, nr. GMT/IB 3037221, houdende verlening van mandaat en machtiging aan de algemeen directeur en de manager donorwerving van de Nederlandse Transplantatie Stichting ter uitvoering van de Subsidieregeling donatie bij leven

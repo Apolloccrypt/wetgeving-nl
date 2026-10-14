@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0028868"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 11 oktober 2010, nr. BJZ2010027165, houdende regels betreffende overige pyrotechnische artikelen (Regeling overige pyrotechnische artikelen)

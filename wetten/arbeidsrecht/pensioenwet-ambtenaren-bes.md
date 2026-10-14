@@ -8,7 +8,7 @@ laatste_update: 2011-10-09
 status: geldig
 toestand: 2011-10-09
 bron: "https://wetten.overheid.nl/BWBR0028714"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Pensioenwet ambtenaren BES

@@ -9,7 +9,7 @@ laatste_update: 2011-03-08
 status: geldig
 toestand: 2011-03-08
 bron: "https://wetten.overheid.nl/BWBR0029694"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-14
 ---
 
 # Besluit van 3 februari 2011, houdende regels ter uitvoering van de Wet sociale kanstrajecten jongeren BES (Uitvoeringsbesluit sociale kanstrajecten jongeren BES)

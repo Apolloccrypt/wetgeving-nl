@@ -9,7 +9,7 @@ laatste_update: 2011-05-01
 status: geldig
 toestand: 2011-05-01
 bron: "https://wetten.overheid.nl/BWBR0029713"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-14
 ---
 
 # Besluit van 26 februari 2011 tot instelling van de voortgangscommissie Sint Maarten

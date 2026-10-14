@@ -8,7 +8,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0028703"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling residuen van genees- en bestrijdingsmiddelen in visserijproducten BES

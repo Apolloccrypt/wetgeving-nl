@@ -9,7 +9,7 @@ laatste_update: 2013-12-12
 status: geldig
 toestand: 2013-12-12
 bron: "https://wetten.overheid.nl/BWBR0029676"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Wet van 3 februari 2011 tot wijziging van de Wet milieubeheer, de Wet belastingen op milieugrondslag en de Wet op de economische delicten ten behoeve van de implementatie van richtlijn nr. 2008/98/EG van het Europees Parlement en de Raad van de Europese Unie van 19 november 2008 betreffende afvalstoffen en tot intrekking van een aantal richtlijnen (PbEU L 312) (Implementatiewet EG-kaderrichtlijn afvalstoffen)

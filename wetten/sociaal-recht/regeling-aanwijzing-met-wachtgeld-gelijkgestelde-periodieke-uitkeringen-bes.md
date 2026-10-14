@@ -8,7 +8,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0028789"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling aanwijzing met wachtgeld gelijkgestelde periodieke uitkeringen BES

@@ -9,7 +9,7 @@ laatste_update: 2021-10-01
 status: geldig
 toestand: 2021-10-01
 bron: "https://wetten.overheid.nl/BWBR0029696"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-14
 ---
 
 # Besluit van 3 februari 2011, houdende vaststelling van de algemene berekeningswijze van de rijksbijdrage voor het beroepsonderwijs, alsmede vaststelling van voorschriften over het informatieverkeer, bedoeld in de Wet educatie en beroepsonderwijs BES (Uitvoeringsbesluit WEB BES)

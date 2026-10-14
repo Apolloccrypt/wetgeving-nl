@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0029262"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van 23 december 2010 tot vaststelling van het Uitvoeringsbesluit Douane- en Accijnswet BES (Uitvoeringsbesluit Douane- en Accijnswet BES)

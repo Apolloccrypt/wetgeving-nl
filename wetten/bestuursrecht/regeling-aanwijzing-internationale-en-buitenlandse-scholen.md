@@ -9,7 +9,7 @@ laatste_update: 2025-07-19
 status: geldig
 toestand: 2025-07-19
 bron: "https://wetten.overheid.nl/BWBR0029599"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 14 januari 2011, nr. VO/BVB/143738, houdende regels met betrekking tot de aanwijzing van internationale, buitenlandse en ambassadescholen in Nederland als school in de zin van de Leerplichtwet 1969 (Regeling aanwijzing internationale en buitenlandse scholen)

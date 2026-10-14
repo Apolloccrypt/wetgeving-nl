@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0028950"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Beschikking van de Staatssecretaris van Veiligheid en Justitie van 9 november 2010, nr. 5674611/10/6 tot vaststelling van het percentage waarmee de bedragen voor levensonderhoud met ingang van 1 januari 2011 worden verhoogd (Beschikking wijzigingspercentage levensonderhoud 2011)

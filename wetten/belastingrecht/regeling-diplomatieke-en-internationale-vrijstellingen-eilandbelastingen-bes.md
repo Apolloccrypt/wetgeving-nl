@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0029055"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de minister van Binnenlandse Zaken en Koninkrijksrelaties en van de staatssecretaris van Financiën van 25 november 2010, nr. 2010-0000601469, houdende regels over diplomatieke en internationale vrijstellingen voor eilandbelastingen (Regeling diplomatieke en internationale vrijstellingen eilandbelastingen BES)

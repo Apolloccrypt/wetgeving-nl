@@ -8,7 +8,7 @@ laatste_update: 2011-01-19
 status: geldig
 toestand: 2011-01-19
 bron: "https://wetten.overheid.nl/BWBR0029417"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit vaststelling selectielijst Nederlandse Zorgautoriteit vanaf 1949

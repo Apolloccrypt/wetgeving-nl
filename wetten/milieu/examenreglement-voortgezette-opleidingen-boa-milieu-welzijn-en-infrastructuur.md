@@ -9,7 +9,7 @@ laatste_update: 2011-04-01
 status: geldig
 toestand: 2011-04-01
 bron: "https://wetten.overheid.nl/BWBR0029718"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-14
 ---
 
 # Besluit van de Minister van Veiligheid en Justitie d.d. 15 maart 2011, nr. 5687494/11, houdende de vaststelling van het Examenreglement voortgezette opleidingen buitengewoon opsporingsambtenaar milieu, welzijn en infrastructuur 2011

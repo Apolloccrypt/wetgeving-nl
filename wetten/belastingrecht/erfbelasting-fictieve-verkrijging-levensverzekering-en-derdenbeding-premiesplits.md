@@ -8,7 +8,7 @@ laatste_update: 2022-12-02
 status: geldig
 toestand: 2022-12-02
 bron: "https://wetten.overheid.nl/BWBR0029172"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Erfbelasting, fictieve verkrijging, levensverzekering en derdenbeding, premiesplitsing

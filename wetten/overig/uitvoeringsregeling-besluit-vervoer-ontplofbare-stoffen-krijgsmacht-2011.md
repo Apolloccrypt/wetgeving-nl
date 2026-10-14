@@ -8,7 +8,7 @@ laatste_update: 2022-09-21
 status: geldig
 toestand: 2022-09-21
 bron: "https://wetten.overheid.nl/BWBR0028898"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Uitvoeringsregeling Besluit vervoer ontplofbare stoffen krijgsmacht 2011

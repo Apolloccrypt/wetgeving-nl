@@ -9,7 +9,7 @@ laatste_update: 2026-04-11
 status: geldig
 toestand: 2026-04-11
 bron: "https://wetten.overheid.nl/BWBR0029244"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Wet van 16 december 2010 houdende vaststelling van de Wet Belastingwet BES (Belastingwet BES)

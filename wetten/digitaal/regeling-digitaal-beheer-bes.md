@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0029182"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Ministeriële regeling van de 13de maart 2008 ter uitvoering van artikel 6 van het Archiefbesluit BES

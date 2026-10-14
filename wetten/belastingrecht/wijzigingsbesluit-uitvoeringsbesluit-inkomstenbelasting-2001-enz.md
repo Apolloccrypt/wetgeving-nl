@@ -9,7 +9,7 @@ laatste_update: 2011-02-24
 status: geldig
 toestand: 2011-02-24
 bron: "https://wetten.overheid.nl/BWBR0029375"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van 23 december 2010 tot wijziging van enige fiscale uitvoeringsbesluiten

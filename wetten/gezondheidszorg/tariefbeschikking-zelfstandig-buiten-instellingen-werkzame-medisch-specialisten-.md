@@ -8,7 +8,7 @@ laatste_update: 2010-12-22
 status: geldig
 toestand: 2010-12-22
 bron: "https://wetten.overheid.nl/BWBR0029197"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Tariefbeschikking Zelfstandig buiten instellingen werkzame medisch specialisten en Zelfstandige behandelcentra

@@ -9,7 +9,7 @@ laatste_update: 2011-02-23
 status: geldig
 toestand: 2011-02-23
 bron: "https://wetten.overheid.nl/BWBR0029575"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Wet van 27 januari 2011 tot wijziging van Boek 7 van het Burgerlijk Wetboek, de Wet handhaving consumentenbescherming en enige andere wetten in verband met de implementatie van Richtlijn 2008/122/EG van het Europees Parlement en de Raad van 14 januari 2009 betreffende de bescherming van de consumenten met betrekking tot bepaalde aspecten van overeenkomsten betreffende gebruik in deeltijd, vakantieproducten van lange duur, doorverkoop en uitwisseling (PbEU L 33/10)

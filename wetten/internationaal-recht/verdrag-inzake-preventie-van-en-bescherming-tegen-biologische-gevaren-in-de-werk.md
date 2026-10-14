@@ -7,7 +7,7 @@ laatste_update: 2025-06-13
 status: geldig
 toestand: 2025-06-13
 bron: "https://wetten.overheid.nl/BWBV0007180"
-opgehaald: 2026-10-13
+opgehaald: 2026-10-14
 ---
 
 # Verdrag inzake preventie van en bescherming tegen biologische gevaren in de werkomgeving

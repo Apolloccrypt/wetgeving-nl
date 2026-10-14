@@ -8,7 +8,7 @@ laatste_update: 2010-12-08
 status: geldig
 toestand: 2010-12-08
 bron: "https://wetten.overheid.nl/BWBR0029054"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Afspraken over de harmonisatie arbeidsvoorwaarden politie, tweede tranche

@@ -8,7 +8,7 @@ laatste_update: 2010-12-23
 status: geldig
 toestand: 2010-12-23
 bron: "https://wetten.overheid.nl/BWBR0029130"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen Orde van Octrooigemachtigden vanaf 1936

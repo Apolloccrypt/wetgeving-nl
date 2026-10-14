@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0029146"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Circulaire Wijziging van de vergoeding van een lid van het algemeen bestuur, informatie over bezoldiging en eindejaarsuitkering van een lid van het dagelijks bestuur en informatie over de bezoldiging, de ambtstoelage en de eindejaarsuitkering van een voorzitter

@@ -9,7 +9,7 @@ laatste_update: 2011-09-01
 status: geldig
 toestand: 2011-09-01
 bron: "https://wetten.overheid.nl/BWBR0028923"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van 20 september 2010, houdende vaststelling van een aantal wijzigingen van het Vaststellingsbesluit Binnenvaartpolitiereglement, het Besluit Rijnvaartpolitiereglement 1995, het Scheepvaartreglement Westerschelde 1990, het Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen, het Scheepvaartreglement territoriale zee, het Besluit verkeersinformatie en verkeersaanwijzingen scheepvaartverkeer, het Besluit administratieve bepalingen scheepvaartverkeer, het Besluit houdende het van toepassing verklaren van de Internationale Bepalingen ter voorkoming van aanvaringen op zee, 1972, het Scheepvaartreglement Eemsmonding en het Besluit statistische gegevens scheepvaartverkeer

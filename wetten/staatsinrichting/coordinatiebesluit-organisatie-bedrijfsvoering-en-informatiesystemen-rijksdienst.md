@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0029514"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van 20 januari 2011, houdende regeling inzake de bevoegdheden met betrekking tot de inrichting van de organisatie en bedrijfsvoering in de rijksdienst (Coördinatiebesluit organisatie en bedrijfsvoering rijksdienst 2011)

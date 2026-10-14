@@ -9,7 +9,7 @@ laatste_update: 2022-01-14
 status: geldig
 toestand: 2022-01-14
 bron: "https://wetten.overheid.nl/BWBR0029361"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Staatssecretaris van Veiligheid en Justitie van 24 december 2010, nr. 5679537/10/DJI, houdende regels over de verlening van een machtiging tot verlof aan het hoofd van de inrichting voor verpleging van ter beschikking gestelden (Verlofregeling TBS)

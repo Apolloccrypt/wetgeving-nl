@@ -8,7 +8,7 @@ laatste_update: 2011-03-11
 status: geldig
 toestand: 2011-03-11
 bron: "https://wetten.overheid.nl/BWBR0029703"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-14
 ---
 
 # Besluit vaststelling selectielijst College Bouw Zorginstellingen 2000–2010

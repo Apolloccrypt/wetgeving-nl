@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0029092"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 8 december 2010, nr. 5678836/10, houdende indexering van de griffierechten van de Wet griffierechten burgerlijke zaken (Regeling indexering griffierechten burgerlijke zaken 2010)

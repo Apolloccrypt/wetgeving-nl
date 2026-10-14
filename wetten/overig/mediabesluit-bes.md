@@ -9,7 +9,7 @@ laatste_update: 2011-02-17
 status: geldig
 toestand: 2011-02-17
 bron: "https://wetten.overheid.nl/BWBR0029602"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van 3 februari 2011, houdende vaststelling van een mediabesluit voor de openbare lichamen Bonaire, Sint Eustatius en Saba en aanpassingen van het Besluit televisie- en radioreclame voor sterke drank BES (Mediabesluit BES)

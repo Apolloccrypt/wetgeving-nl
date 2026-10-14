@@ -9,7 +9,7 @@ laatste_update: 2010-12-15
 status: geldig
 toestand: 2010-12-15
 bron: "https://wetten.overheid.nl/BWBR0029481"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van 13 december 2010, nr. BPR2010/U57175, tot vaststelling formulier basisadministraties persoonsgegevens BES

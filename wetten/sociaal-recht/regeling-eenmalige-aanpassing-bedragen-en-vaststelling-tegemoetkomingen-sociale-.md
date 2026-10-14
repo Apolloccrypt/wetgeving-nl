@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0029239"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 14 december 2010, nr. IVV/FB/2010/24130 tot eenmalige aanpassing van de bedragen en vaststelling van de tegemoetkomingen van de sociale verzekeringen BES

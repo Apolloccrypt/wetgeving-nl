@@ -8,7 +8,7 @@ laatste_update: 2010-10-02
 status: geldig
 toestand: 2010-10-02
 bron: "https://wetten.overheid.nl/BWBR0028984"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Onderlinge regeling boedelscheiding AVBZ-fonds Nederlandse Antillen

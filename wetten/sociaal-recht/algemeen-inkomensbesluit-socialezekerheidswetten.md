@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0029368"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van 23 december 2010 tot vaststelling van een inkomensbesluit voor de volksverzekeringen en de sociale voorzieningen (Inkomensbesluit volksverzekeringen en sociale voorzieningen)

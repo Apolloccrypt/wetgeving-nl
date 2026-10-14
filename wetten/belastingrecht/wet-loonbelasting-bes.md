@@ -8,7 +8,7 @@ laatste_update: 2025-04-01
 status: geldig
 toestand: 2025-04-01
 bron: "https://wetten.overheid.nl/BWBR0029283"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Wet loonbelasting BES

@@ -5,11 +5,11 @@ identifier: "BWBR0012681"
 categorie: "Overig"
 soort: "ministeriele-regeling"
 publicatiedatum: 2001-07-21
-laatste_update: 2026-05-20
+laatste_update: 2026-10-08
 status: geldig
-toestand: 2026-05-20
+toestand: 2026-10-08
 bron: "https://wetten.overheid.nl/BWBR0012681"
-opgehaald: 2026-10-03
+opgehaald: 2026-10-14
 ---
 
 # Besluit gespen Herinneringsmedaille Vredesoperaties
@@ -114,7 +114,9 @@ Als gespen behorende bij de Herinneringsmedaille Internationale Missies worden i
 
    - 15°. de United Nations Development Programme Somalië ‘UNDP Somalië’, voor zover deze deelname heeft plaatsgehad in Somalië vanaf 2018;
 
-   - 16°. de United Nations Mine Action Service ‘UNMAS’, voor zover deze deelname heeft plaatsgehad in Mali vanaf 2018: VN OPERATIES;
+   - 16°. de United Nations Mine Action Service ‘UNMAS’, voor zover deze deelname heeft plaatsgehad in Mali vanaf 2018;
+
+   - 17°. de missie United Nations Mine Action Service (UNMAS) voor zover deze deelname vanaf 1 januari 2026 heeft plaatsgehad vanaf het HQ van MNJTF in N’djamena in Tsjaad: VN OPERATIES;
 
 - dd. voor deelname aan operaties van de Noord Atlantische Verdrags Organisatie:
 
@@ -140,7 +142,11 @@ Als gespen behorende bij de Herinneringsmedaille Internationale Missies worden i
 
    - 11°. de operatie NATO Mission Iraq ‘NMI’, voor zover deelname heeft plaatsgehad in Irak vanaf 15 juni 2018;
 
-   - 12°. de Very High Readiness Joint Task Force (Maritime) ‘VJTF(M)’, vanaf 1 januari 2025 Vigilance Activities (VA) genoemd, voor zover de deelname vanaf 24 februari 2022 heeft plaatsgevonden in de zeegebieden van Europa, waarbij wordt afgeweken van de eis dat de inzet een aaneengesloten periode betreft: NAVO OPERATIES;
+   - 12°. de Very High Readiness Joint Task Force (Maritime) ‘VJTF(M)’, vanaf 1 januari 2025 Vigilance Activities (VA) genoemd, voor zover de deelname vanaf 24 februari 2022 heeft plaatsgevonden in de zeegebieden van Europa, waarbij wordt afgeweken van de eis dat de inzet een aaneengesloten periode betreft;
+
+   - 13°. de missie NSATU F-35 POL voor zover deze deelname vanaf 1 september 2025 heeft plaatsgehad vanaf vliegbasis Poznan in Polen;
+
+   - 14°. de missie NSATU AMDTF voor zover deze deelname vanaf 1 december 2025 heeft plaatsgehad in Rzesnow en Warschau in Polen: NAVO OPERATIES;
 
 - ee. voor deelname aan operaties van de Europese Unie:
 
@@ -244,7 +250,13 @@ Als gespen behorende bij de Herinneringsmedaille Internationale Missies worden i
 
    - 18°. de missie Pacific Security Maritime Exchange ‘PSMX’ Enforcement Coördination Cell ‘ECC’ voor zover deze deelname vanaf 1 juli 2025 heeft plaatsgehad vanaf 7th Fleet marinebasis te Yokosuka in Japan;
 
-   - 19°. de missie Pegasus Guardian voor zover deze deelname vanaf 2 maart 2026 heeft plaatsgehad vanuit de Baltische Zee door de Straat van Gibraltar naar de Oostelijke Middellandse zee: MULTINATIONALE OPERATIES;
+   - 19°. de missie Pegasus Guardian voor zover deze deelname vanaf 2 maart 2026 heeft plaatsgehad vanuit de Baltische Zee door de Straat van Gibraltar naar de Oostelijke Middellandse zee;
+
+   - 20°. de missie Ondersteuning Lebanese Armed Forces (LAF) voor zover deze deelname vanaf 1 januari 2026 heeft plaatsgehad in Jordanië en Libanon;
+
+   - 21°. de missie SETWISE voor zover deze deelname vanaf 1 januari 2026 heeft plaatsgehad vanaf een verblijfslocatie in Diani Beach Area in Kenia;
+
+   - 22°. de missie INDOPAC 2026 (INDOPAC) voor zover deze deelname vanaf 24 april 2026 heeft plaatsgevonden in de Rode Zee, de Straat van Taiwan, Arabische Zee, de Zuid- en Oost-Chinese Zee, de Golf van Aden en de Golf van Oman: MULTINATIONALE OPERATIES;
 
 - hh. voor deelname aan SSR operaties van Nederland:
 
@@ -274,7 +286,9 @@ Als gespen behorende bij de Herinneringsmedaille Internationale Missies worden i
 
    - 7°. Enhanced Air Policing Polen ‘EAP Polen’, voor zover deze deelname heeft plaatsgehad in en boven Polen vanaf 2 januari 2023;
 
-   - 8°. Enhanced Air Policing Estland ‘EAP Estland’ voor zover de deelname heeft plaatsgehad vanaf Airbase AMARI in Estland van 1 december 2024 tot en met 31 maart 2025, waarbij voor wat betreft het personeel dat deelneemt aan de deployment en redeployment wordt afgeweken van de eis dat de inzet een aaneengesloten periode betreft: FORWARD PRESENCE;
+   - 8°. Enhanced Air Policing Estland ‘EAP Estland’ voor zover de deelname heeft plaatsgehad vanaf Airbase AMARI in Estland van 1 december 2024 tot en met 31 maart 2025, waarbij voor wat betreft het personeel dat deelneemt aan de deployment en redeployment wordt afgeweken van de eis dat de inzet een aaneengesloten periode betreft;
+
+   - 9˚. Enhanced Vigilance Activities MQ-9 Reaper Roemenië ‘eVA MQ-9’ voor zover deze deelname heeft plaatsgehad in en boven Roemenië vanaf 2 januari 2024: FORWARD PRESENCE;
 
 - mm. voor deelname aan Non-Combattant Evacuation Operation Kabul ‘NEO KABUL’, voor zover deze deelname heeft plaatsgevonden op het grondgebied in Kabul, Islamabad en Tblisi, alsmede in het luchtruim boven Afghanistan vanaf 16 augustus: NEO KABUL 2021;
 

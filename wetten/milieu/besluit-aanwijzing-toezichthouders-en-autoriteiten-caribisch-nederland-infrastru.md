@@ -8,7 +8,7 @@ laatste_update: 2016-07-01
 status: geldig
 toestand: 2016-07-01
 bron: "https://wetten.overheid.nl/BWBR0029478"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit aanwijzing toezichthouders en autoriteiten Caribisch Nederland Infrastructuur en Milieu

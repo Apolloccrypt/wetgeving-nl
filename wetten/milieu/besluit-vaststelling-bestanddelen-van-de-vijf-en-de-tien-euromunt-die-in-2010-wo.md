@@ -9,7 +9,7 @@ laatste_update: 2010-10-29
 status: geldig
 toestand: 2010-10-29
 bron: "https://wetten.overheid.nl/BWBR0028885"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van 6 oktober 2010 nr. 10.002770, houdende vaststelling van de bestanddelen van de vijf- en de tien-euromunt die in 2010 wordt uitgegeven met het thema ‘Nederland en Water(werken)’

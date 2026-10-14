@@ -9,7 +9,7 @@ laatste_update: 2010-11-23
 status: geldig
 toestand: 2010-11-23
 bron: "https://wetten.overheid.nl/BWBR0028970"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 10 november 2010, nr. DDS 5674671, houdende aanwijzing van de Centrale autoriteit internationale kinderontvoering Bonaire, Sint Eustatius en Saba (Aanwijzingsbesluit Centrale autoriteit internationale kinderontvoering BES)

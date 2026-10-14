@@ -9,7 +9,7 @@ laatste_update: 2020-03-14
 status: geldig
 toestand: 2020-03-14
 bron: "https://wetten.overheid.nl/BWBR0029739"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-14
 ---
 
 # Besluit van de Minister van Veiligheid en Justitie van 11 maart 2011, nr. 5688652/11, houdende mandaat van de bevoegdheid tot beëdiging van de buitengewoon opsporingsambtenaar (Mandaatbesluit bevoegdheid tot beëdiging buitengewoon opsporingsambtenaar)

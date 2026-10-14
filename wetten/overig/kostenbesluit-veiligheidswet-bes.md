@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0028795"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van 30 september 2010, houdende regels inzake bijzondere uitkeringen aan de openbare lichamen Bonaire, Sint Eustatius en Saba als bijdrage in de kosten voor de organisatie van de rampenbestrijding en de crisisbeheersing en voor de brandweerzorg, alsmede in de kosten die voor de openbare lichamen voortvloeien uit de daadwerkelijke bestrijding van een ramp en uit de gevolgen van die bestrijding (Kostenbesluit Veiligheidswet BES)

@@ -8,7 +8,7 @@ laatste_update: 2011-02-03
 status: geldig
 toestand: 2011-02-03
 bron: "https://wetten.overheid.nl/BWBR0029512"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Beleidsregels Protocol Zeer moeilijk plaatsbaar 2011

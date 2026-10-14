@@ -9,7 +9,7 @@ laatste_update: 2013-04-30
 status: geldig
 toestand: 2013-04-30
 bron: "https://wetten.overheid.nl/BWBR0029689"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 24 februari 2011, nr. WJZ/275527 (3853), houdende regels ter uitvoering van de Leerplichtwet voor de openbare lichamen Bonaire, Sint Eustatius en Saba (Leerplichtregeling BES)

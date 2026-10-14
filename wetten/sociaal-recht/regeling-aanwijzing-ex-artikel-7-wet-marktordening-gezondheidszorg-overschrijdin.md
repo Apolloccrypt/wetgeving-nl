@@ -9,7 +9,7 @@ laatste_update: 2010-12-06
 status: geldig
 toestand: 2010-12-06
 bron: "https://wetten.overheid.nl/BWBR0029018"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 25 november 2010, nr. MC-U- 3035734, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake overschrijding ziekenhuiskader 2009

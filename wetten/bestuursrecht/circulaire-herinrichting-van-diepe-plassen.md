@@ -8,7 +8,7 @@ laatste_update: 2010-12-24
 status: geldig
 toestand: 2010-12-24
 bron: "https://wetten.overheid.nl/BWBR0029248"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Circulaire herinrichting van diepe plassen

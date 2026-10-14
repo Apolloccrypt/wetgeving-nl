@@ -9,7 +9,7 @@ laatste_update: 2010-10-20
 status: geldig
 toestand: 2010-10-20
 bron: "https://wetten.overheid.nl/BWBR0028857"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit houdende opheffing van de ministeries van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Verkeer en Waterstaat en instelling van een ministerie van Infrastructuur en Milieu

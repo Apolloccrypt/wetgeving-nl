@@ -9,7 +9,7 @@ laatste_update: 2010-10-19
 status: geldig
 toestand: 2010-10-19
 bron: "https://wetten.overheid.nl/BWBR0028862"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 11 oktober 2010, nr. BJZ2010025925, houdende regels met betrekking tot de verstrekking van een eenmalige specifieke uitkering voor het opstellen van planstudies en het uitvoeren van proefprojecten in het kader van het Innovatieprogramma Klimaatneutrale Steden (Regeling eenmalige uitkering planstudies en proefprojecten IKS)

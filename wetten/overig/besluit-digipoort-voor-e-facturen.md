@@ -9,7 +9,7 @@ laatste_update: 2010-11-16
 status: geldig
 toestand: 2010-11-16
 bron: "https://wetten.overheid.nl/BWBR0028947"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van de Minister van Economische Zaken, Landbouw en Innovatie van 5 november 2010, nr. WJZ/10145713, houdende aansluiting van alle ministeries op een centraal aanleverpunt voor elektronische facturen (Besluit Digipoort voor e-Facturen)

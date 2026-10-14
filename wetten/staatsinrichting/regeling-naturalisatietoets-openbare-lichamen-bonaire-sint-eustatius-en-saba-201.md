@@ -9,7 +9,7 @@ laatste_update: 2023-09-28
 status: geldig
 toestand: 2023-09-28
 bron: "https://wetten.overheid.nl/BWBR0029345"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 15 december 2010, nr. 5679238/10, tot vaststelling van de Regeling naturalisatietoets openbare lichamen Bonaire, Sint Eustatius en Saba 2011

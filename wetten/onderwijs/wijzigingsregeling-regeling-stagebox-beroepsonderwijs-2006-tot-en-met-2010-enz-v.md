@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0029217"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en wetenschap van 7 december 2010, nr. BVE/257481, tot wijziging van de Regeling stagebox beroepsonderwijs 2006 tot en met 2010, de Regeling innovatiebox beroepsonderwijs 2006 tot en met 2009 en de Kaderregeling technocentra 2006 tot en met 2010 in verband met verlenging van de werkingsduur met een jaar van eerstgenoemde twee regelingen en het intrekken van laatstgenoemde regeling

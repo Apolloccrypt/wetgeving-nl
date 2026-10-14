@@ -9,7 +9,7 @@ laatste_update: 2013-03-20
 status: geldig
 toestand: 2013-03-20
 bron: "https://wetten.overheid.nl/BWBR0029403"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van 23 december 2010, houdende regels omtrent het verstrekken van subsidie aan particuliere justitiële jeugdinrichtingen (Subsidiebesluit particuliere justitiële jeugdinrichtingen)

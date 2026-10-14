@@ -9,7 +9,7 @@ laatste_update: 2011-03-09
 status: geldig
 toestand: 2011-03-09
 bron: "https://wetten.overheid.nl/BWBR0029699"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 1 maart 2011, nr. RUA/A/2011/1382, met betrekking tot de uitvoering van artikel 32b, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen

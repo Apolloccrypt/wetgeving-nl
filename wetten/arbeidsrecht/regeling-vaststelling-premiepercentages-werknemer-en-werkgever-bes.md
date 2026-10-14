@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0029426"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 27 december 2010, nr. Z/F-3032432, houdende vaststelling van het premiepercentage van de door de werknemer en werkgever verschuldigde premie ten behoeve van de geneeskundige verzorging voor de bevolking van Bonaire, Sint Eustatius en Saba 2011

@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0028738"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van de Minister van Economische Zaken van 28 september 2010, nr. WJZ/10142110, houdende regels inzake het verlenen van mandaat, volmacht en machtiging aan de Directeur-Generaal van het Benelux-Bureau voor de Intellectuele Eigendom betreffende de Wet merken BES (Besluit mandaat, volmacht en machtiging inzake Wet merken BES)

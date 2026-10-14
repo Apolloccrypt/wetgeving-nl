@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0029036"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 26 november 2010, nr. R&P/RA/2010/22533, tot wijziging van de Subsidieregeling ESF 2007–2013 (herzien)

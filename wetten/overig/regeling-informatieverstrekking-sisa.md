@@ -9,7 +9,7 @@ laatste_update: 2019-03-30
 status: geldig
 toestand: 2019-03-30
 bron: "https://wetten.overheid.nl/BWBR0029251"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 14 december 2010, nr. 2010-0000812461, houdende regels in verband met de verstrekking van informatie ten behoeve van de verantwoording van specifieke uitkeringen (Regeling informatieverstrekking sisa)

@@ -9,7 +9,7 @@ laatste_update: 2014-04-01
 status: geldig
 toestand: 2014-04-01
 bron: "https://wetten.overheid.nl/BWBR0029376"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 14 december 2010, nr. Z/F-3038399, houdende wijziging van de Regeling zorgverzekering ter zake van de vereveningsbijdrage voor zorgverzekeraars in het jaar 2011

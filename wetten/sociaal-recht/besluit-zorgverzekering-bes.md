@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0029404"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van 22 december 2010, houdende regels voor een zorgverzekering voor de bevolking van Bonaire, Sint Eustatius en Saba (Besluit zorgverzekering BES)

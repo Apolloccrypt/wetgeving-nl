@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0029310"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu van 24 december 2010, nr. BJZ2010033447, houdende wijziging van de Subsidieregeling milieugerichte technologie (wijziging subsidieprogramma milieu & technologie 2011)

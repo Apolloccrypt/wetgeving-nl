@@ -8,7 +8,7 @@ laatste_update: 2011-03-15
 status: geldig
 toestand: 2011-03-15
 bron: "https://wetten.overheid.nl/BWBR0029710"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-14
 ---
 
 # Regeling bijzondere projecten Fonds voor Cultuurparticipatie

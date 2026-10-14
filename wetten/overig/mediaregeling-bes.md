@@ -9,7 +9,7 @@ laatste_update: 2011-03-08
 status: geldig
 toestand: 2011-03-08
 bron: "https://wetten.overheid.nl/BWBR0029693"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 24 februari 2011, nr. WJZ/277917 (8296), houdende vaststelling van een mediaregeling voor de openbare lichamen Bonaire, Sint Eustatius en Saba (Mediaregeling BES)

@@ -8,7 +8,7 @@ laatste_update: 2010-12-27
 status: geldig
 toestand: 2010-12-27
 bron: "https://wetten.overheid.nl/BWBR0029261"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Wijziging Subsidieplafond Nederlands Fonds voor de Film voor kalenderjaar 2011

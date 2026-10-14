@@ -8,7 +8,7 @@ laatste_update: 2010-10-27
 status: geldig
 toestand: 2010-10-27
 bron: "https://wetten.overheid.nl/BWBR0028886"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit beperking openbaarheid archiefbescheiden Ordedienst en de Binnenlandse Strijdkrachten en de afwikkeling daarvan, 1940–1947

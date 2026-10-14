@@ -8,7 +8,7 @@ laatste_update: 2011-04-01
 status: geldig
 toestand: 2011-04-01
 bron: "https://wetten.overheid.nl/BWBR0029670"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Investeringsimpuls LNG-vulpunten binnenvaart

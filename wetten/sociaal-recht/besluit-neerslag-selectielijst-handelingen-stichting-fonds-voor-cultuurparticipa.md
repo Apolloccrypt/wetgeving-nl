@@ -8,7 +8,7 @@ laatste_update: 2010-12-23
 status: geldig
 toestand: 2010-12-23
 bron: "https://wetten.overheid.nl/BWBR0029165"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit neerslag selectielijst handelingen Stichting Fonds voor Cultuurparticipatie vanaf (2008) 2009

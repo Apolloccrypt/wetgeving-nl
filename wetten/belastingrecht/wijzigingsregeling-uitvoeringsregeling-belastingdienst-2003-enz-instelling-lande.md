@@ -9,7 +9,7 @@ laatste_update: 2011-07-01
 status: geldig
 toestand: 2011-07-01
 bron: "https://wetten.overheid.nl/BWBR0029663"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Wijziging van de Uitvoeringsregeling Belastingdienst 2003, Algemene douaneregeling en Uitvoeringsregeling Douane- en Accijnswet BES in verband met de instelling van het Landelijk kantoor Belastingregio’s

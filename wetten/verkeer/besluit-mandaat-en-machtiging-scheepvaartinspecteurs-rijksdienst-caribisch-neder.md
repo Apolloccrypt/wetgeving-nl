@@ -8,7 +8,7 @@ laatste_update: 2011-01-27
 status: geldig
 toestand: 2011-01-27
 bron: "https://wetten.overheid.nl/BWBR0029483"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit mandaat en machtiging scheepvaartinspecteurs Rijksdienst Caribisch Nederland

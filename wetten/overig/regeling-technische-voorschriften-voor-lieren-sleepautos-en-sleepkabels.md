@@ -9,7 +9,7 @@ laatste_update: 2011-03-08
 status: geldig
 toestand: 2011-03-08
 bron: "https://wetten.overheid.nl/BWBR0029692"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Staatssecretaris van infrastructuur en milieu houdende technische voorschriften voor lieren, sleepauto’s en sleepkabels (Regeling technische voorschriften lieren, sleepauto’s en sleepkabels)

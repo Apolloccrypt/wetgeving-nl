@@ -8,7 +8,7 @@ laatste_update: 2026-04-23
 status: geldig
 toestand: 2026-04-23
 bron: "https://wetten.overheid.nl/BWBR0029242"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling investeringsverzekeringen

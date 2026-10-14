@@ -8,7 +8,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0028765"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van 15 september 1967 ter uitvoering van artikel 3 van het besluit van 23 april 1964 ter uitvoering van de artikelen 6, lid 2 en 7, lid 1, tweede alinea, van de Opiumwet 1960 BES

@@ -9,7 +9,7 @@ laatste_update: 2011-06-01
 status: geldig
 toestand: 2011-06-01
 bron: "https://wetten.overheid.nl/BWBR0029365"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 14 december 2010, nr. WJZ/250927 (8303), houdende wijziging van de Regeling behandeling bezwaarschriften OCW en intrekking van de Regeling vaste vergoeding voorzitters Commissie voor bezwaarschriften OCW in verband met de opheffing van de Commissie voor bezwaarschriften van het Ministerie van OCW

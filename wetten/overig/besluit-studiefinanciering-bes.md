@@ -9,7 +9,7 @@ laatste_update: 2017-09-15
 status: geldig
 toestand: 2017-09-15
 bron: "https://wetten.overheid.nl/BWBR0029604"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van 3 februari 2011, houdende regels ter uitvoering van de Wet studiefinanciering BES (Besluit studiefinanciering BES)

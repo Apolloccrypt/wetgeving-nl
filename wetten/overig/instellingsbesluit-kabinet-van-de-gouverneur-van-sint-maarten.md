@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0028707"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van 29 september 2010 tot instelling van het Kabinet van de Gouverneur van Sint Maarten (Instellingsbesluit Kabinet van de Gouverneur van Sint Maarten)

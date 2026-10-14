@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0029072"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van 19 november 2010, houdende wijziging van het Besluit prudentiële regels Wft en het Besluit Gedragstoezicht financiële ondernemingen Wft (Besluit beheerst beloningsbeleid Wft)

@@ -8,7 +8,7 @@ laatste_update: 2010-12-21
 status: geldig
 toestand: 2010-12-21
 bron: "https://wetten.overheid.nl/BWBR0029142"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling Tarief Uitleen 11-01

@@ -9,7 +9,7 @@ laatste_update: 2010-11-01
 status: geldig
 toestand: 2010-11-01
 bron: "https://wetten.overheid.nl/BWBR0028901"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van 26 oktober 2010, houdende vaststelling van de griffierechten en de bedragen, bedoeld in de artikelen 21, tweede lid, respectievelijk 26 van de Wet griffierechten burgerlijke zaken, alsmede het tarief en de vergoedingen, bedoeld in de artikelen 597 respectievelijk 838 van het Wetboek van Burgerlijke Rechtsvordering en tot intrekking van het Besluit tarieven in burgerlijke zaken (Besluit griffierechten burgerlijke zaken)

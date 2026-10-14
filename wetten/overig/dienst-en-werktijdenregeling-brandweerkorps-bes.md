@@ -9,7 +9,7 @@ laatste_update: 2010-10-14
 status: geldig
 toestand: 2010-10-14
 bron: "https://wetten.overheid.nl/BWBR0028824"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 6 oktober 2010, nr. 2010-0000641889, houdende nadere regels met betrekking tot de dienst- en werktijden van de ambtenaren van het brandweerkorps BES en daarmee samenhangende toelagen (Dienst- en werktijdenregeling brandweerkorps BES)

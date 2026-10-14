@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0028944"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling houdende wijziging van de Kaderregeling subsidies duurzaamheid verkeer en waterstaat in verband met de Aanwijzingen voor subsidieverstrekking

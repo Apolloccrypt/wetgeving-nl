@@ -9,7 +9,7 @@ laatste_update: 2010-12-01
 status: geldig
 toestand: 2010-12-01
 bron: "https://wetten.overheid.nl/BWBR0029017"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van 18 november 2010 tot het stellen van nadere regels betreffende het vinden van passende arbeid voor gewezen politieke ambtsdragers en het opleggen van sancties aan gewezen politieke ambtsdragers (Besluit sollicitatieplicht Appa voor gewezen politieke ambtsdragers)

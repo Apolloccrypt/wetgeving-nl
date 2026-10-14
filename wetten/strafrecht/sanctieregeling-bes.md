@@ -9,7 +9,7 @@ laatste_update: 2011-02-19
 status: geldig
 toestand: 2011-02-19
 bron: "https://wetten.overheid.nl/BWBR0029611"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de minister van Buitenlandse Zaken in overeenstemming met de minister van Veiligheid en Justitie, de minister van Financiën en de minister van Economische Zaken, Landbouw en Innovatie van 10 februari 2011, nr. DJZ/BR/0085-11, houdende uitbreiding van de werkingssfeer van sanctieregelingen tot de openbare lichamen Bonaire, Sint Eustatius en Saba (Sanctieregeling BES)

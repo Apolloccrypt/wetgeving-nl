@@ -8,7 +8,7 @@ laatste_update: 2012-04-01
 status: geldig
 toestand: 2012-04-01
 bron: "https://wetten.overheid.nl/BWBR0029349"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Wijzigingsregeling enige fiscale uitvoeringsregelingen, enige overige uitvoeringsregelingen en Wet op de accijns

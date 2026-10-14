@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0029238"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Wet van 13 december 2010 tot wijziging van een aantal wetten van het Ministerie van Sociale Zaken en Werkgelegenheid teneinde wetstechnische gebreken te herstellen en een aantal verduidelijkingen aan te brengen (Reparatiewet SZW 2011)

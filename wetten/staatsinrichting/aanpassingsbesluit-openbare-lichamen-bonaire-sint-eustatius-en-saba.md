@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0028659"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van 27 september 2010 tot aanpassing van algemene maatregelen van bestuur in verband met de nieuwe staatsrechtelijke positie van Bonaire, Sint Eustatius en Saba als openbaar lichaam binnen Nederland (Aanpassingsbesluit openbare lichamen Bonaire, Sint Eustatius en Saba)

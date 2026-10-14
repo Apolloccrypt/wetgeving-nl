@@ -9,7 +9,7 @@ laatste_update: 2026-04-02
 status: geldig
 toestand: 2026-04-02
 bron: "https://wetten.overheid.nl/BWBR0052482"
-opgehaald: 2026-10-13
+opgehaald: 2026-10-14
 ---
 
 # Besluit van het College van procureurs-generaal houdende verlening van ondermandaat, volmacht en machtiging ten aanzien van aangelegenheden van het Openbaar Ministerie die niet het beheer van het Openbaar Ministerie betreffen (Ondermandaatbesluit niet-beheersaangelegenheden van het College van procureurs-generaal 2026)

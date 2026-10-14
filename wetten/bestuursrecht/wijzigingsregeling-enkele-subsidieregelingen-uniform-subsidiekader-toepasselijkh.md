@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0028881"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Minister van Economische Zaken van 13 oktober 2010, nr. WJZ/10144037, tot wijziging van enkele subsidieregeling in verband met het Uniform Subsidiekader, de toepasselijkheid van enkele subsidies op Bonaire, Sint Eustatius en Saba en enkele andere wijzigingen

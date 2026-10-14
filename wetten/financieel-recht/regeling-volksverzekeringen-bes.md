@@ -9,7 +9,7 @@ laatste_update: 2026-07-22
 status: geldig
 toestand: 2026-07-22
 bron: "https://wetten.overheid.nl/BWBR0029205"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 14 december 2010, nr. IVV/FB/2010/24329, tot nadere regelgeving met betrekking tot de Wet algemene ouderdomsverzekering BES en de Wet algemene weduwen- en wezenverzekering BES (Regeling volksverzekeringen BES)

@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0028780"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van 4 oktober 2010, houdende regels met betrekking tot de inrichting en organisatie van het politiekorps van Bonaire, Sint Eustatius en Saba (Besluit beheer politiekorps BES)

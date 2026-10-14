@@ -9,7 +9,7 @@ laatste_update: 2010-12-23
 status: geldig
 toestand: 2010-12-23
 bron: "https://wetten.overheid.nl/BWBR0029186"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 14 december 2010, nr. WJZ/258717 (8308), ter uitvoering van artikel 2, vijfde lid, van het Besluit bevoegdheidsverklaring leraren BES (Regeling bevoegdheidsverklaring leraren BES)

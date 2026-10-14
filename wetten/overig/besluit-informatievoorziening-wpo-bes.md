@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0029578"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van 3 februari 2011, houdende vaststelling van voorschriften inzake de informatievoorziening WPO BES (Besluit informatievoorziening WPO BES)

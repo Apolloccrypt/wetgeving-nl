@@ -9,7 +9,7 @@ laatste_update: 2010-12-23
 status: geldig
 toestand: 2010-12-23
 bron: "https://wetten.overheid.nl/BWBR0029183"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 13 december 2010, nr. Z/F-3037475, houdende tot nadere aanwijzing van de besteedbare middelen ter dekking van de beheerskosten AWBZ 2010 (Nadere aanwijzing besteedbare middelen beheerskosten AWBZ 2010)

@@ -9,7 +9,7 @@ laatste_update: 2011-07-01
 status: geldig
 toestand: 2011-07-01
 bron: "https://wetten.overheid.nl/BWBR0029282"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Wet van 13 december 2010 tot wijziging van de Wet op de accijns in verband met de implementatie van de Richtlijn 2010/12/EU van de Raad van 16 februari 2010 tot wijziging van Richtlijnen 92/79/EEG, 92/80/EEG en 95/59/EG wat betreft de structuur en de tarieven van de accijns op tabaksfabrikaten en Richtlijn 2008/118/EG (PbEU L 50) (Implementatie wijziging tabaksaccijns)

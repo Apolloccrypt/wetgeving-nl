@@ -9,7 +9,7 @@ laatste_update: 2013-06-01
 status: geldig
 toestand: 2013-06-01
 bron: "https://wetten.overheid.nl/BWBR0029161"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken, Landbouw en Innovatie van 15 december 2010, nr. 169929, houdende aanwijzing van de Saba Bank als natuurpark

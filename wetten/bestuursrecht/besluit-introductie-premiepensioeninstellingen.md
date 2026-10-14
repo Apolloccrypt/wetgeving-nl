@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0029354"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van 23 december 2010, houdende wijziging van het Besluit Markttoegang financiële ondernemingen Wft, het Besluit prudentiële regels Wft, het Besluit Gedragstoezicht financiële ondernemingen Wft, het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling, het Besluit financieel toetsingskader pensioenfondsen en het Vrijstellings- en boetebesluit Wet Bpf 2000, ter nadere invulling van de eisen die worden gesteld op grond van de Wet introductie premiepensioeninstellingen (Besluit introductie premiepensioeninstellingen)

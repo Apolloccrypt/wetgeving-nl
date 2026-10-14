@@ -8,7 +8,7 @@ laatste_update: 2017-10-14
 status: geldig
 toestand: 2017-10-14
 bron: "https://wetten.overheid.nl/BWBR0028708"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van 6 januari 2005 ter uitvoering van artikel 3, eerste lid, onder f, Opiumwet 1960 BES

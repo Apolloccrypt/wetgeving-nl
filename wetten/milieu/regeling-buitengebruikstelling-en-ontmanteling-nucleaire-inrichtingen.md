@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0029709"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Minister van Economische Zaken, Landbouw en Innovatie en de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 23 februari 2011, nr. WJZ/11005409, houdende regels inzake buitengebruikstelling en ontmanteling van nucleaire inrichtingen en inzake de aanvraag om goedkeuring voor de wijze waarop financiële zekerheid wordt gesteld voor de kosten van buitengebruikstelling en ontmanteling van nucleaire inrichtingen waarin kernenergie kan of kon worden vrijgemaakt (Regeling buitengebruikstelling en ontmanteling nucleaire inrichtingen)

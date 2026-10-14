@@ -8,7 +8,7 @@ laatste_update: 2010-12-01
 status: geldig
 toestand: 2010-12-01
 bron: "https://wetten.overheid.nl/BWBR0028891"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit vervanging personeelsdossiers Centraal Justitieel Incassobureau

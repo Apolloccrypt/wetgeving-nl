@@ -9,7 +9,7 @@ laatste_update: 2011-02-22
 status: geldig
 toestand: 2011-02-22
 bron: "https://wetten.overheid.nl/BWBR0029625"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 14 februari 2011, nr. VGP/VC 3048441, houdende wijziging van de Regeling Verpakkingen- en gebruiksartikelen (Warenwet)

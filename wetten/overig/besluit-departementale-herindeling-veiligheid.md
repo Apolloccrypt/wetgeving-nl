@@ -9,7 +9,7 @@ laatste_update: 2010-10-20
 status: geldig
 toestand: 2010-10-20
 bron: "https://wetten.overheid.nl/BWBR0028855"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit houdende departementale herindeling met betrekking tot veiligheid

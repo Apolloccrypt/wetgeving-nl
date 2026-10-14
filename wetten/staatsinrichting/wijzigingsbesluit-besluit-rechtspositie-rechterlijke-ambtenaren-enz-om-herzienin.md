@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0029382"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van 17 december 2010 tot wijziging van onder meer het Besluit rechtspositie rechterlijke ambtenaren en enige andere besluiten in verband met onder meer de herziening van de functie- en bezoldigingstructuur voor rechterlijke ambtenaren

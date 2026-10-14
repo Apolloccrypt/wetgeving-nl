@@ -9,7 +9,7 @@ laatste_update: 2011-01-12
 status: geldig
 toestand: 2011-01-12
 bron: "https://wetten.overheid.nl/BWBR0029407"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van 28 december 2010 tot wijziging van het Rechtspositiebesluit commissarissen van de Koning, het Rechtspositiebesluit burgemeesters, het Rechtspositiebesluit gedeputeerden, het Rechtspositiebesluit wethouders, het Rechtspositiebesluit staten- en commissieleden, het Rechtspositiebesluit raads- en commissieleden, het Waterschapsbesluit en het Rechtspositiebesluit Rijksvertegenwoordiger BES in verband met het van toepassing worden van de Algemene pensioenwet politieke ambtsdragers op commissarissen van de Koning, burgemeesters en voorzitters van waterschapsbesturen, de gevolgen van de Fiscale vereenvoudigingswet en enkele andere wijzigingen (Besluit wijziging van de rechtspositiebesluiten decentrale politieke ambtsdragers 2010)

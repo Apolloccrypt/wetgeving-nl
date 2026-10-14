@@ -8,7 +8,7 @@ laatste_update: 2010-11-11
 status: geldig
 toestand: 2010-11-11
 bron: "https://wetten.overheid.nl/BWBR0028924"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (taakstelling ziekenhuizen 2011)

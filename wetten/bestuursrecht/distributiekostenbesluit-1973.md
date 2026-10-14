@@ -9,7 +9,7 @@ laatste_update: 2012-12-07
 status: geldig
 toestand: 2012-12-07
 bron: "https://wetten.overheid.nl/BWBR0029541"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van 30 november 1973, houdende regelen betreffende het vorderen van gelden ter bestrijding van de kosten, verbonden aan de uitvoering van de Distributiewet 1939

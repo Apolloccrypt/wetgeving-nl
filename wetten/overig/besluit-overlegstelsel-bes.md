@@ -9,7 +9,7 @@ laatste_update: 2021-03-30
 status: geldig
 toestand: 2021-03-30
 bron: "https://wetten.overheid.nl/BWBR0028779"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van 10 september 2010, houdende regels inzake de structuur van het overleg betreffende de rechtstoestand van ambtenaren (Besluit overlegstelsel BES)

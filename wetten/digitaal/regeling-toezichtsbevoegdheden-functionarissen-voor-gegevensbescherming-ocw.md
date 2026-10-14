@@ -9,7 +9,7 @@ laatste_update: 2018-06-21
 status: geldig
 toestand: 2018-06-21
 bron: "https://wetten.overheid.nl/BWBR0028921"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 7 oktober 2010, nr. 233714, houdende de toedeling van toezichtsbevoegdheden aan de functionarissen voor de gegevensbescherming van het Ministerie van Onderwijs, Cultuur en Wetenschap (Regeling toezichtsbevoegdheden functionarissen voor de gegevensbescherming OCW)

@@ -9,7 +9,7 @@ laatste_update: 2014-08-04
 status: geldig
 toestand: 2014-08-04
 bron: "https://wetten.overheid.nl/BWBR0029708"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-14
 ---
 
 # Beschikking van de Minister van Justitie van 14 januari 2010, nr. 5637097/10/DSP, houdende verlening van een vergunning tot het organiseren van sportprijsvragen, lotto en het cijferspel

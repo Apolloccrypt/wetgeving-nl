@@ -8,7 +8,7 @@ laatste_update: 2010-12-29
 status: geldig
 toestand: 2010-12-29
 bron: "https://wetten.overheid.nl/BWBR0029265"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit beperking openbaarheid archiefbescheiden Strijdkrachten in Nederlands Nieuw-Guinea van het Ministerie van Defensie, 1950–1962

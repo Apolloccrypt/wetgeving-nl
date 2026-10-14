@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0028776"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 16 september 2010, nr. AV/PB/2010/18205, tot wijziging van de Regeling Pensioenwet BES

@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0028865"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 1 oktober 2010, nr. VGP/VC 3024905, houdende regels inzake jam met verlaagd suikergehalte (Warenwetregeling vrijstelling jam met verlaagd suikergehalte)

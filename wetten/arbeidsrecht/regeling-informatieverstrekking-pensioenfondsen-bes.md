@@ -9,7 +9,7 @@ laatste_update: 2011-03-12
 status: geldig
 toestand: 2011-03-12
 bron: "https://wetten.overheid.nl/BWBR0029704"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-14
 ---
 
 # Regeling van De Nederlandsche Bank N.V. van 2 maart 2011 met betrekking tot de informatieverstrekking door pensioenfondsen die hun zetel hebben in de openbare lichamen Bonaire, Sint Eustatius of Saba (Regeling informatieverstrekking pensioenfondsen BES)

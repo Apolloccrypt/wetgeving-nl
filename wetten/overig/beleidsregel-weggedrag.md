@@ -9,7 +9,7 @@ laatste_update: 2011-04-01
 status: geldig
 toestand: 2011-04-01
 bron: "https://wetten.overheid.nl/BWBR0029585"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Beleidsregel uitvoering weggedragtest van de Dienst Wegverkeer bij toelating en wijziging constructie van voertuigen (Beleidsregel weggedrag)

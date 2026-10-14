@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0029215"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 13 december 2010, nr. IVV/FB/2010/23821, tot wijziging van de Regeling Wfsv in verband met de inwerkingtreding van de Wet harmonisatie en vereenvoudiging socialezekerheidswetgeving en enige andere wijzigingen

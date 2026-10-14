@@ -9,7 +9,7 @@ laatste_update: 2010-10-14
 status: geldig
 toestand: 2010-10-14
 bron: "https://wetten.overheid.nl/BWBR0028811"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 7 oktober 2010, nr. 2010-0000659006 , houdende aanwijzing niet-werknemer in de zin van de Pensioenwet ambtenaren BES (Regeling aanwijzing niet-werknemer Pensioenwet ambtenaren BES)

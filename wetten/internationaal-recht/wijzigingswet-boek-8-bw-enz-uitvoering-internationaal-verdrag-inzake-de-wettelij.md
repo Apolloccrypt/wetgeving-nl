@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0029020"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Wet van 7 oktober 2010 tot wijziging van Boek 8 van het Burgerlijk Wetboek ter uitvoering van het op 23 maart 2001 te Londen tot stand gekomen Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door bunkerolie, 2001 (Trb. 2005, 329)

@@ -9,7 +9,7 @@ laatste_update: 2011-03-02
 status: geldig
 toestand: 2011-03-02
 bron: "https://wetten.overheid.nl/BWBR0029657"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van het Stimuleringsfonds voor de pers van 23 februari 2011, nr. 20563, tot vaststelling van een tijdelijke subsidieregeling persinnovatie 2011

@@ -9,7 +9,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBR0029609"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van 3 februari 2011, houdende vaststelling van voorschriften inzake de bekwaamheidseisen voor het onderwijspersoneel BES (Besluit bekwaamheidseisen onderwijspersoneel BES)

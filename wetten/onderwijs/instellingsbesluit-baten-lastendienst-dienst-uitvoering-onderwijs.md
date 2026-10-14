@@ -9,7 +9,7 @@ laatste_update: 2010-12-03
 status: geldig
 toestand: 2010-12-03
 bron: "https://wetten.overheid.nl/BWBR0029012"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap en de Minister van Financiën van 2 november 2010, nr. 249000, houdende instelling van de baten-lastendienst Dienst Uitvoering Onderwijs (Instellingsbesluit baten-lastendienst Dienst Uitvoering Onderwijs)

@@ -8,7 +8,7 @@ laatste_update: 2023-07-07
 status: geldig
 toestand: 2023-07-07
 bron: "https://wetten.overheid.nl/BWBR0028723"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Dienst- en werktijdenbesluit brandweerkorps BES

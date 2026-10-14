@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0029048"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport, van 1 december 2010, nr. Z/F- 3036511, houdende vaststelling van de standaardpremie 2011 (Regeling vaststelling standaardpremie 2011)

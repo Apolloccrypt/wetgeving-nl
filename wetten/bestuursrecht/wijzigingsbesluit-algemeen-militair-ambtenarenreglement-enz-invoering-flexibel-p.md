@@ -9,7 +9,7 @@ laatste_update: 2011-02-01
 status: geldig
 toestand: 2011-02-01
 bron: "https://wetten.overheid.nl/BWBR0029493"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van 24 januari 2011 tot wijziging van het Algemeen militair ambtenarenreglement in het kader van de invoering van een flexibel personeelsysteem voor de krijgsmacht

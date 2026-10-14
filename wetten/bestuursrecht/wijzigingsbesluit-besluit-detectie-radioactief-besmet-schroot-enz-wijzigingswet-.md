@@ -9,7 +9,7 @@ laatste_update: 2011-07-01
 status: geldig
 toestand: 2011-07-01
 bron: "https://wetten.overheid.nl/BWBR0029677"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van 12 februari 2011 tot wijziging van het Besluit detectie radioactief besmet schroot, het Besluit kerninstallaties, splijtstoffen en ertsen, het Besluit stralingsbescherming, het Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen en het Vrijstellingsbesluit defensie Kernenergiewet in verband met de wet van 19 november 2009 tot wijziging van de Kernenergiewet in verband met vereenvoudiging van het bevoegd gezag, invoering van een verplichting tot financiële zekerheidstelling en enkele andere wijzigingen (Stb. 2010, 18)

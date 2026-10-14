@@ -9,7 +9,7 @@ laatste_update: 2010-10-14
 status: geldig
 toestand: 2010-10-14
 bron: "https://wetten.overheid.nl/BWBR0028825"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties en van de Minister van Justitie van 5 oktober 2010, nr. 2010-0000612483, houdende regels over de inrichting van een politiecellencomplex en de registratie van gegevens van ingeslotenen op Bonaire, Sint Eustatius en Saba (Regeling politiecellencomplex BES)

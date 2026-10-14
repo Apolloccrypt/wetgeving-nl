@@ -9,7 +9,7 @@ laatste_update: 2011-11-11
 status: geldig
 toestand: 2011-11-11
 bron: "https://wetten.overheid.nl/BWBR0029688"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 24 februari 2011, nr. WJZ/275507 (2756), houdende regels voor het vaststellen van de bedragen voor de materiële instandhouding primair onderwijs in Caribisch Nederland voor het jaar 2011 (Regeling vaststelling bedragen materiële instandhouding primair onderwijs BES 2011)

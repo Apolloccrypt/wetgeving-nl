@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0028843"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van de Minister van Justitie van het Koninkrijk van 8 oktober 2010, nummer 2010/2, houdende diverse wijzigingen met betrekking tot de Handleidingen voor de toepassing van de Rijkswet op het Nederlanderschap 2003 in verband met de staatkundige hervorming van de Nederlandse Antillen per 10 oktober 2010

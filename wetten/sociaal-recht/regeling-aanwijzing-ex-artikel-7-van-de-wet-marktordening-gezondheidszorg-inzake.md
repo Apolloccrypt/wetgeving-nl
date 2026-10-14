@@ -9,7 +9,7 @@ laatste_update: 2010-11-26
 status: geldig
 toestand: 2010-11-26
 bron: "https://wetten.overheid.nl/BWBR0028999"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport, van 16 november 2010, nr. MC-U-3032852, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake efficiëntietaakstelling ambulancezorg

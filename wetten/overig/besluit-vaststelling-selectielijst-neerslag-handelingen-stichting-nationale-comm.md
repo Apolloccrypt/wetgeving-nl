@@ -8,7 +8,7 @@ laatste_update: 2011-01-13
 status: geldig
 toestand: 2011-01-13
 bron: "https://wetten.overheid.nl/BWBR0029409"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen Stichting Nationale Commissie voor Internationale Samenwerking en Duurzame Ontwikkeling (NCDO) beleidsterrein Ontwikkelingssamenwerking vanaf 1996

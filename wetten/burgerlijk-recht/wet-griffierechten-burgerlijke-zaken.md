@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0028899"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Wet van 30 september 2010 tot invoering van een nieuw griffierechtenstelsel in burgerlijke zaken (Wet griffierechten burgerlijke zaken)

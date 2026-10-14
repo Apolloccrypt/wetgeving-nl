@@ -9,7 +9,7 @@ laatste_update: 2016-12-31
 status: geldig
 toestand: 2016-12-31
 bron: "https://wetten.overheid.nl/BWBR0028987"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van 16 november 2010, houdende regels met betrekking tot de overeenkomstige toepassing van het krachtens de Wet rechtspositie rechterlijke ambtenaren bij algemene maatregel van bestuur bepaalde ten aanzien van de leden met rechtspraak belast en de gerechtsauditeurs van de Centrale Raad van Beroep en het College van Beroep voor het bedrijfsleven (Besluit rechtspositie leden met rechtspraak belast en gerechtsauditeurs CRvB en CBb)

@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0029046"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 1 december 2010, nr. 5677198/10/6, houdende vaststelling van het model van het legitimatiebewijs van de ambtenaar Douane- en Accijnswet BES (Regeling model legitimatiebewijs ambtenaar Douane- en Accijnswet BES)

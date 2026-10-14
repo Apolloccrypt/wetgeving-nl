@@ -9,7 +9,7 @@ laatste_update: 2010-12-21
 status: geldig
 toestand: 2010-12-21
 bron: "https://wetten.overheid.nl/BWBR0029155"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 13 december 2010, nr. MC-U-3039968, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake een experiment voor de DOT-productstructuur

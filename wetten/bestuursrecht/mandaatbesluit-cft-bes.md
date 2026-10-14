@@ -9,7 +9,7 @@ laatste_update: 2012-07-01
 status: geldig
 toestand: 2012-07-01
 bron: "https://wetten.overheid.nl/BWBR0028799"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 23 september 2010, Directie Constitutionele Zaken en Wetgeving, nr. 2010-0000618987, tot vaststelling van een mandaatregeling voor het College financieel toezicht Bonaire, Sint Eustatius en Saba (Mandaatbesluit Cft BES)

@@ -8,7 +8,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBV0003243"
-opgehaald: 2026-10-13
+opgehaald: 2026-10-14
 ---
 
 # Verdrag inzake het vergemakkelijken van het internationale verkeer ter zee

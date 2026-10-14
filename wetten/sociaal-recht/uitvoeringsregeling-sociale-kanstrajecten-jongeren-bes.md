@@ -9,7 +9,7 @@ laatste_update: 2011-03-08
 status: geldig
 toestand: 2011-03-08
 bron: "https://wetten.overheid.nl/BWBR0029687"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 24 februari 2011, nr. WJZ/275501 (4899) houdende uitvoeringsvoorschriften op grond van het Uitvoeringsbesluit sociale kanstrajecten jongeren BES (Uitvoeringsregeling sociale kanstrajecten jongeren BES)

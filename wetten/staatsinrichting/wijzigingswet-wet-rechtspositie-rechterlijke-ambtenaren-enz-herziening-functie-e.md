@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0029370"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Wet van 3 december 2009 tot wijziging van de Wet rechtspositie rechterlijke ambtenaren, de Wet op de rechterlijke organisatie en enige andere wetten in verband met de herziening van de functie- en bezoldigingstructuur voor rechterlijke ambtenaren

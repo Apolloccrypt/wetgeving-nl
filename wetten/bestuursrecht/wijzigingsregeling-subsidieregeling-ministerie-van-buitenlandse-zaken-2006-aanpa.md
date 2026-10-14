@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0029093"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van 1 december 2010, nr. DJZ/BR/0873-10, van de Staatssecretaris van Buitenlandse Zaken tot wijziging van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 met het oog op aanpassing van de wijze van subsidieverlening voor activiteiten, gericht op structurele armoedebestrijding in ontwikkelingslanden

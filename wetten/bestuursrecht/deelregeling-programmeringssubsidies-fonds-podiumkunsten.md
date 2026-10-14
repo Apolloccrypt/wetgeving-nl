@@ -8,7 +8,7 @@ laatste_update: 2025-10-08
 status: geldig
 toestand: 2025-10-08
 bron: "https://wetten.overheid.nl/BWBR0029360"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Deelregeling programmeringssubsidies Fonds Podiumkunsten

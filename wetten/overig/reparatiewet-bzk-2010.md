@@ -9,7 +9,7 @@ laatste_update: 2013-12-01
 status: geldig
 toestand: 2013-12-01
 bron: "https://wetten.overheid.nl/BWBR0029413"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Wet van 13 december 2010 tot herstel van wetstechnische gebreken en leemten alsmede aanbrenging van andere wijzigingen van ondergeschikte aard in diverse wetsbepalingen op het terrein van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (Reparatiewet BZK 2010)

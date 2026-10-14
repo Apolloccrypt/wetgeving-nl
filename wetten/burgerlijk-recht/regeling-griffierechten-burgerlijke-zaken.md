@@ -9,7 +9,7 @@ laatste_update: 2017-07-26
 status: geldig
 toestand: 2017-07-26
 bron: "https://wetten.overheid.nl/BWBR0028908"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 26 oktober 2010, nr. 5673146/10/6 houdende de invoering van de Regeling griffierechten burgerlijke zaken (Regeling griffierechten burgerlijke zaken)

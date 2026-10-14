@@ -8,7 +8,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0028709"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling houdende nieuwe voorschriften met betrekking tot de aflevering en het voorschrijven van middelen als bedoeld in de artikelen 3 en 4 van de Opiumwet 1960 BES

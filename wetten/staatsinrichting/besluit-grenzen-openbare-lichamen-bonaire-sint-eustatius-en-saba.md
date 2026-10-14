@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0028715"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van 30 september 2010, houdende vaststelling van de grenzen van de openbare lichamen Bonaire, Sint Eustatius en Saba (Besluit grenzen openbare lichamen Bonaire, Sint Eustatius en Saba)

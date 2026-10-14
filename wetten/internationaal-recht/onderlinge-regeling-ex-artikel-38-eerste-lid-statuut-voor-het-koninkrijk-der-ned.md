@@ -8,7 +8,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0029065"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Onderlinge regeling ex artikel 38, eerste lid, Statuut voor het Koninkrijk der Nederlanden, inzake de samenwerking tussen de landen bij de implementatie van verdragen

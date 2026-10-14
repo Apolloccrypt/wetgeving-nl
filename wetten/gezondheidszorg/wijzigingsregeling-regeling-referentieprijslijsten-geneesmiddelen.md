@@ -9,7 +9,7 @@ laatste_update: 2011-03-03
 status: geldig
 toestand: 2011-03-03
 bron: "https://wetten.overheid.nl/BWBR0029661"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 21 februari 2011, nr. GMT-VDG 3050840, houdende wijziging van de Regeling referentieprijslijsten geneesmiddelen

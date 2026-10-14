@@ -9,7 +9,7 @@ laatste_update: 2015-12-30
 status: geldig
 toestand: 2015-12-30
 bron: "https://wetten.overheid.nl/BWBR0029321"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 22 december 2010, nr. 5679799/Justis/10, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de afdeling Veiligheid, Kabinet en Handhaving van de gemeente Amstelveen in het domein Openbare Ruimte

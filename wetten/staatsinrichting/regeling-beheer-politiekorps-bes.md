@@ -9,7 +9,7 @@ laatste_update: 2010-10-14
 status: geldig
 toestand: 2010-10-14
 bron: "https://wetten.overheid.nl/BWBR0028823"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Justitie van 5 oktober 2010, nr. 2010-0000623057, houdende nadere regels met betrekking tot de ambtenaren criminele inlichtingen, de infiltratieambtenaren en de aanhoudings- en ondersteuningsambtenaren waarover het politiekorps van Bonaire, Sint Eustatius en Saba beschikt dan wel kan beschikken, alsmede de ambtenaren criminele inlichtingen van de Koninklijke marechaussee (Regeling beheer politiekorps BES)

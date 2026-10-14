@@ -8,7 +8,7 @@ laatste_update: 2011-01-06
 status: geldig
 toestand: 2011-01-06
 bron: "https://wetten.overheid.nl/BWBR0029398"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Inschrijvingsvoorwaarden mediators 2011 krachtens de Wet op de Rechtsbijstand

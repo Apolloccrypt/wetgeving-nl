@@ -9,7 +9,7 @@ laatste_update: 2011-07-01
 status: geldig
 toestand: 2011-07-01
 bron: "https://wetten.overheid.nl/BWBR0029531"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van 25 januari 2011, houdende regels inzake de verzending van mededelingen langs elektronische weg in het kader van een verzekeringsovereenkomst (Besluit elektronische mededelingen in het kader van een verzekeringsovereenkomst)

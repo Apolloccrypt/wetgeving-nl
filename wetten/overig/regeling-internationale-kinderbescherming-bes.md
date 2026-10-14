@@ -9,7 +9,7 @@ laatste_update: 2010-12-10
 status: geldig
 toestand: 2010-12-10
 bron: "https://wetten.overheid.nl/BWBR0029041"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Staatssecretaris van Veiligheid en Justitie van 29 november 2010, nr. 5677000/10/6, tot wijziging van Boek 1 van het Burgerlijk Wetboek BES ter uitvoering van het op 19 oktober 1996 te ’s-Gravenhage tot stand gekomen verdrag inzake de bevoegdheid, het toepasselijke recht, de erkenning, de tenuitvoerlegging en de samenwerking op het gebied van ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen (Regeling internationale kinderbescherming BES)

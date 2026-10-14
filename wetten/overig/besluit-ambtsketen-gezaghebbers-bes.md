@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0028713"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van 30 september 2010, houdende bepalingen omtrent de door de gezaghebbers van Bonaire, Sint Eustatius en Saba te dragen ambtsketen (Besluit ambtsketen gezaghebbers BES)

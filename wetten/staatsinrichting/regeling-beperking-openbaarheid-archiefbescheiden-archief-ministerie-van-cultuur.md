@@ -9,7 +9,7 @@ laatste_update: 2010-12-24
 status: geldig
 toestand: 2010-12-24
 bron: "https://wetten.overheid.nl/BWBR0029233"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 14 december 2010, DBV/IenA/I 3037446, houdende beperking van de openbaarheid van archiefbescheiden, opgenomen in het archief van het ministerie van Cultuur, Recreatie en Maatschappelijk Werk, over de periode (1910–) 1965–1982 (–1990)

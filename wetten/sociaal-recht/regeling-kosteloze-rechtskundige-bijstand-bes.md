@@ -9,7 +9,7 @@ laatste_update: 2016-07-01
 status: geldig
 toestand: 2016-07-01
 bron: "https://wetten.overheid.nl/BWBR0028809"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Minister van Justitie van 4 oktober 2010, nr. 5670491/10/6, houdende het stellen van regels omtrent de verlening van kosteloze rechtskundige bijstand (Regeling kosteloze rechtskundige bijstand BES)

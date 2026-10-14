@@ -9,7 +9,7 @@ laatste_update: 2022-07-01
 status: geldig
 toestand: 2022-07-01
 bron: "https://wetten.overheid.nl/BWBR0028846"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling houdende vrijstelling verbod landen en opstijgen helikopters algemeen maatschappelijk belang op militaire luchthavens (Regeling vrijstelling vluchten algemeen maatschappelijk belang militaire luchthavens)

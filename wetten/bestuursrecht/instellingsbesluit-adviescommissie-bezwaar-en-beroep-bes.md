@@ -9,7 +9,7 @@ laatste_update: 2011-01-29
 status: geldig
 toestand: 2011-01-29
 bron: "https://wetten.overheid.nl/BWBR0029506"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 21 januari 2011, nr. RUA/A/2011/720, tot instelling van de adviescommissie bezwaar en beroep BES

@@ -9,7 +9,7 @@ laatste_update: 2026-05-14
 status: geldig
 toestand: 2026-05-14
 bron: "https://wetten.overheid.nl/BWBR0028693"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Tijdelijk Besluit vrijstelling van dienst ambtenaren en werknemers BES

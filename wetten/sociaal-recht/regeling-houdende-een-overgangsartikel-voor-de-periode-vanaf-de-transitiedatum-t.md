@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0028750"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 27 september 2010, nr. Z/VV-3023962, houdende een overgangsartikel voor de periode vanaf de transitiedatum tot aan de inwerkingtreding van het Besluit zorgverzekering BES

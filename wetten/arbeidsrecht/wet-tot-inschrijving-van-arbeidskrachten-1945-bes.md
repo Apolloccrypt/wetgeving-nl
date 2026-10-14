@@ -8,7 +8,7 @@ laatste_update: 2013-07-01
 status: geldig
 toestand: 2013-07-01
 bron: "https://wetten.overheid.nl/BWBR0028724"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Wet tot inschrijving van arbeidskrachten 1945 BES

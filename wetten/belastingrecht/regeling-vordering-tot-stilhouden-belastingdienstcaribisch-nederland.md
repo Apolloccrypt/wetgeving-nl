@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0029045"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 1 december 2010, nr. 5677200/10/6, houdende de vordering tot stilhouden door de inspecteur van de Belastingdienst/ Caribisch Nederland (Regeling vordering tot stilhouden Belastingdienst/Caribisch Nederland)

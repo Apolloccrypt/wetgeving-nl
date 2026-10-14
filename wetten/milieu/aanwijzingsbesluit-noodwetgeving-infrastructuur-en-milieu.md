@@ -9,7 +9,7 @@ laatste_update: 2019-07-01
 status: geldig
 toestand: 2019-07-01
 bron: "https://wetten.overheid.nl/BWBR0028910"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van 28 september 2010, houdende aanwijzing van de autoriteiten, bedoeld in de artikelen 27 van de Vervoersnoodwet en 22 van de Havennoodwet alsmede actualisering van de aanwijzing krachtens artikel 16 van de Prijzennoodwet (Aanwijzingsbesluit noodwetgeving Verkeer en Waterstaat)

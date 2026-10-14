@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0028773"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Minister van Justitie van 22 september 2010, nr. 5669406/10/6, tot aanwijzing van aanvullende documenten waarmee ten behoeve van de uitoefening van het kiesrecht in Bonaire, Sint Eustatius en Saba kan worden voldaan aan de identificatieplicht bedoeld in de Kieswet (Regeling aanwijzing aanvullende documenten identificatieplicht Kieswet BES)

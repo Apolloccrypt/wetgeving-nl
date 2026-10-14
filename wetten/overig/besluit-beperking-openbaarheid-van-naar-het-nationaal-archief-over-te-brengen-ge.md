@@ -9,7 +9,7 @@ laatste_update: 2010-10-06
 status: geldig
 toestand: 2010-10-06
 bron: "https://wetten.overheid.nl/BWBR0028696"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van de Minster van Financiën d.d. 31 augustus 2010, nr. Bedr/2010/526 M, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen gerubriceerd archief, over de periode (1903)1939–1975 (1983)

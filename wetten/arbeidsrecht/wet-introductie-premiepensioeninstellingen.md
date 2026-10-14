@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0029369"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Wet van 23 december 2010 tot wijziging van de Wet op het financieel toezicht en enige andere wetten in verband met de introductie van en het toezicht op premiepensioeninstellingen (Wet introductie premiepensioeninstelingen)

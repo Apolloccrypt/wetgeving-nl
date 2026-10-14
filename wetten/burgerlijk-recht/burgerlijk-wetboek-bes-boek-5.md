@@ -8,7 +8,7 @@ laatste_update: 2016-07-01
 status: geldig
 toestand: 2016-07-01
 bron: "https://wetten.overheid.nl/BWBR0028748"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Burgerlijk Wetboek BES Boek 5

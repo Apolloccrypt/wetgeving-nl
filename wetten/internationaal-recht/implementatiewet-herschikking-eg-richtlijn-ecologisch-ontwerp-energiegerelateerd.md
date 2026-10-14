@@ -9,7 +9,7 @@ laatste_update: 2010-11-20
 status: geldig
 toestand: 2010-11-20
 bron: "https://wetten.overheid.nl/BWBR0028956"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Wet van 4 november 2010 tot wijziging van de Wet milieubeheer ten behoeve van de implementatie van richtlijn nr. 2009/125/EG van het Europees Parlement en de Raad van de Europese Unie van 21 oktober 2009 betreffende de totstandbrenging van een kader voor het vaststellen van eisen inzake ecologisch ontwerp voor energiegerelateerde producten (herschikking) (Pb EU L 285) (Implementatiewet herschikking EG-richtlijn ecologisch ontwerp energiegerelateerde producten)

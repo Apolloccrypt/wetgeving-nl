@@ -9,7 +9,7 @@ laatste_update: 2010-12-01
 status: geldig
 toestand: 2010-12-01
 bron: "https://wetten.overheid.nl/BWBR0029006"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 23 november 2010, nr. MC-U-3033761, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake het opstellen van een prestatiebeschrijving voor een stoppen-met-rokenprogramma

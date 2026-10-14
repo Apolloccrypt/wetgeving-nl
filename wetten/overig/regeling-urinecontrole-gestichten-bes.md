@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0028808"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Minister van Justitie van 27 september 2010, nr. 5668722, houdende het stellen van regels omtrent de wijze van uitvoering van het urineonderzoek in de gestichten in de openbare lichamen Bonaire, Sint Eustatius en Saba (Regeling Urinecontrole gestichten BES)

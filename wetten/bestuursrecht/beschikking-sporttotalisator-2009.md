@@ -9,7 +9,7 @@ laatste_update: 2009-12-12
 status: geldig
 toestand: 2009-12-12
 bron: "https://wetten.overheid.nl/BWBR0029705"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-14
 ---
 
 # Beschikking van de Minister van Justitie van 11 december 2009, nr. 5634022/09/DSP, houdende verlening van een vergunning tot het organiseren van sportprijsvragen, de lotto en het cijferspel

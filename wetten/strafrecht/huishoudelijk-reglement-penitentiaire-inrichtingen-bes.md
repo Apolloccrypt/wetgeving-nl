@@ -8,7 +8,7 @@ laatste_update: 2023-10-01
 status: geldig
 toestand: 2023-10-01
 bron: "https://wetten.overheid.nl/BWBR0028812"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Huishoudelijk reglement penitentiaire inrichtingen BES

@@ -9,7 +9,7 @@ laatste_update: 2011-07-01
 status: geldig
 toestand: 2011-07-01
 bron: "https://wetten.overheid.nl/BWBR0029193"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 14 december 2010, nr. DMO/OHW-U-3031548, houdende het verlenen van mandaat aan het bestuur van het Nationaal Comité 4 en 5 mei om subsidies te verstrekken voor activiteiten in relatie tot de Tweede Wereldoorlog (Mandaatbesluit VWS Nationaal Comité 4 en 5 mei)

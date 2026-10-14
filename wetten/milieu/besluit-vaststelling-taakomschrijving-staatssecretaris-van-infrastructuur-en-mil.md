@@ -9,7 +9,7 @@ laatste_update: 2011-02-01
 status: geldig
 toestand: 2011-02-01
 bron: "https://wetten.overheid.nl/BWBR0029290"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van de Minister van Infrastructuur en Milieu van 15 oktober 2010, nr. VenW/BSK-2010/167916, tot vaststelling van de taakomschrijving van de Staatssecretaris van Infrastructuur en Milieu

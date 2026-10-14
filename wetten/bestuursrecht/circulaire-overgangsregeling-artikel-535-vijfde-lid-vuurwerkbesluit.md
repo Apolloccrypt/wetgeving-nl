@@ -8,7 +8,7 @@ laatste_update: 2010-12-21
 status: geldig
 toestand: 2010-12-21
 bron: "https://wetten.overheid.nl/BWBR0029308"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Circulaire overgangsregeling artikel 5.3.5, vijfde lid, Vuurwerkbesluit

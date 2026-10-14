@@ -8,7 +8,7 @@ laatste_update: 2010-12-23
 status: geldig
 toestand: 2010-12-23
 bron: "https://wetten.overheid.nl/BWBR0029164"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit vaststelling selectielijst handelingen Kamers van Koophandel en Fabrieken vanaf 1945 ingediend door Vereniging Kamers van Koophandel en Fabrieken in Nederland

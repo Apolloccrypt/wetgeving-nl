@@ -8,7 +8,7 @@ laatste_update: 2026-04-10
 status: geldig
 toestand: 2026-04-10
 bron: "https://wetten.overheid.nl/BWBR0028767"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit rechtspositie korps politie BES

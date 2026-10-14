@@ -9,7 +9,7 @@ laatste_update: 2012-03-01
 status: geldig
 toestand: 2012-03-01
 bron: "https://wetten.overheid.nl/BWBR0029334"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Wet van 23 december 2010 tot wijziging van verschillende wetten in verband met harmonisatie en vereenvoudiging van deze wetten ten behoeve van de uitvoering van die wetten door het Uitvoeringsinstituut werknemersverzekeringen (Wet harmonisatie en vereenvoudiging socialezekerheidswetgeving)

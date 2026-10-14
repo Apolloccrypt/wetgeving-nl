@@ -9,7 +9,7 @@ laatste_update: 2010-10-23
 status: geldig
 toestand: 2010-10-23
 bron: "https://wetten.overheid.nl/BWBR0028877"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van de Staatssecretaris van Buitenlandse Zaken van 15 oktober 2010, nr. DJZ/BR/0802-10, tot verlening van mandaat, volmacht en machtiging aan de Projectdirecteur SBOS inzake de uitvoering van de Subsidiefaciliteit Burgerschap en Ontwikkelingssamenwerking (SBOS)

@@ -9,7 +9,7 @@ laatste_update: 2010-11-16
 status: geldig
 toestand: 2010-11-16
 bron: "https://wetten.overheid.nl/BWBR0028943"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 5 november 2010, nr. KO/10/21474 tot het recht op kinderopvangtoeslag bij gastouderopvang in 2010

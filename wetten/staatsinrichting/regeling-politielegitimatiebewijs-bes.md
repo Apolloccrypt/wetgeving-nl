@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0028800"
-opgehaald: 2026-08-16
+opgehaald: 2026-10-14
 ---
 
 # Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksaangelegenheden van 5 oktober 2010, nr. 2010-0000612457, houdende nadere regels met betrekking tot het politielegitimatiebewijs op Bonaire, Sint Eustatius en Saba (Regeling politielegitimatiebewijs BES)
