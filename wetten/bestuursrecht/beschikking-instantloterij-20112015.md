@@ -8,7 +8,7 @@ laatste_update: 2013-02-28
 status: geldig
 toestand: 2013-02-28
 bron: "https://wetten.overheid.nl/BWBR0030500"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Beschikking instantloterij 2011–2015

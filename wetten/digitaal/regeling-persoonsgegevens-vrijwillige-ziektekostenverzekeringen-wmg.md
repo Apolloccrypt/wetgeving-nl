@@ -9,7 +9,7 @@ laatste_update: 2018-07-28
 status: geldig
 toestand: 2018-07-28
 bron: "https://wetten.overheid.nl/BWBR0030097"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 7 juni 2011, kenmerk MC-U-3052256, houdende regels in verband met de verwerking van persoonsgegevens door ziektekostenverzekeraars bij de uitvoering van vrijwillige ziektekostenverzekeringen (WMG)

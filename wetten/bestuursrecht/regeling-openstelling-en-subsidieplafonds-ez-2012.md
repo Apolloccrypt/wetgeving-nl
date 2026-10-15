@@ -9,7 +9,7 @@ laatste_update: 2012-12-29
 status: geldig
 toestand: 2012-12-29
 bron: "https://wetten.overheid.nl/BWBR0030873"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 15 december 2011, nr. WJZ / 11144835, tot vaststelling van subsidieplafonds en termijnen van openstelling van EZ-subsidieregelingen (Regeling openstelling en subsidieplafonds EZ 2012)

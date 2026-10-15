@@ -9,7 +9,7 @@ laatste_update: 2011-09-11
 status: geldig
 toestand: 2011-09-11
 bron: "https://wetten.overheid.nl/BWBR0030494"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw van 11 november 2009, houdende de vaststelling van een bijzondere heffing groenten en fruit teelt 2010 (Verordening PT bijzondere heffing teelt groenten en fruit 2010)

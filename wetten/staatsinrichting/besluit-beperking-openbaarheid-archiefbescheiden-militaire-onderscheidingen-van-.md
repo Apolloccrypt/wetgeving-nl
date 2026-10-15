@@ -9,7 +9,7 @@ laatste_update: 2011-05-15
 status: geldig
 toestand: 2011-05-15
 bron: "https://wetten.overheid.nl/BWBR0029965"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van 3 mei 2011, CDC/IVENT/DCDI/SSA nr. 2011009302, van het Ministerie van Defensie houdende de beperking aan de openbaarheid van archiefbescheiden van de collectie archieven van het Bureau Onderscheidingen, de Commissie voor Militaire Onderscheidingen en overige archiefvormers op het gebied van (militaire) onderscheidingen van het Ministerie van Defensie, (1922) 1940−1986 (1998), bij overbrenging naar een archiefbewaarplaats

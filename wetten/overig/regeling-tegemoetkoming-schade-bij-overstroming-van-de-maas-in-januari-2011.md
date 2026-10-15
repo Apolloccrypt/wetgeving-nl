@@ -8,7 +8,7 @@ laatste_update: 2011-07-13
 status: geldig
 toestand: 2011-07-13
 bron: "https://wetten.overheid.nl/BWBR0030242"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling tegemoetkoming schade bij overstroming van de Maas in januari 2011

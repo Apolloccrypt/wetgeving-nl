@@ -9,7 +9,7 @@ laatste_update: 2011-08-01
 status: geldig
 toestand: 2011-08-01
 bron: "https://wetten.overheid.nl/BWBR0030017"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 23 mei 2011, nr. WJZ / 11039773, tot implementatie van het besluit nr. 2011/130/EU van de Commissie van 25 februari 2011 tot vaststelling van minimumvoorschriften voor de grensoverschrijdende verwerking van documenten die door de bevoegde autoriteiten elektronisch zijn ondertekend krachtens Richtlijn 2006/123/EG van het Europees Parlement en de Raad betreffende diensten op de interne markt (PbEU L 53) (Regeling elektronische handtekening bevoegde instanties)

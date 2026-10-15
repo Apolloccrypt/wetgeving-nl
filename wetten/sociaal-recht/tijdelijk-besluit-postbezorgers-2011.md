@@ -9,7 +9,7 @@ laatste_update: 2017-12-23
 status: geldig
 toestand: 2017-12-23
 bron: "https://wetten.overheid.nl/BWBR0029800"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van 29 maart 2011 tot vaststelling van de verplichting van postvervoerbedrijven om arbeidsovereenkomsten aan te gaan met postbezorgers (Tijdelijk besluit postbezorgers 2011)

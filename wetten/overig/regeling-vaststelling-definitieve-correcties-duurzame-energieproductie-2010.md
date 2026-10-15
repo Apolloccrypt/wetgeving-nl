@@ -9,7 +9,7 @@ laatste_update: 2011-03-26
 status: geldig
 toestand: 2011-03-26
 bron: "https://wetten.overheid.nl/BWBR0029760"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 17 maart 2011, nr. WJZ / 11038483, houdende vaststelling van de definitieve correcties voor de stimulering van duurzame energieproductie in het jaar 2010 (Regeling vaststelling definitieve correcties duurzame energieproductie 2010)

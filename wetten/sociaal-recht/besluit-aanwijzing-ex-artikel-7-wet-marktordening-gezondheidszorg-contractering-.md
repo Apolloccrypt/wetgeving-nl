@@ -9,7 +9,7 @@ laatste_update: 2012-02-01
 status: geldig
 toestand: 2012-02-01
 bron: "https://wetten.overheid.nl/BWBR0030910"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport, van 13 december 2011, nr. MC-U-3097188 op grond van artikel 7 van de Wet marktordening gezondheidszorg houdende aanvulling van de aanwijzing contracteerruimte AWBZ 2012 in verband met contractering zelfstandige zorgverleners

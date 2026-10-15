@@ -9,7 +9,7 @@ laatste_update: 2011-11-19
 status: geldig
 toestand: 2011-11-19
 bron: "https://wetten.overheid.nl/BWBR0030652"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Wet van 27 oktober 2011 tot wijziging van de Algemene pensioenwet politieke ambtsdragers, de Wet vergoedingen leden Eerste Kamer en enkele andere wetten in verband met aanpassingen in het nabestaandenpensioen, een vergoeding voor deelname van leden van de Eerste Kamer aan internationale parlementaire assemblees en enkele technische wijzigingen (Wet aanpassing Appa en enkele andere wetten 2011)

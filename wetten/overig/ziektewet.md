@@ -9,7 +9,7 @@ laatste_update: 2026-10-08
 status: geldig
 toestand: 2026-10-08
 bron: "https://wetten.overheid.nl/BWBR0001888"
-opgehaald: 2026-10-14
+opgehaald: 2026-10-15
 ---
 
 # Wet van 5 juni 1913, tot regeling der arbeiders-ziekteverzekering

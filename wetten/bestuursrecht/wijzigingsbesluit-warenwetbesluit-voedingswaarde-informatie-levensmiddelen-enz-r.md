@@ -9,7 +9,7 @@ laatste_update: 2012-01-24
 status: geldig
 toestand: 2012-01-24
 bron: "https://wetten.overheid.nl/BWBR0030685"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van 8 november 2011, houdende wijziging van het Warenwetbesluit Voedingswaarde-informatie levensmiddelen inzake regels voor een voedselkeuzelogo, en van het Warenwetbesluit bestuurlijke boeten

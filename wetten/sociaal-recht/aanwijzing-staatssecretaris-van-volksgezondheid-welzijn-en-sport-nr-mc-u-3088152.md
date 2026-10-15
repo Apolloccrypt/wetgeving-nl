@@ -9,7 +9,7 @@ laatste_update: 2014-04-01
 status: geldig
 toestand: 2014-04-01
 bron: "https://wetten.overheid.nl/BWBR0030585"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport, nr. MC-U-3088152, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake bekostiging ADL-assistentie 2012–2013

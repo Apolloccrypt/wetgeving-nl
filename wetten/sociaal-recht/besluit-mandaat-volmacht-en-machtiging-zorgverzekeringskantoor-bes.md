@@ -9,7 +9,7 @@ laatste_update: 2025-09-24
 status: geldig
 toestand: 2025-09-24
 bron: "https://wetten.overheid.nl/BWBR0029933"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 28 maart 2011, nr. DWJZ-3054138, houdende verlening mandaat, volmacht en machtiging aan het hoofd Zorgverzekeringskantoor BES

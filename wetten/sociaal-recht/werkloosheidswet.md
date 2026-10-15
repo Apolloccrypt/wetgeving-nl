@@ -9,7 +9,7 @@ laatste_update: 2026-10-08
 status: geldig
 toestand: 2026-10-08
 bron: "https://wetten.overheid.nl/BWBR0004045"
-opgehaald: 2026-10-14
+opgehaald: 2026-10-15
 ---
 
 # Wet van 6 november 1986, tot verzekering van werknemers tegen geldelijke gevolgen van werkloosheid

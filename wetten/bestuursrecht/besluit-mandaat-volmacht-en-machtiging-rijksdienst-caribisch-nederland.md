@@ -9,7 +9,7 @@ laatste_update: 2012-01-01
 status: geldig
 toestand: 2012-01-01
 bron: "https://wetten.overheid.nl/BWBR0030788"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van de Minister van Economische Zaken, Landbouw en Innovatie van 12 december 2011, nr. WJZ / 11175769, houdende regels inzake het verlenen van mandaat, volmacht en machtiging aan de Rijksdienst Caribisch Nederland (Besluit mandaat, volmacht en machtiging Rijksdienst Caribisch Nederland)

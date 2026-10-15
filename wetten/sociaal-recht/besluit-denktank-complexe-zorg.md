@@ -9,7 +9,7 @@ laatste_update: 2011-03-31
 status: geldig
 toestand: 2011-03-31
 bron: "https://wetten.overheid.nl/BWBR0029776"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport, nr. DLZ/KZ-3057132, tot instelling van de denktank complexe zorg (Besluit Denktank complexe zorg)

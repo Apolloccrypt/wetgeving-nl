@@ -9,7 +9,7 @@ laatste_update: 2011-07-29
 status: geldig
 toestand: 2011-07-29
 bron: "https://wetten.overheid.nl/BWBR0030324"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport, nr. MC-U-3072981 op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake invoering vrije tarieven mondzorg

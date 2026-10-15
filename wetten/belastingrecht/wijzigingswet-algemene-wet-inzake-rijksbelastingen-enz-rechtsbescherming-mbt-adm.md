@@ -9,7 +9,7 @@ laatste_update: 2011-07-01
 status: geldig
 toestand: 2011-07-01
 bron: "https://wetten.overheid.nl/BWBR0030041"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Wet van 27 mei 2011, houdende wijziging van de Algemene wet inzake rijksbelastingen en enige andere wetten ten behoeve van de rechtsbescherming met betrekking tot de administratieplicht en controlehandelingen van de fiscus

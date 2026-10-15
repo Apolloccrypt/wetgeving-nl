@@ -9,7 +9,7 @@ laatste_update: 2011-09-01
 status: geldig
 toestand: 2011-09-01
 bron: "https://wetten.overheid.nl/BWBR0030383"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit beperking van de openbaarheid van de archieven van ‘De Samenwerking’ Bedrijfsvereniging voor de Slagers- en Vleeswaren, de Groothandel in Vlees en Pluimveeslachterijen en Bedrijfsvereniging voor de Gezondheid, Geestelijke en Maatschappelijke Belangen

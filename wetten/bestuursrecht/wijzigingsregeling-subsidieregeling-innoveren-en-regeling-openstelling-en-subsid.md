@@ -9,7 +9,7 @@ laatste_update: 2011-11-22
 status: geldig
 toestand: 2011-11-22
 bron: "https://wetten.overheid.nl/BWBR0030616"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 31 oktober 2011, nr. WJZ /11154967, houdende wijziging van de Subsidieregeling innoveren en van de Regeling openstelling en subsidieplafonds EZ 2011

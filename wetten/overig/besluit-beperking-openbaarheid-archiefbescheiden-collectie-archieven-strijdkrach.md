@@ -9,7 +9,7 @@ laatste_update: 2011-04-17
 status: geldig
 toestand: 2011-04-17
 bron: "https://wetten.overheid.nl/BWBR0029836"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit nr. 2011006588, d.d. 01-04-2011, van het Ministerie van Defensie houdende de beperking aan de openbaarheid van archiefbescheiden van de Collectie archieven Strijdkrachten in Nederlands-Indië, (1938–1939) 1941–1957 [1960], bij overbrenging naar een archiefbewaarplaats

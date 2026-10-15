@@ -8,7 +8,7 @@ laatste_update: 2020-01-18
 status: geldig
 toestand: 2020-01-18
 bron: "https://wetten.overheid.nl/BWBR0030484"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Verordening beroeps- en gedragsregels 2011

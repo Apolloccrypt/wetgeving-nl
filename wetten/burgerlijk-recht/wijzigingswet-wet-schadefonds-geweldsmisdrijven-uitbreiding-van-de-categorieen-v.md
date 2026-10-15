@@ -9,7 +9,7 @@ laatste_update: 2012-01-01
 status: geldig
 toestand: 2012-01-01
 bron: "https://wetten.overheid.nl/BWBR0030090"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Wet van 6 juni 2011 tot aanpassing van de Wet schadefonds geweldsmisdrijven in verband met uitbreiding van de categorieën van personen die recht hebben op een uitkering uit het fonds en verruiming van de gevallen waarin men aanspraak kan maken op een dergelijke uitkering, aanpassing aan de Kaderwet zelfstandige bestuursorganen en enkele andere aanpassingen

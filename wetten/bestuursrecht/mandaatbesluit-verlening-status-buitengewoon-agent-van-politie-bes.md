@@ -9,7 +9,7 @@ laatste_update: 2023-02-23
 status: geldig
 toestand: 2023-02-23
 bron: "https://wetten.overheid.nl/BWBR0030193"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van de Minister van Veiligheid en Justitie van 23 juni 2011, nr. 5693331/11, houdende verlening van mandaat ten aanzien van de bevoegdheid tot verlening van de status van buitengewoon agent van politie in Bonaire, Sint Eustatius en Saba (Mandaatbesluit verlening status buitengewoon agent van politie BES)

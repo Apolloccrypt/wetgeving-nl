@@ -9,7 +9,7 @@ laatste_update: 2011-08-28
 status: geldig
 toestand: 2011-08-28
 bron: "https://wetten.overheid.nl/BWBR0030442"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw van 19 mei 2011 [datum], houdende de vaststelling van een aan telers van bloembollen op te leggen heffing ter bestrijding van de ziekte Ditylenchus dipsaci, voor het oogstjaar 2011 (Verordening PT heffing bestrijding Ditylenchus dipsaci oogstjaar 2011).

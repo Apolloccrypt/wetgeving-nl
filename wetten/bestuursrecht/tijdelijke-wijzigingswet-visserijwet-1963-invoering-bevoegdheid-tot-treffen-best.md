@@ -9,7 +9,7 @@ laatste_update: 2011-04-01
 status: geldig
 toestand: 2011-04-01
 bron: "https://wetten.overheid.nl/BWBR0029785"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Wet van 30 maart 2011, houdende tijdelijke wijziging van de Visserijwet 1963 in verband met de invoering van de bevoegdheid tot het treffen van bestuurlijke maatregelen

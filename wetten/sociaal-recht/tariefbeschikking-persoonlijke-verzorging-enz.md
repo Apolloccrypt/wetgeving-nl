@@ -8,7 +8,7 @@ laatste_update: 2011-05-17
 status: geldig
 toestand: 2011-05-17
 bron: "https://wetten.overheid.nl/BWBR0029966"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Tariefbeschikking persoonlijke verzorging, enz.

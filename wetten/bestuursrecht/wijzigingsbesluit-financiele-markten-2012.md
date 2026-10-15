@@ -9,7 +9,7 @@ laatste_update: 2012-01-01
 status: geldig
 toestand: 2012-01-01
 bron: "https://wetten.overheid.nl/BWBR0030619"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van 27 oktober 2011, houdende wijziging van het Besluit bekostiging financieel toezicht, het Besluit bestuurlijke boetes financiële sector, het Besluit definitiebepalingen Wft, het Besluit Gedragstoezicht financiële ondernemingen Wft, het Besluit melding zeggenschap en kapitaalbelang in uitgevende instellingen Wft, het Besluit prudentiële regels Wft en het Besluit toezicht financiële verslaggeving (Wijzigingsbesluit financiële markten 2012)

@@ -9,7 +9,7 @@ laatste_update: 2012-01-01
 status: geldig
 toestand: 2012-01-01
 bron: "https://wetten.overheid.nl/BWBR0030559"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van 30 september 2011, houdende wijziging van het Besluit zorgverzekering in verband met wijziging van de te verzekeren prestaties Zorgverzekeringswet per 2012 en de eigen bijdragen daarvoor en wijziging van dat besluit en het Besluit zorgaanspraken AWBZ in verband met stringent pakketbeheer en wijziging van het Besluit tegemoetkoming chronisch zieken en gehandicapten

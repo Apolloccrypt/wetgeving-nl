@@ -9,7 +9,7 @@ laatste_update: 2014-05-23
 status: geldig
 toestand: 2014-05-23
 bron: "https://wetten.overheid.nl/BWBR0030157"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van 21 juni 2011, houdende wijziging van het Besluit justitiële gegevens in verband met onder meer het verstrekken van justitiële gegevens aan de burgemeester bij de terugkeer van ex-gedetineerden en het versterken van de screening in de taxibranche

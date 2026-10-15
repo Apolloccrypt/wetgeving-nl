@@ -9,7 +9,7 @@ laatste_update: 2011-04-09
 status: geldig
 toestand: 2011-04-09
 bron: "https://wetten.overheid.nl/BWBR0029825"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van 15 maart 2011, houdende de toekenning van een vaandel aan het Korps Militaire Administratie

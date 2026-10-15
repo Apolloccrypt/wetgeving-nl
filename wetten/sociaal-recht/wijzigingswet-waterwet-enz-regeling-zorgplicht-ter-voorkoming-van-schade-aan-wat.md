@@ -9,7 +9,7 @@ laatste_update: 2011-07-01
 status: geldig
 toestand: 2011-07-01
 bron: "https://wetten.overheid.nl/BWBR0030063"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Wet van 23 mei 2011 tot wijziging van de Waterwet en de Waterschapswet en intrekking van de wet van 18 december 1985, houdende enige voorzieningen ten behoeve van de inzet en bekostiging van muskusrattenvangers, tot regeling van de zorgplicht ter voorkoming van schade aan waterstaatswerken veroorzaakt door muskusratten en van financiële bijdragen aan verbetering van primaire waterkeringen van de waterschappen

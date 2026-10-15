@@ -8,7 +8,7 @@ laatste_update: 2011-11-16
 status: geldig
 toestand: 2011-11-16
 bron: "https://wetten.overheid.nl/BWBR0030644"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Aanvullende regels met betrekking tot het bijstellen van zaaksoorten en bijbehorende bewindvoerdersubsidies in het kader van de Wsnp

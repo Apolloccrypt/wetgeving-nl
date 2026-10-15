@@ -8,7 +8,7 @@ laatste_update: 2018-02-27
 status: geldig
 toestand: 2018-02-27
 bron: "https://wetten.overheid.nl/BWBR0030748"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling DNA-onderzoek in strafzaken

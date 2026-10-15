@@ -9,7 +9,7 @@ laatste_update: 2011-07-02
 status: geldig
 toestand: 2011-07-02
 bron: "https://wetten.overheid.nl/BWBR0030292"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van de Minister van Veiligheid en Justitie van 23 juni 2011, nr. 5693332/11, houdende verlening van mandaat ten aanzien van de bevoegdheid tot beëdiging van de buitengewone agenten van politie in Bonaire, Sint Eustatius en Saba (Mandaatbesluit beëdiging buitengewone agenten van politie BES)

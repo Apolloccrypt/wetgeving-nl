@@ -9,7 +9,7 @@ laatste_update: 2021-09-09
 status: geldig
 toestand: 2021-09-09
 bron: "https://wetten.overheid.nl/BWBR0030629"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken, Landbouw en Innovatie van 7 november 2011, nr. WJZ / 11158559, houdende regels ter uitvoering van de Wet strategische diensten (Uitvoeringsregeling strategische diensten)

@@ -9,7 +9,7 @@ laatste_update: 2011-09-14
 status: geldig
 toestand: 2011-09-14
 bron: "https://wetten.overheid.nl/BWBR0030417"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van 26 augustus 2011 houdende vaststelling van de bestanddelen van de munten van vijf en tien euro die in 2011 worden uitgegeven ter gelegenheid van 50 jaar Wereld Natuur Fonds

@@ -9,7 +9,7 @@ laatste_update: 2011-09-21
 status: geldig
 toestand: 2011-09-21
 bron: "https://wetten.overheid.nl/BWBR0030436"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Wet van 15 september 2011 tot samenvoeging van de gemeenten Anna Paulowna, Niedorp, Wieringen en Wieringermeer

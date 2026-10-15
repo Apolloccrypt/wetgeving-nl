@@ -8,7 +8,7 @@ laatste_update: 2011-08-01
 status: geldig
 toestand: 2011-08-01
 bron: "https://wetten.overheid.nl/BWBR0030115"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Beschikking rendementen gesubsidieerde woningbouw, juni 2011

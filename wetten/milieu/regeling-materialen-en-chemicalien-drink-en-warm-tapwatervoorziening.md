@@ -9,7 +9,7 @@ laatste_update: 2025-10-24
 status: geldig
 toestand: 2025-10-24
 bron: "https://wetten.overheid.nl/BWBR0030279"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu van 29 juni 2011, nr. BJZ2011048144, houdende regels met betrekking tot bij de drink- en warm tapwatervoorziening te gebruiken materialen en chemicaliën (Regeling materialen en chemicaliën drink- en warm tapwatervoorziening)

@@ -8,7 +8,7 @@ laatste_update: 2012-12-07
 status: geldig
 toestand: 2012-12-07
 bron: "https://wetten.overheid.nl/BWBR0030723"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit financiën en personeel Kabinetten van de Gouverneurs

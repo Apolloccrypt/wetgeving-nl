@@ -9,7 +9,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBR0030839"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 28 november 2011, nr. VO/BVB/2011/345581 tot bekendmaking van de gevallen waarin een leerling van een school voor voortgezet onderwijs meetelt voor de bekostiging als hij tijdelijk is geplaatst buiten de school waar hij staat ingeschreven (Regeling bekostiging leerlingen die tijdelijk buiten de school worden geplaatst)

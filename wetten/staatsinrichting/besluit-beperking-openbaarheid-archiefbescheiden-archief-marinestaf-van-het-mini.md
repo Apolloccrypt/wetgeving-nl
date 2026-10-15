@@ -9,7 +9,7 @@ laatste_update: 2011-05-15
 status: geldig
 toestand: 2011-05-15
 bron: "https://wetten.overheid.nl/BWBR0029962"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van 3 mei 2011, CDC/IVENT/DCDI/SSA nr. 2011010257, van het Ministerie van Defensie houdende de beperking aan de openbaarheid van archiefbescheiden van het archief van de Marinestaf van het Ministerie van Defensie, 1948–1984, bij overbrenging naar een archiefbewaarplaats

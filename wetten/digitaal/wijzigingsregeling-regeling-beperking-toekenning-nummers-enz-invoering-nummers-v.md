@@ -9,7 +9,7 @@ laatste_update: 2012-12-01
 status: geldig
 toestand: 2012-12-01
 bron: "https://wetten.overheid.nl/BWBR0030660"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 14 november 2011, nr. WJZ / 11114374, tot wijziging van de Regeling beperking toekenning nummers en de Regeling vergoedingen OPTA 2011 in verband met de invoering van nummers voor elektronische communicatiediensten voor geautomatiseerde toepassingen

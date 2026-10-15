@@ -9,7 +9,7 @@ laatste_update: 2011-09-01
 status: geldig
 toestand: 2011-09-01
 bron: "https://wetten.overheid.nl/BWBR0030355"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van 8 augustus 2011 tot wijziging van het Besluit vergoedingen rechtsbijstand 2000 en het Besluit rechtsbijstand- en toevoegcriteria in verband met het aanpassen van de asielprocedure

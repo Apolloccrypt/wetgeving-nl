@@ -8,7 +8,7 @@ laatste_update: 2026-10-07
 status: geldig
 toestand: 2026-10-07
 bron: "https://wetten.overheid.nl/BWBR0053184"
-opgehaald: 2026-10-14
+opgehaald: 2026-10-15
 ---
 
 # Subsidieplafondbesluit Aangepast Lezen Instellingssubsidies 2027

@@ -8,7 +8,7 @@ laatste_update: 2011-05-08
 status: geldig
 toestand: 2011-05-08
 bron: "https://wetten.overheid.nl/BWBR0029945"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit vaststelling selectielijst Nederlandse Publieke Omroep (NPO) en voorlopers over de periode vanaf 1969

@@ -9,7 +9,7 @@ laatste_update: 2016-02-19
 status: geldig
 toestand: 2016-02-19
 bron: "https://wetten.overheid.nl/BWBR0029929"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van 11 april 2011, houdende regels met betrekking tot productvoorschriften voor Lucky Bamboo (Warenwetbesluit Lucky Bamboo)

@@ -9,7 +9,7 @@ laatste_update: 2023-04-19
 status: geldig
 toestand: 2023-04-19
 bron: "https://wetten.overheid.nl/BWBR0030099"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling ter implementatie van richtlijn 2010/35/EU betreffende vervoerbare drukapparatuur (Regeling vervoerbare drukapparatuur 2011)

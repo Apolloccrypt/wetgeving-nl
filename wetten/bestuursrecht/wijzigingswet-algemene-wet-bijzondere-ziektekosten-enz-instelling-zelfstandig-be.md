@@ -9,7 +9,7 @@ laatste_update: 2014-04-01
 status: geldig
 toestand: 2014-04-01
 bron: "https://wetten.overheid.nl/BWBR0030697"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Wet van 7 november 2011 tot wijziging van de Algemene Wet Bijzondere Ziektekosten en enkele andere wetten, in verband met de instelling van het zelfstandig bestuursorgaan CAK

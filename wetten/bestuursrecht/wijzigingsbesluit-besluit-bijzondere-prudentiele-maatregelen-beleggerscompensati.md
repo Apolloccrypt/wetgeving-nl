@@ -9,7 +9,7 @@ laatste_update: 2011-07-30
 status: geldig
 toestand: 2011-07-30
 bron: "https://wetten.overheid.nl/BWBR0030317"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van 8 juli 2011, houdende wijziging van het Besluit bijzondere prudentiële maatregelen, beleggerscompensatie en depositogarantie Wft in verband met de uitvoering van Richtlijn nr. 2009/14/EG van het Europees Parlement en de Raad van de Europese Unie van 11 maart 2009 tot wijziging van Richtlijn 94/19/EG inzake de depositogarantiestelsels wat dekking en uitbetalingstermijn betreft

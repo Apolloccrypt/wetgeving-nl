@@ -8,7 +8,7 @@ laatste_update: 2020-05-16
 status: geldig
 toestand: 2020-05-16
 bron: "https://wetten.overheid.nl/BWBR0030539"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Algemeen Reglement Fonds Podiumkunsten

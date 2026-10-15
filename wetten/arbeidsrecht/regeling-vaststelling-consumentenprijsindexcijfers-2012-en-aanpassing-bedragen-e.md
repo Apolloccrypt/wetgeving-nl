@@ -9,7 +9,7 @@ laatste_update: 2012-01-01
 status: geldig
 toestand: 2012-01-01
 bron: "https://wetten.overheid.nl/BWBR0030684"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 21 november 2011, nr. RUA/A/2011/21144, tot vaststelling van consumentenprijsindexcijfers voor 2012 en op basis daarvan aanpassing van bedragen en tegemoetkomingen van wettelijk minimumloon en uitkeringen voor Caribisch Nederland, alsmede van premiepercentages van werknemersverzekeringen en volksverzekeringen voor Caribisch Nederland en van het maximumdagloon voor de Wet ziekteverzekering BES

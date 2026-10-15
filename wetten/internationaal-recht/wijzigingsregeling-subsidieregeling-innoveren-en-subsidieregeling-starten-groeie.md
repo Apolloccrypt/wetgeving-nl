@@ -9,7 +9,7 @@ laatste_update: 2012-01-01
 status: geldig
 toestand: 2012-01-01
 bron: "https://wetten.overheid.nl/BWBR0030871"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 13 december 2011, nr. WJZ/11067701, tot wijziging van de subsidieregeling innoveren en de subsidieregeling starten, groeien en overdragen van ondernemingen ten behoeve van het Innovatiefonds MKB+

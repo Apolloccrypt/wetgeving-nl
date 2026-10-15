@@ -9,7 +9,7 @@ laatste_update: 2011-12-07
 status: geldig
 toestand: 2011-12-07
 bron: "https://wetten.overheid.nl/BWBR0030734"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Wet van 17 november 2011 tot goedkeuring van een ministeriële regeling tot aanpassing van wetten van Nederlands-Antilliaanse oorsprong voor de openbare lichamen Bonaire, Sint Eustatius en Saba en reparatie van een aantal BES-wetten op het terrein van OCW en IenM (Goedkeurings- en reparatiewet BES)

@@ -9,7 +9,7 @@ laatste_update: 2011-10-15
 status: geldig
 toestand: 2011-10-15
 bron: "https://wetten.overheid.nl/BWBR0030480"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van het Commissariaat voor de Media van 9 augustus 2011 houdende regels voor de publieke media-instellingen omtrent het bepaalde in artikel 14a, onder c, van het Mediabesluit 2008 in verband met vermijdbare uitingen in het kader van liefdadigheidsacties (Regeling liefdadigheidsacties)

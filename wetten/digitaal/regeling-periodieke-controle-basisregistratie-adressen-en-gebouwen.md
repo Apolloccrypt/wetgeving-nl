@@ -9,7 +9,7 @@ laatste_update: 2018-07-01
 status: geldig
 toestand: 2018-07-01
 bron: "https://wetten.overheid.nl/BWBR0030564"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu, van 25 oktober 2011, nr. IENM/BSK-2011/143692, houdende regels met betrekking tot de periodieke controle basisregistraties adressen en gebouwen (Regeling periodieke controle basisregistraties adressen en gebouwen)

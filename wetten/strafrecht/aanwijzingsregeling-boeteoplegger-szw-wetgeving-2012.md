@@ -9,7 +9,7 @@ laatste_update: 2023-06-01
 status: geldig
 toestand: 2023-06-01
 bron: "https://wetten.overheid.nl/BWBR0030643"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 9 november 2011, nr. AI/MHC/ABB/2011/19770, tot aanwijzing van de boeteoplegger SZW-wetgeving 2012 (Aanwijzingsregeling boeteoplegger SZW-wetgeving 2012)

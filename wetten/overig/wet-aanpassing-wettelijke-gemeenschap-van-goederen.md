@@ -9,7 +9,7 @@ laatste_update: 2018-09-19
 status: geldig
 toestand: 2018-09-19
 bron: "https://wetten.overheid.nl/BWBR0029955"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Wet van 18 april 2011 tot wijziging van de titels 6, 7 en 8 van Boek 1 van het Burgerlijk Wetboek (aanpassing wettelijke gemeenschap van goederen)

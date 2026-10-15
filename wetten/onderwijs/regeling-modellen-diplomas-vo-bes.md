@@ -9,7 +9,7 @@ laatste_update: 2023-03-16
 status: geldig
 toestand: 2023-03-16
 bron: "https://wetten.overheid.nl/BWBR0030380"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 23 augustus 2011, nr. WJZ/316031 (4905) houdende modellen diploma’s, cijferlijsten, certificaten, getuigschrift, bewijs van ontheffing met verklaring vwo, havo, vmbo en getuigschrift praktijkonderwijs voor de openbare lichamen Bonaire, Sint Eustatius en Saba (Regeling modellen diploma’s VO BES)

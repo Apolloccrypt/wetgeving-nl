@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0030651"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Wet van 27 oktober 2011 tot invoering van de verplichting voor scheepseigenaren om een verzekering te hebben voor het schip en hiervan een bewijs aan boord te hebben ter uitvoering van Richtlijn nr. 2009/20/EG van het Europees Parlement en de Raad van de Europese Unie van 23 april 2009 betreffende de verzekering van scheepseigenaren tegen maritieme vorderingen (PbEU L 131) (Wet verzekering zeeschepen)

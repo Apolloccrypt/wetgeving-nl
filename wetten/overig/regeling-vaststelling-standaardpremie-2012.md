@@ -9,7 +9,7 @@ laatste_update: 2012-01-01
 status: geldig
 toestand: 2012-01-01
 bron: "https://wetten.overheid.nl/BWBR0030719"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport, van 24 november 2011, nr. Z/F-3091396, houdende vaststelling van de standaardpremie 2012 (Regeling vaststelling standaardpremie 2012)

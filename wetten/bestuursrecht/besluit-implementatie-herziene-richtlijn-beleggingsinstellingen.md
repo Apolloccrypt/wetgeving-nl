@@ -9,7 +9,7 @@ laatste_update: 2011-07-22
 status: geldig
 toestand: 2011-07-22
 bron: "https://wetten.overheid.nl/BWBR0030285"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van 8 juli 2011, houdende wijziging van het Besluit bestuurlijke boetes financiële sector, het Besluit Markttoegang financiële ondernemingen Wft, het Besluit prudentiële regels Wft en het Besluit Gedragstoezicht financiële ondernemingen Wft ter implementatie van de herziene richtlijn beleggingsinstellingen alsmede de daarop berustende uitvoeringsrichtlijnen (Besluit implementatie herziene richtlijn beleggingsinstellingen)

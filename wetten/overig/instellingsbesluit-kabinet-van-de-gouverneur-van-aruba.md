@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0030153"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van 14 juni 2011 tot instelling van het Kabinet van de Gouverneur van Aruba (Instellingsbesluit Kabinet van de Gouverneur van Aruba)

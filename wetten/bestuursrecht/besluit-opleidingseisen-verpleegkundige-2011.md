@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0030267"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van 6 juli 2011, houdende regels inzake de opleidingseisen van de verpleegkundige (Besluit opleidingseisen verpleegkundige 2011)

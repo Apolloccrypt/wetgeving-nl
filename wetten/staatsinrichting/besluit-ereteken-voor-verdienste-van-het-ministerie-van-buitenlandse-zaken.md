@@ -9,7 +9,7 @@ laatste_update: 2011-04-01
 status: geldig
 toestand: 2011-04-01
 bron: "https://wetten.overheid.nl/BWBR0029790"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 21 maart 2011, nr. DJZ/BR/0282-11, houdende instelling van het Ereteken voor Verdienste (Besluit Ereteken voor Verdienste van het Ministerie van Buitenlandse Zaken)

@@ -9,7 +9,7 @@ laatste_update: 2011-12-11
 status: geldig
 toestand: 2011-12-11
 bron: "https://wetten.overheid.nl/BWBR0030753"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Vaststellingsbeschikking selectielijst Stichting Saxion en taakvoorganger Hogeschool Enschede vanaf 30 december 1988

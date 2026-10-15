@@ -9,7 +9,7 @@ laatste_update: 2023-07-01
 status: geldig
 toestand: 2023-07-01
 bron: "https://wetten.overheid.nl/BWBR0030883"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Wet van 1 december 2011, houdende regels met betrekking tot de financiële markten in de openbare lichamen Bonaire, Sint Eustatius en Saba en het toezicht op die markten (Wet financiële markten BES)

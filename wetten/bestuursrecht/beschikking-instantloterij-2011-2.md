@@ -9,7 +9,7 @@ laatste_update: 2011-07-01
 status: geldig
 toestand: 2011-07-01
 bron: "https://wetten.overheid.nl/BWBR0030229"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Beschikking van de Staatssecretaris van Veiligheid en Justitie van 30 juni 2011, nr. 5701073/11/DSP, tot afgifte van de Beschikking instantloterij

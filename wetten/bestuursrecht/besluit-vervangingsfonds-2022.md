@@ -9,7 +9,7 @@ laatste_update: 2024-01-31
 status: geldig
 toestand: 2024-01-31
 bron: "https://wetten.overheid.nl/BWBR0030106"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van 27 mei 2011, houdende vaststelling van regels omtrent de taak, de goedkeuring van statuten en de gevolgen van intrekking van de aanwijzing van het Vervangingsfonds en het Participatiefonds (Besluit Vervangingsfonds en Participatiefonds)

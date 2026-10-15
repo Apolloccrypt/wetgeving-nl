@@ -9,7 +9,7 @@ laatste_update: 2012-01-01
 status: geldig
 toestand: 2012-01-01
 bron: "https://wetten.overheid.nl/BWBR0030498"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van 12 september 2011 houdende wijziging van het Besluit periodieke registratie Wet BIG in verband met de uitbreiding van de reikwijdte van dat besluit met de registers van vijf categorieën van beroepsbeoefenaren en houdende wijziging van het Besluit buitenslands gediplomeerden volksgezondheid

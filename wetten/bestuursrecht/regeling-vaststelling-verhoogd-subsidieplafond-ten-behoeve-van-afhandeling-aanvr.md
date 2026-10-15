@@ -9,7 +9,7 @@ laatste_update: 2011-04-21
 status: geldig
 toestand: 2011-04-21
 bron: "https://wetten.overheid.nl/BWBR0029886"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 8 april 2011, nr. 2011-2000031222, tot vaststelling van een verhoogd subsidieplafond ten behoeve van de afhandeling van aanvragen op voet van de Tijdelijke subsidieregeling maatwerkadviezen voor woningen

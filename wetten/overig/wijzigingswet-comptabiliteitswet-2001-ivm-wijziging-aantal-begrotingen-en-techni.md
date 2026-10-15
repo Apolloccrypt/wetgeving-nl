@@ -9,7 +9,7 @@ laatste_update: 2011-11-25
 status: geldig
 toestand: 2011-11-25
 bron: "https://wetten.overheid.nl/BWBR0030677"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Wet van 7 november 2011 tot wijziging van de Comptabiliteitswet 2001 in verband met de wijziging van een aantal begrotingen en enkele technische aanpassingen (Vijfde wijziging van de Comptabiliteitswet 2001)

@@ -8,7 +8,7 @@ laatste_update: 2011-04-26
 status: geldig
 toestand: 2011-04-26
 bron: "https://wetten.overheid.nl/BWBR0029931"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit mandaat KPMG uitvoering uitkeringsregelingen

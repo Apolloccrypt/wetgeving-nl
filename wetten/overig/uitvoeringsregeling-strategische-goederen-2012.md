@@ -9,7 +9,7 @@ laatste_update: 2021-09-09
 status: geldig
 toestand: 2021-09-09
 bron: "https://wetten.overheid.nl/BWBR0030610"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken, Landbouw en Innovatie van 28 oktober 2011, nr. WJZ/11134677, tot vaststelling van een herziene uitvoeringsregeling strategische goederen (Uitvoeringsregeling strategische goederen 2012)

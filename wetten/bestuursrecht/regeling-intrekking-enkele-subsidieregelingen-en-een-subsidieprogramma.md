@@ -9,7 +9,7 @@ laatste_update: 2012-01-01
 status: geldig
 toestand: 2012-01-01
 bron: "https://wetten.overheid.nl/BWBR0030851"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu van 6 december 2011, nr. IENM/BSK-2011/161754 tot intrekking van enkele subsidieregelingen en het laten vervallen van een subsidieprogramma op de beleidsterreinen ruimtelijke ordening en milieu (Intrekking enkele subsidieregelingen en een subsidieprogramma)

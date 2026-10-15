@@ -9,7 +9,7 @@ laatste_update: 2011-05-21
 status: geldig
 toestand: 2011-05-21
 bron: "https://wetten.overheid.nl/BWBR0029973"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van 17 februari 2011, CDC/IVENT/DCDI/SSA nr. 2011002834 van het Ministerie van Defensie houdende de beperking aan de openbaarheid van archiefbescheiden van de archieven van de Generale Staf/Staf van de Bevelhebber der Landstrijdkrachten en de daarbij gedeponeerde archieven (1903) 1945–1972 (1979), bij overbrenging naar een archiefbewaarplaats

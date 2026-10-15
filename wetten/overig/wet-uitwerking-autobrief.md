@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0030923"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Wet van 22 december 2011 tot wijziging van de Wet op de belasting van personenauto’s en motorrijwielen 1992, de Wet op de motorrijtuigenbelasting 1994 en enige andere wetten (Wet uitwerking autobrief)

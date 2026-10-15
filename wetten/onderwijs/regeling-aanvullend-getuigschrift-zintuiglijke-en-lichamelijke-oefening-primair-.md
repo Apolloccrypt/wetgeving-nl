@@ -9,7 +9,7 @@ laatste_update: 2011-08-01
 status: geldig
 toestand: 2011-08-01
 bron: "https://wetten.overheid.nl/BWBR0030072"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 27 mei 2011, nr. WJZ/303087 (2769), houdende regels voor het vaststellen van aanvullend getuigschrift zintuiglijke en lichamelijke oefening primair onderwijs voor de openbare lichamen Bonaire, Sint Eustatius en Saba (Regeling aanvullend getuigschrift zintuiglijke en lichamelijke oefening primair onderwijs BES)

@@ -9,7 +9,7 @@ laatste_update: 2026-06-20
 status: geldig
 toestand: 2026-06-20
 bron: "https://wetten.overheid.nl/BWBR0029909"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van 8 april 2011, houdende eisen met betrekking tot brandstoffen ter implementatie van richtlijn nr. 2009/30/EG van het Europees Parlement en de Raad van 23 april 2009 tot wijziging van Richtlijn 98/70/EG met betrekking tot de specificatie van benzine, dieselbrandstof en gasolie en tot invoering van een mechanisme om de emissies van broeikasgassen te monitoren en te verminderen, tot wijziging van Richtlijn 1999/32/EG van de Raad met betrekking tot de specificatie van door binnenschepen gebruikte brandstoffen en tot intrekking van Richtlijn 93/12/EEG (PbEU L 140) (Besluit brandstoffen luchtverontreiniging)

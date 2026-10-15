@@ -9,7 +9,7 @@ laatste_update: 2011-09-14
 status: geldig
 toestand: 2011-09-14
 bron: "https://wetten.overheid.nl/BWBR0030423"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit nr. DBV / 11104883 van de Minister van Economische Zaken, Landbouw en Innovatie houdende beperking van de openbaarheid van het archief van de Personeel Organisatie en Innovatie en diens taakvoorgangers van het Ministerie van Economische Zaken over de periode (1934) 1976–1997 (2004)

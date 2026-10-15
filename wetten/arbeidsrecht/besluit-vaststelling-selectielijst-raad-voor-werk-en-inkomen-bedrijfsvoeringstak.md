@@ -8,7 +8,7 @@ laatste_update: 2011-05-08
 status: geldig
 toestand: 2011-05-08
 bron: "https://wetten.overheid.nl/BWBR0029941"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit vaststelling selectielijst Raad voor Werk en Inkomen (bedrijfsvoeringstaken periode vanaf 2002)

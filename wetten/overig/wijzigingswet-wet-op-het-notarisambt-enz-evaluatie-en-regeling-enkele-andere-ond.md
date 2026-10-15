@@ -9,7 +9,7 @@ laatste_update: 2014-07-01
 status: geldig
 toestand: 2014-07-01
 bron: "https://wetten.overheid.nl/BWBR0030570"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Wet van 29 september 2011 tot wijziging van de Wet op het notarisambt naar aanleiding van de evaluatie van die wet, alsmede regeling van enkele andere onderwerpen in die wet en wijziging van de Wet op het centraal testamentenregister en van de Wet ter voorkoming van witwassen en financieren van terrorisme

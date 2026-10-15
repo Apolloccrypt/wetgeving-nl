@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0030035"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Wet van 19 mei 2011 tot wijziging van de Wet op de rechterlijke organisatie, de Wet op de rechterlijke indeling, het Wetboek van Burgerlijke Rechtsvordering en enkele andere wetten naar aanleiding van de evaluatie van de modernisering van de rechterlijke organisatie en in verband met de regeling van het klachtrecht inzake gedragingen van rechterlijke ambtenaren (Evaluatiewet modernisering rechterlijke organisatie)

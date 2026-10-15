@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0030105"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Wet van 6 juni 2011 tot wijziging van een aantal wetten ter uniformering van het loonbegrip (Wet uniformering loonbegrip)

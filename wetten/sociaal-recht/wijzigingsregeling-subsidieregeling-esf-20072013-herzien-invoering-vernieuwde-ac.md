@@ -9,7 +9,7 @@ laatste_update: 2011-10-01
 status: geldig
 toestand: 2011-10-01
 bron: "https://wetten.overheid.nl/BWBR0030165"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 20 juni 2011, nr. R&P/RA/2011/11033, tot wijziging van de Subsidieregeling ESF 2007–2013 (herzien) in verband met de invoering van een vernieuwde Actie E sociale innovatie

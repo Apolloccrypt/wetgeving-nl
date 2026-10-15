@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0030836"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Wet van 1 december 2011 tot wijziging van de Waterwet en de Wet Infrastructuurfonds in verband met de bescherming tegen overstromingen en de zorg voor de zoetwatervoorziening in relatie tot verwachte klimaatveranderingen (Deltawet waterveiligheid en zoetwatervoorziening)

@@ -9,7 +9,7 @@ laatste_update: 2012-01-01
 status: geldig
 toestand: 2012-01-01
 bron: "https://wetten.overheid.nl/BWBR0030611"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Wet van 27 oktober 2011 tot partiële wijziging van een aantal wetten op het gebied van Veiligheid en Justitie (Verzamelwet Veiligheid en Justitie 2011)

@@ -9,7 +9,7 @@ laatste_update: 2014-04-01
 status: geldig
 toestand: 2014-04-01
 bron: "https://wetten.overheid.nl/BWBR0030490"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport, nr. MC-U-3082225, inzake opbrengstverrekening cggz-instellingen en enkele andere opbrengstverrekening aangelegenheden

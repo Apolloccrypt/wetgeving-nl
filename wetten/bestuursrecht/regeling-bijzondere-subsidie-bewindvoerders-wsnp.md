@@ -8,7 +8,7 @@ laatste_update: 2011-08-11
 status: geldig
 toestand: 2011-08-11
 bron: "https://wetten.overheid.nl/BWBR0030344"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling bijzondere subsidie bewindvoerders WSNP

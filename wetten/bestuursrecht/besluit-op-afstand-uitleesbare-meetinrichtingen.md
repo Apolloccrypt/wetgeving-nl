@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0030605"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van 27 oktober 2011, houdende regels over op afstand uitleesbare meetinrichtingen (Besluit op afstand uitleesbare meetinrichtingen)

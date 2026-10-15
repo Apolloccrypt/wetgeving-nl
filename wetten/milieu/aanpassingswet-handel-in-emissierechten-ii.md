@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0030096"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Wet van 12 mei 2011 tot wijziging van de Wet milieubeheer, houdende aanpassing van hoofdstuk 2 aan de Kaderwet zelfstandige bestuursorganen en aanvulling, verduidelijking en vereenvoudiging van de in hoofdstuk 16 opgenomen regeling van de systemen voor de handel in broeikasgas- en NOx-emissierechten in verband met aanbevelingen uit het project Evaluatie Emissiehandel, proefprojecten voor de opslag van CO2 en wijzigingen van verordening (EG) nr. 2216/2004 van de Commissie van de Europese Gemeenschappen van 21 december 2004 inzake een gestandaardiseerd en beveiligd registersysteem overeenkomstig Richtlijn 2003/87/EG van het Europees Parlement en de Raad en Beschikking 280/2004/EG van het Europees Parlement en de Raad (PbEU L 386) (Aanpassingswet handel in emissierechten II)

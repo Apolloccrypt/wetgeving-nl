@@ -9,7 +9,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0029908"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Wet van 7 april 2011 tot wijziging van de Uitvoeringswet huurprijzen woonruimte (wettelijke grondslag verschillende waardering energieprestaties huurwoningen)

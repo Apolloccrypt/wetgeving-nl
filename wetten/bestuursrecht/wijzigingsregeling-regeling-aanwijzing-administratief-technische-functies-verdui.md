@@ -9,7 +9,7 @@ laatste_update: 2011-05-24
 status: geldig
 toestand: 2011-05-24
 bron: "https://wetten.overheid.nl/BWBR0029995"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 28 april 2011 houdende wijziging van de Regeling aanwijzing administratief-technische functies in verband met een verduidelijking van de criteria voor de aanwijzing

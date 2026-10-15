@@ -8,7 +8,7 @@ laatste_update: 2020-08-29
 status: geldig
 toestand: 2020-08-29
 bron: "https://wetten.overheid.nl/BWBR0029863"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling houdende aanwijzing militaire luchthavens

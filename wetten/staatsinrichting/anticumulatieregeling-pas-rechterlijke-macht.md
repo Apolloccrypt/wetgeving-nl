@@ -9,7 +9,7 @@ laatste_update: 2011-09-24
 status: geldig
 toestand: 2011-09-24
 bron: "https://wetten.overheid.nl/BWBR0030454"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 1 oktober 2011, nr. 5707854/11, houdende bepalingen rondom het verrekenen van extra inkomsten bij gebruikmaking van de PAS voor rechterlijke ambtenaren (Anticumulatieregeling PAS Rechterlijke Macht)

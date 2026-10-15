@@ -5,18 +5,18 @@ identifier: "BWBR0014011"
 categorie: "Milieu"
 soort: "ministeriele-regeling"
 publicatiedatum: 2002-09-26
-laatste_update: 2002-09-26
+laatste_update: 2026-10-10
 status: geldig
-toestand: 2002-09-26
+toestand: 2026-10-10
 bron: "https://wetten.overheid.nl/BWBR0014011"
-opgehaald: 2026-10-03
+opgehaald: 2026-10-15
 ---
 
 # Besluit van de Minister van Verkeer en Waterstaat tot aanwijzing van de ambtenaren, belast met het toezicht op de naleving en de opsporing van overtreding van de Herziene Rijnvaartakte en van de daarop gebaseerde reglementen (Besluit aanwijzing handhavingsambtenaren Herziene Rijnvaartakte)
 
 ##### Artikel 1
 
-Met het toezicht op de naleving en de opsporing van overtreding van de Herziene Rijnvaartakte en van de daarop gebaseerde reglementen zijn belast de ambtenaren van de directies Oost-Nederland, Limburg, Utrecht en Zuid-Holland van het Directoraat-Generaal Rijkswaterstaat van het Ministerie van Verkeer en Waterstaat , voor zover tewerkgesteld aan of langs de Boven-Rijn, de Waal, het Pannerdensch Kanaal, de Neder-Rijn en de Lek, die de functie bekleden van:
+Met het toezicht op de naleving en de opsporing van overtreding van de Herziene Rijnvaartakte en van de daarop gebaseerde reglementen zijn belast de ambtenaren van het Directoraat-Generaal Rijkswaterstaat Oost-Nederland en West-Nederland Zuid, voor zover tewerkgesteld aan of langs de Boven-Rijn, de Waal, het Pannerdensch Kanaal, de Neder-Rijn en de Lek, die de functie bekleden van:
 
 - a. hoofd en coördinator beheer vaarwegen;
 

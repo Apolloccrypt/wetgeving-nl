@@ -9,7 +9,7 @@ laatste_update: 2012-01-01
 status: geldig
 toestand: 2012-01-01
 bron: "https://wetten.overheid.nl/BWBR0030789"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van 7 december 2011, houdende aanpassing van het Besluit vergoedingen rechtsbijstand 2000 en het Besluit toevoeging mediation in verband met een verlaging van de vergoeding van rechtsbijstandverleners en een aanpassing van de wijze van indexeren van deze vergoeding alsmede aanpassing van de indexeringsregeling in het Besluit tarieven ambtshandelingen gerechtsdeurwaarders (Besluit aanpassing vergoeding en indexering rechtsbijstandverleners)

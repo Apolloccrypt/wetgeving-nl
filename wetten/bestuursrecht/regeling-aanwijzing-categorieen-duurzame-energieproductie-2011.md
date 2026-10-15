@@ -9,7 +9,7 @@ laatste_update: 2011-08-20
 status: geldig
 toestand: 2011-08-20
 bron: "https://wetten.overheid.nl/BWBR0030034"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 25 mei 2011, nr. WJZ/11069057, houdende aanwijzing van categorieën van productie-installaties voor de stimulering van duurzame energieproductie in het jaar 2011 (Regeling aanwijzing categorieën duurzame energieproductie 2011)

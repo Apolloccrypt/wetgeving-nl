@@ -9,7 +9,7 @@ laatste_update: 2017-10-31
 status: geldig
 toestand: 2017-10-31
 bron: "https://wetten.overheid.nl/BWBR0030554"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van 7 oktober 2011, houdende tijdelijke regels ten behoeve van een experiment met begeleid rijden, en een enkele wijziging van technische aard (Tijdelijk besluit begeleid rijden)

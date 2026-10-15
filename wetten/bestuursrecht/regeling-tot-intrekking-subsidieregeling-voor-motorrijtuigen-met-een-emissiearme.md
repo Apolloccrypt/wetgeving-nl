@@ -9,7 +9,7 @@ laatste_update: 2011-06-25
 status: geldig
 toestand: 2011-06-25
 bron: "https://wetten.overheid.nl/BWBR0030121"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu van 14 juni 2011, nr. BJZ2011046952 houdende intrekking van de Subsidieregeling voor motorrijtuigen met een emissiearme dieselmotor en recht op teruggaaf BPM

@@ -9,7 +9,7 @@ laatste_update: 2019-11-15
 status: geldig
 toestand: 2019-11-15
 bron: "https://wetten.overheid.nl/BWBR0030386"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Wet van 6 juli 2011 inzake implementatie van het op 23 februari 2006 te Genève tot stand gekomen Maritiem Arbeidsverdrag, 2006 (Trb. 2007, 93)

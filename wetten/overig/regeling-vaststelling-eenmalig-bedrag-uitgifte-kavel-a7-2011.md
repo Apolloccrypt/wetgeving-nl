@@ -9,7 +9,7 @@ laatste_update: 2011-04-30
 status: geldig
 toestand: 2011-04-30
 bron: "https://wetten.overheid.nl/BWBR0029920"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 26 april 2011, nr. WJZ / 11060091, houdende regels met betrekking tot het eenmalig bedrag verschuldigd door een verkrijger of houder van de vergunningen voor kavel A7 en voor frequentieruimte in band III (Regeling vaststelling eenmalig bedrag uitgifte kavel A7 2011)

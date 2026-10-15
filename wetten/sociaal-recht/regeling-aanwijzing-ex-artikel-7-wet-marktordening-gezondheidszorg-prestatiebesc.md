@@ -8,7 +8,7 @@ laatste_update: 2011-05-31
 status: geldig
 toestand: 2011-05-31
 bron: "https://wetten.overheid.nl/BWBR0030021"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (prestatiebeschrijvingen en invoering vrije prijsvorming farmaceutische zorg)

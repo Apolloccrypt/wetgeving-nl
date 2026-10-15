@@ -8,7 +8,7 @@ laatste_update: 2011-07-27
 status: geldig
 toestand: 2011-07-27
 bron: "https://wetten.overheid.nl/BWBR0030296"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Nadere regeling Gegevensuitvraag beheersingsmodel toetreders 2010 en 2011

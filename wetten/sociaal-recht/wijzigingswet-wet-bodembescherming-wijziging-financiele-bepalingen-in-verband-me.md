@@ -9,7 +9,7 @@ laatste_update: 2011-05-04
 status: geldig
 toestand: 2011-05-04
 bron: "https://wetten.overheid.nl/BWBR0029824"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Wet van 17 maart 2011 tot wijziging van de Wet bodembescherming (wijziging financiële bepalingen in verband met de decentralisatie-uitkering)

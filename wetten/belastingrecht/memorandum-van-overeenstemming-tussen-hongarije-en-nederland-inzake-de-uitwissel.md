@@ -8,7 +8,7 @@ laatste_update: 2011-10-21
 status: geldig
 toestand: 2011-10-21
 bron: "https://wetten.overheid.nl/BWBR0030626"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Memorandum van Overeenstemming tussen Hongarije en Nederland inzake de uitwisseling van inlichtingen op het gebied van de directe belastingen

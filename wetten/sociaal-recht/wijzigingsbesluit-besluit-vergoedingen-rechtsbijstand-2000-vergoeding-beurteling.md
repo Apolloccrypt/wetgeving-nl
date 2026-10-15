@@ -9,7 +9,7 @@ laatste_update: 2011-11-15
 status: geldig
 toestand: 2011-11-15
 bron: "https://wetten.overheid.nl/BWBR0030627"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van 9 november 2011 tot wijziging van het Besluit vergoedingen rechtsbijstand 2000 in verband met een vergoeding voor de beurtelingse verlening van rechtsbijstand in het kader van politieverhoren

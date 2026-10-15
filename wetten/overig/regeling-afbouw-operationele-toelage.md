@@ -9,7 +9,7 @@ laatste_update: 2025-04-01
 status: geldig
 toestand: 2025-04-01
 bron: "https://wetten.overheid.nl/BWBR0030672"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie, van 14 november 2011, nr. DGP/P&M 2011-2000480651, houdende regels voor afbouw van de toelage voor onregelmatige diensten (Regeling afbouw operationele toelage)

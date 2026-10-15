@@ -8,7 +8,7 @@ laatste_update: 2019-04-01
 status: geldig
 toestand: 2019-04-01
 bron: "https://wetten.overheid.nl/BWBR0030563"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling spoorwegpersoneel 2011

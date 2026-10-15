@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0030824"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Wet van 1 december 2011, houdende regels ter voorkoming van witwassen en financieren van terrorisme in de openbare lichamen Bonaire, Sint Eustatius en Saba (Wet ter voorkoming van witwassen en financieren van terrorisme BES)

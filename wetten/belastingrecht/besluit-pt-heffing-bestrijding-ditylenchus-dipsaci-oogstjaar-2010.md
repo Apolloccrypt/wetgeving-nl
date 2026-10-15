@@ -9,7 +9,7 @@ laatste_update: 2011-04-24
 status: geldig
 toestand: 2011-04-24
 bron: "https://wetten.overheid.nl/BWBR0029924"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw d.d. 29 maart 2011 houdende de vaststelling van de tarieven genoemd in de Verordening PT heffing bestrijding Ditylenchus dipsaci oogstjaar 2010 (Besluit PT heffing bestrijding Ditylenchus dipsaci oogstjaar 2010)

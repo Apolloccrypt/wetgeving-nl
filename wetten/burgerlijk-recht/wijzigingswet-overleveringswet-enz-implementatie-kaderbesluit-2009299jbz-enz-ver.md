@@ -9,7 +9,7 @@ laatste_update: 2011-08-01
 status: geldig
 toestand: 2011-08-01
 bron: "https://wetten.overheid.nl/BWBR0029997"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Wet van 12 mei 2011 tot wijziging van de Overleveringswet, de Wet wederzijdse erkenning en tenuitvoerlegging strafrechtelijke sancties 2008 en het Wetboek van Strafvordering ter implementatie van kaderbesluit 2009/299/JBZ van de Raad van de Europese Unie van 26 februari 2009 tot wijziging van kaderbesluit 2002/584/JBZ, kaderbesluit 2005/214/JBZ, kaderbesluit 2006/783/JBZ, kaderbesluit 2008/909/JBZ en kaderbesluit 2008/947/JBZ en tot versterking van de procedurele rechten van personen, tot bevordering van de toepassing van het beginsel van wederzijdse erkenning op beslissingen gegeven ten aanzien van personen die niet verschenen zijn tijdens het proces (PbEU L 81)

@@ -3,11 +3,11 @@ title: "Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko 
 identifier: "BWBV0006173"
 categorie: "Internationaal recht"
 soort: "verdrag"
-laatste_update: 2013-05-21
+laatste_update: 2026-09-14
 status: geldig
-toestand: 2013-05-21
+toestand: 2026-09-14
 bron: "https://wetten.overheid.nl/BWBV0006173"
-opgehaald: 2026-09-16
+opgehaald: 2026-10-15
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko betreffende de status van strijdkrachten

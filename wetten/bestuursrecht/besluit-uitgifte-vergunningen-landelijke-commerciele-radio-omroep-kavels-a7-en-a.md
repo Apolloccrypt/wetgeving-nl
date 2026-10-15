@@ -9,7 +9,7 @@ laatste_update: 2011-06-01
 status: geldig
 toestand: 2011-06-01
 bron: "https://wetten.overheid.nl/BWBR0029918"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van de Minister van Economische Zaken, Landbouw en Innovatie van 26 april 2011, nr. WJZ / 11060103, tot uitgifte van vergunningen voor landelijke commerciële radio-omroep betreffende de kavels A7 en A8 in de FM-band en digitale radio-omroep in band III

@@ -9,7 +9,7 @@ laatste_update: 2011-11-16
 status: geldig
 toestand: 2011-11-16
 bron: "https://wetten.overheid.nl/BWBR0030645"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 7 november 2011, nr. MC-U-3087524 houdende vaststelling van de vergoedingen van de commissie van deskundigen Transparantie van de Zorg (Vergoedingenbesluit commissie van deskundigen Transparantie van de Zorg)

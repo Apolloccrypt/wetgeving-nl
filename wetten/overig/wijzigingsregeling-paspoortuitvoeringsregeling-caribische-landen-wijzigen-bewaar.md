@@ -9,7 +9,7 @@ laatste_update: 2011-06-24
 status: geldig
 toestand: 2011-06-24
 bron: "https://wetten.overheid.nl/BWBR0030124"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 14 juni 2011, nr. CZW/WBI 2011-2000223569, houdende wijziging van de Paspoortuitvoeringsregeling Caribische landen in verband met in verband met het wijzigen van de bewaartermijn van vingerafdrukken in de reisdocumentenadministratie

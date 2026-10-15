@@ -9,7 +9,7 @@ laatste_update: 2026-10-08
 status: geldig
 toestand: 2026-10-08
 bron: "https://wetten.overheid.nl/BWBR0005290"
-opgehaald: 2026-10-14
+opgehaald: 2026-10-15
 ---
 
 # Burgerlijk Wetboek Boek 7, Bijzondere overeenkomsten

@@ -9,7 +9,7 @@ laatste_update: 2012-02-01
 status: geldig
 toestand: 2012-02-01
 bron: "https://wetten.overheid.nl/BWBR0030715"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport, van 21 november 2011, nr. MC/U-3092027, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake contracteerruimte AWBZ 2012 en enkele andere aangelegenheden

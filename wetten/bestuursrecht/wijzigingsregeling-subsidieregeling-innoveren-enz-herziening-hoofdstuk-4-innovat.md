@@ -9,7 +9,7 @@ laatste_update: 2011-05-16
 status: geldig
 toestand: 2011-05-16
 bron: "https://wetten.overheid.nl/BWBR0029959"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 23 februari 2011, nr. WJZ/11019095, houdende wijziging van de Subsidieregeling innoveren en de Regeling openstelling en subsidieplafonds EZ 2011 in verband met herziening van hoofdstuk 4 (Innovatieprestatiecontracten)

@@ -9,7 +9,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBR0029980"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van 28 april 2011, houdende vaststelling van voorschriften inzake het staatsexamen Nederlands als vreemde taal BES (Staatsexamenbesluit Nederlands als vreemde taal BES)

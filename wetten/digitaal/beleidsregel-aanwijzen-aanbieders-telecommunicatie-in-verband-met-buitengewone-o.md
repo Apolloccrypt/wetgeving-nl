@@ -9,7 +9,7 @@ laatste_update: 2011-03-31
 status: geldig
 toestand: 2011-03-31
 bron: "https://wetten.overheid.nl/BWBR0029783"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Beleidsregel van de Minister van Economische Zaken, Landbouw en Innovatie van 22 maart 2011, nr. WJZ/11022184, inzake het aanwijzen van aanbieders van openbare telecommunicatienetwerken en openbare telecommunicatiediensten ten behoeve van het verzorgen van elektronisch transport van gegevens in buitengewone omstandigheden (Beleidsregel aanwijzen aanbieders telecommunicatie in verband met buitengewone omstandigheden)

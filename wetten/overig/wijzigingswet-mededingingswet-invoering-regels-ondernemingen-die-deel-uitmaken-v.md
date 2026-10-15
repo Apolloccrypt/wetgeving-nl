@@ -9,7 +9,7 @@ laatste_update: 2012-07-01
 status: geldig
 toestand: 2012-07-01
 bron: "https://wetten.overheid.nl/BWBR0029818"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Wet van 24 maart 2011 tot wijziging van de Mededingingswet ter invoering van regels inzake ondernemingen die deel uitmaken van een publiekrechtelijke rechtspersoon of die hiermee zijn verbonden (aanpassing Mededingingswet ter invoering van gedragsregels voor de overheid)

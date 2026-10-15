@@ -9,7 +9,7 @@ laatste_update: 2011-04-28
 status: geldig
 toestand: 2011-04-28
 bron: "https://wetten.overheid.nl/BWBR0029910"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Wet van 7 april 2011 tot intrekking van de Wet stedelijke vernieuwing in verband met de decentralisatie van het investeringsbudget stedelijke vernieuwing (Intrekkingswet Wet stedelijke vernieuwing)

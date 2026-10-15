@@ -9,7 +9,7 @@ laatste_update: 2022-03-09
 status: geldig
 toestand: 2022-03-09
 bron: "https://wetten.overheid.nl/BWBR0030425"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 6 september 2011, nr. DJZ/BR/0919-11, houdende beperkende maatregelen jegens Afghanistan (Sanctieregeling Afghanistan 2011)

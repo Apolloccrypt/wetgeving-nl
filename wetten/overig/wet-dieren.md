@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0030250"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Wet van 19 mei 2011, houdende een integraal kader voor regels over gehouden dieren en daaraan gerelateerde onderwerpen (Wet dieren)

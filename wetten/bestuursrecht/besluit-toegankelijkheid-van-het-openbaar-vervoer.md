@@ -9,7 +9,7 @@ laatste_update: 2025-06-28
 status: geldig
 toestand: 2025-06-28
 bron: "https://wetten.overheid.nl/BWBR0029974"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van 31 maart 2011, houdende regels betreffende de toegankelijkheid van het openbaar vervoer en de daartoe te verrichten aanpassingen (Besluit toegankelijkheid van het openbaar vervoer)

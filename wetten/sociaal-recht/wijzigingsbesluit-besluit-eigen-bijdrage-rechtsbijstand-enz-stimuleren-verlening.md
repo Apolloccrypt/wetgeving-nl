@@ -9,7 +9,7 @@ laatste_update: 2011-07-01
 status: geldig
 toestand: 2011-07-01
 bron: "https://wetten.overheid.nl/BWBR0030167"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van 22 juni 2011, houdende aanpassing van het Besluit eigen bijdrage rechtsbijstand en het Besluit vergoedingen rechtsbijstand 2000, onder meer in verband met het stimuleren van de verlening van rechtshulp door een voorziening als bedoeld in artikel 7, tweede lid, of artikel 8, tweede lid, van de Wet op de rechtsbijstand

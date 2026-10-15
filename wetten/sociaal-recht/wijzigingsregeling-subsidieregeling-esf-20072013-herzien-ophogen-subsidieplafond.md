@@ -9,7 +9,7 @@ laatste_update: 2011-12-16
 status: geldig
 toestand: 2011-12-16
 bron: "https://wetten.overheid.nl/BWBR0030779"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 7 december 2011, nr. R&P/RA/2011/21600, tot wijziging van de Subsidieregeling ESF 2007−2013 (herzien) in verband met het ophogen van het subsidieplafond van Actie E sociale innovatie en het openstellen van het subsidietijdvak voor Actie C

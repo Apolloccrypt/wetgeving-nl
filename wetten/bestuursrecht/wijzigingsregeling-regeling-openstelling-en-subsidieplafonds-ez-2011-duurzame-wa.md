@@ -9,7 +9,7 @@ laatste_update: 2011-07-09
 status: geldig
 toestand: 2011-07-09
 bron: "https://wetten.overheid.nl/BWBR0030231"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 30 juni 2011, nr. WJZ/11099127, tot wijziging van de Regeling openstelling en subsidieplafonds EZ 2011 (duurzame warmte voor bestaande woningen)

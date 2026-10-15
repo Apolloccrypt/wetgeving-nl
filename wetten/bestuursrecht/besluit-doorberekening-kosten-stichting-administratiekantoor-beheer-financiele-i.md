@@ -9,7 +9,7 @@ laatste_update: 2011-09-09
 status: geldig
 toestand: 2011-09-09
 bron: "https://wetten.overheid.nl/BWBR0030408"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van 29 augustus 2011, houdende regels inzake doorberekening van kosten van de stichting administratiekantoor beheer financiële instellingen

@@ -8,7 +8,7 @@ laatste_update: 2011-12-09
 status: geldig
 toestand: 2011-12-09
 bron: "https://wetten.overheid.nl/BWBR0030737"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit vaststelling selectielijst Waterschappen vanaf 1 januari 2012

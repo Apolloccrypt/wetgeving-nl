@@ -9,7 +9,7 @@ laatste_update: 2011-06-23
 status: geldig
 toestand: 2011-06-23
 bron: "https://wetten.overheid.nl/BWBR0030117"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 14 juni 2011, nr. CZW/WBI 2011-2000223491, houdende wijziging van de Paspoortuitvoeringsregeling Nederland 2001 en de Paspoortuitvoeringsregeling Buitenland 2001 in verband met het wijzigen van de bewaartermijn van vingerafdrukken in de reisdocumentenadministratie

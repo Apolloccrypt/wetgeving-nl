@@ -9,7 +9,7 @@ laatste_update: 2011-07-16
 status: geldig
 toestand: 2011-07-16
 bron: "https://wetten.overheid.nl/BWBR0030256"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties tot instelling van het Team Ondersteuning Participatie in Antillianengemeenten (TOPA) ten behoeve van afrondende werkzaamheden (instellingsbesluit TOPA afrondende werkzaamheden)

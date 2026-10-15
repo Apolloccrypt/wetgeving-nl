@@ -9,7 +9,7 @@ laatste_update: 2011-08-01
 status: geldig
 toestand: 2011-08-01
 bron: "https://wetten.overheid.nl/BWBR0030268"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van 6 juli 2011, houdende wijziging van het Besluit opleidingseisen en deskundigheidsgebied fysiotherapeut (herformulering opleidingseisen en regeling directe toegankelijkheid)

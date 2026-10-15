@@ -9,7 +9,7 @@ laatste_update: 2011-10-01
 status: geldig
 toestand: 2011-10-01
 bron: "https://wetten.overheid.nl/BWBR0030485"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Minister voor Immigratie en Asiel van 28 september 2011, nr. 5711322/11, houdende wijziging van het Voorschrift Vreemdelingen 2000 (honderdenzesde wijziging)

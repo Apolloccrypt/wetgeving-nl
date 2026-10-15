@@ -9,7 +9,7 @@ laatste_update: 2011-11-19
 status: geldig
 toestand: 2011-11-19
 bron: "https://wetten.overheid.nl/BWBR0030656"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van de Directeur/bestuurder van het Nederlands fonds voor de Film van 26 oktober 2011, nr. FB 110623, tot vaststelling van de subsidieplafonds voor subsidiëring op grond van het Deelreglement Filmactiviteiten, de Suppletieregeling Filminvesteringen Nederland en het Deelreglement Distributie

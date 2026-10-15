@@ -9,7 +9,7 @@ laatste_update: 2011-09-01
 status: geldig
 toestand: 2011-09-01
 bron: "https://wetten.overheid.nl/BWBR0030287"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Wet van 8 juli 2011 tot wijziging van de Wet op het hoger onderwijs en wetenschappelijk onderzoek en enige andere wetten in verband met de invoering van een verhoogd collegegeld voor langstudeerders (Wet verhoging collegegeld langstudeerders)

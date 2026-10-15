@@ -9,7 +9,7 @@ laatste_update: 2011-11-18
 status: geldig
 toestand: 2011-11-18
 bron: "https://wetten.overheid.nl/BWBR0030649"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 9 november 2011, nr. 5715475/11/6, houdende vaststelling van de wettelijke rente voor de openbare lichamen Bonaire, Sint Eustatius en Saba

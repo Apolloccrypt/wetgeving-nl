@@ -9,7 +9,7 @@ laatste_update: 2012-02-08
 status: geldig
 toestand: 2012-02-08
 bron: "https://wetten.overheid.nl/BWBR0030354"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Wet van 6 juni 2011 tot wijziging van de Mijnbouwwet in verband met implementatie van richtlijn nr. 2009/31/EG van het Europees Parlement en de Raad van 23 april 2009 betreffende de geologische opslag van kooldioxide en tot wijziging van richtlijn 85/337/EEG van de Raad, de richtlijnen 2000/60/EG, 2001/80/EG, 2004/35/EG, 2006/12/EG en 2008/1/EG en verordening (EG) nr. 1013/2006 van het Europees Parlement en de Raad (PbEG L 140) en van Ospar Decision 2007/2 on the storage of carbon dioxide streams in geological formations

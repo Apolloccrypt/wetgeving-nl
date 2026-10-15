@@ -8,7 +8,7 @@ laatste_update: 2011-06-15
 status: geldig
 toestand: 2011-06-15
 bron: "https://wetten.overheid.nl/BWBR0030091"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Aanpassing voorschriften ingevolge het Besluit betaling emolumenten burgerlijk rijkspersoneel v.w.b. de maximum verrekeningsbedragen voor verwarming e.d.

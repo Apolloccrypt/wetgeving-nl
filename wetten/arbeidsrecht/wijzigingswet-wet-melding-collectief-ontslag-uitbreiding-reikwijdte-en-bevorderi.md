@@ -9,7 +9,7 @@ laatste_update: 2012-03-01
 status: geldig
 toestand: 2012-03-01
 bron: "https://wetten.overheid.nl/BWBR0030795"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Wet van 17 november 2011, houdende wijziging van de Wet melding collectief ontslag in verband met de uitbreiding van de reikwijdte en ter bevordering van de naleving van deze wet

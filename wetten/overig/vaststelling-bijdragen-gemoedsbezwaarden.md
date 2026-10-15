@@ -8,7 +8,7 @@ laatste_update: 1997-01-01
 status: geldig
 toestand: 1997-01-01
 bron: "https://wetten.overheid.nl/BWBR0030664"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Vaststelling bijdragen gemoedsbezwaarden

@@ -8,7 +8,7 @@ laatste_update: 2011-12-22
 status: geldig
 toestand: 2011-12-22
 bron: "https://wetten.overheid.nl/BWBR0030906"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Circulaire wijziging Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Rijk

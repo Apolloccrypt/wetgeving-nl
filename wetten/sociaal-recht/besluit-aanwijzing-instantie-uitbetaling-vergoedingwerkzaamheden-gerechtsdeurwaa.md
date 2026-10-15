@@ -9,7 +9,7 @@ laatste_update: 2011-08-06
 status: geldig
 toestand: 2011-08-06
 bron: "https://wetten.overheid.nl/BWBR0030333"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 26 juli 2011, nr. 5704528/11, houdende aanwijzing van de instantie die de vergoeding aan gerechtsdeurwaarders verstrekt voor verrichte werkzaamheden in het kader van een toevoeging (Besluit aanwijzing instantie uitbetaling vergoeding werkzaamheden gerechtsdeurwaarders in rechtsbijstandzaken)

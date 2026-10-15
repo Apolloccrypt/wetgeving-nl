@@ -8,7 +8,7 @@ laatste_update: 2011-08-02
 status: geldig
 toestand: 2011-08-02
 bron: "https://wetten.overheid.nl/BWBR0030325"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Beleidsregels UWV normbedragen voorzieningen 2e halfjaar 2011

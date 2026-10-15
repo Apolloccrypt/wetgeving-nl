@@ -9,7 +9,7 @@ laatste_update: 2016-12-01
 status: geldig
 toestand: 2016-12-01
 bron: "https://wetten.overheid.nl/BWBR0030886"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van 15 december 2011, houdende regels inzake het procesdossier en de kennisneming en de verstrekking van afschriften van processtukken gedurende het voorbereidende onderzoek (Besluit processtukken in strafzaken)

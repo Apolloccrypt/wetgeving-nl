@@ -9,7 +9,7 @@ laatste_update: 2023-09-02
 status: geldig
 toestand: 2023-09-02
 bron: "https://wetten.overheid.nl/BWBR0030327"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 22 juli 2011, nr. C/2011/12042, houdende de inrichting van de organisatie van de directie Communicatie alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Communicatie (Organisatie-, mandaat- en volmachtbesluit directie Communicatie 2011)

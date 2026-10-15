@@ -9,7 +9,7 @@ laatste_update: 2014-04-01
 status: geldig
 toestand: 2014-04-01
 bron: "https://wetten.overheid.nl/BWBR0030282"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Aanwijzing van de minister van Volksgezondheid, Welzijn en Sport van 12 juli 2011, nr. MC-U-3072372, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake normatieve huisvestingscomponenten in tarieven intramurale AWBZ

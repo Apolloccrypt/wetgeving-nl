@@ -8,7 +8,7 @@ laatste_update: 2012-01-01
 status: geldig
 toestand: 2012-01-01
 bron: "https://wetten.overheid.nl/BWBR0030301"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Circulaire nieuwe werkwijze verspreiding circulaires/aankondigingen binnen en buiten het Rijk

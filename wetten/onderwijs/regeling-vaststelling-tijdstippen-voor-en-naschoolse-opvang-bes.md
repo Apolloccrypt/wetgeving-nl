@@ -9,7 +9,7 @@ laatste_update: 2011-08-01
 status: geldig
 toestand: 2011-08-01
 bron: "https://wetten.overheid.nl/BWBR0030075"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 27 mei 2011, nr. WJZ/303099 (2771), houdende de vaststelling van de tijdstippen waarbinnen een bevoegd gezag van een school voor de organisatie van opvang van leerlingen gedurende de voor- en naschoolse opvang zorg draagt op de eilanden Bonaire, Sint Eustatius en Saba (Regeling vaststelling tijdstippen voor- en naschoolse opvang BES)

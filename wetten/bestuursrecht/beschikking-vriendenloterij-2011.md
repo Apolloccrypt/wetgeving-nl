@@ -9,7 +9,7 @@ laatste_update: 2013-08-06
 status: geldig
 toestand: 2013-08-06
 bron: "https://wetten.overheid.nl/BWBR0029744"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Beschikking van de Staatssecretaris van Veiligheid en Justitie van 17 december 2010, nr. 5664428/10/DSP, houdende verlening van een vergunning tot het organiseren van de Vriendenloterij

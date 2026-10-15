@@ -9,7 +9,7 @@ laatste_update: 2011-06-28
 status: geldig
 toestand: 2011-06-28
 bron: "https://wetten.overheid.nl/BWBR0030151"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van 15 juni 2011, houdende vaststelling van de bestanddelen van de munten van vijf en de tien euro die in 2011 worden uitgegeven ter gelegenheid van 100 jaar Muntgebouw

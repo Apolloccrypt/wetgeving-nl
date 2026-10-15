@@ -8,7 +8,7 @@ laatste_update: 2011-12-22
 status: geldig
 toestand: 2011-12-22
 bron: "https://wetten.overheid.nl/BWBR0030882"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Beschikking Transitiebedrag instellingen voor medisch specialistische zorg, audiologische centra, centra voor erfelijkheidsadvisering

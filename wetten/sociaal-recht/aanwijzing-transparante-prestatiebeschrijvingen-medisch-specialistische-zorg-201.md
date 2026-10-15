@@ -9,7 +9,7 @@ laatste_update: 2011-07-05
 status: geldig
 toestand: 2011-07-05
 bron: "https://wetten.overheid.nl/BWBR0030210"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 27 juni 2011, nr. MC-U- 3070826, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake transparante prestatiebeschrijvingen medisch specialistische zorg 2012

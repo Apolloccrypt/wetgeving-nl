@@ -8,7 +8,7 @@ laatste_update: 2011-04-21
 status: geldig
 toestand: 2011-04-21
 bron: "https://wetten.overheid.nl/BWBR0029899"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Inkomstenbelasting, winst uit onderneming, verblijfkosten eigen rijders

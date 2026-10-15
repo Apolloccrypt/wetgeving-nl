@@ -9,7 +9,7 @@ laatste_update: 2011-08-01
 status: geldig
 toestand: 2011-08-01
 bron: "https://wetten.overheid.nl/BWBR0030073"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 27 mei 2011, nr. WJZ/303095 (2770), houdende het geven van regels voor het beslechten van geschillen tussen de deelnemers van het samenwerkingsverband zorg door een geschillencommissie (Regeling geschillen zorg BES)

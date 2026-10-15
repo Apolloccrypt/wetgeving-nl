@@ -9,7 +9,7 @@ laatste_update: 2012-01-01
 status: geldig
 toestand: 2012-01-01
 bron: "https://wetten.overheid.nl/BWBR0030526"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken, Landbouw en Innovatie van 5 oktober 2011, nr. WJZ / 11137471, tot wijziging van de Subsidieregeling sterktes in de regio in verband met intrekking van Hoofdstuk 2. Pieken in de delta

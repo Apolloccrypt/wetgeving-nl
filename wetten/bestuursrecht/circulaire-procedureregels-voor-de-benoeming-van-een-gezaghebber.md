@@ -8,7 +8,7 @@ laatste_update: 2011-11-01
 status: geldig
 toestand: 2011-11-01
 bron: "https://wetten.overheid.nl/BWBR0030642"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Circulaire procedureregels voor de benoeming van een gezaghebber

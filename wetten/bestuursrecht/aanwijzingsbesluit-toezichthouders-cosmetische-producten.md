@@ -9,7 +9,7 @@ laatste_update: 2018-08-01
 status: geldig
 toestand: 2018-08-01
 bron: "https://wetten.overheid.nl/BWBR0030720"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport, 25 november 2011, nr. DWJZ/G&E-3093665, houdende aanwijzing van ambtenaren belast met het toezicht op de naleving van het Warenwetbesluit cosmetische producten (Aanwijzingsbesluit toezichthouders cosmetische producten)

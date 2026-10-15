@@ -9,7 +9,7 @@ laatste_update: 2011-12-03
 status: geldig
 toestand: 2011-12-03
 bron: "https://wetten.overheid.nl/BWBR0030699"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van 14 november 2011, nr. 11.002711 houdende vaststelling van een selectielijst van de Raad van State op het deelbeleidsterrein van bestuursrechtspraak en algemene taken en bedrijfsvoering

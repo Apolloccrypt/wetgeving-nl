@@ -9,7 +9,7 @@ laatste_update: 2011-06-08
 status: geldig
 toestand: 2011-06-08
 bron: "https://wetten.overheid.nl/BWBR0030060"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van 20 mei 2011, houdende de regels voor de begrotings- en verantwoordingsdocumenten van de openbare lichamen Bonaire, Sint Eustatius en Saba (Besluit begroting en verantwoording openbare lichamen BES)

@@ -9,7 +9,7 @@ laatste_update: 2025-10-24
 status: geldig
 toestand: 2025-10-24
 bron: "https://wetten.overheid.nl/BWBR0030152"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu van 14 juni 2011, nr. BJZ2011046947 houdende nadere regels met betrekking tot enige onderwerpen inzake de voorziening van drinkwater, warm tapwater en huishoudwater (Drinkwaterregeling)

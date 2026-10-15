@@ -8,7 +8,7 @@ laatste_update: 2011-05-25
 status: geldig
 toestand: 2011-05-25
 bron: "https://wetten.overheid.nl/BWBR0029944"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling aanwijzing bovenmaatse schepen 2011

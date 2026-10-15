@@ -9,7 +9,7 @@ laatste_update: 2012-01-01
 status: geldig
 toestand: 2012-01-01
 bron: "https://wetten.overheid.nl/BWBR0030328"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport, nr. MC-U-3073582, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake invoering beheersmodel medisch specialisten

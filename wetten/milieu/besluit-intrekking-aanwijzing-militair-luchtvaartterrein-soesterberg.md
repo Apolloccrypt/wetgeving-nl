@@ -8,7 +8,7 @@ laatste_update: 2011-11-10
 status: geldig
 toestand: 2011-11-10
 bron: "https://wetten.overheid.nl/BWBR0030615"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit intrekking aanwijzing militair luchtvaartterrein Soesterberg

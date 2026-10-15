@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0030166"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu van 27 juni 2011, nr. BJZ2011046957, houdende nadere regels met betrekking tot enige onderwerpen inzake legionellapreventie in drinkwater en warm tapwater (Regeling legionellapreventie in drinkwater en warm tapwater)

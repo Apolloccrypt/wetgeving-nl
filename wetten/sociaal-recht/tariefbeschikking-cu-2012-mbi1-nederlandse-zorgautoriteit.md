@@ -8,7 +8,7 @@ laatste_update: 2011-12-22
 status: geldig
 toestand: 2011-12-22
 bron: "https://wetten.overheid.nl/BWBR0030893"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Tariefbeschikking CU-2012-MBI1 Nederlandse Zorgautoriteit

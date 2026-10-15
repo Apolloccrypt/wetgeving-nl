@@ -9,7 +9,7 @@ laatste_update: 2011-12-21
 status: geldig
 toestand: 2011-12-21
 bron: "https://wetten.overheid.nl/BWBR0030861"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 9 december 2011, nr. 5719823/11 houdende instelling van de Taskforce internationale misdrijven (Instellingsbesluit Taskforce internationale misdrijven)

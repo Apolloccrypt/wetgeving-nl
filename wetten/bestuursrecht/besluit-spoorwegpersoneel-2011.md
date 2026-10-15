@@ -9,7 +9,7 @@ laatste_update: 2021-12-17
 status: geldig
 toestand: 2021-12-17
 bron: "https://wetten.overheid.nl/BWBR0030006"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van 3 mei 2011, houdende vaststelling van voorschriften met betrekking tot de bekwaamheid en geschiktheid van spoorwegpersoneel met een veiligheidsfunctie (Besluit spoorwegpersoneel 2011)

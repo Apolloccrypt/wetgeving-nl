@@ -9,7 +9,7 @@ laatste_update: 2012-02-01
 status: geldig
 toestand: 2012-02-01
 bron: "https://wetten.overheid.nl/BWBR0030746"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 1 december 2011, nr. MC-U-3093947, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake de maatregel 18.000 plus dbc’s

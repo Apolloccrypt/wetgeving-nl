@@ -9,7 +9,7 @@ laatste_update: 2023-05-31
 status: geldig
 toestand: 2023-05-31
 bron: "https://wetten.overheid.nl/BWBR0029884"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van de Minister van Economische Zaken, Landbouw en Innovatie van 12 april 2011, nr. WJZ / 11046112, tot aanwijzing van toezichthouders op de naleving van de Wet implementatie EG-richtlijnen energie-efficiëntie (Besluit aanwijzing toezichthouders Wet implementatie EG-richtlijnen energie-efficiëntie)

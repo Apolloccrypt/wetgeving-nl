@@ -9,7 +9,7 @@ laatste_update: 2015-03-21
 status: geldig
 toestand: 2015-03-21
 bron: "https://wetten.overheid.nl/BWBR0029812"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 30 maart 2011, nr. 5690605/11, houdende de instelling van de Werkgroep Advies Wet wapens en munitie en de benoeming van de leden van de werkgroep (Besluit Werkgroep Advies Wet wapens en munitie)

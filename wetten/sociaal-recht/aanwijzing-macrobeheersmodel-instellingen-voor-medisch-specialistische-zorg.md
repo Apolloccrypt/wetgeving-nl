@@ -9,7 +9,7 @@ laatste_update: 2011-12-21
 status: geldig
 toestand: 2011-12-21
 bron: "https://wetten.overheid.nl/BWBR0030884"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport, van 13 december 2011, nr. MC-U-3096073, houdende een macrobeheersmodel instellingen voor medisch specialistische zorg

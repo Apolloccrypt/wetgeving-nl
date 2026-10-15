@@ -8,7 +8,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0030525"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling erkenning werkplaatsen boordcomputer taxi

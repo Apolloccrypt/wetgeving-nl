@@ -9,7 +9,7 @@ laatste_update: 2011-05-11
 status: geldig
 toestand: 2011-05-11
 bron: "https://wetten.overheid.nl/BWBR0029953"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Wet van 21 april 2011 tot wijziging van het Burgerlijk Wetboek en de Faillissementswet ter implementatie van Richtlijn 2009/44/EG van het Europees Parlement en de Europese Raad van 6 mei 2009 tot wijziging van Richtlijn 98/26/EG betreffende het definitieve karakter van de afwikkeling van betalingen en effectentransacties in betalings- en afwikkelingssystemen en Richtlijn 2002/47/EG betreffende financiëlezekerheidsovereenkomsten wat gekoppelde systemen en kredietvorderingen betreft (PbEU L 146/37)

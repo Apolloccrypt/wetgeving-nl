@@ -9,7 +9,7 @@ laatste_update: 2011-11-05
 status: geldig
 toestand: 2011-11-05
 bron: "https://wetten.overheid.nl/BWBR0030594"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van de Minister van Infrastructuur en Milieu , tot intrekking van het besluit van de minister van infrastructuur en milieu d.d. 15 december 2010, nr. Iv2010033582, Staatscourant 2010, tot beperking van de openbaarheid van inventarisnummers van het naar het nationaal archief over te brengen archief van het directoraat-generaal van de volkshuisvesting van het voormalig ministerie van volkshuisvesting, ruimtelijke ordening en milieu, (1947) 1982–1993 (1996)

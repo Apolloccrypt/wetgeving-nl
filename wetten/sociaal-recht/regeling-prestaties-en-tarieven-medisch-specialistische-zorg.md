@@ -8,7 +8,7 @@ laatste_update: 2011-07-08
 status: geldig
 toestand: 2011-07-08
 bron: "https://wetten.overheid.nl/BWBR0030241"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling prestaties en tarieven medisch specialistische zorg

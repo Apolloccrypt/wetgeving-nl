@@ -9,7 +9,7 @@ laatste_update: 2011-06-28
 status: geldig
 toestand: 2011-06-28
 bron: "https://wetten.overheid.nl/BWBR0030154"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van 14 juni 2011 tot herstel van technische gebreken en het aanbrengen van andere wijzigingen van ondergeschikte aard in diverse algemene maatregelen van bestuur op het terrein van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (Reparatiebesluit BZK 2011)

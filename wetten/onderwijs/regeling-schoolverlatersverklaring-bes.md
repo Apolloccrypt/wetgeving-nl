@@ -9,7 +9,7 @@ laatste_update: 2011-08-01
 status: geldig
 toestand: 2011-08-01
 bron: "https://wetten.overheid.nl/BWBR0030257"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 5 juli 2011 nr. 304220 (4907), houdende het vaststellen van een schoolverlatersverklaring BES (Regeling schoolverlatersverklaring BES)

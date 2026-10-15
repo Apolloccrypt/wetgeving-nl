@@ -5,11 +5,11 @@ identifier: "BWBR0050519"
 categorie: "Overig"
 soort: "ministeriele-regeling"
 publicatiedatum: 2025-01-01
-laatste_update: 2025-05-13
+laatste_update: 2026-10-08
 status: geldig
-toestand: 2025-05-13
+toestand: 2026-10-08
 bron: "https://wetten.overheid.nl/BWBR0050519"
-opgehaald: 2026-09-07
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid, van 19 november 2024, nr. 5922154, inzake de uitvoering van het individueel keuzebudget voor Politiepersoneel (Regeling IKB Politie)
@@ -66,9 +66,15 @@ In deze regeling wordt verstaan onder:
 
 - d. wordt bij arbeidstijdverhoging nadat de keuze is geëffectueerd het maximum aan te kopen vakantie-uren naar rato aangepast.
 
-4. De ambtenaar kan het IKB-bruto belastingvrij aanwenden voor een opleiding, cursussen, congressen en vakliteratuur, voor zover het bevoegd gezag de kosten daarvan niet vergoedt en er volgens de fiscale regelgeving sprake is van een gerichte vrijstelling.
+4. Voor zover het bevoegd gezag de kosten niet vergoedt en voorts volgens de fiscale regelgeving sprake is van een gerichte vrijstelling, kan de ambtenaar het IKB-bruto belastingvrij aanwenden voor:
 
-5. De ambtenaar kan het IKB-bruto belastingvrij aanwenden voor het opwaarderen van het door het bevoegd gezag verstrekte openbaar vervoerabonnement van 2e naar 1e klasse bij woon-werkverkeer, op een wijze zoals door het bevoegd gezag voorgeschreven.
+- a. opleidingen, cursussen, congressen en vakliteratuur;
+
+- b. het opwaarderen van het door het bevoegd gezag verstrekte openbaar vervoerabonnement van 2e naar 1e klasse bij woon-werkverkeer, op een wijze zoals door het bevoegd gezag voorgeschreven; en
+
+- c. terugbetaling van een studieschuld bij een voorgaande werkgever in hetzelfde kalenderjaar als dat van indiensttreding.
+
+5. In december 2026 en december 2027 kan de ambtenaar het IKB-bruto belastingvrij aanwenden voor een aanvullende reiskostenvergoeding per kilometer voor zowel woon-werkverkeer als dienstreizen over het in het betrokken jaar gedeclareerde aantal kilometers met eigen vervoer. Dit betreft maximaal het verschil tussen de fiscaal vrijgestelde vergoeding, bedoeld in [artikel 31a, tweede lid, onderdeel a, onder 3°, Wet op de Loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31a), en de tegemoetkoming in de reiskosten, genoemd in de [artikelen 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&artikel=6), [11, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&artikel=11), [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&artikel=12), [14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&artikel=14) en [14a, tweede lid, van het Besluit reis- verblijf- en verhuiskosten politie](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&artikel=14a).
 
 ##### Artikel 4. Doelen IKB-netto
 
@@ -122,9 +128,15 @@ In deze regeling wordt verstaan onder:
 
 - d. talencursussen.
 
+6. De ambtenaar kan het IKB-netto aanwenden voor de aflossing van zijn studieschuld bij de Dienst Uitvoering Onderwijs.
+
 ##### Artikel 5. Voorschot
 
-1. Indien het aankoopbedrag niet past binnen het jaarlijkse IKB-netto, kan de ambtenaar een voorschot nemen op het IKB-netto van maximaal 4 kalenderjaren na het jaar waarop hij kiest voor de aanwending voor een duurzaamheidsdoel als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050519&artikel=4&z=2025-05-13&g=2025-05-13).
+1. De ambtenaar kan een voorschot nemen op het IKB-netto van maximaal 4 kalenderjaren na het jaar waarin hij kiest voor:
+
+- a. de aanwending voor een duurzaamheidsdoel als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050519&artikel=4&z=2026-10-08&g=2026-10-08);
+
+- b. de aflossing van zijn studieschuld bij de Dienst Uitvoering Onderwijs, bedoeld in [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050519&artikel=4&z=2026-10-08&g=2026-10-08), indien het bedrag van de aanwending respectievelijk de aflossing niet past binnen het jaarlijkse IKB-netto.
 
 2. Indien aan de ambtenaar een voorschot als bedoeld in het eerste lid is toegekend, wordt bij ontslag het openstaande bedrag teruggevorderd voor de kalenderjaren waarin de ambtenaar niet in dienst is geweest.
 
@@ -132,7 +144,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 6. Bewijsmiddelen
 
-1. In geval van de keuze voor een van de doelen, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050519&artikel=3&z=2025-05-13&g=2025-05-13), en in geval van een voorschot als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050519&artikel=5&z=2025-05-13&g=2025-05-13), levert de ambtenaar bij het maken van de keuze een bewijsstuk aan van:
+1. In geval van de keuze voor een van de doelen, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050519&artikel=3&z=2026-10-08&g=2026-10-08), en in geval van een voorschot als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050519&artikel=5&z=2026-10-08&g=2026-10-08), levert de ambtenaar bij het maken van de keuze een bewijsstuk aan van:
 
 - a. het door de ambtenaar betaalde bedrag; en
 
@@ -140,15 +152,15 @@ In deze regeling wordt verstaan onder:
 
 2. Het bevoegd gezag controleert voorafgaand aan de verwerking van de keuze, bedoeld in het eerste lid, of de hoogte van het aan te wenden IKB-bedrag overeenkomt met het betaalde bedrag op het bewijsstuk, bedoeld in het eerste lid.
 
-3. Indien om een voorschot als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050519&artikel=5&z=2025-05-13&g=2025-05-13), wordt gevraagd, controleert het bevoegd gezag in aanvulling op het tweede lid of de besteding voldoet aan [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050519&artikel=4&z=2025-05-13&g=2025-05-13).
+3. Indien om een voorschot als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050519&artikel=5&z=2026-10-08&g=2026-10-08), wordt gevraagd, controleert het bevoegd gezag in aanvulling op het tweede lid of de besteding voldoet aan [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050519&artikel=4&z=2026-10-08&g=2026-10-08).
 
-4. De ambtenaar hoeft bij de keuze voor doelen genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050519&artikel=4&z=2025-05-13&g=2025-05-13), waarvoor niet om een voorschot is gevraagd, alleen desgevraagd binnen vier maanden na de gemaakte keuze te bewijzen dat het bestede bedrag ten minste overeenkomt met het aangewende bedrag vanuit het IKB-netto en dat is voldaan aan artikel 4.
+4. De ambtenaar hoeft bij de keuze voor doelen genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050519&artikel=4&z=2026-10-08&g=2026-10-08), waarvoor niet om een voorschot is gevraagd, alleen desgevraagd binnen vier maanden na de gemaakte keuze te bewijzen dat het bestede bedrag ten minste overeenkomt met het aangewende bedrag vanuit het IKB-netto en dat is voldaan aan artikel 4.
 
 ##### Artikel 7. Fiscale gevolgen IKB
 
 1. Als blijkt dat een bedrag uit het IKB niet belastingvrij betaald had mogen worden doordat de ambtenaar onjuiste of onvolledige gegevens heeft verstrekt, danwel als een bewijs van betaling niet meer aangeleverd kan worden, verhaalt het bevoegd gezag de verschuldigde loonheffing of eventuele boetes op de ambtenaar.
 
-2. Als een belastingvrij voordeel als bedoeld in [artikel 3, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050519&artikel=3&z=2025-05-13&g=2025-05-13), voor de ambtenaar vervalt door wijziging van fiscale wet­ en regelgeving dan compenseert het bevoegd gezag dat niet.
+2. Als een belastingvrij voordeel als bedoeld in [artikel 3, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050519&artikel=3&z=2026-10-08&g=2026-10-08), voor de ambtenaar vervalt door wijziging van fiscale wet­ en regelgeving dan compenseert het bevoegd gezag dat niet.
 
 ##### Artikel 8. Overgangsbepaling
 
@@ -160,17 +172,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 9. Overgangsbepaling in verband met de opgebouwde vakantie- en eindejaarsuitkering in 2024
 
-1. In december 2024 wordt de tot dan toe opgebouwde vakantie-uitkering, bedoeld in [artikel 23 van het Bbp](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=23), en de tot dan toe opgebouwde eindejaarsuitkering, bedoeld in [artikel 25b, van het Bbp](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=25b), aan de ambtenaar uitbetaald.
-
-2. Voor de ambtenaar die een inkomensafhankelijke toeslag ontvangt en die tussen 4 en 29 november 2024 bij het bevoegd gezag aangeeft de opgebouwde uitkeringen, bedoeld in het eerste lid, om te willen zetten in vakantie-uren worden deze niet uitbetaald maar omgezet in vakantie-uren, op te nemen vanaf het kalenderjaar 2026.
-
-3. Voor het vaststellen van het aantal vakantie-uren wordt uitgegaan van het salaris per uur van de maand december 2024.
-
-4. De vakantie-uren worden in het eerste kwartaal van 2026 toegevoegd aan de verlofkaart van de ambtenaar.
-
-5. De [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=22), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=23), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=25) en [26 van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=26) zijn van toepassing op deze vakantie-uren met dien verstande dat voor het ontstaan van een aanspraak op deze uren per ingang van 1 januari 2026 geldt.
-
-6. Indien de ambtenaar voor 1 januari 2026 uit dienst gaat, worden de hierboven benoemde vakantie-uren op grond van [artikel 26 van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=26) aan hem uitbetaald.
+*Vervallen*
 
 ##### Artikel 10. Citeertitel
 
@@ -178,4 +180,4 @@ Deze regeling wordt aangehaald als: Regeling IKB politie.
 
 ##### Artikel 11. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2025, met dien verstande dat [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0050519&artikel=9&z=2025-05-13&g=2025-05-13) terugwerkt tot en met 1 november 2024.
+Deze regeling treedt in werking met ingang van 1 januari 2025, met dien verstande dat [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0050519&artikel=9&z=2026-10-08&g=2026-10-08) terugwerkt tot en met 1 november 2024.

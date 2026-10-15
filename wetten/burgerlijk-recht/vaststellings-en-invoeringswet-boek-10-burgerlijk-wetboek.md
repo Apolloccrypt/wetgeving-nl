@@ -9,7 +9,7 @@ laatste_update: 2012-01-01
 status: geldig
 toestand: 2012-01-01
 bron: "https://wetten.overheid.nl/BWBR0030059"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Wet van 19 mei 2011 tot vaststelling en invoering van Boek 10 (Internationaal privaatrecht) van het Burgerlijk Wetboek (Vaststellings- en Invoeringswet Boek 10 Burgerlijk Wetboek)

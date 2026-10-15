@@ -9,7 +9,7 @@ laatste_update: 2024-01-06
 status: geldig
 toestand: 2024-01-06
 bron: "https://wetten.overheid.nl/BWBR0030188"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport, nr. DMO-OHW-U-3065710, houdende regels omtrent de bekostiging van de uitvoering van de taken van de Pensioen- en Uitkeringsraad en de Sociale verzekeringsbank, genoemd inde Wet uitvoering wetten voor verzetsdeelnemers en oorlogsgetroffenen (Bekostigingsregeling Wuvo)

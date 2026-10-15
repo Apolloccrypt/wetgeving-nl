@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0030708"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van het College voor examens van 19 april 2011, nr. Cve-11.00404, houdende vaststelling van de syllabi voor de centrale examens in het v.w.o. h.a.v.o. en v.m.b.o. 2013 en nadere vaststelling syllabi voor de centrale examens in het v.w.o. en v.m.b.o. 2012, tevens preliminaire vaststelling van de syllabus voor het centraal examen aardrijkskunde v.m.b.o. 2015 (Regeling syllabi centrale examens VO 2013 en nadere vaststelling 2012)

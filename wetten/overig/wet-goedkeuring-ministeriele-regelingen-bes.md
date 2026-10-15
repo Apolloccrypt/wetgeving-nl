@@ -9,7 +9,7 @@ laatste_update: 2011-07-16
 status: geldig
 toestand: 2011-07-16
 bron: "https://wetten.overheid.nl/BWBR0030263"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Wet van 30 juni 2011 tot goedkeuring van ministeriële regelingen tot aanpassing van wetten van Nederlands-Antilliaanse oorsprong voor de openbare lichamen Bonaire, Sint Eustatius en Saba (Wet goedkeuring ministeriële regelingen BES)

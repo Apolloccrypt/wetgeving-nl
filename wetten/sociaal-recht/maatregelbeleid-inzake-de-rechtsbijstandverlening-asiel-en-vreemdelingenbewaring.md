@@ -8,7 +8,7 @@ laatste_update: 2011-07-01
 status: geldig
 toestand: 2011-07-01
 bron: "https://wetten.overheid.nl/BWBR0030200"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Maatregelbeleid inzake de rechtsbijstandverlening asiel en vreemdelingenbewaring

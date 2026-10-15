@@ -9,7 +9,7 @@ laatste_update: 2011-11-02
 status: geldig
 toestand: 2011-11-02
 bron: "https://wetten.overheid.nl/BWBR0030583"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de minister van Binnenlandse Zaken en Koninkrijksrelaties van 5 oktober 2011, nr. 2011-2000437355, houdende voorschriften inzake het beoordelen van ambtenaren BES (Regeling beoordeling ambtenaren BES)

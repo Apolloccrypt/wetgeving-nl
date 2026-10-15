@@ -9,7 +9,7 @@ laatste_update: 2024-01-16
 status: geldig
 toestand: 2024-01-16
 bron: "https://wetten.overheid.nl/BWBR0029765"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 18 maart 2011, nr. DJZ/BR/0204-011, houdende beperkende maatregelen tegen bepaalde personen en entiteiten in verband met de situatie in Tunesië (Sanctieregeling Tunesië 2011)

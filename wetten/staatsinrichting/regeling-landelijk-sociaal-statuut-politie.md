@@ -9,7 +9,7 @@ laatste_update: 2025-04-01
 status: geldig
 toestand: 2025-04-01
 bron: "https://wetten.overheid.nl/BWBR0029961"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 21 april 2011, nr. DGV/DPV/P&M 2011-2000113644, houdende de vaststelling van een landelijk sociaal statuut politie (Regeling landelijk sociaal statuut)

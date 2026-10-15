@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0030847"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Wet van 15 december 2011 tot wijziging van de Algemene wet inkomensafhankelijke regelingen en Overige fiscale maatregelen 2009 in verband met de dwangsomregeling van de Algemene wet bestuursrecht (Wet toepassing dwangsomregeling toeslagen)

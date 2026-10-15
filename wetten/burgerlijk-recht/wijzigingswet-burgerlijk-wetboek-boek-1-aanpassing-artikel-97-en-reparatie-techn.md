@@ -9,7 +9,7 @@ laatste_update: 2012-01-01
 status: geldig
 toestand: 2012-01-01
 bron: "https://wetten.overheid.nl/BWBR0030603"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Wet van 27 oktober 2011 tot wijziging van Boek 1 van het Burgerlijk Wetboek tot aanpassing van artikel 97 en reparatie van enkele technische onvolkomenheden die zijn opgetreden bij de totstandkoming van de Wet aanpassing wettelijke gemeenschap van goederen

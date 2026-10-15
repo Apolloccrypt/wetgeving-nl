@@ -9,7 +9,7 @@ laatste_update: 2014-04-01
 status: geldig
 toestand: 2014-04-01
 bron: "https://wetten.overheid.nl/BWBR0030318"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport, nr. MC-U- 3072825, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake transitiemodel prestatiebekostiging medisch specialistische zorg 2012

@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0030478"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Beleidsregels van de Minister van Volksgezondheid, Welzijn en Sport van 20 september 2011, nr. CZ-3082275, ter uitvoering van artikel 6, derde lid, van de Tijdelijke wet ambulancevoorziening

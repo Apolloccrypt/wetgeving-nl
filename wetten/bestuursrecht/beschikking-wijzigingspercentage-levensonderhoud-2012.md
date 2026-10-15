@@ -9,7 +9,7 @@ laatste_update: 2011-12-01
 status: geldig
 toestand: 2011-12-01
 bron: "https://wetten.overheid.nl/BWBR0030558"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Beschikking van de Staatssecretaris van Veiligheid en Justitie van 21 oktober 2011, nr. 5712808/11/6, tot vaststelling van het percentage waarmee de bedragen voor levensonderhoud met ingang van 1 januari 2012 worden verhoogd (Beschikking wijzigingspercentage levensonderhoud 2012)

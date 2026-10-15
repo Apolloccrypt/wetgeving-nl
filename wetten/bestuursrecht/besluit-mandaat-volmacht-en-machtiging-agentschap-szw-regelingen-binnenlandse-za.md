@@ -9,7 +9,7 @@ laatste_update: 2011-11-03
 status: geldig
 toestand: 2011-11-03
 bron: "https://wetten.overheid.nl/BWBR0030581"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelatie van 20 oktober 2011, nr. 2011056228, houdende verlening van mandaat, volmacht en machtiging aan de directeur van het Agentschap SZW ter uitvoering van een aantal regelingen op het terrein van inburgering (Besluit mandaat, volmacht en machtiging Agentschap SZW Regelingen Binnenlandse Zaken en Koninkrijksrelaties)

@@ -8,7 +8,7 @@ laatste_update: 2011-08-21
 status: geldig
 toestand: 2011-08-21
 bron: "https://wetten.overheid.nl/BWBR0030353"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit vaststelling selectielijst VWS voor Algemene wetenschappelijke voorbereiding regeringsbeleid 1945–

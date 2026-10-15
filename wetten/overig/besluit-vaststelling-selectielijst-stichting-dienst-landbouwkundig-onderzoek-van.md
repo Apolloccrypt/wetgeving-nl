@@ -8,7 +8,7 @@ laatste_update: 2011-05-28
 status: geldig
 toestand: 2011-05-28
 bron: "https://wetten.overheid.nl/BWBR0030005"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit vaststelling selectielijst Stichting Dienst Landbouwkundig Onderzoek vanaf 1999

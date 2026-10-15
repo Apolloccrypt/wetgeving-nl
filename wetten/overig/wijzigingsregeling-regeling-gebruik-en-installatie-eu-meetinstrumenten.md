@@ -9,7 +9,7 @@ laatste_update: 2011-10-15
 status: geldig
 toestand: 2011-10-15
 bron: "https://wetten.overheid.nl/BWBR0030528"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 10 oktober 2011, nr. WJZ/10187546, houdende wijziging van de Regeling gebruik en installatie EU-meetinstrumenten en het verbod tot het in de handel brengen van taxameters met een enkeltariefsysteem

@@ -9,7 +9,7 @@ laatste_update: 2011-09-11
 status: geldig
 toestand: 2011-09-11
 bron: "https://wetten.overheid.nl/BWBR0030466"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw van 11 november 2008 houdende de vaststelling van een heffing over de teelt van eetbare paddenstoelen en op uitgangsmateriaal van groenten, voor het jaar 2009 (Verordening PT heffing eetbare paddenstoelen en uitgangsmateriaal van groenen 2009)

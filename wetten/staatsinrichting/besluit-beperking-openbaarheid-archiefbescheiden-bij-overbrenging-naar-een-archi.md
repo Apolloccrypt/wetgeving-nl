@@ -9,7 +9,7 @@ laatste_update: 2011-12-17
 status: geldig
 toestand: 2011-12-17
 bron: "https://wetten.overheid.nl/BWBR0030809"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van 10 november 2011, CDC/IVENT/DCDI/SSA nr. 2011025182 van het Ministerie van Defensie houdende de beperking aan de openbaarheid van archiefbescheiden van de collectie Nederlandse militaire deelname aan de vredesoperaties UNIFIL, MFO en UNTAG van het Ministerie van Defensie, (1968) 1979–1990, bij overbrenging naar een archiefbewaarplaats

@@ -9,7 +9,7 @@ laatste_update: 2011-05-16
 status: geldig
 toestand: 2011-05-16
 bron: "https://wetten.overheid.nl/BWBR0030081"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de minister van Binnenlandse Zaken en Koninkrijksrelaties van 24 mei 2011, nr. 2011-2000111221, houdende vaststelling van een regeling voor de overname van studieschuld (Regeling overname studieschuld BES)

@@ -9,7 +9,7 @@ laatste_update: 2026-06-20
 status: geldig
 toestand: 2026-06-20
 bron: "https://wetten.overheid.nl/BWBR0029916"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu van 20 april 2011, nr. BJZ2011043268, houdende nadere regels betreffende de kwaliteit en het zwavelgehalte van brandstoffen (Regeling brandstoffen luchtverontreiniging)

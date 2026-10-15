@@ -9,7 +9,7 @@ laatste_update: 2011-12-10
 status: geldig
 toestand: 2011-12-10
 bron: "https://wetten.overheid.nl/BWBR0030744"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Wet van 1 december 2011 tot wijziging van de Wet op de vennootschapsbelasting 1969 in verband met de invoering van een tussenregeling voor valutaresultaten op deelnemingen (Tussenregeling valutaresultaten op deelnemingen)

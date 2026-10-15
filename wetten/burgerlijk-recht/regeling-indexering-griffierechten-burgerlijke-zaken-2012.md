@@ -9,7 +9,7 @@ laatste_update: 2012-01-01
 status: geldig
 toestand: 2012-01-01
 bron: "https://wetten.overheid.nl/BWBR0030765"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 5 december 2011, nr. 5718095/11, houdende indexering van de griffierechten van de Wet griffierechten burgerlijke zaken (Regeling indexering griffierechten burgerlijke zaken 2012)

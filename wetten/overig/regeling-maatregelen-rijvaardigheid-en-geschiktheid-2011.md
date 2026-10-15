@@ -9,7 +9,7 @@ laatste_update: 2023-04-01
 status: geldig
 toestand: 2023-04-01
 bron: "https://wetten.overheid.nl/BWBR0030613"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu, van 31 oktober 2011, nr. IENM/BSK-IENM/BSK-2011/145875, houdende vaststelling van de Regeling maatregelen rijvaardigheid en geschiktheid 2011

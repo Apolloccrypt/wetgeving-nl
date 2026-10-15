@@ -9,7 +9,7 @@ laatste_update: 2011-05-25
 status: geldig
 toestand: 2011-05-25
 bron: "https://wetten.overheid.nl/BWBR0030000"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Wet van 19 mei 2011 tot wijziging van Boek 7 van het Burgerlijk Wetboek, de Wet op het financieel toezicht en enige andere wetten ter implementatie van richtlijn nr. 2008/48/EG van het Europees Parlement en de Raad van de Europese Unie van 23 april 2008 inzake kredietovereenkomsten voor consumenten en tot intrekking van Richtlijn 87/102/EEG van de Raad (PbEU L 133/66)

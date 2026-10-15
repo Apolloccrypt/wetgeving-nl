@@ -9,7 +9,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0029963"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Wet van 16 december 2010 tot wijziging van de Spoorwegwet, de Wet personenvervoer 2000 en de Wet op de economische delicten ter implementatie van de richtlijnen 2007/58/EG, 2007/59/EG, 2008/57/EG en 2008/110/EG

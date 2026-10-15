@@ -9,7 +9,7 @@ laatste_update: 2011-09-15
 status: geldig
 toestand: 2011-09-15
 bron: "https://wetten.overheid.nl/BWBR0030426"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Onderlinge regeling inzake toedeling bijzondere AOV-categorie opvolging Sociale Verzekeringsbank Nederlandse Antillen

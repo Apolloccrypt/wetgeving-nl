@@ -9,7 +9,7 @@ laatste_update: 2011-06-04
 status: geldig
 toestand: 2011-06-04
 bron: "https://wetten.overheid.nl/BWBR0030036"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 28 april 2011, houdende wijziging van de Kledingregeling voor de politie in verband met nadere regels over de reiniging van kleding

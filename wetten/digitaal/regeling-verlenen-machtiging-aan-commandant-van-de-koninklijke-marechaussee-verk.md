@@ -9,7 +9,7 @@ laatste_update: 2011-11-08
 status: geldig
 toestand: 2011-11-08
 bron: "https://wetten.overheid.nl/BWBR0030602"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Minister voor Immigratie en Asiel van 26 oktober 2011, nr. IDMI-UIT-2011-0139, houdende het verlenen van machtiging aan de Commandant van de Koninklijke Marechaussee betreffende het verkrijgen en verwerken van justitiële gegevens ten behoeve van advisering over deelname aan programma’s voor geautomatiseerde grenspassage

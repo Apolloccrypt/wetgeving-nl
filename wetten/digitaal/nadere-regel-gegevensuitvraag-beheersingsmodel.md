@@ -8,7 +8,7 @@ laatste_update: 2011-04-05
 status: geldig
 toestand: 2011-04-05
 bron: "https://wetten.overheid.nl/BWBR0029803"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Nadere regel Gegevensuitvraag beheersingsmodel

@@ -9,7 +9,7 @@ laatste_update: 2011-05-27
 status: geldig
 toestand: 2011-05-27
 bron: "https://wetten.overheid.nl/BWBR0030001"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van de Minister van Economische Zaken, Landbouw en Innovatie van 23 mei 2011, nr. ETM/IT/11058467, houdende wijziging van het Nationaal Frequentieplan 2005 [3,5 GHz-band]

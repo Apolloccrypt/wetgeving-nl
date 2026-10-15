@@ -9,7 +9,7 @@ laatste_update: 2016-12-17
 status: geldig
 toestand: 2016-12-17
 bron: "https://wetten.overheid.nl/BWBR0029752"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 17 maart 2011, nr. WJZ / 11039880, houdende regels met betrekking tot het eenmalig bedrag verschuldigd door verkrijgers of houders van een vergunning voor het gebruik van frequentieruimte bestemd voor landelijke commerciële radio-omroep (Regeling vaststelling eenmalig bedrag landelijke commerciële radio-omroep 2011)

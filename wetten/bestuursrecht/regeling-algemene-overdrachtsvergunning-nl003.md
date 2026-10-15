@@ -9,7 +9,7 @@ laatste_update: 2021-07-31
 status: geldig
 toestand: 2021-07-31
 bron: "https://wetten.overheid.nl/BWBR0030608"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken, Landbouw en Innovatie van 28 oktober 2011, nr. WJZ/11138610, houdende regels inzake de algemene overdrachtsvergunning NL 003 voor leveringen aan strijdkrachten (Regeling algemene overdrachtsvergunning NL003)

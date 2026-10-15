@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0030885"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Wet van 1 december 2011 tot wijziging van het Wetboek van Strafvordering, het Wetboek van Strafrecht en enige andere wetten tot versterking van de positie van de rechter-commissaris (Wet versterking positie rechter-commissaris)

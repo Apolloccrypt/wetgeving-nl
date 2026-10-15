@@ -8,7 +8,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0030074"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Uitvoeringsvoorschriften artikel 2.4 BRN

@@ -8,7 +8,7 @@ laatste_update: 2011-08-18
 status: geldig
 toestand: 2011-08-18
 bron: "https://wetten.overheid.nl/BWBR0030356"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit instelling Commissie integriteit publieke functionarissen en functioneren overheidsinstituties in Curaçao

@@ -9,7 +9,7 @@ laatste_update: 2012-01-01
 status: geldig
 toestand: 2012-01-01
 bron: "https://wetten.overheid.nl/BWBR0030481"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 27 september 2011, nr. DDS 5711509, tot het verlenen van mandaat, volmacht en machtiging ter uitvoering van de Regeling tegemoetkoming adoptiekosten

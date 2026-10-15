@@ -9,7 +9,7 @@ laatste_update: 2014-10-15
 status: geldig
 toestand: 2014-10-15
 bron: "https://wetten.overheid.nl/BWBR0030799"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Staatssecretaris van Veiligheid en Justitie van 2 december 2011, nr. 194986, houdende vaststelling van de maximumbedragen voor de uitkeringen op grond van de Wet schadefonds geweldsmisdrijven (Regeling maximumbedragen uitkeringen schadefonds geweldsmisdrijven)

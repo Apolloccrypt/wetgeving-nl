@@ -9,7 +9,7 @@ laatste_update: 2011-09-06
 status: geldig
 toestand: 2011-09-06
 bron: "https://wetten.overheid.nl/BWBR0030393"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport, van 30 augustus 2011, MC-U-3078388, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake tarief- en budgetkorting curatieve geestelijke gezondheidszorg

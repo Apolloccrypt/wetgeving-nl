@@ -9,7 +9,7 @@ laatste_update: 2025-04-01
 status: geldig
 toestand: 2025-04-01
 bron: "https://wetten.overheid.nl/BWBR0030266"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Staatssecretaris van Veiligheid en Justitie van 6 juli 2011, nr. 5699818/11/DJI, houdende vaststelling van een model voor huisregels voor een justitiële jeugdinrichting (Regeling model huisregels justitiële jeugdinrichtingen)

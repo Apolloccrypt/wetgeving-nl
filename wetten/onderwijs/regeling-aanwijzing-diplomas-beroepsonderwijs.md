@@ -9,7 +9,7 @@ laatste_update: 2021-08-01
 status: geldig
 toestand: 2021-08-01
 bron: "https://wetten.overheid.nl/BWBR0030261"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 5 juli 2011, nr. 305227 (4904) houdende aanwijzing van diploma’s van de voormalige Nederlandse Antillen die de bezitter van die diploma’s toelaatbaar maken tot beroepsopleidingen (Regeling aanwijzing diploma’s BES)

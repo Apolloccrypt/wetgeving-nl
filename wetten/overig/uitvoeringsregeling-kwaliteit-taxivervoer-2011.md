@@ -9,7 +9,7 @@ laatste_update: 2011-10-01
 status: geldig
 toestand: 2011-10-01
 bron: "https://wetten.overheid.nl/BWBR0030479"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling houdende uitvoeringbepalingen inzake de kwaliteit in het taxivoer (Uitvoeringsregeling kwaliteit taxivervoer 2011)

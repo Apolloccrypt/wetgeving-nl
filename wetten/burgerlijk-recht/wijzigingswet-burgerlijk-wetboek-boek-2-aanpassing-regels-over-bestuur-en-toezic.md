@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0030083"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Wet van 6 juni 2011 tot wijziging van boek 2 van het Burgerlijk Wetboek in verband met de aanpassing van regels over bestuur en toezicht in naamloze en besloten vennootschappen

@@ -8,7 +8,7 @@ laatste_update: 2011-11-23
 status: geldig
 toestand: 2011-11-23
 bron: "https://wetten.overheid.nl/BWBR0030666"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Inkomstenbelasting, loonheffingen, intrekking van beleidsbesluiten

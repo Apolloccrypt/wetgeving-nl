@@ -8,7 +8,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0029754"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Circulaire Werkkostenregeling Appa, vervallen gratificatie voorzitter en aanpassing procedure bij ziekte voorzitter

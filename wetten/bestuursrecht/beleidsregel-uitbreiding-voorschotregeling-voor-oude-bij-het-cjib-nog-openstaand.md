@@ -8,7 +8,7 @@ laatste_update: 2011-12-02
 status: geldig
 toestand: 2011-12-02
 bron: "https://wetten.overheid.nl/BWBR0030755"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Beleidsregel uitbreiding voorschotregeling voor oude bij het CJIB nog openstaande schadevergoedingsmaatregelen

@@ -9,7 +9,7 @@ laatste_update: 2011-11-01
 status: geldig
 toestand: 2011-11-01
 bron: "https://wetten.overheid.nl/BWBR0030397"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van 23 augustus 2011, houdende wijziging van het Rijksbesluit rechtspositie Gouverneur van Curaçao en Gouverneur van Sint Maarten in verband met het uniformeren van de rechtsposities van de Gouverneurs

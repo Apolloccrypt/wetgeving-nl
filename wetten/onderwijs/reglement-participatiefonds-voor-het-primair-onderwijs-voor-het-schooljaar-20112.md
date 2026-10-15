@@ -8,7 +8,7 @@ laatste_update: 2012-02-01
 status: geldig
 toestand: 2012-02-01
 bron: "https://wetten.overheid.nl/BWBR0030147"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Reglement Participatiefonds voor het Primair Onderwijs voor het schooljaar 2011–2012

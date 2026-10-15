@@ -8,7 +8,7 @@ laatste_update: 2012-04-24
 status: geldig
 toestand: 2012-04-24
 bron: "https://wetten.overheid.nl/BWBR0030717"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Instellingsbesluit commissie van onderzoek Centraal Orgaan opvang asielzoekers

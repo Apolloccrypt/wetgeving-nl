@@ -9,7 +9,7 @@ laatste_update: 2011-11-01
 status: geldig
 toestand: 2011-11-01
 bron: "https://wetten.overheid.nl/BWBR0030579"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport, van 19 oktober 2011, nr. VGP/3085423, houdende goedkeuring van de Code voor de hygiënische productie en verpakking van kristalsuiker, versie augustus 2011

@@ -9,7 +9,7 @@ laatste_update: 2011-11-16
 status: geldig
 toestand: 2011-11-16
 bron: "https://wetten.overheid.nl/BWBR0030640"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van d.d. 7 november 2011, nr. BV/DCA/2011/18957, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden uit het archief van de Directie Arbeidsverhoudingen over de periode 1995–2001

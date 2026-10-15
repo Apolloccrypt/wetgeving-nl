@@ -9,7 +9,7 @@ laatste_update: 2012-12-30
 status: geldig
 toestand: 2012-12-30
 bron: "https://wetten.overheid.nl/BWBR0030441"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw van 19 mei 2011 houdende de vaststelling van een aan exporteurs van bloembollen op te leggen heffing voor de export van bloembollen naar Japan, voor het oogstjaar 2011 (Verordening PT heffing export bloembollen naar Japan oogstjaar 2011)

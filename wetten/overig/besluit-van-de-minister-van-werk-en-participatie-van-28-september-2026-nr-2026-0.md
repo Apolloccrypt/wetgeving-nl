@@ -9,7 +9,7 @@ laatste_update: 2026-10-07
 status: geldig
 toestand: 2026-10-07
 bron: "https://wetten.overheid.nl/BWBR0053169"
-opgehaald: 2026-10-14
+opgehaald: 2026-10-15
 ---
 
 # Besluit van de Minister van Werk en Participatie van 28 september 2026, nr. 2026-0000355686, houdende vaststelling van de Beleidsregel gelijkstelling beroepsopleiding gastouders 2026

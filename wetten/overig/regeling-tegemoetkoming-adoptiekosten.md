@@ -9,7 +9,7 @@ laatste_update: 2015-01-16
 status: geldig
 toestand: 2015-01-16
 bron: "https://wetten.overheid.nl/BWBR0030483"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Staatssecretaris van Veiligheid en Justitie van 27 september 2011, nr. DDS 5705907, houdende regels op grond waarvan adoptiefouders een tegemoetkoming kan worden verleend in de gemaakte kosten met betrekking tot interlandelijke adoptie (Regeling tegemoetkoming adoptiekosten)

@@ -9,7 +9,7 @@ laatste_update: 2018-11-10
 status: geldig
 toestand: 2018-11-10
 bron: "https://wetten.overheid.nl/BWBR0029903"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit mandaat certificering binnenvaartschepen

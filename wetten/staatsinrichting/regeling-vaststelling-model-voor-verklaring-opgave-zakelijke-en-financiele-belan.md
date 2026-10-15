@@ -9,7 +9,7 @@ laatste_update: 2011-04-27
 status: geldig
 toestand: 2011-04-27
 bron: "https://wetten.overheid.nl/BWBR0029907"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de minister van Binnenlandse Zaken en Koninkrijksrelaties van 13 april 2011, nr. CZW/WBI, 2011-2000120991, tot vaststelling van het model voor de verklaring voor de opgave van zakelijke en financiële belangen van een eilandgedeputeerde en een gezaghebber van de openbare lichamen Bonaire, Sint Eustatius en Saba

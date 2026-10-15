@@ -9,7 +9,7 @@ laatste_update: 2011-09-14
 status: geldig
 toestand: 2011-09-14
 bron: "https://wetten.overheid.nl/BWBR0030424"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit nr. DBV / 11066447 van de Minister van Economische Zaken, Landbouw en Innovatie houdende beperking van de openbaarheid van het archief van de Directie Interne Zaken en diens taakvoorgangers van het Ministerie van Economische Zaken over de periode 1951–1997 (2002)

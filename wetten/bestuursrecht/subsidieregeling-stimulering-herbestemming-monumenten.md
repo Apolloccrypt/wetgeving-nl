@@ -9,7 +9,7 @@ laatste_update: 2024-07-31
 status: geldig
 toestand: 2024-07-31
 bron: "https://wetten.overheid.nl/BWBR0030544"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 12 oktober 2011, nr. WJZ/337681 (8299), houdende voorschriften betreffende de verstrekking van subsidie in 2011 en volgende jaren voor de instelling van een haalbaarheidsonderzoek voor de herbestemming van monumenten en voor het treffen van tijdelijke maatregelen ter voorkoming van het verval van monumenten (Subsidieregeling stimulering herbestemming monumenten)

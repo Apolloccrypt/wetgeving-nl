@@ -9,7 +9,7 @@ laatste_update: 2011-11-01
 status: geldig
 toestand: 2011-11-01
 bron: "https://wetten.overheid.nl/BWBR0030575"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Milieu van 24 oktober 2011, nr. DP2011055738, ter vaststelling van de gewogen gemiddelde vermogenskostenvoet, bedoeld in artikel 10, derde lid, van de Drinkwaterwet, voor 2012 en 2013

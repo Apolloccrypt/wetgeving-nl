@@ -9,7 +9,7 @@ laatste_update: 2012-01-01
 status: geldig
 toestand: 2012-01-01
 bron: "https://wetten.overheid.nl/BWBR0030599"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Regeling van de Minister van Financiën tot wijziging van de Vrijstellingsregeling Wft in verband met een aanpassing van de vrijstellingsbepalingen betreffende het aanbieden van beleggingsobjecten en het aanbieden van rechten van deelneming in een beleggingsinstelling

@@ -9,7 +9,7 @@ laatste_update: 2024-12-19
 status: geldig
 toestand: 2024-12-19
 bron: "https://wetten.overheid.nl/BWBR0030545"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-15
 ---
 
 # Wet van 29 september 2011, houdende regels inzake de controle op diensten die betrekking hebben op strategische goederen (Wet strategische diensten)
