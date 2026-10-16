@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0031331"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wet van 9 februari 2012 tot het geven aan gemeenten van de verantwoordelijkheid voor schuldhulpverlening (Wet gemeentelijke schuldhulpverlening)

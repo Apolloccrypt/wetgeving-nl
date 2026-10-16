@@ -9,7 +9,7 @@ laatste_update: 2026-03-27
 status: geldig
 toestand: 2026-03-27
 bron: "https://wetten.overheid.nl/BWBR0031560"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 4 mei 2012, houdende regels voor de scheepvaart over meldingsformaliteiten en over de verwerking van de ontvangen gegevens door organisaties en personen die niet aan het scheepvaartverkeer deelnemen (Besluit meldingsformaliteiten en gegevensverwerkingen scheepvaart)

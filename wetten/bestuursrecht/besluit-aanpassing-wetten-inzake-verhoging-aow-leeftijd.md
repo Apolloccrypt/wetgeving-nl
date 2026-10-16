@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0031888"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 2 augustus 2012 tot wijziging van een aantal wetten in verband met de verhoging van de leeftijd waarop op grond van de Algemene Ouderdomswet recht op ouderdomspensioen ontstaat (Besluit aanpassing wetten inzake verhoging AOW-leeftijd)

@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0031971"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 24 augustus 2012, houdende aanwijzing van de vormen van zorg die in aanmerking kunnen komen voor een beschikbaarheidbijdrage op grond van de Wet marktordening gezondheidszorg en enkele wijzigingen in het Besluit uitbreiding en beperking werkingssfeer WMG (Besluit beschikbaarheidbijdrage WMG)

@@ -9,7 +9,7 @@ laatste_update: 2012-07-01
 status: geldig
 toestand: 2012-07-01
 bron: "https://wetten.overheid.nl/BWBR0031679"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wet van 24 november 2011 tot vaststelling van overgangsrecht en wijziging van diverse wetten ten behoeve van de invoering van de wet van 24 november 2011 tot wijziging van de Wet milieubeheer in verband met de invoering van de geluidproductieplafonds en de overheveling van hoofdstuk IX van de Wet geluidhinder naar de Wet milieubeheer (modernisering instrumentarium geluidbeleid, geluidproductieplafonds) (Invoeringswet geluidproductieplafonds)

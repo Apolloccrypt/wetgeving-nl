@@ -9,7 +9,7 @@ laatste_update: 2018-02-09
 status: geldig
 toestand: 2018-02-09
 bron: "https://wetten.overheid.nl/BWBR0031379"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van de Minister van Infrastructuur en Milieu, van 13 maart 2012, nr. IENM/BSK-2011/166751, houdende de instelling van de Begeleidingscommissie voor het Planbureau voor de Leefomgeving

@@ -9,7 +9,7 @@ laatste_update: 2015-12-17
 status: geldig
 toestand: 2015-12-17
 bron: "https://wetten.overheid.nl/BWBR0031306"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wet van 2 februari 2012, houdende wijziging van de Wet medisch-wetenschappelijk onderzoek met mensen in verband met de evaluatie van deze wet en herstel van onvolledige implementatie van richtlijn nr. 2001/20/EG

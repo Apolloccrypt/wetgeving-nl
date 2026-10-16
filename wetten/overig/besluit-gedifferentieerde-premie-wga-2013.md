@@ -8,7 +8,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0031949"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit gedifferentieerde premie WGA 2013

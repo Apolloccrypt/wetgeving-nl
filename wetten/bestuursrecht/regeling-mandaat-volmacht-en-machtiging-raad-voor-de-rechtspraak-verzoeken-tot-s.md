@@ -9,7 +9,7 @@ laatste_update: 2014-10-15
 status: geldig
 toestand: 2014-10-15
 bron: "https://wetten.overheid.nl/BWBR0031203"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 26 januari 2012, nr. 5723477/12, houdende verlening van mandaat, volmacht en machtiging aan de Raad voor de rechtspraak inzake verzoeken tot schadevergoeding verband houdend met de rechtspraak waarvoor de Staat aansprakelijk kan worden gehouden

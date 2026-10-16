@@ -8,7 +8,7 @@ laatste_update: 2012-10-28
 status: geldig
 toestand: 2012-10-28
 bron: "https://wetten.overheid.nl/BWBR0032138"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit vaststelling selectielijst Nederlandse Orde van Advocaten en Raden van Toezicht van Orde van Advocaten in de Arrondissementen over de periode vanaf 1952

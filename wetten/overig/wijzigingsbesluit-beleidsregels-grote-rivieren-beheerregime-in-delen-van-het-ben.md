@@ -9,7 +9,7 @@ laatste_update: 2012-10-01
 status: geldig
 toestand: 2012-10-01
 bron: "https://wetten.overheid.nl/BWBR0031803"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Milieu, van 10 juli 2012, nr. IENM/BSK-2012/129764, tot wijziging van de Beleidsregels grote rivieren (wijziging beheerregime in delen van het benedenriviergebied en kaartbladen bijlage 1)

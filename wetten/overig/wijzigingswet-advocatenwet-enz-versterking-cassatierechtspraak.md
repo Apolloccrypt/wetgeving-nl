@@ -9,7 +9,7 @@ laatste_update: 2012-07-01
 status: geldig
 toestand: 2012-07-01
 bron: "https://wetten.overheid.nl/BWBR0031378"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wet van 15 maart 2012 tot wijziging van de Advocatenwet, de Wet op de rechterlijke organisatie en enige andere wetten ter versterking van de cassatierechtspraak (versterking cassatierechtspraak)

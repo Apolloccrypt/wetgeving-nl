@@ -9,7 +9,7 @@ laatste_update: 2023-03-16
 status: geldig
 toestand: 2023-03-16
 bron: "https://wetten.overheid.nl/BWBR0031801"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 3 juli 2012, nr. WJZ/390448(10167), houdende nadere voorschriften voor de inrichting van de jaarverslaggeving van de bekostigde onderwijsinstellingen in Caribisch Nederland (Regeling jaarverslaggeving onderwijs BES)

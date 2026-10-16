@@ -9,7 +9,7 @@ laatste_update: 2013-07-01
 status: geldig
 toestand: 2013-07-01
 bron: "https://wetten.overheid.nl/BWBR0032031"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wet van 13 september 2012 tot wijziging van de Wet inburgering en enkele andere wetten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige

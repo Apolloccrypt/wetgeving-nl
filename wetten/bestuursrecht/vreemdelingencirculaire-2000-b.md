@@ -4,11 +4,11 @@ identifier: "BWBR0012289"
 categorie: "Overig"
 soort: "circulaire"
 publicatiedatum: 2019-03-14
-laatste_update: 2026-10-01
+laatste_update: 2026-10-10
 status: geldig
-toestand: 2026-10-01
+toestand: 2026-10-10
 bron: "https://wetten.overheid.nl/BWBR0012289"
-opgehaald: 2026-10-12
+opgehaald: 2026-10-16
 ---
 
 # Vreemdelingencirculaire 2000 (B)
@@ -5768,17 +5768,15 @@ Op grond van [artikel 3.58, eerste lid, aanhef en onder q, Vb](https://wetten.ov
 
 ### 6.1. Beleidsregels
 
-Op grond van [artikel 3.48 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.48) verleent de IND een verblijfsvergunning regulier voor bepaalde tijd op grond van het specifieke buitenschuldbeleid aan een niet-begeleide minderjarige als de vreemdeling voldoet aan alle volgende voorwaarden:
+Op grond van [artikel 3.48, tweede lid, aanhef en onder a, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.48) verleent de IND een verblijfsvergunning regulier voor bepaalde tijd op grond van het specifieke buitenschuldbeleid aan een niet-begeleide minderjarige als de vreemdeling voldoet aan alle volgende voorwaarden:
 
 - • de vreemdeling is alleenstaand;
 
-- • de vreemdeling is (nog) minderjarig;
-
-- • de vreemdeling is ten tijde van de eerste verblijfsaanvraag jonger dan vijftien jaar;
+- • de vreemdeling is (nog) minderjarig; en
 
 - • voor de vreemdeling is in het land van herkomst of een ander land waar hij redelijkerwijs naartoe kan gaan geen adequate opvang of het vertrek kan buiten de schuld van de vreemdeling niet plaatsvinden en hij heeft zich actief ingezet om zijn vertrek te realiseren.
 
-Ad 1. Alleenstaand
+### 6.1.1. De vreemdeling is alleenstaand
 
 De IND verleent de verblijfsvergunning niet aan de minderjarige vreemdeling in één van de volgende gevallen:
 
@@ -5792,37 +5790,43 @@ De IND verleent de verblijfsvergunning niet aan de minderjarige vreemdeling in �
 
 De IND beschouwt een minderjarige vreemdeling als alleenstaand, als zijn ouder(s) in de bovengenoemde situaties minderjarig is/zijn en niet zijn gehuwd.
 
-Ad 2. Minderjarigheid
+### 6.1.2. De vreemdeling is minderjarig
 
 De IND beoordeelt de minderjarigheid naar Nederlands recht op grond van [artikel 1:233 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=233).
 
-Als de IND twijfelt aan de leeftijd van de betrokken vreemdeling en deze zijn gestelde leeftijd niet met bescheiden kan aantonen, kan de IND de vreemdeling in de gelegenheid stellen een leeftijdsonderzoek te laten verrichten. Als een verricht leeftijdsonderzoek niet met voldoende zekerheid tot een conclusie over de minder- of meerderjarigheid leidt, kan de IND de vreemdeling binnen één à twee jaar opnieuw oproepen voor een leeftijdsonderzoek.
+### 6.1.3. Voor de minderjarige vreemdeling is in het land van herkomst of een ander land waar hij redelijkerwijs naartoe kan gaan geen adequate opvang of het vertrek kan buiten de schuld van de vreemdeling niet plaatsvinden en hij heeft zich actief ingezet om zijn vertrek te realiseren
 
-Ad 5. Adequate opvang
+De IND neemt aan dat de vreemdeling buiten zijn schuld niet uit Nederland kan vertrekken als aan alle volgende voorwaarden is voldaan:
 
-De IND verstaat onder adequate opvang in het land van herkomst: iedere opvang (ongeacht de vorm) waarvan de omstandigheden vergelijkbaar zijn met de omstandigheden waaronder opvang wordt geboden aan leeftijdsgenoten die zich in een gelijkwaardige positie als de vreemdeling bevinden.
+- • de vreemdeling heeft geloofwaardige verklaringen afgelegd over zijn identiteit, nationaliteit, ouders en andere familieleden;
 
-De IND neemt het bestaan van adequate opvang in ieder geval aan als sprake is van één van de volgende omstandigheden:
+- • uit de verklaringen van de vreemdeling komt naar voren dat er geen familieleden of andere personen zijn die adequate opvang kunnen bieden, naar wie de vreemdeling kan terugkeren;
 
-- a. in het betreffende land is een familielid tot in de vierde graad aanwezig;
+- • de vreemdeling heeft tijdens de procedure actief en volledig meegewerkt aan een onderzoek naar opvangmogelijkheden in het land van herkomst of een ander land waarnaar hij kan terugkeren. Zo heeft hij zich onder andere actief ingezet om contact te leggen met familie, andere personen of organisaties die kunnen helpen bij het vinden van adequate opvang;
 
-- b. uit feiten en omstandigheden komt naar voren dat een ander familielid dan in a. gesteld of een meerderjarige, niet zijnde een familielid, adequate opvang kan bieden;
+- • er is vastgesteld dat er geen sprake is van adequate opvang;
 
-- c. opvang in een (particuliere) opvanginstelling is voorhanden en de IND beschouwt deze opvang naar lokale omstandigheden als aanvaardbaar;
+- • in het geval de IND aan DTenV heeft gevraagd onderzoek te doen: de vreemdeling heeft actief en volledig meegewerkt om zijn vertrek te realiseren. Zo heeft hij zich actief ingezet om zijn eigen identiteit en nationaliteit aan te tonen, een (vervangend) reisdocument te verkrijgen (indien nodig) en contact te leggen met familie, andere personen of organisaties in het land van herkomst of een ander land waarnaar hij kan terugkeren; en
 
-- d. uit het landgebonden asielbeleid volgt dat de autoriteiten zorgdragen voor de opvang;
+- • de vreemdeling heeft geen andere lopende procedure in het kader van een aanvraag voor een verblijfsvergunning.
 
-- e. op grond van algemene informatie blijkt dat de algemene opvangvoorzieningen beschikbaar en toereikend zijn.
+### 6.2. Adequate opvang
 
-Ad a.
+De IND verstaat onder adequate opvang in het land van herkomst: iedere opvang (ongeacht de vorm) waarvan de omstandigheden vergelijkbaar zijn met de omstandigheden waaronder opvang wordt geboden aan leeftijdsgenoten die zich in een gelijkwaardige positie als de vreemdeling bevinden. Bij het zoeken naar een vorm van opvang die voor een niet-begeleide minderjarige als adequaat mag worden beschouwd, zal primair worden getracht om de minderjarige met de ouder(s) te herenigen. Opvang bij ouders is in beginsel aan te merken als adequaat.
 
-Bij het zoeken naar een vorm van opvang die voor een niet-begeleide minderjarige vreemdeling als adequaat mag worden beschouwd, zal primair worden getracht om de minderjarige met de ouder(s) te herenigen. Opvang bij ouders is in beginsel aan te merken als adequaat.
+De IND neemt het bestaan van adequate opvang in algemene zin in ieder geval aan als sprake is van een van de volgende omstandigheden:
 
-Ad c. d. en e.
+- a. in het betreffende land is een familielid tot in de vierde graad aanwezig dat adequate opvang kan bieden;
 
-Een opvangvoorziening wordt aangemerkt als adequaat indien de opvangvoorziening de minderjarige in ieder geval naar lokale maatstaven biedt:
+- b. uit feiten en omstandigheden komt naar voren dat een ander familielid dan in a. gesteld of een aangewezen voogd adequate opvang kan bieden;
 
-- • onderdak tot de minderjarige de leeftijd van 18 jaar zal bereiken, tenzij de opvang dient tot het overbruggen van een beperkte periode, waarna de minderjarige door zijn eigen familie, of door anderen bij wie er sprake is van adequate opvang, kan worden opgevangen;
+- c. opvang in een (particuliere) opvanginstelling is voorhanden en de IND beschouwt deze opvang naar lokale omstandigheden als adequaat;
+
+- d. uit algemene landeninformatie volgt dat de autoriteiten zorg dragen voor de opvang.
+
+Een opvangvoorziening wordt aangemerkt als adequaat indien deze de minderjarige in ieder geval naar lokale maatstaven biedt:
+
+- • onderdak tot de minderjarige de leeftijd van 18 jaar zal bereiken;
 
 - • beschikbaarheid van voedsel, kleding en hygiëne;
 
@@ -5830,61 +5834,71 @@ Een opvangvoorziening wordt aangemerkt als adequaat indien de opvangvoorziening 
 
 - • aanwezigheid van medische verzorging.
 
-### 6.2. Vertrek kan buiten de schuld van de niet-begeleide minderjarige vreemdeling niet worden gerealiseerd binnen de maximale termijn van drie jaar na de eerste verblijfsaanvraag
+Een opvangvoorziening kan ook dienen ter overbrugging voor een beperkte periode, wanneer de minderjarige vervolgens door een andere opvangvoorziening, door zijn eigen familie, of door anderen bij wie er sprake is van adequate opvang, kan worden opgevangen.
 
-### 6.2.1. Vertrek kan buiten de schuld van de minderjarige vreemdeling niet worden gerealiseerd binnen drie jaar na de eerste verblijfsaanvraag (ambtshalve verlening zonder nader onderzoek)
+### 6.2.1. Onderzoek naar adequate opvang
 
-De verblijfsvergunning regulier voor bepaalde tijd kan ambtshalve zonder nader onderzoek worden verleend, als aan de volgende voorwaarden is voldaan:
+De IND verricht bij niet-begeleide minderjarige vreemdelingen gedurende de asielprocedure onderzoek naar de beschikbaarheid van adequate opvang. Als bij de afwijzing van de asielaanvraag niet kan worden vastgesteld of er al dan niet sprake is van adequate opvang, verzoekt de IND aan DTenV om verder onderzoek te doen naar de aanwezigheid van adequate opvang.
 
-- • de vreemdeling is ten tijde van de eerste verblijfsaanvraag jonger dan vijftien jaar;
+De IND licht bij afwijzing van de asielaanvraag toe waarom er gebruik wordt gemaakt van de mogelijkheid om het asielbesluit los van het terugkeerbesluit te nemen. Dit betekent dat de IND op het moment van afwijzing van de asielaanvraag een beoordeling maakt van de stand van het onderzoek naar adequate opvang op dat moment.
 
-- • de vreemdeling heeft geloofwaardige verklaringen afgelegd over zijn identiteit, nationaliteit, ouders en andere familieleden;
+Het onderzoek van DTenV duurt in beginsel maximaal één jaar vanaf de datum van afwijzing van de asielaanvraag, maar uiterlijk totdat de niet-begeleide minderjarige achttien jaar wordt.
 
-- • uit de verklaringen van de vreemdeling komt naar voren dat er geen familieleden of andere personen zijn die adequate opvang kunnen bieden, naar wie de vreemdeling kan terugkeren;
+In het geval de niet-begeleide minderjarige het ingediende verzoek om een voorlopige voorziening in de zin van [paragraaf C1/8.2 Vc](https://wetten.overheid.nl/BWBR0012288) krijgt toegewezen of een tweede of volgende asielaanvraag heeft ingediend wordt het onderzoek van DTenV naar de aanwezigheid van adequate opvang tijdelijk opgeschort.
 
-- • de vreemdeling heeft tijdens de procedure een onderzoek naar opvangmogelijkheden in het land van herkomst of een ander land niet gefrustreerd;
+De niet-begeleide minderjarige moet meewerken aan het onderzoek naar adequate opvang en zich actief inzetten om zijn vertrek te realiseren. De beoordeling dat de niet-begeleide minderjarige geen actieve en volledige medewerking verleent dan wel het onderzoek anderszins frustreert, is aan DTenV.
 
-- • bekend is dat in het algemeen geen adequate opvang beschikbaar is en aangenomen wordt dat deze niet binnen afzienbare tijd beschikbaar komt, in het land van herkomst of in een ander land waar de vreemdeling redelijkerwijs naar toe kan. In een dergelijke situatie wordt aangenomen dat het de DTenV niet zal lukken om binnen de termijn van drie jaar een vorm van adequate opvang te vinden.
+Ná het onderzoek van DTenV beoordeelt de IND op basis van het onderzoek en advies van DTenV of de niet-begeleide minderjarige in aanmerking komt voor een verblijfsvergunning regulier op grond van het buitenschuldbeleid voor niet-begeleide minderjarige vreemdelingen. De IND kan op basis van de beoordeling door DTenV dat de niet-begeleide minderjarige niet heeft meegewerkt aan het onderzoek en/of zich niet actief heeft ingezet om zijn vertrek te realiseren, ook de termijn van het DTenV-onderzoek met een jaar verlengen.
 
-### 6.2.2. Vertrek kan buiten de schuld van de niet-begeleide minderjarige vreemdeling niet worden gerealiseerd binnen drie jaar na de eerste verblijfsaanvraag (verlening na nader onderzoek)
+Met onbekende bestemming vertrokken
 
-De verblijfsvergunning regulier voor bepaalde tijd kan drie jaar na indiening van de eerste verblijfsaanvraag worden verleend, als is voldaan aan de volgende voorwaarden:
+In het geval de niet-begeleide minderjarige tijdens het DTenV-onderzoek met onbekende bestemming vertrokken is, wordt aangenomen dat de niet-begeleide minderjarige elders adequate opvang heeft gevonden. Voor de met onbekende bestemming vertrokken niet-begeleide minderjarige wordt er zonder het verder afwachten van het DTenV-onderzoek een terugkeerbesluit uitgevaardigd overeenkomstig [paragraaf A3/6.1 Vc](https://wetten.overheid.nl/BWBR0012287).
 
-- • De vreemdeling is ten tijde van de eerste verblijfsaanvraag jonger dan vijftien jaar;
-
-- • de vreemdeling heeft geloofwaardige verklaringen afgelegd over zijn identiteit, nationaliteit, ouders en andere familieleden;
-
-- • de vreemdeling heeft zich actief ingezet om zijn eigen terugkeer te realiseren. Zo heeft hij zich actief ingezet om zijn eigen identiteit en nationaliteit aan te tonen, een (vervangend) reisdocument te verkrijgen (indien nodig) en contact te leggen met familie of andere personen of organisaties in het land van herkomst naar wie hij zou kunnen terugkeren;
-
-- • in nader onderzoek is vastgesteld dat er geen sprake is van adequate opvang;
-
-- • er is op het moment van beoordeling geen zicht op feitelijk vertrek naar het land van herkomst.
-
-### 6.3. Verlening en intrekking van de verblijfsvergunning regulier voor bepaalde tijd op grond van het buitenschuldbeleid voor niet-begeleide minderjarige vreemdelingen
+### 6.3. Ambtshalve beoordeling
 
 De IND verleent de verblijfsvergunning regulier voor bepaalde tijd op grond van het buitenschuldbeleid voor niet-begeleide minderjarige vreemdelingen, ambtshalve of op aanvraag.
 
-Een verblijfsvergunning regulier voor bepaalde tijd op grond van het buitenschuldbeleid voor niet-begeleide minderjarige vreemdelingen kan op elk moment na indiening van de eerste verblijfsaanvraag verleend worden, vanaf het moment dat aan de voorwaarden wordt voldaan.
+De IND toetst bij afwijzing van de asielaanvraag of intrekking van de verblijfsvergunning asiel van een niet-begeleide minderjarige ambtshalve aan het buitenschuldbeleid voor niet-begeleide minderjarige vreemdelingen, zoals vastgelegd in [paragraaf B8/6](https://wetten.overheid.nl/BWBR0012289) Vc.
 
-De IND verleent geen verblijfsvergunning regulier voor bepaalde tijd aan een vreemdeling die tijdens de verblijfsprocedure een onderzoek naar opvangmogelijkheden in het land van herkomst of een ander land frustreert.
+In het geval er na afwijzing van de asielaanvraag meer tijd nodig is om onderzoek te doen naar de beschikbaarheid van adequate opvang, wordt [artikel 45, eerste lid, van de Vw 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45) buiten toepassing gelaten, voor zover daarin impliciet is bepaald dat de afwijzing van de asielaanvraag en het nemen van het terugkeerbesluit gelijktijdig moeten plaatsvinden.
+
+De niet-begeleide minderjarige heeft in dat geval rechtmatig verblijf op grond van [artikel 8 onder f Vw 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), zolang na afwijzing van de asielaanvraag nog geen ambtshalve beoordeling aan de hand van het buitenschuldbeleid voor niet-begeleide minderjarige vreemdelingen heeft plaatsgevonden conform [paragraaf B8/6](https://wetten.overheid.nl/BWBR0012289) Vc.
+
+De niet-begeleide minderjarige is inmiddels 18 geworden
+
+De IND beoordeelt of de niet-begeleide minderjarige met terugwerkende kracht tot het bereiken van het achttiende levensjaar in aanmerking zou zijn gekomen voor een buitenschuldvergunning voor niet-begeleide minderjarige vreemdelingen wanneer de IND:
+
+- • de asielaanvraag afwijst die de vreemdeling als niet-begeleide minderjarige heeft ingediend; of
+
+- • tijdens de minderjarigheid van de niet-begeleide minderjarige DTenV heeft gevraagd verder onderzoek te doen naar adequate opvang. DTenV stopt dit onderzoek wanneer de niet-begeleide minderjarige meerderjarig wordt.
+
+In het geval niet kan worden vastgesteld dat er sprake was van adequate opvang tijdens de minderjarigheid, moet de IND bij de beoordeling inzichtelijk maken waarom het onderzoek naar adequate opvang niet was afgerond. Hierbij worden meegewogen:
+
+- • de leeftijd van de niet-begeleide minderjarige ten tijde van de asielaanvraag
+
+- • de duur van de asielprocedure; en
+
+- • de duur van het onderzoek naar de adequate opvang.
+
+### 6.4. Verlening en intrekking van de verblijfsvergunning regulier voor bepaalde tijd op grond van het specifieke buitenschuldbeleid voor niet-begeleide minderjarige vreemdelingen
+
+Verlening
+
+De IND verleent de verblijfsvergunning regulier voor bepaalde tijd op grond van het buitenschuldbeleid voor niet-begeleide minderjarige vreemdelingen, ambtshalve of op aanvraag.
 
 Intrekking
 
-Op grond van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=19) juncto [artikel 18, eerste lid, aanhef en onder c, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=18) beziet de IND de verblijfsvergunning regulier bepaalde tijd op grond van het buitenschuldbeleid voor niet-begeleide minderjarige vreemdelingen op intrekking als:
+Op grond van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=19) juncto [artikel 18, eerste lid, aanhef en onder c, en f Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=18) beziet de IND de verblijfsvergunning regulier bepaalde tijd op grond van het buitenschuldbeleid voor niet-begeleide minderjarige vreemdelingen op intrekking als:
 
-- • de vreemdeling een gevaar vormt voor de openbare orde of de nationale veiligheid;
+- • de vreemdeling een gevaar vormt voor de openbare orde of de nationale veiligheid; of
 
 - • de vreemdeling niet voldoet aan de beperking waaronder de vergunning is verleend of een voorschrift dat aan de vergunning is verbonden.
 
-- • na herhaald leeftijdsonderzoek blijkt dat de vreemdeling op het moment van het eerste onderzoek meerderjarig was; of
-
-- • na herhaald leeftijdsonderzoek blijkt dat de vreemdeling op dat moment meerderjarig is.
-
-### 6.4. Beperking, arbeidsmarktaantekening en geldigheidsduur
+### 6.5. Beperking, arbeidsmarktaantekening en geldigheidsduur
 
 Beperking
 
-Op grond van [artikel 3.4, eerste lid, aanhef en onder p, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4) verleent de IND de verblijfsvergunning onder de beperking: ‘tijdelijke humanitaire gronden’.
+Op grond van [artikel 3.4, eerste lid, aanhef en onder q, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4) verleent de IND de verblijfsvergunning onder de beperking: ‘tijdelijke humanitaire gronden’.
 
 Arbeidsmarktaantekening
 
@@ -5892,25 +5906,13 @@ Op grond van [artikel 3.1, vijfde lid, aanhef en onder a, VV](https://wetten.ove
 
 Geldigheidsduur
 
-Op grond van [artikel 3.58, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.58), verleent de IND de verblijfsvergunning regulier voor bepaalde tijd op grond van het buitenschuldbeleid voor niet-begeleide minderjarige vreemdelingen met een geldigheidsduur van vijf jaar.
+Op grond van [artikel 3.58, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.58), verleent de IND de verblijfsvergunning regulier voor bepaalde tijd op grond van het buitenschuldbeleid voor niet-begeleide minderjarige vreemdelingen met een geldigheidsduur van vijf jaar aan de niet-begeleide minderjarige die jonger was dan vijftien jaar ten tijde van de eerste verblijfsaanvraag in Nederland.
 
-### 7. Overgangsrecht
+Op grond van [artikel 3.58, eerste lid, onder q, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.58), kan een verblijfsvergunning regulier voor bepaalde tijd voor het verblijfsdoel tijdelijke humanitaire gronden worden verleend voor ten hoogste één jaar. Deze verblijfsvergunning kan telkens worden verlengd met ten hoogste één jaar.
 
-### 7.1. Overgangsrecht naar aanleiding van wijziging beleid voor niet-begeleide minderjarige vreemdelingen per 1 juni 2013
+Aan de niet-begeleide minderjarige die vijftien jaar of ouder was ten tijde van de eerste verblijfsaanvraag in Nederland en die op grond van het buitenschuldbeleid voor niet-begeleide minderjarige vreemdelingen voor een verblijfsvergunning in aanmerking komt, wordt deze verblijfsvergunning verleend tot het 18e levensjaar. In voorkomende gevallen wordt daarmee dus begunstigend afgeweken van de maximale geldigheidsduur van één jaar.
 
-### 7.1.1. Algemeen
-
-Per 1 juni 2013 geldt voor nieuwe verblijfsaanvragen nieuw beleid.
-
-### 7.1.2. Lopende procedures
-
-De IND beoordeelt verblijfsaanvragen van niet-begeleide minderjarige vreemdelingen die op het moment van de inwerkingtreding van het nieuwe beleid een aanvraagprocedure hebben lopen op grond van het oude recht zoals dat gold voor 1 juni 2013, tenzij het recht dat geldt op het tijdstip waarop de beschikking wordt gegeven voor de vreemdeling gunstiger is. Dit laatste is het geval wanneer de vreemdeling aan alle voorwaarden voor de buitenschuldvergunning voldoet.
-
-Indien de vreemdeling, die bij zijn laatste aanvraag nog niet de leeftijd van vijftien jaar heeft bereikt, voldoet aan het gestelde in [paragraaf B8/6](https://wetten.overheid.nl/BWBR0012289) zal hij volgens nieuw recht worden beoordeeld.
-
-### 7.1.3. Vreemdelingen in het bezit van een verblijfsvergunning regulier voor bepaalde tijd met als beperking ‘als niet-begeleide minderjarige vreemdeling’ of ‘voortgezet verblijf’
-
-Van vreemdelingen, die in het bezit zijn van een verblijfsvergunning regulier voor bepaalde tijd met als beperking ‘als niet-begeleide minderjarige vreemdeling’ zal de geldigheidsduur van de verblijfsvergunning regulier voor bepaalde tijd doorlopen en worden verlengd volgens de regels van het oude recht. Ook de mogelijkheden om na afloop van de drie jaar in aanmerking te komen voor voortgezet verblijf zullen blijven bestaan onder dezelfde voorwaarden. Ook hier geldt de uitzondering dat nieuw recht wordt toegepast wanneer dit voor hen gunstiger is.
+### 7. Gereserveerd
 
 ### 8. Verblijfsvergunning in afwachting van verzoek ex artikel 17 RWN
 

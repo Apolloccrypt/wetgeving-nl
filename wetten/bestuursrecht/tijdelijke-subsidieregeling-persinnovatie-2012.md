@@ -9,7 +9,7 @@ laatste_update: 2012-04-21
 status: geldig
 toestand: 2012-04-21
 bron: "https://wetten.overheid.nl/BWBR0031475"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van het stimuleringsfonds voor de pers van 30 maart 2012, nr. 21969, tot vaststelling van een tijdelijke subsidieregeling persinnovatie 2012

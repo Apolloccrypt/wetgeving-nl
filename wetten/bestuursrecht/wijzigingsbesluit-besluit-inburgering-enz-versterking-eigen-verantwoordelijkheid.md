@@ -9,7 +9,7 @@ laatste_update: 2014-03-21
 status: geldig
 toestand: 2014-03-21
 bron: "https://wetten.overheid.nl/BWBR0032034"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 25 september 2012, tot wijziging van het Besluit inburgering en enkele andere besluiten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige

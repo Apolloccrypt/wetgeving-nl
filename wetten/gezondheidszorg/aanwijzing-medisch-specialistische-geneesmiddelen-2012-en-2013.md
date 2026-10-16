@@ -9,7 +9,7 @@ laatste_update: 2012-10-01
 status: geldig
 toestand: 2012-10-01
 bron: "https://wetten.overheid.nl/BWBR0031916"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport, van 17 augustus 2012, MC-U-3125844, op grond van artikel 7 van de Wet markordening gezondheidszorg inzake medisch specialistische geneesmiddelen 2012 en 2013

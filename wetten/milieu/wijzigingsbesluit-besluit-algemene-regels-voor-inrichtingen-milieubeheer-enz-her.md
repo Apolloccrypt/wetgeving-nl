@@ -9,7 +9,7 @@ laatste_update: 2012-10-23
 status: geldig
 toestand: 2012-10-23
 bron: "https://wetten.overheid.nl/BWBR0032011"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 11 augustus 2012 tot herstel van gebreken van wetstechnische en inhoudelijk ondergeschikte aard in enkele besluiten op de beleidsterreinen van het Ministerie van Infrastructuur en Milieu

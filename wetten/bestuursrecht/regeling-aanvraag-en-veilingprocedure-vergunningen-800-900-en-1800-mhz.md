@@ -9,7 +9,7 @@ laatste_update: 2012-07-11
 status: geldig
 toestand: 2012-07-11
 bron: "https://wetten.overheid.nl/BWBR0031069"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 22 december 2011, nr. WJZ / 10146523, tot vaststelling van de aanvraag- en veilingprocedure voor vergunningen voor frequentieruimte in de 800, 900 en 1800 MHz-band ten behoeve van mobiele communicatietoepassingen (Regeling aanvraag- en veilingprocedure vergunningen 800, 900 en 1800 MHz)

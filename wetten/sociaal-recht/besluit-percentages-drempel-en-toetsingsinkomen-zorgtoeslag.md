@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0030989"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 6 december 2011, houdende wijziging van de percentages van het drempel- en het toetsingsinkomen voor de berekening van de zorgtoeslag (Besluit percentages drempel- en toetsingsinkomen zorgtoeslag)

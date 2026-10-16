@@ -8,7 +8,7 @@ laatste_update: 2012-01-06
 status: geldig
 toestand: 2012-01-06
 bron: "https://wetten.overheid.nl/BWBR0031063"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit vaststelling selectielijst Monumentenzorg voor het Ministerie van OC&W vanaf 1945

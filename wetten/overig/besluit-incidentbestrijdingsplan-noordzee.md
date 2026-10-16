@@ -8,7 +8,7 @@ laatste_update: 2012-04-14
 status: geldig
 toestand: 2012-04-14
 bron: "https://wetten.overheid.nl/BWBR0031454"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit Incidentbestrijdingsplan Noordzee

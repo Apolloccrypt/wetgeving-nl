@@ -9,7 +9,7 @@ laatste_update: 2011-12-24
 status: geldig
 toestand: 2011-12-24
 bron: "https://wetten.overheid.nl/BWBR0030939"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 15 december 2011, houdende een nadere regeling van de Stichting Autoriteit Financiële Markten ter uitvoering van Artikel III van de Regeling van de Minister van Financiën van 26 oktober 2011 tot wijziging van de Vrijstellingsregeling Wft in verband met een aanpassing van de vrijstellingsbepalingen betreffende het aanbieden van beleggingsobjecten en het aanbieden van rechten van deelneming in een beleggingsinstelling (Stcrt. 2011, 19762), zoals deze is gewijzigd bij de Regeling van de Minister van Financiën in verband met een aanpassing van de vrijstellingsbepalingen betreffende het aanbieden van beleggingsobjecten en het aanbieden van rechten van deelneming in een beleggingsinstelling 14 december 2011 (Stcrt. 2011, 144478) (Nadere regeling informatievereisten bij meldingsplicht beleggingsobjecten)

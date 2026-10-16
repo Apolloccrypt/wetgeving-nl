@@ -9,7 +9,7 @@ laatste_update: 2012-10-01
 status: geldig
 toestand: 2012-10-01
 bron: "https://wetten.overheid.nl/BWBR0031758"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wet van 18 juni 2012 tot aanpassing van de wetgeving aan en invoering van de Wet vereenvoudiging en flexibilisering bv-recht (Invoeringswet vereenvoudiging en flexibilisering bv-recht)

@@ -9,7 +9,7 @@ laatste_update: 2012-09-01
 status: geldig
 toestand: 2012-09-01
 bron: "https://wetten.overheid.nl/BWBR0031774"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 11 juni 2012, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake het Experiment regelarme instellingen in de langdurige zorg nr. MC-U-3117725

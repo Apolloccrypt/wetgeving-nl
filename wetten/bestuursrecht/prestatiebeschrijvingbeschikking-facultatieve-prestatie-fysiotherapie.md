@@ -8,7 +8,7 @@ laatste_update: 2012-04-17
 status: geldig
 toestand: 2012-04-17
 bron: "https://wetten.overheid.nl/BWBR0031464"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Prestatiebeschrijvingbeschikking Facultatieve Prestatie Fysiotherapie

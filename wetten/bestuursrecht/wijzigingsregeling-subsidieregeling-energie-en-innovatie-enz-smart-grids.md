@@ -9,7 +9,7 @@ laatste_update: 2012-06-15
 status: geldig
 toestand: 2012-06-15
 bron: "https://wetten.overheid.nl/BWBR0031655"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 13 juni 2012, nr. WJZ / 12057247, houdende wijziging van de Subsidieregeling energie en innovatie alsmede wijziging van de Regeling openstelling en subsidieplafonds EZ 2012

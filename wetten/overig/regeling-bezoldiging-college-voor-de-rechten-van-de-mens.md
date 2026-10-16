@@ -9,7 +9,7 @@ laatste_update: 2026-04-01
 status: geldig
 toestand: 2026-04-01
 bron: "https://wetten.overheid.nl/BWBR0031995"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 17 september 2012, nr. 302266 tot vaststelling van de bezoldiging van de leden en de schadeloosstelling van de plaatsvervangende leden van het College voor de rechten van de mens en de vergoeding voor de leden van de raad van advies (Regeling bezoldiging College voor de rechten van de mens)

@@ -9,7 +9,7 @@ laatste_update: 2013-07-01
 status: geldig
 toestand: 2013-07-01
 bron: "https://wetten.overheid.nl/BWBR0032155"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wet van 27 september 2012 tot introductie van de bestuurlijke boete bij niet naleving van bijzondere meldingsplichten bij rijkssubsidies (Wet bestuurlijke boete meldingsplichten door ministers verstrekte subsidies)

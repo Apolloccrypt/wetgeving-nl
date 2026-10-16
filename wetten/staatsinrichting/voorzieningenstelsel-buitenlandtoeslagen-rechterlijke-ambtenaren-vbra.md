@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0031747"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de minister van Binnenlandse Zaken en Koninkrijksrelaties van 20 juni 2012, nr. 2012-200612, houdende instelling van een voorzieningenstelsel buitenlandtoelagen voor rechterlijke ambtenaren die buitengewoon verlof hebben in Nederland om in het Caribische deel van het Koninkrijk der Nederlanden tijdelijk werkzaam te zijn

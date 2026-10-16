@@ -9,7 +9,7 @@ laatste_update: 2013-01-19
 status: geldig
 toestand: 2013-01-19
 bron: "https://wetten.overheid.nl/BWBR0031264"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wet van 26 januari 2012 tot wijziging van de Wegenverkeerswet 1994 en de Wet rijonderricht motorrijtuigen 1993 in verband met de implementatie van de derde rijbewijsrichtlijn

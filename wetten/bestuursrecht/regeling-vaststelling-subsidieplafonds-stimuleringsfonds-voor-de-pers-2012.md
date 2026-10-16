@@ -9,7 +9,7 @@ laatste_update: 2012-04-21
 status: geldig
 toestand: 2012-04-21
 bron: "https://wetten.overheid.nl/BWBR0031476"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van het Stimuleringsfonds voor de pers van 30 maart 2012, nr. 21947 tot vaststelling van subsidieplafonds voor het jaar 2012

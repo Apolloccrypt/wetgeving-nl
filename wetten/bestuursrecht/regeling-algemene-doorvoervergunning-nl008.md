@@ -9,7 +9,7 @@ laatste_update: 2021-06-23
 status: geldig
 toestand: 2021-06-23
 bron: "https://wetten.overheid.nl/BWBR0031620"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken, Landbouw en Innovatie van 29 mei 2012, nr. WJZ / 12063076, houdende regels inzake de algemene doorvoervergunning N008 voor militaire goederen met eindbestemming bondgenoten (Regeling algemene doorvoervergunning NL008)

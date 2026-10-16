@@ -9,7 +9,7 @@ laatste_update: 2026-10-08
 status: geldig
 toestand: 2026-10-08
 bron: "https://wetten.overheid.nl/BWBR0053175"
-opgehaald: 2026-10-15
+opgehaald: 2026-10-16
 ---
 
 # Wet van 23 september 2026 tot wijziging van de Werkloosheidswet en enige andere wetten vanwege aanpassing van de Regeling dienstverlening aan huis (Wet aanpassing Regeling dienstverlening aan huis) [KetenID WGK025918]

@@ -8,7 +8,7 @@ laatste_update: 2012-03-14
 status: geldig
 toestand: 2012-03-14
 bron: "https://wetten.overheid.nl/BWBR0031345"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Belastingverdragen, India

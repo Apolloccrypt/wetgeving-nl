@@ -9,7 +9,7 @@ laatste_update: 2026-06-12
 status: geldig
 toestand: 2026-06-12
 bron: "https://wetten.overheid.nl/BWBR0031788"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wet van 12 juli 2012 tot vaststelling van een nieuwe Politiewet (Politiewet 2012)

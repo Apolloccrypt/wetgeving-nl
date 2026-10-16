@@ -9,7 +9,7 @@ laatste_update: 2025-04-17
 status: geldig
 toestand: 2025-04-17
 bron: "https://wetten.overheid.nl/BWBR0031118"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Bestuursreglement Nederlandse Zorgautoriteit (NZa)

@@ -9,7 +9,7 @@ laatste_update: 2012-08-01
 status: geldig
 toestand: 2012-08-01
 bron: "https://wetten.overheid.nl/BWBR0031462"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wet van 8 maart 2012 tot wijziging van de Wet op het primair onderwijs, de Wet op de expertisecentra, de Wet op het voortgezet onderwijs, de Wet educatie en beroepsonderwijs en de Wet verzelfstandiging Informatiseringsbank in verband met het gebruik van het persoonsgebonden nummer bij onder meer de uitwisseling van leer- en begeleidingsgegevens van leerlingen

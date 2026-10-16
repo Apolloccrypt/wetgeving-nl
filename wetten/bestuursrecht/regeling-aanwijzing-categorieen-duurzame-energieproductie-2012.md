@@ -9,7 +9,7 @@ laatste_update: 2014-02-13
 status: geldig
 toestand: 2014-02-13
 bron: "https://wetten.overheid.nl/BWBR0031291"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 17 februari 2012, nr. WJZ/12001252, houdende aanwijzing van categorieën van productie-installaties voor de stimulering van duurzame energieproductie in het jaar 2012 (Regeling aanwijzing categorieën duurzame energieproductie 2012)

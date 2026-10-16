@@ -9,7 +9,7 @@ laatste_update: 2012-06-01
 status: geldig
 toestand: 2012-06-01
 bron: "https://wetten.overheid.nl/BWBR0031540"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wijzigingsregeling Uitvoeringsregeling accijns en de Uitvoeringsregeling verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten

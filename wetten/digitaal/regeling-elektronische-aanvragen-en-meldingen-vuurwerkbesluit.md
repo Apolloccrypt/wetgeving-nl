@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0031661"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 14 juni 2012, nr. IENM/BSK-2012/109052, houdende vaststelling van regels omtrent de elektronische verzending van aanvragen, afschriften of meldingen in het kader van het Vuurwerkbesluit (Regeling elektronische aanvragen en meldingen Vuurwerkbesluit)

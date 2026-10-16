@@ -9,7 +9,7 @@ laatste_update: 2012-06-29
 status: geldig
 toestand: 2012-06-29
 bron: "https://wetten.overheid.nl/BWBR0031713"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 21 mei 2012, nr. DMO IV DCDI nr. 2012005522 van het Ministerie van Defensie houdende de beperking aan de openbaarheid van archiefbescheiden van de collectie Ordedienst/ Binnenlandse Strijdkrachten, het Militair Gezag en andere organisaties, (1934) 1940–1947 (2003), bij overbrenging naar een archiefbewaarplaats

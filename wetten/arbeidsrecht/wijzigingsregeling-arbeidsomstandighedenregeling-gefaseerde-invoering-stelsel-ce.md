@@ -9,7 +9,7 @@ laatste_update: 2012-11-01
 status: geldig
 toestand: 2012-11-01
 bron: "https://wetten.overheid.nl/BWBR0031362"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 28 februari 2012, nr. G&VW/GW/2012/2776, houdende wijziging van de Arbeidsomstandighedenregeling in verband met de gefaseerde invoering van het stelsel van certificatie (fase 2)

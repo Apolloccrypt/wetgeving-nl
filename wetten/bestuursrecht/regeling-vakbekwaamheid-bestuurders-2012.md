@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0031458"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu, van 27 maart 2012, nr. IENM/BSK-2012/21857, houdende vaststelling van regels in verband met de vakbekwaamheid van bestuurders (Regeling vakbekwaamheid bestuurders 2012)

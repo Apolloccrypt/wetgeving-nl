@@ -8,7 +8,7 @@ laatste_update: 1999-01-01
 status: geldig
 toestand: 1999-01-01
 bron: "https://wetten.overheid.nl/BWBR0032167"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Beschikking wijziging percentage levensonderhoud 1999

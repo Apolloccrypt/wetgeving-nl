@@ -9,7 +9,7 @@ laatste_update: 2013-07-01
 status: geldig
 toestand: 2013-07-01
 bron: "https://wetten.overheid.nl/BWBR0031631"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wet van 24 mei 2012 tot wijziging van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000 en de Wet verplichte beroepspensioenregeling in verband met wijziging van de markt- en overheidbepalingen

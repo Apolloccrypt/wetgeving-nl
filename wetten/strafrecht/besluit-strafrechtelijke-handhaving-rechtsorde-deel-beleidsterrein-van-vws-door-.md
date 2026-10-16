@@ -9,7 +9,7 @@ laatste_update: 2012-05-05
 status: geldig
 toestand: 2012-05-05
 bron: "https://wetten.overheid.nl/BWBR0031531"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 26 april 2012, nr. VGP 3112379, inzake de strafrechtelijke handhaving van de rechtsorde op een deel van het beleidsterrein van VWS door de NVWA-IOD

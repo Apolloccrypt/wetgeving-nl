@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0032089"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wet van 4 oktober 2012 tot wijziging van de Ziektewet en enige andere wetten om ziekteverzuim en arbeidsongeschiktheid van vangnetters te beperken (Wet beperking ziekteverzuim en arbeidsongeschiktheid vangnetters)

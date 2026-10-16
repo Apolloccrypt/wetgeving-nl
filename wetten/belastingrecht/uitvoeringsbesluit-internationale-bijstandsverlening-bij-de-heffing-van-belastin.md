@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0030973"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 22 december 2011 tot vaststelling van het Uitvoeringsbesluit internationale bijstandsverlening bij de heffing van belastingen

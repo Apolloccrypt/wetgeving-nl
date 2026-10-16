@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0031614"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wet van 21 mei 2012 tot wijziging van de Wegenverkeerswet 1994 op een aantal punten van uiteenlopende aard, van de Wet personenvervoer 2000 ten aanzien van het openbaar-vervoerverbod en enkele technische wijzigingen, van de Wet advies en overleg verkeer en waterstaat in verband met wijzigingen in de vorm waarin betrokkenen en organisaties bij het beleidsproces worden betrokken, wijziging van de Wet op de economische delicten, de Wet luchtvaart, de Binnenvaartwet, de Wet capaciteitsbeheersing binnenvaartvloot, de Wet belastingen op milieugrondslag, de Waterwet, de Invoeringswet Waterwet, de Waterschapswet en de Crisis- en herstelwet op enkele punten van technische aard, alsmede van de Telecommunicatiewet ter herstel van een abuis (Verzamelwet Verkeer en Waterstaat 2010)

@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0031192"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 23 januari 2012, nr. WJZ / 11170989, houdende vaststelling van de bedragen, bedoeld in artikel 27c, tweede lid, van het Uitvoeringsbesluit Rijksoctrooiwet 1995

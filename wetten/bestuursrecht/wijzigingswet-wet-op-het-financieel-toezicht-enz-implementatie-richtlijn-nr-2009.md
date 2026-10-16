@@ -9,7 +9,7 @@ laatste_update: 2012-01-01
 status: geldig
 toestand: 2012-01-01
 bron: "https://wetten.overheid.nl/BWBR0031007"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wet van 22 december 2011 tot wijziging van de Wet op het financieel toezicht en enige andere wetten ter implementatie van richtlijn nr. 2009/110/EG van het Europees Parlement en de Raad betreffende de toegang tot, de uitoefening van en het prudentieel toezicht op de werkzaamheden van instellingen voor elektronisch geld, tot wijziging van de Richtlijnen 2005/60/EG en 2006/48/EG en tot intrekking van Richtlijn 2000/46/EG (PbEU L 267)

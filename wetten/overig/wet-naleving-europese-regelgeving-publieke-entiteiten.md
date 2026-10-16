@@ -9,7 +9,7 @@ laatste_update: 2016-07-01
 status: geldig
 toestand: 2016-07-01
 bron: "https://wetten.overheid.nl/BWBR0031640"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wet van 24 mei 2012, houdende regels met betrekking tot de naleving van Europese regelgeving door publieke entiteiten (Wet Naleving Europese regelgeving publieke entiteiten)

@@ -9,7 +9,7 @@ laatste_update: 2025-04-08
 status: geldig
 toestand: 2025-04-08
 bron: "https://wetten.overheid.nl/BWBR0031615"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken, Landbouw en Innovatie van 29 mei 2012, nr. WJZ / 12065785, houdende regels inzake de algemene doorvoervergunning NL007 voor militaire goederen herkomstig van bondgenoten (Regeling algemene doorvoervergunning NL007)

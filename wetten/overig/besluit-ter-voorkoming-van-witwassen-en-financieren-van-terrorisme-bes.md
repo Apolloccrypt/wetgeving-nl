@@ -9,7 +9,7 @@ laatste_update: 2021-07-01
 status: geldig
 toestand: 2021-07-01
 bron: "https://wetten.overheid.nl/BWBR0031629"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 22 mei 2012 houdende regels ter uitvoering van de Wet ter voorkoming van witwassen en financieren van terrorisme BES (Besluit ter voorkoming van witwassen en financieren van terrorisme BES)

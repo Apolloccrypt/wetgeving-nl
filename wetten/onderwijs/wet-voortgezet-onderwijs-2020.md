@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0044212"
-opgehaald: 2026-10-15
+opgehaald: 2026-10-16
 ---
 
 # Wet van 30 september 2020, houdende regels over het voortgezet onderwijs (Wet voortgezet onderwijs 2020)

@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0032046"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wet van 13 september 2012 tot wijziging van een aantal wetten, houdende regels betreffende zelfstandige bestuursorganen die onder de Minister van Infrastructuur en Milieu ressorteren en enige wijzigingen ter actualisatie, vereenvoudiging en verduidelijking (Aanpassingswet zbo’s IenM aan de Kaderwet zbo’s)

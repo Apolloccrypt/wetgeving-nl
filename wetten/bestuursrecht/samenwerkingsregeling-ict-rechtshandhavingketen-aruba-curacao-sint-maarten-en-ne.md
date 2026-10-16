@@ -9,7 +9,7 @@ laatste_update: 2020-09-15
 status: geldig
 toestand: 2020-09-15
 bron: "https://wetten.overheid.nl/BWBR0031219"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Onderlinge regeling inzake de ICT-voorziening in de rechtshandhavingketen van Aruba, van Curaçao, van Sint Maarten alsmede van de openbare lichamen Bonaire, Sint Eustatius en Saba (Samenwerkingsregeling ICT rechtshandhavingketen Aruba, Curaçao, Sint Maarten en Nederland)

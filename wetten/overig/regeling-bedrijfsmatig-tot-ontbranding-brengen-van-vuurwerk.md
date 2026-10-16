@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0031686"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 14 juni 2012, nr. IENM/BSK-1012/109051, houdende vaststelling van regels met betrekking tot het bedrijfsmatig tot ontbranding brengen van vuurwerk (Regeling bedrijfsmatig tot ontbranding brengen van vuurwerk)

@@ -9,7 +9,7 @@ laatste_update: 2012-10-10
 status: geldig
 toestand: 2012-10-10
 bron: "https://wetten.overheid.nl/BWBR0032045"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie en de Minister van Volksgezondheid, Welzijn en Sport van 13 september 2012, nr. 292839, houdende de aanwijzing van de Regionale Toetsingscommissie euthanasie voor Bonaire, Sint Eustatius en Saba als bedoeld in artikel 19c van de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding

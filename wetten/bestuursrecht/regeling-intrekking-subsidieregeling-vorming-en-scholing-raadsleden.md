@@ -9,7 +9,7 @@ laatste_update: 2012-01-05
 status: geldig
 toestand: 2012-01-05
 bron: "https://wetten.overheid.nl/BWBR0031058"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de minister van Binnenlandse Zaken en Koninkrijksrelaties van 2 januari 2012, nr. 2011-2000560883, houdende intrekking van de Subsidieregeling vorming en scholing raadsleden

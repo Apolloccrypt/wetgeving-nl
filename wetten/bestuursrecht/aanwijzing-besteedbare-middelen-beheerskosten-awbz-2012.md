@@ -9,7 +9,7 @@ laatste_update: 2012-01-31
 status: geldig
 toestand: 2012-01-31
 bron: "https://wetten.overheid.nl/BWBR0031189"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport, 19 januari 2012, inzake de besteedbare middelen ter dekking van de beheerskosten AWBZ 2012 (Aanwijzing besteedbare middelen beheerskosten AWBZ 2012)

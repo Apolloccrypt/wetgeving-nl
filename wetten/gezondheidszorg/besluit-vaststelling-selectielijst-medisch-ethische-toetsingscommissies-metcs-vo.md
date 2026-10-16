@@ -8,7 +8,7 @@ laatste_update: 2012-10-25
 status: geldig
 toestand: 2012-10-25
 bron: "https://wetten.overheid.nl/BWBR0032118"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit vaststelling selectielijst Medisch-Ethische Toetsingscommissies (METC’s) voor de periode vanaf 1999

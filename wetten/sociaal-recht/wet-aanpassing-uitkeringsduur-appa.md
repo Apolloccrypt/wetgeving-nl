@@ -9,7 +9,7 @@ laatste_update: 2012-09-18
 status: geldig
 toestand: 2012-09-18
 bron: "https://wetten.overheid.nl/BWBR0031991"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wet van 13 september 2012 tot wijziging van de Algemene pensioenwet politieke ambtsdragers in verband met het beperken van de maximumduur van de uitkering (Wet aanpassing uitkeringsduur Appa)

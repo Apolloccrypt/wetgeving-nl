@@ -9,7 +9,7 @@ laatste_update: 2015-11-07
 status: geldig
 toestand: 2015-11-07
 bron: "https://wetten.overheid.nl/BWBR0032064"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu van 28 maart 2011, nr. IENM/BSK-2011/35363, houdende omzetting van bepalingen omtrent het luchthavenluchtverkeer uit het aanwijzingsbesluit van de luchthaven Haamstede, in verband met de vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens (Omzettingsregeling luchthaven Haamstede)

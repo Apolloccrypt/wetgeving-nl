@@ -9,7 +9,7 @@ laatste_update: 2014-03-27
 status: geldig
 toestand: 2014-03-27
 bron: "https://wetten.overheid.nl/BWBR0031466"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit tot vaststelling van beleidsregels ten aanzien van trillinghinder ten behoeve van de vaststelling van tracébesluiten voor de aanleg, wijziging of het opnieuw in gebruik nemen van een landelijke spoorweg (Beleidsregel trillinghinder spoor)

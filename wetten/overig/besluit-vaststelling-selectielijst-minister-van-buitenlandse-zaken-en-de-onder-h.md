@@ -9,7 +9,7 @@ laatste_update: 2012-03-10
 status: geldig
 toestand: 2012-03-10
 bron: "https://wetten.overheid.nl/BWBR0031336"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Selectielijst voor de neerslag van de handelingen van de minister van Buitenlandse Zaken en de onder hem ressorterende organisatieonderdelen belast met de bedrijfsvoering over de periode 1985–2010

@@ -9,7 +9,7 @@ laatste_update: 2012-11-04
 status: geldig
 toestand: 2012-11-04
 bron: "https://wetten.overheid.nl/BWBR0032174"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Vaststelling selectielijst Klantenloket EPD, zoals uitgevoerd door de Stichting Nationaal ICT Instituut in de zorg (Nictiz) over de periode 2008–2011

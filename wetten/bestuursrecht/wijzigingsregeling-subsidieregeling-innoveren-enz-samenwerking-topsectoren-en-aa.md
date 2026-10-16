@@ -9,7 +9,7 @@ laatste_update: 2012-06-13
 status: geldig
 toestand: 2012-06-13
 bron: "https://wetten.overheid.nl/BWBR0031586"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 21 mei 2012, nr. WJZ/12061523, houdende wijziging van de Subsidieregeling innoveren en van de Regeling openstelling en subsidieplafonds EZ 2012

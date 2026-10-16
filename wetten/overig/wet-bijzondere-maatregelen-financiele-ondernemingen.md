@@ -9,7 +9,7 @@ laatste_update: 2017-06-27
 status: geldig
 toestand: 2017-06-27
 bron: "https://wetten.overheid.nl/BWBR0031641"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wet van 24 mei 2012 tot wijziging van de Wet op het financieel toezicht en de Faillissementswet, alsmede enige andere wetten in verband met de introductie van aanvullende bevoegdheden tot interventie bij financiële ondernemingen in problemen (Wet bijzondere maatregelen financiële ondernemingen)

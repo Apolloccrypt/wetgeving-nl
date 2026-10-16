@@ -9,7 +9,7 @@ laatste_update: 2023-02-01
 status: geldig
 toestand: 2023-02-01
 bron: "https://wetten.overheid.nl/BWBR0031994"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 12 september 2012, houdende regels over de commissie die adviseert over het doen van een nader onderzoek als bedoeld in artikel 462, vierde lid, van het Wetboek van Strafvordering (Besluit adviescommissie afgesloten strafzaken)

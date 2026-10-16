@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0031508"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 20 april 2012, nr. IVV/OOG/2012/6311, houdende nadere regels in verband met aanpassing van de hoogte van de uitkering aan het woonland (Regeling woonlandbeginsel in de sociale zekerheid)

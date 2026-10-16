@@ -8,7 +8,7 @@ laatste_update: 2012-10-01
 status: geldig
 toestand: 2012-10-01
 bron: "https://wetten.overheid.nl/BWBR0031718"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Mandaatbesluit Voorzitter Commissie advies- en verwijspunt klokkenluiden

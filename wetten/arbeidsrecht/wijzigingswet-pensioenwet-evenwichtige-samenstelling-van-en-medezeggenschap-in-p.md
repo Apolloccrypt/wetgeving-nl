@@ -9,7 +9,7 @@ laatste_update: 2013-07-01
 status: geldig
 toestand: 2013-07-01
 bron: "https://wetten.overheid.nl/BWBR0031552"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wet van 23 april 2012 tot wijziging van de Pensioenwet met betrekking tot een evenwichtige samenstelling van en de medezeggenschap in pensioenfondsbesturen

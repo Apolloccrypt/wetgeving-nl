@@ -8,7 +8,7 @@ laatste_update: 2012-08-28
 status: geldig
 toestand: 2012-08-28
 bron: "https://wetten.overheid.nl/BWBR0031919"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Beleidsregel AFM en DNB toepassing en uitvoering Wfm BES en Wwft BES 2012

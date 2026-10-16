@@ -9,7 +9,7 @@ laatste_update: 2013-01-19
 status: geldig
 toestand: 2013-01-19
 bron: "https://wetten.overheid.nl/BWBR0031417"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu, van 27 maart 2012, nr. IENM/BSK-2012/20629, houdende aanwijzing van de richtlijn of onderdelen daarvan in verband met de eisen die moeten worden gesteld aan examinatoren bij praktijkexamens (Regeling eisen examinatoren)

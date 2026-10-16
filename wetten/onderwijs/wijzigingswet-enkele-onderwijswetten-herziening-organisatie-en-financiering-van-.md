@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0032176"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wet van 11 oktober 2012 tot wijziging van enkele onderwijswetten in verband met een herziening van de organisatie en financiering van de ondersteuning van leerlingen in het basisonderwijs, speciaal en voortgezet speciaal onderwijs, voortgezet onderwijs en beroepsonderwijs

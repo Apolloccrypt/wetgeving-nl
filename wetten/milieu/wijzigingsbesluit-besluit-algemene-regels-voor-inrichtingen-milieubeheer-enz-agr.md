@@ -9,7 +9,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0032049"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 14 september 2012 tot wijziging van het Besluit algemene regels voor inrichtingen milieubeheer (agrarische activiteiten in het Besluit algemene regels voor inrichtingen milieubeheer)

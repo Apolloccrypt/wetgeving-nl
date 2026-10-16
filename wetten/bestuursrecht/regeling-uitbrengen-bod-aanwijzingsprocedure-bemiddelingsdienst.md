@@ -9,7 +9,7 @@ laatste_update: 2023-10-01
 status: geldig
 toestand: 2023-10-01
 bron: "https://wetten.overheid.nl/BWBR0032139"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 26 oktober 2012, nr. WJZ/12327942, houdende regels omtrent de procedure tot aanwijzing van de verzorger van de bemiddelingsdienst als bedoeld in artikel 2.3a van het Besluit universele dienstverlening en eindgebruikersbelangen (Regeling uitbrengen bod aanwijzingsprocedure bemiddelingsdienst)

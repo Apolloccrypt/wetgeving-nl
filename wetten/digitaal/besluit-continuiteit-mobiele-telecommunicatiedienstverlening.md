@@ -9,7 +9,7 @@ laatste_update: 2012-09-27
 status: geldig
 toestand: 2012-09-27
 bron: "https://wetten.overheid.nl/BWBR0031844"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 17 juli 2012 tot vaststelling van de procedure voor verlenging van vergunningen als bedoeld in artikel 20.2 van de Telecommunicatiewet ten behoeve van de continuïteit van dienstverlening (Besluit continuïteit mobiele telecommunicatiedienstverlening)

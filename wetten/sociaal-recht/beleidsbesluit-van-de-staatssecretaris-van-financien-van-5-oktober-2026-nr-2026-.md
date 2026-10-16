@@ -9,7 +9,7 @@ laatste_update: 2026-10-08
 status: geldig
 toestand: 2026-10-08
 bron: "https://wetten.overheid.nl/BWBR0053172"
-opgehaald: 2026-10-15
+opgehaald: 2026-10-16
 ---
 
 # Beleidsbesluit van de Staatssecretaris van Financiën van 5 oktober 2026, nr. 2026-17749 over de fiscale behandeling van DRV-uitkeringen (Beleidsbesluit fiscale behandeling van DRV-uitkeringen)

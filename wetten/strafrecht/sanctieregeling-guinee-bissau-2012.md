@@ -9,7 +9,7 @@ laatste_update: 2024-10-30
 status: geldig
 toestand: 2024-10-30
 bron: "https://wetten.overheid.nl/BWBR0031682"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 15 juni 2012, nr. 2012.13328, houdende beperkende maatregelen jegens Guinee-Bissau (Sanctieregeling Guinee-Bissau 2012)

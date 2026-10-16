@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0031914"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 22 augustus 2012, nr. GMT-3125861, houdende aanwijzing van de richtlijnen, bedoeld in artikel 1, eerste lid, onderdelen n en o, van de Wet veiligheid en kwaliteit lichaamsmateriaal (Regeling aanwijzing EU-richtlijnen Wet veiligheid en kwaliteit lichaamsmateriaal)

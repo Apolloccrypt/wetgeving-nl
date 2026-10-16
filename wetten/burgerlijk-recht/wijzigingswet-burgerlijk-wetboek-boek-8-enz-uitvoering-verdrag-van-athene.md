@@ -9,7 +9,7 @@ laatste_update: 2012-12-31
 status: geldig
 toestand: 2012-12-31
 bron: "https://wetten.overheid.nl/BWBR0031828"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wet van 28 juni 2012 tot wijziging van Boek 8 van het Burgerlijk Wetboek ter uitvoering van het Verdrag van Athene betreffende het vervoer van passagiers en hun bagage over zee van 1974, zoals gewijzigd bij het Protocol van 2002 (Trb. 2011, 110), en ter uitvoering van Verordening (EG) 392/2009 van het Europees Parlement en de Raad van 23 april 2009 betreffende de aansprakelijkheid van vervoerders van passagiers bij ongevallen (Pb EU L 131)

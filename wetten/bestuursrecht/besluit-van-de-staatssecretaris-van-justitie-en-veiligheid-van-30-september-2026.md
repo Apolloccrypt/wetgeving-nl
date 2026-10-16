@@ -9,7 +9,7 @@ laatste_update: 2026-10-09
 status: geldig
 toestand: 2026-10-09
 bron: "https://wetten.overheid.nl/BWBR0053178"
-opgehaald: 2026-10-15
+opgehaald: 2026-10-16
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 30 september 2026 nr. BOACAT2026/063, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Heerde

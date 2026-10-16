@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0030999"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wet van 22 december 2011 houdende wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2012)

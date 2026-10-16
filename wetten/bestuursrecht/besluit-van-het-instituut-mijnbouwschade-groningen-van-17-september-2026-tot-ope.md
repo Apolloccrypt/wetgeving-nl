@@ -9,7 +9,7 @@ laatste_update: 2026-10-09
 status: geldig
 toestand: 2026-10-09
 bron: "https://wetten.overheid.nl/BWBR0053177"
-opgehaald: 2026-10-15
+opgehaald: 2026-10-16
 ---
 
 # Besluit van het Instituut Mijnbouwschade Groningen van 17 september 2026, tot openstelling van het digitaal bestuurlijk verkeer met het Instituut Mijnbouwschade Groningen 2026 (Aanwijzingsbesluit elektronische kanalen publieke dienstverlening Instituut Mijnbouwschade Groningen 2026)

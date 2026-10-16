@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0032131"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 24 oktober 2012, nr. IENM/BSK-2012/202154, houdende vaststelling van de Regeling verklaring stortverbod afvalstoffen 2013

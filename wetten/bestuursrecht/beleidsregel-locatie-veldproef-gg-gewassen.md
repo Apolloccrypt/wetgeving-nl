@@ -9,7 +9,7 @@ laatste_update: 2012-09-27
 status: geldig
 toestand: 2012-09-27
 bron: "https://wetten.overheid.nl/BWBR0032017"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Beleidsregel van de Staatssecretaris van Infrastructuur en Milieu van 11 september 2012, nr. IenM/BSK-2012/162839, met betrekking tot het verstrekken van locatiegegevens bij de aanvraag om een vergunning voor een veldproef met een genetisch gemodificeerd gewas, en enige aan de vergunning te verbinden voorschriften (Beleidsregel locatie veldproef gg-gewassen)

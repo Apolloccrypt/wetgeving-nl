@@ -9,7 +9,7 @@ laatste_update: 2012-06-23
 status: geldig
 toestand: 2012-06-23
 bron: "https://wetten.overheid.nl/BWBR0031696"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu, van 14 juni 2012, nr. IENM/BSK-2012/59245, houdende intrekking van diverse vergoedingenregelingen van verschillende raden op het gebied van de leefomgeving en infrastructuur in verband met het feit dat deze raden zijn opgeheven

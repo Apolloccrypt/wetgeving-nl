@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0032044"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wet van 27 september 2012 tot wijziging van de Wet veiligheidsregio’s in verband met de oprichting van het Instituut Fysieke Veiligheid en in verband met de volledige regionalisering van de brandweer

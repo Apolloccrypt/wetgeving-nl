@@ -9,7 +9,7 @@ laatste_update: 2012-07-19
 status: geldig
 toestand: 2012-07-19
 bron: "https://wetten.overheid.nl/BWBR0031804"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 4 juli 2012, nr. WJZ/420483 (10207), houdende wijziging van het Besluit adviescommissie restitutieverzoeken cultuurgoederen en Tweede Wereldoorlog in verband met evaluatie van het restitutiebeleid

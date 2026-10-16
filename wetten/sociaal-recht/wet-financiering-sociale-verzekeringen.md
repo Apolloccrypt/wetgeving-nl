@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0017745"
-opgehaald: 2026-10-15
+opgehaald: 2026-10-16
 ---
 
 # Wet van 16 december 2004, houdende regels betreffende de financiering van de sociale verzekeringen (Wet financiering sociale verzekeringen)

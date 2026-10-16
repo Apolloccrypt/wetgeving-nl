@@ -8,7 +8,7 @@ laatste_update: 2012-01-27
 status: geldig
 toestand: 2012-01-27
 bron: "https://wetten.overheid.nl/BWBR0031175"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit vaststelling selectielijst Huurcommissie periode vanaf 2009

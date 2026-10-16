@@ -9,7 +9,7 @@ laatste_update: 2012-06-22
 status: geldig
 toestand: 2012-06-22
 bron: "https://wetten.overheid.nl/BWBR0031521"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 17 april 2012, houdende vaststelling van het Warenwetbesluit textielproducten in verband met uitvoeringsmaatregelen voor verordening (EU) nr. 1007/2011

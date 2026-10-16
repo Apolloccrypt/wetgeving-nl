@@ -9,7 +9,7 @@ laatste_update: 2013-06-01
 status: geldig
 toestand: 2013-06-01
 bron: "https://wetten.overheid.nl/BWBR0031667"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wet van 24 mei 2012 tot wijziging van de Vreemdelingenwet 2000 in verband met nationale visa en enkele andere onderwerpen

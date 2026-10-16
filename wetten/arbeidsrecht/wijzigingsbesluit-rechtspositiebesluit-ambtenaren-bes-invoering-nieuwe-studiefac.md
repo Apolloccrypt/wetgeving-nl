@@ -9,7 +9,7 @@ laatste_update: 2012-06-28
 status: geldig
 toestand: 2012-06-28
 bron: "https://wetten.overheid.nl/BWBR0031715"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 18 juni 2012, houdende wijziging van het Rechtspositiebesluit ambtenaren BES in verband met de invoering van een nieuwe studiefaciliteitenregeling

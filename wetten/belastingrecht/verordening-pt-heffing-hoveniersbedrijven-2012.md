@@ -9,7 +9,7 @@ laatste_update: 2012-10-14
 status: geldig
 toestand: 2012-10-14
 bron: "https://wetten.overheid.nl/BWBR0031162"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw van 19 september 2011, houdende de vaststelling van een heffing ten behoeve van hoveniersbedrijven (Verordening PT heffing hoveniersbedrijven 2012)

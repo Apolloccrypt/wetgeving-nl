@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0031791"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wet van 28 juni 2012 tot wijziging van onder meer de Mediawet 2008 in verband met aanpassing van de rijksmediabijdrage, beëindiging van de wettelijke taken van de Stichting Radio Nederland Wereldomroep en aanpassingen van meer technische aard

@@ -9,7 +9,7 @@ laatste_update: 2019-06-29
 status: geldig
 toestand: 2019-06-29
 bron: "https://wetten.overheid.nl/BWBR0031838"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Verordening van de Sociaal-Economische Raad van 15 juni 2012 tot instelling van de Commissie klachtenbehandeling Aanstellingskeuringen (Instellingsverordening Commissie Klachtenbehandeling Aanbestellingskeuringen)

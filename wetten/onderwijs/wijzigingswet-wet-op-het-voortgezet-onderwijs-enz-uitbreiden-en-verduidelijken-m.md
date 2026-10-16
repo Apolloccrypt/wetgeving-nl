@@ -9,7 +9,7 @@ laatste_update: 2014-08-01
 status: geldig
 toestand: 2014-08-01
 bron: "https://wetten.overheid.nl/BWBR0031208"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wet van 15 december 2011 tot wijziging van onder meer de Wet op het voortgezet onderwijs en de Wet voortgezet onderwijs BES in verband met het uitbreiden en verduidelijken van de mogelijkheden tot benoeming of tewerkstelling van leraren in het voortgezet onderwijs alsmede in verband met het beperken van de mogelijkheid tot het inzetten van onbevoegden

@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0031424"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu, van 27 maart 2012, nr. IENM/BSK-2012/21444, houdende vaststelling van de eisen voor de praktijkexamens voor de rijbewijscategorieën D1, E bij D1, D en E bij D (Regeling eisen praktijkexamens rijbewijscategorieën D1, E bij D1, D en E bij D)

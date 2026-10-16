@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0032121"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 13 oktober 2012 tot vaststelling van de vestigingsplaatsen van de raad voor rechtsbijstand (Besluit vestigingsplaatsen raad voor rechtsbijstand)

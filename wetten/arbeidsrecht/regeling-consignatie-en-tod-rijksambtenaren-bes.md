@@ -9,7 +9,7 @@ laatste_update: 2026-05-14
 status: geldig
 toestand: 2026-05-14
 bron: "https://wetten.overheid.nl/BWBR0031727"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de minister van Binnenlandse Zaken en Koninkrijksrelaties van 18 juni 2012, nr. 2012- 0000316382, tot het vaststellen van de hoogte van de vergoeding voor consignatie en van de toelage voor onregelmatige dienst voor Rijksambtenaren BES (Regeling consignatie en TOD Rijksambtenaren BES)

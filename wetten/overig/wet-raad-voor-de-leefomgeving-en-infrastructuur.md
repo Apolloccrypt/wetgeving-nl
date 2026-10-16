@@ -9,7 +9,7 @@ laatste_update: 2014-08-01
 status: geldig
 toestand: 2014-08-01
 bron: "https://wetten.overheid.nl/BWBR0031263"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wet van 19 januari 2012 inzake instelling van de Raad voor de leefomgeving en infrastructuur (Wet Raad voor de leefomgeving en infrastructuur)

@@ -8,7 +8,7 @@ laatste_update: 2011-11-19
 status: geldig
 toestand: 2011-11-19
 bron: "https://wetten.overheid.nl/BWBR0031214"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Circulaire wijzigingen Algemene pensioenwet politieke ambtsdragers (Appa) 2011 (burgemeester, enz.)

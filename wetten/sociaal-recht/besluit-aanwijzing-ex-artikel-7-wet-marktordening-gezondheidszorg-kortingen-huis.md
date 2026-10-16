@@ -9,7 +9,7 @@ laatste_update: 2012-03-01
 status: geldig
 toestand: 2012-03-01
 bron: "https://wetten.overheid.nl/BWBR0031206"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 16 december 2011, MC-U-3093364, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake kortingen huisartsenzorg, verloskundige zorg en logopedische zorg

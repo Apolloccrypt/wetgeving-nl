@@ -9,7 +9,7 @@ laatste_update: 2012-03-30
 status: geldig
 toestand: 2012-03-30
 bron: "https://wetten.overheid.nl/BWBR0031397"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 5 maart 2012 tot aanvulling van de opschriften op het vaandel van de Koninklijke Luchtmacht

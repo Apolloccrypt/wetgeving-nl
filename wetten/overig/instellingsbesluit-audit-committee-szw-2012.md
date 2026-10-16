@@ -9,7 +9,7 @@ laatste_update: 2012-08-24
 status: geldig
 toestand: 2012-08-24
 bron: "https://wetten.overheid.nl/BWBR0031911"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 15 augustus 2012, nr. FEZ/BV/2012/10759, tot instelling van het Audit Committee van het Ministerie van SZW (Instellingsbesluit SZW 2012)

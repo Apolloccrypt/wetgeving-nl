@@ -9,7 +9,7 @@ laatste_update: 2013-09-22
 status: geldig
 toestand: 2013-09-22
 bron: "https://wetten.overheid.nl/BWBR0031642"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw van 27 maart 2012, houdende de vaststelling van een aan telers van bloembollen op te leggen heffing ter bestrijding van de ziekte Ditylenchus dipsaci, voor het oogstjaar 2012 (Verordening PT heffing bestrijding Ditylenchus dipsaci oogstjaar 2012)

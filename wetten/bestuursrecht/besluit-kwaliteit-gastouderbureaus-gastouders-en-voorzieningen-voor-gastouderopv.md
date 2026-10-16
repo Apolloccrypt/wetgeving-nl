@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-06-30
 toestand: 2020-10-01
 bron: "https://wetten.overheid.nl/BWBR0031621"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 30 mei 2012 tot het stellen van eisen aan de Kwaliteit kinderopvang en peuterspeelzalen (Besluit kwaliteit kinderopvang en peuterspeelzalen)

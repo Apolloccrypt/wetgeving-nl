@@ -9,7 +9,7 @@ laatste_update: 2012-01-24
 status: geldig
 toestand: 2012-01-24
 bron: "https://wetten.overheid.nl/BWBR0031262"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van het Commissariaat voor de Media van 24 januari 2012 houdende beleidsregels omtrent de verlening van toestemming aan natuurlijke of rechtspersonen om door middel van een omroepzender een omroepdienst voor een bijzonder doel te verzorgen dat een beperkt bereik heeft of van beperkte duur is (Beleidsregels toestemming omroepdienst voor bijzonder doel 2012)

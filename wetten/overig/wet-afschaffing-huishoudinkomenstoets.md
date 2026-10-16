@@ -9,7 +9,7 @@ laatste_update: 2012-07-18
 status: geldig
 toestand: 2012-07-18
 bron: "https://wetten.overheid.nl/BWBR0031793"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wet van 12 juli 2012 tot wijziging van de Wet werk en bijstand in verband met de herziening van de definities van gezin en middelen (Wet afschaffing huishoudinkomenstoets)

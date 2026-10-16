@@ -9,7 +9,7 @@ laatste_update: 2012-01-01
 status: geldig
 toestand: 2012-01-01
 bron: "https://wetten.overheid.nl/BWBR0031072"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van de Bestuurskamer van 31 oktober 2011, houdende mandatering aan de secretaris van de Bestuurskamer van de bevoegdheden van de Bestuurskamer in het kader van de heffing op grond van artikel 46a van de Wet op de ondernemingsraden (Mandaatverleningsbesluit secretaris Bestuurskamer artikel 46a WOR 2012)

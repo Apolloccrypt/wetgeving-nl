@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0032147"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 13 oktober 2012, houdende wijziging van onder meer het Besluit zorgverzekering en het Besluit zorgaanspraken AWBZ in verband met maatregelen 2013 in het zorgpakket

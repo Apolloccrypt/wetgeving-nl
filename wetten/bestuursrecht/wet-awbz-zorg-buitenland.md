@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0031325"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wet van 2 februari 2012, houdende wijziging van de Algemene Wet Bijzondere Ziektekosten en de Wet toelating zorginstellingen in verband met het regelen van de voorwaarden voor aanspraken op langdurige zorg buiten Nederland en de financiering van deze aanspraken (Wet AWBZ-zorg buitenland)

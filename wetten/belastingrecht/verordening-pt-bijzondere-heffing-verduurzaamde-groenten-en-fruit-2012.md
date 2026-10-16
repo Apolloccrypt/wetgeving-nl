@@ -9,7 +9,7 @@ laatste_update: 2012-01-01
 status: geldig
 toestand: 2012-01-01
 bron: "https://wetten.overheid.nl/BWBR0031160"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw van 14 november 2011, houdende de vaststelling van een bijzondere heffing verduurzaamde groenten en fruit (Verordening PT bijzondere heffing verduurzaamde groenten en fruit 2012)

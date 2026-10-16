@@ -9,7 +9,7 @@ laatste_update: 2011-01-07
 status: geldig
 toestand: 2011-01-07
 bron: "https://wetten.overheid.nl/BWBR0031082"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 22 december 2011, nr. WJZ/11168400, houdende bekendmaking van het via de procedure van veiling verdelen van vergunningen voor frequentieruimte in de 800, 900 en 1800 MHz-band

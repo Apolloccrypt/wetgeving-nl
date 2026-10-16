@@ -9,7 +9,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBR0031619"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 2 mei 2012, houdende nadere voorschriften omtrent het onderwijskundig rapport en de specificatie van leer- en begeleidingsgegevens (Besluit uitwisseling leer- en begeleidingsgegevens)

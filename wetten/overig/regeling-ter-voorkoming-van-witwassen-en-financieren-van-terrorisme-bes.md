@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0031611"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling houdende bepalingen ter uitvoering van bij en krachtens de Wet ter voorkoming van witwassen en financieren van terrorisme BES gestelde regels (Regeling ter voorkoming van witwassen en financieren van terrorisme BES)

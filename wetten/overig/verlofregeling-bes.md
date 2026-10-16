@@ -9,7 +9,7 @@ laatste_update: 2012-08-15
 status: geldig
 toestand: 2012-08-15
 bron: "https://wetten.overheid.nl/BWBR0031958"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Staatssecretaris van Veiligheid en Justitie van 10 augustus, nr. 5734086/DJI/12, houdende regels aangaande het verlaten van de inrichting bij wijze van verlof BES (Verlofregeling BES)

@@ -9,7 +9,7 @@ laatste_update: 2012-10-01
 status: geldig
 toestand: 2012-10-01
 bron: "https://wetten.overheid.nl/BWBR0031443"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 27 maart 2012 tot wijziging van het Vreemdelingenbesluit 2000, het Besluit modern migratiebeleid en het Besluit inburgering (aanscherping eisen gezinsmigratie)

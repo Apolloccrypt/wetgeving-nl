@@ -9,7 +9,7 @@ laatste_update: 2012-07-01
 status: geldig
 toestand: 2012-07-01
 bron: "https://wetten.overheid.nl/BWBR0031689"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 12 juni 2012, nr. CZ-3115695, houdende regels ten aanzien van het verlenen van vergunningen voor het toepassen van celtransplantatie (Regeling celtransplantatie 2012)

@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0007090"
-opgehaald: 2026-10-15
+opgehaald: 2026-10-16
 ---
 
 # Regeling kentekenbewijzen

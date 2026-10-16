@@ -5,11 +5,12 @@ identifier: "BWBR0048848"
 categorie: "Milieu"
 soort: "ministeriele-regeling"
 publicatiedatum: 2023-11-07
-laatste_update: 2023-11-07
-status: geldig
-toestand: 2023-11-07
+laatste_update: 2025-08-01
+status: vervallen
+vervallen_op: 2026-10-12
+toestand: 2025-08-01
 bron: "https://wetten.overheid.nl/BWBR0048848"
-opgehaald: 2026-09-04
+opgehaald: 2026-10-16
 ---
 
 # Besluit van de directeur Mens en Organisatie van 16 oktober 2023, nr. 36304847, houdende verlening van ondermandaat, volmacht en machtiging voor de directie Mens en Organisatie van het Ministerie van Economische Zaken en Klimaat (Besluit ondermandaat, volmacht en machtiging voor de directie Mens en Organisatie van het Ministerie van Economische Zaken en Klimaat 2023)

@@ -9,7 +9,7 @@ laatste_update: 2018-08-01
 status: geldig
 toestand: 2018-08-01
 bron: "https://wetten.overheid.nl/BWBR0031503"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 13 april 2012, houdende instelling van een bestuurlijk afstemmingsoverleg zoönosen

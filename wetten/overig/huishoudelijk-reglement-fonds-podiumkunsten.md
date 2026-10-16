@@ -8,7 +8,7 @@ laatste_update: 2012-03-01
 status: geldig
 toestand: 2012-03-01
 bron: "https://wetten.overheid.nl/BWBR0031299"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Huishoudelijk reglement Fonds Podiumkunsten

@@ -9,7 +9,7 @@ laatste_update: 2012-06-06
 status: geldig
 toestand: 2012-06-06
 bron: "https://wetten.overheid.nl/BWBR0031618"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu van 30 mei 2012, nr. IENM/BSK-2012/79703, tot wijziging van de Subsidieregeling emissieverminderende voorzieningen voor voertuigen

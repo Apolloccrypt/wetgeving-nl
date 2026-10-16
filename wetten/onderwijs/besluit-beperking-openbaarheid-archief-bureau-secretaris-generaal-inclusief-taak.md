@@ -9,7 +9,7 @@ laatste_update: 2012-08-01
 status: geldig
 toestand: 2012-08-01
 bron: "https://wetten.overheid.nl/BWBR0031604"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 7 mei 2012, nr. FM/ICT/404686, houdende beperking van de openbaarheid van het archief van het Bureau Secretaris-generaal, inclusief taakvoorgangers en taakopvolgers van het Ministerie van Onderwijs, Cultuur en Wetenschap over de periode (1922–) 1945–1998

@@ -9,7 +9,7 @@ laatste_update: 2012-03-31
 status: geldig
 toestand: 2012-03-31
 bron: "https://wetten.overheid.nl/BWBR0031409"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu, van 26 maart 2012, nr. IENM/BSK-2012/31297, tot wijziging van diverse regelingen met betrekking tot het vervoer van gevaarlijke stoffen en tot intrekking van de Regeling veiligheidsadviseur vervoer gevaarlijke stoffen

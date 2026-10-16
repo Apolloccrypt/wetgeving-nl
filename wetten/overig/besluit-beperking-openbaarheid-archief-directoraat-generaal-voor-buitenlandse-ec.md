@@ -9,7 +9,7 @@ laatste_update: 2012-05-09
 status: geldig
 toestand: 2012-05-09
 bron: "https://wetten.overheid.nl/BWBR0031539"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van de Minister van Economische Zaken, Landbouw en Innovatie houdende beperking van de openbaarheid van het archief van het directoraat-generaal voor Buitenlandse Economische Betrekkingen (1945) 1984–1995

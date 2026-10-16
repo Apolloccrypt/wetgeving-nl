@@ -8,7 +8,7 @@ laatste_update: 2012-01-20
 status: geldig
 toestand: 2012-01-20
 bron: "https://wetten.overheid.nl/BWBR0031123"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit vaststelling selectielijst Productschap Vis periode vanaf 1956

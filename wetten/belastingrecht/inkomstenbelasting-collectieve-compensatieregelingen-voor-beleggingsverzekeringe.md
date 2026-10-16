@@ -8,7 +8,7 @@ laatste_update: 2011-12-24
 status: geldig
 toestand: 2011-12-24
 bron: "https://wetten.overheid.nl/BWBR0030941"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Inkomstenbelasting, collectieve compensatieregelingen voor beleggingsverzekeringen

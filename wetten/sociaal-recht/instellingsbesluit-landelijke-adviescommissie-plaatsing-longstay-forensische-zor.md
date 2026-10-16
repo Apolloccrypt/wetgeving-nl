@@ -9,7 +9,7 @@ laatste_update: 2018-05-10
 status: geldig
 toestand: 2018-05-10
 bron: "https://wetten.overheid.nl/BWBR0031541"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 15 april 2012, nr. DDS5706676, houdende instelling van de Landelijke adviescommissie plaatsing longstay forensische zorg (Instellingsbesluit Landelijke adviescommissie plaatsing longstay forensische zorg)

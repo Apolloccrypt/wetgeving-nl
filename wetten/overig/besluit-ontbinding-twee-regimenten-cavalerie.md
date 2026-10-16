@@ -9,7 +9,7 @@ laatste_update: 2012-09-16
 status: geldig
 toestand: 2012-09-16
 bron: "https://wetten.overheid.nl/BWBR0031965"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 24 augustus 2012 tot ontbinding van twee regimenten cavalerie

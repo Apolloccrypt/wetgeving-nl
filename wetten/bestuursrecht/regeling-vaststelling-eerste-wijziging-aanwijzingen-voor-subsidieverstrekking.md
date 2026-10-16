@@ -9,7 +9,7 @@ laatste_update: 2012-07-01
 status: geldig
 toestand: 2012-07-01
 bron: "https://wetten.overheid.nl/BWBR0031736"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister-President, Minister van Algemene Zaken, van 21 juni 2012, nr. 3113629, houdende vaststelling van de eerste wijziging van de Aanwijzingen voor subsidieverstrekking

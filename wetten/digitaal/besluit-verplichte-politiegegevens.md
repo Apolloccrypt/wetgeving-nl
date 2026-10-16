@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0032083"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 4 oktober 2012, houdende regels omtrent de doeleinden waarvoor de politie en de rijksrecherche, met inachtneming van de Wet politiegegevens, gegevens verwerken, de categorieën van gegevens die daartoe worden verwerkt, de terbeschikkingstelling en verstrekking van gegevens alsmede de wijze van verwerking (Besluit verplichte politiegegevens)

@@ -9,7 +9,7 @@ laatste_update: 2015-11-07
 status: geldig
 toestand: 2015-11-07
 bron: "https://wetten.overheid.nl/BWBR0032026"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu houdende omzetting van bepalingen omtrent het luchthavenluchtverkeer uit het aanwijzingsbesluit van de luchthaven Teuge, in verband met de vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens (Omzettingsregeling luchthaven Teuge)

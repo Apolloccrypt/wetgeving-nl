@@ -9,7 +9,7 @@ laatste_update: 2018-08-07
 status: geldig
 toestand: 2018-08-07
 bron: "https://wetten.overheid.nl/BWBR0032127"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 23 oktober 2012, houdende aanwijzing van de voorwerpen, bedoeld in artikel 16c van de Auteurswet, en tot vaststelling van nadere regels over de hoogte en de verschuldigdheid van de vergoeding, bedoeld in artikel 16c van de Auteurswet

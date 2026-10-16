@@ -8,7 +8,7 @@ laatste_update: 2003-03-01
 status: geldig
 toestand: 2003-03-01
 bron: "https://wetten.overheid.nl/BWBR0031201"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Beschikking rendementen gesubsidieerde woningbouw, januari 2003

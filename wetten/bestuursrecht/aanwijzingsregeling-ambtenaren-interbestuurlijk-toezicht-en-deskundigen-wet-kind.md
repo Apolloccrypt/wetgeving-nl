@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0032033"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 24 september 2012, KO/2012/13762, tot aanwijzing van ambtenaren belast met het toezicht op de uitvoering van de aan het college van burgemeester en wethouders opgedragen taken ten aanzien van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen (Aanwijzingsregeling ambtenaren interbestuurlijk toezicht Wet kinderopvang en kwaliteitseisen peuterspeelzalen)

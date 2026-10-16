@@ -9,7 +9,7 @@ laatste_update: 2012-06-27
 status: geldig
 toestand: 2012-06-27
 bron: "https://wetten.overheid.nl/BWBR0031703"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van de Minister van Veiligheid en Justitie, van 25 mei 2012, nr. 267619, houdende instelling van het Auditteam Voetbal en Veiligheid

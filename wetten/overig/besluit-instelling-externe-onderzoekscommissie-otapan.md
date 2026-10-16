@@ -9,7 +9,7 @@ laatste_update: 2012-03-08
 status: geldig
 toestand: 2012-03-08
 bron: "https://wetten.overheid.nl/BWBR0031335"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Milieu, van 28 februari 2012, nr. IENM/BSK-2012/27753, houdende instelling Externe Onderzoekscommissie Otapan

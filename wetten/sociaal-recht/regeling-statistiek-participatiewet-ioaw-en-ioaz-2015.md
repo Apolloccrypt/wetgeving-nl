@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0031830"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 17 juli 2012, IVV/OOG/2012/11022, houdende regels inzake de verstrekking van statistische gegevens met betrekking tot de Wet werk en bijstand, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers en de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen (Regeling statistiek WWB, IOAW en IOAZ 2013)

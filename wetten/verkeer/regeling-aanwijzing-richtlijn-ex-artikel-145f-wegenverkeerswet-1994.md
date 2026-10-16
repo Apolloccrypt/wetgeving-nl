@@ -9,7 +9,7 @@ laatste_update: 2012-06-27
 status: geldig
 toestand: 2012-06-27
 bron: "https://wetten.overheid.nl/BWBR0031704"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu, van 18 juni 2012, nr. ENM/BSK-2012/68971, houdende aanwijzing van de richtlijn, bedoeld in artikel 145f van de Wegenverkeerswet 1994

@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0031739"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 25 juni 2012, houdende aanwijzing van zeeschepen ten aanzien waarvan artikel 693 en de afdelingen 12 en 12a van titel 10 van Boek 7 van het Burgerlijk Wetboek niet van toepassing zijn

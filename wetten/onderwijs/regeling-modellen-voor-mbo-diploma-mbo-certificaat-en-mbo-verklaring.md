@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0031616"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 15 maart 2012, nr. BVE/Stelsel/294391, houdende vaststelling van modellen en technische veiligheidseisen voor diploma’s en resultatenlijsten mbo (Regeling modeldiploma mbo)

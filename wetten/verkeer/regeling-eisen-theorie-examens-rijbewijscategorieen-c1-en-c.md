@@ -9,7 +9,7 @@ laatste_update: 2024-07-01
 status: geldig
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0031429"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu, van 27 maart 2012, nr. IENM/BSK-2012/21909, houdende vaststelling van de eisen voor de theorie-examens voor de rijbewijscategorieën C1 en C (Regeling eisen theorie-examens rijbewijscategorieën C1 en C)

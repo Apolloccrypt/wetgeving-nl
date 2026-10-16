@@ -9,7 +9,7 @@ laatste_update: 2012-01-03
 status: geldig
 toestand: 2012-01-03
 bron: "https://wetten.overheid.nl/BWBR0031061"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wet van 17 november 2011 tot wijziging van het Wetboek van Strafrecht in verband met het beperken van de mogelijkheden om een taakstraf op te leggen voor ernstige zeden- en geweldsmisdrijven en bij recidive van misdrijven

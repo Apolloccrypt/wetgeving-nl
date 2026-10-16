@@ -9,7 +9,7 @@ laatste_update: 2012-10-15
 status: geldig
 toestand: 2012-10-15
 bron: "https://wetten.overheid.nl/BWBR0031918"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 17 augustus 2012, RUA/A/2012/12738, tot wijziging Rechtspositieregeling lid Raad van bestuur SVB

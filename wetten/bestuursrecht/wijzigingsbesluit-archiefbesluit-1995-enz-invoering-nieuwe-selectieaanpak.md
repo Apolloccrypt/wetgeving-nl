@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0032052"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 7 september 2012 tot wijziging van het Archiefbesluit 1995 en het Archiefbesluit BES onder meer in verband met de invoering van de nieuwe selectieaanpak

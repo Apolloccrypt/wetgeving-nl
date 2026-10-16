@@ -9,7 +9,7 @@ laatste_update: 2012-10-09
 status: geldig
 toestand: 2012-10-09
 bron: "https://wetten.overheid.nl/BWBR0032057"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 28 september 2012, nr. 2012-0000029879, tot machtiging van de manager van het Expertisecentrum Organisatie en Personeel

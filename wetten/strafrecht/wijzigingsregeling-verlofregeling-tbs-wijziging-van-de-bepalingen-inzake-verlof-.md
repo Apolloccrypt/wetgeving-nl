@@ -9,7 +9,7 @@ laatste_update: 2012-05-27
 status: geldig
 toestand: 2012-05-27
 bron: "https://wetten.overheid.nl/BWBR0031581"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Staatssecretaris van Veiligheid en Justitie van 29 maart 2012 nr. 5701009/11/DJI, houdende wijziging van de Verlofregeling TBS in verband met een wijziging van de bepalingen inzake verlof in geval van longstay en enkele tekstuele aanpassingen

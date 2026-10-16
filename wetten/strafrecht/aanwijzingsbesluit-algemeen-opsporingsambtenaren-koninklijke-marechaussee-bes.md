@@ -9,7 +9,7 @@ laatste_update: 2012-10-17
 status: geldig
 toestand: 2012-10-17
 bron: "https://wetten.overheid.nl/BWBR0032088"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van de Minister van Veiligheid en Justitie van 8 oktober 2012, kenmerk 307704, houdende de aanwijzing van militairen van de Koninklijke marechaussee die met de opsporing van strafbare feiten zijn belast in de openbare lichamen Bonaire, Sint Eustatius en Saba (Aanwijzingsbesluit algemeen opsporingsambtenaren Koninklijke marechaussee BES)

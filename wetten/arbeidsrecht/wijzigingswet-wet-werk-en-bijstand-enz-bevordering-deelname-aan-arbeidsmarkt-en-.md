@@ -9,7 +9,7 @@ laatste_update: 2012-07-01
 status: geldig
 toestand: 2012-07-01
 bron: "https://wetten.overheid.nl/BWBR0030997"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wet van 22 december 2011 tot wijziging van de Wet werk en bijstand en samenvoeging van die wet met de Wet investeren in jongeren gericht op bevordering van deelname aan de arbeidsmarkt en vergroting van de eigen verantwoordelijkheid van uitkeringsgerechtigden

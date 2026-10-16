@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0031555"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wet van 29 maart 2012, houdende wijziging van enkele socialezekerheidswetten in verband met aanpassing van de hoogte van de uitkering aan het woonland (Wet woonlandbeginsel in de sociale zekerheid)

@@ -8,7 +8,7 @@ laatste_update: 2011-12-29
 status: geldig
 toestand: 2011-12-29
 bron: "https://wetten.overheid.nl/BWBR0030975"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit controleprotocol authentieke gegevens basisregistratie topografie (TOP10NL)

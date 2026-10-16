@@ -9,7 +9,7 @@ laatste_update: 2014-11-01
 status: geldig
 toestand: 2014-11-01
 bron: "https://wetten.overheid.nl/BWBR0031750"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wet van 21 juni 2012 tot wijziging van de Wet ruimtelijke ordening en enige andere wetten (voorzien in een wettelijke grondslag voor provinciaal medebewind en voor de mogelijkheid tot afwijking van algemene regels)

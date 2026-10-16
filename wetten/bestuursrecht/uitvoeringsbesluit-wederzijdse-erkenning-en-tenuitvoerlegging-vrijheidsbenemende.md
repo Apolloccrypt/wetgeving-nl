@@ -9,7 +9,7 @@ laatste_update: 2012-11-01
 status: geldig
 toestand: 2012-11-01
 bron: "https://wetten.overheid.nl/BWBR0031978"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 4 september 2012, houdende regels ter uitvoering van de Wet wederzijdse erkenning en tenuitvoerlegging vrijheidsbenemende en voorwaardelijke sancties (Uitvoeringsbesluit wederzijdse erkenning en tenuitvoerlegging vrijheidsbenemende en voorwaardelijke sancties)

@@ -5,10 +5,11 @@ categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
 publicatiedatum: 2021-10-16
 laatste_update: 2021-10-16
-status: geldig
+status: vervallen
+vervallen_op: 2026-10-15
 toestand: 2021-10-16
 bron: "https://wetten.overheid.nl/BWBR0045697"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-16
 ---
 
 # Tijdelijke Regeling eenmalige uitkering Dutchbat-III-veteranen

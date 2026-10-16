@@ -9,7 +9,7 @@ laatste_update: 2012-04-03
 status: geldig
 toestand: 2012-04-03
 bron: "https://wetten.overheid.nl/BWBR0031412"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport, nr. PG/CI 3108292, houdende aanwijzing ex artikel 34, eerste lid, van de Wet publieke gezondheid

@@ -9,7 +9,7 @@ laatste_update: 2012-04-20
 status: geldig
 toestand: 2012-04-20
 bron: "https://wetten.overheid.nl/BWBR0031474"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van de Minister van Economische Zaken, Landbouw en Innovatie van 11 april 2012, nr DII1235364, houdende openbaarmaking van het volgen van innovatiegelden met betrekking tot uiteenlopende innovatiedoeleinden

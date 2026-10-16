@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0031952"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 28 augustus 2012 tot wijziging van het Besluit tarieven in strafzaken 2003 in verband met de hoogte van de vergoedingen

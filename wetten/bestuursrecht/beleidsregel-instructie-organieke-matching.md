@@ -9,7 +9,7 @@ laatste_update: 2013-05-17
 status: geldig
 toestand: 2013-05-17
 bron: "https://wetten.overheid.nl/BWBR0031608"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Beleidsregel van de Minister van Veiligheid en Justitie d.d. 10 mei 2012, nr. 2012-0000041275, DGPolitie/Programma Personeel en Materieel, houdende de te volgen stappen bij de organieke matching bij de politie (beleidsregel Instructie organieke matching)

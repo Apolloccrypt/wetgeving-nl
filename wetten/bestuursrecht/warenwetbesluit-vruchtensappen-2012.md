@@ -9,7 +9,7 @@ laatste_update: 2026-06-14
 status: geldig
 toestand: 2026-06-14
 bron: "https://wetten.overheid.nl/BWBR0032162"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 19 oktober 2012, houdende regels ter uitvoering van Richtlijn 2001/112/EG (Warenwetbesluit vruchtensappen 2012)

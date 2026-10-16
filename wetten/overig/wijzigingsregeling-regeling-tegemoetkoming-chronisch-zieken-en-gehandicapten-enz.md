@@ -9,7 +9,7 @@ laatste_update: 2012-06-15
 status: geldig
 toestand: 2012-06-15
 bron: "https://wetten.overheid.nl/BWBR0031646"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 1 juni 2012, nr. Z-3117671, houdende wijziging van de Regeling tegemoetkoming chronisch zieken en gehandicapten en van de Regeling zorgverzekering in verband met diverse onderwerpen

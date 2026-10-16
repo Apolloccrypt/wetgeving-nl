@@ -9,7 +9,7 @@ laatste_update: 2025-07-05
 status: geldig
 toestand: 2025-07-05
 bron: "https://wetten.overheid.nl/BWBR0031305"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 15 februari 2012, nr. DJZ/BR/0065-2012, houdende beperkende maatregelen jegens Syrië (Sanctieregeling Syrië 2012)

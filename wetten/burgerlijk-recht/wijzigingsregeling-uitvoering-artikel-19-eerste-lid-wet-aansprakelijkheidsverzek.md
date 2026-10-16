@@ -9,7 +9,7 @@ laatste_update: 2012-07-10
 status: geldig
 toestand: 2012-07-10
 bron: "https://wetten.overheid.nl/BWBR0031770"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wijziging van de regeling van de Minister van Financiën van 1 februari 1999 ter uitvoering van artikel 19, eerste lid, van de Wet aansprakelijkheidsverzekering motorrijtuigen (Stcrt. 1999, 26) nr. FM/2012/410 M

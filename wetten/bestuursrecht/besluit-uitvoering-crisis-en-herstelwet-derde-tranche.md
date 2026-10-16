@@ -9,7 +9,7 @@ laatste_update: 2016-07-01
 status: geldig
 toestand: 2016-07-01
 bron: "https://wetten.overheid.nl/BWBR0031826"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 12 juli 2012 tot wijziging van het Besluit uitvoering Crisis- en herstelwet, Bijlage II bij de Crisis- en herstelwet en het Stortbesluit bodembescherming (Besluit uitvoering Crisis- en herstelwet, derde tranche)

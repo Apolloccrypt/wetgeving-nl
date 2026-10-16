@@ -9,7 +9,7 @@ laatste_update: 2012-07-07
 status: geldig
 toestand: 2012-07-07
 bron: "https://wetten.overheid.nl/BWBR0031763"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de secretaris-generaal van het Ministerie van Veiligheid en Justitie van 25 juni 2012, nr. 2012-193556 houdende verlening van mandaat, volmacht en machtiging met betrekking tot het beheer van het politiekorps en het brandweerkorps van Bonaire, Sint Eustatius en Saba (Regeling verlening ondermandaat korpsbeheer politie en brandweer BES 2012)

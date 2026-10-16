@@ -9,7 +9,7 @@ laatste_update: 2012-08-01
 status: geldig
 toestand: 2012-08-01
 bron: "https://wetten.overheid.nl/BWBR0031725"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 22 juni 2012, houdende de ontbinding van de Tweede Kamer der Staten-Generaal

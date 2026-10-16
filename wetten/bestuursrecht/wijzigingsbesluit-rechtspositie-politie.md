@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0032128"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 13 oktober 2012, houdende wijziging van het Besluit algemene rechtspositie politie, het Besluit bezoldiging politie en enkele andere rechtspositionele besluiten in verband met de inwerkingtreding van de Politiewet 2012 (Wijzigingsbesluit rechtspositie politie)

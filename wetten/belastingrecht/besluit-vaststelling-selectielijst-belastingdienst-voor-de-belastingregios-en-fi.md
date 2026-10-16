@@ -8,7 +8,7 @@ laatste_update: 2012-02-23
 status: geldig
 toestand: 2012-02-23
 bron: "https://wetten.overheid.nl/BWBR0031290"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit vaststelling selectielijst Belastingdienst voor de belastingregio's en fiscale processen vanaf 2007

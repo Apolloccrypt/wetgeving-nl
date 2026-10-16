@@ -9,7 +9,7 @@ laatste_update: 2012-07-01
 status: geldig
 toestand: 2012-07-01
 bron: "https://wetten.overheid.nl/BWBR0031700"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 15 juni 2012, nr. IVV/LZW/2012/8891, tot herziening van de AKW-bedragen (Regeling herziening AKW-bedragen juli 2012)

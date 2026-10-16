@@ -9,7 +9,7 @@ laatste_update: 2013-04-01
 status: geldig
 toestand: 2013-04-01
 bron: "https://wetten.overheid.nl/BWBR0031347"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit, houdende de aanwijzing van personen belast met het toezicht op de naleving van de Wet voorkoming verontreiniging door schepen

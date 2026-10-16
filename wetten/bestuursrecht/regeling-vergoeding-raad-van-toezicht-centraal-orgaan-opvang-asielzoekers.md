@@ -9,7 +9,7 @@ laatste_update: 2012-06-01
 status: geldig
 toestand: 2012-06-01
 bron: "https://wetten.overheid.nl/BWBR0031601"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister voor Immigratie, Integratie en Asiel van 24 mei 2012, nr. 2012-0000305271, houdende de vergoeding aan de voorzitter en de leden van de raad van toezicht van het Centraal Orgaan opvang asielzoekers (Regeling vergoeding raad van toezicht Centraal Orgaan opvang asielzoekers)

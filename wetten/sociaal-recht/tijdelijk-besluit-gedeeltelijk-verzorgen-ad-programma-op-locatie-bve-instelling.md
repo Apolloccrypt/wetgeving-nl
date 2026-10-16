@@ -9,7 +9,7 @@ laatste_update: 2015-08-01
 status: geldig
 toestand: 2015-08-01
 bron: "https://wetten.overheid.nl/BWBR0031846"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 6 juli 2012 op grond van artikel 1.7a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek met het oog op het gedeeltelijk verzorgen van een Associate-degreeprogramma op de locatie van een bve-instelling (Tijdelijk besluit gedeeltelijk verzorgen Ad-programma op locatie bve-instelling)

@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0032110"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 6 oktober 2012 tot wijziging van het Uitvoeringsbesluit ex artikel 437, eerste lid, van het Wetboek van Strafrecht in verband met een aanscherping van de registratieplicht

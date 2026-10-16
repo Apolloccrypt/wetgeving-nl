@@ -8,7 +8,7 @@ laatste_update: 2012-04-05
 status: geldig
 toestand: 2012-04-05
 bron: "https://wetten.overheid.nl/BWBR0031420"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit vaststelling selectielijst Kiwa over de periode vanaf 1996

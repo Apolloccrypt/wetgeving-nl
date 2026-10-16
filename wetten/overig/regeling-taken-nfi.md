@@ -9,7 +9,7 @@ laatste_update: 2012-05-19
 status: geldig
 toestand: 2012-05-19
 bron: "https://wetten.overheid.nl/BWBR0031558"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de minister van Veiligheid en Justitie, d.d. 8 mei 2012, nr. 227774, houdende bepalingen inzake de taakopdracht van het Nederlands Forensisch Instituut (Regeling taken NFI)

@@ -8,7 +8,7 @@ laatste_update: 2012-10-10
 status: geldig
 toestand: 2012-10-10
 bron: "https://wetten.overheid.nl/BWBR0032071"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Aanwijzing vervolgbeslissing inzake levensbeëndiging op verzoek

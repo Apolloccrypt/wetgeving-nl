@@ -9,7 +9,7 @@ laatste_update: 2026-01-31
 status: geldig
 toestand: 2026-01-31
 bron: "https://wetten.overheid.nl/BWBR0031708"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 18 juni 2012, nr. CZW/S&B, 2012-0000298491, houdende nadere voorschriften met betrekking tot de functionele indeling van de begroting en jaarrekening BES (Regeling functionele indeling BES)

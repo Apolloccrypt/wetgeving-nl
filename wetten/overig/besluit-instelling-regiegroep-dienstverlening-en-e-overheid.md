@@ -8,7 +8,7 @@ laatste_update: 2012-09-21
 status: geldig
 toestand: 2012-09-21
 bron: "https://wetten.overheid.nl/BWBR0032002"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit instelling Regiegroep Dienstverlening en e-overheid

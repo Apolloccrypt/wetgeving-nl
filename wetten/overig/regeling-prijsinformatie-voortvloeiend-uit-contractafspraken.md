@@ -8,7 +8,7 @@ laatste_update: 2012-01-24
 status: geldig
 toestand: 2012-01-24
 bron: "https://wetten.overheid.nl/BWBR0031143"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling prijsinformatie voortvloeiend uit contractafspraken

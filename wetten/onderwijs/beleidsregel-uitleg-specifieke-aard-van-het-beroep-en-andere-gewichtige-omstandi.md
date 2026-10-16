@@ -9,7 +9,7 @@ laatste_update: 2020-11-25
 status: geldig
 toestand: 2020-11-25
 bron: "https://wetten.overheid.nl/BWBR0031787"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 21 juni 2012, nr. IvhO/418788, betreffende de uitleg van de termen ‘specifieke aard van het beroep’ en ‘andere gewichtige omstandigheden’, bedoeld in de Leerplichtwet 1969, in verband met de toepassing van de bestuurlijke boete als bedoeld in artikel 27 van de Leerplichtwet 1969, bij overtreding van de vrijstellingsgronden van geregeld schoolbezoek als bedoeld in artikel 13a, tweede lid, en artikel 14, derde lid, eerste volzin, van de Leerplichtwet 1969 (Beleidsregel uitleg ‘specifieke aard van het beroep’ en ‘andere gewichtige omstandigheden’ bedoeld in de Leerplichtwet 1969)

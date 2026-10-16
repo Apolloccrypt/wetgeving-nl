@@ -9,7 +9,7 @@ laatste_update: 2026-07-09
 status: geldig
 toestand: 2026-07-09
 bron: "https://wetten.overheid.nl/BWBR0032075"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 19 september 2012, nr. WJZ/387165 (10152), houdende regels voor de verstrekking van subsidie voor de instandhouding van rijksmonumenten (Subsidieregeling instandhouding monumenten)

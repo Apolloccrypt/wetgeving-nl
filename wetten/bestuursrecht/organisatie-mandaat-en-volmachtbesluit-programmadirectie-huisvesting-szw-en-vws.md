@@ -9,7 +9,7 @@ laatste_update: 2012-08-29
 status: geldig
 toestand: 2012-08-29
 bron: "https://wetten.overheid.nl/BWBR0031924"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 16 juli 2012, HVSV/2012/9664, houdende de inrichting van de programmadirectie Huisvesting SZW en VWS alsmede de doorverlening van de vertegenwoordigingsbevoegdheden van de programmadirecteur Huisvesting SZW en VWS (Organisatie-, mandaat- en volmachtbesluit programmadirectie Huisvesting SZW en VWS)

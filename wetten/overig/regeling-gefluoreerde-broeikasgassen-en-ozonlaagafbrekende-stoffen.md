@@ -5,11 +5,11 @@ identifier: "BWBR0037094"
 categorie: "Milieu"
 soort: "ministeriele-regeling"
 publicatiedatum: 2015-12-01
-laatste_update: 2025-12-13
+laatste_update: 2026-10-10
 status: geldig
-toestand: 2025-12-13
+toestand: 2026-10-10
 bron: "https://wetten.overheid.nl/BWBR0037094"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 18 september 2015, nr. IENM/BSK-2015/183974, houdende vaststelling van nieuwe regels voor bepaalde gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen ter uitvoering van Verordening (EU) nr. 517/2014 van 16 april 2014 betreffende gefluoreerde broeikasgassen en tot intrekking van Verordening (EG) nr. 842/2006 en ter uitvoering van Verordening (EG) nr. 1005/2009 van 16 september 2009 betreffende ozonlaagafbrekende stoffen (Regeling gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen)
@@ -83,31 +83,33 @@ Een instelling verleent een certificaat aan de natuurlijk persoon of de ondernem
 
 1. Onverminderd [artikel 14, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&artikel=14) schorst een instelling het certificaat van een onderneming of trekt deze in, als:
 
-- a. de instelling heeft vastgesteld dat de onderneming niet of niet langer voldoet aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=2&artikel=2&z=2025-12-13&g=2025-12-13), en de instelling geen gerechtvaardigd vertrouwen heeft dat de onderneming binnen afzienbare tijd daaraan kan of wil voldoen;
+- a. de instelling heeft vastgesteld dat de onderneming niet of niet langer voldoet aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=2&artikel=2&z=2026-10-10&g=2026-10-10), en de instelling geen gerechtvaardigd vertrouwen heeft dat de onderneming binnen afzienbare tijd daaraan kan of wil voldoen;
 
 - b. de onderneming in staat van faillissement verkeert, of
 
 - c. de onderneming een daartoe strekkend verzoek heeft gedaan.
 
-2. Als het certificaat is geschorst, stelt de instelling de periode vast gedurende welke de onderneming de gelegenheid krijgt om volledig aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=2&artikel=2&z=2025-12-13&g=2025-12-13) te voldoen. Indien de onderneming naar het oordeel van de instelling binnen de vastgestelde periode daaraan voldoet, heft de instelling de schorsing op.
+2. Als het certificaat is geschorst, stelt de instelling de periode vast gedurende welke de onderneming de gelegenheid krijgt om volledig aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=2&artikel=2&z=2026-10-10&g=2026-10-10) te voldoen. Indien de onderneming naar het oordeel van de instelling binnen de vastgestelde periode daaraan voldoet, heft de instelling de schorsing op.
 
-3. Als de onderneming niet binnen de vastgestelde periode volledig aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=2&artikel=2&z=2025-12-13&g=2025-12-13) voldoet, trekt de instelling het certificaat in.
+3. Als de onderneming niet binnen de vastgestelde periode volledig aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=2&artikel=2&z=2026-10-10&g=2026-10-10) voldoet, trekt de instelling het certificaat in.
 
 4. De natuurlijk persoon van wie het certificaat is ingetrokken naar aanleiding van een aanwijzing van de minister op grond van [artikel 14, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&artikel=14) of de onderneming van wie het certificaat is ingetrokken, levert dit indien er sprake is van een papieren certificaat per ommegaande in bij de instelling die het certificaat heeft verleend.
 
 5. De onderneming van wie het certificaat is ingetrokken, informeert onmiddellijk de exploitanten waarvoor die onderneming werkzaamheden verricht, over de intrekking van het certificaat.
 
-#### § 3. Verplichtingen voor exploitanten
+#### § 3. Attestering van natuurlijke personen
 
-##### Artikel 6. Lekkagedetectie en bewaren van informatie
+##### Artikel 6. Aanwijzing attesteringsinstanties
 
-1. De exploitant draagt er zorg voor dat een lekkagedetectiesysteem, waarvan apparatuur is voorzien, ten minste eens per twaalf maanden wordt gecontroleerd op meetnauwkeurigheid en juiste werking van het alarm.
+1. De minister wijst attesteringsinstanties als bedoeld in artikel 10 van de F-gassenverordening en artikel 4 van Uitvoeringsverordening 2025/1893 van de Europese Commissie van 17 september 2025, aan.
 
-2. De in het eerste lid bedoelde controles worden verricht door een natuurlijk persoon die voor de desbetreffende apparatuur beschikt over een certificaat voor de controle op lekkage als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&artikel=6), of [artikel 9, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&artikel=9).
+2. De minister kan een aanwijzing als bedoeld in het eerste lid wijzigen, schorsen of intrekken, indien de attesteringsinstantie niet voldoet aan artikel 4 van Uitvoeringsverordening 2025/1893 van de Europese Commissie van 17 september 2025.
 
-3. Als tijdens een in het eerste lid bedoelde controle een afwijking wordt geconstateerd, laat de exploitant dit onmiddellijk herstellen door een natuurlijk persoon als bedoeld in het tweede lid.
+##### Artikel 6a. Opleidingsattest
 
-4. In afwijking van het eerste lid, wordt een lekkagedetectiesysteem, waarvan een elektrische schakelinrichting is voorzien, eens per zes jaar gecontroleerd.
+1. Een opleidingsattest als bedoeld in artikel 10 van de F-gassenverordening en artikel 2 van Uitvoeringsverordening 2025/1893 van de Europese Commissie van 17 september 2025 wordt afgegeven door een attesteringsinstantie als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=3&artikel=6&z=2026-10-10&g=2026-10-10).
+
+2. Een attesteringsinstantie kan een natuurlijk persoon op diens aanvraag geheel of gedeeltelijk ontheffing verlenen van de verplichting tot het volgen van een opleiding als bedoeld in artikel 3, eerste lid, van die Uitvoeringsverordening, indien de aanvrager aantoont te beschikken over eerder verworven vaardigheden en kennis die gelijkwaardig zijn aan de vaardigheden en kennis, bedoeld in bijlage I van die Uitvoeringsverordening.
 
 #### § 4. Erkenning van instellingen
 
@@ -119,7 +121,7 @@ De aanvraag voor verlening van een erkenning van een instelling of wijziging daa
 
 ##### Artikel 8. Onafhankelijkheid en onpartijdigheid
 
-1. Een instelling is onpartijdig en onafhankelijk ten opzichte van de natuurlijk persoon en de onderneming die zij beoordeelt op het voldoen aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=2&artikel=2&z=2025-12-13&g=2025-12-13).
+1. Een instelling is onpartijdig en onafhankelijk ten opzichte van de natuurlijk persoon en de onderneming die zij beoordeelt op het voldoen aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=2&artikel=2&z=2026-10-10&g=2026-10-10).
 
 2. Een instelling die natuurlijke personen certificeert, is onafhankelijk ten opzichte van de organisatie die de natuurlijk persoon heeft opgeleid als voorbereiding op het examen dat wordt afgelegd ter verkrijging van een certificaat.
 
@@ -131,7 +133,7 @@ De aanvraag voor verlening van een erkenning van een instelling of wijziging daa
 
 - b. stelt de resultaten van afgelegde examens uiterlijk binnen drie weken na afname van het examen vast;
 
-- c. meldt aan de beheerder van het register zo spoedig mogelijk de gegevens van iedere gecertificeerde natuurlijke persoon die benodigd zijn voor de registratie, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=5&artikel=12&z=2025-12-13&g=2025-12-13), en de intrekkingen van certificaten;
+- c. meldt aan de beheerder van het register zo spoedig mogelijk de gegevens van iedere gecertificeerde natuurlijke persoon die benodigd zijn voor de registratie, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=5&artikel=12&z=2026-10-10&g=2026-10-10), en de intrekkingen van certificaten;
 
 - d. neemt afdoende maatregelen om fraude voor, tijdens en na het examen te voorkomen;
 
@@ -145,17 +147,17 @@ De aanvraag voor verlening van een erkenning van een instelling of wijziging daa
 
 - b. voldoet aan de eisen die zijn gesteld in de BRL 100 en neemt bij de uitvoering van haar werkzaamheden die BRL in acht;
 
-- c. meldt aan de beheerder van het register zo spoedig mogelijk de gegevens van iedere gecertificeerde onderneming die benodigd zijn voor de registratie, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=5&artikel=12&z=2025-12-13&g=2025-12-13), en de schorsingen en de intrekkingen van certificaten;
+- c. meldt aan de beheerder van het register zo spoedig mogelijk de gegevens van iedere gecertificeerde onderneming die benodigd zijn voor de registratie, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=5&artikel=12&z=2026-10-10&g=2026-10-10), en de schorsingen en de intrekkingen van certificaten;
 
 - d. meldt onverwijld aan de minister als zij niet meer voldoet aan de aan haar bij het besluit of deze regeling gestelde eisen.
 
-3. De instelling die voldoet aan het tweede lid, onder a, geldt als tevens te voldoen aan het tweede lid, onder b, [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=5&artikel=8&z=2025-12-13&g=2025-12-13), en [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=5&artikel=10&z=2025-12-13&g=2025-12-13).
+3. De instelling die voldoet aan het tweede lid, onder a, geldt als tevens te voldoen aan het tweede lid, onder b, [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=5&artikel=8&z=2026-10-10&g=2026-10-10), en [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=5&artikel=10&z=2026-10-10&g=2026-10-10).
 
 4. In afwijking van het tweede lid, onder a, kan een instelling voor een ander certificeringsschema dan de BRL 100 zijn geaccrediteerd, mits door de minister is geoordeeld dat het andere certificeringsschema gelijkwaardig is aan de BRL 100.
 
 ##### Artikel 10. Eisen aan het personeel van de instelling
 
-1. Een instelling die natuurlijke personen certificeert, laat alleen beoordelingen op het voldoen aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=2&artikel=2&z=2025-12-13&g=2025-12-13) uitvoeren door personeel dat:
+1. Een instelling die natuurlijke personen certificeert, laat alleen beoordelingen op het voldoen aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=2&artikel=2&z=2026-10-10&g=2026-10-10) uitvoeren door personeel dat:
 
 - a. kennis heeft van en ervaring met relevante examenmethoden en examendocumenten;
 
@@ -167,11 +169,11 @@ De aanvraag voor verlening van een erkenning van een instelling of wijziging daa
 
 - e. voldoet aan de overige eisen die zijn gesteld in de BRL 200.
 
-2. Een instelling die ondernemingen certificeert, laat alleen beoordelingen op het voldoen aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=2&artikel=2&z=2025-12-13&g=2025-12-13) uitvoeren door personeel dat:
+2. Een instelling die ondernemingen certificeert, laat alleen beoordelingen op het voldoen aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=2&artikel=2&z=2026-10-10&g=2026-10-10) uitvoeren door personeel dat:
 
 - a. kennis heeft van en ervaring heeft met inspectie van processen;
 
-- b. onpartijdig en onafhankelijk is ten opzichte van de onderneming die wordt beoordeeld op het voldoen aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=2&artikel=2&z=2025-12-13&g=2025-12-13);
+- b. onpartijdig en onafhankelijk is ten opzichte van de onderneming die wordt beoordeeld op het voldoen aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=2&artikel=2&z=2026-10-10&g=2026-10-10);
 
 - c. aantoonbaar bedrijfskundig inzicht heeft in en kennis heeft van administratieve en organisatorische procedures;
 
@@ -211,7 +213,7 @@ De aanvraag voor verlening van een erkenning van een instelling of wijziging daa
 
 - a. de natuurlijke personen en ondernemingen die beschikken over certificaten die zijn verleend door een instelling;
 
-- b. de gegevens als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=2&artikel=3&z=2025-12-13&g=2025-12-13).
+- b. de gegevens als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=2&artikel=3&z=2026-10-10&g=2026-10-10).
 
 2. De beheerder van het register kan voor de registratie kosten in rekening brengen bij een instelling. Deze kosten bedragen maximaal de werkelijke kosten die de beheerder maakt voor opname in en instandhouding van het register.
 
@@ -225,15 +227,15 @@ Op een bedrijfscertificaat als bedoeld in [artikel 18, derde lid, van het beslui
 
 ##### Artikel 13a. Overgangsrecht certificaten natuurlijke personen
 
-In afwijking van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=2&artikel=2&z=2025-12-13&g=2025-12-13), is een certificaat van een natuurlijk persoon dat is afgegeven voor 29 september 2024 of op grond van de Beoordelingsrichtlijn voor het certificaat f-gassen voor natuurlijke personen, versie 1.2, 1 mei 2017, geldig tot het moment dat voor de werkzaamheden waarvoor het certificaat is afgegeven een nieuw examen is afgelegd waaruit blijkt dat aan de eisen, bedoeld in artikel 2, eerste lid, wordt voldaan, en uiterlijk tot 12 maart 2029.
+In afwijking van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=2&artikel=2&z=2026-10-10&g=2026-10-10), is een certificaat van een natuurlijk persoon dat is afgegeven voor 29 september 2024 of op grond van de Beoordelingsrichtlijn voor het certificaat f-gassen voor natuurlijke personen, versie 1.2, 1 mei 2017, geldig tot het moment dat voor de werkzaamheden waarvoor het certificaat is afgegeven een nieuw examen is afgelegd waaruit blijkt dat aan de eisen, bedoeld in artikel 2, eerste lid, wordt voldaan, en uiterlijk tot 12 maart 2029.
 
 ##### Artikel 13b. Overgangsrecht certificaten ondernemingen
 
-In afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=2&artikel=2&z=2025-12-13&g=2025-12-13), is een certificaat van een onderneming dat is afgegeven op grond van de Beoordelingsrichtlijn voor het certificaat f-gassen voor ondernemingen, versie 2.0, 6 juni 2019, geldig tot drie maanden na de publicatie van de Uitvoeringsregeling F-gassenverordening en OAS-verordening.
+In afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=2&artikel=2&z=2026-10-10&g=2026-10-10), is een certificaat van een onderneming, dat is afgegeven vóór 1 september 2026 op grond van de Beoordelingsrichtlijn voor het certificaat f-gassen voor ondernemingen, versie 2.0, 6 juni 2019, geldig tot het moment waarop een instelling een besluit heeft genomen waaruit blijkt of aan de eisen, bedoeld in artikel 2, eerste lid, wordt voldaan.
 
 ##### Artikel 14. Inwerkingtreding
 
-Deze regeling treedt in werking op het tijdstip dat het besluit in werking treedt, met uitzondering van [artikel 9, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=5&artikel=9&z=2025-12-13&g=2025-12-13), dat in werking treedt met ingang van 1 april 2020.
+Deze regeling treedt in werking op het tijdstip dat het besluit in werking treedt, met uitzondering van [artikel 9, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=5&artikel=9&z=2026-10-10&g=2026-10-10), dat in werking treedt met ingang van 1 april 2020.
 
 ##### Artikel 15. Citeertitel
 

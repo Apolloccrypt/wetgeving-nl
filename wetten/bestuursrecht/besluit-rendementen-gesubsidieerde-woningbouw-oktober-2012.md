@@ -8,7 +8,7 @@ laatste_update: 2012-12-01
 status: geldig
 toestand: 2012-12-01
 bron: "https://wetten.overheid.nl/BWBR0032100"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit Rendementen gesubsidieerde woningbouw oktober 2012

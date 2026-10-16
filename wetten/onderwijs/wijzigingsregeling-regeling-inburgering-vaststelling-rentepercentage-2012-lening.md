@@ -9,7 +9,7 @@ laatste_update: 2012-01-01
 status: geldig
 toestand: 2012-01-01
 bron: "https://wetten.overheid.nl/BWBR0030948"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 15 december 2011, nr. 2011-2000571698, tot wijziging van de Regeling inburgering in verband met de vaststelling van het rentepercentage voor 2012 van leningen op grond van artikel 16 van de Wet inburgering en de vervanging van het in bijlage 6 bij artikel 3.3 opgenomen model van het inburgeringsdiploma

@@ -8,7 +8,7 @@ laatste_update: 2012-07-01
 status: geldig
 toestand: 2012-07-01
 bron: "https://wetten.overheid.nl/BWBR0031649"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit vaststelling Aanwijzingen voor de rijksdienst inzake toepassing van uitzondering inzake het algemeen belang

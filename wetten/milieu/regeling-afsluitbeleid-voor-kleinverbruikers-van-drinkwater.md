@@ -9,7 +9,7 @@ laatste_update: 2018-07-01
 status: geldig
 toestand: 2018-07-01
 bron: "https://wetten.overheid.nl/BWBR0031481"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 17 april 2012, nr. IENM/BSK-2012/14677, houdende regels met betrekking tot het afsluiten van kleinverbruikers van drinkwater (Regeling afsluitbeleid voor kleinverbuikers van drinkwater)

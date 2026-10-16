@@ -9,7 +9,7 @@ laatste_update: 2012-08-14
 status: geldig
 toestand: 2012-08-14
 bron: "https://wetten.overheid.nl/BWBR0031896"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de directeur-generaal Rechtspleging en Rechtshandhaving van het Ministerie van Veiligheid en Justitie van 3 augustus 2012, nr 287000, houdende verlening van ondermandaat en het doorgegeven van volmacht en machtiging ten aanzien van beheeraangelegenheden op het terrein van het openbaar ministerie aan het College van procureurs-generaal (Mandaatbesluit beheer openbaar ministerie 2012)

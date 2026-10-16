@@ -9,7 +9,7 @@ laatste_update: 2012-01-03
 status: geldig
 toestand: 2012-01-03
 bron: "https://wetten.overheid.nl/BWBR0031056"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van de minister van Binnenlandse Zaken en Koninkrijksrelaties van 22 december 2011, nr. 2011-2000585717, tot aanwijzing van de instantie voor advies over ontheffing van een of meer onderdelen van de naturalisatietoets wegens een belemmering als bedoeld in artikel 4, aanhef en onder a, van het Besluit naturalisatietoets

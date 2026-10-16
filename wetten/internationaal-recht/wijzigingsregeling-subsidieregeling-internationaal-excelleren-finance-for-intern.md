@@ -9,7 +9,7 @@ laatste_update: 2012-07-15
 status: geldig
 toestand: 2012-07-15
 bron: "https://wetten.overheid.nl/BWBR0031779"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken, Landbouw en Innovatie van 4 juli 2012, nr. WJZ / 11155512, tot wijziging van de Subsidieregeling internationaal excelleren (Finance for International Business)

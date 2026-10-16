@@ -9,7 +9,7 @@ laatste_update: 2017-08-25
 status: geldig
 toestand: 2017-08-25
 bron: "https://wetten.overheid.nl/BWBR0031671"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Beleidsregels van de Staatssecretaris van Economische Zaken, Landbouw en Innovatie van 6 juni 2012, nr. 267278, houdende vaststelling van beleidsregels inzake schelpdierverplaatsingen

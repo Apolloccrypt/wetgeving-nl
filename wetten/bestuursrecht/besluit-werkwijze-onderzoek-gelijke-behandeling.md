@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0031967"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 31 augustus 2012, houdende nadere regels over de werkwijze van de afdeling, bedoeld in hoofdstuk 2 van de Wet College voor de rechten van de mens (Besluit werkwijze onderzoek gelijke behandeling)

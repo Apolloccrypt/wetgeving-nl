@@ -9,7 +9,7 @@ laatste_update: 2013-04-04
 status: geldig
 toestand: 2013-04-04
 bron: "https://wetten.overheid.nl/BWBR0032152"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 11 oktober 2012 tot wijziging van enige algemene maatregelen van bestuur inzake het participatiebudget, contacturen, referentieniveaus Nederlandse taal en rekenen, examengeld staatsexamen Nederlands als tweede taal en technische wijzigingen voortgezet algemeen volwassenenonderwijs

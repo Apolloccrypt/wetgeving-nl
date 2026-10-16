@@ -8,7 +8,7 @@ laatste_update: 2012-04-26
 status: geldig
 toestand: 2012-04-26
 bron: "https://wetten.overheid.nl/BWBR0031495"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Tijdelijke Regeling Ontheffing verplichte vermelding diagnose-informatie op DBC-factuur

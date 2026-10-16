@@ -9,7 +9,7 @@ laatste_update: 2011-12-30
 status: geldig
 toestand: 2011-12-30
 bron: "https://wetten.overheid.nl/BWBR0030998"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 22 december 2011, houdende wijziging van het Besluit prudentiële regels Wft in verband met de implementatie van richtlijn nr. 2009/111/EG van het Europees Parlement en de Raad van de Europese Unie van 16 september 2009 tot wijziging van de richtlijnen 2006/48/EG, 2006/49/EG en 2007/64/EG wat betreft banken die zijn aangesloten bij centrale instellingen, bepaalde eigenvermogensbestanddelen, grote posities, het toezichtkader en het crisisbeheer (PbEU L 302)

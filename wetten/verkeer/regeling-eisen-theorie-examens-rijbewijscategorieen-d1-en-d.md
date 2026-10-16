@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0031430"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu, van 27 maart 20112, nr. IENM/BSK-2012/21921, houdende vaststelling van de eisen voor de theorie-examens voor de rijbewijscategorieën D1 en D (Regeling eisen theorie-examens categorieën D1 en D)

@@ -8,7 +8,7 @@ laatste_update: 1990-12-01
 status: geldig
 toestand: 1990-12-01
 bron: "https://wetten.overheid.nl/BWBR0031337"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit aanwijzing vijfde mei als nationale feestdag

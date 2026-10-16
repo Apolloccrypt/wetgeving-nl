@@ -9,7 +9,7 @@ laatste_update: 2014-04-01
 status: geldig
 toestand: 2014-04-01
 bron: "https://wetten.overheid.nl/BWBR0032024"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 17 september 2012, MC-U-3131142, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake beschikbaarheidbijdrage (medische) vervolgopleidingen 2013

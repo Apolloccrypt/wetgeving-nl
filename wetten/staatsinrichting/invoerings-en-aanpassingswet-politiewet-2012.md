@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0031794"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wet van 12 juli 2012 tot invoering van de Politiewet 2012 en aanpassing van overige wetten aan die wet (Invoerings- en aanpassingswet Politiewet 2012)

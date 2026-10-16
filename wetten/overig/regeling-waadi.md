@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0031719"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 21 juni 2012, nr. AV/SDA/2012/8970 tot aanwijzing van de bewerker in de zin van de Wet bescherming persoonsgegevens en tot vaststelling van de inhoud van het verslag overtreding Waadi (Regeling Waadi)

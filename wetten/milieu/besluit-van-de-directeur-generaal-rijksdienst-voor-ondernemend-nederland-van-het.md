@@ -9,7 +9,7 @@ laatste_update: 2026-10-09
 status: geldig
 toestand: 2026-10-09
 bron: "https://wetten.overheid.nl/BWBR0053179"
-opgehaald: 2026-10-15
+opgehaald: 2026-10-16
 ---
 
 # Besluit van de directeur-generaal Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken en Klimaat van 30 september 2026 tot aanwijzing per type bericht aan de Rijksdienst voor Ondernemend Nederland van een voldoende betrouwbare en vertrouwelijke wijze van elektronisch verzenden (Besluit aanwijzing wijze van elektronisch verzenden aan de Rijksdienst voor Ondernemend Nederland 2026)

@@ -9,7 +9,7 @@ laatste_update: 2026-06-13
 status: geldig
 toestand: 2026-06-13
 bron: "https://wetten.overheid.nl/BWBR0031765"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 4 juli 2012, houdende de vaststelling van de hoogte van de algemene onkostenvergoeding voor de rechterlijke ambtenaren (Regeling algemene onkostenvergoeding rechterlijke ambtenaren)

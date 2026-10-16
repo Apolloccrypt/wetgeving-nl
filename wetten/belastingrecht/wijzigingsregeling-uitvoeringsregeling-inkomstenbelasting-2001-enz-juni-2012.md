@@ -9,7 +9,7 @@ laatste_update: 2012-06-23
 status: geldig
 toestand: 2012-06-23
 bron: "https://wetten.overheid.nl/BWBR0031694"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wijziging van de Uitvoeringsregeling inkomstenbelasting 2001, de Uitvoeringsregeling schenk- en erfbelasting, de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994 en de Uitvoeringsregeling Belastingdienst 2003

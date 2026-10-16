@@ -9,7 +9,7 @@ laatste_update: 2012-10-26
 status: geldig
 toestand: 2012-10-26
 bron: "https://wetten.overheid.nl/BWBR0032132"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Instellingsbesluit Commissie Archiefonderzoek handelen Openbaar Ministerie bij seksueel misbruik Rooms-Katholieke Kerk 17 oktober 2012, nr. 311892

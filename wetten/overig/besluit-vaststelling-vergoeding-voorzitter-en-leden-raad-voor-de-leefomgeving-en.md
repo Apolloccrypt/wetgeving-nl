@@ -9,7 +9,7 @@ laatste_update: 2012-06-21
 status: geldig
 toestand: 2012-06-21
 bron: "https://wetten.overheid.nl/BWBR0031675"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van de Minister van Infrastructuur en Milieu, van 14 juni 2012, nr. IENM/BSK-2012/59239, houdende vaststelling van de vergoeding van de voorzitter en de andere leden van de Raad voor de leefomgeving en infrastructuur

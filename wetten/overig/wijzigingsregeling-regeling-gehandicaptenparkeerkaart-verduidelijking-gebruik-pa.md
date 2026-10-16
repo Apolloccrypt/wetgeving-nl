@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0031989"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu, van 7 september 2012 nr. IENM/BSK-2012/165475, tot wijziging van de Regeling gehandicaptenparkeerkaart, in verband met een verduidelijking van gebruik van de parkeerkaart

@@ -9,7 +9,7 @@ laatste_update: 2012-07-01
 status: geldig
 toestand: 2012-07-01
 bron: "https://wetten.overheid.nl/BWBR0031547"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 26 april 2012 van de Minister van Binnenlandse Zaken en Koninkrijksrelaties, Directie BDF, afdeling FIS, nr. 2012-0000246448, tot vaststelling van een mandaatregeling voor de Rijksvertegenwoordiger van Bonaire, Sint Eustatius en Saba (Mandaatbesluit Rijksvertegenwoordiger)

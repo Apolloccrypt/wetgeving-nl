@@ -9,7 +9,7 @@ laatste_update: 2015-11-01
 status: geldig
 toestand: 2015-11-01
 bron: "https://wetten.overheid.nl/BWBR0032156"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 24 oktober 2012 tot vaststelling van regels over de bijdragen van de Minister van Veiligheid en Justitie aan het Instituut Fysieke Veiligheid (Besluit rijksbijdragen IFV)

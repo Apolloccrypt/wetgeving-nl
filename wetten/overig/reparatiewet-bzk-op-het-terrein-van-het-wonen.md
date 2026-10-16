@@ -9,7 +9,7 @@ laatste_update: 2012-04-01
 status: geldig
 toestand: 2012-04-01
 bron: "https://wetten.overheid.nl/BWBR0031339"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wet van 25 februari 2012 tot intrekking van de Invoeringswet Wet stedelijke vernieuwing en het redactioneel en wetstechnisch wijzigen van enkele wetten op het terrein van het wonen (Reparatiewet BZK op het terrein van het wonen)

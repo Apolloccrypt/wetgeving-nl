@@ -9,7 +9,7 @@ laatste_update: 2025-10-10
 status: geldig
 toestand: 2025-10-10
 bron: "https://wetten.overheid.nl/BWBR0031950"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van de Minister van Veiligheid en Justitie (kenmerk 5727629/12) van 9 juli 2012, houdende instelling van een Cyber Security Raad

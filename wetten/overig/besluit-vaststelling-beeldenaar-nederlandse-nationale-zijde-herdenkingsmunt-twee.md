@@ -9,7 +9,7 @@ laatste_update: 2012-10-11
 status: geldig
 toestand: 2012-10-11
 bron: "https://wetten.overheid.nl/BWBR0031077"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 19 december 2011 houdende de vaststelling van de beeldenaar van de Nederlandse nationale zijde van de herdenkingsmunt van twee euro ter gelegenheid van 10 jaar chartale euro

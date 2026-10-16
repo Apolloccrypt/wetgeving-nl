@@ -8,7 +8,7 @@ laatste_update: 2012-06-15
 status: geldig
 toestand: 2012-06-15
 bron: "https://wetten.overheid.nl/BWBR0031653"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Aanwijzing rechtsmachtgeschillen bij strafprocedures

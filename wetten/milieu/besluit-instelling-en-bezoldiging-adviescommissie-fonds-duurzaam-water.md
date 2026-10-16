@@ -9,7 +9,7 @@ laatste_update: 2013-10-12
 status: geldig
 toestand: 2013-10-12
 bron: "https://wetten.overheid.nl/BWBR0032096"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van de Staatssecretaris van Buitenlandse Zaken van 24 september 2012, nr. DME/480/2012, tot instelling en bezoldiging van de Adviescommissie Fonds Duurzaam Water

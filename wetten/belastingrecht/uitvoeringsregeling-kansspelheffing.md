@@ -9,7 +9,7 @@ laatste_update: 2021-04-01
 status: geldig
 toestand: 2021-04-01
 bron: "https://wetten.overheid.nl/BWBR0031528"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 27 april 2012, nr. 253887, houdende regels ter uitvoering van de controle en ter vaststelling van bepaalde elementen van de heffingsgrondslag als bedoeld in artikel 6a van het Kansspelenbesluit (Uitvoeringsregeling kansspelheffing)

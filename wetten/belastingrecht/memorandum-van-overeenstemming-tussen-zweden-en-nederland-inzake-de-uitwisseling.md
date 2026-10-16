@@ -8,7 +8,7 @@ laatste_update: 2012-04-16
 status: geldig
 toestand: 2012-04-16
 bron: "https://wetten.overheid.nl/BWBR0031579"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Memorandum van Overeenstemming tussen Zweden en Nederland inzake de uitwisseling van inlichtingen op het gebied van de directe belastingen

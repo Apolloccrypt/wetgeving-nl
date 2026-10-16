@@ -9,7 +9,7 @@ laatste_update: 2012-08-01
 status: geldig
 toestand: 2012-08-01
 bron: "https://wetten.overheid.nl/BWBR0031692"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 31 mei 2012, houdende aanwijzing tot ‘verboden plaatsen’

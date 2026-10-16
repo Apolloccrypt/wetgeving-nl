@@ -9,7 +9,7 @@ laatste_update: 2012-10-10
 status: geldig
 toestand: 2012-10-10
 bron: "https://wetten.overheid.nl/BWBR0032061"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 1 oktober 2012, nr. WJZ/12302026, tot wijziging van de Subsidieregeling innoveren en de Subsidieregeling sterktes in innovatie (steunaspecten)

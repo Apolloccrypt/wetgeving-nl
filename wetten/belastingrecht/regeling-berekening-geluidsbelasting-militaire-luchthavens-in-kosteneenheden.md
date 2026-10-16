@@ -9,7 +9,7 @@ laatste_update: 2020-05-05
 status: geldig
 toestand: 2020-05-05
 bron: "https://wetten.overheid.nl/BWBR0031639"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regelingberekening geluidsbelasting militaire luchthavens in Kosteneenheden

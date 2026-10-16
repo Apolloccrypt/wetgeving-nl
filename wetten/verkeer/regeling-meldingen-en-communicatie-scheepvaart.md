@@ -9,7 +9,7 @@ laatste_update: 2026-03-27
 status: geldig
 toestand: 2026-03-27
 bron: "https://wetten.overheid.nl/BWBR0031567"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu, van 27 april 2012, nr. IENM/BSK-2012/60134, houdende vaststelling van nadere regels voor de scheepvaart en organisaties en personen die niet aan het scheepvaartverkeer deelnemen betreffende meldingen en communicatie (Regeling meldingen en communicatie scheepvaart)

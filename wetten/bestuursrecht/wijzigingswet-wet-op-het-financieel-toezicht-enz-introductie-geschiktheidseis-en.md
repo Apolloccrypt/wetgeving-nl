@@ -9,7 +9,7 @@ laatste_update: 2012-07-01
 status: geldig
 toestand: 2012-07-01
 bron: "https://wetten.overheid.nl/BWBR0031085"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wet van 22 december 2011 tot wijziging van de Wet op het financieel toezicht, de Wet financiële markten BES en de Wet toezicht trustkantoren in verband met de introductie van de geschiktheidseis en de versterking van de samenwerking tussen de toezichthouders in het kader van de geschiktheidstoets en de betrouwbaarheidstoets

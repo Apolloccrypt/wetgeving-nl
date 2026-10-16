@@ -8,7 +8,7 @@ laatste_update: 2012-07-05
 status: geldig
 toestand: 2012-07-05
 bron: "https://wetten.overheid.nl/BWBR0031820"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Directe belastingen, internationale inlichtingenuitwisseling; Litouwen

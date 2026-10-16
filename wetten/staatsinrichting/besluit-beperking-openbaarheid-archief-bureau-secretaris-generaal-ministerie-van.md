@@ -9,7 +9,7 @@ laatste_update: 2012-03-14
 status: geldig
 toestand: 2012-03-14
 bron: "https://wetten.overheid.nl/BWBR0031343"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit nr. DBV / 12020217, van de Minister van Economische Zaken, Landbouw en Innovatie houdende beperking van de openbaarheid van het naar het Nationaal Archief over te brengen Archief van het Bureau Secretaris-Generaal van het Ministerie van Economische Zaken over de periode (1914) 1976–1998 (2000) (Besluit als bedoeld in artikel 10 van het archiefbesluit 1995)

@@ -9,7 +9,7 @@ laatste_update: 2015-04-01
 status: geldig
 toestand: 2015-04-01
 bron: "https://wetten.overheid.nl/BWBR0031426"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu, van 27 maart 2012, nr. IENM/BSK-2012/20626, houdende vaststelling van de eisen voor de praktijkexamens voor de rijbewijscategorieën A1, A2 en A (Regeling eisen praktijkexamens rijbewijscategorieën A1, A2 en A)

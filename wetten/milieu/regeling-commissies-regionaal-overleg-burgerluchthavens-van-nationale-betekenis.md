@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0031909"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 14 augustus 2012, nr. IENM/BSK-2012/145416, houdende instelling van en vaststelling van nadere regels omtrent de taak, samenstelling en werkwijze van de Commissies regionaal overleg bij burgerluchthavens van nationale betekenis (Regeling commissies regionaal overleg burgerluchthavens van nationale betekenis)

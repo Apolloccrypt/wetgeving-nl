@@ -9,7 +9,7 @@ laatste_update: 2024-04-01
 status: geldig
 toestand: 2024-04-01
 bron: "https://wetten.overheid.nl/BWBR0031218"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wet van 22 december 2011, houdende regels inzake de volkshuisvesting, de ruimtelijke ordening en het milieubeheer in de openbare lichamen Bonaire, Sint-Eustatius en Saba (Wet volkshuisvesting, ruimtelijke ordening en milieubeheer BES)

@@ -9,7 +9,7 @@ laatste_update: 2015-07-01
 status: geldig
 toestand: 2015-07-01
 bron: "https://wetten.overheid.nl/BWBR0031789"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wet van 12 juli 2012 tot wijziging van de Wet op de rechterlijke indeling, de Wet op de rechterlijke organisatie en diverse andere wetten in verband met de vermindering van het aantal arrondissementen en ressorten (Wet herziening gerechtelijke kaart)

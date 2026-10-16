@@ -9,7 +9,7 @@ laatste_update: 2018-02-09
 status: geldig
 toestand: 2018-02-09
 bron: "https://wetten.overheid.nl/BWBR0031514"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Beheersregeling documentaire informatieverzorging Infrastructuur en Milieu 2012

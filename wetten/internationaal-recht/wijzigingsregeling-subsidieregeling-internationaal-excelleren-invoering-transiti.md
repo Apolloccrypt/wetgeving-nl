@@ -9,7 +9,7 @@ laatste_update: 2012-07-01
 status: geldig
 toestand: 2012-07-01
 bron: "https://wetten.overheid.nl/BWBR0031697"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken, Landbouw en Innovatie van 19 juni 2012, nr. WJZ/12057021, houdende wijziging van de Subsidieregeling internationaal excelleren in verband met de invoering van de Transitiefaciliteit alsmede wijziging van de Regeling openstelling en subsidieplafonds EZ 2012

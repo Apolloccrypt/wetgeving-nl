@@ -9,7 +9,7 @@ laatste_update: 2012-06-03
 status: geldig
 toestand: 2012-06-03
 bron: "https://wetten.overheid.nl/BWBR0031213"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw van 14 november 2011, houdende de vaststelling van een vakheffing voor de kweker en importeur van bloemkwekerijproducten (Verordening PT vakheffing aanbod bloemkwekerijproducten 2012)

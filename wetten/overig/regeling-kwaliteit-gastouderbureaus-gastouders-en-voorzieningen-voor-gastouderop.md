@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-06-30
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0031613"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 29 mei 2012, nr. KO/2012/7794 , tot uitvoering van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen (Regeling kwaliteit kinderopvang en peuterspeelzalen)

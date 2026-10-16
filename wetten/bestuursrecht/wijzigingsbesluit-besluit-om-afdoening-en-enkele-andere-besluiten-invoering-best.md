@@ -9,7 +9,7 @@ laatste_update: 2012-05-01
 status: geldig
 toestand: 2012-05-01
 bron: "https://wetten.overheid.nl/BWBR0031451"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 5 april 2012, houdende wijziging van het Besluit OM-afdoening en enkele andere besluiten in verband met de invoering van de bestuurlijke strafbeschikking

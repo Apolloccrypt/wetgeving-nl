@@ -9,7 +9,7 @@ laatste_update: 2025-10-09
 status: geldig
 toestand: 2025-10-09
 bron: "https://wetten.overheid.nl/BWBR0031351"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu, van 8 februari 2012, nr. IENM/BSK-2011/177169, houdende vaststelling van de Scheepsafvalstoffen-regeling Rijn- en binnenvaart

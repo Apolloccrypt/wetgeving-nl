@@ -9,7 +9,7 @@ laatste_update: 2023-02-07
 status: geldig
 toestand: 2023-02-07
 bron: "https://wetten.overheid.nl/BWBR0032157"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 2 oktober 2012, 2012-0000564686, houdende een procedure voor geschillen in het Sectoroverleg BES (Regeling bemiddeling geschillen Sectoroverleg BES)

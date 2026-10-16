@@ -9,7 +9,7 @@ laatste_update: 2025-04-01
 status: geldig
 toestand: 2025-04-01
 bron: "https://wetten.overheid.nl/BWBR0032136"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 13 oktober 2012, houdende regels over de bewapening, de uitrusting en de kleding van de politie en de bijzondere bijstandseenheden alsmede regels over de taakuitvoering door de politie en de eisen aan de bekwaamheid van de ambtenaren van politie en van de bijzondere bijstandseenheden (Besluit bewapening en uitrusting politie)

@@ -9,7 +9,7 @@ laatste_update: 2012-07-04
 status: geldig
 toestand: 2012-07-04
 bron: "https://wetten.overheid.nl/BWBR0031745"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 18 juni 2012, nr. 2012-262679, houdende verlening van mandaat en machtiging van bevoegdheden van het bevoegd gezag ten aanzien van de rijksambtenaren BES (Organisatie en mandaatbesluit BZK-BES 2012)

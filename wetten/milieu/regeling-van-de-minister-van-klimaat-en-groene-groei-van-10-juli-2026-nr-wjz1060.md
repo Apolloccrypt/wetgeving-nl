@@ -5,11 +5,11 @@ identifier: "BWBR0052950"
 categorie: "Milieu"
 soort: "ministeriele-regeling"
 publicatiedatum: 2026-08-04
-laatste_update: 2026-08-04
+laatste_update: 2026-10-10
 status: geldig
-toestand: 2026-08-04
+toestand: 2026-10-10
 bron: "https://wetten.overheid.nl/BWBR0052950"
-opgehaald: 2026-10-07
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister van Klimaat en Groene Groei van 10 juli 2026, nr. WJZ/106047297, houdende aanwijzing van categorieën van productie-installaties voor de productie van duurzame energieproductie en klimaattransitie in 2026 (Regeling aanwijzing categorieën duurzame energieproductie en klimaattransitie 2026) [KetenID WGK29025]
@@ -40,21 +40,21 @@ In deze regeling wordt verstaan onder:
 
 - *domein hoge-temperatuur-warmte:* verzameling van de volgende categorieën productie-installaties:
 
-   - a. categorieën productie-installaties voor de productie van hernieuwbare warmte als bedoeld in de [artikelen 41](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.5&artikel=41&z=2026-08-04&g=2026-08-04), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.6&artikel=43&z=2026-08-04&g=2026-08-04), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.7&artikel=45&z=2026-08-04&g=2026-08-04), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.8&artikel=47&z=2026-08-04&g=2026-08-04), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.9&artikel=49&z=2026-08-04&g=2026-08-04) en [51](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.10&artikel=51&z=2026-08-04&g=2026-08-04); en
+   - a. categorieën productie-installaties voor de productie van hernieuwbare warmte als bedoeld in de [artikelen 41](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.5&artikel=41&z=2026-10-10&g=2026-10-10), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.6&artikel=43&z=2026-10-10&g=2026-10-10), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.7&artikel=45&z=2026-10-10&g=2026-10-10), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.8&artikel=47&z=2026-10-10&g=2026-10-10), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.9&artikel=49&z=2026-10-10&g=2026-10-10) en [51](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.10&artikel=51&z=2026-10-10&g=2026-10-10); en
 
-   - b. categorieën productie-installaties voor de vermindering van broeikasgas als bedoeld in de [artikelen 63](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.5&artikel=63&z=2026-08-04&g=2026-08-04), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.6&artikel=65&z=2026-08-04&g=2026-08-04) en [67](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.7&artikel=67&z=2026-08-04&g=2026-08-04);
+   - b. categorieën productie-installaties voor de vermindering van broeikasgas als bedoeld in de [artikelen 63](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.5&artikel=63&z=2026-10-10&g=2026-10-10), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.6&artikel=65&z=2026-10-10&g=2026-10-10) en [67](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.7&artikel=67&z=2026-10-10&g=2026-10-10);
 
 - *domein lage-temperatuur-warmte:* verzameling van de volgende categorieën productie-installaties:
 
-   - a. categorieën productie-installaties voor de productie van hernieuwbare warmte als bedoeld in de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.1&artikel=33&z=2026-08-04&g=2026-08-04), [35, onderdelen a, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.2&artikel=35&z=2026-08-04&g=2026-08-04), [37, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.3&artikel=37&z=2026-08-04&g=2026-08-04), [39, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.4&artikel=39&z=2026-08-04&g=2026-08-04) en [53](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.11&artikel=53&z=2026-08-04&g=2026-08-04); en
+   - a. categorieën productie-installaties voor de productie van hernieuwbare warmte als bedoeld in de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.1&artikel=33&z=2026-10-10&g=2026-10-10), [35, onderdelen a, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.2&artikel=35&z=2026-10-10&g=2026-10-10), [37, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.3&artikel=37&z=2026-10-10&g=2026-10-10), [39, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.4&artikel=39&z=2026-10-10&g=2026-10-10) en [53](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.11&artikel=53&z=2026-10-10&g=2026-10-10); en
 
-   - b. categorieën productie-installaties voor de vermindering van broeikasgas als bedoeld in de [artikelen 55](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.1&artikel=55&z=2026-08-04&g=2026-08-04), [57](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.2&artikel=57&z=2026-08-04&g=2026-08-04), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.3&artikel=59&z=2026-08-04&g=2026-08-04), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.4&artikel=61&z=2026-08-04&g=2026-08-04), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.8&artikel=69&z=2026-08-04&g=2026-08-04) en [71](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.9&artikel=71&z=2026-08-04&g=2026-08-04);
+   - b. categorieën productie-installaties voor de vermindering van broeikasgas als bedoeld in de [artikelen 55](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.1&artikel=55&z=2026-10-10&g=2026-10-10), [57](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.2&artikel=57&z=2026-10-10&g=2026-10-10), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.3&artikel=59&z=2026-10-10&g=2026-10-10), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.4&artikel=61&z=2026-10-10&g=2026-10-10), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.8&artikel=69&z=2026-10-10&g=2026-10-10) en [71](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.9&artikel=71&z=2026-10-10&g=2026-10-10);
 
 - *domein moleculen:* verzameling van de volgende categorieën productie-installaties:
 
-   - a. categorieën productie-installaties voor de productie van hernieuwbaar gas als bedoeld in de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.1&artikel=23&z=2026-08-04&g=2026-08-04), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.2&artikel=25&z=2026-08-04&g=2026-08-04), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.3&artikel=27&z=2026-08-04&g=2026-08-04), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.4&artikel=29&z=2026-08-04&g=2026-08-04) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.5&artikel=31&z=2026-08-04&g=2026-08-04); en
+   - a. categorieën productie-installaties voor de productie van hernieuwbaar gas als bedoeld in de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.1&artikel=23&z=2026-10-10&g=2026-10-10), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.2&artikel=25&z=2026-10-10&g=2026-10-10), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.3&artikel=27&z=2026-10-10&g=2026-10-10), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.4&artikel=29&z=2026-10-10&g=2026-10-10) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.5&artikel=31&z=2026-10-10&g=2026-10-10); en
 
-   - b. categorieën productie-installaties voor de vermindering van broeikasgas als bedoeld in de [artikelen 73](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.10&artikel=73&z=2026-08-04&g=2026-08-04), [75](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.11&artikel=75&z=2026-08-04&g=2026-08-04) en [77](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.12&artikel=77&z=2026-08-04&g=2026-08-04);
+   - b. categorieën productie-installaties voor de vermindering van broeikasgas als bedoeld in de [artikelen 73](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.10&artikel=73&z=2026-10-10&g=2026-10-10), [75](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.11&artikel=75&z=2026-10-10&g=2026-10-10) en [77](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.12&artikel=77&z=2026-10-10&g=2026-10-10);
 
 - *doublet:* combinatie van naast elkaar liggende diepboringen die ten minste bestaat uit één productieput en één injectieput;
 
@@ -125,7 +125,7 @@ In deze regeling wordt verstaan onder:
 
 - *waterstaatswerk:* waterstaatswerk als bedoeld in de bijlage bij [artikel 1.1 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=1.1);
 
-- *zeewering of zachte zeewering van Maasvlakte 2:* harde zeewering en zachte zeewering van Maasvlakte 2 als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&bijlage=1&z=2026-08-04&g=2026-08-04) bij de concessie aan het Havenbedrijf Rotterdam N.V. te Rotterdam, bij koninklijk besluit van 23 mei 2008, nr. 08.001524.
+- *zeewering of zachte zeewering van Maasvlakte 2:* harde zeewering en zachte zeewering van Maasvlakte 2 als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&bijlage=1&z=2026-10-10&g=2026-10-10) bij de concessie aan het Havenbedrijf Rotterdam N.V. te Rotterdam, bij koninklijk besluit van 23 mei 2008, nr. 08.001524.
 
 #### § 2. Algemene bepalingen
 
@@ -133,13 +133,13 @@ In deze regeling wordt verstaan onder:
 
 1. Het subsidieplafond bedraagt € 8.000.000.000 voor het verlenen van subsidies die worden aangevraagd in de periode van 27 oktober 2026, 9:00 uur, tot 26 november 2026, 17:00, voor:
 
-- a. de productie van hernieuwbare elektriciteit op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.1&artikel=13&z=2026-08-04&g=2026-08-04), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.2&artikel=15&z=2026-08-04&g=2026-08-04), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.3&artikel=17&z=2026-08-04&g=2026-08-04), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.4&artikel=19&z=2026-08-04&g=2026-08-04) of [21](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.5&artikel=21&z=2026-08-04&g=2026-08-04);
+- a. de productie van hernieuwbare elektriciteit op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.1&artikel=13&z=2026-10-10&g=2026-10-10), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.2&artikel=15&z=2026-10-10&g=2026-10-10), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.3&artikel=17&z=2026-10-10&g=2026-10-10), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.4&artikel=19&z=2026-10-10&g=2026-10-10) of [21](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.5&artikel=21&z=2026-10-10&g=2026-10-10);
 
-- b. de productie van hernieuwbaar gas op grond van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.1&artikel=23&z=2026-08-04&g=2026-08-04), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.2&artikel=25&z=2026-08-04&g=2026-08-04), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.3&artikel=27&z=2026-08-04&g=2026-08-04), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.4&artikel=29&z=2026-08-04&g=2026-08-04) of [31](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.5&artikel=31&z=2026-08-04&g=2026-08-04);
+- b. de productie van hernieuwbaar gas op grond van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.1&artikel=23&z=2026-10-10&g=2026-10-10), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.2&artikel=25&z=2026-10-10&g=2026-10-10), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.3&artikel=27&z=2026-10-10&g=2026-10-10), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.4&artikel=29&z=2026-10-10&g=2026-10-10) of [31](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.5&artikel=31&z=2026-10-10&g=2026-10-10);
 
-- c. de productie van hernieuwbare warmte of al dan niet gecombineerde opwekking van hernieuwbare elektriciteit en hernieuwbare warmte op grond van [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.1&artikel=33&z=2026-08-04&g=2026-08-04), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.2&artikel=35&z=2026-08-04&g=2026-08-04), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.3&artikel=37&z=2026-08-04&g=2026-08-04), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.4&artikel=39&z=2026-08-04&g=2026-08-04), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.5&artikel=41&z=2026-08-04&g=2026-08-04), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.6&artikel=43&z=2026-08-04&g=2026-08-04), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.7&artikel=45&z=2026-08-04&g=2026-08-04), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.8&artikel=47&z=2026-08-04&g=2026-08-04), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.9&artikel=49&z=2026-08-04&g=2026-08-04), [51](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.10&artikel=51&z=2026-08-04&g=2026-08-04), of [53](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.11&artikel=53&z=2026-08-04&g=2026-08-04);
+- c. de productie van hernieuwbare warmte of al dan niet gecombineerde opwekking van hernieuwbare elektriciteit en hernieuwbare warmte op grond van [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.1&artikel=33&z=2026-10-10&g=2026-10-10), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.2&artikel=35&z=2026-10-10&g=2026-10-10), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.3&artikel=37&z=2026-10-10&g=2026-10-10), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.4&artikel=39&z=2026-10-10&g=2026-10-10), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.5&artikel=41&z=2026-10-10&g=2026-10-10), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.6&artikel=43&z=2026-10-10&g=2026-10-10), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.7&artikel=45&z=2026-10-10&g=2026-10-10), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.8&artikel=47&z=2026-10-10&g=2026-10-10), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.9&artikel=49&z=2026-10-10&g=2026-10-10), [51](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.10&artikel=51&z=2026-10-10&g=2026-10-10), of [53](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.11&artikel=53&z=2026-10-10&g=2026-10-10);
 
-- d. de vermindering van broeikasgas op grond van [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.1&artikel=55&z=2026-08-04&g=2026-08-04), [57](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.2&artikel=57&z=2026-08-04&g=2026-08-04), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.3&artikel=59&z=2026-08-04&g=2026-08-04), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.4&artikel=61&z=2026-08-04&g=2026-08-04), [63](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.5&artikel=63&z=2026-08-04&g=2026-08-04), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.6&artikel=65&z=2026-08-04&g=2026-08-04), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.7&artikel=67&z=2026-08-04&g=2026-08-04), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.8&artikel=69&z=2026-08-04&g=2026-08-04), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.9&artikel=71&z=2026-08-04&g=2026-08-04), [73](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.10&artikel=73&z=2026-08-04&g=2026-08-04), [75](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.11&artikel=75&z=2026-08-04&g=2026-08-04), [77](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.12&artikel=77&z=2026-08-04&g=2026-08-04), [79](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.13&artikel=79&z=2026-08-04&g=2026-08-04), [81](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.13&artikel=81&z=2026-08-04&g=2026-08-04), [83](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.14&artikel=83&z=2026-08-04&g=2026-08-04) of [85](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.15&artikel=85&z=2026-08-04&g=2026-08-04).
+- d. de vermindering van broeikasgas op grond van [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.1&artikel=55&z=2026-10-10&g=2026-10-10), [57](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.2&artikel=57&z=2026-10-10&g=2026-10-10), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.3&artikel=59&z=2026-10-10&g=2026-10-10), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.4&artikel=61&z=2026-10-10&g=2026-10-10), [63](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.5&artikel=63&z=2026-10-10&g=2026-10-10), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.6&artikel=65&z=2026-10-10&g=2026-10-10), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.7&artikel=67&z=2026-10-10&g=2026-10-10), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.8&artikel=69&z=2026-10-10&g=2026-10-10), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.9&artikel=71&z=2026-10-10&g=2026-10-10), [73](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.10&artikel=73&z=2026-10-10&g=2026-10-10), [75](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.11&artikel=75&z=2026-10-10&g=2026-10-10), [77](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.12&artikel=77&z=2026-10-10&g=2026-10-10), [79](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.13&artikel=79&z=2026-10-10&g=2026-10-10), [81](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.13&artikel=81&z=2026-10-10&g=2026-10-10), [83](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.14&artikel=83&z=2026-10-10&g=2026-10-10) of [85](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.15&artikel=85&z=2026-10-10&g=2026-10-10).
 
 2. Per categorie productie-installaties kan in de periode, genoemd in het eerste lid, per adres waarop een productie-installatie wordt geplaatst maximaal één aanvraag worden ingediend.
 
@@ -157,15 +157,15 @@ In deze regeling wordt verstaan onder:
 
 3. Indien honorering van alle aanvragen binnen een domein die op één dag zijn ontvangen ertoe zou leiden dat het gereserveerde bedrag voor het verlenen van subsidies binnen dat domein zou worden overschreden, worden telkens de aanvragen voor subsidie binnen dat domein met het laagste rangschikkingsbedrag, uitgedrukt in euro per 1.000 kg vermindering van broeikasgas, geacht eerder te zijn ontvangen. Bij een gelijk rangschikkingsbedrag stelt de minister de volgorde vast door loting.
 
-4. Indien blijkt dat het totale bedrag van de te verlenen subsidies voor aanvragen binnen een domein als bedoeld in het eerste lid, onderdeel a, b of c, lager is dan het voor de aanvragen binnen dat domein gereserveerde bedrag, vervalt de reservering voor het overblijvende bedrag en wordt dat overblijvende bedrag verdeeld op de wijze, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=2&artikel=4&z=2026-08-04&g=2026-08-04).
+4. Indien blijkt dat het totale bedrag van de te verlenen subsidies voor aanvragen binnen een domein als bedoeld in het eerste lid, onderdeel a, b of c, lager is dan het voor de aanvragen binnen dat domein gereserveerde bedrag, vervalt de reservering voor het overblijvende bedrag en wordt dat overblijvende bedrag verdeeld op de wijze, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=2&artikel=4&z=2026-10-10&g=2026-10-10).
 
 ##### Artikel 4
 
-De minister verdeelt onverminderd [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=2&artikel=3&z=2026-08-04&g=2026-08-04) het subsidieplafond op volgorde van binnenkomst van aanvragen voor zowel subsidies buiten de domeinen hoge-temperatuur-warmte, lage-temperatuur-warmte en moleculen, als voor subsidies binnen een van deze domeinen, indien in het betreffende domein het gereserveerde bedrag is bereikt.
+De minister verdeelt onverminderd [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=2&artikel=3&z=2026-10-10&g=2026-10-10) het subsidieplafond op volgorde van binnenkomst van aanvragen voor zowel subsidies buiten de domeinen hoge-temperatuur-warmte, lage-temperatuur-warmte en moleculen, als voor subsidies binnen een van deze domeinen, indien in het betreffende domein het gereserveerde bedrag is bereikt.
 
 ##### Artikel 5
 
-De maximale vermindering van broeikasgas die in aanmerking komt voor subsidies voor de productie van geavanceerde hernieuwbare brandstof op grond van [artikel 77, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.12&artikel=77&z=2026-08-04&g=2026-08-04), die worden aangevraagd in de periode, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=2&artikel=2&z=2026-08-04&g=2026-08-04), komt overeen met 8.142.000.000 kWh, gerekend voor de hele looptijd van de subsidies.
+De maximale vermindering van broeikasgas die in aanmerking komt voor subsidies voor de productie van geavanceerde hernieuwbare brandstof op grond van [artikel 77, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.12&artikel=77&z=2026-10-10&g=2026-10-10), die worden aangevraagd in de periode, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=2&artikel=2&z=2026-10-10&g=2026-10-10), komt overeen met 8.142.000.000 kWh, gerekend voor de hele looptijd van de subsidies.
 
 ##### Artikel 6
 
@@ -183,17 +183,17 @@ De maximale vermindering van broeikasgas die in aanmerking komt voor subsidies v
 
 ##### Artikel 7
 
-1. Een subsidie als bedoeld in de [artikelen 79](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.13&artikel=79&z=2026-08-04&g=2026-08-04), [81](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.13&artikel=81&z=2026-08-04&g=2026-08-04) en [83](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.14&artikel=83&z=2026-08-04&g=2026-08-04) die is afgegeven op een aanvraag voor subsidie die is ingediend met toepassing van [artikel 2, vierde lid, van de Algemene uitvoeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=2), een subsidie die is ingediend met toepassing van artikel 2, zesde lid, van de Algemene uitvoeringsregeling, of een subsidie van meer dan € 400.000.000,– wordt verleend onder de volgende opschortende voorwaarden:
+1. Een subsidie als bedoeld in de [artikelen 79](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.13&artikel=79&z=2026-10-10&g=2026-10-10), [81](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.13&artikel=81&z=2026-10-10&g=2026-10-10) en [83](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.14&artikel=83&z=2026-10-10&g=2026-10-10) die is afgegeven op een aanvraag voor subsidie die is ingediend met toepassing van [artikel 2, vierde lid, van de Algemene uitvoeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=2), een subsidie die is ingediend met toepassing van artikel 2, zesde lid, van de Algemene uitvoeringsregeling, of een subsidie van meer dan € 400.000.000,– wordt verleend onder de volgende opschortende voorwaarden:
 
 - a. binnen twee weken na afgifte van de beschikking tot subsidieverlening is een uitvoeringsovereenkomst tot stand gekomen tussen de Staat en de subsidieontvanger;
 
 - b. de subsidieontvanger heeft binnen vier weken na afgifte van de beschikking tot subsidieverlening aangetoond dat een bankgarantie als bedoeld in artikel 2, eerste lid, van de uitvoeringsovereenkomst is afgegeven.
 
-2. Voor het opstellen van de uitvoeringsovereenkomst, bedoeld in het eerste lid, wordt gebruik gemaakt van het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&bijlage=1&z=2026-08-04&g=2026-08-04) opgenomen model.
+2. Voor het opstellen van de uitvoeringsovereenkomst, bedoeld in het eerste lid, wordt gebruik gemaakt van het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&bijlage=1&z=2026-10-10&g=2026-10-10) opgenomen model.
 
 3. Het eerste lid is niet van toepassing op een productie-installatie als bedoeld in [artikel 6.1, eerste lid, onderdeel a van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=6.1).
 
-4. Indien subsidie wordt verstrekt als bedoeld in [artikel 79, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.13&artikel=79&z=2026-08-04&g=2026-08-04), of [artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.13&artikel=81&z=2026-08-04&g=2026-08-04), en ook subsidie als bedoeld in [artikel 83, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.14&artikel=83&z=2026-08-04&g=2026-08-04), worden voor het berekenen van het bedrag van € 400.000.000, bedoeld in het eerste lid, aanhef, beide subsidies bij elkaar opgeteld.
+4. Indien subsidie wordt verstrekt als bedoeld in [artikel 79, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.13&artikel=79&z=2026-10-10&g=2026-10-10), of [artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.13&artikel=81&z=2026-10-10&g=2026-10-10), en ook subsidie als bedoeld in [artikel 83, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.14&artikel=83&z=2026-10-10&g=2026-10-10), worden voor het berekenen van het bedrag van € 400.000.000, bedoeld in het eerste lid, aanhef, beide subsidies bij elkaar opgeteld.
 
 5. Indien niet of niet tijdig aan de krachtens het eerste lid gestelde voorwaarden is voldaan, wordt de beschikking tot subsidieverlening ingetrokken.
 
@@ -201,89 +201,89 @@ De maximale vermindering van broeikasgas die in aanmerking komt voor subsidies v
 
 1. Als productie-installaties als bedoeld in [artikel 3, tweede lid, onderdeel a, van het Besluit SDEK](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=3) worden aangewezen:
 
-- a. productie-installaties waarmee hernieuwbaar gas door biomassa wordt geproduceerd als bedoeld in de [artikelen 25, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.2&artikel=25&z=2026-08-04&g=2026-08-04), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.3&artikel=27&z=2026-08-04&g=2026-08-04) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.4&artikel=29&z=2026-08-04&g=2026-08-04);
+- a. productie-installaties waarmee hernieuwbaar gas door biomassa wordt geproduceerd als bedoeld in de [artikelen 25, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.2&artikel=25&z=2026-10-10&g=2026-10-10), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.3&artikel=27&z=2026-10-10&g=2026-10-10) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.4&artikel=29&z=2026-10-10&g=2026-10-10);
 
-- b. productie-installaties waarmee hernieuwbare warmte of hernieuwbare elektriciteit en hernieuwbare warmte wordt geproduceerd als bedoeld in de [artikelen 39](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.4&artikel=39&z=2026-08-04&g=2026-08-04), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.5&artikel=41&z=2026-08-04&g=2026-08-04) en [53, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.11&artikel=53&z=2026-08-04&g=2026-08-04);
+- b. productie-installaties waarmee hernieuwbare warmte of hernieuwbare elektriciteit en hernieuwbare warmte wordt geproduceerd als bedoeld in de [artikelen 39](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.4&artikel=39&z=2026-10-10&g=2026-10-10), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.5&artikel=41&z=2026-10-10&g=2026-10-10) en [53, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.11&artikel=53&z=2026-10-10&g=2026-10-10);
 
-- c. productie-installaties waarmee broeikasgas wordt verminderd als bedoeld in [artikel 79, eerste lid, onderdelen c tot en met h, en vierde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.13&artikel=79&z=2026-08-04&g=2026-08-04), en [artikel 81, onderdelen c tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.13&artikel=81&z=2026-08-04&g=2026-08-04), indien deze worden gecombineerd met een productie-installatie waarmee broeikasgas wordt verminderd door de afvang en permanente opslag van koolstofdioxide;
+- c. productie-installaties waarmee broeikasgas wordt verminderd als bedoeld in [artikel 79, eerste lid, onderdelen c tot en met h, en vierde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.13&artikel=79&z=2026-10-10&g=2026-10-10), en [artikel 81, onderdelen c tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.13&artikel=81&z=2026-10-10&g=2026-10-10), indien deze worden gecombineerd met een productie-installatie waarmee broeikasgas wordt verminderd door de afvang en permanente opslag van koolstofdioxide;
 
-- d. productie-installaties waarmee broeikasgas wordt verminderd als bedoeld in [artikel 79, eerste lid, onderdelen a en b, tweede lid, derde lid en vierde lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.13&artikel=79&z=2026-08-04&g=2026-08-04), en als bedoeld in [artikel 81, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.13&artikel=81&z=2026-08-04&g=2026-08-04), waarbij:
+- d. productie-installaties waarmee broeikasgas wordt verminderd als bedoeld in [artikel 79, eerste lid, onderdelen a en b, tweede lid, derde lid en vierde lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.13&artikel=79&z=2026-10-10&g=2026-10-10), en als bedoeld in [artikel 81, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.13&artikel=81&z=2026-10-10&g=2026-10-10), waarbij:
 
-   - 1°. in het geval van productie-installaties als bedoeld in [artikel 79, eerste lid, onderdeel a, subonderdeel 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.13&artikel=79&z=2026-08-04&g=2026-08-04), en als bedoeld in [artikel 81, onderdeel a, subonderdeel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.13&artikel=81&z=2026-08-04&g=2026-08-04)°, op grond van het [Besluit SDEK](https://wetten.overheid.nl/jci1.3:c:BWBR0022735) voor dezelfde productie-installatie geen subsidie mag zijn verstrekt voor de vermindering van broeikasgas door afvang en gebruik van koolstofdioxide waarbij gebruik gemaakt wordt van vloeibaar transport van koolstofdioxide; en
+   - 1°. in het geval van productie-installaties als bedoeld in [artikel 79, eerste lid, onderdeel a, subonderdeel 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.13&artikel=79&z=2026-10-10&g=2026-10-10), en als bedoeld in [artikel 81, onderdeel a, subonderdeel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.13&artikel=81&z=2026-10-10&g=2026-10-10)°, op grond van het [Besluit SDEK](https://wetten.overheid.nl/jci1.3:c:BWBR0022735) voor dezelfde productie-installatie geen subsidie mag zijn verstrekt voor de vermindering van broeikasgas door afvang en gebruik van koolstofdioxide waarbij gebruik gemaakt wordt van vloeibaar transport van koolstofdioxide; en
 
    - 2°. voor dezelfde productie-installatie niet eerder op grond van het [Besluit SDEK](https://wetten.overheid.nl/jci1.3:c:BWBR0022735) subsidie mag zijn verstrekt voor de vermindering van broeikasgas door afvang en permanente opslag van koolstofdioxide en het aantal subsidiabele vollasturen ten hoogste 4.000 vollasturen per jaar bedraagt.
 
 2. Als productie-installaties waarvoor subsidie kan worden verstrekt als bedoeld in [artikel 3, tweede lid, onderdeel b, van het Besluit SDEK](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=3) worden aangewezen:
 
-- a. productie-installaties waarmee hernieuwbaar gas uit biomassa wordt geproduceerd als bedoeld in [artikel 25, onderdelen b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.2&artikel=25&z=2026-08-04&g=2026-08-04);
+- a. productie-installaties waarmee hernieuwbaar gas uit biomassa wordt geproduceerd als bedoeld in [artikel 25, onderdelen b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.2&artikel=25&z=2026-10-10&g=2026-10-10);
 
-- b. productie-installaties waarmee hernieuwbare warmte of hernieuwbare elektriciteit en hernieuwbare warmte uit biomassa wordt geproduceerd als bedoeld in de [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.3&artikel=37&z=2026-08-04&g=2026-08-04), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.5&artikel=41&z=2026-08-04&g=2026-08-04), [49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.9&artikel=49&z=2026-08-04&g=2026-08-04) en [51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.10&artikel=51&z=2026-08-04&g=2026-08-04);
+- b. productie-installaties waarmee hernieuwbare warmte of hernieuwbare elektriciteit en hernieuwbare warmte uit biomassa wordt geproduceerd als bedoeld in de [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.3&artikel=37&z=2026-10-10&g=2026-10-10), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.5&artikel=41&z=2026-10-10&g=2026-10-10), [49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.9&artikel=49&z=2026-10-10&g=2026-10-10) en [51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.10&artikel=51&z=2026-10-10&g=2026-10-10);
 
-- c. productie-installaties waarmee broeikasgas wordt verminderd als bedoeld in [artikel 63, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.5&artikel=63&z=2026-08-04&g=2026-08-04).
+- c. productie-installaties waarmee broeikasgas wordt verminderd als bedoeld in [artikel 63, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.5&artikel=63&z=2026-10-10&g=2026-10-10).
 
 3. Als productie-installaties waarvoor subsidie kan worden verstrekt indien deze geheel of deels bestaat uit gebruikte materialen als bedoeld in [artikel 3, vijfde lid, van het Besluit SDEK](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=3) worden aangewezen:
 
-- a. productie-installaties waarmee hernieuwbare elektriciteit wordt geproduceerd als bedoeld in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.4&artikel=19&z=2026-08-04&g=2026-08-04) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.5&artikel=21&z=2026-08-04&g=2026-08-04);
+- a. productie-installaties waarmee hernieuwbare elektriciteit wordt geproduceerd als bedoeld in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.4&artikel=19&z=2026-10-10&g=2026-10-10) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.5&artikel=21&z=2026-10-10&g=2026-10-10);
 
-- b. productie-installaties waarmee hernieuwbaar gas wordt geproduceerd als bedoeld in de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.1&artikel=23&z=2026-08-04&g=2026-08-04), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.2&artikel=25&z=2026-08-04&g=2026-08-04), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.3&artikel=27&z=2026-08-04&g=2026-08-04), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.4&artikel=29&z=2026-08-04&g=2026-08-04) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.5&artikel=31&z=2026-08-04&g=2026-08-04);
+- b. productie-installaties waarmee hernieuwbaar gas wordt geproduceerd als bedoeld in de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.1&artikel=23&z=2026-10-10&g=2026-10-10), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.2&artikel=25&z=2026-10-10&g=2026-10-10), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.3&artikel=27&z=2026-10-10&g=2026-10-10), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.4&artikel=29&z=2026-10-10&g=2026-10-10) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.5&artikel=31&z=2026-10-10&g=2026-10-10);
 
-- c. productie-installaties waarmee hernieuwbare warmte, hernieuwbare elektriciteit of hernieuwbare elektriciteit en hernieuwbare warmte wordt geproduceerd als bedoeld in de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.2&artikel=35&z=2026-08-04&g=2026-08-04), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.3&artikel=37&z=2026-08-04&g=2026-08-04), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.4&artikel=39&z=2026-08-04&g=2026-08-04), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.5&artikel=41&z=2026-08-04&g=2026-08-04), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.8&artikel=47&z=2026-08-04&g=2026-08-04) en [53, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.11&artikel=53&z=2026-08-04&g=2026-08-04);
+- c. productie-installaties waarmee hernieuwbare warmte, hernieuwbare elektriciteit of hernieuwbare elektriciteit en hernieuwbare warmte wordt geproduceerd als bedoeld in de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.2&artikel=35&z=2026-10-10&g=2026-10-10), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.3&artikel=37&z=2026-10-10&g=2026-10-10), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.4&artikel=39&z=2026-10-10&g=2026-10-10), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.5&artikel=41&z=2026-10-10&g=2026-10-10), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.8&artikel=47&z=2026-10-10&g=2026-10-10) en [53, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.11&artikel=53&z=2026-10-10&g=2026-10-10);
 
-- d. productie-installaties waarmee koolstofdioxide-arme warmte wordt geproduceerd als bedoeld in [artikelen 63, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.5&artikel=63&z=2026-08-04&g=2026-08-04) en [71](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.9&artikel=71&z=2026-08-04&g=2026-08-04);
+- d. productie-installaties waarmee koolstofdioxide-arme warmte wordt geproduceerd als bedoeld in [artikelen 63, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.5&artikel=63&z=2026-10-10&g=2026-10-10) en [71](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.9&artikel=71&z=2026-10-10&g=2026-10-10);
 
-- e. productie-installaties waarmee koolstofdioxide wordt afgevangen en permanent opgeslagen als bedoeld in de [artikelen 79, eerste lid, onderdeel a tot en met h en tweede lid tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.13&artikel=79&z=2026-08-04&g=2026-08-04), en [81, onderdeel a tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.13&artikel=81&z=2026-08-04&g=2026-08-04);
+- e. productie-installaties waarmee koolstofdioxide wordt afgevangen en permanent opgeslagen als bedoeld in de [artikelen 79, eerste lid, onderdeel a tot en met h en tweede lid tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.13&artikel=79&z=2026-10-10&g=2026-10-10), en [81, onderdeel a tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.13&artikel=81&z=2026-10-10&g=2026-10-10);
 
-- f. productie-installaties waarmee koolstofdioxide wordt afgevangen en gebruikt als bedoeld in [artikel 83, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.14&artikel=83&z=2026-08-04&g=2026-08-04).
+- f. productie-installaties waarmee koolstofdioxide wordt afgevangen en gebruikt als bedoeld in [artikel 83, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.14&artikel=83&z=2026-10-10&g=2026-10-10).
 
 ##### Artikel 9
 
-1. Als productie-installaties waarvoor het verschil in kWh kan worden opgeteld als bedoeld in [artikel 15a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=15a), jo. [artikel 15, derde lid, van het Besluit SDEK](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=15) worden aangewezen productie-installaties waarmee hernieuwbare elektriciteit wordt geproduceerd als bedoeld in de [artikelen 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.1&artikel=13&z=2026-08-04&g=2026-08-04), [15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.2&artikel=15&z=2026-08-04&g=2026-08-04), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.3&artikel=17&z=2026-08-04&g=2026-08-04), [19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.4&artikel=19&z=2026-08-04&g=2026-08-04) en [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.5&artikel=21&z=2026-08-04&g=2026-08-04).
+1. Als productie-installaties waarvoor het verschil in kWh kan worden opgeteld als bedoeld in [artikel 15a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=15a), jo. [artikel 15, derde lid, van het Besluit SDEK](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=15) worden aangewezen productie-installaties waarmee hernieuwbare elektriciteit wordt geproduceerd als bedoeld in de [artikelen 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.1&artikel=13&z=2026-10-10&g=2026-10-10), [15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.2&artikel=15&z=2026-10-10&g=2026-10-10), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.3&artikel=17&z=2026-10-10&g=2026-10-10), [19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.4&artikel=19&z=2026-10-10&g=2026-10-10) en [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.5&artikel=21&z=2026-10-10&g=2026-10-10).
 
-2. Als productie-installaties waarvoor het verschil in kWh kan worden opgeteld als bedoeld in [artikel 32, derde en vierde lid, van het Besluit SDEK](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=32) worden aangewezen productie-installaties waarmee hernieuwbaar gas wordt geproduceerd als bedoeld in de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.1&artikel=23&z=2026-08-04&g=2026-08-04), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.2&artikel=25&z=2026-08-04&g=2026-08-04), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.3&artikel=27&z=2026-08-04&g=2026-08-04), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.4&artikel=29&z=2026-08-04&g=2026-08-04) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.5&artikel=31&z=2026-08-04&g=2026-08-04). Het verschil in kWh dat bij het aantal geproduceerde kWh van het volgende jaar kan worden opgeteld, bedoeld in artikel 32, vierde lid, van het Besluit SDEK, wordt gemaximeerd op 25% van het aantal kWh dat het desbetreffende jaar voor subsidie in aanmerking komt.
+2. Als productie-installaties waarvoor het verschil in kWh kan worden opgeteld als bedoeld in [artikel 32, derde en vierde lid, van het Besluit SDEK](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=32) worden aangewezen productie-installaties waarmee hernieuwbaar gas wordt geproduceerd als bedoeld in de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.1&artikel=23&z=2026-10-10&g=2026-10-10), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.2&artikel=25&z=2026-10-10&g=2026-10-10), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.3&artikel=27&z=2026-10-10&g=2026-10-10), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.4&artikel=29&z=2026-10-10&g=2026-10-10) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.5&artikel=31&z=2026-10-10&g=2026-10-10). Het verschil in kWh dat bij het aantal geproduceerde kWh van het volgende jaar kan worden opgeteld, bedoeld in artikel 32, vierde lid, van het Besluit SDEK, wordt gemaximeerd op 25% van het aantal kWh dat het desbetreffende jaar voor subsidie in aanmerking komt.
 
-3. Als productie-installaties waarvoor het verschil in kWh kan worden opgeteld als bedoeld in [artikel 48, derde en vierde lid, van het Besluit SDEK](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=48) worden aangewezen productie-installaties waarmee hernieuwbare warmte, hernieuwbare elektriciteit of hernieuwbare elektriciteit en hernieuwbare warmte wordt geproduceerd als bedoeld in de [artikelen 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.1&artikel=33&z=2026-08-04&g=2026-08-04), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.2&artikel=35&z=2026-08-04&g=2026-08-04), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.3&artikel=37&z=2026-08-04&g=2026-08-04), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.4&artikel=39&z=2026-08-04&g=2026-08-04), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.5&artikel=41&z=2026-08-04&g=2026-08-04), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.6&artikel=43&z=2026-08-04&g=2026-08-04), [45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.7&artikel=45&z=2026-08-04&g=2026-08-04), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.8&artikel=47&z=2026-08-04&g=2026-08-04), [49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.9&artikel=49&z=2026-08-04&g=2026-08-04), [51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.10&artikel=51&z=2026-08-04&g=2026-08-04), en [53](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.11&artikel=53&z=2026-08-04&g=2026-08-04).
+3. Als productie-installaties waarvoor het verschil in kWh kan worden opgeteld als bedoeld in [artikel 48, derde en vierde lid, van het Besluit SDEK](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=48) worden aangewezen productie-installaties waarmee hernieuwbare warmte, hernieuwbare elektriciteit of hernieuwbare elektriciteit en hernieuwbare warmte wordt geproduceerd als bedoeld in de [artikelen 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.1&artikel=33&z=2026-10-10&g=2026-10-10), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.2&artikel=35&z=2026-10-10&g=2026-10-10), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.3&artikel=37&z=2026-10-10&g=2026-10-10), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.4&artikel=39&z=2026-10-10&g=2026-10-10), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.5&artikel=41&z=2026-10-10&g=2026-10-10), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.6&artikel=43&z=2026-10-10&g=2026-10-10), [45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.7&artikel=45&z=2026-10-10&g=2026-10-10), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.8&artikel=47&z=2026-10-10&g=2026-10-10), [49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.9&artikel=49&z=2026-10-10&g=2026-10-10), [51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.10&artikel=51&z=2026-10-10&g=2026-10-10), en [53](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.11&artikel=53&z=2026-10-10&g=2026-10-10).
 
 4. Voor de productie-installaties, bedoeld in het derde lid, wordt het verschil in kWh dat bij het aantal geproduceerde kWh van het volgende jaar kan worden opgeteld, bedoeld in [artikel 48, vierde lid, van het Besluit SDEK](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=48), gemaximeerd op 25% van het aantal kWh dat het desbetreffende jaar voor subsidie in aanmerking komt.
 
 5. Als productie-installaties waarvoor het verschil in kWh kan worden opgeteld als bedoeld in [artikel 55j, derde en vierde lid, van het Besluit SDEK](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=55j) worden aangewezen:
 
-- a. productie-installaties waarmee koolstofdioxide-arme warmte wordt geproduceerd als bedoeld in de [artikelen 55](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.1&artikel=55&z=2026-08-04&g=2026-08-04), [57](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.2&artikel=57&z=2026-08-04&g=2026-08-04), [59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.3&artikel=59&z=2026-08-04&g=2026-08-04), [61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.4&artikel=61&z=2026-08-04&g=2026-08-04), [65, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.6&artikel=65&z=2026-08-04&g=2026-08-04), [67, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.7&artikel=67&z=2026-08-04&g=2026-08-04), [69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.8&artikel=69&z=2026-08-04&g=2026-08-04), en [71](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.9&artikel=71&z=2026-08-04&g=2026-08-04);
+- a. productie-installaties waarmee koolstofdioxide-arme warmte wordt geproduceerd als bedoeld in de [artikelen 55](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.1&artikel=55&z=2026-10-10&g=2026-10-10), [57](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.2&artikel=57&z=2026-10-10&g=2026-10-10), [59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.3&artikel=59&z=2026-10-10&g=2026-10-10), [61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.4&artikel=61&z=2026-10-10&g=2026-10-10), [65, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.6&artikel=65&z=2026-10-10&g=2026-10-10), [67, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.7&artikel=67&z=2026-10-10&g=2026-10-10), [69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.8&artikel=69&z=2026-10-10&g=2026-10-10), en [71](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.9&artikel=71&z=2026-10-10&g=2026-10-10);
 
-- b. productie-installaties waarmee waterstof wordt geproduceerd als bedoeld in de [artikelen 73, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.10&artikel=73&z=2026-08-04&g=2026-08-04) en [75](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.11&artikel=75&z=2026-08-04&g=2026-08-04);
+- b. productie-installaties waarmee waterstof wordt geproduceerd als bedoeld in de [artikelen 73, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.10&artikel=73&z=2026-10-10&g=2026-10-10) en [75](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.11&artikel=75&z=2026-10-10&g=2026-10-10);
 
-- c. productie-installaties waarmee geavanceerde hernieuwbare brandstof wordt geproduceerd als bedoeld in [artikel 77, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.12&artikel=77&z=2026-08-04&g=2026-08-04);
+- c. productie-installaties waarmee geavanceerde hernieuwbare brandstof wordt geproduceerd als bedoeld in [artikel 77, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.12&artikel=77&z=2026-10-10&g=2026-10-10);
 
-- d. productie-installaties waarmee koolstofdioxide wordt afgevangen en permanent opgeslagen als bedoeld in de [artikelen 79, eerste toe en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.13&artikel=79&z=2026-08-04&g=2026-08-04), en [81](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.13&artikel=81&z=2026-08-04&g=2026-08-04);
+- d. productie-installaties waarmee koolstofdioxide wordt afgevangen en permanent opgeslagen als bedoeld in de [artikelen 79, eerste toe en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.13&artikel=79&z=2026-10-10&g=2026-10-10), en [81](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.13&artikel=81&z=2026-10-10&g=2026-10-10);
 
-- e. productie-installaties waarmee koolstofdioxide wordt afgevangen en gebruikt als bedoeld in de [artikel 83, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.14&artikel=83&z=2026-08-04&g=2026-08-04) en [85](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.15&artikel=85&z=2026-08-04&g=2026-08-04).
+- e. productie-installaties waarmee koolstofdioxide wordt afgevangen en gebruikt als bedoeld in de [artikel 83, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.14&artikel=83&z=2026-10-10&g=2026-10-10) en [85](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.15&artikel=85&z=2026-10-10&g=2026-10-10).
 
 6. Voor de productie-installatie, bedoeld in het vijfde lid, wordt het verschil in kg verminderde broeikasgas dat bij het aantal kg verminderde broeikasgas van het volgende jaar kan worden opgeteld, bedoeld in [artikel 55j, vierde lid, van het Besluit SDEK](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=55j), gemaximeerd op 25% van het aantal kg verminderde broeikasgas dat het desbetreffende jaar voor subsidie in aanmerking komt.
 
-7. Als productie-installaties waarvoor het verschil in kWh kan worden opgeteld, bedoeld in [artikel 55j, derde lid, van het Besluit SDEK](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=55j), worden aangewezen productie-installaties waarmee koolstofdioxide-arme warmte wordt geproduceerd als bedoeld in [artikel 63, eerste lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.5&artikel=63&z=2026-08-04&g=2026-08-04).
+7. Als productie-installaties waarvoor het verschil in kWh kan worden opgeteld, bedoeld in [artikel 55j, derde lid, van het Besluit SDEK](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=55j), worden aangewezen productie-installaties waarmee koolstofdioxide-arme warmte wordt geproduceerd als bedoeld in [artikel 63, eerste lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.5&artikel=63&z=2026-10-10&g=2026-10-10).
 
 ##### Artikel 10
 
-1. Als productie-installaties waarvoor het aantal kWh kan worden opgeteld als bedoeld in [artikel 32, zesde lid, van het Besluit SDEK](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=32) worden aangewezen productie-installaties waarmee hernieuwbaar gas wordt geproduceerd als bedoeld in de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.1&artikel=23&z=2026-08-04&g=2026-08-04), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.2&artikel=25&z=2026-08-04&g=2026-08-04), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.3&artikel=27&z=2026-08-04&g=2026-08-04), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.4&artikel=29&z=2026-08-04&g=2026-08-04) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.5&artikel=31&z=2026-08-04&g=2026-08-04).
+1. Als productie-installaties waarvoor het aantal kWh kan worden opgeteld als bedoeld in [artikel 32, zesde lid, van het Besluit SDEK](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=32) worden aangewezen productie-installaties waarmee hernieuwbaar gas wordt geproduceerd als bedoeld in de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.1&artikel=23&z=2026-10-10&g=2026-10-10), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.2&artikel=25&z=2026-10-10&g=2026-10-10), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.3&artikel=27&z=2026-10-10&g=2026-10-10), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.4&artikel=29&z=2026-10-10&g=2026-10-10) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.5&artikel=31&z=2026-10-10&g=2026-10-10).
 
-2. Als productie-installaties waarvoor de producent kan aantonen dat hij hernieuwbaar gas heeft geproduceerd waarmee hernieuwbare warmte of hernieuwbare warmte en hernieuwbare elektriciteit is geproduceerd, als bedoeld in [artikel 32, zevende lid, van het Besluit SDEK](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=32) worden productie-installaties aangewezen waarmee hernieuwbare warmte, hernieuwbare elektriciteit of hernieuwbare elektriciteit en hernieuwbare warmte wordt geproduceerd als bedoeld in de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.2&artikel=35&z=2026-08-04&g=2026-08-04), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.3&artikel=37&z=2026-08-04&g=2026-08-04) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.4&artikel=39&z=2026-08-04&g=2026-08-04).
+2. Als productie-installaties waarvoor de producent kan aantonen dat hij hernieuwbaar gas heeft geproduceerd waarmee hernieuwbare warmte of hernieuwbare warmte en hernieuwbare elektriciteit is geproduceerd, als bedoeld in [artikel 32, zevende lid, van het Besluit SDEK](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=32) worden productie-installaties aangewezen waarmee hernieuwbare warmte, hernieuwbare elektriciteit of hernieuwbare elektriciteit en hernieuwbare warmte wordt geproduceerd als bedoeld in de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.2&artikel=35&z=2026-10-10&g=2026-10-10), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.3&artikel=37&z=2026-10-10&g=2026-10-10) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.4&artikel=39&z=2026-10-10&g=2026-10-10).
 
 ##### Artikel 11
 
-Als productie-installaties waarvoor het aantal kWh kan worden opgeteld waarvoor garanties van oorsprong voor niet-netlevering zijn verstrekt als bedoeld in [artikel 48, zevende lid van het Besluit SDEK](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=48) worden productie-installaties aangewezen waarmee hernieuwbare elektriciteit of hernieuwbare elektriciteit en hernieuwbare warmte wordt geproduceerd als bedoeld in de [artikelen 35, onderdelen b, d, f en h](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.2&artikel=35&z=2026-08-04&g=2026-08-04), [37, onderdelen b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.3&artikel=37&z=2026-08-04&g=2026-08-04), en [39, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.4&artikel=39&z=2026-08-04&g=2026-08-04).
+Als productie-installaties waarvoor het aantal kWh kan worden opgeteld waarvoor garanties van oorsprong voor niet-netlevering zijn verstrekt als bedoeld in [artikel 48, zevende lid van het Besluit SDEK](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=48) worden productie-installaties aangewezen waarmee hernieuwbare elektriciteit of hernieuwbare elektriciteit en hernieuwbare warmte wordt geproduceerd als bedoeld in de [artikelen 35, onderdelen b, d, f en h](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.2&artikel=35&z=2026-10-10&g=2026-10-10), [37, onderdelen b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.3&artikel=37&z=2026-10-10&g=2026-10-10), en [39, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.4&artikel=39&z=2026-10-10&g=2026-10-10).
 
 ##### Artikel 12
 
 Als productie-installaties waarvoor een gebundelde aanvraag kan worden ingediend als bedoeld in [artikel 56, tweede lid, van het Besluit SDEK](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=56) worden aangewezen:
 
-- a. productie-installaties waarmee hernieuwbare elektriciteit wordt geproduceerd als bedoeld in de [artikelen 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.1&artikel=13&z=2026-08-04&g=2026-08-04), [15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.2&artikel=15&z=2026-08-04&g=2026-08-04) en [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.3&artikel=17&z=2026-08-04&g=2026-08-04);
+- a. productie-installaties waarmee hernieuwbare elektriciteit wordt geproduceerd als bedoeld in de [artikelen 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.1&artikel=13&z=2026-10-10&g=2026-10-10), [15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.2&artikel=15&z=2026-10-10&g=2026-10-10) en [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.3&artikel=17&z=2026-10-10&g=2026-10-10);
 
-- b. productie-installaties waarmee hernieuwbaar gas wordt geproduceerd als bedoeld in de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.1&artikel=23&z=2026-08-04&g=2026-08-04) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.2&artikel=25&z=2026-08-04&g=2026-08-04);
+- b. productie-installaties waarmee hernieuwbaar gas wordt geproduceerd als bedoeld in de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.1&artikel=23&z=2026-10-10&g=2026-10-10) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.2&artikel=25&z=2026-10-10&g=2026-10-10);
 
-- c. productie-installatie waarmee hernieuwbare warmte, hernieuwbare elektriciteit of hernieuwbare elektriciteit en hernieuwbare warmte wordt geproduceerd als bedoeld in de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.2&artikel=35&z=2026-08-04&g=2026-08-04) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.3&artikel=37&z=2026-08-04&g=2026-08-04);
+- c. productie-installatie waarmee hernieuwbare warmte, hernieuwbare elektriciteit of hernieuwbare elektriciteit en hernieuwbare warmte wordt geproduceerd als bedoeld in de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.2&artikel=35&z=2026-10-10&g=2026-10-10) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.3&artikel=37&z=2026-10-10&g=2026-10-10);
 
-- d. productie-installaties waarmee koolstofdioxide wordt afgevangen en permanent opgeslagen als bedoeld in de [artikelen 79, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.13&artikel=79&z=2026-08-04&g=2026-08-04), en [81](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.13&artikel=81&z=2026-08-04&g=2026-08-04);
+- d. productie-installaties waarmee koolstofdioxide wordt afgevangen en permanent opgeslagen als bedoeld in de [artikelen 79, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.13&artikel=79&z=2026-10-10&g=2026-10-10), en [81](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.13&artikel=81&z=2026-10-10&g=2026-10-10);
 
-- e. productie-installaties waarmee koolstofdioxide wordt afgevangen en gebruikt als bedoeld in de [artikelen 83, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.14&artikel=83&z=2026-08-04&g=2026-08-04), en [85](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.15&artikel=85&z=2026-08-04&g=2026-08-04).
+- e. productie-installaties waarmee koolstofdioxide wordt afgevangen en gebruikt als bedoeld in de [artikelen 83, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.14&artikel=83&z=2026-10-10&g=2026-10-10), en [85](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.15&artikel=85&z=2026-10-10&g=2026-10-10).
 
 #### § 3. Categorieën
 
@@ -293,11 +293,11 @@ Als productie-installaties waarvoor een gebundelde aanvraag kan worden ingediend
 
 ##### Artikel 13
 
-1. De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare elektriciteit geproduceerd door een productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie, niet zijnde een productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie als bedoeld in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.2&artikel=15&z=2026-08-04&g=2026-08-04) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.3&artikel=17&z=2026-08-04&g=2026-08-04);
+1. De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare elektriciteit geproduceerd door een productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie, niet zijnde een productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie als bedoeld in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.2&artikel=15&z=2026-10-10&g=2026-10-10) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.3&artikel=17&z=2026-10-10&g=2026-10-10);
 
 - a. die is aangesloten op een elektriciteitsnet met een aansluiting met een totale maximale doorlaatwaarde van meer dan 3*80 A; en
 
-- b. die wordt gerealiseerd op een locatie die overeenkomstig de lijst van gemeenten volgens de gemeentelijke indeling op 1 januari 2026, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&bijlage=2&z=2026-08-04&g=2026-08-04), een windsnelheid heeft van:
+- b. die wordt gerealiseerd op een locatie die overeenkomstig de lijst van gemeenten volgens de gemeentelijke indeling op 1 januari 2026, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&bijlage=2&z=2026-10-10&g=2026-10-10), een windsnelheid heeft van:
 
    - 1°. ≥ 8,0 m/s;
 
@@ -319,7 +319,7 @@ Als productie-installaties waarvoor een gebundelde aanvraag kan worden ingediend
 
 ##### Artikel 14
 
-1. De subsidie, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.1&artikel=13&z=2026-08-04&g=2026-08-04), wordt voor een periode van vijftien jaar verstrekt.
+1. De subsidie, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.1&artikel=13&z=2026-10-10&g=2026-10-10), wordt voor een periode van vijftien jaar verstrekt.
 
 2. De subsidieontvanger neemt de productie-installatie binnen vier jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
 
@@ -331,7 +331,7 @@ Als productie-installaties waarvoor een gebundelde aanvraag kan worden ingediend
 
 - a. die is aangesloten op een elektriciteitsnet met een aansluiting met een totale maximale doorlaatwaarde van meer dan 3*80 A; en
 
-- b. die wordt gerealiseerd op een locatie die overeenkomstig de lijst van gemeenten volgens de gemeentelijke indeling op 1 januari 2026, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&bijlage=2&z=2026-08-04&g=2026-08-04), een windsnelheid heeft van:
+- b. die wordt gerealiseerd op een locatie die overeenkomstig de lijst van gemeenten volgens de gemeentelijke indeling op 1 januari 2026, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&bijlage=2&z=2026-10-10&g=2026-10-10), een windsnelheid heeft van:
 
    - 1°. ≥ 8,0 m/s;
 
@@ -355,7 +355,7 @@ Als productie-installaties waarvoor een gebundelde aanvraag kan worden ingediend
 
 ##### Artikel 16
 
-1. De subsidie, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.2&artikel=15&z=2026-08-04&g=2026-08-04), wordt voor een periode van vijftien jaar verstrekt.
+1. De subsidie, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.2&artikel=15&z=2026-10-10&g=2026-10-10), wordt voor een periode van vijftien jaar verstrekt.
 
 2. De subsidieontvanger neemt de productie-installatie binnen vier jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
 
@@ -369,7 +369,7 @@ Als productie-installaties waarvoor een gebundelde aanvraag kan worden ingediend
 
 - b. die is aangesloten op een elektriciteitsnet met een aansluiting met een totale maximale doorlaatwaarde van meer dan 3*80 A; en
 
-- c. die wordt gerealiseerd op een locatie die overeenkomstig de lijst van gemeenten volgens de gemeentelijke indeling op 1 januari 2026, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&bijlage=2&z=2026-08-04&g=2026-08-04), een windsnelheid heeft van:
+- c. die wordt gerealiseerd op een locatie die overeenkomstig de lijst van gemeenten volgens de gemeentelijke indeling op 1 januari 2026, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&bijlage=2&z=2026-10-10&g=2026-10-10), een windsnelheid heeft van:
 
    - 1°. ≥ 8,0 m/s;
 
@@ -389,7 +389,7 @@ Als productie-installaties waarvoor een gebundelde aanvraag kan worden ingediend
 
 ##### Artikel 18
 
-1. De subsidie, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.3&artikel=17&z=2026-08-04&g=2026-08-04), wordt voor een periode van vijftien jaar verstrekt.
+1. De subsidie, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.3&artikel=17&z=2026-10-10&g=2026-10-10), wordt voor een periode van vijftien jaar verstrekt.
 
 2. De subsidieontvanger neemt de productie-installatie binnen vier jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
 
@@ -419,11 +419,11 @@ Als productie-installaties waarvoor een gebundelde aanvraag kan worden ingediend
 
 1. De subsidie, bedoeld in artikel 19, eerste lid, wordt voor een periode van vijftien jaar verstrekt.
 
-2. De subsidieontvanger neemt een productie-installatie als bedoeld in [artikel 19, eerste lid, onderdeel a, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.4&artikel=19&z=2026-08-04&g=2026-08-04) binnen twee jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
+2. De subsidieontvanger neemt een productie-installatie als bedoeld in [artikel 19, eerste lid, onderdeel a, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.4&artikel=19&z=2026-10-10&g=2026-10-10) binnen twee jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
 
-3. De subsidieontvanger neemt een productie-installatie als bedoeld in [artikel 19, eerste lid, onderdeel b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.4&artikel=19&z=2026-08-04&g=2026-08-04), binnen drie jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
+3. De subsidieontvanger neemt een productie-installatie als bedoeld in [artikel 19, eerste lid, onderdeel b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.4&artikel=19&z=2026-10-10&g=2026-10-10), binnen drie jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
 
-4. [Artikel 3, eerste lid, van de Algemene uitvoeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=3) is niet van toepassing op een productie-installatie als bedoeld in [artikel 19, eerste lid, onderdeel a, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.4&artikel=19&z=2026-08-04&g=2026-08-04).
+4. [Artikel 3, eerste lid, van de Algemene uitvoeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=3) is niet van toepassing op een productie-installatie als bedoeld in [artikel 19, eerste lid, onderdeel a, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.4&artikel=19&z=2026-10-10&g=2026-10-10).
 
 ##### § 3.1.5. Fotovoltaïsche zonnepanelen grondgebonden of op water
 
@@ -459,13 +459,13 @@ Als productie-installaties waarvoor een gebundelde aanvraag kan worden ingediend
 
 ##### Artikel 22
 
-1. De subsidie, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.5&artikel=21&z=2026-08-04&g=2026-08-04), wordt voor een periode van vijftien jaar verstrekt.
+1. De subsidie, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.5&artikel=21&z=2026-10-10&g=2026-10-10), wordt voor een periode van vijftien jaar verstrekt.
 
-2. De subsidieontvanger neemt een productie-installatie als bedoeld in [artikel 21, eerste lid, onderdeel a, subonderdeel 1°, onderdeel b, subonderdelen 1° en 4° en onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.5&artikel=21&z=2026-08-04&g=2026-08-04), binnen twee jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
+2. De subsidieontvanger neemt een productie-installatie als bedoeld in [artikel 21, eerste lid, onderdeel a, subonderdeel 1°, onderdeel b, subonderdelen 1° en 4° en onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.5&artikel=21&z=2026-10-10&g=2026-10-10), binnen twee jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
 
-3. De subsidieontvanger neemt een productie-installatie als bedoeld in [artikel 21, eerste lid, onderdeel a, subonderdeel 2°, onderdeel b, subonderdelen 2°, 3° en 5°, en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.5&artikel=21&z=2026-08-04&g=2026-08-04), binnen vier jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
+3. De subsidieontvanger neemt een productie-installatie als bedoeld in [artikel 21, eerste lid, onderdeel a, subonderdeel 2°, onderdeel b, subonderdelen 2°, 3° en 5°, en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.5&artikel=21&z=2026-10-10&g=2026-10-10), binnen vier jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
 
-4. [Artikel 3, eerste lid, van de Algemene uitvoeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=3) is niet van toepassing op een productie-installatie als bedoeld in [artikel 21, eerste lid, onderdeel a, subonderdeel 1°, onderdeel b, subonderdelen 1° en 4° en onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.5&artikel=21&z=2026-08-04&g=2026-08-04).
+4. [Artikel 3, eerste lid, van de Algemene uitvoeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=3) is niet van toepassing op een productie-installatie als bedoeld in [artikel 21, eerste lid, onderdeel a, subonderdeel 1°, onderdeel b, subonderdelen 1° en 4° en onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.5&artikel=21&z=2026-10-10&g=2026-10-10).
 
 ##### § 3.2. Hernieuwbaar gas
 
@@ -485,7 +485,7 @@ De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbaar ga
 
 ##### Artikel 24
 
-1. De subsidie, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.1&artikel=23&z=2026-08-04&g=2026-08-04), wordt voor een periode van twaalf jaar verstrekt.
+1. De subsidie, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.1&artikel=23&z=2026-10-10&g=2026-10-10), wordt voor een periode van twaalf jaar verstrekt.
 
 2. De subsidieontvanger neemt de productie-installatie binnen vier jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
 
@@ -507,13 +507,13 @@ De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbaar ga
 
 ##### Artikel 26
 
-1. De subsidie, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.2&artikel=25&z=2026-08-04&g=2026-08-04), wordt voor een periode van twaalf jaar verstrekt.
+1. De subsidie, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.2&artikel=25&z=2026-10-10&g=2026-10-10), wordt voor een periode van twaalf jaar verstrekt.
 
 2. De subsidieontvanger neemt de productie-installatie binnen vier jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
 
 3. Een subsidieontvanger draagt er zorg voor dat wordt aangetoond dat de in een installatie met een totaal nominaal vermogen van de gasopwaardeerinstallatie gelijk aan of groter dan 2 MW gebruikte biomassa voldoet aan de duurzaamheids- en broeikasgasemissiereductiecriteria, bedoeld in artikel 29, eerste lid, van de richtlijn (EU) 2018/2001.
 
-4. [Artikel 3, eerste lid, van de Algemene uitvoeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=3) is niet van toepassing op een productie-installatie als bedoeld in [artikel 25, onderdelen b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.2&artikel=25&z=2026-08-04&g=2026-08-04).
+4. [Artikel 3, eerste lid, van de Algemene uitvoeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=3) is niet van toepassing op een productie-installatie als bedoeld in [artikel 25, onderdelen b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.2&artikel=25&z=2026-10-10&g=2026-10-10).
 
 ##### § 3.2.3. Verbeterde slibgisting bij rioolwaterzuiveringsinstallaties
 
@@ -527,7 +527,7 @@ De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbaar ga
 
 ##### Artikel 28
 
-1. De subsidie, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.3&artikel=27&z=2026-08-04&g=2026-08-04), wordt voor een periode van twaalf jaar verstrekt.
+1. De subsidie, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.3&artikel=27&z=2026-10-10&g=2026-10-10), wordt voor een periode van twaalf jaar verstrekt.
 
 2. De subsidieontvanger neemt de productie-installatie binnen vier jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
 
@@ -543,7 +543,7 @@ De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbaar ga
 
 ##### Artikel 30
 
-1. De subsidie, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.4&artikel=29&z=2026-08-04&g=2026-08-04), wordt voor een periode van twaalf jaar verstrekt.
+1. De subsidie, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.4&artikel=29&z=2026-10-10&g=2026-10-10), wordt voor een periode van twaalf jaar verstrekt.
 
 2. De subsidieontvanger neemt de productie-installatie binnen vier jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
 
@@ -561,7 +561,7 @@ De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbaar ga
 
 ##### Artikel 32
 
-1. De subsidie, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.5&artikel=31&z=2026-08-04&g=2026-08-04), wordt voor een periode van vijftien jaar verstrekt.
+1. De subsidie, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.5&artikel=31&z=2026-10-10&g=2026-10-10), wordt voor een periode van vijftien jaar verstrekt.
 
 2. De subsidieontvanger neemt de productie-installatie binnen vijf jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
 
@@ -589,7 +589,7 @@ De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbaar ga
 
 ##### Artikel 34
 
-1. De subsidie, bedoeld in [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.1&artikel=33&z=2026-08-04&g=2026-08-04), wordt voor een periode van vijftien jaar verstrekt.
+1. De subsidie, bedoeld in [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.1&artikel=33&z=2026-10-10&g=2026-10-10), wordt voor een periode van vijftien jaar verstrekt.
 
 2. De subsidieontvanger neemt de productie-installatie binnen drie jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
 
@@ -615,11 +615,11 @@ De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare wa
 
 - g. hernieuwbare warmte wordt geproduceerd door middel van monomestvergisting, met een vermogen kleiner dan of gelijk aan 110 kW, waarbij ten minste de vergister nieuw is; of
 
-- h. hernieuwbare elektriciteit en hernieuwbare warmte wordt geproduceerd door middel van monomestvergisting, met een vermogen kleiner dan of gelijk aan 110 kW, waarbij ten minste de vergister nieuw is.
+- h. hernieuwbare elektriciteit en hernieuwbare warmte wordt geproduceerd door middel van monomestvergisting, met een vermogen kleiner dan of gelijk aan 110 kW, waarbij ten minste de vergister nieuw is en het nominale elektrisch rendement tenminste 20% bedraagt.
 
 ##### Artikel 36
 
-1. De subsidie, bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.2&artikel=35&z=2026-08-04&g=2026-08-04), wordt voor een periode van twaalf jaar verstrekt.
+1. De subsidie, bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.2&artikel=35&z=2026-10-10&g=2026-10-10), wordt voor een periode van twaalf jaar verstrekt.
 
 2. De subsidieontvanger neemt de productie-installatie binnen vier jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
 
@@ -643,7 +643,7 @@ De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare wa
 
 ##### Artikel 38
 
-1. De subsidie, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.3&artikel=37&z=2026-08-04&g=2026-08-04), wordt voor een periode van twaalf jaar verstrekt.
+1. De subsidie, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.3&artikel=37&z=2026-10-10&g=2026-10-10), wordt voor een periode van twaalf jaar verstrekt.
 
 2. De subsidieontvanger neemt de productie-installatie binnen vier jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
 
@@ -651,7 +651,7 @@ De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare wa
 
 4. De subsidieontvanger draagt er zorg voor dat wordt aangetoond dat de in een installatie met een totaal nominaal thermisch ingangsvermogen gelijk aan of groter dan 2 MW gebruikte biomassa voldoet aan de duurzaamheids- en broeikasgasemissiereductiecriteria, bedoeld in artikel 29, eerste lid, van de richtlijn (EU) 2018/2001.
 
-5. [Artikel 3, eerste lid, van de Algemene uitvoeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=3) is niet van toepassing op een productie-installatie als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.3&artikel=37&z=2026-08-04&g=2026-08-04).
+5. [Artikel 3, eerste lid, van de Algemene uitvoeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=3) is niet van toepassing op een productie-installatie als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.3&artikel=37&z=2026-10-10&g=2026-10-10).
 
 ##### § 3.3.4. Verbeterde slibgisting bij rioolwaterzuiveringsinstallaties voor warmte en gecombineerde opwekking
 
@@ -665,7 +665,7 @@ De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare wa
 
 ##### Artikel 40
 
-1. De subsidie, bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.4&artikel=39&z=2026-08-04&g=2026-08-04), wordt voor een periode van twaalf jaar verstrekt.
+1. De subsidie, bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.4&artikel=39&z=2026-10-10&g=2026-10-10), wordt voor een periode van twaalf jaar verstrekt.
 
 2. De subsidieontvanger neemt de productie-installatie binnen vier jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
 
@@ -687,7 +687,7 @@ De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare wa
 
 ##### Artikel 42
 
-1. De subsidie, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.5&artikel=41&z=2026-08-04&g=2026-08-04), wordt voor een periode van twaalf jaar verstrekt.
+1. De subsidie, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.5&artikel=41&z=2026-10-10&g=2026-10-10), wordt voor een periode van twaalf jaar verstrekt.
 
 2. De subsidieontvanger neemt de productie-installatie binnen vier jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
 
@@ -703,7 +703,7 @@ De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare wa
 
 ##### Artikel 44
 
-1. De subsidie, bedoeld in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.6&artikel=43&z=2026-08-04&g=2026-08-04), wordt voor een periode van twaalf jaar verstrekt.
+1. De subsidie, bedoeld in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.6&artikel=43&z=2026-10-10&g=2026-10-10), wordt voor een periode van twaalf jaar verstrekt.
 
 2. De subsidieontvanger neemt de productie-installatie binnen vier jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
 
@@ -735,7 +735,7 @@ De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare wa
 
 ##### Artikel 46
 
-1. De subsidie, bedoeld in [artikel 45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.7&artikel=45&z=2026-08-04&g=2026-08-04), wordt voor een periode van twaalf jaar verstrekt.
+1. De subsidie, bedoeld in [artikel 45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.7&artikel=45&z=2026-10-10&g=2026-10-10), wordt voor een periode van twaalf jaar verstrekt.
 
 2. De subsidieontvanger neemt de productie-installatie binnen vier jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
 
@@ -761,7 +761,7 @@ De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare wa
 
 ##### Artikel 48
 
-1. De subsidie, bedoeld in [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.8&artikel=47&z=2026-08-04&g=2026-08-04), wordt voor een periode van twaalf jaar verstrekt.
+1. De subsidie, bedoeld in [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.8&artikel=47&z=2026-10-10&g=2026-10-10), wordt voor een periode van twaalf jaar verstrekt.
 
 2. De subsidieontvanger neemt de productie-installatie binnen vier jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
 
@@ -779,7 +779,7 @@ De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare wa
 
 ##### Artikel 50
 
-1. De subsidie, bedoeld in [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.9&artikel=49&z=2026-08-04&g=2026-08-04), wordt voor een periode van twaalf jaar verstrekt.
+1. De subsidie, bedoeld in [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.9&artikel=49&z=2026-10-10&g=2026-10-10), wordt voor een periode van twaalf jaar verstrekt.
 
 2. De subsidieontvanger neemt de productie-installatie binnen vier jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
 
@@ -789,7 +789,7 @@ De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare wa
 
 5. Als gebruik wordt gemaakt van houtige biomassa als bedoeld in de nummers 100 tot en met 199 van de NTA 8003:2017, draagt de subsidieontvanger er zorg voor dat de geproduceerde warmte wordt gebruikt voor een industriële toepassing, niet zijnde tuinbouw, in een verwarmingssysteem met een aanvoertemperatuur aan de gebruikerszijde van ten minste 100°C.
 
-6. [Artikel 3, eerste lid, van de Algemene uitvoeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=3) is niet van toepassing op een productie-installatie als bedoeld in [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.9&artikel=49&z=2026-08-04&g=2026-08-04).
+6. [Artikel 3, eerste lid, van de Algemene uitvoeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=3) is niet van toepassing op een productie-installatie als bedoeld in [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.9&artikel=49&z=2026-10-10&g=2026-10-10).
 
 ##### § 3.3.10. Voortzetting grote ketel op B-hout voor warmte
 
@@ -801,7 +801,7 @@ De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare wa
 
 ##### Artikel 52
 
-1. De subsidie, bedoeld in [artikel 51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.10&artikel=51&z=2026-08-04&g=2026-08-04), wordt voor een periode van twaalf jaar verstrekt.
+1. De subsidie, bedoeld in [artikel 51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.10&artikel=51&z=2026-10-10&g=2026-10-10), wordt voor een periode van twaalf jaar verstrekt.
 
 2. De subsidieontvanger neemt de productie-installatie binnen vier jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
 
@@ -811,7 +811,7 @@ De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare wa
 
 5. Als gebruik wordt gemaakt van houtige biomassa als bedoeld in de nummers 100 tot en met 199 van de NTA 8003:2017, draagt de subsidieontvanger er zorg voor dat de geproduceerde warmte wordt gebruikt voor een industriële toepassing, niet zijnde tuinbouw, in een verwarmingssysteem met een aanvoertemperatuur aan de gebruikerszijde van ten minste 100°C.
 
-6. [Artikel 3, eerste lid, van de Algemene uitvoeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=3) is niet van toepassing op een productie-installatie als bedoeld in [artikel 51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.10&artikel=51&z=2026-08-04&g=2026-08-04).
+6. [Artikel 3, eerste lid, van de Algemene uitvoeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=3) is niet van toepassing op een productie-installatie als bedoeld in [artikel 51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.10&artikel=51&z=2026-10-10&g=2026-10-10).
 
 ##### § 3.3.11. Geothermie voor hernieuwbare warmte
 
@@ -847,11 +847,11 @@ De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare wa
 
 ##### Artikel 54
 
-1. De subsidie, bedoeld in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.11&artikel=53&z=2026-08-04&g=2026-08-04), wordt voor een periode van vijftien jaar verstrekt.
+1. De subsidie, bedoeld in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.11&artikel=53&z=2026-10-10&g=2026-10-10), wordt voor een periode van vijftien jaar verstrekt.
 
-2. De subsidieontvanger neemt de productie-installatie, bedoeld in [artikel 53, onderdelen a, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.11&artikel=53&z=2026-08-04&g=2026-08-04), binnen vijf jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
+2. De subsidieontvanger neemt de productie-installatie, bedoeld in [artikel 53, onderdelen a, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.11&artikel=53&z=2026-10-10&g=2026-10-10), binnen vijf jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
 
-3. De subsidieontvanger neemt de productie-installatie, bedoeld in [artikel 53, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.11&artikel=53&z=2026-08-04&g=2026-08-04), binnen zes jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
+3. De subsidieontvanger neemt de productie-installatie, bedoeld in [artikel 53, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.11&artikel=53&z=2026-10-10&g=2026-10-10), binnen zes jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
 
 4. De subsidieontvanger draagt er zorg voor dat de opgewekte hernieuwbare warmte die voor subsidie in aanmerking komt, wordt aangewend als nuttig aangewende warmte.
 
@@ -877,11 +877,11 @@ De minister verstrekt op aanvraag subsidie aan een producent die broeikasgas ver
 
 ##### Artikel 56
 
-1. De subsidie, bedoeld in [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.1&artikel=55&z=2026-08-04&g=2026-08-04), wordt voor een periode van vijftien jaar verstrekt.
+1. De subsidie, bedoeld in [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.1&artikel=55&z=2026-10-10&g=2026-10-10), wordt voor een periode van vijftien jaar verstrekt.
 
-2. De subsidieontvanger neemt de productie-installatie, bedoeld in [artikel 55, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.1&artikel=55&z=2026-08-04&g=2026-08-04), binnen vijf jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
+2. De subsidieontvanger neemt de productie-installatie, bedoeld in [artikel 55, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.1&artikel=55&z=2026-10-10&g=2026-10-10), binnen vijf jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
 
-3. De subsidieontvanger neemt de productie-installatie, bedoeld in [artikel 55, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.1&artikel=55&z=2026-08-04&g=2026-08-04), binnen zes jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
+3. De subsidieontvanger neemt de productie-installatie, bedoeld in [artikel 55, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.1&artikel=55&z=2026-10-10&g=2026-10-10), binnen zes jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
 
 4. De subsidieontvanger draagt er zorg voor dat de opgewekte koolstofdioxide-arme warmte die voor subsidie in aanmerking komt, wordt aangewend als nuttig aangewende koolstofdioxide-arme warmte.
 
@@ -905,13 +905,13 @@ De minister verstrekt op aanvraag subsidie aan een producent van koolstofdioxide
 
 ##### Artikel 58
 
-1. De subsidie, bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.2&artikel=57&z=2026-08-04&g=2026-08-04), wordt voor een periode van vijftien jaar verstrekt.
+1. De subsidie, bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.2&artikel=57&z=2026-10-10&g=2026-10-10), wordt voor een periode van vijftien jaar verstrekt.
 
 2. De subsidieontvanger neemt de productie-installatie binnen vier jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
 
 3. De subsidieontvanger draagt er zorg voor dat de opgewekte koolstofdioxide-arme warmte die voor subsidie in aanmerking komt, wordt aangewend als nuttig aangewende koolstofdioxide-arme warmte.
 
-4. Voor de productie-installatie, bedoeld in [artikel 57, onderdeel a, subonderdeel 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.2&artikel=57&z=2026-08-04&g=2026-08-04), is geen subsidie verstrekt op basis van [artikel 4.10.2. van de Regeling nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.10.2) of artikel 4.10.2. van de Regeling nationale EZ-, LVVN- en KGG-subsidies.
+4. Voor de productie-installatie, bedoeld in [artikel 57, onderdeel a, subonderdeel 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.2&artikel=57&z=2026-10-10&g=2026-10-10), is geen subsidie verstrekt op basis van [artikel 4.10.2. van de Regeling nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.10.2) of artikel 4.10.2. van de Regeling nationale EZ-, LVVN- en KGG-subsidies.
 
 ##### § 3.4.3. Lucht-water-warmtepomp
 
@@ -927,13 +927,13 @@ De minister verstrekt op aanvraag subsidie aan een producent van koolstofdioxide
 
 ##### Artikel 60
 
-1. De subsidie, bedoeld in [artikel 59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.3&artikel=59&z=2026-08-04&g=2026-08-04), wordt voor een periode van vijftien jaar verstrekt.
+1. De subsidie, bedoeld in [artikel 59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.3&artikel=59&z=2026-10-10&g=2026-10-10), wordt voor een periode van vijftien jaar verstrekt.
 
 2. De subsidieontvanger neemt de productie-installatie binnen vier jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
 
 3. De subsidieontvanger draagt er zorg voor dat de opgewekte koolstofdioxide-arme warmte die voor subsidie in aanmerking komt, wordt aangewend als nuttig aangewende koolstofdioxide-arme warmte.
 
-4. De aanvoertemperatuur in het stookseizoen bedoeld in [artikel 59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.3&artikel=59&z=2026-08-04&g=2026-08-04), wordt bereikt door de warmtepomp zonder naverwarming.
+4. De aanvoertemperatuur in het stookseizoen bedoeld in [artikel 59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.3&artikel=59&z=2026-10-10&g=2026-10-10), wordt bereikt door de warmtepomp zonder naverwarming.
 
 ##### § 3.4.4. Zonthermie voor warmte door middel van pvt-collectoren
 
@@ -947,7 +947,7 @@ De minister verstrekt op aanvraag subsidie aan een producent van koolstofdioxide
 
 ##### Artikel 62
 
-1. De subsidie, bedoeld in [artikel 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.4&artikel=61&z=2026-08-04&g=2026-08-04), wordt voor een periode van vijftien jaar verstrekt.
+1. De subsidie, bedoeld in [artikel 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.4&artikel=61&z=2026-10-10&g=2026-10-10), wordt voor een periode van vijftien jaar verstrekt.
 
 2. De subsidieontvanger neemt de productie-installatie binnen vier jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
 
@@ -957,7 +957,7 @@ De minister verstrekt op aanvraag subsidie aan een producent van koolstofdioxide
 
 ##### Artikel 63
 
-1. De minister verstrekt op aanvraag subsidie aan een producent van koolstofdioxide-arme warmte geproduceerd door een productie-installatie waarmee elektriciteit in warmte wordt omgezet, met een nominaal thermisch vermogen van ten minste 2 MWth, waarbij de vrijkomende warmte direct of indirect wordt overgedragen aan vloeistof of lucht voor:
+1. De minister verstrekt op aanvraag subsidie aan een producent van koolstofdioxide-arme warmte geproduceerd door een productie-installatie waarmee elektriciteit in warmte wordt omgezet, met een nominaal thermisch vermogen van ten minste 2 MWth, waarbij de vrijkomende warmte direct of indirect wordt overgedragen aan vloeistof voor:
 
 - a. toepassing in stadsverwarming;
 
@@ -983,17 +983,17 @@ De minister verstrekt op aanvraag subsidie aan een producent van koolstofdioxide
 
 ##### Artikel 64
 
-1. De subsidie, bedoeld in [artikel 63, eerste lid, onderdelen a, b en e](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.5&artikel=63&z=2026-08-04&g=2026-08-04), wordt voor een periode van vijftien jaar verstrekt.
+1. De subsidie, bedoeld in [artikel 63, eerste lid, onderdelen a, b en e](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.5&artikel=63&z=2026-10-10&g=2026-10-10), wordt voor een periode van vijftien jaar verstrekt.
 
-2. De subsidie, bedoeld in [artikel 63, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.5&artikel=63&z=2026-08-04&g=2026-08-04), wordt voor een periode van vijf jaar verstrekt.
+2. De subsidie, bedoeld in [artikel 63, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.5&artikel=63&z=2026-10-10&g=2026-10-10), wordt voor een periode van vijf jaar verstrekt.
 
-3. De subsidieontvanger neemt de productie-installatie, bedoeld in [artikel 63, eerste lid, onderdelen a, b en e](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.5&artikel=63&z=2026-08-04&g=2026-08-04), binnen vier jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
+3. De subsidieontvanger neemt de productie-installatie, bedoeld in [artikel 63, eerste lid, onderdelen a, b en e](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.5&artikel=63&z=2026-10-10&g=2026-10-10), binnen vier jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
 
-4. De subsidieontvanger neemt de productie-installatie, bedoeld in [artikel 63, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.5&artikel=63&z=2026-08-04&g=2026-08-04), binnen een jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
+4. De subsidieontvanger neemt de productie-installatie, bedoeld in [artikel 63, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.5&artikel=63&z=2026-10-10&g=2026-10-10), binnen een jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
 
 5. De subsidieontvanger draagt er zorg voor dat de opgewekte koolstofdioxide-arme warmte die voor subsidie in aanmerking komt, wordt aangewend als nuttig aangewende koolstofdioxide-arme warmte.
 
-6. Artikel 3, eerste lid, van de Algemene uitvoeringsregeling is niet van toepassing op een productie-installatie als bedoeld in [artikel 63, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.5&artikel=63&z=2026-08-04&g=2026-08-04).
+6. Artikel 3, eerste lid, van de Algemene uitvoeringsregeling is niet van toepassing op een productie-installatie als bedoeld in [artikel 63, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.5&artikel=63&z=2026-10-10&g=2026-10-10).
 
 ##### § 3.4.6. Procesgeïntegreerde warmtepomp in een verdampingsproces
 
@@ -1029,7 +1029,7 @@ De minister verstrekt op aanvraag subsidie aan een producent van koolstofdioxide
 
 ##### Artikel 66
 
-1. De subsidie, bedoeld in [artikel 65, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.6&artikel=65&z=2026-08-04&g=2026-08-04), wordt voor een periode van twaalf jaar verstrekt.
+1. De subsidie, bedoeld in [artikel 65, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.6&artikel=65&z=2026-10-10&g=2026-10-10), wordt voor een periode van twaalf jaar verstrekt.
 
 2. De subsidieontvanger neemt de productie-installatie binnen vier jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
 
@@ -1047,7 +1047,7 @@ De minister verstrekt op aanvraag subsidie aan een producent van koolstofdioxide
 
 ##### Artikel 68
 
-1. De subsidie, bedoeld in [artikel 67, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.7&artikel=67&z=2026-08-04&g=2026-08-04), wordt voor een periode van twaalf jaar verstrekt.
+1. De subsidie, bedoeld in [artikel 67, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.7&artikel=67&z=2026-10-10&g=2026-10-10), wordt voor een periode van twaalf jaar verstrekt.
 
 2. De subsidieontvanger neemt de productie-installatie binnen vier jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
 
@@ -1069,7 +1069,7 @@ De minister verstrekt op aanvraag subsidie aan een producent van koolstofdioxide
 
 ##### Artikel 70
 
-1. De subsidie, bedoeld in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.8&artikel=69&z=2026-08-04&g=2026-08-04), wordt voor een periode van twaalf jaar verstrekt.
+1. De subsidie, bedoeld in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.8&artikel=69&z=2026-10-10&g=2026-10-10), wordt voor een periode van twaalf jaar verstrekt.
 
 2. De subsidieontvanger neemt de productie-installatie binnen vier jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
 
@@ -1109,7 +1109,7 @@ De minister verstrekt op aanvraag subsidie aan een producent van koolstofdioxide
 
 ##### Artikel 72
 
-1. De subsidie, bedoeld in [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.9&artikel=71&z=2026-08-04&g=2026-08-04), wordt voor een periode van vijftien jaar verstrekt.
+1. De subsidie, bedoeld in [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.9&artikel=71&z=2026-10-10&g=2026-10-10), wordt voor een periode van vijftien jaar verstrekt.
 
 2. De subsidieontvanger neemt de productie-installatie binnen vier jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
 
@@ -1137,7 +1137,7 @@ De minister verstrekt op aanvraag subsidie aan een producent van koolstofdioxide
 
 ##### Artikel 74
 
-1. De subsidie, bedoeld in [artikel 73, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.10&artikel=73&z=2026-08-04&g=2026-08-04), wordt voor een periode van vijftien jaar verstrekt.
+1. De subsidie, bedoeld in [artikel 73, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.10&artikel=73&z=2026-10-10&g=2026-10-10), wordt voor een periode van vijftien jaar verstrekt.
 
 2. De subsidieontvanger neemt de productie-installatie binnen vijf jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
 
@@ -1149,7 +1149,7 @@ De minister verstrekt op aanvraag subsidie aan een producent die met een product
 
 ##### Artikel 76
 
-1. De subsidie, bedoeld in [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.11&artikel=75&z=2026-08-04&g=2026-08-04), wordt voor een periode van vijftien jaar verstrekt.
+1. De subsidie, bedoeld in [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.11&artikel=75&z=2026-10-10&g=2026-10-10), wordt voor een periode van vijftien jaar verstrekt.
 
 2. De subsidieontvanger neemt de productie-installatie binnen vijf jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
 
@@ -1171,13 +1171,13 @@ De minister verstrekt op aanvraag subsidie aan een producent die met een product
 
 ##### Artikel 78
 
-1. De subsidie, bedoeld in [artikel 77, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.12&artikel=77&z=2026-08-04&g=2026-08-04), wordt voor een periode van vijftien jaar verstrekt.
+1. De subsidie, bedoeld in [artikel 77, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.12&artikel=77&z=2026-10-10&g=2026-10-10), wordt voor een periode van vijftien jaar verstrekt.
 
-2. De subsidie, bedoeld in [artikel 77, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.12&artikel=77&z=2026-08-04&g=2026-08-04), wordt voor een periode van twaalf jaar verstrekt.
+2. De subsidie, bedoeld in [artikel 77, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.12&artikel=77&z=2026-10-10&g=2026-10-10), wordt voor een periode van twaalf jaar verstrekt.
 
-3. De subsidieontvanger neemt de productie-installatie, bedoeld in [artikel 77, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.12&artikel=77&z=2026-08-04&g=2026-08-04), binnen vijf jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
+3. De subsidieontvanger neemt de productie-installatie, bedoeld in [artikel 77, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.12&artikel=77&z=2026-10-10&g=2026-10-10), binnen vijf jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
 
-4. De subsidieontvanger neemt de productie-installatie, bedoeld in [artikel 77, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.12&artikel=77&z=2026-08-04&g=2026-08-04), binnen vier jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
+4. De subsidieontvanger neemt de productie-installatie, bedoeld in [artikel 77, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.12&artikel=77&z=2026-10-10&g=2026-10-10), binnen vier jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
 
 ##### § 3.4.13. Vermindering broeikasgas door afvang en permanente opslag van koolstofdioxide
 
@@ -1331,11 +1331,11 @@ De minister verstrekt op aanvraag subsidie aan een producent die met een product
 
 ##### Artikel 80
 
-1. De subsidie, bedoeld in [artikel 79, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.13&artikel=79&z=2026-08-04&g=2026-08-04), wordt voor een periode van vijftien jaar verstrekt.
+1. De subsidie, bedoeld in [artikel 79, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.13&artikel=79&z=2026-10-10&g=2026-10-10), wordt voor een periode van vijftien jaar verstrekt.
 
 2. De subsidieontvanger neemt de productie-installatie binnen zes jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
 
-3. De subsidieontvanger draagt er zorg voor dat wordt aangetoond dat de in een biomassaverbrandingsinstallatie bedoeld in [artikel 79, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.13&artikel=79&z=2026-08-04&g=2026-08-04), met een totaal nominaal thermisch ingangsvermogen gelijk aan of groter dan 7,5 MW, of de in een proces als bedoeld in artikel 79, vierde lid, gebruikte biomassa voldoet aan de duurzaamheids- en broeikasgasemissiereductiecriteria, bedoeld in artikel 29, eerste lid, van de richtlijn (EU) 2018/2001.
+3. De subsidieontvanger draagt er zorg voor dat wordt aangetoond dat de in een biomassaverbrandingsinstallatie bedoeld in [artikel 79, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.13&artikel=79&z=2026-10-10&g=2026-10-10), met een totaal nominaal thermisch ingangsvermogen gelijk aan of groter dan 7,5 MW, of de in een proces als bedoeld in artikel 79, vierde lid, met een totaal nominaal vermogen van de gasopwaardeerinstallatie gelijk aan of groter dan 2 MW gebruikte biomassa voldoet aan de duurzaamheids- en broeikasgasemissiereductiecriteria, bedoeld in artikel 29, eerste lid, van de richtlijn (EU) 2018/2001.
 
 4. De afgevangen en permanent opgeslagen koolstofdioxide die voor subsidie in aanmerking komt, met uitzondering van koolstofdioxide die is afgevangen uit de omgevingslucht, komt uitsluitend voort uit:
 
@@ -1349,7 +1349,7 @@ De minister verstrekt op aanvraag subsidie aan een producent die met een product
 
    - 2° warmte door een biomassaverbrandingsinstallatie.
 
-5. De afgevangen en permanent opgeslagen koolstofdioxide die voor subsidie in aanmerking komt door een productie-installatie als bedoeld in [artikel 79, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.13&artikel=79&z=2026-08-04&g=2026-08-04), komt niet voort uit de productie van stoom van minder dan 200°C.
+5. De afgevangen en permanent opgeslagen koolstofdioxide die voor subsidie in aanmerking komt door een productie-installatie als bedoeld in [artikel 79, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.13&artikel=79&z=2026-10-10&g=2026-10-10), komt niet voort uit de productie van stoom van minder dan 200°C.
 
 ##### Artikel 81
 
@@ -1425,7 +1425,7 @@ De minister verstrekt op aanvraag subsidie aan een producent die niet valt onder
 
 ##### Artikel 82
 
-1. De subsidie, bedoeld in [artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.13&artikel=81&z=2026-08-04&g=2026-08-04) wordt voor een periode van vijftien jaar verstrekt.
+1. De subsidie, bedoeld in [artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.13&artikel=81&z=2026-10-10&g=2026-10-10) wordt voor een periode van vijftien jaar verstrekt.
 
 2. De subsidieontvanger neemt de productie-installatie binnen zes jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
 
@@ -1485,11 +1485,11 @@ De minister verstrekt op aanvraag subsidie aan een producent die niet valt onder
 
 ##### Artikel 84
 
-1. De subsidie, bedoeld in [artikel 83, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.14&artikel=83&z=2026-08-04&g=2026-08-04), wordt voor een periode van vijftien jaar verstrekt.
+1. De subsidie, bedoeld in [artikel 83, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.14&artikel=83&z=2026-10-10&g=2026-10-10), wordt voor een periode van vijftien jaar verstrekt.
 
 2. De subsidieontvanger neemt de productie-installatie binnen zes jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
 
-3. De subsidieontvanger draagt er zorg voor dat wordt aangetoond dat de in een biomassaverbrandingsinstallatie als bedoeld in [artikel 83, eerste lid, onderdelen e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.14&artikel=83&z=2026-08-04&g=2026-08-04), met een totaal nominaal thermisch ingangsvermogen gelijk aan of groter dan 7,5 MW gebruikte biomassa voldoet aan de duurzaamheids- en broeikasgasemissiereductiecriteria, bedoeld in artikel 29, eerste lid, van de richtlijn (EU) 2018/2001.
+3. De subsidieontvanger draagt er zorg voor dat wordt aangetoond dat de in een biomassaverbrandingsinstallatie als bedoeld in [artikel 83, eerste lid, onderdelen e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.14&artikel=83&z=2026-10-10&g=2026-10-10), met een totaal nominaal thermisch ingangsvermogen gelijk aan of groter dan 7,5 MW gebruikte biomassa voldoet aan de duurzaamheids- en broeikasgasemissiereductiecriteria, bedoeld in artikel 29, eerste lid, van de richtlijn (EU) 2018/2001.
 
 ##### § 3.4.15. Vermindering broeikasgas door afvang en gebruik van koolstofdioxide uit de omgevingslucht
 
@@ -1499,7 +1499,7 @@ De minister verstrekt op aanvraag subsidie aan een producent die met een product
 
 ##### Artikel 86
 
-1. De subsidie, bedoeld in [artikel 85](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.15&artikel=85&z=2026-08-04&g=2026-08-04), wordt voor een periode van vijftien jaar verstrekt.
+1. De subsidie, bedoeld in [artikel 85](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.15&artikel=85&z=2026-10-10&g=2026-10-10), wordt voor een periode van vijftien jaar verstrekt.
 
 2. De subsidieontvanger neemt de productie-installatie binnen zes jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening in gebruik.
 
@@ -1704,7 +1704,7 @@ De minister verstrekt op aanvraag subsidie aan een producent die met een product
 | Artikel 79, vierde lid, onderdeel c, subonderdeel 1° | CCS – Nieuwe zuivering biogene CO2-emissie, nieuwe installatie, gasvormig transport | 68,4675 | 136,9350 | 151,5119 | 151,5119 | 151,5119 |
 | Artikel 79, vierde lid, onderdeel c, subonderdeel 2° | CCS – Nieuwe zuivering biogene CO2-emissie, nieuwe installatie, vloeibaar transport, nieuwe vervloeiingsinstallatie | 68,1068 | 136,2135 | 155,8050 | 155,8050 | 155,8050 |
 | Artikel 79, vierde lid, onderdeel c, subonderdeel 3° | CCS – Nieuwe zuivering biogene CO2-emissie, nieuwe installatie, vloeibaar transport, nieuwe vervloeiingsinstallatie, capaciteit invoedpijplijn ≥ 20 Mton per jaar, gecontracteerd volume ≤ 35% | 68,1068 | 136,2135 | 204,3203 | 206,3781 | 206,3781 |
-| Artikel 79, derde lid, onderdeel c | CCS – Nieuwe CO2-afvang uit omgevingslucht, gasvormig transport | 70,7291 | 141,4581 | 212,1872 | 282,9162 | 282,9162 |
+| Artikel 81, onderdeel a, subonderdeel 1° | CCS – Gedeeltelijke opslag niet biogene CO2-emissie niet ETS-bedrijf, gasvormig transport | 70,7291 | 141,4581 | 212,1872 | 282,9162 | 282,9162 |
 | Artikel 81, onderdeel a, subonderdeel 2° | CCS – Gedeeltelijke opslag niet biogene CO2-emissie niet-ETS-bedrijf, vloeibaar transport, nieuwe vervloeiingsinstallatie | 70,4658 | 140,9316 | 211,3974 | 279,5511 | 279,5511 |
 | Artikel 81, onderdeel a, subonderdeel 3° | CCS – Gedeeltelijke opslag niet biogene CO2-emissie niet-ETS-bedrijf, vloeibaar transport | 70,4658 | 140,9316 | 211,3974 | 220,1705 | 220,1705 |
 | Artikel 81, onderdeel a, subonderdeel 4° | CCS – Gedeeltelijke opslag niet biogene CO2-emissie niet-ETS-bedrijf, vloeibaar transport, nieuwe vervloeiingsinstallatie, capaciteit invoedpijplijn ≥ 20 Mton per jaar, gecontracteerd volume ≤ 35% | 70,4658 | 140,9316 | 211,3974 | 281,8632 | 281,8632 |
@@ -1747,9 +1747,9 @@ De minister verstrekt op aanvraag subsidie aan een producent die met een product
 | Artikel 83, eerste lid, onderdeel f, subonderdeel 2° | CCU – Nieuwe post-combustion CO₂-afvang bij biomassaverbrandingsinstallatie ≤ 50 MWth, vloeibaar, nieuwe vervloeiingsinstallatie | 135,8411 | 167,6986 | 167,6986 | 167,6986 | 167,6986 |
 | Artikel 85, eerste lid | CCU – CO2 afvang uit omgevingslucht | 136,3736 | 193,4486 | 250,5236 | 307,5986 | 307,5986 |
 
-3. In afwijking van de fasebedragen, genoemd in de derde, vierde, vijfde, zesde en zevende kolom van de tabel in het tweede lid, geldt voor de productie-installaties, bedoeld in de [artikelen 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.1&artikel=13&z=2026-08-04&g=2026-08-04), [15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.2&artikel=15&z=2026-08-04&g=2026-08-04), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.3&artikel=17&z=2026-08-04&g=2026-08-04), [19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.4&artikel=19&z=2026-08-04&g=2026-08-04), [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.5&artikel=21&z=2026-08-04&g=2026-08-04), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.1&artikel=23&z=2026-08-04&g=2026-08-04), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.2&artikel=25&z=2026-08-04&g=2026-08-04), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.3&artikel=27&z=2026-08-04&g=2026-08-04), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.4&artikel=29&z=2026-08-04&g=2026-08-04), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.5&artikel=31&z=2026-08-04&g=2026-08-04), [33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.1&artikel=33&z=2026-08-04&g=2026-08-04), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.2&artikel=35&z=2026-08-04&g=2026-08-04), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.3&artikel=37&z=2026-08-04&g=2026-08-04), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.4&artikel=39&z=2026-08-04&g=2026-08-04), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.5&artikel=41&z=2026-08-04&g=2026-08-04), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.6&artikel=43&z=2026-08-04&g=2026-08-04), [45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.7&artikel=45&z=2026-08-04&g=2026-08-04), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.8&artikel=47&z=2026-08-04&g=2026-08-04), [49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.9&artikel=49&z=2026-08-04&g=2026-08-04), [51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.10&artikel=51&z=2026-08-04&g=2026-08-04), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.11&artikel=53&z=2026-08-04&g=2026-08-04), [55](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.1&artikel=55&z=2026-08-04&g=2026-08-04), [57](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.2&artikel=57&z=2026-08-04&g=2026-08-04), [59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.3&artikel=59&z=2026-08-04&g=2026-08-04), [61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.4&artikel=61&z=2026-08-04&g=2026-08-04), [63, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.5&artikel=63&z=2026-08-04&g=2026-08-04), [65, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.6&artikel=65&z=2026-08-04&g=2026-08-04), [67, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.7&artikel=67&z=2026-08-04&g=2026-08-04), [69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.8&artikel=69&z=2026-08-04&g=2026-08-04), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.9&artikel=71&z=2026-08-04&g=2026-08-04), [73, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.10&artikel=73&z=2026-08-04&g=2026-08-04), [75](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.11&artikel=75&z=2026-08-04&g=2026-08-04), en [77, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.12&artikel=77&z=2026-08-04&g=2026-08-04), het fasebedrag in euro per kWh in vier decimalen dat door de aanvrager bij de aanvraag in een fase is ingediend, indien dat bedrag per kWh lager is dan het fasebedrag dat van toepassing is voor de fase waarin de aanvraag is ingediend.
+3. In afwijking van de fasebedragen, genoemd in de derde, vierde, vijfde, zesde en zevende kolom van de tabel in het tweede lid, geldt voor de productie-installaties, bedoeld in de [artikelen 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.1&artikel=13&z=2026-10-10&g=2026-10-10), [15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.2&artikel=15&z=2026-10-10&g=2026-10-10), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.3&artikel=17&z=2026-10-10&g=2026-10-10), [19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.4&artikel=19&z=2026-10-10&g=2026-10-10), [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.5&artikel=21&z=2026-10-10&g=2026-10-10), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.1&artikel=23&z=2026-10-10&g=2026-10-10), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.2&artikel=25&z=2026-10-10&g=2026-10-10), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.3&artikel=27&z=2026-10-10&g=2026-10-10), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.4&artikel=29&z=2026-10-10&g=2026-10-10), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.5&artikel=31&z=2026-10-10&g=2026-10-10), [33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.1&artikel=33&z=2026-10-10&g=2026-10-10), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.2&artikel=35&z=2026-10-10&g=2026-10-10), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.3&artikel=37&z=2026-10-10&g=2026-10-10), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.4&artikel=39&z=2026-10-10&g=2026-10-10), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.5&artikel=41&z=2026-10-10&g=2026-10-10), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.6&artikel=43&z=2026-10-10&g=2026-10-10), [45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.7&artikel=45&z=2026-10-10&g=2026-10-10), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.8&artikel=47&z=2026-10-10&g=2026-10-10), [49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.9&artikel=49&z=2026-10-10&g=2026-10-10), [51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.10&artikel=51&z=2026-10-10&g=2026-10-10), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.11&artikel=53&z=2026-10-10&g=2026-10-10), [55](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.1&artikel=55&z=2026-10-10&g=2026-10-10), [57](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.2&artikel=57&z=2026-10-10&g=2026-10-10), [59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.3&artikel=59&z=2026-10-10&g=2026-10-10), [61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.4&artikel=61&z=2026-10-10&g=2026-10-10), [63, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.5&artikel=63&z=2026-10-10&g=2026-10-10), [65, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.6&artikel=65&z=2026-10-10&g=2026-10-10), [67, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.7&artikel=67&z=2026-10-10&g=2026-10-10), [69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.8&artikel=69&z=2026-10-10&g=2026-10-10), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.9&artikel=71&z=2026-10-10&g=2026-10-10), [73, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.10&artikel=73&z=2026-10-10&g=2026-10-10), [75](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.11&artikel=75&z=2026-10-10&g=2026-10-10), en [77, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.12&artikel=77&z=2026-10-10&g=2026-10-10), het fasebedrag in euro per kWh in vier decimalen dat door de aanvrager bij de aanvraag in een fase is ingediend, indien dat bedrag per kWh lager is dan het fasebedrag dat van toepassing is voor de fase waarin de aanvraag is ingediend.
 
-4. In afwijking van de fasebedragen, genoemd in de derde, vierde, vijfde, zesde of zevende kolom van de tabel in het tweede lid, geldt voor de productie-installaties, bedoeld in de [artikelen 79, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.13&artikel=79&z=2026-08-04&g=2026-08-04), [81](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.13&artikel=81&z=2026-08-04&g=2026-08-04), [83, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.14&artikel=83&z=2026-08-04&g=2026-08-04), en [85](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.15&artikel=85&z=2026-08-04&g=2026-08-04), het fasebedrag in euro per 1.000 kg broeikasgas in vier decimalen dat door de aanvrager bij de aanvraag in een fase is ingediend, indien dat bedrag per 1.000 kg broeikasgas lager is dan het fasebedrag, genoemd in de respectievelijke derde, vierde, vijfde, zesde of zevende kolom van de tabel in het tweede lid, dat van toepassing is voor de fase waarin de aanvraag is ingediend.
+4. In afwijking van de fasebedragen, genoemd in de derde, vierde, vijfde, zesde of zevende kolom van de tabel in het tweede lid, geldt voor de productie-installaties, bedoeld in de [artikelen 79, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.13&artikel=79&z=2026-10-10&g=2026-10-10), [81](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.13&artikel=81&z=2026-10-10&g=2026-10-10), [83, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.14&artikel=83&z=2026-10-10&g=2026-10-10), en [85](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.4&sub-paragraaf=3.4.15&artikel=85&z=2026-10-10&g=2026-10-10), het fasebedrag in euro per 1.000 kg broeikasgas in vier decimalen dat door de aanvrager bij de aanvraag in een fase is ingediend, indien dat bedrag per 1.000 kg broeikasgas lager is dan het fasebedrag, genoemd in de respectievelijke derde, vierde, vijfde, zesde of zevende kolom van de tabel in het tweede lid, dat van toepassing is voor de fase waarin de aanvraag is ingediend.
 
 ##### Artikel 88
 
@@ -2001,7 +2001,7 @@ Voor een productie-installatie als bedoeld in het in de eerste kolom van onderst
 
    - 3°. voor andere correcties als bedoeld in [artikel 14, eerste lid, onderdeel c, van het Besluit SDEK](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=14) op € 0 per kWh; en
 
-- e. voor zover het productie-installaties betreft als bedoeld in [artikelen 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.1&artikel=13&z=2026-08-04&g=2026-08-04), [15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.2&artikel=15&z=2026-08-04&g=2026-08-04), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.3&artikel=17&z=2026-08-04&g=2026-08-04), [19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.4&artikel=19&z=2026-08-04&g=2026-08-04) en [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.5&artikel=21&z=2026-08-04&g=2026-08-04), het opbrengstgrensbedrag, bedoeld in [artikel 12a, eerste lid van het Besluit SDEK](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12a), vastgesteld op het in de achtste kolom genoemde bedrag.
+- e. voor zover het productie-installaties betreft als bedoeld in [artikelen 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.1&artikel=13&z=2026-10-10&g=2026-10-10), [15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.2&artikel=15&z=2026-10-10&g=2026-10-10), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.3&artikel=17&z=2026-10-10&g=2026-10-10), [19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.4&artikel=19&z=2026-10-10&g=2026-10-10) en [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052950&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.5&artikel=21&z=2026-10-10&g=2026-10-10), het opbrengstgrensbedrag, bedoeld in [artikel 12a, eerste lid van het Besluit SDEK](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12a), vastgesteld op het in de achtste kolom genoemde bedrag.
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 | --- | --- | --- | --- | --- | --- | --- | --- |

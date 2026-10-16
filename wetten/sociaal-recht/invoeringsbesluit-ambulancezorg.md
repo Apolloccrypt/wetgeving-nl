@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0031996"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 5 september 2012, houdende aanpassing van diverse algemene maatregelen van bestuur vanwege de Tijdelijke wet ambulancezorg (Invoeringsbesluit ambulancezorg)

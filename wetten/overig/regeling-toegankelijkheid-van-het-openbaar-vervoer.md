@@ -9,7 +9,7 @@ laatste_update: 2012-05-09
 status: geldig
 toestand: 2012-05-09
 bron: "https://wetten.overheid.nl/BWBR0031452"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport en van de Minister van Infrastructuur en Milieu van 4 april 2012, houdende vaststelling van regels betreffende de toegankelijkheid van het openbaar vervoer

@@ -8,7 +8,7 @@ laatste_update: 2012-04-25
 status: geldig
 toestand: 2012-04-25
 bron: "https://wetten.overheid.nl/BWBR0031491"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit vaststelling selectielijst Nederlands-Vlaamse Accreditatieorganisatie (NVAO) over periode vanaf 2002

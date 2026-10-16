@@ -9,7 +9,7 @@ laatste_update: 2012-01-01
 status: geldig
 toestand: 2012-01-01
 bron: "https://wetten.overheid.nl/BWBR0031019"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 22 november 2011 tot wijziging van het Consulair besluit in verband met het uitoefenen van consulaire bevoegdheden op het terrein van de burgerlijke stand en het notariaat

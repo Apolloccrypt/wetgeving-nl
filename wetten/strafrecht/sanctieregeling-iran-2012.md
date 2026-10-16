@@ -9,7 +9,7 @@ laatste_update: 2026-03-06
 status: geldig
 toestand: 2026-03-06
 bron: "https://wetten.overheid.nl/BWBR0031496"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 17 april 2012, nr. Minbuza-2012.7941, houdende beperkende maatregelen jegens Iran (Sanctieregeling Iran 2012)

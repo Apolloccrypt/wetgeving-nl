@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0031773"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van het College voor examens van 19 juni 2012, nummer Cve-12.01408, houdende vaststelling van de syllabi voor de centrale examens natuurkunde, scheikunde en biologie in het h.a.v.o. 2015 en v.w.o. 2016 (Regeling syllabi centrale examens natuurkunde, scheikunde en biologie h.a.v.o. 2015 en v.w.o. 2016)

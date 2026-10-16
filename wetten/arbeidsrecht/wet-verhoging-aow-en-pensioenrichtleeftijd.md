@@ -9,7 +9,7 @@ laatste_update: 2023-07-01
 status: geldig
 toestand: 2023-07-01
 bron: "https://wetten.overheid.nl/BWBR0031799"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wet van 12 juli 2012 tot wijziging van de Algemene Ouderdomswet, de Wet werk en bijstand, de Wet inkomstenbelasting 2001 en de Wet op de loonbelasting 1964 in verband met stapsgewijze verhoging en koppeling aan de stijging van de levensverwachting van de pensioenleeftijd (Wet verhoging AOW- en pensioenrichtleeftijd)

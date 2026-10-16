@@ -9,7 +9,7 @@ laatste_update: 2012-07-01
 status: geldig
 toestand: 2012-07-01
 bron: "https://wetten.overheid.nl/BWBR0031285"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wet van 9 februari 2012 tot wijziging van het Wetboek van Burgerlijke Rechtsvordering en de Wet op de rechterlijke organisatie in verband met de invoering van de mogelijkheid tot het stellen van prejudiciële vragen aan de civiele kamer van de Hoge Raad (Wet prejudiciële vragen aan de Hoge Raad)

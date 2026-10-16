@@ -9,7 +9,7 @@ laatste_update: 2022-01-28
 status: geldig
 toestand: 2022-01-28
 bron: "https://wetten.overheid.nl/BWBR0031548"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van de Minister van Economische Zaken, Landbouw en Innovatie van 27 april 2012, nr. WJZ/12010735, houdende regels inzake het verlenen van mandaat en machtiging aan de directeur van het Agentschap College ter Beoordeling van Geneesmiddelen (Besluit mandaat en machtiging directeur Agentschap College ter Beoordeling van Geneesmiddelen)

@@ -8,7 +8,7 @@ laatste_update: 2021-12-09
 status: geldig
 toestand: 2021-12-09
 bron: "https://wetten.overheid.nl/BWBR0031383"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling vertrouwelijke stukken

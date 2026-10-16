@@ -9,7 +9,7 @@ laatste_update: 2012-01-22
 status: geldig
 toestand: 2012-01-22
 bron: "https://wetten.overheid.nl/BWBR0031140"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit tot vaststelling van de factoren L en r voor het boekjaar 2012

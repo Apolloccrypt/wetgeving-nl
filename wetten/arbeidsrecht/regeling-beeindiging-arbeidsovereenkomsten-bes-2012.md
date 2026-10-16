@@ -9,7 +9,7 @@ laatste_update: 2020-10-10
 status: geldig
 toestand: 2020-10-10
 bron: "https://wetten.overheid.nl/BWBR0031786"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 9 juli 2012, nr. AV/AR/2012/9243 tot vervanging van de Regeling beëindiging arbeidsovereenkomsten BES (Regeling beëindiging arbeidsovereenkomsten BES 2012)

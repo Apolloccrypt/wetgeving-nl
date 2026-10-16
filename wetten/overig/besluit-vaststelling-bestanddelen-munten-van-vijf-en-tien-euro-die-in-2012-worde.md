@@ -9,7 +9,7 @@ laatste_update: 2012-03-17
 status: geldig
 toestand: 2012-03-17
 bron: "https://wetten.overheid.nl/BWBR0031359"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 7 maart 2012, houdende vaststelling van de bestanddelen van de munten van vijf en tien euro die in 2012 worden uitgegeven ter gelegenheid van 400 jaar betrekkingen Nederland-Turkije

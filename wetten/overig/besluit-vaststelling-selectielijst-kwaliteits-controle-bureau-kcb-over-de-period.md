@@ -8,7 +8,7 @@ laatste_update: 2012-03-07
 status: geldig
 toestand: 2012-03-07
 bron: "https://wetten.overheid.nl/BWBR0031318"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit vaststelling selectielijst Kwaliteits Controle Bureau (KCB) over de periode vanaf 1977

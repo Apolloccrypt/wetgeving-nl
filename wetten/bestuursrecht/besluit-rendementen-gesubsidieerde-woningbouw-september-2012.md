@@ -8,7 +8,7 @@ laatste_update: 2012-11-01
 status: geldig
 toestand: 2012-11-01
 bron: "https://wetten.overheid.nl/BWBR0031992"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit Rendementen gesubsidieerde woningbouw september 2012

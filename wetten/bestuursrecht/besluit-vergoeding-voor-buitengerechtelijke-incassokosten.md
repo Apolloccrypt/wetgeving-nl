@@ -9,7 +9,7 @@ laatste_update: 2024-10-01
 status: geldig
 toestand: 2024-10-01
 bron: "https://wetten.overheid.nl/BWBR0031432"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 27 maart 2012, houdende regels ter normering van de vergoeding voor kosten ter verkrijging van voldoening buiten rechte (Besluit vergoeding voor buitengerechtelijke incassokosten)

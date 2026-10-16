@@ -9,7 +9,7 @@ laatste_update: 2012-04-19
 status: geldig
 toestand: 2012-04-19
 bron: "https://wetten.overheid.nl/BWBR0031467"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van de Minister van Infrastructuur en Milieu, nr. IENM/BSK-2011/177402, tot het verlenen van mandaat, volmacht en machtiging aan de directeur van de DCMR Milieudienst Rijnmond ter uitvoering van de ‘Overeenkomst uitvoering VROM-taken door DCMR’ tussen de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer¹ en de DCMR Milieudienst Rijnmond van 26 november 2009, hierna ‘de overeenkomst’ en het addendum op de overeenkomst, hierna het ‘addendum’

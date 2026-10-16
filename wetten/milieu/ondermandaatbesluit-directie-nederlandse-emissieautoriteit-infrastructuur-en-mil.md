@@ -9,7 +9,7 @@ laatste_update: 2012-01-01
 status: geldig
 toestand: 2012-01-01
 bron: "https://wetten.overheid.nl/BWBR0031091"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van de directeur Nederlandse emissieautoriteit van 22 december 2011, nr. IenM/BSK-2011/174685, houdende de verlening van ondermandaat, volmacht en machtiging (Ondermandaatbesluit directie Nederlandse emissieautoriteit Infrastructuur en Milieu 2012)

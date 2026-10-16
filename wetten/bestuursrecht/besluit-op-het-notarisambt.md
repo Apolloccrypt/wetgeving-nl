@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0032084"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 27 september 2012, houdende regels ter uitvoering van de Wet op het notarisambt (Besluit op het notarisambt)

@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0031386"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling met betrekking tot de verstrekking van gegevens (Regeling gegevensuitvraag loonaangifte)

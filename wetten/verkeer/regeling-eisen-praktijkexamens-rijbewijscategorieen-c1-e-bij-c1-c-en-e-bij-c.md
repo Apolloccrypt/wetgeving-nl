@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0031415"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu, van 27 maart, nr. IENM/BSK-2012/21437, houdende vaststelling van de eisen voor de praktijkexamens voor de rijbewijscategorieën C1, E bij C1, C en E bij C (Regeling eisen praktijkexamens rijbewijscategorieën C1, E bij C1, C en E bij C)

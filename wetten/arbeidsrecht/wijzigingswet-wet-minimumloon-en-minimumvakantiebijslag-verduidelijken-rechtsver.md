@@ -9,7 +9,7 @@ laatste_update: 2012-03-01
 status: geldig
 toestand: 2012-03-01
 bron: "https://wetten.overheid.nl/BWBR0031307"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wet van 9 februari 2012 tot wijziging van artikel 18b van de Wet minimumloon en minimumvakantiebijslag in verband met het verduidelijken van het rechtsvermoeden van werkgeverschap

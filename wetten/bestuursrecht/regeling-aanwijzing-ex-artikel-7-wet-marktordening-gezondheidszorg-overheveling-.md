@@ -9,7 +9,7 @@ laatste_update: 2012-07-04
 status: geldig
 toestand: 2012-07-04
 bron: "https://wetten.overheid.nl/BWBR0031752"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 26 juni 2012, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake de overheveling van geriatrische revalidatiezorg van de AWBZ naar de Zorgverzekeringswet

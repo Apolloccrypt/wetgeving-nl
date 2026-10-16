@@ -9,7 +9,7 @@ laatste_update: 2012-03-01
 status: geldig
 toestand: 2012-03-01
 bron: "https://wetten.overheid.nl/BWBR0031098"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 19 november 2011 , nr. 5712389/11, houdende vervanging archiefbescheiden Directie Justitiële Inrichtingen

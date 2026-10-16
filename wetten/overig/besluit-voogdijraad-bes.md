@@ -9,7 +9,7 @@ laatste_update: 2012-04-13
 status: geldig
 toestand: 2012-04-13
 bron: "https://wetten.overheid.nl/BWBR0031445"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 3 april 2012 betreffende de samenstelling en werkwijze van de voogdijraad BES (Besluit voogdijraad BES)

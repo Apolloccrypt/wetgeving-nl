@@ -9,7 +9,7 @@ laatste_update: 2015-02-07
 status: geldig
 toestand: 2015-02-07
 bron: "https://wetten.overheid.nl/BWBR0031680"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wet van 7 juni 2012 tot wijziging van de Wet op het financieel toezicht en de Wet financiële markten BES in verband met het invoeren van een aansprakelijkheidsbeperking voor de toezichthouders op de financiële markten en het opnemen van regels met betrekking tot de beloning van dagelijks beleidsbepalers van financiële ondernemingen die staatsteun genieten (Wet aansprakelijkheidsbeperking DNB en AFM en bonusverbod staatsgesteunde ondernemingen)

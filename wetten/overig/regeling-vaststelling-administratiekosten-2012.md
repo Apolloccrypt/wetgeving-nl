@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0032029"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 27 september 2012, nr. 299607, houdende vaststelling van de administratiekosten bedoeld in artikel 11a van het Besluit administratiefrechtelijke handhaving verkeersvoorschriften 1994 en artikel 9b van het Besluit tenuitvoerlegging geldboeten, alsmede wijziging van de Regeling modellen en formulieren ten behoeve van de handhaving Justitie (Regeling vaststelling administratiekosten 2012)

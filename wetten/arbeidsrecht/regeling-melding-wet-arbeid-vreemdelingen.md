@@ -9,7 +9,7 @@ laatste_update: 2025-04-01
 status: geldig
 toestand: 2025-04-01
 bron: "https://wetten.overheid.nl/BWBR0031498"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 23 april 2012, nr. AV/SDA/2012/6091, tot aanwijzing van de bevoegde instantie en vaststelling van vereiste documenten voor melding in het kader van artikel 2a van de Wet arbeid vreemdelingen (Regeling melding Wet arbeid vreemdelingen)

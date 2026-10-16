@@ -9,7 +9,7 @@ laatste_update: 2012-02-15
 status: geldig
 toestand: 2012-02-15
 bron: "https://wetten.overheid.nl/BWBR0031273"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport, van 30 januari 2012, houdende vaststelling van het premiepercentage voor de algemene wet bijzondere ziektekosten 2012

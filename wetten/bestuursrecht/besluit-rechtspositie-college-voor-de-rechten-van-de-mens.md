@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0031966"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 28 augustus 2012, houdende regels over de rechtspositie van de leden van het College voor de rechten van de mens en de tot het bureau behorende ambtenaren (Besluit rechtspositie College voor de rechten van de mens)

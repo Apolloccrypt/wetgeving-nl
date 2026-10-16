@@ -9,7 +9,7 @@ laatste_update: 2014-02-01
 status: geldig
 toestand: 2014-02-01
 bron: "https://wetten.overheid.nl/BWBR0031720"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport, van 20 juni 2012, nr. MEVA/BO-3118604, houdende de vaststelling van tarieven inzake de registratie van beroepsbeoefenaren van beroepen in de individuele gezondheidszorg

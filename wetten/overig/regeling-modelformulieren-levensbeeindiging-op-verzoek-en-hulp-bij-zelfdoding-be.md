@@ -9,7 +9,7 @@ laatste_update: 2016-07-01
 status: geldig
 toestand: 2016-07-01
 bron: "https://wetten.overheid.nl/BWBR0032047"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie en de Minister van Volksgezondheid, Welzijn en Sport van 13 september 2012, nr. 294504, tot vaststelling van de modelformulieren voor het doen van mededeling en het uitbrengen van verslag bij gevallen van levensbeëindiging op verzoek en hulp bij zelfdoding op de BES (Regeling modelformulieren levensbeëindiging op verzoek en hulp bij zelfdoding BES)

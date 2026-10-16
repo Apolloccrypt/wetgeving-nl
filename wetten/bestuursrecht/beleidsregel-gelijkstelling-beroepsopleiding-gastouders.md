@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-10-06
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0029866"
-opgehaald: 2026-10-15
+opgehaald: 2026-10-16
 ---
 
 # Beleidsregel van de Minister van Sociale Zaken en Werkgelegenheid van 11 april 2011, nr. KO/2011/6871, tot uitvoering van de Regeling Wet kinderopvang en kwaliteitseisen peuterspeelzalen bij het op aanvraag gelijkstellen van getuigschriften van beroepsopleidingen, die zijn vereist om te voldoen aan de kwaliteitseisen voor gastouder op grond van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen (Beleidsregel gelijkstelling beroepsopleiding gastouders)

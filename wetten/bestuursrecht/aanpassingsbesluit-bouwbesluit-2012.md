@@ -9,7 +9,7 @@ laatste_update: 2012-04-24
 status: geldig
 toestand: 2012-04-24
 bron: "https://wetten.overheid.nl/BWBR0031388"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 15 maart 2012 tot wijziging van diverse algemene maatregelen van bestuur in verband met de invoering van het Bouwbesluit 2012 (Aanpassingsbesluit Bouwbesluit 2012)

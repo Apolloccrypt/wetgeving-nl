@@ -9,7 +9,7 @@ laatste_update: 2012-10-01
 status: geldig
 toestand: 2012-10-01
 bron: "https://wetten.overheid.nl/BWBR0031812"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 11 juli 2012 tot vaststelling van regels over de verstrekking van systematische informatie in het kader van interbestuurlijk toezicht (Besluit verstrekking systematische toezichtinformatie)

@@ -8,7 +8,7 @@ laatste_update: 2012-01-01
 status: geldig
 toestand: 2012-01-01
 bron: "https://wetten.overheid.nl/BWBR0030935"
-opgehaald: 2026-08-17
+opgehaald: 2026-10-16
 ---
 
 # Circulaire Wijzigingen financiële arbeidsvoorwaarden per 1 januari 2012 ambtenaren sector Rijk

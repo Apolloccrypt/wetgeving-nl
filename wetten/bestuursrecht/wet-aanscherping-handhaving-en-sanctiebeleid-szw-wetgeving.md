@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0032087"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wet van 4 oktober 2012 tot wijziging van de wetgeving op het beleidsterrein van het ministerie van Sociale Zaken en Werkgelegenheid in het kader van de harmonisatie en aanscherping van de sanctiemogelijkheden ter versterking van de naleving en handhaving en bestrijding van misbruik en fraude (Wet aanscherping handhaving en sanctiebeleid SZW-wetgeving)

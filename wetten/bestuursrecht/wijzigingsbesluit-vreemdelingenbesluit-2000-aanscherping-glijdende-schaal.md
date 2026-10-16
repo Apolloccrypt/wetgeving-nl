@@ -9,7 +9,7 @@ laatste_update: 2012-07-01
 status: geldig
 toestand: 2012-07-01
 bron: "https://wetten.overheid.nl/BWBR0031463"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 26 maart 2012, houdende wijziging van het Vreemdelingenbesluit 2000 in verband met aanscherping van de glijdende schaal

@@ -9,7 +9,7 @@ laatste_update: 2012-10-01
 status: geldig
 toestand: 2012-10-01
 bron: "https://wetten.overheid.nl/BWBR0031707"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wet van 18 juni 2012 tot wijziging van het Wetboek van Strafvordering in verband met een hervorming van de regeling betreffende herziening ten voordele van de gewezen verdachte (Wet hervorming herziening ten voordele)

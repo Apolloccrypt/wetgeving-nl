@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0031973"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 27 augustus 2012, houdende regels inzake aanspraken van zeevarenden, arbeidsbemiddeling en terbeschikkingstelling van arbeidskrachten in de zeevaart en tot wijziging van het Arbeidstijdenbesluit en het Arbeidsomstandighedenbesluit in verband met de implementatie van het Maritiem Arbeidsverdrag 2006 (Besluit aanspraken zeevarenden, arbeidsbemiddeling en terbeschikkingstelling van arbeidskrachten in de zeevaart)

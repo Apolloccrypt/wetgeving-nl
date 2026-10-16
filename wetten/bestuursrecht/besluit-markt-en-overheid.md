@@ -9,7 +9,7 @@ laatste_update: 2012-07-01
 status: geldig
 toestand: 2012-07-01
 bron: "https://wetten.overheid.nl/BWBR0031654"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 6 juni 2012, houdende regels voor overheden over de doorberekening van kosten en de toepassing van het bevoordelingsverbod (Besluit markt en overheid)

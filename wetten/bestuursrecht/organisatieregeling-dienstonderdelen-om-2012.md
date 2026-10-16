@@ -9,7 +9,7 @@ laatste_update: 2012-08-14
 status: geldig
 toestand: 2012-08-14
 bron: "https://wetten.overheid.nl/BWBR0031897"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van de directeur-generaal Rechtspleging en Rechtshandhaving van het ministerie van Veiligheid en Justitie van 3 augustus 2012, nr. 286999, houdende de organisatie van de dienstonderdelen bij het openbaar ministerie (Organisatieregeling dienstonderdelen OM 2012)

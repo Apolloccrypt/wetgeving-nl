@@ -9,7 +9,7 @@ laatste_update: 2012-10-01
 status: geldig
 toestand: 2012-10-01
 bron: "https://wetten.overheid.nl/BWBR0031891"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van de Minister voor Immigratie, Integratie en Asiel van 27 juli 2012, nr. WBV 2012/17, houdende wijziging van de Vreemdelingencirculaire 2000

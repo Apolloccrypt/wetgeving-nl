@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0031434"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van de Minister van Veiligheid en Justitie van 27 maart 2012, nr. 2012-0000134588, tot toekenning van vacatiegelden aan de postactieve leden van de werkgroep matching (Besluit toekenning vacatiegelden aan de postactieve leden van de werkgroep matching)

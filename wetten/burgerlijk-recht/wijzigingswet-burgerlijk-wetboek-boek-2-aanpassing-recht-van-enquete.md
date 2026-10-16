@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0031710"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wet van 18 juni 2012 tot wijziging van boek 2 van het Burgerlijk Wetboek in verband met de aanpassing van het recht van enquête

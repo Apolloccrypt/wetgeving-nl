@@ -9,7 +9,7 @@ laatste_update: 2012-07-01
 status: geldig
 toestand: 2012-07-01
 bron: "https://wetten.overheid.nl/BWBR0031399"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 15 maart 2012, houdende wijziging van het Vuurwerkbesluit en enkele andere algemene maatregelen van bestuur (verbetering uitvoerbaarheid en handhaafbaarheid Vuurwerkbesluit)

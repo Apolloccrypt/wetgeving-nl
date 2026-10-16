@@ -9,7 +9,7 @@ laatste_update: 2012-10-01
 status: geldig
 toestand: 2012-10-01
 bron: "https://wetten.overheid.nl/BWBR0031964"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wet van 30 augustus 2012 tot wijziging van het Wetboek van Strafrecht in verband met het verhogen van de maximale proeftijd voor misdrijven die de gezondheid of het welzijn van dieren benadelen, en in verband met het verhogen van het strafmaximum voor onder meer het doden van andermans dieren

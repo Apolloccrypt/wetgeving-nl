@@ -9,7 +9,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0031798"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wet van 12 juli 2012 tot wijziging van enkele belastingwetten en enige andere wetten (Wet uitwerking fiscale maatregelen Begrotingsakkoord 2013)

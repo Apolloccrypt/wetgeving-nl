@@ -8,7 +8,7 @@ laatste_update: 2012-05-23
 status: geldig
 toestand: 2012-05-23
 bron: "https://wetten.overheid.nl/BWBR0031569"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Tijdelijk Reglement Adviescommissie Innovatie Zorgberoepen & Opleidingen 2012

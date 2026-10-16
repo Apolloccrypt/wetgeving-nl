@@ -9,7 +9,7 @@ laatste_update: 2012-09-14
 status: geldig
 toestand: 2012-09-14
 bron: "https://wetten.overheid.nl/BWBR0031976"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Besluit van 3 september 2012 houdende vaststelling van de bestanddelen van de munten van vijf en de tien euro die in 2012 worden uitgegeven met het thema «Nederland en beeldhouwkunst»

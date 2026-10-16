@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0031936"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Wet van 12 juli 2012 tot wijziging van de Zorgverzekeringswet en de Algemene Wet Bijzondere Ziektekosten ter uitvoering van het Begrotingsakkoord 2013

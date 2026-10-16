@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0031702"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-16
 ---
 
 # Regeling van het College voor examens van 17 april 2012, nr. Cve-12.00736, houdende vaststelling van de syllabi voor de centrale examens in het v.w.o., h.a.v.o. en v.m.b.o. 2014, tevens initiële en nadere vaststelling van enkele syllabi 2013 (Regeling syllabi centrale examens VO 2014)
