@@ -9,7 +9,7 @@ laatste_update: 2022-05-05
 status: geldig
 toestand: 2022-05-05
 bron: "https://wetten.overheid.nl/BWBR0032346"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van 12 november 2012, houdende regels inzake diervoeders (Besluit diervoeders 2012)

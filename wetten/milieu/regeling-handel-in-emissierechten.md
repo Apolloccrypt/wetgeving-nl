@@ -9,7 +9,7 @@ laatste_update: 2026-07-15
 status: geldig
 toestand: 2026-07-15
 bron: "https://wetten.overheid.nl/BWBR0032413"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu van 5 december 2012 nr. IenM/BSK-2012/239553, ter implementatie en uitvoering van het Europese systeem van handel in broeikasgasemissierechten (Regeling handel in emissierechten)

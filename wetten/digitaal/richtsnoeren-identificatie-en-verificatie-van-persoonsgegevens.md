@@ -9,7 +9,7 @@ laatste_update: 2012-07-12
 status: geldig
 toestand: 2012-07-12
 bron: "https://wetten.overheid.nl/BWBR0033181"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Richtsnoeren Identificatie en verificatie van persoonsgegevens (Gebruik van ‘kopietje paspoort’ in de private sector)

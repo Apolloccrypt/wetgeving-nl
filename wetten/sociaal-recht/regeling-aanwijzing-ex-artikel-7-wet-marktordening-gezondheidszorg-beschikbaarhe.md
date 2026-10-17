@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0032233"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 13 november 2012, MC-U-3140782, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake beschikbaarheidbijdrage continuïteit van zorg

@@ -9,7 +9,7 @@ laatste_update: 2024-10-01
 status: geldig
 toestand: 2024-10-01
 bron: "https://wetten.overheid.nl/BWBR0032301"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 20 november 2012, CZ-3137182, houdende aanwijzing van Stichting Regionale Ambulancevoorziening UMCG voor de regio Drenthe als de Regionale Ambulancevoorziening, bedoeld in artikel 4 van de Tijdelijke wet ambulancezorg

@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0032676"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Wet van 20 december 2012 tot wijziging van de Wet inkomstenbelasting 2001 en enige andere wetten in verband met de herziening van de fiscale behandeling van de eigen woning (Wet herziening fiscale behandeling eigen woning)

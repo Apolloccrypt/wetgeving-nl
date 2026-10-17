@@ -9,7 +9,7 @@ laatste_update: 2020-12-08
 status: geldig
 toestand: 2020-12-08
 bron: "https://wetten.overheid.nl/BWBR0032291"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 20 november 2012, CZ-3137204, houdende aanwijzing van Coöperatie AmbulanceZorg Rotterdam Rijnmond U.A. voor de regio Rotterdam-Rijnmond als de Regionale Ambulancevoorziening, bedoeld in artikel 4 van de Tijdelijke wet ambulancezorg

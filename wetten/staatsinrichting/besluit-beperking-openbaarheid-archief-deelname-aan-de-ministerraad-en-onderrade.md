@@ -9,7 +9,7 @@ laatste_update: 2013-01-09
 status: geldig
 toestand: 2013-01-09
 bron: "https://wetten.overheid.nl/BWBR0032733"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van de Minister van Economische Zaken, houdende beperking van openbaarheid van het archief betreffende deelname aan de Ministerraad en Onderraden evenals Ministeriële Commissies van het Ministerie van Economische Zaken over de periode 1951–2007

@@ -8,7 +8,7 @@ laatste_update: 2024-05-13
 status: geldig
 toestand: 2024-05-13
 bron: "https://wetten.overheid.nl/BWBR0032533"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Beleidsregel keuring en ontheffingverlening LZV

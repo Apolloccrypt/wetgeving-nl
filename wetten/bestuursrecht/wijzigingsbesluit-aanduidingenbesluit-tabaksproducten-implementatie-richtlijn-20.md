@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-06-30
 toestand: 2014-03-28
 bron: "https://wetten.overheid.nl/BWBR0032217"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-17
 ---
 
 # Besluit van 29 oktober 2012, houdende wijziging van het Aanduidingenbesluit tabaksproducten ter implementatie van richtlijn 2012/9/EU

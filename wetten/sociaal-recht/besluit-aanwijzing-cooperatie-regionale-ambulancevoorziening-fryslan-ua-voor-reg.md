@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0032284"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 20 november 2012, CZ-3137185, houdende aanwijzing van Coöperatie Regionale Ambulancevoorziening Fryslân u.a. voor de regio Friesland als de Regionale Ambulancevoorziening, bedoeld in artikel 4 van de Tijdelijke wet ambulancezorg

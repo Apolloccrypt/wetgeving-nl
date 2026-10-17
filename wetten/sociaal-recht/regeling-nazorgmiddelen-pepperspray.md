@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0032608"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 13 december 2012, nr. 330705, houdende regels voor de technische specificaties van nazorgmiddelen (Regeling nazorgmiddelen pepperspray)

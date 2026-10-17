@@ -9,7 +9,7 @@ laatste_update: 2021-02-27
 status: geldig
 toestand: 2021-02-27
 bron: "https://wetten.overheid.nl/BWBR0032303"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 20 november 2012, CZ-3137236, houdende aanwijzing van Veiligheidsregio Brabant-Zuidoost voor de regio Brabant-Zuidoost de Regionale Ambulancevoorziening, bedoeld in artikel 4 van de Tijdelijke wet ambulancezorg

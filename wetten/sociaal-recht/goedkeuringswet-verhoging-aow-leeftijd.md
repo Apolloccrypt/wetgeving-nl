@@ -9,7 +9,7 @@ laatste_update: 2013-01-02
 status: geldig
 toestand: 2013-01-02
 bron: "https://wetten.overheid.nl/BWBR0032250"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Wet van 15 november 2012 tot goedkeuring van de algemene maatregel van bestuur tot aanpassing van wetten inzake verhoging AOW-leeftijd (Goedkeuringswet verhoging AOW-leeftijd)

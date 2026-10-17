@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0032826"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Rijkswet van 13 december 2012 tot aanpassing van de Wet militaire strafrechtspraak, het Wetboek van Militair Strafrecht en de Wet Militair tuchtrecht in verband met gewijzigde regelgeving en herstel van technische onvolkomenheden

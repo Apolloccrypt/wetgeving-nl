@@ -9,7 +9,7 @@ laatste_update: 2014-04-01
 status: geldig
 toestand: 2014-04-01
 bron: "https://wetten.overheid.nl/BWBR0032519"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 11 december 2012, MC-U-3146470, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake de nacalculatie 2013 en de opbrengstverrekening afwikkeling oude bekostigingssysteem geneeskundige geestelijke gezondheidszorg

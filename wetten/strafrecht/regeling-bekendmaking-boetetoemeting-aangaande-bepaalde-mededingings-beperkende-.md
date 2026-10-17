@@ -8,7 +8,7 @@ laatste_update: 2005-04-22
 status: geldig
 toestand: 2005-04-22
 bron: "https://wetten.overheid.nl/BWBR0033026"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling bekendmaking boetetoemeting aangaande bepaalde mededingings- beperkende activiteiten in de installatie-deelsector

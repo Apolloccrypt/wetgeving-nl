@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0032182"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-17
 ---
 
 # Aanwijzing van de minister van Volksgezondheid, Welzijn en Sport van 29 oktober 2012, MC-U-3138396 op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake invoering prestatiebekostiging in de forensische zorg

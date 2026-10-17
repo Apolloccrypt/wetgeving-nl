@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0032466"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu, van 5 december 2012, IENM/BSK-2012/241273, houdende vaststelling regels in verband met de implementatie van de Kaderwet zelfstandige bestuursorganen en de sturing van en het toezicht op het Centraal Bureau Rijvaardigheidsbewijzen (Regeling sturing van en toezicht op het Centraal Bureau Rijvaardigheidsbewijzen)

@@ -9,7 +9,7 @@ laatste_update: 2025-09-04
 status: geldig
 toestand: 2025-09-04
 bron: "https://wetten.overheid.nl/BWBR0032607"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Minister voor Veiligheid en Justitie van 13 december 2012, nr. 330698, houdende nadere regels over de behandeling van klachten over gedragingen van ambtenaren van politie als bedoeld in artikel 2, onderdelen a tot en met c, van de Politiewet 2012 (Regeling klachtbehandeling politie)

@@ -9,7 +9,7 @@ laatste_update: 2013-04-05
 status: geldig
 toestand: 2013-04-05
 bron: "https://wetten.overheid.nl/BWBR0033135"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van de Minister van Financiën van 28 maart 2013, kenmerk: FM 2013/644 M, tot instelling van de Evaluatiecommissie Nationalisatie SNS REAAL

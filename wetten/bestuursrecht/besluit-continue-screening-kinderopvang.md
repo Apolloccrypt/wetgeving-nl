@@ -9,7 +9,7 @@ laatste_update: 2013-03-01
 status: geldig
 toestand: 2013-03-01
 bron: "https://wetten.overheid.nl/BWBR0032915"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van 7 februari 2013 tot wijziging van het Besluit registers kinderopvang en peuterspeelzaalwerk, het Besluit SUWI en het Besluit justitiële en strafvorderlijke gegevens in verband met de invoering van continue screening in de kinderopvang (Besluit continue screening kinderopvang)

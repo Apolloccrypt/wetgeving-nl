@@ -9,7 +9,7 @@ laatste_update: 2026-06-06
 status: geldig
 toestand: 2026-06-06
 bron: "https://wetten.overheid.nl/BWBR0033004"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Wet van 7 maart 2013, houdende regels inzake de subsidiëring en het toezicht op de financiën van politieke partijen (Wet financiering politieke partijen)

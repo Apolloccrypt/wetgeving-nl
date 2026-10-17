@@ -9,7 +9,7 @@ laatste_update: 2013-07-01
 status: geldig
 toestand: 2013-07-01
 bron: "https://wetten.overheid.nl/BWBR0032394"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Wet van 22 november 2012 tot wijziging van de Wet bodembescherming met het oog op het terugbrengen van de administratieve en bestuurlijke lasten en enkele verbeteringen van de uitvoering

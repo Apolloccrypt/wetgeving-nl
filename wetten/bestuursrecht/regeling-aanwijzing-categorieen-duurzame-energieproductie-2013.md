@@ -9,7 +9,7 @@ laatste_update: 2014-02-13
 status: geldig
 toestand: 2014-02-13
 bron: "https://wetten.overheid.nl/BWBR0032881"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Minister van Economische Zaken van 4 februari 2013, nr. WJZ/13010648, houdende aanwijzing van categorieën van productie-installaties voor de stimulering van duurzame energieproductie in het jaar 2013

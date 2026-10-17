@@ -8,7 +8,7 @@ laatste_update: 2014-10-01
 status: geldig
 toestand: 2014-10-01
 bron: "https://wetten.overheid.nl/BWBR0032997"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Beleidsregels vereveningsbijdrage zorgverzekering 2013

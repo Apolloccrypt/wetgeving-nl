@@ -9,7 +9,7 @@ laatste_update: 2026-07-08
 status: geldig
 toestand: 2026-07-08
 bron: "https://wetten.overheid.nl/BWBR0033132"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van de Minister van Economische Zaken van 2 april 2013, nr. WJZ / 13052618, houdende regels inzake de verlening van mandaat, volmacht en machtiging aan de ACM (Besluit mandaat, volmacht en machtiging ACM)

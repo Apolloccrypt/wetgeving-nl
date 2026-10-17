@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0032531"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van 13 december 2012, houdende aanpassing van diverse besluiten in verband met de vermindering van het aantal ressorten en arrondissementen (Aanpassingsbesluit herziening gerechtelijke kaart)

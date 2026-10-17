@@ -9,7 +9,7 @@ laatste_update: 2025-04-01
 status: geldig
 toestand: 2025-04-01
 bron: "https://wetten.overheid.nl/BWBR0032333"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van 28 november 2012, houdende regels ter uitvoering van artikel 36 van de Politiewet 2012 (Besluit verdeling sterkte en middelen politie)

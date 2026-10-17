@@ -9,7 +9,7 @@ laatste_update: 2013-07-01
 status: geldig
 toestand: 2013-07-01
 bron: "https://wetten.overheid.nl/BWBR0032634"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Wet van 20 december 2012 tot wijziging van de Algemene wet bestuursrecht en aanverwante wetten met het oog op enige verbeteringen en vereenvoudigingen van het bestuursprocesrecht (Wet aanpassing bestuursprocesrecht)

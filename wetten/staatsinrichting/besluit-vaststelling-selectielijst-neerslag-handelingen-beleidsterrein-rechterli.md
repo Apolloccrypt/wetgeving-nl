@@ -8,7 +8,7 @@ laatste_update: 2012-12-12
 status: geldig
 toestand: 2012-12-12
 bron: "https://wetten.overheid.nl/BWBR0032385"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Rechterlijke Macht vanaf 1945

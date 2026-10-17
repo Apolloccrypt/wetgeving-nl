@@ -9,7 +9,7 @@ laatste_update: 2026-10-07
 status: geldig
 toestand: 2026-10-07
 bron: "https://wetten.overheid.nl/BWBR0053173"
-opgehaald: 2026-10-16
+opgehaald: 2026-10-17
 ---
 
 # Besluit van de Minister van Asiel en Migratie van 21 september 2026, nummer 7695429, houdende vaststelling van de Circulaire legalisatie en verificatie van buitenlandse bewijsstukken betreffende de staat van personen, alsmede de toepassing van DNA-onderzoek 2026

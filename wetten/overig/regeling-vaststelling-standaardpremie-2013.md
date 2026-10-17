@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0032391"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport, van 4 december 2012, Z-3141539, houdende vaststelling van de standaardpremie 2013 (Regeling vaststelling standaardpremie 2013)

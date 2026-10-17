@@ -9,7 +9,7 @@ laatste_update: 2013-04-01
 status: geldig
 toestand: 2013-04-01
 bron: "https://wetten.overheid.nl/BWBR0032995"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Wet van 7 maart 2013 tot wijziging van de Wet van 30 september 2010 tot invoering van een nieuw griffierechtenstelsel in burgerlijke zaken (Reparatiewet griffierechten burgerlijke zaken)

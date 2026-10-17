@@ -9,7 +9,7 @@ laatste_update: 2013-03-09
 status: geldig
 toestand: 2013-03-09
 bron: "https://wetten.overheid.nl/BWBR0032973"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 1 maart 2013, nr. MinBuZa-2013.17510, tot wijziging van de Subsidieregeling internationaal excelleren en tot vaststelling van enkele subsidieplafonds

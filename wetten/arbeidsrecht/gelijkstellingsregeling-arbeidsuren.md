@@ -9,7 +9,7 @@ laatste_update: 2022-08-02
 status: geldig
 toestand: 2022-08-02
 bron: "https://wetten.overheid.nl/BWBR0032545"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 20 december 2012, nr. IVV 51458, tot het gelijkstellen met arbeidsuren, de wijze waarop gelijkstelling geschiedt, het buiten beschouwing laten van arbeidsuren, het meerdere keren in aanmerking nemen van kalenderweken en beëindiging van uitkeringsrechten (Gelijkstellingsregeling arbeidsuren)

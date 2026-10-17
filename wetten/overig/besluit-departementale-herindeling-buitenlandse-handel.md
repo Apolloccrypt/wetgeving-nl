@@ -9,7 +9,7 @@ laatste_update: 2012-11-09
 status: geldig
 toestand: 2012-11-09
 bron: "https://wetten.overheid.nl/BWBR0032185"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-17
 ---
 
 # Besluit houdende departementale herindeling met betrekking tot buitenlandse handel

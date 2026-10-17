@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0032452"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 8 december 2012, nr. WJZ/353186 (10126), houdende verlaagde bezoldigingmaxima voor topfunctionarissen in het onderwijs en ter invoering van de Wet normering bezoldiging topfunctionarissen in de publieke en semipublieke sector (Regeling bezoldiging topfunctionarissen OCW-sectoren)

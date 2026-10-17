@@ -9,7 +9,7 @@ laatste_update: 2013-04-01
 status: geldig
 toestand: 2013-04-01
 bron: "https://wetten.overheid.nl/BWBR0033115"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van 27 maart 2013, houdende regels inzake het aanhouden van voorraden aardolieproducten (Besluit voorraadvorming aardolieproducten 2013)

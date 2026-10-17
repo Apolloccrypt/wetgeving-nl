@@ -8,7 +8,7 @@ laatste_update: 2013-03-15
 status: geldig
 toestand: 2013-03-15
 bron: "https://wetten.overheid.nl/BWBR0032994"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Circulaire vervoer gevaarlijke stoffen door wegtunnels

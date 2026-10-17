@@ -8,7 +8,7 @@ laatste_update: 2016-02-06
 status: geldig
 toestand: 2016-02-06
 bron: "https://wetten.overheid.nl/BWBR0032666"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Instellingsbesluit baten-lastendienst SSC-ICT Den Haag

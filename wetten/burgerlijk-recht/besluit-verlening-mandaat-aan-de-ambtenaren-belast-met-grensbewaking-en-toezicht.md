@@ -9,7 +9,7 @@ laatste_update: 2012-11-17
 status: geldig
 toestand: 2012-11-17
 bron: "https://wetten.overheid.nl/BWBR0032221"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-17
 ---
 
 # Besluit van de Minister voor Immigratie, Integratie en Asiel van 31 oktober 2012, nr. 2012-0000623321, houdende de verlening van mandaat aan de ambtenaren belast met de grensbewaking en het toezicht op vreemdelingen betreffende de uitzetting van personen en de kosten van uitzetting

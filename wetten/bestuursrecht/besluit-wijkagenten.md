@@ -9,7 +9,7 @@ laatste_update: 2016-05-24
 status: geldig
 toestand: 2016-05-24
 bron: "https://wetten.overheid.nl/BWBR0032251"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van 22 november 2012, houdende regels ter uitvoering van artikel 38a, tweede lid, van de Politiewet 2012 (Besluit wijkagenten)

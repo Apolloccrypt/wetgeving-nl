@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0032789"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Wet van 14 december 2012, houdende regels inzake de verstrekking van subsidies door de Minister van Infrastructuur en Milieu (Kaderwet subsidies I en M)

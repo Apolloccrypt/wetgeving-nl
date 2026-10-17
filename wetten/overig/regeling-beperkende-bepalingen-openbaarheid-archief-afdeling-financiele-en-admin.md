@@ -9,7 +9,7 @@ laatste_update: 2012-11-21
 status: geldig
 toestand: 2012-11-21
 bron: "https://wetten.overheid.nl/BWBR0032238"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling beperkende bepalingen op de openbaarheid van het archief van de Afdeling Financiële en Administratieve Zaken (FAZ), Financieel-economische Zaken (FEZ) en Facilitaire Zaken (1933) 1946-2005

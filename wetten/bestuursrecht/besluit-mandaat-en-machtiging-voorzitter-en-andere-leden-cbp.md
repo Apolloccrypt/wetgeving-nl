@@ -9,7 +9,7 @@ laatste_update: 2006-04-29
 status: geldig
 toestand: 2006-04-29
 bron: "https://wetten.overheid.nl/BWBR0033066"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van het College bescherming persoonsgegevens (CBP), houdende verlening van mandaat en machtiging aan de voorzitter, de twee andere leden en de buitengewone leden van het CBP (Besluit mandaat en machtiging voorzitter en andere leden CBP)

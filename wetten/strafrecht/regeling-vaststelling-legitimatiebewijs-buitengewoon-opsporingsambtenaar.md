@@ -9,7 +9,7 @@ laatste_update: 2013-01-23
 status: geldig
 toestand: 2013-01-23
 bron: "https://wetten.overheid.nl/BWBR0032799"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 8 januari 2013, nr. 333234, houdende vaststelling van het legitimatiebewijs van de buitengewoon opsporingsambtenaar (Regeling vaststelling legitimatiebewijs buitengewoon opsporingsambtenaar)

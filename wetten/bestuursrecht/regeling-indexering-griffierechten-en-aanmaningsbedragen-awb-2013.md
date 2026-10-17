@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0032684"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de minister van Veiligheid en Justitie van 20 december 2012, nr. 334461, houdende indexering van de griffierechten en aanmaningsbedragen van de Algemene wet bestuursrecht (Regeling indexering griffierechten en aanmaningsbedragen Awb 2013)

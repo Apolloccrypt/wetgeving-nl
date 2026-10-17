@@ -9,7 +9,7 @@ laatste_update: 2012-09-27
 status: geldig
 toestand: 2012-09-27
 bron: "https://wetten.overheid.nl/BWBR0033182"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Bestuursreglement van het College ter beoordeling van geneesmiddelen, als bedoeld in artikel 4 Geneesmiddelenwet, houdende de regeling voor de werkwijze van het College

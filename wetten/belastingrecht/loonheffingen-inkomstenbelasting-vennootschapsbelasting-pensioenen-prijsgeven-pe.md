@@ -8,7 +8,7 @@ laatste_update: 2013-03-29
 status: geldig
 toestand: 2013-03-29
 bron: "https://wetten.overheid.nl/BWBR0033102"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Loonheffingen, inkomstenbelasting, vennootschapsbelasting, pensioenen; prijsgeven pensioenrechten door directeur-grootaandeelhouder i.v.m. onderdekking

@@ -9,7 +9,7 @@ laatste_update: 2013-02-23
 status: geldig
 toestand: 2013-02-23
 bron: "https://wetten.overheid.nl/BWBR0032925"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van de Toezichtkamer van de Sociaal-Economische Raad van 8 februari 2013, houdende mandatering) van enkele bevoegdheden van de Toezichtkamer (Mandaatverleningsbesluit Toezichtkamer 2013)

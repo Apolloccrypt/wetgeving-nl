@@ -9,7 +9,7 @@ laatste_update: 2025-02-11
 status: geldig
 toestand: 2025-02-11
 bron: "https://wetten.overheid.nl/BWBR0032326"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 27 november 2012, G&VW/AA/2012/16953, tot vaststelling van de Beleidsregel boeteoplegging arbeidsomstandighedenwetgeving

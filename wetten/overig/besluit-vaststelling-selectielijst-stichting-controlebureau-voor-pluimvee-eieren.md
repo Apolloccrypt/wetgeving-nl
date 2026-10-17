@@ -8,7 +8,7 @@ laatste_update: 2013-02-17
 status: geldig
 toestand: 2013-02-17
 bron: "https://wetten.overheid.nl/BWBR0032893"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit vaststelling selectielijst Stichting Controlebureau voor Pluimvee, Eieren en Eiproducten (CPE) over de periode 1988–1 juli 2012

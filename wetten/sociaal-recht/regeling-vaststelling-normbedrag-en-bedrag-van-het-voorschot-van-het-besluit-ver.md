@@ -9,7 +9,7 @@ laatste_update: 2013-01-29
 status: geldig
 toestand: 2013-01-29
 bron: "https://wetten.overheid.nl/BWBR0032806"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 17 januari 2013, nr. 342554, houdende vaststelling van het normbedrag en het bedrag van het voorschot van het Besluit vergoedingen rechtsbijstand 2000

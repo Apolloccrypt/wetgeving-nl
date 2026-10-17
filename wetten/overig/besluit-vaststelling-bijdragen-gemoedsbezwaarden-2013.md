@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0032344"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van de Minister van Financiën van 28 november 2012, kenmerk: FM 2012/1764 M, tot vaststelling van de bijdragen gemoedsbezwaarden 2013 (Vaststelling bedragen gemoedsbezwaarden 2013)

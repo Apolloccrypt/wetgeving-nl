@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0032732"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Wet van 20 december 2012 tot wijziging van verschillende wetten in verband met de vereenvoudiging van de uitvoering van deze wetten door het Uitvoeringsinstituut werknemersverzekeringen (Wet vereenvoudiging regelingen UWV)

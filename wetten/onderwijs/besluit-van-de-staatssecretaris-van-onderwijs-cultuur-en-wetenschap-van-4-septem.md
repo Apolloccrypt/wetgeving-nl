@@ -9,7 +9,7 @@ laatste_update: 2026-10-10
 status: geldig
 toestand: 2026-10-10
 bron: "https://wetten.overheid.nl/BWBR0053182"
-opgehaald: 2026-10-16
+opgehaald: 2026-10-17
 ---
 
 # Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 4 september 2026, nr. DE/62889114, houdende de vaststelling van het subsidieplafond, bedoeld in artikel 4 van de Subsidieregeling mannenalliantie tegen gendergerelateerd geweld en femicide 2027–2031

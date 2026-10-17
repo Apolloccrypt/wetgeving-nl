@@ -8,7 +8,7 @@ laatste_update: 2024-06-05
 status: geldig
 toestand: 2024-06-05
 bron: "https://wetten.overheid.nl/BWBR0032383"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Planningsbesluit bijzondere perinatologische zorg

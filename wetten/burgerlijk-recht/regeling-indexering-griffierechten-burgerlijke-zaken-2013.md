@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0032248"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 16 november 2012, nr. 313723 houdende indexering van de griffierechten van de Wet griffierechten burgerlijke zaken (Regeling indexering griffierechten burgerlijke zaken 2013)

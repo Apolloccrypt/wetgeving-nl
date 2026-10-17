@@ -8,7 +8,7 @@ laatste_update: 2013-03-08
 status: geldig
 toestand: 2013-03-08
 bron: "https://wetten.overheid.nl/BWBR0032960"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Inkomstenbelasting, eigenwoningrente; tweede schuld voor aflossingen eigenwoningschuld

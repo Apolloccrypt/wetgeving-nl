@@ -8,7 +8,7 @@ laatste_update: 2009-08-28
 status: geldig
 toestand: 2009-08-28
 bron: "https://wetten.overheid.nl/BWBR0033173"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # CBP Richtsnoeren

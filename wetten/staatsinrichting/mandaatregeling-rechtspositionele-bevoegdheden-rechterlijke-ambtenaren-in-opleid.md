@@ -9,7 +9,7 @@ laatste_update: 2013-02-22
 status: geldig
 toestand: 2013-02-22
 bron: "https://wetten.overheid.nl/BWBR0032921"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 4 februari 2013, nr. 348683, houdende verlening van mandaat aan de Raad voor de rechtspraak en het College van procureurs-generaal inzake de uitoefening van rechtspositionele bevoegdheden ten aanzien van rechterlijke ambtenaren in opleiding

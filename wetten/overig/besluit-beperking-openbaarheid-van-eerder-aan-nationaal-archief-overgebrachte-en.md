@@ -9,7 +9,7 @@ laatste_update: 2012-12-21
 status: geldig
 toestand: 2012-12-21
 bron: "https://wetten.overheid.nl/BWBR0032510"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van de minister van Financiën van 10 december 2012, kenmerk BEDR/2012/604, tot beperking van de openbaarheid van eerder aan het Nationaal Archief overgebrachte en aldaar aanwezige archief van de Stichting Nederlands Kunstbezit (1930) 1945-1951 en 1983 haar taakvoorgangers en taakopvolgers

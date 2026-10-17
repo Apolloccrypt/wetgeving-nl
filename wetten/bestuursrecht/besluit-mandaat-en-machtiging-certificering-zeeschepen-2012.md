@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0032219"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-17
 ---
 
 # Besluit van de Minister van Infrastructuur en Milieu, van 9 november 2012, nr. IENM/BSK-2012/197993, houdende verlening van mandaat inzake certificering van zeeschepen (Besluit mandaat en machtiging certificering zeeschepen 2012)

@@ -8,7 +8,7 @@ laatste_update: 2013-04-01
 status: geldig
 toestand: 2013-04-01
 bron: "https://wetten.overheid.nl/BWBR0033164"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Aanwijzingsbesluit en Beleidsregels Nummerportabiliteit 2008

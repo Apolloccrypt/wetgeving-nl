@@ -9,7 +9,7 @@ laatste_update: 2012-12-31
 status: geldig
 toestand: 2012-12-31
 bron: "https://wetten.overheid.nl/BWBR0032706"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van 13 december 2012 tot vaststelling van subsidieplafonds 2013 voor enkele deelregelingen van de Stichting Nederlands Letterenfonds

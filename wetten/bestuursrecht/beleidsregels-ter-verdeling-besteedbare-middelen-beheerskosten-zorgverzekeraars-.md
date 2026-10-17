@@ -8,7 +8,7 @@ laatste_update: 2013-02-13
 status: geldig
 toestand: 2013-02-13
 bron: "https://wetten.overheid.nl/BWBR0032882"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Beleidsregels ter verdeling besteedbare middelen beheerskosten zorgverzekeraars AWBZ 2013

@@ -8,7 +8,7 @@ laatste_update: 1997-02-07
 status: geldig
 toestand: 1997-02-07
 bron: "https://wetten.overheid.nl/BWBR0033046"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Subsidieregeling Sport- en Beroepsbinnenvisserij (SSB)

@@ -9,7 +9,7 @@ laatste_update: 2012-12-19
 status: geldig
 toestand: 2012-12-19
 bron: "https://wetten.overheid.nl/BWBR0032473"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van de Directeur/bestuurder van het Nederlands fonds voor de Film van 1 november 2012, FB 120112, tot vaststelling van de subsidieplafonds voor subsidiëring op grond van het Deelreglement Filmactiviteiten, de Suppletieregeling Filminvesteringen Nederland en het Deelreglement Distributie

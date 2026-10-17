@@ -9,7 +9,7 @@ laatste_update: 2020-10-01
 status: geldig
 toestand: 2020-10-01
 bron: "https://wetten.overheid.nl/BWBR0032948"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu van 25 februari 2013, nr. IENM/BSK-2013/25450, houdende regels inzake onder andere de certificering en het onderhoud van Yakovlev-52 vliegtuigen en tot wijziging van de Regeling onderhoud luchtvaartuigen (Regeling Yakovlev-52 vliegtuigen)

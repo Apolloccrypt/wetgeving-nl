@@ -8,7 +8,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0032422"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Circulaire wijziging vergoeding van lid van algemeen bestuur per 1 januari 2013

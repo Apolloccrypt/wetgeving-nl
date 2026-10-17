@@ -8,7 +8,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0032496"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Beschikking individueel MBI-omzetplafond 2013

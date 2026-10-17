@@ -8,7 +8,7 @@ laatste_update: 2022-06-25
 status: geldig
 toestand: 2022-06-25
 bron: "https://wetten.overheid.nl/BWBR0032581"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Algemene wet inzake rijksbelastingen, voorschrift informatie fiscus/banken

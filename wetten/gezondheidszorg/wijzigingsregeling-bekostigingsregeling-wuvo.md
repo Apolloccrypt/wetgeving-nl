@@ -9,7 +9,7 @@ laatste_update: 2013-02-26
 status: geldig
 toestand: 2013-02-26
 bron: "https://wetten.overheid.nl/BWBR0032927"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 12 februari 2013, kenmerk DMO/OHW-3153132, tot wijziging van de regels omtrent de bekostiging van de uitvoering van taken van de Pensioen- en Uitkeringsraad en de Sociale verzekeringsbank, genoemd in de Wet uitvoering wetten voor verzetsdeelnemers en oorlogsgetroffenen, alsmede tot het aanbrengen van wijzigingen van andere aard

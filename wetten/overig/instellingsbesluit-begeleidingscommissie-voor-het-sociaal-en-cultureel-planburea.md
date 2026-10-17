@@ -9,7 +9,7 @@ laatste_update: 2021-11-05
 status: geldig
 toestand: 2021-11-05
 bron: "https://wetten.overheid.nl/BWBR0032715"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 20 december 2012, DMO/SVP-3146067, houdende de instelling van de begeleidingscommissie voor het Sociaal Cultureel Planbureau

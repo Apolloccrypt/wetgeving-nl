@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0032415"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Beleidsregels van de Minister van Sociale Zaken en Werkgelegenheid van 5 december 2012, Directie Kinderopvang, nr. KO/ 2012/16947, houdende werkwijze toezichthouder kinderopvang en peuterspeelzalen (Beleidsregels werkwijze toezichthouder kinderopvang en peuterspeelzalen 2013)

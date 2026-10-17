@@ -9,7 +9,7 @@ laatste_update: 2014-02-08
 status: geldig
 toestand: 2014-02-08
 bron: "https://wetten.overheid.nl/BWBR0032568"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Wet van 13 december 2012 tot wijziging van de Wet op het financieel toezicht en enige andere wetten (Wijzigingswet financiële markten 2013)

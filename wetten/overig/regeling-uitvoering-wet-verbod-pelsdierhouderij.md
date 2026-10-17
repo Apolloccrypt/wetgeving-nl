@@ -9,7 +9,7 @@ laatste_update: 2014-06-27
 status: geldig
 toestand: 2014-06-27
 bron: "https://wetten.overheid.nl/BWBR0032751"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken van 14 januari 2013 , nr. WJZ/12381149, houdende uitvoering Wet verbod pelsdierhouderij (Regeling uitvoering Wet verbod pelsdierhouderij)

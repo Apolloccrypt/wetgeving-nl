@@ -8,7 +8,7 @@ laatste_update: 2010-04-26
 status: geldig
 toestand: 2010-04-26
 bron: "https://wetten.overheid.nl/BWBR0033201"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Gedragscode Verwerking Persoonsgegevens Financiële Instellingen

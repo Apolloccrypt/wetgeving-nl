@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0033134"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van 4 maart 2013, nr. 13.000385 tot regeling van de positie van de vertegenwoordiger van de Nederlandse regering van Aruba, Curaçao en Sint Maarten

@@ -9,7 +9,7 @@ laatste_update: 2012-12-08
 status: geldig
 toestand: 2012-12-08
 bron: "https://wetten.overheid.nl/BWBR0032352"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 29 november 2012, kenmerk Z-3141453, houdende tot nadere aanwijzing van de besteedbare middelen ter dekking van de beheerskosten AWBZ 2012 (Nadere aanwijzing besteedbare middelen beheerskosten AWBZ 2012)

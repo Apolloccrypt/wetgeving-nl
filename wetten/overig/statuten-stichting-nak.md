@@ -8,7 +8,7 @@ laatste_update: 2006-04-04
 status: geldig
 toestand: 2006-04-04
 bron: "https://wetten.overheid.nl/BWBR0033075"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Statuten Stichting NAK

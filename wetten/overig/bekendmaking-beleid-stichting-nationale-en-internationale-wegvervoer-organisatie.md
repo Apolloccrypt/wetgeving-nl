@@ -9,7 +9,7 @@ laatste_update: 2006-07-10
 status: geldig
 toestand: 2006-07-10
 bron: "https://wetten.overheid.nl/BWBR0033136"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Bekendmaking van de Stichting Nationale en Internationale Wegvervoer Organisatie (NIWO) van 15 mei 1996, (Stcrt. 1996, nr. 93), houdende bekendmaking beleid NIWO, in werking getreden op 1 juni 1996, zoals laatstelijk gewijzigd bij bekendmaking van 10 juli 2006 (Stcrt. 2006, nr. 131)

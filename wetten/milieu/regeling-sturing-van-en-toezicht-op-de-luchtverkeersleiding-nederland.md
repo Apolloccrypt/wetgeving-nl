@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0032483"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu, van 12 december 2012, nr. IENM/BSK-2012/241280, houdende vaststelling regels in verband met de implementatie van de Kaderwet zelfstandige bestuursorganen en de sturing van en het toezicht op de Luchtverkeersleiding Nederland (Regeling sturing van en toezicht op de Luchtverkeersleiding Nederland)

@@ -9,7 +9,7 @@ laatste_update: 2013-04-16
 status: geldig
 toestand: 2013-04-16
 bron: "https://wetten.overheid.nl/BWBR0033233"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van de Minister van Veiligheid en Justitie van 1 maart 2013 nr. 1700483, houdende instelling van de Commissie Toekomst Forensisch Onderzoek (Instellingsbesluit Commissie Toekomst Forensisch Onderzoek)

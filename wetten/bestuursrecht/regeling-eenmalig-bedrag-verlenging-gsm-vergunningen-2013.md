@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0032703"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Minister van Economische Zaken van, 19 december 2012, nr. WJZ/12357302, houdende voorschriften omtrent het eenmalig bedrag voor verlenging van de GSM-vergunningen (Regeling eenmalig bedrag verlenging GSM-vergunningen 2013)

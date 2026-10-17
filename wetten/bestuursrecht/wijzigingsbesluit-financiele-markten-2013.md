@@ -9,7 +9,7 @@ laatste_update: 2013-09-18
 status: geldig
 toestand: 2013-09-18
 bron: "https://wetten.overheid.nl/BWBR0032731"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van 21 december 2012 tot wijziging van het Besluit Gedragstoezicht financiële ondernemingen Wft, het Besluit marktmisbruik Wft, het Besluit prudentiële regels Wft, alsmede enige andere besluiten op het terrein van de financiële markten (Wijzigingsbesluit financiële markten 2013)

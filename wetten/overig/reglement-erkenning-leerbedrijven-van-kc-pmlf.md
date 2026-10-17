@@ -8,7 +8,7 @@ laatste_update: 2013-01-15
 status: geldig
 toestand: 2013-01-15
 bron: "https://wetten.overheid.nl/BWBR0032737"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Reglement erkenning leerbedrijven van KC PMLF

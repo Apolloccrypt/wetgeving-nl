@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0032225"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Wet van 5 november 2012 tot wijziging van de Wet personenvervoer 2000 teneinde inbesteding van openbaar vervoer mogelijk te maken in een plusregio die de gemeente Amsterdam, ’s-Gravenhage, Rotterdam of Utrecht omvat (Wet aanbestedingsvrijheid OV grote steden)

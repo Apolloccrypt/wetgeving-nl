@@ -9,7 +9,7 @@ laatste_update: 2013-04-10
 status: geldig
 toestand: 2013-04-10
 bron: "https://wetten.overheid.nl/BWBR0033170"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 18 maart 2013, nr. FMICT/359419, houdende regels op het gebied van het informatiebeheer voor het Ministerie van Onderwijs, Cultuur en Wetenschap (Regeling Informatiebeheer OCW 2013)

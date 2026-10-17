@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0032605"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van de Minister van Veiligheid en Justitie van 13 december 2012, nr. 330729, houdende de aanwijzing van de gemeente waarin de politie gevestigd is (Aanwijzingsbesluit vestigingsplaats politie)

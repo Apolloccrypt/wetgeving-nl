@@ -9,7 +9,7 @@ laatste_update: 2013-02-11
 status: geldig
 toestand: 2013-02-11
 bron: "https://wetten.overheid.nl/BWBR0032880"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling voorschotverlening op uitkeringen AWBZ en vaststelling kosten van verstrekkingen en vergoedingen 2013

@@ -9,7 +9,7 @@ laatste_update: 2026-07-07
 status: geldig
 toestand: 2026-07-07
 bron: "https://wetten.overheid.nl/BWBR0032334"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van 2 november 2012, houdende regels met betrekking tot de handhaving van de Wet dieren en enige andere aangelegenheden met betrekking tot die wet (Besluit handhaving en overige zaken Wet dieren)

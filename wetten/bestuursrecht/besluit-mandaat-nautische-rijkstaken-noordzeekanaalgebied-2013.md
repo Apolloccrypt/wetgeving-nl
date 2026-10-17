@@ -9,7 +9,7 @@ laatste_update: 2013-06-01
 status: geldig
 toestand: 2013-06-01
 bron: "https://wetten.overheid.nl/BWBR0033217"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van de Directeur-Generaal van Rijkswaterstaat en de Minister van Infrastructuur en Milieu houdende de verlening van mandaat voor het uitvoeren van de nautische rijkstaken in het Noordzeekanaalgebied aan de directeur van het openbaar lichaam Centraal Nautisch Beheer Noordzeekanaalgebied (Besluit mandaat nautische rijkstaken Noordzeekanaalgebied 2013)

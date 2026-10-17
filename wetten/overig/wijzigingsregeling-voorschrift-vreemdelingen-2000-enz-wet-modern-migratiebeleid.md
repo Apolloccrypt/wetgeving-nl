@@ -9,7 +9,7 @@ laatste_update: 2013-06-01
 status: geldig
 toestand: 2013-06-01
 bron: "https://wetten.overheid.nl/BWBR0033191"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Staatssecretaris van Veiligheid en Justitie van 27 maart 2013, nummer 2013-0000175332, houdende wijziging van het Voorschrift Vreemdelingen 2000 (honderdenzestiende wijziging)

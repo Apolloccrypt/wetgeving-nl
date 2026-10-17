@@ -7,7 +7,7 @@ laatste_update: 2026-09-14
 status: geldig
 toestand: 2026-09-14
 bron: "https://wetten.overheid.nl/BWBV0006173"
-opgehaald: 2026-10-16
+opgehaald: 2026-10-17
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko betreffende de status van strijdkrachten

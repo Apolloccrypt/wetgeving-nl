@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0032370"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 30 november 2012-0000044243, tot vaststelling van consumentenprijsindexcijfers voor 2013 voor Caribisch Nederland en op basis daarvan aanpassing van bedragen van tegemoetkomingen en uitkeringen, van het wettelijk minimumuurloon en het bedrag genoemd in de Regeling Pensioenwet BES, alsmede van premiepercentages van werknemersverzekeringen en volksverzekeringen en van het maximumdagloon voor de Wet ziekteverzekering BES

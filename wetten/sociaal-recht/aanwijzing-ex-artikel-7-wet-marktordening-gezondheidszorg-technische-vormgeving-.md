@@ -9,7 +9,7 @@ laatste_update: 2013-05-01
 status: geldig
 toestand: 2013-05-01
 bron: "https://wetten.overheid.nl/BWBR0033003"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 6 maart 2013, MC-U-3156528, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake technische vormgeving verrekening overgangsregeling kapitaallasten tweedelijns curatieve ggz

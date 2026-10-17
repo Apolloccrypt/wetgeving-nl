@@ -9,7 +9,7 @@ laatste_update: 2012-11-01
 status: geldig
 toestand: 2012-11-01
 bron: "https://wetten.overheid.nl/BWBR0032235"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Beschikking van de Minister van Verkeer en Waterstaat, houdende toekenning van frequeties aan MT 2 Mobiele Communicatie B.V. als houder van een vergunning voor GSM

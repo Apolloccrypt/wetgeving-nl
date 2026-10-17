@@ -9,7 +9,7 @@ laatste_update: 2013-03-06
 status: geldig
 toestand: 2013-03-06
 bron: "https://wetten.overheid.nl/BWBR0032956"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van de Minister van Infrastructuur en Milieu, van 1 maart 2013, nr. IENM/BSK-2013/28037 tot machtiging van de algemeen manager van het Expertisecentrum Organisatie en Personeel inzake bezwaar- en beroepsprocedures betreffende personeelsaangelegenheden (Machtigingsbesluit EC O&P Infrastructuur en Milieu)

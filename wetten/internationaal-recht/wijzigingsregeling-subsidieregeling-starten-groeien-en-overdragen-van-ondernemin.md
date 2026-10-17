@@ -9,7 +9,7 @@ laatste_update: 2013-03-07
 status: geldig
 toestand: 2013-03-07
 bron: "https://wetten.overheid.nl/BWBR0032966"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Minister van Economische Zaken van 4 maart 2013, nr. WJZ/13023889, tot wijziging van de Subsidieregeling starten, groeien en overdragen van ondernemingen alsmede wijziging van de Regeling openstelling en subsidieplafonds EZ 2012 (garantie scheepsnieuwbouwfinanciering)

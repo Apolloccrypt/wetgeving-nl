@@ -9,7 +9,7 @@ laatste_update: 2013-04-23
 status: geldig
 toestand: 2013-04-23
 bron: "https://wetten.overheid.nl/BWBR0033076"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Minister van Economische Zaken van 22 maart 2013, nr. WJZ / 13037575, houdende vaststelling van de definitieve correcties voor de stimulering van duurzame energieproductie in het jaar 2012 (Regeling vaststelling definitieve correcties duurzame energieproductie 2012)

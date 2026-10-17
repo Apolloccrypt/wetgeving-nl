@@ -9,7 +9,7 @@ laatste_update: 2012-12-22
 status: geldig
 toestand: 2012-12-22
 bron: "https://wetten.overheid.nl/BWBR0032542"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Beleidsregel van de Minister van Volksgezondheid, Welzijn en Sport van 11 december 2012, MC-U-3140562, inzake de huisartsentarieven per 2013

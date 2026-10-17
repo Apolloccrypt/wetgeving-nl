@@ -9,7 +9,7 @@ laatste_update: 2022-07-01
 status: geldig
 toestand: 2022-07-01
 bron: "https://wetten.overheid.nl/BWBR0033111"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Staatssecretaris van Veiligheid en Justitie van 28 maart 2013, nr. 365293, tot vaststelling van de vergoeding voor de afgifte van een verklaring omtrent het gedrag en een gedragsverklaring aanbesteden (Regeling vergoeding verklaring omtrent het gedrag en gedragsverklaring aanbesteden)

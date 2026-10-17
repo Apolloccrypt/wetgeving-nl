@@ -8,7 +8,7 @@ laatste_update: 2010-01-06
 status: geldig
 toestand: 2010-01-06
 bron: "https://wetten.overheid.nl/BWBR0033149"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Bestuursreglement College gerechtelijk deskundigen

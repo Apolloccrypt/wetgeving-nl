@@ -9,7 +9,7 @@ laatste_update: 2013-02-22
 status: geldig
 toestand: 2013-02-22
 bron: "https://wetten.overheid.nl/BWBR0032791"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Wet van 20 december 2012 tot wijziging van de Geneesmiddelenwet ter implementatie van Richtlijn 2010/84/EU ter verbetering van de publieke gezondheid door het systeem van de geneesmiddelenbewaking van humane geneesmiddelen efficiënter te maken

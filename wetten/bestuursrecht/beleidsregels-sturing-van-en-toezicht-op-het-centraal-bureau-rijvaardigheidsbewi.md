@@ -9,7 +9,7 @@ laatste_update: 2017-01-19
 status: geldig
 toestand: 2017-01-19
 bron: "https://wetten.overheid.nl/BWBR0032468"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu, van 6 december 2012, nr. IENM/BSK-2012/241271, houdende vaststelling beleidsregels voor de sturing van en het toezicht op het Centraal Bureau Rijvaardigheidsbewijzen (Beleidsregels sturing van en toezicht op het Centraal Bureau Rijvaardigheidsbewijzen)

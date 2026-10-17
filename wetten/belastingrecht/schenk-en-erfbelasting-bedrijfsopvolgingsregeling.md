@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-05-22
 toestand: 2024-06-15
 bron: "https://wetten.overheid.nl/BWBR0032849"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Schenk- en erfbelasting, bedrijfsopvolgingsregeling

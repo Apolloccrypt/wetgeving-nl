@@ -9,7 +9,7 @@ laatste_update: 2025-10-15
 status: geldig
 toestand: 2025-10-15
 bron: "https://wetten.overheid.nl/BWBR0032606"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 13 december 2012, nr. 333005, inzake de aanwijzing van operationele functies bij de politie (Regeling operationele functies politie)

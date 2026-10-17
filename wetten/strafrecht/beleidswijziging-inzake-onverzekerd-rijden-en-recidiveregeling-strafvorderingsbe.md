@@ -9,7 +9,7 @@ laatste_update: 2013-03-25
 status: geldig
 toestand: 2013-03-25
 bron: "https://wetten.overheid.nl/BWBR0033057"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Beleidswijziging naar aanleiding van de arresten van de Hoge Raad van 5 maart jl. (LJN BZ3230 en LJN BZ3257) betreffende artikel 30 Wet aansprakelijkheidsverzekering motorrijtuigen (WAM), inzake onverzekerd rijden en de recidiveregeling in het strafvorderingsbeleid van het Openbaar Ministerie

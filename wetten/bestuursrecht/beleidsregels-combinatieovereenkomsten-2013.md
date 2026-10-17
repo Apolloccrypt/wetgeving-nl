@@ -9,7 +9,7 @@ laatste_update: 2013-04-06
 status: geldig
 toestand: 2013-04-06
 bron: "https://wetten.overheid.nl/BWBR0033160"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Beleidsregels van de Minister van Economische Zaken van 31 maart 2013, nr. WJZ / 12354959, met betrekking tot de toepassing door de Autoriteit Consument en Markt van artikel 6 van de Mededingingswet ten aanzien van combinatieovereenkomsten (Beleidsregels Combinatieovereenkomsten 2013)

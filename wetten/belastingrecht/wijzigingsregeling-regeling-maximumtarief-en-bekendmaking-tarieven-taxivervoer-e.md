@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0032736"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 18 december 2012, nr. IENM/BSK-2012/246521, houdende wijziging van de Regeling maximumtarief en bekendmaking tarieven taxivervoer (indexering 2013), houdende wijziging van de Regeling taxibestuurders 2005 (aanpassing exameneis taxibestuurders) en houdende vrijstelling van de verplichting om het vergunningbewijs op zichtbare wijze in de taxi te plaatsen

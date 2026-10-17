@@ -8,7 +8,7 @@ laatste_update: 2013-01-20
 status: geldig
 toestand: 2013-01-20
 bron: "https://wetten.overheid.nl/BWBR0032776"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit vaststelling factoren L en r boekjaar 2013

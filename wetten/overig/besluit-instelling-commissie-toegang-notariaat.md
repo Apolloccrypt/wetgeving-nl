@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0032720"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Staatssecretaris van Veiligheid en Justitie nummer 332130 van 20 december 2012, houdende de instelling van de Commissie toegang notariaat (Besluit Instelling Commissie toegang notariaat)

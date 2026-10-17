@@ -9,7 +9,7 @@ laatste_update: 2026-08-15
 status: geldig
 toestand: 2026-08-15
 bron: "https://wetten.overheid.nl/BWBR0052879"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-17
 ---
 
 # Besluit van de Staatssecretaris van Economische Zaken en Klimaat van 5 juli 2026, nr. WJZ/106841727, tot aanwijzing van toezichthouders voor de Cyberbeveiligingswet (Besluit aanwijzing toezichthouders Cyberbeveiligingswet EZK)

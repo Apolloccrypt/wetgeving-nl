@@ -8,7 +8,7 @@ laatste_update: 2012-12-21
 status: geldig
 toestand: 2012-12-21
 bron: "https://wetten.overheid.nl/BWBR0032509"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling Beroepservaringperiode

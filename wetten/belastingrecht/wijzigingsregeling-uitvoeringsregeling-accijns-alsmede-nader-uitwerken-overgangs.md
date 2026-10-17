@@ -9,7 +9,7 @@ laatste_update: 2013-07-01
 status: geldig
 toestand: 2013-07-01
 bron: "https://wetten.overheid.nl/BWBR0032955"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Wijziging van de Uitvoeringsregeling accijns alsmede het nader uitwerken van een overgangsmaatregel in verband met een wijziging in de heffing van omzetbelasting op tabaksproducten

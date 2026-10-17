@@ -9,7 +9,7 @@ laatste_update: 2013-03-07
 status: geldig
 toestand: 2013-03-07
 bron: "https://wetten.overheid.nl/BWBR0032961"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van 23 februari 2013, no. 13.000336 houdende departementale herindeling met betrekking tot publiekrechtelijke bedrijfsorganisatie

@@ -9,7 +9,7 @@ laatste_update: 2026-10-08
 status: geldig
 toestand: 2026-10-08
 bron: "https://wetten.overheid.nl/BWBR0002524"
-opgehaald: 2026-10-16
+opgehaald: 2026-10-17
 ---
 
 # Wet van 18 februari 1966, inzake een arbeidsongeschiktheidsverzekering

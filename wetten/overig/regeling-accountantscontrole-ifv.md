@@ -9,7 +9,7 @@ laatste_update: 2019-04-17
 status: geldig
 toestand: 2019-04-17
 bron: "https://wetten.overheid.nl/BWBR0032372"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 27 november 2012, nr. 307297, houdende voorschriften ten aanzien van de accountantscontrole van de jaarrekening van het Instituut Fysieke Veiligheid (Regeling accountantscontrole IFV)

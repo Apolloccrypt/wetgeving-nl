@@ -9,7 +9,7 @@ laatste_update: 2013-01-31
 status: geldig
 toestand: 2013-01-31
 bron: "https://wetten.overheid.nl/BWBR0032819"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 21 januari 2013, DMO/OHW-3150675 houdende vaststelling van de rekenfactor ingevolge de Wet buitengewoon pensioen 1940–1945 en de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers voor het jaar 2012

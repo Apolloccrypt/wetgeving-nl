@@ -5,11 +5,11 @@ identifier: "BWBR0050482"
 categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
 publicatiedatum: 2024-11-30
-laatste_update: 2025-11-22
+laatste_update: 2026-10-14
 status: geldig
-toestand: 2025-11-22
+toestand: 2026-10-14
 bron: "https://wetten.overheid.nl/BWBR0050482"
-opgehaald: 2026-09-07
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 25 november 2024, kenmerk 4009410-1075454-MEVA, houdende regels voor de verstrekking van subsidie voor het opleiden en ontwikkelen van zorgpersoneel (Subsidieregeling Strategisch Opleiden MSZ)
@@ -133,13 +133,13 @@ Op deze regeling zijn de definities van activiteitenplan, activiteitenverslag, f
 
 - d. voor opleidingen waarvoor de Minister op grond van de [Subsidieregeling opleiding tot advanced nurse practitioner en opleiding tot physician assistant](https://wetten.overheid.nl/jci1.3:c:BWBR0020517) een subsidie kan verstrekken.
 
-3. Een aanvraag voor subsidie wordt in ieder geval afgewezen indien de instelling voor hetzelfde subsidiejaar al een aanvraag als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050482&artikel=3&z=2025-11-22&g=2025-11-22), heeft ingediend.
+3. Een aanvraag voor subsidie wordt in ieder geval afgewezen indien de instelling voor hetzelfde subsidiejaar al een aanvraag als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050482&artikel=3&z=2026-10-14&g=2026-10-14), heeft ingediend.
 
 ##### Artikel 5. Subsidieplafond
 
-1. Het subsidieplafond bedraagt voor zowel het subsidiejaar 2025 als het subsidiejaar 2026 voor instellingen niet zijnde een universitair medisch centrum € 99.337.000.
+1. Voor instellingen niet zijnde een universitair medisch centrum bedraagt het subsidieplafond voor het subsidiejaar 2025 € 99.337.000 en voor het subsidiejaar 2026 € 102.298.037.
 
-2. Het subsidieplafond bedraagt voor zowel het subsidiejaar 2025 als het subsidiejaar 2026 voor universitair medische centra € 24.307.000.
+2. Voor universitair medische centra bedraagt het subsidieplafond voor het subsidiejaar 2025 € 24.307.000 en voor het subsidiejaar 2026 € 25.031.543.
 
 ##### Artikel 6. Verdeling in geval van overschrijding subsidieplafond instellingen niet zijnde een universitair medisch centrum
 
@@ -175,7 +175,7 @@ waarbij wordt verstaan onder:
 
 4. De systematiek beschreven in het tweede en derde lid wordt repeterend toegepast tot ten hoogste het per instelling aangevraagde bedrag en totdat het volledige subsidieplafond is bereikt.
 
-5. De Minister kan afwijken van de begripsbepaling Zvw-omzet, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050482&artikel=1&z=2025-11-22&g=2025-11-22), voor zover toepassing hiervan zal leiden tot een onbillijkheid van overwegende aard.
+5. De Minister kan afwijken van de begripsbepaling Zvw-omzet, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050482&artikel=1&z=2026-10-14&g=2026-10-14), voor zover toepassing hiervan zal leiden tot een onbillijkheid van overwegende aard.
 
 ##### Artikel 7. Verdeling in geval van overschrijding subsidieplafond universitair medische centra
 
@@ -217,7 +217,7 @@ R: het resterende subsidiebedrag binnen het subsidieplafond na verlening van sub
 
 4. De hoogte van de subsidie wordt berekend op basis van de daadwerkelijk gemaakte kosten per opleidingsproject.
 
-5. In afwijking van het vierde lid kan de hoogte van de personele kosten worden berekend op basis van de voor het personeel opgenomen uurtarieven in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0050482&bijlage=I&z=2025-11-22&g=2025-11-22).
+5. In afwijking van het vierde lid kan de hoogte van de personele kosten worden berekend op basis van de voor het personeel opgenomen uurtarieven in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0050482&bijlage=I&z=2026-10-14&g=2026-10-14).
 
 ##### Artikel 9. Aanvraag tot verlening
 
@@ -277,7 +277,7 @@ De Minister kan bij de verlening van de subsidie verplichtingen opleggen als bed
 
 2. In aanvulling op [artikel 7.8 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.8) gaat het financieel verslag voor de gerealiseerde kosten en opbrengsten van de activiteiten waarvoor subsidie is verleend vergezeld van een controleverklaring, opgesteld door een accountant overeenkomstig een door de Minister vastgesteld en bekendgemaakt accountantsprotocol.
 
-3. Indien instemming door de werknemersvertegenwoordiging met het activiteitenverslag wegens zwaar moverende redenen niet mogelijk is, kan de Minister in afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050482&artikel=1&z=2025-11-22&g=2025-11-22) besluiten dat ter verantwoording kan worden volstaan met een activiteitenverslag dat met een werknemersvertegenwoordiging is afgestemd.
+3. Indien instemming door de werknemersvertegenwoordiging met het activiteitenverslag wegens zwaar moverende redenen niet mogelijk is, kan de Minister in afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050482&artikel=1&z=2026-10-14&g=2026-10-14) besluiten dat ter verantwoording kan worden volstaan met een activiteitenverslag dat met een werknemersvertegenwoordiging is afgestemd.
 
 ##### Artikel 13. Steekproef
 

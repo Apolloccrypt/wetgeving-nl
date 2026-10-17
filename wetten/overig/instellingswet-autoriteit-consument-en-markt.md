@@ -9,7 +9,7 @@ laatste_update: 2025-09-01
 status: geldig
 toestand: 2025-09-01
 bron: "https://wetten.overheid.nl/BWBR0033043"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Wet van 28 februari 2013, houdende regels omtrent de instelling van de Autoriteit Consument en Markt (Instellingswet Autoriteit Consument en Markt)

@@ -9,7 +9,7 @@ laatste_update: 2013-02-24
 status: geldig
 toestand: 2013-02-24
 bron: "https://wetten.overheid.nl/BWBR0032923"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Vaststelling selectielijsten Openbare en Bijzondere Universitaire Medische Centra (UMC) en bij de UMC geplaatste Medisch-Ethische Toetsingscommissies (METC’s), over de periode vanaf 1985

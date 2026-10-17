@@ -9,7 +9,7 @@ laatste_update: 2013-02-01
 status: geldig
 toestand: 2013-02-01
 bron: "https://wetten.overheid.nl/BWBR0032398"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 30 november 2012, MC-U-3142052, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake bekostiging epilepsiezorg

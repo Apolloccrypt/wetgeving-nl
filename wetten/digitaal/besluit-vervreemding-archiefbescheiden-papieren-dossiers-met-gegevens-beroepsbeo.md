@@ -8,7 +8,7 @@ laatste_update: 2013-05-01
 status: geldig
 toestand: 2013-05-01
 bron: "https://wetten.overheid.nl/BWBR0033064"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit vervreemding archiefbescheiden (papieren dossiers met gegevens beroepsbeoefenaren ex artikel 34 Wet BIG in register SKP (periode 2000–2012))

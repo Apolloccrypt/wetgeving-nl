@@ -8,7 +8,7 @@ laatste_update: 2012-11-29
 status: geldig
 toestand: 2012-11-29
 bron: "https://wetten.overheid.nl/BWBR0032269"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit vaststelling taakomschrijving Staatssecretaris Veiligheid en Justitie

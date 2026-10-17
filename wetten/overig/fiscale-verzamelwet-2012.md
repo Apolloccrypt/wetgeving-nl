@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0032208"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-17
 ---
 
 # Wet van 1 november 2012 tot wijziging van enkele belastingwetten en enige andere wetten (Fiscale verzamelwet 2012)

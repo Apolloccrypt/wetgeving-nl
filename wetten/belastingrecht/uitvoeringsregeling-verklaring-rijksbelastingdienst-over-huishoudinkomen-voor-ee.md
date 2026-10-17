@@ -8,7 +8,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0033007"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Uitvoeringsregeling verklaring rijksbelastingdienst over huishoudinkomen voor een inkomensafhankelijke huurverhoging

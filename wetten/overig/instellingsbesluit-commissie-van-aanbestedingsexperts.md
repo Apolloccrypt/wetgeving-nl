@@ -9,7 +9,7 @@ laatste_update: 2013-04-01
 status: geldig
 toestand: 2013-04-01
 bron: "https://wetten.overheid.nl/BWBR0032968"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van de Minister van Economische Zaken van 4 maart 2013, nr. WJZ / 3008668, tot instelling van de Commissie van Aanbestedingsexperts (Instellingsbesluit Commissie van Aanbestedingsexperts)

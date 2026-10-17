@@ -8,7 +8,7 @@ laatste_update: 2013-07-01
 status: geldig
 toestand: 2013-07-01
 bron: "https://wetten.overheid.nl/BWBR0032740"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Inschrijvingsvoorwaarden advocatuur 2013 krachtens de Wet op de Rechtsbijstand

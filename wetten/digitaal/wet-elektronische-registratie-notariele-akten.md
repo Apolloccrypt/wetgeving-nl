@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0032526"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Wet van 13 december 2012 tot wijziging van de Registratiewet 1970 en enige andere wetten in verband met de invoering van de elektronische registratie van notariële akten en de gedeeltelijke afschaffing van de registratie van onderhandse akten (Wet elektronische registratie notariële akten)

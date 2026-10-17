@@ -8,7 +8,7 @@ laatste_update: 2013-04-13
 status: geldig
 toestand: 2013-04-13
 bron: "https://wetten.overheid.nl/BWBR0033228"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Inkomstenbelasting, persoonsgebonden aftrek, uitgaven voor specifieke zorgkosten en scholingsuitgaven

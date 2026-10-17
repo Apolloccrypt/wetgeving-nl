@@ -9,7 +9,7 @@ laatste_update: 2017-09-01
 status: geldig
 toestand: 2017-09-01
 bron: "https://wetten.overheid.nl/BWBR0032232"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Wet van 15 november 2012 tot implementatie van de richtlijn betreffende bepaalde aspecten van bemiddeling/mediation in burgerlijke en handelszaken (Wet implementatie richtlijn nr. 2008/52/EG betreffende bepaalde aspecten van bemiddeling/mediation in burgerlijke en handelszaken)

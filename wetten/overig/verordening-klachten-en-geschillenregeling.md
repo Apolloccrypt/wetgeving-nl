@@ -8,7 +8,7 @@ laatste_update: 2026-07-17
 status: geldig
 toestand: 2026-07-17
 bron: "https://wetten.overheid.nl/BWBR0032565"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Verordening Klachten- en geschillenregeling

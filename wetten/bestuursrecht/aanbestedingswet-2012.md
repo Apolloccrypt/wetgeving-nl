@@ -9,7 +9,7 @@ laatste_update: 2026-04-30
 status: geldig
 toestand: 2026-04-30
 bron: "https://wetten.overheid.nl/BWBR0032203"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-17
 ---
 
 # Wet van 1 november 2012, houdende nieuwe regels omtrent aanbestedingen (Aanbestedingswet 2012)

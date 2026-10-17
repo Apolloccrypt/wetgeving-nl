@@ -9,7 +9,7 @@ laatste_update: 2013-01-03
 status: geldig
 toestand: 2013-01-03
 bron: "https://wetten.overheid.nl/BWBR0032713"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van het Stimuleringsfonds voor de pers van 21 december 2012, nr. 22765 tot vaststelling van subsidieplafonds voor het jaar 2013

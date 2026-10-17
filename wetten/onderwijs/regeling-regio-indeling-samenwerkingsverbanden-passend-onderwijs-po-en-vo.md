@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0032324"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 25 november 2012, nr. WJZ/450366 (10285), houdende vaststelling gebieden samenwerkingsverbanden (Regeling regio-indeling samenwerkingsverbanden passend onderwijs PO en VO)

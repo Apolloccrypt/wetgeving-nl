@@ -8,7 +8,7 @@ laatste_update: 2013-03-13
 status: geldig
 toestand: 2013-03-13
 bron: "https://wetten.overheid.nl/BWBR0032984"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit opheffing openbaarheid archiefbescheiden toegang nummer 2.03.01

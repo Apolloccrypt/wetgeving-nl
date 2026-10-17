@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0032247"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Wet van 8 november 2012 tot wijziging van de Wet luchtvaart met betrekking tot de gevolgen van buitenlandse luchthavens voor de ruimtelijke ordening op Nederlands grondgebied (Beperkingengebied buitenlandse luchthaven)

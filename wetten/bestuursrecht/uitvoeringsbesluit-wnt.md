@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0032421"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van 6 december 2012 tot uitvoering van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector (Uitvoeringsbesluit WNT)

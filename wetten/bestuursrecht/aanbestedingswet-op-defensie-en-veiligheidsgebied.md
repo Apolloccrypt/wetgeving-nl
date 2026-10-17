@@ -9,7 +9,7 @@ laatste_update: 2019-04-18
 status: geldig
 toestand: 2019-04-18
 bron: "https://wetten.overheid.nl/BWBR0032898"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Wet van 28 januari 2013 inzake implementatie van richtlijn nr. 2009/81/EG van het Europees Parlement en de Raad van 13 juli 2009 betreffende de coördinatie van de procedures voor het plaatsen door aanbestedende diensten van bepaalde opdrachten voor werken, leveringen en diensten op defensie- en veiligheidsgebied, en tot wijziging van richtlijnen 2004/17/EG en 2004/18/EG (Aanbestedingswet op defensie- en veiligheidsgebied)

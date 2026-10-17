@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0032904"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Wet van 31 januari 2013 tot aanvulling van de Algemene wet bestuursrecht met bepalingen over nadeelcompensatie en schadevergoeding bij onrechtmatige overheidsdaad (Wet nadeelcompensatie en schadevergoeding bij onrechtmatige besluiten)

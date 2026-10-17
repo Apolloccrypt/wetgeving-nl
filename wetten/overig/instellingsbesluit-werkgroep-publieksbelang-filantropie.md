@@ -9,7 +9,7 @@ laatste_update: 2013-03-29
 status: geldig
 toestand: 2013-03-29
 bron: "https://wetten.overheid.nl/BWBR0033095"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 19 maart 2013, kenmerk 347449, houdende instelling van de Werkgroep publieksbelang filantropie (Instellingsbesluit Werkgroep publieksbelang filantropie)

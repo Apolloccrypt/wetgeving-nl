@@ -9,7 +9,7 @@ laatste_update: 2014-03-14
 status: geldig
 toestand: 2014-03-14
 bron: "https://wetten.overheid.nl/BWBR0032534"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu en de Staatssecretaris van Financiën, van 13 december 2012, nr. IENM/BSK-2012/112485, houdende regels over diplomatieke en internationale vrijstellingen van waterschapsbelastingen (Regeling diplomatieke en internationale vrijstellingen waterschapsbelastingen)

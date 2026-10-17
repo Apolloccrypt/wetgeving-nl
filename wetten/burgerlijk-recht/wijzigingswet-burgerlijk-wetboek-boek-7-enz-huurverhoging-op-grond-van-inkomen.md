@@ -9,7 +9,7 @@ laatste_update: 2013-03-16
 status: geldig
 toestand: 2013-03-16
 bron: "https://wetten.overheid.nl/BWBR0033010"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Wet van 14 maart 2013 tot wijziging van Boek 7 van het Burgerlijk Wetboek en de Uitvoeringswet huurprijzen woonruimte (huurverhoging op grond van inkomen)

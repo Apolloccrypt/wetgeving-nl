@@ -9,7 +9,7 @@ laatste_update: 2012-11-14
 status: geldig
 toestand: 2012-11-14
 bron: "https://wetten.overheid.nl/BWBR0032211"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 25 oktober 2012, nr. 2012-0000602646, houdende de vergoeding van de voorzitters en overige leden van vijf commissies

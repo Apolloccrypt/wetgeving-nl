@@ -9,7 +9,7 @@ laatste_update: 2013-04-01
 status: geldig
 toestand: 2013-04-01
 bron: "https://wetten.overheid.nl/BWBR0032588"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Wet van 20 december 2012 tot wijziging van de Wet op de rechterlijke indeling, de Wet op de rechterlijke organisatie en enige andere wetten in verband met de vorming van de arrondissementen Gelderland en Overijssel

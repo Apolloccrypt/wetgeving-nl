@@ -8,7 +8,7 @@ laatste_update: 2013-01-14
 status: geldig
 toestand: 2013-01-14
 bron: "https://wetten.overheid.nl/BWBR0032742"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Inschrijvingsvoorwaarden mediators 2013 krachtens de Wet op de Rechtsbijstand

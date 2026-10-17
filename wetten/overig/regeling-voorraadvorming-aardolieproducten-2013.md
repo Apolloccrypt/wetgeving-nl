@@ -9,7 +9,7 @@ laatste_update: 2013-04-01
 status: geldig
 toestand: 2013-04-01
 bron: "https://wetten.overheid.nl/BWBR0033098"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Minister van Economische Zaken van 22 maart 2013, nr. WJZ / 13048486, tot uitvoering van de Wet voorraadvorming aardolieproducten 2012 (Regeling voorraadvorming aardolieproducten 2013)

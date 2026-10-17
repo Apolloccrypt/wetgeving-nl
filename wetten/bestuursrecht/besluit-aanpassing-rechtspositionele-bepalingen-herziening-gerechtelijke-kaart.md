@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0032327"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van 27 november 2012 tot aanpassing van het Besluit rechtspositie rechterlijke ambtenaren, het Besluit rechtspositie leden gerechtsbesturen en Raad voor de rechtspraak en enkele andere besluiten in verband met de herziening van de gerechtelijke kaart (Besluit aanpassing rechtspositionele bepalingen herziening gerechtelijke kaart)

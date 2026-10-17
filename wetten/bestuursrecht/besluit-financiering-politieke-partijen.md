@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0033216"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van 28 maart 2013, houdende regels met betrekking tot de werkwijze van de Commissie toezicht financien politieke partijen (Besluit financiering politieke partijen)

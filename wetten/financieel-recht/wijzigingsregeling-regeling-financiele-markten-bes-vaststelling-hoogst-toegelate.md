@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0032590"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Minister van Financiën van 17 december 2012 kenmerk: FM 2012/1863 M, tot wijziging van de Regeling financiële markten BES in verband met vaststelling van de hoogst toegelaten kredietvergoeding en vertragingsvergoeding

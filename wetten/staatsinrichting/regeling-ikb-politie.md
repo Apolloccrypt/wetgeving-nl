@@ -9,7 +9,7 @@ laatste_update: 2026-10-08
 status: geldig
 toestand: 2026-10-08
 bron: "https://wetten.overheid.nl/BWBR0050519"
-opgehaald: 2026-10-16
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid, van 19 november 2024, nr. 5922154, inzake de uitvoering van het individueel keuzebudget voor Politiepersoneel (Regeling IKB Politie)

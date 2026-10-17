@@ -8,7 +8,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0032423"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Circulaire bezoldiging cdK’s, (onkosten)vergoeding leden gedeputeerde staten, leden provinciale staten en commissieleden per 1 januari 2013

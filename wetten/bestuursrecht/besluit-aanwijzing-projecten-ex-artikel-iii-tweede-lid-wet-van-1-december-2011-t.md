@@ -9,7 +9,7 @@ laatste_update: 2012-12-17
 status: geldig
 toestand: 2012-12-17
 bron: "https://wetten.overheid.nl/BWBR0032444"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van de Minister van Infrastructuur en Milieu, van 13 december 2012, nr. IENM/BSK-2012/242707, houdende aanwijzing van projecten als bedoeld in artikel III, tweede lid, van de wet van 1 december 2011 tot wijziging van de Tracéwet met het oog op de versnelling en verbetering van besluitvorming over infrastructurele projecten

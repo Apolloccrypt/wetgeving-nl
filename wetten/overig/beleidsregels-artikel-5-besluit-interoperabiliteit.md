@@ -9,7 +9,7 @@ laatste_update: 2013-02-15
 status: geldig
 toestand: 2013-02-15
 bron: "https://wetten.overheid.nl/BWBR0033202"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Beleidsregels artikel 5 Besluit Interoperabiliteit, Onafhankelijke Post en Telecommunicatieautoriteit (OPTA)

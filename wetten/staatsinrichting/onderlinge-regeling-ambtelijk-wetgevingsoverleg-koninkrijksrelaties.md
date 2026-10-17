@@ -9,7 +9,7 @@ laatste_update: 2013-02-01
 status: geldig
 toestand: 2013-02-01
 bron: "https://wetten.overheid.nl/BWBR0032847"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Onderlinge regeling in de zin van artikel 38, eerste lid, van het Statuut voor het Koninkrijk der Nederlanden, houdende instelling van het Ambtelijk Wetgevingsoverleg Koninkrijksrelaties (Onderlinge regeling Ambtelijk Wetgevingsoverleg Koninkrijksrelaties)

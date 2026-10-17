@@ -9,7 +9,7 @@ laatste_update: 2013-03-01
 status: geldig
 toestand: 2013-03-01
 bron: "https://wetten.overheid.nl/BWBR0032943"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 20 februari 2013, kenmerk DSO/OO-050/13, houdende mandatering van bevoegdheden tot uitvoering van enkele programma’s op het gebied van het Internationaal Onderwijs

@@ -9,7 +9,7 @@ laatste_update: 2013-07-01
 status: geldig
 toestand: 2013-07-01
 bron: "https://wetten.overheid.nl/BWBR0032253"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Wet van 15 november 2012 tot wijziging van de Wet op het financieel toezicht, de Wet giraal effectenverkeer en het Burgerlijk Wetboek naar aanleiding van het advies van de Monitoring Commissie Corporate Governance Code van 30 mei 2007

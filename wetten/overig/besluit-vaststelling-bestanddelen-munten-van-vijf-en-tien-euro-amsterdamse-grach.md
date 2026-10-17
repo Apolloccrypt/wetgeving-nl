@@ -9,7 +9,7 @@ laatste_update: 2012-11-17
 status: geldig
 toestand: 2012-11-17
 bron: "https://wetten.overheid.nl/BWBR0032223"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-17
 ---
 
 # Besluit van 2 november 2012, houdende vaststelling van de bestanddelen van de munten van vijf en de tien euro «Amsterdamse Grachtengordel», die in 2012 worden uitgegeven in de thematische serie Nederlands Werelderfgoed

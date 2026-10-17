@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0032218"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-17
 ---
 
 # Besluit van de Minister van Infrastructuur en Milieu, van 9 november 2012, nr. IENM/BSK-2012/205680, houdende aanwijzing van erkende rechtspersonen voor onderzoek in het kader van certificering Wet zeevarenden

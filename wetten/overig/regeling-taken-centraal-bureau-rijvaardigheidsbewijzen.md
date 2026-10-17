@@ -9,7 +9,7 @@ laatste_update: 2020-07-01
 status: geldig
 toestand: 2020-07-01
 bron: "https://wetten.overheid.nl/BWBR0032377"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu, van 6 december 2012, nr. IENM/BSK-2012/243381, houdende vaststelling taken van het Centraal Bureau Rijvaardigheidsbewijzen (Regeling taken Centraal Bureau Rijvaardigheidsbewijzen)

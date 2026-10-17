@@ -9,7 +9,7 @@ laatste_update: 2014-11-29
 status: geldig
 toestand: 2014-11-29
 bron: "https://wetten.overheid.nl/BWBR0033159"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Wet van 28 maart 2013 tot wijziging van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur naar aanleiding van de evaluatie van die wet, alsmede uitbreiding van de reikwijdte ervan en wijziging van enige andere wetten (Evaluatie- en uitbreidingswet Bibob)

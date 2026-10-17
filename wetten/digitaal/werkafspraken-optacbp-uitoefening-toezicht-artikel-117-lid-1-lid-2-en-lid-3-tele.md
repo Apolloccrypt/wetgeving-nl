@@ -8,7 +8,7 @@ laatste_update: 2004-11-01
 status: geldig
 toestand: 2004-11-01
 bron: "https://wetten.overheid.nl/BWBR0033074"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Werkafspraken OPTA/CBP uitoefening toezicht artikel 11.7 lid 1, lid 2 en lid 3 Telecommunicatiewet

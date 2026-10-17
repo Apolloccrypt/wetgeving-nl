@@ -9,7 +9,7 @@ laatste_update: 2013-04-01
 status: geldig
 toestand: 2013-04-01
 bron: "https://wetten.overheid.nl/BWBR0033090"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van de Minister van Infrastructuur en Milieu, van 26 maart 2013 nr. IENM/BSK-2013/46052, houdende benoeming leden Permanente Commissie van Toezicht op de Scheldevaart en de Eemscommissie

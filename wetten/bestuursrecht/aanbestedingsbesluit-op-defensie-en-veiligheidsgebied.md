@@ -9,7 +9,7 @@ laatste_update: 2019-04-18
 status: geldig
 toestand: 2019-04-18
 bron: "https://wetten.overheid.nl/BWBR0032903"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van 5 februari 2013, houdende de regeling van enkele onderwerpen van de Aanbestedingswet op defensie- en veiligheidsgebied (Aanbestedingsbesluit op defensie- en veiligheidsgebied)

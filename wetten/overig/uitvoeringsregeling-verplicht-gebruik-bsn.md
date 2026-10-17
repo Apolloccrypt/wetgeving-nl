@@ -8,7 +8,7 @@ laatste_update: 2020-07-01
 status: geldig
 toestand: 2020-07-01
 bron: "https://wetten.overheid.nl/BWBR0032640"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Uitvoeringsregeling verplicht gebruik BSN

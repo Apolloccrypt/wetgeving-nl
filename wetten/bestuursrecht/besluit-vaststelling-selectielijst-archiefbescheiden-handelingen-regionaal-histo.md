@@ -8,7 +8,7 @@ laatste_update: 2012-11-11
 status: geldig
 toestand: 2012-11-11
 bron: "https://wetten.overheid.nl/BWBR0032202"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-17
 ---
 
 # Besluit vaststelling selectielijst archiefbescheiden handelingen Regionaal Historische Centra met de provincie als werkgebied over de periode vanaf 1 mei 1998

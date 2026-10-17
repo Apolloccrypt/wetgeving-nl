@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0032487"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 6 december 2012, houdende tijdelijke aanwijzing van bevoegde gerechten als bedoeld in de artikelen 46a en 62a van de Wet op de rechterlijke organisatie (Regeling tijdelijke aanwijzing bevoegde gerechten)

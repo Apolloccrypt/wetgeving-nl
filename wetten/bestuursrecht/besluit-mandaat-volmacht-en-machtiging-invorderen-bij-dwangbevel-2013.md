@@ -9,7 +9,7 @@ laatste_update: 2013-04-11
 status: geldig
 toestand: 2013-04-11
 bron: "https://wetten.overheid.nl/BWBR0033209"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van de Minister voor Wonen en Rijksdienst, van 4 april 2013, nr. MA/2013/025/UP, houdende de verlening van mandaat, volmacht en machtiging aan het bestuur van de huurcommissie ten aanzien van het invorderen van vergoedingen bij dwangbevel (Besluit mandaat, volmacht en machtiging invorderen bij dwangbevel 2013)

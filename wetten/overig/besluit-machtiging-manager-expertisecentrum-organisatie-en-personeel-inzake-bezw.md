@@ -9,7 +9,7 @@ laatste_update: 2013-01-20
 status: geldig
 toestand: 2013-01-20
 bron: "https://wetten.overheid.nl/BWBR0032777"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van de Minister-President, Minister van Algemene Zaken, van 8 januari 2013, nr. 3681777, tot machtiging van de manager van het Expertisecentrum Organisatie en Personeel inzake bezwaar- en beroepsprocedures betreffende personeelsaangelegenheden

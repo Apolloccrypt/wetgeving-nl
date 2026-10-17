@@ -9,7 +9,7 @@ laatste_update: 2012-11-09
 status: geldig
 toestand: 2012-11-09
 bron: "https://wetten.overheid.nl/BWBR0032197"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-17
 ---
 
 # Aanmeldings-, transactie- en vervolgingsrichtlijn voor fiscale- en douane delicten Belastingdienst/Caribisch Nederland 2012

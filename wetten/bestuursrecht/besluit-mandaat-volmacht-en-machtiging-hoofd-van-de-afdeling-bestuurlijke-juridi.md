@@ -9,7 +9,7 @@ laatste_update: 2012-11-29
 status: geldig
 toestand: 2012-11-29
 bron: "https://wetten.overheid.nl/BWBR0032262"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Milieu houdende verlening van mandaat, volmacht en machtiging aan het hoofd van de afdeling Bestuurlijke & Juridische Zaken van de Nederlandse Voedsel- en Warenautoriteit inzake het opleggen van bestuurlijke boete op grond van de Wet gewasbeschermingsmiddelen en biociden

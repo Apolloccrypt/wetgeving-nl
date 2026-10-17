@@ -8,7 +8,7 @@ laatste_update: 2012-05-18
 status: geldig
 toestand: 2012-05-18
 bron: "https://wetten.overheid.nl/BWBR0033177"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit Gedragscode Slimme meters

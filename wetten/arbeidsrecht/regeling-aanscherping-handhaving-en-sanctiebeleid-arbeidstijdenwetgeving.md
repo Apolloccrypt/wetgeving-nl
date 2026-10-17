@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0032325"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 27 november 2012, G&VW/AA/2012/16954, tot vaststelling van de Regeling aanscherping handhaving en sanctiebeleid Arbeidstijdenwetgeving.

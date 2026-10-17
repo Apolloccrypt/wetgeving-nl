@@ -9,7 +9,7 @@ laatste_update: 2013-04-01
 status: geldig
 toestand: 2013-04-01
 bron: "https://wetten.overheid.nl/BWBR0032234"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Wet van 15 november 2012 tot wijziging van het Wetboek van Strafrecht in verband met de aanpassing van de regeling van de vervolgingsverjaring

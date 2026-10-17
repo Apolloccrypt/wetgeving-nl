@@ -9,7 +9,7 @@ laatste_update: 2013-02-26
 status: geldig
 toestand: 2013-02-26
 bron: "https://wetten.overheid.nl/BWBR0032926"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 6 februari 2013, Kenmerk Z-3152334, houdende vaststelling van het premiepercentage voor de algemene verzekering bijzondere ziektekosten 2013

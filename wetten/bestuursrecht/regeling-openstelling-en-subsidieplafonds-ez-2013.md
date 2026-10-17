@@ -9,7 +9,7 @@ laatste_update: 2013-11-29
 status: geldig
 toestand: 2013-11-29
 bron: "https://wetten.overheid.nl/BWBR0032500"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Minister van Economische Zaken van 12 december 2012, nr. WJZ/12347494, tot vaststelling van de subsidieplafonds en termijnen van openstelling van EZ-subsidieregelingen (Regeling openstelling en subsidieplafonds EZ 2013)

@@ -9,7 +9,7 @@ laatste_update: 2013-04-01
 status: geldig
 toestand: 2013-04-01
 bron: "https://wetten.overheid.nl/BWBR0033044"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van de Raad van Bestuur van de Nederlandse Mededingingsautoriteit van 2 september 2008 tot het vaststellen van uitvoeringsregels omtrent het verkort afdoen van concentratiemeldingen

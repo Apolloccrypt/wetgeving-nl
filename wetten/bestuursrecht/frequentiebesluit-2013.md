@@ -9,7 +9,7 @@ laatste_update: 2022-03-02
 status: geldig
 toestand: 2022-03-02
 bron: "https://wetten.overheid.nl/BWBR0032895"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van 8 februari 2013, houdende regels betreffende toewijzing en gebruik van frequentieruimte (Frequentiebesluit 2013)

@@ -9,7 +9,7 @@ laatste_update: 2026-07-09
 status: geldig
 toestand: 2026-07-09
 bron: "https://wetten.overheid.nl/BWBR0032396"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 4 december 2012, AV/AR/2012/173372012-0000048826, tot vaststelling van de beleidsregel preventieve stillegging in het kader van de bestuursrechtelijke handhaving van de arbeidswetten

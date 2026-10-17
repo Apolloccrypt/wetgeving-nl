@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-06-30
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0032288"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Aanwijzing review (tweede beoordeling)

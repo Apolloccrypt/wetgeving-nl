@@ -9,7 +9,7 @@ laatste_update: 2013-07-01
 status: geldig
 toestand: 2013-07-01
 bron: "https://wetten.overheid.nl/BWBR0033015"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Wet van 7 maart 2013 tot wijziging van het Wetboek van Strafrecht, het Wetboek van Strafvordering en het Wetboek van Strafrecht BES met het oog op de verruiming van de mogelijkheden tot strafrechtelijke aanpak van huwelijksdwang, polygamie en vrouwelijke genitale verminking

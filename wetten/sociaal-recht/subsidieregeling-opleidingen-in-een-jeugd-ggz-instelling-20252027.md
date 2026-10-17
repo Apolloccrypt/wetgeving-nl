@@ -5,11 +5,11 @@ identifier: "BWBR0035636"
 categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
 publicatiedatum: 2026-07-17
-laatste_update: 2026-07-17
+laatste_update: 2026-10-14
 status: geldig
-toestand: 2026-07-17
+toestand: 2026-10-14
 bron: "https://wetten.overheid.nl/BWBR0035636"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 6 oktober 2014, kenmerk 663853-125983-MEVA, houdende regels voor de verstrekking van subsidie voor de financiering van opleidingsplaatsen voor de opleiding tot gezondheidszorg psycholoog, psychiater, psychotherapeut en klinisch psycholoog in een kinder- en jeugd ggz-instelling (Subsidieregeling Opleidingen in een jeugd ggz-instelling 2015–2017)
@@ -42,7 +42,7 @@ In deze regeling wordt verstaan onder:
 
 - l. *subsidiejaar:* jaar ten behoeve waarvan de subsidie aan de instelling wordt verstrekt;
 
-- m. *verdeelplan jeugd GGZ:* het overzicht opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035636&bijlage=2&z=2026-07-17&g=2026-07-17).
+- m. *verdeelplan jeugd GGZ:* het overzicht opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035636&bijlage=2&z=2026-10-14&g=2026-10-14).
 
 ##### Artikel 1a
 
@@ -54,7 +54,7 @@ Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.
 
 2. De subsidie wordt per kalenderjaar verstrekt.
 
-3. De subsidie bedraagt per gerealiseerde opleidingsplaats in fte het bedrag dat in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035636&bijlage=1&z=2026-07-17&g=2026-07-17) bij deze regeling vermeld is bij de desbetreffende zorgopleiding. Een opleidingsplaats in fte bedraagt ten hoogste het aantal uren van het dienstverband overeenkomstig de van toepassing zijnde collectieve arbeidsovereenkomst of sectorale rechtspositieregeling.
+3. De subsidie bedraagt per gerealiseerde opleidingsplaats in fte het bedrag dat in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035636&bijlage=1&z=2026-10-14&g=2026-10-14) bij deze regeling vermeld is bij de desbetreffende zorgopleiding. Een opleidingsplaats in fte bedraagt ten hoogste het aantal uren van het dienstverband overeenkomstig de van toepassing zijnde collectieve arbeidsovereenkomst of sectorale rechtspositieregeling.
 
 4. De subsidie wordt uitsluitend verstrekt aan een opleidingsinrichting die voor het verzorgen van (een deel van) de opleiding tot psychiater is erkend door de RGS of aan een praktijkopleidinginstelling die voor de desbetreffende zorgopleiding is erkend door de CRT of de RSV.
 
@@ -62,9 +62,9 @@ Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.
 
 1. Bij het verstrekken van de subsidie wordt onderscheid gemaakt naar instroom en doorstroom.
 
-2. De Minister stelt voorafgaande aan het subsidiejaar het verdeelplan jeugd GGZ, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035636&bijlage=2&z=2026-07-17&g=2026-07-17), vast voor de instroom die ten hoogste in aanmerking kan komen voor de subsidie.
+2. De Minister stelt voorafgaande aan het subsidiejaar het verdeelplan jeugd GGZ, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035636&bijlage=2&z=2026-10-14&g=2026-10-14), vast voor de instroom die ten hoogste in aanmerking kan komen voor de subsidie.
 
-3. De Minister kan vrijstelling of ontheffing verlenen voor de opname in het verdeelplan jeugd GGZ als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035636&artikel=2&z=2026-07-17&g=2026-07-17).
+3. De Minister kan vrijstelling of ontheffing verlenen voor de opname in het verdeelplan jeugd GGZ als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035636&artikel=2&z=2026-10-14&g=2026-10-14).
 
 ##### Artikel 4
 
@@ -87,6 +87,8 @@ Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.
 - a. voor wat betreft de instroom: het maximum aantal opleidingsplaatsen waarvoor de subsidie wordt verleend vermenigvuldigd met het subsidiebedrag per opleidingsplaats in fte voor de desbetreffende zorgopleiding;
 
 - b. voor wat betreft de doorstroom: het aantal opleidingsplaatsen voor het subsidiejaar zoals opgenomen in de opleidingsschema’s per 31 oktober van het jaar voorafgaand aan het subsidiejaar vermenigvuldigd met het subsidiebedrag per opleidingsplaats in fte voor de desbetreffende zorgopleiding.
+
+7. Bij beschikking kan van het ritme van de voorschotverlening, zoals bedoeld in het zesde lid, worden afgeweken.
 
 ##### Artikel 5
 

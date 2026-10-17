@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0032556"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Wet van 13 december 2012 tot wijziging van de Wet op het financieel toezicht en het Burgerlijk Wetboek ter implementatie van de richtlijn solvabiliteit II en invoering van een daarop gebaseerd regime voor bepaalde kleinere verzekeraars (Implementatiewet richtlijn solvabiliteit II)

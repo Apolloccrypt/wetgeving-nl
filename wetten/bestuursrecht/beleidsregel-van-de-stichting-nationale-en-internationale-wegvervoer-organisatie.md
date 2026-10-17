@@ -8,7 +8,7 @@ laatste_update: 2004-04-18
 status: geldig
 toestand: 2004-04-18
 bron: "https://wetten.overheid.nl/BWBR0033122"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Beleidsregel van de Stichting Nationale en Internationale Wegvervoer Organisatie (NIWO) toetsing vergunningen beroepsgoederenvervoer over de weg aan de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur (Bibob)

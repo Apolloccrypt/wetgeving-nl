@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0032511"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 12 december 2012, Z-3146924, houdende vaststelling van kosten als bedoeld in artikel 1, onderdeel bb, van het Besluit zorgverzekering

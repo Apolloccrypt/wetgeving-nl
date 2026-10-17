@@ -9,7 +9,7 @@ laatste_update: 2018-03-31
 status: geldig
 toestand: 2018-03-31
 bron: "https://wetten.overheid.nl/BWBR0032897"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Minister van Economische Zaken van 15 februari 2013, nr. WJZ/13003615, tot aanwijzing van frequentieruimte als bedoeld in artikel 3.24, eerste lid, van de Telecommunicatiewet (Regeling aanwijzing frequentieruimte medegebruik antenne-opstelpunten)

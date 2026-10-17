@@ -9,7 +9,7 @@ laatste_update: 2026-10-13
 status: geldig
 toestand: 2026-10-13
 bron: "https://wetten.overheid.nl/BWBR0053185"
-opgehaald: 2026-10-16
+opgehaald: 2026-10-17
 ---
 
 # Besluit van de directeur Mens en Organisatie van het Ministerie van Economische Zaken en Klimaat van 5 oktober 2026, nr. EZ_MO/108107342, tot verlening van ondermandaat, volmacht en machtiging voor de directie Mens en Organisatie van het Ministerie van Economische Zaken en Klimaat (Besluit ondermandaat, volmacht en machtiging voor de directie Mens en Organisatie van het Ministerie van Economische Zaken en Klimaat 2026)

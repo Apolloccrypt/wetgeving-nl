@@ -9,7 +9,7 @@ laatste_update: 2015-02-10
 status: geldig
 toestand: 2015-02-10
 bron: "https://wetten.overheid.nl/BWBR0032525"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport, van 11 december 2012, Z-3145784, houdende bepalingen omtrent de in de Zorgverzekeringswet bedoelde vereveningsbijdrage voor het jaar 2013 (Regeling risicoverevening 2013)

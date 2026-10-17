@@ -9,7 +9,7 @@ laatste_update: 2012-12-01
 status: geldig
 toestand: 2012-12-01
 bron: "https://wetten.overheid.nl/BWBR0032311"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van 2 november 2012 tot vaststelling van regels betreffende tegemoetkomingen ter zake van verhuizing en woon-werkverkeer voor defensiepersoneel en tot wijziging van enige besluiten, in het kader van de arbeidsvoorwaardenovereenkomst voor de sector Defensie over de periode 1 maart 2012 tot en met 28 februari 2013

@@ -9,7 +9,7 @@ laatste_update: 2013-03-27
 status: geldig
 toestand: 2013-03-27
 bron: "https://wetten.overheid.nl/BWBR0033060"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van de Minister van Infrastructuur en Milieu, van 22 maart 2013, nr. IENM/BSK-2013/32934, houdende mandatering burgemeesters van havengemeenten in verband met de uitvoering van de taak van duly authorized officer als bedoeld in artikel 8, eerste lid, van verordening nr. (EG) 725/2004 betreffende de verbetering van de beveiliging van schepen en havenfaciliteiten (PbEU L 129) (Mandaatbesluit burgemeesters havengemeenten ter uitvoering verordening (EG) nr. 725/2004 inzake havenbeveiliging)

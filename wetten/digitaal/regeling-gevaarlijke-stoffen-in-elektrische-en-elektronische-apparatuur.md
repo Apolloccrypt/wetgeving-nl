@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0032405"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Staatssecretaris van Milieu van 11 december 2012, nr. IENM/BSK-2012/218548 houdende regels met betrekking tot beperking van het gebruik van bepaalde gevaarlijke stoffen in elektrische en elektronische apparatuur (Regeling gevaarlijke stoffen in elektrische en elektronische apparatuur)

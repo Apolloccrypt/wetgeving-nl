@@ -9,7 +9,7 @@ laatste_update: 2016-07-01
 status: geldig
 toestand: 2016-07-01
 bron: "https://wetten.overheid.nl/BWBR0033051"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Minister van Economische Zaken van 21 maart 2013, nr. WJZ/13041522, tot vaststelling van modellen voor een eigen verklaring als bedoeld in de Aanbestedingswet 2012 (Regeling modellen eigen verklaring)

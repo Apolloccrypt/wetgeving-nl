@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0032216"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-17
 ---
 
 # Wet van 25 oktober 2012 tot wijziging van de Algemene Wet Bijzondere Ziektekosten en de Wet maatschappelijke ondersteuning in verband met invoering van een vermogensinkomensbijtelling voor de vaststelling van de eigen bijdragen voor zorg of voorzieningen op grond van die wetten

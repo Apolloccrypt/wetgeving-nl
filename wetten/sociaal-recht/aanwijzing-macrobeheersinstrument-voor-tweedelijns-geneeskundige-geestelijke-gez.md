@@ -9,7 +9,7 @@ laatste_update: 2013-02-01
 status: geldig
 toestand: 2013-02-01
 bron: "https://wetten.overheid.nl/BWBR0032517"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 11 december 2012, MC-U-3145881, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake het macrobeheersinstrument voor tweedelijns geneeskundige geestelijke gezondheidszorg

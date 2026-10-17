@@ -8,7 +8,7 @@ laatste_update: 2012-11-08
 status: geldig
 toestand: 2012-11-08
 bron: "https://wetten.overheid.nl/BWBR0032180"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-17
 ---
 
 # Instellingsbesluit Adviescommissie Organisatie en Financiering Pallas

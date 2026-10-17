@@ -9,7 +9,7 @@ laatste_update: 2015-07-01
 status: geldig
 toestand: 2015-07-01
 bron: "https://wetten.overheid.nl/BWBR0032870"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Verordening van de Sociaal-Economische Raad van 21 december 2012 tot delegatie van diverse bestuurlijke bevoegdheden en instelling van de Bestuurskamer en de Toezichtkamer, alsmede regelen betreffende de taken, bevoegdheden en werkwijze van deze commissies (Verordening bestuurlijke taken SER)

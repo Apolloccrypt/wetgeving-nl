@@ -9,7 +9,7 @@ laatste_update: 2013-02-01
 status: geldig
 toestand: 2013-02-01
 bron: "https://wetten.overheid.nl/BWBR0032504"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 11 december 2012, nr. MC-U-3146797, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake niet toepassen macrobeheersmodel op zelfstandige trombosediensten

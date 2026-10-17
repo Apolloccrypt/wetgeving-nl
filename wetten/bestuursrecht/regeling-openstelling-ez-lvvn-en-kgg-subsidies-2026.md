@@ -5,11 +5,11 @@ identifier: "BWBR0052002"
 categorie: "Milieu"
 soort: "ministeriele-regeling"
 publicatiedatum: 2026-01-01
-laatste_update: 2026-10-03
+laatste_update: 2026-10-14
 status: geldig
-toestand: 2026-10-03
+toestand: 2026-10-14
 bron: "https://wetten.overheid.nl/BWBR0052002"
-opgehaald: 2026-10-12
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Minister van Economische Zaken, de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur en de Minister van Klimaat en Groene Groei, van 13 december 2025, nr. WJZ/102735469, tot vaststelling van de subsidieplafonds en termijnen van openstelling van EZ-subsidie-instrumenten, LVVN-subsidie-instrumenten en KGG-subsidie-instrumenten (Regeling openstelling EZ-, LVVN- en KGG-subsidies 2026) [KetenID WGK 28368]
@@ -160,7 +160,7 @@ De percentages, bedoeld in [artikel 3.9.9 van de Regeling nationale EZ-, LVVN- e
 | Titel 5.6: Samenwerken aan innovatie door operationele groepen in het kader van EIP | 5.6.2, eerste lid en zesde lid, onderdeel e |  | e. Het op orde brengen van digitale randvoorwaarden om digitale innovaties in de agrarische bedrijfsvoering en landbouwrobots te kunnen ontwikkelen of implementeren, om bij te dragen aan het versterken en versnellen van de groene transitie en het reduceren van arbeidsmarkttekorten door middel van een grotere inzet van digitalisering en landbouwrobots voor een toekomstbestendig landbouw- en voedselsysteem en een robuuste natuur. | 11-11-2025 t/m 07-01-2026 | € 18.270.000 |
 |  | 5.6.2, eerste en zesde lid, onderdeel f, subonderdeel 1 |  | Het experimenteren met het vermarkten van dierlijke producten die zijn geproduceerd op een veehouderij waar maatregelen worden toegepast, gericht op het bereiken van een dierwaardige veehouderij binnen de sectoren legkippen, opfoklegkippen, vleeskuikens, of ouderdieren | 02-04-2026 t/m 02-06-2026 | € 1.500.000 |
 |  | 5.6.2, eerste en zesde lid, onderdeel f, subonderdeel 2 |  | Het experimenteren met het vermarkten van dierlijke producten die zijn geproduceerd op een veehouderij waar maatregelen worden toegepast, gericht op het bereiken van een dierwaardige veehouderij binnen de sector varkens | 02-04-2026 t/m 02-06-2026 | € 1.500.000 |
-|  | 5.6.2, eerste en zesde lid, onderdeel f, subonderdeel 3 |  | Het experimenteren met het vermarkten van dierlijke producten die zijn geproduceerd op een veehouderij waar maatregelen worden toegepast, gericht op het bereiken van een dierwaardige veehouderij binnen de sector rundvee | 02-04-2026 t/m 02-06-2026 | € 3.000.000 |
+|  | 5.6.2, eerste en zesde lid, onderdeel f, subonderdeel 3 |  | Het experimenteren met het vermarkten van dierlijke producten die zijn geproduceerd op een veehouderij waar maatregelen worden toegepast, gericht op het bereiken van een dierwaardige veehouderij binnen de sector rundvee | 02-04-2026 t/m 02-06-2026 | € 4.009.981,90 |
 |  | 5.6.2, eerste en zesde lid, onderdeel a |  | Het aantrekken en behouden van jonge landbouwers, potentiële jonge landbouwers en nieuwe landbouwers en bevordering van duurzame bedrijfsontwikkeling in plattelandsgebieden | 19-05-2026 t/m 30-06-2026 | € 676.605,– |
 |  | 5.6.2, eerste en zesde lid, onderdeel g |  | Het formuleren van een plan voor de doorontwikkeling van de eco-regeling, gericht op toekomstbestendige landbouw, waarbij de in het plan opgenomen maatregelen op bedrijfsniveau bijdragen aan het verlagen van de administratieve lasten voor landbouwers en ten minste één van de genoemde doelstellingen | 16-06-2026 t/m 16-07-2026 | € 500.000 |
 | Titel 5.7: Stimuleren van kennisoverdracht via de Subsidiemodule Agrarische Bedrijfsadvisering en Educatie (SABE) | 5.7.3 |  | Verstrekking adviesvoucher aan een landbouwer | 07-10-2026 t/m 18-11-2026 | € 4.500.000 |

@@ -9,7 +9,7 @@ laatste_update: 2017-08-01
 status: geldig
 toestand: 2017-08-01
 bron: "https://wetten.overheid.nl/BWBR0032889"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van 18 december 2012, tot wijziging van het Besluit stralingsbescherming en enkele andere besluiten in verband met de vereenvoudiging van de wettelijke regels en de vermindering van administratieve lasten voor ondernemingen die met ioniserende straling werken en het herstel van enkele wetstechnische gebreken en leemten

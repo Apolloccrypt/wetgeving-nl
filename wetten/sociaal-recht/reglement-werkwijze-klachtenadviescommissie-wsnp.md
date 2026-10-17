@@ -8,7 +8,7 @@ laatste_update: 2013-03-17
 status: geldig
 toestand: 2013-03-17
 bron: "https://wetten.overheid.nl/BWBR0033000"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Reglement werkwijze Klachtenadviescommissie Wsnp

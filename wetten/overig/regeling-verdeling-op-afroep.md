@@ -9,7 +9,7 @@ laatste_update: 2020-09-29
 status: geldig
 toestand: 2020-09-29
 bron: "https://wetten.overheid.nl/BWBR0032899"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Minister van Economische Zaken van 15 februari 2013, nr. WJZ/13014657, houdende regels met betrekking tot de verdeling van frequentieruimte als bedoeld in artikel 3.10, eerste lid, onderdeel b, van de Telecommunicatiewet (Regeling verdeling op afroep)

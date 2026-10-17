@@ -9,7 +9,7 @@ laatste_update: 2013-04-06
 status: geldig
 toestand: 2013-04-06
 bron: "https://wetten.overheid.nl/BWBR0033112"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 19 maart 2013, nr. 363701, houdende verlening van mandaat aan de directeur en de voorzitter van het bestuur van het IFV in verband met het nemen van besluiten op basis de Algemene wet erkenning EG-beroepskwalificaties (Mandaatregeling Instituut Fysieke Veiligheid 2013)

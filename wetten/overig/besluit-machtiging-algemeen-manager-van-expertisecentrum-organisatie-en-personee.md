@@ -9,7 +9,7 @@ laatste_update: 2012-12-20
 status: geldig
 toestand: 2012-12-20
 bron: "https://wetten.overheid.nl/BWBR0032485"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 11 december 2012, nr. DP&O/467325, tot machtiging van de algemeen manager van het Expertisecentrum Organisatie en Personeel inzake bezwaar- en beroepsprocedures betreffende personeelsaangelegenheden

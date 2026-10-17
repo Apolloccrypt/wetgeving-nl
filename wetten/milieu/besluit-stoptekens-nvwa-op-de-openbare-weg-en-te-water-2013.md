@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0032518"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van de Minister van Economische Zaken van 12 december 2012, nr. WJZ / 12375458, houdende het vaststellen van de stoptekens voor opsporingsambtenaren van de Nederlandse Voedsel- en Warenautoriteit op de openbare weg en te water (Besluit stoptekens NVWA op de openbare weg en te water 2013)

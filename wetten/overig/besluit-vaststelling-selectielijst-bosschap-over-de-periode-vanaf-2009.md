@@ -8,7 +8,7 @@ laatste_update: 2013-01-31
 status: geldig
 toestand: 2013-01-31
 bron: "https://wetten.overheid.nl/BWBR0032809"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit vaststelling selectielijst Bosschap over de periode vanaf 2009

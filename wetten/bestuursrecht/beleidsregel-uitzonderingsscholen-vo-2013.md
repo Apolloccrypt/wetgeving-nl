@@ -9,7 +9,7 @@ laatste_update: 2023-08-01
 status: geldig
 toestand: 2023-08-01
 bron: "https://wetten.overheid.nl/BWBR0032538"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Beleidsregel van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 7 december 2012, nr. VO/440230, houdende regels omtrent instandhouding dan wel bekostiging van scholen onder de opheffingsnorm in verband met een uitzonderlijke situatie

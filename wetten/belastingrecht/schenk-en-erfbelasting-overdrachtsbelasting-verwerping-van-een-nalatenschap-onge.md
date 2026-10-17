@@ -8,7 +8,7 @@ laatste_update: 2013-04-04
 status: geldig
 toestand: 2013-04-04
 bron: "https://wetten.overheid.nl/BWBR0033118"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Schenk- en erfbelasting, overdrachtsbelasting, verwerping van een nalatenschap, ongelukkige redactie testament, vergeten testament, informele wil

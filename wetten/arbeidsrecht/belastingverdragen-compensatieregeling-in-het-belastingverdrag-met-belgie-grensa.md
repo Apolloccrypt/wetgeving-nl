@@ -8,7 +8,7 @@ laatste_update: 2013-03-29
 status: geldig
 toestand: 2013-03-29
 bron: "https://wetten.overheid.nl/BWBR0033101"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Belastingverdragen, compensatieregeling in het belastingverdrag met België, grensarbeiders

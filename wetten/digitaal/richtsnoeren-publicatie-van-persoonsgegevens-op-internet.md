@@ -8,7 +8,7 @@ laatste_update: 2007-12-11
 status: geldig
 toestand: 2007-12-11
 bron: "https://wetten.overheid.nl/BWBR0033229"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Richtsnoeren publicatie van persoonsgegevens op internet

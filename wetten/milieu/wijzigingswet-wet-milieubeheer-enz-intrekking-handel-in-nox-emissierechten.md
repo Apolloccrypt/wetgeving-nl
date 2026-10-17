@@ -9,7 +9,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0033232"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Wet van 28 maart 2013 tot wijziging van de Wet milieubeheer en de Wet op de economische delicten ten behoeve van de intrekking van het stelsel van handel in NOx-emissierechten (intrekking handel in NOx-emissierechten)

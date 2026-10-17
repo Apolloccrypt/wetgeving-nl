@@ -9,7 +9,7 @@ laatste_update: 2013-05-01
 status: geldig
 toestand: 2013-05-01
 bron: "https://wetten.overheid.nl/BWBR0032996"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van de directeur-generaal Dienst Uitvoering Onderwijs van 4 december 2012, nr. DUO/HD-012.098, tot verlening van ondermandaat aan de algemeen directeur van het Centraal Justitieel Incassobureau (Ondermandaatregeling CJIB)

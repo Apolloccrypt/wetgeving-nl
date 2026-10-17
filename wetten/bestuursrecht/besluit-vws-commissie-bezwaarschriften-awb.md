@@ -9,7 +9,7 @@ laatste_update: 2012-12-28
 status: geldig
 toestand: 2012-12-28
 bron: "https://wetten.overheid.nl/BWBR0032632"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit W.V.C.-commissie bezwaarschriften Awb

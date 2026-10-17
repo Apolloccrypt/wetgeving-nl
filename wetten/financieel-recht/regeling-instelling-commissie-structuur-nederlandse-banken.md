@@ -9,7 +9,7 @@ laatste_update: 2012-11-10
 status: geldig
 toestand: 2012-11-10
 bron: "https://wetten.overheid.nl/BWBR0032195"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Minister van Financiën en de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 2 november 2012 kenmerk: FM/2012/1553 M, tot instelling van de Commissie Structuur Nederlandse banken (Regeling instelling Commissie Structuur Nederlandse banken)

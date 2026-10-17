@@ -9,7 +9,7 @@ laatste_update: 2021-07-23
 status: geldig
 toestand: 2021-07-23
 bron: "https://wetten.overheid.nl/BWBR0032775"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Wet van 20 december 2012, houdende regels inzake het aanhouden van voorraden aardolieproducten (Wet voorraadvorming aardolieproducten 2012)

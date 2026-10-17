@@ -9,7 +9,7 @@ laatste_update: 2013-04-01
 status: geldig
 toestand: 2013-04-01
 bron: "https://wetten.overheid.nl/BWBR0032728"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van 19 december 2012, houdende regels inzake taken op het terrein van telecommunicatie en post en inzake vergoedingen op het terrein van post met betrekking tot Bonaire, Sint Eustatius en Saba (Besluit taken telecommunicatie en post en vergoedingen post BES)

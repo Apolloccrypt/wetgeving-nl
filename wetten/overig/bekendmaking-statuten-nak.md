@@ -8,7 +8,7 @@ laatste_update: 2007-12-14
 status: geldig
 toestand: 2007-12-14
 bron: "https://wetten.overheid.nl/BWBR0033078"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Bekendmaking statuten NAK

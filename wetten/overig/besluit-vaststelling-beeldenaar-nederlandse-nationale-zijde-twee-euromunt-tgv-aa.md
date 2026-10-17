@@ -9,7 +9,7 @@ laatste_update: 2013-02-23
 status: geldig
 toestand: 2013-02-23
 bron: "https://wetten.overheid.nl/BWBR0032928"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van 12 februari 2013, houdende vaststelling van de beeldenaar van de Nederlandse nationale zijde van de munt van twee euro die in 2013 wordt uitgegeven ter gelegenheid van de aankondiging van de afstand van de troon door Koningin Beatrix

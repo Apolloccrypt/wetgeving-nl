@@ -8,7 +8,7 @@ laatste_update: 2013-04-12
 status: geldig
 toestand: 2013-04-12
 bron: "https://wetten.overheid.nl/BWBR0033204"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit vaststelling selectielijst Wetenschappelijke Raad voor het Regeringsbeleid, over de periode vanaf 2012

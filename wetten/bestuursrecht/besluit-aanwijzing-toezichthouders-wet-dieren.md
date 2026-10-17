@@ -9,7 +9,7 @@ laatste_update: 2023-10-18
 status: geldig
 toestand: 2023-10-18
 bron: "https://wetten.overheid.nl/BWBR0032516"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van de Minister van Economische Zaken van 12 december 2012, nr. WJZ/12375497, tot aanwijzing van toezichthouders voor de Wet dieren

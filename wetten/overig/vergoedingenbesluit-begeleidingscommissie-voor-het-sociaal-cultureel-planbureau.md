@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0033002"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 7 maart 2013, nr. DMO/SVP-3155191, houdende vaststelling van de vergoedingen van de begeleidingscommissie voor het Sociaal Cultureel Planbureau (Vergoedingenbesluit begeleidingscommissie voor het Sociaal Cultureel Planbureau)

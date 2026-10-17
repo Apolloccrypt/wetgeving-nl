@@ -9,7 +9,7 @@ laatste_update: 2013-01-23
 status: geldig
 toestand: 2013-01-23
 bron: "https://wetten.overheid.nl/BWBR0032800"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 10 januari 2013, kenmerk Z- 3146008, inzake de besteedbare middelen ter dekking van de beheerskosten AWBZ 2013 (Aanwijzing besteedbare middelen beheerskosten AWBZ 2013)

@@ -9,7 +9,7 @@ laatste_update: 2013-07-01
 status: geldig
 toestand: 2013-07-01
 bron: "https://wetten.overheid.nl/BWBR0032886"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van 28 januari 2013, houdende wijziging van het Besluit justitiële en strafvorderlijke gegevens en het Besluit SUWI in verband met de aanscherping van het sanctiebeleid van de SZW-wetgeving

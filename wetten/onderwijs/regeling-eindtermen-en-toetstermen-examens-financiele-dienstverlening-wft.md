@@ -9,7 +9,7 @@ laatste_update: 2026-04-01
 status: geldig
 toestand: 2026-04-01
 bron: "https://wetten.overheid.nl/BWBR0032957"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Minister van Financiën van 26 februari 2013, kenmerk: FM 2013/372M, houdende regels tot vaststelling van de eindtermen en toetstermen voor examens financiële dienstverlening Wft (Regeling eindtermen en toetstermen examens financiële dienstverlening Wft)

@@ -9,7 +9,7 @@ laatste_update: 2013-07-01
 status: geldig
 toestand: 2013-07-01
 bron: "https://wetten.overheid.nl/BWBR0033114"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Wet van 28 maart 2013 tot wijziging van enkele socialezekerheidswetten in verband met vereenvoudiging van de uitvoering van deze wetten door de Sociale verzekeringsbank (Wet vereenvoudiging regelingen SVB)

@@ -9,7 +9,7 @@ laatste_update: 2022-11-30
 status: geldig
 toestand: 2022-11-30
 bron: "https://wetten.overheid.nl/BWBR0032719"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 21 december 2012, kenmerk PG/JFB-3147964, ter uitvoering van artikel 3, eerste lid, onderdeel a, van de Wet op het RIVM

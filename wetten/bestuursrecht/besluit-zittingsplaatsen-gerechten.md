@@ -9,7 +9,7 @@ laatste_update: 2013-04-01
 status: geldig
 toestand: 2013-04-01
 bron: "https://wetten.overheid.nl/BWBR0032316"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van 27 november 2012, houdende aanwijzing van zittingsplaatsen van rechtbanken en gerechtshoven (Besluit zittingsplaatsen gerechten)

@@ -9,7 +9,7 @@ laatste_update: 2026-07-09
 status: geldig
 toestand: 2026-07-09
 bron: "https://wetten.overheid.nl/BWBR0032215"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu van 31 oktober 2012, nr. IenM/BSK-2012/219507, houdende regels voor de bepaling van de energie-efficiëntieklasse, en voor de vaststelling van de constanten en waarden ten behoeve van de berekening van de relatieve zuinigheid van personenauto’s (Regeling relatieve zuinigheid personenauto´s)

@@ -8,7 +8,7 @@ laatste_update: 2013-03-25
 status: geldig
 toestand: 2013-03-25
 bron: "https://wetten.overheid.nl/BWBR0033067"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Gewijzigde aanvraagprocedure diploma-erkenning

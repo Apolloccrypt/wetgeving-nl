@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0032482"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu, van 12 december 2012, nr. IENM/BSK-2012/241278, houdende vaststelling beleidsregels voor de sturing van en het toezicht op de Luchtverkeersleiding Nederland (Beleidsregels sturing van en toezicht op de Luchtverkeersleiding Nederland)

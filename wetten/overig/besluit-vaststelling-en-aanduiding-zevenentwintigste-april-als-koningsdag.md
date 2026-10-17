@@ -9,7 +9,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0032908"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van 30 januari 2013, nr. 13.000173, houdende vaststelling en aanduiding van de zevenentwintigste april als Koningsdag

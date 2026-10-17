@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0032380"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van 30 november 2012 tot aanpassing van diverse besluiten aan de Politiewet 2012 (Aanpassingsbesluit Politiewet 2012)

@@ -9,7 +9,7 @@ laatste_update: 2013-03-15
 status: geldig
 toestand: 2013-03-15
 bron: "https://wetten.overheid.nl/BWBR0032900"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Minister van Economische Zaken van 15 februari 2013, nr. WJZ/13014703, houdende regels inzake de aanwijzing van publieke taken en de inrichting van het behoefte-onderbouwingsplan (Regeling behoefte-onderbouwingsplan)

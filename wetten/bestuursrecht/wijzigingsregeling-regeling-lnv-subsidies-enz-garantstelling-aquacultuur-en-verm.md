@@ -9,7 +9,7 @@ laatste_update: 2013-04-01
 status: geldig
 toestand: 2013-04-01
 bron: "https://wetten.overheid.nl/BWBR0033049"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken van 20 maart 2013, nr. WJZ/13037503, houdende wijziging van de Regeling LNV-subsidies en het Openstellingsbesluit LNV-subsidies 2013 (garantstelling aquacultuur en vermindering fijn stof)

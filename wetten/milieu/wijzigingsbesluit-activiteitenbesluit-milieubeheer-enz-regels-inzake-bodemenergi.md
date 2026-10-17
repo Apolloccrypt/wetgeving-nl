@@ -9,7 +9,7 @@ laatste_update: 2013-07-01
 status: geldig
 toestand: 2013-07-01
 bron: "https://wetten.overheid.nl/BWBR0033099"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van 25 maart 2013 tot wijziging van een aantal algemene maatregelen van bestuur in verband met regels inzake bodemenergiesystemen en enkele technische verbeteringen

@@ -8,7 +8,7 @@ laatste_update: 2021-05-07
 status: geldig
 toestand: 2021-05-07
 bron: "https://wetten.overheid.nl/BWBR0033072"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Reglement Stichting donorgegevens kunstmatige bevruchting

@@ -9,7 +9,7 @@ laatste_update: 2026-10-10
 status: geldig
 toestand: 2026-10-10
 bron: "https://wetten.overheid.nl/BWBR0053183"
-opgehaald: 2026-10-16
+opgehaald: 2026-10-17
 ---
 
 # Besluit van de Minister van Buitenlandse Handel en Ontwikkelingssamenwerking van 1 oktober 2026, nr. BZ2632256, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieprogramma Oekraïne partnerfaciliteit 2026)

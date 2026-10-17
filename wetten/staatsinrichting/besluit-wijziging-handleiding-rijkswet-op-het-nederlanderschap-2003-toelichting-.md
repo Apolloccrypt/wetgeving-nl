@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0032587"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 13 december 2012, nummer WBN 2012/9, houdende wijziging van de Handleiding voor de toepassing van de Rijkswet op het Nederlanderschap 2003

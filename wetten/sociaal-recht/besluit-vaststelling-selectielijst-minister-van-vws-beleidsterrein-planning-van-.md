@@ -8,7 +8,7 @@ laatste_update: 2013-02-13
 status: geldig
 toestand: 2013-02-13
 bron: "https://wetten.overheid.nl/BWBR0032884"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit vaststelling selectielijst minister van VWS beleidsterrein Planning van voorzieningen in de gezondheidszorg, voor de periode vanaf 1945

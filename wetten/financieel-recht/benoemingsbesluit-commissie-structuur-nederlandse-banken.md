@@ -9,7 +9,7 @@ laatste_update: 2012-11-10
 status: geldig
 toestand: 2012-11-10
 bron: "https://wetten.overheid.nl/BWBR0032207"
-opgehaald: 2026-08-18
+opgehaald: 2026-10-17
 ---
 
 # Besluit van de Minister van Financiën van 2 november 2012 kenmerk: FM/2012/1554 M, tot benoeming van en toekenning van vergoedingen aan de Commissie Structuur Nederlandse banken (Benoemingsbesluit Commissie Structuur Nederlandse banken)

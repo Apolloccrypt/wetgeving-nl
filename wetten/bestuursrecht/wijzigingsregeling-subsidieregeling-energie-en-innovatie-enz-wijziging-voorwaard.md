@@ -9,7 +9,7 @@ laatste_update: 2013-02-22
 status: geldig
 toestand: 2013-02-22
 bron: "https://wetten.overheid.nl/BWBR0032914"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Minister van Economische Zaken van 13 februari 2013, nr. WJZ/12043892, tot wijziging van de Subsidieregeling energie en innovatie ter wijziging van de voorwaarden in het programma Risico's dekken voor aardwarmte

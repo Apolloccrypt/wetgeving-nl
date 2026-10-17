@@ -9,7 +9,7 @@ laatste_update: 2012-12-08
 status: geldig
 toestand: 2012-12-08
 bron: "https://wetten.overheid.nl/BWBR0032365"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Beleidsregel van de Minister van Infrastructuur en Milieu, van 4 december 2012, nr. IENM/BSK-2012/240568, met betrekking tot de verstrekking van subsidies krachtens artikel 2, eerste lid, van de Tijdelijke subsidieregeling Inland AIS-apparaten binnenvaart

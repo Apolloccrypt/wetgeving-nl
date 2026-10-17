@@ -9,7 +9,7 @@ laatste_update: 2006-02-16
 status: geldig
 toestand: 2006-02-16
 bron: "https://wetten.overheid.nl/BWBR0033053"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Beleidsregel Tarieventabel Handhaving Centraal Bureau voor de Statistiek

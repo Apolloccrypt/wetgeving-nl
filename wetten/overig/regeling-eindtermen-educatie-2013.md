@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0032543"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 12 december 2012, nr. BVE/431518, inzake het vaststellen van de eindtermen voor de opleidingen Nederlands als tweede taal en de opleidingen Nederlandse taal en rekenen (Regeling eindtermen educatie 2013)

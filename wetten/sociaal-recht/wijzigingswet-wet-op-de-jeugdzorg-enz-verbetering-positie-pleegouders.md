@@ -9,7 +9,7 @@ laatste_update: 2014-02-15
 status: geldig
 toestand: 2014-02-15
 bron: "https://wetten.overheid.nl/BWBR0032950"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Wet van 6 december 2012 tot wijziging van de Wet op de jeugdzorg en Boek 1 van het Burgerlijk Wetboek, de Algemene Kinderbijslagwet en de Wet Landelijk Bureau Inning Onderhoudsbijdragen alsmede enige andere wetten in verband met de verbetering van de positie van pleegouders (verbetering positie pleegouders)

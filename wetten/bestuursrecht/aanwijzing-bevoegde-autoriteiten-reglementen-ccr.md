@@ -9,7 +9,7 @@ laatste_update: 2026-10-10
 status: geldig
 toestand: 2026-10-10
 bron: "https://wetten.overheid.nl/BWBR0019146"
-opgehaald: 2026-10-16
+opgehaald: 2026-10-17
 ---
 
 # Regeling van 2 december 2005, nr. HDJZ/SCH/2005-2257, Hoofddirectie Juridische Zaken, houdende het aanwijzen van de bevoegde autoriteiten van de reglementen van de Centrale Commissie voor de Rijnvaart (Aanwijzing bevoegde autoriteiten reglementen CCR)

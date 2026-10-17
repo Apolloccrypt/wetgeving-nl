@@ -9,7 +9,7 @@ laatste_update: 2013-03-02
 status: geldig
 toestand: 2013-03-02
 bron: "https://wetten.overheid.nl/BWBR0032951"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van het Stimuleringsfonds voor de pers van 20 februari 2013, nr. 22928, tot vaststelling van een Tijdelijke subsidieregeling Persinnovatie 2013

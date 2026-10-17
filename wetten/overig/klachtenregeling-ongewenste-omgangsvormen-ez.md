@@ -9,7 +9,7 @@ laatste_update: 2018-05-25
 status: geldig
 toestand: 2018-05-25
 bron: "https://wetten.overheid.nl/BWBR0032969"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Minister van Economische Zaken van 4 maart 2013, nr. WJZ/12097016, houdende de aanwijzing van vertrouwenspersonen en de instelling van een klachtencommissie ongewenste omgangsvormen bij het Ministerie van Economische Zaken en de vaststelling van de Werkwijze ongewenste omgangsvormen (Klachtenregeling ongewenste omgangsvormen EZ)

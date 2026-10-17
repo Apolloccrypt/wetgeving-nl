@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0032718"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van de Minister van Financiën, mede namens de Minister van Veiligheid en Justitie, van 21 december 2012, kenmerk: FM 2012-1985 M, tot aanwijzing van toezichtautoriteiten in de zin van de Wet ter voorkoming van witwassen en financieren van terrorisme BES en bekendmaking van de mandaatverlening inzake handhaving en sanctionering van die wet

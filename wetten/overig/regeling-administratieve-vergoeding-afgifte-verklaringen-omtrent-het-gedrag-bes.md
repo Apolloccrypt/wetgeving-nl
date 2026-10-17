@@ -9,7 +9,7 @@ laatste_update: 2013-02-15
 status: geldig
 toestand: 2013-02-15
 bron: "https://wetten.overheid.nl/BWBR0032896"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Staatssecretaris van Veiligheid en Justitie van 12 februari 2013, nr. 348025, tot vaststelling van de administratieve vergoeding voor de afgifte van verklaringen omtrent het gedrag BES (Regeling administratieve vergoeding afgifte verklaringen omtrent het gedrag BES)

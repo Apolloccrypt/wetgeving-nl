@@ -9,7 +9,7 @@ laatste_update: 2024-02-16
 status: geldig
 toestand: 2024-02-16
 bron: "https://wetten.overheid.nl/BWBR0033092"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Regeling van de Minister van Economische Zaken van 15 maart 2013, nr. WJZ/12351247, houdende regels omtrent het uitwisselen van gegevens tussen de Autoriteit Consument en Markt en de Minister van Economische Zaken en de Minister van Infrastructuur en Milieu (Regeling gegevensuitwisseling ACM en ministers)

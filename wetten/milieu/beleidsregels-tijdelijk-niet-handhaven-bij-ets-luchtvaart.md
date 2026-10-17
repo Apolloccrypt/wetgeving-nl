@@ -9,7 +9,7 @@ laatste_update: 2013-03-20
 status: geldig
 toestand: 2013-03-20
 bron: "https://wetten.overheid.nl/BWBR0033014"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Milieu, van 18 maart 2013, nr. IENM/BSK-2013/47385, houdende vaststelling van beleidsregels voor het bestuur van de Nederlandse emissieautoriteit inzake het tijdelijk afzien van handhaving van de regels voor de handel in broeikasgasemissierechten met betrekking tot bepaalde luchtvaartactiviteiten (Beleidsregels tijdelijk niet-handhaven bij ETS luchtvaart)

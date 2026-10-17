@@ -9,7 +9,7 @@ laatste_update: 2013-01-19
 status: geldig
 toestand: 2013-01-19
 bron: "https://wetten.overheid.nl/BWBR0032759"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van 7 januari 2013, nr. 13.000001, houdende departementale herindeling met betrekking tot dierproeven

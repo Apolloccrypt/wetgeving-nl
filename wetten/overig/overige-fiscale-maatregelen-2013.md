@@ -9,7 +9,7 @@ laatste_update: 2015-06-19
 status: geldig
 toestand: 2015-06-19
 bron: "https://wetten.overheid.nl/BWBR0032671"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Wet van 20 december 2012 tot wijziging van enkele belastingwetten en enige andere wetten (Overige fiscale maatregelen 2013)

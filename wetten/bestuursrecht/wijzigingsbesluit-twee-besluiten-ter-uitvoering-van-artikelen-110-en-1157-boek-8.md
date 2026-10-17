@@ -9,7 +9,7 @@ laatste_update: 2013-03-14
 status: geldig
 toestand: 2013-03-14
 bron: "https://wetten.overheid.nl/BWBR0032985"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-17
 ---
 
 # Besluit van 26 februari 2013 tot wijziging van twee besluiten ter uitvoering van de artikelen 110 en 1157 van Boek 8 van het Burgerlijk Wetboek in verband met de uitvoering van Verordening (EU) Nr. 181/2011 van het Europees Parlement en de Raad van 16 februari 2011 betreffende de rechten van autobus- en touringcarpassagiers en tot wijziging van Verordening (EG) nr. 2006/2004 (Pb EU L 55)
