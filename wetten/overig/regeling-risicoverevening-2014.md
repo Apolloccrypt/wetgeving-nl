@@ -9,7 +9,7 @@ laatste_update: 2015-02-10
 status: geldig
 toestand: 2015-02-10
 bron: "https://wetten.overheid.nl/BWBR0033959"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport, van 20 september 2013, kenmerk Z-151938-110091, houdende bepalingen omtrent de in de Zorgverzekeringswet bedoelde vereveningsbijdrage voor het jaar 2014 (Regeling risicoverevening 2014)

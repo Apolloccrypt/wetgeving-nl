@@ -8,7 +8,7 @@ laatste_update: 2009-07-14
 status: geldig
 toestand: 2009-07-14
 bron: "https://wetten.overheid.nl/BWBR0033241"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-18
 ---
 
 # Beleidsregel CBP richtsnoeren ANPR

@@ -8,7 +8,7 @@ laatste_update: 2014-02-01
 status: geldig
 toestand: 2014-02-01
 bron: "https://wetten.overheid.nl/BWBR0034270"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Reglement inzake de advisering van de Commissie beëdigde tolken en vertalers

@@ -9,7 +9,7 @@ laatste_update: 2015-04-03
 status: geldig
 toestand: 2015-04-03
 bron: "https://wetten.overheid.nl/BWBR0034229"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van het Commissariaat voor de Media van 5 november 2013 houdende regels voor de landelijke publieke media-instellingen omtrent ledenvoordelen en ledenwerfactiviteiten als bedoeld in artikel 2.137, eerste lid, van de Mediawet 2008, en omtrent oproepen in het kader van ledenwerving als bedoeld in artikel 2.90 van de Mediawet 2008 (Regeling ledenvoordelen en ledenwerfactiviteiten)

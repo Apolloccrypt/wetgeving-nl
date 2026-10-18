@@ -9,7 +9,7 @@ laatste_update: 2013-07-23
 status: geldig
 toestand: 2013-07-23
 bron: "https://wetten.overheid.nl/BWBR0033699"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Beleidsregel van de Staatssecretaris van Economische Zaken van 12 juli 2013, nr. WJZ / 13117209, houdende gevallen waarin ontheffing van het visverbod zal worden verleend ten behoeve van het overzetten van aal op locaties die de uittrek naar zee bemoeilijken (Beleidsregel ontheffing overzetten aal)

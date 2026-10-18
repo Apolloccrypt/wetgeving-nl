@@ -9,7 +9,7 @@ laatste_update: 2020-10-28
 status: geldig
 toestand: 2020-10-28
 bron: "https://wetten.overheid.nl/BWBR0034083"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Beleidsregel van de minister van Infrastructuur en Milieu en de minister van Sociale Zaken en Werkgelegenheid van 16 augustus 2013, nr. ILT-2013/22979.01 betreffende boeteoplegging Arbeidstijdenwet en Arbeidstijdenbesluit vervoer (binnenvaart)

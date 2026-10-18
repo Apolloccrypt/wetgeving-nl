@@ -8,7 +8,7 @@ laatste_update: 2013-12-15
 status: geldig
 toestand: 2013-12-15
 bron: "https://wetten.overheid.nl/BWBR0034365"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit vaststelling selectielijst Bedrijfschap Horeca en Catering over de periode vanaf 1954

@@ -8,7 +8,7 @@ laatste_update: 2012-10-01
 status: geldig
 toestand: 2012-10-01
 bron: "https://wetten.overheid.nl/BWBR0033511"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Reglement erkenning leerbedrijven van het Kenniscentrum Beroepsonderwijs Bedrijfsleven van SVO

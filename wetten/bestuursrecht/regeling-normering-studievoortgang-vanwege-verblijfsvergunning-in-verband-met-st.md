@@ -9,7 +9,7 @@ laatste_update: 2013-06-14
 status: geldig
 toestand: 2013-06-14
 bron: "https://wetten.overheid.nl/BWBR0033515"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 17 mei 2013, nr. HO&S/504498, houdende de normering van de studievoortgang voor buitenlandse studenten met een verblijfsvergunning in verband met studie (Regeling normering studievoortgang vanwege verblijfsvergunning in verband met studie)

@@ -9,7 +9,7 @@ laatste_update: 2022-02-18
 status: geldig
 toestand: 2022-02-18
 bron: "https://wetten.overheid.nl/BWBR0034301"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van de Minister van Economische Zaken van 29 november 2013, nr. WJZ/13175315, houdende aanwijzing en taakvervulling toezichthouders Kernenergiewet 2013 (Besluit aanwijzing toezichthouders en taakvervulling Kernenergiewet 2013)

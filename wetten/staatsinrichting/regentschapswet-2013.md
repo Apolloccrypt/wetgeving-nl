@@ -9,7 +9,7 @@ laatste_update: 2013-12-18
 status: geldig
 toestand: 2013-12-18
 bron: "https://wetten.overheid.nl/BWBR0034366"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Rijkswet van 4 december 2013 tot benoeming van een regent voor het geval van erfopvolging door de Koning die niet de leeftijd van achttien jaar heeft bereikt

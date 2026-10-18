@@ -8,7 +8,7 @@ laatste_update: 2013-06-17
 status: geldig
 toestand: 2013-06-17
 bron: "https://wetten.overheid.nl/BWBR0033519"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling registratie en verstrekking gegevens militaire luchthavens

@@ -9,7 +9,7 @@ laatste_update: 2015-01-30
 status: geldig
 toestand: 2015-01-30
 bron: "https://wetten.overheid.nl/BWBR0033664"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Wet van 3 juli 2013 tot wijziging van de Kieswet houdende maatregelen om het eenvoudiger te maken voor Nederlanders in het buitenland om hun stem uit te brengen, wijziging van de wijze van inlevering van de kandidatenlijsten, aanpassing van de datum van kandidaatstelling en stemming, alsmede regeling van andere onderwerpen

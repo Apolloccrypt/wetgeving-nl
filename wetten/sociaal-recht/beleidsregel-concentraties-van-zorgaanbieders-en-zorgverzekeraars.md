@@ -9,7 +9,7 @@ laatste_update: 2013-07-16
 status: geldig
 toestand: 2013-07-16
 bron: "https://wetten.overheid.nl/BWBR0033674"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Beleidsregel van de Minister van Economische Zaken van 5 juli 2013, nr. WJZ/13118300, houdende bijzondere regels betreffende concentraties van zorgaanbieders en zorgverzekeraars

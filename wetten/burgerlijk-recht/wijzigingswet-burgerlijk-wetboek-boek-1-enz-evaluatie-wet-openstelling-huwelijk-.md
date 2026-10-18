@@ -9,7 +9,7 @@ laatste_update: 2014-04-01
 status: geldig
 toestand: 2014-04-01
 bron: "https://wetten.overheid.nl/BWBR0034302"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Wet van 27 november 2013 tot wijziging van het Burgerlijk Wetboek en het Wetboek van Burgerlijke Rechtsvordering mede in verband met de evaluatie van de Wet openstelling huwelijk en de Wet geregistreerd partnerschap

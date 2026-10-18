@@ -9,7 +9,7 @@ laatste_update: 2013-10-01
 status: geldig
 toestand: 2013-10-01
 bron: "https://wetten.overheid.nl/BWBR0033954"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 23 september 2013, nr. 143378-108878, houdende wijziging Subsidieregeling publieke gezondheid voor het jaar 2014

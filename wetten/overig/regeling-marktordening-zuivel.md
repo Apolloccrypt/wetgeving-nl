@@ -9,7 +9,7 @@ laatste_update: 2021-10-01
 status: geldig
 toestand: 2021-10-01
 bron: "https://wetten.overheid.nl/BWBR0034303"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken van 2 december 2013, nr. WJZ/13199378, houdende de uitvoering van de Europese marktordening voor zuivel (Regeling marktordening zuivel)

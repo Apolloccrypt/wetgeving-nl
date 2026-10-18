@@ -9,7 +9,7 @@ laatste_update: 2013-08-22
 status: geldig
 toestand: 2013-08-22
 bron: "https://wetten.overheid.nl/BWBR0033777"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 9 augustus 2013, nr. FEZ/530622, houdende wijziging van het Besluit instelling Audit Committee OCW 2010 in verband met de vaststelling van een vergoeding voor de niet-ambtelijke leden

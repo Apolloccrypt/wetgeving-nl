@@ -9,7 +9,7 @@ laatste_update: 2014-04-01
 status: geldig
 toestand: 2014-04-01
 bron: "https://wetten.overheid.nl/BWBR0034284"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu, van 4 december 2013, nr. IENM/BSK-2013/142441, tot wijziging van de Regeling coderingen beperkingen rijbevoegdheid en enkele andere ministeriële regelingen in verband met de implementatie van richtlijn nr. 2012/36/EU

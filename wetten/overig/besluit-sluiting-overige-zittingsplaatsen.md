@@ -9,7 +9,7 @@ laatste_update: 2013-11-01
 status: geldig
 toestand: 2013-11-01
 bron: "https://wetten.overheid.nl/BWBR0034124"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van de Minister van Veiligheid en Justitie van 22 oktober 2013, nr. 439394, houdende toepassing van artikel 21b, tweede lid, van de Wet op de rechterlijke organisatie (Besluit sluiting overige zittingsplaatsen)

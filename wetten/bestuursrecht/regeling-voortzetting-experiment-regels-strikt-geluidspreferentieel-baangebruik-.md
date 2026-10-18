@@ -9,7 +9,7 @@ laatste_update: 2013-07-13
 status: geldig
 toestand: 2013-07-13
 bron: "https://wetten.overheid.nl/BWBR0033661"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 9 juli 2013, nr. IenM/BSK-2013/129725, tot voortzetting van het experiment met de regels voor het strikt geluidspreferentieel baangebruik volgens het nieuwe normen- en handhavingstelsel voor de luchthaven Schiphol

@@ -9,7 +9,7 @@ laatste_update: 2026-05-14
 status: geldig
 toestand: 2026-05-14
 bron: "https://wetten.overheid.nl/BWBR0033694"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van 3 juli 2013, houdende hernieuwde vaststelling van de rechtspositie van de gezaghebbers, eilandgedeputeerden en eilandsraadsleden in Caribisch Nederland (Rechtspositiebesluit politieke gezagdragers BES)

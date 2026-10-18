@@ -9,7 +9,7 @@ laatste_update: 2022-07-06
 status: geldig
 toestand: 2022-07-06
 bron: "https://wetten.overheid.nl/BWBR0033648"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu, van 3 juli 2013, nr. IENM/BSK-2013/40752, houdende vaststelling van een regeling met betrekking tot routeringssystemen voor schepen op volle zee voor de Nederlands kust (Regeling routerings- en meldingssystemen voor schepen in volle zee voor de Nederlandse kust)

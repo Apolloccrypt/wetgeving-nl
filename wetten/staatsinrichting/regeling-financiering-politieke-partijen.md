@@ -9,7 +9,7 @@ laatste_update: 2025-04-01
 status: geldig
 toestand: 2025-04-01
 bron: "https://wetten.overheid.nl/BWBR0033335"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-18
 ---
 
 # Regeling van 19 april 2013, nr. 2013-0000217521, houdende vaststelling van regels over de reikwijdte, de intensiteit en de verslaglegging van het onderzoek van de accountant en eisen aan de inrichting van het activiteitenplan en de begroting (Regeling financiering politieke partijen)

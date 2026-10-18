@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0034129"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Beschikking van de Minister van Economische Zaken van 17 oktober 2013, nr. 13174565 tot verlening van de concessie voor postdienstverlening voor Caribisch Nederland

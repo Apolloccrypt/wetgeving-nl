@@ -9,7 +9,7 @@ laatste_update: 2020-01-25
 status: geldig
 toestand: 2020-01-25
 bron: "https://wetten.overheid.nl/BWBR0033439"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 16 mei 2013, nr. 382509, houdende instelling van de Financial Intelligence Unit – Nederland (Instellingsbesluit FIU-Nederland 2013)

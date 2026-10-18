@@ -9,7 +9,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0034415"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 6 december 2013, nr. DPO/576040, houdende regels met betrekking tot de adviescommissie ten behoeve van de beslissing op bezwaarschriften van personeel van het ministerie van Onderwijs, Cultuur en Wetenschap (Besluit Adviescommissie Bezwaarschriftprocedure Personeel OCW 2013)

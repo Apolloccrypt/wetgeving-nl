@@ -9,7 +9,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0034392"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Staatssecretaris van Veiligheid en Justitie van 9 december 2013, nr. 459232, houdende vaststelling van regels inzake de verlenging van de inschrijving in het register voor beëdigde tolken en vertalers indien niet aan één van de vereisten voor verlenging van de inschrijving wordt voldaan (Regeling verlenging inschrijving Rbtv)

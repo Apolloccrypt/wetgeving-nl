@@ -9,7 +9,7 @@ laatste_update: 2013-11-22
 status: geldig
 toestand: 2013-11-22
 bron: "https://wetten.overheid.nl/BWBR0034187"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van de Minister van Veiligheid en Justitie tot beperking van de openbaarheid van het naar het Nationaal Archief over te brengen archief ‘Vreemdelingendossiers van de Immigratie- en Naturalisatiedienst, 1973–2005’ (Besluit beperking openbaarheid)

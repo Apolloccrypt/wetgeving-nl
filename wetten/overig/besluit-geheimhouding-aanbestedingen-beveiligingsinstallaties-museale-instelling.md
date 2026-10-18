@@ -9,7 +9,7 @@ laatste_update: 2013-06-14
 status: geldig
 toestand: 2013-06-14
 bron: "https://wetten.overheid.nl/BWBR0033517"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 23 mei 2013, nr. MLB/508316, tot geheimhouding aanbestedingen met betrekking tot beveiligingsinstallaties museale instellingen 2013

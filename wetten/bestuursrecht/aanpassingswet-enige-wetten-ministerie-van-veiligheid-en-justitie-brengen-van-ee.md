@@ -9,7 +9,7 @@ laatste_update: 2015-07-01
 status: geldig
 toestand: 2015-07-01
 bron: "https://wetten.overheid.nl/BWBR0034188"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Wet van 6 november 2013 tot aanpassing van enige wetten op het terrein van het Ministerie van Veiligheid en Justitie teneinde een aantal zelfstandige bestuursorganen onder de werking van de Kaderwet zelfstandige bestuursorganen te brengen

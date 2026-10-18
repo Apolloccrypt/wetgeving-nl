@@ -9,7 +9,7 @@ laatste_update: 2013-11-21
 status: geldig
 toestand: 2013-11-21
 bron: "https://wetten.overheid.nl/BWBR0034208"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Wet van 6 november 2013 tot wijziging van de Wet gewasbeschermingsmiddelen en biociden ter uitvoering van Verordening (EU) Nr. 528/2012 van het Europees Parlement en de Raad van 22 mei 2012 betreffende het op de markt aanbieden en het gebruik van biociden

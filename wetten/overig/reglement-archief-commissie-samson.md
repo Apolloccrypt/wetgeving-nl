@@ -9,7 +9,7 @@ laatste_update: 2015-12-11
 status: geldig
 toestand: 2015-12-11
 bron: "https://wetten.overheid.nl/BWBR0033667"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 10 juli 2013, nr. 407207 tot vaststelling van een reglement inzake de organisatie en het beheer van het archief van de commissie Samson (Reglement archief commissie Samson)

@@ -9,7 +9,7 @@ laatste_update: 2026-04-22
 status: geldig
 toestand: 2026-04-22
 bron: "https://wetten.overheid.nl/BWBR0033649"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Milieu van 9 juli 2013, nr. IENM/BSK-2013/127535, houdende aanwijzing van toezichthouders en opsporingsambtenaren bij de Inspectie Leefomgeving en Transport betreffende vervoerswetgeving (Besluit aanwijzing toezichthouders en opsporingsambtenaren Inspectie Leefomgeving en Transport betreffende vervoerswetgeving)

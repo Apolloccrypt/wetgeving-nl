@@ -9,7 +9,7 @@ laatste_update: 2014-11-01
 status: geldig
 toestand: 2014-11-01
 bron: "https://wetten.overheid.nl/BWBR0033474"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-18
 ---
 
 # Wet van 15 mei 2013 tot intrekking van de Wet op de Raad voor de Wadden en de Wet op het Waddenfonds

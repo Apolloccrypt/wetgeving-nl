@@ -9,7 +9,7 @@ laatste_update: 2024-10-01
 status: geldig
 toestand: 2024-10-01
 bron: "https://wetten.overheid.nl/BWBR0033613"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Staatssecretaris van Veiligheid en Justitie van 24 juni 2013, kenmerk 399920, tot uitvoering van de Wet op de kansspelen (Regeling werving, reclame en verslavingspreventie kansspelen)

@@ -8,7 +8,7 @@ laatste_update: 2018-04-07
 status: geldig
 toestand: 2018-04-07
 bron: "https://wetten.overheid.nl/BWBR0033369"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-18
 ---
 
 # Instellingsbesluit Commissie van Toezicht Stichting Diergeneesmiddelenautoriteit

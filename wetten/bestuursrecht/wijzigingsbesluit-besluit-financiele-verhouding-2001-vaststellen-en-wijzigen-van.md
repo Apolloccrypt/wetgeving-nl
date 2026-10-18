@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0033867"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van 30 augustus 2013 tot wijziging van het Besluit financiële verhouding 2001 in verband met het vaststellen en wijzigen van enkele verdeelmaatstaven (2013)

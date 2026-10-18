@@ -9,7 +9,7 @@ laatste_update: 2018-02-02
 status: geldig
 toestand: 2018-02-02
 bron: "https://wetten.overheid.nl/BWBR0034079"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Beleidsregel van de Minister van Infrastructuur en Milieu en de voorzitter van de commissie van deskundigen van 14 oktober 2013, nr. ILT-2013/39422 betreffende een nadere invulling van de technische eisen die gelden in het kader van de afgifte van certificaten van onderzoek voor binnenvaartschepen op grond van de Binnenvaartwet (Beleidsregel Binnenvaart 2013)

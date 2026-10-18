@@ -9,7 +9,7 @@ laatste_update: 2013-09-01
 status: geldig
 toestand: 2013-09-01
 bron: "https://wetten.overheid.nl/BWBR0033666"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van 20 juni 2013, nr. AEP/13110576, houdende vaststelling van een vergoeding voor de voorzitter en leden van de Commissie Maatschappelijk verantwoord bestuur en toezicht in semipublieke sectoren

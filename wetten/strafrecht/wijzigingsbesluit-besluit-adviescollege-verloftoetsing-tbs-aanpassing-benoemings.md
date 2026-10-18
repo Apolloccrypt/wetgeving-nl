@@ -9,7 +9,7 @@ laatste_update: 2013-10-19
 status: geldig
 toestand: 2013-10-19
 bron: "https://wetten.overheid.nl/BWBR0034030"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 10 oktober 2013, nr. 430393, houdende wijziging van het Besluit Adviescollege Verloftoetsing tbs in verband met een aanpassing van de benoemings- en herbenoemingstermijn van de voorzitter, de leden en de plaatsvervangende leden

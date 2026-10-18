@@ -9,7 +9,7 @@ laatste_update: 2013-05-04
 status: geldig
 toestand: 2013-05-04
 bron: "https://wetten.overheid.nl/BWBR0033362"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken van 26 april 2013, nr. WJZ/13073193, houdende de instelling van een criminele-inlichtingeneenheid NVWA-IOD (Regeling instelling criminele-inlichtingeneenheid NVWA-IOD)

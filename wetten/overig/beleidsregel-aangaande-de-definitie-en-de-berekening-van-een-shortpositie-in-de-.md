@@ -9,7 +9,7 @@ laatste_update: 2013-07-01
 status: geldig
 toestand: 2013-07-01
 bron: "https://wetten.overheid.nl/BWBR0033615"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Beleidsregel van de Stichting Autoriteit Financiële Markten aangaande de definitie en de berekening van een shortpositie in de zin van de Wft

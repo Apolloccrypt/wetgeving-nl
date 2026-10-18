@@ -8,7 +8,7 @@ laatste_update: 2013-08-17
 status: geldig
 toestand: 2013-08-17
 bron: "https://wetten.overheid.nl/BWBR0033762"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Uitgiftebeleid geografische nummers

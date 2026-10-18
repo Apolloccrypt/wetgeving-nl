@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0033711"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van 16 juli 2013, houdende regels tot vaststelling van de vergoeding voor bewindvoerders benoemd in de schuldsaneringsregeling natuurlijke personen (Besluit vergoeding bewindvoerder schuldsanering)

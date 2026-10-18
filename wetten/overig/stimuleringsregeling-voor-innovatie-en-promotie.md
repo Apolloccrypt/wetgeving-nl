@@ -8,7 +8,7 @@ laatste_update: 2013-11-03
 status: geldig
 toestand: 2013-11-03
 bron: "https://wetten.overheid.nl/BWBR0034135"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Stimuleringsregeling voor innovatie en promotie

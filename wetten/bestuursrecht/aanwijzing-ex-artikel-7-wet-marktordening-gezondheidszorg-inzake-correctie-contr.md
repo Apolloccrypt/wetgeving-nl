@@ -9,7 +9,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0034134"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 22 oktober 2013, kenmerk 160023-111761-MC, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake correctie contracteerruimte AWBZ 2013 met betrekking tot geriatrische revalidatiezorg

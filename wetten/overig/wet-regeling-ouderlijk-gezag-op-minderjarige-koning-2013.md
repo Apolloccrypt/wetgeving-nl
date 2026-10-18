@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0034369"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Wet van 4 december 2013, houdende regeling van het ouderlijk gezag over de minderjarige Koning en het toezicht daarop

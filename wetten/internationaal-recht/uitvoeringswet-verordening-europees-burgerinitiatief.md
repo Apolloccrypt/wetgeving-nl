@@ -9,7 +9,7 @@ laatste_update: 2020-04-01
 status: geldig
 toestand: 2020-04-01
 bron: "https://wetten.overheid.nl/BWBR0033716"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Wet van 10 juli 2013, houdende regels tot uitvoering van de Verordening (EU) nr. 211/2011 van het Europees Parlement en de Raad van 16 februari 2011 over het burgerinitiatief (PbEU 2011, L 65) (Uitvoeringswet verordening Europees burgerinitiatief)

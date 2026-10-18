@@ -9,7 +9,7 @@ laatste_update: 2015-01-06
 status: geldig
 toestand: 2015-01-06
 bron: "https://wetten.overheid.nl/BWBR0034333"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van 28 november 2013, houdende aanpassing van algemene maatregelen van bestuur in verband met de Wet basisregistratie personen (Aanpassingsbesluit basisregistratie personen)

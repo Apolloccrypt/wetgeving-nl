@@ -9,7 +9,7 @@ laatste_update: 2013-10-01
 status: geldig
 toestand: 2013-10-01
 bron: "https://wetten.overheid.nl/BWBR0033953"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Wet van 11 september 2013 tot wijziging van de Leerplichtwet 1969 en de Wet op het onderwijstoezicht in verband met de registratie van vrijstellingen en vervangende leerplicht

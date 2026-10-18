@@ -9,7 +9,7 @@ laatste_update: 2013-09-01
 status: geldig
 toestand: 2013-09-01
 bron: "https://wetten.overheid.nl/BWBR0033693"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Wet van 10 juli 2013 tot wijziging van de Wet op het hoger onderwijs en wetenschappelijk onderzoek en enkele andere wetten in verband met de uitvoering van diverse maatregelen, aangekondigd in de Strategische Agenda Hoger onderwijs, Onderzoek en Wetenschap (Wet Kwaliteit in verscheidenheid hoger onderwijs)

@@ -9,7 +9,7 @@ laatste_update: 2018-11-14
 status: geldig
 toestand: 2018-11-14
 bron: "https://wetten.overheid.nl/BWBR0033761"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 12 augustus 2013, 2013-0000110985, tot cofinanciering van sectorplannen (Regeling cofinanciering sectorplannen)

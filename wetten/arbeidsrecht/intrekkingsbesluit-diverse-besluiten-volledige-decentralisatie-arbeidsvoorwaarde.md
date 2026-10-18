@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0034196"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van 6 november 2013, houdende intrekking van diverse besluiten in verband met volledige decentralisatie van de arbeidsvoorwaarden in het PO

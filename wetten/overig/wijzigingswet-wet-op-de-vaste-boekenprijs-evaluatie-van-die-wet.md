@@ -9,7 +9,7 @@ laatste_update: 2013-07-01
 status: geldig
 toestand: 2013-07-01
 bron: "https://wetten.overheid.nl/BWBR0033277"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-18
 ---
 
 # Wet van 7 februari 2013 tot wijziging van de Wet op de vaste boekenprijs in verband met de evaluatie van die wet

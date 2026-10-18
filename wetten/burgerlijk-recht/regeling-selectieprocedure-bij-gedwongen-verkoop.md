@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0034216"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Minister van Economische Zaken van 19 november 2013, nr. WJZ/13185763, tot het vaststellen van een selectieprocedure bij gedwongen verkoop (Regeling selectieprocedure bij gedwongen verkoop)

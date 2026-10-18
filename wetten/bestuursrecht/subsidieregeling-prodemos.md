@@ -9,7 +9,7 @@ laatste_update: 2021-10-29
 status: geldig
 toestand: 2021-10-29
 bron: "https://wetten.overheid.nl/BWBR0033558"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 10 juni 2013, nr. 2013-0000329553, houdende regels voor de subsidiëring van het Huis voor democratie en rechtsstaat (Subsidieregeling ProDemos)

@@ -8,7 +8,7 @@ laatste_update: 2013-08-06
 status: geldig
 toestand: 2013-08-06
 bron: "https://wetten.overheid.nl/BWBR0033746"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Beschikking totalisator 2013

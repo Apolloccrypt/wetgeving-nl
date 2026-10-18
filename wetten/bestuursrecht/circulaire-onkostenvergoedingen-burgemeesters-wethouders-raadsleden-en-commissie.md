@@ -9,7 +9,7 @@ laatste_update: 2013-12-10
 status: geldig
 toestand: 2013-12-10
 bron: "https://wetten.overheid.nl/BWBR0034315"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Circulaire van 29 november 2013, nr. 2013-0000685101, inhoudende wijzigingen van de bedragen per 1 januari 2014 van de (onkosten)vergoedingen voor burgemeesters, wethouders, raadsleden en commissieleden

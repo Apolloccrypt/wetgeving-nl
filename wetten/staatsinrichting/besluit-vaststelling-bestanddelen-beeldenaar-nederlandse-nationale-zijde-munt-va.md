@@ -9,7 +9,7 @@ laatste_update: 2013-12-07
 status: geldig
 toestand: 2013-12-07
 bron: "https://wetten.overheid.nl/BWBR0034298"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van 25 november 2013, houdende vaststelling van de bestanddelen van de beeldenaar van de Nederlandse nationale zijde van de munt van twee-euro die in 2013 wordt uitgegeven ter gelegenheid van 200 jaar Koninkrijk der Nederlanden

@@ -9,7 +9,7 @@ laatste_update: 2013-09-22
 status: geldig
 toestand: 2013-09-22
 bron: "https://wetten.overheid.nl/BWBR0033950"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw van 19 mei 2011, houdende de vaststelling van een aan telers van bloembollen op te leggen heffing voor het oogstjaar 2011 (Verordening PT areaalheffing bloembollen oogstjaar 2011)

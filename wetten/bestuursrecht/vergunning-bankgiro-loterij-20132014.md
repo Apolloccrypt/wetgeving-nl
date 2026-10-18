@@ -8,7 +8,7 @@ laatste_update: 2014-07-18
 status: geldig
 toestand: 2014-07-18
 bron: "https://wetten.overheid.nl/BWBR0033744"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Vergunning BankGiro Loterij 2013/2014

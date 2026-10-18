@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0033586"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Wet van 12 juni 2013 tot wijziging van de Wet op het financieel toezicht, het Burgerlijk Wetboek, de Wet op de economische delicten en enige fiscale wetten ter implementatie van richtlijn nr. 2011/61/EU van het Europees Parlement en de Raad van de Europese Unie van 8 juni 2011 inzake beheerders van alternatieve beleggingsinstellingen en tot wijziging van de Richtlijnen 2003/41/EG en 2009/65/EG en van de Verordeningen (EG) Nr. 1060/2009 en (EU) Nr. 1095/2010 (PbEU 2011, L 174)

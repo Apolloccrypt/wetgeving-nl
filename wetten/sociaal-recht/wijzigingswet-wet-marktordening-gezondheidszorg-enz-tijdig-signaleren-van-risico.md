@@ -9,7 +9,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0034357"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Wet van 27 november 2013 tot wijziging van de Wet marktordening gezondheidszorg, de Wet cliëntenrechten zorg en enkele andere wetten in verband met het tijdig signaleren van risico’s voor de continuïteit van zorg alsmede in verband met het aanscherpen van procedures met het oog op de kwaliteit en bereikbaarheid van zorg

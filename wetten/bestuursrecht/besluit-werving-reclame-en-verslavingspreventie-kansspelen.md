@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0033412"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-18
 ---
 
 # Besluit van 7 mei 2013, houdende regels ten aanzien van wervings- en reclameactiviteiten, alsmede het preventiebeleid van houders van een vergunning op grond van de Wet op de kansspelen (Besluit werving, reclame en verslavingspreventie kansspelen)

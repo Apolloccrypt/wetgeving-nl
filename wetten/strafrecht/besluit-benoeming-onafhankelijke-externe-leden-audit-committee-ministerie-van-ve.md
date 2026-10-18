@@ -9,7 +9,7 @@ laatste_update: 2013-09-21
 status: geldig
 toestand: 2013-09-21
 bron: "https://wetten.overheid.nl/BWBR0033887"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van de Minister van Veiligheid en Justitie van 10 september 2013, nr. 425584 tot benoeming van onafhankelijke externe leden van het Audit Committee Ministerie van Veiligheid en Justitie

@@ -9,7 +9,7 @@ laatste_update: 2013-07-27
 status: geldig
 toestand: 2013-07-27
 bron: "https://wetten.overheid.nl/BWBR0033719"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Wet van 10 juli 2013 tot wijziging van de Algemene pensioenwet politieke ambtsdragers in verband met de verhoging van de pensioengerechtigde leeftijd en de pensioenrichtleeftijd (Wet aanpassing pensioenleeftijd Appa)

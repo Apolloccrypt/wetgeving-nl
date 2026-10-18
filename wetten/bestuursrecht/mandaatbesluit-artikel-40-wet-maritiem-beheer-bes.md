@@ -9,7 +9,7 @@ laatste_update: 2013-07-02
 status: geldig
 toestand: 2013-07-02
 bron: "https://wetten.overheid.nl/BWBR0033612"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van de Minister van Infrastructuur en Milieu, van 11 juni 2013, nr. IENM/BSK-2013/98205, houdende mandatering van de bevoegdheid van de Minister van Infrastructuur en Milieu, bedoeld in artikel 40, Wet maritiem beheer BES (Mandaatbesluit artikel 40 Wet maritiem beheer BES)

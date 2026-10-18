@@ -9,7 +9,7 @@ laatste_update: 2013-09-01
 status: geldig
 toestand: 2013-09-01
 bron: "https://wetten.overheid.nl/BWBR0033676"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 8 juli 2013, 129679-106375-MC, houdende de generalistische basis geestelijke gezondheidszorg en praktijkondersteuner huisartsenzorg geestelijke gezondheidszorg

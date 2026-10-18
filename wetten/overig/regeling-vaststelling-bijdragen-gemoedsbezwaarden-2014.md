@@ -9,7 +9,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0034362"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Minister van Financiën van 2 december 2013, kenmerk: FM 2013/2100 M, tot vaststelling van de bijdragen gemoedsbezwaarden 2014 (Regeling vaststelling bijdragen gemoedsbezwaarden 2014)

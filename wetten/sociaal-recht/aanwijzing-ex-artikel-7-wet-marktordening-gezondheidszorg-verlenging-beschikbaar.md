@@ -9,7 +9,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0034226"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport, van 19 november 2013, 168229-112943-MC, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake verlenging beschikbaarheidbijdrage en bijzonder transitiemodel GGZ

@@ -9,7 +9,7 @@ laatste_update: 2013-09-28
 status: geldig
 toestand: 2013-09-28
 bron: "https://wetten.overheid.nl/BWBR0033915"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 15 september 2013, nr. WJZ/532353 (10379), houdende wijziging van de Subsidieregeling instandhouding monumenten in verband met aanpassing van de bepalingen voor professionele organisaties voor monumentenbehoud en een overgangsregime voor voormalige aangewezen organisaties voor monumentenbehoud

@@ -9,7 +9,7 @@ laatste_update: 2013-11-15
 status: geldig
 toestand: 2013-11-15
 bron: "https://wetten.overheid.nl/BWBR0034163"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 29 oktober 2013, nr. DJZ/BR/0672-13, houdende aanwijzing van het hoofd van het begeleidingsteam als bedoeld in artikel 15 van de Wet Verdrag Chemische Wapens BES

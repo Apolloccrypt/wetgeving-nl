@@ -9,7 +9,7 @@ laatste_update: 2013-07-01
 status: geldig
 toestand: 2013-07-01
 bron: "https://wetten.overheid.nl/BWBR0033601"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Wet van 26 juni 2013 tot wijziging van het Burgerlijk Wetboek, het Wetboek van Burgerlijke Rechtsvordering en de Faillissementswet teneinde de collectieve afwikkeling van massavorderingen verder te vergemakkelijken (Wet tot wijziging van de Wet collectieve afwikkeling massaschade)

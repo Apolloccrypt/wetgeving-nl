@@ -9,7 +9,7 @@ laatste_update: 2013-11-02
 status: geldig
 toestand: 2013-11-02
 bron: "https://wetten.overheid.nl/BWBR0034131"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken in overeenstemming met de Minister van Onderwijs, Cultuur en Wetenschap van 28 oktober 2013, nr. Minbuza-2013.295689, tot wijziging van de Sanctieregeling Iran 2012 in verband met een uitbreiding van de groep personen die over een ontheffing dient te beschikken

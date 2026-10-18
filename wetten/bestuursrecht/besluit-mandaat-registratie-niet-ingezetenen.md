@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0034319"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 27 november 2013, nr. 2013-0000722358, houdende de verlening van mandaat en machtiging in verband met het RNI Convenant Dienstverlening aan de daarbij aangesloten gemeenten (Besluit mandaat Registratie Niet-Ingezetenen)

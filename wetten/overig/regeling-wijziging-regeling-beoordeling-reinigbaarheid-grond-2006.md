@@ -9,7 +9,7 @@ laatste_update: 2013-10-01
 status: geldig
 toestand: 2013-10-01
 bron: "https://wetten.overheid.nl/BWBR0033806"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 20 augustus 2013, nr. IENM/BSK-2013/53576, tot wijziging van de Regeling beoordeling reinigbaarheid grond 2006

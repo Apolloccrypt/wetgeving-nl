@@ -9,7 +9,7 @@ laatste_update: 2021-09-09
 status: geldig
 toestand: 2021-09-09
 bron: "https://wetten.overheid.nl/BWBR0033865"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 9 september 2013, nr. DJZ/BR/0648-2013, met betrekking tot een vergunningplicht voor uitvoer van en het verlenen van tussenhandeldiensten voor goederen voor tweeërlei gebruik (Regeling goederen voor tweeërlei gebruik)

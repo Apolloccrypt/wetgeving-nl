@@ -9,7 +9,7 @@ laatste_update: 2013-12-18
 status: geldig
 toestand: 2013-12-18
 bron: "https://wetten.overheid.nl/BWBR0034377"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 6 december 2013, kenmerk Z-178390-114503, houdende vaststelling van het premiepercentage voor de algemene verzekering bijzondere ziektekosten 2014

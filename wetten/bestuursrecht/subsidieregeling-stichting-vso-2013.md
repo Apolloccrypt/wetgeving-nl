@@ -9,7 +9,7 @@ laatste_update: 2018-12-19
 status: geldig
 toestand: 2018-12-19
 bron: "https://wetten.overheid.nl/BWBR0033562"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 10 juni 2013, nr. 2013-0000329635, houdende regels voor de subsidiëring van de Stichting Verbond Sectorwerkgevers Overheid (Subsidieregeling Stichting VSO 2013)

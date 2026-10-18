@@ -8,7 +8,7 @@ laatste_update: 2013-10-03
 status: geldig
 toestand: 2013-10-03
 bron: "https://wetten.overheid.nl/BWBR0033969"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling vaststelling constanten regressieformules en waarden gemiddelde CO2-uitstoot benzine- en dieselauto’s 2014 en 2015

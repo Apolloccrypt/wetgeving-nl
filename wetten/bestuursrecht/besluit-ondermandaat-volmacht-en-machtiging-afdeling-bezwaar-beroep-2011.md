@@ -9,7 +9,7 @@ laatste_update: 2011-08-27
 status: geldig
 toestand: 2011-08-27
 bron: "https://wetten.overheid.nl/BWBR0033431"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-18
 ---
 
 # Besluit ondermandaat, volmacht en machtiging afdeling Bezwaar & Beroep

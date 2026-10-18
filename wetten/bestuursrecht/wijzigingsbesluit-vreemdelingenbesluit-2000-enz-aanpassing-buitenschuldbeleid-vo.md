@@ -9,7 +9,7 @@ laatste_update: 2013-06-01
 status: geldig
 toestand: 2013-06-01
 bron: "https://wetten.overheid.nl/BWBR0033468"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-18
 ---
 
 # Besluit van 14 mei 2013, houdende wijziging van het Vreemdelingenbesluit 2000 en het Besluit modern migratiebeleid in verband met de aanpassing van het buitenschuldbeleid voor alleenstaande minderjarige vreemdelingen

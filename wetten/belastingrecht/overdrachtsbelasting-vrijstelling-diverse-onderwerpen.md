@@ -8,7 +8,7 @@ laatste_update: 2024-08-29
 status: geldig
 toestand: 2024-08-29
 bron: "https://wetten.overheid.nl/BWBR0033636"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Overdrachtsbelasting, vrijstelling, diverse onderwerpen

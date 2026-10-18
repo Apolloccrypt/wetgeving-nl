@@ -9,7 +9,7 @@ laatste_update: 2020-05-30
 status: geldig
 toestand: 2020-05-30
 bron: "https://wetten.overheid.nl/BWBR0033569"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 18 juni 2013, nr.394209, houdende nadere regels betreffende de inhouding van de vaste vergoeding bij buitengewoon verlof verleend op grond van artikel 45, eerste of tweede lid, van de Wet rechtspositie rechterlijke ambtenaren (Regeling inhouding vaste vergoeding bij buitengewoon verlof op grond van artikel 45 Wet rechtspositie rechterlijke ambtenaren)

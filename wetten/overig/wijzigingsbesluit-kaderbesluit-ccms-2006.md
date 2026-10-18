@@ -9,7 +9,7 @@ laatste_update: 2006-12-06
 status: geldig
 toestand: 2006-12-06
 bron: "https://wetten.overheid.nl/BWBR0033650"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van 11 september 2006 houdende de wijziging van het Kaderbesluit CCMS (Erkenning tot opleider en opleidingsinrichting)

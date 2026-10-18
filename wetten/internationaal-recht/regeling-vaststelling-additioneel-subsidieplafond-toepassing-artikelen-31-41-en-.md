@@ -9,7 +9,7 @@ laatste_update: 2013-10-02
 status: geldig
 toestand: 2013-10-02
 bron: "https://wetten.overheid.nl/BWBR0033961"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 23 september 2013, nr. MinBuza-2013.263133, tot vaststelling van een additioneel subsidieplafond voor de toepassing van de artikelen 3.1, 4.1 en 5.19 van de Subsidieregeling internationaal excelleren (demonstratieprojecten, haalbaarheidsstudies en kennisverwerving)

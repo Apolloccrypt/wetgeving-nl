@@ -8,7 +8,7 @@ laatste_update: 2013-09-12
 status: geldig
 toestand: 2013-09-12
 bron: "https://wetten.overheid.nl/BWBR0033855"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Loonheffingen, extraterritoriale werknemers; 30%-regeling

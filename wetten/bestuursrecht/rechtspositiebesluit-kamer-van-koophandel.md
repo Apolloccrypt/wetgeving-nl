@@ -9,7 +9,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0034325"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van 25 november 2013, houdende de afwijking op een aantal onderdelen van de rechtspositieregels die gelden voor ambtenaren die zijn aangesteld bij ministeries voor het personeel van de Kamer van Koophandel (Rechtspositiebesluit Kamer van Koophandel)

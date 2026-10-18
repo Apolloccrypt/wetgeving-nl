@@ -9,7 +9,7 @@ laatste_update: 2005-06-04
 status: geldig
 toestand: 2005-06-04
 bron: "https://wetten.overheid.nl/BWBR0033505"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van 13 december 2004 houdende toetsingskader op grond waarvan deelgebieden der geneeskunde als specialismen kunnen worden aangewezen of opgeheven

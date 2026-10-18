@@ -9,7 +9,7 @@ laatste_update: 2013-11-26
 status: geldig
 toestand: 2013-11-26
 bron: "https://wetten.overheid.nl/BWBR0034221"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 15 november 2013, nr. 511434, houdende beperking van de openbaarheid van het archief van de Directie Facilitair Bedrijf en taakvoorgangers van het Ministerie van Onderwijs, Cultuur en Wetenschap over de periode 1989–2007 (2008)

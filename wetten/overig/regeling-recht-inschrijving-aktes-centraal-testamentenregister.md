@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0034126"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Staatssecretaris van Veiligheid en Justitie van 22 oktober 2013, nr. 432999, houdende vaststelling van het recht voor inschrijving van een notariële akte in het testamentenregister (Regeling recht inschrijving aktes centraal testamentenregister)

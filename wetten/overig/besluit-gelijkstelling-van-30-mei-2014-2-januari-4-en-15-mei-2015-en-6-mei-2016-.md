@@ -9,7 +9,7 @@ laatste_update: 2013-07-17
 status: geldig
 toestand: 2013-07-17
 bron: "https://wetten.overheid.nl/BWBR0033679"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van 17 juni 2013, nr. 13.001210, houdende gelijkstelling van 30 mei 2014, 2 januari, 4 en 15 mei 2015 en 6 mei 2016 met een algemeen erkende feestdag

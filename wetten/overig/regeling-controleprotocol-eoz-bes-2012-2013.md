@@ -9,7 +9,7 @@ laatste_update: 2013-06-20
 status: geldig
 toestand: 2013-06-20
 bron: "https://wetten.overheid.nl/BWBR0033547"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap, van 8 mei 2013, nr. IvhO/H3487415, houdende vaststelling van het controleprotocol voor de expertisecentra onderwijszorg in de sectoren PO, VO en BVE in Caribisch Nederland (Regeling controleprotocol EOZ BES 2012-2013)

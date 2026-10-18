@@ -8,7 +8,7 @@ laatste_update: 2013-11-08
 status: geldig
 toestand: 2013-11-08
 bron: "https://wetten.overheid.nl/BWBR0034153"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Procuratieregeling Stichting Autoriteit Financiële Markten per 1 november 2013

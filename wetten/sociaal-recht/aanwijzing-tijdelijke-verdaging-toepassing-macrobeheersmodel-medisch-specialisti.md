@@ -9,7 +9,7 @@ laatste_update: 2013-11-01
 status: geldig
 toestand: 2013-11-01
 bron: "https://wetten.overheid.nl/BWBR0033929"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 20 september 2013, 149009 – 109741-MC, houdende tijdelijke verdaging toepassing macrobeheersmodel medisch specialistische zorg 2012

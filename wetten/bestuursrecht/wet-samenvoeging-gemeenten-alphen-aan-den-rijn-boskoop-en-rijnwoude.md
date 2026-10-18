@@ -9,7 +9,7 @@ laatste_update: 2013-06-05
 status: geldig
 toestand: 2013-06-05
 bron: "https://wetten.overheid.nl/BWBR0033482"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-18
 ---
 
 # Wet van 15 mei 2013 tot samenvoeging van de gemeenten Alphen aan den Rijn, Boskoop en Rijnwoude

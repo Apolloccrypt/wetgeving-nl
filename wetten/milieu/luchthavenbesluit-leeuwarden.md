@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0033411"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-18
 ---
 
 # Besluit van 3 mei 2013 tot vaststelling van een luchthavenbesluit voor de militaire luchthaven Leeuwarden (Luchthavenbesluit Leeuwarden)

@@ -9,7 +9,7 @@ laatste_update: 2021-07-01
 status: geldig
 toestand: 2021-07-01
 bron: "https://wetten.overheid.nl/BWBR0034002"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Staatssecretaris van Veiligheid en Justitie van 7 oktober 2013, houdende regels aangaande de voorwaarden waaronder een tegemoetkoming kan worden verleend in de kosten die voor de gedetineerden kunnen zijn verbonden aan het volgen van onderwijs en het deelnemen aan andere educatieve activiteiten (Regeling tegemoetkoming kosten onderwijs gedetineerden)

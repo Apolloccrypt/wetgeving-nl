@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0034449"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Milieu van 18 december 2013, nr. IENM/ILT-2013/74125, houdende aanwijzing van toezichthoudende ambtenaren en verlening van mandaat, volmacht en machtiging in verband met de bestuursrechtelijke handhaving van de Regeling bedrijfsmatig tot ontbranding brengen van vuurwerk (Besluit aanwijzing toezichthouders en mandaat Regeling bedrijfsmatig tot ontbranding brengen van vuurwerk)

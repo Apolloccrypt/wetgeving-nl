@@ -9,7 +9,7 @@ laatste_update: 2021-10-29
 status: geldig
 toestand: 2021-10-29
 bron: "https://wetten.overheid.nl/BWBR0033570"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 10 juni 2013, nr. 2013-0000329545, houdende regels voor de subsidiëring van de Stichting Europa decentraal; Kenniscentrum Europees recht en beleid (Subsidieregeling Kenniscentrum Europa Decentraal 2013)

@@ -9,7 +9,7 @@ laatste_update: 2014-05-15
 status: geldig
 toestand: 2014-05-15
 bron: "https://wetten.overheid.nl/BWBR0033898"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 16 september 2013, 2013-0000128066, tot openstelling van een aanvraagtijdvak in het kalenderjaar 2013 en vaststelling van een subsidieplafond voor dit aanvraagtijdvak in het kader van de Regeling cofinanciering sectorplannen

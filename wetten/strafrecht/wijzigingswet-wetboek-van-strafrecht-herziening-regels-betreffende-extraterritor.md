@@ -9,7 +9,7 @@ laatste_update: 2014-07-01
 status: geldig
 toestand: 2014-07-01
 bron: "https://wetten.overheid.nl/BWBR0034294"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Wet van 27 november 2013 tot wijziging van het Wetboek van Strafrecht in verband met de herziening van de regels over werking van de strafwet buiten Nederland (herziening regels betreffende extraterritoriale rechtsmacht in strafzaken)

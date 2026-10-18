@@ -8,7 +8,7 @@ laatste_update: 2013-11-23
 status: geldig
 toestand: 2013-11-23
 bron: "https://wetten.overheid.nl/BWBR0034194"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit opheffing beperking openbaarheid Ordedienst/Binnenlandse Strijdkrachten en afwikkelingsbureau, 1941–1956

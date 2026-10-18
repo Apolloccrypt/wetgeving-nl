@@ -9,7 +9,7 @@ laatste_update: 2021-10-29
 status: geldig
 toestand: 2021-10-29
 bron: "https://wetten.overheid.nl/BWBR0033571"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 10 juni 2013, nr. 2013-0000329548, houdende regels voor de subsidiëring van de Stichting Nationaal Comité 4 en 5 mei (BZK Subsidieregeling Nationaal Comité 4 en 5 mei)

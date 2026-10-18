@@ -9,7 +9,7 @@ laatste_update: 2013-07-19
 status: geldig
 toestand: 2013-07-19
 bron: "https://wetten.overheid.nl/BWBR0033687"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van de Minister van Economische Zaken van 9 juli 2013, nr. WJZ / 13120244, houdende vaststelling van een beleidsregel inzake de voorbereiding van een beslissing op een aanvraag om een vergunning voor het opsporen van delfstoffen in het continentaal plat of onder de territoriale zee (Beleidsregel voorbereidingsprocedure opsporingsvergunning continentaal plat)

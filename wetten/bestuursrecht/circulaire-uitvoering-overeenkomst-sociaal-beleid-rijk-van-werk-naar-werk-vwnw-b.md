@@ -8,7 +8,7 @@ laatste_update: 2013-04-15
 status: geldig
 toestand: 2013-04-15
 bron: "https://wetten.overheid.nl/BWBR0033486"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-18
 ---
 
 # Circulaire uitvoering Overeenkomst Sociaal Beleid Rijk: van werk naar werk (VWNW) beleid

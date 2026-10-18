@@ -8,7 +8,7 @@ laatste_update: 2024-12-14
 status: geldig
 toestand: 2024-12-14
 bron: "https://wetten.overheid.nl/BWBR0034045"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Klachtenregeling bewindvoerders Wsnp II

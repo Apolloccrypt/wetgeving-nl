@@ -8,7 +8,7 @@ laatste_update: 2013-08-31
 status: geldig
 toestand: 2013-08-31
 bron: "https://wetten.overheid.nl/BWBR0033828"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Beleidsregel taalbeheersing machinisten Spoorwegwet

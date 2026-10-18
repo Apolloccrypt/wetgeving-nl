@@ -8,7 +8,7 @@ laatste_update: 2013-12-10
 status: geldig
 toestand: 2013-12-10
 bron: "https://wetten.overheid.nl/BWBR0034310"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Circulaire wijzigingen bedrag vergoeding lid algemeen bestuur waterschap ex art. 3.2, tweede lid, Waterschapsbesluit, enz per 1 januari 2014

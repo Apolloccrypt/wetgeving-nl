@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0033599"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Wet van 19 juni 2013 tot wijziging van enkele wetten van het Ministerie van Sociale Zaken en Werkgelegenheid (Verzamelwet SZW 2013)

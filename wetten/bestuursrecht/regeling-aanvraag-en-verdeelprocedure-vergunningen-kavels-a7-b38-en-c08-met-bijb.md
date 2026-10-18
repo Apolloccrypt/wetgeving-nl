@@ -9,7 +9,7 @@ laatste_update: 2013-04-24
 status: geldig
 toestand: 2013-04-24
 bron: "https://wetten.overheid.nl/BWBR0033308"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Minister van Economische Zaken van 19 april 2013, nr. WJZ/13071131, houdende vaststelling van de aanvraag- en verdeelprocedure voor enkele vergunningen voor het gebruik van frequentieruimte in de FM-band, de middengolfband en band III (Regeling aanvraag- en verdeelprocedure vergunningen kavels A7, B38 en C08 met bijbehorende vergunningen voor digitale radio-omroep)

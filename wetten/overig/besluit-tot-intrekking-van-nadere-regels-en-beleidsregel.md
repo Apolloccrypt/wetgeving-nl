@@ -8,7 +8,7 @@ laatste_update: 2013-12-21
 status: geldig
 toestand: 2013-12-21
 bron: "https://wetten.overheid.nl/BWBR0034457"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit tot intrekking van nadere regels en beleidsregel

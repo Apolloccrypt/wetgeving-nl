@@ -9,7 +9,7 @@ laatste_update: 2013-10-01
 status: geldig
 toestand: 2013-10-01
 bron: "https://wetten.overheid.nl/BWBR0033284"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-18
 ---
 
 # Wet van 11 april 2013 tot wijziging van het Wetboek van Strafvordering in verband met de invoering van een regeling betreffende herziening ten nadele van de gewezen verdachte (Wet herziening ten nadele)

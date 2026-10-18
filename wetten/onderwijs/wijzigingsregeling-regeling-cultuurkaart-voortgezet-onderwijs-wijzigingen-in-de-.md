@@ -9,7 +9,7 @@ laatste_update: 2013-12-20
 status: geldig
 toestand: 2013-12-20
 bron: "https://wetten.overheid.nl/BWBR0034442"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 10 december 2013, nr. WJZ/571596 (10425), tot wijziging van de Regeling Cultuurkaart voortgezet onderwijs in verband met wijzigingen in de uitvoering

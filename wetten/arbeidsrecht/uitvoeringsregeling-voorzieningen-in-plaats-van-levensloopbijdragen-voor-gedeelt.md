@@ -9,7 +9,7 @@ laatste_update: 2025-07-10
 status: geldig
 toestand: 2025-07-10
 bron: "https://wetten.overheid.nl/BWBR0033859"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie d.d. 30 augustus 2013, nr. 413922, DGPolitie/Programma Arbeidsvoorwaarden, voor de uitvoering van een regeling met betrekking tot voorzieningen in plaats van levensloopbijdragen voor (gedeeltelijk) arbeidsongeschikte ambtenaren bij de politie

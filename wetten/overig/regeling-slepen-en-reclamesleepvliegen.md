@@ -9,7 +9,7 @@ laatste_update: 2014-12-12
 status: geldig
 toestand: 2014-12-12
 bron: "https://wetten.overheid.nl/BWBR0033888"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 18 september 2013, nr. IENM/BSK-2013/169362, houdende vaststelling van regels omtrent het slepen van luchtvaartuigen en andere voorwerpen tijdens de vlucht waaronder reclame (Regeling slepen en reclamesleepvliegen)

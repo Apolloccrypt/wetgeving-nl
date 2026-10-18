@@ -9,7 +9,7 @@ laatste_update: 2013-07-01
 status: geldig
 toestand: 2013-07-01
 bron: "https://wetten.overheid.nl/BWBR0033619"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van 26 juni 2013, houdende tijdelijke wijziging van het Besluit uitvoering Wet arbeid vreemdelingen in verband met een uitzondering op het verbod om een vreemdeling te laten werken zonder tewerkstellingsvergunning bij het produceren van goederen waarbij de afnemer intensief betrokken is

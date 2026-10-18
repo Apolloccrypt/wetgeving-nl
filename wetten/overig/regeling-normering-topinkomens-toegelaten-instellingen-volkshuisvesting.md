@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0034245"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Minister voor Wonen en Rijksdienst van 22 november 2013, nr. 2013 – 0000717365, houdende vaststelling van de indeling van de toegelaten instellingen volkshuisvesting in klassen met daarbij toepasselijke bezoldigingsmaxima ten aanzien van hun topfunctionarissen (Regeling bezoldigingsmaxima topfunctionarissen toegelaten instellingen volkshuisvesting 2014)

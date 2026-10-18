@@ -8,7 +8,7 @@ laatste_update: 2013-10-12
 status: geldig
 toestand: 2013-10-12
 bron: "https://wetten.overheid.nl/BWBR0033992"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Instellings- en benoemingsbesluit Commissie voor de bezwaarschriften

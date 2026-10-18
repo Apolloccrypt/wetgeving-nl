@@ -9,7 +9,7 @@ laatste_update: 2013-09-01
 status: geldig
 toestand: 2013-09-01
 bron: "https://wetten.overheid.nl/BWBR0033709"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 16 juli 2013, kenmerk 128996-106225-MC, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake invoering prestatiebekostiging eerstelijnsdiagnostiek

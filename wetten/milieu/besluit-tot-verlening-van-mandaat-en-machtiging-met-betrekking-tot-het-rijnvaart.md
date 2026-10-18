@@ -8,7 +8,7 @@ laatste_update: 2013-06-12
 status: geldig
 toestand: 2013-06-12
 bron: "https://wetten.overheid.nl/BWBR0033499"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-18
 ---
 
 # Besluit tot verlening van mandaat en machtiging met betrekking tot het Rijnvaartpolitiereglement 1995 Rijkswaterstaat West-Nederland Zuid 2013

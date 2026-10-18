@@ -9,7 +9,7 @@ laatste_update: 2025-04-01
 status: geldig
 toestand: 2025-04-01
 bron: "https://wetten.overheid.nl/BWBR0033857"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie d.d. 29 augustus 2013, nr. 413923, DGPolitie/Programma Arbeidsvoorwaarden, tot vaststelling van een percentage inhaaltoeslag bezwarende functie (Regeling vaststelling inhaaltoelage bezwarende functie politie)

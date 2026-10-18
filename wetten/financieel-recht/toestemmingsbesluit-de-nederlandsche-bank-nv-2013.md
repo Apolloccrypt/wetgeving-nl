@@ -9,7 +9,7 @@ laatste_update: 2016-07-01
 status: geldig
 toestand: 2016-07-01
 bron: "https://wetten.overheid.nl/BWBR0034378"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van 9 december 2013, houdende toestemming aan De Nederlandsche Bank N.V. tot het beheer van een numismatische collectie en een numismatisch informatiesysteem (Toestemmingsbesluit De Nederlandsche Bank N.V. 2013)

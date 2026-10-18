@@ -9,7 +9,7 @@ laatste_update: 2026-10-10
 status: geldig
 toestand: 2026-10-10
 bron: "https://wetten.overheid.nl/BWBR0037094"
-opgehaald: 2026-10-17
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 18 september 2015, nr. IENM/BSK-2015/183974, houdende vaststelling van nieuwe regels voor bepaalde gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen ter uitvoering van Verordening (EU) nr. 517/2014 van 16 april 2014 betreffende gefluoreerde broeikasgassen en tot intrekking van Verordening (EG) nr. 842/2006 en ter uitvoering van Verordening (EG) nr. 1005/2009 van 16 september 2009 betreffende ozonlaagafbrekende stoffen (Regeling gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen)

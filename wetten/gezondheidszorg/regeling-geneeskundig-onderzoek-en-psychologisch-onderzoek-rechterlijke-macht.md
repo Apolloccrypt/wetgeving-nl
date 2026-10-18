@@ -9,7 +9,7 @@ laatste_update: 2020-05-30
 status: geldig
 toestand: 2020-05-30
 bron: "https://wetten.overheid.nl/BWBR0033566"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 18 juni 2013, nr.394024, houdende nadere regels betreffende een geneeskundig onderzoek en een psychologisch onderzoek voor benoeming als rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding (Regeling geneeskundig onderzoek en psychologisch onderzoek rechterlijke macht)

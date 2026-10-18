@@ -9,7 +9,7 @@ laatste_update: 2013-06-16
 status: geldig
 toestand: 2013-06-16
 bron: "https://wetten.overheid.nl/BWBR0033521"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Beleidsregel van de Staatssecretaris van Infrastructuur en Milieu, van 1 mei 2013, nr. ILT-2013/15952, inzake verlening van ontheffing van de eis een chauffeurskaart in het bezit te hebben en te gebruiken, ten behoeve van de deelname aan een leer-werk-traject (beleidsregel ontheffing leer-werk-traject taxi)

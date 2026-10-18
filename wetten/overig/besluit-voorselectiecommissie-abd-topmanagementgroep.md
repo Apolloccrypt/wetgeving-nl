@@ -9,7 +9,7 @@ laatste_update: 2016-06-23
 status: geldig
 toestand: 2016-06-23
 bron: "https://wetten.overheid.nl/BWBR0033652"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van de Minister voor Wonen en Rijksdienst van 28 mei 2013, nr. 2013-0000314852, houdende de instelling en werkwijze van de Voorselectiecommissie ABD-topmanagementgroep (Besluit Voorselectiecommissie ABD-topmanagementgroep)

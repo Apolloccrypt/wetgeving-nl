@@ -9,7 +9,7 @@ laatste_update: 2013-07-01
 status: geldig
 toestand: 2013-07-01
 bron: "https://wetten.overheid.nl/BWBR0033529"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van 7 juni 2013, houdende enkele aanpassingen van het Besluit Bibob, het Besluit justitiële en strafvorderlijke gegevens, het Besluit politiegegevens, het Besluit controle op rechtspersonen, het Besluit omgevingsrecht, het Besluit strategische goederen en het Subsidiebesluit Ministerie van Buitenlandse Zaken in verband met de Evaluatie- en uitbreidingswet Bibob (Verzamelbesluit evaluatie en uitbreiding Wet Bibob)

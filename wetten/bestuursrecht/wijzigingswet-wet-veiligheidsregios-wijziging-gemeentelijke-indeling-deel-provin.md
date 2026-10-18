@@ -9,7 +9,7 @@ laatste_update: 2013-07-13
 status: geldig
 toestand: 2013-07-13
 bron: "https://wetten.overheid.nl/BWBR0033660"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Wet van 19 juni 2013 tot wijziging van de gemeentelijke indeling in een deel van de provincie Fryslân

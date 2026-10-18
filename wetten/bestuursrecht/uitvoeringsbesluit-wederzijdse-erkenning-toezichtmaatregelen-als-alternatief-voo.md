@@ -9,7 +9,7 @@ laatste_update: 2013-11-01
 status: geldig
 toestand: 2013-11-01
 bron: "https://wetten.overheid.nl/BWBR0033717"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van 19 juli 2013, houdende regels ter uitvoering van de artikelen 5:3:3, tweede lid, en 5:3:10, derde lid, van het Wetboek van Strafvordering (Uitvoeringsbesluit wederzijdse erkenning toezichtmaatregelen als alternatief voor voorlopige hechtenis)

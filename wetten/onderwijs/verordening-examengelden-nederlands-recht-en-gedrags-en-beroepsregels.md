@@ -8,7 +8,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0033791"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Verordening examengelden Nederlands recht en gedrags- en beroepsregels

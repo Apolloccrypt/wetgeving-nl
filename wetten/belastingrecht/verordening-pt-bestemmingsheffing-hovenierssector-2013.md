@@ -9,7 +9,7 @@ laatste_update: 2013-09-22
 status: geldig
 toestand: 2013-09-22
 bron: "https://wetten.overheid.nl/BWBR0033257"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-18
 ---
 
 # Verordening van het bestuur van het Productschap Tuinbouw van 20 december 2012, houdende de vaststelling van een bestemmingsheffing ten behoeve van de hovenierssector voor het jaar 2013 (Verordening PT bestemmingsheffing hovenierssector 2013)

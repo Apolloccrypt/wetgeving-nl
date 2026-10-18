@@ -9,7 +9,7 @@ laatste_update: 2013-10-28
 status: geldig
 toestand: 2013-10-28
 bron: "https://wetten.overheid.nl/BWBR0034078"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Beleidsregel van de Stichting Autoriteit Financiële Markten inzake het actief zijn door beheerders van beleggingsinstellingen dan wel icbe’s of beleggingsinstellingen dan wel icbe’s in Nederland (Beleidsregel Actief zijn in Nederland 2013)

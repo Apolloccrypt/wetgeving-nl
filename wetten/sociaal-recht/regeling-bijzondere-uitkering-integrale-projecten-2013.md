@@ -9,7 +9,7 @@ laatste_update: 2014-11-22
 status: geldig
 toestand: 2014-11-22
 bron: "https://wetten.overheid.nl/BWBR0033367"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 23 april 2013 DCB/CZW/S&B, houdende regels inzake een eenmalige bijzondere uitkering voor integrale projecten aan de openbare lichamen Bonaire, Sint Eustatius en Saba (Regeling bijzondere uitkering integrale projecten 2013)

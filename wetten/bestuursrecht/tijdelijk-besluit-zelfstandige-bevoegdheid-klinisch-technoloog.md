@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0034177"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van 17 oktober 2013, houdende tijdelijke regels inzake de opleiding, deskundigheid en tijdelijke zelfstandige bevoegdheid tot het verrichten van voorbehouden handelingen van de klinisch technoloog (Tijdelijk besluit zelfstandige bevoegdheid klinisch technoloog)

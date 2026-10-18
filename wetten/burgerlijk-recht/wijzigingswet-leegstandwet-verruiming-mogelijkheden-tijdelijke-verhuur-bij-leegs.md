@@ -9,7 +9,7 @@ laatste_update: 2013-07-01
 status: geldig
 toestand: 2013-07-01
 bron: "https://wetten.overheid.nl/BWBR0033602"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Wet van 19 juni 2013 tot wijziging van de Leegstandwet in verband met de verruiming van de mogelijkheden voor tijdelijke verhuur bij leegstand van gebouwen en woningen

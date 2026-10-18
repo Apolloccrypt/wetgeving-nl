@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0034246"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 26 november 2013, kenmerk MEVA-172387-113549, houdende vaststelling van de sectorale bezoldigingsnorm voor en de indeling in klassen van de in bijlage 3 bij de Wet normering bezoldiging topfunctionarissen in de publieke en semipublieke sector opgenomen categorie zorgverzekeraars (Regeling sectorale bezoldigingsnorm topfunctionarissen zorgverzekeraars)

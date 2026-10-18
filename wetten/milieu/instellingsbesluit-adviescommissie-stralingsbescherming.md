@@ -9,7 +9,7 @@ laatste_update: 2017-03-25
 status: geldig
 toestand: 2017-03-25
 bron: "https://wetten.overheid.nl/BWBR0034287"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van de Minister van Economische Zaken van 29 november 2013, nr. WJZ / 13192135, houdende instelling van de adviescommissie Stralingsbescherming

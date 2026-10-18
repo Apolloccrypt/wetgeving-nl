@@ -9,7 +9,7 @@ laatste_update: 2025-03-01
 status: geldig
 toestand: 2025-03-01
 bron: "https://wetten.overheid.nl/BWBR0034068"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 8 oktober 2013, kenmerk BVE-548927 houdende vaststelling van de kwalificaties uit de kwalificatiedossiers en van de opleidingsdomeinen BES (Regeling vaststelling kwalificaties en opleidingsdomeinen BES)

@@ -9,7 +9,7 @@ laatste_update: 2013-08-28
 status: geldig
 toestand: 2013-08-28
 bron: "https://wetten.overheid.nl/BWBR0033800"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 19 augustus 2013, tot geheimhouding aanbesteding met betrekking tot vervanging van de Closed-circuit television/Videomatrix van Unit 5 van de Extra Beveiligde Inrichting in Vught

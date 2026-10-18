@@ -9,7 +9,7 @@ laatste_update: 2014-02-01
 status: geldig
 toestand: 2014-02-01
 bron: "https://wetten.overheid.nl/BWBR0034321"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 3 december 2013, kenmerk 176506-114151-MC, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake voortzetting van het macrobeheersinstrument voor geriatrische revalidatiezorg

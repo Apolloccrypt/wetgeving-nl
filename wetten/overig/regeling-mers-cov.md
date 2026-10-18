@@ -9,7 +9,7 @@ laatste_update: 2013-07-03
 status: geldig
 toestand: 2013-07-03
 bron: "https://wetten.overheid.nl/BWBR0033632"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 28 juni 2013, kenmerk 128362-106084-PG, ex artikel 20 van de Wet publieke gezondheid, alsmede houdende wijziging van de Regeling publieke gezondheid (Regeling MERS-CoV)

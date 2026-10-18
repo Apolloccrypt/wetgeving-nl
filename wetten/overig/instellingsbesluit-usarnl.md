@@ -9,7 +9,7 @@ laatste_update: 2016-03-11
 status: geldig
 toestand: 2016-03-11
 bron: "https://wetten.overheid.nl/BWBR0033753"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van de Minister van Veiligheid en Justitie in overeenstemming met de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking en de Minister van Buitenlandse Zaken van 1 juli 2013, nr. 396425, houdende de instelling van het team Urban Search and Rescue Nederland (Instellingsbesluit USAR.NL)

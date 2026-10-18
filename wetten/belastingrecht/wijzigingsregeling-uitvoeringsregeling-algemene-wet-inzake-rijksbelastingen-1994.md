@@ -8,7 +8,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0033675"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Wijzigingsregeling Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994 (2013)

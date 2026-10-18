@@ -9,7 +9,7 @@ laatste_update: 2013-08-15
 status: geldig
 toestand: 2013-08-15
 bron: "https://wetten.overheid.nl/BWBR0033573"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van 14 juni 2013, houdende wijziging van het Besluit vergoedingen rechtsbijstand 2000 in verband met de verrekeningsbevoegdheid van de raad voor rechtsbijstand bij een proceskostenveroordeling

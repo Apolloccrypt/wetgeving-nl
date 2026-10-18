@@ -8,7 +8,7 @@ laatste_update: 2013-08-22
 status: geldig
 toestand: 2013-08-22
 bron: "https://wetten.overheid.nl/BWBR0033770"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit vaststelling selectielijst Stichting Afvalstoffen & Vaardocumenten Binnenvaart periode vanaf 1993

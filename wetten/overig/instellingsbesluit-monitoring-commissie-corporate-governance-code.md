@@ -9,7 +9,7 @@ laatste_update: 2024-06-20
 status: geldig
 toestand: 2024-06-20
 bron: "https://wetten.overheid.nl/BWBR0034295"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van de Minister van Economische Zaken van 29 november 2013, nr. WJZ / 13183060, houdende instelling van de Monitoring Commissie Corporate Governance Code

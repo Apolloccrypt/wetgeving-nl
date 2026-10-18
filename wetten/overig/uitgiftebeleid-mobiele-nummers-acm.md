@@ -9,7 +9,7 @@ laatste_update: 2014-05-15
 status: geldig
 toestand: 2014-05-15
 bron: "https://wetten.overheid.nl/BWBR0033253"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-18
 ---
 
 # Beleidsregels uitgifte en beheer van nummers met bestemming mobiele telefonie (Uitgiftebeleid mobiele nummers OPTA 2011)

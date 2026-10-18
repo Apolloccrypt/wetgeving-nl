@@ -9,7 +9,7 @@ laatste_update: 2013-08-15
 status: geldig
 toestand: 2013-08-15
 bron: "https://wetten.overheid.nl/BWBR0033764"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 5 augustus 2013, nr. 413972, houdende toekenning van een vergoeding per vergadering aan de (plaatsvervangende) leden van de klachtencommissie vergunninghouders interlandelijke adoptie (Vergoedingenbesluit klachtencommissie vergunninghouders interlandelijke adoptie 2013)

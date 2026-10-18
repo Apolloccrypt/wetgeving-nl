@@ -9,7 +9,7 @@ laatste_update: 2013-12-15
 status: geldig
 toestand: 2013-12-15
 bron: "https://wetten.overheid.nl/BWBR0034358"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Wet van 11 december 2013 tot wijziging van de Wet financiering decentrale overheden in verband met het rentedragend aanhouden van liquide middelen in ’s Rijks schatkist (verplicht schatkistbankieren)

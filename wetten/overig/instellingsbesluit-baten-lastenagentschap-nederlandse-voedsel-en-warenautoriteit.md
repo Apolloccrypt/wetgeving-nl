@@ -9,7 +9,7 @@ laatste_update: 2013-09-01
 status: geldig
 toestand: 2013-09-01
 bron: "https://wetten.overheid.nl/BWBR0033809"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van de Staatssecretaris van Economische Zaken en de Minister van Financiën van 23 augustus 2013, nr. WJZ / 13118247, tot instelling van het baten-lastenagentschap Nederlandse Voedsel- en Warenautoriteit

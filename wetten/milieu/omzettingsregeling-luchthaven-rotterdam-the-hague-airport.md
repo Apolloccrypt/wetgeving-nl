@@ -9,7 +9,7 @@ laatste_update: 2013-05-01
 status: geldig
 toestand: 2013-05-01
 bron: "https://wetten.overheid.nl/BWBR0033333"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 19 april 2013, nr. IENM/BSK-2013/72460, houdende omzetting van bepalingen omtrent het luchthavenluchtverkeer uit het aanwijzingsbesluit van de luchthaven Rotterdam The Hague Airport, in verband met de vernieuwing van de regelgeving voor burgerluchthavens (Omzettingsregeling luchthaven Rotterdam The Hague Airport)

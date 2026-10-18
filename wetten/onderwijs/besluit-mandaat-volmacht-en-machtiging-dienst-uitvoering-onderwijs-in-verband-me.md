@@ -9,7 +9,7 @@ laatste_update: 2019-04-01
 status: geldig
 toestand: 2019-04-01
 bron: "https://wetten.overheid.nl/BWBR0034391"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van de Minister van Financiën van 10 december 2013, FM 2013/2174 M, directie Financiële Markten, betreffende het verlenen van mandaat, volmacht en machtiging aan de Dienst Uitvoering Onderwijs (Besluit mandaat, volmacht en machtiging Dienst Uitvoering Onderwijs in verband met vakbekwaamheid Wft)

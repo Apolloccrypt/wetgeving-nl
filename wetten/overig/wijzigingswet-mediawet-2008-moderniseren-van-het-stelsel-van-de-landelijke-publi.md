@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0034182"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Wet van 6 november 2013 tot wijziging van de Mediawet 2008 teneinde het stelsel van de landelijke publieke omroep te moderniseren

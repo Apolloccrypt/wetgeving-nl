@@ -9,7 +9,7 @@ laatste_update: 2012-11-16
 status: geldig
 toestand: 2012-11-16
 bron: "https://wetten.overheid.nl/BWBR0033418"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-18
 ---
 
 # Besluit van de Raad van Bestuur van de Nederlandse Mededingingsautoriteit van 6 november 2012 tot vaststelling van het formulier voor het melden van voorgenomen grensoverschrijdend personenvervoer per spoor als bedoeld in artikel 57, tweede lid, van de Spoorwegwet

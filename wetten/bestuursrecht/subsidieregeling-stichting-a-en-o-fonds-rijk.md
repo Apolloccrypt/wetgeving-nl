@@ -9,7 +9,7 @@ laatste_update: 2018-12-19
 status: geldig
 toestand: 2018-12-19
 bron: "https://wetten.overheid.nl/BWBR0033554"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Minister voor Wonen en Rijksdienst van 10 juni 2013, nr. 2013-0000329676, houdende regels voor de subsidiëring van de Stichting Arbeids- en Opleidingsfonds Rijk (Subsidieregeling Stichting A en O-fonds Rijk)

@@ -9,7 +9,7 @@ laatste_update: 2017-04-15
 status: geldig
 toestand: 2017-04-15
 bron: "https://wetten.overheid.nl/BWBR0033875"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken van 11 september 2013, nr. 13030742, houdende regels inzake een bijzondere uitkering voor projecten ter bevordering van de natuurbescherming aan de openbare lichamen Bonaire, Sint Eustatius en Saba (Regeling bijzondere uitkering natuur 2013–2017)

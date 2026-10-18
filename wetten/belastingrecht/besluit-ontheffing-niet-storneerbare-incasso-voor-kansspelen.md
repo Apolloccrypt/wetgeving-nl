@@ -9,7 +9,7 @@ laatste_update: 2013-11-20
 status: geldig
 toestand: 2013-11-20
 bron: "https://wetten.overheid.nl/BWBR0034205"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van De Nederlandsche Bank N.V. van 13 november 2013, houdende ontheffing van het bepaalde in artikel 6, eerste en tweede lid, van Verordening (EU) nr. 260/2012 van 14 maart 2012 tot vaststelling van technische en bedrijfsmatige vereisten voor overmakingen en automatische afschrijvingen in euro en tot wijziging van Verordening (EU) nr. 942/2009 (Besluit ontheffing niet-storneerbare incasso voor kansspelen)

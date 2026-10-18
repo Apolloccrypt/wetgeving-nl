@@ -9,7 +9,7 @@ laatste_update: 2013-04-24
 status: geldig
 toestand: 2013-04-24
 bron: "https://wetten.overheid.nl/BWBR0033305"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-18
 ---
 
 # Besluit van de Minister van Economische Zaken van 19 april 2013, nr. AT-EZ/6807463, inzake de uitgifte van drie vergunningen voor analoge commerciële radio-omroep (voor de kavels A7, B38 en C08) en drie vergunningen voor digitale radio-omroep

@@ -9,7 +9,7 @@ laatste_update: 2013-12-01
 status: geldig
 toestand: 2013-12-01
 bron: "https://wetten.overheid.nl/BWBR0033986"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 1 oktober 2013, nr. MC-132621-106922, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake verlengen bekostigingswijze ADL-assistentie

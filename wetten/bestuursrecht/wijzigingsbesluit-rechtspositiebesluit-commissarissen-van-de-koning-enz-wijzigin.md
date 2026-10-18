@@ -9,7 +9,7 @@ laatste_update: 2013-07-01
 status: geldig
 toestand: 2013-07-01
 bron: "https://wetten.overheid.nl/BWBR0033575"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van 12 juni 2013 tot wijziging van het Rechtspositiebesluit commissarissen van de Koning, het Rechtspositiebesluit burgemeesters, het Rechtspositiebesluit gedeputeerden, het Rechtspositiebesluit wethouders, het Rechtspositiebesluit staten- en commissieleden, het Rechtspositiebesluit raads- en commissieleden, het Waterschapsbesluit en het Rechtspositiebesluit Rijksvertegenwoordiger BES in verband met een wijziging in de regeling inzake ambtswoningen en enkele andere wijzigingen

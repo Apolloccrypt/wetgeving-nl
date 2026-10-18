@@ -9,7 +9,7 @@ laatste_update: 2024-01-16
 status: geldig
 toestand: 2024-01-16
 bron: "https://wetten.overheid.nl/BWBR0033462"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 22 mei 2013, nr. 0395-2013, houdende beperkende maatregelen ten aanzien van Myanmar/Birma (Sanctieregeling Birma 2013)

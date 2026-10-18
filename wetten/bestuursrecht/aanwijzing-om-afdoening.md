@@ -8,7 +8,7 @@ laatste_update: 2017-04-30
 status: geldig
 toestand: 2017-04-30
 bron: "https://wetten.overheid.nl/BWBR0033342"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-18
 ---
 
 # Aanwijzing OM-Afdoening

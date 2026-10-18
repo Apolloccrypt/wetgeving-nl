@@ -9,7 +9,7 @@ laatste_update: 2013-05-24
 status: geldig
 toestand: 2013-05-24
 bron: "https://wetten.overheid.nl/BWBR0033437"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-18
 ---
 
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 23 april 2013, kenmerk 112320-102565-MC, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake aanvulling van de Aanwijzing contracteerruimte AWBZ 2013 in verband met tariefmaatregel vervoer dagbesteding specifieke groepen

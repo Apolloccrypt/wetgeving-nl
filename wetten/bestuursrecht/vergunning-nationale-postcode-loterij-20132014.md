@@ -9,7 +9,7 @@ laatste_update: 2014-07-18
 status: geldig
 toestand: 2014-07-18
 bron: "https://wetten.overheid.nl/BWBR0033315"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-18
 ---
 
 # Besluit van de raad van bestuur van de kansspelautoriteit van 19 december 2012, met kenmerk 00.005.593, inzake verlening van vergunning tot het organiseren van de postcodeloterij (Vergunning Nationale Postcode Loterij 2013/2014)

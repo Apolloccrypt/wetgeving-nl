@@ -8,7 +8,7 @@ laatste_update: 2013-05-11
 status: geldig
 toestand: 2013-05-11
 bron: "https://wetten.overheid.nl/BWBR0033371"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-18
 ---
 
 # Besluit bezoldiging commissie onderzoek elektronisch stemmen

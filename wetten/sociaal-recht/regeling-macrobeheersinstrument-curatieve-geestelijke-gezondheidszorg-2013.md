@@ -9,7 +9,7 @@ laatste_update: 2013-09-29
 status: geldig
 toestand: 2013-09-29
 bron: "https://wetten.overheid.nl/BWBR0033913"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Macrobeheersinstrument curatieve geestelijke gezondheidszorg 2013

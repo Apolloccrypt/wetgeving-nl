@@ -9,7 +9,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0034450"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 10 december 2013, nr. WJZ/567599 (10422), houdende intrekking van subsidieregelingen op het terrein van cultuur omdat deze hun betekenis hebben verloren, alsmede wijziging van subsidieregelingen op terrein van cultuur en emancipatie in verband met het opnemen van een vervaldatum (Regeling intrekking en wijziging OCW-subsidieregelingen cultuur en emancipatie 2013)

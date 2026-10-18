@@ -9,7 +9,7 @@ laatste_update: 2025-04-03
 status: geldig
 toestand: 2025-04-03
 bron: "https://wetten.overheid.nl/BWBR0034372"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Minister van Economische Zaken van 13 december 2013, nr. WJZ/13200631, houdende regels ten aanzien van de bezoldiging en de schadeloosstelling van de bij de Kamer van Koophandel werkzame functionarissen (Regeling bezoldiging en schadeloosstelling functionarissen Kamer van Koophandel)

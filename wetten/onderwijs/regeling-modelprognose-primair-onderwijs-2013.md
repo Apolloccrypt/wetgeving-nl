@@ -9,7 +9,7 @@ laatste_update: 2013-12-14
 status: geldig
 toestand: 2013-12-14
 bron: "https://wetten.overheid.nl/BWBR0034342"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 30 november 2013, nr. OND/ODS-2013/47687 M, houdende de vaststelling van prognosemodellen in het primair onderwijs (Regeling modelprognose primair onderwijs 2013)

@@ -9,7 +9,7 @@ laatste_update: 2013-07-13
 status: geldig
 toestand: 2013-07-13
 bron: "https://wetten.overheid.nl/BWBR0033658"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Milieu, van 8 juli 2013, nr. IENM/BSK-2013/94936, houdende instelling van de Klankbordgroep Lange Termijn Spooragenda (LTSa)

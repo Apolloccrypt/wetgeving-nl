@@ -9,7 +9,7 @@ laatste_update: 2013-10-26
 status: geldig
 toestand: 2013-10-26
 bron: "https://wetten.overheid.nl/BWBR0034065"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van de Raad van bestuur van de Sociale verzekeringsbank van 18 september 2013, houdende regels omtrent de betaling van een periodieke bijdrage ten laste van het Ouderdomsfonds ten gunste van het Zorgverzekeringsfonds

@@ -9,7 +9,7 @@ laatste_update: 2014-12-31
 status: geldig
 toestand: 2014-12-31
 bron: "https://wetten.overheid.nl/BWBR0033943"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Verordening van het bestuur van het Productschap Tuinbouw van 26 maart 2013, houdende de vaststelling van een bestemmingsheffing ten behoeve van de teelt van bloembollen voor het oogstjaar 2013 (Verordening PT bestemmingsheffing teelt bloembollen oogstjaar 2013)

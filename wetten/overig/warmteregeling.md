@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0033862"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Minister van Economische Zaken van 4 september 2013, nr. WJZ/ 13132689, houdende uitvoering van het Warmtebesluit en de Warmtewet (Warmteregeling)

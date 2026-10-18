@@ -9,7 +9,7 @@ laatste_update: 2014-01-06
 status: geldig
 toestand: 2014-01-06
 bron: "https://wetten.overheid.nl/BWBR0033721"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Wet van 10 juli 2013 houdende aanpassing van wetten aan de Wet basisregistratie personen (Aanpassingswet basisregistratie personen)

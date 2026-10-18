@@ -9,7 +9,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0034228"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 19 november 2013, kenmerk 171319-113432-MC, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake contracteerruimte AWBZ 2014 en enkele andere aangelegenheden

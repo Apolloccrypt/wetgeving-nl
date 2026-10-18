@@ -9,7 +9,7 @@ laatste_update: 2013-07-23
 status: geldig
 toestand: 2013-07-23
 bron: "https://wetten.overheid.nl/BWBR0033596"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Wet van 19 juni 2013, houdende intrekking van de Wet overleg minderhedenbeleid in verband met de herijking van de overlegvorm over het integratiebeleid

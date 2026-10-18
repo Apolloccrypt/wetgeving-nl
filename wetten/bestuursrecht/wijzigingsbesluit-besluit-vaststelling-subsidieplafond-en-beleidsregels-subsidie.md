@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0034373"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken en de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 6 december 2013, nr. DSO/OO-326/13, tot wijziging van het Besluit van de Minister van Buitenlandse Zaken en de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 1 juli 2013, nr. DSO/OO-201/13, tot vaststelling van een subsidieplafond en beleidsregels voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieplafonds 2014 NFP II, NICHE II en MSP II en wijziging beleidsregels MSP II en NICHE II)

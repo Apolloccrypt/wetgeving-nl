@@ -9,7 +9,7 @@ laatste_update: 1859-07-16
 status: geldig
 toestand: 1859-07-16
 bron: "https://wetten.overheid.nl/BWBR0034165"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Koninklijk besluit van 16 julij 1859, No 50, betreffende het opnieuw jaarlijks uitgeven van een Staatsalmanak

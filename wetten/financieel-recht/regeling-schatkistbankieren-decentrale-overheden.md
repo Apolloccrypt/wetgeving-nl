@@ -9,7 +9,7 @@ laatste_update: 2023-10-05
 status: geldig
 toestand: 2023-10-05
 bron: "https://wetten.overheid.nl/BWBR0034336"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Ministers van Financiën, Binnenlandse Zaken en Koninkrijksrelaties en Infrastructuur en Milieu van 5 december 2013 houdende de vaststelling van regels ter uitvoering van het verplicht schatkistbankieren voor decentrale overheden (Regeling schatkistbankieren decentrale overheden)

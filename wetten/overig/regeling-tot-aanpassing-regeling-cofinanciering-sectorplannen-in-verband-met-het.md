@@ -9,7 +9,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0034243"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 27 november 2013, 2013-0000165360, tot aanpassing van de Regeling cofinanciering sectorplannen in verband met het vervallen van de RVU-tegemoetkoming alsmede enkele technische wijzigingen

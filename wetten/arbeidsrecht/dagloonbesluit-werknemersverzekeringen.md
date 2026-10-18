@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0033471"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-18
 ---
 
 # Besluit van 22 mei 2013, houdende regels in verband met het vaststellen van het dagloon op grond van de Ziektewet, de Werkloosheidswet, de Wet werk en inkomen naar arbeidsvermogen en de Wet op de arbeidsongeschiktheidsverzekering (Dagloonbesluit werknemersverzekeringen)

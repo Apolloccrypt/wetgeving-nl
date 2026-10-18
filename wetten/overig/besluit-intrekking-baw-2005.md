@@ -8,7 +8,7 @@ laatste_update: 2013-05-17
 status: geldig
 toestand: 2013-05-17
 bron: "https://wetten.overheid.nl/BWBR0033390"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-18
 ---
 
 # Besluit intrekking BAW 2005

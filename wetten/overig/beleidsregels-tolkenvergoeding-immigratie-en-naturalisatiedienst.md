@@ -9,7 +9,7 @@ laatste_update: 2023-03-07
 status: geldig
 toestand: 2023-03-07
 bron: "https://wetten.overheid.nl/BWBR0033345"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-18
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 1 april 2013, nr. INDUIT13-273, houdende vaststelling van beleidsregels betreffende de vergoeding van tolken bij het horen van vreemdelingen in het kader van de Vreemdelingenwet 2000 (Beleidsregels tolkenvergoeding Immigratie- en Naturalisatiedienst)

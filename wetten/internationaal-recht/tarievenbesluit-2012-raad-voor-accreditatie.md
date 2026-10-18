@@ -8,7 +8,7 @@ laatste_update: 2012-01-01
 status: geldig
 toestand: 2012-01-01
 bron: "https://wetten.overheid.nl/BWBR0033238"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-18
 ---
 
 # Tarievenbesluit 2012 Raad voor Accreditatie

@@ -8,7 +8,7 @@ laatste_update: 2023-07-01
 status: geldig
 toestand: 2023-07-01
 bron: "https://wetten.overheid.nl/BWBR0033787"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Verordening op de Raad voor Toezicht

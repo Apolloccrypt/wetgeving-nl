@@ -9,7 +9,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0034423"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van de Minister van Economische Zaken van 16 december 2013, nr. WJZ/13206623, tot instelling van een Adviescommissie geografische aanduidingen, oorsprongsbenamingen en gegarandeerde traditionele specialiteiten (Instellingsbesluit Adviescommissie geografische aanduidingen, oorsprongsbenamingen en gegarandeerde traditionele specialiteiten)

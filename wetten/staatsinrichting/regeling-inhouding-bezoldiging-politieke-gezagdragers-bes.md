@@ -9,7 +9,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0033934"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 20 september 2013, nr. 2013-0000547251, houdende regels voor inhouding op de bezoldiging van politieke gezagdragers ten behoeve van hun pensioen (Regeling inhouding bezoldiging politieke gezagdragers BES)

@@ -9,7 +9,7 @@ laatste_update: 2013-10-01
 status: geldig
 toestand: 2013-10-01
 bron: "https://wetten.overheid.nl/BWBR0033889"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van 10 september 2013, houdende aanpassing van het Besluit eigen bijdrage rechtsbijstand, het Besluit vergoedingen rechtsbijstand 2000 en het Besluit tarieven ambtshandelingen gerechtsdeurwaarders in verband met aanpassingen van de eigen bijdrage voor de rechtzoekende in geval van verlening van gesubsidieerde rechtsbijstand en de vergoeding van rechtsbijstandverleners (Besluit aanpassingen eigen bijdrage rechtzoekenden en vergoeding rechtsbijstandverleners)

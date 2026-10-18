@@ -8,7 +8,7 @@ laatste_update: 2013-10-20
 status: geldig
 toestand: 2013-10-20
 bron: "https://wetten.overheid.nl/BWBR0034033"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Gedragscode bewindvoerders Wsnp II

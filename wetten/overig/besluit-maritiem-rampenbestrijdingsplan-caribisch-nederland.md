@@ -9,7 +9,7 @@ laatste_update: 2013-07-02
 status: geldig
 toestand: 2013-07-02
 bron: "https://wetten.overheid.nl/BWBR0033625"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van de Minister van Infrastructuur en Milieu, van 11 juni 2013, DG-RWS, RWS-2013/28195/138346 houdende vaststelling van het Maritiem Rampenbestrijdingsplan Caribisch Nederland

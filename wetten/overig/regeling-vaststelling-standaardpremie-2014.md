@@ -9,7 +9,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0034337"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 6 december 2013, kenmerk 178078-114442-Z, houdende vaststelling van de standaardpremie 2014 (Regeling vaststelling standaardpremie 2014)

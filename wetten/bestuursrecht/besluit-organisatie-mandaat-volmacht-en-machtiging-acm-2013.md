@@ -9,7 +9,7 @@ laatste_update: 2026-06-20
 status: geldig
 toestand: 2026-06-20
 bron: "https://wetten.overheid.nl/BWBR0033508"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van de Autoriteit Consument en Markt van 2 april 2013, ACM/DJZ/2013/200833, houdende regels inzake organisatie, mandaat, volmacht en machtiging van de Autoriteit Consument en Markt (Besluit organisatie, mandaat, volmacht en machtiging ACM 2013)

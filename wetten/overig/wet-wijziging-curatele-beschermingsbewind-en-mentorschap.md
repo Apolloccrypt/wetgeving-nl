@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0034090"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Wet van 16 oktober 2013 tot wijziging van enige bepalingen van Boek 1 van het Burgerlijk Wetboek inzake curatele, onderbewindstelling ter bescherming van meerderjarigen en mentorschap ten behoeve van meerderjarigen en enige andere bepalingen (Wet wijziging curatele, beschermingsbewind en mentorschap)

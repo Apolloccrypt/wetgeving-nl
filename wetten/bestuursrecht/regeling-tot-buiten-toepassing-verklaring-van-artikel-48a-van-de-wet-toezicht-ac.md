@@ -9,7 +9,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0034387"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Minister van Financiën van 10 december 2013, FM/2013/2072 M, directie Financiële Markten, tot buiten toepassing verklaring van artikel 48a van de Wet toezicht accountantsorganisaties voor auditorganisaties van een derde land (Regeling tot buiten toepassing verklaring van artikel 48a van de Wet toezicht accountantsorganisaties)

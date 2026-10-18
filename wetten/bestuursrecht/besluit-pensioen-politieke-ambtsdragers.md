@@ -9,7 +9,7 @@ laatste_update: 2022-07-01
 status: geldig
 toestand: 2022-07-01
 bron: "https://wetten.overheid.nl/BWBR0034414"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van 11 december 2013, houdende regels ter uitvoering van de Algemene pensioenwet politieke ambtsdragers (Besluit pensioen politieke ambtsdragers)

@@ -9,7 +9,7 @@ laatste_update: 2020-10-01
 status: geldig
 toestand: 2020-10-01
 bron: "https://wetten.overheid.nl/BWBR0033723"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van 16 juli 2013, houdende vaststelling van de minimumeisen voor de verplichte meldcode huiselijk geweld en kindermishandeling (Besluit verplichte meldcode huiselijk geweld en kindermishandeling)

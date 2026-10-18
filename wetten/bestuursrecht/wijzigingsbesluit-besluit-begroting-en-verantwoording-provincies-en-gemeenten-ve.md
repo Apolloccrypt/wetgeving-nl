@@ -9,7 +9,7 @@ laatste_update: 2013-07-01
 status: geldig
 toestand: 2013-07-01
 bron: "https://wetten.overheid.nl/BWBR0033621"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van 25 juni 2013, houdende wijziging van het Besluit begroting en verantwoording provincies en gemeenten in verband met het versterken van de deugdelijkheid en transparantie van de begroting en de meerjarenraming van provincies en gemeenten en het versterken van de horizontale controle daarop

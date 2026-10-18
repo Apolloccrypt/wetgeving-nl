@@ -9,7 +9,7 @@ laatste_update: 2013-11-01
 status: geldig
 toestand: 2013-11-01
 bron: "https://wetten.overheid.nl/BWBR0033814"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 28 juni 2013, MC-125996-105636, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake beschikbaarheidbijdragen voor ziekenhuisopleidingen

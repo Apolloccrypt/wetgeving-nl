@@ -9,7 +9,7 @@ laatste_update: 2013-04-19
 status: geldig
 toestand: 2013-04-19
 bron: "https://wetten.overheid.nl/BWBR0033259"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 3 april 2013, nr. VCI-069/2013, tot toedeling van de taken en bevoegdheden van de Functionaris Gegevensbescherming BZ

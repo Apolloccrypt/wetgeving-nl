@@ -9,7 +9,7 @@ laatste_update: 2016-12-22
 status: geldig
 toestand: 2016-12-22
 bron: "https://wetten.overheid.nl/BWBR0033574"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Minister voor Wonen en Rijksdienst van 10 juni 2013, nr. 2013-000329677, houdende regels voor de verstrekking van subsidies voor experimenten en kennisoverdrachtactiviteiten op het terrein van het rijksbeleid met betrekking tot het bouwen, het wonen en de woonomgeving (Subsidieregeling experimenten en kennisoverdracht wonen 2013)

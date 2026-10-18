@@ -9,7 +9,7 @@ laatste_update: 2013-04-27
 status: geldig
 toestand: 2013-04-27
 bron: "https://wetten.overheid.nl/BWBR0033336"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-18
 ---
 
 # Besluit van 24 april 2013, houdende de instelling van een herinneringsmedaille ter gelegenheid van de inhuldiging van Onze zoon Willem-Alexander

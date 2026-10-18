@@ -9,7 +9,7 @@ laatste_update: 2013-10-30
 status: geldig
 toestand: 2013-10-30
 bron: "https://wetten.overheid.nl/BWBR0034101"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van de Minister van Infrastructuur en Milieu, van 28 oktober 2013, nr. IENM/BSK-2013/239467, ter vaststelling van de gewogen gemiddelde vermogenskostenvoet, bedoeld in artikel 10, derde lid, van de Drinkwaterwet, voor 2014 en 2015

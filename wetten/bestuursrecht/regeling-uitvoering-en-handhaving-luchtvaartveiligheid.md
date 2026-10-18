@@ -9,7 +9,7 @@ laatste_update: 2022-03-11
 status: geldig
 toestand: 2022-03-11
 bron: "https://wetten.overheid.nl/BWBR0034054"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu van 14 oktober 2013, nr. IENM/BSK-2013/176947, houdende regels in verband met de uitvoering en de handhaving van verordening (EG) nr. 216/2008 van het Europees Parlement en de Raad van 20 februari 2008 tot vaststelling van gemeenschappelijke regels op het gebied van burgerluchtvaart en tot oprichting van een Europees Agentschap voor de veiligheid van de luchtvaart, houdende intrekking van Richtlijn 91/670/EEG, Verordening (EG) nr. 1592/2002 en Richtlijn 2004/36/EG (PbEU L 79) en diverse uitvoeringsverordeningen omtrent luchtvaartveiligheid (Regeling uitvoering en handhaving luchtvaartveiligheid)

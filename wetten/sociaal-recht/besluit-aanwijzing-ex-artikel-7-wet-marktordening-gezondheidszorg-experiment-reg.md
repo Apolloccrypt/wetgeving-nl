@@ -9,7 +9,7 @@ laatste_update: 2013-08-01
 status: geldig
 toestand: 2013-08-01
 bron: "https://wetten.overheid.nl/BWBR0033576"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 13 juni 2013, 119252-104109-MC, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake verlenging van het Experiment regelarme instellingen in de langdurige zorg

@@ -9,7 +9,7 @@ laatste_update: 2013-10-12
 status: geldig
 toestand: 2013-10-12
 bron: "https://wetten.overheid.nl/BWBR0033996"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, nr. 544330, van 2 oktober 2013, tot geheimhouding aanbestedingen met betrekking tot beveiligingsinstallaties landelijke publieke mediadienst

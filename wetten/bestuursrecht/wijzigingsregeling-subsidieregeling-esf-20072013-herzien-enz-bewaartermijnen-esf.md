@@ -9,7 +9,7 @@ laatste_update: 2013-07-01
 status: geldig
 toestand: 2013-07-01
 bron: "https://wetten.overheid.nl/BWBR0033609"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 24 juni 2013 tot wijziging van de Subsidieregeling ESF 2007–2013 (herzien), ESF EQUAL en de Subsidieregeling ESF-3 in verband met de bewaartermijnen betreffende ESF stukken en tot verstrekking van een tegemoetkoming voor bewaarkosten Subsidieregeling ESF-3

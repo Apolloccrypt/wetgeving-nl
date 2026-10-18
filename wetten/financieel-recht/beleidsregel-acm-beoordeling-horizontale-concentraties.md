@@ -9,7 +9,7 @@ laatste_update: 2013-04-01
 status: geldig
 toestand: 2013-04-01
 bron: "https://wetten.overheid.nl/BWBR0033395"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-18
 ---
 
 # Beleidsregel NMa beoordeling horizontale concentraties

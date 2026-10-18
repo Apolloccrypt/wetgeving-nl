@@ -9,7 +9,7 @@ laatste_update: 2021-04-22
 status: geldig
 toestand: 2021-04-22
 bron: "https://wetten.overheid.nl/BWBR0034299"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van 25 november 2013 houdende vaststelling van de bestanddelen van de beeldenaars van de nationale zijde van Nederlandse euromunten met de beeltenis van Koning Willem-Alexander

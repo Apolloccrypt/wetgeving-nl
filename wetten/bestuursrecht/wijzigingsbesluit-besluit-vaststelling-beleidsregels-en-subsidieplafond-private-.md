@@ -9,7 +9,7 @@ laatste_update: 2014-02-20
 status: geldig
 toestand: 2014-02-20
 bron: "https://wetten.overheid.nl/BWBR0033651"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 4 juli 2013, nr. DJZ/BR/0534-2013, tot bekendmaking van de tweede openstelling van het Private Sector Investeringsprogramma en tot wijziging van de het besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 4 december 2012, nr. DDE583/2012, tot vaststelling van beleidsregels en een subsidieplafond voor het Private Sector Investeringsprogramma

@@ -9,7 +9,7 @@ laatste_update: 2013-09-15
 status: geldig
 toestand: 2013-09-15
 bron: "https://wetten.overheid.nl/BWBR0033868"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 10 september 2013-0000124864, tot wijziging van de Subsidieregeling scholing jonggehandicapten met ernstige scholingsbelemmeringen (evaluatie)

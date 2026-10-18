@@ -9,7 +9,7 @@ laatste_update: 2013-10-18
 status: geldig
 toestand: 2013-10-18
 bron: "https://wetten.overheid.nl/BWBR0034050"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Wet van 9 oktober 2013 tot wijziging van de Wet op de naburige rechten in verband met de omzetting van Richtlijn 2011/77/EU van het Europees Parlement en de Europese Raad van 27 september 2011 tot wijziging van de Richtlijn 2006/116/EG betreffende de beschermingstermijn van het auteursrecht en bepaalde naburige rechten

@@ -9,7 +9,7 @@ laatste_update: 2013-05-30
 status: geldig
 toestand: 2013-05-30
 bron: "https://wetten.overheid.nl/BWBR0033466"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-18
 ---
 
 # Wet van 14 mei 2013 tot wijziging van de Invorderingswet 1990 (Wet uitstel van betaling exitheffingen)

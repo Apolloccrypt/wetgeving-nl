@@ -9,7 +9,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0034335"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van 25 november 2013, houdende aanpassing van algemene maatregelen van bestuur aan de Wet op de Kamer van Koophandel (Aanpassingsbesluit Wet op de Kamer van Koophandel)

@@ -9,7 +9,7 @@ laatste_update: 2013-08-22
 status: geldig
 toestand: 2013-08-22
 bron: "https://wetten.overheid.nl/BWBR0033772"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Minister van Economische Zaken van 16 augustus 2013, nr. WJZ/13140027, houdende de vaststelling van een procedure voor het aanwijzen van een adviseur en de wijze waarop deze tot een advies komt inzake een tegemoetkoming in de planschade aangaande energie-infrastructuurprojecten (Beleidsregel advisering planschadeverzoeken)

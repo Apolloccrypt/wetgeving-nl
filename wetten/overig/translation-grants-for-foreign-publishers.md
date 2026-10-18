@@ -9,7 +9,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0034401"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Translation Grants for Foreign

@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0033463"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-18
 ---
 
 # Regeling van het College voor examens van 16 april 2013, nummer Cve-13.01219, houdende vaststelling van de syllabi voor de centrale examens in het v.w.o., h.a.v.o. en v.m.b.o. 2015, initiële vaststelling toetswijzer rekentoets VO 2014, tevens nadere vaststelling van enkele syllabi 2014 (Regeling syllabi centrale examens VO 2015)

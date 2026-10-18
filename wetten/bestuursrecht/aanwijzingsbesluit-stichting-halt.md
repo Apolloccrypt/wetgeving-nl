@@ -9,7 +9,7 @@ laatste_update: 2013-04-23
 status: geldig
 toestand: 2013-04-23
 bron: "https://wetten.overheid.nl/BWBR0033304"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-18
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 9 april 2013, nr. 353422, tot aanwijzing van stichting Halt als Halt-bureau en tot intrekking van het Mandaatbesluit stichting Halt Nederland (Aanwijzingsbesluit stichting Halt)

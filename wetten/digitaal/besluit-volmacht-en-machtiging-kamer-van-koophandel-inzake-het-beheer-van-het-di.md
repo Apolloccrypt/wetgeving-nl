@@ -9,7 +9,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0034364"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Volmacht en machtiging van de Minister van Economische Zaken van 9 december 2013, nr. WJZ/13207360, aan de Kamer van Koophandel inzake het beheer van het digitaal ondernemingsplein

@@ -8,7 +8,7 @@ laatste_update: 2023-06-21
 status: geldig
 toestand: 2023-06-21
 bron: "https://wetten.overheid.nl/BWBR0033780"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Verordening op de voorzitter

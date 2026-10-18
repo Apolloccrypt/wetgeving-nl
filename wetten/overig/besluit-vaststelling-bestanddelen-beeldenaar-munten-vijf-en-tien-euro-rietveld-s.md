@@ -9,7 +9,7 @@ laatste_update: 2013-07-04
 status: geldig
 toestand: 2013-07-04
 bron: "https://wetten.overheid.nl/BWBR0033637"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van 19 juni 2013, houdende vaststelling van de bestanddelen van de beeldenaar van de munten van vijf en tien euro «Rietveld Schröderhuis» die in 2013 worden uitgegeven in de thematische serie Nederlands Werelderfgoed

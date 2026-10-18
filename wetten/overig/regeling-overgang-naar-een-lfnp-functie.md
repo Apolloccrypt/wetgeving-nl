@@ -9,7 +9,7 @@ laatste_update: 2025-04-01
 status: geldig
 toestand: 2025-04-01
 bron: "https://wetten.overheid.nl/BWBR0033405"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 8 mei 2013, nr. 382428, directoraat-generaal Politie/Programma Arbeidsvoorwaarden, houdende, de overgang van ambtenaren naar een functie van het Landelijk Functiegebouw Nederlandse Politie (Regeling overgang naar een LFNP functie)

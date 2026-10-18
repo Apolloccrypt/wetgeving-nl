@@ -9,7 +9,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0034402"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van 6 december 2013 tot wijziging van het Besluit Gedragstoezicht financiële ondernemingen Wft, het Besluit markttoegang financiële ondernemingen Wft, het Besluit prudentiële regels Wft en enige andere besluiten op het terrein van de financiële markten (Wijzigingsbesluit financiële markten 2014)

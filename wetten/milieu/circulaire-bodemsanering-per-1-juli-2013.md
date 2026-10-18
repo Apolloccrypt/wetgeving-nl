@@ -8,7 +8,7 @@ laatste_update: 2013-07-01
 status: geldig
 toestand: 2013-07-01
 bron: "https://wetten.overheid.nl/BWBR0033592"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Circulaire bodemsanering per 1 juli 2013

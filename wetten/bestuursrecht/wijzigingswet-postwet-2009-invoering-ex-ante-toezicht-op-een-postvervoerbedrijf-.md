@@ -9,7 +9,7 @@ laatste_update: 2017-08-01
 status: geldig
 toestand: 2017-08-01
 bron: "https://wetten.overheid.nl/BWBR0034247"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Wet van 25 november 2013 tot wijziging van de Postwet 2009 ter invoering van ex ante toezicht op een postvervoerbedrijf met aanmerkelijke marktmacht

@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0033385"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-18
 ---
 
 # Besluit van 6 mei 2013, houdende regels ten aanzien van het landelijk parket en het functioneel parket, alsmede ten aanzien van het mandateren van bevoegdheden van de officier van justitie

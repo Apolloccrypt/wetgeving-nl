@@ -9,7 +9,7 @@ laatste_update: 2015-04-01
 status: geldig
 toestand: 2015-04-01
 bron: "https://wetten.overheid.nl/BWBR0033712"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Wet van 10 juli 2013 tot wijziging van de Wet vervoer gevaarlijke stoffen en enige andere wetten in verband met de totstandkoming van een basisnet (Wet basisnet)

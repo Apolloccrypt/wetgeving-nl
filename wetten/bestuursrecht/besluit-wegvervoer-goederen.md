@@ -9,7 +9,7 @@ laatste_update: 2013-06-29
 status: geldig
 toestand: 2013-06-29
 bron: "https://wetten.overheid.nl/BWBR0033600"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van 14 juni 2013, houdende uitvoering van de Wet wegvervoer goederen en houdende wijziging van het Besluit personenvervoer 2000 en het Besluit justitiële en strafvorderlijke gegevens (Besluit wegvervoer goederen)

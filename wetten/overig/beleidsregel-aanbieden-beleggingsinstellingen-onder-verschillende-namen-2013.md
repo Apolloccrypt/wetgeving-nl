@@ -9,7 +9,7 @@ laatste_update: 2013-10-28
 status: geldig
 toestand: 2013-10-28
 bron: "https://wetten.overheid.nl/BWBR0034077"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Beleidsregel van de Stichting Autoriteit Financiële Markten inzake het aanbieden van beleggingsinstellingen of icbe’s onder verschillende namen (Beleidsregel Aanbieden beleggingsinstellingen of icbe’s onder verschillende namen 2013)

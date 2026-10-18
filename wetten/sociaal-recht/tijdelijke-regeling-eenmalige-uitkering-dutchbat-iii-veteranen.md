@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-10-15
 toestand: 2021-10-16
 bron: "https://wetten.overheid.nl/BWBR0045697"
-opgehaald: 2026-10-17
+opgehaald: 2026-10-18
 ---
 
 # Tijdelijke Regeling eenmalige uitkering Dutchbat-III-veteranen

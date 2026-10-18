@@ -9,7 +9,7 @@ laatste_update: 2013-08-31
 status: geldig
 toestand: 2013-08-31
 bron: "https://wetten.overheid.nl/BWBR0033798"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van de manager divisie CCV van het CBR houdende vaststelling van beleidsregels betreffende het afgeven, schorsen en intrekken van erkenningen van opleidingsinstituten en certificeringen van nascholingscursussen (Raamwerk nascholingscursussen Code 95 en ADR/ADN)

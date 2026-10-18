@@ -8,7 +8,7 @@ laatste_update: 2013-12-10
 status: geldig
 toestand: 2013-12-10
 bron: "https://wetten.overheid.nl/BWBR0034312"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Circulaire van 2 december 2013, nr. 2013-0000699265, inhoudende wijzigingen van de bedragen per 1 januari 2014 van de (onkosten)vergoedingen voor de commissarissen van de Koning, de leden van provinciale staten, leden gedeputeerde staten en commissieleden

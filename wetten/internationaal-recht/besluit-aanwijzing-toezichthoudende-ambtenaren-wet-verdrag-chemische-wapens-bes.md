@@ -9,7 +9,7 @@ laatste_update: 2013-11-15
 status: geldig
 toestand: 2013-11-15
 bron: "https://wetten.overheid.nl/BWBR0034172"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingszaken van 29 oktober 2013, nr. DJZ/BR/0673-13, houdende aanwijzing toezichthoudende ambtenaren Wet verdrag chemische wapens BES

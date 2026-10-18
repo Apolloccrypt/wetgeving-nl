@@ -9,7 +9,7 @@ laatste_update: 2025-02-12
 status: geldig
 toestand: 2025-02-12
 bron: "https://wetten.overheid.nl/BWBR0034026"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Wet van 25 september 2013, houdende regels omtrent de basisregistratie grootschalige topografie (Wet basisregistratie grootschalige topografie)

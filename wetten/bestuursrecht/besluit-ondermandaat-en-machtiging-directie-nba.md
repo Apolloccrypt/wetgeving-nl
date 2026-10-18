@@ -9,7 +9,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0034102"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van de directie van de Nederlandse beroepsorganisatie van accountants houdende regels inzake ondermandaat en machtiging (Besluit ondermandaat en machtiging directie NBA)

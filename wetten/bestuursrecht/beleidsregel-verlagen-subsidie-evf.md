@@ -9,7 +9,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0034285"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van de Staatssecretaris van Economische Zaken van 27 november 2013, nr. WJZ/13123850, houdende beleidsregel omtrent het verlagen van subsidie in het kader van verordening (EG) nr. 1198/2006 inzake het Europees Visserijfonds (Beleidsregel verlagen subsidie EVF)

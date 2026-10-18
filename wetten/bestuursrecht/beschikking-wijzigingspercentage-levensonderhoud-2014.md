@@ -9,7 +9,7 @@ laatste_update: 2013-12-01
 status: geldig
 toestand: 2013-12-01
 bron: "https://wetten.overheid.nl/BWBR0034064"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Beschikking van de Staatssecretaris van Veiligheid en Justitie van 15 oktober, nr. 438935, tot vaststelling van het percentage waarmee de bedragen voor levensonderhoud met ingang van 1 januari 2014 worden verhoogd (Beschikking wijzigingspercentage levensonderhoud 2014)

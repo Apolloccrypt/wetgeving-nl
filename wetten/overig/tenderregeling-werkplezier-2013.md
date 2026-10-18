@@ -8,7 +8,7 @@ laatste_update: 2016-03-04
 status: geldig
 toestand: 2016-03-04
 bron: "https://wetten.overheid.nl/BWBR0034274"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Tenderregeling Werkplezier 2013

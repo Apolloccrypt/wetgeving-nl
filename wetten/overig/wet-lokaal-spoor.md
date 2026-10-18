@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0034363"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Wet van 10 juli 2013, houdende regels over de aanleg, het beheer, het gebruik en de veiligheid van lokale spoorwegen (Wet lokaal spoor)

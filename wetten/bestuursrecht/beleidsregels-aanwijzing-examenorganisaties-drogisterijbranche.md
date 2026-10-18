@@ -9,7 +9,7 @@ laatste_update: 2013-07-02
 status: geldig
 toestand: 2013-07-02
 bron: "https://wetten.overheid.nl/BWBR0033614"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 21 juni 2013, 124046-105228-GMT houdende Beleidsregels aanwijzing examenorganisaties drogisterijbranche

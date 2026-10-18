@@ -9,7 +9,7 @@ laatste_update: 2013-06-15
 status: geldig
 toestand: 2013-06-15
 bron: "https://wetten.overheid.nl/BWBR0033531"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van 30 mei 2013, houdende vaststelling van de bestanddelen van de beeldenaar van de munten van tien, twintig en vijftig euro ter gelegenheid van de aanvaarding van de troon door Koning Willem-Alexander

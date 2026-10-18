@@ -9,7 +9,7 @@ laatste_update: 2013-05-25
 status: geldig
 toestand: 2013-05-25
 bron: "https://wetten.overheid.nl/BWBR0033436"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 16 mei 2013, nr. 382511, houdende verlening van mandaat, volmacht en machtiging aan de korpschef van het landelijk politiekorps inzake het beheer van de FIU-Nederland

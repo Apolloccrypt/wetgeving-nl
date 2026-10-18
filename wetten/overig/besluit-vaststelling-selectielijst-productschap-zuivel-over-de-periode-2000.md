@@ -8,7 +8,7 @@ laatste_update: 2013-04-20
 status: geldig
 toestand: 2013-04-20
 bron: "https://wetten.overheid.nl/BWBR0033244"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-18
 ---
 
 # Besluit vaststelling selectielijst Productschap Zuivel, over de periode 2000–

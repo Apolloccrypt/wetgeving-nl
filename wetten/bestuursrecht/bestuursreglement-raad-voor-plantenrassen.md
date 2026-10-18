@@ -9,7 +9,7 @@ laatste_update: 2017-05-31
 status: geldig
 toestand: 2017-05-31
 bron: "https://wetten.overheid.nl/BWBR0034441"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Bestuursreglement van de Raad voor plantenrassen

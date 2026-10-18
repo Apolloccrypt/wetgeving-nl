@@ -9,7 +9,7 @@ laatste_update: 2025-05-17
 status: geldig
 toestand: 2025-05-17
 bron: "https://wetten.overheid.nl/BWBR0034184"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van de directeur-generaal van Rijkswaterstaat van 11 maart 2013, met kenmerk RWS/SDG-2013/12895, houdende verlening van mandaat, volmacht en machtiging (Besluit mandaat, volmacht en machtiging Rijkswaterstaat 2013)

@@ -9,7 +9,7 @@ laatste_update: 2014-11-01
 status: geldig
 toestand: 2014-11-01
 bron: "https://wetten.overheid.nl/BWBR0033316"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-18
 ---
 
 # Wet van 28 maart 2013 tot wijziging van de Crisis- en herstelwet en diverse andere wetten in verband met het permanent maken van de Crisis- en herstelwet en het aanbrengen van enkele verbeteringen op het terrein van het omgevingsrecht

@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0034313"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken van 2 december 2013, nr. WJZ/13199396, houdende de indeling en prijsregistratie van runder- en varkenskarkassen (Regeling marktordening vlees)

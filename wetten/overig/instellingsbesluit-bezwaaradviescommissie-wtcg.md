@@ -9,7 +9,7 @@ laatste_update: 2011-01-22
 status: geldig
 toestand: 2011-01-22
 bron: "https://wetten.overheid.nl/BWBR0033432"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-18
 ---
 
 # Besluit van het bestuur van het CAK van 10 januari 2011, houdende instelling van een bezwaaradviescommissie (Instellingsbesluit Bezwaaradviescommissie Wtcg)

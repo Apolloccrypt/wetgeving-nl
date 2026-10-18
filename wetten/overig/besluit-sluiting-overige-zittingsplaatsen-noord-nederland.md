@@ -9,7 +9,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0034463"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van de Minister van Veiligheid en Justitie van 10 december 2013, nr. 457494, houdende toepassing van artikel 21b, tweede lid, van de Wet op de rechterlijke organisatie (Besluit sluiting overige zittingsplaatsen Noord-Nederland)

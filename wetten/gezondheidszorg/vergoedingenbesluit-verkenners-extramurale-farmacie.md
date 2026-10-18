@@ -9,7 +9,7 @@ laatste_update: 2013-12-14
 status: geldig
 toestand: 2013-12-14
 bron: "https://wetten.overheid.nl/BWBR0034351"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 4 december 2013, 175522-113938-GMT, houdende vaststelling van de vergoedingen van de verkenners extramurale farmacie

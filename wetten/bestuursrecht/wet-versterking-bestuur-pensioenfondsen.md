@@ -9,7 +9,7 @@ laatste_update: 2013-08-07
 status: geldig
 toestand: 2013-08-07
 bron: "https://wetten.overheid.nl/BWBR0033702"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Wet van 10 juli 2013 tot wijziging van de Pensioenwet en enige andere wetten in verband met versterking van het bestuur bij pensioenfondsen en enige andere wijzigingen (Wet versterking bestuur pensioenfondsen)

@@ -8,7 +8,7 @@ laatste_update: 2017-02-28
 status: geldig
 toestand: 2017-02-28
 bron: "https://wetten.overheid.nl/BWBR0034160"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Bevoegdhedenregeling NWO 2013

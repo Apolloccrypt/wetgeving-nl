@@ -9,7 +9,7 @@ laatste_update: 2014-02-01
 status: geldig
 toestand: 2014-02-01
 bron: "https://wetten.overheid.nl/BWBR0034296"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 28 november 2013, kenmerk 169317-113129-MC, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake macrobeheersinstrument voor de geneeskundige geestelijke gezondheidszorg

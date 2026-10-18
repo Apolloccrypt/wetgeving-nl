@@ -9,7 +9,7 @@ laatste_update: 2013-10-04
 status: geldig
 toestand: 2013-10-04
 bron: "https://wetten.overheid.nl/BWBR0033976"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van 30 september 2013, houdende aanwijzing aan Gouverneur van Sint Maarten tot het gelasten van onderzoek naar het functioneren van het openbaar bestuur van Sint Maarten

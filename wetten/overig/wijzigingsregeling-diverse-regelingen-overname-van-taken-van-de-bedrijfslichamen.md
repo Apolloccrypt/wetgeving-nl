@@ -9,7 +9,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0034328"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken 2 december 2013, nr. WJZ/13161483, houdende wijziging van diverse regelingen in verband met de overname van taken van de bedrijfslichamen

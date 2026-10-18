@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0034327"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 3 december 2013, nr. 2013-0000731182, DCB/CZW/S&B, houdende regels ter uitvoering van de Wet basisregistratie personen en het Besluit basisregistratie personen (Regeling basisregistratie personen)

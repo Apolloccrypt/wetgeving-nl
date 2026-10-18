@@ -8,7 +8,7 @@ laatste_update: 2013-12-11
 status: geldig
 toestand: 2013-12-11
 bron: "https://wetten.overheid.nl/BWBR0034326"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Archiefbeheersregeling voor het CAK 2014

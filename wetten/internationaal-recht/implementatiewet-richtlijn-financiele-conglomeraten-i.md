@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0034082"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Wet van 9 oktober 2013 tot wijziging van de Wet op het financieel toezicht ter implementatie van richtlijn 2011/89/EU van het Europees Parlement en de Raad van 16 november 2011 houdende wijziging van de Richtlijnen 98/78/EG, 2002/87/EG, 2006/48/EG en 2009/138/EG betreffende het aanvullende toezicht op financiële entiteiten in een financieel conglomeraat (PbEU 2011, L 326) (Implementatiewet richtlijn financiële conglomeraten I)

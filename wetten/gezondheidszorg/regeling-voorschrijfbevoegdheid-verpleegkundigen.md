@@ -9,7 +9,7 @@ laatste_update: 2016-03-19
 status: geldig
 toestand: 2016-03-19
 bron: "https://wetten.overheid.nl/BWBR0034266"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport, van 19 november 2013, kenmerk MEVA-164800-112408, houdende het voorschrijven van UR-geneesmiddelen door bepaalde categorieën van verpleegkundigen

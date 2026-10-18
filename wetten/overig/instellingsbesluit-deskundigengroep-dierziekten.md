@@ -9,7 +9,7 @@ laatste_update: 2023-04-01
 status: geldig
 toestand: 2023-04-01
 bron: "https://wetten.overheid.nl/BWBR0033893"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van de Staatssecretaris van Economische Zaken van 11 september 2013, nr. WJZ/13131948, houdende instelling van de Deskundigengroep dierziekten (Instellingsbesluit Deskundigengroep dierziekten)

@@ -9,7 +9,7 @@ laatste_update: 2013-06-21
 status: geldig
 toestand: 2013-06-21
 bron: "https://wetten.overheid.nl/BWBR0033565"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van 10 juni 2013, nr. 13.001140 houdende departementale herindeling met betrekking tot visa lang verblijf

@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0033323"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-18
 ---
 
 # Besluit van 3 april 2013, houdende regels inzake de verstrekking van voedselinformatie aan consumenten (Warenwetbesluit informatie levensmiddelen)

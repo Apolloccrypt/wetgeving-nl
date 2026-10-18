@@ -9,7 +9,7 @@ laatste_update: 2013-07-13
 status: geldig
 toestand: 2013-07-13
 bron: "https://wetten.overheid.nl/BWBR0033657"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Milieu, van 8 juli 2013, nr. IENM/BSK-2013/94942, houdende instelling van het Critical Review Team Lange Termijn Spooragenda

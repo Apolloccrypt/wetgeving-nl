@@ -8,7 +8,7 @@ laatste_update: 2013-03-01
 status: geldig
 toestand: 2013-03-01
 bron: "https://wetten.overheid.nl/BWBR0033572"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # CBP richtsnoeren: beveiliging van persoonsgegevens

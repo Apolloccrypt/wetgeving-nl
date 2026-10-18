@@ -9,7 +9,7 @@ laatste_update: 2013-06-13
 status: geldig
 toestand: 2013-06-13
 bron: "https://wetten.overheid.nl/BWBR0033506"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van de Autoriteit Consument en Markt van 2 mei 2013, ACM/DJZ/2013/200952, tot vaststelling van nadere regels voor de behandeling van klachten (Klachtenregeling ACM)

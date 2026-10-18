@@ -8,7 +8,7 @@ laatste_update: 2001-02-09
 status: geldig
 toestand: 2001-02-09
 bron: "https://wetten.overheid.nl/BWBR0033380"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-18
 ---
 
 # Besluit toerekeningssysteem postvervoer

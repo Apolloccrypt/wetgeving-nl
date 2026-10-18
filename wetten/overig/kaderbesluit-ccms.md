@@ -9,7 +9,7 @@ laatste_update: 2007-10-20
 status: geldig
 toestand: 2007-10-20
 bron: "https://wetten.overheid.nl/BWBR0033520"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van 9 februari 2004 houdende de algemene eisen voor de opleiding, registratie en herregistratie van medisch specialisten en voor de erkenning van opleiders, plaatsvervangend opleiders, stageopleiders en opleidingsinrichtingen

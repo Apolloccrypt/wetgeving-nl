@@ -9,7 +9,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0034020"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 14 oktober 2013, houdende indexering van de maximum uurprijs in het kader van de kinderopvangtoeslag (Regeling indexering maximum uurprijs kinderopvang 2014)

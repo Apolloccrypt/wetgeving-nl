@@ -8,7 +8,7 @@ laatste_update: 2013-05-14
 status: geldig
 toestand: 2013-05-14
 bron: "https://wetten.overheid.nl/BWBR0033422"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-18
 ---
 
 # Bestuursreglement Commissie eindtermen accountantsopleiding (CEA)

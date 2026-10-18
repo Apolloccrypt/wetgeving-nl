@@ -9,7 +9,7 @@ laatste_update: 2022-10-04
 status: geldig
 toestand: 2022-10-04
 bron: "https://wetten.overheid.nl/BWBR0033530"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Besluit van 30 mei 2013, houdende regels voor het verstrekken van subsidies door de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister voor Wonen en Rijksdienst (Kaderbesluit BZK-subsidies)

@@ -9,7 +9,7 @@ laatste_update: 2013-12-18
 status: geldig
 toestand: 2013-12-18
 bron: "https://wetten.overheid.nl/BWBR0034367"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-18
 ---
 
 # Wet van 4 december 2013 tot bepaling van de jaarlijkse uitkering aan de regent
