@@ -9,7 +9,7 @@ laatste_update: 2014-07-01
 status: geldig
 toestand: 2014-07-01
 bron: "https://wetten.overheid.nl/BWBR0034933"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van 1 maart 2014 tot uitbreiding van het toepassingsgebied van de titels 9.3 en 9.3a van hoofdstuk 9 van de Wet milieubeheer en van enkele op dat hoofdstuk gebaseerde besluiten tot de exclusieve economische zone (Besluit gedeeltelijke uitbreiding toepassingsgebied hoofdstuk 9 Wet milieubeheer tot de EEZ)

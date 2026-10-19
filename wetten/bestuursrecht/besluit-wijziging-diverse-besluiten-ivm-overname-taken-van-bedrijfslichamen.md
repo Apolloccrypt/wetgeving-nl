@@ -9,7 +9,7 @@ laatste_update: 2014-07-01
 status: geldig
 toestand: 2014-07-01
 bron: "https://wetten.overheid.nl/BWBR0035088"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van 14 april 2014, houdende wijziging van diverse besluiten in verband met de overname van taken van de bedrijfslichamen

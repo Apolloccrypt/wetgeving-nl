@@ -9,7 +9,7 @@ laatste_update: 2014-02-12
 status: geldig
 toestand: 2014-02-12
 bron: "https://wetten.overheid.nl/BWBR0034792"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de algemene raad tot beperking van de openbaarheid van het naar het Nationaal Archief over te brengen archief van de Nederlandse orde van advocaten, 1971–1993(1994)

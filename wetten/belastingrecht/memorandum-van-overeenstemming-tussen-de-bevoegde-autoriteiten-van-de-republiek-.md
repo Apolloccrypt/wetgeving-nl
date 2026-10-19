@@ -8,7 +8,7 @@ laatste_update: 2014-06-04
 status: geldig
 toestand: 2014-06-04
 bron: "https://wetten.overheid.nl/BWBR0035226"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Memorandum van Overeenstemming tussen de bevoegde autoriteiten van de Republiek Argentinië en Nederland inzake automatische inlichtingenuitwisseling voor belastingdoeleinden

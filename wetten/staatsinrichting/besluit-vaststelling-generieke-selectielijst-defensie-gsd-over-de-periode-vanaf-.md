@@ -9,7 +9,7 @@ laatste_update: 2014-03-07
 status: geldig
 toestand: 2014-03-07
 bron: "https://wetten.overheid.nl/BWBR0034869"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit vaststelling van de Generieke Selectielijst Defensie (GSD) over de periode vanaf 1945

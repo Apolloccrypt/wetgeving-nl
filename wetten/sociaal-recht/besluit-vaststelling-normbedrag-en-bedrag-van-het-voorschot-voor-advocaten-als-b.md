@@ -9,7 +9,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0034493"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 13 december 2013, nr. 463312, houdende vaststelling van het normbedrag en het bedrag van het voorschot voor advocaten als bedoeld in het Besluit vergoedingen rechtsbijstand 2000

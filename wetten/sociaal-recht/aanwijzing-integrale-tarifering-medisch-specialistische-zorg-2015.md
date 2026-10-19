@@ -9,7 +9,7 @@ laatste_update: 2014-07-01
 status: geldig
 toestand: 2014-07-01
 bron: "https://wetten.overheid.nl/BWBR0035137"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 21 mei 2014, kenmerk 371987-120847-MC, op grond van de Wet marktordening gezondheidszorg inzake invoering integrale tarifering medisch specialistische zorg en kaakchirurgie

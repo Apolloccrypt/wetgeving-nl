@@ -9,7 +9,7 @@ laatste_update: 2014-01-24
 status: geldig
 toestand: 2014-01-24
 bron: "https://wetten.overheid.nl/BWBR0034697"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 16 januari 2014, kenmerk 178661-114563-Z, inzake de besteedbare middelen ter dekking van de beheerskosten AWBZ 2014 (Aanwijzing besteedbare middelen beheerskosten AWBZ 2014)

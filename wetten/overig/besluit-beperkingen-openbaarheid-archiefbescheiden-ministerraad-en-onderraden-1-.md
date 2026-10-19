@@ -9,7 +9,7 @@ laatste_update: 2014-06-29
 status: geldig
 toestand: 2014-06-29
 bron: "https://wetten.overheid.nl/BWBR0035244"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Minister-President, Minister van Algemene Zaken van 29 augustus 2013, nr. 3720024 inzake beperkingen aan de openbaarheid van in de verklaring van overbrenging van de notulen en bescheiden van de ministerraad en onderraden (1 januari 1990 – 1 januari 1991) genoemde archiefbescheiden

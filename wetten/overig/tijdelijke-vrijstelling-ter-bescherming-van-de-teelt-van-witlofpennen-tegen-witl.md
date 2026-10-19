@@ -9,7 +9,7 @@ laatste_update: 2014-07-10
 status: geldig
 toestand: 2014-07-10
 bron: "https://wetten.overheid.nl/BWBR0035304"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Staatssecretaris van Economische Zaken, van 26 juni 2014, nr. 14101915, houdende tijdelijke vrijstelling op grond van artikel 38 van de Wet gewasbeschermingsmiddelen en biociden ter bestrijding van de witlofmineervlieg in de teelt van witlofpennen (Tijdelijke vrijstelling ter bescherming van de teelt van witlofpennen tegen witlofmineervlieg 2014)

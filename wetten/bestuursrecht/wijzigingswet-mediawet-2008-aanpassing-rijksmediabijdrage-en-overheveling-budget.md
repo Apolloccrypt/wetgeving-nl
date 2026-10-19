@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0034560"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Wet van 18 december 2013 tot wijziging van onder meer de Mediawet 2008 in verband met onder meer aanpassing van de rijksmediabijdrage en overheveling van het budget voor de bekostiging van de regionale omroepen van het provinciefonds naar de mediabegroting

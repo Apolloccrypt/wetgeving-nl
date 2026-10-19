@@ -9,7 +9,7 @@ laatste_update: 2014-03-01
 status: geldig
 toestand: 2014-03-01
 bron: "https://wetten.overheid.nl/BWBR0034702"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Besluit van 6 januari 2014 tot wijziging van het Activiteitenbesluit milieubeheer, het Besluit omgevingsrecht en enkele andere besluiten (nieuwe activiteiten en herstel van gebreken van wetstechnische en inhoudelijk ondergeschikte aard)

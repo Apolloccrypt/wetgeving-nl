@@ -8,7 +8,7 @@ laatste_update: 2024-08-09
 status: geldig
 toestand: 2024-08-09
 bron: "https://wetten.overheid.nl/BWBR0034802"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # ACM Werkwijze voor onderzoek in digitale gegevens 2014

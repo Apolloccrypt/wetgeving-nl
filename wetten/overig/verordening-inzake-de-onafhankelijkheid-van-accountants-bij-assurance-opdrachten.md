@@ -8,7 +8,7 @@ laatste_update: 2025-12-24
 status: geldig
 toestand: 2025-12-24
 bron: "https://wetten.overheid.nl/BWBR0034652"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Verordening inzake de onafhankelijkheid van accountants bij assurance-opdrachten

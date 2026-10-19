@@ -9,7 +9,7 @@ laatste_update: 2023-01-21
 status: geldig
 toestand: 2023-01-21
 bron: "https://wetten.overheid.nl/BWBR0035560"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van 1 september 2014, houdende regels voor het aanduiden van de hoeveelheid op voorverpakkingen (Warenwetbesluit hoeveelheden voorverpakkingen)

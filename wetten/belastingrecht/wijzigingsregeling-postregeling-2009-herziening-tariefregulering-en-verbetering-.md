@@ -9,7 +9,7 @@ laatste_update: 2014-01-29
 status: geldig
 toestand: 2014-01-29
 bron: "https://wetten.overheid.nl/BWBR0034725"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Minister van Economische Zaken van 28 januari 2014, nr. WJZ/14007819, tot wijziging van de Postregeling 2009 ter herziening van de tariefregulering en verbetering van het inzicht in de kosten van de universele postdienstverlening

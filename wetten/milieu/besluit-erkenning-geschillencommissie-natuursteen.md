@@ -9,7 +9,7 @@ laatste_update: 2014-03-12
 status: geldig
 toestand: 2014-03-12
 bron: "https://wetten.overheid.nl/BWBR0034895"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Minister van Veiligheid en Justitie van 27 februari 2014, nr. 489424, houdende erkenning van de Geschillencommissie Natuursteen als geschillencommissie zoals bedoeld in de Erkenningsregeling geschillencommissie consumentenklachten 1997

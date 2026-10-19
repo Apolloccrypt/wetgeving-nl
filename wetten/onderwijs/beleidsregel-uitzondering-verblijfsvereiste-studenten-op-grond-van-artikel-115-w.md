@@ -9,7 +9,7 @@ laatste_update: 2020-11-25
 status: geldig
 toestand: 2020-11-25
 bron: "https://wetten.overheid.nl/BWBR0034519"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 12 december 2013, nr. HO&S/559042, inzake de uitzondering verblijfsvereiste studenten op grond van artikel 11.5 Wet studiefinanciering 2000

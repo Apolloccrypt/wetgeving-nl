@@ -9,7 +9,7 @@ laatste_update: 1822-07-30
 status: geldig
 toestand: 1822-07-30
 bron: "https://wetten.overheid.nl/BWBR0034809"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van den 30sten Juli 1822, waarbij ten behoeve van de lands drukkerij het regt voorbehouden wordt, tot den druk en de uitsluitende uitgave van het Staatsblad en het Journal officiel

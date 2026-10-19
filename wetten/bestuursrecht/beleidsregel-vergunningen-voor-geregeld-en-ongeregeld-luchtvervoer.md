@@ -9,7 +9,7 @@ laatste_update: 2020-09-01
 status: geldig
 toestand: 2020-09-01
 bron: "https://wetten.overheid.nl/BWBR0035117"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Milieu, van 12 mei 2014, nr. IENM/BSK-2014/94206, houdende vaststelling van beleidsregels inzake vergunningen voor geregeld en ongeregeld luchtvervoer (Beleidsregel vergunningen voor geregeld en ongeregeld luchtvervoer)

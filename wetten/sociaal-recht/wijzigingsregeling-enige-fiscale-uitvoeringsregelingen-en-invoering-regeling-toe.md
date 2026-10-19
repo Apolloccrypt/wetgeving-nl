@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0035232"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Wijziging van enige fiscale uitvoeringsregelingen alsmede invoering van een regeling voor de toepassing van artikel 122ca van de Wet financiering sociale verzekeringen

@@ -9,7 +9,7 @@ laatste_update: 2013-12-24
 status: geldig
 toestand: 2013-12-24
 bron: "https://wetten.overheid.nl/BWBR0034489"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 13 december 2013, nr. MinBuza-2013.345221, tot vaststelling van enkele subsidieplafonds

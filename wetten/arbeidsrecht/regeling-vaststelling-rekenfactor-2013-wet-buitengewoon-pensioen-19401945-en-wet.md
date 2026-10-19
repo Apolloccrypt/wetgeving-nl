@@ -9,7 +9,7 @@ laatste_update: 2014-02-01
 status: geldig
 toestand: 2014-02-01
 bron: "https://wetten.overheid.nl/BWBR0034723"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 23 januari 2014, Kenmerk 188527-115995-DMO, houdende vaststelling van de rekenfactor ingevolge de Wet buitengewoon pensioen 1940–1945 en de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers voor het jaar 2013

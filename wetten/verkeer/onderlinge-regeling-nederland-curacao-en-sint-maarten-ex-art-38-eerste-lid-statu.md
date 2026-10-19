@@ -8,7 +8,7 @@ laatste_update: 2014-02-13
 status: geldig
 toestand: 2014-02-13
 bron: "https://wetten.overheid.nl/BWBR0034803"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Onderlinge regeling Nederland, Curaçao en Sint Maarten ex art. 38, eerste lid, Statuut voor het Koninkrijk der Nederlanden (samenwerking op het gebied van transport gedetineerden tussen Bonaire, Sint Eustatius en Saba)

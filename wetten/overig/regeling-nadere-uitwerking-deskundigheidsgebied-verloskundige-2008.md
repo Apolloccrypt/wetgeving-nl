@@ -9,7 +9,7 @@ laatste_update: 2015-10-03
 status: geldig
 toestand: 2015-10-03
 bron: "https://wetten.overheid.nl/BWBR0035491"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 28 juli 2014, kenmerk 642455-123513-MEVA, houdende aanwijzing van apparatuur, geneesmiddelen, medische hulpmiddelen en middelen, behorende tot het deskundigheidsgebied van de verloskundige (Regeling nadere uitwerking deskundigheidsgebied verloskundige 2008)

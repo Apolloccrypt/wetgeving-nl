@@ -9,7 +9,7 @@ laatste_update: 2014-01-21
 status: geldig
 toestand: 2014-01-21
 bron: "https://wetten.overheid.nl/BWBR0034684"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 13 januari 2014, 2013-0000176715, tot het verlenen van mandaat, volmacht en machtiging aan het Agentschap SZW ter uitvoering van het Europees Integratiefonds en het Asiel en Migratiefonds

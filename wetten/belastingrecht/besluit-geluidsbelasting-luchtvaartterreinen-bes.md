@@ -9,7 +9,7 @@ laatste_update: 2014-06-18
 status: geldig
 toestand: 2014-06-18
 bron: "https://wetten.overheid.nl/BWBR0035206"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van 12 mei 2014, houdende vaststelling van een grenswaarde voor de geluidsbelasting binnen en buiten de geluidszones rond luchtvaartterreinen in de openbare lichamen Bonaire, Sint Eustatius en Saba alsmede de vaststelling van ruimtelijke beperkingen binnen de geluidszones van deze luchtvaartterreinen (Besluit geluidsbelasting luchtvaartterreinen BES)

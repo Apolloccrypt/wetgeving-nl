@@ -8,7 +8,7 @@ laatste_update: 2014-12-12
 status: geldig
 toestand: 2014-12-12
 bron: "https://wetten.overheid.nl/BWBR0035356"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling minimum VFR-vlieghoogten en VFR-vluchten buiten de daglichtperiode voor militaire vliegtuigen en helikopters

@@ -9,7 +9,7 @@ laatste_update: 2014-07-25
 status: geldig
 toestand: 2014-07-25
 bron: "https://wetten.overheid.nl/BWBR0035373"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 4 juli 2014, nr. 535436 tot het verlenen van mandaat, volmacht en machtiging voor de aanwijzing van artsen en psychologen die deskundigheid hebben om de verklaring transgenders af te geven (Besluit mandaat, volmacht en machtiging aanwijzing deskundigen transgenders)

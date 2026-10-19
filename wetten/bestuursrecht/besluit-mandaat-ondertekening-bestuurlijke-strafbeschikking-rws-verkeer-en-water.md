@@ -9,7 +9,7 @@ laatste_update: 2014-01-18
 status: geldig
 toestand: 2014-01-18
 bron: "https://wetten.overheid.nl/BWBR0034677"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de hoofdingenieur-directeur van RWS Verkeer- en Watermanagement van 28 november 2013, kenmerk RWS-2013/56624, houdende verlening van mandaat ondertekening bestuurlijke strafbeschikking (Besluit mandaat ondertekening bestuurlijke strafbeschikking RWS Verkeer- en watermanagement)

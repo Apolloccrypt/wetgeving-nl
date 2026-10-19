@@ -9,7 +9,7 @@ laatste_update: 2014-04-05
 status: geldig
 toestand: 2014-04-05
 bron: "https://wetten.overheid.nl/BWBR0035024"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Directeur-Generaal van het Rijksinstituut voor Volksgezondheid en Milieu van 28 maart 2014, kenmerk 351669-118866-BPZ, houdende regeling van ondervolmacht voor het Rijksinstituut voor Volksgezondheid en Milieu

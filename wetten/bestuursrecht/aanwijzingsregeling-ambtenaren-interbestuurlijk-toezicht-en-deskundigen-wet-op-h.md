@@ -9,7 +9,7 @@ laatste_update: 2026-06-20
 status: geldig
 toestand: 2026-06-20
 bron: "https://wetten.overheid.nl/BWBR0035073"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 16 april 2014, nr. 623587, houdende aanwijzing van ambtenaren belast met het toezicht op de uitvoering van de aan het college van burgemeester en wethouders opgedragen taken ten aanzien van de Wet op het primair onderwijs (Aanwijzingsregeling ambtenaren interbestuurlijk toezicht Wet op het primair onderwijs)

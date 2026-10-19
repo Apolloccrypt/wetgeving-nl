@@ -9,7 +9,7 @@ laatste_update: 2014-04-01
 status: geldig
 toestand: 2014-04-01
 bron: "https://wetten.overheid.nl/BWBR0034992"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Staatssecretaris van Veiligheid en Justitie van 21 maart 2014, nummer 497422, tot wijziging van het Voorschrift Vreemdelingen 2000 (honderdzevenentwintigste wijziging)

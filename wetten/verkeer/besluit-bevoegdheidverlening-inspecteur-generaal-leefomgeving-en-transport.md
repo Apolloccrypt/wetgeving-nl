@@ -9,7 +9,7 @@ laatste_update: 2018-02-09
 status: geldig
 toestand: 2018-02-09
 bron: "https://wetten.overheid.nl/BWBR0035486"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Milieu, van 16 augustus 2014, nr. A-0-14-0041.001, houdende bevoegdheidverlening aan Inspecteur Generaal leefomgeving en Transport (Besluit bevoegdheidverlening Inspecteur Generaal Leefomgeving en Transport)

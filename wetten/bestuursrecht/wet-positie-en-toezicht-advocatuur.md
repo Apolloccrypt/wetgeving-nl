@@ -9,7 +9,7 @@ laatste_update: 2020-03-01
 status: geldig
 toestand: 2020-03-01
 bron: "https://wetten.overheid.nl/BWBR0035645"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Wet van 1 oktober 2014 tot aanpassing van de Advocatenwet en enige andere wetten in verband met de positie van de advocatuur in de rechtsorde en herziening van het toezicht op advocaten (Wet positie en toezicht advocatuur)

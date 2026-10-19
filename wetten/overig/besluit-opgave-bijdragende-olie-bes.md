@@ -9,7 +9,7 @@ laatste_update: 2014-07-16
 status: geldig
 toestand: 2014-07-16
 bron: "https://wetten.overheid.nl/BWBR0035314"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van 23 juni 2014, houdende nadere regels betreffende de opgave van de hoeveelheid bijdragende olie als bedoeld in artikel 5 van de Wet schadefonds olietankschepen BES

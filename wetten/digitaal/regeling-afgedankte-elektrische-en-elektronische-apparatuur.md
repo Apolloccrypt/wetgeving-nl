@@ -9,7 +9,7 @@ laatste_update: 2026-07-02
 status: geldig
 toestand: 2026-07-02
 bron: "https://wetten.overheid.nl/BWBR0034782"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 3 februari 2014, nr. IENM/BSK-2014/14758, houdende vaststelling regels met betrekking tot afgedankte elektrische en elektronische apparatuur (Regeling afgedankte elektrische en elektronische apparatuur)

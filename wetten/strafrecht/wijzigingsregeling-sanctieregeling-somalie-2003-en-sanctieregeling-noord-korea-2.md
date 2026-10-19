@@ -9,7 +9,7 @@ laatste_update: 2014-01-03
 status: geldig
 toestand: 2014-01-03
 bron: "https://wetten.overheid.nl/BWBR0034617"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 20 december 2013, nr. MinBuza.2013.355578, houdende wijziging van enkele sanctieregelingen

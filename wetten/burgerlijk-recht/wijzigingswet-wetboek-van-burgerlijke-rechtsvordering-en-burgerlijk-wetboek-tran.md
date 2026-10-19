@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0035637"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Wet van 1 oktober 2014 tot wijziging van het Wetboek van Burgerlijke Rechtsvordering en het Burgerlijk Wetboek in verband met het transparanter en voor een breder publiek toegankelijk maken van de executoriale verkoop van onroerende zaken

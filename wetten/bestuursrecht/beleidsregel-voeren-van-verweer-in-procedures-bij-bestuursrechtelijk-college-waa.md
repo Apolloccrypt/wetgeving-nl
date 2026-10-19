@@ -9,7 +9,7 @@ laatste_update: 2014-10-01
 status: geldig
 toestand: 2014-10-01
 bron: "https://wetten.overheid.nl/BWBR0035360"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Beleidsregel van de Minister van Veiligheid en Justitie van 8 juli 2014, nr. 436935 over het voeren van verweer in procedures bij een bestuursrechtelijk college waarin verzocht wordt om vergoeding van immateriële schade wegens overschrijding van de redelijke termijn door de bestuursrechter

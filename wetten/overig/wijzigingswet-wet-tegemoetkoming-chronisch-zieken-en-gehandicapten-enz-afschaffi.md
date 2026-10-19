@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0035323"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Wet van 4 juni 2014 tot afschaffing van de algemene tegemoetkoming voor chronisch zieken en gehandicapten, de compensatie voor het verplicht eigen risico, de fiscale aftrek van uitgaven voor specifieke zorgkosten en de tegemoetkoming specifieke zorgkosten en wijziging van de grondslag van de tegemoetkoming voor arbeidsongeschikten

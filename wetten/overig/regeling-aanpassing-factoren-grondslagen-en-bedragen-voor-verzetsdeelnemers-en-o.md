@@ -9,7 +9,7 @@ laatste_update: 2014-07-19
 status: geldig
 toestand: 2014-07-19
 bron: "https://wetten.overheid.nl/BWBR0035348"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 10 juli 2014, kenmerk 614538-122744-DMO, houdende aanpassing van de factoren, grondslagen en bedragen voor verzetsdeelnemers en oorlogsgetroffenen per 1 juli 2014

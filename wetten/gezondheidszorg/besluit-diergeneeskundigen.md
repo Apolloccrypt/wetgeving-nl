@@ -9,7 +9,7 @@ laatste_update: 2022-03-11
 status: geldig
 toestand: 2022-03-11
 bron: "https://wetten.overheid.nl/BWBR0035091"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van 16 april 2014, houdende regels met betrekking tot diergeneeskundigen (Besluit diergeneeskundigen)

@@ -9,7 +9,7 @@ laatste_update: 2026-10-14
 status: geldig
 toestand: 2026-10-14
 bron: "https://wetten.overheid.nl/BWBR0035636"
-opgehaald: 2026-10-18
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 6 oktober 2014, kenmerk 663853-125983-MEVA, houdende regels voor de verstrekking van subsidie voor de financiering van opleidingsplaatsen voor de opleiding tot gezondheidszorg psycholoog, psychiater, psychotherapeut en klinisch psycholoog in een kinder- en jeugd ggz-instelling (Subsidieregeling Opleidingen in een jeugd ggz-instelling 2015–2017)

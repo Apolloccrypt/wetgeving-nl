@@ -9,7 +9,7 @@ laatste_update: 2014-04-01
 status: geldig
 toestand: 2014-04-01
 bron: "https://wetten.overheid.nl/BWBR0034997"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Wet van 11 december 2013 tot wijziging van de Wet arbeid vreemdelingen en de Vreemdelingenwet 2000 in verband met de implementatie van Richtlijn 2011/98/EU van het Europees Parlement en de Raad van 13 december 2011 betreffende één enkele aanvraagprocedure voor een gecombineerde vergunning voor onderdanen van derde landen om te verblijven en te werken op het grondgebied van een lidstaat, alsmede inzake een gemeenschappelijk pakket rechten voor werknemers uit derde landen die legaal in een lidstaat verblijven (PbEU 2011, L 343)

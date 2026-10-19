@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0035333"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Wet van 2 juli 2014 tot wijziging van de Wet werk en bijstand, de Wet sociale werkvoorziening, de Wet werk en arbeidsondersteuning jonggehandicapten en enige andere wetten gericht op bevordering deelname aan de arbeidsmarkt voor mensen met arbeidsvermogen en harmonisatie van deze regelingen (Invoeringswet Participatiewet)

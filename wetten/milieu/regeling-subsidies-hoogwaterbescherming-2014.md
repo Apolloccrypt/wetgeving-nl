@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0034922"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu, van 10 maart 2014, nr. IENM/BSK-2014/57174, houdende vaststelling van de Regeling subsidies hoogwaterbescherming 2014

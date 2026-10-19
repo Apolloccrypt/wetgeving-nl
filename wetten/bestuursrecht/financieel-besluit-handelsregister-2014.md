@@ -9,7 +9,7 @@ laatste_update: 2021-07-01
 status: geldig
 toestand: 2021-07-01
 bron: "https://wetten.overheid.nl/BWBR0034829"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van 11 februari 2014, houdende de inschrijfvergoeding en retributies voor het handelsregister (Financieel besluit handelsregister 2014)

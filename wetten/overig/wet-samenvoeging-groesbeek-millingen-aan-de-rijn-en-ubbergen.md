@@ -9,7 +9,7 @@ laatste_update: 2014-06-06
 status: geldig
 toestand: 2014-06-06
 bron: "https://wetten.overheid.nl/BWBR0035170"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Wet van 14 mei 2014 tot samenvoeging van de gemeenten Groesbeek, Millingen aan de Rijn en Ubbergen

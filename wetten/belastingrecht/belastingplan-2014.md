@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0034538"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Wet van 18 december 2013 tot wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2014)

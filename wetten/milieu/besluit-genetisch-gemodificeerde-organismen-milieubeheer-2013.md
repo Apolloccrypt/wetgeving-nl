@@ -9,7 +9,7 @@ laatste_update: 2024-05-18
 status: geldig
 toestand: 2024-05-18
 bron: "https://wetten.overheid.nl/BWBR0035090"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van 1 april 2014, houdende regels met betrekking tot het ingeperkt gebruik en de doelbewuste introductie in het milieu van genetisch gemodificeerde organismen (Besluit genetisch gemodificeerde organismen milieubeheer 2013)

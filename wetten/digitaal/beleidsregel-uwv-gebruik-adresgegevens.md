@@ -8,7 +8,7 @@ laatste_update: 2014-11-01
 status: geldig
 toestand: 2014-11-01
 bron: "https://wetten.overheid.nl/BWBR0035625"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Beleidsregel UWV gebruik adresgegevens

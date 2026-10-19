@@ -9,7 +9,7 @@ laatste_update: 2014-08-01
 status: geldig
 toestand: 2014-08-01
 bron: "https://wetten.overheid.nl/BWBR0035240"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 4 juni 2014, kenmerk MC-373618-120989, inzake tarifering sportgeneeskunde WMG

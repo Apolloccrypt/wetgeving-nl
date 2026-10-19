@@ -9,7 +9,7 @@ laatste_update: 2014-03-29
 status: geldig
 toestand: 2014-03-29
 bron: "https://wetten.overheid.nl/BWBR0034986"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Wet van 18 december 2013 tot wijziging van de Vreemdelingenwet 2000 ter implementatie van Richtlijn 2011/51/EU van het Europees Parlement en de Raad van 11 mei 2011 tot wijziging van Richtlijn 2003/109/EG van de Raad teneinde haar werkingssfeer uit te breiden tot personen die internationale bescherming genieten (PbEU 2011, L 132)

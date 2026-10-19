@@ -9,7 +9,7 @@ laatste_update: 2014-10-04
 status: geldig
 toestand: 2014-10-04
 bron: "https://wetten.overheid.nl/BWBR0035610"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Minister van Economische Zaken van 1 oktober 2014 inzake volginnovatie 2014

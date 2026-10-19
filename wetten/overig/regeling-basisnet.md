@@ -9,7 +9,7 @@ laatste_update: 2024-11-15
 status: geldig
 toestand: 2024-11-15
 bron: "https://wetten.overheid.nl/BWBR0035000"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 19 maart 2014, nr. IENM/BSK-2014/67724, houdende vaststelling van de ligging van de risicoplafonds langs transportroutes en regels voor ruimtelijke ontwikkelingen langs transportroutes in verband met externe veiligheid (Regeling basisnet)

@@ -9,7 +9,7 @@ laatste_update: 2024-08-03
 status: geldig
 toestand: 2024-08-03
 bron: "https://wetten.overheid.nl/BWBR0035210"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 10 juni 2014, nr. MINBUZA-2014.304011, tot vaststelling van beleidsregels voor het verstrekken van subsidie in het kader van onderdeel 1 van het Dutch Good Growth Fund

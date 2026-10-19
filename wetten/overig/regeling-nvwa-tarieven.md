@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0034876"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken van 20 februari 2014, nr. WJZ/14033284, houdende vaststelling van tarieven voor werkzaamheden van de NVWA (Regeling NVWA-tarieven)

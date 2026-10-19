@@ -9,7 +9,7 @@ laatste_update: 2014-05-22
 status: geldig
 toestand: 2014-05-22
 bron: "https://wetten.overheid.nl/BWBR0035037"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van 24 maart 2014, houdende vaststelling van de bestanddelen van de beeldenaar van de Nederlandse nationale zijde van de munt van twee euro met de beeltenis van Koning Willem-Alexander en Prinses Beatrix

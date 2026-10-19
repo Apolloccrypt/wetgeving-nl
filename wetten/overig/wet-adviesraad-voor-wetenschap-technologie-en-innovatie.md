@@ -9,7 +9,7 @@ laatste_update: 2014-08-01
 status: geldig
 toestand: 2014-08-01
 bron: "https://wetten.overheid.nl/BWBR0035175"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Wet van 16 april 2014 tot instelling van de Adviesraad voor wetenschap, technologie en innovatie en wijziging van enkele wetten (Wet Adviesraad voor wetenschap, technologie en innovatie)

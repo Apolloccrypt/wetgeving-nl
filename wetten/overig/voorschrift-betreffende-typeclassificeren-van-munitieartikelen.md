@@ -8,7 +8,7 @@ laatste_update: 2014-05-30
 status: geldig
 toestand: 2014-05-30
 bron: "https://wetten.overheid.nl/BWBR0035129"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Voorschrift betreffende typeclassificeren van munitieartikelen

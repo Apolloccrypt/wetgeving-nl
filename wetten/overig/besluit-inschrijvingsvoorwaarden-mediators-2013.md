@@ -9,7 +9,7 @@ laatste_update: 2013-12-31
 status: geldig
 toestand: 2013-12-31
 bron: "https://wetten.overheid.nl/BWBR0034565"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Inschrijvingsvoorwaarden mediators 2014 (Besluit van het bestuur van de Raad voor Rechtsbijstand van 27 november 2013 krachtens artikel 33 b van de Wet op de Rechtsbijstand)

@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0035457"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Wet van 9 juli 2014 tot wijziging van de Wet gemeenschappelijke regelingen en een aantal andere wetten in verband met de dualisering van het gemeente- en provinciebestuur en de invoering van een bedrijfsvoeringsorganisatie met rechtspersoonlijkheid, alsmede regeling van diverse andere onderwerpen

@@ -8,7 +8,7 @@ laatste_update: 2025-08-01
 status: geldig
 toestand: 2025-08-01
 bron: "https://wetten.overheid.nl/BWBR0034872"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Warenwetregeling levende tweekleppige weekdieren

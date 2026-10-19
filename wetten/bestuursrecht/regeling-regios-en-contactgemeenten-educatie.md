@@ -9,7 +9,7 @@ laatste_update: 2025-07-12
 status: geldig
 toestand: 2025-07-12
 bron: "https://wetten.overheid.nl/BWBR0035618"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 30 september 2014, nr. MBO/653498, tot vaststelling van regio’s en aanwijzing van contactgemeenten educatie (Regeling regio’s en contactgemeenten educatie)

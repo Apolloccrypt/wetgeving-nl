@@ -8,7 +8,7 @@ laatste_update: 2014-01-07
 status: geldig
 toestand: 2014-01-07
 bron: "https://wetten.overheid.nl/BWBR0034666"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Voorwaarden gestructureerde PE-activiteiten in elektronische vorm per 1 januari 2014

@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0035343"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van het College voor examens van 17 juni 2014, nummer CvE-14.01699, houdende vaststelling van de syllabi voor de centrale examens wiskunde in het h.a.v.o. 2017 en v.w.o. 2018 (Regeling syllabi centrale examens wiskunde h.a.v.o. 2017 en v.w.o. 2018)

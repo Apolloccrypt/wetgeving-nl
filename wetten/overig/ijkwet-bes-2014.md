@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0035310"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Wet van 2 juli 2014, houdende regels omtrent meeteenheden en meetinstrumenten voor Bonaire, Sint Eustatius en Saba (IJkwet BES 2014)

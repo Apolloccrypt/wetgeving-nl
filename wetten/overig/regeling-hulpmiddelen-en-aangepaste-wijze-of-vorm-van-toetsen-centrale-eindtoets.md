@@ -9,7 +9,7 @@ laatste_update: 2018-07-18
 status: geldig
 toestand: 2018-07-18
 bron: "https://wetten.overheid.nl/BWBR0035539"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van het College voor toetsen en examens van 27 augustus 2014, nummer CvTE-14.02022, houdende vaststelling van de hulpmiddelen en aangepaste wijze of vorm van toetsen centrale eindtoets primair onderwijs (Regeling hulpmiddelen en aangepaste wijze of vorm van toetsen centrale eindtoets PO)

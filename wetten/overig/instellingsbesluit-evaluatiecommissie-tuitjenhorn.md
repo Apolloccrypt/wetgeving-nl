@@ -9,7 +9,7 @@ laatste_update: 2015-06-24
 status: geldig
 toestand: 2015-06-24
 bron: "https://wetten.overheid.nl/BWBR0035364"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Minister van Veiligheid en Justitie en de Minister van Volksgezondheid, Welzijn en Sport van 7 juli 2014, nr. 531399, houdende instelling van de Evaluatiecommissie Tuitjenhorn

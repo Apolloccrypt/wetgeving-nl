@@ -9,7 +9,7 @@ laatste_update: 2020-04-01
 status: geldig
 toestand: 2020-04-01
 bron: "https://wetten.overheid.nl/BWBR0035213"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Minister van Financiën van 11 juni 2014, FM 2014/881 M, directie Financiële Markten, houdende instelling van een College Deskundigheid Financiële Dienstverlening en mandaatverlening aan het College Deskundigheid Financiële Dienstverlening (Instellings- en mandaatbesluit College Deskundigheid Financiële Dienstverlening Wft)

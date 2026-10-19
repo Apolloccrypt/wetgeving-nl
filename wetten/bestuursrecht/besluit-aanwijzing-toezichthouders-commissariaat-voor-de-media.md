@@ -8,7 +8,7 @@ laatste_update: 2014-06-06
 status: geldig
 toestand: 2014-06-06
 bron: "https://wetten.overheid.nl/BWBR0035160"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit aanwijzing toezichthouders Commissariaat voor de Media

@@ -9,7 +9,7 @@ laatste_update: 2025-08-16
 status: geldig
 toestand: 2025-08-16
 bron: "https://wetten.overheid.nl/BWBR0035035"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 31 maart 2014, nr. MinBuZa.2014.130895, houdende beperkende maatregelen jegens de Centraal-Afrikaanse Republiek (Sanctieregeling Centraal-Afrikaanse Republiek 2014)

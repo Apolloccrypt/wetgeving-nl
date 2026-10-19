@@ -8,7 +8,7 @@ laatste_update: 2014-02-13
 status: geldig
 toestand: 2014-02-13
 bron: "https://wetten.overheid.nl/BWBR0034807"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Onderlinge regeling Nederland, Aruba, Curaçao en Sint Maarten ex art. 38, eerste lid, Statuut voor het Koninkrijk der Nederlanden (beschikbaarstelling detentiecapaciteit)

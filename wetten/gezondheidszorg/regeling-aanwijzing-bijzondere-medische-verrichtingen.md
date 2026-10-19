@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0035311"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 3 juli 2014, kenmerk 629167-122949-WJZ, houdende aanwijzing van bijzondere medische verrichtingen voor de uitvoering waarvan een vergunning is vereist (Regeling aanwijzing bijzondere medische verrichtingen)

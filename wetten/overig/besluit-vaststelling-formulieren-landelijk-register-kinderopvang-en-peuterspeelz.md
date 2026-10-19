@@ -9,7 +9,7 @@ laatste_update: 2015-02-11
 status: geldig
 toestand: 2015-02-11
 bron: "https://wetten.overheid.nl/BWBR0035171"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 30 mei 2014, 2014-0000048131, tot vaststelling van de formulieren in gebruik bij het Landelijk Register Kinderopvang en Peuterspeelzalen (LRKP)

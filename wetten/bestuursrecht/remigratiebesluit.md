@@ -9,7 +9,7 @@ laatste_update: 2023-01-13
 status: geldig
 toestand: 2023-01-13
 bron: "https://wetten.overheid.nl/BWBR0034905"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van 1 maart 2014 houdende voorschriften ter uitvoering van de Remigratiewet en tot wijziging van enige andere algemene maatregelen van bestuur (Remigratiebesluit)

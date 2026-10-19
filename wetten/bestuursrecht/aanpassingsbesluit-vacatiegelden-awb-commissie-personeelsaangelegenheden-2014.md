@@ -9,7 +9,7 @@ laatste_update: 2014-06-13
 status: geldig
 toestand: 2014-06-13
 bron: "https://wetten.overheid.nl/BWBR0035184"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de plv. directeur Personeel en Organisatie van het Ministerie van Veiligheid en Justitie van 1 juni 2014, kenmerk 524177, houdende aanpassing van de vacatiegelden die worden toegekend aan de voorzitters en externe leden van de Adviescommissie voor bezwaarzaken inzake personele aangelegenheden ministerie van Justitie (Aanpassingsbesluit vacatiegelden Awb-commissie personeelsaangelegenheden 2014)

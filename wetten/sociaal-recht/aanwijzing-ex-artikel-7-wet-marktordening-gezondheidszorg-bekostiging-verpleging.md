@@ -9,7 +9,7 @@ laatste_update: 2014-09-01
 status: geldig
 toestand: 2014-09-01
 bron: "https://wetten.overheid.nl/BWBR0035404"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 16 juli 2014, kenmerk 378012-121397-MC, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake bekostiging van verpleging en verzorging

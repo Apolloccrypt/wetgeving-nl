@@ -9,7 +9,7 @@ laatste_update: 2014-10-14
 status: geldig
 toestand: 2014-10-14
 bron: "https://wetten.overheid.nl/BWBR0035628"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 6 oktober 2014, nr. 2014-0000305130, tot wijziging van de Kiesregeling in verband met de gecombineerde staten- en waterschapsverkiezingen

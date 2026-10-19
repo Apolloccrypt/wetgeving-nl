@@ -9,7 +9,7 @@ laatste_update: 2014-11-29
 status: geldig
 toestand: 2014-11-29
 bron: "https://wetten.overheid.nl/BWBR0034822"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Wet van 29 januari 2014 tot wijziging van de Kieswet en de Waterschapswet ten behoeve van gecombineerde verkiezingen van vertegenwoordigers voor de ingezetenen in het algemeen bestuur van het waterschap en de verkiezingen voor de provinciale staten (Wet aanpassing waterschapsverkiezingen)

@@ -9,7 +9,7 @@ laatste_update: 2023-11-09
 status: geldig
 toestand: 2023-11-09
 bron: "https://wetten.overheid.nl/BWBR0035322"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Beleidsregel van de Minister van Economische Zaken van 4 juli 2014, nr. WJZ/14112617, met betrekking tot het opleggen van bestuurlijke boetes door de Autoriteit Consument en Markt (Boetebeleidsregel ACM 2014)

@@ -9,7 +9,7 @@ laatste_update: 2013-12-25
 status: geldig
 toestand: 2013-12-25
 bron: "https://wetten.overheid.nl/BWBR0034527"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Besluit van 13 december 2013, houdende wijziging van het Besluit begroting en verantwoording provincies en gemeenten in verband met de invoering van verplicht schatkistbankieren, de totstandkoming van de Wet houdbare overheidsfinanciën en enkele andere wijzigingen

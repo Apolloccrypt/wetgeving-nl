@@ -9,7 +9,7 @@ laatste_update: 2013-12-27
 status: geldig
 toestand: 2013-12-27
 bron: "https://wetten.overheid.nl/BWBR0034518"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Besluit van 12 december 2013 tot vaststelling van subsidieplafond 2014 voor de rondes in de regeling projectsubsidies publicaties van de Stichting Nederlands Letterenfonds

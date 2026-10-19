@@ -9,7 +9,7 @@ laatste_update: 2014-07-12
 status: geldig
 toestand: 2014-07-12
 bron: "https://wetten.overheid.nl/BWBR0035312"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Minister van Veiligheid en Justitie van 3 juli 2014, nr. 535010, houdende de vaststelling van het prijsbeleid van het Nederlands Forensisch Instituut (Besluit Prijsbeleid NFI)

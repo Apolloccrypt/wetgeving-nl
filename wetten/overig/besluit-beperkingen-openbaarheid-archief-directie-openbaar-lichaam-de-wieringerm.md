@@ -9,7 +9,7 @@ laatste_update: 2018-06-21
 status: geldig
 toestand: 2018-06-21
 bron: "https://wetten.overheid.nl/BWBR0035564"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit tot het stellen van beperkingen aan de openbaarheid archief Directie van het Openbaar Lichaam De Wieringermeer 1928–1963

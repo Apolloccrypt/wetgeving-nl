@@ -9,7 +9,7 @@ laatste_update: 2015-01-29
 status: geldig
 toestand: 2015-01-29
 bron: "https://wetten.overheid.nl/BWBR0035069"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu en de Staatssecretaris van Economische Zaken, van 15 april 2014, nr. IENM/BSK-2014/80467, houdende vaststelling van het formulier voor het aanvragen van een vergunning op grond van de Wet bescherming Antarctica (Regeling vaststelling formulier vergunningaanvragen Wet bescherming Antarctica)

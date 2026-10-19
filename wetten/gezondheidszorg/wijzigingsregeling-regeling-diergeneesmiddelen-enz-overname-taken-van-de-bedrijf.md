@@ -9,7 +9,7 @@ laatste_update: 2014-07-01
 status: geldig
 toestand: 2014-07-01
 bron: "https://wetten.overheid.nl/BWBR0035182"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Minister van Economische Zaken van 5 juni 2014, nr. WJZ/14045056, houdende wijziging van diverse regelingen in verband met de overname van taken van de bedrijfslichamen

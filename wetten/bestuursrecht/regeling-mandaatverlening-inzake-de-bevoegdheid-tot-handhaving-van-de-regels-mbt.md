@@ -9,7 +9,7 @@ laatste_update: 2026-03-24
 status: geldig
 toestand: 2026-03-24
 bron: "https://wetten.overheid.nl/BWBR0035209"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 3 juni 2014, 363869-120120-VGP,houdende mandaatverlening voor de handhaving van regels m.b.t. indeling, etikettering en verpakking van stoffen en mengsels (Regeling mandaatverlening inzake de bevoegdheid tot handhaving van de regels m.b.t. indeling, etikettering en verpakking van stoffen en mengsels)

@@ -9,7 +9,7 @@ laatste_update: 2014-09-20
 status: geldig
 toestand: 2014-09-20
 bron: "https://wetten.overheid.nl/BWBR0035557"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 10 september 2014, nr. FMICT/654481 (671307), houdende beperking van de openbaarheid van het archief van de Directie ICT in het Onderwijs over de periode 1997–2005

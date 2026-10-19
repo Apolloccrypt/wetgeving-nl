@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0035455"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 7 augustus 2014, 647692124211-VGP, houdende vaststelling retributies voor het Warenwetbesluit hoeveelheden voorverpakkingen (Warenwetregeling hoeveelheden voorverpakkingen)

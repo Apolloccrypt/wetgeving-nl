@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0034989"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Wet van 12 maart 2014 tot wijziging van Boek 1 van het Burgerlijk Wetboek, het Wetboek van Burgerlijke Rechtsvordering, de Wet op de jeugdzorg en de Pleegkinderenwet in verband met herziening van de maatregelen van kinderbescherming

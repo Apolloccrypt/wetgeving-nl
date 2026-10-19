@@ -9,7 +9,7 @@ laatste_update: 2025-03-21
 status: geldig
 toestand: 2025-03-21
 bron: "https://wetten.overheid.nl/BWBR0035394"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 23 juli 2014, nr. MinBuZa.2014.59695, houdende beperkende maatregelen in verband met de illegale inlijving van de Krim en Sebastopol (Sanctieregeling inlijving Krim en Sebastopol 2014)

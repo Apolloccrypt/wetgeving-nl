@@ -9,7 +9,7 @@ laatste_update: 2018-07-28
 status: geldig
 toestand: 2018-07-28
 bron: "https://wetten.overheid.nl/BWBR0035237"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van 19 juni 2014, houdende nadere regels omtrent de bijzondere zorgplicht voor veteranen (Veteranenbesluit)

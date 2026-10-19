@@ -9,7 +9,7 @@ laatste_update: 2014-08-17
 status: geldig
 toestand: 2014-08-17
 bron: "https://wetten.overheid.nl/BWBR0035453"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Vaststelling van selectielijsten van het Centraal Orgaan opvang asielzoekers (COA)

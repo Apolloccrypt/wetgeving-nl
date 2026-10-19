@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0035006"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 21 maart 2014, nr. 2014-0000018380, tot het opnieuw vaststellen van de Regeling tegemoetkoming asbestslachtoffers teneinde deze uit te breiden met Asbestose (Regeling tegemoetkoming asbestslachtoffers 2014)

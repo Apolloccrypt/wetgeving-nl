@@ -8,7 +8,7 @@ laatste_update: 2014-07-07
 status: geldig
 toestand: 2014-07-07
 bron: "https://wetten.overheid.nl/BWBR0035399"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # De subsidieregeling regionale transfercentra PO

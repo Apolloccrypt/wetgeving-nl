@@ -9,7 +9,7 @@ laatste_update: 2015-01-14
 status: geldig
 toestand: 2015-01-14
 bron: "https://wetten.overheid.nl/BWBR0034947"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 19 maart 2014, nr. 2014-0000039187, tot openstelling van een aanvraagtijdvak in het kalenderjaar 2014 en vaststelling van een subsidieplafond voor dit aanvraagtijdvak in het kader van de Regeling cofinanciering sectorplannen

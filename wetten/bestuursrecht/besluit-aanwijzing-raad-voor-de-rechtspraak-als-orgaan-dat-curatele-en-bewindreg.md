@@ -9,7 +9,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0034535"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Besluit van 18 december 2013 tot aanwijzing van Raad voor de rechtspraak als het orgaan dat het curatele- en bewindregister houdt en tot intrekking van het besluit curateleregister

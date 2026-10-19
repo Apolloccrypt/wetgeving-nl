@@ -9,7 +9,7 @@ laatste_update: 2018-10-01
 status: geldig
 toestand: 2018-10-01
 bron: "https://wetten.overheid.nl/BWBR0034521"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu, van 6 december 2013, nr. IENM/BSK-2013/283192, houdende vaststelling nadere regels met betrekking tot de opleiding en bevoegdheden van nautische beroepsbeoefenaren (Regeling opleidingen en bevoegdheden nautische beroepsbeoefenaren)

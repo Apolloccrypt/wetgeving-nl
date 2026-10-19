@@ -9,7 +9,7 @@ laatste_update: 2014-06-28
 status: geldig
 toestand: 2014-06-28
 bron: "https://wetten.overheid.nl/BWBR0035245"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Wet van 19 juni 2014 tot aanpassing van de reikwijdte en enige technische wijzigingen van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector (Aanpassingswet WNT)

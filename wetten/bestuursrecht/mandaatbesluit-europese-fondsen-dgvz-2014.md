@@ -9,7 +9,7 @@ laatste_update: 2014-02-08
 status: geldig
 toestand: 2014-02-08
 bron: "https://wetten.overheid.nl/BWBR0034781"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Minister van Veiligheid en Justitie van 28 januari 2014, nr. 473857, houdende verlening van mandaat, volmacht en machtiging aan de directeur Agentschap SZW (Mandaatbesluit Europese fondsen DGVZ 2014)

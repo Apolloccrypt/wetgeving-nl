@@ -9,7 +9,7 @@ laatste_update: 2014-02-28
 status: geldig
 toestand: 2014-02-28
 bron: "https://wetten.overheid.nl/BWBR0034856"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 19 februari 2014, 2014-0000017865, houdende voorwaarden voor de projectvoorstellen voor financiële middelen uit het Europees Globaliseringsfonds 2014–2020 (Subsidieregeling EGF 2014–2020)

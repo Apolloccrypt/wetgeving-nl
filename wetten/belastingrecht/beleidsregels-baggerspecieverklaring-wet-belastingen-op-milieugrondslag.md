@@ -9,7 +9,7 @@ laatste_update: 2014-06-04
 status: geldig
 toestand: 2014-06-04
 bron: "https://wetten.overheid.nl/BWBR0035163"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Milieu van 24 april 2014, nr. IENM/BSK-2014/122942, houdende beleidsregels en enige andere bepalingen met betrekking tot de afgifte van verklaringen als bedoeld in artikel 29, tweede lid, van de Wet belastingen op milieugrondslag (Beleidsregels baggerspecieverklaring Wet belastingen op milieugrondslag)

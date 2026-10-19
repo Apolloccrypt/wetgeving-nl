@@ -9,7 +9,7 @@ laatste_update: 2021-07-16
 status: geldig
 toestand: 2021-07-16
 bron: "https://wetten.overheid.nl/BWBR0035288"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Staatssecretaris van Economische Zaken van 1 juli 2014, nr. WJZ / 14105816, tot aanwijzing van een ambtenaar op grond van de artikelen 8.15 en 8.31 Wet dieren (Besluit aanwijzing ambtenaar Wet dieren)

@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-07-01
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0035079"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Bestuursreglement Zorginstituut Nederland

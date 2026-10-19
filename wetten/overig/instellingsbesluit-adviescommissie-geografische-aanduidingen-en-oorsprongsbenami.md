@@ -9,7 +9,7 @@ laatste_update: 2014-07-08
 status: geldig
 toestand: 2014-07-08
 bron: "https://wetten.overheid.nl/BWBR0035299"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Minister van Economische Zaken van 3 juli 2014, nr. WJZ/14109330, tot instelling van een adviescommissie geografische aanduidingen en oorsprongsbenamingen wijn (Instellingsbesluit Adviescommissie geografische aanduidingen en oorsprongsbenamingen wijn)

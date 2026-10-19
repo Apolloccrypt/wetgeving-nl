@@ -9,7 +9,7 @@ laatste_update: 2016-04-30
 status: geldig
 toestand: 2016-04-30
 bron: "https://wetten.overheid.nl/BWBR0034579"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Staatssecretaris van Financiën van 30 december 2013, nr. DB 2013/599M tot wijziging van enige fiscale uitvoeringsregelingen en van enige overige uitvoeringsregelingen alsmede van de Wet belastingen op milieugrondslag

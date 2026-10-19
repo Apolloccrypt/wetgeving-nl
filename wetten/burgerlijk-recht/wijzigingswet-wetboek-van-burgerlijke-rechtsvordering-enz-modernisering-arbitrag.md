@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0035186"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Wet van 2 juni 2014 tot wijziging van Boek 3, Boek 6 en Boek 10 van het Burgerlijk Wetboek en het Vierde Boek van het Wetboek van Burgerlijke Rechtsvordering in verband met de modernisering van het Arbitragerecht

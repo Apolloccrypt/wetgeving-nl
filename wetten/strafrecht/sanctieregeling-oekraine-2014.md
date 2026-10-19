@@ -9,7 +9,7 @@ laatste_update: 2014-03-11
 status: geldig
 toestand: 2014-03-11
 bron: "https://wetten.overheid.nl/BWBR0034898"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 7 maart 2014, nr. MinBuZa.2014.105359, houdende beperkende maatregelen tegen bepaalde personen en entiteiten in verband met de situatie in Oekraïne (Sanctieregeling Oekraïne 2014)

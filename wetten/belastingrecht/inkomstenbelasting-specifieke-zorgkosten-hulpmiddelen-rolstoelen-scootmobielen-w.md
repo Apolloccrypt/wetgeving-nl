@@ -8,7 +8,7 @@ laatste_update: 2014-03-27
 status: geldig
 toestand: 2014-03-27
 bron: "https://wetten.overheid.nl/BWBR0034988"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Inkomstenbelasting, specifieke zorgkosten; hulpmiddelen; rolstoelen, scootmobielen, woningaanpassingen; eerbiedigende werking afschrijvingsregime

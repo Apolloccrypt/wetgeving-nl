@@ -9,7 +9,7 @@ laatste_update: 2014-02-01
 status: geldig
 toestand: 2014-02-01
 bron: "https://wetten.overheid.nl/BWBR0034744"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 22 januari 2014, nr. MINBUZA-2014.33343, houdende beperking van de openbaarheid van het archief van het Nederlands consulaat te Zwitserland (Basel), 1946–1973

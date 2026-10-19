@@ -9,7 +9,7 @@ laatste_update: 2014-06-14
 status: geldig
 toestand: 2014-06-14
 bron: "https://wetten.overheid.nl/BWBR0035205"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van 27 mei 2014, houdende wijziging van het Uitvoeringsbesluit Wet op de jeugdzorg en het Besluit gebruik burgerservicenummer in de zorg in verband met het gebruik van het burgerservicenummer in de jeugdzorg (Besluit burgerservicenummer in de jeugdzorg)

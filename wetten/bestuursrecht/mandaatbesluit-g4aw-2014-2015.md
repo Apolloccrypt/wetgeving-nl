@@ -9,7 +9,7 @@ laatste_update: 2014-10-08
 status: geldig
 toestand: 2014-10-08
 bron: "https://wetten.overheid.nl/BWBR0035614"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 29 september 2014, nr. MinBuZa 2014.581279, tot verlening van mandaat, volmacht en machtiging inzake uitvoering van de Geodata for Agriculture and Water Facility 2014–2015 (Mandaatbesluit G4AW)

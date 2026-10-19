@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0034760"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Besluit van 29 januari 2014, houdende regels ter waarborging van de kwaliteit van curatoren, bewindvoerders en mentoren (Besluit kwaliteitseisen curatoren, beschermingsbewindvoerders en mentoren)

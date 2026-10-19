@@ -9,7 +9,7 @@ laatste_update: 2025-09-01
 status: geldig
 toestand: 2025-09-01
 bron: "https://wetten.overheid.nl/BWBR0034471"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Besluit van 11 december 2013, houdende regels voor de opleiding van registerloodsen, noordzeeloodsen en VTS-operators en de bij die functies behorende bevoegdheden en verplichtingen (Besluit opleidingen en bevoegdheden nautische beroepsbeoefenaren)

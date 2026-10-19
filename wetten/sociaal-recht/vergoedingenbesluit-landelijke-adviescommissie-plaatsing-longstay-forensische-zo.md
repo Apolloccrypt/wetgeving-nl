@@ -9,7 +9,7 @@ laatste_update: 2015-04-01
 status: geldig
 toestand: 2015-04-01
 bron: "https://wetten.overheid.nl/BWBR0035626"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 1 oktober 2014, nr. 556717, houdende toekenning van een vaste vergoeding per maand aan de leden van de Landelijke adviescommissie plaatsing longstay forensische zorg (Vergoedingenbesluit Landelijke adviescommissie plaatsing longstay forensische zorg)

@@ -9,7 +9,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0034567"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Minister van Economische Zaken en de Minister van Financiën van 30 december 2013, nr. WJZ/13204604, tot instelling van het baten-lastenagentschap Rijksdienst voor Ondernemend Nederland

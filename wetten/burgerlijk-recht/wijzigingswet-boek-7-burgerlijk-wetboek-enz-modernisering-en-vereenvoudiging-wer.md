@@ -9,7 +9,7 @@ laatste_update: 2014-07-01
 status: geldig
 toestand: 2014-07-01
 bron: "https://wetten.overheid.nl/BWBR0035204"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Wet van 4 juni 2014 tot wijziging van Boek 7 van het Burgerlijk Wetboek en de Uitvoeringswet huurprijzen woonruimte in verband met de modernisering en vereenvoudiging van de werkwijze van de huurcommissie

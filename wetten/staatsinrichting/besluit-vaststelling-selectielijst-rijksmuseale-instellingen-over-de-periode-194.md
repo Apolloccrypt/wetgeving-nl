@@ -8,7 +8,7 @@ laatste_update: 2014-08-01
 status: geldig
 toestand: 2014-08-01
 bron: "https://wetten.overheid.nl/BWBR0035406"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit vaststelling selectielijst Rijksmuseale instellingen over de periode 1946–1995

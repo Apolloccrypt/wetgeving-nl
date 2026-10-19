@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0034925"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Wet van 1 maart 2014 inzake regels over de gemeentelijke verantwoordelijkheid voor preventie, ondersteuning, hulp en zorg aan jeugdigen en ouders bij opgroei- en opvoedingsproblemen, psychische problemen en stoornissen (Jeugdwet)

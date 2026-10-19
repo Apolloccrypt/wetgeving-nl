@@ -9,7 +9,7 @@ laatste_update: 2022-08-30
 status: geldig
 toestand: 2022-08-30
 bron: "https://wetten.overheid.nl/BWBR0035525"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 1 september 2014, houdende regels met met betrekking tot de bezoldiging van de voorzitter en leden van de commissie bedoeld in artikel 14 van de Wet medisch-wetenschappelijk onderzoek met mensen (Bezoldigingsregeling centrale commissie medisch-wetenschappelijk onderzoek)

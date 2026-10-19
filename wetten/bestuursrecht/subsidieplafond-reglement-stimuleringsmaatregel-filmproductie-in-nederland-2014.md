@@ -8,7 +8,7 @@ laatste_update: 2014-06-13
 status: geldig
 toestand: 2014-06-13
 bron: "https://wetten.overheid.nl/BWBR0035190"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Subsidieplafond Reglement Stimuleringsmaatregel Filmproductie in Nederland 2014

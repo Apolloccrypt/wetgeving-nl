@@ -9,7 +9,7 @@ laatste_update: 2014-08-01
 status: geldig
 toestand: 2014-08-01
 bron: "https://wetten.overheid.nl/BWBR0035419"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit beperking openbaarheid aan inventarisnummer 12956A van het Archief van de Tweede Kamer 1980–1989, toegang 2.02.28

@@ -9,7 +9,7 @@ laatste_update: 2014-09-13
 status: geldig
 toestand: 2014-09-13
 bron: "https://wetten.overheid.nl/BWBR0035535"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 1 september 2014, nr. 492909, houdende het van overeenkomstige toepassing verklaren van enkele rechtspositionele regelingen ten aanzien van de leden met rechtspraak belast en de senior-gerechtsauditeurs en gerechtsauditeurs van de Centrale Raad van Beroep en het College van Beroep voor het bedrijfsleven (Regeling rechtspositie leden met rechtspraak belast en gerechtsauditeurs CRvB en CBb)

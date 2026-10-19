@@ -9,7 +9,7 @@ laatste_update: 2014-08-01
 status: geldig
 toestand: 2014-08-01
 bron: "https://wetten.overheid.nl/BWBR0035324"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Minister van Economische Zaken van 4 juli 2014, nr. WJZ / 14066719, houdende uitvoering van de artikelen 35, eerste lid, 42, tweede lid, en 48 van de Mededingingswet en wijziging van een aantal ministeriële regelingen in verband met de stroomlijning van het door de Autoriteit Consument en Markt te houden markttoezicht (Regeling gegevensverstrekking Mededingingswet)

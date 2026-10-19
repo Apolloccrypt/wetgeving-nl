@@ -9,7 +9,7 @@ laatste_update: 2026-05-29
 status: geldig
 toestand: 2026-05-29
 bron: "https://wetten.overheid.nl/BWBR0034991"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn van 14 maart 2014, kenmerk 328583-117560-VGP, houdende vaststelling van de Warenwetregeling verpakkingen en gebruiksartikelen die in contact komen met levensmiddelen (Warenwetregeling verpakkingen en gebruiksartikelen)

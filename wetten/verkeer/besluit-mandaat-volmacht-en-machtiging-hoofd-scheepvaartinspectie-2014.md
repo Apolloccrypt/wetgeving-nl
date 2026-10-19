@@ -9,7 +9,7 @@ laatste_update: 2021-08-26
 status: geldig
 toestand: 2021-08-26
 bron: "https://wetten.overheid.nl/BWBR0035647"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van het hoofd van de Scheepvaartinspectie, van 9 juli 2014, nr. IENM/ILT-2014/19916, houdende verlening van mandaat, volmacht en machtiging (Besluit mandaat, volmacht en machtiging hoofd Scheepvaartinspectie 2014)

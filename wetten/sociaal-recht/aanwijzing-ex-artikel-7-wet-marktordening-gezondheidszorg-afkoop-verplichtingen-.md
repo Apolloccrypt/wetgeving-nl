@@ -9,7 +9,7 @@ laatste_update: 2014-11-01
 status: geldig
 toestand: 2014-11-01
 bron: "https://wetten.overheid.nl/BWBR0035536"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 1 september 2014, met kenmerk 656766-125175-MC, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake de afkoop verplichtingen Rijk die verband houden met de overgangsregeling kapitaallasten in relatie tot de curatieve jeugd-ggz

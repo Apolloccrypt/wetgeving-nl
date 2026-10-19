@@ -9,7 +9,7 @@ laatste_update: 2013-12-24
 status: geldig
 toestand: 2013-12-24
 bron: "https://wetten.overheid.nl/BWBR0034477"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 11 december 2013, kenmerk 443885, houdende instelling van de commissie De Jong (Instellingsbesluit commissie De Jong)

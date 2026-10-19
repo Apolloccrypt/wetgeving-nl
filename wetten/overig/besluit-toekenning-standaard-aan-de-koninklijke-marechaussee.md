@@ -9,7 +9,7 @@ laatste_update: 2014-10-16
 status: geldig
 toestand: 2014-10-16
 bron: "https://wetten.overheid.nl/BWBR0035630"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van 26 september 2014, houdende de toekenning van een standaard aan de Koninklijke Marechaussee

@@ -8,7 +8,7 @@ laatste_update: 2014-06-20
 status: geldig
 toestand: 2014-06-20
 bron: "https://wetten.overheid.nl/BWBR0035211"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit instelling Adviescommissie Internationaal Recht en Conventioneel Wapengebruik

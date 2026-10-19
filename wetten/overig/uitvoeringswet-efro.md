@@ -9,7 +9,7 @@ laatste_update: 2021-07-01
 status: geldig
 toestand: 2021-07-01
 bron: "https://wetten.overheid.nl/BWBR0034784"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Wet van 22 januari 2014, houdende regels omtrent de uitvoering van Europese verordeningen inzake financiële bijdragen uit het Europees Fonds voor Regionale Ontwikkeling (Uitvoeringswet EFRO)

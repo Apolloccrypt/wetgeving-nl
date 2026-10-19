@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0035386"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Wet van 9 juli 2014 tot wijziging van onder meer de Wet participatiebudget en de Wet educatie en beroepsonderwijs inzake het invoeren van een specifieke uitkering educatie en het vervallen van de verplichte besteding van educatiemiddelen bij regionale opleidingencentra

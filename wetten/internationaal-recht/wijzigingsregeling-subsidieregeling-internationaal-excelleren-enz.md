@@ -9,7 +9,7 @@ laatste_update: 2014-08-01
 status: geldig
 toestand: 2014-08-01
 bron: "https://wetten.overheid.nl/BWBR0035426"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 21 juli 2014, nr. MinBuZa.-2014.361940, tot wijziging van de Subsidieregeling internationaal excelleren

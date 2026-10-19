@@ -9,7 +9,7 @@ laatste_update: 2014-10-18
 status: geldig
 toestand: 2014-10-18
 bron: "https://wetten.overheid.nl/BWBR0035651"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Wet van 9 juli 2014 tot wijziging van de Wet werk en bijstand en enige andere wetten in verband met het verstrekken van een koopkrachttegemoetkoming aan lage inkomens (Wet koopkrachttegemoetkoming lage inkomens)

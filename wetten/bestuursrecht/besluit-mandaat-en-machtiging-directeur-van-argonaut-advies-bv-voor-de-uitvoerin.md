@@ -9,7 +9,7 @@ laatste_update: 2014-08-01
 status: geldig
 toestand: 2014-08-01
 bron: "https://wetten.overheid.nl/BWBR0035368"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Milieu, van 11 juli 2014, nr. IENM/BSK-2014/142443, houdende verlening van mandaat en machtiging aan de directeur van Argonaut Advies B.V. voor de uitvoering van de Regeling OV-begeleiderskaart (Besluit mandaat en machtiging directeur van Argonaut Advies B.V. voor de uitvoering van de Regeling OV-begeleiderskaart)

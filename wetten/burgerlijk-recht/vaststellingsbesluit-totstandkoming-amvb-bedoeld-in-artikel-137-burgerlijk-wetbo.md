@@ -9,7 +9,7 @@ laatste_update: 2014-07-01
 status: geldig
 toestand: 2014-07-01
 bron: "https://wetten.overheid.nl/BWBR0034949"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van 13 maart 2014, houdende de totstandkoming van een algemene maatregel van bestuur als bedoeld in artikel 137 van Boek 7 van het Burgerlijk Wetboek (percentage pandbeleningsvergoeding) en de vaststelling van het tijdstip van inwerkingtreding van de wet van 11 september 2013 tot aanvulling van Boek 7 van het Burgerlijk Wetboek met een nieuwe titel 2D (regels met betrekking tot pandbeleningen (Stb. 2013, 350)

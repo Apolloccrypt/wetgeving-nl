@@ -9,7 +9,7 @@ laatste_update: 2016-09-23
 status: geldig
 toestand: 2016-09-23
 bron: "https://wetten.overheid.nl/BWBR0035200"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de hoofddirecteur Dienst Justitiële Inrichtingen van 15 mei 2014 nr. 505755/14/DJI, houdende verlening van ondermandaat aan onder de hoofddirecteur ressorterende ambtenaren in verband met de administratieve organisatie VWNW DJI (Tijdelijke mandaatregeling AO VWNW DJI 2014)

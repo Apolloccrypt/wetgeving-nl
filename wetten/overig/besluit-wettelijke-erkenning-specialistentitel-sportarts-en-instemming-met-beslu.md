@@ -9,7 +9,7 @@ laatste_update: 2014-06-01
 status: geldig
 toestand: 2014-06-01
 bron: "https://wetten.overheid.nl/BWBR0035067"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 8 april 2014, kenmerk 329185-117646-MEVA, houdende de wettelijke erkenning van de specialistentitel sportarts en de instemming met het Besluit Sportgeneeskunde

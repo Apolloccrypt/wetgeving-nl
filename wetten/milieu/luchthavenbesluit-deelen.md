@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0035554"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van 4 september 2014 tot vaststelling van een luchthavenbesluit voor de militaire luchthaven Deelen (Luchthavenbesluit Deelen)

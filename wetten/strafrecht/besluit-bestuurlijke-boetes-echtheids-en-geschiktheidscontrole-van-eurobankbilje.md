@@ -9,7 +9,7 @@ laatste_update: 2014-03-01
 status: geldig
 toestand: 2014-03-01
 bron: "https://wetten.overheid.nl/BWBR0034714"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Besluit van 13 januari 2014 tot vaststelling van de bedragen van de bestuurlijke boetes op grond van artikel 9c, derde lid, van de Bankwet 1998 en artikel 11, derde lid, van de Muntwet 2002 (Besluit bestuurlijke boetes echtheids- en geschiktheidscontrole van eurobankbiljetten en euromunten)

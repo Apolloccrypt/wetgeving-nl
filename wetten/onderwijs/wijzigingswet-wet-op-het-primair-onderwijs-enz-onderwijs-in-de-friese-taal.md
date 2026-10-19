@@ -9,7 +9,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBR0035164"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Wet van 7 mei 2014 tot wijziging van onder meer de Wet op het primair onderwijs, de Wet op het voortgezet onderwijs en de Wet op de expertisecentra in verband met het onderwijs in de Friese taal

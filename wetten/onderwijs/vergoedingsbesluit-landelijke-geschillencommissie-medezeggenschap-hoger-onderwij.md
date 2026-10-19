@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0035500"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap, handelende in overeenstemming met de Minister van Economische Zaken, van 21 augustus 2014, nr. HO&S/645182, tot vaststelling van de vergoedingen voor de leden, met inbegrip van de voorzitter, van de Landelijke geschillencommissie medezeggenschap hoger onderwijs (Vergoedingenbesluit Landelijke geschillencommissie medezeggenschap hoger onderwijs 2014)

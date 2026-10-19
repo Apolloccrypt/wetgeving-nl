@@ -9,7 +9,7 @@ laatste_update: 2015-04-01
 status: geldig
 toestand: 2015-04-01
 bron: "https://wetten.overheid.nl/BWBR0035601"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Minister van Infrastructuur en Milieu, van 3 september 2014, nr. IENM/BSK-2014/89247 tot vaststelling van beleid ten aanzien van de beoordeling van externe veiligheid bij de vaststelling van tracébesluiten voor de aanleg of wijziging van landelijke infrastructuur en van verkeersbesluiten (Beleidsregels EV-beoordeling tracébesluiten)

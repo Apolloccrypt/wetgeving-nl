@@ -8,7 +8,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0034657"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Nadere voorschriften ledengroep openbaar accountants

@@ -9,7 +9,7 @@ laatste_update: 2013-03-01
 status: geldig
 toestand: 2013-03-01
 bron: "https://wetten.overheid.nl/BWBR0034768"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 2 januari 2013, GMT-3149798, houdende besluit aanstelling en taakopdracht verkenners extramurale farmaceutische zorg

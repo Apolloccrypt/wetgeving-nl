@@ -9,7 +9,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0034470"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Staatssecretaris van Veiligheid en Justitie d.d. 12 december 2013 nr. 460559 houdende de vaststelling van het legitimatiebewijs voor beëdigde tolken en vertalers (Regeling legitimatiebewijs beëdigde tolken en vertalers 2014)

@@ -9,7 +9,7 @@ laatste_update: 2018-03-31
 status: geldig
 toestand: 2018-03-31
 bron: "https://wetten.overheid.nl/BWBR0035382"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Beleidsregel UWV Opschorting betaling bij vertrek naar onbekende bestemming

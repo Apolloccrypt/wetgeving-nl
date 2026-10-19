@@ -9,7 +9,7 @@ laatste_update: 2014-04-01
 status: geldig
 toestand: 2014-04-01
 bron: "https://wetten.overheid.nl/BWBR0035001"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Staatssecretaris van Veiligheid en Justitie van 1 april 2014, houdende regels aangaande het verlaten van de justitiële jeugdinrichting bij wijze van verlof of scholings- en trainingsprogramma (Regeling verlof en STP jeugdigen)

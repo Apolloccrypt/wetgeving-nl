@@ -8,7 +8,7 @@ laatste_update: 2014-08-22
 status: geldig
 toestand: 2014-08-22
 bron: "https://wetten.overheid.nl/BWBR0035522"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Directe belastingen, internationale inlichtingenuitwisseling; Italië

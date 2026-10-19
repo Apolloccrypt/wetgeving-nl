@@ -9,7 +9,7 @@ laatste_update: 2014-01-21
 status: geldig
 toestand: 2014-01-21
 bron: "https://wetten.overheid.nl/BWBR0034704"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Kamer van Koophandel tot vaststelling van regio’s in de zin van de Wet op de Kamer van Koophandel (Besluit vaststelling regio’s)

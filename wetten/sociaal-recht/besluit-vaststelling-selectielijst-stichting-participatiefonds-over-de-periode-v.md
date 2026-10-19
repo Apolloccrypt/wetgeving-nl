@@ -8,7 +8,7 @@ laatste_update: 2014-02-16
 status: geldig
 toestand: 2014-02-16
 bron: "https://wetten.overheid.nl/BWBR0034825"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit vaststelling selectielijst Stichting Participatiefonds over de periode vanaf 1995

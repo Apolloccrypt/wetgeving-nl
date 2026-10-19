@@ -8,7 +8,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0034877"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Instellingsbesluit Kwaliteitsinstituut beëdigde tolken en vertalers

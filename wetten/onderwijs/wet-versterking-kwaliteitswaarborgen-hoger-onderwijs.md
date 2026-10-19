@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0034472"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Wet van 4 december 2013 tot wijziging van de Wet op het hoger onderwijs en wetenschappelijk onderzoek en de Wet op het onderwijstoezicht in verband met de versterking van de kwaliteitswaarborgen voor het hoger onderwijs en wijziging van verschillende onderwijswetten in verband met de introductie onderscheidenlijk verbreding van een aanwijzingsbevoegdheid voor de minister en in verband met aanpassingen in de regelgeving betreffende het basisregister onderwijs en het persoonsgebonden nummer (Wet versterking kwaliteitswaarborgen hoger onderwijs)

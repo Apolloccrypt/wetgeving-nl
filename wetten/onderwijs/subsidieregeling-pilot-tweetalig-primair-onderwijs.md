@@ -9,7 +9,7 @@ laatste_update: 2016-04-01
 status: geldig
 toestand: 2016-04-01
 bron: "https://wetten.overheid.nl/BWBR0035057"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 8 april 2014, nr. PO/563679, houdende regels voor subsidieverstrekking in het kader van de pilot tweetalig primair onderwijs (Subsidieregeling pilot tweetalig primair onderwijs)

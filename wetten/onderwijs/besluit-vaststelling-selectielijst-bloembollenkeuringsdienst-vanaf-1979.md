@@ -8,7 +8,7 @@ laatste_update: 2014-07-31
 status: geldig
 toestand: 2014-07-31
 bron: "https://wetten.overheid.nl/BWBR0035402"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit vaststelling selectielijst Bloembollenkeuringsdienst vanaf 1979

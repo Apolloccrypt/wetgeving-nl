@@ -9,7 +9,7 @@ laatste_update: 2014-08-01
 status: geldig
 toestand: 2014-08-01
 bron: "https://wetten.overheid.nl/BWBR0035328"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Beleidsregel van de Minister van Economische Zaken van 4 juli 2014, nr. WJZ/14104938, over de totstandkoming van overeenkomsten tot de afwikkeling van massaschade (Beleidsregel massaschade)

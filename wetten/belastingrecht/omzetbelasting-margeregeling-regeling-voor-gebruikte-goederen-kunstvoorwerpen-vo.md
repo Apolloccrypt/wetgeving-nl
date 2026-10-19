@@ -8,7 +8,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0035390"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Omzetbelasting, margeregeling; regeling voor gebruikte goederen, kunstvoorwerpen, voorwerpen voor verzamelingen en antiquiteiten

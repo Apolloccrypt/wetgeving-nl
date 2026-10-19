@@ -9,7 +9,7 @@ laatste_update: 2014-05-23
 status: geldig
 toestand: 2014-05-23
 bron: "https://wetten.overheid.nl/BWBR0035123"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 15 mei 2014, nr. 2014-0000261552, inzake de vertrouwenspersonen integriteit en de klachtencommissie ongewenste omgangsvormen rijksambtenaren in Caribisch Nederland (Regeling vertrouwenspersonen integriteit en Klachtencommissie ongewenste omgangsvormen rijksambtenaren BES)

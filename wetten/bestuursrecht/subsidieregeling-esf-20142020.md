@@ -9,7 +9,7 @@ laatste_update: 2025-09-16
 status: geldig
 toestand: 2025-09-16
 bron: "https://wetten.overheid.nl/BWBR0035033"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 31 maart 2014, 2014-0000040627, tot de besteding van gelden uit het Europees Sociaal Fonds 2014–2020

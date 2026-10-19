@@ -9,7 +9,7 @@ laatste_update: 2014-09-18
 status: geldig
 toestand: 2014-09-18
 bron: "https://wetten.overheid.nl/BWBR0035544"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de secretaris-generaal van het Ministerie van Veiligheid en Justitie van 10 september 2014, kenmerk DP&O/14/545670, houdende instelling van de Commissie Van Werk Naar Werk Ministerie van Veiligheid en Justitie (Instellingsbesluit Commissie VWNW VenJ)

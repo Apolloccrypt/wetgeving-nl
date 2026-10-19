@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0035087"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 22 april 2014, nr. 4323604, houdende de vaststelling van vacatiegelden voor de voorzitter en leden van de klachtadviescommissie van de Inspectie van het onderwijs (Vacatiegeldenbesluit klachtadviescommissie Inspectie van het onderwijs)

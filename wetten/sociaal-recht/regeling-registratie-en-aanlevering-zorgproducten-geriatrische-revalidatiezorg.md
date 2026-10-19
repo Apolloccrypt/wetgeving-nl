@@ -9,7 +9,7 @@ laatste_update: 2014-04-10
 status: geldig
 toestand: 2014-04-10
 bron: "https://wetten.overheid.nl/BWBR0035064"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling Registratie en aanlevering kostprijzen geriatrische revalidatiezorg

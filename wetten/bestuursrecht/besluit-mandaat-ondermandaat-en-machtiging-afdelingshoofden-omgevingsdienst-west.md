@@ -9,7 +9,7 @@ laatste_update: 2014-05-16
 status: geldig
 toestand: 2014-05-16
 bron: "https://wetten.overheid.nl/BWBR0035114"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de directeur van de Omgevingsdienst West-Holland inzake het verlenen van mandaat, ondermandaat en -machtiging aan de afdelingshoofden

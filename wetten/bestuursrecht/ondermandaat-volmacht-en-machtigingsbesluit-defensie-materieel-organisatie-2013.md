@@ -8,7 +8,7 @@ laatste_update: 2014-01-28
 status: geldig
 toestand: 2014-01-28
 bron: "https://wetten.overheid.nl/BWBR0034707"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Ondermandaat, -volmacht en -machtigingsbesluit Defensie Materieel Organisatie 2013

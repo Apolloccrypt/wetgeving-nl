@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0034496"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Wet van 18 december 2013 tot wijziging van enkele wetten met het oog op de bestrijding van fraude in de toeslagen en fiscaliteit (Wet aanpak fraude toeslagen en fiscaliteit)

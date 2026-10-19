@@ -8,7 +8,7 @@ laatste_update: 2014-02-01
 status: geldig
 toestand: 2014-02-01
 bron: "https://wetten.overheid.nl/BWBR0034719"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Richtlijn voor strafvordering Opiumwet, inzake qat

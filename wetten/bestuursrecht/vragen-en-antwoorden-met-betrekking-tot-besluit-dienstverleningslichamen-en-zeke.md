@@ -8,7 +8,7 @@ laatste_update: 2022-07-02
 status: geldig
 toestand: 2022-07-02
 bron: "https://wetten.overheid.nl/BWBR0035187"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Vragen en antwoorden met betrekking tot besluit Dienstverleningslichamen en zekerheid vooraf (DGB 2014/3101), besluit Behandeling verzoeken zekerheid vooraf in vorm van Advance Tax Ruling (ATR) (DGB 2014/3099)

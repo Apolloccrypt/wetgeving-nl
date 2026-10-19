@@ -9,7 +9,7 @@ laatste_update: 2013-04-19
 status: geldig
 toestand: 2013-04-19
 bron: "https://wetten.overheid.nl/BWBR0035048"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Statuten 2007 van de Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw (Naktuinbouw) zoals deze zijn goedgekeurd door de Minister van Landbouw, Natuur en Voedselkwaliteit d.d. 27 november 2007

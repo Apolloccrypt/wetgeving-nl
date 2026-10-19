@@ -9,7 +9,7 @@ laatste_update: 2014-07-17
 status: geldig
 toestand: 2014-07-17
 bron: "https://wetten.overheid.nl/BWBR0035325"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Wet van 14 juni 2014 tot wijziging van de Wet uitkeringen vervolgingsslachtoffers 1940–1945 in verband met het vervallen van de grondslag naar het inkomen in Indonesisch courant

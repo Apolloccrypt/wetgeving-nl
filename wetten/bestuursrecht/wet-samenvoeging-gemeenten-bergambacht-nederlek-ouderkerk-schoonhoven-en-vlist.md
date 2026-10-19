@@ -9,7 +9,7 @@ laatste_update: 2014-07-05
 status: geldig
 toestand: 2014-07-05
 bron: "https://wetten.overheid.nl/BWBR0035300"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Wet van 19 juni 2014 tot samenvoeging van de gemeenten Bergambacht, Nederlek, Ouderkerk, Schoonhoven en Vlist

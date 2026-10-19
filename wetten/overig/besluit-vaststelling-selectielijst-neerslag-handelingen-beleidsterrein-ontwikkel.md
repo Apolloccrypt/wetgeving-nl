@@ -9,7 +9,7 @@ laatste_update: 2014-01-02
 status: geldig
 toestand: 2014-01-02
 bron: "https://wetten.overheid.nl/BWBR0034595"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Besluit vaststelling selectielijst voor de neerslag van de handelingen van de Minister van Buitenlandse Zaken en de onder hem ressorterende actoren op het beleidsterrein Ontwikkelingssamenwerking over de periode 1965–1990

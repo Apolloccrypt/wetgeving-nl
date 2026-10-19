@@ -9,7 +9,7 @@ laatste_update: 2014-01-02
 status: geldig
 toestand: 2014-01-02
 bron: "https://wetten.overheid.nl/BWBR0034597"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Vaststelling selectielijst voor de neerslag van de handelingen van de minister van Buitenlandse Zaken en de onder hem ressorterende actoren op het beleidsterrein Buitenland over de periode 1945-1990

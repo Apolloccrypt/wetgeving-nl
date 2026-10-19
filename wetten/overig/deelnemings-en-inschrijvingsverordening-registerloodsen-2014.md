@@ -8,7 +8,7 @@ laatste_update: 2015-06-17
 status: geldig
 toestand: 2015-06-17
 bron: "https://wetten.overheid.nl/BWBR0035202"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Deelnemings- en Inschrijvingsverordening registerloodsen 2014

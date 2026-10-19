@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0035297"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Wet van 25 juni 2014 tot wijziging van de Instellingswet Autoriteit Consument en Markt en enige andere wetten in verband met de stroomlijning van het door de Autoriteit Consument en Markt te houden markttoezicht

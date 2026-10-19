@@ -9,7 +9,7 @@ laatste_update: 2014-09-25
 status: geldig
 toestand: 2014-09-25
 bron: "https://wetten.overheid.nl/BWBR0035577"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Minister van Economische Zaken van 19 september 2014, nr. WJZ / 14122681, tot vrijstelling afwijkend gebruik frequentieruimte Explosieven Opruimingsdienst Defensie (Vrijstelling afwijkend gebruik frequentieruimte EODD)

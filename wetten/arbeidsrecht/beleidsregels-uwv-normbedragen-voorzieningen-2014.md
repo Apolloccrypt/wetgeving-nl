@@ -8,7 +8,7 @@ laatste_update: 2014-07-10
 status: geldig
 toestand: 2014-07-10
 bron: "https://wetten.overheid.nl/BWBR0034890"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Beleidsregels UWV normbedragen voorzieningen 2014

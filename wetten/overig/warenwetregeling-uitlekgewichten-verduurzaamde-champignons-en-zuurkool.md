@@ -9,7 +9,7 @@ laatste_update: 2014-12-13
 status: geldig
 toestand: 2014-12-13
 bron: "https://wetten.overheid.nl/BWBR0034967"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 24 maart 2014, 329805-117668-VGP, houdende vaststelling van uitlekgewichten voor verduurzaamde champignons en zuurkool (Warenwetregeling uitlekgewichten verduurzaamde champignons en zuurkool)

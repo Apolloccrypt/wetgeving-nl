@@ -8,7 +8,7 @@ laatste_update: 2014-02-16
 status: geldig
 toestand: 2014-02-16
 bron: "https://wetten.overheid.nl/BWBR0034827"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit vaststelling selectielijst Gemeenschappelijk Secretariaat Productschappen Vee, Vlees en Eieren vanaf 1993

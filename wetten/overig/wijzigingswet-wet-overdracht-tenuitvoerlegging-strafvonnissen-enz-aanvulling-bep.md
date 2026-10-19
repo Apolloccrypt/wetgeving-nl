@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0035272"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Wet van 25 juni 2014 tot wijziging van de Wet overdracht tenuitvoerlegging strafvonnissen in verband met aanvulling van de bepaling over de procedure van voortgezette tenuitvoerlegging

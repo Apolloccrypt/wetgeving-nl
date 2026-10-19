@@ -9,7 +9,7 @@ laatste_update: 2014-10-02
 status: geldig
 toestand: 2014-10-02
 bron: "https://wetten.overheid.nl/BWBR0035586"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 23 september 2014, kenmerk 656441-125129-CZ, houdende tijdelijke opschorting levering zorgvraagzwaarte cGGZ

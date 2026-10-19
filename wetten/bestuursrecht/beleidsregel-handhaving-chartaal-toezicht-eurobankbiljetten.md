@@ -8,7 +8,7 @@ laatste_update: 2014-05-15
 status: geldig
 toestand: 2014-05-15
 bron: "https://wetten.overheid.nl/BWBR0035112"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Beleidsregel handhaving chartaal toezicht eurobankbiljetten

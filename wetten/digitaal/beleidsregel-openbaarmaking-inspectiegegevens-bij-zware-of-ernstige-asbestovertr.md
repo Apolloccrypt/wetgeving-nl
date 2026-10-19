@@ -9,7 +9,7 @@ laatste_update: 2022-05-01
 status: geldig
 toestand: 2022-05-01
 bron: "https://wetten.overheid.nl/BWBR0035357"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Beleidsregel van de Minister van Sociale Zaken en Werkgelegenheid van 10 juli 2014, nr. 2014-0000098169, tot vaststelling van de regels omtrent de openbaarmaking van inspectiegegevens door de Inspectie SZW bij zware of ernstige asbestovertredingen (Beleidsregel openbaarmaking inspectiegegevens bij zware of ernstige asbestovertredingen)

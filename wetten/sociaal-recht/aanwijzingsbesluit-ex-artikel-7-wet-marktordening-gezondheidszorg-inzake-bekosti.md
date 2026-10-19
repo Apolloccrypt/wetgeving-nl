@@ -9,7 +9,7 @@ laatste_update: 2014-09-01
 status: geldig
 toestand: 2014-09-01
 bron: "https://wetten.overheid.nl/BWBR0035358"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 8 juli 2014, kenmerk 377960-121393-MC, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake de bekostiging van de langdurige op behandeling gerichte ggz binnen de Zorgverzekeringswet

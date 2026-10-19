@@ -9,7 +9,7 @@ laatste_update: 2014-07-01
 status: geldig
 toestand: 2014-07-01
 bron: "https://wetten.overheid.nl/BWBR0034670"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Wet van 18 december 2013 tot wijziging van Boek 1 van het Burgerlijk Wetboek en de Wet gemeentelijke basisadministratie persoonsgegevens in verband met het wijzigen van de voorwaarden voor en de bevoegdheid ter zake van wijziging van de vermelding van het geslacht in de akte van geboorte

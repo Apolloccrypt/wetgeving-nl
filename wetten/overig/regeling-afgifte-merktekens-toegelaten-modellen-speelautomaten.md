@@ -9,7 +9,7 @@ laatste_update: 2014-03-27
 status: geldig
 toestand: 2014-03-27
 bron: "https://wetten.overheid.nl/BWBR0034981"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de raad van bestuur van de kansspelautoriteit van 18 maart 2014, kenmerk 00.023.059, voor de afgifte van merktekens voor toegelaten modellen speelautomaten

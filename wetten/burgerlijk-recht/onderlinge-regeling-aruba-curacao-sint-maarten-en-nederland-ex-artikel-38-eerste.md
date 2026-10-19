@@ -9,7 +9,7 @@ laatste_update: 2014-07-03
 status: geldig
 toestand: 2014-07-03
 bron: "https://wetten.overheid.nl/BWBR0035271"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Onderlinge regeling als bedoeld in artikel 38, eerste lid, van het Statuut voor het Koninkrijk der Nederlanden, regelende de samenwerking tussen Aruba, Curaçao, Sint Maarten en Nederland op het gebied van de overdracht van personen aan wie rechtens hun vrijheid is ontnomen op grond van een veroordeling tot een vrijheidsstrafBottom of Form

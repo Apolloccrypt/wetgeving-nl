@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0034672"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Wet van 11 december 2013 tot wijziging van de Wet cliëntenrechten zorg en andere wetten in verband met de taken en bevoegdheden op het gebied van de kwaliteit van de zorg

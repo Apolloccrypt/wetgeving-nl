@@ -8,7 +8,7 @@ laatste_update: 2014-03-03
 status: geldig
 toestand: 2014-03-03
 bron: "https://wetten.overheid.nl/BWBR0034866"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Reglement Kwaliteitsinstituut Wbtv

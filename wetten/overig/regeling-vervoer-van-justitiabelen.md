@@ -9,7 +9,7 @@ laatste_update: 2025-11-22
 status: geldig
 toestand: 2025-11-22
 bron: "https://wetten.overheid.nl/BWBR0035372"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van Staatssecretaris van Veiligheid en Justitie van 15 juli 2014 houdende regels aangaande het vervoer van justitiabelen (Regeling vervoer van justitiabelen)

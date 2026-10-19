@@ -9,7 +9,7 @@ laatste_update: 2014-07-01
 status: geldig
 toestand: 2014-07-01
 bron: "https://wetten.overheid.nl/BWBR0034914"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van 3 maart 2014, houdende aanwijzing van de installaties ter zee als bedoeld in artikel 1 van het Wetboek van Strafvordering BES en artikel 87 van het Wetboek van Strafrecht BES

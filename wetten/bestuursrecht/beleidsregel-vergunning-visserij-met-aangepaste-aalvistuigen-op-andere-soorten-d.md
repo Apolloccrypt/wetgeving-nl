@@ -9,7 +9,7 @@ laatste_update: 2025-08-26
 status: geldig
 toestand: 2025-08-26
 bron: "https://wetten.overheid.nl/BWBR0035289"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Beleidsregels van de Staatssecretaris van Economische Zaken van 28 juni 2014, nr. WJZ / 14104616, voor het verlenen van een ontheffing voor het gebruik van aalvistuigen voor de visserij op wolhandkrab en Noordzeekrab (Beleidsregels ontheffing wolhandkrab- en Noordzeekrabvisserij)

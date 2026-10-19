@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0035318"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van 30 juni 2014, houdende wijziging van diverse besluiten betreffende dieren en dierlijke producten in verband met de opheffing van de bedrijfslichamen

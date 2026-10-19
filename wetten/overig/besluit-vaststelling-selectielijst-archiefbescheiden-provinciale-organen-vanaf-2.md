@@ -8,7 +8,7 @@ laatste_update: 2014-01-19
 status: geldig
 toestand: 2014-01-19
 bron: "https://wetten.overheid.nl/BWBR0034675"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Besluit vaststelling selectielijst archiefbescheiden provinciale organen vanaf 2014

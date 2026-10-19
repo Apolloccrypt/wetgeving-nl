@@ -9,7 +9,7 @@ laatste_update: 2014-01-02
 status: geldig
 toestand: 2014-01-02
 bron: "https://wetten.overheid.nl/BWBR0034592"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Besluit van 27 november 2013, nr. 2013002424 houdende vaststelling van een selectielijst voor de Eerste Kamer der Staten-Generaal op het deelbeleidsterrein van personeelszaken, t.w. het personeelsdossier, over de periode vanaf 1946

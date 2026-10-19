@@ -9,7 +9,7 @@ laatste_update: 2014-08-28
 status: geldig
 toestand: 2014-08-28
 bron: "https://wetten.overheid.nl/BWBR0035493"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Wet van 9 juli 2014 tot wijziging van de Comptabiliteitswet 2001 onder andere in verband met het invoeren binnen de rijksdienst van verplichtingen-kasagentschappen en van een gezamenlijke accountantsdienst en in verband met het uitbreiden van de voorhangprocedure bij de Staten-Generaal ter zake van bepaalde privaatrechtelijke rechtshandelingen door het Rijk (Zesde wijziging van de Comptabiliteitswet 2001)

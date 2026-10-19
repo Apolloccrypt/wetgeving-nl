@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0035261"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van 25 juni 2014, houdende uitvoering van de Algemene Kinderbijslagwet (Besluit uitvoering kinderbijslag)

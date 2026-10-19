@@ -9,7 +9,7 @@ laatste_update: 2014-03-18
 status: geldig
 toestand: 2014-03-18
 bron: "https://wetten.overheid.nl/BWBR0034924"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de raad van bestuur van de kansspelautoriteit van 28 februari 2014, kenmerk, 00.022.537 tot instelling van een externe adviesraad

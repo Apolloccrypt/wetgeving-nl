@@ -9,7 +9,7 @@ laatste_update: 2014-03-25
 status: geldig
 toestand: 2014-03-25
 bron: "https://wetten.overheid.nl/BWBR0034954"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Minister van Economische Zaken van 19 maart 2014, nr. WJZ / 14035672, houdende vaststelling van de definitieve correcties voor de stimulering van duurzame energieproductie in het jaar 2013 (Regeling vaststelling definitieve correcties duurzame energieproductie 2013)

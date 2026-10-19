@@ -9,7 +9,7 @@ laatste_update: 2014-07-26
 status: geldig
 toestand: 2014-07-26
 bron: "https://wetten.overheid.nl/BWBR0035383"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van 16 juli 2014, houdende wijziging van het Besluit begroting en verantwoording provincies en gemeenten in verband met de rapportageverplichting over het drempelbedrag bij het verplicht schatkistbankieren en een verduidelijking van de informatieverplichting over verbonden partijen

@@ -9,7 +9,7 @@ laatste_update: 2020-06-11
 status: geldig
 toestand: 2020-06-11
 bron: "https://wetten.overheid.nl/BWBR0035095"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de inspecteur-generaal Leefomgeving en Transport, van 24 april 2014, nr. IENM/ILT-2014/4789, houdende verlening van ondermandaat, volmacht en machtiging inzake handhaving van BZK-wetgeving (Besluit ondermandaat, volmacht en machtiging Inspectie Leefomgeving en Transport handhavingsbevoegdheden BZK-wetgeving)

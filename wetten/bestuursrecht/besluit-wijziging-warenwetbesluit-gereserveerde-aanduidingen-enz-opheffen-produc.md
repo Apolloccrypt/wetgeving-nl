@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0035584"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van 8 september 2014, houdende wijziging van enkele algemene maatregelen van bestuur in verband met het opheffen van de product- en bedrijfschappen

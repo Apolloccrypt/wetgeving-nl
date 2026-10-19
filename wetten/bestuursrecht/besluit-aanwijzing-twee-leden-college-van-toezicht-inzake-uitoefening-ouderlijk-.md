@@ -9,7 +9,7 @@ laatste_update: 2014-09-01
 status: geldig
 toestand: 2014-09-01
 bron: "https://wetten.overheid.nl/BWBR0035430"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van 11 juli 2014, houdende aanwijzing van twee leden van het College van Toezicht inzake de uitoefening van het ouderlijk gezag over de minderjarige Koning

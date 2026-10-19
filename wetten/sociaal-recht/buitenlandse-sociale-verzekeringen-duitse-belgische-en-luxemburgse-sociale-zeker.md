@@ -8,7 +8,7 @@ laatste_update: 2014-04-08
 status: geldig
 toestand: 2014-04-08
 bron: "https://wetten.overheid.nl/BWBR0035025"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Buitenlandse sociale verzekeringen, Duitse, Belgische en Luxemburgse sociale zekerheid, aftrek premie en belastbaarheid uitkeringen

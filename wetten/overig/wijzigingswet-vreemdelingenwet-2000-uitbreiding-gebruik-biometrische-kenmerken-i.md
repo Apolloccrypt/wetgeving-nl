@@ -9,7 +9,7 @@ laatste_update: 2014-03-01
 status: geldig
 toestand: 2014-03-01
 bron: "https://wetten.overheid.nl/BWBR0034673"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Wet van 11 december 2013 tot wijziging van de Vreemdelingenwet 2000 in verband met de uitbreiding van het gebruik van biometrische kenmerken in de vreemdelingenketen in verband met het verbeteren van de identiteitsvaststelling van de vreemdeling

@@ -8,7 +8,7 @@ laatste_update: 2014-06-19
 status: geldig
 toestand: 2014-06-19
 bron: "https://wetten.overheid.nl/BWBR0035219"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Nader voorschrift aanwijzing inzet- en planningssystemen van registerloodsen

@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0035615"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 17 september 2014, nr. OWB/657635, tot vaststelling van de vergoedingen voor de leden, met inbegrip van de voorzitter, van de Adviesraad voor wetenschap, technologie en innovatie (Vergoedingenbesluit AWTI)

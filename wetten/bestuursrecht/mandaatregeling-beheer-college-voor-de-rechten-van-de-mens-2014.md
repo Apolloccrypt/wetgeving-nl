@@ -9,7 +9,7 @@ laatste_update: 2014-03-15
 status: geldig
 toestand: 2014-03-15
 bron: "https://wetten.overheid.nl/BWBR0034918"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de minister van Veiligheid en Justitie van 6 maart 2014, nr 476900 houdende verlening van mandaat en het geven van volmacht en machtiging ten aanzien van de beheersaangelegenheden van het College voor de rechten van de mens (Mandaatregeling beheer College voor de rechten van de mens 2014)

@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0035529"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Ministers van Volksgezondheid, Welzijn en Sport en van Veiligheid en Justitie van 15 juli 2014, nr. 629324-122361-PG, houdende samenstelling en vergoeding van de Commissie van wijzen inzake hulp bij zelfdoding aan personen die hun leven voltooid achten (Regeling benoeming en bezoldiging Commissie van wijzen inzake hulp bij zelfdoding aan mensen die hun leven voltooid achten)

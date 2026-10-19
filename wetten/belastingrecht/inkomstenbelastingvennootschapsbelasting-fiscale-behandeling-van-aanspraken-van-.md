@@ -9,7 +9,7 @@ laatste_update: 2014-10-10
 status: geldig
 toestand: 2014-10-10
 bron: "https://wetten.overheid.nl/BWBR0035619"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Inkomstenbelasting, vennootschapsbelasting, fiscale behandeling van aanspraken van medisch specialisten op een transitiefonds

@@ -9,7 +9,7 @@ laatste_update: 2026-03-14
 status: geldig
 toestand: 2026-03-14
 bron: "https://wetten.overheid.nl/BWBR0034906"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 3 maart 2014, nr. JOZ/565292, houdende regels voor de uitgifte van getuigschriften van het voortgezet speciaal onderwijs alsmede de vaststelling van enige modellen voor dergelijke getuigschriften (Regeling modellen getuigschriften vso)

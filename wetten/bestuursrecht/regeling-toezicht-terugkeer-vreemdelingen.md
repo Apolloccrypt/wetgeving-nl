@@ -9,7 +9,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0034490"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Staatssecretaris van Veiligheid en Justitie van 13 december 2013, houdende de regeling van het toezicht op de terugkeer van vreemdelingen (Regeling toezicht terugkeer vreemdelingen)

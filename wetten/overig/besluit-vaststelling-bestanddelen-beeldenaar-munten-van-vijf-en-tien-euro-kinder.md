@@ -9,7 +9,7 @@ laatste_update: 2014-09-27
 status: geldig
 toestand: 2014-09-27
 bron: "https://wetten.overheid.nl/BWBR0035576"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van 15 september 2014 houdende vaststelling van de bestanddelen van de beeldenaar van de munten van vijf en tien euro ‘Kinderdijkse Molens’ die in 2014 worden uitgegeven in de thematische serie Nederlands Werelderfgoed

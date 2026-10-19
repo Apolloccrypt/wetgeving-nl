@@ -9,7 +9,7 @@ laatste_update: 2014-01-31
 status: geldig
 toestand: 2014-01-31
 bron: "https://wetten.overheid.nl/BWBR0034749"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Besluit van 13 december 2013, houdende instelling herinneringsmedaille «Medaille bezoek in 2013 aan het Caribisch deel van het Koninkrijk»

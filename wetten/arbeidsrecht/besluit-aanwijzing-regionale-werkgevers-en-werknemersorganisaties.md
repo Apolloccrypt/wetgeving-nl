@@ -9,7 +9,7 @@ laatste_update: 2014-05-08
 status: geldig
 toestand: 2014-05-08
 bron: "https://wetten.overheid.nl/BWBR0035102"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Kamer van Koophandel tot aanwijzing van regionale werkgeversorganisaties onderscheidenlijk regionale werknemersorganisaties in de zin van de Wet op de Kamer van Koophandel

@@ -9,7 +9,7 @@ laatste_update: 2014-04-01
 status: geldig
 toestand: 2014-04-01
 bron: "https://wetten.overheid.nl/BWBR0034798"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van 21 januari 2014, houdende wijziging van het Bouwbesluit 2012 betreffende de brandveiligheid van het bedrijfsmatig houden van dieren, alsmede correcties en verdere vereenvoudigingen van het Bouwbesluit 2012

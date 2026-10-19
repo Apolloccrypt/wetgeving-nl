@@ -9,7 +9,7 @@ laatste_update: 2014-07-01
 status: geldig
 toestand: 2014-07-01
 bron: "https://wetten.overheid.nl/BWBR0034932"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van 7 maart 2014 tot uitvoering van de artikelen 5, tweede lid, 11, eerste lid, en 14 van de Wet aansprakelijkheidsverzekering motorrijtuigen BES (Besluit aansprakelijkheidsverzekering motorrijtuigen BES)

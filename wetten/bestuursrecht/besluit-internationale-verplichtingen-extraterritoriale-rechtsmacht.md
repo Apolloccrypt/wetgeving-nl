@@ -9,7 +9,7 @@ laatste_update: 2024-07-01
 status: geldig
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0034775"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Besluit van 28 januari 2014 tot aanwijzing van de gevallen waarin verdragen en besluiten van volkenrechtelijke organisaties tot het vestigen van rechtsmacht verplichten (Besluit internationale verplichtingen extraterritoriale rechtsmacht)

@@ -8,7 +8,7 @@ laatste_update: 2017-12-02
 status: geldig
 toestand: 2017-12-02
 bron: "https://wetten.overheid.nl/BWBR0035509"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Vennootschapsbelasting, innovatiebox

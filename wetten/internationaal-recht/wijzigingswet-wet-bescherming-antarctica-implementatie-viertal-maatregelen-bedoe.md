@@ -9,7 +9,7 @@ laatste_update: 2015-01-29
 status: geldig
 toestand: 2015-01-29
 bron: "https://wetten.overheid.nl/BWBR0035082"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Wet van 26 april 2012 tot wijziging van de Wet bescherming Antarctica (implementatie van een viertal Maatregelen als bedoeld in artikel IX van het Verdrag inzake Antarctica, waarbij de bescherming van het Antarctisch gebied wordt uitgebreid)

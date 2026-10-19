@@ -9,7 +9,7 @@ laatste_update: 2014-10-05
 status: geldig
 toestand: 2014-10-05
 bron: "https://wetten.overheid.nl/BWBR0035609"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Directeur-Generaal van het Rijksinstituut voor Volksgezondheid en Milieu, houdende verlening van ondermandaat en machtiging

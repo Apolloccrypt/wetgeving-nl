@@ -9,7 +9,7 @@ laatste_update: 2020-10-07
 status: geldig
 toestand: 2020-10-07
 bron: "https://wetten.overheid.nl/BWBR0034533"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 20 december 2013 inzake verlening van machtiging aan de ambtenaren van politie belast met het vreemdelingentoezicht die werkzaam zijn bij het Nationaal Vreemdelingen Informatieknooppunt voor het vragen van gegevens en inlichtingen van andere bestuursorganen als bedoeld in artikel 107, vijfde lid, van de Vreemdelingenwet 2000 (Machtigingsbesluit politieambtenaren NVIK)

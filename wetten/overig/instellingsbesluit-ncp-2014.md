@@ -9,7 +9,7 @@ laatste_update: 2026-05-13
 status: geldig
 toestand: 2026-05-13
 bron: "https://wetten.overheid.nl/BWBR0035293"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 1 juli 2014, nr. MinBuZa.2014.303289, houdende instelling van het Nationaal Contact Punt voor de OESO-richtlijnen voor multinationale ondernemingen (Instellingsbesluit NCP 2014)

@@ -9,7 +9,7 @@ laatste_update: 2014-04-01
 status: geldig
 toestand: 2014-04-01
 bron: "https://wetten.overheid.nl/BWBR0034551"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Besluit van 18 december 2013, houdende aanpassing van het Besluit vergoedingen rechtsbijstand 2000 in verband met de wijziging van de vergoeding van rechtsbijstandverleners in geval van tweede of volgende aanvragen tot het verlenen van een verblijfsvergunning van vreemdelingen (Besluit aanpassing vergoeding tweede of volgende aanvragen vreemdelingen)

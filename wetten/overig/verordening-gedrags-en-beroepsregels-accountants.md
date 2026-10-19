@@ -8,7 +8,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0034635"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Verordening gedrags- en beroepsregels accountants

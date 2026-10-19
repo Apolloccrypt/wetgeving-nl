@@ -9,7 +9,7 @@ laatste_update: 2022-11-09
 status: geldig
 toestand: 2022-11-09
 bron: "https://wetten.overheid.nl/BWBR0035198"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van 23 mei 2014 tot het vaststellen van regels over de aanleg, het beheer, het gebruik en de veiligheid van lokale spoorwegen (Besluit lokaal spoor)

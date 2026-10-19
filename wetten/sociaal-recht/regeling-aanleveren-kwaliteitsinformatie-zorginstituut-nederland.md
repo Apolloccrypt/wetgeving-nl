@@ -9,7 +9,7 @@ laatste_update: 2014-04-01
 status: geldig
 toestand: 2014-04-01
 bron: "https://wetten.overheid.nl/BWBR0034942"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport, van 10 maart 2014, kenmerk 331490-117789- MC, houdende aanwijzing van de instantie voor het aanleveren van informatie over de kwaliteit van verleende zorg

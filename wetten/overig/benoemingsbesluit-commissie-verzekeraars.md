@@ -9,7 +9,7 @@ laatste_update: 2014-04-12
 status: geldig
 toestand: 2014-04-12
 bron: "https://wetten.overheid.nl/BWBR0035040"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Minister van Financiën van 3 april 2014, kenmerk: FM/2014/473 M, tot benoeming van en toekenning van vergoedingen aan de Commissie verzekeraars (Benoemingsbesluit Commissie verzekeraars)

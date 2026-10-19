@@ -9,7 +9,7 @@ laatste_update: 2014-05-03
 status: geldig
 toestand: 2014-05-03
 bron: "https://wetten.overheid.nl/BWBR0035089"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Nederlandsche Bank N.V. van 24 april 2014 ter uitvoering van de artikelen 17b, 59a, 131 en 135a van het Besluit prudentiële regels Wft (Regeling DNB afwikkelondernemingen Wft)

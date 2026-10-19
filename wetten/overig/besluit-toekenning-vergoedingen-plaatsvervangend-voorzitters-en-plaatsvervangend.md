@@ -9,7 +9,7 @@ laatste_update: 2014-03-25
 status: geldig
 toestand: 2014-03-25
 bron: "https://wetten.overheid.nl/BWBR0034965"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 14 maart 2014, kenmerk 335072-117952-PG, houdende de toekenning van vergoedingen aan de (plaatsvervangend) voorzitters en (plaatsvervangend) leden van de regionale toetsingscommissies euthanasie voor werkzaamheden die zij verrichten in de periode januari tot en met juni 2014

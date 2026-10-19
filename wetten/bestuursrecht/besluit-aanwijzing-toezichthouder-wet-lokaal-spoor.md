@@ -9,7 +9,7 @@ laatste_update: 2015-12-01
 status: geldig
 toestand: 2015-12-01
 bron: "https://wetten.overheid.nl/BWBR0035612"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Milieu, van 26 september 2014, nr. IENM/BSK-2014/133263, houdende aanwijzing van personen belast met het toezicht op de naleving van het bij of krachtens de Wet lokaal spoor bepaalde (Besluit aanwijzing toezichthouder Wet lokaal spoor)

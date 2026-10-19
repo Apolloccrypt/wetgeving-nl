@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-10-12
 toestand: 2025-08-01
 bron: "https://wetten.overheid.nl/BWBR0048848"
-opgehaald: 2026-10-18
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de directeur Mens en Organisatie van 16 oktober 2023, nr. 36304847, houdende verlening van ondermandaat, volmacht en machtiging voor de directie Mens en Organisatie van het Ministerie van Economische Zaken en Klimaat (Besluit ondermandaat, volmacht en machtiging voor de directie Mens en Organisatie van het Ministerie van Economische Zaken en Klimaat 2023)

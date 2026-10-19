@@ -9,7 +9,7 @@ laatste_update: 2014-07-03
 status: geldig
 toestand: 2014-07-03
 bron: "https://wetten.overheid.nl/BWBR0035270"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Onderlinge regeling als bedoeld in artikel 38, van het Statuut voor het Koninkrijk der Nederlanden regelende de samenwerking tussen Nederland, Aruba, Curaçao en Sint Maarten op het gebied van de onderlinge beschikbaarstelling van detentiecapaciteit op medische gronden of in verband met dringende redenen van veiligheid

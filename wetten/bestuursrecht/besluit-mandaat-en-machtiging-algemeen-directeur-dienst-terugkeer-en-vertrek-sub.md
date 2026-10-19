@@ -9,7 +9,7 @@ laatste_update: 2014-02-04
 status: geldig
 toestand: 2014-02-04
 bron: "https://wetten.overheid.nl/BWBR0034762"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 30 januari 2014, nr. MinBuZa.2014-58763, tot het verlenen van mandaat en machtiging aan de algemeen directeur van de Dienst Terugkeer en Vertrek van het ministerie van Veiligheid en Justitie met betrekking tot subsidieverlening voor projecten voor de vrijwillige, duurzame terugkeer en herintegratie van ex-asielzoekers

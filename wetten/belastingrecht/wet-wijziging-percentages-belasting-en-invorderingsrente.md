@@ -9,7 +9,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0034485"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Wet van 18 december 2013 tot wijziging van de Algemene wet inzake rijksbelastingen en van de Invorderingswet 1990 in verband met de wijziging van de percentages belasting- en invorderingsrente (Wet wijziging percentages belasting- en invorderingsrente)

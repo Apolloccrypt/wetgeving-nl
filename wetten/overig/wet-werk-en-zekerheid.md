@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0035254"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Wet van 14 juni 2014 tot wijziging van verschillende wetten in verband met de hervorming van het ontslagrecht, wijziging van de rechtspositie van flexwerkers en wijziging van verschillende wetten in verband met het aanpassen van de Werkloosheidswet, het verruimen van de openstelling van de Wet inkomensvoorziening oudere werklozen en de beperking van de toegang tot de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers (Wet werk en zekerheid)

@@ -9,7 +9,7 @@ laatste_update: 2024-09-01
 status: geldig
 toestand: 2024-09-01
 bron: "https://wetten.overheid.nl/BWBR0034495"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 12 december 2013, nr. HO&S/558908, inzake de aanvullende voorziening reisrecht op grond van artikel 11.5 Wet studiefinanciering 2000

@@ -9,7 +9,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0034549"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Regeling van het Stimuleringsfonds voor de pers van 17 december 2013, nr. 23700 tot vaststelling van subsidieplafonds voor het jaar 2014

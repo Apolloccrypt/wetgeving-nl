@@ -9,7 +9,7 @@ laatste_update: 2016-10-01
 status: geldig
 toestand: 2016-10-01
 bron: "https://wetten.overheid.nl/BWBR0035585"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Tijdelijke regeling van de Minister van Sociale Zaken en Werkgelegenheid van 25 september 2014, tot wijziging van de Regeling uitvoering Wet arbeid vreemdelingen 2014 in verband met het vervallen van de toets op aanwezig prioriteitgenietend aanbod voor aanvragen van de Aziatische horeca

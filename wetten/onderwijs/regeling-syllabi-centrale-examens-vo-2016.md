@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0035141"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van het College voor examens van 15 april 2014, nummer CvE-14.01070, houdende vaststelling van de syllabi voor de centrale examens in het v.w.o., h.a.v.o. en v.m.b.o. 2016, nadere vaststelling van enkele syllabi 2015, tevens initiële vaststelling toetswijzer rekentoets VO 2015 (Regeling syllabi centrale examens VO 2016)

@@ -9,7 +9,7 @@ laatste_update: 2014-03-01
 status: geldig
 toestand: 2014-03-01
 bron: "https://wetten.overheid.nl/BWBR0034868"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Secretaris-Generaal van Volksgezondheid, Welzijn en Sport van 14 februari 2014, 194065-116731-OBP, houdende instelling van de monitoringscommissie Van Werk Naar Werk VWS

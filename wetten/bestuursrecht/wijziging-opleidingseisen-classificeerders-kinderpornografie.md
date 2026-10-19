@@ -8,7 +8,7 @@ laatste_update: 2014-01-28
 status: geldig
 toestand: 2014-01-28
 bron: "https://wetten.overheid.nl/BWBR0034710"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Wijziging opleidingseisen classificeerders kinderpornografie

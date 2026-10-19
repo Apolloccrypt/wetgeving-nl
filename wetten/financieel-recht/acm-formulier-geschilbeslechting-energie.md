@@ -9,7 +9,7 @@ laatste_update: 2014-04-03
 status: geldig
 toestand: 2014-04-03
 bron: "https://wetten.overheid.nl/BWBR0035028"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Autoriteit Consument en Markt van 26 maart 2014, met nummer P_500195/9.O93 tot vaststelling van het formulier voor het indienen van een aanvraag voor geschilbeslechting op grond van artikel 51 van de Elektriciteitswet 1998 of artikel 19 van de Gaswet (ACM Formulier geschilbeslechting energie)

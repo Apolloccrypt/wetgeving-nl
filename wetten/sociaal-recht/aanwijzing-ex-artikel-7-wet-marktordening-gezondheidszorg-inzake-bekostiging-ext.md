@@ -9,7 +9,7 @@ laatste_update: 2014-09-01
 status: geldig
 toestand: 2014-09-01
 bron: "https://wetten.overheid.nl/BWBR0035400"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 14 juli 2014, 642422-123511-MC, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake bekostiging extramurale behandeling van zintuiglijk gehandicapten

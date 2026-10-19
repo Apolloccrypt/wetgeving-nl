@@ -9,7 +9,7 @@ laatste_update: 2014-10-15
 status: geldig
 toestand: 2014-10-15
 bron: "https://wetten.overheid.nl/BWBR0035247"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van 20 juni 2014 tot wijziging van het Rechtspositiebesluit commissarissen van de Koning, het Rechtspositiebesluit burgemeesters, het Rechtspositiebesluit gedeputeerden, het Rechtspositiebesluit wethouders, het Rechtspositiebesluit staten- en commissieleden, het Rechtspositiebesluit raads- en commissieleden, het Waterschapsbesluit en het Rechtspositiebesluit Rijksvertegenwoordiger BES in verband met de harmonisering en modernisering van deze besluiten (Besluit harmonisering en modernisering rechtspositie decentrale politieke ambtsdragers)

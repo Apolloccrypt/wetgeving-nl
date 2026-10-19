@@ -9,7 +9,7 @@ laatste_update: 2015-04-11
 status: geldig
 toestand: 2015-04-11
 bron: "https://wetten.overheid.nl/BWBR0034833"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Beleidsregels ter verdeling besteedbare middelen beheerskosten zorgverzekeraars AWBZ 2014

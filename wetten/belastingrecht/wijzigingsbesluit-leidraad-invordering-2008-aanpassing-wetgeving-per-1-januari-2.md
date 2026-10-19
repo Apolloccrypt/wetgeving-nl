@@ -8,7 +8,7 @@ laatste_update: 2014-07-01
 status: geldig
 toestand: 2014-07-01
 bron: "https://wetten.overheid.nl/BWBR0034630"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Wijzigingsbesluit Leidraad Invordering 2008 (aanpassing wetgeving per 1 januari 2014 en introductie bijzondere uitstelfaciliteit erfbelasting)

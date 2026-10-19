@@ -9,7 +9,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0034492"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Minister van Veiligheid en Justitie van 10 december 2013, nr. 462409, houdende instelling van de kwaliteitscommissie Bibob (Instellingsbesluit kwaliteitscommissie Bibob)

@@ -9,7 +9,7 @@ laatste_update: 2014-07-02
 status: geldig
 toestand: 2014-07-02
 bron: "https://wetten.overheid.nl/BWBR0035264"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 19 juni 2014, nummer 513217, houdende de archiefbeheersregels voor het Ministerie van Veiligheid en Justitie (Archiefbeheersregels Veiligheid en Justitie 2014)

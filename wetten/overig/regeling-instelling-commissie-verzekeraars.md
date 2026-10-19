@@ -9,7 +9,7 @@ laatste_update: 2014-04-12
 status: geldig
 toestand: 2014-04-12
 bron: "https://wetten.overheid.nl/BWBR0035038"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Minister van Financiën en de Minister voor Wonen en Rijksdienst van 3 april 2014, kenmerk: FM 2014/470 M, tot instelling van de Commissie verzekeraars (Regeling instelling Commissie verzekeraars)

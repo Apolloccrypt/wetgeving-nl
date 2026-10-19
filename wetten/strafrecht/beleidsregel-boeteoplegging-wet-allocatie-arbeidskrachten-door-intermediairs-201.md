@@ -9,7 +9,7 @@ laatste_update: 2026-04-02
 status: geldig
 toestand: 2026-04-02
 bron: "https://wetten.overheid.nl/BWBR0034835"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Beleidsregel van de Minister van Sociale Zaken en Werkgelegenheid van 17 februari 2014, 2014-0000020730, tot vaststelling van beleidsregels in het kader van de bestuursrechtelijke handhaving van de Wet allocatie arbeidskrachten door intermediairs (Beleidsregels boeteoplegging Wet allocatie arbeidskrachten door intermediairs 2014)

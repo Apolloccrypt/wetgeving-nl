@@ -9,7 +9,7 @@ laatste_update: 2019-05-11
 status: geldig
 toestand: 2019-05-11
 bron: "https://wetten.overheid.nl/BWBR0034860"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de directeur-generaal Rijkswaterstaat van 19 februari 2014, met kenmerk RWS-2014/328 houdende verlening van mandaat, volmacht en machtiging inzake luchthavens (Besluit mandaat, volmacht en machtiging Rijkswaterstaat inzake luchthavens 2014)

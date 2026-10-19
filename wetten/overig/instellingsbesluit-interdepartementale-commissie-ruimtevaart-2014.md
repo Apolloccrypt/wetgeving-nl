@@ -9,7 +9,7 @@ laatste_update: 2014-07-04
 status: geldig
 toestand: 2014-07-04
 bron: "https://wetten.overheid.nl/BWBR0035277"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Minister van Economische Zaken van 24 juni 2014, nr. WJZ/14067994, houdende instelling van de Interdepartementale commissie ruimtevaart 2014

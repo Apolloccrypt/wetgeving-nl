@@ -9,7 +9,7 @@ laatste_update: 2014-05-13
 status: geldig
 toestand: 2014-05-13
 bron: "https://wetten.overheid.nl/BWBR0035109"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Milieu van 23 april 2014, IENM/BSK-2014/ 92851, houdende aanwijzing vervoersdienst waarvoor het College van Gedeputeerde Staten van de provincie Limburg bevoegd is tot het verlenen, wijzigen of intrekken van concessies voor regionaal openbaar vervoer per trein

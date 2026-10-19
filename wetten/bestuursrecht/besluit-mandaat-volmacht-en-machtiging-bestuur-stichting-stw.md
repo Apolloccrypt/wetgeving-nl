@@ -9,7 +9,7 @@ laatste_update: 2017-12-13
 status: geldig
 toestand: 2017-12-13
 bron: "https://wetten.overheid.nl/BWBR0035243"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Minister van Economische Zaken van 24 juni 2014, nr. WJZ / 14104810, houdende regels inzake mandaat, volmacht en machtiging aan het bestuur van de Stichting voor de Technische Wetenschappen betreffende de uitvoering van hoofdstuk 9a van de Subsidieregeling starten, groeien en overdragen van ondernemingen (Besluit mandaat, volmacht en machtiging bestuur Stichting STW)

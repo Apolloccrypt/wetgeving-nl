@@ -8,7 +8,7 @@ laatste_update: 2014-02-19
 status: geldig
 toestand: 2014-02-19
 bron: "https://wetten.overheid.nl/BWBR0034837"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling geautomatiseerde bijhouding 2014

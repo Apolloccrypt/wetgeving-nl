@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0035259"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Wet van 25 juni 2014 tot wijziging van de Algemene Kinderbijslagwet, de Wet op het kindgebonden budget, de Wet werk en bijstand, de Wet inkomstenbelasting 2001, de Wet studiefinanciering 2000 en enige andere wetten in verband met hervorming en versobering van de kindregelingen (Wet hervorming kindregelingen)

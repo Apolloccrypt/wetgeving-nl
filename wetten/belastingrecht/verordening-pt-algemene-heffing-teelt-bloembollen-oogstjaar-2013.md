@@ -9,7 +9,7 @@ laatste_update: 2014-05-25
 status: geldig
 toestand: 2014-05-25
 bron: "https://wetten.overheid.nl/BWBR0035135"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Verordening van het bestuur van het Productschap Tuinbouw van 26 maart 2013, houdende de vaststelling van een algemene heffing ten behoeve van de teelt van bloembollen voor het oogstjaar 2013 (Verordening PT algemene heffing teelt bloembollen oogstjaar 2013)

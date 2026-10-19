@@ -9,7 +9,7 @@ laatste_update: 2026-07-07
 status: geldig
 toestand: 2026-07-07
 bron: "https://wetten.overheid.nl/BWBR0035217"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van 5 juni 2014, houdende regels met betrekking tot houders van dieren (Besluit houders van dieren)

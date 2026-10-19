@@ -9,7 +9,7 @@ laatste_update: 2014-03-15
 status: geldig
 toestand: 2014-03-15
 bron: "https://wetten.overheid.nl/BWBR0034913"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Minister van Financiën van 5 maart 2014 FM 2014/415 M, directie Financiële Markten, houdende de toestemming voor betalingsdienstgebruikers om tot en met 31 januari 2016 omzettingsdiensten aan te bieden voor binnenlandse betalingstransacties

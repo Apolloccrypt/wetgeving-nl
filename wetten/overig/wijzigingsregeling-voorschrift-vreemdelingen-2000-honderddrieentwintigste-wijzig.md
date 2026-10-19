@@ -9,7 +9,7 @@ laatste_update: 2014-10-01
 status: geldig
 toestand: 2014-10-01
 bron: "https://wetten.overheid.nl/BWBR0034590"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Staatssecretaris van Veiligheid en Justitie van 13 december 2013, nummer 463556, houdende wijziging van het Voorschrift Vreemdelingen 2000 (honderddrieëntwintigste wijziging)

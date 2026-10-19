@@ -9,7 +9,7 @@ laatste_update: 2017-07-01
 status: geldig
 toestand: 2017-07-01
 bron: "https://wetten.overheid.nl/BWBR0035652"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Wet van 9 juli 2014 tot wijziging van de Wegenverkeerswet 1994 in verband met een uitbreiding van de reikwijdte van de recidiveregeling voor ernstige verkeersdelicten

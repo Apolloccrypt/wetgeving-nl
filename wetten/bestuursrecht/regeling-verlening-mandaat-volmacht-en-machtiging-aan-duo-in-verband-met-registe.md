@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0034646"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 3 december 2013, 2013-0000170957, tot verlening van mandaat, volmacht en machtiging aan DUO in verband met het register buitenlandse kinderopvang

@@ -9,7 +9,7 @@ laatste_update: 2013-12-26
 status: geldig
 toestand: 2013-12-26
 bron: "https://wetten.overheid.nl/BWBR0034505"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 12 december 2013, HDPO/AR-464/13 tot het verlenen van machtiging aan P-Direkt

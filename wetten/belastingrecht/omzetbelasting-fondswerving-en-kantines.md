@@ -8,7 +8,7 @@ laatste_update: 2021-12-22
 status: geldig
 toestand: 2021-12-22
 bron: "https://wetten.overheid.nl/BWBR0034569"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Omzetbelasting, fondswerving en kantines

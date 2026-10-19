@@ -9,7 +9,7 @@ laatste_update: 2025-12-31
 status: geldig
 toestand: 2025-12-31
 bron: "https://wetten.overheid.nl/BWBR0035433"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 29 juli 2014, kenmerk 641412-123384 PG, houdende regels voor de subsidiëring van abortusklinieken (Subsidieregeling abortusklinieken)

@@ -8,7 +8,7 @@ laatste_update: 2024-11-22
 status: geldig
 toestand: 2024-11-22
 bron: "https://wetten.overheid.nl/BWBR0035514"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit digitale vervanging papieren archiefbescheiden Ministerie van Binnenlandse Zaken en Koninkrijksrelaties

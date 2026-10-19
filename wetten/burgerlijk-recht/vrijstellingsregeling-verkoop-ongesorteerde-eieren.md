@@ -9,7 +9,7 @@ laatste_update: 2026-04-17
 status: geldig
 toestand: 2026-04-17
 bron: "https://wetten.overheid.nl/BWBR0035132"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken van 21 mei 2014, nr. WJZ/13163215, houdende het vaststellen van een vrijstelling voor de verkoop van ongesorteerde eieren (Vrijstellingsregeling verkoop ongesorteerde eieren)

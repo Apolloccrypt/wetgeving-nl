@@ -9,7 +9,7 @@ laatste_update: 2014-06-17
 status: geldig
 toestand: 2014-06-17
 bron: "https://wetten.overheid.nl/BWBR0035199"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 4 juni 2014, nr. HO&S/633048, inzake het ruilen van bewijzen van toelating voor numerusfixusopleidingen in het hoger onderwijs (Beleidsregel ruilen bewijzen van toelating ho 2014)

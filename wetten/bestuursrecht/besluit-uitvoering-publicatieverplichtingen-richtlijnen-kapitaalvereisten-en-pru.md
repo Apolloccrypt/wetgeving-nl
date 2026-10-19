@@ -9,7 +9,7 @@ laatste_update: 2021-11-26
 status: geldig
 toestand: 2021-11-26
 bron: "https://wetten.overheid.nl/BWBR0035575"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van 11 september 2014, houdende regels ter uitvoering van de artikelen 89 en 90 van Richtlijn 2013/36/EU van het Europees Parlement en de Raad van 26 juni 2013 betreffende toegang tot het bedrijf van kredietinstellingen en het prudentieel toezicht op kredietinstellingen en beleggingsondernemingen, tot wijziging van Richtlijn 2002/87/EG en tot intrekking van de Richtlijnen 2006/48/EG en 2006/49/EG (PbEU 2013, L 176) (Besluit uitvoering publicatieverplichtingen richtlijn kapitaalvereisten)

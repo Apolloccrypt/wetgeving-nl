@@ -9,7 +9,7 @@ laatste_update: 2013-12-31
 status: geldig
 toestand: 2013-12-31
 bron: "https://wetten.overheid.nl/BWBR0034555"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Staatssecretaris van Economische Zaken van 20 december 2013, nr. WJZ / 13182859, houdende taken, werkwijze, benoeming en vergoeding Visserijcommissie BES (Besluit houdende taken, werkwijze, benoeming en vergoeding Visserijcommissie BES)

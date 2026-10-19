@@ -9,7 +9,7 @@ laatste_update: 2014-05-07
 status: geldig
 toestand: 2014-05-07
 bron: "https://wetten.overheid.nl/BWBR0035092"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit beperking openbaarheid bij de Verklaring van overbrenging archief Raad van Arbeid Breda, 1919–1988

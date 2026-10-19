@@ -9,7 +9,7 @@ laatste_update: 2025-11-20
 status: geldig
 toestand: 2025-11-20
 bron: "https://wetten.overheid.nl/BWBR0035571"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Minister voor Wonen en Rijksdienst van 12 augustus 2014, nr. 2014-0000439657, tot het verlenen van mandaat, volmacht en machtiging ter uitvoering van een aantal wetten, besluiten, regelingen en beschikkingen op het terrein van Wonen en Bouwen (Mandaatbesluit RVO Regelingen Wonen en Bouwen)

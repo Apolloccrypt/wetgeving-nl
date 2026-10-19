@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0035624"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Minister van Infrastructuur en Milieu, van 8 oktober 2014, IENM/BSK-2014/161234, houdende verlening van mandaat, volmacht en machtiging aan het hoofd van Bureau Sanering Verkeerslawaai en zijn plaatsvervanger voor de uitvoering van de Subsidieregeling sanering verkeerslawaai, de Stimuleringsregeling stille wegdekken en diverse taken in het kader van hoofdstuk 11 van de Wet milieubeheer (Mandaatbesluit Bureau Sanering Verkeerslawaai 2014)

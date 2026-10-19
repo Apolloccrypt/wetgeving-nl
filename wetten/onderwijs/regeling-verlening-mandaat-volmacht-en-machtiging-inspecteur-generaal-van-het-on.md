@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0035118"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 13 mei 2014, 2014-0000022827, tot verlening van mandaat, volmacht en machtiging aan de IvhO in verband met openbaarmaking van informatie over tweedelijns toezicht kinderopvang en peuterspeelzalen

@@ -9,7 +9,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0034559"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de directeur Internationale Fiscale Zaken van 16 december 2013, nr. IFZ/2013/229, Overdracht competentie behandeling vangnetverzoeken

@@ -9,7 +9,7 @@ laatste_update: 2016-10-01
 status: geldig
 toestand: 2016-10-01
 bron: "https://wetten.overheid.nl/BWBR0035606"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Minister van Economische Zaken van 26 september 2014, nr. B&I/14153205, tot instelling van het team bevordering ICT-innovatie (Instellingsbesluit bevorderen ICT-innovatie)

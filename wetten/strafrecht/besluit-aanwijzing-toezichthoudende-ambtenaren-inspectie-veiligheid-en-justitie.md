@@ -9,7 +9,7 @@ laatste_update: 2018-02-27
 status: geldig
 toestand: 2018-02-27
 bron: "https://wetten.overheid.nl/BWBR0034948"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Minister van Veiligheid en Justitie van 12 maart 2014, IVenJ491926, tot aanwijzing van toezichthoudende ambtenaren bij de Inspectie Veiligheid en Justitie (Besluit aanwijzing toezichthoudende ambtenaren Inspectie Veiligheid en Justitie)

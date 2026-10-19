@@ -8,7 +8,7 @@ laatste_update: 2013-11-01
 status: geldig
 toestand: 2013-11-01
 bron: "https://wetten.overheid.nl/BWBR0035592"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Aanwijzingsregeling Koninklijke Marechaussee ex artikel 60, tweede lid WIV 2002

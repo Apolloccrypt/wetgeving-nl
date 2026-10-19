@@ -9,7 +9,7 @@ laatste_update: 2014-06-29
 status: geldig
 toestand: 2014-06-29
 bron: "https://wetten.overheid.nl/BWBR0035260"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Minister-President, Minister van Algemene Zaken van 18 januari 2010, nr. 3087434, inzake beperkingen aan de openbaarheid van in de verklaring van overbrenging van de notulen en bescheiden van de ministerraad en onderraden (1 januari 1989 – 1 januari 1990) genoemde archiefbescheiden

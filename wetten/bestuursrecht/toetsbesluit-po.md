@@ -9,7 +9,7 @@ laatste_update: 2025-08-01
 status: geldig
 toestand: 2025-08-01
 bron: "https://wetten.overheid.nl/BWBR0035216"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van 3 juni 2014, houdende regels over de centrale eindtoets of andere eindtoetsen in het primair onderwijs, over een leerling- en onderwijsvolgsysteem in het primair onderwijs en over toelating van leerlingen tot het voortgezet onderwijs (Toetsbesluit PO)

@@ -9,7 +9,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBR0034687"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Wet van 11 december 2013 tot wijziging van onder meer de Wet op het primair onderwijs, de Wet op de expertisecentra en de Wet College voor examens in verband met de invoering van een centrale eindtoets, de invoering van een leerling- en onderwijsvolgsysteem en invoering van bekostigingsvoorschriften voor minimumleerresultaten voor speciale scholen voor basisonderwijs en scholen voor speciaal onderwijs en speciaal en voortgezet speciaal onderwijs (centrale eindtoets en leerling- en onderwijsvolgsysteem primair onderwijs)

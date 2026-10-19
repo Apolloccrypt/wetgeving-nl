@@ -9,7 +9,7 @@ laatste_update: 2014-09-25
 status: geldig
 toestand: 2014-09-25
 bron: "https://wetten.overheid.nl/BWBR0035578"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de directeur-generaal van Rijkswaterstaat van 4 september 2014, met kenmerk RWS-2014/39744 houdende verlening van mandaat, volmacht en machtiging aan de projectmanager van het project Modernisering Objecten Bediening Zeeland (MOBZ) (Besluit mandaat, volmacht en machtiging projectmanager Modernisering Objecten Bediening Zeeland (MOBZ))

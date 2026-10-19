@@ -9,7 +9,7 @@ laatste_update: 2014-07-27
 status: geldig
 toestand: 2014-07-27
 bron: "https://wetten.overheid.nl/BWBR0035384"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Instellingsbesluit Due Dilligence Commissie Landelijke Meldkamerorganisatie

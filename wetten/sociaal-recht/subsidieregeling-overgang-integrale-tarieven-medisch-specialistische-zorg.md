@@ -9,7 +9,7 @@ laatste_update: 2016-04-01
 status: geldig
 toestand: 2016-04-01
 bron: "https://wetten.overheid.nl/BWBR0035565"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 2 september 2014, houdende regels voor een subsidie voor het faciliteren van medisch specialisten bij de overgang naar integrale tarieven voor medisch specialistische zorg en kaakchirurgie (Subsidieregeling overgang integrale tarieven medisch specialistische zorg)

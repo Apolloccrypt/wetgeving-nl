@@ -9,7 +9,7 @@ laatste_update: 2014-10-02
 status: geldig
 toestand: 2014-10-02
 bron: "https://wetten.overheid.nl/BWBR0035593"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Beleidsregel houdende vaststelling van regels voor de naleving en toezicht op de veiligheidsadviseur vervoer gevaarlijke stoffen (Beleidsregel veiligheidsadviseur)

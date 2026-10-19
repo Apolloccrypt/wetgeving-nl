@@ -9,7 +9,7 @@ laatste_update: 2014-02-25
 status: geldig
 toestand: 2014-02-25
 bron: "https://wetten.overheid.nl/BWBR0034842"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 3 februari 2014, kenmerk 177903-111961-PG, houdende regels voor het verstrekken van een bijzondere uitkering aan de openbare lichamen Bonaire, Sint Eustatius en Saba voor de publieke gezondheidszorg (Tijdelijke regeling publieke gezondheidszorg Caribisch Nederland)

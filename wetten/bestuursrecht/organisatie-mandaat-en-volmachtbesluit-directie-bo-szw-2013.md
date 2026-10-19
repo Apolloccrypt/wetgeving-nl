@@ -9,7 +9,7 @@ laatste_update: 2023-11-02
 status: geldig
 toestand: 2023-11-02
 bron: "https://wetten.overheid.nl/BWBR0034588"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 17 december 2013, houdende de inrichting van de directie Bestuursondersteuning alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Bestuursondersteuning (Organisatie-, mandaat- en volmachtbesluit directie BO SZW 2013)

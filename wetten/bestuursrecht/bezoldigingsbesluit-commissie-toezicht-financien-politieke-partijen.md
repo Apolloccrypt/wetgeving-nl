@@ -8,7 +8,7 @@ laatste_update: 2025-05-31
 status: geldig
 toestand: 2025-05-31
 bron: "https://wetten.overheid.nl/BWBR0034685"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Bezoldigingsbesluit Commissie toezicht financiën politieke partijen

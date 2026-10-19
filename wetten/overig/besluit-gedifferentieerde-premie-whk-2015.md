@@ -8,7 +8,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0035501"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit gedifferentieerde premie Whk 2015

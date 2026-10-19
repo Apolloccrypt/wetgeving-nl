@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0034951"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 13 maart 2014, 2014-0000033986, tot vaststelling van nadere regels omtrent de uitvoering van de Remigratiewet en het Remigratiebesluit (Remigratieregeling)

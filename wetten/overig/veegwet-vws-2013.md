@@ -9,7 +9,7 @@ laatste_update: 2016-08-01
 status: geldig
 toestand: 2016-08-01
 bron: "https://wetten.overheid.nl/BWBR0034659"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Wet van 4 december 2013 tot wijziging van de Algemene Wet Bijzondere Ziektekosten, de Zorgverzekeringswet en de Invoerings- en aanpassingswet Zorgverzekeringswet teneinde daarin enkele verbeteringen aan te brengen, alsmede technische reparaties in diverse wetten (Veegwet VWS 2013)

@@ -9,7 +9,7 @@ laatste_update: 2026-04-25
 status: geldig
 toestand: 2026-04-25
 bron: "https://wetten.overheid.nl/BWBR0035180"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Minister van Economische Zaken van 5 juni 2014, nr. WJZ/14070246, houdende regels inzake de verhandeling van wijn en olijfolie (Regeling wijn en olijfolie)

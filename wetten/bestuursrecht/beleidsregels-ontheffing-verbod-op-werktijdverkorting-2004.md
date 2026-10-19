@@ -8,7 +8,7 @@ laatste_update: 2004-10-18
 status: geldig
 toestand: 2004-10-18
 bron: "https://wetten.overheid.nl/BWBR0035499"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Beleidsregels ontheffing verbod op werktijdverkorting 2004

@@ -9,7 +9,7 @@ laatste_update: 2026-01-21
 status: geldig
 toestand: 2026-01-21
 bron: "https://wetten.overheid.nl/BWBR0035634"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Minister van Economische Zaken van 10 oktober 2014, nr. WJZ / 14152482, houdende regels over producentenorganisaties, unies van producentenorganisaties en brancheorganisaties (Regeling producenten- en brancheorganisaties)

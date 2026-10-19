@@ -9,7 +9,7 @@ laatste_update: 2014-02-13
 status: geldig
 toestand: 2014-02-13
 bron: "https://wetten.overheid.nl/BWBR0034797"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit tot vaststelling van de factoren L en r voor het boekjaar 2014

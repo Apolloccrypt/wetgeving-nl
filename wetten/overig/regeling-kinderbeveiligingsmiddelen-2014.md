@@ -9,7 +9,7 @@ laatste_update: 2014-11-01
 status: geldig
 toestand: 2014-11-01
 bron: "https://wetten.overheid.nl/BWBR0035515"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu, van 3 september 2014, nr. IENM/BSK-2014/196488, houdende vaststelling van regels met betrekking tot kinderbeveiligingssystemen (Regeling kinderbeveiligingsmiddelen 2014)

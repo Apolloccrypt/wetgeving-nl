@@ -9,7 +9,7 @@ laatste_update: 2014-07-01
 status: geldig
 toestand: 2014-07-01
 bron: "https://wetten.overheid.nl/BWBR0035266"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Minister van Veiligheid en Justitie van 16 juni 2014, nr. 493871, houdende sluiting van overige zittingsplaatsen van gerechtshoven in de zin van artikel 21b, tweede lid, van de Wet op de rechterlijke organisatie (Besluit sluiting overige zittingsplaatsen gerechtshoven)

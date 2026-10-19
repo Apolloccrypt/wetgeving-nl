@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0035416"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van 15 juli 2014 tot wijziging van het Besluit prudentiële regels Wft, het Besluit bestuurlijke boetes financiële sector en enige andere besluiten op het terrein van de financiële markten ter implementatie van de richtlijn kapitaalvereisten en de verordening kapitaalvereisten (Implementatiebesluit richtlijn en verordening kapitaalvereisten)

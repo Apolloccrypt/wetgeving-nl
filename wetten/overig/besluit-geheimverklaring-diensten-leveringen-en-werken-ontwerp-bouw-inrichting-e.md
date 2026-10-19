@@ -9,7 +9,7 @@ laatste_update: 2014-07-26
 status: geldig
 toestand: 2014-07-26
 bron: "https://wetten.overheid.nl/BWBR0035376"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de minister voor Wonen en Rijksdienst van 17 juli 2014, nummer D_IT30YFY, tot geheimverklaring van opdrachten voor diensten, leveringen en werken ten behoeve van ontwerp, bouw, inrichting en onderhoud van woon- en werkverblijven van leden van het Koninklijk Huis

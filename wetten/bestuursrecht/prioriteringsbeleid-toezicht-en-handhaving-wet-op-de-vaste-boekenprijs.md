@@ -8,7 +8,7 @@ laatste_update: 2014-03-14
 status: geldig
 toestand: 2014-03-14
 bron: "https://wetten.overheid.nl/BWBR0034894"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Prioriteringsbeleid toezicht en handhaving Wet op de vaste boekenprijs

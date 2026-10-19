@@ -9,7 +9,7 @@ laatste_update: 2014-01-23
 status: geldig
 toestand: 2014-01-23
 bron: "https://wetten.overheid.nl/BWBR0034689"
-opgehaald: 2026-08-20
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 10 januari 2014, nr. WJZ/483084 (10323), houdende intrekking van diverse regelingen op het terrein van het onderwijs in verband met het feit dat deze hun betekenis hebben verloren, alsmede wijziging van diverse andere regelingen op genoemd terrein in verband met het opnemen van een vervaldatum daarin (Regeling intrekking OCW-regelingen op het gebied van onderwijs 2014)

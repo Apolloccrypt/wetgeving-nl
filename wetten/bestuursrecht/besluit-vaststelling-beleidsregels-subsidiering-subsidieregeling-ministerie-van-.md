@@ -9,7 +9,7 @@ laatste_update: 2014-07-10
 status: geldig
 toestand: 2014-07-10
 bron: "https://wetten.overheid.nl/BWBR0035110"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 7 mei 2014, nr. DSO/MO-113/2014 tot vaststelling van beleidsregels voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Strategische partnerschappen pleiten en beïnvloeden 2016–2020)

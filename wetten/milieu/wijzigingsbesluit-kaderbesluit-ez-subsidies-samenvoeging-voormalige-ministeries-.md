@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0035468"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van 17 juli 2014 tot wijziging van het Kaderbesluit EZ-subsidies in verband met de samenvoeging van de voormalige Ministeries van Landbouw, Natuur en Voedselkwaliteit en van Economische Zaken

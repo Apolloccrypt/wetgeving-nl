@@ -9,7 +9,7 @@ laatste_update: 2014-10-08
 status: geldig
 toestand: 2014-10-08
 bron: "https://wetten.overheid.nl/BWBR0035611"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Vaststelling selectielijst COKZ over de periode vanaf (1901) 1975

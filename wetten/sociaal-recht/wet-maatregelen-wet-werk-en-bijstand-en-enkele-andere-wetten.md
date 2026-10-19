@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0035385"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Wet van 2 juli 2014 tot wijziging van de Wet werk en bijstand en enkele andere sociale zekerheidswetten (Wet maatregelen Wet werk en bijstand en enkele andere wetten)

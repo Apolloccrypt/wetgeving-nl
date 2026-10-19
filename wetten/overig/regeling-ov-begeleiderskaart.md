@@ -9,7 +9,7 @@ laatste_update: 2014-08-01
 status: geldig
 toestand: 2014-08-01
 bron: "https://wetten.overheid.nl/BWBR0035366"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 11 juli 2014, nr. IENM/BSK-2014/142179, houdende de vaststelling van regels betreffende het legitimatiebewijs voor gehandicapten (Regeling OV-begeleiderskaart)

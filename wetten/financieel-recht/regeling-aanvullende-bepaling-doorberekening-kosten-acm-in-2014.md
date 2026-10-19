@@ -9,7 +9,7 @@ laatste_update: 2014-09-10
 status: geldig
 toestand: 2014-09-10
 bron: "https://wetten.overheid.nl/BWBR0035531"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Minister van Economische Zaken van 5 september 2014, nr. WJZ/14145172, houdende een aanvullende bepaling inzake de doorberekening van kosten van de ACM in 2014

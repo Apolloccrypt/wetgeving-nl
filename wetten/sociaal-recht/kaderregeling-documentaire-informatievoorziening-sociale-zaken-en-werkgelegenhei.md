@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0034937"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 6 maart 2014, 2014-0000007640, houdende regels voor de documentaire informatievoorziening van het Ministerie van Sociale Zaken en Werkgelegenheid (Kaderregeling DIV SZW 2014)

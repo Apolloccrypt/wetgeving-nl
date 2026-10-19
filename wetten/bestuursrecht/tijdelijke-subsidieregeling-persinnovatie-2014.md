@@ -8,7 +8,7 @@ laatste_update: 2014-03-16
 status: geldig
 toestand: 2014-03-16
 bron: "https://wetten.overheid.nl/BWBR0034909"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Tijdelijke subsidieregeling persinnovatie 2014

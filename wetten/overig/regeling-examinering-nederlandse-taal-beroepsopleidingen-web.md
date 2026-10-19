@@ -9,7 +9,7 @@ laatste_update: 2014-08-01
 status: geldig
 toestand: 2014-08-01
 bron: "https://wetten.overheid.nl/BWBR0035256"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 20 juni 2014, nr. MBO/634809, houdende vaststelling onderdelen centraal examen en instellingsexamen van het generieke examenonderdeel Nederlandse taal beroepsopleidingen WEB (Regeling examinering Nederlandse taal beroepsopleidingen WEB)

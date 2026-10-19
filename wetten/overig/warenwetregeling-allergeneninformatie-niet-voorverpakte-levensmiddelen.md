@@ -9,7 +9,7 @@ laatste_update: 2014-12-13
 status: geldig
 toestand: 2014-12-13
 bron: "https://wetten.overheid.nl/BWBR0035516"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 7 augustus 2014, 648963-124382-VGP houdende vaststelling van regels inzake verplichte allergeneninformatie niet-voorverpakte levensmiddelen (Warenwetregeling allergeneninformatie niet-voorverpakte levensmiddelen)

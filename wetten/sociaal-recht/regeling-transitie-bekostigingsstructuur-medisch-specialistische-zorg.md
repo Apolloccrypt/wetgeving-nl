@@ -8,7 +8,7 @@ laatste_update: 2014-08-21
 status: geldig
 toestand: 2014-08-21
 bron: "https://wetten.overheid.nl/BWBR0035464"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Regeling transitie bekostigingsstructuur medisch specialistische zorg

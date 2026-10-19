@@ -9,7 +9,7 @@ laatste_update: 2014-08-01
 status: geldig
 toestand: 2014-08-01
 bron: "https://wetten.overheid.nl/BWBR0035422"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-19
 ---
 
 # Besluit van de Autoriteit Consument en Markt van 22 juli 2014, ACM/DJZ/2014/203962, tot intrekking van het Besluit instelling Adviescommissie bezwaarschriften ACM
