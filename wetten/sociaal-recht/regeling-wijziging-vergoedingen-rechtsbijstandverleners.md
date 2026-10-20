@@ -9,7 +9,7 @@ laatste_update: 2015-01-31
 status: geldig
 toestand: 2015-01-31
 bron: "https://wetten.overheid.nl/BWBR0036204"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Staatssecretaris van Veiligheid en Justitie van 30 januari 2015, nr. 611103, houdende wijziging van de vergoedingen voor rechtsbijstandverleners

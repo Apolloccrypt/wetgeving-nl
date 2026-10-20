@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0035887"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu, van 5 december 2014, nr. IENM/BSK-2014/265143, houdende vaststelling van de tarieven inzake bewegwijzering (Regeling tarieven bewegwijzering)

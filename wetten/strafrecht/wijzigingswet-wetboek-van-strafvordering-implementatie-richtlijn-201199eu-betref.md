@@ -9,7 +9,7 @@ laatste_update: 2015-03-01
 status: geldig
 toestand: 2015-03-01
 bron: "https://wetten.overheid.nl/BWBR0036227"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Wet van 28 januari 2015, houdende implementatie van richtlijn 2011/99/EU van het Europees Parlement en de Raad van de Europese Unie van 13 december 2011 betreffende het Europees beschermingsbevel (PbEU L 338)

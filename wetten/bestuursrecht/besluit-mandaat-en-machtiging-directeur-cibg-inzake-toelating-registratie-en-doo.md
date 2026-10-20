@@ -9,7 +9,7 @@ laatste_update: 2019-12-20
 status: geldig
 toestand: 2019-12-20
 bron: "https://wetten.overheid.nl/BWBR0036034"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van de Minister van Economische Zaken van 16 december 2014, nr. WJZ/14200419, houdende regels inzake het verlenen van mandaat en machtiging aan de directeur van het Agentschap Centraal Informatiepunt Beroepen Gezondheidszorg (CIBG) betreffende aangelegenheden die verband houden met de toelating, registratie en doorhaling van de uitoefening van de diergeneeskunde (Besluit mandaat en machtiging directeur CIBG inzake toelating, registratie en doorhaling van de uitoefening van de diergeneeskunde)

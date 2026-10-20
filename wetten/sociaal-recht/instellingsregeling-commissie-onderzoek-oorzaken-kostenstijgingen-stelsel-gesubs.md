@@ -9,7 +9,7 @@ laatste_update: 2015-02-24
 status: geldig
 toestand: 2015-02-24
 bron: "https://wetten.overheid.nl/BWBR0036334"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Staatssecretaris van Veiligheid en Justitie en de Minister voor Wonen en Rijksdienst van 13 februari 2015, nr. 616510, houdende instelling van de Commissie onderzoek oorzaken kostenstijgingen stelsel gesubsidieerde rechtsbijstand en vernieuwing van het stelsel

@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0035985"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 10 december 2014, nr. 585658, houdende regels inzake de fysieke vaardigheidstoets voor de politie (Regeling fysieke vaardigheidstoets politie)

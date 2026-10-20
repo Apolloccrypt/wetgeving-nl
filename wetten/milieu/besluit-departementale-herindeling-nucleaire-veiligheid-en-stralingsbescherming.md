@@ -9,7 +9,7 @@ laatste_update: 2015-05-01
 status: geldig
 toestand: 2015-05-01
 bron: "https://wetten.overheid.nl/BWBR0036541"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van 10 april 2015 nr. 2015000645, houdende departementale herindeling met betrekking tot Nucleaire veiligheid en stralingsbescherming

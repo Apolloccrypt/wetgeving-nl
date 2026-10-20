@@ -9,7 +9,7 @@ laatste_update: 2017-01-24
 status: geldig
 toestand: 2017-01-24
 bron: "https://wetten.overheid.nl/BWBR0036545"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 21 april 2015, nr. IENM/BSK-2015/69519, houdende regels met betrekking tot subsidie ter stimulering van het indienen van projectvoorstellen die vallen onder Interreg EUROPE, North West Europe of North Sea Region (Projectstimuleringsregeling Interreg V)

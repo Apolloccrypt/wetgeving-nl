@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0035746"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 6 november 2014 houdende de vaststelling van vergoedingen voor de leden van de klachtencommissies van de politie (Vergoedingenregeling leden klachtencommissies politie)

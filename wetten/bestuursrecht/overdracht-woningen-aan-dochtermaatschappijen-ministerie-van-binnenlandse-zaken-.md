@@ -8,7 +8,7 @@ laatste_update: 2015-03-20
 status: geldig
 toestand: 2015-03-20
 bron: "https://wetten.overheid.nl/BWBR0036427"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Overdracht woningen aan dochtermaatschappijen, Ministerie van Binnenlandse Zaken en Koninkrijksrelaties

@@ -9,7 +9,7 @@ laatste_update: 2020-06-16
 status: geldig
 toestand: 2020-06-16
 bron: "https://wetten.overheid.nl/BWBR0036333"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 11 februari 2015, nr. MinBuZa.2015.44528 met betrekking tot vervanging van archiefbescheiden die niet voor vernietiging in aanmerking komen (Vervangingsbesluit BZ 2015)

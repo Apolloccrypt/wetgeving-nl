@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0035983"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Wet van 10 december 2014 tot wijziging van de Wet bekostiging financieel toezicht in verband met de afschaffing van de overheidsbijdrage, de invoering van Europees bankentoezicht en de bestemming van door de Autoriteit Financiële Markten en de Nederlandsche Bank opgelegde dwangsommen en boetes

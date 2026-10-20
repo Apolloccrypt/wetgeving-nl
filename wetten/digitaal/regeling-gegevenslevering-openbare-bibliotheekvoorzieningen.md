@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0035892"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 1 december 2014, nr. WJZ/687894 (10524), houdende vaststelling van regels over de verstrekking van gegevens door openbare bibliotheekvoorzieningen ten behoeve van beleidsontwikkeling (Regeling gegevenslevering openbare bibliotheekvoorzieningen)

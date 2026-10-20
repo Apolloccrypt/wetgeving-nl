@@ -9,7 +9,7 @@ laatste_update: 2015-11-19
 status: geldig
 toestand: 2015-11-19
 bron: "https://wetten.overheid.nl/BWBR0035833"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 26 november 2014, nr. IENM/BSK-2014/235716 houdende vaststelling van het subsidieplafond sanering verkeerslawaai 2015

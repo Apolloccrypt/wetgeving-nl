@@ -9,7 +9,7 @@ laatste_update: 2015-04-01
 status: geldig
 toestand: 2015-04-01
 bron: "https://wetten.overheid.nl/BWBR0035782"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Wet van 5 november 2014 tot het wijzigen van een aantal wetten met het oog op de inwerkingtreding van de Jeugdwet (Invoeringswet Jeugdwet)

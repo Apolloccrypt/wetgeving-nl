@@ -9,7 +9,7 @@ laatste_update: 2014-10-25
 status: geldig
 toestand: 2014-10-25
 bron: "https://wetten.overheid.nl/BWBR0035674"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Beleidsregels van de Minister van Volksgezondheid, Welzijn en Sport van 10 oktober 2014, houdende wettelijke erkenning van specialistentitels als bedoeld in artikel 14 van de Wet op de beroepen in de individuele gezondheidszorg (Beleidsregels wettelijke erkenning specialistentitel Wet BIG)

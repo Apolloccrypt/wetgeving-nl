@@ -8,7 +8,7 @@ laatste_update: 2015-05-06
 status: geldig
 toestand: 2015-05-06
 bron: "https://wetten.overheid.nl/BWBR0036586"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Beleidsregels vereveningsbijdrage zorgverzekering 2015

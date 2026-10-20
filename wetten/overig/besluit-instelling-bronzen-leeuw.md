@@ -9,7 +9,7 @@ laatste_update: 2015-07-01
 status: geldig
 toestand: 2015-07-01
 bron: "https://wetten.overheid.nl/BWBR0036405"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van 30 Maart 1944, houdende instelling van den Bronzen Leeuw

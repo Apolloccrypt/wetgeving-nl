@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0035946"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 10 december 2014, 2014-0000185641, tot vaststelling van de Regeling vrijwilligerswerk in de Werkloosheidswet (Regeling vrijwilligerswerk in de WW)

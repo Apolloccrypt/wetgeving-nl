@@ -9,7 +9,7 @@ laatste_update: 2014-10-29
 status: geldig
 toestand: 2014-10-29
 bron: "https://wetten.overheid.nl/BWBR0035690"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Besluit van 16 oktober 2014 houdende nadere regels over het uitvoeren van een zorgvuldig onderzoek in verband met de Richtlijn nr. 2012/28/EU inzake bepaalde toegestane gebruikswijzen van verweesde werken (Besluit zorgvuldig onderzoek verweesde werken)

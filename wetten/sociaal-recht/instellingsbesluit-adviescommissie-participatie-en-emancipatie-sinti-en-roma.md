@@ -9,7 +9,7 @@ laatste_update: 2015-05-12
 status: geldig
 toestand: 2015-05-12
 bron: "https://wetten.overheid.nl/BWBR0036597"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 29 april 2015, kenmerk 755292-135599-DMO, houdende instelling van de Adviescommissie participatie en emancipatie Sinti en Roma (Instellingsbesluit Adviescommissie participatie en emancipatie Sinti en Roma)

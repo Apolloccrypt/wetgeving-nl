@@ -8,7 +8,7 @@ laatste_update: 2014-11-07
 status: geldig
 toestand: 2014-11-07
 bron: "https://wetten.overheid.nl/BWBR0035734"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Model Uitvoeringsverslag en financiële verantwoording 2014

@@ -9,7 +9,7 @@ laatste_update: 2015-02-24
 status: geldig
 toestand: 2015-02-24
 bron: "https://wetten.overheid.nl/BWBR0036332"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 13 februari 2015, nr. 616476, houdende vaststelling van de vergoeding van de leden van Commissie onderzoek oorzaken kostenstijgingen stelsel gesubsidieerde rechtsbijstand en vernieuwing van het stelsel

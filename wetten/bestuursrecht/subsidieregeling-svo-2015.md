@@ -9,7 +9,7 @@ laatste_update: 2018-12-19
 status: geldig
 toestand: 2018-12-19
 bron: "https://wetten.overheid.nl/BWBR0036619"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 4 mei 2015, nr. 2015-0000255469, houdende regels voor de subsidiëring van de Stichting verdeling financiële overheidsbijdragen in het werk van de Centrales van Overheids- en Onderwijspersoneel (Subsidieregeling SVO 2015)

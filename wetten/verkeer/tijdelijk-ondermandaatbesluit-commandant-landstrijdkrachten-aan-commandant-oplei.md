@@ -8,7 +8,7 @@ laatste_update: 2014-11-08
 status: geldig
 toestand: 2014-11-08
 bron: "https://wetten.overheid.nl/BWBR0035725"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Tijdelijk ondermandaatbesluit Commandant Landstrijdkrachten aan Commandant Opleidings- en Trainingscentrum Rijden inzake artikel 25 van de Verkeersregeling Defensie

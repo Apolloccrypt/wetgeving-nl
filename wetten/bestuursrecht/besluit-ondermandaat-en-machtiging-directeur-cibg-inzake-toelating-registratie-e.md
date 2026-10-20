@@ -9,7 +9,7 @@ laatste_update: 2015-02-19
 status: geldig
 toestand: 2015-02-19
 bron: "https://wetten.overheid.nl/BWBR0036276"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van de directeur van het Agentschap Centraal Informatiepunt Beroepen Gezondheidszorg (CIBG) van 4 februari 2015, houdende regels inzake het verlenen van ondermandaat en machtiging betreffende aangelegenheden die verband houden met de toelating, registratie en doorhaling van de uitoefening van de diergeneeskunde (Besluit ondermandaat en machtiging directeur CIBG inzake de toelating, registratie en doorhaling van de uitoefening van de diergeneeskunde)

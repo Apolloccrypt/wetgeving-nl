@@ -9,7 +9,7 @@ laatste_update: 2015-05-01
 status: geldig
 toestand: 2015-05-01
 bron: "https://wetten.overheid.nl/BWBR0036549"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Wet van 16 april 2015 tot wijziging van de Wet op de vennootschapsbelasting 1969 in verband met de invoering van een compartimenteringsreserve (Wet compartimenteringsreserve)

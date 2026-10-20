@@ -9,7 +9,7 @@ laatste_update: 2020-07-17
 status: geldig
 toestand: 2020-07-17
 bron: "https://wetten.overheid.nl/BWBR0035866"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Besluit van 26 november 2014 tot uitvoering van de Wet op de dierproeven (Dierproevenbesluit 2014)

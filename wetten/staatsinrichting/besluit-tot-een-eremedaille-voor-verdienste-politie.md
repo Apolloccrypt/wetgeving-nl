@@ -9,7 +9,7 @@ laatste_update: 2015-04-14
 status: geldig
 toestand: 2015-04-14
 bron: "https://wetten.overheid.nl/BWBR0036512"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van de Minister van Veiligheid en Justitie, van 9 maart 2015, kenmerk 622180, houdende toekenning van de Eremedaille voor verdienste politie aan ambtenaren van politie die een bijzondere politie prestatie hebben geleverd, ofwel zich op uitzonderlijke wijze verdienstelijk hebben gemaakt voor de Nederlandse politie (Besluit tot een Eremedaille voor verdienste politie)

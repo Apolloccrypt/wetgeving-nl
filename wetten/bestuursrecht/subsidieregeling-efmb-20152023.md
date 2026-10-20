@@ -9,7 +9,7 @@ laatste_update: 2018-11-14
 status: geldig
 toestand: 2018-11-14
 bron: "https://wetten.overheid.nl/BWBR0035800"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 19 november 2014, houdende voorwaarden ter uitvoering van de Verordening voor Europese hulp aan de meest behoeftigen (Subsidieregeling EFMB 2015–2023)

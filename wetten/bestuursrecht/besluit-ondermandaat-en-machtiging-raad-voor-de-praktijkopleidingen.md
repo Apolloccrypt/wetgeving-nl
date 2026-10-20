@@ -9,7 +9,7 @@ laatste_update: 2014-08-02
 status: geldig
 toestand: 2014-08-02
 bron: "https://wetten.overheid.nl/BWBR0035705"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Besluit van de Raad voor de Praktijkopleidingen houdende regels inzake ondermandaat en machtiging (Besluit ondermandaat en machtiging Raad voor de Praktijkopleidingen)

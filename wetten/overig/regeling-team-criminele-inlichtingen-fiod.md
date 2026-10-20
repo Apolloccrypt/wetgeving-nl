@@ -9,7 +9,7 @@ laatste_update: 2025-09-04
 status: geldig
 toestand: 2025-09-04
 bron: "https://wetten.overheid.nl/BWBR0035861"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Vaststelling van de regeling van de Staatssecretaris van Financiën van 1 december 2014, nr. DB 2014/474M, houdende regels omtrent werkzaamheden en autorisaties van het team criminele inlichtingen FIOD (Regeling team criminele inlichtingen FIOD)

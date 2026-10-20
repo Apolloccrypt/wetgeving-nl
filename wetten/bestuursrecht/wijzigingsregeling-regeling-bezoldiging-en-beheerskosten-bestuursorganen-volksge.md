@@ -9,7 +9,7 @@ laatste_update: 2015-03-14
 status: geldig
 toestand: 2015-03-14
 bron: "https://wetten.overheid.nl/BWBR0036399"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 5 maart 2015, kenmerk 688413-129327-MC, houdende wijziging van de Regeling bezoldiging en beheerskosten bestuursorganen volksgezondheid 2011 in verband met het toekennen van een vaste vergoeding aan de voorzitter en de andere leden van de Adviescommissie Pakket en de Adviescommissie Kwaliteit van het Zorginstituut Nederland

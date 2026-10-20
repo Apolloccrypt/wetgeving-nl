@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0035750"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Beschikking van de Staatssecretaris van Veiligheid en Justitie van 11 november 2014, nr. 580132, tot vaststelling van het percentage waarmee de bedragen voor levensonderhoud met ingang van 1 januari 2015 worden verhoogd (Beschikking wijzigingspercentage levensonderhoud 2015)

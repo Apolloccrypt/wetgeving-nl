@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0036079"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Wet van 17 december 2014 tot wijziging van de Wet uitvoering wetten voor verzetsdeelnemers en oorlogsgetroffenen in verband met het opnemen van een grondslag voor de uitvoering door de Pensioen- en Uitkeringsraad en de Sociale verzekeringsbank van de Algemene Oorlogsongevallenregeling Indonesië en het besluit van de Luitenant-Gouverneur-Generaal van Nederlands-Indië van 5 november 1946 (Indisch Staatsblad 1946, 118)

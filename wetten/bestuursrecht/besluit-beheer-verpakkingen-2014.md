@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0035711"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Besluit van 27 oktober 2014, houdende regels voor verpakkingen en verpakkingsafval (Besluit beheer verpakkingen 2014)

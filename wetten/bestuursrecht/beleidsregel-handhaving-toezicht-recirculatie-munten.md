@@ -8,7 +8,7 @@ laatste_update: 2015-03-18
 status: geldig
 toestand: 2015-03-18
 bron: "https://wetten.overheid.nl/BWBR0036413"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Beleidsregel handhaving toezicht recirculatie munten

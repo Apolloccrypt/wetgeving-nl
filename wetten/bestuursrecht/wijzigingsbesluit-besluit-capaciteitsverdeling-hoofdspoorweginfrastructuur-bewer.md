@@ -9,7 +9,7 @@ laatste_update: 2015-07-01
 status: geldig
 toestand: 2015-07-01
 bron: "https://wetten.overheid.nl/BWBR0036547"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van 16 april 2015 tot wijziging van het Besluit capaciteitsverdeling hoofdspoorweginfrastructuur in verband met het bewerkstelligen van een efficiënte en maatschappelijk wenselijke verdeling van de capaciteit van de hoofdspoorweginfrastructuur en aanpassing aan nieuwe ontwikkelingen, alsmede in verband met de verlening van de concessie voor het hoofdrailnet 2015–2025

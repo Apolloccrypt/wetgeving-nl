@@ -8,7 +8,7 @@ laatste_update: 2015-02-04
 status: geldig
 toestand: 2015-02-04
 bron: "https://wetten.overheid.nl/BWBR0036225"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Circulaire externe veiligheid LNG-tankstations

@@ -9,7 +9,7 @@ laatste_update: 2023-10-05
 status: geldig
 toestand: 2023-10-05
 bron: "https://wetten.overheid.nl/BWBR0035852"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Wet van 26 november 2014, houdende instelling van een vast college van advies op het terrein van volksgezondheid en samenleving (Wet op de Raad voor volksgezondheid en samenleving)

@@ -9,7 +9,7 @@ laatste_update: 2026-05-21
 status: geldig
 toestand: 2026-05-21
 bron: "https://wetten.overheid.nl/BWBR0036096"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport en de Staatssecretaris van Veiligheid en Justitie van 12 december 2014, houdende regels voor de uitvoering van de Wet maatschappelijke ondersteuning 2015 (Uitvoeringsregeling Wmo 2015)

@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0036051"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 15 december 2014, 2014-0000187843, tot vaststelling van de Regeling uitvoering dubbele kinderbijslag bij intensieve zorg

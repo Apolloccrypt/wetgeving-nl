@@ -9,7 +9,7 @@ laatste_update: 2015-02-02
 status: geldig
 toestand: 2015-02-02
 bron: "https://wetten.overheid.nl/BWBR0036206"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van het CAK van 13 januari 2015, tot vaststelling van een gedragscode (Gedragscode CAK)

@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0035945"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Economische Zaken van 16 december 2014, nr. WJZ / 14191493, tot vaststelling van de aan de Kamer van Koophandel door ondernemingen verschuldigde vergoedingen (Regeling vergoedingen Kamer van Koophandel 2015)

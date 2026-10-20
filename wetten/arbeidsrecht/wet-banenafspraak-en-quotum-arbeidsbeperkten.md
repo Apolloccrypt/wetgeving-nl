@@ -9,7 +9,7 @@ laatste_update: 2015-05-01
 status: geldig
 toestand: 2015-05-01
 bron: "https://wetten.overheid.nl/BWBR0036551"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Wet van 1 april 2015 tot wijziging van de Wet financiering sociale verzekeringen in verband met een heffing bij het niet voldoen aan de quotumdoelstelling (Wet banenafspraak en quotum arbeidsbeperkten)

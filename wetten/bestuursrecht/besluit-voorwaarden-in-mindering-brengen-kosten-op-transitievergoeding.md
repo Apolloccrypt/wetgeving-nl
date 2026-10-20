@@ -9,7 +9,7 @@ laatste_update: 2020-07-01
 status: geldig
 toestand: 2020-07-01
 bron: "https://wetten.overheid.nl/BWBR0036594"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van 23 april 2015, houdende regels met betrekking tot de voorwaarden waaronder kosten in mindering gebracht mogen worden op de transitievergoeding (Besluit voorwaarden in mindering brengen kosten op transitievergoeding)

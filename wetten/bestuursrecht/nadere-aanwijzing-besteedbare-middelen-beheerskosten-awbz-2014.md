@@ -9,7 +9,7 @@ laatste_update: 2014-12-30
 status: geldig
 toestand: 2014-12-30
 bron: "https://wetten.overheid.nl/BWBR0036030"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 15 december 2014, houdende nadere aanwijzing van de besteedbare middelen ter dekking van de beheerskosten AWBZ 2014 (Nadere aanwijzing besteedbare middelen beheerskosten AWBZ 2014)

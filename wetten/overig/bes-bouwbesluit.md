@@ -9,7 +9,7 @@ laatste_update: 2017-07-01
 status: geldig
 toestand: 2017-07-01
 bron: "https://wetten.overheid.nl/BWBR0036000"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van 15 december 2014, houdende vaststelling van voorschriften met betrekking tot het bouwen van bouwwerken en het gebruik van bestaande bouwwerken in de openbare lichamen Bonaire, Sint Eustatius en Saba (BES Bouwbesluit)

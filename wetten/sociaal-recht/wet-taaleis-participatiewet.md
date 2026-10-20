@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0036496"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Wet van 20 maart 2015 tot wijziging van de Wet werk en bijstand teneinde de eis tot beheersing van de Nederlandse taal toe te voegen aan die wet (Wet taaleis WWB)

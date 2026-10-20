@@ -9,7 +9,7 @@ laatste_update: 2023-07-05
 status: geldig
 toestand: 2023-07-05
 bron: "https://wetten.overheid.nl/BWBR0036382"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie, nr. 602906, houdende regels voor de kleding van de politie (Kledingregeling politie 2014)

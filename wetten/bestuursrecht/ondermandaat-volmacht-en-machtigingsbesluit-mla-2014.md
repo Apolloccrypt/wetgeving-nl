@@ -8,7 +8,7 @@ laatste_update: 2014-10-01
 status: geldig
 toestand: 2014-10-01
 bron: "https://wetten.overheid.nl/BWBR0036176"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Ondermandaat-, volmacht- en machtigingsbesluit MLA 2014

@@ -9,7 +9,7 @@ laatste_update: 2015-02-27
 status: geldig
 toestand: 2015-02-27
 bron: "https://wetten.overheid.nl/BWBR0036348"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van de directeur van Stichting Centraal Orgaan voor Kwaliteitsaangelegenheden in de Zuivel van (januari 2015), nr. N 150003, houdende regels inzake ondermandaat en machtiging voor het verlenen van ontheffing van de verplichting bedoeld in artikel 2.40 van de Regeling dierlijke producten

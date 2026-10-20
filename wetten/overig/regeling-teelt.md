@@ -9,7 +9,7 @@ laatste_update: 2015-11-26
 status: geldig
 toestand: 2015-11-26
 bron: "https://wetten.overheid.nl/BWBR0036074"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Economische Zaken van 10 december 2014, nr. WJZ/14148909, houdende regels inzake de teelt van gewassen (Regeling teelt)

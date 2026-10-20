@@ -9,7 +9,7 @@ laatste_update: 2025-12-21
 status: geldig
 toestand: 2025-12-21
 bron: "https://wetten.overheid.nl/BWBR0036478"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu, van 26 maart 2015, nr. IENM/BSK-2014/160572, houdende uitvoering van richtlijn 2010/40/EU van het Europees Parlement en de Raad van 7 juli 2010 betreffende het kader voor het invoeren van intelligente vervoerssystemen op het gebied van wegvervoer en voor interfaces met andere vervoerswijzen (PbEU 2010, L 207) en die richtlijn aanvullende gedelegeerde verordeningen (ITS-Regeling)

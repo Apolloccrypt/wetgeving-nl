@@ -9,7 +9,7 @@ laatste_update: 2016-12-01
 status: geldig
 toestand: 2016-12-01
 bron: "https://wetten.overheid.nl/BWBR0035856"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Besluit van de raad van bestuur van de kansspelautoriteit van 25 november 2014, kenmerk 8789, inzake de verlening van een vergunning tot het organiseren van de vriendenloterij

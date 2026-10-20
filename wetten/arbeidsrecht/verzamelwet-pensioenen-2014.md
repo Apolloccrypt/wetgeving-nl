@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0035978"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Wet van 10 december 2014 tot wijziging van de Pensioenwet, de Wet verplichte beroepspensioenregeling en enkele andere wetten in verband met het van toepassing worden van de Kaderwet zelfstandige bestuursorganen op De Nederlandsche Bank en de Autoriteit Financiële Markten en in verband met enkele andere wijzigingen (Verzamelwet pensioenen 2014)

@@ -9,7 +9,7 @@ laatste_update: 2014-12-21
 status: geldig
 toestand: 2014-12-21
 bron: "https://wetten.overheid.nl/BWBR0035960"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Vaststelling selectielijst voor de neerslag van de handelingen van de Open Universiteit en de onder hem ressorterende actoren op het beleidsterrein Wetenschappelijk onderwijs over de periode 1985–

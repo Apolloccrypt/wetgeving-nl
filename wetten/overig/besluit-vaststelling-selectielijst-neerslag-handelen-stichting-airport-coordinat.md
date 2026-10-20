@@ -8,7 +8,7 @@ laatste_update: 2015-02-22
 status: geldig
 toestand: 2015-02-22
 bron: "https://wetten.overheid.nl/BWBR0036329"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit vaststelling selectielijst neerslag handelen Stichting Airport Coordination Netherlands (SACN) over de periode vanaf 01 november 1997

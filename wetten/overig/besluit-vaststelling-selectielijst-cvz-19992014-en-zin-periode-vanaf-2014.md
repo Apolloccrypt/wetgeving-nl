@@ -8,7 +8,7 @@ laatste_update: 2015-05-20
 status: geldig
 toestand: 2015-05-20
 bron: "https://wetten.overheid.nl/BWBR0036615"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit vaststelling selectielijst CVZ (1999–2014) en ZIN (periode vanaf 2014)

@@ -8,7 +8,7 @@ laatste_update: 2015-03-29
 status: geldig
 toestand: 2015-03-29
 bron: "https://wetten.overheid.nl/BWBR0036445"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit vaststelling selectielijst Erfgoedinspectie periode vanaf (1993) 2001

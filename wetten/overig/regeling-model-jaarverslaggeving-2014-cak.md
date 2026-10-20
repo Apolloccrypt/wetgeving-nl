@@ -9,7 +9,7 @@ laatste_update: 2014-11-24
 status: geldig
 toestand: 2014-11-24
 bron: "https://wetten.overheid.nl/BWBR0035801"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Model Jaarverslaggeving 2014 CAK

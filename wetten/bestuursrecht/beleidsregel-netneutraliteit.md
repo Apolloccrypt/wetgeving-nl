@@ -9,7 +9,7 @@ laatste_update: 2015-05-16
 status: geldig
 toestand: 2015-05-16
 bron: "https://wetten.overheid.nl/BWBR0036617"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van de Minister van Economische Zaken van 11 mei 2015, nr. WJZ/15062267, houdende beleidsregel inzake de toepassing door de Autoriteit Consument en Markt van artikel 7.4a van de Telecommunicatiewet (Beleidsregel netneutraliteit)

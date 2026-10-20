@@ -8,7 +8,7 @@ laatste_update: 2015-03-25
 status: geldig
 toestand: 2015-03-25
 bron: "https://wetten.overheid.nl/BWBR0036429"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit tot verlening van mandaat en machtiging met betrekking tot het Binnenvaartpolitiereglement Rijkswaterstaat Midden-Nederland 2015

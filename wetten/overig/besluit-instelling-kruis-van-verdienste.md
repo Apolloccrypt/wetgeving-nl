@@ -9,7 +9,7 @@ laatste_update: 2015-07-01
 status: geldig
 toestand: 2015-07-01
 bron: "https://wetten.overheid.nl/BWBR0036407"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van 1 Juni 1944, houdende vervanging van het Koninklijk besluit van 20 Februari 1941, No. 1 (Nederlandsche Staatscourant 1941, No. 3), zooals dit besluit sedert is gewijzigd, tot instelling van het Kruis van Verdienste

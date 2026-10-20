@@ -8,7 +8,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0035913"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit houdende benoeming en vergoeding nationaal comité dierproeven

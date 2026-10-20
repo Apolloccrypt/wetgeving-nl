@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0036239"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 5 februari 2015, nr. IENM/BSK-2015/18222, houdende vaststelling van regels ter bepaling van de status einde-afval van recyclinggranulaat (Regeling vaststelling van de status einde-afval van recyclinggranulaat)

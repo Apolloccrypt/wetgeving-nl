@@ -9,7 +9,7 @@ laatste_update: 2015-02-01
 status: geldig
 toestand: 2015-02-01
 bron: "https://wetten.overheid.nl/BWBR0036149"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport, van 12 december 2014, 699324-130782-MC, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake de invoering van de Wet langdurige zorg

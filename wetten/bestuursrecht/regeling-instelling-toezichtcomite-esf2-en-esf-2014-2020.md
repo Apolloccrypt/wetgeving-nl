@@ -9,7 +9,7 @@ laatste_update: 2014-12-10
 status: geldig
 toestand: 2014-12-10
 bron: "https://wetten.overheid.nl/BWBR0035884"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheidvan 1 december 2014, 2014-0000177234, tot instelling van Toezichtcomité ESF2 en ESF 2014-2020

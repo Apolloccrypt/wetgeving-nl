@@ -9,7 +9,7 @@ laatste_update: 2025-12-24
 status: geldig
 toestand: 2025-12-24
 bron: "https://wetten.overheid.nl/BWBR0036191"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Economische Zaken van 21 januari 2015, nr. WJZ / 15004833, houdende regels voor de verlening van vergunningen voor de publieke mediadienst boven het wettelijk minimum (Regeling extra vergunningen publieke mediadienst)

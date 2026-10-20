@@ -9,7 +9,7 @@ laatste_update: 2018-03-29
 status: geldig
 toestand: 2018-03-29
 bron: "https://wetten.overheid.nl/BWBR0036213"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Nederlandse uitvoeringsvoorschriften inzake het belastingverdrag Nederland-Verenigde Staten van Amerika 1992

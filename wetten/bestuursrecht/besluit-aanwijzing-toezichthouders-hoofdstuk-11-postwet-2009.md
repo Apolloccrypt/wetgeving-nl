@@ -9,7 +9,7 @@ laatste_update: 2015-03-28
 status: geldig
 toestand: 2015-03-28
 bron: "https://wetten.overheid.nl/BWBR0036457"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van de Minister van Economische Zaken van 24 maart 2015, nr. WJZ/15034351, tot aanwijzing van toezichthouders op hoofdstuk 11 van de Postwet 2009

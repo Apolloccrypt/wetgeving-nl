@@ -9,7 +9,7 @@ laatste_update: 2015-03-20
 status: geldig
 toestand: 2015-03-20
 bron: "https://wetten.overheid.nl/BWBR0036423"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van de Minister van Infrastructuur en Milieu van 10 maart 2015, nr. IENM/BSK-2015/50705, houdende beperking van de openbaarheid van het archief van de Spoorwegongevallenraad, 1956–1999 (Besluit beperking openbaarheid archief Spoorwegongevallenraad, 1956–1999)

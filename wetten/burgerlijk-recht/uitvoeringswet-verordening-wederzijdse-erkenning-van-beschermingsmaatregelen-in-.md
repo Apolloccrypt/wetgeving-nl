@@ -9,7 +9,7 @@ laatste_update: 2015-03-12
 status: geldig
 toestand: 2015-03-12
 bron: "https://wetten.overheid.nl/BWBR0036390"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Wet van 4 maart 2015 tot uitvoering van Verordening (EU) Nr. 606/2013 van het Europees parlement en de Raad van 12 juni 2013 betreffende de wederzijdse erkenning van beschermingsmaatregelen in burgerlijke zaken (PbEU 2013, L181) (Uitvoeringswet verordening wederzijdse erkenning van beschermingsmaatregelen in burgerlijke zaken)

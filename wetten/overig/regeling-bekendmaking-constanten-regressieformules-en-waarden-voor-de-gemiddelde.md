@@ -8,7 +8,7 @@ laatste_update: 2015-04-01
 status: geldig
 toestand: 2015-04-01
 bron: "https://wetten.overheid.nl/BWBR0036474"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling bekendmaking constanten regressieformules en waarden voor de gemiddelde CO2-uitstoot voor benzine- en dieselauto’s 2016 en 2017

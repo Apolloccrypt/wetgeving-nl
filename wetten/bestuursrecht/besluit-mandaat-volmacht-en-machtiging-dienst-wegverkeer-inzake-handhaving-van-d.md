@@ -9,7 +9,7 @@ laatste_update: 2016-01-16
 status: geldig
 toestand: 2016-01-16
 bron: "https://wetten.overheid.nl/BWBR0036484"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van de Minister van Infrastructuur en Milieu, van 26 maart 2015, nr. IENM/BSK-2015/29930, tot het verlenen van mandaat, volmacht en machtiging aan de algemeen directeur van de Dienst Wegverkeer ter handhaving van de in de ITS-Regeling opgenomen gedelegeerde verordeningen ter uitvoering van richtlijn 2010/40/EU van het Europees Parlement en de Raad van 7 juli 2010 betreffende het kader voor het invoeren van intelligente vervoerssystemen op het gebied van wegvervoer en voor interfaces met andere vervoerswijzen (PbEU 2010, L 207) (Besluit mandaat, volmacht en machtiging Dienst Wegverkeer inzake handhaving van de gedelegeerde ITS-verordeningen)

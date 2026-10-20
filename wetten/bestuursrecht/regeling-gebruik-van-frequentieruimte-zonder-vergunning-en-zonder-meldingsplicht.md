@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0036378"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Economische Zaken van 26 februari 2015, nr. WJZ/15030700, houdende regels inzake het gebruik van frequentieruimte zonder vergunning en zonder meldingsplicht en intrekking van de Regeling gebruik van frequentieruimte zonder vergunning 2008 (Regeling gebruik van frequentieruimte zonder vergunning en zonder meldingsplicht 2015)

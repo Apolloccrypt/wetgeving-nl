@@ -8,7 +8,7 @@ laatste_update: 2022-05-01
 status: geldig
 toestand: 2022-05-01
 bron: "https://wetten.overheid.nl/BWBR0035903"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Beleidsregel Ontheffingverlening exceptionele transporten RDW 2015

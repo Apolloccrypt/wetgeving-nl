@@ -9,7 +9,7 @@ laatste_update: 2016-04-01
 status: geldig
 toestand: 2016-04-01
 bron: "https://wetten.overheid.nl/BWBR0036246"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Wet van 28 januari 2015 tot wijziging van de Wet op het financieel toezicht houdende regels met betrekking tot het beloningsbeleid van financiële ondernemingen (Wet beloningsbeleid financiële ondernemingen)

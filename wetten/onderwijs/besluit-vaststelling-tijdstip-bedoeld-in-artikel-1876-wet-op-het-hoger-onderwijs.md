@@ -9,7 +9,7 @@ laatste_update: 2014-11-15
 status: geldig
 toestand: 2014-11-15
 bron: "https://wetten.overheid.nl/BWBR0035738"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Besluit van 5 november 2014, houdende vaststelling van het tijdstip bedoeld in artikel 18.76 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek

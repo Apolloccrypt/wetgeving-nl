@@ -9,7 +9,7 @@ laatste_update: 2015-07-01
 status: geldig
 toestand: 2015-07-01
 bron: "https://wetten.overheid.nl/BWBR0036516"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van 31 maart 2015 tot wijziging van het Reglement rijbewijzen, het Besluit rijonderricht motorrijtuigen 2009 en het Arbeidsomstandighedenbesluit in verband met de invoering van de rijbewijsplicht voor bestuurders van landbouw- en bosbouwtrekkers en motorrijtuigen met beperkte snelheid, en enkele wijzigingen van technische aard

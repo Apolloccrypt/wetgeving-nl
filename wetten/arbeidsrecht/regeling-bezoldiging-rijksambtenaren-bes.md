@@ -9,7 +9,7 @@ laatste_update: 2026-05-14
 status: geldig
 toestand: 2026-05-14
 bron: "https://wetten.overheid.nl/BWBR0036465"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 18 maart 2015, nr. 2015-0000162792, tot het vaststellen van de bezoldingschalen, inpastabellen en enkele toelagen voor de ambtenaren in dienst van de staat in Caribisch Nederland in verband met de formalisering van de Cao CN 2013/2014) (Regeling bezoldiging Rijksambtenaren BES 2013–2015)

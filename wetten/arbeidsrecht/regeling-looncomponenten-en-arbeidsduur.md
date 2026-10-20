@@ -9,7 +9,7 @@ laatste_update: 2020-07-01
 status: geldig
 toestand: 2020-07-01
 bron: "https://wetten.overheid.nl/BWBR0035984"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 12 december 2014, 2014-0000184977, tot vaststelling van regels over de berekening van de arbeidsduur en aanwijzing van vaste en variabele looncomponenten op grond van het Besluit loonbegrip vergoeding aanzegtermijn en transitievergoeding (Regeling looncomponenten en arbeidsduur)

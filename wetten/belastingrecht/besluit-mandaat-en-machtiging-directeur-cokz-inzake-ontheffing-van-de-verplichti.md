@@ -9,7 +9,7 @@ laatste_update: 2021-07-07
 status: geldig
 toestand: 2021-07-07
 bron: "https://wetten.overheid.nl/BWBR0036076"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van de Minister van Economische Zaken van 16 december 2014, nr. WJZ/14201006, aan de directeur van het Centraal Orgaan voor Kwaliteitsaangelegenheden in de Zuivel inzake het verlenen van mandaat en machtiging voor het verlenen van ontheffing van de verplichting bedoeld in artikel 2.40 van de Regeling dierlijke producten (Besluit mandaat en machtiging directeur COKZ inzake ontheffing van de verplichting bedoeld in artikel 2.40 van de Regeling dierlijke producten)

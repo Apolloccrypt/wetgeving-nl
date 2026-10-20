@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0036117"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Wet van 10 december 2014, inhoudende herstel van wetstechnische gebreken alsmede andere wijzigingen van ondergeschikte aard in diverse wetten op of in verband met het terrein van infrastructuur en milieu (Reparatiewet infrastructuur en milieu 2014)

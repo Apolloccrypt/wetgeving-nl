@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0036187"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 16 januari 2015, nr. 4484468, houdende instelling van de jury excellente scholen in het primair, speciaal en voortgezet onderwijs (Instellingsbesluit jury excellente scholen in het primair, speciaal en voortgezet onderwijs)

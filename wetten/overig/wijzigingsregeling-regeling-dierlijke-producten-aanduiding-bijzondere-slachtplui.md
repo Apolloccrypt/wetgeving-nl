@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0035776"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Economische Zaken en de Minister voor Wonen en Rijksdienst van 19 november 2014, nr. WJZ/14074918, houdende wijziging van de Regeling dierlijke producten in verband met de aanduiding van bijzondere slachtpluimveehouderijsystemen

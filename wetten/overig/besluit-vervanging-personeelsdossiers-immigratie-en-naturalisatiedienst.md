@@ -8,7 +8,7 @@ laatste_update: 2015-06-01
 status: geldig
 toestand: 2015-06-01
 bron: "https://wetten.overheid.nl/BWBR0036552"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit vervanging personeelsdossiers Immigratie- en Naturalisatiedienst

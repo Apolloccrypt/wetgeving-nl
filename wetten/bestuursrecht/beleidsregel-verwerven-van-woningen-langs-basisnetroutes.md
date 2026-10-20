@@ -9,7 +9,7 @@ laatste_update: 2015-04-18
 status: geldig
 toestand: 2015-04-18
 bron: "https://wetten.overheid.nl/BWBR0036525"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Beleidsregel van de Staatssecretaris van Infrastructuur en Milieu, van 9 april 2015 nr. IENM/BSK-2015/69273, betreffende het verwerven van woningen langs basisnetroutes

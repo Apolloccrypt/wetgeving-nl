@@ -9,7 +9,7 @@ laatste_update: 2022-02-12
 status: geldig
 toestand: 2022-02-12
 bron: "https://wetten.overheid.nl/BWBR0036367"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van de Directeur-generaal van het Rijksinstituut voor Volksgezondheid en Milieu, van 23 februari 2015, nr. 071/2015 DG AvdZ/WvdW, houdende verlening van ondermandaat, volmacht en machtiging ter uitvoering van het Besluit genetisch gemodificeerde organismen milieubeheer 2013 en de Regeling genetisch gemodificeerde organismen milieubeheer 2013 (Besluit ondermandaat, volmacht en machtiging Rijksinstituut voor Volksgezondheid en Milieu Besluit en Regeling genetisch gemodificeerde organismen milieubeheer 2013)

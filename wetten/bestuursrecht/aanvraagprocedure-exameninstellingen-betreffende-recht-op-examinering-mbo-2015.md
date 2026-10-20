@@ -8,7 +8,7 @@ laatste_update: 2015-03-17
 status: geldig
 toestand: 2015-03-17
 bron: "https://wetten.overheid.nl/BWBR0036476"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Aanvraagprocedure exameninstellingen betreffende recht op examinering mbo 2015

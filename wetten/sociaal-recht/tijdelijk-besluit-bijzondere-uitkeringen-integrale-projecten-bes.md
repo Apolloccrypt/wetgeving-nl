@@ -9,7 +9,7 @@ laatste_update: 2017-12-09
 status: geldig
 toestand: 2017-12-09
 bron: "https://wetten.overheid.nl/BWBR0036411"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van 13 februari 2015, houdende regels omtrent de verstrekking van tijdelijke bijzondere uitkeringen aan de openbare lichamen Bonaire, Sint Eustatius en Saba voor het verbeteren van de leefbaarheid, de re-integratie naar duurzaam betaald werk en het bevorderen van de maatschappelijke participatie (Tijdelijk Besluit bijzondere uitkeringen integrale projecten BES)

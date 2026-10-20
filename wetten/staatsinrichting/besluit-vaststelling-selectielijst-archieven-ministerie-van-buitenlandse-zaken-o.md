@@ -8,7 +8,7 @@ laatste_update: 2015-03-05
 status: geldig
 toestand: 2015-03-05
 bron: "https://wetten.overheid.nl/BWBR0036369"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit vaststelling selectielijst archieven Ministerie van Buitenlandse Zaken (overgang naar digitale archivering in de periode (2009) 2012-2014)

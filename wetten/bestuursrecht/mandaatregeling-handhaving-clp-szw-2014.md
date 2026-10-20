@@ -9,7 +9,7 @@ laatste_update: 2022-04-23
 status: geldig
 toestand: 2022-04-23
 bron: "https://wetten.overheid.nl/BWBR0035849"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 26 november 2014, 2014-0000175629, houdende doorverlening van bevoegdheden betreffende de handhaving van regels m.b.t. indeling, etikettering en verpakking van stoffen en mengsels aan een onder de inspecteur-generaal Sociale Zaken en Werkgelegenheid ressorterende ambtenaar (Mandaatregeling handhaving CLP SZW 2014)

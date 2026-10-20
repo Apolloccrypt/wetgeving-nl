@@ -8,7 +8,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0035870"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Besluit premievaststelling vrijwillige werkloosheidsverzekering 2015

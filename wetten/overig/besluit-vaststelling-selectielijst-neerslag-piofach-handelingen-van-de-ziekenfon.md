@@ -9,7 +9,7 @@ laatste_update: 2015-02-18
 status: geldig
 toestand: 2015-02-18
 bron: "https://wetten.overheid.nl/BWBR0036270"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit vaststelling selectielijst voor de neerslag van de PIOFACH-handelingen van de Ziekenfondsraad en de neerslag van haar commissies, over de periode 1949–1999

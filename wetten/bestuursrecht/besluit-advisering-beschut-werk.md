@@ -9,7 +9,7 @@ laatste_update: 2022-07-01
 status: geldig
 toestand: 2022-07-01
 bron: "https://wetten.overheid.nl/BWBR0035947"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van 11 december 2014, houdende regels met betrekking tot de werkzaamheden die het Uitvoeringsinstituut Werknemersverzekeringen uitvoert om te beoordelen of een persoon uitsluitend in een beschutte omgeving mogelijkheden tot arbeidsparticipatie heeft (Besluit advisering beschut werk)

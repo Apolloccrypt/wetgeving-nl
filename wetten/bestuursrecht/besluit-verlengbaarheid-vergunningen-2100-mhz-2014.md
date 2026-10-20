@@ -9,7 +9,7 @@ laatste_update: 2014-12-17
 status: geldig
 toestand: 2014-12-17
 bron: "https://wetten.overheid.nl/BWBR0035914"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van de Minister van Economische Zaken van 11 december 2014, nr. DGETM-TM / 14200794, tot verlengbaarheid van de vergunningen voor de frequenties in de 2.100 MHz-band (Besluit verlengbaarheid vergunningen 2.100 MHz 2014)

@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0036103"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van het Stimuleringsfonds voor de journalistiek van 23 december 2014, nr. 24654 tot vaststelling van subsidieplafonds voor het jaar 2015

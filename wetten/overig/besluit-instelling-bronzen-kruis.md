@@ -9,7 +9,7 @@ laatste_update: 2015-07-01
 status: geldig
 toestand: 2015-07-01
 bron: "https://wetten.overheid.nl/BWBR0036406"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van 1 Juni 1944, houdende vervanging van het Koninklijk besluit van 11 Juni 1940 (Staatsblad, No. A 22), zooals dit is gewijzigd bij Koninklijke besluiten van 8 Augustus 1940 (Staatsblad, No. A 23), van 27 November 1940 (Staatsblad, No. A 24) en van 24 April 1941 (Staatsblad, No. B 101) tot instelling van het Bronzen Kruis

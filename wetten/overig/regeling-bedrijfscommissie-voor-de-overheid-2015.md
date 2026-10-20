@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0035982"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 10 december 2014, nummer 2014-0000662921, houdende de instelling, taak, werkwijze en samenstelling van de bedrijfscommissie voor de overheid (Regeling bedrijfscommissie voor de overheid 2015)

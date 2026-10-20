@@ -9,7 +9,7 @@ laatste_update: 2026-10-14
 status: geldig
 toestand: 2026-10-14
 bron: "https://wetten.overheid.nl/BWBR0050482"
-opgehaald: 2026-10-19
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 25 november 2024, kenmerk 4009410-1075454-MEVA, houdende regels voor de verstrekking van subsidie voor het opleiden en ontwikkelen van zorgpersoneel (Subsidieregeling Strategisch Opleiden MSZ)

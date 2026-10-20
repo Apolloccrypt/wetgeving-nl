@@ -9,7 +9,7 @@ laatste_update: 2018-11-14
 status: geldig
 toestand: 2018-11-14
 bron: "https://wetten.overheid.nl/BWBR0035840"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 28 november 2014, 2014-0000179536, tot vaststelling van de bepalingen betreffende cofinanciering sectorplannen 2015 (Regeling cofinanciering sectorplannen 2015)

@@ -9,7 +9,7 @@ laatste_update: 2017-04-01
 status: geldig
 toestand: 2017-04-01
 bron: "https://wetten.overheid.nl/BWBR0036013"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Wet van 26 november 2014 tot wijziging van enkele wetten van het Ministerie van Sociale Zaken en Werkgelegenheid, het Ministerie van Financiën en het Ministerie van Volksgezondheid, Welzijn en Sport (Verzamelwet SZW 2015)

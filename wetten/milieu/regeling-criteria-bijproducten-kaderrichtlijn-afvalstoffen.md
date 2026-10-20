@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0036424"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 18 maart 2015, nr. IENM/BSK-2015/52417, houdende vaststelling van criteria ter nadere invulling van de voorwaarden als bedoeld in artikel 5 van de kaderrichtlijn afvalstoffen (Regeling criteria bijproducten kaderrichtlijn afvalstoffen)

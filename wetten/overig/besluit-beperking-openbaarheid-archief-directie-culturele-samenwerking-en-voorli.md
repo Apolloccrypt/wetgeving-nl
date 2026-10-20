@@ -9,7 +9,7 @@ laatste_update: 2014-12-06
 status: geldig
 toestand: 2014-12-06
 bron: "https://wetten.overheid.nl/BWBR0035867"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 19 november 2014, nr. MINBUZA-2014.669618, houdende beperking van de openbaarheid van het archief van de Directie Culturele Samenwerking en Voorlichting Buitenland, (1974) 1985–1996 (2001)

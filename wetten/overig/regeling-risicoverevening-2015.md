@@ -9,7 +9,7 @@ laatste_update: 2015-12-05
 status: geldig
 toestand: 2015-12-05
 bron: "https://wetten.overheid.nl/BWBR0036251"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport, van 15 januari 2015, kenmerk 700539-130993-Z, houdende bepalingen omtrent de in de Zorgverzekeringswet bedoelde vereveningsbijdrage voor het jaar 2015 (Regeling risicoverevening 2015)

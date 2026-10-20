@@ -9,7 +9,7 @@ laatste_update: 2014-12-18
 status: geldig
 toestand: 2014-12-18
 bron: "https://wetten.overheid.nl/BWBR0035875"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Wet van 26 november 2014 tot wijziging van de Wet op de dierproeven in verband met implementatie van richtlijn 2010/63/EU

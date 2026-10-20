@@ -9,7 +9,7 @@ laatste_update: 2014-12-16
 status: geldig
 toestand: 2014-12-16
 bron: "https://wetten.overheid.nl/BWBR0035910"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Beleidsregel van de Inspecteur-Generaal Leefomgeving en Transport, van 20 november 2014, nr. A-0-14-0072.001, over het volgen van vertrekprocedures bij de luchthaven Eelde, de luchthaven Maastricht en de luchthaven Rotterdam (Beleidsregel handhaving vertrekprocedures luchthavens Eelde, Maastricht en Rotterdam)

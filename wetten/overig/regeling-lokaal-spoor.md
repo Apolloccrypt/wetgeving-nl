@@ -9,7 +9,7 @@ laatste_update: 2015-12-01
 status: geldig
 toestand: 2015-12-01
 bron: "https://wetten.overheid.nl/BWBR0036629"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 18 mei 2015, nr. IENM/BSK2015/74417, houdende vaststelling van regels over de aanleg, het beheer, het gebruik en de veiligheid van lokale spoorwegen (Regeling lokaal spoor)

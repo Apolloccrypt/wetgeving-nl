@@ -9,7 +9,7 @@ laatste_update: 2022-09-06
 status: geldig
 toestand: 2022-09-06
 bron: "https://wetten.overheid.nl/BWBR0035926"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van de Staatssecretaris van Economische Zaken van 1 december 2014, nr. WJZ / 14194325, met betrekking tot de opleidingseisen voor de verzorging en behandeling van proefdieren als bedoeld in artikel 2 van het Dierproevenbesluit 2014 (Besluit erkenning cursussen en diploma’s proefdieren)

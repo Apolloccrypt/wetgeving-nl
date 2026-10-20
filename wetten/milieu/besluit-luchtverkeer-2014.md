@@ -9,7 +9,7 @@ laatste_update: 2024-07-01
 status: geldig
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0035899"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van 5 december 2014 tot vaststelling van nieuwe regels inzake het luchtverkeer ter uitvoering van verordening (EU) nr. 923/2012 tot vaststelling van gemeenschappelijke luchtverkeersregels (Besluit luchtverkeer 2014)

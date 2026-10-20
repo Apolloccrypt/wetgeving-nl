@@ -8,7 +8,7 @@ laatste_update: 2015-04-24
 status: geldig
 toestand: 2015-04-24
 bron: "https://wetten.overheid.nl/BWBR0036557"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Circulaire Norm verantwoorde werktoedeling van toepassing op de Raad en DJI

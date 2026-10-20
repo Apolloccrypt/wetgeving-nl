@@ -9,7 +9,7 @@ laatste_update: 2026-03-01
 status: geldig
 toestand: 2026-03-01
 bron: "https://wetten.overheid.nl/BWBR0036344"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van het College voor Toetsen en Examens van 9 februari 2015, nummer CvTE-15.00619 houdende vaststelling van de beoordelingsnormen voor de staatsexamens VO en staatsexamens VO BES (Regeling beoordelingsnormen staatsexamens VO en staatsexamens VO BES 2015)

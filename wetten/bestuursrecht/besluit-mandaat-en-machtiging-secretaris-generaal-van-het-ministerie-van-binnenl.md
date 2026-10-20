@@ -9,7 +9,7 @@ laatste_update: 2015-04-02
 status: geldig
 toestand: 2015-04-02
 bron: "https://wetten.overheid.nl/BWBR0036491"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van de Minister van Economische Zaken van 30 maart 2015, nr. WJZ/15032196, houdende het verlenen van mandaat en machtiging aan de secretaris-generaal van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties inzake de vaststelling van selectielijsten op het deelbeleidsterrein van personeelszaken, te weten de personeelsdossiers van medewerkers van het Ministerie van Economische Zaken (Besluit mandaat en machtiging secretaris-generaal van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties vaststelling selectielijsten met betrekking tot personeelsdossiers van medewerkers van het Ministerie van Economische Zaken)

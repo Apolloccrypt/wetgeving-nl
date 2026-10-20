@@ -9,7 +9,7 @@ laatste_update: 2026-03-14
 status: geldig
 toestand: 2026-03-14
 bron: "https://wetten.overheid.nl/BWBR0036359"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van het College voor Toetsen en Examens van 9 februari 2015, nummer CvTE-15.00617, houdende vaststelling van de beoordelingsnormen en de daarbij behorende scores voor het centraal examen (Regeling beoordelingsnormen en bijbehorende scores centraal examen VO 2015)

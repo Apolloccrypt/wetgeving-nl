@@ -9,7 +9,7 @@ laatste_update: 2015-05-23
 status: geldig
 toestand: 2015-05-23
 bron: "https://wetten.overheid.nl/BWBR0036160"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 8 januari 2015, nr. 2015-0000000740, tot openstelling van een aanvraagtijdvak in het kalenderjaar 2015 en vaststelling van een subsidieplafond voor dit aanvraagtijdvak in het kader van de Regeling cofinanciering sectorplannen 2015

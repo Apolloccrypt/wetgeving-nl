@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0036044"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport en de Staatssecretaris van Veiligheid en Justitie van 12 december 2014, kenmerk 701873-131199-J, houdende de aanwijzing van een vervoerder in de gesloten jeugdhulp als bedoeld in de Jeugdwet (Besluit aanwijzing vervoerder in de gesloten jeugdhulp)

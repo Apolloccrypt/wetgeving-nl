@@ -9,7 +9,7 @@ laatste_update: 2015-04-22
 status: geldig
 toestand: 2015-04-22
 bron: "https://wetten.overheid.nl/BWBR0036543"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van de Minister van Veiligheid en Justitie van 9 april 2015, kenmerk 630364/15/DP&O, tot het verlenen van mandaat en machtiging aan de secretaris-generaal van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties in verband met het vaststellen van de selectielijst op grond van de Archiefwet 1995 (Besluit mandaat en machtiging in verband met selectielijst Archiefwet 1995)

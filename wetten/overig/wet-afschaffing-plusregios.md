@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0036043"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Wet van 17 december 2014 tot wijziging van de Wet gemeenschappelijke regelingen en enkele andere wetten in verband met de afschaffing van de plusregio’s

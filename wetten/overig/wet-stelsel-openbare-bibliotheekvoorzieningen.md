@@ -9,7 +9,7 @@ laatste_update: 2022-07-01
 status: geldig
 toestand: 2022-07-01
 bron: "https://wetten.overheid.nl/BWBR0035878"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Wet van 19 november 2014 tot vaststelling van een geactualiseerd stelsel van openbare bibliotheekvoorzieningen (Wet stelsel openbare bibliotheekvoorzieningen)

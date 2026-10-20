@@ -8,7 +8,7 @@ laatste_update: 2015-03-01
 status: geldig
 toestand: 2015-03-01
 bron: "https://wetten.overheid.nl/BWBR0036299"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Richtlijn voor strafvordering inbraken overig

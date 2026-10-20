@@ -9,7 +9,7 @@ laatste_update: 2014-12-09
 status: geldig
 toestand: 2014-12-09
 bron: "https://wetten.overheid.nl/BWBR0035879"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Besluit van de Minister van Economische Zaken van 3 december 2014, nr. WJZ/14169472, tot instelling van de Commissie MKB-financiering (Instellingsbesluit Commissie MKB-Financiering)

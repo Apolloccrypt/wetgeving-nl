@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0035712"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Besluit van 27 oktober 2014, houdende regels inzake het door de ACM ten laste brengen van kosten aan marktorganisaties (Besluit doorberekening kosten ACM)

@@ -9,7 +9,7 @@ laatste_update: 2021-01-30
 status: geldig
 toestand: 2021-01-30
 bron: "https://wetten.overheid.nl/BWBR0035936"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Staatssecretaris van Veiligheid en Justitie en de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 8 december 2014, nr. 590600, houdende regels omtrent de verzending en ontvangst van berichten inzake jeugdhulp, kinderbeschermingsmaatregelen en jeugdreclassering (Regeling justitiële keteninformatisering Jeugdwet)

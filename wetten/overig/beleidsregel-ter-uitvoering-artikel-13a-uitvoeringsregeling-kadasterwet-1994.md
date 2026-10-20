@@ -9,7 +9,7 @@ laatste_update: 2014-12-18
 status: geldig
 toestand: 2014-12-18
 bron: "https://wetten.overheid.nl/BWBR0035937"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Beleidsregel van de Bewaarders van het kadaster en de openbare registers van 10 december 2014, nr. 14.031511, ter uitvoering van artikel 13a van de Uitvoeringsregeling Kadasterwet 1994

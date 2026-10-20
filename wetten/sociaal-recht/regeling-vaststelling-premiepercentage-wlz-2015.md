@@ -9,7 +9,7 @@ laatste_update: 2014-12-19
 status: geldig
 toestand: 2014-12-19
 bron: "https://wetten.overheid.nl/BWBR0035938"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 10 december 2014, houdende premieregeling verzekering langdurige zorg

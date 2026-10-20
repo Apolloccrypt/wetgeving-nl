@@ -9,7 +9,7 @@ laatste_update: 2015-07-01
 status: geldig
 toestand: 2015-07-01
 bron: "https://wetten.overheid.nl/BWBR0036031"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van 11 december 2014 tot het bepalen van het moment en de wijze van het omzetten van het dagloon van uitkeringsrechten gebaseerd op de Werkloosheidswet zoals deze gold voor inwerkingtreding van de Wet werk en zekerheid (Besluit conversie WW)

@@ -9,7 +9,7 @@ laatste_update: 2015-03-18
 status: geldig
 toestand: 2015-03-18
 bron: "https://wetten.overheid.nl/BWBR0036412"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van 3 maart 2015, houdende aanwijzing hogesnelheidsnet en vaststelling van regels voor HSL-heffing 2015 (Besluit HSL-heffing 2015)

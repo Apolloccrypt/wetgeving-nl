@@ -9,7 +9,7 @@ laatste_update: 2026-05-30
 status: geldig
 toestand: 2026-05-30
 bron: "https://wetten.overheid.nl/BWBR0036014"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 11 december 2014, houdende regels inzake de Wet langdurige zorg (Regeling langdurige zorg)

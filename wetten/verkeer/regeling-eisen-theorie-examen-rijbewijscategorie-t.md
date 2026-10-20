@@ -9,7 +9,7 @@ laatste_update: 2021-07-01
 status: geldig
 toestand: 2021-07-01
 bron: "https://wetten.overheid.nl/BWBR0036561"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu, van 20 april 2015, nr. IENM/BSK-2014/218995, houdende vaststelling van de eisen voor het theorie-examen voor de rijbewijscategorie T (Regeling eisen theorie-examen rijbewijscategorie T)

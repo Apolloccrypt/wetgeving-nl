@@ -9,7 +9,7 @@ laatste_update: 2015-03-11
 status: geldig
 toestand: 2015-03-11
 bron: "https://wetten.overheid.nl/BWBR0036391"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 24 februari 2015, nr. 2015-0000104282, houdende regels voor de subsidiëring van de Stichting Centrum voor de Arbeidsverhoudingen Overheidspersoneel (Subsidieregeling Stichting CAOP 2015)

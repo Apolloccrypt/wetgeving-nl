@@ -9,7 +9,7 @@ laatste_update: 2016-04-09
 status: geldig
 toestand: 2016-04-09
 bron: "https://wetten.overheid.nl/BWBR0036616"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 12 mei 2015, nr. 2015-0000254538, tot instelling van een Deskundigengroep Elektronisch stemmen en tellen in het stemlokaal

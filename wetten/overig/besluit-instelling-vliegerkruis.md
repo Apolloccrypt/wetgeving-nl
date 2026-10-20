@@ -9,7 +9,7 @@ laatste_update: 2015-07-01
 status: geldig
 toestand: 2015-07-01
 bron: "https://wetten.overheid.nl/BWBR0036404"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van 26 Mei 1944, houdende vervanging van het Koninklijk besluit van 28 Augustus 1941 (Staatsblad, No. B 77), tot instelling van een Vliegerkruis

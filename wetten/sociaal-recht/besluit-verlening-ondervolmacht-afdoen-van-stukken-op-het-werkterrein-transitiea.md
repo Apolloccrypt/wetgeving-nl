@@ -9,7 +9,7 @@ laatste_update: 2015-02-24
 status: geldig
 toestand: 2015-02-24
 bron: "https://wetten.overheid.nl/BWBR0036330"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van de Secretaris-Generaal van VWS van 22 januari 2015 (kenmerk 705564-131641-J), houdende de verlening van ondervolmacht ten behoeve van het afdoen van stukken op het werkterrein van de Transitieautoriteit Jeugd, ressorterende onder de directie Jeugd

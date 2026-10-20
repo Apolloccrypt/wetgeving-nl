@@ -9,7 +9,7 @@ laatste_update: 2015-04-08
 status: geldig
 toestand: 2015-04-08
 bron: "https://wetten.overheid.nl/BWBR0036494"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van de Minister-President, Minister van Algemene Zaken van 1 april 2015, nr. 3801559, tot instelling van de AZ commissie monitoring VWNW (Instellingsbesluit AZ commissie monitoring VWNW)

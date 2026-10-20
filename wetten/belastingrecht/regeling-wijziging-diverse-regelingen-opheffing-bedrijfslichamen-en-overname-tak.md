@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0036123"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Economische Zaken van 10 december 2014, nr. WJZ/14139630, houdende wijziging van diverse regelingen in verband met de opheffing van de bedrijfslichamen en de overname van taken

@@ -8,7 +8,7 @@ laatste_update: 2014-11-09
 status: geldig
 toestand: 2014-11-09
 bron: "https://wetten.overheid.nl/BWBR0035723"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Besluit vaststelling selectielijst fonds Podiumkunsten vanaf 2007

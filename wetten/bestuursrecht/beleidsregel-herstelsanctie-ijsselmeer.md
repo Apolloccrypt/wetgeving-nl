@@ -9,7 +9,7 @@ laatste_update: 2015-05-05
 status: geldig
 toestand: 2015-05-05
 bron: "https://wetten.overheid.nl/BWBR0036582"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Beleidsregel van de Staatssecretaris van Economische Zaken van 30 april 2015, nr. WJZ / 15058568, betreffende het opleggen van een herstelsanctie voor overtredingen die verband houden met de visserij op het IJsselmeer (Beleidsregel herstelsanctie IJsselmeer)

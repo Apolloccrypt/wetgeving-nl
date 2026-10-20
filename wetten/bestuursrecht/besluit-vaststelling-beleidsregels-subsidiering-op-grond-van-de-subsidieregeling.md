@@ -9,7 +9,7 @@ laatste_update: 2015-05-05
 status: geldig
 toestand: 2015-05-05
 bron: "https://wetten.overheid.nl/BWBR0036444"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 19 maart 2015 nr. DSO/GA-83/15, tot vaststelling van beleidsregels voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (SRGR Partnerschappen 2016–2020)

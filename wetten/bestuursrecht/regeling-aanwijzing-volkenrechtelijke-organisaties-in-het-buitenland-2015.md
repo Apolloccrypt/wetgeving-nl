@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0036019"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minster van Sociale Zaken en Werkgelegenheid en de Minister van Volksgezondheid, Welzijn en Sport van 11 december 2014, 2014-0000157774, tot Regeling aanwijzing volkenrechtelijke organisaties in het Buitenland 2015

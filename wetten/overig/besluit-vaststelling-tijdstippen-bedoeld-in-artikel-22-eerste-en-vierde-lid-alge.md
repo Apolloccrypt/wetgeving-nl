@@ -9,7 +9,7 @@ laatste_update: 2014-12-19
 status: geldig
 toestand: 2014-12-19
 bron: "https://wetten.overheid.nl/BWBR0035961"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van 10 december 2014 tot vaststelling van de tijdstippen, bedoeld in de artikelen 22, eerste en vierde lid, van de Algemene Ouderdomswet, 15, derde lid, en 31, vijfde lid, van de Wet werk en bijstand

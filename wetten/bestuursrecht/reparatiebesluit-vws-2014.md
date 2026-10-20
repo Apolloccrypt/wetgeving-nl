@@ -9,7 +9,7 @@ laatste_update: 2014-12-13
 status: geldig
 toestand: 2014-12-13
 bron: "https://wetten.overheid.nl/BWBR0035897"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Besluit van 1 december 2014, houdende wijziging van enkele besluiten op het terrein van de volksgezondheid in verband met het aanbrengen van wetstechnische aanpassingen in deze besluiten (Reparatiebesluit VWS 2014)

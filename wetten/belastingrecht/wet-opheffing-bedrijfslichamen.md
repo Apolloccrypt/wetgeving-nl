@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0036083"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Wet van 17 december 2014 tot wijziging van de Wet op de bedrijfsorganisatie en andere wetten in verband met de opheffing van de bedrijfslichamen (Wet opheffing bedrijfslichamen)

@@ -9,7 +9,7 @@ laatste_update: 2014-12-06
 status: geldig
 toestand: 2014-12-06
 bron: "https://wetten.overheid.nl/BWBR0035862"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 19 november 2014, nr. MINBUZA-2014.669643, houdende beperking van de openbaarheid van het archief van het Consulaat-Generaal Istanboel, Turkije, van het Ministerie van Buitenlandse Zaken, 1965-1974

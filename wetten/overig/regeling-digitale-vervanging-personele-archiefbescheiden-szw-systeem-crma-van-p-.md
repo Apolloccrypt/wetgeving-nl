@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-06-26
 toestand: 2015-05-05
 bron: "https://wetten.overheid.nl/BWBR0036581"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 21 april 2015, tot Besluit digitale vervanging personele archiefbescheiden SZW systeem cRMA van P-Direkt

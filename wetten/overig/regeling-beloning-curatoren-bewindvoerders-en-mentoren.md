@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0035730"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Staatssecretaris van Veiligheid en Justitie van 4 november 2014, nr. 577811 houdende de invoering van de Regeling beloning curatoren, bewindvoerders en mentoren (Regeling beloning curatoren, bewindvoerders en mentoren)

@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0035962"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 11 december 2014, nr. 2014-0000 104920, houdende regels over de bezoldiging en de uitkeringen wegens beëindiging van het dienstverband in de zin van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector (Uitvoeringsregeling WNT)

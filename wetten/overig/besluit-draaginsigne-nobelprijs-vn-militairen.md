@@ -8,7 +8,7 @@ laatste_update: 2015-02-25
 status: geldig
 toestand: 2015-02-25
 bron: "https://wetten.overheid.nl/BWBR0036349"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit draaginsigne ‘Nobelprijs VN-militairen’

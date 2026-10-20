@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-06-26
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0036576"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 21 april 2015, 2015-0000087820, tot Besluit digitale vervanging archiefbescheiden Inspectie SZW systemen Diwi, I-Net en ISBB.

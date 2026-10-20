@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0035896"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Besluit van de Minister van Infrastructuur en Milieu, van 9 december 2014, nr. IENM/BSK-2014/264151, tot verlening van mandaat aan de directeur van de HISWA Vereniging voor de uitvoering van de taken bedoeld in artikel 12, eerste lid, van de Wet pleziervaartuigen

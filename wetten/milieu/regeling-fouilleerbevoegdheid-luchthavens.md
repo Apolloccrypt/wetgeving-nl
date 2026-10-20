@@ -9,7 +9,7 @@ laatste_update: 2020-11-28
 status: geldig
 toestand: 2020-11-28
 bron: "https://wetten.overheid.nl/BWBR0036342"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 17 februari 2015, nr. 615242, houdende de aanwijzing van luchthavens waar kleding, voorwerpen en vervoermiddelen te allen tijde onderzocht mogen worden op de aanwezigheid van wapens en munitie (Regeling fouilleerbevoegdheid luchthavens)

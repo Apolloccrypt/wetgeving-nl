@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0036109"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit ingevolge artikel 18, tweede lid, Wet politiegegevens, van de Minister van Veiligheid en Justitie, kenmerk 598167, 18 december 2014, houdende verlenging van het Wpg-machtigingsbesluit RIEC’s/werkproces integrale casusanalyse waarbij aan de korpschef van het landelijk politiekorps en de verantwoordelijken voor de Koninklijke marechaussee en de bijzondere opsporingsdiensten van het ministerie van Financiën en het ministerie van Sociale Zaken en Werkgelegenheid toestemming is gegeven tot het verstrekken van politiegegevens aan de partners in de Regionale Informatie en Expertisecentra (RIEC’s) ten behoeve van het verrichten van integrale casusanalyses voor het bepalen van gezamenlijke interventiestrategieën en het uitvoeren daarvan (Verlenging Wpg-machtigingsbesluit RIEC’s/werkproces integrale casusanalyse)

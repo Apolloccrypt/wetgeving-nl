@@ -9,7 +9,7 @@ laatste_update: 2018-03-29
 status: geldig
 toestand: 2018-03-29
 bron: "https://wetten.overheid.nl/BWBR0036387"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling voorschotverlening op uitkeringen Wlz en vaststelling kosten van verstrekkingen en vergoedingen 2015

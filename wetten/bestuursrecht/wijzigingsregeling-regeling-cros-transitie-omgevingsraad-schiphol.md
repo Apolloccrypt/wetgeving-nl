@@ -9,7 +9,7 @@ laatste_update: 2014-11-26
 status: geldig
 toestand: 2014-11-26
 bron: "https://wetten.overheid.nl/BWBR0035798"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 21 november 2014, nr. IENM/BSK-2014/249145, tot wijziging van de Regeling CROS in verband met de transitie naar de Omgevingsraad Schiphol

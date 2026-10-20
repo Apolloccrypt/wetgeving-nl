@@ -9,7 +9,7 @@ laatste_update: 2022-02-12
 status: geldig
 toestand: 2022-02-12
 bron: "https://wetten.overheid.nl/BWBR0036366"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Milieu, van 26 februari 2015, nr. IENM/BSK-2015/10332, houdende verlening van mandaat, volmacht en machtiging ter uitvoering van het Besluit genetisch gemodificeerde organismen milieubeheer 2013 en de Regeling genetisch gemodificeerde organismen milieubeheer 2013 (Besluit mandaat, volmacht en machtiging Rijksinstituut voor Volksgezondheid en Milieu Besluit en Regeling genetisch gemodificeerde organismen milieubeheer 2013)

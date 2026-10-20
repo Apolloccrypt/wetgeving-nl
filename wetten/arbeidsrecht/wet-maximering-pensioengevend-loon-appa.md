@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0035851"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Wet van 26 november 2014 tot wijziging van de Algemene pensioenwet politieke ambtsdragers en van de Wet schadeloosstelling leden Tweede Kamer in verband met de maximering van het pensioengevend loon en in verband met enkele wijzigingen van technische aard (Wet maximering pensioengevend loon Appa)

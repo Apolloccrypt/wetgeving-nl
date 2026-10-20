@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0035803"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Besluit van 18 november 2014, houdende regels inzake de schriftelijke mededeling van rechten ten behoeve van aangehouden verdachten (Besluit mededeling van rechten in strafzaken)

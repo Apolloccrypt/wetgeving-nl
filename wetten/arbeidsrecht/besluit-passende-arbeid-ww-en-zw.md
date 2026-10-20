@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0036081"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van 11 december 2014, houdende nadere regels omtrent het begrip passende arbeid zoals genoemd in de artikelen 24, derde lid, van de Werkloosheidswet en 30, vijfde lid, van de Ziektewet (Besluit passende arbeid WW en ZW)

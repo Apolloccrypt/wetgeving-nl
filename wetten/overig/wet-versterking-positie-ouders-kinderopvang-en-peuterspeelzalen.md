@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0036623"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Wet van 4 mei 2015 tot wijziging van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen in verband met de aanpassing van het klachtrecht voor ouders, de wijziging van het adviesrecht van de oudercommissie en enkele andere aanpassingen (Wet versterking positie ouders kinderopvang en peuterspeelzalen)

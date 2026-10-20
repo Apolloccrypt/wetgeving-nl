@@ -8,7 +8,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0036198"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Tarievenbesluit 2015 Raad voor Accreditatie

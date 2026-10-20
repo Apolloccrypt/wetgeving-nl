@@ -9,7 +9,7 @@ laatste_update: 2015-03-28
 status: geldig
 toestand: 2015-03-28
 bron: "https://wetten.overheid.nl/BWBR0036447"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 16 maart 2015, nr. 621450, houdende wijziging van de Regeling modellen en formulieren ten behoeve van de handhaving Justitie

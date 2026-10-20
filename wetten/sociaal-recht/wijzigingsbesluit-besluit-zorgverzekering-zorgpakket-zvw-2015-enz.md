@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0035727"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Besluit van 15 oktober 2014, houdende wijziging van het Besluit zorgverzekering in verband met het zorgpakket Zvw 2015 en wijziging van het Besluit zorgverzekering BES in verband met het zorgpakket BES 2015

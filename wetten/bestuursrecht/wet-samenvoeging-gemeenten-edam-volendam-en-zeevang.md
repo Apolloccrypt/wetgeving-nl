@@ -9,7 +9,7 @@ laatste_update: 2015-05-21
 status: geldig
 toestand: 2015-05-21
 bron: "https://wetten.overheid.nl/BWBR0036624"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Wet van 8 april 2015 tot samenvoeging van de gemeenten Edam-Volendam en Zeevang

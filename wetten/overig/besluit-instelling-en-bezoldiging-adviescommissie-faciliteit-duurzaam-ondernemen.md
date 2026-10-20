@@ -9,7 +9,7 @@ laatste_update: 2015-02-25
 status: geldig
 toestand: 2015-02-25
 bron: "https://wetten.overheid.nl/BWBR0036335"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 6 februari 2014, nr. Min.Buza-2015.48432, tot instelling en bezoldiging van de Adviescommissie Faciliteit Duurzaam Ondernemen en Voedselzekerheid (FDOV)

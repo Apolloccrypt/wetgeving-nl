@@ -8,7 +8,7 @@ laatste_update: 2014-12-19
 status: geldig
 toestand: 2014-12-19
 bron: "https://wetten.overheid.nl/BWBR0035931"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit vaststelling selectielijst Federatie van gezondheidszorgpsychologen, voor periode vanaf 27 februari 2002

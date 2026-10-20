@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0035715"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Besluit van 27 oktober 2014 tot wijziging van het Besluit proceskosten bestuursrecht in verband met een verruiming van de regeling voor samenhangende zaken

@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0036126"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van 17 december 2014 tot wijziging van het Besluit burgerlijke stand 1994 in verband met de Wet elektronische dienstverlening burgerlijke stand

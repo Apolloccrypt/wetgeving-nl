@@ -9,7 +9,7 @@ laatste_update: 2015-05-19
 status: geldig
 toestand: 2015-05-19
 bron: "https://wetten.overheid.nl/BWBR0036621"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 7 mei 2015, nr. 632571, houdende regeling van het beheer bij de Hoge Raad der Nederlanden (Organisatieregeling beheer Hoge Raad 2015)

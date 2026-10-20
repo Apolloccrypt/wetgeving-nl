@@ -9,7 +9,7 @@ laatste_update: 2022-02-04
 status: geldig
 toestand: 2022-02-04
 bron: "https://wetten.overheid.nl/BWBR0035767"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 14 november 2014, nr. MinBuZa.2014.656793, tot het verlenen van mandaat en machtiging aan het hoofd van de Visadienst van het Ministerie van Veiligheid en Justitie met betrekking tot visa kort verblijf (Mandaatbesluit Hoofd Visadienst 2014)

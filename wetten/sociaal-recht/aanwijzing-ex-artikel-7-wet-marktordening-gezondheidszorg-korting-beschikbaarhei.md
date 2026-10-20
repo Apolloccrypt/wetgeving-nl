@@ -9,7 +9,7 @@ laatste_update: 2015-02-01
 status: geldig
 toestand: 2015-02-01
 bron: "https://wetten.overheid.nl/BWBR0036146"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Aanwijzing van de minister van Volksgezondheid, Welzijn en Sport van 11 december 2014, 696543-13073-MC, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake korting beschikbaarheidbijdrage academische zorg 2015

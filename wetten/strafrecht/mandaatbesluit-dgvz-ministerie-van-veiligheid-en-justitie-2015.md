@@ -9,7 +9,7 @@ laatste_update: 2016-04-22
 status: geldig
 toestand: 2016-04-22
 bron: "https://wetten.overheid.nl/BWBR0036388"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van de directeur-generaal Vreemdelingenzaken van het Ministerie van Veiligheid en Justitie van 19 februari 2015, nr. 2015-618410, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan onder de directeur-generaal ressorterende ambtenaren (Mandaatbesluit DGVZ Ministerie van Veiligheid en Justitie 2015)

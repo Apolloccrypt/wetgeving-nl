@@ -9,7 +9,7 @@ laatste_update: 2014-07-02
 status: geldig
 toestand: 2014-07-02
 bron: "https://wetten.overheid.nl/BWBR0036548"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de secretaris-generaal van het Ministerie van Veiligheid en Justitie van 19 juni 2014, nummer 513232 ter uitvoering van het archiefbeheer (Uitvoeringsregeling Archiefbeheer Veiligheid en Justitie 2014)

@@ -8,7 +8,7 @@ laatste_update: 2015-02-27
 status: geldig
 toestand: 2015-02-27
 bron: "https://wetten.overheid.nl/BWBR0036346"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit beperking openbaarheid archiefbescheiden ministerie van Algemeene Oorlogsvoering van het Koninkrijk (1942–1946), het Kabinet van de Minister-President (1946–1947) en het ministerie van Algemene Zaken, Kabinet van de Minister-President (1947–heden) over het tijdvak (1942) 1942–1979 (1989)

@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0035881"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Besluit van 24 november 2014, houdende regels inzake de verplichte verzekering bij medisch-wetenschappelijk onderzoek met mensen (Besluit verplichte verzekering bij medisch-wetenschappelijk onderzoek met mensen 2015)

@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0036078"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 17 december 2014, houdende de vaststelling van de vergoedingen van de leden van de Raad voor volksgezondheid en samenleving (Regeling vergoedingen Raad voor volksgezondheid en samenleving)

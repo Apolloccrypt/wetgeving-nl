@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0036510"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Wet van 1 april 2015 tot vaststelling van een nieuwe Instellingswet Raad voor strafrechtstoepassing en jeugdbescherming (Instellingswet Raad voor strafrechtstoepassing en jeugdbescherming 2015)

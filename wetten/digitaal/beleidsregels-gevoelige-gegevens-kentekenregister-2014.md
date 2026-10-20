@@ -8,7 +8,7 @@ laatste_update: 2015-01-21
 status: geldig
 toestand: 2015-01-21
 bron: "https://wetten.overheid.nl/BWBR0036178"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Beleidsregels gevoelige gegevens kentekenregister 2014

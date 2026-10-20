@@ -9,7 +9,7 @@ laatste_update: 2012-07-24
 status: geldig
 toestand: 2012-07-24
 bron: "https://wetten.overheid.nl/BWBR0035659"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Regeling beperking geluidhinder militaire helikopters die gebruik maken van de oefen- en schietfaciliteiten van het Infanterie Schietkamp te Harskamp (Regeling beperking geluidhinder militaire helikopters Infanterie Schietkamp Harskamp)

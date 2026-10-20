@@ -9,7 +9,7 @@ laatste_update: 2017-11-03
 status: geldig
 toestand: 2017-11-03
 bron: "https://wetten.overheid.nl/BWBR0036524"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van de Minister van Economische Zaken van 15 april 2015, nr. WJZ/15023462, houdende instelling van de besturing van een afsprakenstelsel elektronische toegangsdiensten (Instellingsbesluit besturing elektronische toegangsdiensten)

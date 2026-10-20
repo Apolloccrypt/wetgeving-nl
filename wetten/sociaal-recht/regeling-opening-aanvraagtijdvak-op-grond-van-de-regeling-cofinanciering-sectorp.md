@@ -9,7 +9,7 @@ laatste_update: 2015-04-16
 status: geldig
 toestand: 2015-04-16
 bron: "https://wetten.overheid.nl/BWBR0036519"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 7 april 2015, nr. 2015-0000082055, tot opening van een aanvraagtijdvak op grond van de Regeling cofinanciering sectorplannen in verband met de herstructurering van de sociale werkvoorziening

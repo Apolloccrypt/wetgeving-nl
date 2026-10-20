@@ -9,7 +9,7 @@ laatste_update: 2014-12-20
 status: geldig
 toestand: 2014-12-20
 bron: "https://wetten.overheid.nl/BWBR0035963"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling tot aanwijzing van de Defensie Duikschool als certificerende instelling (Regeling duikopleidingen Defensie 2014)

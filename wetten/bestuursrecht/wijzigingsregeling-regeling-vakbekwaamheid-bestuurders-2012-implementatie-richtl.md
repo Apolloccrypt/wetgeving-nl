@@ -9,7 +9,7 @@ laatste_update: 2015-06-01
 status: geldig
 toestand: 2015-06-01
 bron: "https://wetten.overheid.nl/BWBR0036537"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu van 20 april 2015, nr. IENM/BSK-2015/77857 tot wijziging van de Regeling vakbekwaamheid bestuurders 2012 ter voldoening aan richtlijn 2003/59/EG (vakbekwaamheid bestuurders)

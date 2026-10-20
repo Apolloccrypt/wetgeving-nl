@@ -9,7 +9,7 @@ laatste_update: 2016-04-08
 status: geldig
 toestand: 2016-04-08
 bron: "https://wetten.overheid.nl/BWBR0035855"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Besluit van de raad van bestuur van de kansspelautoriteit van 25 november 2014, kenmerk 8786, inzake verlening van een vergunning tot het organiseren van een instantloterij

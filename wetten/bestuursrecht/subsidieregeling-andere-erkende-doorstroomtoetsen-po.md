@@ -9,7 +9,7 @@ laatste_update: 2024-11-30
 status: geldig
 toestand: 2024-11-30
 bron: "https://wetten.overheid.nl/BWBR0035883"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 29 november 2014, nr. PO/643040, houdende regels met betrekking tot het verlenen van subsidie aan toetsaanbieders (Subsidieregeling andere eindtoetsen PO)

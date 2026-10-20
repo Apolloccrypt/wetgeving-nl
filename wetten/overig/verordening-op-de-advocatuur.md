@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0035981"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van het college van afgevaardigden van 4 december 2014 tot vaststelling van de verordening op de advocatuur (Verordening op de advocatuur)

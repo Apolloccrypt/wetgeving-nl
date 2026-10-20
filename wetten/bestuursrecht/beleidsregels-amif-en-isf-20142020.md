@@ -9,7 +9,7 @@ laatste_update: 2020-12-01
 status: geldig
 toestand: 2020-12-01
 bron: "https://wetten.overheid.nl/BWBR0036630"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Beleidsregels van de Staatssecretaris van Veiligheid en Justitie, de Minister van Veiligheid en Justitie en de Minister van Sociale Zaken en Werkgelegenheid van 18 mei 2015, nummer 644356, tot besteding van de gelden uit het Europese Fonds voor asiel, migratie en integratie en het Fonds voor interne veiligheid (instrument voor financiële steun voor politiële samenwerking, voorkoming en bestrijding van criminaliteit, en crisisbeheersing en instrument voor financiële steun voor de buitengrenzen en visa) (Beleidsregels AMIF en ISF 2014–2020)

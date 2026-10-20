@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0035653"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Wet van 8 oktober 2014 tot wijziging van Boek 1 van het Burgerlijk Wetboek en enige andere wetten in verband met de vereenvoudiging van en de invoering van een elektronische dienstverlening bij de burgerlijke stand (Wet elektronische dienstverlening burgerlijke stand)

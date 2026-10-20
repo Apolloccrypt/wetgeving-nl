@@ -9,7 +9,7 @@ laatste_update: 2018-08-01
 status: geldig
 toestand: 2018-08-01
 bron: "https://wetten.overheid.nl/BWBR0036015"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport en de Staatssecretaris van Veiligheid en Justitie van 12 december 2014, kenmerk 700430-130986-WJZ, houdende aanwijzing van toezichthoudende ambtenaren, bedoeld in artikel 9.2, eerste lid, en artikel 9.4, eerste lid, van de Jeugdwet en artikel 4.3.1, eerste lid, van de Wet maatschappelijke ondersteuning 2015 (Aanwijzingsbesluit toezichthoudende ambtenaren Jeugdwet en Wmo 2015)

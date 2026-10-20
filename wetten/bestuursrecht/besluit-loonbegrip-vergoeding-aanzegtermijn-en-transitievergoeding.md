@@ -9,7 +9,7 @@ laatste_update: 2020-07-01
 status: geldig
 toestand: 2020-07-01
 bron: "https://wetten.overheid.nl/BWBR0035998"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van 11 december 2014 tot vaststelling van regels over de inhoud van het begrip loon in het kader van de berekening van de hoogte van de vergoedingen, bedoeld in de artikelen 668, derde lid, en 673 van Boek 7 van het Burgerlijk Wetboek (Besluit loonbegrip vergoeding aanzegtermijn en transitievergoeding)

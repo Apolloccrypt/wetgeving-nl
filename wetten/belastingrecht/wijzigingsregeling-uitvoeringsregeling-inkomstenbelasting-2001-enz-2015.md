@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0036087"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Staatssecretaris van Financiën van 30 december 2014, nr. IZV 2014/715M, tot wijziging van enige uitvoeringsregelingen inzake de fiscaliteit en douane alsmede van de Wet op de accijns

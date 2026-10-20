@@ -9,7 +9,7 @@ laatste_update: 2014-12-16
 status: geldig
 toestand: 2014-12-16
 bron: "https://wetten.overheid.nl/BWBR0035908"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 5 december 2014, nr. BOACAT2014/051, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Dienst Gezondheid & Jeugd Zuid-Holland-Zuid

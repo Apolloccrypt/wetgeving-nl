@@ -9,7 +9,7 @@ laatste_update: 2015-05-12
 status: geldig
 toestand: 2015-05-12
 bron: "https://wetten.overheid.nl/BWBR0036605"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Staatssecretaris van Veiligheid en Justitie van 29 april 2015, nr. 636346, houdende regels over de wijze van berekening en uitkering van de rente van de op een bijzondere rekening gestorte gelden voor het notarisambt in Bonaire, Sint Eustatius en Saba (Regeling rente bijzondere rekeningen notarissen BES)

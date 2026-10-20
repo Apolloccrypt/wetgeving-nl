@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0036093"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister voor Wonen en Rijksdienst van 12 december 2014, nr. 2014-0000667329, houdende wijziging van de Regeling fonds energiebesparing huursector en de Stimuleringsregeling energieprestatie huursector (aanpassing aan wijziging labelsystematiek)

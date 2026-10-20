@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0035837"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 24 november 2014, nr. VO/689389, houdende de vaststelling van de vergoedingen van de voorzitter en overige leden van het College voor Toetsen en Examens (Vergoedingenregeling College voor toetsen en examens)

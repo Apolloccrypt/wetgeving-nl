@@ -8,7 +8,7 @@ laatste_update: 2014-11-21
 status: geldig
 toestand: 2014-11-21
 bron: "https://wetten.overheid.nl/BWBR0035772"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Protocol Onderzoek Zvw met oplevering in 2015

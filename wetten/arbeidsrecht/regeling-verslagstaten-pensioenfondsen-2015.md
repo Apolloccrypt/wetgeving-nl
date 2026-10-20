@@ -9,7 +9,7 @@ laatste_update: 2024-07-25
 status: geldig
 toestand: 2024-07-25
 bron: "https://wetten.overheid.nl/BWBR0036189"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van De Nederlandsche Bank N.V. van 20 januari 2015, houdende regels met betrekking tot het rapportagekader als bedoeld in artikel 32 van het Besluit financieel toetsingskader pensioenfondsen (Regeling verslagstaten pensioenfondsen 2015)

@@ -9,7 +9,7 @@ laatste_update: 2015-01-29
 status: geldig
 toestand: 2015-01-29
 bron: "https://wetten.overheid.nl/BWBR0036192"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu en de Staatssecretaris van Economische Zaken, van 20 januari 2015, nr. IENM/BSK-2014/264068, tot wijziging van de Regeling vaststelling formulier vergunningaanvragen Wet bescherming Antarctica

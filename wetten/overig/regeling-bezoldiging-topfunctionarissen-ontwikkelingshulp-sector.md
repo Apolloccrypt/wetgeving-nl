@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0035796"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 17 november 2014, MinBuza-2014.665397, houdende een verlaagd bezoldigingsmaximum voor topfunctionarissen in de sector Ontwikkelingssamenwerking (Regeling bezoldiging topfunctionarissen OS-sector)

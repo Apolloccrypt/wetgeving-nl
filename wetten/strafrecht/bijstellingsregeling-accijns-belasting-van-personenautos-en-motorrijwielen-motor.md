@@ -8,7 +8,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0036002"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Bijstellingsregeling accijns, belasting van personenauto’s en motorrijwielen, motorrijtuigenbelasting, belasting zware motorrijtuigen, belastingen op milieugrondslag en Provinciewet en enkele bedragen van bestuurlijke boeten 2015

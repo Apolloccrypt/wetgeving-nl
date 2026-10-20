@@ -9,7 +9,7 @@ laatste_update: 2014-10-22
 status: geldig
 toestand: 2014-10-22
 bron: "https://wetten.overheid.nl/BWBR0035657"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Besluit van 17 oktober 2014, houdende aanwijzing aan de Gouverneur van Sint Maarten tot het aanhouden van de vaststelling van de landsbesluiten tot benoeming van ministers en de Minister-President totdat onderzoek is gedaan naar de benoembaarheid van de voorgedragen kandidaat-ministers, kandidaat-Minister-President en kandidaat-Gevolmachtigde Minister

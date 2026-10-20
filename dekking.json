@@ -1,13 +1,13 @@
 {
- "gegenereerd": "2026-10-19",
+ "gegenereerd": "2026-10-20",
  "geverifieerd": true,
- "bwb_regelingen": 46992,
- "bwb_geldend": 22283,
- "site_totaal": 22523,
- "site_geldend": 22282,
+ "bwb_regelingen": 46997,
+ "bwb_geldend": 22287,
+ "site_totaal": 22529,
+ "site_geldend": 22286,
  "dekkingsgraad": 1.0,
  "aantal_ontbrekend": 1,
- "aantal_ten_onrechte_geldig": 241,
+ "aantal_ten_onrechte_geldig": 243,
  "aantal_onbekend": 0,
  "ontbrekend": [
   {
@@ -180,6 +180,10 @@
   {
    "id": "BWBR0037674",
    "titel": "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 14 februari 2016, nr. MBO/845264 houdende vaststelling van keuzedelen welke onderdeel uitmaken van de kwalificatiestructuur van het middelbaar beroepsonderwijs (Regeling vaststelling keuzedelen)"
+  },
+  {
+   "id": "BWBR0037940",
+   "titel": "Besluit van de Autoriteit Consument en Markt van 21 april 2016, kenmerk ACM/DE/2016/202151, houdende de vaststelling van de voorwaarden als bedoeld in artikel 31 van de Elektriciteitswet 1998 (Netcode elektriciteit)"
   },
   {
    "id": "BWBR0037966",
@@ -448,6 +452,10 @@
   {
    "id": "BWBR0045276",
    "titel": "Besluit van 16 juni 2021 houdende regels voor experimenten met het verstrekken van subsidies voor generieke werkgeversvoorzieningen (Besluit experimentele subsidie generieke werkgeversvoorzieningen)"
+  },
+  {
+   "id": "BWBR0045300",
+   "titel": "Boetetoemetingsbeleid AFM 2021"
   },
   {
    "id": "BWBR0045301",

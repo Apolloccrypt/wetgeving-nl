@@ -9,7 +9,7 @@ laatste_update: 2026-05-23
 status: geldig
 toestand: 2026-05-23
 bron: "https://wetten.overheid.nl/BWBR0035791"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Besluit van de Minister van Economische Zaken van 3 november 2014, DGETM-TM / 14179469, houdende vaststelling van het Nationaal Frequentieplan 2014 (Nationaal Frequentieplan 2014)

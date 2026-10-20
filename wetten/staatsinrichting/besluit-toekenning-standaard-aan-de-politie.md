@@ -9,7 +9,7 @@ laatste_update: 2015-04-08
 status: geldig
 toestand: 2015-04-08
 bron: "https://wetten.overheid.nl/BWBR0036497"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van 20 maart 2015, houdende toekenning van een standaard aan de politie

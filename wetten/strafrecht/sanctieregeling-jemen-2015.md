@@ -9,7 +9,7 @@ laatste_update: 2023-03-16
 status: geldig
 toestand: 2023-03-16
 bron: "https://wetten.overheid.nl/BWBR0036201"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 23 januari 2015, nr. MinBuZa.2015.19674, houdende beperkende maatregelen in verband met de situatie in Jemen (Sanctieregeling Jemen 2015)

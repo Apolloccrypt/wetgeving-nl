@@ -9,7 +9,7 @@ laatste_update: 2019-01-05
 status: geldig
 toestand: 2019-01-05
 bron: "https://wetten.overheid.nl/BWBR0036569"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van de Staatssecretaris van Economische Zaken van 22 april 2015, nr. WJZ/14173439 tot instelling van de Wetenschappelijke Adviescommissie Convenant Onbedwelmd Ritueel Slachten (Instellingsbesluit Wetenschappelijke Adviescommissie Convenant Onbedwelmd Ritueel Slachten)

@@ -9,7 +9,7 @@ laatste_update: 2014-12-30
 status: geldig
 toestand: 2014-12-30
 bron: "https://wetten.overheid.nl/BWBR0036100"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 18 december 2014, CZW/S&B nr. 2014-0000672461, tot wijziging van de Regeling uitzettingen en derivaten decentrale overheden in verband met de nadere invulling van het prudent gebruik van derivaten

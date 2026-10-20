@@ -9,7 +9,7 @@ laatste_update: 2016-03-31
 status: geldig
 toestand: 2016-03-31
 bron: "https://wetten.overheid.nl/BWBR0036468"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Staatssecretaris van Veiligheid en Justitie van 26 maart 2015, houdende regels voor het verstrekken en dragen van dienstkleding van ambtenaren van de Dienst Justitiële Inrichtingen (Regeling dienstkleding Dienst Justitiële Inrichtingen)

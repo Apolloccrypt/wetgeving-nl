@@ -9,7 +9,7 @@ laatste_update: 2015-04-18
 status: geldig
 toestand: 2015-04-18
 bron: "https://wetten.overheid.nl/BWBR0036528"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van de Algemeen Directeur Dienst Wegverkeer (RDW) van 9 april 2015, nr. JBZ2015/12059, houdende regels inzake de verlening van ondermandaat en machtiging betreffende aangelegenheden die verband houden met de afgifte van een certificaat voor vervoermiddelen bestemd voor het transport van dieren (Besluit ondermandaat en machtiging RDW afgifte certificaat voor vervoermiddelen dierentransport)

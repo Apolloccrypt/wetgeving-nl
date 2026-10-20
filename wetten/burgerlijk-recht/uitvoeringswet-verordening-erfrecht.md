@@ -9,7 +9,7 @@ laatste_update: 2015-08-17
 status: geldig
 toestand: 2015-08-17
 bron: "https://wetten.overheid.nl/BWBR0035741"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Wet van 5 november 2014 tot uitvoering van de Verordening (EU) nr. 650/2012 van het Europees Parlement en de Raad van 4 juli 2012 betreffende de bevoegdheid, het toepasselijke recht, de erkenning en de tenuitvoerlegging van beslissingen en de aanvaarding en de tenuitvoerlegging van authentieke akten op het gebied van erfopvolging, alsmede betreffende de instelling van een Europese erfrechtverklaring (PbEU 2012, L 201) (Uitvoeringswet Verordening erfrecht)

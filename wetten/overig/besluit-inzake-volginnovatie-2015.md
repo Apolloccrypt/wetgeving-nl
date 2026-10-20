@@ -9,7 +9,7 @@ laatste_update: 2015-05-13
 status: geldig
 toestand: 2015-05-13
 bron: "https://wetten.overheid.nl/BWBR0036607"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van de Minister van Economische Zaken van 30 april 2015 inzake volginnovatie 2015

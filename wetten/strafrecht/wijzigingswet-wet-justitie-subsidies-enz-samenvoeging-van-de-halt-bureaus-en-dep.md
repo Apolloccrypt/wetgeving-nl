@@ -9,7 +9,7 @@ laatste_update: 2015-07-01
 status: geldig
 toestand: 2015-07-01
 bron: "https://wetten.overheid.nl/BWBR0036380"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Wet van 11 februari 2015 tot wijziging van de Wet Justitie-subsidies, de Kaderwet overige BZK-subsidies en de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector in verband met samenvoeging van de Halt-bureaus en departementale herindeling

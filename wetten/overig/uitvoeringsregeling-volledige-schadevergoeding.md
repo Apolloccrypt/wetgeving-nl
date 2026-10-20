@@ -9,7 +9,7 @@ laatste_update: 2014-11-15
 status: geldig
 toestand: 2014-11-15
 bron: "https://wetten.overheid.nl/BWBR0035751"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Defensie van 3 november 2014, nummer BS2014029519 tot uitvoering van de volledige schadevergoeding (Uitvoeringsregeling volledige schadevergoeding)

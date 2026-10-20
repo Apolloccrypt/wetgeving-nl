@@ -8,7 +8,7 @@ laatste_update: 2014-11-26
 status: geldig
 toestand: 2014-11-26
 bron: "https://wetten.overheid.nl/BWBR0035793"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Instellingsbesluit Welzijnscommissie Vogelgriepuitbraak 2014

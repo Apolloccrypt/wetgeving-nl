@@ -9,7 +9,7 @@ laatste_update: 2015-02-07
 status: geldig
 toestand: 2015-02-07
 bron: "https://wetten.overheid.nl/BWBR0036237"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van 12 januari 2015, nr. 2015000006, houdende vaststelling van een selectielijst voor de neerslag van het handelen (primaire taken en institutionele aangelegenheden) van de actoren Nationale- en Kinderombudsman (Nationale ombudsman vanaf 1998; Kinderombudsman vanaf 2011)

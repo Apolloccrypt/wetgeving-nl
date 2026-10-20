@@ -9,7 +9,7 @@ laatste_update: 2015-01-20
 status: geldig
 toestand: 2015-01-20
 bron: "https://wetten.overheid.nl/BWBR0036177"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 9 januari 2015, houdende vaststelling van kosten als bedoeld in artikel 1, onderdeel bb, van het Besluit zorgverzekering (Regeling flankerend beleid risicoverevening 2015)

@@ -9,7 +9,7 @@ laatste_update: 2015-07-01
 status: geldig
 toestand: 2015-07-01
 bron: "https://wetten.overheid.nl/BWBR0036381"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van 11 februari 2015, houdende regels inzake de verstrekking van subsidies door de Minister van Infrastructuur en Milieu (Kaderbesluit subsidies I en M)

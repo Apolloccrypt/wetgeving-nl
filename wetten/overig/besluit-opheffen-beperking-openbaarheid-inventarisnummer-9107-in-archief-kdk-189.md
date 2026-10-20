@@ -9,7 +9,7 @@ laatste_update: 2014-12-17
 status: geldig
 toestand: 2014-12-17
 bron: "https://wetten.overheid.nl/BWBR0035916"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit opheffen van de beperking aan de openbaarheid van inventarisnummer 9107 in het archief van het KdK 1898–1945

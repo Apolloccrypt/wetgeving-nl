@@ -9,7 +9,7 @@ laatste_update: 2015-11-26
 status: geldig
 toestand: 2015-11-26
 bron: "https://wetten.overheid.nl/BWBR0035990"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van 28 november 2014 tot wijziging van het Besluit prudentiële regels Wft, het Besluit Gedragstoezicht financiële ondernemingen Wft en enige andere besluiten op het terrein van de financiële markten (Wijzigingsbesluit financiële markten 2015)

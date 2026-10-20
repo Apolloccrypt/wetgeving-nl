@@ -9,7 +9,7 @@ laatste_update: 2015-02-28
 status: geldig
 toestand: 2015-02-28
 bron: "https://wetten.overheid.nl/BWBR0036361"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 25 februari 2015 nr. BOACAT2015/010, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Cluster Sociaal van de gemeente Amsterdam

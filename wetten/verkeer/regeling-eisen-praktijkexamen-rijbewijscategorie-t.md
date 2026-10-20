@@ -9,7 +9,7 @@ laatste_update: 2021-01-05
 status: geldig
 toestand: 2021-01-05
 bron: "https://wetten.overheid.nl/BWBR0036560"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu, van 20 april 2015, nr. IENM/BSK-2014/219006, houdende vaststelling van de eisen voor het praktijkexamen voor de rijbewijscategorie T (Regeling eisen praktijkexamen rijbewijscategorie T)

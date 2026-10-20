@@ -9,7 +9,7 @@ laatste_update: 2015-03-18
 status: geldig
 toestand: 2015-03-18
 bron: "https://wetten.overheid.nl/BWBR0036415"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 6 maart 2015, kenmerk 702090-131223-Z, inzake de besteedbare middelen ter dekking van de beheerskosten Wlz 2015 (Aanwijzing besteedbare middelen Wlz 2015)

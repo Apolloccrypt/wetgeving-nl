@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0035989"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 10 december 2014, nr. 2014-0000657970, houdende vaststelling van een controleprotocol voor de naleving van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector (Controleprotocol WNT)

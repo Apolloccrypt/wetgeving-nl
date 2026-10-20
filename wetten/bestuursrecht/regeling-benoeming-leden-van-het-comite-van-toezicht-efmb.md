@@ -9,7 +9,7 @@ laatste_update: 2018-06-21
 status: geldig
 toestand: 2018-06-21
 bron: "https://wetten.overheid.nl/BWBR0035721"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 31 oktober 2014, 2014-0000162942, tot benoeming van de leden van het Comité van toezicht EFMB

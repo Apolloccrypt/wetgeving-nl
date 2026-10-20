@@ -9,7 +9,7 @@ laatste_update: 2024-01-04
 status: geldig
 toestand: 2024-01-04
 bron: "https://wetten.overheid.nl/BWBR0035722"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Besluit houdende wijziging van het Comité Nederlandse Veteranendag in een Nationaal Comité Veteranendag

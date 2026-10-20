@@ -9,7 +9,7 @@ laatste_update: 2015-03-27
 status: geldig
 toestand: 2015-03-27
 bron: "https://wetten.overheid.nl/BWBR0036459"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Economische Zaken van 24 maart 2015, nr. WJZ/15018116, houdende vaststelling van de definitieve correcties voor de stimulering van duurzame energieproductie in het jaar 2014 (Regeling vaststelling definitieve correcties duurzame energieproductie 2014)

@@ -9,7 +9,7 @@ laatste_update: 2015-04-01
 status: geldig
 toestand: 2015-04-01
 bron: "https://wetten.overheid.nl/BWBR0036152"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Financiën van 12 december 2014, kenmerk: FM 2014/1237 M, directie Financiële Markten, houdende regels met betrekking tot de door personen als bedoeld in de artikelen 3:8, eerste lid, 3:17b, eerste en tweede lid, 4:9, eerste lid, en 4:15a, eerste lid, van de Wet op het financieel toezicht af te leggen eed of belofte (Regeling eed of belofte financiële sector 2015)

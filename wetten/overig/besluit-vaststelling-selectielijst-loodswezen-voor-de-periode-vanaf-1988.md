@@ -8,7 +8,7 @@ laatste_update: 2015-05-20
 status: geldig
 toestand: 2015-05-20
 bron: "https://wetten.overheid.nl/BWBR0036614"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit vaststelling selectielijst Loodswezen voor de periode vanaf 1988

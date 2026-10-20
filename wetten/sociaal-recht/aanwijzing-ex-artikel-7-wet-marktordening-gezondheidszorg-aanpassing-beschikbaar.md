@@ -9,7 +9,7 @@ laatste_update: 2015-02-01
 status: geldig
 toestand: 2015-02-01
 bron: "https://wetten.overheid.nl/BWBR0036148"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 11 december 2014, houdende aanpassing beschikbaarheidbijdrage traumazorg

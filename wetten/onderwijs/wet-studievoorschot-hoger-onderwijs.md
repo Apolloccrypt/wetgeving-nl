@@ -9,7 +9,7 @@ laatste_update: 2017-09-01
 status: geldig
 toestand: 2017-09-01
 bron: "https://wetten.overheid.nl/BWBR0036261"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Wet van 21 januari 2015 tot wijziging van onder meer de Wet studiefinanciering 2000 in verband met de introductie van een nieuw stelsel van studiefinanciering in het hoger onderwijs en de uitvoering van een toekomstgerichte onderwijsagenda voor het hoger onderwijs (Wet studievoorschot hoger onderwijs)

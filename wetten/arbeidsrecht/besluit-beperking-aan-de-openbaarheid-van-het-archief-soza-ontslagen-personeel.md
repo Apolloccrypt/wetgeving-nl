@@ -8,7 +8,7 @@ laatste_update: 2014-12-18
 status: geldig
 toestand: 2014-12-18
 bron: "https://wetten.overheid.nl/BWBR0035934"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit beperking aan de openbaarheid van het archief SoZa: ontslagen personeel

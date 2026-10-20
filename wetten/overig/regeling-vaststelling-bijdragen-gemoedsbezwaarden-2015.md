@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0035874"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Financiën van 28 november 2014, FM 2014/1823 M, directie Financiële Markten, tot vaststelling van de bijdragen gemoedsbezwaarden 2015

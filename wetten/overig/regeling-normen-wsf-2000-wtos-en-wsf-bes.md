@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0035939"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 9 december 2014, nr. HO&S/695142, houdende onder meer het vaststellen van de normbedragen in de Wet studiefinanciering 2000, de Wet tegemoetkoming onderwijsbijdrage en schoolkosten alsmede de Wet studiefinanciering BES voor het jaar 2015 (Regeling normen WSF 2000, WTOS en WSF BES, voor het jaar 2015)

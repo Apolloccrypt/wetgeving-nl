@@ -8,7 +8,7 @@ laatste_update: 2014-10-25
 status: geldig
 toestand: 2014-10-25
 bron: "https://wetten.overheid.nl/BWBR0035672"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Besluit opheffing beperkingen openbaarheid enige inventarisnummers Code-Archief BuZa

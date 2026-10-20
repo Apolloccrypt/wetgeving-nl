@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0036229"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 28 januari 2015, 2014-0000192106, houdende het verlenen van volmacht en machtiging aan de directeur van de Dienst ICT Uitvoering van het Ministerie van Economische Zaken in verband met de verlenging van een aantal overeenkomsten met ICT-dienstverleners

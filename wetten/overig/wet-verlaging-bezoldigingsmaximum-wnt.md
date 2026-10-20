@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0036047"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Wet van 23 december 2014, houdende aanpassing van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector in verband met de verlaging van het wettelijke bezoldigingsmaximum van 130% naar 100% van de bezoldiging van een Minister (Wet verlaging bezoldigingsmaximum WNT)

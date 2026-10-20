@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0035661"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Besluit van 15 oktober 2014, houdende regels ten aanzien van hetgeen wordt verstaan onder het hebben van het hoofdverblijf in dezelfde woning als bedoeld in artikel 1, vierde en vijfde lid, aanhef, van de Algemene Ouderdomswet (Besluit regels hoofdverblijf in dezelfde woning AOW)

@@ -8,7 +8,7 @@ laatste_update: 2014-11-25
 status: geldig
 toestand: 2014-11-25
 bron: "https://wetten.overheid.nl/BWBR0035783"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Protocol Accountantsonderzoek 2014 Concessiehouders

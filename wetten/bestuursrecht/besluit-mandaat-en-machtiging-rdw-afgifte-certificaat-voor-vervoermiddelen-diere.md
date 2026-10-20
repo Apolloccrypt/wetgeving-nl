@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0036036"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van de Minister van Economische Zaken van 16 december 2014, nr. WJZ/14197159, houdende regels inzake de verlening van mandaat en machtiging aan de Algemeen Directeur van de Dienst Wegverkeer (RDW) betreffende aangelegenheden die verband houden met de afgifte van een certificaat voor vervoermiddelen bestemd voor het transport van dieren (Besluit mandaat en machtiging RDW afgifte certificaat voor vervoermiddelen dierentransport)

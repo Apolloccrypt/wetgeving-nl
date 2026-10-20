@@ -9,7 +9,7 @@ laatste_update: 2016-07-20
 status: geldig
 toestand: 2016-07-20
 bron: "https://wetten.overheid.nl/BWBR0035923"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 8 december 2014, nr. MBO/664185, houdende regels voor het verhogen van de kwaliteit van het middelbaar beroepsonderwijs (Regeling kwaliteitsafspraken mbo)

@@ -9,7 +9,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBR0036592"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Wet van 16 april 2015 tot wijziging van onder meer de Wet educatie en beroepsonderwijs inzake overgang van de wettelijke taken van kenniscentra beroepsonderwijs bedrijfsleven naar de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven

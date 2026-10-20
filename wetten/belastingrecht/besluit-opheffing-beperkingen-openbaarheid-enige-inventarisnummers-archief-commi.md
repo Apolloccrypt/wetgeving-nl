@@ -8,7 +8,7 @@ laatste_update: 2014-10-25
 status: geldig
 toestand: 2014-10-25
 bron: "https://wetten.overheid.nl/BWBR0035671"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Besluit opheffing beperkingen openbaarheid enige inventarisnummers archief Commissariaat Indische Zaken

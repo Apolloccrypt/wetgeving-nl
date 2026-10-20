@@ -9,7 +9,7 @@ laatste_update: 2016-07-02
 status: geldig
 toestand: 2016-07-02
 bron: "https://wetten.overheid.nl/BWBR0036258"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van de algemeen directeur Autoriteit Nucleaire Veiligheid en Stralingsbescherming, van 2 februari 2015, nr. IENM/BSK-2014/254970, houdende verlening van ondermandaat, volmacht en machtiging (Ondermandaatbesluit Autoriteit Nucleaire Veiligheid en Stralingsbescherming 2015)

@@ -9,7 +9,7 @@ laatste_update: 2022-07-21
 status: geldig
 toestand: 2022-07-21
 bron: "https://wetten.overheid.nl/BWBR0036487"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Staatssecretaris van Veiligheid en Justitie, de Minister van Veiligheid en Justitie en de Minister van Sociale Zaken en Werkgelegenheid van 26 maart 2015, nummer 625779, tot besteding van de gelden uit het Europese Fonds voor asiel, migratie en integratie en het Fonds voor interne veiligheid (instrument voor financiële steun voor politiële samenwerking, voorkoming en bestrijding van criminaliteit, en crisisbeheersing en instrument voor financiële steun voor de buitengrenzen en visa) (Subsidieregeling AMIF en ISF 2014–2020)

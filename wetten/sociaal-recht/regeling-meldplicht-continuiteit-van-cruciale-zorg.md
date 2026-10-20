@@ -8,7 +8,7 @@ laatste_update: 2014-12-31
 status: geldig
 toestand: 2014-12-31
 bron: "https://wetten.overheid.nl/BWBR0036070"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling meldplicht continuïteit van cruciale zorg

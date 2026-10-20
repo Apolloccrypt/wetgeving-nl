@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0036595"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van 23 april 2015, houdende voorwaarden waaronder de transitievergoeding niet verschuldigd is (Besluit overgangsrecht transitievergoeding)

@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0035888"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Economische Zaken van 3 december 2014, nr. WJZ / 14189036, tot aanwijzing van bestuursorganen waarvoor de in artikel 30 van de Handelsregisterwet 2007 bedoelde verplichting geldt

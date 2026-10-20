@@ -9,7 +9,7 @@ laatste_update: 2014-11-28
 status: geldig
 toestand: 2014-11-28
 bron: "https://wetten.overheid.nl/BWBR0035813"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 17 november 2014, nr. KENNIS/686517, tot wijziging van het Instellingsbesluit begeleidingscommissie Onderwijs Bewijs in verband met een wijziging in de samenstelling van de begeleidingscommissie Onderwijs Bewijs

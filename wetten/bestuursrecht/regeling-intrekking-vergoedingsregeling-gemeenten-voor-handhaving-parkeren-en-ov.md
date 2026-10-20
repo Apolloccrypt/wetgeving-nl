@@ -9,7 +9,7 @@ laatste_update: 2015-02-12
 status: geldig
 toestand: 2015-02-12
 bron: "https://wetten.overheid.nl/BWBR0036262"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de minister van Veiligheid en Justitie van 2 februari 2015, nr. 595516, houdende intrekking van de Vergoedingsregeling gemeenten voor handhaving parkeren en overlast 2010

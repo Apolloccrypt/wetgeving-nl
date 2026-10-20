@@ -9,7 +9,7 @@ laatste_update: 2014-11-28
 status: geldig
 toestand: 2014-11-28
 bron: "https://wetten.overheid.nl/BWBR0035812"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Wet van 12 november 2014, houdende wijziging van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector met het oog op een betere uitvoering van de wet (Reparatiewet WNT)

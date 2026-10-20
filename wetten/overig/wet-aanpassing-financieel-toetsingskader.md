@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0036084"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Wet van 17 december 2014 tot wijziging van de Pensioenwet, de Wet verplichte beroepspensioenregeling en de Invoerings- en aanpassingswet Pensioenwet in verband met aanpassing van het financieel toetsingskader voor pensioenfondsen (Wet aanpassing financieel toetsingskader)

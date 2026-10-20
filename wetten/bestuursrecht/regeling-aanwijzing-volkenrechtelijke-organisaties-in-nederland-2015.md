@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0036020"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid en van de Minister van Volksgezondheid, Welzijn en Sport van 11 december 2014, 2014-0000157840, tot Regeling aanwijzing volkenrechtelijke organisaties in Nederland (Regeling aanwijzing volkenrechtelijke organisaties in Nederland 2015)

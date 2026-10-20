@@ -9,7 +9,7 @@ laatste_update: 2026-05-01
 status: geldig
 toestand: 2026-05-01
 bron: "https://wetten.overheid.nl/BWBR0036097"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Economische Zaken van 16 december 2014, nr. WJZ / 14185449, houdende regels inzake het door de ACM ten laste brengen van kosten aan marktorganisaties (Regeling doorberekening kosten ACM)

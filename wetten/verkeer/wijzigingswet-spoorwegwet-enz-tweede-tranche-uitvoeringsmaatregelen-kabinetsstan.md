@@ -9,7 +9,7 @@ laatste_update: 2016-10-01
 status: geldig
 toestand: 2016-10-01
 bron: "https://wetten.overheid.nl/BWBR0036166"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Wet van 19 november 2014 tot wijziging van de Spoorwegwet en de Wet personenvervoer 2000 in verband met een tweede tranche van uitvoeringsmaatregelen van het kabinetsstandpunt «Spoor in beweging», waaronder regels inzake bijzondere spoorwegen en vereenvoudiging van het vergunningenregime hoofdspoorwegen, en in verband met de invoering van een verblijfsverbod voor voorzieningen openbaar vervoer

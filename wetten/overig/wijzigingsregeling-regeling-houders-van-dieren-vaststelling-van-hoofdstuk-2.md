@@ -9,7 +9,7 @@ laatste_update: 2015-02-01
 status: geldig
 toestand: 2015-02-01
 bron: "https://wetten.overheid.nl/BWBR0036197"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken van 28 januari 2015, nr. WJZ/15008282, houdende vaststelling van hoofdstuk 2 van de Regeling houders van dieren

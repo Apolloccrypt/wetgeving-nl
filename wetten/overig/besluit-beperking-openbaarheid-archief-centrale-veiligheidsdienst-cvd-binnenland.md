@@ -8,7 +8,7 @@ laatste_update: 2015-01-16
 status: geldig
 toestand: 2015-01-16
 bron: "https://wetten.overheid.nl/BWBR0036174"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit beperking openbaarheid archief Centrale Veiligheidsdienst (CVD) + Binnenlandse Veiligheidsdienst (BVD) over de periode 9 april 1946–1952

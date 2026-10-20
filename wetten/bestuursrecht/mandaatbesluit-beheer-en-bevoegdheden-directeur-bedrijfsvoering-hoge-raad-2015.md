@@ -9,7 +9,7 @@ laatste_update: 2020-03-27
 status: geldig
 toestand: 2020-03-27
 bron: "https://wetten.overheid.nl/BWBR0036622"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van de Minister van Veiligheid en Justitie van 7 mei 2015, nr. 632570, houdende verlening van mandaat, volmacht en machtiging inzake beheeraangelegenheden en enkele rechtspositionele bevoegdheden aan de directeur bedrijfsvoering van de Hoge Raad der Nederlanden (Mandaatregeling beheer en bevoegdheden directeur bedrijfsvoering Hoge Raad 2015)

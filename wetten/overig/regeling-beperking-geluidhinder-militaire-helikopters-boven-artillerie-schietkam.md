@@ -9,7 +9,7 @@ laatste_update: 2012-07-24
 status: geldig
 toestand: 2012-07-24
 bron: "https://wetten.overheid.nl/BWBR0035658"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Regeling beperking geluidhinder militaire helikopters die gebruik maken van de oefen- en schietfaciliteiten van het Artillerie Schietkamp te Oldebroek (Regeling beperking geluidhinder militaire helikopters boven Artillerie Schietkamp Oldebroek)

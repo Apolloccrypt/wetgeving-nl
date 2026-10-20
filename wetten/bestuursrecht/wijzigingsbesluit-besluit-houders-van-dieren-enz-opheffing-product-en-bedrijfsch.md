@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0035944"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van 8 december 2014, houdende wijziging van het Besluit houders van dieren in verband met de opheffing van de product- en bedrijfschappen en de overname van de welzijnsregels voor ouderdieren van vleeskuikens, vleeskalkoenen, konijnen en nertsen

@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0035917"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Wet van 3 december 2014, houdende regels inzake de verzekering van zorg aan mensen die zijn aangewezen op langdurige zorg (Wet langdurige zorg)

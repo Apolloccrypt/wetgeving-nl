@@ -9,7 +9,7 @@ laatste_update: 2015-04-01
 status: geldig
 toestand: 2015-04-01
 bron: "https://wetten.overheid.nl/BWBR0036456"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 5 maart 2015, nr. IENM/BSK-2014/265864, houdende nadere regels met betrekking tot het bepalen van beste beschikbare technieken voor grote inrichtingen op Bonaire, St. Eustatius en Saba (Regeling aanwijzing BBT-documenten grote inrichtingen milieubeheer BES)

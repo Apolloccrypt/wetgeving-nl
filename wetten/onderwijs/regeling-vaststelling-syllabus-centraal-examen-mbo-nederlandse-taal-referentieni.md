@@ -9,7 +9,7 @@ laatste_update: 2019-08-01
 status: geldig
 toestand: 2019-08-01
 bron: "https://wetten.overheid.nl/BWBR0036417"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van het College voor Toetsen en Examens van 9 februari 2015, nummer CvTE-15.00620, houdende vaststelling van de syllabus centraal examen Nederlandse taal referentieniveau 2F bij centrale examinering in het mbo (Regeling vaststelling syllabus centraal examen mbo Nederlandse taal referentieniveau 2F)

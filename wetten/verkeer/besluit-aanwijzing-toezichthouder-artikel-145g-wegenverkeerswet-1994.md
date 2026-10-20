@@ -9,7 +9,7 @@ laatste_update: 2015-07-01
 status: geldig
 toestand: 2015-07-01
 bron: "https://wetten.overheid.nl/BWBR0036483"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van de Minister van Infrastructuur en Milieu, van 26 maart 2015, nr. IENM/BSK-2015/29854, houdende aanwijzing van ambtenaren belast met het toezicht op de naleving van artikel 145g van de Wegenverkeerswet 1994 (Besluit aanwijzing toezichthouder artikel 145g Wegenverkeerswet 1994)

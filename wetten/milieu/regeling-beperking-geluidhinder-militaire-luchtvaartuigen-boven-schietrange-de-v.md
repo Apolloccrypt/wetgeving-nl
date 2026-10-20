@@ -8,7 +8,7 @@ laatste_update: 2008-12-14
 status: geldig
 toestand: 2008-12-14
 bron: "https://wetten.overheid.nl/BWBR0035656"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Regeling beperking geluidhinder militaire luchtvaartuigen boven schietrange de Vliehors

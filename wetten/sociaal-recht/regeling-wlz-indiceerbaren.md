@@ -8,7 +8,7 @@ laatste_update: 2015-03-19
 status: geldig
 toestand: 2015-03-19
 bron: "https://wetten.overheid.nl/BWBR0036418"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling Wlz-indiceerbaren

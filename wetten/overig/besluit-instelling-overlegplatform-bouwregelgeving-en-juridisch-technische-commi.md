@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0035847"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-20
 ---
 
 # Besluit van de Minister voor Wonen en Rijksdienst van 25 november 2014 met kenmerk 2014-0000627803, houdende instelling van het Overlegplatform Bouwregelgeving en de Juridisch-technische commissie

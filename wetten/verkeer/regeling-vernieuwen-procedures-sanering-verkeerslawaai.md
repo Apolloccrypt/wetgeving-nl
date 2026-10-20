@@ -9,7 +9,7 @@ laatste_update: 2015-02-03
 status: geldig
 toestand: 2015-02-03
 bron: "https://wetten.overheid.nl/BWBR0036219"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu van 29 januari 2015, nr. ienm/bsk-2015/14242, houdende wijziging van de Subsidieregeling sanering verkeerslawaai en de Regeling doelmatigheid geluidmaatregelen Wet geluidhinder (Regeling vernieuwen procedures sanering verkeerslawaai)

@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0036593"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 23 april 2015, 2015-0000102296, tot vaststelling van regels met betrekking tot toestemming van het Uitvoeringsinstituut werknemersverzekeringen tot opzegging van de arbeidsovereenkomst (Regeling UWV ontslagprocedure)

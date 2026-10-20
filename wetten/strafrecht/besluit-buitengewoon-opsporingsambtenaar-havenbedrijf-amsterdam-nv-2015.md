@@ -9,7 +9,7 @@ laatste_update: 2015-09-13
 status: geldig
 toestand: 2015-09-13
 bron: "https://wetten.overheid.nl/BWBR0036596"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-20
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 30 april 2015, nr. BOACAT2015/013, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Divisie Havenmeester van het Havenbedrijf Amsterdam NV
