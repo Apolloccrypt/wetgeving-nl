@@ -9,7 +9,7 @@ laatste_update: 2015-12-18
 status: geldig
 toestand: 2015-12-18
 bron: "https://wetten.overheid.nl/BWBR0037370"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Bekendmaking van de Minister van Onderwijs, Cultuur en Wetenschap van 27 november 2015, nr. MBO- 860341 inzake de vaststelling van het subsidieplafond van de Regeling kwaliteitsafspraken mbo voor het kalenderjaar 2016

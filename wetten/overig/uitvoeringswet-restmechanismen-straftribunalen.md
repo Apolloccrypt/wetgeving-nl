@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0037361"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Wet van 2 december 2015, houdende bepalingen verband houdende met de instelling van de rechtsopvolgers van in Nederland gevestigde internationale of geïnternationaliseerde straftribunalen (Uitvoeringswet restmechanismen straftribunalen)

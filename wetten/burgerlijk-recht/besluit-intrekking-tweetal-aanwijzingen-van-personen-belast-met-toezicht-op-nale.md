@@ -9,7 +9,7 @@ laatste_update: 2015-12-12
 status: geldig
 toestand: 2015-12-12
 bron: "https://wetten.overheid.nl/BWBR0037320"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 20 november 2015, nr. HO&S/844922, tot het intrekken van een tweetal aanwijzingen van personen belast met het toezicht op de naleving van artikel 1.5 van de Wet studiefinanciering 2000

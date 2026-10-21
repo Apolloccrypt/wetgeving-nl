@@ -9,7 +9,7 @@ laatste_update: 2016-07-01
 status: geldig
 toestand: 2016-07-01
 bron: "https://wetten.overheid.nl/BWBR0036897"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister voor Wonen en Rijksdienst van 23 juli 2015, nr. 2015-00000415760, houdende wijziging van de Stimuleringsregeling energieprestatie huursector en de Regeling fonds energiebesparing huursector (extra waarborgen subsidieaanvraag)

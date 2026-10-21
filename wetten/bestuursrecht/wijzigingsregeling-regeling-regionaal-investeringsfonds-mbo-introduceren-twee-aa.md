@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0037249"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 25 november 2015, nr. MBO-821461, houdende wijziging van de Regeling regionaal investeringsfonds mbo in verband met onder meer het introduceren van twee aanvraagperioden per jaar alsmede enige technische verbeteringen

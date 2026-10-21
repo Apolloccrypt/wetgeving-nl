@@ -9,7 +9,7 @@ laatste_update: 2015-07-15
 status: geldig
 toestand: 2015-07-15
 bron: "https://wetten.overheid.nl/BWBR0036825"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Wet van 30 juni 2015 tot goedkeuring en uitvoering van het op 2 maart 2015 te Veenhuizen tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Noorwegen inzake het gebruik van een penitentiaire inrichting in Nederland voor de tenuitvoerlegging van bij Noorse vonnissen opgelegde vrijheidsstraffen (Trb. 2015, 37)

@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0037262"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van 13 november 2015, houdende vaststelling van nadere regels ter uitvoering van de Wet kwaliteit, klachten en geschillen zorg (Uitvoeringsbesluit Wkkgz)

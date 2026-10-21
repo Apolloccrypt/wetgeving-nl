@@ -9,7 +9,7 @@ laatste_update: 2015-10-21
 status: geldig
 toestand: 2015-10-21
 bron: "https://wetten.overheid.nl/BWBR0037000"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 28 augustus 2015 nr. BOACAT2015/037, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Nijkerk

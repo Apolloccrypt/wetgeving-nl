@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0037155"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 24 oktober 2015, nr. WJZ/831752 (6806) houdende vaststelling van de tarieven van rijksarchiefbescheiden (Regeling tarieven rijksarchiefbescheiden)

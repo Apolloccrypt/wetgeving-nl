@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0037099"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Wet van 30 september 2015 tot aanpassing van enige arbeidsrechtelijke bepalingen die een belemmering kunnen vormen voor werknemers en ambtenaren die na de AOW-gerechtigde leeftijd willen blijven werken (Wet werken na de AOW-gerechtigde leeftijd)

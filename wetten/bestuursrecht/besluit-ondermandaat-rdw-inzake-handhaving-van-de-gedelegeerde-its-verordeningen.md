@@ -9,7 +9,7 @@ laatste_update: 2015-07-01
 status: geldig
 toestand: 2015-07-01
 bron: "https://wetten.overheid.nl/BWBR0036742"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Besluit tot het verlenen van ondermandaat aan één of meer onder hem ressorterende functionarissen van de Dienst Wegverkeer

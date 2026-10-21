@@ -9,7 +9,7 @@ laatste_update: 2017-04-12
 status: geldig
 toestand: 2017-04-12
 bron: "https://wetten.overheid.nl/BWBR0036860"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 3 juli 2015, nr. BOACAT2015/024, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Toezicht en Handhaving Lelystad B.V.

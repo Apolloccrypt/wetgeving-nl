@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0037304"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu, van 7 december 2015, nr. IENM/BSK-2015/161734, houdende regels met betrekking tot de basisregistratie grootschalige topografie (Regeling basisregistratie grootschalige topografie)

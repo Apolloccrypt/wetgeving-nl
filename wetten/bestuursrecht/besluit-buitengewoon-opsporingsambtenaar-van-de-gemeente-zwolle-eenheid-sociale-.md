@@ -9,7 +9,7 @@ laatste_update: 2015-10-24
 status: geldig
 toestand: 2015-10-24
 bron: "https://wetten.overheid.nl/BWBR0037106"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 14 oktober 2015 nr. BOACAT2015/053, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Zwolle, eenheid Sociale Zaken en Welzijn.

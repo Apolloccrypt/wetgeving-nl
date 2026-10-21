@@ -9,7 +9,7 @@ laatste_update: 2015-07-01
 status: geldig
 toestand: 2015-07-01
 bron: "https://wetten.overheid.nl/BWBR0036756"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Staatssecretaris van Economische Zaken van 28 juni 2015, nr. WJZ / 15083658, houdende aanwijzing van de managementautoriteit, de certificeringsautoriteit en de auditautoriteit voor de toepassing van verordening (EU) nr. 508/2014 inzake het Europees Fonds voor Maritieme Zaken en Visserij

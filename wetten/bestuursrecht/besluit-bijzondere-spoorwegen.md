@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0036778"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Besluit van 25 juni 2015 tot het vaststellen van regels over de veiligheid van bijzondere spoorwegen en tot wijziging van diverse andere besluiten in verband met een tweede tranche van uitvoeringsmaatregelen van het kabinetsstandpunt «Spoor in beweging», waaronder de vereenvoudiging van het vergunningenregime hoofdspoorwegen en de implementatie van een technische specificatie inzake interoperabiliteit (Besluit bijzondere spoorwegen)

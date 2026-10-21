@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0037355"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van 10 december 2015 tot wijziging van het Besluit prudentiële regels Wft, het Besluit markttoegang financiële ondernemingen Wft en het Besluit bestuurlijke boetes financiële sector ter vaststelling van nadere regels voor het toezicht op kredietunies (Besluit toezicht kredietunies)

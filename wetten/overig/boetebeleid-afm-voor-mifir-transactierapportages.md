@@ -8,7 +8,7 @@ laatste_update: 2026-10-15
 status: geldig
 toestand: 2026-10-15
 bron: "https://wetten.overheid.nl/BWBR0053197"
-opgehaald: 2026-10-20
+opgehaald: 2026-10-21
 ---
 
 # Boetebeleid AFM voor MiFIR-transactierapportages

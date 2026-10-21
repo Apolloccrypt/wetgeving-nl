@@ -8,7 +8,7 @@ laatste_update: 2015-11-19
 status: geldig
 toestand: 2015-11-19
 bron: "https://wetten.overheid.nl/BWBR0037204"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling protonentherapie

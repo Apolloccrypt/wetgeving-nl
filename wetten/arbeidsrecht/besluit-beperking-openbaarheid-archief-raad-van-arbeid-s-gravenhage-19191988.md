@@ -8,7 +8,7 @@ laatste_update: 2015-09-25
 status: geldig
 toestand: 2015-09-25
 bron: "https://wetten.overheid.nl/BWBR0037020"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit beperking openbaarheid archief Raad van Arbeid ’s-Gravenhage 1919–1988

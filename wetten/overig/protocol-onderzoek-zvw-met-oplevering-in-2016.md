@@ -8,7 +8,7 @@ laatste_update: 2015-08-04
 status: geldig
 toestand: 2015-08-04
 bron: "https://wetten.overheid.nl/BWBR0036910"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Protocol Onderzoek Zvw met oplevering in 2016

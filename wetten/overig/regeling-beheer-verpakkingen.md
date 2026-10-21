@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0037392"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 18 december 2015, nr. IENM/BSK-2015/242582, houdende regels voor verpakkingen (Regeling beheer verpakkingen)

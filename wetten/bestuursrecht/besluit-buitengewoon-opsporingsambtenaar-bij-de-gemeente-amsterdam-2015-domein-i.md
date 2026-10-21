@@ -9,7 +9,7 @@ laatste_update: 2015-12-11
 status: geldig
 toestand: 2015-12-11
 bron: "https://wetten.overheid.nl/BWBR0037312"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 3 december 2015 nr. BOACAT2015/064, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Amsterdam (rve Handhaving en Toezicht en 7 stadsdelen) 2015, domein II

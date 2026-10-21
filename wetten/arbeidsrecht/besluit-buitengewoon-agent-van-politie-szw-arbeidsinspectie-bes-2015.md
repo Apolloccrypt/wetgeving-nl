@@ -9,7 +9,7 @@ laatste_update: 2015-10-02
 status: geldig
 toestand: 2015-10-02
 bron: "https://wetten.overheid.nl/BWBR0037048"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Minister van Veiligheid en Justitie van 21 september 2015, 15072015 nr. 201501/KPCN/15, strekkende tot aanwijzing van buitengewoon agenten van politie bij Rijksdienst Caribisch Nederland afdeling SZW/Arbeidsinspectie BES

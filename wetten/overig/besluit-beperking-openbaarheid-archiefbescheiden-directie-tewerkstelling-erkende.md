@@ -9,7 +9,7 @@ laatste_update: 2015-07-18
 status: geldig
 toestand: 2015-07-18
 bron: "https://wetten.overheid.nl/BWBR0036846"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 9 juli 2015, 2015-000064306, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden uit de archieven van de Directie Tewerkstelling Erkende Gewetensbezwaarden Militaire Dienst van het Ministerie van Sociale Zaken en Werkgelegenheid over de periode 1975–1997 en het gedeponeerde archief van de Hoofdafdeling Dienstplichtzaken van het Ministerie van Defensie over de periode 1957–1974

@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0037358"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 8 december 2015, kenmerk 808179-144256-WJZ, houdende bepalingen ter uitvoering van artikel 18, derde lid, van de Wet kwaliteit, klachten en geschillen zorg en artikel 5.1, tweede lid, van het Uitvoeringsbesluit Wkkgz (Uitvoeringsregeling Wkkgz)

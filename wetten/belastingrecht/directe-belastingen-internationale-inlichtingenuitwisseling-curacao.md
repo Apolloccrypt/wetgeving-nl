@@ -8,7 +8,7 @@ laatste_update: 2015-09-18
 status: geldig
 toestand: 2015-09-18
 bron: "https://wetten.overheid.nl/BWBR0037148"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Directe belastingen, internationale inlichtingenuitwisseling; Curaçao

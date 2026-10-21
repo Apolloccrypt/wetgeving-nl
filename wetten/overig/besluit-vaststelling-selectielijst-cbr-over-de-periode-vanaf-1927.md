@@ -8,7 +8,7 @@ laatste_update: 2015-12-11
 status: geldig
 toestand: 2015-12-11
 bron: "https://wetten.overheid.nl/BWBR0037301"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit vaststelling selectielijst CBR over de periode vanaf 1927

@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0037168"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Beschikking van de Minister van Veiligheid en Justitie van 30 oktober 2015, nr. 696918, tot vaststelling van het percentage waarmee de bedragen voor levensonderhoud met ingang van 1 januari 2016 worden verhoogd (Beschikking wijzigingspercentage levensonderhoud 2016)

@@ -9,7 +9,7 @@ laatste_update: 2025-04-05
 status: geldig
 toestand: 2025-04-05
 bron: "https://wetten.overheid.nl/BWBR0037454"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 8 december 2015, 2015-0000305412, houdende de inrichting van de directie Participatie en Decentrale Voorzieningen alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Participatie en Decentrale Voorzieningen (Organisatie-, mandaat- en volmachtbesluit directie Participatie en Decentrale Voorzieningen 2015)

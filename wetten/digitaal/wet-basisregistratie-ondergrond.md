@@ -9,7 +9,7 @@ laatste_update: 2026-06-04
 status: geldig
 toestand: 2026-06-04
 bron: "https://wetten.overheid.nl/BWBR0037095"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Wet van 30 september 2015, houdende regels omtrent de basisregistratie ondergrond (Wet basisregistratie ondergrond)

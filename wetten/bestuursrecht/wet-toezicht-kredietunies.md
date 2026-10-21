@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0036869"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Wet van 3 juli 2015 tot wijziging van de Wet op het financieel toezicht en enkele andere wetten met het oog op een regelgevend kader voor kredietunies (Wet toezicht kredietunies)

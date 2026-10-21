@@ -9,7 +9,7 @@ laatste_update: 2015-12-05
 status: geldig
 toestand: 2015-12-05
 bron: "https://wetten.overheid.nl/BWBR0037085"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Wet van 7 oktober 2015 tot wijziging van Boek 1 en Boek 10 van het Burgerlijk Wetboek betreffende de huwelijksleeftijd, de huwelijksbeletselen, de nietigverklaring van een huwelijk en de erkenning van in het buitenland gesloten huwelijken (Wet tegengaan huwelijksdwang)

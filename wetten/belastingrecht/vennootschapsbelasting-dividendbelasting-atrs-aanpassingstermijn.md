@@ -8,7 +8,7 @@ laatste_update: 2015-11-12
 status: geldig
 toestand: 2015-11-12
 bron: "https://wetten.overheid.nl/BWBR0037171"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Vennootschapsbelasting, dividendbelasting; ATR’s; aanpassingstermijn

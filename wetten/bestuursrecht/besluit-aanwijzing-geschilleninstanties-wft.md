@@ -9,7 +9,7 @@ laatste_update: 2015-07-09
 status: geldig
 toestand: 2015-07-09
 bron: "https://wetten.overheid.nl/BWBR0036800"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Minister van Financiën van 6 juli 2015, FM 2015/1000 M, directie Financiële Markten, tot aanwijzing van instanties tot buitengerechtelijke geschillenbeslechting als bedoeld in artikel 4:17, eerste lid, onderdeel b, van de Wet op het financieel toezicht (Besluit aanwijzing geschilleninstanties Wft)

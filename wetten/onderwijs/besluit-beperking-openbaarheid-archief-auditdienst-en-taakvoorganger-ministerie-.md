@@ -9,7 +9,7 @@ laatste_update: 2015-07-04
 status: geldig
 toestand: 2015-07-04
 bron: "https://wetten.overheid.nl/BWBR0036787"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap, van 26 juni 2015, kenmerk 511434, houdende beperking van de openbaarheid van het archief van de Auditdienst en taakvoorganger van het Ministerie van Onderwijs, Cultuur en Wetenschap over de periode (1975) 1986–2007

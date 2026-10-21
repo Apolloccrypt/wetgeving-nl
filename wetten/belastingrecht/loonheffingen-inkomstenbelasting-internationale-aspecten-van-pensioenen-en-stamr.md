@@ -8,7 +8,7 @@ laatste_update: 2024-04-05
 status: geldig
 toestand: 2024-04-05
 bron: "https://wetten.overheid.nl/BWBR0037121"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Loonheffingen, inkomstenbelasting, internationale aspecten van pensioenen en stamrechten

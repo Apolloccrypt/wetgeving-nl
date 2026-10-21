@@ -9,7 +9,7 @@ laatste_update: 2025-12-31
 status: geldig
 toestand: 2025-12-31
 bron: "https://wetten.overheid.nl/BWBR0036758"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken van 28 juni 2015, nr. WJZ / 15083650, houdende vaststelling van subsidie-instrumenten in het kader van de Europese structuur- en investeringsfondsen op het terrein van Economische Zaken (Regeling Europese EZ-subsidies)

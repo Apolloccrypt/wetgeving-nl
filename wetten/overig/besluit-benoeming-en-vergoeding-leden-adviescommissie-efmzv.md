@@ -9,7 +9,7 @@ laatste_update: 2015-10-01
 status: geldig
 toestand: 2015-10-01
 bron: "https://wetten.overheid.nl/BWBR0036977"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Staatssecretaris van Economische Zaken van 21 augustus 2015, doc.nr.:15117478, houdende benoeming en vergoeding van leden van de adviescommissie EFMZV

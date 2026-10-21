@@ -9,7 +9,7 @@ laatste_update: 2015-08-27
 status: geldig
 toestand: 2015-08-27
 bron: "https://wetten.overheid.nl/BWBR0036968"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van 14 augustus 2015, houdende wijziging van het Besluit algemene rechtspositie politie, het Besluit bezoldiging politie en enige andere besluiten en intrekking van het Besluit suppletieregeling gedeeltelijk arbeidsongeschikten sector politie en de Regeling compensatie inkomensgevolgen WIA in verband met de Wet werk en inkomen naar arbeidsvermogen

@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0037073"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister-President, Minister van Algemene Zaken van 30 september 2015, nr. 3151041, houdende de vaststelling van de Aanwijzingen inzake de rijksinspecties

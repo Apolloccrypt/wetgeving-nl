@@ -9,7 +9,7 @@ laatste_update: 2015-11-24
 status: geldig
 toestand: 2015-11-24
 bron: "https://wetten.overheid.nl/BWBR0037215"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Economische Zaken van 17 november 2015, nr. WJZ /15147641, houdende vaststelling van het bedrag, bedoeld in artikel 3.15, eerste lid, van de Telecommunicatiewet voor verlengde 2.100 MHz-vergunningen (Regeling bedrag verlenging vergunningen 2.100 MHz 2015)

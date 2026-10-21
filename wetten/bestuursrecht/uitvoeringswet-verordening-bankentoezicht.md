@@ -9,7 +9,7 @@ laatste_update: 2015-06-12
 status: geldig
 toestand: 2015-06-12
 bron: "https://wetten.overheid.nl/BWBR0036649"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Wet van 4 mei 2015 tot wijziging van de Wet financieel toezicht en enige andere wetten in verband met Verordening (EU) Nr. 1024/2013 van de Raad van 15 oktober 2013 waarbij aan de Europese Centrale Bank specifieke taken worden opgedragen betreffende het beleid inzake het prudentieel toezicht op kredietinstellingen (PbEU 2013, L 287) (Uitvoeringswet verordening bankentoezicht)

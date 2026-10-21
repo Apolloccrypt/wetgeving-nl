@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0037258"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 17 november 2015, kenmerk 870579-144145-II-LZ, houdende wijziging van de Subsidieregeling ADL-assistentie in verband met het wijzigen van termijnen, het verhogen van het subsidieplafond en het actualiseren voor 2016

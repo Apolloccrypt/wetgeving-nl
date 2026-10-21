@@ -8,7 +8,7 @@ laatste_update: 2015-10-14
 status: geldig
 toestand: 2015-10-14
 bron: "https://wetten.overheid.nl/BWBR0036872"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Regeling Professionalisering Cultuuronderwijs PO

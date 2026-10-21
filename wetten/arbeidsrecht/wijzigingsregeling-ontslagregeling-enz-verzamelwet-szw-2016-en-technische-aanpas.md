@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0037360"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 7 december 25, 2015-0000300381, tot wijziging van de Ontslagregeling en de Regeling UWV ontslagprocedure in verband met de Verzamelwet SZW 2016 en technische aanpassingen

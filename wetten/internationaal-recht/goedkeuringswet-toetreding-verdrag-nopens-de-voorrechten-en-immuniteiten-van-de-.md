@@ -9,7 +9,7 @@ laatste_update: 1948-01-31
 status: geldig
 toestand: 1948-01-31
 bron: "https://wetten.overheid.nl/BWBR0036933"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Wet van 24 December 1947, houdende goedkeuring van de toetreding tot het door de Algemene Vergadering van de Verenigde Naties op 13 Februari 1946 aangenomen Verdrag nopens de voorrechten en immuniteiten van de Verenigde Naties

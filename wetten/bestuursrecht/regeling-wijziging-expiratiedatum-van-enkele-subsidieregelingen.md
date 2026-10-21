@@ -9,7 +9,7 @@ laatste_update: 2015-10-17
 status: geldig
 toestand: 2015-10-17
 bron: "https://wetten.overheid.nl/BWBR0037091"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 7 oktober 2015, nr. MinBuza.2015.530, tot wijziging van de expiratiedatum van enkele subsidieregelingen

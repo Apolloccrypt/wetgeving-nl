@@ -9,7 +9,7 @@ laatste_update: 2016-02-01
 status: geldig
 toestand: 2016-02-01
 bron: "https://wetten.overheid.nl/BWBR0037280"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 19 november 2015, kenmerk 871366-144220-MC, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake de bekostiging en beheersing van meerzorg op grond van de Wet langdurige zorg

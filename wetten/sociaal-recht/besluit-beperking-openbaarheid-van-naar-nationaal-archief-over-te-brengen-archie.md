@@ -9,7 +9,7 @@ laatste_update: 2015-09-11
 status: geldig
 toestand: 2015-09-11
 bron: "https://wetten.overheid.nl/BWBR0036992"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 1 september 2015, nr. 2015-0000231607, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden uit het archief van het College van Toezicht Sociale Verzekeringen (CTSV) van het Ministerie van Sociale Zaken en Werkgelegenheid over de periode 1995–2001

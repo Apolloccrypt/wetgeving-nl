@@ -8,7 +8,7 @@ laatste_update: 2025-09-18
 status: geldig
 toestand: 2025-09-18
 bron: "https://wetten.overheid.nl/BWBR0036985"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit digitale vervanging archief

@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0036777"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 25 juni 2015, nr. IENM/BSK-2015/124646, houdende regels met betrekking tot het vervoer van huishoudelijk gevaarlijk afval (Regeling vervoer huishoudelijk gevaarlijk afval 2015)

@@ -9,7 +9,7 @@ laatste_update: 2015-07-29
 status: geldig
 toestand: 2015-07-29
 bron: "https://wetten.overheid.nl/BWBR0036888"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Minister van Veiligheid en Justitie van 21 juli 2015, nr. 668051, houdende erkenning van de Geschillencommissie Algemeen als geschillencommissie zoals bedoeld in de Erkenningsregeling geschillencommissie consumentenklachten 1997

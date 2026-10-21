@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0037412"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van 17 december 2015, houdende nadere regels omtrent de weigering en terugvordering van kinderbijslag BES op grond van de Wet kinderbijslagvoorziening BES (Uitvoeringsbesluit kinderbijslagvoorziening BES)

@@ -8,7 +8,7 @@ laatste_update: 2017-12-13
 status: geldig
 toestand: 2017-12-13
 bron: "https://wetten.overheid.nl/BWBR0037387"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Beleidsregel elektronische tenaamstelling

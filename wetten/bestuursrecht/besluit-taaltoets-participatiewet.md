@@ -9,7 +9,7 @@ laatste_update: 2017-10-01
 status: geldig
 toestand: 2017-10-01
 bron: "https://wetten.overheid.nl/BWBR0036652"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Besluit van 20 mei 2015, houdende vaststelling van het Besluit taaltoets Participatiewet

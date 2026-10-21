@@ -9,7 +9,7 @@ laatste_update: 2017-10-14
 status: geldig
 toestand: 2017-10-14
 bron: "https://wetten.overheid.nl/BWBR0037245"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 18 november 2015 nr. BOACAT2015/061, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Ermelo

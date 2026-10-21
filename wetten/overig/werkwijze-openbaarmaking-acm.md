@@ -8,7 +8,7 @@ laatste_update: 2020-02-12
 status: geldig
 toestand: 2020-02-12
 bron: "https://wetten.overheid.nl/BWBR0036859"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Werkwijze Openbaarmaking ACM

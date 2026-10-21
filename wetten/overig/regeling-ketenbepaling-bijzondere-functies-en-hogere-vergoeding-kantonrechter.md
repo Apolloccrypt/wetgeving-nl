@@ -9,7 +9,7 @@ laatste_update: 2023-07-01
 status: geldig
 toestand: 2023-07-01
 bron: "https://wetten.overheid.nl/BWBR0036763"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 24 juni 2015, 2015-0000159867, tot aanwijzing van functies waarvoor de ketenbepaling buiten toepassing wordt verklaard en functies waarbij door de kantonrechter een hogere vergoeding kan worden toegekend indien sprake is van tussentijdse opzegging of ontbinding van een arbeidsovereenkomst voor bepaalde tijd die niet tussentijds opzegbaar is (Regeling ketenbepaling bijzondere functies en hogere vergoeding kantonrechter)

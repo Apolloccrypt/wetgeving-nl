@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0037286"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Financiën van 30 november 2015, 2015-0000019790, directie Financiële Markten, tot vaststelling van de bijdragen gemoedsbezwaarden 2016

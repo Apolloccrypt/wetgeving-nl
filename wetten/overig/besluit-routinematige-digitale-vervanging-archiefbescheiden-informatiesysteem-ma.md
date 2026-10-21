@@ -9,7 +9,7 @@ laatste_update: 2015-09-01
 status: geldig
 toestand: 2015-09-01
 bron: "https://wetten.overheid.nl/BWBR0036911"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 6 mei 2015 tot routinematige digitale vervanging van archiefbescheiden opgeslagen in het informatiesysteem Marjolein (Substitutiebesluit Marjolein)

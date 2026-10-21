@@ -9,7 +9,7 @@ laatste_update: 2015-08-19
 status: geldig
 toestand: 2015-08-19
 bron: "https://wetten.overheid.nl/BWBR0036936"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 31 juli 2015, nr. BOACAT2015/034, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Gemeente Harderwijk

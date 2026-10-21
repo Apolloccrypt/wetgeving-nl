@@ -9,7 +9,7 @@ laatste_update: 2022-09-13
 status: geldig
 toestand: 2022-09-13
 bron: "https://wetten.overheid.nl/BWBR0037021"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Sociaal-Economische Raad van 18 september 2015, houdende fusiegedragsregels ter bescherming van de belangen van in de onderneming werkzame personen (SER-Fusiegedragsregels 2015)

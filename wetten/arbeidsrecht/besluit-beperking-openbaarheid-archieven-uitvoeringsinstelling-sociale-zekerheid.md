@@ -9,7 +9,7 @@ laatste_update: 2015-07-16
 status: geldig
 toestand: 2015-07-16
 bron: "https://wetten.overheid.nl/BWBR0036836"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Besluit beperking van de openbaarheid van de archieven van de Uitvoeringsinstelling Sociale zekerheid voor Overheid en Onderwijs, bestuurder Arbeidsvoorziening en de Centrale organisatie Werk en Inkomen

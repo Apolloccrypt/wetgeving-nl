@@ -9,7 +9,7 @@ laatste_update: 2015-07-09
 status: geldig
 toestand: 2015-07-09
 bron: "https://wetten.overheid.nl/BWBR0036794"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 30 juni 2015, kenmerk 779917-137789-Z, houdende aanwijzing van de Stichting Klachten en Geschillen Zorgverzekeringen als instantie tot gerechtelijke geschillenbeslechting in de zin van de Implementatiewet buitengerechtelijke geschillenbeslechting consumenten (Aanwijzingsbesluit geschilleninstantie Zorgverzekeringswet)

@@ -9,7 +9,7 @@ laatste_update: 2016-04-01
 status: geldig
 toestand: 2016-04-01
 bron: "https://wetten.overheid.nl/BWBR0037322"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Wet van 21 november 2015 tot wijziging van de Participatiewet in verband met de bescherming van lijfrenteopbouw en de vrijlating van inkomsten uit arbeid en wijziging van de Pensioenwet en de Wet verplichte beroepspensioenregeling in verband met de bevordering van vrijwillige voortzetting van pensioenopbouw (Wet vrijlating lijfrenteopbouw en inkomsten uit arbeid en bevordering vrijwillige voortzetting pensioenopbouw)

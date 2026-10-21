@@ -9,7 +9,7 @@ laatste_update: 2015-11-24
 status: geldig
 toestand: 2015-11-24
 bron: "https://wetten.overheid.nl/BWBR0037214"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Economische Zaken van 17 november 2015, nr. WJZ / 15147598, houdende regels voor het aanvragen van een verlenging van 2.100 MHz-vergunningen (Regeling aanvraag verlenging 2.100 MHz-vergunningen 2015)

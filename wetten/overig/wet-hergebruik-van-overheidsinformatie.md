@@ -9,7 +9,7 @@ laatste_update: 2025-11-21
 status: geldig
 toestand: 2025-11-21
 bron: "https://wetten.overheid.nl/BWBR0036795"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Wet van 24 juni 2015, houdende regels over het hergebruik van overheidsinformatie (Wet hergebruik van overheidsinformatie)

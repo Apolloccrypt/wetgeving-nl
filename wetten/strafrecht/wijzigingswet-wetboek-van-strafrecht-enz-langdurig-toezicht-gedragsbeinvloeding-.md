@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0037362"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Wet van 25 november 2015 tot wijziging van het Wetboek van Strafrecht en Wetboek van Strafvordering in verband met het laten vervallen van de maximale duur van de voorwaardelijke beëindiging van de verpleging van overheidswege, het verlengen van de proeftijden van de voorwaardelijke invrijheidsstelling en de invoering van een langdurige gedragsbeïnvloedende en vrijheidsbeperkende maatregel voor ter beschikking gestelden en zeden- en geweldsdelinquenten (langdurig toezicht, gedragsbeïnvloeding en vrijheidsbeperking)

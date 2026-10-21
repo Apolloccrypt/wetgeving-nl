@@ -9,7 +9,7 @@ laatste_update: 2015-07-20
 status: geldig
 toestand: 2015-07-20
 bron: "https://wetten.overheid.nl/BWBR0036857"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Wet van 8 juli 2015 tot wijziging van de Vreemdelingenwet 2000 ter implementatie van Richtlijn 2013/32/EU van het Europees Parlement en de Raad van 26 juni 2013 betreffende gemeenschappelijke procedures voor de toekenning en intrekking van de internationale bescherming (PbEU 2013, L 180) en Richtlijn 2013/33/EU van het Europees Parlement en de Raad van 26 juni 2013 tot vaststelling van normen voor de opvang van verzoekers om internationale bescherming (PbEU 2013, L 180)

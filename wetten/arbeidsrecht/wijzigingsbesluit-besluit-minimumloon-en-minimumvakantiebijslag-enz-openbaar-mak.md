@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0037385"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van 16 december 2015, houdende Aanpassing van het Besluit minimumloon en minimumvakantiebijslag, het Besluit uitvoering Wet arbeid vreemdelingen, het Arbeidsomstandighedenbesluit, het Arbeidstijdenbesluit en het Besluit allocatie arbeidskrachten door intermediairs in verband met het openbaar maken van inspectiegegevens

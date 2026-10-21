@@ -9,7 +9,7 @@ laatste_update: 2015-09-11
 status: geldig
 toestand: 2015-09-11
 bron: "https://wetten.overheid.nl/BWBR0036993"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit houdende het opheffen van de beperkingen, gesteld aan de openbaarheid van een aantal archieven van het voormalig Ministerie van Overzeese Rijksdelen en rechtsvoorgangers

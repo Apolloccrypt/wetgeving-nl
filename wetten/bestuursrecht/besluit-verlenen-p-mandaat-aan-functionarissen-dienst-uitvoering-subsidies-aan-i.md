@@ -9,7 +9,7 @@ laatste_update: 2015-09-25
 status: geldig
 toestand: 2015-09-25
 bron: "https://wetten.overheid.nl/BWBR0037019"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Secretaris-Generaal van Volksgezondheid, Welzijn en Sport van 24 augustus 2015, kenmerk 823000-140345-OBP, houdende het verlenen van P-mandaat aan functionarissen van de Dienst Uitvoering Subsidies aan Instellingen in oprichting

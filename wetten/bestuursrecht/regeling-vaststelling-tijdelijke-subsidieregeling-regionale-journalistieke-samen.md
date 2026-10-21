@@ -9,7 +9,7 @@ laatste_update: 2015-09-10
 status: geldig
 toestand: 2015-09-10
 bron: "https://wetten.overheid.nl/BWBR0036988"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van het Stimuleringsfonds voor de Journalistiek van 1 september 2015, nr.25253, tot vaststelling van een tijdelijke subsidieregeling regionale journalistieke samenwerking 2015–2017

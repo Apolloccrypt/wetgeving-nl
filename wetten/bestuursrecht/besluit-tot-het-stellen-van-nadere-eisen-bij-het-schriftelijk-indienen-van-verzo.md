@@ -9,7 +9,7 @@ laatste_update: 2015-10-29
 status: geldig
 toestand: 2015-10-29
 bron: "https://wetten.overheid.nl/BWBR0037122"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de directeur-generaal DUO van 13 oktober 2015, nr. 834092, tot het stellen van nadere eisen bij het schriftelijk indienen van verzoeken en gebruik van de elektronische weg bij verzoeken op grond van Wet openbaarheid van bestuur

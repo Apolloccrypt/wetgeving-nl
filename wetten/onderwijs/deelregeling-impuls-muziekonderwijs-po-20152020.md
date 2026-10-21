@@ -8,7 +8,7 @@ laatste_update: 2015-10-14
 status: geldig
 toestand: 2015-10-14
 bron: "https://wetten.overheid.nl/BWBR0037083"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Deelregeling Impuls muziekonderwijs PO 2015–2020

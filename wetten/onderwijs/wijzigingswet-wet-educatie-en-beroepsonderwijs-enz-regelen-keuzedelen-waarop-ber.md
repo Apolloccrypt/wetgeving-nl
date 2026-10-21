@@ -9,7 +9,7 @@ laatste_update: 2018-08-01
 status: geldig
 toestand: 2018-08-01
 bron: "https://wetten.overheid.nl/BWBR0037151"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Wet van 14 oktober 2015 tot wijziging van onder meer de Wet educatie en beroepsonderwijs in verband met het regelen van keuzedelen waarop beroepsopleidingen mede worden gebaseerd

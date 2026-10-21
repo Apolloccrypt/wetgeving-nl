@@ -9,7 +9,7 @@ laatste_update: 2015-10-28
 status: geldig
 toestand: 2015-10-28
 bron: "https://wetten.overheid.nl/BWBR0037115"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Minister voor Wonen en Rijksdienst van 15 oktober 2015, nr. 2015-0000609107, tot herbenoeming van leden van de Onafhankelijke adviescommissie praktijktoepassing brandveiligheidsvoorschriften

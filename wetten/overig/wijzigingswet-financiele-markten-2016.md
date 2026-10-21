@@ -9,7 +9,7 @@ laatste_update: 2019-07-10
 status: geldig
 toestand: 2019-07-10
 bron: "https://wetten.overheid.nl/BWBR0037229"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Wet van 29 oktober 2015 tot wijziging van de Wet op het financieel toezicht en enige andere wetten op het terrein van de financiële markten (Wijzigingswet financiële markten 2016)

@@ -9,7 +9,7 @@ laatste_update: 2015-12-18
 status: geldig
 toestand: 2015-12-18
 bron: "https://wetten.overheid.nl/BWBR0037372"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Minister van Veiligheid en Justitie van 9 december 2015, nr. 710127 houdende aanwijzing van de Stichting Geschillencommissies voor Consumentenzaken als instantie tot gerechtelijke geschillenbeslechting in de zin van de Implementatiewet buitengerechtelijke geschillenbeslechting consumenten (Aanwijzingsbesluit Stichting Geschillencommissies voor Consumentenzaken)

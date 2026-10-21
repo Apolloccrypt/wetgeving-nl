@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0036980"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 25 augustus 2015, 2015-0000236848, tot Regeling procesgang vangnetters gemeentelijke doelgroep Participatiewet

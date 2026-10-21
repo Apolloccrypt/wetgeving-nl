@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0037196"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van het bestuur van de Dienst voor het kadaster en de openbare registers, houdende vaststelling van de kadastrale tarieven (Tarievenregeling Kadaster)

@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0037275"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 24 november 2015, 2015-0000289457, tot wijziging van de Regeling Participatiewet, IOAW en IOAZ in verband met wijzigingen in het verdeelmodel en het vangnet

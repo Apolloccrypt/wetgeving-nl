@@ -8,7 +8,7 @@ laatste_update: 2024-07-24
 status: geldig
 toestand: 2024-07-24
 bron: "https://wetten.overheid.nl/BWBR0037110"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Beleidsregels bestuurlijke boetes vervoerswetgeving ACM

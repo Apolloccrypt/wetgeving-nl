@@ -8,7 +8,7 @@ laatste_update: 2015-12-31
 status: geldig
 toestand: 2015-12-31
 bron: "https://wetten.overheid.nl/BWBR0037451"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit vervanging archiefbescheiden RDW 2015

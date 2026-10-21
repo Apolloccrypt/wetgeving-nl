@@ -9,7 +9,7 @@ laatste_update: 2015-09-01
 status: geldig
 toestand: 2015-09-01
 bron: "https://wetten.overheid.nl/BWBR0036796"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Raad voor de Praktijkopleidingen houdende regels inzake ondermandaat en machtiging aan Stagebureau USG Finance Professionals (Besluit ondermandaat en machtiging Raad voor de Praktijkopleidingen aan Stagebureau USG Finance Professionals)

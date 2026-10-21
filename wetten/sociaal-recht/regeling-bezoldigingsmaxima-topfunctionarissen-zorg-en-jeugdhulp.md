@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0037257"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 26 november 2015, kenmerk 871639-144249-MEVA, houdende vaststelling van wijze waarop de bezoldigingsmaxima voor topfunctionarissen bij instellingen op het terrein van de zorg en de jeugdhulp worden vastgesteld (Regeling bezoldigingsmaxima topfunctionarissen zorg en jeugdhulp)

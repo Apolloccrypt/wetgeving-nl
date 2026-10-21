@@ -9,7 +9,7 @@ laatste_update: 2019-05-11
 status: geldig
 toestand: 2019-05-11
 bron: "https://wetten.overheid.nl/BWBR0036991"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 31 augustus 2015, nr. DSO/GA-213/15, tot vaststelling van een subsidieplafond voor toepassing van de beleidsregels SRGR Partnerschappen 2016-2020

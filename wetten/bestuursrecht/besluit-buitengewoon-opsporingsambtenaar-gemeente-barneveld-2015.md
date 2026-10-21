@@ -9,7 +9,7 @@ laatste_update: 2015-09-18
 status: geldig
 toestand: 2015-09-18
 bron: "https://wetten.overheid.nl/BWBR0037002"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 28 augustus 2015 nr. BOACAT2015/038, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Barneveld

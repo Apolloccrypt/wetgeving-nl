@@ -9,7 +9,7 @@ laatste_update: 2015-11-01
 status: geldig
 toestand: 2015-11-01
 bron: "https://wetten.overheid.nl/BWBR0036982"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 13 augustus 2015, nr. MT/2015/77, inzake de (routinematige) digitale vervanging van archiefbescheiden van de Rijksdienst voor het Cultureel Erfgoed

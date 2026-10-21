@@ -9,7 +9,7 @@ laatste_update: 2015-06-18
 status: geldig
 toestand: 2015-06-18
 bron: "https://wetten.overheid.nl/BWBR0036686"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 10 juni 2015, 762476-136223-MC, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake vervoer bij intensieve kindzorg

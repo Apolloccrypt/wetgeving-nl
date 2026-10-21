@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0037251"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 17 november 2015, kenmerk 870579-144154-III-LZ, houdende wijziging van de Tijdelijke subsidieregeling extramurale behandeling in verband met het wijzigen van het subsidiebedrag en de tarieven voor 2016

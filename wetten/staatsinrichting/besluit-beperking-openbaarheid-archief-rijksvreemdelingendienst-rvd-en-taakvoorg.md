@@ -8,7 +8,7 @@ laatste_update: 2015-08-20
 status: geldig
 toestand: 2015-08-20
 bron: "https://wetten.overheid.nl/BWBR0036942"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit beperking openbaarheid archief Rijksvreemdelingendienst (RVD) en taakvoorgangers over de periode 1918–1945

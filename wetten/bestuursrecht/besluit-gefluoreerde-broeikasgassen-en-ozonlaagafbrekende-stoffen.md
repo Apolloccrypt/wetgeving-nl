@@ -9,7 +9,7 @@ laatste_update: 2025-08-18
 status: geldig
 toestand: 2025-08-18
 bron: "https://wetten.overheid.nl/BWBR0037088"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van 30 september 2015, houdende vaststelling van nieuwe regels voor bepaalde gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen ter uitvoering van Verordening (EU) nr. 517/2014 van 16 april 2014 betreffende gefluoreerde broeikasgassen en een aantal daarmee verband houdende verordeningen en ter uitvoering van Verordening (EG) nr. 1005/2009 van 16 september 2009 betreffende ozonlaagafbrekende stoffen (Besluit gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen)

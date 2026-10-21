@@ -9,7 +9,7 @@ laatste_update: 2015-09-26
 status: geldig
 toestand: 2015-09-26
 bron: "https://wetten.overheid.nl/BWBR0037022"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 15 september 2015 nr. BOACAT2015/044, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij RET N.V. afdeling Veiligheid

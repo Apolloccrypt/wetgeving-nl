@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0036672"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Wet van 4 juni 2015 tot wijziging van de Wet op de vennootschapsbelasting 1969 en enige andere wetten in verband met de modernisering van de vennootschapsbelastingplicht voor overheidsondernemingen (Wet modernisering Vpb-plicht overheidsondernemingen)

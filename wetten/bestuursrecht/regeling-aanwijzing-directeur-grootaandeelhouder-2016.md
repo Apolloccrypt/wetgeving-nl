@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0036819"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 2 juli 2015, 2015-0000160660, tot Regeling aanwijzing directeur-grootaandeelhouder 2016

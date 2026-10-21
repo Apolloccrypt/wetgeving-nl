@@ -9,7 +9,7 @@ laatste_update: 2015-10-12
 status: geldig
 toestand: 2015-10-12
 bron: "https://wetten.overheid.nl/BWBR0036810"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 29 juni 2015, nr. BOACAT2015/025, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Hengelsport Federatie Midden Nederland

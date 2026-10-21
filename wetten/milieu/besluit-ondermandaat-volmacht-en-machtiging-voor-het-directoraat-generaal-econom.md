@@ -5,11 +5,12 @@ identifier: "BWBR0047150"
 categorie: "Milieu"
 soort: "ministeriele-regeling"
 publicatiedatum: 2022-09-15
-laatste_update: 2024-01-01
-status: geldig
-toestand: 2024-01-01
+laatste_update: 2025-08-01
+status: vervallen
+vervallen_op: 2026-10-15
+toestand: 2025-08-01
 bron: "https://wetten.overheid.nl/BWBR0047150"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de directeur-generaal Economie en Digitalisering van het Ministerie van Economische Zaken van 8 september 2022, nr. 22102386, houdende verlening van ondermandaat, volmacht en machtiging voor het directoraat-generaal Economie en Digitalisering van het Ministerie van Economische Zaken en Klimaat (Besluit ondermandaat, volmacht en machtiging voor het directoraat-generaal Economie en Digitalisering van het Ministerie van Economische Zaken en Klimaat 2022)

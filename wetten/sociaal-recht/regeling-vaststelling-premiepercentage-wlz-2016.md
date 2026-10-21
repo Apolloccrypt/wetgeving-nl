@@ -9,7 +9,7 @@ laatste_update: 2015-11-26
 status: geldig
 toestand: 2015-11-26
 bron: "https://wetten.overheid.nl/BWBR0037233"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 17 november 2015, kenmerk 867541-143735-Z, houdende vaststelling premiepercentage Wlz 2016

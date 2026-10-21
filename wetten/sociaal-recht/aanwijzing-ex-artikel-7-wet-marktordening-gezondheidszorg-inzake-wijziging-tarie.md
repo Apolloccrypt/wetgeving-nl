@@ -9,7 +9,7 @@ laatste_update: 2016-02-01
 status: geldig
 toestand: 2016-02-01
 bron: "https://wetten.overheid.nl/BWBR0037417"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn van 14 december 2015, kenmerk MC-U-876908-144681, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake wijziging van de tariefsoort abortushulpverlening aan niet Wlz-verzekerden

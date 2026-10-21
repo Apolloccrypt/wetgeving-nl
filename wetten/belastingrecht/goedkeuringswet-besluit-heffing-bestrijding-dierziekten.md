@@ -9,7 +9,7 @@ laatste_update: 2015-07-08
 status: geldig
 toestand: 2015-07-08
 bron: "https://wetten.overheid.nl/BWBR0036799"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Wet van 24 juni 2015, houdende goedkeuring van het Besluit heffing bestrijding dierziekten (Goedkeuringswet Besluit heffing bestrijding dierziekten)

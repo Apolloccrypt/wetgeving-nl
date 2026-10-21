@@ -9,7 +9,7 @@ laatste_update: 2015-07-09
 status: geldig
 toestand: 2015-07-09
 bron: "https://wetten.overheid.nl/BWBR0036803"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Minister van Economische Zaken van 26 juni 2015, nr. WJZ / 15058581, houdende regels inzake de verlening van mandaat, volmacht en machtiging aan Gedeputeerde Staten van de Provincie Noord-Brabant betreffende het verstrekken van subsidies ten laste van de Rijkscofinanciering op grond van de Regeling Europese EZ-subsidies (Besluit mandaat, volmacht en machtiging Gedeputeerde Staten van de Provincie Noord-Brabant inzake subsidieverstrekking Rijkscofinanciering Regeling Europese EZ-subsidies)

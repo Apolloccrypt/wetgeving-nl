@@ -9,7 +9,7 @@ laatste_update: 2015-09-21
 status: geldig
 toestand: 2015-09-21
 bron: "https://wetten.overheid.nl/BWBR0036919"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 30 juli 2015 nr. BOACAT2015/036, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij PWN Waterleidingbedrijf Noord-Holland N.V.

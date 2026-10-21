@@ -9,7 +9,7 @@ laatste_update: 2015-09-01
 status: geldig
 toestand: 2015-09-01
 bron: "https://wetten.overheid.nl/BWBR0036871"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 3 juli 2015, kenmerk 2015-0000355372, houdende de (her)benoeming van de leden van de Transitiecommissie Sociaal Domein

@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0037452"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Wet van 23 december 2015 tot wijziging van de Pensioenwet en enige andere wetten in verband met de invoering van een algemeen pensioenfonds (Wet algemeen pensioenfonds)

@@ -5,11 +5,11 @@ identifier: "BWBR0041794"
 categorie: "Milieu"
 soort: "ministeriele-regeling"
 publicatiedatum: 2019-01-01
-laatste_update: 2026-06-04
+laatste_update: 2026-10-16
 status: geldig
-toestand: 2026-06-04
+toestand: 2026-10-16
 bron: "https://wetten.overheid.nl/BWBR0041794"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 7 december 2018, nr. WJZ/18055953, houdende regels inzake de verlening van mandaat, volmacht en machtiging voor het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2019 (Besluit mandaat, volmacht en machtiging LNV 2019)
@@ -70,7 +70,7 @@ Het in dit besluit ten aanzien van de Minister bepaalde is van overeenkomstige t
 
 - a. beslissingen omtrent politieke beleidswijzigingen en omtrent de uitbreiding of beperking van de bemoeienissen van de minister;
 
-- b. het vaststellen van ministeriële regelingen en beleidsregels, met uitzondering van ministeriële regelingen als bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=4&z=2026-06-04&g=2026-06-04), [artikel 6, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=6&z=2026-06-04&g=2026-06-04), en beleidsregels als bedoeld in artikel 6, zevende lid, en [artikel 24, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=7&sub-paragraaf=7.2&artikel=24&z=2026-06-04&g=2026-06-04);
+- b. het vaststellen van ministeriële regelingen en beleidsregels, met uitzondering van ministeriële regelingen als bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=4&z=2026-10-16&g=2026-10-16), [artikel 6, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=6&z=2026-10-16&g=2026-10-16), en beleidsregels als bedoeld in artikel 6, zevende lid, en [artikel 24, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=7&sub-paragraaf=7.2&artikel=24&z=2026-10-16&g=2026-10-16);
 
 - c. delegatie van bevoegdheden;
 
@@ -330,7 +330,7 @@ Dit bericht is automatisch gegenereerd en bevat daarom geen handtekening.
 
 ##### Artikel 10
 
-1. De hoofden van dienst kunnen, ieder voor zich, voor hun werkterrein, voor aangelegenheden als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=6&z=2026-06-04&g=2026-06-04), ondermandaat, volmacht en machtiging verlenen aan hun plaatsvervangers, en wat het werkterrein van ondergeschikte organisatieonderdelen of functionarissen betreft, aan de hoofden van die onderdelen en aan die functionarissen en aan hun plaatsvervangers.
+1. De hoofden van dienst kunnen, ieder voor zich, voor hun werkterrein, voor aangelegenheden als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=6&z=2026-10-16&g=2026-10-16), ondermandaat, volmacht en machtiging verlenen aan hun plaatsvervangers, en wat het werkterrein van ondergeschikte organisatieonderdelen of functionarissen betreft, aan de hoofden van die onderdelen en aan die functionarissen en aan hun plaatsvervangers.
 
 2. Voor P&O-aangelegenheden geldt, in afwijking van het eerste lid, dat geen ondermandaat, volmacht en machtiging mag worden verleend voor de volgende aangelegenheden:
 
@@ -372,7 +372,7 @@ Dit bericht is automatisch gegenereerd en bevat daarom geen handtekening.
 
 1. Het verlenen van ondermandaat, volmacht en machtiging alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat.
 
-2. Een afschrift van besluiten inzake ondermandaat, volmacht en machtiging als bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=4&artikel=9&z=2026-06-04&g=2026-06-04) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=4&artikel=10&z=2026-06-04&g=2026-06-04) wordt gezonden aan de secretaris-generaal, de directeur Financieel-Economische Zaken, de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat, de directeur Informatievoorziening en de directeur Mens en Organisatie van het Ministerie van Economische Zaken en Klimaat en de Auditdienst Rijk.
+2. Een afschrift van besluiten inzake ondermandaat, volmacht en machtiging als bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=4&artikel=9&z=2026-10-16&g=2026-10-16) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=4&artikel=10&z=2026-10-16&g=2026-10-16) wordt gezonden aan de secretaris-generaal, de directeur Financieel-Economische Zaken, de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat, de directeur Informatievoorziening en de directeur Mens en Organisatie van het Ministerie van Economische Zaken en Klimaat en de Auditdienst Rijk.
 
 #### § 5. Vervanging
 

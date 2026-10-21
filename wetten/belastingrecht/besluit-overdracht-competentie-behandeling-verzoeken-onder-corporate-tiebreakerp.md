@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0037211"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Staatssecretaris van Financiën van 12 november 2015, IZV 2015/832, Overdracht competentie behandeling verzoeken onder ‘corporate tiebreakerprocedure’ van belastingverdragen

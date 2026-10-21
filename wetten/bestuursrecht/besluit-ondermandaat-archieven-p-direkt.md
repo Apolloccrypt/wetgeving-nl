@@ -9,7 +9,7 @@ laatste_update: 2015-07-16
 status: geldig
 toestand: 2015-07-16
 bron: "https://wetten.overheid.nl/BWBR0036842"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Secretaris-generaal van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties van 06-07-2015, nr. 2015-0000362715 houdende het verlenen van ondermandaat en machtiging aan de Chief Information Officer (CIO) van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, in verband met de uitvoering van het bepaalde in de Archiefwet en het Archiefbesluit met betrekking tot archiefbescheiden die door zorgdragers zijn ondergebracht bij de baten-lastendienst P-direkt (Besluit ondermandaat archieven P-direkt)

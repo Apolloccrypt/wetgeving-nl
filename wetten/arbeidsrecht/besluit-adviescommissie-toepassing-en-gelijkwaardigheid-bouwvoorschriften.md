@@ -9,7 +9,7 @@ laatste_update: 2025-04-02
 status: geldig
 toestand: 2025-04-02
 bron: "https://wetten.overheid.nl/BWBR0037131"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Minister voor Wonen en Rijksdienst van 15 oktober 2015, nummer 2015-0000436097, houdende instelling van de Adviescommissie toepassing en gelijkwaardigheid bouwvoorschriften

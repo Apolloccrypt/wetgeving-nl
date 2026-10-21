@@ -9,7 +9,7 @@ laatste_update: 2023-05-02
 status: geldig
 toestand: 2023-05-02
 bron: "https://wetten.overheid.nl/BWBR0036731"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 6 juni 2015, nr. MinBuZa-2015.278047, houdende beperkende maatregelen in verband met de situatie in Zuid-Sudan (Sanctieregeling Zuid-Sudan 2015)

@@ -9,7 +9,7 @@ laatste_update: 2015-07-15
 status: geldig
 toestand: 2015-07-15
 bron: "https://wetten.overheid.nl/BWBR0036827"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Onderlinge regeling als bedoeld in artikel 38, eerste lid, van het Statuut voor het Koninkrijk der Nederlanden regelende de samenwerking op het gebied van de implementatie van de Internationale Gezondheidsregeling tussen Nederland, Aruba, Curaçao en Sint Maarten

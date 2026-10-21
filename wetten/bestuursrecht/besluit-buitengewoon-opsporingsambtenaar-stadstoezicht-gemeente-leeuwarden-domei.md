@@ -9,7 +9,7 @@ laatste_update: 2016-04-14
 status: geldig
 toestand: 2016-04-14
 bron: "https://wetten.overheid.nl/BWBR0036906"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 22 juli 2015 nr. BOACAT2015/033, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de afdeling Stadstoezicht van de gemeente Leeuwarden

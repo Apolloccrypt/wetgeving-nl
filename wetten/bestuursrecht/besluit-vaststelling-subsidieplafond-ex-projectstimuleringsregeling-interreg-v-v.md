@@ -9,7 +9,7 @@ laatste_update: 2015-12-02
 status: geldig
 toestand: 2015-12-02
 bron: "https://wetten.overheid.nl/BWBR0037276"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Milieu, van 18 november 2015, nr. IENM/BSK-2015/225920.01, houdende vaststelling van het subsidieplafond op grond van de Projectstimuleringsregeling Interreg V voor het jaar 2016

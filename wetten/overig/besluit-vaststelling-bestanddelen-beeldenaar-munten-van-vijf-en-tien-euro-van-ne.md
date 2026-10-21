@@ -9,7 +9,7 @@ laatste_update: 2015-09-12
 status: geldig
 toestand: 2015-09-12
 bron: "https://wetten.overheid.nl/BWBR0036994"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van 25 augustus 2015, houdende vaststelling van de bestanddelen van de beeldenaar van de munten van vijf en tien euro «Van Nelle Fabriek» die in 2015 worden uitgegeven in de thematische serie Nederlands Werelderfgoed

@@ -8,7 +8,7 @@ laatste_update: 2015-09-25
 status: geldig
 toestand: 2015-09-25
 bron: "https://wetten.overheid.nl/BWBR0037025"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Statuten Stichting Nederlands Fonds voor de Film

@@ -9,7 +9,7 @@ laatste_update: 2022-06-25
 status: geldig
 toestand: 2022-06-25
 bron: "https://wetten.overheid.nl/BWBR0037381"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Nederlandsche Bank N.V. van 8 december 2015 ter uitvoering van artikel 26b van het Besluit prudentiële regels Wft (Regeling Oversight goede werking betalingsverkeer)

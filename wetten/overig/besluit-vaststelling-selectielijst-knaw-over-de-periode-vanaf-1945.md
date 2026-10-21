@@ -8,7 +8,7 @@ laatste_update: 2015-06-28
 status: geldig
 toestand: 2015-06-28
 bron: "https://wetten.overheid.nl/BWBR0036732"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Besluit vaststelling selectielijst KNAW over de periode vanaf 1945

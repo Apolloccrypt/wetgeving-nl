@@ -8,7 +8,7 @@ laatste_update: 2015-07-28
 status: geldig
 toestand: 2015-07-28
 bron: "https://wetten.overheid.nl/BWBR0036754"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Aanwijzing bezwaarschriften tegen aanslagen inkomstenbelasting als massaal bezwaar

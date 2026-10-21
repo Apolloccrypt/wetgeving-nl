@@ -9,7 +9,7 @@ laatste_update: 2015-06-20
 status: geldig
 toestand: 2015-06-20
 bron: "https://wetten.overheid.nl/BWBR0036685"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap, houdende beperking van de openbaarheid van het archief van de directie Financieel Economische Zaken van het Ministerie van Onderwijs, Cultuur en Wetenschap over de periode 1968–2008

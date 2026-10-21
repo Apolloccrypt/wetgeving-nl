@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0036995"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 1 september 2015, nr. 799948-139486-MEVA, houdende aanwijzing toezichthouders Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector Volksgezondheid, Welzijn en Sport (Besluit aanwijzing toezichthouders WNT Ministerie van Volksgezondheid, Welzijn en Sport)

@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0037389"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Bekendmaking van de Minister van Sociale Zaken en Werkgelegenheid van 10 december 2015, 2015-0000306894, tot wijzigingen van de AKW-bedragen per 1 januari 2016

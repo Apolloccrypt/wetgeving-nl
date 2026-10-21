@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0036678"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Wet van 4 juni 2015 tot wijziging van de Postwet 2009 tot modernisering en flexibilisering van de universele postdienstverlening (modernisering UPD)

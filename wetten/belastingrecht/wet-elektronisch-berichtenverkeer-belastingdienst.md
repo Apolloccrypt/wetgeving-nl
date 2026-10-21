@@ -9,7 +9,7 @@ laatste_update: 2024-06-08
 status: geldig
 toestand: 2024-06-08
 bron: "https://wetten.overheid.nl/BWBR0037120"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Wet van 14 oktober 2015 tot wijziging van de Algemene wet inzake rijksbelastingen en enige andere wetten in verband met een regeling voor het elektronische berichtenverkeer (Wet elektronisch berichtenverkeer belastingdienst)

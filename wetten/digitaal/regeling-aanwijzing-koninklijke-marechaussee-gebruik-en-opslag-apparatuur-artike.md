@@ -8,7 +8,7 @@ laatste_update: 2015-07-18
 status: geldig
 toestand: 2015-07-18
 bron: "https://wetten.overheid.nl/BWBR0036849"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Regeling aanwijzing Koninklijke marechaussee gebruik en opslag apparatuur artikel 3.22 Telecommunicatiewet

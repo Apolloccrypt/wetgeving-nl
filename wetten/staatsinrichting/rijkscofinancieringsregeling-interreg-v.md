@@ -9,7 +9,7 @@ laatste_update: 2017-02-01
 status: geldig
 toestand: 2017-02-01
 bron: "https://wetten.overheid.nl/BWBR0037018"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 17 september 2015, nr. IENM/BSK-2015/180512, houdende regels met betrekking tot subsidie ter cofinanciering van projectvoorstellen die vallen onder Interreg North West Europe of North Sea Region (Rijkscofinancieringsregeling Interreg V)

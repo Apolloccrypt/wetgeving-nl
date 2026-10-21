@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0037404"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Milieu, van 8 december 2015, nr. IENM/BSK-2015/227940, houdende benoeming van en toekenning van vergoedingen aan de voorzitter en de andere leden van de raad van toezicht van het Koninklijk Nederlands Meteorologisch Instituut (Benoemingsbesluit raad van toezicht KNMI)

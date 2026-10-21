@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0036892"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Besluit van 10 juli 2015 tot wijziging van het Besluit prudentiële regels Wft, het Besluit prudentieel toezicht financiële groepen Wft en enige andere besluiten op het terrein van de financiële markten ter implementatie van de richtlijn solvabiliteit II en de verordening solvabiliteit II (Implementatiebesluit richtlijn en verordening solvabiliteit II)

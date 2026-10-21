@@ -9,7 +9,7 @@ laatste_update: 2015-12-05
 status: geldig
 toestand: 2015-12-05
 bron: "https://wetten.overheid.nl/BWBR0037291"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 25 november 2015, kenmerk 839984-141498-Z, houdende bepalingen omtrent de in de Zorgverzekeringswet bedoelde vereveningsbijdrage voor het jaar 2016 (Regeling risicoverevening 2016)

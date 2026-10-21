@@ -9,7 +9,7 @@ laatste_update: 2015-08-01
 status: geldig
 toestand: 2015-08-01
 bron: "https://wetten.overheid.nl/BWBR0036912"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 13 april 2015 tot vaststelling van regels voor het documentair informatiemanagement van het Ministerie van Volksgezondheid, Welzijn en Sport (Regeling documentair informatiemanagement VWS 2015)

@@ -9,7 +9,7 @@ laatste_update: 2016-01-02
 status: geldig
 toestand: 2016-01-02
 bron: "https://wetten.overheid.nl/BWBR0037423"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 22 december 2015, nr. IENM/BSK-2015/229494, houdende wijziging van de Regeling aanwijzing consumenten- en theatervuurwerk in verband met het niet langer als consumentenvuurwerk aanduiden van minivuurpijlen en Romeinse kaarsen en aanpassing van de categorieaanduiding

@@ -9,7 +9,7 @@ laatste_update: 2015-07-31
 status: geldig
 toestand: 2015-07-31
 bron: "https://wetten.overheid.nl/BWBR0036900"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Beleidsregel van de Minister van Sociale Zaken en Werkgelegenheid, nr. 2015-0000174557, van 22 juli 2015, houdende vaststelling van een Beleidsregel inzake het handhaving- en sanctioneringskader van het Besluit risico’s zware ongevallen 2015 onderdeel arbeidsomstandighedenwetgeving (Beleidsregel handhaving- en sanctioneringkader Besluit risico’s zware ongevallen 2015 arbeidsomstandighedenwetgeving)

@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0037173"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Wet van 7 oktober 2015, houdende regels ter bevordering van de kwaliteit van zorg en de behandeling van klachten en geschillen in de zorg (Wet kwaliteit, klachten en geschillen zorg)

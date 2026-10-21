@@ -9,7 +9,7 @@ laatste_update: 2015-08-01
 status: geldig
 toestand: 2015-08-01
 bron: "https://wetten.overheid.nl/BWBR0036730"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 16 juni 2015, nr. 609500, houdende regels omtrent het dragen, het onderhoud en het in een inbraakwerende ruimte bewaren van wapens en munitie door ambtenaren van politie (Regeling beheer wapens en munitie politie 2015)

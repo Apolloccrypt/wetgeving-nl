@@ -9,7 +9,7 @@ laatste_update: 2015-09-03
 status: geldig
 toestand: 2015-09-03
 bron: "https://wetten.overheid.nl/BWBR0036784"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Besluit beleidsregel bekendmaken delen A en B van het Registration Report (vastgesteld in vergadering van het College voor de toelating van gewasbeschermingsmiddelen en biociden C-276 d.d. 22 april 2015)

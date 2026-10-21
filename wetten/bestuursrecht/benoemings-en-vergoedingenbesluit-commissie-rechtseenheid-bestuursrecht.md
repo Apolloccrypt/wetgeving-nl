@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0037421"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Minister van Veiligheid en Justitie en de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 17 december 2015, houdende benoeming van en vaststelling van de vergoeding voor de leden van de Commissie rechtseenheid bestuursrecht (Benoemings- en vergoedingenbesluit Commissie rechtseenheid bestuursrecht)

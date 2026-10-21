@@ -9,7 +9,7 @@ laatste_update: 2016-04-20
 status: geldig
 toestand: 2016-04-20
 bron: "https://wetten.overheid.nl/BWBR0037060"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Wet van 23 september 2015 tot wijziging van de Metrologiewet en de Waarborgwet 1986 houdende aanpassingen in het toezicht

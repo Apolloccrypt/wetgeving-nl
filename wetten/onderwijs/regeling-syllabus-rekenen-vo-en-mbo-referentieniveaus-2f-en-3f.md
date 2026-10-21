@@ -9,7 +9,7 @@ laatste_update: 2015-10-01
 status: geldig
 toestand: 2015-10-01
 bron: "https://wetten.overheid.nl/BWBR0036727"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Regeling van het College voor Toetsen en Examens van 8 mei 2015, nummer CvTE-15.01137, houdende vaststelling van de syllabus rekenen 2F en 3F voor de rekentoets VO en centrale examinering in het mbo (Regeling syllabus Rekenen VO en mbo referentieniveaus 2F en 3F)

@@ -9,7 +9,7 @@ laatste_update: 2015-10-01
 status: geldig
 toestand: 2015-10-01
 bron: "https://wetten.overheid.nl/BWBR0037035"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 3 september 2015, nr. 2015-0000044093, houdende regels voor de subsidiëring van de Stichting Parlementaire Geschiedenis (Subsidieregeling Parlementaire Geschiedenis 2015)

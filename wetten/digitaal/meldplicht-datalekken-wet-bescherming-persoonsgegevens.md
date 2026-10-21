@@ -8,7 +8,7 @@ laatste_update: 2015-12-16
 status: geldig
 toestand: 2015-12-16
 bron: "https://wetten.overheid.nl/BWBR0037346"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Meldplicht datalekken Wet bescherming persoonsgegevens

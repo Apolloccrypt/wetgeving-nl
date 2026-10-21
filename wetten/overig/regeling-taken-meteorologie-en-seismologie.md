@@ -9,7 +9,7 @@ laatste_update: 2026-05-20
 status: geldig
 toestand: 2026-05-20
 bron: "https://wetten.overheid.nl/BWBR0037394"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 8 december 2015, nr. IENM/BSK-2015/208759, houdende regels omtrent de overheidszorg op het gebied van meteorologie en seismologie (Regeling taken meteorologie en seismologie)

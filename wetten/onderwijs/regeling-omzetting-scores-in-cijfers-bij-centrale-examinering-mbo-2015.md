@@ -9,7 +9,7 @@ laatste_update: 2017-08-01
 status: geldig
 toestand: 2017-08-01
 bron: "https://wetten.overheid.nl/BWBR0036876"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Regeling van het College voor Toetsen en Examens van 15 juni 2015, nummer CvTE-15.01457, houdende vaststelling van regels voor de omzetting van scores in cijfers bij centrale examinering in het mbo (Regeling omzetting scores in cijfers bij centrale examinering mbo (2015))

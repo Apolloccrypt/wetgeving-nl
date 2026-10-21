@@ -9,7 +9,7 @@ laatste_update: 2015-07-03
 status: geldig
 toestand: 2015-07-03
 bron: "https://wetten.overheid.nl/BWBR0036781"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu van 29 juni 2015, nr. IenM/BSK-2015/2371 tot aanwijzing van het wegennet bedoeld in de Wet aanvullende regels veiligheid wegtunnels en de Wet beheer rijkswaterstaatswerken

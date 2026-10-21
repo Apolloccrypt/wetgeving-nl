@@ -9,7 +9,7 @@ laatste_update: 2015-10-16
 status: geldig
 toestand: 2015-10-16
 bron: "https://wetten.overheid.nl/BWBR0037090"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Minister van Veiligheid en Justitie van 12 oktober 2015, houdende bekendmaking van de taak waarmee de Staatssecretaris van Veiligheid en Justitie, de heer dr. K.H.D.M. Dijkhoff, in het bijzonder zal zijn belast

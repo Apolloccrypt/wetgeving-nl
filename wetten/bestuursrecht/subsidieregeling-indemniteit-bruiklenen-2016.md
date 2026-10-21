@@ -9,7 +9,7 @@ laatste_update: 2025-07-12
 status: geldig
 toestand: 2025-07-12
 bron: "https://wetten.overheid.nl/BWBR0037142"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 24 oktober 2015, nr. WJZ/787439 (10436), houdende vervanging van de Subsidieregeling indemniteit bruiklenen 2008 in verband met doelmatiger gebruik van het beschikbare garantieplafond ter verhoging van het aantal tentoonstellingen dat voor indemniteit in aanmerking kan komen (Subsidieregeling indemniteit bruiklenen 2016)

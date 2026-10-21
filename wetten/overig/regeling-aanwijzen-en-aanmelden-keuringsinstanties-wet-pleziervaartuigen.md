@@ -9,7 +9,7 @@ laatste_update: 2015-12-25
 status: geldig
 toestand: 2015-12-25
 bron: "https://wetten.overheid.nl/BWBR0037425"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu, van 18 december 2015, nr. IENM/BSK-2015/246341, houdende regels voor het kunnen aanwijzen en aanmelden van keuringsinstanties voor pleziervaartuigen (Regeling aanwijzen en aanmelden keuringsinstanties Wet pleziervaartuigen)

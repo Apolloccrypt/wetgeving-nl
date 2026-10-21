@@ -9,7 +9,7 @@ laatste_update: 2026-07-03
 status: geldig
 toestand: 2026-07-03
 bron: "https://wetten.overheid.nl/BWBR0036709"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister voor Wonen en Rijksdienst van 17 juni 2015, nr. 0000336120, houdende nieuwe nadere regels betreffende toegelaten instellingen volkshuisvesting ter uitvoering van hoofdstuk IV van de Woningwet en het Besluit toegelaten instellingen volkshuisvesting 2015 (Regeling toegelaten instellingen volkshuisvesting 2015)

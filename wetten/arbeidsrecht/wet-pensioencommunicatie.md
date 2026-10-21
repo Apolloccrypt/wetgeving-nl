@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0036645"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Wet van 20 mei 2015 tot wijziging van de Pensioenwet en de Wet verplichte beroepspensioenregeling in verband met verbetering van de pensioencommunicatie (Wet pensioencommunicatie)

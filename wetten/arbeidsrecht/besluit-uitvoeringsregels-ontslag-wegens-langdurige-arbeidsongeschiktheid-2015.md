@@ -8,7 +8,7 @@ laatste_update: 2023-04-01
 status: geldig
 toestand: 2023-04-01
 bron: "https://wetten.overheid.nl/BWBR0037222"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit uitvoeringsregels ontslag wegens langdurige arbeidsongeschiktheid 2015

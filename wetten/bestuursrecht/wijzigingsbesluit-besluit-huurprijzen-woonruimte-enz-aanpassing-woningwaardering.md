@@ -9,7 +9,7 @@ laatste_update: 2015-10-01
 status: geldig
 toestand: 2015-10-01
 bron: "https://wetten.overheid.nl/BWBR0036829"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Besluit van 8 juli 2015 tot wijziging van het Besluit huurprijzen woonruimte (aanpassing woningwaarderingsstelsel in verband met de introductie van de waarde op grond van de Wet waardering onroerende zaken)

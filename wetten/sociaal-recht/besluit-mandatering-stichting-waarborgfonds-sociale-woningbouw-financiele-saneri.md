@@ -9,7 +9,7 @@ laatste_update: 2025-02-28
 status: geldig
 toestand: 2025-02-28
 bron: "https://wetten.overheid.nl/BWBR0036753"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Minister voor Wonen en Rijksdienst van 29 juni 2015, nr. 2015000035533 tot het verlenen van mandaat, volmacht en machtiging aan de Stichting Waarborgfonds Sociale Woningbouw inzake het nemen van besluiten ter bevordering van de financiële sanering van toegelaten instellingen (Besluit mandatering Stichting Waarborgfonds Sociale Woningbouw financiële sanering toegelaten instellingen)

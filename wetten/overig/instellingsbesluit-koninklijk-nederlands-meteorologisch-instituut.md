@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0037409"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Milieu, van 8 december 2015, nr. IENM/BSK-2015/229436, tot het instellen van het Koninklijk Nederlands Meteorologisch Instituut (Instellingsbesluit Koninklijk Nederlands Meteorologisch Instituut)

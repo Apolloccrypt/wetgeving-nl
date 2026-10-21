@@ -9,7 +9,7 @@ laatste_update: 2023-12-09
 status: geldig
 toestand: 2023-12-09
 bron: "https://wetten.overheid.nl/BWBR0037458"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 14 december 2015, 2015-0000305829, houdendede inrichting van de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI, alsmede doorverlening van vertegenwoordigingsbevoegdheden van het hoofd van de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI (Organisatie-, mandaat- en volmachtbesluit afdeling BSB-SZI 2015)

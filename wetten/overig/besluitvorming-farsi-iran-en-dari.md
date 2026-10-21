@@ -8,7 +8,7 @@ laatste_update: 2015-10-31
 status: geldig
 toestand: 2015-10-31
 bron: "https://wetten.overheid.nl/BWBR0037133"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluitvorming Farsi (Iran) en Dari

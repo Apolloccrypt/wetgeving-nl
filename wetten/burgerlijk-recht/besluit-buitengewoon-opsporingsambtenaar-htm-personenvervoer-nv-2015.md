@@ -9,7 +9,7 @@ laatste_update: 2015-06-26
 status: geldig
 toestand: 2015-06-26
 bron: "https://wetten.overheid.nl/BWBR0036720"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 15 juni 2015, nr. BOACAT2015/020, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij HTM Personenvervoer N.V.

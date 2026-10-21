@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0037070"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Wet van 23 september 2015 tot wijziging van de Wet personenvervoer 2000 in verband met de invoering van delegatiebepalingen voor de regulering van het systeem van vervoersbewijzen, betaalwijzen en betaaldienstverlening in het openbaar vervoer

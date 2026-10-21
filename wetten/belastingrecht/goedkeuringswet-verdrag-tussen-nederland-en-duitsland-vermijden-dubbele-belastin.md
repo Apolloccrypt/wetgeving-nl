@@ -9,7 +9,7 @@ laatste_update: 2015-06-05
 status: geldig
 toestand: 2015-06-05
 bron: "https://wetten.overheid.nl/BWBR0036666"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Wet van 20 mei 2015 tot goedkeuring van het op 12 april 2012 te Berlijn tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen (Trb. 2012, 123)

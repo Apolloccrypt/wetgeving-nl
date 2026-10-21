@@ -8,7 +8,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0037027"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Verordening op de kennistoets

@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0036726"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 1 juli 2015 houdende de aanwijzing van de leden van de korpsleiding alsmede de leden van de leiding van de landelijke en de regionale eenheden (Regeling aanwijzing leden korpsleiding en leiding landelijke en regionale eenheden)

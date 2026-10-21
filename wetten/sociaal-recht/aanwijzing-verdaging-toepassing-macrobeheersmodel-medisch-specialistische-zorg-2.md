@@ -9,7 +9,7 @@ laatste_update: 2015-09-01
 status: geldig
 toestand: 2015-09-01
 bron: "https://wetten.overheid.nl/BWBR0036816"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 29 juni 2015, kenmerk 779862-137775-MC, houdende verdaging toepassing macrobeheersmodel medisch specialistische zorg 2014

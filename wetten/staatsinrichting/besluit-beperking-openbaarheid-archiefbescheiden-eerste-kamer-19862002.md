@@ -9,7 +9,7 @@ laatste_update: 2015-11-14
 status: geldig
 toestand: 2015-11-14
 bron: "https://wetten.overheid.nl/BWBR0037178"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit tot het stellen van een beperking aan de openbaarheid van archiefbescheiden van de Eerste Kamer over het tijdvak 1986–2002

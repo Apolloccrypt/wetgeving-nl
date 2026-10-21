@@ -9,7 +9,7 @@ laatste_update: 2018-08-01
 status: geldig
 toestand: 2018-08-01
 bron: "https://wetten.overheid.nl/BWBR0036864"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 9 juli 2015, houdende regels voor medisch-wetenschappelijk onderzoek met mensen (Regeling medisch-wetenschappelijk onderzoek met mensen)

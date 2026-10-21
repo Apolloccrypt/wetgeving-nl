@@ -9,7 +9,7 @@ laatste_update: 2015-06-05
 status: geldig
 toestand: 2015-06-05
 bron: "https://wetten.overheid.nl/BWBR0036656"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 27 mei 2015, kenmerk 770094-136774-GMT, houdende erkenning van de universitaire opleiding scheikunde in combinatie met enkele specifieke opleidingen als gelijkwaardig aan de universitaire opleiding geneeskunde of biologie, in verband met de benoeming van een persoon als bedoeld in artikel 3, tweede lid van de Regeling voorschriften bloedvoorziening

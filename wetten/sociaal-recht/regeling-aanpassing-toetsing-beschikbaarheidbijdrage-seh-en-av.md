@@ -9,7 +9,7 @@ laatste_update: 2015-06-23
 status: geldig
 toestand: 2015-06-23
 bron: "https://wetten.overheid.nl/BWBR0036716"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 16 juni 2015, kenmerk 776212-137548-MC, houdende aanpassing toetsing beschikbaarheidbijdrage SEH en AV

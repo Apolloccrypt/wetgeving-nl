@@ -9,7 +9,7 @@ laatste_update: 2015-12-11
 status: geldig
 toestand: 2015-12-11
 bron: "https://wetten.overheid.nl/BWBR0037297"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 1 december 2015, kenmerk 864858-143553-PG, houdende Regeling financieel Beheer ZorgOnderzoek Nederland

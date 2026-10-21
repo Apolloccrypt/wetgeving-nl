@@ -8,7 +8,7 @@ laatste_update: 2024-10-17
 status: geldig
 toestand: 2024-10-17
 bron: "https://wetten.overheid.nl/BWBR0036773"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Deelregeling composities en libretto's Fonds Podiumkunsten

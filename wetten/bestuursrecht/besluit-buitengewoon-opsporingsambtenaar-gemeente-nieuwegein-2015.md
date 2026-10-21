@@ -9,7 +9,7 @@ laatste_update: 2015-09-15
 status: geldig
 toestand: 2015-09-15
 bron: "https://wetten.overheid.nl/BWBR0037003"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 3 september 2015, nr. BOACAT2015/40, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Nieuwegein in het domein Openbare Ruimte

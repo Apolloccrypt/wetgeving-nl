@@ -9,7 +9,7 @@ laatste_update: 2015-06-23
 status: geldig
 toestand: 2015-06-23
 bron: "https://wetten.overheid.nl/BWBR0036697"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 1 juni 2015, nr. 709474, houdende wijziging van de Regeling jaarverslaggeving onderwijs BES in verband met het uitbreiden van de reikwijdte van de regeling tot de Expertisecentra Onderwijszorg in Caribisch Nederland, de introductie van een continuïteitsparagraaf, alsmede enige andere wijzigingen

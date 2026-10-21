@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0037159"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Economische Zaken van 2 november 2015, nr. WJZ/15147884, tot vaststelling van de correcties voor de voorschotverlening duurzame energieproductie 2016 (Regeling vaststelling correcties voorschotverlening duurzame energieproductie 2016)

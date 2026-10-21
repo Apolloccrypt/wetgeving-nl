@@ -9,7 +9,7 @@ laatste_update: 2015-12-05
 status: geldig
 toestand: 2015-12-05
 bron: "https://wetten.overheid.nl/BWBR0037284"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Minister van Infrastructuur en Milieu, van 24 november 2015, nr. IENM/ILT-2014/63918 houdende aanwijzing van inspecteurs ILT in het kader van de artikelen 121c en 121e van de Provinciewet en artikel 124e Gemeentewet en daarmee samenhangende wijziging van het Instellingsbesluit ILT (Besluit aanwijzing ILT inspecteurs interbestuurlijk toezicht)

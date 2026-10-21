@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0037393"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 8 december 2015, houdende de vaststelling van de vergoedingen voor de leden van de politieonderwijsraad (Vergoedingenregeling leden politieonderwijsraad)

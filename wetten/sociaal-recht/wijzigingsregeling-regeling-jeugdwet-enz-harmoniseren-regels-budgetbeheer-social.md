@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0037386"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 11 december 2015, kenmerk 868952-144025-WJZ, houdende een wijziging van de Regeling Jeugdwet, de Regeling langdurige zorg en de Uitvoeringsregeling Wmo 2015 in verband met het harmoniseren van regels inzake het budgetbeheer van de Sociale verzekeringsbank

@@ -9,7 +9,7 @@ laatste_update: 2015-11-26
 status: geldig
 toestand: 2015-11-26
 bron: "https://wetten.overheid.nl/BWBR0037232"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Aanwijzing Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 17 november 2015, kenmerk Z-840692-141563, houdende tweede nadere aanwijzing van de besteedbare middelen ter dekking van de beheerskosten AWBZ 2014 (Tweede nadere aanwijzing besteedbare middelen beheerskosten AWBZ 2014)

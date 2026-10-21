@@ -9,7 +9,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBR0036965"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Beleidsregel van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 20 augustus 2015, nr. VO/794653, houdende nadere regels voor het aanbieden van versneld vwo en/of verrijkt vwo voor talentvolle leerlingen in het voortgezet onderwijs (Beleidsregel versneld vwo en/of verrijkt vwo)

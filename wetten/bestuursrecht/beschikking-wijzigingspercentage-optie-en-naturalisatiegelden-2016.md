@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0036918"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Beschikking wijzigingspercentage optie- en naturalisatiegelden 2016 van 28 juli 2015, nummer 2015/1

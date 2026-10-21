@@ -9,7 +9,7 @@ laatste_update: 2015-08-01
 status: geldig
 toestand: 2015-08-01
 bron: "https://wetten.overheid.nl/BWBR0036772"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Regeling van het College voor Toetsen en Examens van 15 juni 2015, nummer CvTE-15.01454, houdende vaststelling van regels voor digitale centrale examinering in het mbo (Regeling digitale centrale examinering mbo (2015))

@@ -8,7 +8,7 @@ laatste_update: 2015-08-23
 status: geldig
 toestand: 2015-08-23
 bron: "https://wetten.overheid.nl/BWBR0036954"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit vaststelling selectielijst Centraal Fonds Volkshuisvesting (periode vanaf 1988)

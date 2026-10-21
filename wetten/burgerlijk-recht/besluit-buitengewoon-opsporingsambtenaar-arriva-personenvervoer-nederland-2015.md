@@ -9,7 +9,7 @@ laatste_update: 2016-04-30
 status: geldig
 toestand: 2016-04-30
 bron: "https://wetten.overheid.nl/BWBR0037327"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 9 december 2015 nr. BOACAT2015/072, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Arriva Personenvervoer Nederland

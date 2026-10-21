@@ -9,7 +9,7 @@ laatste_update: 2015-09-16
 status: geldig
 toestand: 2015-09-16
 bron: "https://wetten.overheid.nl/BWBR0037006"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 10 september 2015, nummer 677862, houdende verlening aan het Centraal Orgaan opvang asielzoekers van de bevoegdheid om bepaalde categorieën vreemdelingen uit te sluiten van verstrekkingen op grond van de Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005

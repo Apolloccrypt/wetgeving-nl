@@ -9,7 +9,7 @@ laatste_update: 2026-06-04
 status: geldig
 toestand: 2026-06-04
 bron: "https://wetten.overheid.nl/BWBR0037162"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Wet van 14 oktober 2015, houdende regels ten aanzien van de bestrijding van maritieme ongevallen, met inbegrip van wijziging van Boek 8 van het Burgerlijk Wetboek en enige andere wetten, ter uitvoering van het op 18 mei 2007 tot stand gekomen Verdrag van Nairobi inzake het opruimen van wrakken (Wet bestrijding maritieme ongevallen)

@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0037161"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Wet van 30 september 2015 tot wijziging van het Wetboek van Burgerlijke Rechtsvordering teneinde de werking van de inschrijving van de koop van een registergoed in de openbare registers te verbeteren

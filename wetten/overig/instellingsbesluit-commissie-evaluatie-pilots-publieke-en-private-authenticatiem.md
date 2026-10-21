@@ -9,7 +9,7 @@ laatste_update: 2016-02-14
 status: geldig
 toestand: 2016-02-14
 bron: "https://wetten.overheid.nl/BWBR0037443"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties houdende instelling van een commissie voor de begeleiding van het evaluatieonderzoek inzake de pilots met publieke en private authenticatiemiddelen (Instellingsbesluit commissie evaluatie pilots publieke en private authenticatiemiddelen)

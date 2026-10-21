@@ -9,7 +9,7 @@ laatste_update: 2015-09-01
 status: geldig
 toestand: 2015-09-01
 bron: "https://wetten.overheid.nl/BWBR0036865"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 9 juli 2015, kenmerk 776202-137545-MC, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake de bekostiging van verpleging en verzorging

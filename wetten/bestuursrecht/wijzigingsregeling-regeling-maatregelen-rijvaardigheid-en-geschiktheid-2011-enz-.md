@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0037057"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu, van 11 september, nr. IENM/BSK-2015/148123, tot wijziging van de Regeling maatregelen rijvaardigheid en geschiktheid 2011 in verband met diverse aanpassingen, alsmede de aanpassing van enkele regelingen ten gevolge van de omvorming van de Stichting Centraal Bureau Rijvaardigheidsbewijzen naar publiekrechtelijk zelfstandig bestuursorgaan

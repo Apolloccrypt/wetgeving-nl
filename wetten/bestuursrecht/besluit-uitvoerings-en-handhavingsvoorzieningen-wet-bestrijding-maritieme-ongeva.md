@@ -9,7 +9,7 @@ laatste_update: 2019-07-01
 status: geldig
 toestand: 2019-07-01
 bron: "https://wetten.overheid.nl/BWBR0037411"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Minister van Infrastructuur en Milieu, van 14 december 2015, nr. IENM/BSK-2015/190307 houdende vaststelling van een organisatie- en coördinatieplan, aanwijzing van instanties, alsmede het verlenen van diverse mandaten en machtigingen ten behoeve van de uitvoering van de Wet bestrijding maritieme ongevallen (Besluit uitvoerings- en handhavingsvoorzieningen Wet bestrijding maritieme ongevallen)

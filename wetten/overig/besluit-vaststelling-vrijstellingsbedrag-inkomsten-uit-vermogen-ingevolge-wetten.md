@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0037246"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 17 november 2015, kenmerk 870012-144118-WJZ, houdende vaststelling van het vrijstellingsbedrag inkomsten uit vermogen ingevolge de wetten voor verzetsdeelnemers en oorlogsgetroffenen per 1 januari 2016

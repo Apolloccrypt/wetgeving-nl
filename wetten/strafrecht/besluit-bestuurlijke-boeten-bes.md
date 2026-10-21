@@ -8,7 +8,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0037210"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit bestuurlijke boeten BES

@@ -8,7 +8,7 @@ laatste_update: 2015-11-03
 status: geldig
 toestand: 2015-11-03
 bron: "https://wetten.overheid.nl/BWBR0037152"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit tot verlenen van volmacht t.b.v. Plaatsvervangend Commandant der Strijdkrachten

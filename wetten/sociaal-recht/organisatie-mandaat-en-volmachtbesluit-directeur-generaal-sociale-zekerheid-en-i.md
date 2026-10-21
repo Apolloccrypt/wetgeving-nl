@@ -9,7 +9,7 @@ laatste_update: 2026-05-16
 status: geldig
 toestand: 2026-05-16
 bron: "https://wetten.overheid.nl/BWBR0037432"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 14 december 2015, 2015-0000304798, houdende toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan onder de directeur-generaal Sociale Zekerheid en Integratie ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit directeur-generaal Sociale Zekerheid en Integratie 2015)

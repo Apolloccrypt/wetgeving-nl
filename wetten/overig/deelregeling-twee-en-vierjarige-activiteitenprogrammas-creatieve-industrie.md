@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0037294"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van het bestuur van de Stichting Stimuleringsfonds Creatieve Industrie tot vaststelling van een deelregeling, houdende regels voor het verstrekken van subsidie voor meerjarige activiteitenprogramma’s ter bevordering van de kwaliteit van creatieve industrie (Deelregeling twee- en vierjarige Activiteitenprogramma’s Creatieve Industrie)

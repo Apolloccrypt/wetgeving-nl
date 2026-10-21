@@ -8,7 +8,7 @@ laatste_update: 2015-12-24
 status: geldig
 toestand: 2015-12-24
 bron: "https://wetten.overheid.nl/BWBR0037416"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Beleidsregel Belastingverdragen Duitsland

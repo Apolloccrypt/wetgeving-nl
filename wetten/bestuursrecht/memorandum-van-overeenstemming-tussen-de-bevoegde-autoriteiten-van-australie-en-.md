@@ -8,7 +8,7 @@ laatste_update: 2015-08-29
 status: geldig
 toestand: 2015-08-29
 bron: "https://wetten.overheid.nl/BWBR0037038"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Memorandum van Overeenstemming tussen de bevoegde autoriteiten van Australië en Nederland inzake automatische uitwisseling van fiscale inlichtingen

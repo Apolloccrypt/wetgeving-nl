@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-10-14
 toestand: 2021-07-01
 bron: "https://wetten.overheid.nl/BWBR0045300"
-opgehaald: 2026-10-20
+opgehaald: 2026-10-21
 ---
 
 # Boetetoemetingsbeleid AFM 2021

@@ -9,7 +9,7 @@ laatste_update: 2021-09-09
 status: geldig
 toestand: 2021-09-09
 bron: "https://wetten.overheid.nl/BWBR0037216"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 12 november 2015, nr. MinBuza-2015.631272, houdende invoering van een vergunningplicht voor uitvoer van en het verlenen van tussenhandeldiensten voor goederen voor tweeërlei gebruik die als bestemming of eindbestemming hebben Irak en die niet zijn genoemd in bijlage I van verordening 428/2009 (Regeling goederen voor tweeërlei gebruik Irak)

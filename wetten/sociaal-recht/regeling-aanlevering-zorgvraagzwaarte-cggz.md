@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0037208"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 10 november 2015, kenmerk 865607-143589-MC, houdende wijziging van de Regeling zorgverzekering in verband met het aanleveren van de zorgvraagzwaarteindicator aan zorgverzekeraars (Regeling aanlevering zorgvraagzwaarte cGGZ)

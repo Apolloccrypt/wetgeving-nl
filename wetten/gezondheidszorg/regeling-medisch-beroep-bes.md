@@ -9,7 +9,7 @@ laatste_update: 2025-07-11
 status: geldig
 toestand: 2025-07-11
 bron: "https://wetten.overheid.nl/BWBR0037311"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 1 december 2015, kenmerk 849713-142849-MEVA, houdende uitvoeringsregels voor medische beroepsbeoefenaren BES (Regeling medisch beroep BES)

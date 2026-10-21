@@ -9,7 +9,7 @@ laatste_update: 2020-06-11
 status: geldig
 toestand: 2020-06-11
 bron: "https://wetten.overheid.nl/BWBR0036755"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de inspecteur-generaal Leefomgeving en Transport, van 25 juni 2015, nr. ILT- 2015/46345, houdende verlening van ondermandaat, volmacht en machtiging Autoriteit woningcorporaties (Besluit ondermandaat Autoriteit woningcorporaties)

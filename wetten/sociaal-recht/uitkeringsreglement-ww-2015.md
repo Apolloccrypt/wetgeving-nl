@@ -8,7 +8,7 @@ laatste_update: 2022-10-01
 status: geldig
 toestand: 2022-10-01
 bron: "https://wetten.overheid.nl/BWBR0036710"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Uitkeringsreglement WW 2015

@@ -9,7 +9,7 @@ laatste_update: 2015-11-13
 status: geldig
 toestand: 2015-11-13
 bron: "https://wetten.overheid.nl/BWBR0037174"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Minister van Financiën van 6 november 2015, directie Financieringen, betreffende het verlenen van een machtiging aan de stichting administratiekantoor beheer financiële instellingen (Besluit machtiging NLFI in verband met overdracht aandelen ABN AMRO Group N.V. aan Stichting Administratiekantoor Continuïteit ABN AMRO Group N.V.)

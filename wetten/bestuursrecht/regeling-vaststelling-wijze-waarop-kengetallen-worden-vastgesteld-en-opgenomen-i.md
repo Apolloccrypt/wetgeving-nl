@@ -9,7 +9,7 @@ laatste_update: 2019-04-01
 status: geldig
 toestand: 2019-04-01
 bron: "https://wetten.overheid.nl/BWBR0036853"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 9 juli 2015, nr. 2015-0000387198, tot vaststelling van de wijze waarop kengetallen worden vastgesteld en opgenomen in de begroting en het jaarverslag van provincies en gemeenten

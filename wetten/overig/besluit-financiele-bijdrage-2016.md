@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0037390"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van het college van afgevaardigden van 2 december 2015 tot vaststelling van de hoogte van de financiële bijdrage (Besluit financiële bijdrage 2016)

@@ -8,7 +8,7 @@ laatste_update: 2015-07-16
 status: geldig
 toestand: 2015-07-16
 bron: "https://wetten.overheid.nl/BWBR0036839"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Belastingwet BES; Besluit algemene bestedingsbelasting, vrijstelling bij invoer van drinkwater en kookgas

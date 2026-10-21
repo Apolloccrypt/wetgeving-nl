@@ -9,7 +9,7 @@ laatste_update: 2016-01-07
 status: geldig
 toestand: 2016-01-07
 bron: "https://wetten.overheid.nl/BWBR0037329"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 3 december 2015 nr. BOACAT2015/069, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Landschap Overijssel, domein II

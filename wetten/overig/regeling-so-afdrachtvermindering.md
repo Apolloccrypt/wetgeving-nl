@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0037440"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Economische Zaken van 22 oktober 2015, nr. WJZ/15116106, houdende voorschriften betreffende de S&O-afdrachtvermindering (Regeling S&O-afdrachtvermindering)

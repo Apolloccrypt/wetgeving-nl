@@ -9,7 +9,7 @@ laatste_update: 2015-12-10
 status: geldig
 toestand: 2015-12-10
 bron: "https://wetten.overheid.nl/BWBR0037206"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 11 november 2015 nr. BOACAT2015/060, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Utrecht

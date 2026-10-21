@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0037252"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 20 november 2015, kenmerk 865199-143565-WJZ, houdende vaststelling per 1 januari 2016 van bedragen krachtens het Besluit langdurige zorg, het Uitvoeringsbesluit Wmo 2015 en ten behoeve van het overgangsrecht voor beschermd wonen onder de Wet maatschappelijke ondersteuning 2015

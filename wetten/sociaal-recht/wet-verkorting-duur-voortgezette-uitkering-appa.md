@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0036870"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Wet van 8 juli 2015 tot wijziging van de Algemene pensioenwet politieke ambtsdragers in verband met een verkorting van de duur van de voortgezette uitkering (Wet verkorting duur voortgezette uitkering Appa)

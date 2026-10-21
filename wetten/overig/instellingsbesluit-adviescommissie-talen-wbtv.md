@@ -9,7 +9,7 @@ laatste_update: 2015-08-20
 status: geldig
 toestand: 2015-08-20
 bron: "https://wetten.overheid.nl/BWBR0036939"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Raad voor Rechtsbijstand van 6 augustus 2015, houdende de instelling van de Adviescommissie Talen Wbtv

@@ -9,7 +9,7 @@ laatste_update: 2015-12-09
 status: geldig
 toestand: 2015-12-09
 bron: "https://wetten.overheid.nl/BWBR0037271"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Minister van Financiën van 1 december 2015, 2015-0000019207, directie Financiële Markten, houdende regels betreffende de vaststelling van de maximale afwikkelingsvergoeding voor betalingsdienstaanbieders voor binnenlandse debetkaarttransacties van consumenten (Besluit maximale afwikkelingsvergoedingen binnenlandse debetkaarttransacties)

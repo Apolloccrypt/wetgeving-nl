@@ -9,7 +9,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBR0037402"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 14 december 2015, nr. 765423 houdende de wijze waarop de bevoegdheid tot het ontnemen van rechten ten aanzien van een beroepsopleiding wordt uitgeoefend indien niet of niet meer wordt voldaan aan de zorgenplichten, omschreven in artikel 6.1.3 van de Wet educatie en beroepsonderwijs

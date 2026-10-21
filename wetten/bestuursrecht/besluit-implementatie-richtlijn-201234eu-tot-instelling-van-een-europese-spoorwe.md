@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0037315"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van 21 november 2015, houdende regels met betrekking tot de vergoeding minimumtoegangspakket en de toegang tot dienstvoorzieningen en de levering van diensten op het gebied van spoor en houdende wijziging van enkele algemene maatregelen van bestuur ter implementatie van richtlijn 2012/34/EU van het Europees Parlement en de Raad van 21 november 2012 tot instelling van één Europese spoorwegruimte (PbEU 2012, L 343/32) (Besluit implementatie richtlijn 2012/34/EU tot instelling van één Europese spoorwegruimte)

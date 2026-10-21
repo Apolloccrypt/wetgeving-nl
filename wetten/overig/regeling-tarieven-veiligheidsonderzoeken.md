@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0036736"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken van 17 juni 2015, 2015-0000341400, houdende de vaststelling van tarieven voor veiligheidsonderzoeken als bedoeld in artikel 9a van de Wet veiligheidsonderzoeken (Regeling tarieven veiligheidsonderzoeken)

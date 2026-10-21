@@ -9,7 +9,7 @@ laatste_update: 2015-11-01
 status: geldig
 toestand: 2015-11-01
 bron: "https://wetten.overheid.nl/BWBR0037079"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Wet van 30 september 2015 tot wijziging van Boek 2 van het Burgerlijk Wetboek ter uitvoering van Richtlijn 2013/34/EU van het Europees Parlement en de Raad van 26 juni 2013 betreffende de jaarlijkse financiële overzichten, geconsolideerde financiële overzichten en aanverwante verslagen van bepaalde ondernemingsvormen, tot wijziging van richtlijn 2006/43/EG van het Europees Parlement en de Raad en tot intrekking van richtlijnen 78/660/EEG en 83/349/EEG van de Raad (PbEU 2013, L 182) (Uitvoeringswet richtlijn jaarrekening)

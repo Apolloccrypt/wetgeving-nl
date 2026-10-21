@@ -9,7 +9,7 @@ laatste_update: 2015-10-01
 status: geldig
 toestand: 2015-10-01
 bron: "https://wetten.overheid.nl/BWBR0037040"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Staatssecretaris van Veiligheid en Justitie van 25 september 2015 houdende regels over de taak, de samenstelling en de werkwijze van de adviescommissie individuele trajectafdelingen (Regeling adviescommissie individuele trajectafdelingen)

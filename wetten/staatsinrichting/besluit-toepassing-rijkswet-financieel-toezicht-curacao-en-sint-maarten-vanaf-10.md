@@ -9,7 +9,7 @@ laatste_update: 2015-12-01
 status: geldig
 toestand: 2015-12-01
 bron: "https://wetten.overheid.nl/BWBR0037145"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 8 oktober 2015, houdende de toepassing van de Rijkswet financieel toezicht Curaçao en Sint Maarten vanaf 10 oktober 2015

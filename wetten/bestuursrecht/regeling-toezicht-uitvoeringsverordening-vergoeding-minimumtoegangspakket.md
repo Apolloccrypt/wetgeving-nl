@@ -9,7 +9,7 @@ laatste_update: 2015-12-15
 status: geldig
 toestand: 2015-12-15
 bron: "https://wetten.overheid.nl/BWBR0037323"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 25 november 2015, nr. IENM/BSK-2015/232271, houdende vaststelling van regels inzake het toezicht op rechtstreeks bindende Europese regels op het gebied van de vergoeding voor het minimumtoegangspakket (Regeling toezicht uitvoeringsverordening vergoeding minimumtoegangspakket)

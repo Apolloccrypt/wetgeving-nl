@@ -8,7 +8,7 @@ laatste_update: 2004-04-09
 status: geldig
 toestand: 2004-04-09
 bron: "https://wetten.overheid.nl/BWBR0037026"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling capaciteitsbeheersing binnenvaartvloot

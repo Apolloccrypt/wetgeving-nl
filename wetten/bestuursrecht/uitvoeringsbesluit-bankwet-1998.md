@@ -9,7 +9,7 @@ laatste_update: 2015-07-29
 status: geldig
 toestand: 2015-07-29
 bron: "https://wetten.overheid.nl/BWBR0036894"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Besluit van 10 juli 2015, houdende regels met betrekking tot de uitvoering van hoofdstuk IIB van de Bankwet 1998 (Uitvoeringsbesluit Bankwet 1998)

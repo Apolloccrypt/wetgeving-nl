@@ -9,7 +9,7 @@ laatste_update: 2015-10-14
 status: geldig
 toestand: 2015-10-14
 bron: "https://wetten.overheid.nl/BWBR0037081"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Minister van Infrastructuur en Milieu, van 12 oktober 2015, nr. IENM/BSK-2015/ 197529, houdende vaststelling van het maximaal toegestane aandeel eigen vermogen, bedoeld in artikel 10, tweede lid, van de Drinkwaterwet, en van de gewogen gemiddelde vermogenskostenvoet, bedoeld in het derde lid van het genoemde artikel, voor 2016 en 2017

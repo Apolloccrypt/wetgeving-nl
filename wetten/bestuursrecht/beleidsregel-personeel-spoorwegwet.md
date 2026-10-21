@@ -9,7 +9,7 @@ laatste_update: 2021-12-17
 status: geldig
 toestand: 2021-12-17
 bron: "https://wetten.overheid.nl/BWBR0036768"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Milieu houdende beleidsregels omtrent personeel als bedoeld in de Spoorwegwet

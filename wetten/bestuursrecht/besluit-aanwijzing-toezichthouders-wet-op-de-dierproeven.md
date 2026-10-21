@@ -9,7 +9,7 @@ laatste_update: 2015-07-16
 status: geldig
 toestand: 2015-07-16
 bron: "https://wetten.overheid.nl/BWBR0036837"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Staatssecretaris van Economische Zaken van 9 juli 2015, nr. WJZ/15049304, tot aanwijzing toezichthouders Wet op de dierproeven (Besluit aanwijzing toezichthouders Wet op de dierproeven)

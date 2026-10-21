@@ -8,7 +8,7 @@ laatste_update: 2015-11-01
 status: geldig
 toestand: 2015-11-01
 bron: "https://wetten.overheid.nl/BWBR0036879"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Beleidsregel Informatieverstrekking via vergelijkingssites

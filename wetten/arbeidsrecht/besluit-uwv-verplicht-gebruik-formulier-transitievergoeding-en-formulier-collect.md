@@ -8,7 +8,7 @@ laatste_update: 2015-08-13
 status: geldig
 toestand: 2015-08-13
 bron: "https://wetten.overheid.nl/BWBR0036927"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit UWV Verplicht gebruik formulier transitievergoeding en formulier collectief ontslag

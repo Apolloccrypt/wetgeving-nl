@@ -9,7 +9,7 @@ laatste_update: 2016-07-01
 status: geldig
 toestand: 2016-07-01
 bron: "https://wetten.overheid.nl/BWBR0036824"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 3 juli 2015, nr. WJZ/785850 (10601), over het erkennen van buiten Nederland gelegen monumenten die verband houden met het Nederlands cultureel erfgoed en die voldoen aan de criteria voor aanwijzing als rijksmonument, in verband met aftrek van uitgaven voor die monumenten in de inkomstenbelasting (Beleidsregel erkenning tot het Nederlands cultureel erfgoed behorende monumenten gelegen buiten Nederland)

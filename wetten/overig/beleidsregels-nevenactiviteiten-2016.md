@@ -9,7 +9,7 @@ laatste_update: 2017-07-07
 status: geldig
 toestand: 2017-07-07
 bron: "https://wetten.overheid.nl/BWBR0037313"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Beleidsregels van het Commissariaat voor de Media van 1 januari 2016 houdende beleidsregels omtrent nevenactiviteiten publieke media-instellingen (Beleidsregels nevenactiviteiten 2016)

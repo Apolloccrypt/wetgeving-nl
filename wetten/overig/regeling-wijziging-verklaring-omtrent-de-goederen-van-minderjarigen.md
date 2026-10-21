@@ -9,7 +9,7 @@ laatste_update: 2015-07-01
 status: geldig
 toestand: 2015-07-01
 bron: "https://wetten.overheid.nl/BWBR0036663"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Staatssecretaris van Veiligheid en Justitie van 19 mei 2015, nummer 626889, houdende wijziging van de Verklaring omtrent de goederen van minderjarigen

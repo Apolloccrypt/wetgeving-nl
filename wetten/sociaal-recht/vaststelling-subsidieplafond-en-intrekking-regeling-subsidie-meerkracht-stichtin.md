@@ -8,7 +8,7 @@ laatste_update: 2015-12-09
 status: geldig
 toestand: 2015-12-09
 bron: "https://wetten.overheid.nl/BWBR0037295"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Vaststelling subsidieplafond en intrekking Regeling Subsidie Meerkracht, Stichting Vervangingsfonds en Bedrijfsgezondheidszorg voor het Onderwijs

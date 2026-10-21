@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0037428"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Wet van 23 december 2015 tot wijziging van de Wet op de vennootschapsbelasting 1969 en de Wet op de dividendbelasting 1965 in verband met de implementatie van aanpassingen in de Moeder-dochterrichtlijn (Wet implementatie wijzigingen Moeder-dochterrichtlijn 2015)

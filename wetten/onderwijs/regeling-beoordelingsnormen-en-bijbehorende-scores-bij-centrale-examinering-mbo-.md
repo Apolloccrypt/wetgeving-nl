@@ -9,7 +9,7 @@ laatste_update: 2015-10-13
 status: geldig
 toestand: 2015-10-13
 bron: "https://wetten.overheid.nl/BWBR0037082"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van het College voor Toetsen en Examens van 5 oktober 2015, nummer CvTE-15.02050, houdende vaststelling van de beoordelingsnormen en de daarbij behorende scores bij centrale examinering mbo (Regeling beoordelingsnormen en bijbehorende scores bij centrale examinering mbo (2015))

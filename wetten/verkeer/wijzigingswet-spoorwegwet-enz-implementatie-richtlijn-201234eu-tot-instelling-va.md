@@ -9,7 +9,7 @@ laatste_update: 2015-12-15
 status: geldig
 toestand: 2015-12-15
 bron: "https://wetten.overheid.nl/BWBR0037089"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Wet van 30 september 2015 tot wijziging van de Spoorwegwet en enige andere wetten in verband met de implementatie van richtlijn 2012/34/EU van het Europees Parlement en de Raad van 21 november 2012 tot instelling van één Europese spoorwegruimte (PbEU 2012, L 343/32)

@@ -9,7 +9,7 @@ laatste_update: 2015-06-19
 status: geldig
 toestand: 2015-06-19
 bron: "https://wetten.overheid.nl/BWBR0036681"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Wet van 4 juni 2015 tot samenvoeging van de gemeenten Bussum, Muiden en Naarden en wijziging van de grens met de gemeente Weesp

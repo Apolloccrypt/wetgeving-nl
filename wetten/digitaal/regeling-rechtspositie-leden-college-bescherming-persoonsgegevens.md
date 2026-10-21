@@ -9,7 +9,7 @@ laatste_update: 2015-07-29
 status: geldig
 toestand: 2015-07-29
 bron: "https://wetten.overheid.nl/BWBR0036895"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 20 juli 2015, nr. 657965, houdende de vaststelling van de rechtspositie van de voorzitter, de andere leden en de buitengewone leden van het College bescherming persoonsgegevens (Regeling rechtspositie leden College bescherming persoonsgegevens)

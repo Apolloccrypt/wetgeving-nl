@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0036636"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Besluit van 15 mei 2015, houdende vaststelling van de zetel en de organisatie van de raad voor de kinderbescherming (Organisatiebesluit raad voor de kinderbescherming 2015)

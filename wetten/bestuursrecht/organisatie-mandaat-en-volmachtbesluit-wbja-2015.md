@@ -9,7 +9,7 @@ laatste_update: 2025-03-28
 status: geldig
 toestand: 2025-03-28
 bron: "https://wetten.overheid.nl/BWBR0036932"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 5 augustus 2015, nr. 2015-0000232534, houdende de inrichting van de directie Wetgeving, Bestuurlijke en Juridische Aangelegenheden alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Wetgeving, Bestuurlijke en Juridische Aangelegenheden (Organisatie-, mandaat- en volmachtbesluit WBJA 2015)

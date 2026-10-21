@@ -9,7 +9,7 @@ laatste_update: 2026-05-06
 status: geldig
 toestand: 2026-05-06
 bron: "https://wetten.overheid.nl/BWBR0037382"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Minister van Economische Zaken van 3 december 2015, nr. WJZ/15169828, tot instelling van het Formule E-Team (Instellingsbesluit Formule E-Team)

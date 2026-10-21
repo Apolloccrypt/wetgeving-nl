@@ -9,7 +9,7 @@ laatste_update: 2015-05-28
 status: geldig
 toestand: 2015-05-28
 bron: "https://wetten.overheid.nl/BWBR0036635"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Normenkader onderzoek uitvoering Wlz

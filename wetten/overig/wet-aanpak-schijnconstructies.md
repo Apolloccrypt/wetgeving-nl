@@ -9,7 +9,7 @@ laatste_update: 2017-07-01
 status: geldig
 toestand: 2017-07-01
 bron: "https://wetten.overheid.nl/BWBR0036706"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Wet van 4 juni 2015 tot wijziging van de Wet minimumloon en minimumvakantiebijslag, Boek 7 van het Burgerlijk Wetboek en enige andere wetten ter verbetering van de naleving en handhaving van arbeidsrechtelijke wetgeving in verband met de aanpak van schijnconstructies door werkgevers (Wet aanpak schijnconstructies)

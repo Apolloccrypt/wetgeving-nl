@@ -9,7 +9,7 @@ laatste_update: 2015-05-30
 status: geldig
 toestand: 2015-05-30
 bron: "https://wetten.overheid.nl/BWBR0036638"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 18 mei 2015, nr. MinBuZa.2015-253019, tot het verlenen van mandaat en machtiging aan de algemeen directeur van de Dienst Terugkeer en Vertrek van het ministerie van Veiligheid en Justitie met betrekking tot subsidieverlening voor projecten voor de vrijwillige, duurzame terugkeer en herintegratie van ex-asielzoekers

@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0036646"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Besluit van 21 mei 2015, houdende regels over facturen en verbruiks- en indicatieve kostenoverzichten van energie in verband met de implementatie van richtlijn 2012/27/EU betreffende energie-efficiëntie (Besluit factuur, verbruiks- en indicatief kostenoverzicht energie)

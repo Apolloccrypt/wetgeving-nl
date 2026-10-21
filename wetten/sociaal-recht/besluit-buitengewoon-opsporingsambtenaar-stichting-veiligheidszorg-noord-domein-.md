@@ -9,7 +9,7 @@ laatste_update: 2015-08-01
 status: geldig
 toestand: 2015-08-01
 bron: "https://wetten.overheid.nl/BWBR0036904"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 22 juli 2015 nr. BOACAT2015/030, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Stichting Veiligheidszorg Noord

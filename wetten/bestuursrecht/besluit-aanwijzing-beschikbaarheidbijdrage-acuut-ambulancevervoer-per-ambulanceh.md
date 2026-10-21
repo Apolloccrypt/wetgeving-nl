@@ -9,7 +9,7 @@ laatste_update: 2015-11-28
 status: geldig
 toestand: 2015-11-28
 bron: "https://wetten.overheid.nl/BWBR0036818"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 30 juni 2015, inzake beschikbaarheidbijdrage voor acuut ambulancevervoer per ambulancehelikopter vanaf de Friese Waddeneilanden

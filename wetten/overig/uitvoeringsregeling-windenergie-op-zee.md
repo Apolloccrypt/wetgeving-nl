@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0036786"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Economische Zaken van 30 juni 2015, nr. WJZ/15083277, houdende regels ter uitvoering van de Wet windenergie op zee (Uitvoeringsregeling windenergie op zee)

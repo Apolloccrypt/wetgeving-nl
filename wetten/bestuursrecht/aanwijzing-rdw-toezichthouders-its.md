@@ -9,7 +9,7 @@ laatste_update: 2015-07-01
 status: geldig
 toestand: 2015-07-01
 bron: "https://wetten.overheid.nl/BWBR0036738"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Besluit tot aanwijzing RDW toezichthouders ITS

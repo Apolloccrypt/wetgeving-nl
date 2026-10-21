@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0037108"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Defensie inzake geluidwerende voorzieningen aan woningen rond militaire luchthavens (Regeling geluidwerende voorzieningen militaire luchthavens 2015)

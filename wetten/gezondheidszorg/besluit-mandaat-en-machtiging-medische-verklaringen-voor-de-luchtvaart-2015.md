@@ -9,7 +9,7 @@ laatste_update: 2015-09-05
 status: geldig
 toestand: 2015-09-05
 bron: "https://wetten.overheid.nl/BWBR0036989"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Minister van Infrastructuur en Milieu, van 24 augustus 2015, JZ/A-015-00026.001,tot mandaat en machtiging afgifte medische verklaringen voor de luchtvaart 2015

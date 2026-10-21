@@ -9,7 +9,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0034282"
-opgehaald: 2026-10-20
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 27 november 2013, 2013-0000164319, houdende vaststelling van consumentenprijsindexcijfers voor 2014 voor Caribisch Nederland en op basis daarvan, alsmede op basis van bijzondere omstandigheden, wijziging van bedragen van tegemoetkomingen en uitkeringen, van het wettelijk minimumuurloon en het bedrag genoemd in de Regeling Pensioenwet BES, alsmede van premiepercentages van werknemersverzekeringen en volksverzekeringen, van het maximumdagloon voor de Wet ziekteverzekering BES en de Wet ongevallenverzekering BES en de schadeloosstelling voor de bemiddelaar, bedoeld in de Arbeidsgeschillenwet 1946 BES

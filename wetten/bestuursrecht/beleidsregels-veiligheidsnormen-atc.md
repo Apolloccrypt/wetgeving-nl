@@ -9,7 +9,7 @@ laatste_update: 2015-07-25
 status: geldig
 toestand: 2015-07-25
 bron: "https://wetten.overheid.nl/BWBR0036878"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Beleidsregels van de Staatssecretaris van Infrastructuur en Milieu, betreffende het beoordelingskader voor wijzigingen in functionele systemen van de Luchtverkeersleiding Nederland en het daarbij te borgen veiligheidsniveau (Beleidsregels veiligheidsnormen ATC)

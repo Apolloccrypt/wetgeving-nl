@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0036721"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Minister van Veiligheid en Justitie van 1 juli 2015, houdende de vaststelling van de vergoedingen voor de leden van de commissies van toezicht op de arrestantenzorg politie alsmede voor de leden van het landelijk afstemmingsoverleg (Besluit vergoedingen toezicht arrestantenzorg politie)

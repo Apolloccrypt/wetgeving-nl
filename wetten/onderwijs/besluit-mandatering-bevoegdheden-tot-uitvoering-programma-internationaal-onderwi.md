@@ -9,7 +9,7 @@ laatste_update: 2015-10-20
 status: geldig
 toestand: 2015-10-20
 bron: "https://wetten.overheid.nl/BWBR0037098"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 9 oktober 2015, nr. MinBuZa-2015.564456, houdende mandatering van bevoegdheden tot uitvoering van een programma op het gebied van het Internationaal Onderwijs

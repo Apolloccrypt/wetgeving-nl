@@ -9,7 +9,7 @@ laatste_update: 2024-07-13
 status: geldig
 toestand: 2024-07-13
 bron: "https://wetten.overheid.nl/BWBR0037077"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Rijkswet van 30 september 2015, houdende regeling voor Nederland en Curaçao tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en een woonplaatsfictie ter zake van erf- en schenkbelasting (Belastingregeling Nederland Curaçao)

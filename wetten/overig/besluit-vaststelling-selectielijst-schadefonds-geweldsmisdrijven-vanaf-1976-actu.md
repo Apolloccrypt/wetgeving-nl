@@ -8,7 +8,7 @@ laatste_update: 2015-12-11
 status: geldig
 toestand: 2015-12-11
 bron: "https://wetten.overheid.nl/BWBR0037300"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit vaststelling selectielijst Schadefonds Geweldsmisdrijven vanaf 1976 (actualisatie 2014)

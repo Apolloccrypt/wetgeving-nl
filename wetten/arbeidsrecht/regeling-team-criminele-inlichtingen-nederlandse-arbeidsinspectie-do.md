@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0036725"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 18 juni 2015, 2015-0000113259, houdende regels omtrent werkzaamheden en autorisaties van het team criminele inlichtingen Inspectie SZW-DO en tot wijziging van de Aanwijzingsregeling toezichthoudende ambtenaren en ambtenaren met specifieke uitvoeringstaken op grond van SZW wetgeving en de Aanwijzingsregeling boeteoplegger SZW-wetgeving 2012 (Regeling team criminele inlichtingen Inspectie SZW-DO)

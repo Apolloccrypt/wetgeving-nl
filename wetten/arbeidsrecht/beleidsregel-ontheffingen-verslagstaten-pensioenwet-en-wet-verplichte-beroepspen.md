@@ -9,7 +9,7 @@ laatste_update: 2015-09-09
 status: geldig
 toestand: 2015-09-09
 bron: "https://wetten.overheid.nl/BWBR0036987"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van De Nederlandsche Bank N.V. (DNB) van 31 augustus 2015 tot vaststelling van de beleidsregel ontheffingen verslagstaten Pensioenwet en Wet verplichte beroepspensioenregeling 2015, en tot intrekking van een drietal andere beleidsregels

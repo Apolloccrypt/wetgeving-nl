@@ -9,7 +9,7 @@ laatste_update: 2025-01-30
 status: geldig
 toestand: 2025-01-30
 bron: "https://wetten.overheid.nl/BWBR0036973"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 18 augustus 2015, nr. MBO/803345, tot het instellen van een commissie macrodoelmatigheid voor het beroepsonderwijs (Instellingsbesluit Commissie macrodoelmatigheid mbo)

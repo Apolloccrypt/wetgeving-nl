@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0036723"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 1 juli 2015, houdende regels over het toezicht op de arrestantenzorg bij de politie (Regeling toezicht arrestantenzorg politie)

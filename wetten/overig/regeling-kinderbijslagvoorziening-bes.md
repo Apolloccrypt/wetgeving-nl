@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0037414"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 9 december 2015, 2015-0000304113, tot vaststelling van de specifieke gevallen waarin voor een kind met een ziekte of handicap kan worden afgeweken van de termijn, genoemd in artikel 5, tweede lid, van de Wet kinderbijslagvoorziening BES alsmede tot vaststelling van controlevoorschriften (Regeling kinderbijslagvoorziening BES)

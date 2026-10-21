@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0037263"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Staatssecretaris van Economische Zaken van 16 november 2015, nr. DGAN-PDJNG 15151244, houdende vaststelling van beleidsregels over de kwaliteit van de opvang van beschermde inheemse diersoorten, beschermde uitheemse diersoorten en diersoorten die niet zijn opgenomen (beleidsregels kwaliteit opvang diersoorten)

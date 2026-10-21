@@ -9,7 +9,7 @@ laatste_update: 2015-06-17
 status: geldig
 toestand: 2015-06-17
 bron: "https://wetten.overheid.nl/BWBR0036683"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Milieu van 15 april 2015, nr. IENM/BSK-2015/31476, houdende de benoeming van de leden van de Adviescommissie Onderzoek arbeidsvoorwaarden en FLNA LVNL (Benoemingsbesluit Adviescommissie Onderzoek arbeidsvoorwaarden en FLNA LVNL)

@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0037413"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van het bestuur van het CAK van 8 december 2015 houdende opheffing van de bezwaaradviescommissie (Opheffingsbesluit bezwaaradviescommissie Wtcg)

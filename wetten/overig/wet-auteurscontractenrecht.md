@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0036745"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Wet van 30 juni 2015 tot wijziging van de Auteurswet en de Wet op de naburige rechten in verband met de versterking van de positie van de auteur en de uitvoerende kunstenaar bij overeenkomsten betreffende het auteursrecht en het naburig recht (Wet auteurscontractenrecht)

@@ -8,7 +8,7 @@ laatste_update: 2015-07-23
 status: geldig
 toestand: 2015-07-23
 bron: "https://wetten.overheid.nl/BWBR0036867"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Besluit vaststelling selectielijst Groningen Seaports over de periode vanaf 1997

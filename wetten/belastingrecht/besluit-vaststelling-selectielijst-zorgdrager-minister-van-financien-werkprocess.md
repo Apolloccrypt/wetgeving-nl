@@ -8,7 +8,7 @@ laatste_update: 2015-09-27
 status: geldig
 toestand: 2015-09-27
 bron: "https://wetten.overheid.nl/BWBR0037023"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit vaststelling selectielijst zorgdrager Minister van Financiën werkprocessen Belastingdienst Toeslagen over periode 2004–

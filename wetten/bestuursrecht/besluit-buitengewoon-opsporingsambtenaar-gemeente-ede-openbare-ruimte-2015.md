@@ -9,7 +9,7 @@ laatste_update: 2018-10-12
 status: geldig
 toestand: 2018-10-12
 bron: "https://wetten.overheid.nl/BWBR0037004"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 3 september 2015 nr. BOACAT2015/39, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Ede

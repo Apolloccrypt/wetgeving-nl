@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-05-19
 toestand: 2023-12-09
 bron: "https://wetten.overheid.nl/BWBR0037446"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 15 december 2015, 2015-0000305810, houdende de inrichting van de directie Werknemersregelingen, alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Werknemersregelingen (Organisatie-, mandaat- en volmachtbesluit directie Werknemersregelingen 2015)

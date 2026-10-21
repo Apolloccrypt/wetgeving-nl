@@ -8,7 +8,7 @@ laatste_update: 2015-12-01
 status: geldig
 toestand: 2015-12-01
 bron: "https://wetten.overheid.nl/BWBR0037112"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Benoemingsbesluit Toezichtsraad BIT

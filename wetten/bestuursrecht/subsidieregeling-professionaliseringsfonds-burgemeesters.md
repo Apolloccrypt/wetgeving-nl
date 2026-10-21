@@ -9,7 +9,7 @@ laatste_update: 2015-10-24
 status: geldig
 toestand: 2015-10-24
 bron: "https://wetten.overheid.nl/BWBR0037103"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 13 oktober 2015, nr. 2015-0000050611, houdende regels voor de subsidiëring van het Professionaliseringsfonds Burgemeesters (Subsidieregeling Professionaliseringsfonds Burgemeesters)

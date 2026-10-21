@@ -9,7 +9,7 @@ laatste_update: 2015-12-01
 status: geldig
 toestand: 2015-12-01
 bron: "https://wetten.overheid.nl/BWBR0036785"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Economische Zaken van 30 juni 2015, nr. WJZ/15031513, tot aanwijzing van productie-installaties voor het opwekken van hernieuwbare elektriciteit met behulp van windenergie op zee als een subsidiabele categorie in het kader van de stimulering van duurzame energieproductie (Regeling windenergie op zee 2015)

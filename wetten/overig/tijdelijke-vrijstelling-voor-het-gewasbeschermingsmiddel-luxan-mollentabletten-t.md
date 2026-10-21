@@ -9,7 +9,7 @@ laatste_update: 2015-12-15
 status: geldig
 toestand: 2015-12-15
 bron: "https://wetten.overheid.nl/BWBR0036958"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Staatssecretaris van Economische Zaken van 18 augustus 2015, 15115580, houdende tijdelijke vrijstelling op grond van artikel 38 van de Wet gewasbeschermingsmiddelen en biociden ter bescherming van de teelt van wintergraan, graszaad, aardappelen, koolgewassen, wortelen en overige wortel- en knolgewassen (Tijdelijke vrijstelling ter bescherming van de onbedekte teelt van wintergraan, graszaad, aardappelen, koolgewassen, wortelen en overige wortel- en knolgewassen 2015)

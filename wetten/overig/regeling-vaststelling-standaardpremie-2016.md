@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0037279"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 27 november 2015, kenmerk 873778-144254-Z, houdende vaststelling van de standaardpremie 2016 (Regeling vaststelling standaardpremie 2016)

@@ -9,7 +9,7 @@ laatste_update: 2018-06-23
 status: geldig
 toestand: 2018-06-23
 bron: "https://wetten.overheid.nl/BWBR0036921"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 3 augustus 2015, houdende de aanwijzing van enige organen ingevolge Verordening (EG) nr. 883/2004

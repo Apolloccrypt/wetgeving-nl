@@ -9,7 +9,7 @@ laatste_update: 2018-08-30
 status: geldig
 toestand: 2018-08-30
 bron: "https://wetten.overheid.nl/BWBR0037241"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 20 november 2015 nr. BOACAT2015/065, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij regionale eenheid Rotterdam

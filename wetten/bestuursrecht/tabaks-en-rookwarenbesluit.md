@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0037160"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van 14 oktober 2015, houdende samenvoeging van de algemene maatregelen van bestuur op basis van de Tabakswet tot één besluit (Besluit uitvoering Tabakswet)

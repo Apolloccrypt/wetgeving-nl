@@ -9,7 +9,7 @@ laatste_update: 2015-11-01
 status: geldig
 toestand: 2015-11-01
 bron: "https://wetten.overheid.nl/BWBR0037114"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 16 oktober 2015, nr. 2015-0000612713, houdende regels voor de subsidiëring van het Europees Instituut voor Bestuurskunde te Maastricht (Subsidieregeling Europees Instituut Bestuurskunde 2016)

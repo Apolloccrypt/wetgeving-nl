@@ -9,7 +9,7 @@ laatste_update: 2017-07-05
 status: geldig
 toestand: 2017-07-05
 bron: "https://wetten.overheid.nl/BWBR0036907"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 22 juli 2015 nr. BOACAT2015/032, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Stichting Veiligheidszorg Drenthe

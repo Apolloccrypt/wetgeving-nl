@@ -8,7 +8,7 @@ laatste_update: 2015-11-11
 status: geldig
 toestand: 2015-11-11
 bron: "https://wetten.overheid.nl/BWBR0037166"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Deelregeling meerjarige activiteitensubsidies Fonds Podiumkunsten 2017–2020

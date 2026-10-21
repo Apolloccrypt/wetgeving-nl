@@ -9,7 +9,7 @@ laatste_update: 2015-11-26
 status: geldig
 toestand: 2015-11-26
 bron: "https://wetten.overheid.nl/BWBR0037231"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van 16 november 2015, houdende regels tot wijziging van het Besluit bijzondere prudentiële maatregelen, beleggerscompensatie en depositogarantie Wft, het Besluit prudentiële regels Wft en het Besluit bestuurlijke boetes financiële sector in verband met de implementatie van richtlijn 2014/49/EU van het Europees Parlement en de Raad van 16 april 2014 inzake de depositogarantiestelsels (herschikking) (PbEU 2014, L 173) (Implementatiebesluit depositogarantiestelsel)

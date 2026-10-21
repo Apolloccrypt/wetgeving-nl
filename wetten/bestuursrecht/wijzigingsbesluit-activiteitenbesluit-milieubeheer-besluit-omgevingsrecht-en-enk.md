@@ -9,7 +9,7 @@ laatste_update: 2018-07-01
 status: geldig
 toestand: 2018-07-01
 bron: "https://wetten.overheid.nl/BWBR0037061"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van 18 september 2015 tot wijziging van het Activiteitenbesluit milieubeheer, het Besluit omgevingsrecht en enkele andere besluiten (nieuwe activiteiten)

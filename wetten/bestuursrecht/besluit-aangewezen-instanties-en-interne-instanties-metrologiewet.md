@@ -9,7 +9,7 @@ laatste_update: 2016-04-20
 status: geldig
 toestand: 2016-04-20
 bron: "https://wetten.overheid.nl/BWBR0037326"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van 7 december 2015, houdende regels omtrent aangewezen instanties en interne instanties Metrologiewet (Besluit aangewezen instanties en interne instanties Metrologiewet)

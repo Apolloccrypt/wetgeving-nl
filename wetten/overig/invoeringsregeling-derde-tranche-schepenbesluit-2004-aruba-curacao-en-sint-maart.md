@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0037405"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu, van 10 december 2015, nr. IENM/BSK-2015/244369, tot wijziging van de Regeling veiligheid Arubaanse, Curaçaose en Sint Maartense zeeschepen in verband met de inwerkingtreding voor Aruba, Curaçao en Sint Maarten van de artikelen 6, 15, 41, 60, tweede lid, en 61, vierde lid, van het Schepenbesluit 2004 en de invoering van voorschriften betreffende de veiligheid van vrachtschepen en kleine commerciële schepen in het Caribisch gebied, de modernisering van de voorschriften betreffende de medische uitrusting aan boord van schepen, alsmede enige andere aanpassingen (Invoeringsregeling derde tranche Schepenbesluit 2004 Aruba, Curaçao en Sint Maarten)

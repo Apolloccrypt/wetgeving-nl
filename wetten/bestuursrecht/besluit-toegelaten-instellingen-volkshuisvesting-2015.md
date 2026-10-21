@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0036702"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Besluit van 16 juni 2015, houdende nieuwe nadere regels betreffende toegelaten instellingen en dochtermaatschappijen en nadere regels betreffende wooncoöperaties (Besluit toegelaten instellingen volkshuisvesting 2015)

@@ -9,7 +9,7 @@ laatste_update: 2015-12-24
 status: geldig
 toestand: 2015-12-24
 bron: "https://wetten.overheid.nl/BWBR0037398"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie, de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister voor Wonen en Rijksdienst van 17 december 2015, houdende instelling van een eenmalige commissie van deskundigen met betrekking tot de rechtseenheid in het bestuursrecht (Instellingsregeling Commissie rechtseenheid bestuursrecht)

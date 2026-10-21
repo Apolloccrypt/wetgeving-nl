@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-05-13
 toestand: 2023-12-09
 bron: "https://wetten.overheid.nl/BWBR0037455"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 14 december 2015, 2015-0000305694, houdende de inrichting van de directie Stelsel en Volksverzekeringen alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Stelsel en Volksverzekeringen (Organisatie-, mandaat- en volmachtbesluit directie Stelsel en Volksverzekeringen 2015)

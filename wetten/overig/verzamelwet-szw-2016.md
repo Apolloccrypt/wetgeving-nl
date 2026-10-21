@@ -9,7 +9,7 @@ laatste_update: 2016-07-01
 status: geldig
 toestand: 2016-07-01
 bron: "https://wetten.overheid.nl/BWBR0037319"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Wet van 25 november 2015 tot wijziging van enkele wetten van het Ministerie van Sociale Zaken en Werkgelegenheid (Verzamelwet SZW 2016)

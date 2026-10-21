@@ -9,7 +9,7 @@ laatste_update: 2015-12-31
 status: geldig
 toestand: 2015-12-31
 bron: "https://wetten.overheid.nl/BWBR0037462"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Inschrijvingsvoorwaarden mediators 2016 (Besluit van het bestuur van de Raad voor Rechtsbijstand van 7 december 2015 krachtens artikel 33 b van de Wet op de Rechtsbijstand)

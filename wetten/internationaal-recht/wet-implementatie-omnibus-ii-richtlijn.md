@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0036826"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Wet van 24 juni 2015 tot wijziging van de Implementatiewet richtlijn solvabiliteit II en de Implementatiewet richtlijn financiële conglomeraten I ter implementatie van de richtlijn 2014/51/EU van het Europees Parlement en de Raad van 16 april 2014 tot wijziging van de Richtlijnen 2003/71/EU en 2009/138/EG alsmede de Verordeningen (EG) nr. 1060/2009, (EU) nr. 1094/2010 en (EU) nr. 1095/2010 wat de bevoegdheden van de Europese toezichthoudende autoriteit (Europese Autoriteit voor verzekeringen en bedrijfspensioenen) en de Europese toezichthoudende autoriteit (Europese Autoriteit voor effecten en markten) betreft (PbEU 2014, L 153) (Wet implementatie Omnibus II-richtlijn)

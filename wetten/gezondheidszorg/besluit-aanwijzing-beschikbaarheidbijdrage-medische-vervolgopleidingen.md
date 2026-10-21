@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0036817"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 30 juni 2015, inzake een beschikbaarheidbijdrage voor medische vervolgopleidingen

@@ -9,7 +9,7 @@ laatste_update: 2018-02-21
 status: geldig
 toestand: 2018-02-21
 bron: "https://wetten.overheid.nl/BWBR0037239"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 17 november 2015, kenmerk 841612-141698-J, houdende regels voor het subsidiëren van huisvestingslasten van aanbieders van gesloten jeugdhulp voor de periode 2016 tot en met 2020 (Subsidieregeling huisvestingslasten gesloten jeugdhulp)

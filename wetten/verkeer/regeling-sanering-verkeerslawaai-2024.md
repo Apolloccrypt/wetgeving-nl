@@ -5,11 +5,11 @@ identifier: "BWBR0049082"
 categorie: "Milieu"
 soort: "ministeriele-regeling"
 publicatiedatum: 2024-01-01
-laatste_update: 2025-11-14
+laatste_update: 2026-10-16
 status: geldig
-toestand: 2025-11-14
+toestand: 2026-10-16
 bron: "https://wetten.overheid.nl/BWBR0049082"
-opgehaald: 2026-09-05
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 6 december 2023, nr. IENW/BSK-2023/343978, houdende regels voor toekenning van bijdragen voor sanering van verkeerslawaai (Regeling sanering verkeerslawaai 2024)
@@ -29,9 +29,9 @@ In deze regeling wordt verstaan onder:
 
 - *bronmaatregel:* geluidbeperkende maatregel die het geluid door een weg of spoorweg beperkt bij de bron;
 
-- *budgetontvanger:* ontvanger die is aangewezen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&bijlage=1&z=2025-11-14&g=2025-11-14);
+- *budgetontvanger:* ontvanger die is aangewezen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&bijlage=1&z=2026-10-16&g=2026-10-16);
 
-- *budgetbijdrage:* bijdrage als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=4&z=2025-11-14&g=2025-11-14);
+- *budgetbijdrage:* bijdrage als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=4&z=2026-10-16&g=2026-10-16);
 
 - *Bureau Sanering Verkeerslawaai:* bureau, genoemd in het [Mandaatbesluit Bureau Sanering Verkeerslawaai 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035624), dat voor de minister deze regeling uitvoert;
 
@@ -55,9 +55,9 @@ In deze regeling wordt verstaan onder:
 
 - *pre-sanering:* sanering die een provincie kan uitvoeren op basis van de brief van de Staatssecretaris van Infrastructuur en Waterstaat van 1 november 2019 met kenmerk IENW/BSK-2019/217157;
 
-- *project:* in tijd en financiële middelen begrensde activiteit gericht op het tot stand brengen van maatregelen als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2025-11-14&g=2025-11-14);
+- *project:* in tijd en financiële middelen begrensde activiteit gericht op het tot stand brengen van maatregelen als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2026-10-16&g=2026-10-16);
 
-- *projectbijdrage:* bijdrage als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=5&z=2025-11-14&g=2025-11-14);
+- *projectbijdrage:* bijdrage als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=5&z=2026-10-16&g=2026-10-16);
 
 - *provinciale weg:* weg in beheer bij een provincie;
 
@@ -107,11 +107,11 @@ De [artikelen 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&ar
 
 1. De minister kan op aanvraag per tijdvak van maximaal 5 jaar een bijdrage verstrekken aan een budgetontvanger.
 
-2. Een budgetbijdrage heeft betrekking op activiteiten die voldoen aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2025-11-14&g=2025-11-14) en worden uitgevoerd in één of meer projecten.
+2. Een budgetbijdrage heeft betrekking op activiteiten die voldoen aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2026-10-16&g=2026-10-16) en worden uitgevoerd in één of meer projecten.
 
-3. De maximaal te verlenen budgetbijdrage voor saneringsgebouwen wordt bepaald door het aantal saneringsgebouwen in de aanvraag te vermenigvuldigen met het normbedrag in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&bijlage=3&z=2025-11-14&g=2025-11-14) bij deze regeling.
+3. De maximaal te verlenen budgetbijdrage voor saneringsgebouwen wordt bepaald door het aantal saneringsgebouwen in de aanvraag te vermenigvuldigen met het normbedrag in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&bijlage=3&z=2026-10-16&g=2026-10-16) bij deze regeling.
 
-4. De maximaal te verlenen budgetbijdrage voor vrijwillig te saneren gebouwen wordt bepaald door het aantal van die gebouwen in de aanvraag te vermenigvuldigen met het normbedrag in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&bijlage=3&z=2025-11-14&g=2025-11-14) bij deze regeling en met een percentage volgens tabel 1, waarbij de overschrijding van de binnenwaarde wordt geschat met de methodiek uit de toolbox vrijwillige geluidsanering.
+4. De maximaal te verlenen budgetbijdrage voor vrijwillig te saneren gebouwen wordt bepaald door het aantal van die gebouwen in de aanvraag te vermenigvuldigen met het normbedrag in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&bijlage=3&z=2026-10-16&g=2026-10-16) bij deze regeling en met een percentage volgens tabel 1, waarbij de overschrijding van de binnenwaarde wordt geschat met de methodiek uit de toolbox vrijwillige geluidsanering.
 
 | Overschrijding binnenwaarde (dB) | Percentage bijdrage door het Rijk |
 | --- | --- |
@@ -135,11 +135,11 @@ De [artikelen 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&ar
 
 1. De minister kan op aanvraag een bijdrage verstrekken aan een ontvanger die geen budgetontvanger is.
 
-2. Een projectbijdrage heeft betrekking op activiteiten die voldoen aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2025-11-14&g=2025-11-14) en zijn opgenomen in een project.
+2. Een projectbijdrage heeft betrekking op activiteiten die voldoen aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2026-10-16&g=2026-10-16) en zijn opgenomen in een project.
 
-3. De te verlenen projectbijdrage voor saneringsgebouwen wordt bepaald door het aantal saneringsgebouwen in de aanvraag te vermenigvuldigen met de bijdrage per gebouw volgens [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&bijlage=3&z=2025-11-14&g=2025-11-14) bij deze regeling.
+3. De te verlenen projectbijdrage voor saneringsgebouwen wordt bepaald door het aantal saneringsgebouwen in de aanvraag te vermenigvuldigen met de bijdrage per gebouw volgens [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&bijlage=3&z=2026-10-16&g=2026-10-16) bij deze regeling.
 
-4. De te verlenen projectbijdrage voor vrijwillig te saneren gebouwen wordt bepaald door het aantal van die gebouwen in de aanvraag te vermenigvuldigen met de projectbijdrage per gebouw volgens [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&bijlage=3&z=2025-11-14&g=2025-11-14) bij deze regeling en met een percentage volgens de in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=4&z=2025-11-14&g=2025-11-14), genoemde tabel 1, waarbij de overschrijding van de binnenwaarde wordt geschat met de methodiek uit de toolbox vrijwillige geluidsanering.
+4. De te verlenen projectbijdrage voor vrijwillig te saneren gebouwen wordt bepaald door het aantal van die gebouwen in de aanvraag te vermenigvuldigen met de projectbijdrage per gebouw volgens [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&bijlage=3&z=2026-10-16&g=2026-10-16) bij deze regeling en met een percentage volgens de in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=4&z=2026-10-16&g=2026-10-16), genoemde tabel 1, waarbij de overschrijding van de binnenwaarde wordt geschat met de methodiek uit de toolbox vrijwillige geluidsanering.
 
 5. De looptijd van de projectbijdrage is de looptijd van het project, met een maximum van 5 jaar.
 
@@ -149,7 +149,7 @@ De [artikelen 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&ar
 
 1. De kosten die een ontvanger maakt vóór indiening van de aanvraag komen niet voor een bijdrage in aanmerking, met uitzondering van
 
-- a. de kosten bedoeld in [artikel 7, aanhef en onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=3&artikel=7&z=2025-11-14&g=2025-11-14);
+- a. de kosten bedoeld in [artikel 7, aanhef en onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=3&artikel=7&z=2026-10-16&g=2026-10-16);
 
 - b. de kosten die een provincie maakt voor pre-sanering tot aan de vaststelling van de saneringslijst.
 
@@ -173,7 +173,7 @@ Kosten die in aanmerking komen voor een bijdrage voor voorbereiding, begeleiding
 
 ##### Artikel 8. Maatregelen
 
-1. Kosten die in aanmerking komen voor een bijdrage voor maatregelen zijn de kosten voor activiteiten als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2025-11-14&g=2025-11-14) voor zover:
+1. Kosten die in aanmerking komen voor een bijdrage voor maatregelen zijn de kosten voor activiteiten als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2026-10-16&g=2026-10-16) voor zover:
 
 - a. die sober en doelmatig zijn; en
 
@@ -253,7 +253,7 @@ Kosten die in aanmerking komen voor een bijdrage voor voorbereiding, begeleiding
 
 - b. die in redelijke verhouding staan tot kwaliteit, aard en gebruik van het geluidgevoelige gebouw en tot het geluidwerend effect van de maatregelen;
 
-- c. voor een controlemeting op verzoek als bedoeld in [artikel 29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=7&paragraaf=7.1&artikel=29&z=2025-11-14&g=2025-11-14).
+- c. voor een controlemeting op verzoek als bedoeld in [artikel 29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=7&paragraaf=7.1&artikel=29&z=2026-10-16&g=2026-10-16).
 
 2. Kosten die niet in aanmerking komen voor een bijdrage zijn de kosten die worden gemaakt voor het herstel van gebreken als bedoeld in [artikel 3.53, vierde lid, onder c, van het Bkl](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=3.53).
 
@@ -267,27 +267,29 @@ Kosten die in aanmerking komen voor een bijdrage voor maatregelen waardoor een g
 
 1. De minister maakt de tijdvakken voor projectbijdragen en budgetbijdragen uiterlijk in november van het jaar voorafgaand aan het tijdvak waarvoor het plafond wordt vastgesteld, bekend in de Staatscourant, waarbij ook het plafond per tijdvak wordt vastgesteld.
 
-2. Het plafond voor budgetbijdragen als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=4&z=2025-11-14&g=2025-11-14) wordt vastgesteld op € 2.000.000 voor 2024.
+2. Het plafond voor budgetbijdragen als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=4&z=2026-10-16&g=2026-10-16) wordt vastgesteld op € 2.000.000 voor 2024.
 
-3. Het plafond voor budgetbijdragen als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=4&z=2025-11-14&g=2025-11-14) wordt vastgesteld op € 2.435.000 voor 2025.
+3. Het plafond voor budgetbijdragen als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=4&z=2026-10-16&g=2026-10-16) wordt vastgesteld op € 2.435.000 voor 2025.
 
-4. Het plafond voor budgetbijdragen als bedoeld in artikel 4 wordt vastgesteld op € 3.000.000 voor 2026.
+4. Het plafond voor budgetbijdragen als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=4&z=2026-10-16&g=2026-10-16) wordt vastgesteld op € 0 voor 2026.
 
-5. Indien het plafond voor projectbijdragen of het plafond voor budgetbijdragen niet volledig wordt benut in het tijdvak waarvoor het is vastgesteld, kan de minister het resterende bedrag beschikbaar stellen voor aanvragen vallend onder het andere plafond wanneer dit reeds voor het aflopen van het tijdvak volledig is uitgeput.
+5. Het plafond voor budgetbijdragen als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=4&z=2026-10-16&g=2026-10-16) wordt vastgesteld op € 2.000.000 voor 2027.
+
+6. Indien het plafond voor projectbijdragen of het plafond voor budgetbijdragen niet volledig wordt benut in het tijdvak waarvoor het is vastgesteld, kan de minister het resterende bedrag beschikbaar stellen voor aanvragen vallend onder het andere plafond wanneer dit reeds voor het aflopen van het tijdvak volledig is uitgeput.
 
 ##### Artikel 15. Wijze van verdelen plafond voor budgetbijdragen
 
-1. De minister verdeelt het plafond voor budgetbijdragen als volgt over de aanvragen voor een budgetbijdrage: het te verlenen bedrag per aanvraag (B) is het aantal saneringsgebouwen op de saneringslijst van de budgetontvanger (A), gedeeld door het totaal aantal gebouwen op saneringslijsten van budgetontvangers die een bijdrage hebben aangevraagd (T), vermenigvuldigd met het plafond (P), als in formule 1, met een maximum M als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=4&z=2025-11-14&g=2025-11-14) (M1).
+1. De minister verdeelt het plafond voor budgetbijdragen als volgt over de aanvragen voor een budgetbijdrage: het te verlenen bedrag per aanvraag (B) is het aantal saneringsgebouwen op de saneringslijst van de budgetontvanger (A), gedeeld door het totaal aantal gebouwen op saneringslijsten van budgetontvangers die een bijdrage hebben aangevraagd (T), vermenigvuldigd met het plafond (P), als in formule 1, met een maximum M als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=4&z=2026-10-16&g=2026-10-16) (M1).
 
 Formule 1: Bedrag B = (A/T) * P
 
-2. In afwijking van het eerste lid verdeelt de minister het plafond voor budgetbijdragen in 2024 als volgt over de aanvragen voor een budgetbijdrage voor de pre-sanering: het te verlenen bedrag per aanvraag (B) is het geschatte totaal aantal saneringsgebouwen van de budgetontvanger (A’), gedeeld door het geschatte totaal aantal saneringsgebouwen van budgetontvangers die een bijdrage hebben aangevraagd (T’), vermenigvuldigd met het plafond (P), als in formule 1, met een maximum M als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=4&z=2025-11-14&g=2025-11-14) (M1).
+2. In afwijking van het eerste lid verdeelt de minister het plafond voor budgetbijdragen in 2024 als volgt over de aanvragen voor een budgetbijdrage voor de pre-sanering: het te verlenen bedrag per aanvraag (B) is het geschatte totaal aantal saneringsgebouwen van de budgetontvanger (A’), gedeeld door het geschatte totaal aantal saneringsgebouwen van budgetontvangers die een bijdrage hebben aangevraagd (T’), vermenigvuldigd met het plafond (P), als in formule 1, met een maximum M als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=4&z=2026-10-16&g=2026-10-16) (M1).
 
 Formule 1: Bedrag B = (A’/T’) * P
 
 3. Wanneer het plafond na toepassing van het eerste of tweede lid niet volledig is verdeeld, wordt het resterende deel op dezelfde wijze als in het eerste en tweede lid verdeeld over de aanvragers die niet het maximale bedrag hebben gekregen.
 
-4. Wanneer in de aanvraag vrijwillig te saneren gebouwen zijn opgenomen, is het maximum M, genoemd in het eerste en tweede lid gelijk aan M1 + het maximum, genoemd in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=4&z=2025-11-14&g=2025-11-14) (M2), als in formule 2.
+4. Wanneer in de aanvraag vrijwillig te saneren gebouwen zijn opgenomen, is het maximum M, genoemd in het eerste en tweede lid gelijk aan M1 + het maximum, genoemd in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=4&z=2026-10-16&g=2026-10-16) (M2), als in formule 2.
 
 Formule 2: Maximaal te verlenen bedrag M = M1 + M2
 
@@ -325,7 +327,7 @@ Formule 2: Maximaal te verlenen bedrag M = M1 + M2
 
 - d. een tijdschema waaruit blijkt wanneer een saneringsprogramma zal worden vastgesteld en ter inzage gelegd;
 
-- e. of de maatregelen worden uitgevoerd in combinatie met andere maatregelen, niet zijnde maatregelen, bedoeld in [artikel 3, tweede lid, onder b tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2025-11-14&g=2025-11-14), en welke gevolgen dat heeft voor de kosten;
+- e. of de maatregelen worden uitgevoerd in combinatie met andere maatregelen, niet zijnde maatregelen, bedoeld in [artikel 3, tweede lid, onder b tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2026-10-16&g=2026-10-16), en welke gevolgen dat heeft voor de kosten;
 
 - f. voor saneringsgebouwen of in de kosten mede wordt voorzien door bijdragen van derden, en de hoogte van deze bijdragen;
 
@@ -347,7 +349,7 @@ Formule 2: Maximaal te verlenen bedrag M = M1 + M2
 
 - c. welke vrijwillig te saneren gebouwen zullen worden gesaneerd, met de in de Basisregistratie Adressen en Gebouwen opgenomen identificatienummers en het geluid op het gebouw, bedoeld in [artikel 12.11, tweede lid, onder b, van het Bkl](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=12.11);
 
-- d. of de maatregelen worden uitgevoerd in combinatie met andere maatregelen niet zijnde maatregelen, bedoeld in [artikel 3, tweede lid, onder b tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2025-11-14&g=2025-11-14), en welke gevolgen dat heeft voor de kosten;
+- d. of de maatregelen worden uitgevoerd in combinatie met andere maatregelen niet zijnde maatregelen, bedoeld in [artikel 3, tweede lid, onder b tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2026-10-16&g=2026-10-16), en welke gevolgen dat heeft voor de kosten;
 
 - e. voor saneringsgebouwen of in de kosten mede wordt voorzien door bijdragen van derden, en de hoogte van deze bijdragen;
 
@@ -369,9 +371,9 @@ Formule 2: Maximaal te verlenen bedrag M = M1 + M2
 
 Een budgetbijdrage kan worden verleend wanneer:
 
-- a. de ontvanger is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&bijlage=1&z=2025-11-14&g=2025-11-14) bij deze regeling;
+- a. de ontvanger is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&bijlage=1&z=2026-10-16&g=2026-10-16) bij deze regeling;
 
-- b. de activiteiten waarvoor een budgetbijdrage wordt aangevraagd, voldoen aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2025-11-14&g=2025-11-14);
+- b. de activiteiten waarvoor een budgetbijdrage wordt aangevraagd, voldoen aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2026-10-16&g=2026-10-16);
 
 - c. bij de aanvraag een meerjarenplanning is gevoegd met een globale planning en een globale beschrijving van de projecten en maatregelen voor de looptijd van de budgetbijdrage.
 
@@ -379,7 +381,7 @@ Een budgetbijdrage kan worden verleend wanneer:
 
 1. Een projectbijdrage kan worden verleend wanneer:
 
-- a. de activiteiten waarvoor een projectbijdrage wordt aangevraagd, voldoen aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2025-11-14&g=2025-11-14);
+- a. de activiteiten waarvoor een projectbijdrage wordt aangevraagd, voldoen aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2026-10-16&g=2026-10-16);
 
 - b. de aanvraag wordt gedaan voor minimaal 50 gebouwen;
 
@@ -391,7 +393,7 @@ Een budgetbijdrage kan worden verleend wanneer:
 
 - a. de resterende saneringsopgave van de ontvanger kleiner is dan 50;
 
-- b. de aanvraag uitsluitend het aanbrengen van een maatregel betreft als bedoeld in [artikel 3, tweede lid, onder b tot en met d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2025-11-14&g=2025-11-14);
+- b. de aanvraag uitsluitend het aanbrengen van een maatregel betreft als bedoeld in [artikel 3, tweede lid, onder b tot en met d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2026-10-16&g=2026-10-16);
 
 - c. de aanvraag een sanering betreft die in combinatie met werkzaamheden aan de weg of het gebouw wordt uitgevoerd; of
 
@@ -399,7 +401,7 @@ Een budgetbijdrage kan worden verleend wanneer:
 
 ##### Artikel 22. Besluit tot verlenen van een bijdrage
 
-1. De minister beslist binnen 13 weken na afloop van de termijn, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=5&artikel=19&z=2025-11-14&g=2025-11-14), op de aanvraag om een bijdrage als bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=4&z=2025-11-14&g=2025-11-14) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=5&z=2025-11-14&g=2025-11-14). Deze termijn kan eenmalig worden verlengd met 13 weken.
+1. De minister beslist binnen 13 weken na afloop van de termijn, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=5&artikel=19&z=2026-10-16&g=2026-10-16), op de aanvraag om een bijdrage als bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=4&z=2026-10-16&g=2026-10-16) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=5&z=2026-10-16&g=2026-10-16). Deze termijn kan eenmalig worden verlengd met 13 weken.
 
 2. In het besluit tot verlening van een budgetbijdrage kan de looptijd van de bijdrage worden bepaald.
 
@@ -427,15 +429,15 @@ Een budgetbijdrage kan worden verleend wanneer:
 
 ##### Artikel 24. Ambtshalve wijzigen van een bijdrage
 
-1. Indien uit informatie van de ontvanger blijkt dat de kosten naar verwachting sterk zullen afwijken van het bedrag waar uiteindelijk recht op zal bestaan op grond van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=9&artikel=36&z=2025-11-14&g=2025-11-14) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=9&artikel=37&z=2025-11-14&g=2025-11-14), kan de minister de verlening van een bijdrage wijzigen. Dit kan in ieder geval naar aanleiding van:
+1. Indien uit informatie van de ontvanger blijkt dat de kosten naar verwachting sterk zullen afwijken van het bedrag waar uiteindelijk recht op zal bestaan op grond van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=9&artikel=36&z=2026-10-16&g=2026-10-16) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=9&artikel=37&z=2026-10-16&g=2026-10-16), kan de minister de verlening van een bijdrage wijzigen. Dit kan in ieder geval naar aanleiding van:
 
-- a. een voortgangsrapportage over een budgetbijdrage als bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=7&paragraaf=7.2&artikel=30&z=2025-11-14&g=2025-11-14);
+- a. een voortgangsrapportage over een budgetbijdrage als bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=7&paragraaf=7.2&artikel=30&z=2026-10-16&g=2026-10-16);
 
-- b. een saneringsprogramma als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=7&paragraaf=7.1&artikel=27&z=2025-11-14&g=2025-11-14) of een melding als bedoeld in [artikel 31, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=7&paragraaf=7.3&artikel=31&z=2025-11-14&g=2025-11-14);
+- b. een saneringsprogramma als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=7&paragraaf=7.1&artikel=27&z=2026-10-16&g=2026-10-16) of een melding als bedoeld in [artikel 31, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=7&paragraaf=7.3&artikel=31&z=2026-10-16&g=2026-10-16);
 
 - c. andere informatie die de ontvanger aan de minister verstrekt over te treffen maatregelen en de kosten daarvan.
 
-2. De minister neemt bij de ambtshalve wijziging de plafonds van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=4&artikel=14&z=2025-11-14&g=2025-11-14) in acht.
+2. De minister neemt bij de ambtshalve wijziging de plafonds van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=4&artikel=14&z=2026-10-16&g=2026-10-16) in acht.
 
 ### Hoofdstuk 7. Verplichtingen van de ontvanger
 
@@ -459,7 +461,7 @@ De ontvanger draagt zorg voor een functiescheiding van de instanties die worden 
 
 - b. bij geluidwerende maatregelen: rapport van een bouwtechnisch onderzoek met een berekening van de geluidwering voor en na de maatregelen, inclusief plattegronden met maatvoering;
 
-- c. bij geluidwerende maatregelen: een berekening van de kosten van de geluidwerende maatregelen uitgaande van de toetsbedragen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&bijlage=2&z=2025-11-14&g=2025-11-14) bij deze regeling;
+- c. bij geluidwerende maatregelen: een berekening van de kosten van de geluidwerende maatregelen uitgaande van de toetsbedragen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&bijlage=2&z=2026-10-16&g=2026-10-16) bij deze regeling;
 
 - d. bij geluidwerende maatregelen of het afzien daarvan: besluit op grond van [artikel 3.53](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=3.53) of [3.54 van het Bkl](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=3.54);
 
@@ -483,11 +485,11 @@ De ontvanger draagt zorg voor een functiescheiding van de instanties die worden 
 
 - d. wanneer voor een gebouw in het saneringsprogramma geen maatregel is getroffen: de reden waarom geen maatregel is getroffen.
 
-4. Een budgetontvanger stuurt de gegevens, bedoeld in het derde lid, aan de minister na de oplevering van het laatste project in een saneringsprogramma waarin de maatregelkeuze voor de locatie van die projecten is vastgesteld. Dit gebeurt bij de laatste van de jaarlijkse rapportages genoemd in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=7&paragraaf=7.2&artikel=30&z=2025-11-14&g=2025-11-14).
+4. Een budgetontvanger stuurt de gegevens, bedoeld in het derde lid, aan de minister na de oplevering van het laatste project in een saneringsprogramma waarin de maatregelkeuze voor de locatie van die projecten is vastgesteld. Dit gebeurt bij de laatste van de jaarlijkse rapportages genoemd in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=7&paragraaf=7.2&artikel=30&z=2026-10-16&g=2026-10-16).
 
 ##### Artikel 27. Verplichting aangaande het saneringsprogramma
 
-1. De in [artikel 3, tweede lid, onder b tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2025-11-14&g=2025-11-14), genoemde maatregelen worden vastgelegd in een saneringsprogramma.
+1. De in [artikel 3, tweede lid, onder b tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2026-10-16&g=2026-10-16), genoemde maatregelen worden vastgelegd in een saneringsprogramma.
 
 2. De ontvanger meldt de terinzagelegging van het saneringsprogramma aan de minister.
 
@@ -501,7 +503,7 @@ De ontvanger draagt zorg voor een functiescheiding van de instanties die worden 
 
 1. Om voor een bijdrage in aanmerking te komen leidt een bronmaatregel aan de constructie van een weg gemiddeld over de levensduur tot een afname van de geluidbelasting vóór afronding van ten minste 1,0 dB op ten minste een geluidgevoelig gebouw in het cluster waarvoor de bronmaatregel wordt afgewogen.
 
-2. Wanneer in een saneringsprogramma als maatregel een geluidscherm of -wal is opgenomen, legt de ontvanger het akoestisch onderzoek, het bestek, de kostenraming en de berekening van de gemiddelde schermkosten volgens [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&bijlage=2&z=2025-11-14&g=2025-11-14) bij deze regeling, voor aan de minister. De opdracht voor de uitvoering wordt niet eerder verleend dan nadat de minister heeft ingestemd met het ontwerp en de kostenraming. De minister besluit binnen zes weken op de toegezonden stukken. Deze termijn kan eenmalig worden verlengd met zes weken.
+2. Wanneer in een saneringsprogramma als maatregel een geluidscherm of -wal is opgenomen, legt de ontvanger het akoestisch onderzoek, het bestek, de kostenraming en de berekening van de gemiddelde schermkosten volgens [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&bijlage=2&z=2026-10-16&g=2026-10-16) bij deze regeling, voor aan de minister. De opdracht voor de uitvoering wordt niet eerder verleend dan nadat de minister heeft ingestemd met het ontwerp en de kostenraming. De minister besluit binnen zes weken op de toegezonden stukken. Deze termijn kan eenmalig worden verlengd met zes weken.
 
 3. Om voor een bijdrage in aanmerking te komen geldt voor geluidwerende maatregelen dat zij:
 
@@ -513,7 +515,7 @@ De ontvanger draagt zorg voor een functiescheiding van de instanties die worden 
 
 - d. voor ventilatievoorzieningen waar mogelijk gebruik maken van de bestaande ventilatiemogelijkheden, rekening houdend met de eisen die aan het voldoende beperken van de geluidbelasting worden gesteld.
 
-4. Maatregelen waardoor een saneringsgebouw ophoudt een geluidgevoelig gebouw te zijn, komen alleen voor een bijdrage in aanmerking als de maatregelen, bedoeld in [artikel 3, tweede lid, onder b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2025-11-14&g=2025-11-14), niet kunnen leiden tot een geluidreductie als bedoeld in [artikel 12.12](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=12.12), [12.13](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=12.13) of [12.13a van het Bkl](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=12.13a), en geluidwerende maatregelen, zo mogelijk in combinatie met geluidbeperkende maatregelen, niet kunnen leiden tot het voldoen aan [artikel 3.53, tweede lid, van het Bkl](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=3.53).
+4. Maatregelen waardoor een saneringsgebouw ophoudt een geluidgevoelig gebouw te zijn, komen alleen voor een bijdrage in aanmerking als de maatregelen, bedoeld in [artikel 3, tweede lid, onder b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2026-10-16&g=2026-10-16), niet kunnen leiden tot een geluidreductie als bedoeld in [artikel 12.12](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=12.12), [12.13](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=12.13) of [12.13a van het Bkl](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=12.13a), en geluidwerende maatregelen, zo mogelijk in combinatie met geluidbeperkende maatregelen, niet kunnen leiden tot het voldoen aan [artikel 3.53, tweede lid, van het Bkl](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=3.53).
 
 ##### Artikel 29. Verplichting aangaande controlemeting geluidwerende maatregelen
 
@@ -527,7 +529,7 @@ De ontvanger draagt zorg voor een functiescheiding van de instanties die worden 
 
 ##### Artikel 30. Verplichting aangaande uitvoering maatregelen en informatieverplichting
 
-1. De ontvanger informeert de minister jaarlijks vóór 1 februari over de voortgang van de meerjarenplanning, bedoeld in [artikel 17, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=5&artikel=17&z=2025-11-14&g=2025-11-14), en de eventuele aanpassing daarvan. De ontvanger verstrekt daarbij in ieder geval de volgende gegevens:
+1. De ontvanger informeert de minister jaarlijks vóór 1 februari over de voortgang van de meerjarenplanning, bedoeld in [artikel 17, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=5&artikel=17&z=2026-10-16&g=2026-10-16), en de eventuele aanpassing daarvan. De ontvanger verstrekt daarbij in ieder geval de volgende gegevens:
 
 - 1°. een aanduiding van de gesaneerde gebouwen;
 
@@ -535,7 +537,7 @@ De ontvanger draagt zorg voor een functiescheiding van de instanties die worden 
 
 - 3°. een actualisatie van de liquiditeitsplanning;
 
-- 4°. een actualisatie van de gegevens, bedoeld in [artikel 17, tweede lid, onder d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=5&artikel=17&z=2025-11-14&g=2025-11-14).
+- 4°. een actualisatie van de gegevens, bedoeld in [artikel 17, tweede lid, onder d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=5&artikel=17&z=2026-10-16&g=2026-10-16).
 
 2. De uitvoering van maatregelen voor het aantal in de aanvraag opgenomen gebouwen wordt gestart binnen de looptijd van de bijdrage.
 
@@ -543,13 +545,13 @@ De ontvanger draagt zorg voor een functiescheiding van de instanties die worden 
 
 ##### Artikel 31. Verplichting aangaande uitvoering maatregelen
 
-1. De ontvanger voert de maatregelen, bedoeld in [artikel 3, tweede lid, onder b tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2025-11-14&g=2025-11-14), niet eerder uit dan nadat de minister heeft ingestemd met het saneringsprogramma voor de onderdelen bedoeld in [artikel 27, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=7&paragraaf=7.1&artikel=27&z=2025-11-14&g=2025-11-14).
+1. De ontvanger voert de maatregelen, bedoeld in [artikel 3, tweede lid, onder b tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2026-10-16&g=2026-10-16), niet eerder uit dan nadat de minister heeft ingestemd met het saneringsprogramma voor de onderdelen bedoeld in [artikel 27, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=7&paragraaf=7.1&artikel=27&z=2026-10-16&g=2026-10-16).
 
-2. De minister beslist over het saneringsprogramma binnen vier weken na de melding, bedoeld in [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=7&paragraaf=7.1&artikel=27&z=2025-11-14&g=2025-11-14). Deze termijn kan eenmalig worden verlengd met vier weken.
+2. De minister beslist over het saneringsprogramma binnen vier weken na de melding, bedoeld in [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=7&paragraaf=7.1&artikel=27&z=2026-10-16&g=2026-10-16). Deze termijn kan eenmalig worden verlengd met vier weken.
 
 3. De ontvanger informeert de minister over de geplande start van de uitvoering van de maatregelen.
 
-4. Wanneer in een saneringsprogramma als bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=7&paragraaf=7.1&artikel=27&z=2025-11-14&g=2025-11-14), een andere maatregel dan geluidwerende maatregelen is opgenomen, informeert de ontvanger de minister zo spoedig mogelijk over de actuele kostenraming voor het project.
+4. Wanneer in een saneringsprogramma als bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=7&paragraaf=7.1&artikel=27&z=2026-10-16&g=2026-10-16), een andere maatregel dan geluidwerende maatregelen is opgenomen, informeert de ontvanger de minister zo spoedig mogelijk over de actuele kostenraming voor het project.
 
 5. Wanneer bij de aanbesteding van maatregelen blijkt dat de kosten van de maatregelen hoger zijn dan de verleende bijdrage, informeert de ontvanger de minister zo spoedig mogelijk over de actuele kostenraming voor het project.
 
@@ -561,31 +563,31 @@ Zolang nog geen aanvraag tot vaststelling is ingediend, dienen waterschappen een
 
 - a. de uitgaven tot het moment van de rapportage;
 
-- b. de maatregelen, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2025-11-14&g=2025-11-14), en het aantal geluidgevoelige gebouwen waarvoor deze maatregelen zijn getroffen;
+- b. de maatregelen, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2026-10-16&g=2026-10-16), en het aantal geluidgevoelige gebouwen waarvoor deze maatregelen zijn getroffen;
 
-- c. een actualisatie van de planning, bedoeld in [artikel 21, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=6&artikel=21&z=2025-11-14&g=2025-11-14).
+- c. een actualisatie van de planning, bedoeld in [artikel 21, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=6&artikel=21&z=2026-10-16&g=2026-10-16).
 
 ### Hoofdstuk 8. Bevoorschotting
 
 ##### Artikel 33. Bevoorschotting budgetbijdrage
 
-1. Het jaarlijkse voorschot voor een budgetbijdrage is 95% van het bedrag, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=4&artikel=15&z=2025-11-14&g=2025-11-14), gedeeld door het aantal jaren waarvoor de bijdrage wordt aangevraagd, of een bedrag op basis van de liquiditeitsbehoefte voor het saneringsprogramma.
+1. Het jaarlijkse voorschot voor een budgetbijdrage is 95% van het bedrag, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=4&artikel=15&z=2026-10-16&g=2026-10-16), gedeeld door het aantal jaren waarvoor de bijdrage wordt aangevraagd, of een bedrag op basis van de liquiditeitsbehoefte voor het saneringsprogramma.
 
 2. Het eerste voorschot voor een budgetbijdrage wordt binnen vier weken na verlening of aan de hand van de liquiditeitsbehoefte voor het saneringsprogramma verstrekt.
 
-3. De voorschotverlening kan worden opgeschort zolang de rapportage, bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=7&paragraaf=7.2&artikel=30&z=2025-11-14&g=2025-11-14), in strijd met dat artikel niet is ontvangen.
+3. De voorschotverlening kan worden opgeschort zolang de rapportage, bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=7&paragraaf=7.2&artikel=30&z=2026-10-16&g=2026-10-16), in strijd met dat artikel niet is ontvangen.
 
 ##### Artikel 34. Bevoorschotting projectbijdrage
 
-1. Het voorschot voor een activiteit, bedoeld in [artikel 3, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2025-11-14&g=2025-11-14), is € 700 per saneringsgebouw. Dit voorschot wordt verstrekt binnen vier weken na verlening van de projectbijdrage of in een termijn die wordt bepaald aan de hand van de liquiditeitsbehoefte voor het project.
+1. Het voorschot voor een activiteit, bedoeld in [artikel 3, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2026-10-16&g=2026-10-16), is € 700 per saneringsgebouw. Dit voorschot wordt verstrekt binnen vier weken na verlening van de projectbijdrage of in een termijn die wordt bepaald aan de hand van de liquiditeitsbehoefte voor het project.
 
-2. Wanneer in een aanvraag vrijwillig te saneren gebouwen zijn opgenomen, bedraagt het voorschot voor een activiteit als bedoeld in [artikel 3, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2025-11-14&g=2025-11-14), een percentage van € 700 per vrijwillig te saneren gebouw, bepaald volgens de in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=4&z=2025-11-14&g=2025-11-14), genoemde tabel 1.
+2. Wanneer in een aanvraag vrijwillig te saneren gebouwen zijn opgenomen, bedraagt het voorschot voor een activiteit als bedoeld in [artikel 3, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2026-10-16&g=2026-10-16), een percentage van € 700 per vrijwillig te saneren gebouw, bepaald volgens de in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=4&z=2026-10-16&g=2026-10-16), genoemde tabel 1.
 
-3. Het voorschot voor activiteiten als bedoeld in [artikel 3, tweede lid, onder b tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2025-11-14&g=2025-11-14), is 95% van de verleende projectbijdrage na aftrek van de voorschotten, bedoeld in het eerste en tweede lid.
+3. Het voorschot voor activiteiten als bedoeld in [artikel 3, tweede lid, onder b tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2026-10-16&g=2026-10-16), is 95% van de verleende projectbijdrage na aftrek van de voorschotten, bedoeld in het eerste en tweede lid.
 
-4. Voorschotten als bedoeld in het derde lid worden maximaal viermaal, gelijkmatig verspreid over het tijdvak waarin de maatregelen zullen worden getroffen, of aan de hand van de liquiditeitsbehoefte voor het project verstrekt, nadat de ontvanger aan de verplichting van [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=7&paragraaf=7.1&artikel=27&z=2025-11-14&g=2025-11-14), om de terinzagelegging van het saneringsprogramma te melden, heeft voldaan, en de minister met het saneringsprogramma heeft ingestemd ingevolge [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=7&paragraaf=7.3&artikel=31&z=2025-11-14&g=2025-11-14).
+4. Voorschotten als bedoeld in het derde lid worden maximaal viermaal, gelijkmatig verspreid over het tijdvak waarin de maatregelen zullen worden getroffen, of aan de hand van de liquiditeitsbehoefte voor het project verstrekt, nadat de ontvanger aan de verplichting van [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=7&paragraaf=7.1&artikel=27&z=2026-10-16&g=2026-10-16), om de terinzagelegging van het saneringsprogramma te melden, heeft voldaan, en de minister met het saneringsprogramma heeft ingestemd ingevolge [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=7&paragraaf=7.3&artikel=31&z=2026-10-16&g=2026-10-16).
 
-5. De voorschotverlening aan een waterschap wordt opgeschort zolang de rapportage, bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=7&paragraaf=7.3&artikel=32&z=2025-11-14&g=2025-11-14), in strijd met dat artikel niet is ontvangen.
+5. De voorschotverlening aan een waterschap wordt opgeschort zolang de rapportage, bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=7&paragraaf=7.3&artikel=32&z=2026-10-16&g=2026-10-16), in strijd met dat artikel niet is ontvangen.
 
 ### Hoofdstuk 9. Verantwoording en vaststelling
 
@@ -597,13 +599,13 @@ Zolang nog geen aanvraag tot vaststelling is ingediend, dienen waterschappen een
 
 ##### Artikel 36. Wijze van berekenen bijdrage saneringsgebouwen
 
-1. De hoogte van de bijdrage voor voorbereiding, begeleiding en toezicht, bedoeld in [artikel 3, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2025-11-14&g=2025-11-14), is:
+1. De hoogte van de bijdrage voor voorbereiding, begeleiding en toezicht, bedoeld in [artikel 3, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2026-10-16&g=2026-10-16), is:
 
-- a. 18% van het bedrag van de bijdrage voor de maatregelen, bedoeld in [artikel 3, tweede lid, onder b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2025-11-14&g=2025-11-14);
+- a. 18% van het bedrag van de bijdrage voor de maatregelen, bedoeld in [artikel 3, tweede lid, onder b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2026-10-16&g=2026-10-16);
 
-- b. voor maatregelen, bedoeld in [artikel 3, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2025-11-14&g=2025-11-14): een bedrag per gebouw zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&bijlage=2&z=2025-11-14&g=2025-11-14) bij deze regeling.
+- b. voor maatregelen, bedoeld in [artikel 3, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2026-10-16&g=2026-10-16): een bedrag per gebouw zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&bijlage=2&z=2026-10-16&g=2026-10-16) bij deze regeling.
 
-2. De hoogte van de bijdrage voor uitvoering van de maatregelen, bedoeld in [artikel 3, tweede lid, onder b tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2025-11-14&g=2025-11-14), is het bedrag van de werkelijk gemaakte kosten met een maximum per getroffen maatregel volgens [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&bijlage=2&z=2025-11-14&g=2025-11-14) bij deze regeling.
+2. De hoogte van de bijdrage voor uitvoering van de maatregelen, bedoeld in [artikel 3, tweede lid, onder b tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2026-10-16&g=2026-10-16), is het bedrag van de werkelijk gemaakte kosten met een maximum per getroffen maatregel volgens [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&bijlage=2&z=2026-10-16&g=2026-10-16) bij deze regeling.
 
 3. In afwijking van het tweede lid:
 
@@ -611,9 +613,9 @@ Zolang nog geen aanvraag tot vaststelling is ingediend, dienen waterschappen een
 
 - b. kan voor geluidschermen en -wallen en voor geluidwerende maatregelen het maximale bedrag worden overschreden wanneer de minister voorafgaand aan de uitvoering toestemming heeft gegeven voor uitzonderlijke kosten;
 
-- c. geldt een vast bedrag voor bronmaatregelen aan de constructie van een weg, dat wordt berekend met toepassing van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&bijlage=2&z=2025-11-14&g=2025-11-14) bij deze regeling.
+- c. geldt een vast bedrag voor bronmaatregelen aan de constructie van een weg, dat wordt berekend met toepassing van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&bijlage=2&z=2026-10-16&g=2026-10-16) bij deze regeling.
 
-4. Wanneer maatregelen als bedoeld in [artikel 3, tweede lid, onder c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2025-11-14&g=2025-11-14) worden getroffen bij een gekoppelde sanering, komen de maatregelen ten laste van de beheerder van de weg of spoorweg voor zover die maatregelen nodig zijn om een toename van de geluidproductie of geluidemissie als gevolg van de wijziging van de weg of spoorweg weg te nemen. Het aandeel van de beheerder in de kosten van de maatregel is de toename in geluidbelasting door de wijziging van de weg of spoorweg, gedeeld door de som van de reducties die nodig zijn voor het wegnemen van de toename en de sanering gezamenlijk.
+4. Wanneer maatregelen als bedoeld in [artikel 3, tweede lid, onder c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2026-10-16&g=2026-10-16) worden getroffen bij een gekoppelde sanering, komen de maatregelen ten laste van de beheerder van de weg of spoorweg voor zover die maatregelen nodig zijn om een toename van de geluidproductie of geluidemissie als gevolg van de wijziging van de weg of spoorweg weg te nemen. Het aandeel van de beheerder in de kosten van de maatregel is de toename in geluidbelasting door de wijziging van de weg of spoorweg, gedeeld door de som van de reducties die nodig zijn voor het wegnemen van de toename en de sanering gezamenlijk.
 
 5. De hoogte van de bedragen in de bijlagen, bedoeld in het eerste, tweede en derde lid zal elke twee jaar worden geïndexeerd volgens tabel 2.
 
@@ -628,35 +630,35 @@ Zolang nog geen aanvraag tot vaststelling is ingediend, dienen waterschappen een
 
 ##### Artikel 37. Wijze van berekenen bijdrage vrijwillig te saneren gebouwen
 
-1. De bijdrage voor de maatregelen, bedoeld in [artikel 3, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2025-11-14&g=2025-11-14) voor vrijwillig te saneren gebouwen is een percentage van de bedragen, bedoeld in [artikel 36, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=9&artikel=36&z=2025-11-14&g=2025-11-14), volgens tabel 1 als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=4&z=2025-11-14&g=2025-11-14) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=5&z=2025-11-14&g=2025-11-14).
+1. De bijdrage voor de maatregelen, bedoeld in [artikel 3, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2026-10-16&g=2026-10-16) voor vrijwillig te saneren gebouwen is een percentage van de bedragen, bedoeld in [artikel 36, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=9&artikel=36&z=2026-10-16&g=2026-10-16), volgens tabel 1 als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=4&z=2026-10-16&g=2026-10-16) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=5&z=2026-10-16&g=2026-10-16).
 
-2. De bijdrage voor de activiteiten, bedoeld in [artikel 3, tweede lid, onder a, b, c, d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2025-11-14&g=2025-11-14) voor vrijwillig te saneren gebouwen is 50% van de bedragen, bedoeld in [artikel 36, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=9&artikel=36&z=2025-11-14&g=2025-11-14).
+2. De bijdrage voor de activiteiten, bedoeld in [artikel 3, tweede lid, onder a, b, c, d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2026-10-16&g=2026-10-16) voor vrijwillig te saneren gebouwen is 50% van de bedragen, bedoeld in [artikel 36, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=9&artikel=36&z=2026-10-16&g=2026-10-16).
 
-3. Het [derde en vierde lid van artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=9&artikel=36&z=2025-11-14&g=2025-11-14) zijn van overeenkomstige toepassing.
+3. Het [derde en vierde lid van artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=9&artikel=36&z=2026-10-16&g=2026-10-16) zijn van overeenkomstige toepassing.
 
 ##### Artikel 38. Verantwoording
 
-Gemeenten, provincies en omgevingsdiensten leggen verantwoording af over de besteding van de bijdrage op de wijze bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a). Dit geldt niet voor bestedingen voor voorbereiding, begeleiding en toezicht en voor bronmaatregelen aan de constructie van een weg als bedoeld in [artikel 3, tweede lid, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2025-11-14&g=2025-11-14).
+Gemeenten, provincies en omgevingsdiensten leggen verantwoording af over de besteding van de bijdrage op de wijze bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a). Dit geldt niet voor bestedingen voor voorbereiding, begeleiding en toezicht en voor bronmaatregelen aan de constructie van een weg als bedoeld in [artikel 3, tweede lid, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2026-10-16&g=2026-10-16).
 
 ##### Artikel 39. Vaststellen van een budgetbijdrage
 
-1. De minister stelt uiterlijk 31 december, op basis van de verantwoording, bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=9&artikel=38&z=2025-11-14&g=2025-11-14), de budgetbijdrage vast.
+1. De minister stelt uiterlijk 31 december, op basis van de verantwoording, bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=9&artikel=38&z=2026-10-16&g=2026-10-16), de budgetbijdrage vast.
 
-2. Budgetontvangers kunnen in afwijking van het eerste lid een vaststelling van een budgetbijdrage aanvragen door de verantwoordingsinformatie, bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=9&artikel=38&z=2025-11-14&g=2025-11-14), voor zover deze specifiek op de verleende bijdrage ziet, voor 1 juli van het jaar volgend op het begrotingsjaar aan de minister te zenden.
+2. Budgetontvangers kunnen in afwijking van het eerste lid een vaststelling van een budgetbijdrage aanvragen door de verantwoordingsinformatie, bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=9&artikel=38&z=2026-10-16&g=2026-10-16), voor zover deze specifiek op de verleende bijdrage ziet, voor 1 juli van het jaar volgend op het begrotingsjaar aan de minister te zenden.
 
 3. In geval van toepassing van het tweede lid stelt de minister de bijdrage uiterlijk acht weken na aanvraag vast.
 
-4. De minister kan de budgetbijdrage vaststellen op een lager bedrag dan het verantwoorde bedrag wanneer uit controle blijkt dat niet is voldaan aan het saneringsdoel, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2025-11-14&g=2025-11-14), of aan de verplichtingen, bedoeld in [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=7&z=2025-11-14&g=2025-11-14), of als de kosten niet voor een budgetbijdrage in aanmerking komen, bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=3&z=2025-11-14&g=2025-11-14), of niet bepaald zijn in overeenstemming met [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=9&artikel=36&z=2025-11-14&g=2025-11-14) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=9&artikel=37&z=2025-11-14&g=2025-11-14).
+4. De minister kan de budgetbijdrage vaststellen op een lager bedrag dan het verantwoorde bedrag wanneer uit controle blijkt dat niet is voldaan aan het saneringsdoel, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2026-10-16&g=2026-10-16), of aan de verplichtingen, bedoeld in [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=7&z=2026-10-16&g=2026-10-16), of als de kosten niet voor een budgetbijdrage in aanmerking komen, bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=3&z=2026-10-16&g=2026-10-16), of niet bepaald zijn in overeenstemming met [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=9&artikel=36&z=2026-10-16&g=2026-10-16) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=9&artikel=37&z=2026-10-16&g=2026-10-16).
 
 ##### Artikel 40. Vaststellen van een projectbijdrage aan gemeente, provincie en omgevingsdienst
 
-1. De minister stelt uiterlijk 31 december op basis van de verantwoording, bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=9&artikel=38&z=2025-11-14&g=2025-11-14), de projectbijdrage vast.
+1. De minister stelt uiterlijk 31 december op basis van de verantwoording, bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=9&artikel=38&z=2026-10-16&g=2026-10-16), de projectbijdrage vast.
 
-2. Gemeenten, provincies en omgevingsdiensten kunnen in afwijking van het eerste lid een vaststelling van een projectbijdrage aanvragen door de verantwoordingsinformatie, bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=9&artikel=38&z=2025-11-14&g=2025-11-14), voor zover deze specifiek op de verleende bijdrage ziet, voor 1 juli van het jaar volgend op het begrotingsjaar aan de minister te zenden.
+2. Gemeenten, provincies en omgevingsdiensten kunnen in afwijking van het eerste lid een vaststelling van een projectbijdrage aanvragen door de verantwoordingsinformatie, bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=9&artikel=38&z=2026-10-16&g=2026-10-16), voor zover deze specifiek op de verleende bijdrage ziet, voor 1 juli van het jaar volgend op het begrotingsjaar aan de minister te zenden.
 
 3. In geval van toepassing van het tweede lid stelt de minister de bijdrage uiterlijk acht weken na aanvraag vast.
 
-4. De minister kan de projectbijdrage vaststellen op een lager bedrag dan het verantwoorde bedrag wanneer uit controle blijkt dat niet is voldaan aan het saneringsdoel, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2025-11-14&g=2025-11-14), of aan de verplichtingen, bedoeld in [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=7&z=2025-11-14&g=2025-11-14), of als de kosten niet voor een projectbijdrage in aanmerking komen, bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=3&z=2025-11-14&g=2025-11-14), of niet bepaald zijn in overeenstemming met [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=9&artikel=36&z=2025-11-14&g=2025-11-14) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=9&artikel=37&z=2025-11-14&g=2025-11-14).
+4. De minister kan de projectbijdrage vaststellen op een lager bedrag dan het verantwoorde bedrag wanneer uit controle blijkt dat niet is voldaan aan het saneringsdoel, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2026-10-16&g=2026-10-16), of aan de verplichtingen, bedoeld in [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=7&z=2026-10-16&g=2026-10-16), of als de kosten niet voor een projectbijdrage in aanmerking komen, bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=3&z=2026-10-16&g=2026-10-16), of niet bepaald zijn in overeenstemming met [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=9&artikel=36&z=2026-10-16&g=2026-10-16) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=9&artikel=37&z=2026-10-16&g=2026-10-16).
 
 ##### Artikel 41. Vaststellen van een projectbijdrage aan een waterschap
 
@@ -680,7 +682,7 @@ Gemeenten, provincies en omgevingsdiensten leggen verantwoording af over de best
 
 ##### Artikel 42. Korting bij niet tijdig indienen aanvraag tot vaststelling door een waterschap
 
-1. Indien een waterschap de aanvraag tot vaststelling, bedoeld in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=9&artikel=41&z=2025-11-14&g=2025-11-14), niet tijdig heeft toegezonden of indien de toegezonden stukken naar het oordeel van de minister onvolledig zijn, stelt de minister het waterschap binnen zes weken na de in artikel 41, eerste lid, genoemde termijn dan wel na ontvangst van deze stukken, in de gelegenheid om binnen een door de minister te stellen termijn van ten hoogste acht weken alsnog aan zijn verplichtingen te voldoen.
+1. Indien een waterschap de aanvraag tot vaststelling, bedoeld in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=9&artikel=41&z=2026-10-16&g=2026-10-16), niet tijdig heeft toegezonden of indien de toegezonden stukken naar het oordeel van de minister onvolledig zijn, stelt de minister het waterschap binnen zes weken na de in artikel 41, eerste lid, genoemde termijn dan wel na ontvangst van deze stukken, in de gelegenheid om binnen een door de minister te stellen termijn van ten hoogste acht weken alsnog aan zijn verplichtingen te voldoen.
 
 2. Indien het waterschap niet binnen de in het eerste lid genoemde termijn aan zijn verplichtingen heeft voldaan, kan de minister voor iedere week die het waterschap in gebreke blijft, bij de vaststelling van de projectbijdrage een korting toepassen van 2,5% van de verleende projectbijdrage.
 

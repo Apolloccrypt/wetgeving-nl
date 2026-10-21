@@ -9,7 +9,7 @@ laatste_update: 2015-12-31
 status: geldig
 toestand: 2015-12-31
 bron: "https://wetten.overheid.nl/BWBR0037194"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 10 november 2015 nr. BOACAT2015/057, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Roosendaal, domein I, Openbare Ruimte

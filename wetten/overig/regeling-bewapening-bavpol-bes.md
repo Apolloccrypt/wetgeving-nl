@@ -9,7 +9,7 @@ laatste_update: 2015-12-16
 status: geldig
 toestand: 2015-12-16
 bron: "https://wetten.overheid.nl/BWBR0037343"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 7 december 2015, nummer 606393, houdende vaststelling van de bewapeningsregeling van de buitengewone agenten van politie BES (Regeling bewapening BavPol BES)

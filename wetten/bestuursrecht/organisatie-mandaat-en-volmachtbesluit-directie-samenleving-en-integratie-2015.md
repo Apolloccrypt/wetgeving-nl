@@ -9,7 +9,7 @@ laatste_update: 2025-11-11
 status: geldig
 toestand: 2025-11-11
 bron: "https://wetten.overheid.nl/BWBR0037457"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 17 december 2015, 2015-0000305670, de inrichting van de directie Samenleving en Integratie alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Samenleving en Integratie (Organisatie-, mandaat- en volmachtbesluit directie Samenleving en Integratie 2015)

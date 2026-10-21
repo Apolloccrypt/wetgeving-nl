@@ -8,7 +8,7 @@ laatste_update: 2024-11-07
 status: geldig
 toestand: 2024-11-07
 bron: "https://wetten.overheid.nl/BWBR0037039"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Regeling informatiebeheer Defensie 2015

@@ -9,7 +9,7 @@ laatste_update: 2015-07-14
 status: geldig
 toestand: 2015-07-14
 bron: "https://wetten.overheid.nl/BWBR0036880"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Besluit bekendmaking van het op 14 juli 2015 tussen de Ministers van Financiën van Duitsland en Nederland gesloten Memorandum van Overeenstemming inzake de intensivering van de spontane inlichtingenuitwisseling m.b.t. grensoverschrijdende belastingafspraken met en beslissingen van de belastingdiensten

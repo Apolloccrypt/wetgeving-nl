@@ -9,7 +9,7 @@ laatste_update: 2015-08-01
 status: geldig
 toestand: 2015-08-01
 bron: "https://wetten.overheid.nl/BWBR0036905"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 23 juli 2015, MINBUZA-2015.350493 tot wijziging van het Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 2 februari 2015, nr. Minbuza-2015.19324, tot vaststelling van enkele subsidieplafonds (internationaal ondernemen)

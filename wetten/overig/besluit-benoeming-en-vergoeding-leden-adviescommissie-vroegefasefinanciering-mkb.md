@@ -8,7 +8,7 @@ laatste_update: 2015-11-01
 status: geldig
 toestand: 2015-11-01
 bron: "https://wetten.overheid.nl/BWBR0037008"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-21
 ---
 
 # Besluit benoeming en vergoeding leden Adviescommissie vroegefasefinanciering MKB-ondernemers en innovatieve starters

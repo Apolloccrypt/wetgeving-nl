@@ -9,7 +9,7 @@ laatste_update: 2015-06-06
 status: geldig
 toestand: 2015-06-06
 bron: "https://wetten.overheid.nl/BWBR0036660"
-opgehaald: 2026-08-22
+opgehaald: 2026-10-21
 ---
 
 # Regeling van de Staatssecretaris van Veiligheid en Justitie van 28 mei 2015, nr. 636335, houdende voorschriften betreffende de berekening en uitkering van de rente, toegevoegd aan de bijzondere rekeningen van deurwaarders in Bonaire, Sint Eustatius en Saba (Regeling rente bijzondere rekeningen deurwaarders BES)
