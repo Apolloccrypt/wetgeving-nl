@@ -9,7 +9,7 @@ laatste_update: 2016-10-01
 status: geldig
 toestand: 2016-10-01
 bron: "https://wetten.overheid.nl/BWBR0038034"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Wet van 18 mei 2016 tot wijziging van wetten teneinde misslagen en omissies in wetten op het terrein van het ministerie van Volksgezondheid, Welzijn en Sport te herstellen, de broninhouding van eigen bijdragen voor beschermd wonen te kunnen voortzetten en het College bouw zorginstellingen op te heffen (Verzamelwet VWS 2016)

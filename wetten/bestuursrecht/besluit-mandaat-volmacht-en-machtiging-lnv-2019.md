@@ -9,7 +9,7 @@ laatste_update: 2026-10-16
 status: geldig
 toestand: 2026-10-16
 bron: "https://wetten.overheid.nl/BWBR0041794"
-opgehaald: 2026-10-21
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 7 december 2018, nr. WJZ/18055953, houdende regels inzake de verlening van mandaat, volmacht en machtiging voor het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2019 (Besluit mandaat, volmacht en machtiging LNV 2019)

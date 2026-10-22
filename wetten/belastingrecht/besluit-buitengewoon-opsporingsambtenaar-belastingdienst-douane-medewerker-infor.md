@@ -9,7 +9,7 @@ laatste_update: 2016-03-25
 status: geldig
 toestand: 2016-03-25
 bron: "https://wetten.overheid.nl/BWBR0037742"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 16 maart 2016 nr. BOACAT2016/019, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Belastingdienst Douane

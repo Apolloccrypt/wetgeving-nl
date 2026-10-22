@@ -9,7 +9,7 @@ laatste_update: 2025-12-12
 status: geldig
 toestand: 2025-12-12
 bron: "https://wetten.overheid.nl/BWBR0037469"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit van 23 december 2015, houdende identificatie- en rapportagevoorschriften voor rapporterende financiële instellingen met het oog op de automatische uitwisseling van inlichtingen op basis van de Common Reporting Standard (Uitvoeringsbesluit identificatie- en rapportagevoorschriften Common Reporting Standard)

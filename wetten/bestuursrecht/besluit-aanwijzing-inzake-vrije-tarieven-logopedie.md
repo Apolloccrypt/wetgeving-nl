@@ -9,7 +9,7 @@ laatste_update: 2016-07-01
 status: geldig
 toestand: 2016-07-01
 bron: "https://wetten.overheid.nl/BWBR0037979"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 19 mei 2016, kenmerk 954065-149176-MC, inzake vrije tarieven logopedie

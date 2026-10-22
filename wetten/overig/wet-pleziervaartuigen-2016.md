@@ -9,7 +9,7 @@ laatste_update: 2023-04-19
 status: geldig
 toestand: 2023-04-19
 bron: "https://wetten.overheid.nl/BWBR0037546"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Wet van 23 december 2015, houdende regels met betrekking tot de veiligheid en het in de handel brengen van pleziervaartuigen (Wet pleziervaartuigen 2016)

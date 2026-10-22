@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0037630"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Minister van Economische Zaken van 12 februari 2016, nr. WJZ/15182740, houdende regels omtrent de vergoeding voor de kosten van de bemoeiingen met betrekking tot de in artikel 7, vijfde lid, Wet telecommunicatievoorzieningen BES genoemde kosten verbonden aan de verlening van de concessie van de bij of krachtens de Wet telecommunicatievoorzieningen BES gegeven regels, voorschriften en beperkingen alsmede aan de uitoefening van bevoegdheden inzake de telecommunicatie door een openbaar lichaam (Regeling vergoedingen telecommunicatieconcessies Agentschap Telecom BES 2015)

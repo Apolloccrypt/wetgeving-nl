@@ -9,7 +9,7 @@ laatste_update: 2016-02-17
 status: geldig
 toestand: 2016-02-17
 bron: "https://wetten.overheid.nl/BWBR0037614"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Minister van Economische Zaken en de Minister van Volksgezondheid, Welzijn en Sport van 8 februari 2016, nr. WJZ/15154754, houdende salariscompensatie voor medewerkers van productschappen bij de overgang naar de Rijksoverheid (Regeling salariscompensatie medewerkers voormalige productschappen)

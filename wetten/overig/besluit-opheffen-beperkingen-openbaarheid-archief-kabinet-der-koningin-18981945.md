@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0037477"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit houdende het opheffen van de beperkingen, gesteld aan de openbaarheid van het archief van het Kabinet der Koningin 1898–1945

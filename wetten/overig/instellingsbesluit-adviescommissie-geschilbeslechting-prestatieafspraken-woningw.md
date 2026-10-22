@@ -9,7 +9,7 @@ laatste_update: 2016-04-01
 status: geldig
 toestand: 2016-04-01
 bron: "https://wetten.overheid.nl/BWBR0037756"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Minister voor Wonen en Rijksdienst van 22 maart 2016, nr. 0000158458, houdende instelling van de Commissie geschilbeslechting bij totstandkoming van prestatieafspraken als bedoeld in artikel 44 van de Woningwet (Instellingsbesluit Adviescommissie geschilbeslechting prestatieafspraken Woningwet)

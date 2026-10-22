@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0037855"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken van 31 maart 2016, nr. WJZ/15145152, houdende uitvoeringsbepalingen van de Wet implementatie Nagoya Protocol (Regeling uitvoering Wet implementatie Nagoya Protocol)

@@ -9,7 +9,7 @@ laatste_update: 2016-08-11
 status: geldig
 toestand: 2016-08-11
 bron: "https://wetten.overheid.nl/BWBR0037913"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 26 april 2016 nr. BOACAT2016/025, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Brunssum

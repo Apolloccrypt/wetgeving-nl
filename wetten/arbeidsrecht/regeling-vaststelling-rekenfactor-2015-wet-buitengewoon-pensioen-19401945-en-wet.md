@@ -9,7 +9,7 @@ laatste_update: 2016-02-18
 status: geldig
 toestand: 2016-02-18
 bron: "https://wetten.overheid.nl/BWBR0037639"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 9 februari 2016, kenmerk 916070-147083, houdende vaststelling van de rekenfactor ingevolge de Wet buitengewoon pensioen 1940–1945 en de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers voor het jaar 2015

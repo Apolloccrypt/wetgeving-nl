@@ -9,7 +9,7 @@ laatste_update: 2016-02-19
 status: geldig
 toestand: 2016-02-19
 bron: "https://wetten.overheid.nl/BWBR0037633"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 10 februari 2016, kenmerk 907190-146383-Z, inzake de besteedbare middelen ter dekking van de beheerkosten Wlz 2016 (Aanwijzing besteedbare middelen Beheerskosten Wlz 2016)

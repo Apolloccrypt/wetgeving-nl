@@ -9,7 +9,7 @@ laatste_update: 2016-05-14
 status: geldig
 toestand: 2016-05-14
 bron: "https://wetten.overheid.nl/BWBR0037758"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Wet van 16 maart 2016 tot samenvoeging van de gemeenten Schijndel, Sint-Oedenrode en Veghel

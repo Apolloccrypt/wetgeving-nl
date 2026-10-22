@@ -9,7 +9,7 @@ laatste_update: 2018-12-01
 status: geldig
 toestand: 2018-12-01
 bron: "https://wetten.overheid.nl/BWBR0037647"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit directie van het CBR houdende vaststelling van een beleidsregel betreffende het afgeven en intrekken van aanwijzingen van keurend medisch specialisten (beleidsregel aanwijzing keurend medisch specialisten)

@@ -9,7 +9,7 @@ laatste_update: 2016-07-14
 status: geldig
 toestand: 2016-07-14
 bron: "https://wetten.overheid.nl/BWBR0038261"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit tot intrekking van de Beleidsregels aangaande marktmisbruik

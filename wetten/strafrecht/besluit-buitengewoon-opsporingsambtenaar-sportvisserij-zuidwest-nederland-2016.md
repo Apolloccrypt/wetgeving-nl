@@ -9,7 +9,7 @@ laatste_update: 2016-04-13
 status: geldig
 toestand: 2016-04-13
 bron: "https://wetten.overheid.nl/BWBR0037597"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 28 januari 2016 nr. BOACAT2016/009, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Sportvisserij Zuidwest Nederland

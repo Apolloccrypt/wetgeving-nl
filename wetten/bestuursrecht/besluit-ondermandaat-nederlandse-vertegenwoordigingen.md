@@ -8,7 +8,7 @@ laatste_update: 2016-03-25
 status: geldig
 toestand: 2016-03-25
 bron: "https://wetten.overheid.nl/BWBR0037762"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit ondermandaat Nederlandse vertegenwoordigingen

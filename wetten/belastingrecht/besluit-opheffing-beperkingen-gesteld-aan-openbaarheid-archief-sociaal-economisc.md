@@ -8,7 +8,7 @@ laatste_update: 2016-01-12
 status: geldig
 toestand: 2016-01-12
 bron: "https://wetten.overheid.nl/BWBR0037516"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit opheffing beperkingen gesteld aan openbaarheid archief Sociaal-Economische Raad 1950–1979

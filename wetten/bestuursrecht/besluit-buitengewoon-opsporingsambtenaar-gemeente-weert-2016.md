@@ -9,7 +9,7 @@ laatste_update: 2016-03-09
 status: geldig
 toestand: 2016-03-09
 bron: "https://wetten.overheid.nl/BWBR0037554"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 11 januari 2016, nr. BOACAT2016/002, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Weert

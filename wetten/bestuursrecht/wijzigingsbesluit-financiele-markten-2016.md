@@ -9,7 +9,7 @@ laatste_update: 2016-04-01
 status: geldig
 toestand: 2016-04-01
 bron: "https://wetten.overheid.nl/BWBR0037721"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit van 18 februari 2016 tot wijziging van het Besluit Gedragstoezicht financiële ondernemingen Wft, het Besluit bestuurlijke boetes financiële sector en enige andere besluiten op het terrein van de financiële markten (Wijzigingsbesluit financiële markten 2016)

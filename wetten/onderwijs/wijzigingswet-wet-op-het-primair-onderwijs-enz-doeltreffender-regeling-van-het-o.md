@@ -9,7 +9,7 @@ laatste_update: 2020-04-01
 status: geldig
 toestand: 2020-04-01
 bron: "https://wetten.overheid.nl/BWBR0037977"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Wet van 8 april 2016 tot wijziging van de Wet op het primair onderwijs, de Wet primair onderwijs BES, de Wet op de expertisecentra, de Wet op het voortgezet onderwijs, de Wet voortgezet onderwijs BES en de Wet op het onderwijstoezicht in verband met een doeltreffender regeling van het onderwijstoezicht

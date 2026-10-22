@@ -9,7 +9,7 @@ laatste_update: 2020-06-11
 status: geldig
 toestand: 2020-06-11
 bron: "https://wetten.overheid.nl/BWBR0038354"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de inspecteur-generaal Leefomgeving en Transport, van 8 juli 2016, nr. ILT- 2016/50884, houdende verlening van ondermandaat, volmacht en machtiging Wet precursoren voor explosieven (Besluit ondermandaat Wet precursoren voor explosieven)

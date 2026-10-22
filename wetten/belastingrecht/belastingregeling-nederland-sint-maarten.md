@@ -9,7 +9,7 @@ laatste_update: 2016-03-01
 status: geldig
 toestand: 2016-03-01
 bron: "https://wetten.overheid.nl/BWBR0037547"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Rijkswet van 23 december 2015, houdende regeling voor Nederland en Sint Maarten tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en een woonplaatsfictie ter zake van erf-en schenkbelasting (Belastingregeling Nederland Sint Maarten)

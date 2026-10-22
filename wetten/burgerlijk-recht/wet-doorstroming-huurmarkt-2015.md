@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0037891"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Wet van 14 april 2016 tot wijziging van Boek 7 van het Burgerlijk Wetboek en enkele andere wetten in verband met het stellen van nadere huurmaatregelen tot verdere bevordering van de doorstroming op de huurmarkt (Wet doorstroming huurmarkt 2015)

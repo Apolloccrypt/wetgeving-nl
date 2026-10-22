@@ -9,7 +9,7 @@ laatste_update: 2016-01-18
 status: geldig
 toestand: 2016-01-18
 bron: "https://wetten.overheid.nl/BWBR0037513"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 18 januari 2016, nr. WJZ/862245 (6695) tot aanwijzing van een assistentiecentrum als bedoeld in artikel 34d van de Algemene wet erkenning EU-beroepskwalificaties (Aanwijzingsbesluit assistentiecentrum erkenning EU-beroepskwalificaties)

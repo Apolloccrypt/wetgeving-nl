@@ -9,7 +9,7 @@ laatste_update: 2020-05-08
 status: geldig
 toestand: 2020-05-08
 bron: "https://wetten.overheid.nl/BWBR0038420"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Staatssecretaris van Economische Zaken van 29 juli 2016, nr. DGAN-PAV/16103970, houdende vaststelling van de vergoeding voor de leden en plaatsvervangende leden van het College voor de toelating van gewasbeschermingsmiddelen en biociden (Besluit vergoeding leden en plaatsvervangende leden van het College voor de toelating van gewasbeschermingsmiddelen en biociden)

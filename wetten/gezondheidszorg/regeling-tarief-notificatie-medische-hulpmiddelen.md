@@ -9,7 +9,7 @@ laatste_update: 2021-05-26
 status: geldig
 toestand: 2021-05-26
 bron: "https://wetten.overheid.nl/BWBR0037561"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 22 december 2015, kenmerk 878144-144815-GMT, houdende vaststelling en wijziging van tarieven op het terrein van medische hulpmiddelen en geneesmiddelen (Regeling tarief notificatie medische hulpmiddelen)

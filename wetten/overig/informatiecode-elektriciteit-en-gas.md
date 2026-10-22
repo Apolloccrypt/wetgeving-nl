@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0037934"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Autoriteit Consument en Markt van 21 april 2016, met kenmerk ACM/DC/2016/202148, houdende de vaststelling van de voorwaarden als bedoeld in artikel 54, eerste lid, van de Elektriciteitswet 1998 en artikel 22, eerste lid, van de Gaswet (Informatiecode elektriciteit en gas)

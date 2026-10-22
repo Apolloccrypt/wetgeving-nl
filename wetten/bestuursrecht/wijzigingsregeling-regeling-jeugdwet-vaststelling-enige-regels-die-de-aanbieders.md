@@ -9,7 +9,7 @@ laatste_update: 2016-08-25
 status: geldig
 toestand: 2016-08-25
 bron: "https://wetten.overheid.nl/BWBR0038434"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport en de Minister van Veiligheid en Justitie van 16 augustus 2016, kenmerk 1002145-153925-J, houdende wijziging van de Regeling Jeugdwet ter vaststelling van enige regels die de aanbieders van jeugdhulp bij het verstrekken van persoonsgegevens aan gemeenten in acht dienen te nemen

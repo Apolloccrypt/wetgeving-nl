@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0038410"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Beleidsregel van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 22 juli 2016, 2016-0000170426, tot vaststelling van de Beleidsregel boeteoplegging loondervingswetten BES

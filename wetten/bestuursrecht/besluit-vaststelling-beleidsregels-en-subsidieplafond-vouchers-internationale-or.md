@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0038273"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 6 juli 2016, nr. BZ-2016.389931 tot vaststelling van beleidsregels en een subsidieplafond voor subsidieverstrekking door middel van vouchers voor activiteiten van MKB-ondernemingen, kennisinstellingen en niet-gouvernementele organisaties gericht op het betreden van de markt van internationale organisaties (Vouchers internationale organisaties)

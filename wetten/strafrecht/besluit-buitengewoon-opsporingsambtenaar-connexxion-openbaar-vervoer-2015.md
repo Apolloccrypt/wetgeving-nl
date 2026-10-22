@@ -9,7 +9,7 @@ laatste_update: 2016-04-30
 status: geldig
 toestand: 2016-04-30
 bron: "https://wetten.overheid.nl/BWBR0037501"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 16 december 2015 nr. BOACAT2015/073, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Connexxion Openbaar Vervoer

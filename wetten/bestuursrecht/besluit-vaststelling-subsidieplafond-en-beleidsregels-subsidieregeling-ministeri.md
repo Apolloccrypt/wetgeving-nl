@@ -9,7 +9,7 @@ laatste_update: 2016-04-21
 status: geldig
 toestand: 2016-04-21
 bron: "https://wetten.overheid.nl/BWBR0037832"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 12 april 2016, nr. MinBuZa-2016.208308, tot vaststelling van een subsidieplafond en beleidsregels op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Flexibel fonds Strategische partnerschappen pleiten en beïnvloeden 2016–2020)

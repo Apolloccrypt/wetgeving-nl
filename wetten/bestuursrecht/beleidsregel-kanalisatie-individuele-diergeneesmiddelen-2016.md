@@ -9,7 +9,7 @@ laatste_update: 2016-07-01
 status: geldig
 toestand: 2016-07-01
 bron: "https://wetten.overheid.nl/BWBR0037774"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Beleidsregel van de Staatssecretaris van Economische Zaken van 24 maart 2016, nr. WJZ/15136568, houdende kanalisatie van individuele diergeneesmiddelen 2016

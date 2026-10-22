@@ -9,7 +9,7 @@ laatste_update: 2016-01-18
 status: geldig
 toestand: 2016-01-18
 bron: "https://wetten.overheid.nl/BWBR0037509"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Wet van 2 december 2015 tot wijziging van onder meer de Algemene wet erkenning EG-beroepskwalificaties in verband met de implementatie van Richtlijn 2013/55/EU van het Europees Parlement en de Raad van de Europese Unie van 20 november 2013 tot wijziging van Richtlijn 2005/36/EG betreffende de erkenning van beroepskwalificaties en Verordening (EU) nr. 1024/2012 betreffende de administratieve samenwerking via het Informatiesysteem interne markt («de IMI-verordening»)

@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0037475"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Staatssecretaris van Financiën van 30 december 2015, nr. DB/2015/462M, houdende voorschriften ter verdere uitwerking van de aanvullende documentatieverplichtingen voor multinationale ondernemingen (Regeling aanvullende documentatieverplichtingen verrekenprijzen)

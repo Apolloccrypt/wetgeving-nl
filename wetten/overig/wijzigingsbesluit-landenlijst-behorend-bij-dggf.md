@@ -9,7 +9,7 @@ laatste_update: 2016-08-03
 status: geldig
 toestand: 2016-08-03
 bron: "https://wetten.overheid.nl/BWBR0037830"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 19 februari 2016, nr. Minbuza-2016.56641, tot wijziging van de landenlijst, behorend bij DGGF

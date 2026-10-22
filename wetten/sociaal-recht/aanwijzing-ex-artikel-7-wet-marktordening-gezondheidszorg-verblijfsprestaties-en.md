@@ -9,7 +9,7 @@ laatste_update: 2016-05-01
 status: geldig
 toestand: 2016-05-01
 bron: "https://wetten.overheid.nl/BWBR0037683"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport, van 19 februari 2016, kenmerk 926944-147689-MC, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake verblijfsprestaties en hoofdbehandelaarschap curatieve geestelijke gezondheidszorg

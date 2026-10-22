@@ -9,7 +9,7 @@ laatste_update: 2016-07-01
 status: geldig
 toestand: 2016-07-01
 bron: "https://wetten.overheid.nl/BWBR0037992"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Minister voor Wonen en Rijksdienst van 25 mei 2016, nr. 2016-0000298302 houdende wijziging van de Stimuleringsregeling energieprestatie huursector en de Regeling fonds energiebesparing huursector (versoepeling eisen en verhoging bedragen STEP)

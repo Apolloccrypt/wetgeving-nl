@@ -9,7 +9,7 @@ laatste_update: 2016-03-15
 status: geldig
 toestand: 2016-03-15
 bron: "https://wetten.overheid.nl/BWBR0037706"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit van 7 maart 2016, nr. 722434, houdende de vaststelling van een vergoeding voor de leden en de secretaris van de Commissie Landelijk Instrumentarium Jeugdstrafrechtketen (Vergoedingenbesluit Commissie LIJ)

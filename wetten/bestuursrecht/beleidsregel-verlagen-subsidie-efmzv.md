@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0038175"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Beleidsregel van de Staatssecretaris van Economische Zaken van 29 juni 2016, nr. WJZ / 16093701, houdende regels die zien op het verlagen van subsidie in het kader van Verordening (EU) nr. 508/2014 van het Europees Parlement en de Raad van 15 mei 2014 inzake het Europees Fonds voor maritieme zaken en visserij en tot intrekking van de Verordeningen (EG) nr. 2328/2003, (EG) nr. 861/2006, (EG) nr. 1198/2006 en (EG) nr. 791/2007 van de Raad en Verordening (EU) nr. 1255/2011 van het Europees Parlement en de Raad (PbEU 2014, L 149) (Beleidsregel verlagen subsidie EFMZV)

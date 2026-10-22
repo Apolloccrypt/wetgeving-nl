@@ -8,7 +8,7 @@ laatste_update: 2016-07-27
 status: geldig
 toestand: 2016-07-27
 bron: "https://wetten.overheid.nl/BWBR0038367"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Loonheffingen, diverse onderwerpen

@@ -9,7 +9,7 @@ laatste_update: 2016-03-31
 status: geldig
 toestand: 2016-03-31
 bron: "https://wetten.overheid.nl/BWBR0037779"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Rijkswet van 5 maart 2016 tot wijziging van de Rijkswet op het Nederlanderschap ter verruiming van de mogelijkheden voor het ontnemen van het Nederlanderschap bij terroristische misdrijven

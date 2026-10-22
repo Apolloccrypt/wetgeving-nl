@@ -8,7 +8,7 @@ laatste_update: 2016-03-05
 status: geldig
 toestand: 2016-03-05
 bron: "https://wetten.overheid.nl/BWBR0037700"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Protocol Accountantsonderzoek 2015 CAK

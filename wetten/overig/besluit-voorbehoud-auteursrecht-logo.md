@@ -9,7 +9,7 @@ laatste_update: 2016-02-20
 status: geldig
 toestand: 2016-02-20
 bron: "https://wetten.overheid.nl/BWBR0037617"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Autoriteit Persoonsgegevens van 4 februari 2016 inzake voorbehoud auteursrecht logo

@@ -9,7 +9,7 @@ laatste_update: 2016-08-25
 status: geldig
 toestand: 2016-08-25
 bron: "https://wetten.overheid.nl/BWBR0038430"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 16 augustus 2016, nr. 2016-0000466322, houdende regels inzake bijzondere uitkeringen voor de verbetering van de positie van kinderen in Caribisch Nederland (Regeling bijzondere uitkering kinderrechten BES)

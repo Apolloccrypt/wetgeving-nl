@@ -8,7 +8,7 @@ laatste_update: 2016-07-23
 status: geldig
 toestand: 2016-07-23
 bron: "https://wetten.overheid.nl/BWBR0038356"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Omzetbelasting, vrijstelling; diensten en nauw daarmee samenhangende leveringen door werkgevers- en werknemersorganisaties aan hun leden tegen statutair vastgestelde contributie

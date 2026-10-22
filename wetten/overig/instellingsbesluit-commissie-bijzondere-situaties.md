@@ -9,7 +9,7 @@ laatste_update: 2021-09-14
 status: geldig
 toestand: 2021-09-14
 bron: "https://wetten.overheid.nl/BWBR0037893"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Minister van Economische Zaken van 22 april 2016, nr. WJZ/16042425, tot instelling van de Commissie bijzondere situaties (Instellingsbesluit Commissie bijzondere situaties)

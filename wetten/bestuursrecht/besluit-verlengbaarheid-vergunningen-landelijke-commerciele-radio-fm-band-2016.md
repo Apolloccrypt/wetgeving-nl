@@ -9,7 +9,7 @@ laatste_update: 2016-07-14
 status: geldig
 toestand: 2016-07-14
 bron: "https://wetten.overheid.nl/BWBR0038267"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Minister van Economische Zaken van 23 juni 2016 nr. WJZ/16092077, inzake verlengbaarheid van de vergunningen voor landelijke commerciële radio-omroepen voor de FM-band

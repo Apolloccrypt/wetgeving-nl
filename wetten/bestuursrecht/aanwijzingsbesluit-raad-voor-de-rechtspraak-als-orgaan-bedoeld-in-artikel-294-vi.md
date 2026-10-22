@@ -9,7 +9,7 @@ laatste_update: 2016-09-06
 status: geldig
 toestand: 2016-09-06
 bron: "https://wetten.overheid.nl/BWBR0038467"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van 23 augustus 2016, houdende de aanwijzing van de Raad voor de rechtspraak als het orgaan waaraan de gegevens worden doorgegeven ten behoeve van het register als bedoeld in artikel 294a, eerste lid, Faillissementswet

@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0038456"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van 23 augustus 2016, houdende regels omtrent de mogelijkheid voor verhuurder en huurder een energieprestatievergoeding overeen te komen (Besluit energieprestatievergoeding huur)

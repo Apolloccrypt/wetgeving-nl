@@ -9,7 +9,7 @@ laatste_update: 2018-08-01
 status: geldig
 toestand: 2018-08-01
 bron: "https://wetten.overheid.nl/BWBR0037548"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit van 12 januari 2016, houdende regeling van enkele onderwerpen met betrekking tot de tenuitvoerlegging van beslissingen van de tuchtrechter voor de advocatuur (Besluit tenuitvoerlegging tuchtrechtspraak advocatuur)

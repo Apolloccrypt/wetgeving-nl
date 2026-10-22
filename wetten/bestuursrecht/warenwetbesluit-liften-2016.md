@@ -9,7 +9,7 @@ laatste_update: 2020-02-01
 status: geldig
 toestand: 2020-02-01
 bron: "https://wetten.overheid.nl/BWBR0037650"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit van 17 februari 2016, houdende vaststelling van het Warenwetbesluit liften 2016 en wijziging van het Arbeidsomstandighedenbesluit, het Warenwetbesluit bestuurlijke boeten en het Warenwetbesluit machines (Warenwetbesluit liften 2016)

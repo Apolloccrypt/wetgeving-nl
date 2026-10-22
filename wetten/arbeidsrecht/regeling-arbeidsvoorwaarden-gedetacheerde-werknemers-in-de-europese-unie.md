@@ -9,7 +9,7 @@ laatste_update: 2023-06-01
 status: geldig
 toestand: 2023-06-01
 bron: "https://wetten.overheid.nl/BWBR0038069"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 15 juni 2016, nr. 2016-0000124020, tot vaststelling van de Regeling arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie

@@ -9,7 +9,7 @@ laatste_update: 2016-08-25
 status: geldig
 toestand: 2016-08-25
 bron: "https://wetten.overheid.nl/BWBR0038223"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 1 juli 2016 nr. BOACAT2016/045, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Amsterdam, afdeling Sport en Bos

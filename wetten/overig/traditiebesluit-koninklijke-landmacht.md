@@ -9,7 +9,7 @@ laatste_update: 2026-02-13
 status: geldig
 toestand: 2026-02-13
 bron: "https://wetten.overheid.nl/BWBR0038194"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van 2 juni 2016 inzake rangschikking, oprichtingsdata en genealogieën van eenheden van de Koninklijke Landmacht, heroprichting van twee regimenten en het ongedaan maken van de bewaring van de traditie van het Regiment Huzaren Prins Alexander (Traditiebesluit Koninklijke Landmacht)

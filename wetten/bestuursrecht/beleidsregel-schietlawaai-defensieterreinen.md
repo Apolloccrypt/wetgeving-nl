@@ -8,7 +8,7 @@ laatste_update: 2016-08-30
 status: geldig
 toestand: 2016-08-30
 bron: "https://wetten.overheid.nl/BWBR0038459"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Beleidsregel schietlawaai defensieterreinen

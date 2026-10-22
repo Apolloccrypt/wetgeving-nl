@@ -9,7 +9,7 @@ laatste_update: 2024-06-05
 status: geldig
 toestand: 2024-06-05
 bron: "https://wetten.overheid.nl/BWBR0038113"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 27 juni 2016, kenmerk 926933-146877-CZ, houdende vaststelling van regels ten aanzien van in-vitrofertilisatie (Planningsbesluit in-vitrofertilisatie 2016)

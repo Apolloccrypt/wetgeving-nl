@@ -9,7 +9,7 @@ laatste_update: 2016-05-01
 status: geldig
 toestand: 2016-05-01
 bron: "https://wetten.overheid.nl/BWBR0037602"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Wet van 3 februari 2016 tot wijziging van enkele belastingwetten en enkele andere wetten ten behoeve van het afschaffen van de Verklaring arbeidsrelatie (Wet deregulering beoordeling arbeidsrelaties)

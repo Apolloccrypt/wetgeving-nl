@@ -9,7 +9,7 @@ laatste_update: 2016-07-01
 status: geldig
 toestand: 2016-07-01
 bron: "https://wetten.overheid.nl/BWBR0037793"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Wet van 23 maart 2016 tot wijziging van de Gemeentewet in verband met de verruiming van de bevoegdheid van de burgemeester tot de inzet van cameratoezicht

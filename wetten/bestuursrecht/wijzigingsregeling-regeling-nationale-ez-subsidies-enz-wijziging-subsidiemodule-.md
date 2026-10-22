@@ -9,7 +9,7 @@ laatste_update: 2016-04-01
 status: geldig
 toestand: 2016-04-01
 bron: "https://wetten.overheid.nl/BWBR0037584"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Minister van Economische Zaken 28 januari 2016, nr. WJZ / 15148098, tot wijziging van de Regeling nationale EZ-subsidies en de Regeling openstelling EZ-subsidies 2016 in verband met wijziging van de subsidiemodule Topsector energieprojecten, verschuiving van subsidieplafonds en enkele technische aanpassingen

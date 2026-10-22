@@ -9,7 +9,7 @@ laatste_update: 2016-03-03
 status: geldig
 toestand: 2016-03-03
 bron: "https://wetten.overheid.nl/BWBR0037680"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 17 februari 2016 nr. BOACAT2016/012, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij regionale eenheid Limburg

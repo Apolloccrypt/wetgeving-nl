@@ -9,7 +9,7 @@ laatste_update: 2019-05-16
 status: geldig
 toestand: 2019-05-16
 bron: "https://wetten.overheid.nl/BWBR0037530"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 8 januari 2016, nr. BOACAT2016/006, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Keolis Nederland 2016

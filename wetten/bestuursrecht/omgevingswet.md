@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0037885"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Wet van 23 maart 2016, houdende regels over het beschermen en benutten van de fysieke leefomgeving (Omgevingswet)

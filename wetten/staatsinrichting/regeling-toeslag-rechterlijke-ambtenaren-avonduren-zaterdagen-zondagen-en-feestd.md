@@ -9,7 +9,7 @@ laatste_update: 2026-06-13
 status: geldig
 toestand: 2026-06-13
 bron: "https://wetten.overheid.nl/BWBR0038425"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 10 augustus 2016, nr. 770837, houdende regels met betrekking tot de hoogte van de toeslag voor rechterlijke ambtenaren voor het verrichten van werkzaamheden in de avonduren, op zaterdagen, zondagen en feestdagen (Regeling toeslag rechterlijke ambtenaren avonduren, zaterdagen, zondagen en feestdagen)

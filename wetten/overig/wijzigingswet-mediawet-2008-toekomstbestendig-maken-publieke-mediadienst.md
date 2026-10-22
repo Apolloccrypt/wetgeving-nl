@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0037768"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Wet van 16 maart 2016 tot wijziging van de Mediawet 2008 in verband met het toekomstbestendig maken van de publieke mediadienst

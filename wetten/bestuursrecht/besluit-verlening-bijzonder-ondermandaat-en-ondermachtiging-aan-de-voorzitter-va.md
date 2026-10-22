@@ -9,7 +9,7 @@ laatste_update: 2016-06-25
 status: geldig
 toestand: 2016-06-25
 bron: "https://wetten.overheid.nl/BWBR0038089"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Secretaris-Generaal van het Ministerie van Volksgezondheid, Welzijn en Sport van 16 juni 2016, nummer 981104-152006-VGP houdende verlening van bijzonder ondermandaat en ondermachtiging aan de voorzitter van Stichting AVINED betreffende retributies in het kader van het Nationaal Plan Residuen Eisector

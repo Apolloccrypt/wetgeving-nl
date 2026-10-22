@@ -9,7 +9,7 @@ laatste_update: 2016-05-03
 status: geldig
 toestand: 2016-05-03
 bron: "https://wetten.overheid.nl/BWBR0037900"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Minister van Veiligheid en Justitie van 26 april 2016, strekkende tot openbaarmaking van documenten betreffende de buitengewoon opsporingsambtenaren werkzaam bij de RDW

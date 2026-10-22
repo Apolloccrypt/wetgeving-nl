@@ -9,7 +9,7 @@ laatste_update: 2025-05-08
 status: geldig
 toestand: 2025-05-08
 bron: "https://wetten.overheid.nl/BWBR0037925"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Autoriteit Consument en Markt van 21 april 2016, kenmerk ACM/DE/2016/202160, houdende de vaststelling van de voorwaarden als bedoeld in artikel 12b van de Gaswet (Meetcode gas RNB)

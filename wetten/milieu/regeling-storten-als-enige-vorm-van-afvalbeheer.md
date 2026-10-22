@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0037497"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 4 december 2015, nr. IENM/BSK-2015/84370, houdende vaststelling van categorieën van afvalstoffen waarvoor in Nederland geen andere wijze van afvalbeheer mogelijk is dan storten (Regeling storten als enige vorm van afvalbeheer)

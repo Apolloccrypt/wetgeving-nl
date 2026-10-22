@@ -9,7 +9,7 @@ laatste_update: 2016-02-13
 status: geldig
 toestand: 2016-02-13
 bron: "https://wetten.overheid.nl/BWBR0037608"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 14 januari 2016, kenmerk 884264-145324-ESTT, houdende een procedure voor benoeming van de voorzitter van een Tuchtcollege voor de Gezondheidszorg

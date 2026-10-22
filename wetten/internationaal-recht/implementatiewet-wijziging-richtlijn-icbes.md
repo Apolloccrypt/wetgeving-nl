@@ -9,7 +9,7 @@ laatste_update: 2017-06-27
 status: geldig
 toestand: 2017-06-27
 bron: "https://wetten.overheid.nl/BWBR0037685"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Wet van 10 februari 2016 tot wijziging van de Wet op het financieel toezicht ter implementatie van richtlijn nr. 2014/91/EU van het Europees Parlement en de Raad van 23 juli 2014 tot wijziging van de richtlijn 2009/65/EG tot coördinatie van de wettelijke en bestuursrechtelijke bepalingen betreffende bepaalde instellingen voor collectieve belegging in effecten (icbe’s) wat bewaartaken, beloningsbeleid en sancties betreft (PbEU 2014, L 257) (Implementatiewet wijziging richtlijn icbe’s)

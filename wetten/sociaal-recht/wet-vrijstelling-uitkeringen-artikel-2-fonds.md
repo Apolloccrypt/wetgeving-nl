@@ -9,7 +9,7 @@ laatste_update: 2016-03-24
 status: geldig
 toestand: 2016-03-24
 bron: "https://wetten.overheid.nl/BWBR0037524"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Wet van 23 december 2015 tot wijziging van de Wet inkomstenbelasting 2001 met het oog op een vrijstelling van bepaalde periodieke uitkeringen aan specifieke groepen oorlogsslachtoffers (Wet vrijstelling uitkeringen Artikel 2-Fonds)

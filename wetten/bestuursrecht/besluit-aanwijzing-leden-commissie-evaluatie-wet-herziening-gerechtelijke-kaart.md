@@ -9,7 +9,7 @@ laatste_update: 2016-02-12
 status: geldig
 toestand: 2016-02-12
 bron: "https://wetten.overheid.nl/BWBR0037611"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Minister van Veiligheid en Justitie van 29 januari 2016, nr. 717758 houdende de aanwijzing van de leden van Commissie Evaluatie Wet herziening gerechtelijke kaart (Besluit aanwijzing leden Commissie Evaluatie Wet herziening gerechtelijke kaart)

@@ -9,7 +9,7 @@ laatste_update: 2016-05-03
 status: geldig
 toestand: 2016-05-03
 bron: "https://wetten.overheid.nl/BWBR0037899"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Beleidsregels van de Staatssecretaris van Economische Zaken van 25 april 2016, nr. WJZ/16009144, houdende de regels betreffende het verstrekken van een tegemoetkoming aan beroepsvissers die schade hebben geleden als gevolg van het verbod op grond van artikel 5.10 van de Wet dieren (Beleidsregel tegemoetkoming visverbod voor het jaar 2015)

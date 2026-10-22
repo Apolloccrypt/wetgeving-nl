@@ -9,7 +9,7 @@ laatste_update: 2016-04-01
 status: geldig
 toestand: 2016-04-01
 bron: "https://wetten.overheid.nl/BWBR0037575"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken van 25 januari 2016, nr. WJZ / 15167154, houdende wijziging van de Uitvoeringsregeling zeevisserij en de Uitvoeringsregeling visserij in verband met de erkenning van een meet- of zegelbureau

@@ -9,7 +9,7 @@ laatste_update: 2016-06-11
 status: geldig
 toestand: 2016-06-11
 bron: "https://wetten.overheid.nl/BWBR0038051"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Minister van Financiën van 26 april 2016, nr. 2016-0000041000, betreffende de digitale vervanging van financiële archiefbescheiden van het Ministerie van Financiën in het SAP 3F systeem

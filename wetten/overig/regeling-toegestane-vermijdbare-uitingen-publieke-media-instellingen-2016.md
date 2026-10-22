@@ -9,7 +9,7 @@ laatste_update: 2016-08-01
 status: geldig
 toestand: 2016-08-01
 bron: "https://wetten.overheid.nl/BWBR0038081"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Regeling van het Commissariaat voor de Media van 17 mei 2016 houdende regels omtrent toegestane vermijdbare uitingen bij publieke media-instellingen (Regeling toegestane vermijdbare uitingen publieke media-instellingen 2016)

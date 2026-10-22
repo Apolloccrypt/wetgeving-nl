@@ -9,7 +9,7 @@ laatste_update: 2016-11-25
 status: geldig
 toestand: 2016-11-25
 bron: "https://wetten.overheid.nl/BWBR0038187"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 24-5-2016, kenmerk 921411, houdende deelneming in de Gemeenschappelijke regeling Regionaal Historisch Centrum ‘Groninger Archieven’

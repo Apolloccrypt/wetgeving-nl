@@ -9,7 +9,7 @@ laatste_update: 2017-06-24
 status: geldig
 toestand: 2017-06-24
 bron: "https://wetten.overheid.nl/BWBR0038053"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu, van 13 juni 2016, nr. IENM/BSK-2016/94637, houdende vaststelling van regels voor subsidiering van haalbaarheids- en pilotprojecten voor waterveiligheid en waterzekerheid in stedelijke delta’s in het buitenland (Subsidieregeling waterveiligheid en waterzekerheid stedelijke delta's)

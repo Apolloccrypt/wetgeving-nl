@@ -9,7 +9,7 @@ laatste_update: 2016-10-01
 status: geldig
 toestand: 2016-10-01
 bron: "https://wetten.overheid.nl/BWBR0038431"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Wet van 13 juli 2016 tot wijziging van de Wet openbaarheid van bestuur in verband met aanvullingen ter voorkoming van misbruik

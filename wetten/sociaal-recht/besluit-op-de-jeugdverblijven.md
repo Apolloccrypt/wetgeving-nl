@@ -9,7 +9,7 @@ laatste_update: 2016-07-01
 status: geldig
 toestand: 2016-07-01
 bron: "https://wetten.overheid.nl/BWBR0037863"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van 16 maart 2016, houdende vaststelling van bepalingen omtrent de kwaliteitsvoorschriften met het oog op het bevorderen van de veiligheid, het pedagogisch klimaat en het voorkomen van een ernstige bedreiging voor de ontwikkeling van de minderjarigen in jeugdverblijven (Besluit op de jeugdverblijven)

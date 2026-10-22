@@ -8,7 +8,7 @@ laatste_update: 2025-11-05
 status: geldig
 toestand: 2025-11-05
 bron: "https://wetten.overheid.nl/BWBR0038075"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Beleidsbesluit inkoop eigen aandelen

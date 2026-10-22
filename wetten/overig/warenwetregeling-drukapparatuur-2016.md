@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0038317"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 11 juli 2016, 2016-0000163111, houdende vaststelling van de Warenwetregeling drukapparatuur 2016, wijziging van de Warenwetregeling informatie- en rapportagebepalingen SZW-besluiten en wijziging van de Warenwetregeling machines (Warenwetregeling drukapparatuur 2016)

@@ -9,7 +9,7 @@ laatste_update: 2026-05-20
 status: geldig
 toestand: 2026-05-20
 bron: "https://wetten.overheid.nl/BWBR0038269"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Beleidsregel van de Staatssecretaris van Infrastructuur en Milieu houdende voorschriften ter uitvoering van Verordening (EG) 1178/2011, bijlage I (deel FCL), artikel FCL.945, met betrekking tot verplichtingen voor instructeurs (Beleidsregel uitvoering artikel FCL.945)

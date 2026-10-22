@@ -9,7 +9,7 @@ laatste_update: 2016-05-16
 status: geldig
 toestand: 2016-05-16
 bron: "https://wetten.overheid.nl/BWBR0037859"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 13 april 2016 nr. BOACAT2016/026, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Alkmaar

@@ -9,7 +9,7 @@ laatste_update: 2017-09-30
 status: geldig
 toestand: 2017-09-30
 bron: "https://wetten.overheid.nl/BWBR0038441"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 18 juli 2016, nr. IGG-2016.380605, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieprogramma Fonds Duurzaam Water)

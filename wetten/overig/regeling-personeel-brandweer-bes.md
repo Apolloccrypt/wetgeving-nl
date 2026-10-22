@@ -9,7 +9,7 @@ laatste_update: 2016-07-01
 status: geldig
 toestand: 2016-07-01
 bron: "https://wetten.overheid.nl/BWBR0038150"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie, van 21 juni 2016, nr. 772234, houdende regels dan wel nadere regels over de functies en de daarbij behorende taken, competenties, competentieniveaus, alsmede het geneeskundig onderzoek, de dienstkleding en de gelijkstelling van diploma’s voor het personeel van het brandweerkorps van Bonaire, Sint Eustatius en Saba (Regeling personeel brandweer BES)

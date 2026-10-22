@@ -9,7 +9,7 @@ laatste_update: 2017-03-01
 status: geldig
 toestand: 2017-03-01
 bron: "https://wetten.overheid.nl/BWBR0038345"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Rijkswet van 13 juli 2016, houdende aanpassing van Rijkswetten in verband met de invoering van de Wet tot wijziging van het Wetboek van Burgerlijke Rechtsvordering en de Algemene wet bestuursrecht in verband met vereenvoudiging en digitalisering van het procesrecht en van de Wet tot wijziging van het Wetboek van Burgerlijke Rechtsvordering in verband met vereenvoudiging en digitalisering van het procesrecht in hoger beroep en cassatie alsmede in verband met de uitbreiding van prejudiciële vragen aan de Hoge Raad (Invoeringsrijkswet vereenvoudiging en digitalisering procesrecht en uitbreiding prejudiciële vragen)

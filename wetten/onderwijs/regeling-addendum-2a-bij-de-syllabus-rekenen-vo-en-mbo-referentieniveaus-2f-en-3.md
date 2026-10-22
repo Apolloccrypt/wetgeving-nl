@@ -9,7 +9,7 @@ laatste_update: 2016-08-01
 status: geldig
 toestand: 2016-08-01
 bron: "https://wetten.overheid.nl/BWBR0037967"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Regeling van het College voor Toetsen en Examens van 8 februari 2016, nummer CvTE-16.00020, houdende vaststelling van het addendum rekenen 2A bij de syllabus rekenen 2F en 3F voor de rekentoets vo en centrale examinering in het mbo (Regeling addendum 2A bij de syllabus Rekenen vo en mbo referentieniveaus 2F en 3F)

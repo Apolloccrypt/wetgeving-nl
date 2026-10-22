@@ -9,7 +9,7 @@ laatste_update: 2016-04-21
 status: geldig
 toestand: 2016-04-21
 bron: "https://wetten.overheid.nl/BWBR0037843"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Minister van Economische Zaken van 15 april 2016, nr. 7188783, inzake het besluit om de vergunning voor digitale omroep (digitale ethertelevisie) te veilen en de voorschriften en beperkingen vast te stellen die aan de vergunning zullen worden verbonden

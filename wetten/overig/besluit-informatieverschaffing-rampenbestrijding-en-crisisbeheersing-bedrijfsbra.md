@@ -9,7 +9,7 @@ laatste_update: 2016-07-01
 status: geldig
 toestand: 2016-07-01
 bron: "https://wetten.overheid.nl/BWBR0037729"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit van 8 maart 2016, houdende regels inzake de informatieverschaffing bij en ten behoeve van rampenbestrijding en crisisbeheersing, inzake de bedrijfsbrandweerplicht van inrichtingen, alsmede inzake rampbestrijdingsplannen voor inrichtingen en luchtvaartterreinen in de openbare lichamen Bonaire, Sint-Eustatius en Saba

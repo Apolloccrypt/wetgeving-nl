@@ -8,7 +8,7 @@ laatste_update: 2016-06-09
 status: geldig
 toestand: 2016-06-09
 bron: "https://wetten.overheid.nl/BWBR0038029"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Instellingsbesluit commissie nieuwe werkwijze Landelijke Meldkamerorganisatie i.o.

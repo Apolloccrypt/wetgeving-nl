@@ -8,7 +8,7 @@ laatste_update: 2016-08-06
 status: geldig
 toestand: 2016-08-06
 bron: "https://wetten.overheid.nl/BWBR0038389"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit inzake bekrachtiging besluiten in het kader van de Wbtv en de Wsnp

@@ -9,7 +9,7 @@ laatste_update: 2015-01-31
 status: geldig
 toestand: 2015-01-31
 bron: "https://wetten.overheid.nl/BWBR0037753"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de centrale commissie dierproeven van 19 december 2014, ref 2014-02, tot vaststelling van een bestuursreglement (Bestuursreglement CCD)

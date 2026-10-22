@@ -9,7 +9,7 @@ laatste_update: 2022-11-02
 status: geldig
 toestand: 2022-11-02
 bron: "https://wetten.overheid.nl/BWBR0038301"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 1 juli 2016, nr. 2016-0000377599, houdende instelling van de commissie incompatibiliteiten Huis voor klokkenluiders (Instellingsbesluit commissie incompatibiliteiten Huis voor klokkenluiders)

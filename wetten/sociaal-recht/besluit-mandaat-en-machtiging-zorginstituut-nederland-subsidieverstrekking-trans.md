@@ -9,7 +9,7 @@ laatste_update: 2016-05-31
 status: geldig
 toestand: 2016-05-31
 bron: "https://wetten.overheid.nl/BWBR0037989"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 19 mei 2016, kenmerk 967200-150306-MC, houdende verlening van mandaat en machtiging aan Zorginstituut Nederland (Besluit mandaat en machtiging Zorginstituut Nederland subsidieverstrekking transparantie kwaliteit van zorg)

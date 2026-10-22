@@ -9,7 +9,7 @@ laatste_update: 2017-10-06
 status: geldig
 toestand: 2017-10-06
 bron: "https://wetten.overheid.nl/BWBR0037810"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 6 april 2016 nr. BOACAT2016/022, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij het Functioneel Parket

@@ -9,7 +9,7 @@ laatste_update: 2016-05-12
 status: geldig
 toestand: 2016-05-12
 bron: "https://wetten.overheid.nl/BWBR0037944"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 25 april 2016, nummer 731804, tot vaststelling van de vergoedingen voor de leden van de Adviescommissie voor Vreemdelingenzaken (Vergoedingenbesluit Adviescommissie voor Vreemdelingenzaken)

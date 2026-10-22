@@ -9,7 +9,7 @@ laatste_update: 2016-04-12
 status: geldig
 toestand: 2016-04-12
 bron: "https://wetten.overheid.nl/BWBR0037807"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de directie van het CBR tot digitale vervanging van archiefbescheiden berustend bij de divisie Rijgeschiktheid, niet zijnde archiefbescheiden die ingevolge de selectielijst CBR voor bewaring in aanmerking komen

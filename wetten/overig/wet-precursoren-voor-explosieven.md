@@ -9,7 +9,7 @@ laatste_update: 2021-07-01
 status: geldig
 toestand: 2021-07-01
 bron: "https://wetten.overheid.nl/BWBR0037995"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Wet van 25 mei 2016, houdende regels met betrekking tot het op de markt brengen en het gebruik van precursoren voor explosieven (Wet precursoren voor explosieven)

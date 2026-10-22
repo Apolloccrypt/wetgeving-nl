@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0037983"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Minister van Economische Zaken van 12 mei 2016, nr. WJZ/14115350, tot vaststelling van eisen voor meetinstrumenten op Bonaire, Sint Eustatius en Saba (IJkregeling BES)

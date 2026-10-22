@@ -9,7 +9,7 @@ laatste_update: 2016-09-01
 status: geldig
 toestand: 2016-09-01
 bron: "https://wetten.overheid.nl/BWBR0038364"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 11 juli 2016, kenmerk 989379-153044-MC, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake het experiment integrale geboortezorg

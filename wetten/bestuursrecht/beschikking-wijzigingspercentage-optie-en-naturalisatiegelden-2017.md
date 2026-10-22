@@ -8,7 +8,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0038474"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Beschikking wijzigingspercentage optie- en naturalisatiegelden 2017

@@ -9,7 +9,7 @@ laatste_update: 2017-12-09
 status: geldig
 toestand: 2017-12-09
 bron: "https://wetten.overheid.nl/BWBR0037728"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit van 5 maart 2016, houdende wijziging van het Besluit begroting en verantwoording provincies en gemeenten in verband met de invoering van een aantal wijzigingen die bijdragen aan de interne sturing door provinciale staten en de raad alsmede aan een betere vergelijkbaarheid tussen provincies en tussen gemeenten

@@ -9,7 +9,7 @@ laatste_update: 2016-02-12
 status: geldig
 toestand: 2016-02-12
 bron: "https://wetten.overheid.nl/BWBR0037606"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Milieu, van 4 februari 2016, nr. IENM/BSK-2016/2212, tot vaststelling van het mandaat en de machtiging aan het CBR theorie-examens voor luchtvarenden af te nemen (Besluit mandaat en machtiging theorie-examens luchtvarenden 2016)

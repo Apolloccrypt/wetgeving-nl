@@ -8,7 +8,7 @@ laatste_update: 2016-02-02
 status: geldig
 toestand: 2016-02-02
 bron: "https://wetten.overheid.nl/BWBR0037591"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Beleidsregels cameratoezicht, College bescherming persoonsgegevens

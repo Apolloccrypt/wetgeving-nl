@@ -9,7 +9,7 @@ laatste_update: 2016-09-01
 status: geldig
 toestand: 2016-09-01
 bron: "https://wetten.overheid.nl/BWBR0038289"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 7 juli 2016, kenmerk 984908-152560-MC, inzake het macrobeheersinstrument voor eerstelijns verblijf en geriatrische revalidatiezorg

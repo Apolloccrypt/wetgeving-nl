@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0037688"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu, van 22 februari 2016, nr. IENM/BSK-2016/6326, houdende vaststelling van regels voor een goede uitvoering van de Wet tijdelijke tolheffing Blankenburgverbinding en ViA15 (Regeling tijdelijke tolheffing Blankenburgverbinding en ViA15)

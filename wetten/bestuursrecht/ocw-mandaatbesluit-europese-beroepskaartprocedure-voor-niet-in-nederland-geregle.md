@@ -9,7 +9,7 @@ laatste_update: 2018-06-21
 status: geldig
 toestand: 2018-06-21
 bron: "https://wetten.overheid.nl/BWBR0038240"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 29 juni 2016, nr. 914558, houdende regels inzake de verlening van mandaat en machtiging aan Stichting EP-Nuffic in verband met de Europese beroepskaartprocedure (OCW-mandaatbesluit Europese beroepskaartprocedure voor niet in Nederland gereglementeerde beroepen)

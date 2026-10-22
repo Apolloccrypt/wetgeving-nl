@@ -8,7 +8,7 @@ laatste_update: 2016-05-30
 status: geldig
 toestand: 2016-05-30
 bron: "https://wetten.overheid.nl/BWBR0037964"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Verordening interdisciplinaire samenwerking 2015

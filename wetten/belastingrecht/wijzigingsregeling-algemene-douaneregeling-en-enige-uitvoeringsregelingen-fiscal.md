@@ -9,7 +9,7 @@ laatste_update: 2016-05-01
 status: geldig
 toestand: 2016-05-01
 bron: "https://wetten.overheid.nl/BWBR0037890"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Staatssecretaris van Financiën van 21 april 2016, nr. AFP/2016/372M, tot wijziging van de Algemene douaneregeling en enige uitvoeringsregelingen inzake de fiscaliteit

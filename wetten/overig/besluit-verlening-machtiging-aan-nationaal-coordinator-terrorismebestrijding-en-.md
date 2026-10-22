@@ -9,7 +9,7 @@ laatste_update: 2016-06-22
 status: geldig
 toestand: 2016-06-22
 bron: "https://wetten.overheid.nl/BWBR0038085"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de secretaris-generaal van het Ministerie van Veiligheid en Justitie van 15 juni 2016, nummer 767058, houdende het verlenen van machtiging aan de Nationaal Coördinator Terrorismebestrijding en Veiligheid

@@ -8,7 +8,7 @@ laatste_update: 2016-05-07
 status: geldig
 toestand: 2016-05-07
 bron: "https://wetten.overheid.nl/BWBR0037908"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Deelregeling Cultuureducatie met Kwaliteit in het primair onderwijs Fonds voor Cultuurparticipatie 2017–2020

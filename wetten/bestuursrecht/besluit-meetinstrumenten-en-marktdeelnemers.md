@@ -9,7 +9,7 @@ laatste_update: 2017-05-18
 status: geldig
 toestand: 2017-05-18
 bron: "https://wetten.overheid.nl/BWBR0037835"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van 14 april 2016, houdende regels omtrent de eisen waaraan meetinstrumenten moeten voldoen voordat zij in de handel worden gebracht, in gebruik worden genomen of worden gebruikt, alsmede omtrent conformiteitsbeoordelingen van meetinstrumenten en verplichtingen van marktdeelnemers en tot wijziging van het Meeteenhedenbesluit 2006 (Besluit meetinstrumenten en marktdeelnemers)

@@ -9,7 +9,7 @@ laatste_update: 2016-09-01
 status: geldig
 toestand: 2016-09-01
 bron: "https://wetten.overheid.nl/BWBR0038061"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Wet van 8 juni 2016 tot wijziging van Boek 4 van het Burgerlijk Wetboek om erfgenamen beter te beschermen tegen schulden van de erflater (Wet bescherming erfgenamen tegen schulden)

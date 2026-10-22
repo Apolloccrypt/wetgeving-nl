@@ -9,7 +9,7 @@ laatste_update: 2020-11-28
 status: geldig
 toestand: 2020-11-28
 bron: "https://wetten.overheid.nl/BWBR0037952"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Autoriteit Consument en Markt van 21 april 2016, ACM/DE/2016/202171, houdende de vaststelling van de voorwaarden als bedoeld in artikel 12b van de Gaswet (Meetcode gas LNB meting door aangeslotene)

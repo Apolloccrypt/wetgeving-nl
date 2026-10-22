@@ -8,7 +8,7 @@ laatste_update: 2016-07-28
 status: geldig
 toestand: 2016-07-28
 bron: "https://wetten.overheid.nl/BWBR0038362"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluitvorming Bosnisch, Kroatisch, Montenegrijns, Servisch

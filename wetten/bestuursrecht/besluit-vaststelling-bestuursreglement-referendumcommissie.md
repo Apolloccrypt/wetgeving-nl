@@ -8,7 +8,7 @@ laatste_update: 2016-09-21
 status: geldig
 toestand: 2016-09-21
 bron: "https://wetten.overheid.nl/BWBR0037713"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit vaststelling bestuursreglement Referendumcommissie

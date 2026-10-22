@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0037813"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 30 maart 2016, nr. 2016-0000081792, tot benoeming van de voorzitter van het Kennisplatform Werk & Inkomen

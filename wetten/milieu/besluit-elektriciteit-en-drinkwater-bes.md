@@ -9,7 +9,7 @@ laatste_update: 2016-07-01
 status: geldig
 toestand: 2016-07-01
 bron: "https://wetten.overheid.nl/BWBR0038044"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van 1 juni 2016, houdende regels met betrekking tot de productie en distributie van elektriciteit en drinkwater op Bonaire, Sint-Eustatius en Saba (Besluit elektriciteit en drinkwater BES)

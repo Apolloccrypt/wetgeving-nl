@@ -9,7 +9,7 @@ laatste_update: 2016-09-06
 status: geldig
 toestand: 2016-09-06
 bron: "https://wetten.overheid.nl/BWBR0038475"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van 23 augustus 2016, houdende eisen opleiding ter voorbereiding op het beroep van gerechtsdeurwaarder, alsmede regeling van het maximum aantal kandidaat-gerechtsdeurwaarders dat ten behoeve van zijn stage onder verantwoordelijkheid van één gerechtsdeurwaarder werkzaam kan zijn (Besluit opleiding en stage gerechtsdeurwaardersambt)

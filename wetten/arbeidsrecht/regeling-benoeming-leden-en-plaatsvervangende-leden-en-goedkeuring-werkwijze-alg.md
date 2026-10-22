@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-06-30
 toestand: 2016-01-16
 bron: "https://wetten.overheid.nl/BWBR0037549"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu, van 13 januari 2016, nr. IENM/BSK-2015/220523, houdende benoeming leden en plaatsvervangende leden Algemene Commissie tot Voorkoming van Arbeidsongevallen Zeevarenden en goedkeuring omtrent werkwijze van deze commissie

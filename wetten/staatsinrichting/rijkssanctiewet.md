@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0038211"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Rijkswet van 15 juni 2016, houdende bepalingen omtrent de toepassing in Aruba, Curaçao en Sint Maarten van beperkende maatregelen met het oog op de handhaving of het herstel van de internationale vrede en veiligheid of de bevordering van de internationale rechtsorde dan wel de bestrijding van terrorisme, vastgesteld in het kader van het Gemeenschappelijk Buitenlands en Veiligheidsbeleid van de Europese Unie (Rijkssanctiewet)

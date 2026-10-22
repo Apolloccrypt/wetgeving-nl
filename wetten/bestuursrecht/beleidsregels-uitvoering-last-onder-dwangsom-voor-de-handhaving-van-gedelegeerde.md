@@ -9,7 +9,7 @@ laatste_update: 2016-01-15
 status: geldig
 toestand: 2016-01-15
 bron: "https://wetten.overheid.nl/BWBR0037545"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Beleidsregels van de Minister van Infrastructuur en Milieu van 13 januari 2016, nr. IENM/BSK-2015/170540, houdende uitvoering van de last onder dwangsom voor de handhaving van gedelegeerde ITS-verordeningen

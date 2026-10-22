@@ -9,7 +9,7 @@ laatste_update: 2016-02-03
 status: geldig
 toestand: 2016-02-03
 bron: "https://wetten.overheid.nl/BWBR0037583"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Minister van Defensie houdende de instelling van een interdepartementale Beheer- en Gezagsstructuur Koninklijke Marechaussee (Instellingsbesluit Interdepartementale Beheer- en Gezagsstructuur Koninklijke Marechaussee 2015)

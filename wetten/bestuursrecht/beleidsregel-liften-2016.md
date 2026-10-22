@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0038011"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Beleidsregel van de Minister van Sociale Zaken en Werkgelegenheid van 30 mei 2016, 2016-0000121520, tot vaststelling van een beleidsregel met betrekking tot artikel 8, eerste lid, van het Warenwetbesluit liften 2016 (Beleidsregel liften 2016)

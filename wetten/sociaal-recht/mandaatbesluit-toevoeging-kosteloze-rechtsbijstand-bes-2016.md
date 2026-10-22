@@ -9,7 +9,7 @@ laatste_update: 2016-07-01
 status: geldig
 toestand: 2016-07-01
 bron: "https://wetten.overheid.nl/BWBR0038087"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Minister van Veiligheid en Justitie van 9 juni 2016, nr. 768104 houdende verlening van mandaat en het doorgeven van volmacht en machtiging aan het bestuur van de raad voor rechtsbijstand ten aanzien van besluiten omtrent de verlening van kosteloze rechtskundige bijstand krachtens de Wet kosteloze rechtskundige bijstand BES (Mandaatbesluit toevoeging kosteloze rechtskundige bijstand BES 2016)

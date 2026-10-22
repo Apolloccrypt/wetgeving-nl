@@ -9,7 +9,7 @@ laatste_update: 2023-02-18
 status: geldig
 toestand: 2023-02-18
 bron: "https://wetten.overheid.nl/BWBR0037852"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Wet van 14 april 2016, houdende de oprichting van een Huis voor klokkenluiders (Wet Huis voor klokkenluiders)

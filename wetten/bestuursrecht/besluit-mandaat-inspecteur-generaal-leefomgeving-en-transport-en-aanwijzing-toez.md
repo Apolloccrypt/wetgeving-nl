@@ -9,7 +9,7 @@ laatste_update: 2016-07-14
 status: geldig
 toestand: 2016-07-14
 bron: "https://wetten.overheid.nl/BWBR0038257"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Minister van Veiligheid en Justitie van 16 juni 2016 (kenmerk: 771903/16/NCTV), houdende verlening mandaat, volmacht en machtiging inspecteur-generaal Leefomgeving en Transport en aanwijzing toezichthouders Wet precursoren voor explosieven (Besluit mandaat inspecteur-generaal Leefomgeving en Transport en aanwijzing toezichthouders Wet precursoren voor explosieven)

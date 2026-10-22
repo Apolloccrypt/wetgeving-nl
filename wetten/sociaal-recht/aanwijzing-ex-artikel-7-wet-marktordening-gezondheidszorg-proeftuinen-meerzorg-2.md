@@ -9,7 +9,7 @@ laatste_update: 2016-07-01
 status: geldig
 toestand: 2016-07-01
 bron: "https://wetten.overheid.nl/BWBR0037906"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 25 april 2016, kenmerk 961626-149797-MC, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake proeftuinen meerzorg 2.0

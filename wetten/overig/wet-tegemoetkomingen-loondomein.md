@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0037522"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Wet van 23 december 2015, houdende tegemoetkomingen in de loonkosten van specifieke groepen (Wet tegemoetkomingen loondomein)

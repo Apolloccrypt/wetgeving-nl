@@ -9,7 +9,7 @@ laatste_update: 2016-05-24
 status: geldig
 toestand: 2016-05-24
 bron: "https://wetten.overheid.nl/BWBR0037978"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van 4 mei 2016, houdende regels tot wijziging van enige uitvoeringsbesluiten op het gebied van belastingen en enige andere uitvoeringsbesluiten in verband met het van toepassing worden van Verordening (EU) nr. 952/2013 van het Europees Parlement en van de Raad van 9 oktober 2013 tot vaststelling van het douanewetboek van de Unie (PbEU 2013, L 269) (Besluit aanpassingen aan het Douanewetboek van de Unie)

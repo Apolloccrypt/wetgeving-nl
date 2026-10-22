@@ -9,7 +9,7 @@ laatste_update: 2016-12-01
 status: geldig
 toestand: 2016-12-01
 bron: "https://wetten.overheid.nl/BWBR0037681"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Wet van 17 februari 2016 tot wijziging van het Wetboek van Strafvordering en de Wet op de economische delicten in verband met het gebruik van elektronische processtukken (digitale processtukken Strafvordering)

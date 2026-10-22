@@ -8,7 +8,7 @@ laatste_update: 2026-10-15
 status: geldig
 toestand: 2026-10-15
 bron: "https://wetten.overheid.nl/BWBR0053189"
-opgehaald: 2026-10-21
+opgehaald: 2026-10-22
 ---
 
 # Boetetoemetingsbeleid AFM 2026

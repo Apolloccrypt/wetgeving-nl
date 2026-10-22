@@ -9,7 +9,7 @@ laatste_update: 2016-01-29
 status: geldig
 toestand: 2016-01-29
 bron: "https://wetten.overheid.nl/BWBR0037550"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Wet van 23 december 2015 tot wijziging van de Wet op het financieel toezicht, het Burgerlijk Wetboek en enige andere wetten ter implementatie van richtlijn nr. 2013/50/EU van het Europees Parlement en de Raad van 22 oktober 2013 tot wijziging van Richtlijn 2004/109/EG van het Europees Parlement en de Raad betreffende de transparantievereisten die gelden voor informatie over uitgevende instellingen waarvan effecten tot de handel op een gereglementeerde markt zijn toegelaten, Richtlijn 2003/71/EG van het Europees Parlement en de Raad betreffende het prospectus dat gepubliceerd moet worden wanneer effecten aan het publiek worden aangeboden of tot de handel worden toegelaten en Richtlijn 2007/14/EG van de Commissie tot vaststelling van concrete uitvoeringsvoorschriften van een aantal bepalingen van Richtlijn 2004/109/EG (PbEU 2013, L 294) (Implementatiewet wijziging richtlijn transparantie)

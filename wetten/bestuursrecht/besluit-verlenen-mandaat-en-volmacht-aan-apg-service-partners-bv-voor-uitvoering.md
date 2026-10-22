@@ -9,7 +9,7 @@ laatste_update: 2016-04-01
 status: geldig
 toestand: 2016-04-01
 bron: "https://wetten.overheid.nl/BWBR0037865"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit tot het verlenen van mandaat en volmacht aan APG Service Partners B.V. ter zake van de uitvoering van Regeling voor substantieel bezwarende functies

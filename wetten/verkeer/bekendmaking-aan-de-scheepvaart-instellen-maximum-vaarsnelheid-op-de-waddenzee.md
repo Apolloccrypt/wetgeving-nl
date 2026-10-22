@@ -5,10 +5,11 @@ categorie: "Verkeer"
 soort: "ministeriele-regeling"
 publicatiedatum: 1998-05-01
 laatste_update: 2005-02-15
-status: geldig
+status: vervallen
+vervallen_op: 2026-06-30
 toestand: 2005-02-15
 bron: "https://wetten.overheid.nl/BWBR0009519"
-opgehaald: 2026-09-30
+opgehaald: 2026-10-22
 ---
 
 # Bekendmaking aan de scheepvaart; Instellen maximum vaarsnelheid op de Waddenzee

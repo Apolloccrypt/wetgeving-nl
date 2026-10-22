@@ -9,7 +9,7 @@ laatste_update: 2016-08-01
 status: geldig
 toestand: 2016-08-01
 bron: "https://wetten.overheid.nl/BWBR0037963"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # collegebesluit Extra afnamemoment ER-examens 2ER en 3ER eerste tijdvak (P1) centrale examinering mbo, studiejaar 2016–2017

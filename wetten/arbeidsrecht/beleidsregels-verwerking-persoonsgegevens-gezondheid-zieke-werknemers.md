@@ -8,7 +8,7 @@ laatste_update: 2016-04-29
 status: geldig
 toestand: 2016-04-29
 bron: "https://wetten.overheid.nl/BWBR0037896"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Beleidsregels verwerking persoonsgegevens gezondheid zieke werknemers

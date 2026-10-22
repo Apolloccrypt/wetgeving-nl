@@ -9,7 +9,7 @@ laatste_update: 2016-06-25
 status: geldig
 toestand: 2016-06-25
 bron: "https://wetten.overheid.nl/BWBR0038107"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit houdende vaststelling van een vergoeding voor de voorzitter en leden van de Mijnraad

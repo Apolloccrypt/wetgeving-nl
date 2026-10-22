@@ -9,7 +9,7 @@ laatste_update: 2026-07-04
 status: geldig
 toestand: 2026-07-04
 bron: "https://wetten.overheid.nl/BWBR0037684"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 26 februari 2016, nr. MinBuza-2016.1102262, houdende beperkende maatregelen jegens Libië (Sanctieregeling Libië 2016)

@@ -9,7 +9,7 @@ laatste_update: 2016-07-08
 status: geldig
 toestand: 2016-07-08
 bron: "https://wetten.overheid.nl/BWBR0038206"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 6 juli 2016, nr. MinBuza-2016.390112, tot wijziging van het Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 1 februari 2016, nr. MinBuza-2016.511651 tot vaststelling van enkele subsidieplafondsWijziging subsidieplafond missievouchers)

@@ -9,7 +9,7 @@ laatste_update: 2024-02-01
 status: geldig
 toestand: 2024-02-01
 bron: "https://wetten.overheid.nl/BWBR0037570"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie en de Minister van Volksgezondheid, Welzijn en Sport van 11 december 2015, kenmerk 885614-145412-PG, houdende instelling van een commissie voor de beoordeling van gemelde gevallen van late zwangerschapsafbreking en levensbeëindiging bij pasgeborenen (Regeling beoordelingscommissie late zwangerschapsafbreking en levensbeëindiging bij pasgeborenen)

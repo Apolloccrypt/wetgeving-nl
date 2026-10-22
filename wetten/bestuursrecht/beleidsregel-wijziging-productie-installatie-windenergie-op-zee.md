@@ -9,7 +9,7 @@ laatste_update: 2017-12-13
 status: geldig
 toestand: 2017-12-13
 bron: "https://wetten.overheid.nl/BWBR0037804"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Minister van Economische Zaken van 31 maart 2016, nr. WJZ/16048534, houdende regels over de toepassing van artikel 62, derde lid, van het Besluit stimulering duurzame energieproductie voor productie-installaties voor de productie van windenergie op zee (Beleidsregel wijziging productie-installatie windenergie op zee)

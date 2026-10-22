@@ -8,7 +8,7 @@ laatste_update: 2015-12-02
 status: geldig
 toestand: 2015-12-02
 bron: "https://wetten.overheid.nl/BWBR0037500"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Memorandum van overeenstemming tussen Georgië en Nederland inzake de uitwisseling van inlichtingen in belastingzaken

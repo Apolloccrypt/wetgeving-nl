@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0037958"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 10 mei 2016, kenmerk 966398-150196-WJZ houdende regels inzake de productie, de presentatie en de verkoop van tabaksproducten en aanverwante producten (Tabaks- en rookwarenregeling)

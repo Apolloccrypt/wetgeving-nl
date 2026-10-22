@@ -9,7 +9,7 @@ laatste_update: 2016-04-29
 status: geldig
 toestand: 2016-04-29
 bron: "https://wetten.overheid.nl/BWBR0037894"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Beleidsregel 2016 voor de beoordeling van verzoeken van notarissen om een ontheffing van de verplichting om een samenstellingsverklaring te verstrekken bij het indienen van kwartaalcijfers over het derde kwartaal 2016 tot en met het vierde kwartaal 2017 (Beleidsregel ontheffing samenstellingsverklaring 2016)

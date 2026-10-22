@@ -9,7 +9,7 @@ laatste_update: 2016-03-01
 status: geldig
 toestand: 2016-03-01
 bron: "https://wetten.overheid.nl/BWBR0037658"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit van 17 februari 2016 tot wijziging van het Vreemdelingenbesluit 2000, houdende de invoering van bijzondere procedurele bepalingen die kunnen worden toegepast in situaties waarin sprake is van een aanzienlijke toename van het aantal asielaanvragen en enkele andere wijzigingen

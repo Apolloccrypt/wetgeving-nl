@@ -9,7 +9,7 @@ laatste_update: 2016-04-21
 status: geldig
 toestand: 2016-04-21
 bron: "https://wetten.overheid.nl/BWBR0037844"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Minister van Economische Zaken van 15 april 2016, nr. WJZ/16056990, houdende vaststelling van de aanvraag- en veilingprocedure voor vergunning voor frequentieruimte ten behoeve van digitale omroep (digitale ethertelevisie)

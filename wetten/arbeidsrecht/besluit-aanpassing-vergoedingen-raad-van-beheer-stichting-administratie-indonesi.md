@@ -8,7 +8,7 @@ laatste_update: 2016-05-27
 status: geldig
 toestand: 2016-05-27
 bron: "https://wetten.overheid.nl/BWBR0037985"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit aanpassing vergoedingen Raad van Beheer Stichting Administratie Indonesische Pensioenen (SAIP)

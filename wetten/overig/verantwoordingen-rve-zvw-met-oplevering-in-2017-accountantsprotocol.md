@@ -8,7 +8,7 @@ laatste_update: 2016-08-11
 status: geldig
 toestand: 2016-08-11
 bron: "https://wetten.overheid.nl/BWBR0038409"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Verantwoordingen RVE Zvw met oplevering in 2017 (Accountantsprotocol)

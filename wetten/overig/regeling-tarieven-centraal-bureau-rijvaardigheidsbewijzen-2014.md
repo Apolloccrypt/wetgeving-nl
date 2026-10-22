@@ -9,7 +9,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0037648"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Regeling Tarieven CBR 2014

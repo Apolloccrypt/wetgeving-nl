@@ -9,7 +9,7 @@ laatste_update: 2016-06-01
 status: geldig
 toestand: 2016-06-01
 bron: "https://wetten.overheid.nl/BWBR0037839"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit houdende benoeming en vaststelling vergoeding leden van de Adviescommissie udv-subsidies

@@ -9,7 +9,7 @@ laatste_update: 2016-03-06
 status: geldig
 toestand: 2016-03-06
 bron: "https://wetten.overheid.nl/BWBR0037687"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Directeur-Generaal van de statistiek tot het verlenen van mandaat aan De Nederlandsche Bank N.V. voor de verwerving van gegevens bij financiële instellingen ten behoeve van het opstellen van o.a. de sectorrekeningen en tot het opleggen van bestuurlijke maatregelen bij overtreding van de rapportageverplichtingen op grond van de Wet op het Centraal bureau voor de statistiek (Mandaatbesluit samenwerking DNB-CBS 2016)

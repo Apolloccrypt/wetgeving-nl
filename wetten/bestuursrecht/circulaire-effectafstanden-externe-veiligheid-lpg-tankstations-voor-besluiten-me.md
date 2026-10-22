@@ -8,7 +8,7 @@ laatste_update: 2016-06-29
 status: geldig
 toestand: 2016-06-29
 bron: "https://wetten.overheid.nl/BWBR0038123"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Circulaire effectafstanden externe veiligheid LPG-tankstations voor besluiten met gevolgen effecten ongeval

@@ -9,7 +9,7 @@ laatste_update: 2022-07-01
 status: geldig
 toestand: 2022-07-01
 bron: "https://wetten.overheid.nl/BWBR0038468"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van 24 augustus 2016, houdende regels voor de rechten, de ondersteuning en de bescherming van slachtoffers van strafbare feiten (Besluit slachtoffers van strafbare feiten)

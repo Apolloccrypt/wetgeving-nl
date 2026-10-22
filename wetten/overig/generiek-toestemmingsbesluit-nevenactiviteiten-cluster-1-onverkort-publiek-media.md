@@ -8,7 +8,7 @@ laatste_update: 2016-01-04
 status: geldig
 toestand: 2016-01-04
 bron: "https://wetten.overheid.nl/BWBR0037484"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Generiek toestemmingsbesluit nevenactiviteiten – cluster 1 (onverkort publiek media-aanbod op fysieke dragers en video on demand)

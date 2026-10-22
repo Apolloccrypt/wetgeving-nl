@@ -9,7 +9,7 @@ laatste_update: 2017-02-21
 status: geldig
 toestand: 2017-02-21
 bron: "https://wetten.overheid.nl/BWBR0037592"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 2 februari 2016 nr. BOACAT2016/010, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Hengelo

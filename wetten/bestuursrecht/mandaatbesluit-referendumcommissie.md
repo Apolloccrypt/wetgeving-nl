@@ -9,7 +9,7 @@ laatste_update: 2015-10-29
 status: geldig
 toestand: 2015-10-29
 bron: "https://wetten.overheid.nl/BWBR0037580"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Referendumcommissie van 19 oktober 2015 tot mandaatverlening

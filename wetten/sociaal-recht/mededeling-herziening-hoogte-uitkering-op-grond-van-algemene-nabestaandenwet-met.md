@@ -9,7 +9,7 @@ laatste_update: 2016-07-01
 status: geldig
 toestand: 2016-07-01
 bron: "https://wetten.overheid.nl/BWBR0038136"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Mededeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 24 juni 2016, 2016-0000149442, betreffende de herziening van de hoogte van de uitkering op grond van de Algemene nabestaandenwet met ingang van 1 juli 2016

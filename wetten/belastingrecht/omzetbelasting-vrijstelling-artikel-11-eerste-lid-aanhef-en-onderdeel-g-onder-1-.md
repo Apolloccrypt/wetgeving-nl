@@ -9,7 +9,7 @@ laatste_update: 2023-04-27
 status: geldig
 toestand: 2023-04-27
 bron: "https://wetten.overheid.nl/BWBR0037781"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Omzetbelasting, vrijstelling; artikel 11, eerste lid, aanhef en onderdeel g, onder 1°, van de Wet op de omzetbelasting 1968

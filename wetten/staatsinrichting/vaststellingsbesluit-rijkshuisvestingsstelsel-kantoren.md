@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0038279"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Minister voor Wonen en Rijksdienst van 22 juni 2016, nr. 2016-0000025780, tot vaststelling van het Rijkshuisvestingsstelsel voor kantoren (Vaststellingsbesluit Rijkshuisvestingsstelsel kantoren)

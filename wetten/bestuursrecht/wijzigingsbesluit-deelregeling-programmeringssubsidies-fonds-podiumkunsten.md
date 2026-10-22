@@ -9,7 +9,7 @@ laatste_update: 2016-08-01
 status: geldig
 toestand: 2016-08-01
 bron: "https://wetten.overheid.nl/BWBR0038365"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de raad van bestuur van het Fonds Podiumkunsten tot wijziging van de Deelregeling programmeringssubsidies Fonds Podiumkunsten

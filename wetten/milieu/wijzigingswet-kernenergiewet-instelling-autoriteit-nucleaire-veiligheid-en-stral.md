@@ -9,7 +9,7 @@ laatste_update: 2017-08-01
 status: geldig
 toestand: 2017-08-01
 bron: "https://wetten.overheid.nl/BWBR0037972"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Wet van 26 april 2016 tot wijziging van de Kernenergiewet in verband met de instelling van de Autoriteit Nucleaire Veiligheid en Stralingsbescherming

@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0038097"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 17 juni 2016, nr. 769903, houdende toekenning van een vaste vergoeding per maand aan de leden van Adviescollege Verloftoetsing tbs (Vergoedingenbesluit Adviescollege Verloftoetsing tbs)

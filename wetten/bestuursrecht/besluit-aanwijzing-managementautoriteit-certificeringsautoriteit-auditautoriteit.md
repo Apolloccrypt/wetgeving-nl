@@ -9,7 +9,7 @@ laatste_update: 2016-07-08
 status: geldig
 toestand: 2016-07-08
 bron: "https://wetten.overheid.nl/BWBR0038204"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Staatssecretaris van Economische Zaken van 25 juni 2016, nr. DGBI-I&K/16083120, houdende aanwijzing van de managementautoriteit, de certificeringsautoriteit, de auditautoriteit en het Comité van Toezicht voor het samenwerkingsprogramma Euregio Maas-Rijn 2014–2020

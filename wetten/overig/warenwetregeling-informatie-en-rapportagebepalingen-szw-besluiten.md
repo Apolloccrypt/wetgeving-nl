@@ -9,7 +9,7 @@ laatste_update: 2018-05-04
 status: geldig
 toestand: 2018-05-04
 bron: "https://wetten.overheid.nl/BWBR0038031"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 31 mei 2016, 2016-0000111975, houdende vaststelling van de Warenwetregeling informatie- en rapportagebepalingen SZW-besluiten en tot wijziging van de Warenwetregeling machines en de Warenwetregeling persoonlijke beschermingsmiddelen (Warenwetregeling informatie- en rapportagebepalingen SZW-besluiten)

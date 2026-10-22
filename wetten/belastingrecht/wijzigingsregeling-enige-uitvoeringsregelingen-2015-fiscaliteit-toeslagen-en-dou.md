@@ -9,7 +9,7 @@ laatste_update: 2020-07-01
 status: geldig
 toestand: 2020-07-01
 bron: "https://wetten.overheid.nl/BWBR0037468"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Staatssecretaris van Financiën van 30 december 2015, nr. DB/2015/465M, tot wijziging van enige uitvoeringsregelingen inzake de fiscaliteit, toeslagen en douane alsmede van de Wet op de accijns

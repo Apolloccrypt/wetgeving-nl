@@ -8,7 +8,7 @@ laatste_update: 2016-04-01
 status: geldig
 toestand: 2016-04-01
 bron: "https://wetten.overheid.nl/BWBR0037707"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Richtlijn voor strafvordering sociale zekerheidsfraude

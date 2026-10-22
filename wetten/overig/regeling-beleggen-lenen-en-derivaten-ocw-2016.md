@@ -9,7 +9,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBR0038059"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 6 juni 2016, nr. WJZ/800938 (6670), houdende regels voor onderwijsinstellingen omtrent het uitzetten van gelden, het aangaan van leningen en het aangaan van verbintenissen voor financiële derivaten (Regeling beleggen, lenen en derivaten OCW 2016)

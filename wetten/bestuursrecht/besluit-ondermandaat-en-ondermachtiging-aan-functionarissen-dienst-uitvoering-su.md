@@ -9,7 +9,7 @@ laatste_update: 2016-08-17
 status: geldig
 toestand: 2016-08-17
 bron: "https://wetten.overheid.nl/BWBR0038357"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de directeur van de Dienst Uitvoering Subsidies aan Instellingen in oprichting van 11 juli 2016, houdende het verlenen van ondermandaat en ondermachtiging aan functionarissen van de Dienst Uitvoering Subsidies aan Instellingen in oprichting

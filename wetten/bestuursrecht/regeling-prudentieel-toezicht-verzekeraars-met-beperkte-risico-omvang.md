@@ -9,7 +9,7 @@ laatste_update: 2022-12-31
 status: geldig
 toestand: 2022-12-31
 bron: "https://wetten.overheid.nl/BWBR0037542"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Regeling van De Nederlandsche Bank N.V. van 7 januari 2016 houdende regels met betrekking tot het prudentieel toezicht op verzekeraars met beperkte risico-omvang (Regeling prudentieel toezicht verzekeraars met beperkte risico-omvang)

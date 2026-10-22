@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0037515"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 15 december 2015, kenmerk 878309-144844-Z, houdende de aanwijzing van de zorgkantoren

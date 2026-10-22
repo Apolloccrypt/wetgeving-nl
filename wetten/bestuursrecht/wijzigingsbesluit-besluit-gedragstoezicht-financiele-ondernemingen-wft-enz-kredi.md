@@ -9,7 +9,7 @@ laatste_update: 2017-07-01
 status: geldig
 toestand: 2017-07-01
 bron: "https://wetten.overheid.nl/BWBR0038226"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van 30 juni 2016 tot wijziging van het Besluit Gedragstoezicht financiële ondernemingen Wft, het Besluit markttoegang financiële ondernemingen Wft en het Besluit bestuurlijke boetes financiële sector in verband met de implementatie van richtlijn nr. 2014/17/EU van het Europees Parlement en de Raad van 4 februari 2014 inzake kredietovereenkomsten voor consumenten met betrekking tot voor bewoning bestemde onroerende goederen en tot wijziging van de Richtlijnen 2008/48/EG en 2013/36/EU en Verordening (EU) nr. 1093/2010 (PbEU 2014, L 60)

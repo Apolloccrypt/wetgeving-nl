@@ -9,7 +9,7 @@ laatste_update: 2016-07-01
 status: geldig
 toestand: 2016-07-01
 bron: "https://wetten.overheid.nl/BWBR0037892"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Wet van 14 april 2016 tot wijziging van Boek 7 van het Burgerlijk Wetboek, de Huisvestingswet 2014 en de Woningwet (aanvulling van de opzeggingsgrond dringend eigen gebruik voor de tijdelijke huisvesting van jongeren)

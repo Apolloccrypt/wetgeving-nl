@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0038272"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Minister van Financiën van 6 juli 2016, 2016-93625, van de directie Financiële Markten, tot aanwijzing van personen die zijn belast met het toezicht op de naleving van artikel 41, tweede lid, van de Wet op het accountantsberoep en mandaatverlening voor de handhaving (Aanwijzings- en mandaatbesluit Wet op het accountantsberoep 2016)

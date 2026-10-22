@@ -9,7 +9,7 @@ laatste_update: 2016-07-01
 status: geldig
 toestand: 2016-07-01
 bron: "https://wetten.overheid.nl/BWBR0038093"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Minister van Economische Zaken van 10 juni 2016, nr. WJZ/15003661, houdende regels met betrekking tot de productie en de distributie van elektriciteit en drinkwater op Bonaire, Sint Eustatius en Saba (Ministeriele regeling elektriciteit en drinkwater BES)

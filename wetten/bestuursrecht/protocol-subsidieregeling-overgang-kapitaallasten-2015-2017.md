@@ -8,7 +8,7 @@ laatste_update: 2016-03-02
 status: geldig
 toestand: 2016-03-02
 bron: "https://wetten.overheid.nl/BWBR0037670"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Protocol Subsidieregeling overgang kapitaallasten 2015-2017

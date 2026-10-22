@@ -9,7 +9,7 @@ laatste_update: 2021-07-17
 status: geldig
 toestand: 2021-07-17
 bron: "https://wetten.overheid.nl/BWBR0038153"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 17 juni 2016, nr. E&K/998239, strekkende tot aanwijzing van de wijze van bekendmaken van voorgenomen besluiten tot vervreemding van een cultuurgoed of verzameling door de Minister van Onderwijs, Cultuur en Wetenschap, gedeputeerde staten of het college van burgemeester en wethouders

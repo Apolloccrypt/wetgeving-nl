@@ -8,7 +8,7 @@ laatste_update: 2014-12-18
 status: geldig
 toestand: 2014-12-18
 bron: "https://wetten.overheid.nl/BWBR0037749"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Tariefbesluit Centrale Commissie Dierproeven per 18 december 2014

@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0037745"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Wet van 9 maart 2016 tot wijziging van de Zorgverzekeringswet met het oog op het opnemen van regels betreffende een Zvw-pgb

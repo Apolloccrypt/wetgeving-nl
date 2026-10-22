@@ -9,7 +9,7 @@ laatste_update: 2019-02-09
 status: geldig
 toestand: 2019-02-09
 bron: "https://wetten.overheid.nl/BWBR0038457"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van 23 augustus 2016, houdende de instelling van de Erepenning voor Verdiensten jegens Openbare Verzamelingen (Besluit Erepenning voor Verdiensten jegens Openbare Verzamelingen (Museumpenning))

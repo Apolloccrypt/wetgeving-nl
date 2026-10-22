@@ -9,7 +9,7 @@ laatste_update: 2018-12-29
 status: geldig
 toestand: 2018-12-29
 bron: "https://wetten.overheid.nl/BWBR0037783"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 24 maart 2016, nr. 2016-0000177572, tot vaststelling van de beleidsindicatoren die door gemeenten in de programma’s en programmaverantwoording worden opgenomen

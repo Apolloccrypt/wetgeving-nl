@@ -9,7 +9,7 @@ laatste_update: 2016-05-05
 status: geldig
 toestand: 2016-05-05
 bron: "https://wetten.overheid.nl/BWBR0037910"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Beleidsregel van de Staatssecretaris van Economische Zaken van 2 mei 2016, nr. WJZ/16068109, betreffende invoervergunningen voor jachttrofeeën

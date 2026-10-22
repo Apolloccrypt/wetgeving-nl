@@ -8,7 +8,7 @@ laatste_update: 2026-10-14
 status: geldig
 toestand: 2026-10-14
 bron: "https://wetten.overheid.nl/BWBR0053199"
-opgehaald: 2026-10-21
+opgehaald: 2026-10-22
 ---
 
 # Bestuursreglement Commissariaat voor de Media

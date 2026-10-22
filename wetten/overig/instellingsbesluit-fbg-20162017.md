@@ -9,7 +9,7 @@ laatste_update: 2016-02-11
 status: geldig
 toestand: 2016-02-11
 bron: "https://wetten.overheid.nl/BWBR0037601"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 29 januari 2016, houdende de instelling van het Forum Biotechnologie en Genetica voor de jaren 2016 en 2017 (Instellingsbesluit FBG 2016–2017)

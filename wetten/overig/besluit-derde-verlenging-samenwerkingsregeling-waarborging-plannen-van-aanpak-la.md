@@ -9,7 +9,7 @@ laatste_update: 2016-10-10
 status: geldig
 toestand: 2016-10-10
 bron: "https://wetten.overheid.nl/BWBR0038352"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van 8 juli 2016, houdende verlenging van de Samenwerkingsregeling waarborging plannen van aanpak landstaken Curaçao en Sint Maarten

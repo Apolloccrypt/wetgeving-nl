@@ -9,7 +9,7 @@ laatste_update: 2016-08-17
 status: geldig
 toestand: 2016-08-17
 bron: "https://wetten.overheid.nl/BWBR0038427"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 12 augustus 2016, nr. 2016-0000471252, houdende vergoeding van de voorzitter en leden van de bezwaaradviescommissie Referendumcommissie

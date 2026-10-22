@@ -8,7 +8,7 @@ laatste_update: 2016-04-01
 status: geldig
 toestand: 2016-04-01
 bron: "https://wetten.overheid.nl/BWBR0037897"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit verlenen mandaat en volmacht APG Service Partners B.V. (uitvoering bovenwettelijke uitkeringsregelingen en wachtgeldregelingen)

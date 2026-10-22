@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0037518"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Wet van 9 december 2015 tot wijziging van de Wet algemene bepalingen omgevingsrecht (verbetering vergunningverlening, toezicht en handhaving)

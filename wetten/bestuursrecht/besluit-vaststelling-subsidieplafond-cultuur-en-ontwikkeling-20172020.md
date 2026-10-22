@@ -9,7 +9,7 @@ laatste_update: 2016-07-16
 status: geldig
 toestand: 2016-07-16
 bron: "https://wetten.overheid.nl/BWBR0038277"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 4 juli 2016, nr. 72/2016 , tot vaststelling van een subsidieplafond op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieplafond Cultuur en Ontwikkeling 2017–2020)

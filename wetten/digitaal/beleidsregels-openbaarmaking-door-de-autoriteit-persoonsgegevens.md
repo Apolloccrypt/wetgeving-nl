@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-04-16
 toestand: 2023-04-13
 bron: "https://wetten.overheid.nl/BWBR0037531"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Beleidsregels openbaarmaking door de Autoriteit Persoonsgegevens

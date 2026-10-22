@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0037705"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Wet van 17 februari 2016 tot wijziging van de Gerechtsdeurwaarderswet in verband met de evaluatie van het functioneren van de Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders, alsmede de regeling van enkele andere onderwerpen in die wet

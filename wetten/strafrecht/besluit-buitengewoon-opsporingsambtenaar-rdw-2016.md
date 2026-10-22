@@ -9,7 +9,7 @@ laatste_update: 2019-08-07
 status: geldig
 toestand: 2019-08-07
 bron: "https://wetten.overheid.nl/BWBR0038026"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 31 mei 2016 nr. BOACAT2016/038, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Dienst Wegverkeer

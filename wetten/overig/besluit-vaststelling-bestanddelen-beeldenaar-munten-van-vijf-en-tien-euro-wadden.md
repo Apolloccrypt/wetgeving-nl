@@ -9,7 +9,7 @@ laatste_update: 2016-06-10
 status: geldig
 toestand: 2016-06-10
 bron: "https://wetten.overheid.nl/BWBR0038015"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van 1 juni 2016, nr. 2016000936 houdende vaststelling van de bestanddelen van de beeldenaar van de munten van vijf en tien euro ‘Waddenzee’ die in 2016 worden uitgegeven in de thematische serie Nederlands Werelderfgoed

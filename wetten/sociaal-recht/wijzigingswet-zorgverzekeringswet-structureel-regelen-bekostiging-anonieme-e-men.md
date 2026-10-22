@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0037846"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Wet van 30 maart 2016 tot wijziging van de Zorgverzekeringswet teneinde de bekostiging van anonieme e-mental health structureel te regelen en de anonieme financiering van zorg aan ernstig bedreigde cliënten mogelijk te maken

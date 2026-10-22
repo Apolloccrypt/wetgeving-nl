@@ -9,7 +9,7 @@ laatste_update: 2016-04-23
 status: geldig
 toestand: 2016-04-23
 bron: "https://wetten.overheid.nl/BWBR0037856"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Staatssecretaris van Economische Zaken van 31 maart 2016, nr. WJZ/15163191, tot aanwijzing toezichthouders en nationaal contactpunt Wet implementatie Nagoya Protocol

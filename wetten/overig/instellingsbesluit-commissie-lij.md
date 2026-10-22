@@ -9,7 +9,7 @@ laatste_update: 2016-03-14
 status: geldig
 toestand: 2016-03-14
 bron: "https://wetten.overheid.nl/BWBR0037703"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Minister van Veiligheid en Justitie van 29 februari 2016 kenmerk nr. 722437, houdende instelling van de Toetsingscommissie Landelijk Instrumentarium Jeugdstrafrechtketen (Instellingsbesluit commissie LIJ)

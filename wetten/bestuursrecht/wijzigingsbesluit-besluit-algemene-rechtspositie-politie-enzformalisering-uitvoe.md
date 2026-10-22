@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0038109"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van 21 juni 2016 tot wijziging van het Besluit algemene rechtspositie politie en enkele andere rechtspositionele regelingen ter formalisering van de Uitvoeringsafspraak sector Politie van 5 juni 2015

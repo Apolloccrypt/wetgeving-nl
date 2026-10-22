@@ -9,7 +9,7 @@ laatste_update: 2016-01-19
 status: geldig
 toestand: 2016-01-19
 bron: "https://wetten.overheid.nl/BWBR0037534"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 4 januari 2016, kenmerk 874087-144486-Z, houdende nadere aanwijzing van de besteedbare middelen ter dekking van de beheerskosten Wlz 2015 (nadere aanwijzing besteedbare middelen beheerskosten Wlz 2015)

@@ -9,7 +9,7 @@ laatste_update: 2020-02-01
 status: geldig
 toestand: 2020-02-01
 bron: "https://wetten.overheid.nl/BWBR0038083"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van 15 juni 2016, houdende vaststelling van het Warenwetbesluit drukapparatuur 2016 en wijziging van het Arbeidsomstandighedenbesluit, het Warenwetbesluit liften 2016 en het Warenwetbesluit bestuurlijke boeten (Warenwetbesluit drukapparatuur 2016)

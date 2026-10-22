@@ -9,7 +9,7 @@ laatste_update: 2016-06-09
 status: geldig
 toestand: 2016-06-09
 bron: "https://wetten.overheid.nl/BWBR0038012"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Minister van Financiën van 27 mei 2016 betreffende het verlenen van een machtiging aan de stichting administratiekantoor beheer financiële instellingen (Besluit machtiging NLFI in verband met overdracht aandelen A.S.R. Nederland N.V.)

@@ -8,7 +8,7 @@ laatste_update: 2016-03-31
 status: geldig
 toestand: 2016-03-31
 bron: "https://wetten.overheid.nl/BWBR0037772"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit vervanging personeelsdossiers Schadefonds geweldsmisdrijven

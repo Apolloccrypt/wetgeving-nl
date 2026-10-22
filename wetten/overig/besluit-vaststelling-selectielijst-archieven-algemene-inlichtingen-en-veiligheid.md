@@ -8,7 +8,7 @@ laatste_update: 2016-04-27
 status: geldig
 toestand: 2016-04-27
 bron: "https://wetten.overheid.nl/BWBR0037871"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit vaststelling selectielijst archieven Algemene Inlichtingen- en Veiligheidsdienst (AIVD) en voorgangers

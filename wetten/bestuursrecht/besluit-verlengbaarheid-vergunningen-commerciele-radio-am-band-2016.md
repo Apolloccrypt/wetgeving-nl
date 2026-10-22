@@ -9,7 +9,7 @@ laatste_update: 2016-08-31
 status: geldig
 toestand: 2016-08-31
 bron: "https://wetten.overheid.nl/BWBR0038442"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Minister van Economische Zaken van 19 augustus 2016, nr. WJZ/16125462, inzake verlengbaarheid van de vergunningen voor commerciële radio-omroepen voor de AM-band

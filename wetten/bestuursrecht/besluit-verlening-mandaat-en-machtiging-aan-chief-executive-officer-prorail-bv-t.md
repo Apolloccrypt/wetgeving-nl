@@ -9,7 +9,7 @@ laatste_update: 2016-05-20
 status: geldig
 toestand: 2016-05-20
 bron: "https://wetten.overheid.nl/BWBR0037973"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Milieu, van 17 mei 2016, nr. IENM/BSK-2016/77864, houdende verlening van mandaat en machtiging aan de Chief Executive Officer van ProRail B.V. voor de uitvoering van de Tijdelijke subsidieregeling spoorgoederenvervoer voor bijzondere omleidingskosten

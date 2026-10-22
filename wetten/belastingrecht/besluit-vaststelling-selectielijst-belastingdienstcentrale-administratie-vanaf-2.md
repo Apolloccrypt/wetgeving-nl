@@ -8,7 +8,7 @@ laatste_update: 2016-05-06
 status: geldig
 toestand: 2016-05-06
 bron: "https://wetten.overheid.nl/BWBR0037905"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit vaststelling selectielijst Belastingdienst/Centrale Administratie vanaf 2007

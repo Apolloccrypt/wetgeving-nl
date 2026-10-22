@@ -9,7 +9,7 @@ laatste_update: 2016-07-05
 status: geldig
 toestand: 2016-07-05
 bron: "https://wetten.overheid.nl/BWBR0038179"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Staatssecretaris van Economische Zaken van 29 juni 2016, nr. WJZ/16082842, houdende aanwijzing toezichthouders 2016 Visserijwet 1963 (Besluit aanwijzing toezichthouders 2016 Visserijwet 1963)

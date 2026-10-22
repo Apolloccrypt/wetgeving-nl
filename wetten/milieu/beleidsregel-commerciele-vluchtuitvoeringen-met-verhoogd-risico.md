@@ -9,7 +9,7 @@ laatste_update: 2016-09-02
 status: geldig
 toestand: 2016-09-02
 bron: "https://wetten.overheid.nl/BWBR0038460"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Beleidsregel van de Staatssecretaris van Infrastructuur en Milieu, houdende regels over commerciële vluchtuitvoeringen met verhoogd risico (Beleidsregel commerciële vluchtuitvoeringen met verhoogd risico)

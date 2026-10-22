@@ -9,7 +9,7 @@ laatste_update: 2026-10-16
 status: geldig
 toestand: 2026-10-16
 bron: "https://wetten.overheid.nl/BWBR0049082"
-opgehaald: 2026-10-21
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 6 december 2023, nr. IENW/BSK-2023/343978, houdende regels voor toekenning van bijdragen voor sanering van verkeerslawaai (Regeling sanering verkeerslawaai 2024)

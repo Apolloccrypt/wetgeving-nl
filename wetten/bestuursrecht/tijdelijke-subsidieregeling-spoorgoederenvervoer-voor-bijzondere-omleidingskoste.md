@@ -9,7 +9,7 @@ laatste_update: 2019-07-30
 status: geldig
 toestand: 2019-07-30
 bron: "https://wetten.overheid.nl/BWBR0037971"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 17 mei 2016, nr. IENM/BSK-2016/77865, houdende vaststelling van de Tijdelijke subsidieregeling spoorgoederenvervoer voor bijzondere omleidingskosten

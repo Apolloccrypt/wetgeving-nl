@@ -9,7 +9,7 @@ laatste_update: 2018-06-05
 status: geldig
 toestand: 2018-06-05
 bron: "https://wetten.overheid.nl/BWBR0038450"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 22 augustus 2016, 2016-0000171123, tot aanwijzing van het Uitvoeringsinstituut werknemersverzekeringen als het nationale coördinatiebureau als bedoeld in artikel 9 van de EURES-verordening en aanwijzing van vertegenwoordigers van het nationale coördinatiebureau

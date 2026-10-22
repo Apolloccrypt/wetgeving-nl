@@ -9,7 +9,7 @@ laatste_update: 2016-09-01
 status: geldig
 toestand: 2016-09-01
 bron: "https://wetten.overheid.nl/BWBR0038287"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 6 juli 2016, kenmerk 984591-152516-MC, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake beschikbaarheidbijdrage (medische) vervolgopleidingen 2017–2018

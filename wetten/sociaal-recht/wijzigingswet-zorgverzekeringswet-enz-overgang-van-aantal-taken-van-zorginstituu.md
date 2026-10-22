@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0037917"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Wet van 8 april 2016 tot wijziging van de Zorgverzekeringswet en andere wetten in verband met de overgang van een aantal taken van het Zorginstituut Nederland naar het CAK

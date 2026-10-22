@@ -9,7 +9,7 @@ laatste_update: 2016-11-01
 status: geldig
 toestand: 2016-11-01
 bron: "https://wetten.overheid.nl/BWBR0038461"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 25 augustus 2016 nr. BOACAT2016/053, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij het Uitvoeringsinstituut Werknemersverzekeringen in het domein Werk, Inkomen en Zorg

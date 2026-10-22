@@ -9,7 +9,7 @@ laatste_update: 2016-05-24
 status: geldig
 toestand: 2016-05-24
 bron: "https://wetten.overheid.nl/BWBR0037970"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Minister van Economische Zaken van 12 mei 2016, nr. WJZ/16043768, houdende beleidsregels inzake de naleving van de zorgplicht, bedoeld in artikel 33 van de Mijnbouwwet, om mogelijk nadelige gevolgen voor het milieu te voorkomen (Beleidsregel zorgplicht mijnbouw)

@@ -9,7 +9,7 @@ laatste_update: 2017-05-10
 status: geldig
 toestand: 2017-05-10
 bron: "https://wetten.overheid.nl/BWBR0037599"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Milieu, van 1 februari 2016, nr. IENM/BSK-2015/255810, houdende verlening mandaat, volmacht en machtiging aan de directeur-generaal Rijkswaterstaat voor besluiten met betrekking tot geluidwerende maatregelen voor woningen die geluidhinder ondervinden vanwege hoofdspoorwegen (Besluit mandaat, volmacht en machtiging directeur-generaal Rijkswaterstaat voor geluidwerende maatregelen spoorwegen)

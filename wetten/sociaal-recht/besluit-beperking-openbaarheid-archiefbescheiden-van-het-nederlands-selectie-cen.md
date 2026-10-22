@@ -9,7 +9,7 @@ laatste_update: 2016-08-19
 status: geldig
 toestand: 2016-08-19
 bron: "https://wetten.overheid.nl/BWBR0038422"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 9 augustus 2016, 2016-0000170131, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden uit de archieven van het Nederlands Selectie Centrum Turkije en de Attaché Sociale Zaken in Turkije over de periode 1964–1991

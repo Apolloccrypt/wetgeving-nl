@@ -8,7 +8,7 @@ laatste_update: 2016-05-31
 status: geldig
 toestand: 2016-05-31
 bron: "https://wetten.overheid.nl/BWBR0037988"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit beperking openbaarheid van naar het Nationaal Archief over te brengen archief Schadefonds geweldmisdrijven, (1973)1976–2004(2014)

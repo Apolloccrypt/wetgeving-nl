@@ -9,7 +9,7 @@ laatste_update: 2016-02-03
 status: geldig
 toestand: 2016-02-03
 bron: "https://wetten.overheid.nl/BWBR0037585"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu, van 1 februari 2016, nr. IENM/BSK-2016/18281, houdende regels voor het aanwijzen en het aanmelden van keuringsinstanties voor de uitvoering van de Wet pleziervaartuigen 2016 (Regeling keuringsinstanties Wet pleziervaartuigen 2016)

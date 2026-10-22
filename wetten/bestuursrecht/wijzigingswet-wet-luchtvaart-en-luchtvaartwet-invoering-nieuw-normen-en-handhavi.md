@@ -9,7 +9,7 @@ laatste_update: 2018-07-01
 status: geldig
 toestand: 2018-07-01
 bron: "https://wetten.overheid.nl/BWBR0037770"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Wet van 9 maart 2016 tot wijziging van de Wet luchtvaart in verband met de invoering van een nieuw normen- en handhavingstelsel voor de luchthaven Schiphol en enige andere wijzigingen

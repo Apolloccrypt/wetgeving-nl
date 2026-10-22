@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0037858"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van 14 april 2016, houdende regels in verband met de deponering van bescheiden in het handelsregister langs elektronische weg (Besluit elektronische deponering handelsregister)

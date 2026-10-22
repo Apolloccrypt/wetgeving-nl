@@ -9,7 +9,7 @@ laatste_update: 2016-07-01
 status: geldig
 toestand: 2016-07-01
 bron: "https://wetten.overheid.nl/BWBR0038147"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van 29 juni 2016 tot vaststelling van enkele afwijkende rechtspositieregels voor personeel in dienst van een zelfstandig bestuursorgaan alsmede tot wijziging van het Algemeen Rijksambtenarenreglement ter uitvoering van de Arbeidsvoorwaardenovereenkomst sector Rijk (2015–2016)

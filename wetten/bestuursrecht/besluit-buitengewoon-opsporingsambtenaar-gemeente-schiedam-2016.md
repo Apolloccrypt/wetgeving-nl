@@ -9,7 +9,7 @@ laatste_update: 2016-07-15
 status: geldig
 toestand: 2016-07-15
 bron: "https://wetten.overheid.nl/BWBR0038006"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 24 mei 2016 nr. BOACAT2016/039, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Schiedam

@@ -9,7 +9,7 @@ laatste_update: 2016-08-01
 status: geldig
 toestand: 2016-08-01
 bron: "https://wetten.overheid.nl/BWBR0038002"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Staatssecretaris van Economische Zaken van 19 mei 2016 met kenmerk 16068366, tot beperking in toegankelijkheid van gebieden ex artikel 20 Natuurbeschermingswet 1998, gelegen binnen Natura 2000-gebied Duinen Goeree & Kwade Hoek

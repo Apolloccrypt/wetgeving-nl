@@ -9,7 +9,7 @@ laatste_update: 2015-01-03
 status: geldig
 toestand: 2015-01-03
 bron: "https://wetten.overheid.nl/BWBR0037746"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Centrale Commissie Dierproeven van 19 december 2014, ref 2014-04, houdende regels inzake mandaat, volmacht en machtiging van de Centrale Commissie Dierproeven (Besluit mandaat, volmacht en machtiging van de Centrale Commissie Dierproeven CCD 2014)

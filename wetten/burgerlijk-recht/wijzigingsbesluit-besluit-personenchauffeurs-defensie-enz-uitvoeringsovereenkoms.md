@@ -9,7 +9,7 @@ laatste_update: 2016-06-09
 status: geldig
 toestand: 2016-06-09
 bron: "https://wetten.overheid.nl/BWBR0038020"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van 14 april 2016 tot wijziging van enige besluiten, in het kader van de uitvoeringsovereenkomst voor de sector Defensie als gevolg van de bovensectorale loonruimteovereenkomst 2015–2016

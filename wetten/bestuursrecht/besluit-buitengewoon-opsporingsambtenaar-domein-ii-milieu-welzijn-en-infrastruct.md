@@ -9,7 +9,7 @@ laatste_update: 2019-03-21
 status: geldig
 toestand: 2019-03-21
 bron: "https://wetten.overheid.nl/BWBR0037598"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 28 januari 2016 nr. BOACAT2016/008, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij provincie Groningen

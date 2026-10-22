@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0037519"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Wet van 2 december 2015 tot wijziging van de Wet rechtspositie rechterlijke ambtenaren en enkele andere wetten in verband met een herziening van de opleiding van rechters en officieren van justitie

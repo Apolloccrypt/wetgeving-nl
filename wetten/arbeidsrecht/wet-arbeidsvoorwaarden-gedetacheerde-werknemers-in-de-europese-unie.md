@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0038054"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Wet van 1 juni 2016, houdende Regeling van de arbeidsvoorwaarden van gedetacheerde werknemers in verband met de implementatie van Richtlijn 2014/67/EU van het Europees Parlement en de Raad van 15 mei 2014 inzake de handhaving van de detacheringsrichtlijn en tot wijziging van de IMI-verordening over de administratieve samenwerking via het Informatiesysteem interne markt (Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie)

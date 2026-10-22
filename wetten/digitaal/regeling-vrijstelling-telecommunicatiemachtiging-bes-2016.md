@@ -9,7 +9,7 @@ laatste_update: 2016-02-17
 status: geldig
 toestand: 2016-02-17
 bron: "https://wetten.overheid.nl/BWBR0037628"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Minister van Economische Zaken van 12 februari 2016, nr. WJZ/15182455, houdende de aanwijzing van categorieën radio-elektrische zend- en ontvanginrichtingen waarvoor een machtiging niet is vereist en de aanwijzing van de frequenties waar de aangewezen categorieën zendinrichtingen gebruik van mogen maken (Regeling vrijstelling telecommunicatiemachtiging BES 2016)

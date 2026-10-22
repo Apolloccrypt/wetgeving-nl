@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0038063"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Wet van 1 juni 2016 tot wijziging van de Wet werk en inkomen naar arbeidsvermogen, de Wet financiering sociale verzekeringen en enkele andere wetten in verband met verbetering van de hybride markt van de regeling Werkhervatting gedeeltelijk arbeidsgeschikten (Wet verbetering hybride markt WGA)

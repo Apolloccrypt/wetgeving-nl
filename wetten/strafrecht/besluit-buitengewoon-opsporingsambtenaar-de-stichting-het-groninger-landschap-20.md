@@ -9,7 +9,7 @@ laatste_update: 2016-05-18
 status: geldig
 toestand: 2016-05-18
 bron: "https://wetten.overheid.nl/BWBR0037953"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 4 mei 2016 nr. BOACAT2016/037, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Stichting Het Groninger Landschap

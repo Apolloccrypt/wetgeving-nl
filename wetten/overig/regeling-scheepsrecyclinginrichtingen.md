@@ -9,7 +9,7 @@ laatste_update: 2025-06-26
 status: geldig
 toestand: 2025-06-26
 bron: "https://wetten.overheid.nl/BWBR0037717"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 9 maart 2016, nr. IENM/BSK-2016/45897, houdende vaststelling van regels inzake scheepsrecyclinginrichtingen ter uitvoering van Verordening (EU) nr. 1257/2013 van het Europees Parlement en de Raad van 20 november 2013 inzake scheepsrecycling, en tot wijziging van Verordening (EG) nr. 1013/2006 en van Richtlijn 2009/16/EG

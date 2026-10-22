@@ -9,7 +9,7 @@ laatste_update: 2016-02-09
 status: geldig
 toestand: 2016-02-09
 bron: "https://wetten.overheid.nl/BWBR0037596"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie en de Minister voor Wonen en Rijksdienst van 29 januari 2016, nr. 717761, houdende instelling van de commissie Evaluatie Wet herziening gerechtelijke kaart (Instellingsregeling Commissie Evaluatie Wet herziening gerechtelijke kaart)

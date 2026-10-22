@@ -9,7 +9,7 @@ laatste_update: 2025-08-01
 status: geldig
 toestand: 2025-08-01
 bron: "https://wetten.overheid.nl/BWBR0038374"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 12 juli 2016, nr. 812176, houdende vernieuwde voorschriften in het kader van de meting en beoordeling van leerresultaten als bedoeld in artikel 23a1, eerste lid, van de Wet op het voortgezet onderwijs (Regeling leerresultaten VO 2016)

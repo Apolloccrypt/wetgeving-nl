@@ -9,7 +9,7 @@ laatste_update: 2016-07-31
 status: geldig
 toestand: 2016-07-31
 bron: "https://wetten.overheid.nl/BWBR0038383"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van 17 juni 2016, nr. 2016001047, houdende vaststelling van een selectielijst voor het Kabinet van de Koning, over de periode vanaf 30 april 2013

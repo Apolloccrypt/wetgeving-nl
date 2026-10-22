@@ -9,7 +9,7 @@ laatste_update: 2025-04-01
 status: geldig
 toestand: 2025-04-01
 bron: "https://wetten.overheid.nl/BWBR0038360"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 4 juli 2016, nr. DGP/ARBVW 2016-777969, houdende de mogelijkheid tot wijziging van de functie op aanvraag van de ambtenaar

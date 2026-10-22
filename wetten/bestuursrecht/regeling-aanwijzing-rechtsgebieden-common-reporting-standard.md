@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0037474"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Staatssecretaris van Financiën van 30 december 2015 nr. DB 2015/451 tot aanwijzing van rechtsgebieden ten behoeve van de eerste identificatie van financiële rekeningen met het oog op de automatische uitwisseling van inlichtingen op basis van de Common Reporting Standard (Regeling aanwijzing rechtsgebieden Common Reporting Standard)

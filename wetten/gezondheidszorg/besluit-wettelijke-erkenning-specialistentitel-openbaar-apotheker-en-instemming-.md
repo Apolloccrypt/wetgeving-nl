@@ -9,7 +9,7 @@ laatste_update: 2016-03-01
 status: geldig
 toestand: 2016-03-01
 bron: "https://wetten.overheid.nl/BWBR0037551"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 4 januari 2016, kenmerk 877053-144693-MEVA, houdende de wettelijke erkenning van de specialistentitel openbaar apotheker en de instemming met het Besluit opleidingseisen openbare farmacie en de Besluiten registratie en herregistratie openbare farmacie

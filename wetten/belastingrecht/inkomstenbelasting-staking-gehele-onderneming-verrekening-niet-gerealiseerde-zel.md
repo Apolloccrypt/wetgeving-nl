@@ -8,7 +8,7 @@ laatste_update: 2016-01-22
 status: geldig
 toestand: 2016-01-22
 bron: "https://wetten.overheid.nl/BWBR0037558"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Inkomstenbelasting, staking gehele onderneming; verrekening niet gerealiseerde zelfstandigenaftrek (art. 3.76 Wet IB 2001)

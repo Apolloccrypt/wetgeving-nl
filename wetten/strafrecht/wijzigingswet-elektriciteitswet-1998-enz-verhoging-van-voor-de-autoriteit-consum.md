@@ -9,7 +9,7 @@ laatste_update: 2016-07-01
 status: geldig
 toestand: 2016-07-01
 bron: "https://wetten.overheid.nl/BWBR0037541"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Wet van 23 december 2015 tot wijziging van een aantal wetten op het terrein van het Ministerie van Economische Zaken en het terrein van het Ministerie van Infrastructuur en Milieu, houdende een verhoging van voor de Autoriteit Consument en Markt geldende boetemaxima

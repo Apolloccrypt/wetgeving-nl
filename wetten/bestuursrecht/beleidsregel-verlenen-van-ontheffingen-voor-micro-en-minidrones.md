@@ -9,7 +9,7 @@ laatste_update: 2016-07-01
 status: geldig
 toestand: 2016-07-01
 bron: "https://wetten.overheid.nl/BWBR0038018"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Beleidsregel van de Staatssecretaris van Infrastructuur en Milieu, van 30 mei 2016, nr. ILT-2016/16814, voor het verlenen van ontheffingen voor micro- en minidrones

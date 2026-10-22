@@ -9,7 +9,7 @@ laatste_update: 2016-02-04
 status: geldig
 toestand: 2016-02-04
 bron: "https://wetten.overheid.nl/BWBR0037587"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de directeur Weerbaarheidsverhoging van de Nationaal Coördinator Terrorismebestrijding en Veiligheid van het Ministerie van Veiligheid en Justitie van 19-01-2016, nr. 712208, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan de landelijk commandant USAR.NL (Mandaatbesluit landelijk commandant USAR.NL)

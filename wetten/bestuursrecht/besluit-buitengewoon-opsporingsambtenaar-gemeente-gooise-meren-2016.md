@@ -9,7 +9,7 @@ laatste_update: 2016-04-05
 status: geldig
 toestand: 2016-04-05
 bron: "https://wetten.overheid.nl/BWBR0037787"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 14 maart 2016, nr. BOACAT2016/013, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Gooise Meren

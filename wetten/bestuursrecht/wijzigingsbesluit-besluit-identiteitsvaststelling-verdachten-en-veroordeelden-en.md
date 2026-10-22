@@ -9,7 +9,7 @@ laatste_update: 2016-06-01
 status: geldig
 toestand: 2016-06-01
 bron: "https://wetten.overheid.nl/BWBR0037980"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van 4 mei 2016, houdende wijziging van het Besluit identiteitsvaststelling verdachten en veroordeelden en het Besluit toepassing maatregelen in het belang van het onderzoek in verband met de implementatie van het Kaderbesluit 2009/905/JBZ van de Raad van de Europese Unie over de accreditatie van aanbieders van forensische diensten die laboratoriumactiviteiten verrichten (PbEU 2009, L 322) en in verband met enige andere onderwerpen

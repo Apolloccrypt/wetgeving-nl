@@ -9,7 +9,7 @@ laatste_update: 2015-07-01
 status: geldig
 toestand: 2015-07-01
 bron: "https://wetten.overheid.nl/BWBR0037631"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Minister voor Wonen en Rijksdienst van 26 juni 2015, nr. 2015-0000319404 tot aanwijzing van de onafhankelijke instantie, bedoeld in artikel 53a, eerste lid, van de Woningwet (Aanwijzingsbesluit Stichting Visitatie Woningcorporaties Nederland)

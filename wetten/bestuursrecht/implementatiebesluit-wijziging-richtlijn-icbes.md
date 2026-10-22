@@ -9,7 +9,7 @@ laatste_update: 2016-03-15
 status: geldig
 toestand: 2016-03-15
 bron: "https://wetten.overheid.nl/BWBR0037720"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit van 5 maart 2016, houdende regels tot wijziging van het Besluit Gedragstoezicht financiële ondernemingen Wft, het Besluit prudentiële regels Wft, het Besluit Markttoegang financiële ondernemingen Wft en het Besluit bestuurlijke boetes financiële sector ter implementatie van de gewijzigde richtlijn icbe’s (Implementatiebesluit wijziging richtlijn icbe’s)

@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0038105"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 14 juni 2016, nr. EGI/998544, tot aanwijzing van ambtenaren van de Erfgoedinspectie als inspecteurs Erfgoedwet

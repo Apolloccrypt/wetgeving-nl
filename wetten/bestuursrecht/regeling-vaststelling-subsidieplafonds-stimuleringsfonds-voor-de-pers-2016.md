@@ -9,7 +9,7 @@ laatste_update: 2016-02-20
 status: geldig
 toestand: 2016-02-20
 bron: "https://wetten.overheid.nl/BWBR0037627"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Regeling van het Stimuleringsfonds voor de journalistiek van 11 februari 2016, nr. 25729 tot vaststelling van subsidieplafonds voor het jaar 2016

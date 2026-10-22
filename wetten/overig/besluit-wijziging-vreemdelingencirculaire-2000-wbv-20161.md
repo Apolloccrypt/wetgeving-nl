@@ -9,7 +9,7 @@ laatste_update: 2016-02-02
 status: geldig
 toestand: 2016-02-02
 bron: "https://wetten.overheid.nl/BWBR0037576"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 22 januari 2016, nummer WBV 2016/1, houdende wijziging van de Vreemdelingencirculaire 2000

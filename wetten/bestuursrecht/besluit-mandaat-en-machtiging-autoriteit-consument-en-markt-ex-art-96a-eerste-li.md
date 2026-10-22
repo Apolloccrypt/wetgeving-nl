@@ -9,7 +9,7 @@ laatste_update: 2016-08-19
 status: geldig
 toestand: 2016-08-19
 bron: "https://wetten.overheid.nl/BWBR0038429"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Milieu, van 17 augustus 2016, nr. IENM/BSK-2016/165661, houdende verlening mandaat en machtiging aan de Autoriteit Consument en Markt ter uitvoering van artikel 96a, eerste lid, van de Spoorwegwet

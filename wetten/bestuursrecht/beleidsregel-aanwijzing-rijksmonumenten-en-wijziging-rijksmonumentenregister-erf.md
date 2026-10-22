@@ -9,7 +9,7 @@ laatste_update: 2016-06-30
 status: geldig
 toestand: 2016-06-30
 bron: "https://wetten.overheid.nl/BWBR0038125"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 25 juni 2016, nr. WJZ/1013167 (7544), inzake het aanwijzen van rijksmonumenten en het wijzigen van het rijksmonumentenregister, bedoeld in artikel 3.1, eerste lid, onderscheidenlijk artikel 3.4 van de Erfgoedwet (Beleidsregel aanwijzing rijksmonumenten en wijziging rijksmonumentenregister Erfgoedwet)

@@ -9,7 +9,7 @@ laatste_update: 2016-09-15
 status: geldig
 toestand: 2016-09-15
 bron: "https://wetten.overheid.nl/BWBR0038221"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Minister van Economische Zaken van 1 juli 2016, nr. WJZ/16097774, tot aanwijzing van productie-installaties voor het opwekken van hernieuwbare elektriciteit met behulp van windenergie op zee als een subsidiabele categorie voor 2016 in het kader van de stimulering van duurzame energieproductie (Regeling windenergie op zee 2016)

@@ -8,7 +8,7 @@ laatste_update: 2016-04-06
 status: geldig
 toestand: 2016-04-06
 bron: "https://wetten.overheid.nl/BWBR0037791"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Regeling vaststelling definitieve correcties duurzame energieproductie 2015

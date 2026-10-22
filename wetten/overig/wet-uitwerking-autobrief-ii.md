@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0038313"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Wet van 6 juli 2016 tot wijziging van de Wet inkomstenbelasting 2001, de Wet op de loonbelasting 1964, de Wet op de belasting van personenauto's en motorrijwielen 1992, de Wet op de motorrijtuigenbelasting 1994 en de Provinciewet (Wet uitwerking Autobrief II)

@@ -9,7 +9,7 @@ laatste_update: 2016-04-01
 status: geldig
 toestand: 2016-04-01
 bron: "https://wetten.overheid.nl/BWBR0037569"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Beleidsregel van de Minister van Sociale Zaken en Werkgelegenheid van 18 januari 2016, 2015-0000291304, tot vaststelling van de nieuwe beleidsregel inzake ontheffing van het verbod van kinderarbeid ten einde deze beter te laten aansluiten bij de praktijk (Beleidsregel inzake ontheffing verbod van kinderarbeid 2016)

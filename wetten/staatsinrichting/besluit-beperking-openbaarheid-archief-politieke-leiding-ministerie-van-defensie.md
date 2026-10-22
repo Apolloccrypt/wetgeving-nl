@@ -9,7 +9,7 @@ laatste_update: 2016-03-31
 status: geldig
 toestand: 2016-03-31
 bron: "https://wetten.overheid.nl/BWBR0037765"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit van het Ministerie van Defensie houdende de beperking aan de openbaarheid van het archief van de Politieke Leiding van het Ministerie van Defensie 1976–1991 (1992), bij overbrenging naar een archiefbewaarplaats (Besluit beperking openbaarheid)

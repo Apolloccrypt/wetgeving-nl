@@ -9,7 +9,7 @@ laatste_update: 2016-04-20
 status: geldig
 toestand: 2016-04-20
 bron: "https://wetten.overheid.nl/BWBR0037845"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Minister van Economische Zaken van 15 april 2015, nr. WJZ/16006190, houdende wijziging Regeling gebruik en installatie EU-meetinstrumenten, Regeling erkende keurders meetinstrumenten, Regeling metrologische merktekens en Regeling meetreservoirs, vloeistofhoogtemeters en discontinue brandstofmeters

@@ -9,7 +9,7 @@ laatste_update: 2016-06-18
 status: geldig
 toestand: 2016-06-18
 bron: "https://wetten.overheid.nl/BWBR0038094"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 16 juni 2016 nr. BOACAT2016/042, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Stichting Waternet

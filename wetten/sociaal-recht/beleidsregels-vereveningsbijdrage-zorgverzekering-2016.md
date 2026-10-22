@@ -8,7 +8,7 @@ laatste_update: 2017-08-18
 status: geldig
 toestand: 2017-08-18
 bron: "https://wetten.overheid.nl/BWBR0037640"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Beleidsregels vereveningsbijdrage zorgverzekering 2016

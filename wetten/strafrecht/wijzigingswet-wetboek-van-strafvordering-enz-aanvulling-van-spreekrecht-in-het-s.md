@@ -9,7 +9,7 @@ laatste_update: 2016-07-01
 status: geldig
 toestand: 2016-07-01
 bron: "https://wetten.overheid.nl/BWBR0037880"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Wet van 14 april 2016 tot wijziging van het Wetboek van Strafvordering ter aanvulling van het spreekrecht van slachtoffers en nabestaanden in het strafproces en wijziging van de Wet schadefonds geweldsmisdrijven ter uitbreiding van de mogelijkheid van uitkering aan nabestaanden

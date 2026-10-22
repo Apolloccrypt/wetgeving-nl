@@ -9,7 +9,7 @@ laatste_update: 2016-04-05
 status: geldig
 toestand: 2016-04-05
 bron: "https://wetten.overheid.nl/BWBR0037786"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit houdende beperkingen aan de openbaarheid van het archief van de Algemene Secretarie van de Nederlands-Indische Regering 1922–1950, nummer archiefinventaris 2.10.14

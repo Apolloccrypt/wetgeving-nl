@@ -9,7 +9,7 @@ laatste_update: 2016-02-12
 status: geldig
 toestand: 2016-02-12
 bron: "https://wetten.overheid.nl/BWBR0037663"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Referendumcommissie van 5 februari 2016, houdende instelling van een bezwaaradviescommissie (Besluit instelling bezwaaradviescommissie Referendumcommissie)

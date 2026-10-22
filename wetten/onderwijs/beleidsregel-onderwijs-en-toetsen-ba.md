@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0037578"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de algemene raad van 11 januari 2016 tot vaststelling van de beleidsregel inzake vrijstelling deelname onderwijs, vrijstelling van onderdelen van het examen en de procedure met betrekking tot de aanvraag vrijstelling of het verzoek tot toepassing van de hardheidsclausule (Beleidsregel onderwijs en toetsen BA)

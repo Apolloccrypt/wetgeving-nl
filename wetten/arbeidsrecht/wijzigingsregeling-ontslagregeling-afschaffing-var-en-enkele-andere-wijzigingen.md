@@ -9,7 +9,7 @@ laatste_update: 2016-07-01
 status: geldig
 toestand: 2016-07-01
 bron: "https://wetten.overheid.nl/BWBR0038137"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 23 juni 2016, nr. 2016-0000141518, tot wijziging van de Ontslagregeling in verband met de afschaffing van de VAR en enkele andere wijzigingen

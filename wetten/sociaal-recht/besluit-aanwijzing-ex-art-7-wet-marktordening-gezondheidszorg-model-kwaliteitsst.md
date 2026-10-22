@@ -9,7 +9,7 @@ laatste_update: 2016-08-01
 status: geldig
 toestand: 2016-08-01
 bron: "https://wetten.overheid.nl/BWBR0038079"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 10 juni 2016, kenmerk 979700-151911-MC, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake Model kwaliteitsstatuut ggz – kwaliteit loont

@@ -9,7 +9,7 @@ laatste_update: 2021-07-01
 status: geldig
 toestand: 2021-07-01
 bron: "https://wetten.overheid.nl/BWBR0037883"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van 31 maart 2016, houdende regels inzake voor zuigelingen en peuters bedoelde levensmiddelen, voeding voor medisch gebruik en de dagelijkse voeding volledig vervangende producten voor gewichtsbeheersing (Warenwetbesluit bijzondere voeding 2016)

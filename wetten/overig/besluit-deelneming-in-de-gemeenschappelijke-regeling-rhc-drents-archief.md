@@ -9,7 +9,7 @@ laatste_update: 2016-11-22
 status: geldig
 toestand: 2016-11-22
 bron: "https://wetten.overheid.nl/BWBR0038092"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 25 februari 2016, nr. 888836, houdende deelneming in de gemeenschappelijke regeling RHC Drents Archief

@@ -9,7 +9,7 @@ laatste_update: 2016-06-01
 status: geldig
 toestand: 2016-06-01
 bron: "https://wetten.overheid.nl/BWBR0037997"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Sociaal-Economische Raad van 20 mei 2016, houdende beleidsregels over de bepaling van de representativiteit van organisaties van ondernemers en van werknemers, ten behoeve van de advisering over de samenstelling van de Sociaal-Economische Raad (Besluit beleidsregels representativiteit)

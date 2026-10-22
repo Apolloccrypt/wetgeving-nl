@@ -9,7 +9,7 @@ laatste_update: 2019-07-01
 status: geldig
 toestand: 2019-07-01
 bron: "https://wetten.overheid.nl/BWBR0037873"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 18 april 2016, nr. 2016-0000217051, houdende vaststelling van de voor de uitvoeringsinformatie te gebruiken taakvelden en regeling van de verstrekking van de informatie voor derden (Regeling vaststelling taakvelden en verstrekking informatie voor derden)

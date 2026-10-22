@@ -8,7 +8,7 @@ laatste_update: 2015-12-29
 status: geldig
 toestand: 2015-12-29
 bron: "https://wetten.overheid.nl/BWBR0037485"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Informatiemodel Uitvoeringsverslag (UV) Zvw 2016 met oplevering in 2017

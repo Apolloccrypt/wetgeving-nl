@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0037507"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit van 23 december 2015, houdende bepalingen voor een experiment met het oog op verbetering van de toegankelijkheid en de doelmatigheid van het hoger onderwijs door invoering van promotieonderwijs (Besluit experiment promotieonderwijs)

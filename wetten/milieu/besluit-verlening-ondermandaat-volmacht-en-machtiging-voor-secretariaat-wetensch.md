@@ -5,11 +5,12 @@ identifier: "BWBR0048630"
 categorie: "Milieu"
 soort: "ministeriele-regeling"
 publicatiedatum: 2023-09-23
-laatste_update: 2024-01-06
-status: geldig
-toestand: 2024-01-06
+laatste_update: 2026-02-02
+status: vervallen
+vervallen_op: 2026-10-15
+toestand: 2026-02-02
 bron: "https://wetten.overheid.nl/BWBR0048630"
-opgehaald: 2026-09-04
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de secretaris-directeur van de Wetenschappelijke Klimaatraad, nr. 26155688, houdende verlening van ondermandaat, volmacht en machtiging voor het secretariaat van de Wetenschappelijke Klimaatraad

@@ -9,7 +9,7 @@ laatste_update: 2016-07-15
 status: geldig
 toestand: 2016-07-15
 bron: "https://wetten.overheid.nl/BWBR0037605"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 5 februari 2016, nr. WJZ/879065, houdende de verlening van mandaat en machtiging aan de Dienst Uitvoering Subsidies aan Instellingen (DUS-I) in verband met de instelling van DUS-I en de invoering en toepassing van de Kaderregeling subsidies OCW, SZW en VWS (Mandaatbesluit OCW DUS-I)

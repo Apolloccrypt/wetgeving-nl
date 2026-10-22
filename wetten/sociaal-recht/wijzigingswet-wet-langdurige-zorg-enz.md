@@ -9,7 +9,7 @@ laatste_update: 2016-10-01
 status: geldig
 toestand: 2016-10-01
 bron: "https://wetten.overheid.nl/BWBR0038259"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Wet van 8 juni 2016 tot wijziging van de Wet langdurige zorg, de Wet maatschappelijke ondersteuning 2015, de Jeugdwet en de Zorgverzekeringswet

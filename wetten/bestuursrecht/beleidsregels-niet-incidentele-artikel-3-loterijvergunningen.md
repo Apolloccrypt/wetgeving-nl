@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0038255"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Beleidsregels van de Staatssecretaris van Veiligheid en Justitie van 12 juli 2016, kenmerk 782071, betreffende de verlening van niet-incidentele kansspelvergunningen door de raad van bestuur van de kansspelautoriteit op grond van artikel 3 van de Wet op de kansspelen voor het organiseren van loterijen (Beleidsregels niet-incidentele artikel 3 loterijvergunningen)

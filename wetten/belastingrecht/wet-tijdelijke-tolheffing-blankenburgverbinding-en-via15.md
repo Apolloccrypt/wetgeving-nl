@@ -9,7 +9,7 @@ laatste_update: 2025-05-16
 status: geldig
 toestand: 2025-05-16
 bron: "https://wetten.overheid.nl/BWBR0037517"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Wet van 2 december 2015, houdende regels over het tijdelijk heffen van tol voor de gedeeltelijke bekostiging van de verbinding tussen de A15 bij Rozenburg en de A20 tussen Maassluis en Vlaardingen en de verbinding van de A15 tussen knooppunt Valburg en de A12 bij Zevenaar (Wet tijdelijke tolheffing Blankenburgverbinding en ViA15)

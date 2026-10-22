@@ -9,7 +9,7 @@ laatste_update: 2024-02-20
 status: geldig
 toestand: 2024-02-20
 bron: "https://wetten.overheid.nl/BWBR0038437"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 14 juli 2016, nr. MinBuZa.2016.387662, houdende invoering van een algemene vergunning voor levering van militaire goederen aan partijen aangesloten bij goedgekeurde overeenkomsten in het kader van het F-35 Lightning II programma (Regeling Algemene Vergunning NL009)

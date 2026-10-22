@@ -8,7 +8,7 @@ laatste_update: 2016-05-31
 status: geldig
 toestand: 2016-05-31
 bron: "https://wetten.overheid.nl/BWBR0037999"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Regeling subsidievoorwaarden rechts- en wetswinkels 2016

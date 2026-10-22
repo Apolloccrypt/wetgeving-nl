@@ -8,7 +8,7 @@ laatste_update: 2016-08-04
 status: geldig
 toestand: 2016-08-04
 bron: "https://wetten.overheid.nl/BWBR0038386"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Controleprotocol voor Wlz-uitvoerders die als zorgkantoor zijn aangewezen opgave van pgb-beschikkingen over 2015

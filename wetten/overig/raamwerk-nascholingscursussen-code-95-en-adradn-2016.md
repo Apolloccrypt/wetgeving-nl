@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0037472"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Raamwerk Nascholingscursussen Code 95 en ADR/ADN, Stichting Centraal Bureau Rijvaardigheidsbewijzen

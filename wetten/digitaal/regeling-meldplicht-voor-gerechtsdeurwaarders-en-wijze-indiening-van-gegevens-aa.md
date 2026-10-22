@@ -9,7 +9,7 @@ laatste_update: 2016-07-01
 status: geldig
 toestand: 2016-07-01
 bron: "https://wetten.overheid.nl/BWBR0038129"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 20 juni 2016 houdende nadere regels zoals bedoeld in de artikelen 19a en 31, tweede lid, van de Gerechtsdeurwaarderswet inzake het doen van een melding en de wijze van indiening van gegevens aan het Bureau (Regeling meldplicht voor gerechtsdeurwaarders en wijze indiening van gegevens aan het Bureau)

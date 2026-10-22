@@ -8,7 +8,7 @@ laatste_update: 2016-01-04
 status: geldig
 toestand: 2016-01-04
 bron: "https://wetten.overheid.nl/BWBR0037482"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Generiek toestemmingsbesluit nevenactiviteiten – cluster 1 (verkoop programma’s en fragmenten door landelijke publieke media-instellingen aan derden aan de hand van Tarievenlijst hergebruik archiefmateriaal Nederlands Instituut voor Beeld en Geluid)

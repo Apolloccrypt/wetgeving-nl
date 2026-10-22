@@ -9,7 +9,7 @@ laatste_update: 2016-07-01
 status: geldig
 toestand: 2016-07-01
 bron: "https://wetten.overheid.nl/BWBR0038065"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-22
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 13 juni 2016, nr. IENM/BSK-2016/113127, houdende regels inzake bijzondere bevoegdverklaringen met betrekking tot de certificering van personeel voor het onderhoud van luchtvaartuigen (Regeling bijzondere bevoegdverklaringen luchtwaardigheid)

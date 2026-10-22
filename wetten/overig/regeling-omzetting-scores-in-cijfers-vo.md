@@ -9,7 +9,7 @@ laatste_update: 2024-03-09
 status: geldig
 toestand: 2024-03-09
 bron: "https://wetten.overheid.nl/BWBR0037590"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-22
 ---
 
 # Regeling van het College voor Toetsen en Examens van 30 november 2015, nummer CvTE-15.02159, houdende vaststelling van regels voor de omzetting van scores in cijfers bij centrale examens en de rekentoets in het voortgezet onderwijs (Regeling omzetting scores in cijfers centrale examens en rekentoets VO 2016)
