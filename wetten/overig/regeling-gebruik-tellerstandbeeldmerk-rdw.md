@@ -9,7 +9,7 @@ laatste_update: 2016-11-01
 status: geldig
 toestand: 2016-11-01
 bron: "https://wetten.overheid.nl/BWBR0038652"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Directie van de RDW (Dienst Wegverkeer), houdende voorwaarden voor het gebruik van het RDW- Tellerstandbeeldmerk, ter bestrijding van fraude met tellerstanden (Regeling gebruik Tellerstandbeeldmerk RDW), 1 november 2016, kenmerk JBZ2016/12200

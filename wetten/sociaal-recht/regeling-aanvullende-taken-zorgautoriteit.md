@@ -9,7 +9,7 @@ laatste_update: 2017-03-03
 status: geldig
 toestand: 2017-03-03
 bron: "https://wetten.overheid.nl/BWBR0039265"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 22 februari 2017, kenmerk 1091797-161020-WJZ, houdende het opdragen van aanvullende taken aan de zorgautoriteit (Regeling aanvullende taken zorgautoriteit)

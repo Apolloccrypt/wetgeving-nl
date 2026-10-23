@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0038835"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Besluit van 23 november 2016, houdende vaststelling van de grondslag voor de bijdrage van zelfstandig bestuursorganen voor het gebruik van de rijksincassovoorziening (Besluit bijdrage rijksincassovoorziening)

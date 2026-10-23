@@ -9,7 +9,7 @@ laatste_update: 2017-06-01
 status: geldig
 toestand: 2017-06-01
 bron: "https://wetten.overheid.nl/BWBR0039222"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit van 10 februari 2017, houdende regels ter waarborging van een goede verhouding tussen de prijs voor de levering van een voorziening en de eisen die worden gesteld aan de kwaliteit van de voorziening en de continuïteit in de hulpverlening tussen de cliënt en de hulpverlener

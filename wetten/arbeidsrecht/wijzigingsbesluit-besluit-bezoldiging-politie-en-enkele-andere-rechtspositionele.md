@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0038853"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Besluit van 2 december 2016 tot wijziging van het Besluit bezoldiging politie en enkele andere rechtspositionele besluiten ter formalisering en uitvoering van de Arbeidsvoorwaardenovereenkomst sector Politie 2015–2017 inzake de beroepsincidentenregeling, het maximum aantal overuren, de vertrekstimuleringspremie en het buitengewoon verlof, de tijdelijke inzetwijziging, de bovenwettelijke werkloosheidsuitkering en enkele andere onderwerpen

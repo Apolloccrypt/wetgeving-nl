@@ -8,7 +8,7 @@ laatste_update: 2016-10-01
 status: geldig
 toestand: 2016-10-01
 bron: "https://wetten.overheid.nl/BWBR0038510"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Besluit traditiecommissie krijgsmacht 2016

@@ -9,7 +9,7 @@ laatste_update: 2017-02-01
 status: geldig
 toestand: 2017-02-01
 bron: "https://wetten.overheid.nl/BWBR0039093"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 5 december 2016, kenmerk 1051669-158542-MC, op grond van artikel 7 van de Wet marktordening gezondheidzorg houdende tweede verdaging toepassing macrobeheersmodel medisch specialistische zorg 2014

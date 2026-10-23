@@ -9,7 +9,7 @@ laatste_update: 2017-03-15
 status: geldig
 toestand: 2017-03-15
 bron: "https://wetten.overheid.nl/BWBR0039261"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit van 20 februari 2017, houdende tijdelijke regels voor een experiment met een vervroegde no-riskpolis (Tijdelijk besluit experiment vervroegde inzet no-riskpolis Ziektewet)

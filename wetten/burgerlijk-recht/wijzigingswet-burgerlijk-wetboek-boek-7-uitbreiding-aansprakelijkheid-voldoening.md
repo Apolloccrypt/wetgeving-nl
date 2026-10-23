@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0038698"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Wet van 26 oktober 2016 tot wijziging van Boek 7 van het Burgerlijk Wetboek in verband met de uitbreiding van de aansprakelijkheid voor de voldoening van het verschuldigde loon aan de werknemer die arbeid verricht ter uitvoering van een overeenkomst van goederenvervoer over de weg of een overeenkomst tot het doen vervoeren van goederen over de weg

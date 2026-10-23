@@ -9,7 +9,7 @@ laatste_update: 2026-10-16
 status: geldig
 toestand: 2026-10-16
 bron: "https://wetten.overheid.nl/BWBR0053204"
-opgehaald: 2026-10-22
+opgehaald: 2026-10-23
 ---
 
 # Besluit van 5 oktober 2026 tot wijziging van het Besluit EU-verordeningen Wft ter uitvoering van Verordening (EU) 2023/2869 (verordening ESAP), Verordening (EU) 2024/3005 (ESG-ratings) en Verordening (EU) 2025/914 (benchmarks) (Wijzigingsbesluit EU-verordeningen Wft 2026) [KetenID WGK028308]

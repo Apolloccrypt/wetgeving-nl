@@ -9,7 +9,7 @@ laatste_update: 2016-11-20
 status: geldig
 toestand: 2016-11-20
 bron: "https://wetten.overheid.nl/BWBR0038732"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Besluit van 24 oktober 2016, nr. 2016001830, houdende vaststelling van een selectielijst voor de Algemene Rekenkamer, het Kabinet van de Koning, de Kanselarij der Nederlandse Orden en de Nationale Ombudsman op het deelbeleidsterrein van personeelszaken, t.w. het personeelsdossier, voor de periode vanaf 1945

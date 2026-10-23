@@ -9,7 +9,7 @@ laatste_update: 2016-11-01
 status: geldig
 toestand: 2016-11-01
 bron: "https://wetten.overheid.nl/BWBR0038670"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Staatssecretaris van Economische Zaken van 25 oktober 2016, kenmerk 16150943, tot wijziging van de (beperking in) toegankelijkheid van enkele gebiedsdelen ex artikel 20 Natuurbeschermingswet 1998, gelegen binnen het Natura 2000 gebied ‘Voordelta’ (Toegangsbeperkingsbesluit Middelplaat en Slikken van Voorne)

@@ -9,7 +9,7 @@ laatste_update: 2016-11-15
 status: geldig
 toestand: 2016-11-15
 bron: "https://wetten.overheid.nl/BWBR0038710"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Staatssecretarisvan Veiligheid en Justitie van 3 november 2016, nr. 2008299 houdende aanwijzing van het College bescherming persoonsgegevens als toezichthoudende autoriteit bevoegd voor het toezicht op de verwerking van persoonsgegevens door overheidsdiensten in de zin van Bijlage III, Bijlage A, § 3, onder a, van uitvoeringsverordening (EU) 2016/1250 van de Commissie van 12 juli 2016 overeenkomstig Richtlijn 95/46/EG van het Europees Parlement en de Raad betreffende de gepastheid van de door het EU-VS-privacyschild geboden bescherming (PbEU L 207)

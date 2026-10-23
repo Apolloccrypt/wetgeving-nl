@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0038891"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Wet van 14 december 2016 tot wijziging van Participatiewet en enkele andere wetten in verband met het verplichten van beschut werk en met betrekking tot het quotum van arbeidsbeperkten en het openstellen van de Praktijkroute

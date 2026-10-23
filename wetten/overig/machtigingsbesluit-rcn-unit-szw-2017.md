@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0038801"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 28 november 2016, 2016-0000258332, tot doorverlening van vertegenwoordigingsbevoegdheden van het hoofd van de RCN-unit SZW (Machtigingsbesluit RCN-unit SZW 2017)

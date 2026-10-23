@@ -9,7 +9,7 @@ laatste_update: 2017-10-10
 status: geldig
 toestand: 2017-10-10
 bron: "https://wetten.overheid.nl/BWBR0038554"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 23 september 2016, kenmerk 839984-141498-Z, houdende bepalingen omtrent de in de Zorgverzekeringswet bedoelde vereveningsbijdrage voor het jaar 2017 (Regeling risicoverevening 2017)

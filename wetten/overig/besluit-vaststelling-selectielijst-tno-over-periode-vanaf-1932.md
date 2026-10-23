@@ -9,7 +9,7 @@ laatste_update: 2017-03-26
 status: geldig
 toestand: 2017-03-26
 bron: "https://wetten.overheid.nl/BWBR0039368"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Vaststelling selectielijst TNO over de periode vanaf 1932

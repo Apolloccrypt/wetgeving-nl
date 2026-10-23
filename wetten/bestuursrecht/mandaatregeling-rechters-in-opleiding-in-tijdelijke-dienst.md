@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0038878"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 1 december 2016, nr. 2015364 houdende verlening van mandaat inzake benoeming en ontslag van rechters in opleiding in tijdelijke dienst (Mandaatregeling Raad voor de Rechtspraak rechters in opleiding in tijdelijke dienst)

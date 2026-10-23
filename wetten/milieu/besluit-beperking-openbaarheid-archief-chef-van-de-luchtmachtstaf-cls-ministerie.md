@@ -8,7 +8,7 @@ laatste_update: 2017-02-17
 status: geldig
 toestand: 2017-02-17
 bron: "https://wetten.overheid.nl/BWBR0039202"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit beperking openbaarheid Archief Chef van de Luchtmachtstaf (CLS) Ministerie van Defensie (1945) 1951 – 1986 (1996)

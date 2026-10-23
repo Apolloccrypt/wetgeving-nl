@@ -9,7 +9,7 @@ laatste_update: 2017-03-01
 status: geldig
 toestand: 2017-03-01
 bron: "https://wetten.overheid.nl/BWBR0039131"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit van 16 januari 2017, houdende de ontbinding van de Tweede Kamer der Staten-Generaal

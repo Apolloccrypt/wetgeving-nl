@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-06-03
 toestand: 2018-06-13
 bron: "https://wetten.overheid.nl/BWBR0039169"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Wet van 25 januari 2017 tot wijziging van de Huisvestingswet 2014, de Wet op de huurtoeslag, de Woningwet en enkele andere wetten teneinde daarin een aantal technische wijzigingen en een aantal wijzigingen met beperkte beleidsmatige gevolgen aan te brengen (Veegwet wonen)

@@ -9,7 +9,7 @@ laatste_update: 2016-09-08
 status: geldig
 toestand: 2016-09-08
 bron: "https://wetten.overheid.nl/BWBR0038680"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Commissie Eindtermen Accountantsopleiding laatstelijk gewijzigd op 7 september 2016 houdende verlening van mandaat, volmacht en machtiging met betrekking tot het verrichten van privaatrechtelijke rechtshandelingen door de secretaris

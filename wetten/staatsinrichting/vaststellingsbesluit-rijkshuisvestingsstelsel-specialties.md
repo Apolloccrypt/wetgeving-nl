@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0038596"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Minister voor Wonen en Rijksdienst van 1 september 2016 nr. 2016-0000561903, tot vaststelling van het Rijkshuisvestingsstelsel voor specialties (Vaststellingsbesluit Rijkshuisvestingsstelsel specialties)

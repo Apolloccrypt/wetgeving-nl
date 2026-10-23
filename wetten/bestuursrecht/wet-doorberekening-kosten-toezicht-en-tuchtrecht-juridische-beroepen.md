@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0038885"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Wet van 7 december 2016, houdende wijziging van de Advocatenwet, de Gerechtsdeurwaarderswet en de Wet op het notarisambt in verband met het doorberekenen van de kosten van toezicht en tuchtrechtspraak aan de beroepsgroepen (Wet doorberekening kosten toezicht en tuchtrecht juridische beroepen)

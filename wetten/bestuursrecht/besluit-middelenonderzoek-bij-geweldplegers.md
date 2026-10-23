@@ -9,7 +9,7 @@ laatste_update: 2024-07-01
 status: geldig
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0038778"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Besluit van 18 november 2016, houdende regels over de uitvoering van de onderzoeken die ter vaststelling van het gebruik van geweldbevorderende middelen bij geweldplegers kunnen worden ingezet, alsmede de aanwijzing van de geweldsmisdrijven waarvoor die onderzoeken kunnen worden ingezet en de aanwijzing van andere middelen dan alcohol die gewelddadig gedrag kunnen bevorderen en de grenswaarden voor die middelen en alcohol (Besluit middelenonderzoek bij geweldplegers)

@@ -9,7 +9,7 @@ laatste_update: 2018-11-28
 status: geldig
 toestand: 2018-11-28
 bron: "https://wetten.overheid.nl/BWBR0039141"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport en de Staatssecretaris van Veiligheid en Justitie van 19 januari 2017, kenmerk 1062712-159055-WJZ, houdende regels over declaraties voor jeugdhulp, zorg en maatschappelijke ondersteuning

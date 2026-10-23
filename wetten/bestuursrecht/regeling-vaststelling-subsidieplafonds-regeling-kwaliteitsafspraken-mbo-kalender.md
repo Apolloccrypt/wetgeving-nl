@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0038726"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Bekendmaking van de Minister van Onderwijs, Cultuur en Wetenschap van 8 november 2016, nr. MBO-1086710 inzake de vaststelling van de subsidieplafonds van de Regeling kwaliteitsafspraken mbo voor het kalenderjaar 2017

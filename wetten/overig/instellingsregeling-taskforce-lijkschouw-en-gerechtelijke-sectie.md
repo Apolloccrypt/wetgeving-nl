@@ -9,7 +9,7 @@ laatste_update: 2017-01-26
 status: geldig
 toestand: 2017-01-26
 bron: "https://wetten.overheid.nl/BWBR0039130"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie en de Minister voor Wonen en Rijksdienst van 6 januari 2017, nummer 2029595 houdende instelling van de taskforce lijkschouw en gerechtelijke sectie (Instellingsregeling taskforce lijkschouw en gerechtelijke sectie)

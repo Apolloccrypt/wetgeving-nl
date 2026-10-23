@@ -9,7 +9,7 @@ laatste_update: 2017-03-08
 status: geldig
 toestand: 2017-03-08
 bron: "https://wetten.overheid.nl/BWBR0039278"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 22 februari 2017 nr. BOACAT2017/014, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Landschap Noord-Holland

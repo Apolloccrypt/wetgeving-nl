@@ -9,7 +9,7 @@ laatste_update: 2017-03-01
 status: geldig
 toestand: 2017-03-01
 bron: "https://wetten.overheid.nl/BWBR0039207"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 9 februari 2017, nummer 2042658 houdende de aanwijzing van het pensioenfonds bedoeld in artikel 113a, eerste lid, Wet op het Notarisambt

@@ -8,7 +8,7 @@ laatste_update: 2016-10-12
 status: geldig
 toestand: 2016-10-12
 bron: "https://wetten.overheid.nl/BWBR0038611"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Beleidsregel goedkeuring besluiten tot sluiten overeenkomst van opdracht ex Boek 7 Burgerlijk Wetboek BES

@@ -9,7 +9,7 @@ laatste_update: 2017-02-08
 status: geldig
 toestand: 2017-02-08
 bron: "https://wetten.overheid.nl/BWBR0039157"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid, de Staatssecretaris van Onderwijs, Cultuur en Wetenschap en de Minister voor Wonen en Rijksdienst van 27 januari 2017, 2016-0000247132, tot instelling van een Taskforce Samenwerking Onderwijs en Kinderopvang (Instellingsbesluit taskforce samenwerking onderwijs en kinderopvang)

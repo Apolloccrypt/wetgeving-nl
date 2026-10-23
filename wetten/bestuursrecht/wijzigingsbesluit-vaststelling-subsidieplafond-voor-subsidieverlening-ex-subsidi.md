@@ -9,7 +9,7 @@ laatste_update: 2017-03-03
 status: geldig
 toestand: 2017-03-03
 bron: "https://wetten.overheid.nl/BWBR0039256"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 17 februari 2017, nr. MinBuza-2016.125869, tot wijziging van beleidsregels en vaststelling van een subsidieplafond voor subsidieverlening op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Demonstratieprojecten, Haalbaarheidsstudies en Investeringsvoorbereidingsstudies)

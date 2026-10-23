@@ -8,7 +8,7 @@ laatste_update: 2016-09-14
 status: geldig
 toestand: 2016-09-14
 bron: "https://wetten.overheid.nl/BWBR0038515"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Beleidsregel kosteloos beëindigingsrecht artikel 7.2 Telecommunicatiewet

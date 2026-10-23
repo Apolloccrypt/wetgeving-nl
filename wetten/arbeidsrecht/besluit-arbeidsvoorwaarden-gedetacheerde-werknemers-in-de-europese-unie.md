@@ -9,7 +9,7 @@ laatste_update: 2025-12-12
 status: geldig
 toestand: 2025-12-12
 bron: "https://wetten.overheid.nl/BWBR0038821"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Besluit van 28 november 2016 tot uitvoering van de Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie (Besluit arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie)

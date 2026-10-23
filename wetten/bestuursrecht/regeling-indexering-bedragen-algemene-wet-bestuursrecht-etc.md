@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0038867"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 2 december 2016, nr. 2021822, tot indexering van bedragen in de Algemene wet bestuursrecht, het Besluit proceskosten bestuursrecht en de Wet griffierechten burgerlijke zaken

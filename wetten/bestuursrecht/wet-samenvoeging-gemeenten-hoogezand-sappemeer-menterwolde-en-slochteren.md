@@ -9,7 +9,7 @@ laatste_update: 2017-06-10
 status: geldig
 toestand: 2017-06-10
 bron: "https://wetten.overheid.nl/BWBR0039365"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Wet van 8 maart 2017 tot samenvoeging van de gemeenten Hoogezand-Sappemeer, Menterwolde en Slochteren

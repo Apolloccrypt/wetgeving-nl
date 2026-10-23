@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0038866"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu van 12 december 2016, nr. IENM/BSK-2016/190489 tot wijziging van de Regeling genetisch gemodificeerde organismen milieubeheer 2013 (aanpassing bijlagen 5 en 9)

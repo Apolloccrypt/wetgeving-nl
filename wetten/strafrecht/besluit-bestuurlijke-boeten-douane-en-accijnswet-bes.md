@@ -8,7 +8,7 @@ laatste_update: 2016-10-06
 status: geldig
 toestand: 2016-10-06
 bron: "https://wetten.overheid.nl/BWBR0038579"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Besluit bestuurlijke boeten Douane- en Accijnswet BES

@@ -9,7 +9,7 @@ laatste_update: 2020-10-31
 status: geldig
 toestand: 2020-10-31
 bron: "https://wetten.overheid.nl/BWBR0038703"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Beleidsregels van raad van bestuur van de Kansspelautoriteit van 1 november 2016, kenmerk 00.081.851, betreffende de verlening van incidentele artikel 3 loterijvergunningen (Beleidsregels incidentele artikel 3 loterijvergunningen)

@@ -9,7 +9,7 @@ laatste_update: 2017-03-04
 status: geldig
 toestand: 2017-03-04
 bron: "https://wetten.overheid.nl/BWBR0039251"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Centrale Commissie Dierproeven van 28 oktober 2016, ref CCD 16-15-09, houdende regels inzake meldingen in het kader van een projectvergunning van de Centrale Commissie Dierproeven (Besluit Meldingen in het kader van een projectvergunning van de Centrale Commissie Dierproeven CCD 2016)

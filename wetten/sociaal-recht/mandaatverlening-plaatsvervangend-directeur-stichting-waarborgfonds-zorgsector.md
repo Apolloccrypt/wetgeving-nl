@@ -9,7 +9,7 @@ laatste_update: 2017-03-03
 status: geldig
 toestand: 2017-03-03
 bron: "https://wetten.overheid.nl/BWBR0039267"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 22 februari 2017, kenmerk 1091612-160995-MC, houdende de verlening van mandaat, volmacht en machtiging aan de (plaatsvervangend) directeur van de Stichting Waarborgfonds voor de Zorgsector met betrekking tot een aantal verleende garanties

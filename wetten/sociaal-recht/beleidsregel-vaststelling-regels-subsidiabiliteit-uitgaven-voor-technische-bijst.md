@@ -9,7 +9,7 @@ laatste_update: 2016-12-30
 status: geldig
 toestand: 2016-12-30
 bron: "https://wetten.overheid.nl/BWBR0038984"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Beleidsregel van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 9 december 2016, 2016-0000259499, tot vaststelling van regels voor de subsidiabiliteit van de uitgaven voor technische bijstand ESF 2014–2020 en EFMB 2014–2020

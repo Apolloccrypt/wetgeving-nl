@@ -9,7 +9,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBR0039318"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Wet van 22 februari 2017 tot wijziging van de Wet op het primair onderwijs, de Wet op de expertisecentra, de Wet op het voortgezet onderwijs en de Wet educatie en beroepsonderwijs in verband met de invoering van het lerarenregister en het registervoorportaal

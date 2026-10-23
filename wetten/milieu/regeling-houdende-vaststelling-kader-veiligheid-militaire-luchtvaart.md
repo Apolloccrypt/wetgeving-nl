@@ -8,7 +8,7 @@ laatste_update: 2021-01-28
 status: geldig
 toestand: 2021-01-28
 bron: "https://wetten.overheid.nl/BWBR0038496"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Regeling houdende vaststelling kader veiligheid militaire luchtvaart

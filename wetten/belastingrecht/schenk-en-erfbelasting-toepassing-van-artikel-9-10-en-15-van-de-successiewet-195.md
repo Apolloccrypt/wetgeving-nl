@@ -8,7 +8,7 @@ laatste_update: 2016-11-02
 status: geldig
 toestand: 2016-11-02
 bron: "https://wetten.overheid.nl/BWBR0038672"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Schenk- en erfbelasting, toepassing van artikel 9, 10 en 15 van de Successiewet 1956

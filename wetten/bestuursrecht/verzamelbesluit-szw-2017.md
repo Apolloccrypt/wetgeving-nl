@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0038935"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit van 20 december 2016 tot wijziging van het Besluit SUWI en enkele andere AMvB’s van het Ministerie van Sociale Zaken en Werkgelegenheid in verband met de toegang tot het doelgroepregister, het opnemen van leerlingen uit het praktijkonderwijs in het doelgroepregister zonder voorafgaande beoordeling en kleine technische wijzigingen (Verzamelbesluit SZW 2017)

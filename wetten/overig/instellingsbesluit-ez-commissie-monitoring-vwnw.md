@@ -9,7 +9,7 @@ laatste_update: 2017-03-16
 status: geldig
 toestand: 2017-03-16
 bron: "https://wetten.overheid.nl/BWBR0039321"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Minister van Economische Zaken van 10 maart 2017, nr. WJZ/17007829, tot instelling van de EZ commissie monitoring VWNW (Instellingsbesluit EZ commissie monitoring VWNW)

@@ -9,7 +9,7 @@ laatste_update: 2017-08-01
 status: geldig
 toestand: 2017-08-01
 bron: "https://wetten.overheid.nl/BWBR0039177"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap, van 24 januari 2017, nr. 1119820, tot intrekking van toezichtkaders onder vaststelling van Onderzoekskaders 2017

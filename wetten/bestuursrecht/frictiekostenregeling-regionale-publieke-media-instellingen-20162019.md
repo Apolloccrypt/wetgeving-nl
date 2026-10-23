@@ -8,7 +8,7 @@ laatste_update: 2019-04-01
 status: geldig
 toestand: 2019-04-01
 bron: "https://wetten.overheid.nl/BWBR0039292"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Frictiekostenregeling regionale publieke media-instellingen 2016–2019

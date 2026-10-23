@@ -9,7 +9,7 @@ laatste_update: 2016-12-19
 status: geldig
 toestand: 2016-12-19
 bron: "https://wetten.overheid.nl/BWBR0038768"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu, van 28 november 2016, nr. IENM/BSK-2016/258989, houdende wijziging van de Regeling coderingen beperkingen rijbevoegdheid in verband met de aanpassing van de omschrijvingen van een aantal coderingen

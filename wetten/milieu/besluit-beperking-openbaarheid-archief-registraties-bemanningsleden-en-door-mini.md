@@ -8,7 +8,7 @@ laatste_update: 2017-03-02
 status: geldig
 toestand: 2017-03-02
 bron: "https://wetten.overheid.nl/BWBR0039260"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit beperking openbaarheid Archief registraties bemanningsleden en door Ministerie van Verkeer en Waterstaat uitgegeven zee- en visvaartdiploma’s 1950 – 1985, Inspectie Leefomgeving en Transport

@@ -9,7 +9,7 @@ laatste_update: 2016-11-01
 status: geldig
 toestand: 2016-11-01
 bron: "https://wetten.overheid.nl/BWBR0038493"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 2 september 2016, 990524-153134-MC, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake experimenten persoonsvolgende inkoop

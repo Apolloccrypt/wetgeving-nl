@@ -9,7 +9,7 @@ laatste_update: 2016-11-01
 status: geldig
 toestand: 2016-11-01
 bron: "https://wetten.overheid.nl/BWBR0038476"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 25 augustus 2016, kenmerk 1003855-153983-OBP, houdende beperking van de openbaarheid van archiefbescheiden, opgenomen in het archief van de Stichting Informatie- en Coördinatieorgaan Dienstverlening Oorlogsgetroffenen (ICODO) met taakvoorgangers over de periode (1976) 1977–2004 (2005)

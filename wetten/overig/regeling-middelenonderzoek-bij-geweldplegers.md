@@ -9,7 +9,7 @@ laatste_update: 2024-09-20
 status: geldig
 toestand: 2024-09-20
 bron: "https://wetten.overheid.nl/BWBR0038841"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 2 december 2016, houdende bepalingen met betrekking tot onderzoek ter vaststelling van het gebruik van alcohol en drugs bij geweldplegers (Regeling middelenonderzoek bij geweldplegers)

@@ -9,7 +9,7 @@ laatste_update: 2016-11-01
 status: geldig
 toestand: 2016-11-01
 bron: "https://wetten.overheid.nl/BWBR0038666"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Besluit van 24 oktober 2016, nr. 2016001827, houdende gelijkstelling van 28 april en 26 mei 2017, 11 mei en 24 en 31 december 2018 en 31 mei en 27 december 2019 met een algemeen erkende feestdag

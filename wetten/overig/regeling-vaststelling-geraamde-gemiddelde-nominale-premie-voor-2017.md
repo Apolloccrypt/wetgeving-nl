@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0038665"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 25 oktober 2016, kenmerk 1032205-157188-Z, houdende vaststelling van de geraamde gemiddelde nominale premie voor 2017

@@ -9,7 +9,7 @@ laatste_update: 2017-05-16
 status: geldig
 toestand: 2017-05-16
 bron: "https://wetten.overheid.nl/BWBR0039196"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Wet van 25 januari 2017 tot wijziging van de Wet milieubeheer en de Crisis- en herstelwet in verband met de uitvoering van Richtlijn 2014/52/EU van het Europees Parlement en de Raad van 16 april 2014 tot wijziging van Richtlijn 2011/92/EU betreffende de milieueffectbeoordeling van bepaalde openbare en particuliere projecten (PbEU 2014, L 124) (implementatie herziening mer-richtlijn)

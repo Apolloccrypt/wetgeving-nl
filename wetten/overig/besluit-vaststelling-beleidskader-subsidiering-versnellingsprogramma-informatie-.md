@@ -9,7 +9,7 @@ laatste_update: 2019-10-19
 status: geldig
 toestand: 2019-10-19
 bron: "https://wetten.overheid.nl/BWBR0038920"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 14 december 2016, kenmerk 159145-CZ houdende vaststelling van beleidsregels voor het subsidiëren van ziekenhuizen en de NVZ voor het stimuleren van elektronische gegevensuitwisseling tussen patiënt en zorgaanbieder (Besluit vaststelling beleidskader subsidiëring Versnellingsprogramma Informatie-uitwisseling Patiënt en Professional)

@@ -9,7 +9,7 @@ laatste_update: 2017-05-05
 status: geldig
 toestand: 2017-05-05
 bron: "https://wetten.overheid.nl/BWBR0038525"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Regeling van het Stimuleringsfonds voor de Journalistiek van 5 september 2016 nr. 26130, tot vaststelling van een Tijdelijke subsidieregeling voor vernieuwende journalistiek 2017 (The Challenge)

@@ -9,7 +9,7 @@ laatste_update: 2017-05-12
 status: geldig
 toestand: 2017-05-12
 bron: "https://wetten.overheid.nl/BWBR0039255"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 20 februari 2017 nr. BOACAT2017/012, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Handhaving & Toezicht van de gemeente Amsterdam

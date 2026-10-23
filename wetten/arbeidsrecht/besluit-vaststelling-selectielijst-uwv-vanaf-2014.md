@@ -8,7 +8,7 @@ laatste_update: 2017-02-22
 status: geldig
 toestand: 2017-02-22
 bron: "https://wetten.overheid.nl/BWBR0039206"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit vaststelling selectielijst UWV vanaf 2014

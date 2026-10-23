@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0038664"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Besluit van 25 oktober 2016 tot wijziging van het Besluit tarieven ambtshandelingen gerechtsdeurwaarders in verband met de aanpassing van de indexeringsbepaling, alsmede tot wijziging van het Besluit vergoeding bewindvoerder schuldsanering, het Besluit verklaring derdenbeslag en het Besluit op het notarisambt, in verband met herstel van enkele gebreken

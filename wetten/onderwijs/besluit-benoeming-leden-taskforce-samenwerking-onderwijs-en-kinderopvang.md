@@ -9,7 +9,7 @@ laatste_update: 2017-02-08
 status: geldig
 toestand: 2017-02-08
 bron: "https://wetten.overheid.nl/BWBR0039166"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 27 januari 2017, 2016-0000274500, tot benoeming van de leden van de Taskforce Samenwerking Onderwijs en Kinderopvang

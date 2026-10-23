@@ -8,7 +8,7 @@ laatste_update: 2017-01-03
 status: geldig
 toestand: 2017-01-03
 bron: "https://wetten.overheid.nl/BWBR0039044"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit vergunning instantloterij 2017–2021

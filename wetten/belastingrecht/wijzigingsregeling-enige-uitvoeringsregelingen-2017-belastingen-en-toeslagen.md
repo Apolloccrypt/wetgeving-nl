@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0038973"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Staatssecretaris van Financiën van 29 december 2016, nr. 2016-0000225960, tot wijziging van enige uitvoeringsregelingen op het gebied van belastingen en toeslagen

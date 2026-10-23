@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0038922"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Beleidsregels van de Minister van Economische Zaken van 30 november 2016, nr. WJZ/16138270, houdende vaststelling van de beleidsregels omtrent het omzetten van S&O-verklaringen (Beleidsregels omzetten S&O-verklaringen)

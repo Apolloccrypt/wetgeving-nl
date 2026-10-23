@@ -9,7 +9,7 @@ laatste_update: 2023-06-21
 status: geldig
 toestand: 2023-06-21
 bron: "https://wetten.overheid.nl/BWBR0038677"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Onderlinge regeling als bedoeld in artikel 38, eerste lid, van het Statuut voor het Koninkrijk der Nederlanden tussen Nederland en Sint Maarten inzake de verdeling van de opbrengsten van het octrooibestel

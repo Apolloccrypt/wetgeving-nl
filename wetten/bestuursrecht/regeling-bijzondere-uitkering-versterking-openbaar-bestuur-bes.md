@@ -9,7 +9,7 @@ laatste_update: 2016-11-02
 status: geldig
 toestand: 2016-11-02
 bron: "https://wetten.overheid.nl/BWBR0038675"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 20 oktober 2016, nr. 2016-0000571578, houdende regels inzake bijzondere uitkeringen voor de versterking van het openbaar bestuur in Caribisch Nederland (Regeling bijzondere uitkering versterking openbaar bestuur BES)

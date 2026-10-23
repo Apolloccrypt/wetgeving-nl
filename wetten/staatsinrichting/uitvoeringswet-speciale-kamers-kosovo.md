@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0038718"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Wet van 12 oktober 2016, houdende bepalingen verband houdende met de vestiging in Nederland van de Kosovaarse Speciale Kamers en Speciale Aanklager met het oog op de berechting van ernstige misdrijven gepleegd in Kosovo tussen 1 januari 1998 en 31 december 2000 (Uitvoeringswet Speciale Kamers Kosovo)

@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0038752"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Besluit van 23 november 2016 ter uitvoering van de bijlage van Richtlijn 2014/26/EU van het Europees Parlement en de Raad van 26 februari 2014 betreffende het collectieve beheer van auteursrechten en naburige rechten en de multiterritoriale licentieverlening van rechten inzake muziekwerken voor het online gebruik ervan op de interne markt (Pb. 2014, L 84, 92) (Besluit transparantieverslag richtlijn collectief beheer)

@@ -9,7 +9,7 @@ laatste_update: 2017-03-23
 status: geldig
 toestand: 2017-03-23
 bron: "https://wetten.overheid.nl/BWBR0039357"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Minister van Economische Zaken van 17 maart 2017, nr. WJZ/17041359, handelende in overeenstemming met de Minister van Financiën, houdende regels met betrekking tot het bedrag verschuldigd door verkrijgers of houders van een vergunning voor het gebruik van frequentieruimte bestemd voor landelijke commerciële radio-omroep (Regeling vaststelling bedrag landelijke commerciële radio-omroep 2017)

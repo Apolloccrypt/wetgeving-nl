@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0038679"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Wet van 12 oktober 2016 tot wijziging van de Wet toezicht accountantsorganisaties, het Burgerlijk Wetboek en enige andere wetten ter implementatie van richtlijn nr. 2014/56/EU van het Europees Parlement en de Raad van de Europese Unie van 16 april 2014 tot wijziging van Richtlijn 2006/43/EG betreffende de wettelijke controles van jaarrekeningen (PbEU 2014, L 158) en ter implementatie van verordening (EU) nr. 537/2014 van het Europees Parlement en de Raad van 16 april 2014 betreffende specifieke eisen voor de wettelijke controles van financiële overzichten van organisaties van openbaar belang (PbEU 2014, L 158) (Implementatiewet wijzigingsrichtlijn en verordening wettelijke controles jaarrekeningen)

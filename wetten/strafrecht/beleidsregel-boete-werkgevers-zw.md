@@ -8,7 +8,7 @@ laatste_update: 2018-07-01
 status: geldig
 toestand: 2018-07-01
 bron: "https://wetten.overheid.nl/BWBR0039100"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Beleidsregel boete werkgevers ZW

@@ -9,7 +9,7 @@ laatste_update: 2019-11-01
 status: geldig
 toestand: 2019-11-01
 bron: "https://wetten.overheid.nl/BWBR0038687"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Wet van 26 oktober 2016, houdende uitvoering van de op 28 juni 2006 te Wenen tot stand gekomen Overeenkomst tussen de Europese Unie en de Republiek IJsland en het Koninkrijk Noorwegen betreffende de procedures voor overlevering tussen de lidstaten van de Europese Unie en IJsland en Noorwegen (Pb EU L 292)

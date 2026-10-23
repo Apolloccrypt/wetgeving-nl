@@ -9,7 +9,7 @@ laatste_update: 2017-03-08
 status: geldig
 toestand: 2017-03-08
 bron: "https://wetten.overheid.nl/BWBR0039277"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 27 februari 2017, 2016-0000221412, tot Besluit digitale vervanging microfilms met archiefbescheiden bevattende personeelsgegevens SZW

@@ -9,7 +9,7 @@ laatste_update: 2016-11-18
 status: geldig
 toestand: 2016-11-18
 bron: "https://wetten.overheid.nl/BWBR0038715"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 4 november 2016 nr. BOACAT2016/062, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Directie Vastgoedbeheer van het Rijksvastgoedbedrijf in het domein II, Milieu, welzijn en infrastructuur.

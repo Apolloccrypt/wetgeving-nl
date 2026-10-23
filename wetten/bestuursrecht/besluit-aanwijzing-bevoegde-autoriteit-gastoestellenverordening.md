@@ -9,7 +9,7 @@ laatste_update: 2017-02-16
 status: geldig
 toestand: 2017-02-16
 bron: "https://wetten.overheid.nl/BWBR0039286"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport, 1075790-159883-VGP van 7 februari 2017, houdende aanwijzing bevoegde autoriteit in het kader van de gastoestellenverordening

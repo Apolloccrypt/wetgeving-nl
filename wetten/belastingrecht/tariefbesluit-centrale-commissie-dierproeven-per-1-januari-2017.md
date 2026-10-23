@@ -8,7 +8,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0039009"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Tariefbesluit Centrale Commissie Dierproeven per 1 januari 2017

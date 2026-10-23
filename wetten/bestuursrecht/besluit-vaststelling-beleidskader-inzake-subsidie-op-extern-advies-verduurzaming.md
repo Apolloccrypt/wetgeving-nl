@@ -9,7 +9,7 @@ laatste_update: 2017-09-15
 status: geldig
 toestand: 2017-09-15
 bron: "https://wetten.overheid.nl/BWBR0038565"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 15 september 2016, nr. PO/B&S/940015, houdende vaststelling van beleidsregels en subsidieplafond inzake extern advies voor de verduurzaming van scholen in het kader van de Green Deal Scholen (Besluit vaststelling beleidskader inzake subsidie op extern advies verduurzaming scholen)

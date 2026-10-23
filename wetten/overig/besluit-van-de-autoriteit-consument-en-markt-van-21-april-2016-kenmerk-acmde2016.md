@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-02-20
 toestand: 2025-12-31
 bron: "https://wetten.overheid.nl/BWBR0037940"
-opgehaald: 2026-10-22
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Autoriteit Consument en Markt van 21 april 2016, kenmerk ACM/DE/2016/202151, houdende de vaststelling van de voorwaarden als bedoeld in artikel 31 van de Elektriciteitswet 1998 (Netcode elektriciteit)

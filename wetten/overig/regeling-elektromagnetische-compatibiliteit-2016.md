@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0038923"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Minister van Economische Zaken van 13 december 2016 nr. WJZ/16133629, houdende nadere regels in verband met elektromagnetische compatibiliteit van uitrusting (Regeling elektromagnetische compatibiliteit 2016)

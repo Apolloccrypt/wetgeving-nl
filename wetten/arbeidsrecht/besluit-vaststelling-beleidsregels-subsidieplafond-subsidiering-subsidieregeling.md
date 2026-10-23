@@ -9,7 +9,7 @@ laatste_update: 2016-11-12
 status: geldig
 toestand: 2016-11-12
 bron: "https://wetten.overheid.nl/BWBR0038707"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 4 november 2016, MINBUZA-2016.732089, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieprogramma Fonds Bestrijding Kinderarbeid)

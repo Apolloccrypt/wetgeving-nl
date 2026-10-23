@@ -9,7 +9,7 @@ laatste_update: 2016-11-01
 status: geldig
 toestand: 2016-11-01
 bron: "https://wetten.overheid.nl/BWBR0038479"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 25 augustus 2016, kenmerk 942707-148296-MC, inzake regulering ergotherapie

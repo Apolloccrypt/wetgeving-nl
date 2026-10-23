@@ -9,7 +9,7 @@ laatste_update: 2017-06-17
 status: geldig
 toestand: 2017-06-17
 bron: "https://wetten.overheid.nl/BWBR0038899"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Besluit van 8 december 2016 tot wijziging van het Besluit toezicht accountantsorganisaties en enige andere besluiten ter implementatie van richtlijn nr. 2014/56/EU van het Europees Parlement en de Raad van de Europese Unie van 16 april 2014 tot wijziging van Richtlijn 2006/43/EG betreffende de wettelijke controles van jaarrekeningen en geconsolideerde jaarrekeningen (PbEU 2014, L 158) en ter implementatie van verordening (EU) nr. 537/2014 van het Europees Parlement en de Raad van 16 april 2014 betreffende specifieke eisen voor de wettelijke controles van financiële overzichten van organisaties van openbaar belang (PbEU 2014, L 158) (Implementatiebesluit wijzigingsrichtlijn en verordening wettelijke controles jaarrekeningen)

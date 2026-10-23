@@ -9,7 +9,7 @@ laatste_update: 2017-08-18
 status: geldig
 toestand: 2017-08-18
 bron: "https://wetten.overheid.nl/BWBR0038638"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Beleidsregels vereveningsbijdrage Zvw 2017

@@ -9,7 +9,7 @@ laatste_update: 2024-01-27
 status: geldig
 toestand: 2024-01-27
 bron: "https://wetten.overheid.nl/BWBR0038910"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit van 12 december 2016, houdende regels inzake radioapparaten ter implementatie van richtlijn 2014/53/EU (Besluit radioapparaten 2016)

@@ -9,7 +9,7 @@ laatste_update: 2025-08-20
 status: geldig
 toestand: 2025-08-20
 bron: "https://wetten.overheid.nl/BWBR0038780"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Minister voor Wonen en Rijksdienst van 2 november 2016, nr. 2016-0000574114, houdende de aanwijzing van topmanagementgroep-functies (Regeling aanwijzing TMG-functies)

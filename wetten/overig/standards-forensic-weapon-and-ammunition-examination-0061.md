@@ -8,7 +8,7 @@ laatste_update: 2016-12-12
 status: geldig
 toestand: 2016-12-12
 bron: "https://wetten.overheid.nl/BWBR0039081"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Standards Forensic Weapon and Ammunition Examination (006.1)

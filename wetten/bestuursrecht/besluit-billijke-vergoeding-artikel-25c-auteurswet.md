@@ -9,7 +9,7 @@ laatste_update: 2017-04-11
 status: geldig
 toestand: 2017-04-11
 bron: "https://wetten.overheid.nl/BWBR0039317"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit van 6 maart 2017, houdende de aanwijzing van een adviesorgaan en nadere regels voor de vaststelling van een billijke vergoeding als bedoeld in artikel 25c van de Auteurswet, alsmede enige technische aanpassingen in het Besluit op het specifiek cultuurbeleid (Besluit billijke vergoeding artikel 25c Auteurswet)

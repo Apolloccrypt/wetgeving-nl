@@ -8,7 +8,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0039058"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit vergunning nationale postcode loterij 2017 – 2021

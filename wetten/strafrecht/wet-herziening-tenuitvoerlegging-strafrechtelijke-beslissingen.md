@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0039301"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Wet van 22 februari 2017, houdende wijziging van het Wetboek van Strafrecht, het Wetboek van Strafvordering en enige andere wetten in verband met een herziening van de wettelijke regeling van de tenuitvoerlegging van strafrechtelijke beslissingen (Wet herziening tenuitvoerlegging strafrechtelijke beslissingen)

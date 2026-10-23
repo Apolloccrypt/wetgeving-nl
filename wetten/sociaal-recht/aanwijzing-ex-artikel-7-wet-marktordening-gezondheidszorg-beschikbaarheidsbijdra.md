@@ -9,7 +9,7 @@ laatste_update: 2016-12-01
 status: geldig
 toestand: 2016-12-01
 bron: "https://wetten.overheid.nl/BWBR0038626"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport, van 14 oktober 2015, kenmerk 846322-142560-MC, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake de beschikbaarheidsbijdrage curatieve geestelijke gezondheidszorg

@@ -8,7 +8,7 @@ laatste_update: 2020-04-28
 status: geldig
 toestand: 2020-04-28
 bron: "https://wetten.overheid.nl/BWBR0039063"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit vergunning Beter Lot 2017 – 2021

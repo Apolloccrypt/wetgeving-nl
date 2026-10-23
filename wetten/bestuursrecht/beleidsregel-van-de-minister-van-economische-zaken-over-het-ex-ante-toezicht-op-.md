@@ -9,7 +9,7 @@ laatste_update: 2016-12-21
 status: geldig
 toestand: 2016-12-21
 bron: "https://wetten.overheid.nl/BWBR0038896"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Beleidsregel van de Minister van Economische Zaken van 18 december 2016, nr. WJZ / 16194652, inzake de toepassing door de Autoriteit Consument en Markt van de artikelen 13a tot en met 13k van de Postwet 2009 (Beleidsregel van de Minister van Economische Zaken over het ex ante toezicht op grond van de Postwet 2009)

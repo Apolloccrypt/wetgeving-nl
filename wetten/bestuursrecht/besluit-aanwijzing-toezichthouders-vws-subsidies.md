@@ -9,7 +9,7 @@ laatste_update: 2017-02-14
 status: geldig
 toestand: 2017-02-14
 bron: "https://wetten.overheid.nl/BWBR0039186"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 10 februari 2017, kenmerk 1093775-161144-PG, houdende aanwijzing van personen die belast zijn met het toezicht op de naleving

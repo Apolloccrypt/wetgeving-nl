@@ -9,7 +9,7 @@ laatste_update: 2016-12-30
 status: geldig
 toestand: 2016-12-30
 bron: "https://wetten.overheid.nl/BWBR0038983"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 9 december 2016, kenmerk 1046896-158169-Z, houdende nadere aanwijzing besteedbare middelen beheerskosten Wlz 2016

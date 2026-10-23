@@ -9,7 +9,7 @@ laatste_update: 2017-01-27
 status: geldig
 toestand: 2017-01-27
 bron: "https://wetten.overheid.nl/BWBR0039134"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Regeling voor subsidiëring van projecten in het kader van het programma Lang Leve Kunst. Op weg naar Age Friendly Cities

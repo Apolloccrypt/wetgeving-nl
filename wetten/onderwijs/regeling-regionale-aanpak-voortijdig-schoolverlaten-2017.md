@@ -9,7 +9,7 @@ laatste_update: 2019-10-10
 status: geldig
 toestand: 2019-10-10
 bron: "https://wetten.overheid.nl/BWBR0038566"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 18 september 2016, nr. MBO/1003504, houdende voorschriften inzake het terugdringen van het aantal voortijdig schoolverlaters in de jaren 2017 tot en met 2020 en de regionale meld- en coördinatiefunctie voortijdig schoolverlaten (Regeling regionale aanpak voortijdig schoolverlaten 2017)

@@ -8,7 +8,7 @@ laatste_update: 2026-04-01
 status: geldig
 toestand: 2026-04-01
 bron: "https://wetten.overheid.nl/BWBR0038478"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Besluit Beleidsregels SVB 2016

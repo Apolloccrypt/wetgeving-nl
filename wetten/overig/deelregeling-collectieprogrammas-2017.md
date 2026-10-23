@@ -8,7 +8,7 @@ laatste_update: 2025-04-11
 status: geldig
 toestand: 2025-04-11
 bron: "https://wetten.overheid.nl/BWBR0038832"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Deelregeling Collectieprogramma’s 2017

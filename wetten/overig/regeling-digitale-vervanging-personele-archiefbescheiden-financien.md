@@ -9,7 +9,7 @@ laatste_update: 2016-09-07
 status: geldig
 toestand: 2016-09-07
 bron: "https://wetten.overheid.nl/BWBR0038485"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Minister van Financiën van 5 juli 2016, nr. 6322 betreffende de digitale vervanging van personele archiefbescheiden van het ministerie van Financiën in het systeem cRMA van P-Direkt

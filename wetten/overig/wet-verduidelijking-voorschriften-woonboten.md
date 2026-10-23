@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0039181"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Wet van 25 januari 2017 tot wijziging van de Woningwet en de Wet algemene bepalingen omgevingsrecht in verband met de verduidelijking van voorschriften voor woonboten (Wet verduidelijking voorschriften woonboten)

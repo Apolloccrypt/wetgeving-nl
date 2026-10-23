@@ -9,7 +9,7 @@ laatste_update: 2026-06-06
 status: geldig
 toestand: 2026-06-06
 bron: "https://wetten.overheid.nl/BWBR0038995"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 6 december 2016, nr. VO/1102619, houdende regels voor de aanvullende bekostiging van scholen in het voortgezet onderwijs voor de eerste opvang van nieuwkomers (Regeling aanvullende bekostiging eerste opvang nieuwkomers vo 2017)

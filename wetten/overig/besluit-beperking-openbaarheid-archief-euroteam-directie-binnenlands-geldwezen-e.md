@@ -8,7 +8,7 @@ laatste_update: 2017-02-28
 status: geldig
 toestand: 2017-02-28
 bron: "https://wetten.overheid.nl/BWBR0039240"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit beperking openbaarheid archief Euroteam, directie Binnenlands Geldwezen en directie Financiële Markten, (1995) 1996 – 2002

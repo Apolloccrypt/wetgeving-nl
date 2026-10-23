@@ -9,7 +9,7 @@ laatste_update: 2017-03-11
 status: geldig
 toestand: 2017-03-11
 bron: "https://wetten.overheid.nl/BWBR0039309"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Minister van Veiligheid en Justitie van 2 maart 2017, nr. 2050307, tot aanwijzing van een reclasseringsinstelling voor de toepassing van de technische voorziening, bedoeld in artikel 2a, eerste lid, van de Tijdelijke wet bestuurlijke maatregelen terrorismebestrijding

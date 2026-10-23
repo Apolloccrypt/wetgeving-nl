@@ -9,7 +9,7 @@ laatste_update: 2016-12-28
 status: geldig
 toestand: 2016-12-28
 bron: "https://wetten.overheid.nl/BWBR0038908"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Besluit van 12 december 2016, houdende regels inzake eindapparaten ter implementatie van richtlijn 2008/63/EG (Besluit eindapparaten)

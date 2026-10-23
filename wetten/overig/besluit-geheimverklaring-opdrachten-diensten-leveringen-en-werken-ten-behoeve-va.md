@@ -9,7 +9,7 @@ laatste_update: 2016-11-09
 status: geldig
 toestand: 2016-11-09
 bron: "https://wetten.overheid.nl/BWBR0038693"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Minister voor Wonen en Rijksdienst van 3 november 2016, nummer 2016-0000688347 tot geheimverklaring van opdrachten voor diensten, leveringen en werken ten behoeve van de renovatie van het Binnenhofcomplex en de tijdelijke huisvesting van de gebruikers van het Binnenhofcomplex

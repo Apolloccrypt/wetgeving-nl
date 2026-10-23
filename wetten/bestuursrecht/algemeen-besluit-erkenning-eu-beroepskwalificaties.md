@@ -9,7 +9,7 @@ laatste_update: 2018-07-28
 status: geldig
 toestand: 2018-07-28
 bron: "https://wetten.overheid.nl/BWBR0038602"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Besluit van 27 september 2016 tot vaststelling van het Algemeen besluit erkenning EU-beroepskwalificaties in verband met de implementatie van Richtlijn 2013/55/EU van het Europees Parlement en de Raad van de Europese Unie van 20 november 2013 tot wijziging van Richtlijn 2005/36/EG betreffende de erkenning van beroepskwalificaties en Verordening (EU) nr. 1024/2012 betreffende de administratieve samenwerking via het Informatiesysteem interne markt («de IMI-verordening») en de uitvoering van Uitvoeringsverordening (EU) 2015/983 van de Commissie van 24 juni 2015 betreffende de procedure voor de afgifte van de Europese beroepskaart en de toepassing van het waarschuwingsmechanisme overeenkomstig Richtlijn 2005/36/EG van het Europees Parlement en de Raad alsmede tot wijziging van enkele besluiten (Algemeen besluit erkenning EU-beroepskwalificaties)

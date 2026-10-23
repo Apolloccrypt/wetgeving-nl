@@ -8,7 +8,7 @@ laatste_update: 2026-10-12
 status: geldig
 toestand: 2026-10-12
 bron: "https://wetten.overheid.nl/BWBR0053208"
-opgehaald: 2026-10-22
+opgehaald: 2026-10-23
 ---
 
 # Richtsnoer Analyse Microbiologische Veiligheid Drinkwater (AMVD)

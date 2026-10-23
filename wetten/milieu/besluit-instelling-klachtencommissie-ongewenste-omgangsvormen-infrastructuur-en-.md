@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-07-08
 toestand: 2025-06-30
 bron: "https://wetten.overheid.nl/BWBR0038720"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Besluit instelling Klachtencommissie ongewenste omgangsvormen Infrastructuur en Milieu van 1 november 2016

@@ -9,7 +9,7 @@ laatste_update: 2017-08-01
 status: geldig
 toestand: 2017-08-01
 bron: "https://wetten.overheid.nl/BWBR0038684"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 25 oktober 2016, nr. MBO/1045692, houdende vaststelling onderdelen centraal examen en instellingsexamen van het generieke examenonderdeel Engels beroepsopleidingen WEB (Regeling examinering Engels beroepsopleidingen WEB)

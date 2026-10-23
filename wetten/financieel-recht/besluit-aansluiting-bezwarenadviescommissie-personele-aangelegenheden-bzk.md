@@ -9,7 +9,7 @@ laatste_update: 2019-02-20
 status: geldig
 toestand: 2019-02-20
 bron: "https://wetten.overheid.nl/BWBR0039270"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Minister van Financiën van 23 februari 2017, nr. 2017-0000030419, houdende intrekking van het besluit van 10 december 1997, nr. PO 97/524N tot instelling van de commissie advisering bezwaarschriften medewerkers van het ministerie van Financiën exclusief de Belastingdienst en aansluiting bij de bezwarencommissie personele aangelegenheden Binnenlandse Zaken en Koninkrijksrelaties (Besluit aansluiting bezwarenadviescommissie personele aangelegenheden BZK)

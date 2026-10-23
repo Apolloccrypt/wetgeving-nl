@@ -9,7 +9,7 @@ laatste_update: 2018-09-19
 status: geldig
 toestand: 2018-09-19
 bron: "https://wetten.overheid.nl/BWBR0039172"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Wet van 25 januari 2017, houdende wijziging van Boek 6 van het Burgerlijk Wetboek en het Wetboek van Burgerlijke Rechtsvordering, in verband met de omzetting van Richtlijn 2014/104/EU van het Europees Parlement en de Raad van 26 november 2014 betreffende bepaalde regels voor schadevorderingen volgens nationaal recht wegens inbreuken op de bepalingen van het mededingingsrecht van de lidstaten en van de Europese Unie (Implementatiewet richtlijn privaatrechtelijke handhaving mededingingsrecht)

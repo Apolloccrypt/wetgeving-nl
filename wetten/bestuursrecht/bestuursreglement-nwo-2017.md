@@ -8,7 +8,7 @@ laatste_update: 2017-02-28
 status: geldig
 toestand: 2017-02-28
 bron: "https://wetten.overheid.nl/BWBR0039246"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Bestuursreglement NWO 2017

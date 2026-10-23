@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0038905"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 12 december 2016 nr 2016-0000781964 tot vaststelling van de bedragen van de beperking, bedoeld in de artikelen 3 en 4 van de Samenloopregeling Indonesische pensioenen 1960 en artikel 11, eerste en tweede lid, van de Wet aanpassing pensioenvoorzieningen Bijstandkorps en van de vermindering, bedoeld in artikel 6, eerste lid, van de Toeslagregeling pensioenen Suriname en Nederlandse Antillen

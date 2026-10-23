@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0038890"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Besluit van 9 december 2016, houdende toestemming als bedoeld in de artikelen 4, derde lid, en 9, aanhef en onderdeel c, van de Bankwet 1998 in verband met de overdracht van publieke taken betreffende munten aan De Nederlandsche Bank N.V.

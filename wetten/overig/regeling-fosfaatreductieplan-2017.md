@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0039205"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken van 16 februari 2017, nr. WJZ/17023701, houdende invoering van de verplichting tot betaling van een geldsom (Regeling fosfaatreductieplan 2017)

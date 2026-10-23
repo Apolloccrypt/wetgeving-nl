@@ -8,7 +8,7 @@ laatste_update: 2016-12-17
 status: geldig
 toestand: 2016-12-17
 bron: "https://wetten.overheid.nl/BWBR0038875"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Beleidsregels machtigingsvereiste

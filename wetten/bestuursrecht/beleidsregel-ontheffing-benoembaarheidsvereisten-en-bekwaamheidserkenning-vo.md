@@ -9,7 +9,7 @@ laatste_update: 2026-06-30
 status: geldig
 toestand: 2026-06-30
 bron: "https://wetten.overheid.nl/BWBR0038570"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 15 september 2016, nr. VO/876872, houdende de beoordeling van buitengewone bekwaamheden in bijzondere gevallen en bekwaamheden bij het ontbreken van een lerarenopleiding in het voortgezet onderwijs (Beleidsregel ontheffing benoembaarheidsvereisten en bekwaamheidserkenning vo)

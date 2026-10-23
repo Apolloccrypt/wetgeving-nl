@@ -9,7 +9,7 @@ laatste_update: 2017-10-26
 status: geldig
 toestand: 2017-10-26
 bron: "https://wetten.overheid.nl/BWBR0039361"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 14 maart 2017 nr. BOACAT2017/021, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Autoriteit Nucleaire Veiligheid en Stralingsbescherming

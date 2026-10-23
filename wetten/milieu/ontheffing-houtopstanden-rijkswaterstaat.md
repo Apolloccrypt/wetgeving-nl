@@ -8,7 +8,7 @@ laatste_update: 2016-12-01
 status: geldig
 toestand: 2016-12-01
 bron: "https://wetten.overheid.nl/BWBR0038864"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Ontheffing houtopstanden Rijkswaterstaat

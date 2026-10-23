@@ -9,7 +9,7 @@ laatste_update: 2017-09-01
 status: geldig
 toestand: 2017-09-01
 bron: "https://wetten.overheid.nl/BWBR0039089"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Bekendmaking van de Minister van Onderwijs, Cultuur en Wetenschap van 8 december 2016, nr. MBO-1105785 inzake de vaststelling van het subsidieplafond van de Regeling regionaal investeringsfonds mbo voor het kalenderjaar 2017

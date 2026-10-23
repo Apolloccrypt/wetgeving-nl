@@ -9,7 +9,7 @@ laatste_update: 2017-07-01
 status: geldig
 toestand: 2017-07-01
 bron: "https://wetten.overheid.nl/BWBR0039366"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 22 maart 2017, nr. IENM/BSK-2017/58678, tot wijziging van de Regeling erkenning opleidingsinstellingen en examinering vervoer gevaarlijke stoffen door de lucht in verband met enkele actualiseringen

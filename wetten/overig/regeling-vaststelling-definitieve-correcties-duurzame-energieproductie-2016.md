@@ -9,7 +9,7 @@ laatste_update: 2017-03-22
 status: geldig
 toestand: 2017-03-22
 bron: "https://wetten.overheid.nl/BWBR0039354"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Minister van Economische Zaken van 17 maart 2017, nr. WJZ/17028249, tot vaststelling van de definitieve correcties voor de stimulering van duurzame energieproductie in het jaar 2016 (Regeling vaststelling definitieve correcties duurzame energieproductie 2016)

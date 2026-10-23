@@ -9,7 +9,7 @@ laatste_update: 2017-04-01
 status: geldig
 toestand: 2017-04-01
 bron: "https://wetten.overheid.nl/BWBR0038930"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Wet van 21 december 2016 tot wijziging van enkele belastingwetten en enige andere wetten (Overige fiscale maatregelen 2017)

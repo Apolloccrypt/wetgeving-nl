@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0039165"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Minister van Economische Zaken van 3 februari 2017, nr. WJZ/16156007, houdende aanwijzing van categorieën van productie-installaties voor de stimulering van duurzame energieproductie in het voorjaar van 2017 (Regeling aanwijzing categorieën duurzame energieproductie voorjaar 2017)

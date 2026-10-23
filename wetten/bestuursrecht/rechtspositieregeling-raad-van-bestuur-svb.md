@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0038788"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 18 november 2016, 2016-0000247113, tot vaststelling van de rechtspositie van de Raad van Bestuur SVB

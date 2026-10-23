@@ -9,7 +9,7 @@ laatste_update: 2019-07-01
 status: geldig
 toestand: 2019-07-01
 bron: "https://wetten.overheid.nl/BWBR0038639"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Minister van Economische Zaken van 14 oktober 2016, nr. WJZ / 14161241, houdende regels omtrent de eisen waaraan statische vloeistofhoeveelheidmeters, massameters, vloeistofhoogtemeters, discontinue brandstofmeters, CG-dispensers en dynamische weegbruggen moeten voldoen (Regeling nationaal autonoom geregelde meetinstrumenten)

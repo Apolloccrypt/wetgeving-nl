@@ -9,7 +9,7 @@ laatste_update: 2016-10-26
 status: geldig
 toestand: 2016-10-26
 bron: "https://wetten.overheid.nl/BWBR0038649"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de minister van Onderwijs, Cultuur en Wetenschap tot het opheffen van de beperkingen, gesteld aan de openbaarheid van het archief van de Stichting Nederlands Kunstbezit (1930) 1945–1951 (1983) en van haar taakvoorgangers en taakopvolgers, Toegangnummer 2.08.42

@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0038689"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Beschikking van de Minister van Veiligheid en Justitie van 27 oktober 2016, Directie Wetgeving en Juridische Zaken nr. 2006929, tot vaststelling van het percentage waarmee de bedragen voor levensonderhoud met ingang van 1 januari 2017 worden verhoogd (Beschikking wijzigingspercentage levensonderhoud 2017)

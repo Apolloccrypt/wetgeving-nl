@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0038982"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 15 december 2016 nr. BOACAT2016/068, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Inspectie Leefomgeving en Transport

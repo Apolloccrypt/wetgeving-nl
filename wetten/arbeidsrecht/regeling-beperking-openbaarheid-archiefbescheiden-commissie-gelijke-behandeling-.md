@@ -9,7 +9,7 @@ laatste_update: 2016-09-02
 status: geldig
 toestand: 2016-09-02
 bron: "https://wetten.overheid.nl/BWBR0038676"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 21 oktober 2016, 2016-0000214593, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden uit de archieven van de Commissie Gelijke Behandeling van Mannen en Vrouwen bij de arbeid en taakvoorganger over de periode 1980 t/m 1994

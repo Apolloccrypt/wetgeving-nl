@@ -9,7 +9,7 @@ laatste_update: 2023-04-19
 status: geldig
 toestand: 2023-04-19
 bron: "https://wetten.overheid.nl/BWBR0038498"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Wet van 23 augustus 2016, houdende regels met betrekking tot de productie, de conformiteitsbeoordeling en het plaatsen aan boord van scheepsuitrusting (Wet scheepsuitrusting 2016)

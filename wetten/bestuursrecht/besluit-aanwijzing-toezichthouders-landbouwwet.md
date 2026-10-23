@@ -9,7 +9,7 @@ laatste_update: 2016-11-22
 status: geldig
 toestand: 2016-11-22
 bron: "https://wetten.overheid.nl/BWBR0038738"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Staatssecretaris van Economische Zaken van 16 november 2016, nr. WJZ/16134524, houdende de aanwijzing van toezichthouders op grond van artikel 48a van de Landbouwwet (Besluit aanwijzing toezichthouders Landbouwwet)

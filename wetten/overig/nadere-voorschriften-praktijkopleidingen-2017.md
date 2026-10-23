@@ -8,7 +8,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0039005"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Nadere voorschriften praktijkopleidingen 2017

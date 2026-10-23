@@ -8,7 +8,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0039060"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit vergunning vriendenloterij 2017-2021

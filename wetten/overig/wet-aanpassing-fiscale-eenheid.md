@@ -9,7 +9,7 @@ laatste_update: 2016-12-09
 status: geldig
 toestand: 2016-12-09
 bron: "https://wetten.overheid.nl/BWBR0038839"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Wet van 30 november 2016, houdende wijziging van de Wet op de vennootschapsbelasting 1969 en enige andere wetten in verband met enkele aanpassingen inzake de fiscale eenheid (Wet aanpassing fiscale eenheid)

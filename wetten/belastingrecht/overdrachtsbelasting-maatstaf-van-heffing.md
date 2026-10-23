@@ -8,7 +8,7 @@ laatste_update: 2023-03-01
 status: geldig
 toestand: 2023-03-01
 bron: "https://wetten.overheid.nl/BWBR0039298"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Overdrachtsbelasting, maatstaf van heffing

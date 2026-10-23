@@ -9,7 +9,7 @@ laatste_update: 2021-12-17
 status: geldig
 toestand: 2021-12-17
 bron: "https://wetten.overheid.nl/BWBR0038548"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Beleidsregel van de Staatssecretaris van Infrastructuur en Milieu over de toepassing van artikel 80 Spoorwegwet (Beleidsregel bestuurlijke boetes Spoorwegwet 2016)

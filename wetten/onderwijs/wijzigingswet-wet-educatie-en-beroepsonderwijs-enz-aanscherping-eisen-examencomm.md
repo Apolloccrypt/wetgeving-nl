@@ -9,7 +9,7 @@ laatste_update: 2017-08-01
 status: geldig
 toestand: 2017-08-01
 bron: "https://wetten.overheid.nl/BWBR0039194"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Wet van 25 januari 2017 tot wijziging van onder meer de Wet educatie en beroepsonderwijs inzake aanscherping van de eisen met betrekking tot examencommissies in het middelbaar beroepsonderwijs en een technische aanpassing

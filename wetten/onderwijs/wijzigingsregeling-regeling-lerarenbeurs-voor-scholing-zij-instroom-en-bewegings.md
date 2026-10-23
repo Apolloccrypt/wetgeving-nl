@@ -9,7 +9,7 @@ laatste_update: 2016-11-10
 status: geldig
 toestand: 2016-11-10
 bron: "https://wetten.overheid.nl/BWBR0038699"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 19 oktober 2016, nr. VO/940415, tot wijziging van de Regeling lerarenbeurs voor scholing, zij-instroom en bewegingsonderwijs 2009–2017 in verband met enkele technische aanpassingen

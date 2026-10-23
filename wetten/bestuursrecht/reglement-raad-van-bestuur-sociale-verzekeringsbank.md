@@ -9,7 +9,7 @@ laatste_update: 2016-10-27
 status: geldig
 toestand: 2016-10-27
 bron: "https://wetten.overheid.nl/BWBR0038636"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 13 oktober 2016, nr. 2016-0000218858, tot goedkeuring bestuursreglement SVB

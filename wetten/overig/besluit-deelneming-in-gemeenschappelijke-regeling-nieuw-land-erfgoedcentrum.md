@@ -9,7 +9,7 @@ laatste_update: 2017-03-23
 status: geldig
 toestand: 2017-03-23
 bron: "https://wetten.overheid.nl/BWBR0039353"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 10 februari 2017 met kenmerk 1096101 houdende deelneming in de Gemeenschappelijke Regeling Nieuw Land Erfgoedcentrum

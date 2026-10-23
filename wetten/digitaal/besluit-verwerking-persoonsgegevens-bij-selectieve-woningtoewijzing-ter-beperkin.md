@@ -9,7 +9,7 @@ laatste_update: 2018-07-28
 status: geldig
 toestand: 2018-07-28
 bron: "https://wetten.overheid.nl/BWBR0038929"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit van 15 december 2016, houdende nadere regels betreffende de verwerking van persoonsgegevens in verband met de selectieve woningtoewijzing ter beperking van overlastgevend en crimineel gedrag

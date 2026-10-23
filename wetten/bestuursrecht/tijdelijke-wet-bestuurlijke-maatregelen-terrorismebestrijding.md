@@ -9,7 +9,7 @@ laatste_update: 2022-02-26
 status: geldig
 toestand: 2022-02-26
 bron: "https://wetten.overheid.nl/BWBR0039210"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Wet van 10 februari 2017, houdende tijdelijke regels inzake het opleggen van vrijheidsbeperkende maatregelen aan personen die een gevaar vormen voor de nationale veiligheid of die voornemens zijn zich aan te sluiten bij terroristische strijdgroepen en inzake het weigeren en intrekken van beschikkingen bij ernstig gevaar voor gebruik ervan voor terroristische activiteiten (Tijdelijke wet bestuurlijke maatregelen terrorismebestrijding)

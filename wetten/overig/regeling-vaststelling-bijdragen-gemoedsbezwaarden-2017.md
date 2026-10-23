@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0038773"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Minister van Financiën van 22 november 2016, 2016-203662, directie Financiële Markten, tot vaststelling van de bijdragen gemoedsbezwaarden 2017 (Regeling vaststelling bijdragen gemoedsbezwaarden 2017)

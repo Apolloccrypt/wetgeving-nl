@@ -9,7 +9,7 @@ laatste_update: 2016-12-07
 status: geldig
 toestand: 2016-12-07
 bron: "https://wetten.overheid.nl/BWBR0038811"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Minister van Infrastructuur en Milieu van 24 november 2016, kenmerk RWS-2016/48249, tot vaststelling beleid inzake adviescommissie project Zuidasdok in relatie tot Beleidsregel nadeelcompensatie Infrastructuur en Milieu 2014

@@ -8,7 +8,7 @@ laatste_update: 2016-09-29
 status: geldig
 toestand: 2016-09-29
 bron: "https://wetten.overheid.nl/BWBR0038542"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Besluit Inkoopkader Individuele Re-integratieovereenkomst UWV 2016

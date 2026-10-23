@@ -9,7 +9,7 @@ laatste_update: 2016-10-25
 status: geldig
 toestand: 2016-10-25
 bron: "https://wetten.overheid.nl/BWBR0038635"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Regeling van het College voor Toetsen en Examens van 27 juni 2016, nummer CvTE-16.01269, houdende vaststelling van het addendum rekenen 2ER en 3ER bij de syllabus rekenen 2F en 3F voor de rekentoets vo en centrale examinering in het mbo (Regeling addendum ER bij de syllabus Rekenen vo en mbo referentieniveaus 2F en 3F)

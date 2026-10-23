@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0038897"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 6 december 2016, nr. 1108207, tot vaststelling van een kader voor de beoordeling van de verzoeken om een strategisch partnerschap in het kader van de aanvragen voor instellingssubsidie op grond van de Subsidieregeling gender- en LHBTI-gelijkheid 2017–2022 (Beoordelingskader Subsidieregeling gender- en LHBTI-gelijkheid 2017–2022)

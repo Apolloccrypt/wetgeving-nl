@@ -9,7 +9,7 @@ laatste_update: 2017-04-15
 status: geldig
 toestand: 2017-04-15
 bron: "https://wetten.overheid.nl/BWBR0039350"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit van 9 maart 2017, houdende wijzigingen van het Besluit register deskundige in strafzaken in verband met een verruiming van de mogelijkheid een deskundige voorwaardelijk in te schrijven en enkele andere wijzigingen

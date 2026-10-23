@@ -9,7 +9,7 @@ laatste_update: 2016-11-26
 status: geldig
 toestand: 2016-11-26
 bron: "https://wetten.overheid.nl/BWBR0038755"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 7 november 2016, nr. 2008899, tot instelling van een Monitorcomité AMIF en ISF (Instellingsbesluit Monitorcomité AMIF en ISF)

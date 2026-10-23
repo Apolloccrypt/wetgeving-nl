@@ -9,7 +9,7 @@ laatste_update: 2019-07-17
 status: geldig
 toestand: 2019-07-17
 bron: "https://wetten.overheid.nl/BWBR0038763"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 17 november 2016 nr. BOACAT2016/056, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Staatsbosbeheer

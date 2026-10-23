@@ -9,7 +9,7 @@ laatste_update: 2017-01-24
 status: geldig
 toestand: 2017-01-24
 bron: "https://wetten.overheid.nl/BWBR0039111"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 13 januari 2017, kenmerk 1046904-158168-Z, houdende de besteedbare middelen ter dekking van de beheerskosten Wlz 201 (Aanwijzing besteedbare middelen beheerskosten Wlz 2017)

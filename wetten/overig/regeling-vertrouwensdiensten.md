@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0039274"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Minister van Economische Zaken van 24 februari 2017, nr. WJZ/17028856, in overeenstemming met de Minister van Financiën en de Minister van Infrastructuur en Milieu, tot vaststelling van procedurele bepalingen inzake de aanvraag tot certificerende instelling van gekwalificeerde middelen, de aanvraag tot toekenning van de status gekwalificeerd en inzake de vertrouwenslijst, tot intrekking van de Regeling elektronische handtekeningen en van de Regeling vertrouwenslijst en tot wijziging van een aantal regelingen als gevolg van de inwerkingtreding van de eidas-verordening (Regeling vertrouwensdiensten)

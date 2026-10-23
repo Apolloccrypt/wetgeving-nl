@@ -9,7 +9,7 @@ laatste_update: 2017-04-01
 status: geldig
 toestand: 2017-04-01
 bron: "https://wetten.overheid.nl/BWBR0039360"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit van 14 maart 2017 tot wijziging van het Besluit stimulering duurzame energieproductie in verband met de uitsluiting van subsidie in het geval van negatieve elektriciteitsprijzen en enkele andere wijzigingen

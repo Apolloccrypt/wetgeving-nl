@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0038865"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Wet van 23 november 2016 tot wijziging van de Wet tot veiling van bepaalde verkooppunten van motorbrandstoffen in verband met het verstrekken van gegevens ten behoeve van het biedboek voor de veiling van bepaalde verkooppunten van motorbrandstoffen (Wet aanvullende biedboekgegevens)

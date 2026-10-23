@@ -8,7 +8,7 @@ laatste_update: 2016-12-08
 status: geldig
 toestand: 2016-12-08
 bron: "https://wetten.overheid.nl/BWBR0038822"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Macrobeheersinstrument verpleging en verzorging 2015

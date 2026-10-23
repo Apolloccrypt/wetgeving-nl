@@ -9,7 +9,7 @@ laatste_update: 2017-02-01
 status: geldig
 toestand: 2017-02-01
 bron: "https://wetten.overheid.nl/BWBR0038914"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit van 9 december 2016, houdende vaststelling van het tijdstip tot wanneer de verzekerde met een modulair pakket thuis geen recht heeft op het schoonhouden van de woonruimte op grond van de Wet langdurige zorg

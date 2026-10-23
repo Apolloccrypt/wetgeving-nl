@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0039238"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 17 februari 2017, 2017-0000009164, tot vaststelling van het AOV- en AWW-bedrag dat is vrijgesteld van betaling aan de verzorgings- of verplegingsinstelling (Regeling AOV en AWW bijdragen aan zorginstellingen BES)

@@ -8,7 +8,7 @@ laatste_update: 2024-11-28
 status: geldig
 toestand: 2024-11-28
 bron: "https://wetten.overheid.nl/BWBR0038619"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Regeling cafetariamodel defensie

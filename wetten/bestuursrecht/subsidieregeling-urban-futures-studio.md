@@ -9,7 +9,7 @@ laatste_update: 2017-07-01
 status: geldig
 toestand: 2017-07-01
 bron: "https://wetten.overheid.nl/BWBR0039213"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu van 7 februari 2017, nr. IenM/BSK-2016/213529, houdende verstrekking van subsidie aan de Universiteit Utrecht voor Urban Futures Studio (Subsidieregeling Urban Futures Studio)

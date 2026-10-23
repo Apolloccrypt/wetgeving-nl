@@ -8,7 +8,7 @@ laatste_update: 2016-09-10
 status: geldig
 toestand: 2016-09-10
 bron: "https://wetten.overheid.nl/BWBR0038497"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Algemene wet inzake rijksbelastingen, wijziging betaalverzuimboete Motorrijtuigenbelasting

@@ -9,7 +9,7 @@ laatste_update: 2017-02-01
 status: geldig
 toestand: 2017-02-01
 bron: "https://wetten.overheid.nl/BWBR0038728"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Minister van Economische Zaken van 17 november 2016, nr. WJZ / 16174370, tot wijziging van de Regeling nationale EZ-subsidies houdende een wijziging van titel 3.2 betreffende de TKI-toeslag

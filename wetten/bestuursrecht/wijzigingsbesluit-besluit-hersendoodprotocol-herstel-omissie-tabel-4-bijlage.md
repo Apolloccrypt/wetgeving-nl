@@ -9,7 +9,7 @@ laatste_update: 2017-06-01
 status: geldig
 toestand: 2017-06-01
 bron: "https://wetten.overheid.nl/BWBR0039262"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit van 10 februari 2017, houdende wijziging van tabel 4 in de bijlage bij het Besluit Hersendoodprotocol in verband met het herstel van een omissie

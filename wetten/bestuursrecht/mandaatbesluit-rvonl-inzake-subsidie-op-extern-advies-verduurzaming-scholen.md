@@ -9,7 +9,7 @@ laatste_update: 2016-10-01
 status: geldig
 toestand: 2016-10-01
 bron: "https://wetten.overheid.nl/BWBR0038563"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 19 september 2016 nr. PO/B&S/969922 houdende de verlening van mandaat en machtiging aan de Rijksdienst voor Ondernemend Nederland in verband met de subsidieverstrekking inzake extern advies voor de verduurzaming van scholen in het kader van de Green Deal Scholen (Mandaatbesluit Rijksdienst voor Ondernemend Nederland inzake subsidie op extern advies verduurzaming scholen)

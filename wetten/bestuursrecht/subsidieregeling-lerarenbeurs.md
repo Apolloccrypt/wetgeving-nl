@@ -9,7 +9,7 @@ laatste_update: 2026-01-28
 status: geldig
 toestand: 2026-01-28
 bron: "https://wetten.overheid.nl/BWBR0039319"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 4 maart 2017, nr. 1074316, houdende regels voor het verstrekken van subsidie aan leraren met onderwijsbevoegdheid om substantiële scholing te bevorderen (Subsidieregeling lerarenbeurs)

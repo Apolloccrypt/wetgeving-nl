@@ -9,7 +9,7 @@ laatste_update: 2016-12-22
 status: geldig
 toestand: 2016-12-22
 bron: "https://wetten.overheid.nl/BWBR0038717"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 9 november 2016, 1041185-157731-VGP, houdende vaststelling van regels met betrekking tot voor menselijke voeding bestemde caseïne en caseïnaten (Warenwetregeling caseïne en caseïnaten 2016)

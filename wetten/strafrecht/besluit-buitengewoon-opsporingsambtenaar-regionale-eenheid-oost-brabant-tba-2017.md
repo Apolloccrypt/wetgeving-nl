@@ -9,7 +9,7 @@ laatste_update: 2017-02-28
 status: geldig
 toestand: 2017-02-28
 bron: "https://wetten.overheid.nl/BWBR0039243"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 15 februari 2017 nr. BOACAT2017/010, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de regionale eenheid Oost-Brabant, Team Buitengerechtelijke Afdoeningen

@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0038616"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Besluit van 6 oktober 2016, houdende regels betreffende het gebruik van elektronische stukken (Besluit digitale stukken Strafvordering)

@@ -9,7 +9,7 @@ laatste_update: 2022-07-01
 status: geldig
 toestand: 2022-07-01
 bron: "https://wetten.overheid.nl/BWBR0038936"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit van 14 december 2016, houdende regels over de voorlopige onderzoeken en de vervolgonderzoeken die ter vaststelling van het gebruik van alcohol, drugs en geneesmiddelen in het verkeer kunnen worden ingezet en aanwijzing van de drugs waarvoor grenswaarden gelden en aanwijzing van de grenswaarden voor enkelvoudig en gecombineerd gebruik van drugs en van drugs en alcohol of geneesmiddelen (Besluit alcohol, drugs en geneesmiddelen in het verkeer)

@@ -9,7 +9,7 @@ laatste_update: 2017-06-01
 status: geldig
 toestand: 2017-06-01
 bron: "https://wetten.overheid.nl/BWBR0038585"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Besluit van 19 september 2016, houdende wijziging van een aantal algemene maatregelen van bestuur op het terrein van het Ministerie van Volksgezondheid, Welzijn en Sport teneinde misslagen en omissies te herstellen

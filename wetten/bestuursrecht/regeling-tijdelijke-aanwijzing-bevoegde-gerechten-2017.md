@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0038856"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 29 november 2016, nr. 2015308 houdende tijdelijke aanwijzing van bevoegde gerechten als bedoeld in de artikelen 46a en 62a van de Wet op de rechterlijke organisatie (Regeling tijdelijke aanwijzing bevoegde gerechten 2017)

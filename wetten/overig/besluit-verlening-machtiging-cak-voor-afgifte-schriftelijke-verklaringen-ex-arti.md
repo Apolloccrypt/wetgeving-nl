@@ -9,7 +9,7 @@ laatste_update: 2016-11-12
 status: geldig
 toestand: 2016-11-12
 bron: "https://wetten.overheid.nl/BWBR0038705"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 3 november 2016, kenmerk 1025876-155862-WJZ, houdende verlening van machtiging aan het CAK voor de afgifte van schriftelijke verklaringen als bedoeld in artikel 6a van de Opiumwet

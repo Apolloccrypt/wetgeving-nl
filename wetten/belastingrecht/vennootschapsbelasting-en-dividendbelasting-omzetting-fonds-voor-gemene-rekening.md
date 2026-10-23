@@ -8,7 +8,7 @@ laatste_update: 2017-03-17
 status: geldig
 toestand: 2017-03-17
 bron: "https://wetten.overheid.nl/BWBR0039327"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Vennootschapsbelasting en dividendbelasting, omzetting fonds voor gemene rekening (fiscale beleggingsinstelling) in een nv

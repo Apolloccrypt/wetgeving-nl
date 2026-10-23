@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0035733"
-opgehaald: 2026-10-20
+opgehaald: 2026-10-23
 ---
 
 # Besluit van 27 oktober 2014, houdende regels ter uitvoering van de Wet maatschappelijke ondersteuning 2015 (Uitvoeringsbesluit Wmo 2015)

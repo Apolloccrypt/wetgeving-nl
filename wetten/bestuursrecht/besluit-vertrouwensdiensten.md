@@ -9,7 +9,7 @@ laatste_update: 2023-11-09
 status: geldig
 toestand: 2023-11-09
 bron: "https://wetten.overheid.nl/BWBR0039284"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit van 22 februari 2017, houdende vaststelling van eisen inzake verlening van vertrouwensdiensten, tot intrekking van het Besluit elektronische handtekeningen en tot aanpassing van enige andere besluiten (Besluit vertrouwensdiensten)

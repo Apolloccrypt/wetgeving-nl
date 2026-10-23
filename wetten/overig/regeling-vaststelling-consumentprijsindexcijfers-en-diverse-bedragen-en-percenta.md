@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0038770"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 21 november 2016, 2016-0000252614, tot vaststelling van de consumentprijsindexcijfers voor Caribisch Nederland voor 2017 alsmede naar aanleiding daarvan de vaststelling van diverse bedragen en percentages

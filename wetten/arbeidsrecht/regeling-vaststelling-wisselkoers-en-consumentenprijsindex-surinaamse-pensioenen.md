@@ -9,7 +9,7 @@ laatste_update: 2026-04-15
 status: geldig
 toestand: 2026-04-15
 bron: "https://wetten.overheid.nl/BWBR0039311"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 23 februari 2017, nr. 2017-0000101161, tot vaststelling van de wisselkoers en consumentenprijsindex ten behoeve van Surinaamse pensioenen over de periode januari 2008 tot en met december 2016 (Regeling vaststelling wisselkoers en consumentenprijsindex Surinaamse pensioenen 2008/2016)

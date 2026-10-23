@@ -9,7 +9,7 @@ laatste_update: 2017-03-18
 status: geldig
 toestand: 2017-03-18
 bron: "https://wetten.overheid.nl/BWBR0039341"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Wijziging Besluit mandaat Registratie Niet-Ingezetenen

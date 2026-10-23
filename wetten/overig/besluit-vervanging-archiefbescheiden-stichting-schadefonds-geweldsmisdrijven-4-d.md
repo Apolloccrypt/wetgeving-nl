@@ -8,7 +8,7 @@ laatste_update: 2015-12-04
 status: geldig
 toestand: 2015-12-04
 bron: "https://wetten.overheid.nl/BWBR0038753"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Besluit vervanging archiefbescheiden Stichting Schadefonds Geweldsmisdrijven 4 december 2015

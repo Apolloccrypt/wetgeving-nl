@@ -9,7 +9,7 @@ laatste_update: 2017-07-01
 status: geldig
 toestand: 2017-07-01
 bron: "https://wetten.overheid.nl/BWBR0039114"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit van 19 december 2016, houdende regels inzake het ten laste brengen van kosten hercontroles Metrologiewet (Besluit kosten hercontroles Metrologiewet)

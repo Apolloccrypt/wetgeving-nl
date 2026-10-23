@@ -9,7 +9,7 @@ laatste_update: 2016-07-01
 status: geldig
 toestand: 2016-07-01
 bron: "https://wetten.overheid.nl/BWBR0038517"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Mededeling van de Minister van Sociale Zaken en Werkgelegenheid van 22 juni 2016, 2016-0000149676, tot bekendmaking van de gewijzigde bedragen in artikel 12 van de Algemene Kinderbijslagwet per 1 juli 2016

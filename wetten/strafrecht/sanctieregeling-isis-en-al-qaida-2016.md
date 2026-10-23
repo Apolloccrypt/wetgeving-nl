@@ -9,7 +9,7 @@ laatste_update: 2025-12-25
 status: geldig
 toestand: 2025-12-25
 bron: "https://wetten.overheid.nl/BWBR0038916"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 5 december 2016, nr. MinBuza-2016.822620, houdende beperkende maatregelen tegen personen en entiteiten die banden hebben met ISIS en Al Qaida (Sanctieregeling ISIS en Al Qaida 2016)

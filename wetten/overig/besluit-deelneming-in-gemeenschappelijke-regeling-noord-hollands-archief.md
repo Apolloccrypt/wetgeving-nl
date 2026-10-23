@@ -9,7 +9,7 @@ laatste_update: 2017-02-08
 status: geldig
 toestand: 2017-02-08
 bron: "https://wetten.overheid.nl/BWBR0038711"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 24 mei 2016, kenmerk 926952, houdende deelneming in de Gemeenschappelijke Regeling Noord-Hollands Archief

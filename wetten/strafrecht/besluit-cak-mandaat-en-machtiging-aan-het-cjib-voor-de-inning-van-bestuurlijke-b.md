@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0039049"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit van het CAK tot mandaat en machtiging aan het CJIB voor de inning van bestuurlijke boete en bestuursrechtelijke premie Zorgverzekeringswet

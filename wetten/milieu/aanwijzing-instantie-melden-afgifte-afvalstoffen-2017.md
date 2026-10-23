@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0038988"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Milieu, van 27 november 2016, nr. IENM/BSK-2016/253025, houdende de aanwijzing van Rijkswaterstaat als de instantie voor de melding van de afgifte van bedrijfsafvalstoffen en gevaarlijke afvalstoffen als bedoeld in de artikelen 10.38, derde lid, en 10.40, eerste lid, van de Wet milieubeheer en intrekking van het Besluit mandaat, volmacht en machtiging Stichting Landelijk Meldpunt Afvalstoffen (Aanwijzing instantie melden afgifte afvalstoffen 2017)

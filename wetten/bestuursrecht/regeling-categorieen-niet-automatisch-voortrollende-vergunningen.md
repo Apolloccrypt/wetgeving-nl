@@ -9,7 +9,7 @@ laatste_update: 2021-06-18
 status: geldig
 toestand: 2021-06-18
 bron: "https://wetten.overheid.nl/BWBR0038657"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Minister van Economische Zaken van 24 oktober 2016, nr. WJZ/16152571, tot vaststelling van categorieën niet-automatisch voortrollende vergunningen en andere wijzigingen (Regeling categorieën niet-automatisch voortrollende vergunningen)

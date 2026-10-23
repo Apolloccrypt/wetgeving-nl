@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0038719"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Besluit van 27 oktober 2016 tot wijziging van het Besluit prudentiële regels Wft in verband met aanpassing van de solvabiliteitseisen voor verzekeraars met beperkte risico-omvang (Wijzigingsbesluit solvabiliteit verzekeraars met beperkte risico-omvang)

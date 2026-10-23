@@ -9,7 +9,7 @@ laatste_update: 2017-01-03
 status: geldig
 toestand: 2017-01-03
 bron: "https://wetten.overheid.nl/BWBR0039068"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de directie van de Nationale en Internationale Wegvervoer Organisatie (NIWO) houdende verlening van ondertekeningsmandaat (Mandaatbesluit van de NIWO)

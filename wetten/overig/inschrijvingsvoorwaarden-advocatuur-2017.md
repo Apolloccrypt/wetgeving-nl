@@ -8,7 +8,7 @@ laatste_update: 2017-03-16
 status: geldig
 toestand: 2017-03-16
 bron: "https://wetten.overheid.nl/BWBR0039329"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Inschrijvingsvoorwaarden advocatuur 2017

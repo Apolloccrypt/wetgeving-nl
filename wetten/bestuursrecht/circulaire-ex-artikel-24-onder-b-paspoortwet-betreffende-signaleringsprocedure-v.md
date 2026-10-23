@@ -8,7 +8,7 @@ laatste_update: 2017-03-01
 status: geldig
 toestand: 2017-03-01
 bron: "https://wetten.overheid.nl/BWBR0039216"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Circulaire ex artikel 24, onder b, Paspoortwet betreffende signaleringsprocedure vermoeden misbruik reisdocumenten

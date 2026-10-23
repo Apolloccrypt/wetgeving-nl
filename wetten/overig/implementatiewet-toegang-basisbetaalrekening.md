@@ -9,7 +9,7 @@ laatste_update: 2016-11-11
 status: geldig
 toestand: 2016-11-11
 bron: "https://wetten.overheid.nl/BWBR0038661"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Wet van 5 oktober 2016 tot wijziging van de Wet op het financieel toezicht ter implementatie van richtlijn nr. 2014/92/EU van het Europees Parlement en de Raad van 23 juli 2014 betreffende de vergelijkbaarheid van de in verband met betaalrekeningen aangerekende vergoedingen, het overstappen naar een andere betaalrekening en de toegang tot betaalrekeningen met basisfuncties (PbEU 2014, L 257) (Implementatiewet toegang basisbetaalrekening)

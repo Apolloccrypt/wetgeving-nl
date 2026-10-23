@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0039031"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Regeling van De Nederlandsche Bank N.V. van 12 december 2016 houdende regels ingevolge artikel 108, derde lid, en artikel 111, zesde lid, van het Besluit prudentiële regels Wft met betrekking tot de posten van de vereiste en de aanwezige liquiditeit voor kredietunies en de weging daarvan (Regeling liquiditeit kredietunies Wft 2017)

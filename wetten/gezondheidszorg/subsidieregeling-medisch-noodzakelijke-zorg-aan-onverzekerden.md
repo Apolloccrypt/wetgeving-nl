@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0039230"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 15 februari 2017, kenmerk 997477-153689-Z, houdende regels voor de subsidieverstrekking aan zorgaanbieders voor het verlenen van medisch noodzakelijke zorg aan onverzekerden (Subsidieregeling medisch noodzakelijke zorg aan onverzekerden)

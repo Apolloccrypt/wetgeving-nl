@@ -9,7 +9,7 @@ laatste_update: 2017-05-01
 status: geldig
 toestand: 2017-05-01
 bron: "https://wetten.overheid.nl/BWBR0039217"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Wet van 10 februari 2017 tot wijziging van de Tracéwet, de Wet milieubeheer en de Wet geluidhinder in verband met de verruiming van de mogelijkheid om fouten in het geluidregister te herstellen en enkele technische verduidelijkingen

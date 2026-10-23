@@ -9,7 +9,7 @@ laatste_update: 2016-09-18
 status: geldig
 toestand: 2016-09-18
 bron: "https://wetten.overheid.nl/BWBR0038499"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu, van 22 augustus 2016, nr. IENM/BSK-2016/177402, houdende regels met betrekking tot de productie en conformiteitsbeoordeling van scheepsuitrusting (Regeling scheepsuitrusting 2016)

@@ -9,7 +9,7 @@ laatste_update: 2025-02-12
 status: geldig
 toestand: 2025-02-12
 bron: "https://wetten.overheid.nl/BWBR0039275"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Wet van 17 februari 2017 tot wijziging van de Gemeentewet in verband met de aanpak van woonoverlast (Wet aanpak woonoverlast)

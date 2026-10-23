@@ -8,7 +8,7 @@ laatste_update: 2017-01-03
 status: geldig
 toestand: 2017-01-03
 bron: "https://wetten.overheid.nl/BWBR0039051"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit vergunning Lotto 2017–2021

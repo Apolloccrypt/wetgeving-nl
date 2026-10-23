@@ -9,7 +9,7 @@ laatste_update: 2017-02-01
 status: geldig
 toestand: 2017-02-01
 bron: "https://wetten.overheid.nl/BWBR0038787"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 24 november 2016, kenmerk 1036209-157521-MC, inzake verlenging termijn en uitbreiding reikwijdte beleidsregel Innovatie ten behoeve van nieuwe zorgprestaties

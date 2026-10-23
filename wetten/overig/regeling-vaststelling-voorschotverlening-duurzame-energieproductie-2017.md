@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0038663"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Minister van Economische Zaken van 24 oktober 2016, nr. WJZ/16143227, tot vaststelling van de correcties voor de voorschotverlening duurzame energieproductie 2017 (Regeling vaststelling voorschotverlening duurzame energieproductie 2017)

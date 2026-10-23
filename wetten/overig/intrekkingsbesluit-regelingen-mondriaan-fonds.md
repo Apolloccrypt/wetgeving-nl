@@ -8,7 +8,7 @@ laatste_update: 2016-12-07
 status: geldig
 toestand: 2016-12-07
 bron: "https://wetten.overheid.nl/BWBR0038809"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Intrekkingsbesluit regelingen Mondriaan Fonds

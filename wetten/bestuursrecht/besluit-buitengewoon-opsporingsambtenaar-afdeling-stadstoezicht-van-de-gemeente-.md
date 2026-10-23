@@ -9,7 +9,7 @@ laatste_update: 2017-05-08
 status: geldig
 toestand: 2017-05-08
 bron: "https://wetten.overheid.nl/BWBR0039254"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 20 februari 2017 nr. BOACAT2017/013, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de afdeling Stadstoezicht van de gemeente Almere

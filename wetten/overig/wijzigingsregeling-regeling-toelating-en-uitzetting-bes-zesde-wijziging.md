@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0038834"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Staatssecretaris van Veiligheid en Justitie van 28 november 2016, nummer 2014207, tot wijziging van de Regeling toelating en uitzetting BES (zesde wijziging)

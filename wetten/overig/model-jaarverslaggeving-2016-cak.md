@@ -8,7 +8,7 @@ laatste_update: 2016-11-18
 status: geldig
 toestand: 2016-11-18
 bron: "https://wetten.overheid.nl/BWBR0038725"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Model Jaarverslaggeving 2016 CAK

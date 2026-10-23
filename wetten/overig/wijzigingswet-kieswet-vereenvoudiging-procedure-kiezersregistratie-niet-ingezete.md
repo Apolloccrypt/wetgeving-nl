@@ -9,7 +9,7 @@ laatste_update: 2017-04-01
 status: geldig
 toestand: 2017-04-01
 bron: "https://wetten.overheid.nl/BWBR0039351"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Wet van 28 september 2016 tot wijziging van de Kieswet in verband met het vereenvoudigen van de procedure voor registratie als kiezer voor Nederlanders die in het buitenland wonen (permanente kiezersregistratie niet-ingezetenen)

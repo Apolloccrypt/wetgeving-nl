@@ -9,7 +9,7 @@ laatste_update: 2020-10-27
 status: geldig
 toestand: 2020-10-27
 bron: "https://wetten.overheid.nl/BWBR0039312"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Minister van Veiligheid en Justitie van 2 maart 2017, nr. 2050307, tot vaststelling van de lijst met organisaties de een bedreiging vormen voor de nationale veiligheid

@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0038577"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Besluit van het Bestuur van de Stichting Stimuleringsfonds Creatieve Industrie tot vaststelling van een deelregeling, houdende regels voor het verstrekken van subsidie ter versterking van de internationale positie op het gebied van architectuur, vormgeving en digitale cultuur

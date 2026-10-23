@@ -9,7 +9,7 @@ laatste_update: 2016-11-09
 status: geldig
 toestand: 2016-11-09
 bron: "https://wetten.overheid.nl/BWBR0038678"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Vennootschapsbelasting. Inkomstenbelasting. Dividendbelasting. Giftenaftrek of uitdeling

@@ -9,7 +9,7 @@ laatste_update: 2016-12-28
 status: geldig
 toestand: 2016-12-28
 bron: "https://wetten.overheid.nl/BWBR0038925"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit van 14 december 2016, houdende wijziging van het Rechtspositiebesluit ambtenaren BES, het Besluit rechtspositie korps politie BES en het Bezoldigingsbesluit 1998 BES in verband met de formalisering arbeidsvoorwaardenovereenkomst CN 2016–2017

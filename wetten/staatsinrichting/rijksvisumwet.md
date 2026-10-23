@@ -9,7 +9,7 @@ laatste_update: 2018-07-01
 status: geldig
 toestand: 2018-07-01
 bron: "https://wetten.overheid.nl/BWBR0038494"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Rijkswet van 23 augustus 2016, houdende bepalingen omtrent de verlening van visa voor de toegang tot de landen van het Koninkrijk (Rijksvisumwet)

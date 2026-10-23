@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0038690"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 27 oktober 2016, kenmerk 787332-138496-OBP, houdende beperking aan de openbaarheid van archiefbescheiden, opgenomen in het archief van de Directie Curatieve Zorg en taakvoorgangers van het Ministerie van Welzijn, Volksgezondheid, en Cultuur (1984) 1995–2006

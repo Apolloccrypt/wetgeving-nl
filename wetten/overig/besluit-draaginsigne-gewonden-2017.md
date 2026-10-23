@@ -9,7 +9,7 @@ laatste_update: 2017-02-28
 status: geldig
 toestand: 2017-02-28
 bron: "https://wetten.overheid.nl/BWBR0039236"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit houdende vaststelling Draaginsigne Gewonden 2017

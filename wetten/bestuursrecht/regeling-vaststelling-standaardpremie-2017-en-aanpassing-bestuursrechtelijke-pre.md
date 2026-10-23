@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0038756"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 22 november 2016, kenmerk 1046186-158039-Z, houdende de vaststelling van de standaardpremie 2017 en de aanpassing van de bestuursrechtelijke premie in de Zorgverzekeringswet (Regeling vaststelling standaardpremie 2017 en aanpassing bestuursrechtelijke premies)

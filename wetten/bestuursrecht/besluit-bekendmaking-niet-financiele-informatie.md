@@ -9,7 +9,7 @@ laatste_update: 2017-03-24
 status: geldig
 toestand: 2017-03-24
 bron: "https://wetten.overheid.nl/BWBR0039355"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit van 14 maart 2017, houdende regels ter uitvoering van richtlijn 2014/95/EU van het Europees Parlement en van de Raad van 22 oktober 2014 tot wijziging van richtlijn 2013/34/EU met betrekking tot de bekendmaking van niet-financiële informatie en informatie inzake diversiteit door bepaalde grote ondernemingen en groepen (PbEU 2014, L 330) (Besluit bekendmaking niet-financiële informatie)

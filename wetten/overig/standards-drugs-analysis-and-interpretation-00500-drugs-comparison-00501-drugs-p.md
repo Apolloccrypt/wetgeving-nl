@@ -8,7 +8,7 @@ laatste_update: 2016-12-12
 status: geldig
 toestand: 2016-12-12
 bron: "https://wetten.overheid.nl/BWBR0039079"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Standards Drugs Analysis and Interpretation (005.00), Drugs Comparison (005.01), Drugs Production (005.02)

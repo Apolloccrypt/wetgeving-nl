@@ -9,7 +9,7 @@ laatste_update: 2017-02-09
 status: geldig
 toestand: 2017-02-09
 bron: "https://wetten.overheid.nl/BWBR0039170"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 7 februari 2017, nr. 2017-0000064263, houdende benoeming van de leden van de staatscommissie voor het parlementair stelsel en toekenning van een vergoeding aan die leden

@@ -8,7 +8,7 @@ laatste_update: 2017-03-14
 status: geldig
 toestand: 2017-03-14
 bron: "https://wetten.overheid.nl/BWBR0039315"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit beantwoordingstermijn voor verzoeken om toegang tot, en levering van diensten in een dienstvoorziening

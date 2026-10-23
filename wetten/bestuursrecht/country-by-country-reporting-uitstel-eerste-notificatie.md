@@ -8,7 +8,7 @@ laatste_update: 2016-11-21
 status: geldig
 toestand: 2016-11-21
 bron: "https://wetten.overheid.nl/BWBR0038739"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Country by country reporting; uitstel eerste notificatie

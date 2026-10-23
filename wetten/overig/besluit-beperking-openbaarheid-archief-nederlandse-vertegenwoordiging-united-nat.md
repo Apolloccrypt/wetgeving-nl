@@ -8,7 +8,7 @@ laatste_update: 2017-01-21
 status: geldig
 toestand: 2017-01-21
 bron: "https://wetten.overheid.nl/BWBR0039110"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit beperking openbaarheid archief Nederlandse Vertegenwoordiging United Nations War Crimes Commission (UNWCC), 1945–1948

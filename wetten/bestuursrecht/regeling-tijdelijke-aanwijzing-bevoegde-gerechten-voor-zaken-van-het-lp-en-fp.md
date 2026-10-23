@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0038924"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 14 december 2016, nummer 2021135 tijdelijke aanwijzing van bevoegde gerechten als bedoeld in artikel 46a van de Wet op de rechterlijke organisatie voor zaken van het Landelijk Parket en Functioneel Parket (Regeling tijdelijke aanwijzing bevoegde gerechten voor zaken van het LP en FP)

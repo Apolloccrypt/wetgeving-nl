@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0038926"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Wet van 21 december 2016 tot wijziging van de Wet belastingen op milieugrondslag (Wet tijdelijk verlaagd tarief laadpalen met een zelfstandige aansluiting)

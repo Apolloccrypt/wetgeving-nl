@@ -8,7 +8,7 @@ laatste_update: 2017-03-15
 status: geldig
 toestand: 2017-03-15
 bron: "https://wetten.overheid.nl/BWBR0039322"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit inschrijvingsvoorwaarden mediators 2017

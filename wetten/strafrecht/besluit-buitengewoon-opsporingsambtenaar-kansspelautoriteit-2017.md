@@ -9,7 +9,7 @@ laatste_update: 2017-05-05
 status: geldig
 toestand: 2017-05-05
 bron: "https://wetten.overheid.nl/BWBR0039343"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 9 maart 2017 nr. BOACAT2017/017, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Kansspelautoriteit

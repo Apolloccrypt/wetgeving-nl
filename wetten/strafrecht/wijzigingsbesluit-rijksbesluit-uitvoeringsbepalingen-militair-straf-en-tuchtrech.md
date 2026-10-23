@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0038815"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Besluit van 15 november 2016 tot wijziging van het Rijksbesluit uitvoeringsbepalingen militair straf- en tuchtrecht in verband met de wijziging van artikel 59 Wetboek van Militair Strafrecht en enkele andere bepalingen

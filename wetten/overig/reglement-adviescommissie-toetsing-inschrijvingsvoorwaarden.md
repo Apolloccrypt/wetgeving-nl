@@ -8,7 +8,7 @@ laatste_update: 2016-10-20
 status: geldig
 toestand: 2016-10-20
 bron: "https://wetten.overheid.nl/BWBR0038706"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Reglement Adviescommissie Toetsing Inschrijvingsvoorwaarden

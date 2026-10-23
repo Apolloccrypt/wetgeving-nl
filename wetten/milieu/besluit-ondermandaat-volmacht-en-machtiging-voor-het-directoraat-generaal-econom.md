@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-10-15
 toestand: 2025-08-01
 bron: "https://wetten.overheid.nl/BWBR0047150"
-opgehaald: 2026-10-22
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de directeur-generaal Economie en Digitalisering van het Ministerie van Economische Zaken van 8 september 2022, nr. 22102386, houdende verlening van ondermandaat, volmacht en machtiging voor het directoraat-generaal Economie en Digitalisering van het Ministerie van Economische Zaken en Klimaat (Besluit ondermandaat, volmacht en machtiging voor het directoraat-generaal Economie en Digitalisering van het Ministerie van Economische Zaken en Klimaat 2022)

@@ -9,7 +9,7 @@ laatste_update: 2017-10-25
 status: geldig
 toestand: 2017-10-25
 bron: "https://wetten.overheid.nl/BWBR0038702"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 2 november 2016 nr. BOACAT2016/060, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Groningen in het domein I, Openbare Ruimte

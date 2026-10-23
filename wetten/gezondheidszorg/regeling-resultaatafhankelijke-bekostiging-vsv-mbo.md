@@ -9,7 +9,7 @@ laatste_update: 2018-09-22
 status: geldig
 toestand: 2018-09-22
 bron: "https://wetten.overheid.nl/BWBR0038562"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 18 september 2016, nr. BVE/998927, houdende regels voor de verstrekking van resultaatafhankelijke bekostiging voortijdig schoolverlaten aan mbo-instellingen (Regeling resultaatafhankelijke bekostiging vsv mbo)

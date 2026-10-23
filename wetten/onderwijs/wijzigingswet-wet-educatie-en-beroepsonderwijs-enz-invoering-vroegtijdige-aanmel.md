@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0038621"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Wet van 5 oktober 2016, houdende wijziging van de Wet educatie en beroepsonderwijs en enkele andere wetten ter invoering van een vroegtijdige aanmelddatum voor en toelatingsrecht tot het beroepsonderwijs

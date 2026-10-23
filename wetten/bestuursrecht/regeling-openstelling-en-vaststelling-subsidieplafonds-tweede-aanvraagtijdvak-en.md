@@ -9,7 +9,7 @@ laatste_update: 2017-07-08
 status: geldig
 toestand: 2017-07-08
 bron: "https://wetten.overheid.nl/BWBR0038695"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 31 oktober 2016, nr. 2016-0000227939, tot openstelling van een tweede aanvraagtijdvak, vaststelling van subsidieplafonds voor dit aanvraagtijdvak en aanpassing van de subsidieplafonds voor het eerste aanvraagtijdvak in het kader van de Tijdelijke regeling cofinanciering projecten dienstverlening werkzoekenden en projecten samenwerking en regie arbeidsmarkt

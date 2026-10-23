@@ -9,7 +9,7 @@ laatste_update: 2017-01-18
 status: geldig
 toestand: 2017-01-18
 bron: "https://wetten.overheid.nl/BWBR0038749"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Wet van 14 november 2016, houdende uitvoering van Verordening (EU) nr. 655/2014 van het Europees Parlement en de Raad van 15 mei 2014 tot vaststelling van een procedure betreffende het Europees bevel tot conservatoir beslag op bankrekeningen om de grensoverschrijdende inning van schuldvorderingen in burgerlijke en handelszaken te vergemakkelijken (PbEU 2014, L 189) (Uitvoeringswet verordening Europees bevel tot conservatoir beslag op bankrekeningen)

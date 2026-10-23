@@ -9,7 +9,7 @@ laatste_update: 2024-02-23
 status: geldig
 toestand: 2024-02-23
 bron: "https://wetten.overheid.nl/BWBR0038921"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Minister van Economische Zaken van 13 december 2016, nr. WJZ/16152284, houdende nadere regels inzake radioapparaten (Regeling radioapparaten 2016)

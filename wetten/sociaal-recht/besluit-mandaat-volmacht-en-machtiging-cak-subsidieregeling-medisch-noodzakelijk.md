@@ -9,7 +9,7 @@ laatste_update: 2017-03-01
 status: geldig
 toestand: 2017-03-01
 bron: "https://wetten.overheid.nl/BWBR0039244"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 15 februari 2017, kenmerk 997477-153689-Z, houdende verlening van mandaat, volmacht en machtiging aan het CAK (Besluit mandaat, volmacht en machtiging CAK Subsidieregeling medisch noodzakelijke zorg aan onverzekerden)

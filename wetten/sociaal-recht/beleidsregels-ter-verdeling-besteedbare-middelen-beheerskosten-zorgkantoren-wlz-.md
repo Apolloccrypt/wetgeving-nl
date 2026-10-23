@@ -8,7 +8,7 @@ laatste_update: 2020-12-18
 status: geldig
 toestand: 2020-12-18
 bron: "https://wetten.overheid.nl/BWBR0039323"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Beleidsregels ter verdeling besteedbare middelen beheerskosten zorgkantoren Wlz 2017

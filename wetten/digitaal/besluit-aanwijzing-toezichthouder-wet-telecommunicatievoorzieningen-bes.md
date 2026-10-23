@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0039364"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Minister van Economische Zaken van 17 maart 2017, nr. WJZ/17022150, houdende aanwijzing toezichthouders Wet telecommunicatievoorzieningen BES en Wet post BES

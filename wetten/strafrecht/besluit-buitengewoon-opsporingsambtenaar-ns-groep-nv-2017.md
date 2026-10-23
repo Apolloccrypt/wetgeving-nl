@@ -9,7 +9,7 @@ laatste_update: 2019-08-30
 status: geldig
 toestand: 2019-08-30
 bron: "https://wetten.overheid.nl/BWBR0039156"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 30 januari 2017 nr. BOACAT2017/005, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij NS Groep N.V.

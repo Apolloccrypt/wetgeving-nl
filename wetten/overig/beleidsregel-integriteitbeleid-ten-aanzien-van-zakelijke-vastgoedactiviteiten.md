@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-10-15
 toestand: 2011-02-17
 bron: "https://wetten.overheid.nl/BWBR0029590"
-opgehaald: 2026-10-22
+opgehaald: 2026-10-23
 ---
 
 # Beleidsregel Integriteitbeleid ten aanzien van zakelijke vastgoedactiviteiten

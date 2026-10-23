@@ -8,7 +8,7 @@ laatste_update: 2016-12-31
 status: geldig
 toestand: 2016-12-31
 bron: "https://wetten.overheid.nl/BWBR0038952"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Beleidsregels aanwijzen en toezicht accountantsopleidingen

@@ -5,11 +5,11 @@ identifier: "BWBR0052002"
 categorie: "Milieu"
 soort: "ministeriele-regeling"
 publicatiedatum: 2026-01-01
-laatste_update: 2026-10-14
+laatste_update: 2026-10-16
 status: geldig
-toestand: 2026-10-14
+toestand: 2026-10-16
 bron: "https://wetten.overheid.nl/BWBR0052002"
-opgehaald: 2026-10-20
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Minister van Economische Zaken, de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur en de Minister van Klimaat en Groene Groei, van 13 december 2025, nr. WJZ/102735469, tot vaststelling van de subsidieplafonds en termijnen van openstelling van EZ-subsidie-instrumenten, LVVN-subsidie-instrumenten en KGG-subsidie-instrumenten (Regeling openstelling EZ-, LVVN- en KGG-subsidies 2026) [KetenID WGK 28368]
@@ -80,6 +80,8 @@ opgehaald: 2026-10-20
 | Titel 3.23: Venture Challenge | 3.23.2 | Life Sciences & Health (LSH) |  | 01-01-2026 t/m 03-02-2026 | € 100.000 |
 |  | 3.23.2 | Life Sciences & Health (LSH) |  | 05-05-2026 t/m 02-07-2026 | € 100.000 |
 |  | 3.23.2 | Life Sciences & Health (LSH) |  | 20-10-2026 t/m 10-12-2026 | € 100.000 |
+| Titel 3.25 High-performance computing-projecten (HPC-projecten) | artikel 3.25.2, eerste lid, onderdeel a, |  | Een Nederlands HPC-project op het deelgebied ‘National Competence Centers’, opgenomen in het toepasselijke werkprogramma als bedoeld in de Euro-HPC call ‘National Competence Centers’, te raadplegen via https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-JU-EUROHPC-2025-NCC-01-01 | 19-10-2026 t/m 06-11-2026 | € 550.000 |
+|  | artikel 3.25.2, eerste lid, onderdeel b, |  | Een Nederlands HPC-project op het deelgebied ‘Quantum Computer’, opgenomen in het toepasselijke werkprogramma als bedoeld in de Euro-HPC call ‘Quantum Computer’, te raadplegen via https://www.eurohpc-ju.europa.eu/call-expression-interest-hosting-and-operation-european-quantum-computers-integrated-hpc-0_en | 19-10-2026 t/m 06-11-2026 | € 6.395.320 |
 | Titel 3.26: Regeneratief geneeskundige onderzoeksprojecten | 3.26, eerste lid |  |  | 24-11-2025 t/m 17-02-2026 | € 10.000.000 |
 | Titel 3.27: Important Projects of Common European Interest (IPCEI) | 3.27.2, eerste lid, onderdeel a |  | algemene en pre-commerciële ontwikkeling van geavanceerde halfgeleidertechnologieën | 09-06-2026 t/m 09-07-2026 | € 150.000.000 |
 |  | 3.27.2, eerste lid, onderdeel b |  | onderzoek en ontwikkeling van geavanceerde halfgeleidertechnologieën | 09-06-2026 t/m 09-07-2026 | € 50.000.000 |

@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0038912"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 7 december 2016, nr. 2016-0000772257, houdende vaststelling van het Controleprotocol WNT 2016 (Regeling Controleprotocol WNT 2016)

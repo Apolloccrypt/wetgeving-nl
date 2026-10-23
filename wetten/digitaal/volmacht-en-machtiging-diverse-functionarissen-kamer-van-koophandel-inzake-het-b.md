@@ -8,7 +8,7 @@ laatste_update: 2017-01-06
 status: geldig
 toestand: 2017-01-06
 bron: "https://wetten.overheid.nl/BWBR0039082"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Volmacht en machtiging diverse functionarissen Kamer van Koophandel inzake het beheer van het digitaal ondernemersplein 2017

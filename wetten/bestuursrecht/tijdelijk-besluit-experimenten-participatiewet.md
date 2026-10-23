@@ -9,7 +9,7 @@ laatste_update: 2019-10-01
 status: geldig
 toestand: 2019-10-01
 bron: "https://wetten.overheid.nl/BWBR0039258"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit van 22 februari 2017, houdende vaststelling van het Tijdelijk besluit experimenten Participatiewet (Tijdelijk besluit experimenten Participatiewet)

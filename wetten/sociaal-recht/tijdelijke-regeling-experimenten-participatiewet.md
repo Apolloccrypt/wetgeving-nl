@@ -9,7 +9,7 @@ laatste_update: 2017-04-01
 status: geldig
 toestand: 2017-04-01
 bron: "https://wetten.overheid.nl/BWBR0039249"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 20 februari 2017, 2017-00000197982, tot vaststelling van de Tijdelijke regeling experimenten Participatiewet (Tijdelijke regeling experimenten Participatiewet)

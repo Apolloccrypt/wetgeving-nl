@@ -9,7 +9,7 @@ laatste_update: 2017-01-24
 status: geldig
 toestand: 2017-01-24
 bron: "https://wetten.overheid.nl/BWBR0038526"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 15 september 2016 nr. BOACAT2016/055, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Prorail B.V.

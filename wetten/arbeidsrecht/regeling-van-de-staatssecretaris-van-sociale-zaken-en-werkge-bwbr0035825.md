@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0035825"
-opgehaald: 2026-10-22
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 18 november 2014, 2014-0000158553, houdende vaststelling van consumentenprijsindexcijfers voor 2015 voor Caribisch Nederland en op basis daarvan wijziging van bedragen van tegemoetkomingen en uitkeringen, van het wettelijk minimumuurloon en het bedrag genoemd in de Regeling Pensioenwet BES, alsmede van premiepercentages van werknemersverzekeringen en volksverzekeringen, van het maximumdagloon voor de Wet ziekteverzekering BES en de Wet ongevallenverzekering BES en de schadeloosstelling voor de bemiddelaar, bedoeld in de Arbeidsgeschillenwet 1946 BES

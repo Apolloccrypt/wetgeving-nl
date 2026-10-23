@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0038938"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Wet van 21 december 2016 tot wijziging van de Wet op de internationale bijstandsverlening bij de heffing van belastingen in verband met de automatische uitwisseling van inlichtingen over grensoverschrijdende rulings en verrekenprijsafspraken (Wet uitwisseling inlichtingen over rulings)

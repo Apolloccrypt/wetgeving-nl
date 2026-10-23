@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0039163"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Wet van 25 januari 2017, houdende wijziging van de Wet minimumloon en minimumvakantiebijslag en enige andere wetten in verband met de verlaging van de leeftijd waarop men recht heeft op het volwassenminimumloon, in verband met stukloon en meerwerk en enige andere wijzigingen

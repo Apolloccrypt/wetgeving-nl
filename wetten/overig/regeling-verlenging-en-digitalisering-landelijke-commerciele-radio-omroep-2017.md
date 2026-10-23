@@ -9,7 +9,7 @@ laatste_update: 2017-03-23
 status: geldig
 toestand: 2017-03-23
 bron: "https://wetten.overheid.nl/BWBR0039358"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Minister van Economische Zaken van 17 maart 2017, nr. WJZ/17041366, houdende regels inzake aanvraag en verlenging vergunningen landelijke commerciële radio-omroep in de FM-band (Regeling verlenging en digitalisering landelijke commerciële radio-omroep 2017)

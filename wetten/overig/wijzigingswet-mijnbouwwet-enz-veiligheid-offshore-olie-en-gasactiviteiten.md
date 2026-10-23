@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0038985"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Wet van 21 december 2016 tot wijziging van de Mijnbouwwet, de Wet milieubeheer en de Wet op de economische delicten in verband met implementatie van richtlijn nr. 2013/30/EU van het Europees Parlement en de Raad van 12 juni 2013 betreffende de veiligheid van offshore olie- en gasactiviteiten en tot wijziging van richtlijn 2004/35/EG (PbEU 2013, L 178), en wijziging van Boek 6 van het Burgerlijk Wetboek in verband met de omkering van de bewijslast bij fysieke schade als gevolg van bodembeweging door mijnbouwwerkzaamheden ten behoeve van gaswinning uit het Groningenveld

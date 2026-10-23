@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0038712"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu, van 11 november 2016, nr. IENM/BSK-2016/138653, houdende vaststelling van regels betreffende de aanduiding op motor- en bromfietshelmen (Regeling aanduiding motor- en bromfietshelmen)

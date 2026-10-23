@@ -9,7 +9,7 @@ laatste_update: 2016-11-26
 status: geldig
 toestand: 2016-11-26
 bron: "https://wetten.overheid.nl/BWBR0038754"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Raad van bestuur van de Sociale verzekeringsbank van 31 oktober 2016, houdende de bekendmaking van de Beleidsregels ten aanzien van de Uitkeringsregeling Backpay (Besluit SVB Beleidsregels Uitkeringsregeling Backpay)

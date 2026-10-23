@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0039377"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Wet van 8 maart 2017 tot wijziging van het Wetboek van Burgerlijke Rechtsvordering, de Invorderingswet 1990 en enkele andere wetten in verband met een vereenvoudiging van de beslagvrije voet (Wet vereenvoudiging beslagvrije voet)

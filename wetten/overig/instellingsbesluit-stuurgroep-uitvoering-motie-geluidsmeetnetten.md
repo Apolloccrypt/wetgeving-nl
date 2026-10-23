@@ -8,7 +8,7 @@ laatste_update: 2016-12-10
 status: geldig
 toestand: 2016-12-10
 bron: "https://wetten.overheid.nl/BWBR0038849"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-23
 ---
 
 # Instellingsbesluit Stuurgroep ‘Uitvoering motie geluidsmeetnetten’

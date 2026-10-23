@@ -9,7 +9,7 @@ laatste_update: 2017-01-20
 status: geldig
 toestand: 2017-01-20
 bron: "https://wetten.overheid.nl/BWBR0039107"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-23
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 21 december 2016, nr. O&B/699178, inzake de routinematige digitale vervanging archiefbescheiden personeelsdossiers, concern OCW (Besluit routinematige digitale vervanging archiefbescheiden personeelsdossiers OCW 2016)
