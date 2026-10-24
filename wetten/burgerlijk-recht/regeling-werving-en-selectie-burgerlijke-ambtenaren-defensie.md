@@ -8,7 +8,7 @@ laatste_update: 1994-04-01
 status: geldig
 toestand: 1994-04-01
 bron: "https://wetten.overheid.nl/BWBR0039910"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Regeling werving en selectie burgerlijke ambtenaren defensie

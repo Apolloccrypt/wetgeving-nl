@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0039599"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Beleidsregel van de Minister van Sociale Zaken en Werkgelegenheid van 24 mei 2017, nr. 2017-0000083185, tot vaststelling van het toetsingskader van verzoeken in het kader van artikel 10 van de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten (Beleidsregel toetsingskader verzoeken artikel 10 Wet Avv)

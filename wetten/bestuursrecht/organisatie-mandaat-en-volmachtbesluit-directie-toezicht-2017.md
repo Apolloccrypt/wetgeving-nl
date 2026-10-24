@@ -9,7 +9,7 @@ laatste_update: 2024-03-19
 status: geldig
 toestand: 2024-03-19
 bron: "https://wetten.overheid.nl/BWBR0039967"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 31 augustus 2017, 2017-0000141577, tot de inrichting van de directie Toezicht, alsmede de toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan de onder de directeur ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit directie Toezicht 2017)

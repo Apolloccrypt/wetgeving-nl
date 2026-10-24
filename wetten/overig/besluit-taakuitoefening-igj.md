@@ -9,7 +9,7 @@ laatste_update: 2018-08-01
 status: geldig
 toestand: 2018-08-01
 bron: "https://wetten.overheid.nl/BWBR0039998"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 22 augustus 2017, kenmerk 1193476-166555-WJZ, houdende regels voor de taakuitoefening van de Inspectie gezondheidszorg en jeugd (Besluit taakuitoefening IGJ)

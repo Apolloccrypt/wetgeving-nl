@@ -9,7 +9,7 @@ laatste_update: 2017-09-05
 status: geldig
 toestand: 2017-09-05
 bron: "https://wetten.overheid.nl/BWBR0039733"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 30 juni 2017 nr. BOACAT2017/043, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Hilversum

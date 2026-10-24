@@ -8,7 +8,7 @@ laatste_update: 2017-05-17
 status: geldig
 toestand: 2017-05-17
 bron: "https://wetten.overheid.nl/BWBR0039555"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Aanwijzing vervolgingsbeslissing inzake actieve levensbeëindiging op verzoek (euthanasie en hulp bij zelfdoding)

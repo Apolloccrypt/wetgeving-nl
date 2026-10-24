@@ -9,7 +9,7 @@ laatste_update: 2017-07-12
 status: geldig
 toestand: 2017-07-12
 bron: "https://wetten.overheid.nl/BWBR0039767"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit van 26 juni 2017 ter uitvoering van verordening (EU) nr. 596/2014 van het Europees Parlement en de Raad van de Europese Unie van 16 april 2014 betreffende marktmisbruik (PbEU 2014, L 173) (Besluit uitvoering verordening marktmisbruik)

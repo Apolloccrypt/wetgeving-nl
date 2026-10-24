@@ -9,7 +9,7 @@ laatste_update: 2017-06-01
 status: geldig
 toestand: 2017-06-01
 bron: "https://wetten.overheid.nl/BWBR0039583"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit vaststelling selectielijst MBO-instellingen over de periode vanaf 1 augustus 2017

@@ -9,7 +9,7 @@ laatste_update: 2017-04-05
 status: geldig
 toestand: 2017-04-05
 bron: "https://wetten.overheid.nl/BWBR0039419"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister van Economische Zaken, de Minister van Infrastructuur en Milieu en de Minister van Sociale Zaken en Werkgelegenheid van 30 maart 2017, nr. WJZ/16037084, houdende aanwijzing van toezichthouders inzake windenergie op zee (Besluit aanwijzing toezichthouders windenergie op zee)

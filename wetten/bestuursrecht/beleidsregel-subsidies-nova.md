@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0039970"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de algemene raad van 4 september 2017 houdende de vaststelling van de beleidsregel inzake de verlening van subsidies, de vaststelling van subsidies en de procedure voor het aanvragen van subsidie (Beleidsregel subsidies NOvA)

@@ -9,7 +9,7 @@ laatste_update: 2026-06-04
 status: geldig
 toestand: 2026-06-04
 bron: "https://wetten.overheid.nl/BWBR0039429"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Wet van 22 maart 2017, houdende regels inzake het beheer, de informatievoorziening, de controle en de verantwoording van de financiën van het Rijk, inzake het beheer van publieke liquide middelen buiten het Rijk en inzake het toezicht op het beheer van publieke liquide middelen en publieke financiële middelen buiten het Rijk (Comptabiliteitswet 2016)

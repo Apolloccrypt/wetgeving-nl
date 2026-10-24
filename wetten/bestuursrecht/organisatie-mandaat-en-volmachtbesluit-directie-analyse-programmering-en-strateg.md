@@ -9,7 +9,7 @@ laatste_update: 2025-07-30
 status: geldig
 toestand: 2025-07-30
 bron: "https://wetten.overheid.nl/BWBR0039964"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 31 augustus 2017, 2017-0000141565, houdende de inrichting van de directie Analyse, Programmering en Strategie, alsmede de toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan de onder de directeur ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit directie Analyse, Programmering en Strategie 2017)

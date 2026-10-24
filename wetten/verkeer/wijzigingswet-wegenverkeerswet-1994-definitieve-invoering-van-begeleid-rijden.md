@@ -9,7 +9,7 @@ laatste_update: 2018-03-15
 status: geldig
 toestand: 2018-03-15
 bron: "https://wetten.overheid.nl/BWBR0040200"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Wet van 25 oktober 2017 tot wijziging van de Wegenverkeerswet 1994 in verband met de definitieve invoering van begeleid rijden

@@ -9,7 +9,7 @@ laatste_update: 2017-04-11
 status: geldig
 toestand: 2017-04-11
 bron: "https://wetten.overheid.nl/BWBR0039430"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 30 maart 2017, kenmerk 1082725-160324-Z, houdende nadere aanwijzing van de besteedbare middelen ter dekking van de beheerskosten Wlz 2017 (Nadere Aanwijzing besteedbare middelen beheerskosten Wlz 2017)

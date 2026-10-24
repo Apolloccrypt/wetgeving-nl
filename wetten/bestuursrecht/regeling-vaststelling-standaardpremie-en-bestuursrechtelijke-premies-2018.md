@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0040244"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Minister voor Medische Zorg van 21 november 2017, kenmerk 1258503-170318-Z, houdende de vaststelling van de standaardpremie en de bestuursrechtelijke premies voor 2018 (Regeling vaststelling standaardpremie en bestuursrechtelijke premies 2018)

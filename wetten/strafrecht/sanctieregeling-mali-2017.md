@@ -9,7 +9,7 @@ laatste_update: 2025-04-01
 status: geldig
 toestand: 2025-04-01
 bron: "https://wetten.overheid.nl/BWBR0040235"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 20 november 2017, nr. MinBuZa.2017.1204854, houdende beperkende maatregelen in verband met de situatie in Mali (Sanctieregeling Mali 2017)

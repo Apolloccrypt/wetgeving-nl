@@ -9,7 +9,7 @@ laatste_update: 2017-09-27
 status: geldig
 toestand: 2017-09-27
 bron: "https://wetten.overheid.nl/BWBR0040000"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van 4 september 2017, nr. 2017001453, houdende vaststelling van een selectielijst voor de Kanselarij der Nederlandse Orden, het Kapittel voor de Civiele Orden en het Kapittel der Militaire Willems-Orde vanaf 1945

@@ -9,7 +9,7 @@ laatste_update: 2017-11-25
 status: geldig
 toestand: 2017-11-25
 bron: "https://wetten.overheid.nl/BWBR0040232"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van 13 november 2017 tot beperking openbaarheid – Afdeling Export- en Importgaranties en opvolger

@@ -9,7 +9,7 @@ laatste_update: 2017-11-04
 status: geldig
 toestand: 2017-11-04
 bron: "https://wetten.overheid.nl/BWBR0040166"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 27 oktober 2017 tot het treffen van een voorziening inzake mandaat, volmacht en machtiging in verband met de naamswijziging van het Ministerie van Veiligheid en Justitie en de benoeming van bewindspersonen bij het Ministerie van Justitie en Veiligheid (Regeling voortzetting mandaat, volmacht en machtiging Ministerie van Justitie en Veiligheid)

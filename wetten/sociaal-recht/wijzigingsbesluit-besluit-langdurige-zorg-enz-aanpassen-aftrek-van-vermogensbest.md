@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0040017"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van 15 september 2017, houdende een wijziging van het Besluit langdurige zorg en het Uitvoeringsbesluit Wmo 2015 met betrekking tot het aanpassen van de aftrek van vermogensbestanddelen voor het bepalen van het vermogen

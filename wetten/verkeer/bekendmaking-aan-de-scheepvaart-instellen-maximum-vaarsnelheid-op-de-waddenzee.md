@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-06-30
 toestand: 2005-02-15
 bron: "https://wetten.overheid.nl/BWBR0009519"
-opgehaald: 2026-10-23
+opgehaald: 2026-10-24
 ---
 
 # Bekendmaking aan de scheepvaart; Instellen maximum vaarsnelheid op de Waddenzee

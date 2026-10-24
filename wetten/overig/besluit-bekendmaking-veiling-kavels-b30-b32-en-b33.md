@@ -9,7 +9,7 @@ laatste_update: 2017-08-25
 status: geldig
 toestand: 2017-08-25
 bron: "https://wetten.overheid.nl/BWBR0039919"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister van Economische Zaken van 14 augustus 2017, nr. TM/ 17124060, handelende in overeenstemming met de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, inzake de keuze voor het instrument veiling van vergunningen voor niet-landelijke commerciële radio-omroep kavels B30, B32 en B33, de vaststelling van die vergunningen, en de vaststelling van de daaraan te koppelen vergunningen voor digitale radio-omroep

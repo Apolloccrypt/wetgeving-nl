@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0039623"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister van Veiligheid en Justitie van 19 mei 2017 tot vaststelling van het bedrag van de vergoedingen ten behoeve van de leden van de raad van advies van de Politieacademie (Vergoedingenbesluit raad van advies van de Politieacademie)

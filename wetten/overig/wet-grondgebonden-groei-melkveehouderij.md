@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0039611"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Wet van 29 mei 2017, houdende additionele regels ten behoeve van een verantwoorde groei van de melkveehouderij (Wet grondgebonden groei melkveehouderij)

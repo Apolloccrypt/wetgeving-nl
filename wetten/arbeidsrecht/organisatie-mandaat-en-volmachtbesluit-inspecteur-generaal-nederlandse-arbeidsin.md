@@ -9,7 +9,7 @@ laatste_update: 2024-11-21
 status: geldig
 toestand: 2024-11-21
 bron: "https://wetten.overheid.nl/BWBR0039965"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 31 augustus 2017, 2017-0000141181, houdende de toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan onder de inspecteur-generaal Sociale Zaken en Werkgelegenheid ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2017)

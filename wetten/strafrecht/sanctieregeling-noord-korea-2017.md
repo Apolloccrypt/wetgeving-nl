@@ -9,7 +9,7 @@ laatste_update: 2023-05-02
 status: geldig
 toestand: 2023-05-02
 bron: "https://wetten.overheid.nl/BWBR0040211"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 25 oktober 2017, nr. MinBuza-2017.1143609, betreffende beperkende maatregelen ten aanzien van de Democratische Volksrepubliek Korea (Sanctieregeling Noord-Korea 2017)

@@ -9,7 +9,7 @@ laatste_update: 2017-04-14
 status: geldig
 toestand: 2017-04-14
 bron: "https://wetten.overheid.nl/BWBR0039460"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 5 april 2017 nr. BOACAT2017/031, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Maassluis

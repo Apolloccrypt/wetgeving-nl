@@ -9,7 +9,7 @@ laatste_update: 2017-10-27
 status: geldig
 toestand: 2017-10-27
 bron: "https://wetten.overheid.nl/BWBR0039987"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu, van 14 september 2017, nr. IENM/BSK-2017/134679, houdende wijziging van de Drinkwaterregeling ter implementatie van de Richtlijn (EU) 2015/1787 van de Commissie van 6 oktober 2015 tot wijziging van de bijlagen II en III bij Richtlijn 98/83/EG van de Raad betreffende de kwaliteit van voor menselijke consumptie bestemd water (PbEU 2015, L 260)

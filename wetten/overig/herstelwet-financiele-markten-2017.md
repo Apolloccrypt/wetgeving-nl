@@ -9,7 +9,7 @@ laatste_update: 2017-06-27
 status: geldig
 toestand: 2017-06-27
 bron: "https://wetten.overheid.nl/BWBR0039621"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Wet van 31 mei 2017 tot wijziging van de Wet op het financieel toezicht, de Faillissementswet en enige andere wetten in verband met het herstel van gebreken en omissies bij de implementatie van Europese regelgeving op het terrein van de financiële markten (Herstelwet financiële markten 2017)

@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-05-19
 toestand: 2022-11-25
 bron: "https://wetten.overheid.nl/BWBR0039527"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Beleidsregels RCN-unit SZW uitvoering Wav BES

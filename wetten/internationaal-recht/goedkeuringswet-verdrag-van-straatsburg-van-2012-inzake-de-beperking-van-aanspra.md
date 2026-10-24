@@ -9,7 +9,7 @@ laatste_update: 2017-07-01
 status: geldig
 toestand: 2017-07-01
 bron: "https://wetten.overheid.nl/BWBR0039463"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Wet van 22 maart 2017, houdende goedkeuring van het op 27 september 2012 te Straatsburg tot stand gekomen Verdrag van Straatsburg van 2012 inzake de beperking van aansprakelijkheid in de binnenvaart (CLNI 2012) (Trb. 2013, 72)

@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0040224"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister voor Medische Zorg van 16 november 2017, kenmerk 1248688-169690-GMT, houdende vaststelling van beleidsregels voor het subsidiëren van zorgaanbieders van farmaceutische ANZ-dienstverlening (Besluit vaststelling beleidskader subsidiëring farmaceutische ANZ-dienstverlening 2018)

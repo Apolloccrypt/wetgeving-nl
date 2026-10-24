@@ -9,7 +9,7 @@ laatste_update: 2017-07-01
 status: geldig
 toestand: 2017-07-01
 bron: "https://wetten.overheid.nl/BWBR0039697"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 27 juni 2017, nr. IENM/BSK/265757, tot toelating van militair luchthavenluchtverkeer op luchthaven Lelystad (Regeling militair luchthavenluchtverkeer luchthaven Lelystad)

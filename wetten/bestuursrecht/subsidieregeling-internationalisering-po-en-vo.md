@@ -9,7 +9,7 @@ laatste_update: 2019-02-01
 status: geldig
 toestand: 2019-02-01
 bron: "https://wetten.overheid.nl/BWBR0039607"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 19 mei 2017, nr. IB/1159407 houdende regels voor het verstrekken van subsidie voor internationalisering in het primair en voortgezet onderwijs (Subsidieregeling Internationalisering po en vo)

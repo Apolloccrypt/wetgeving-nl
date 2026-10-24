@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0039936"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van 23 augustus 2017 tot het stellen van eisen aan de kwaliteit van de kinderopvang en het peuterspeelzaalwerk (Besluit kwaliteit kinderopvang en peuterspeelzaalwerk)

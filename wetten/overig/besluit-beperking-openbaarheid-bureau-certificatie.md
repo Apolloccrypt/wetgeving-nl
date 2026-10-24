@@ -8,7 +8,7 @@ laatste_update: 2017-10-07
 status: geldig
 toestand: 2017-10-07
 bron: "https://wetten.overheid.nl/BWBR0040045"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit beperking openbaarheid – Bureau Certificatie

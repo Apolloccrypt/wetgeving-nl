@@ -9,7 +9,7 @@ laatste_update: 2017-10-04
 status: geldig
 toestand: 2017-10-04
 bron: "https://wetten.overheid.nl/BWBR0040038"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van 22 september 2017 tot wijziging van het Besluit financiële markten BES in verband met de invoering van het depositogarantiestelsel

@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0040209"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van 1 november 2017, houdende regels inzake de conformiteitsbeoordeling van vaste biomassa voor energietoepassingen door erkende conformiteitsbeoordelingsinstanties (Besluit conformiteitsbeoordeling vaste biomassa voor energietoepassingen)

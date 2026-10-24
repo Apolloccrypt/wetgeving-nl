@@ -9,7 +9,7 @@ laatste_update: 2017-07-01
 status: geldig
 toestand: 2017-07-01
 bron: "https://wetten.overheid.nl/BWBR0039698"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Minister van Economische Zaken van 26 juni 2017, nr. WJZ/17075625, tot aanwijzing van monomestvergistingsinstallaties als subsidiabele categorie voor 2017 in het kader van de stimulering van duurzame energieproductie (Regeling monomestvergisting 2017)

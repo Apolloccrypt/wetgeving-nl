@@ -9,7 +9,7 @@ laatste_update: 2017-11-16
 status: geldig
 toestand: 2017-11-16
 bron: "https://wetten.overheid.nl/BWBR0040204"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 10 november 2017, nr. 2017-0000031576, tot vaststelling van de beleidsindicatoren die door provincies in de programma’s en programmaverantwoording worden opgenomen

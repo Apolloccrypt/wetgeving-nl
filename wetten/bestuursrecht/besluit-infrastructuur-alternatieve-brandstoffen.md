@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0039567"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit van 26 april 2017, houdende regels in verband met de implementatie van richtlijn 2014/94/EU betreffende de uitrol van infrastructuur voor alternatieve brandstoffen (Besluit infrastructuur alternatieve brandstoffen)

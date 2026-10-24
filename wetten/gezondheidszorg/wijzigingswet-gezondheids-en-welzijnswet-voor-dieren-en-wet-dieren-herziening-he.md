@@ -9,7 +9,7 @@ laatste_update: 2022-12-22
 status: geldig
 toestand: 2022-12-22
 bron: "https://wetten.overheid.nl/BWBR0039803"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Wet van 5 juli 2017 tot wijziging van de Gezondheids- en welzijnswet voor dieren en de Wet dieren in verband met de herziening van het heffingenstelsel ten behoeve van de kosten van de bestrijding en het weren van besmettelijke dierziekten, zoönosen en zoönoseverwekkers (herziening heffingenstelsel Diergezondheidsfonds)

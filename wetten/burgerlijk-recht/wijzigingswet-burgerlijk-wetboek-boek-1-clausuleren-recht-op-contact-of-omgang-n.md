@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0039645"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Wet van 7 juni 2017 tot wijziging van Boek 1 van het Burgerlijk Wetboek in verband met het clausuleren van het recht op contact of omgang na partnerdoding

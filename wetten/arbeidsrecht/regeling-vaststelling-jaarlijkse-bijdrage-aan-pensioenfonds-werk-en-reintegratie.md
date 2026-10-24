@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0039473"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 24 februari 2017, nr. 2017-0000023137, tot vaststelling van de jaarlijkse bijdrage aan pensioenfonds Werk en (re)Integratie

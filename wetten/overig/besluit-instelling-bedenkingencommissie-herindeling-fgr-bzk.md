@@ -8,7 +8,7 @@ laatste_update: 2017-05-11
 status: geldig
 toestand: 2017-05-11
 bron: "https://wetten.overheid.nl/BWBR0039535"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit instelling Bedenkingencommissie Herindeling FGR BZK

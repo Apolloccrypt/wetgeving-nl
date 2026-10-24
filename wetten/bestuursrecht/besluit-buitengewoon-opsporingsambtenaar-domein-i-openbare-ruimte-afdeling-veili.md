@@ -9,7 +9,7 @@ laatste_update: 2017-09-18
 status: geldig
 toestand: 2017-09-18
 bron: "https://wetten.overheid.nl/BWBR0039782"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 5 juli 2017 nr. BOACAT2017/045, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Afdeling Veiligheid Toezicht en Handhaving van de gemeente Valkenburg aan de Geul in het domein I, Openbare Ruimte

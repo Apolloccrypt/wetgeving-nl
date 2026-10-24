@@ -8,7 +8,7 @@ laatste_update: 2017-11-23
 status: geldig
 toestand: 2017-11-23
 bron: "https://wetten.overheid.nl/BWBR0040221"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Maatregelbeleid Rechtsbijstand inzake de rechtsbijstandverlening asiel en vreemdelingenbewaring 2017

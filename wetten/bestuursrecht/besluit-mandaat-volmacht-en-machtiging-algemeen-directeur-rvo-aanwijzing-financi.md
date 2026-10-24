@@ -9,7 +9,7 @@ laatste_update: 2017-03-04
 status: geldig
 toestand: 2017-03-04
 bron: "https://wetten.overheid.nl/BWBR0039412"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister van Economische Zaken van 29 maart 2017, nr. WJZ/17026681, houdende mandaat, volmacht en machtiging aan de algemeen directeur van de Rijksdienst voor Ondernemend Nederland voor aangelegenheden met betrekking tot de aanwijzing van Future Food Fund Coöperatief U.A. en Nordian Fund IIA Coöperatief U.A. als financier, op grond van artikel 1 van het Kaderbesluit nationale EZ-subsidies (Besluit mandaat, volmacht en machtiging algemeen directeur RVO aanwijzing financier)

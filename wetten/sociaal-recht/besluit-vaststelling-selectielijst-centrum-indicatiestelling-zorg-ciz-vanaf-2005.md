@@ -8,7 +8,7 @@ laatste_update: 2017-07-26
 status: geldig
 toestand: 2017-07-26
 bron: "https://wetten.overheid.nl/BWBR0039834"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit vaststelling selectielijst Centrum Indicatiestelling Zorg (CIZ) vanaf 2005

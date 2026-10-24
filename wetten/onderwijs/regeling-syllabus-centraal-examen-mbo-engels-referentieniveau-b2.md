@@ -9,7 +9,7 @@ laatste_update: 2017-07-19
 status: geldig
 toestand: 2017-07-19
 bron: "https://wetten.overheid.nl/BWBR0039798"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Regeling van het College voor Toetsen en Examens van 26 juni 2017, nummer CvTE-17.01281, houdende vaststelling van de syllabus centraal examen Engels referentieniveau B2 bij centrale examinering in het mbo (Regeling syllabus centraal examen mbo Engels referentieniveau B2)

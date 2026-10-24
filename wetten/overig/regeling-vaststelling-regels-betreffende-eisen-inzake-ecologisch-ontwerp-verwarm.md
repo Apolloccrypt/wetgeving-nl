@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0039921"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 21 augustus 2017, nr. IENM/BSK-2017/28365, houdende regels betreffende de eisen inzake ecologisch ontwerp van verwarmingstoestellen

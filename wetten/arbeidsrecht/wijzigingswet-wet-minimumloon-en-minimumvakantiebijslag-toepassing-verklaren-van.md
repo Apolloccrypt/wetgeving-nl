@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0039720"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Wet van 29 maart 2017 tot wijziging van de Wet minimumloon en minimumvakantiebijslag in verband met het van toepassing verklaren van die wet op nader bepaalde overeenkomsten van opdracht

@@ -9,7 +9,7 @@ laatste_update: 2017-07-01
 status: geldig
 toestand: 2017-07-01
 bron: "https://wetten.overheid.nl/BWBR0039694"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Mededeling van de Minister van Sociale Zaken en Werkgelegenheid van 14 juni 2017, 2017-0000102271, tot bekendmaking van de per 1 juli 2017 gewijzigde bedragen in de Algemene Kinderbijslagwet, de Algemene nabestaandenwet, de Algemene Ouderdomswet en de Tijdelijke regeling overbruggingsuitkering AOW

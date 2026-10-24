@@ -9,7 +9,7 @@ laatste_update: 2017-11-23
 status: geldig
 toestand: 2017-11-23
 bron: "https://wetten.overheid.nl/BWBR0040226"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van 9 november 2017, houdende wijziging van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 in verband met aanpassing van de salarissen die betrekking hebben op de Rijksschoonmaakorganisatie en enkele andere wijzigingen

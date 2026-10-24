@@ -9,7 +9,7 @@ laatste_update: 2017-06-17
 status: geldig
 toestand: 2017-06-17
 bron: "https://wetten.overheid.nl/BWBR0039615"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Wet van 31 mei 2017 tot wijziging van het Wetboek van Strafvordering ter implementatie van de richtlijn 2014/41/EU van het Europees Parlement en de Raad van 3 april 2014 betreffende het Europees onderzoeksbevel in strafzaken (implementatie richtlijn Europees onderzoeksbevel)

@@ -9,7 +9,7 @@ laatste_update: 2017-07-01
 status: geldig
 toestand: 2017-07-01
 bron: "https://wetten.overheid.nl/BWBR0039501"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Wet van 18 april 2017 tot wijziging van Boek 6 van het Burgerlijk Wetboek in verband met het tegengaan van onredelijk lange betaaltermijnen

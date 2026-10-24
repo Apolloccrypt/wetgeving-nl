@@ -5,11 +5,11 @@ identifier: "BWBR0039459"
 categorie: "Onderwijs"
 soort: "ministeriele-regeling"
 publicatiedatum: 2019-07-08
-laatste_update: 2025-11-14
+laatste_update: 2026-10-17
 status: geldig
-toestand: 2025-11-14
+toestand: 2026-10-17
 bron: "https://wetten.overheid.nl/BWBR0039459"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 3 april 2017, nr. VO/1091439, houdende regels voor het verstrekken van subsidie voor zij-instromers in het primair onderwijs, voortgezet onderwijs en het middelbaar beroepsonderwijs om hun onderwijsbevoegdheid te halen (Regeling subsidie zij-instroom 2017)
@@ -76,7 +76,11 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 - c. het kalenderjaar 2024 een bedrag beschikbaar van ten hoogste € 57.250.000,–;
 
-- d. de kalenderjaren 2025, 2026, 2027 en 2028 jaarlijks een bedrag beschikbaar van ten hoogste € 57.500.000,–.
+- d. de kalenderjaren 2025 en 2026 een bedrag beschikbaar van ten hoogste € 57.500.000,–;
+
+- e. het kalenderjaar 2027 een bedrag beschikbaar van ten hoogste € 136.500.000,–; en
+
+- f. het kalenderjaar 2028 een bedrag beschikbaar van ten hoogste € 145.400.000,–.
 
 2. De minister verdeelt het beschikbare bedrag op volgorde van binnenkomst van de aanvragen.
 
@@ -84,13 +88,21 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 ##### Artikel 5. Bedrag zij-instroomsubsidie
 
-De subsidie bedraagt € 25.000 per zij-instromer.
+1. De subsidie voor de kalenderjaren 2023 tot en met 2026 bedraagt € 25.000,– per zij-instromer.
+
+2. Vanaf kalenderjaar 2027 bedraagt de subsidie:
+
+- a. € 60.000,– voor een zij-instromer in het primair onderwijs en het voortgezet onderwijs;
+
+- b. € 40.000,– voor een zij-instromer in het middelbaar beroepsonderwijs.
+
+3. De bedragen, genoemd in het tweede lid, zijn van overeenkomstige toepassing op aanvragen die zijn ingediend in de periode van 16 oktober 2026 tot en met 31 december 2026.
 
 ##### Artikel 6. Aanvraag zij-instroomsubsidie
 
 1. Het bevoegd gezag dient de aanvraag in met gebruikmaking van het aanvraagformulier dat op de website van de Dienst Uitvoering Onderwijs beschikbaar wordt gesteld.
 
-2. Een subsidieaanvraag kan worden ingediend vanaf het moment waarop de scholing, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039459&artikel=2&z=2025-11-14&g=2025-11-14), is aangevangen tot en met 15 oktober van het daaropvolgende kalenderjaar.
+2. Een subsidieaanvraag kan worden ingediend vanaf het moment waarop de scholing, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039459&artikel=2&z=2026-10-17&g=2026-10-17), is aangevangen tot en met 15 oktober van het daaropvolgende kalenderjaar.
 
 ##### Artikel 7. Subsidieverstrekking, betaling en besteding
 
@@ -98,7 +110,7 @@ De subsidie bedraagt € 25.000 per zij-instromer.
 
 2. In afwijking van het eerste lid wordt de subsidie uiterlijk vóór 1 maart van het daaropvolgende kalenderjaar direct vastgesteld, indien:
 
-- a. het plafond, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039459&artikel=4&z=2025-11-14&g=2025-11-14), is bereikt vóór 16 oktober van het betreffende kalenderjaar; of
+- a. het plafond, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039459&artikel=4&z=2026-10-17&g=2026-10-17), is bereikt vóór 16 oktober van het betreffende kalenderjaar; of
 
 - b. de aanvraag is ingediend in de periode van 16 oktober tot en met 31 december van het kalenderjaar waarin de scholing is aangevangen.
 

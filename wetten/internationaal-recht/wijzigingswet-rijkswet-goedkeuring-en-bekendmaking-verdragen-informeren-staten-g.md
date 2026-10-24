@@ -9,7 +9,7 @@ laatste_update: 2017-07-01
 status: geldig
 toestand: 2017-07-01
 bron: "https://wetten.overheid.nl/BWBR0039575"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Rijkswet van 21 april 2017, houdende wijziging van de Rijkswet goedkeuring en bekendmaking verdragen in verband met het informeren van de Staten-Generaal over een ieder verbindende bepalingen van verdragen

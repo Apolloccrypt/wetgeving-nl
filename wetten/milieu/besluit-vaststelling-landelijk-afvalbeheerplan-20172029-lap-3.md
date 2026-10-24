@@ -9,7 +9,7 @@ laatste_update: 2021-04-01
 status: geldig
 toestand: 2021-04-01
 bron: "https://wetten.overheid.nl/BWBR0040257"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Waterstaat, van 28 november 2017, nr. IENM/BSK-2017/271646, houdende vaststelling van het Landelijk afvalbeheerplan 2017–2029 (LAP 3)

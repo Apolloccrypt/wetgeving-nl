@@ -9,7 +9,7 @@ laatste_update: 2017-10-01
 status: geldig
 toestand: 2017-10-01
 bron: "https://wetten.overheid.nl/BWBR0039709"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Wet van 23 juni 2017 tot wijziging van de Wet inburgering en enkele andere wetten in verband met het toevoegen van het onderdeel participatieverklaring aan het inburgeringsexamen en de wettelijke vastlegging van de maatschappelijke begeleiding

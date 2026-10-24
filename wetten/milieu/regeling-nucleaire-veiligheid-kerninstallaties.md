@@ -9,7 +9,7 @@ laatste_update: 2018-02-06
 status: geldig
 toestand: 2018-02-06
 bron: "https://wetten.overheid.nl/BWBR0039625"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu en de Minister van Sociale Zaken en Werkgelegenheid van 6 juni 2017, nr. IENM/BSK-2017/128532, houdende algemene regels inzake de nucleaire veiligheid van kerninstallaties (Regeling nucleaire veiligheid kerninstallaties)

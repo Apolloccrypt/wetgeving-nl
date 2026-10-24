@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0040009"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Beschikking van de Minister van Sociale Zaken en Werkgelegenheid van 19 september 2017, nr. 2017-0000140896, tot het aanwijzen van het Nederlands Centrum voor Beroepsziekten als de instelling, bedoeld in artikel 9, derde lid, van de Arbeidsomstandighedenwet

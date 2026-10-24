@@ -9,7 +9,7 @@ laatste_update: 2019-10-19
 status: geldig
 toestand: 2019-10-19
 bron: "https://wetten.overheid.nl/BWBR0039835"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 13 juli 2017, 617-165745-CZ, houdende vaststelling van beleidsregels voor het subsidiëren van overige instellingen voor medisch specialistische zorg, voor het stimuleren van elektronische gegevensuitwisseling tussen patiënt en zorgaanbieder (Besluit vaststelling beleidsregels subsidiëring Versnellingsprogramma Informatie-uitwisseling Patiënt en Professional fase 2)

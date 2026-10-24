@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0039949"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Bekendmaking van de Minister van Sociale Zaken en Werkgelegenheid van 21 augustus 2017, 2017-0000132546, in verband met de aanwijzing van geregistreerde certificaten voor de kinderopvang inzake het met goed gevolg afgesloten onderricht dat in elk geval het verlenen van eerste hulp aan kinderen omvat

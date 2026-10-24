@@ -9,7 +9,7 @@ laatste_update: 2017-06-15
 status: geldig
 toestand: 2017-06-15
 bron: "https://wetten.overheid.nl/BWBR0039632"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 9 juni 2017, nr. MinBuZa-2017.733616, tot verlenging van de werkingsduur van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006

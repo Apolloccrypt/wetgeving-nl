@@ -9,7 +9,7 @@ laatste_update: 2021-10-01
 status: geldig
 toestand: 2021-10-01
 bron: "https://wetten.overheid.nl/BWBR0039818"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de raad van bestuur van de kansspelautoriteit van 29 juni 2017, kenmerk 10389, inzake de verlening van een vergunning tot het organiseren van de totalisator (Vergunning totalisator 2017–2022)

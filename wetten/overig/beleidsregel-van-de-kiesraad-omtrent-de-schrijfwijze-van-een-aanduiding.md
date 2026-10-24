@@ -9,7 +9,7 @@ laatste_update: 2008-03-19
 status: geldig
 toestand: 2008-03-19
 bron: "https://wetten.overheid.nl/BWBR0039434"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Beleidsregel van de Kiesraad van 10 maart 2008 inzake de schrijfwijze van aanduidingen die op grond van artikel G 1 van de Kieswet bij de Kiesraad in de hoedanigheid als centraal stembureau voor de verkiezing van de leden van de Tweede Kamer, Eerste Kamer en Europees Parlement worden geregistreerd

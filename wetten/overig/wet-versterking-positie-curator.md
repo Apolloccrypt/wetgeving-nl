@@ -9,7 +9,7 @@ laatste_update: 2017-07-01
 status: geldig
 toestand: 2017-07-01
 bron: "https://wetten.overheid.nl/BWBR0039403"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Wet van 22 maart 2017 tot wijziging van de Faillissementswet in verband met de versterking van de positie van de curator (Wet versterking positie curator)

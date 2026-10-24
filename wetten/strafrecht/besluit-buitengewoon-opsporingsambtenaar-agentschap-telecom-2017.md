@@ -9,7 +9,7 @@ laatste_update: 2017-06-07
 status: geldig
 toestand: 2017-06-07
 bron: "https://wetten.overheid.nl/BWBR0039580"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 18 mei 2017 nr. BOACAT2017/034, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Agentschap Telecom

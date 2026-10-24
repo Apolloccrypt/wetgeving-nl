@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0040236"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van 14 november 2017, houdende regels inzake nieuwe voedingsmiddelen en genetisch gemodificeerde levensmiddelen (Warenwetbesluit nieuwe voedingsmiddelen en genetisch gemodificeerde levensmiddelen)

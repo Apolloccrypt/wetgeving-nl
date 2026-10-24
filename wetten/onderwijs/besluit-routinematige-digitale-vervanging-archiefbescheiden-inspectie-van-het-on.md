@@ -9,7 +9,7 @@ laatste_update: 2018-06-21
 status: geldig
 toestand: 2018-06-21
 bron: "https://wetten.overheid.nl/BWBR0039934"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap en de Inspecteur-generaal van het onderwijs van 25 augustus 2O17, nr. WJZ/1245752 (4974369), houdende routinematige digitale vervanging van archiefbescheiden die niet voor vernietiging in aanmerking komen (Besluit routinematige digitale vervanging archiefbescheiden Inspectie voor het onderwijs)

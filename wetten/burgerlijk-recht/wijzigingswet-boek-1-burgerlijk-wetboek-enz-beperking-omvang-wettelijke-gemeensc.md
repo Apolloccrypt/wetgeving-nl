@@ -9,7 +9,7 @@ laatste_update: 2023-07-01
 status: geldig
 toestand: 2023-07-01
 bron: "https://wetten.overheid.nl/BWBR0039550"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Wet van 24 april 2017 tot wijziging van Boek 1 van het Burgerlijk Wetboek en de Faillissementswet teneinde de omvang van de wettelijke gemeenschap van goederen te beperken

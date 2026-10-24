@@ -8,7 +8,7 @@ laatste_update: 2017-07-01
 status: geldig
 toestand: 2017-07-01
 bron: "https://wetten.overheid.nl/BWBR0039539"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit Handhavingsbeleidsplan Rijkswaterstaat

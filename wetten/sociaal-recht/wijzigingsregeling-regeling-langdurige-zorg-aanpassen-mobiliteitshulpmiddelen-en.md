@@ -9,7 +9,7 @@ laatste_update: 2017-07-01
 status: geldig
 toestand: 2017-07-01
 bron: "https://wetten.overheid.nl/BWBR0039646"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 9 juni 2017, kenmerk LZ-1140775-164265, houdende wijziging van de Regeling langdurige zorg vanwege het aanpassen van de mobiliteitshulpmiddelen en de toevoeging van de echtgenoot aan het informeel tarief

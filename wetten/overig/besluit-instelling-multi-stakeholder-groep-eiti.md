@@ -9,7 +9,7 @@ laatste_update: 2025-04-16
 status: geldig
 toestand: 2025-04-16
 bron: "https://wetten.overheid.nl/BWBR0040115"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking en de Minister van Economische Zaken van 16 oktober 2017, nr. Min-BuZa.2017.695-29, tot instelling van een multi-stakeholder groep EITI

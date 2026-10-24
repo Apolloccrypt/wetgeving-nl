@@ -9,7 +9,7 @@ laatste_update: 2017-08-25
 status: geldig
 toestand: 2017-08-25
 bron: "https://wetten.overheid.nl/BWBR0039915"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 23 augustus 2017, nr. IENM/BSK-2017/195936, houdende de subsidieverstrekking aan Stichting Rocov Fryslân ten behoeve van consumenteninspraak inzake de uitvoering van de concessies voor de Friese Waddenveren over de jaren 2017 tot en met 2021 (Tijdelijke subsidieregeling Stichting Rocov Fryslân inzake consumenteninspraak Friese Waddenveren 2017–2021)

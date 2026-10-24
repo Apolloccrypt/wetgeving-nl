@@ -9,7 +9,7 @@ laatste_update: 2017-05-12
 status: geldig
 toestand: 2017-05-12
 bron: "https://wetten.overheid.nl/BWBR0039536"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit van het Ministerie van Defensie houdende de beperking aan de openbaarheid van de archieven van het Directoraat-Generaal Personeel en zijn directies en afdelingen, (1972) 1976–1991 (1992), bij overbrenging naar een archiefbewaarplaats (Besluit beperking openbaarheid)

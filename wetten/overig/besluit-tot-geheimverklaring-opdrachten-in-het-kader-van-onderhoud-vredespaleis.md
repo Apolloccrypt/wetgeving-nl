@@ -9,7 +9,7 @@ laatste_update: 2017-11-01
 status: geldig
 toestand: 2017-11-01
 bron: "https://wetten.overheid.nl/BWBR0039993"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 14 september 2017, nr. MinBuza-2017.976436, tot geheimverklaring van opdrachten in het kader van onderhoud van het Vredespaleis

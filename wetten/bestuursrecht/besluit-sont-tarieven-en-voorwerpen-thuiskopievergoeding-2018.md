@@ -9,7 +9,7 @@ laatste_update: 2017-10-24
 status: geldig
 toestand: 2017-10-24
 bron: "https://wetten.overheid.nl/BWBR0040119"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit SONT tarieven en voorwerpen thuiskopievergoeding 2018 – 30 augustus 2017, Ministerie van Veiligheid en Justitie

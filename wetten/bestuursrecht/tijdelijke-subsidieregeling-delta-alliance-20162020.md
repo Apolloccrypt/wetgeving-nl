@@ -9,7 +9,7 @@ laatste_update: 2017-09-16
 status: geldig
 toestand: 2017-09-16
 bron: "https://wetten.overheid.nl/BWBR0039985"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu, van 14 september 2017, nr. IENM/BSK-2017/719071, houdende regels voor het verstrekken van een tijdelijke subsidie aan de Stichting Delta Alliance International Foundation (Tijdelijke subsidieregeling Delta Alliance 2016–2020)

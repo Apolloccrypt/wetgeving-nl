@@ -9,7 +9,7 @@ laatste_update: 2017-07-22
 status: geldig
 toestand: 2017-07-22
 bron: "https://wetten.overheid.nl/BWBR0039824"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Controleprotocol behorend bij de Regeling subsidies hoogwaterbescherming 2014, zoals gewijzigd op 2 december 2016 (nr. IENM/BSK-2016/280861), in verband met de nieuwe normering van de primaire waterkeringen, Rijkswaterstaat

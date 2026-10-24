@@ -9,7 +9,7 @@ laatste_update: 2017-10-01
 status: geldig
 toestand: 2017-10-01
 bron: "https://wetten.overheid.nl/BWBR0039892"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu, van 13 juli 2017, nr. IENM/BSK-2015/155134, tot wijziging van de Regeling verkeersregelaars 2009 (vereenvoudiging aanstelling evenementenverkeersregelaars)

@@ -9,7 +9,7 @@ laatste_update: 2017-07-12
 status: geldig
 toestand: 2017-07-12
 bron: "https://wetten.overheid.nl/BWBR0039763"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Wet van 11 mei 2017 tot wijziging van de Wegenverkeerswet 1994 en de Wet administratiefrechtelijke handhaving verkeersvoorschriften in verband met aanvullende implementatie van richtlijn 2006/126/EG en enkele aanpassingen van redactionele aard en in verband met aangepaste termijnen inzake het opleggen van beschikkingen naar aanleiding van gedragingen die op kenteken zijn geconstateerd

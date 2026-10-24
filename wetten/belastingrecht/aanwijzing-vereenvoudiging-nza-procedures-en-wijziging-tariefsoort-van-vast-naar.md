@@ -9,7 +9,7 @@ laatste_update: 2017-09-01
 status: geldig
 toestand: 2017-09-01
 bron: "https://wetten.overheid.nl/BWBR0039804"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 11 juli 2017, kenmerk MC-U-165504, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake vereenvoudiging NZa procedures en wijziging tariefsoort van vast naar maximum

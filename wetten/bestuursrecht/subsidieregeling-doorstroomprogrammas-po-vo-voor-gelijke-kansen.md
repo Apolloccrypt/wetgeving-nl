@@ -9,7 +9,7 @@ laatste_update: 2023-02-15
 status: geldig
 toestand: 2023-02-15
 bron: "https://wetten.overheid.nl/BWBR0039721"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 27 juni 2017 nr. VO/1156747, houdende regels voor subsidieverstrekking voor de ontwikkeling en uitvoering van doorstroomprogramma’s gericht op een soepele overgang van het primair onderwijs naar het voortgezet onderwijs (Subsidieregeling doorstroomprogramma’s po-vo)

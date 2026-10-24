@@ -9,7 +9,7 @@ laatste_update: 2017-07-01
 status: geldig
 toestand: 2017-07-01
 bron: "https://wetten.overheid.nl/BWBR0039455"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Wet van 22 maart 2017 tot wijziging van de Gemeentewet, de Provinciewet en de Waterschapswet in verband met het beperken van de heffingsbevoegdheid van precariobelasting voor enige openbare werken van algemeen nut

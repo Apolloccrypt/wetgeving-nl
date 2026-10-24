@@ -9,7 +9,7 @@ laatste_update: 2017-10-31
 status: geldig
 toestand: 2017-10-31
 bron: "https://wetten.overheid.nl/BWBR0040126"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu, van 25 oktober 2017, nr. IENM/BSK-2017/224836, houdende regels voor de verstrekking van een tijdelijke subsidie aan de Stichting Geonovum (Tijdelijke subsidieregeling Geonovum 2017–2021)

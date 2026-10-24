@@ -8,7 +8,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0040214"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Circulaire (onkosten)vergoeding 2018 en wijziging bezoldiging 2017 politieke ambtsdragers waterschappen

@@ -9,7 +9,7 @@ laatste_update: 2017-11-03
 status: geldig
 toestand: 2017-11-03
 bron: "https://wetten.overheid.nl/BWBR0040150"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van 26 oktober 2017 nr. 2017001808, houdende departementale herindeling met betrekking tot de maatschappelijke stage

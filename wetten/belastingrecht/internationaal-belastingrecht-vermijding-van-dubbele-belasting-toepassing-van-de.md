@@ -8,7 +8,7 @@ laatste_update: 2017-09-13
 status: geldig
 toestand: 2017-09-13
 bron: "https://wetten.overheid.nl/BWBR0039971"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Internationaal Belastingrecht. Vermijding van dubbele belasting. Toepassing van de vrijstellingsmethode voor bepaalde inkomsten uit dienstbetrekking onder belastingverdragen met Golfstaten

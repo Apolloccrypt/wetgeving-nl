@@ -8,7 +8,7 @@ laatste_update: 2017-06-01
 status: geldig
 toestand: 2017-06-01
 bron: "https://wetten.overheid.nl/BWBR0039591"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Richtlijn voor strafvordering strafrechtelijke aanpak schoolverzuim

@@ -8,7 +8,7 @@ laatste_update: 2017-11-24
 status: geldig
 toestand: 2017-11-24
 bron: "https://wetten.overheid.nl/BWBR0040231"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit beperking openbaarheid digitale archief ‘Vreemdelingendossiers en Naturalisatie- en Nationaliteitsaangelegenheden van de Immigratie- en Naturalisatiedienst, 2006–2010’

@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0040183"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van 25 oktober 2017, houdende regeling van de wijze van tenuitvoerlegging van beslissingen van de tuchtrechter voor gerechtsdeurwaarders en notarissen (Besluit tenuitvoerlegging tuchtrechtspraak gerechtsdeurwaarders en notarissen)

@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0040167"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Beschikking van de Minister van Veiligheid en Justitie van 24 oktober 2017, nr. 2141865, tot vaststelling van het percentage waarmee de bedragen voor levensonderhoud met ingang van 1 januari 2018 worden verhoogd (Beschikking wijzigingspercentage levensonderhoud 2018)

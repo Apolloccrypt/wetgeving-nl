@@ -9,7 +9,7 @@ laatste_update: 2017-08-01
 status: geldig
 toestand: 2017-08-01
 bron: "https://wetten.overheid.nl/BWBR0039868"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit vaststelling Specifiek Interventiebeleid Productveiligheid van de Nederlandse Voedsel- en Warenautoriteit (IB02-SPEC 45, versie 6)

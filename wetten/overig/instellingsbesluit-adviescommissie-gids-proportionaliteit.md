@@ -9,7 +9,7 @@ laatste_update: 2023-07-01
 status: geldig
 toestand: 2023-07-01
 bron: "https://wetten.overheid.nl/BWBR0039543"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister van Economische Zaken van 8 mei 2017, nr. WJZ/17035793, tot instelling van de Adviescommissie Gids proportionaliteit (Instellingsbesluit Adviescommissie Gids proportionaliteit)

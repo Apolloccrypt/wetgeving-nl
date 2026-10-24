@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0040090"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Wet van 4 oktober 2017 tot wijziging van de Wet op het hoger onderwijs en wetenschappelijk onderzoek en enkele andere wetten met het oog op het omvormen van het Associate degree-programma tot zelfstandige opleiding en het toevoegen van het niet-bekostigd onderwijs aan het diplomaregister (Wet invoering associate degree-opleiding)

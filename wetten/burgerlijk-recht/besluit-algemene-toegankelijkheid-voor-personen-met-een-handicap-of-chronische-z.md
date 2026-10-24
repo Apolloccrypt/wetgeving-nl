@@ -9,7 +9,7 @@ laatste_update: 2017-06-21
 status: geldig
 toestand: 2017-06-21
 bron: "https://wetten.overheid.nl/BWBR0039653"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit van 7 juni 2017, houdende regels omtrent de algemene toegankelijkheid voor personen met een handicap of chronische ziekte (Besluit toegankelijkheid voor personen met een handicap of chronische ziekte)

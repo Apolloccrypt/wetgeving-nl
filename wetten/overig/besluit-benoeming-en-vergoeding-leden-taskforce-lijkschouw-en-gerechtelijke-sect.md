@@ -9,7 +9,7 @@ laatste_update: 2017-04-04
 status: geldig
 toestand: 2017-04-04
 bron: "https://wetten.overheid.nl/BWBR0039413"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister van Veiligheid en Justitie van 14 maart 2017 nr. 2049837, houdende de benoeming van en vaststelling van de vergoeding van de leden van de taskforce lijkschouw en gerechtelijke sectie (Besluit benoeming en vergoeding leden taskforce lijkschouw en gerechtelijke sectie)

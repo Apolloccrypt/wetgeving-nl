@@ -8,7 +8,7 @@ laatste_update: 2006-03-23
 status: geldig
 toestand: 2006-03-23
 bron: "https://wetten.overheid.nl/BWBR0039483"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Klachtenregeling TNO 2005

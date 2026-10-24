@@ -9,7 +9,7 @@ laatste_update: 2017-10-05
 status: geldig
 toestand: 2017-10-05
 bron: "https://wetten.overheid.nl/BWBR0040040"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Beleidsregel van de Minister van Economische Zaken van 28 september 2017, nr. WJZ / 17055112, betreffende het sluiten en openen van gebieden voor de visserij op aal en wolhandkrab (Beleidsregel gesloten gebieden voor visserij op aal en wolhandkrab)

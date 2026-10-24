@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0039393"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Wet van 9 maart 2017 tot wijziging van de Ambtenarenwet en enige andere wetten in verband met het in overeenstemming brengen van de rechtspositie van ambtenaren met die van werknemers met een arbeidsovereenkomst naar burgerlijk recht (Wet normalisering rechtspositie ambtenaren)

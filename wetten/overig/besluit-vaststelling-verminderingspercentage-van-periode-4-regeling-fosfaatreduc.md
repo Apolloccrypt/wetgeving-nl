@@ -9,7 +9,7 @@ laatste_update: 2017-08-31
 status: geldig
 toestand: 2017-08-31
 bron: "https://wetten.overheid.nl/BWBR0039930"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Staatssecretaris van Economische Zaken van 28 augustus 2017, nr. WJZ/17131527, tot vaststelling van het verminderingspercentage van periode 4 in het kader van de Regeling fosfaatreductieplan 2017

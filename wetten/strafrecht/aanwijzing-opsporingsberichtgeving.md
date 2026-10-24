@@ -8,7 +8,7 @@ laatste_update: 2017-12-01
 status: geldig
 toestand: 2017-12-01
 bron: "https://wetten.overheid.nl/BWBR0040219"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Aanwijzing opsporingsberichtgeving

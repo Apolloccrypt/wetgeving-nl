@@ -9,7 +9,7 @@ laatste_update: 2018-04-04
 status: geldig
 toestand: 2018-04-04
 bron: "https://wetten.overheid.nl/BWBR0040151"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van 26 oktober 2017 nr. 2017001809, houdende departementale herindeling met betrekking tot klimaat

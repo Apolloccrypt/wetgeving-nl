@@ -9,7 +9,7 @@ laatste_update: 2017-05-24
 status: geldig
 toestand: 2017-05-24
 bron: "https://wetten.overheid.nl/BWBR0039574"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit van het College Gerechtelijk Deskundigen met betrekking tot digitale vervanging van personele archiefbescheiden

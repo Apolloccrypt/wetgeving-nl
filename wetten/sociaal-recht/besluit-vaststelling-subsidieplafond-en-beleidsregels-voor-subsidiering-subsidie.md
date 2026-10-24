@@ -9,7 +9,7 @@ laatste_update: 2017-08-03
 status: geldig
 toestand: 2017-08-03
 bron: "https://wetten.overheid.nl/BWBR0039860"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 13 juli 2017, DCV-461/2017, tot vaststelling van een subsidieplafond en beleidsregels voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Gedetineerdenbegeleiding buitenland geestelijke zorg 2018–2019)

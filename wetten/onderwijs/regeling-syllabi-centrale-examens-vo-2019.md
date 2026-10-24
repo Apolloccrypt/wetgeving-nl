@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0039851"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Regeling van het College voor Toetsen en Examens van 26 juni 2017, nummer CvTE-17.01276, houdende vaststelling van de syllabi voor de centrale examens in het vwo, havo en vmbo 2019, nadere vaststelling van enkele eerder vastgestelde syllabi (Regeling syllabi centrale examens vo 2019)

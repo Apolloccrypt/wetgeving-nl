@@ -9,7 +9,7 @@ laatste_update: 2025-04-01
 status: geldig
 toestand: 2025-04-01
 bron: "https://wetten.overheid.nl/BWBR0039826"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Beleidsregel van De Nederlandsche Bank N.V. van 10 juli 2017 houdende regels met betrekking tot het samenstellen door banken van individuele klantbeelden ten behoeve van het depositogarantiestelsel en het afwikkelinstrumentarium (Beleidsregel Individueel Klantbeeld)

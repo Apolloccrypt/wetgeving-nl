@@ -8,7 +8,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0039456"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Regeling bezwarenprocedure KB

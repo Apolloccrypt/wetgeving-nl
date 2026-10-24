@@ -9,7 +9,7 @@ laatste_update: 2017-06-05
 status: geldig
 toestand: 2017-06-05
 bron: "https://wetten.overheid.nl/BWBR0039603"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Wet van 29 mei 2017 tot wijziging van de Wet op de internationale bijstandsverlening bij de heffing van belastingen en de Wet op de vennootschapsbelasting 1969 houdende aanvullende regels in verband met de automatische uitwisseling van inlichtingen met betrekking tot landenrapporten (Wet aanvullende regels uitwisseling landenrapporten)

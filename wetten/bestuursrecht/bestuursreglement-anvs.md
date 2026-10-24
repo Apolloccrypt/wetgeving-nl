@@ -9,7 +9,7 @@ laatste_update: 2023-09-21
 status: geldig
 toestand: 2023-09-21
 bron: "https://wetten.overheid.nl/BWBR0039984"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Autoriteit Nucleaire Veiligheid en Stralingsbescherming van 24 augustus 2017, nr. ANVS-2017/8574, tot vaststelling van een bestuursreglement (Bestuursreglement ANVS)

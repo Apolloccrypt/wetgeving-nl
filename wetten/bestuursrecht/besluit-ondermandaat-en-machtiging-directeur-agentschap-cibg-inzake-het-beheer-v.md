@@ -9,7 +9,7 @@ laatste_update: 2017-10-03
 status: geldig
 toestand: 2017-10-03
 bron: "https://wetten.overheid.nl/BWBR0040032"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de directeur van het agentschap CIBG van 18 augustus 2017 houdende regels inzake het verlenen van ondermandaat en machtiging betreffende aangelegenheden die verband houden met het beheer van het lerarenregister en registervoorportaal en de opname en doorhaling van leraren in het lerarenregister en het registervoorportaal (Besluit ondermandaat en machtiging directeur agentschap CIBG inzake het beheer van het lerarenregister en registervoorportaal)

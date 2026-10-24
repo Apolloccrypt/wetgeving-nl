@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0040205"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van 25 oktober 2017, houdende regels met betrekking tot de basisregistratie ondergrond (eerste tranche) (Besluit basisregistratie ondergrond)

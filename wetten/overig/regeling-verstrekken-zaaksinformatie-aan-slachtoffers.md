@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0039404"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 29 maart 2017, nr. 2045955 houdende regels voor de verstrekking van zaaksinformatie aan slachtoffers

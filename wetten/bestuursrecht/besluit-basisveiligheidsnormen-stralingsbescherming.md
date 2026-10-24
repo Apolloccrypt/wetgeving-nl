@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0040179"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van 23 oktober 2017, houdende vaststelling van regels ter bescherming van personen tegen de gevaren van blootstelling aan ioniserende straling (Besluit basisveiligheidsnormen stralingsbescherming)

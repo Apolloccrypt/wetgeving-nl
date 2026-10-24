@@ -8,7 +8,7 @@ laatste_update: 2008-04-27
 status: geldig
 toestand: 2008-04-27
 bron: "https://wetten.overheid.nl/BWBR0039436"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Klachtenregeling Kiesraad

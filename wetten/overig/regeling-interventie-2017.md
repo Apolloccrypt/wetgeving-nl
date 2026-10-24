@@ -9,7 +9,7 @@ laatste_update: 2021-06-03
 status: geldig
 toestand: 2021-06-03
 bron: "https://wetten.overheid.nl/BWBR0039438"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken van 3 april 2017, nr. WJZ/17034490, houdende regels ten aanzien van de interventie van agrarische producten (Regeling interventie 2017)

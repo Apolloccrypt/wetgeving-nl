@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0040101"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 17 oktober 2017, kenmerk 1238942-168244-Z, houdende vaststelling per 1 januari 2018 van bedragen krachtens het Besluit langdurige zorg en het Uitvoeringsbesluit Wmo 2015

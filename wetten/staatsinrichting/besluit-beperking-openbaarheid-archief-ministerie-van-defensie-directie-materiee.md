@@ -9,7 +9,7 @@ laatste_update: 2017-11-02
 status: geldig
 toestand: 2017-11-02
 bron: "https://wetten.overheid.nl/BWBR0040129"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van het Ministerie van Defensie houdende de beperking aan de openbaarheid van het archief van het Ministerie van Defensie, Directie Materieel Koninklijke Marine en taakvoorganger, 1943 – 1990, bij overbrenging naar een archiefbewaarplaats

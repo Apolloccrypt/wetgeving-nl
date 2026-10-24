@@ -9,7 +9,7 @@ laatste_update: 2017-11-28
 status: geldig
 toestand: 2017-11-28
 bron: "https://wetten.overheid.nl/BWBR0040233"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 17 november 2017, kenmerk 1251358-169790, houdende tweede nadere aanwijzing van de besteedbare middelen ter dekking van de beheerskosten Wlz 2017 (Tweede nadere aanwijzing besteedbare middelen beheerskosten Wlz 2017)

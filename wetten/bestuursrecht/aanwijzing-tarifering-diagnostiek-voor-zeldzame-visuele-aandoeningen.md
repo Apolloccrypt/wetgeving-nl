@@ -9,7 +9,7 @@ laatste_update: 2017-12-01
 status: geldig
 toestand: 2017-12-01
 bron: "https://wetten.overheid.nl/BWBR0040058"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 3 oktober 2017, kenmerk 1223404-167183-MC, op grond van artikel 7 van de Wet marktordening gezondheidzorg inzake tarifering diagnostiek voor zeldzame visuele aandoeningen

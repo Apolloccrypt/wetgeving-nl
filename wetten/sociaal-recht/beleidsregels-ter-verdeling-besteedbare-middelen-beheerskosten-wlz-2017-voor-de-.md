@@ -8,7 +8,7 @@ laatste_update: 2018-05-15
 status: geldig
 toestand: 2018-05-15
 bron: "https://wetten.overheid.nl/BWBR0039600"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Beleidsregels ter verdeling besteedbare middelen beheerskosten Wlz 2017 voor de Sociale Verzekeringsbank

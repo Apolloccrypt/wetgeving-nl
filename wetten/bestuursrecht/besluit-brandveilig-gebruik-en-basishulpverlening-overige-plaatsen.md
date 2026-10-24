@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0040068"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van 4 oktober 2017, houdende regels inzake het brandveilig gebruik van overige plaatsen en de basishulpverlening op die plaatsen (Besluit brandveilig gebruik en basishulpverlening overige plaatsen)

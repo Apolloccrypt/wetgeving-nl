@@ -9,7 +9,7 @@ laatste_update: 2017-10-20
 status: geldig
 toestand: 2017-10-20
 bron: "https://wetten.overheid.nl/BWBR0040088"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 12 oktober 2017, nr. IENM/BSK-2017/230864, houdende regels voor verstrekking van subsidie aan de Stichting VeiligheidNL (Subsidieregeling VeiligheidNL)

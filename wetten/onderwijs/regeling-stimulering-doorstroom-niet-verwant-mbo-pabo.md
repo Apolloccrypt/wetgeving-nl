@@ -9,7 +9,7 @@ laatste_update: 2017-04-04
 status: geldig
 toestand: 2017-04-04
 bron: "https://wetten.overheid.nl/BWBR0039416"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 4 maart 2017, nr. MBO/1116804, houdende de verstrekking van subsidie voor de verbetering van de doorstroom van het middelbaar beroepsonderwijs naar de pabo door samenwerking mbo-hbo (Regeling stimulering doorstroom niet verwant mbo-pabo)

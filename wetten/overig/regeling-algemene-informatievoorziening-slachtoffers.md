@@ -9,7 +9,7 @@ laatste_update: 2017-04-01
 status: geldig
 toestand: 2017-04-01
 bron: "https://wetten.overheid.nl/BWBR0039405"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 29 maart 2017, nr. 2045950 houdende regels voor de algemene informatievoorziening aan slachtoffers

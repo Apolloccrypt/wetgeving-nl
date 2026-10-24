@@ -9,7 +9,7 @@ laatste_update: 2017-04-19
 status: geldig
 toestand: 2017-04-19
 bron: "https://wetten.overheid.nl/BWBR0039477"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister van Economische Zaken van 6 april 2017, nr. WJZ/17046052, houdende regels inzake het verlenen van mandaat, volmacht en machtiging aan de algemeen directeur Rijksdienst voor Ondernemend Nederland betreffende de behandeling van Wob-verzoeken op het gebied van de uitvoering van de Regeling fosfaatreductieplan 2017 (Besluit mandaat, volmacht en machtiging algemeen directeur Rijksdienst voor Ondernemend Nederland betreffende de behandeling van Wob-verzoeken op het gebied van de uitvoering van de Regeling fosfaatreductieplan 2017)

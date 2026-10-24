@@ -9,7 +9,7 @@ laatste_update: 2017-09-29
 status: geldig
 toestand: 2017-09-29
 bron: "https://wetten.overheid.nl/BWBR0040007"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 12 september 2017 nr. BOACAT2017/054, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Smallingerland.

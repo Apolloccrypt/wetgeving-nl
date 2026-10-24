@@ -9,7 +9,7 @@ laatste_update: 2017-05-02
 status: geldig
 toestand: 2017-05-02
 bron: "https://wetten.overheid.nl/BWBR0039509"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 21 april 2017, kenmerk 1123133-163202-MC houdende wijziging personele eisen beschikbaarheidbijdrage SEH artsen

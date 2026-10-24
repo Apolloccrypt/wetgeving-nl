@@ -8,7 +8,7 @@ laatste_update: 2017-11-26
 status: geldig
 toestand: 2017-11-26
 bron: "https://wetten.overheid.nl/BWBR0040240"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit vaststelling selectielijst Commissariaat voor de Media vanaf 1 januari 2017

@@ -9,7 +9,7 @@ laatste_update: 2017-11-02
 status: geldig
 toestand: 2017-11-02
 bron: "https://wetten.overheid.nl/BWBR0040134"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister van Veiligheid en Justitie van 19 oktober 2017, nr. 2141459 tot geheimverklaring van de opdracht in het kader van een dronedetectie- en verstoringssysteem ten behoeve van de Dienst Justitiële Inrichtingen

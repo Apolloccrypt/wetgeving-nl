@@ -9,7 +9,7 @@ laatste_update: 2017-07-01
 status: geldig
 toestand: 2017-07-01
 bron: "https://wetten.overheid.nl/BWBR0039537"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu, van 14 april 2017, nr. IENM/BSK-2017/80896, tot wijziging van de Uitvoeringsvoorschriften BABW inzake verkeerstekens (onderhoudswijziging 2017)

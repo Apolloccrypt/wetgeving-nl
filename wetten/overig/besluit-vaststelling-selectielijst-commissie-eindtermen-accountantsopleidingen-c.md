@@ -8,7 +8,7 @@ laatste_update: 2017-11-18
 status: geldig
 toestand: 2017-11-18
 bron: "https://wetten.overheid.nl/BWBR0040196"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit vaststelling selectielijst Commissie Eindtermen Accountantsopleidingen (CEA) vanaf 2005

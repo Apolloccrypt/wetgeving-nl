@@ -9,7 +9,7 @@ laatste_update: 2017-04-05
 status: geldig
 toestand: 2017-04-05
 bron: "https://wetten.overheid.nl/BWBR0039418"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Vaststelling selectielijst voor het Ministerie van Infrastructuur en Milieu over de periode vanaf 2010

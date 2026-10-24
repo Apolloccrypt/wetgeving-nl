@@ -9,7 +9,7 @@ laatste_update: 2017-10-03
 status: geldig
 toestand: 2017-10-03
 bron: "https://wetten.overheid.nl/BWBR0040024"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 12 september 2017, nr. O&B/1230274, tot het verlenen van machtiging aan het Financieel Dienstencentrum (FDC) van het ministerie van Sociale Zaken en Werkgelegenheid

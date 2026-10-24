@@ -9,7 +9,7 @@ laatste_update: 2017-04-21
 status: geldig
 toestand: 2017-04-21
 bron: "https://wetten.overheid.nl/BWBR0039472"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister van Veiligheid en Justitie tot beperking van de openbaarheid van het naar het Nationaal Archief over te brengen archief Naturalisatie- en Nationaliteitsaangelegenheden van de Immigratie- en Naturalisatiedienst (1850) 1947–1989 (1995)

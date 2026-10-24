@@ -8,7 +8,7 @@ laatste_update: 2017-11-23
 status: geldig
 toestand: 2017-11-23
 bron: "https://wetten.overheid.nl/BWBR0040217"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit beperking openbaarheid archief van de Deli Maatschappij, aanvulling 2015, nummer toegang 2.20.46

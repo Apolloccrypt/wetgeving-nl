@@ -9,7 +9,7 @@ laatste_update: 2017-12-01
 status: geldig
 toestand: 2017-12-01
 bron: "https://wetten.overheid.nl/BWBR0040252"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 17 november 2017, nr. 2140261, houdende verlening van mandaat, volmacht en machtiging aan het bestuur van het Centraal Orgaan opvang asielzoekers (Mandaatbesluit COA inzake verzoeken om onderdak, uitkering, leefgeld of aanvullende voorzieningen)

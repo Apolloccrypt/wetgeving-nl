@@ -9,7 +9,7 @@ laatste_update: 2017-06-13
 status: geldig
 toestand: 2017-06-13
 bron: "https://wetten.overheid.nl/BWBR0039619"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Regeling van het College voor Toetsen en Examens van 18 april 2017, nummer CvTE-17.00736, houdende vaststelling van de syllabus centraal examen Engels referentieniveau B1 bij centrale examinering in het mbo (Regeling syllabus centraal examen mbo Engels referentieniveau B1)

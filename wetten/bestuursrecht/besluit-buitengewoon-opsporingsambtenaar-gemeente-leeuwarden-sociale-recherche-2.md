@@ -9,7 +9,7 @@ laatste_update: 2017-10-01
 status: geldig
 toestand: 2017-10-01
 bron: "https://wetten.overheid.nl/BWBR0039861"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 26 juli 2017 nr. BOACAT2017/048, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Dienst Welzijn, sector Sociale Zaken, team Handhaving van de gemeente Leeuwarden

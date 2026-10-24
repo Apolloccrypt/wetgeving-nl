@@ -9,7 +9,7 @@ laatste_update: 2017-08-25
 status: geldig
 toestand: 2017-08-25
 bron: "https://wetten.overheid.nl/BWBR0039920"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 17 augustus 2017 nr. BOACAT2017/051, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij It Fryske Gea

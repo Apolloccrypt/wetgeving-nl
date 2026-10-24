@@ -9,7 +9,7 @@ laatste_update: 2018-02-09
 status: geldig
 toestand: 2018-02-09
 bron: "https://wetten.overheid.nl/BWBR0039912"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister van Infrastructuur en Milieu Zaken van 17 augustus 2017, nr. IENM/BSK-2017/26609 inzake de digitale vervanging van archiefbescheiden van alle organisatieonderdelen van het Ministerie van Infrastructuur en Milieu die vallen binnen het verzorgingsgebied van de directie Concern Informatievoorziening van de Integrale Bedrijfsvoering IenM (Vervangingsbesluit archiefbescheiden verzorgingsgebied IBI/DCI IenM 2017)

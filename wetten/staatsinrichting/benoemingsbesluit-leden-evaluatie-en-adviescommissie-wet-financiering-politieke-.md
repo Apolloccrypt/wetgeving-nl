@@ -9,7 +9,7 @@ laatste_update: 2017-04-29
 status: geldig
 toestand: 2017-04-29
 bron: "https://wetten.overheid.nl/BWBR0039520"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 24 april 2017, houdende de benoeming van de leden van de Evaluatie- en adviescommissie Wet financiering politieke partijen (Benoemingsbesluit leden Evaluatie- en adviescommissie Wet financiering politieke partijen)

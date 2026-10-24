@@ -9,7 +9,7 @@ laatste_update: 2017-08-30
 status: geldig
 toestand: 2017-08-30
 bron: "https://wetten.overheid.nl/BWBR0039927"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Wet van 17 mei 2017 tot wijziging van de Wet luchtvaart en enkele andere wetten (Verzamelwet IenM 2017)

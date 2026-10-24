@@ -8,7 +8,7 @@ laatste_update: 2017-11-03
 status: geldig
 toestand: 2017-11-03
 bron: "https://wetten.overheid.nl/BWBR0040131"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Vaststellingsbesluit selectielijst Koninklijke Notariële Beroepsorganisatie vanaf 2013

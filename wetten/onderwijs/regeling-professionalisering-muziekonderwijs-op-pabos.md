@@ -8,7 +8,7 @@ laatste_update: 2019-05-10
 status: geldig
 toestand: 2019-05-10
 bron: "https://wetten.overheid.nl/BWBR0039390"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Regeling Professionalisering Muziekonderwijs op pabo’s

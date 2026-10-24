@@ -8,7 +8,7 @@ laatste_update: 2019-10-01
 status: geldig
 toestand: 2019-10-01
 bron: "https://wetten.overheid.nl/BWBR0039633"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Wijzigingswet Wet wapens en munitie, Flora- en faunawet en Wet natuurbescherming (versterking beheersing legaal wapenbezit)

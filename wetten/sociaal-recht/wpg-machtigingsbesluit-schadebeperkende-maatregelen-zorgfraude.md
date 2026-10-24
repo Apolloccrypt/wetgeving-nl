@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0039581"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit ingevolge artikel 18, tweede lid, Wet politiegegevens van de Minister van Veiligheid en Justitie, kenmerk 2067091 van 19 mei 2017 houdende toestemming aan de Minister van Sociale Zaken en Werkgelegenheid, als verantwoordelijke voor de Inspectie SZW DO en de Minister van Financiën als verantwoordelijke voor de FIOD, tot het verstrekken van politiegegevens aan de Colleges van burgemeester en wethouders, de Zorgverzekeraars, het CIZ, de NZa en de IGZ ten behoeve van het kunnen nemen van schadebeperkende maatregelen ter voorkoming en bestrijding van fraude in de zorgsector (Wpg-machtigingsbesluit schadebeperkende maatregelen zorgfraude)

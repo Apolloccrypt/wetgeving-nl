@@ -8,7 +8,7 @@ laatste_update: 2017-09-20
 status: geldig
 toestand: 2017-09-20
 bron: "https://wetten.overheid.nl/BWBR0039988"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Werkwijze informanten ACM 2017

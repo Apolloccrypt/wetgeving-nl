@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0040085"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 17 oktober 2017, nr. IENM/BSK-2017/241941, houdende de subsidieverstrekking aan de Stichting CROW over de jaren 2018 tot en met 2022 inzake de OV-Klantenbarometer (Tijdelijke subsidieregeling Stichting CROW inzake de OV-Klantenbarometer 2018–2022)

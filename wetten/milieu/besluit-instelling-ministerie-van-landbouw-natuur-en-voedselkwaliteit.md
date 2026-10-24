@@ -9,7 +9,7 @@ laatste_update: 2017-11-05
 status: geldig
 toestand: 2017-11-05
 bron: "https://wetten.overheid.nl/BWBR0040169"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van 26 oktober 2017 nr. 2017001804, houdende instelling van een ministerie van Landbouw, Natuur en Voedselkwaliteit

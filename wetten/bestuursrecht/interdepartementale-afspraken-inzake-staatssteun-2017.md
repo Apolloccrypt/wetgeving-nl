@@ -8,7 +8,7 @@ laatste_update: 2017-10-21
 status: geldig
 toestand: 2017-10-21
 bron: "https://wetten.overheid.nl/BWBR0040099"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Interdepartementale afspraken inzake staatssteun 2017

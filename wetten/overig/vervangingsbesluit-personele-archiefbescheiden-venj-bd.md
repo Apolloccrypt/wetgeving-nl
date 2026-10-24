@@ -9,7 +9,7 @@ laatste_update: 2017-04-14
 status: geldig
 toestand: 2017-04-14
 bron: "https://wetten.overheid.nl/BWBR0039468"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister van Veiligheid en Justitie van 5 april 2017, kenmerk DP&O/17/2063854 houdende de digitale vervanging van de personele archiefbescheiden van medewerkers van het bestuursdepartement van het Ministerie van Veiligheid en Justitie (Vervangingsbesluit personele archiefbescheiden VenJ BD)

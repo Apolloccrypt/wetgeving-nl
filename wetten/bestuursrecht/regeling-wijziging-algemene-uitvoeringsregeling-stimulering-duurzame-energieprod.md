@@ -9,7 +9,7 @@ laatste_update: 2017-04-01
 status: geldig
 toestand: 2017-04-01
 bron: "https://wetten.overheid.nl/BWBR0039382"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Minister van Economische Zaken van 24 maart 2017, nr. WJZ/17043557, tot wijziging van de Algemene uitvoeringsregeling stimulering duurzame energieproductie en de Uitvoeringsregeling windenergie op zee (aanpassing voorschriften inzake de aanvraag)

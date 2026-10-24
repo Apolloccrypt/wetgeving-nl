@@ -9,7 +9,7 @@ laatste_update: 2017-08-16
 status: geldig
 toestand: 2017-08-16
 bron: "https://wetten.overheid.nl/BWBR0039884"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport en de Minister van Veiligheid en Justitie van 2 augustus 2017, kenmerk MC-U-165460, houdende de vaststelling van beleidsregels inzake de meldplicht geweld tussen cliënten

@@ -9,7 +9,7 @@ laatste_update: 2017-09-13
 status: geldig
 toestand: 2017-09-13
 bron: "https://wetten.overheid.nl/BWBR0039969"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelings-samenwerking van 18 augustus 2017, nr. MINBUZA-2017.960245, tot verlening van mandaat, volmacht en machtiging inzake uitvoering van de Geodata for Agriculture and Water Facility 2017–2018 (Mandaatbesluit G4AW 2017–2018)

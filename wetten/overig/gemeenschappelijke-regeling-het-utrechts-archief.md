@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0039480"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Gemeenschappelijke regeling tot instelling van een openbaar lichaam beheer archiefbescheiden en collecties gemeente Utrecht d.d. 10 februari 2017, kenmerk 1149544

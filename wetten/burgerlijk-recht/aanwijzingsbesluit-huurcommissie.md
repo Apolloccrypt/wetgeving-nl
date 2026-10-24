@@ -9,7 +9,7 @@ laatste_update: 2017-09-13
 status: geldig
 toestand: 2017-09-13
 bron: "https://wetten.overheid.nl/BWBR0039968"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 29 augustus 2017, kenmerk 2017-0000385971, houdende aanwijzing van de huurcommissie als instantie tot buitengerechtelijke geschillenbeslechting in de zin van de Implementatiewet buitengerechtelijke geschillenbeslechting consumenten (Aanwijzingsbesluit huurcommissie)

@@ -9,7 +9,7 @@ laatste_update: 2017-07-01
 status: geldig
 toestand: 2017-07-01
 bron: "https://wetten.overheid.nl/BWBR0039556"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 10 mei 2017 nr. BOACAT2017/033, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Sportvisserij MidWest Nederland

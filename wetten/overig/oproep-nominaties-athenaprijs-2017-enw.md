@@ -8,7 +8,7 @@ laatste_update: 2017-07-25
 status: geldig
 toestand: 2017-07-25
 bron: "https://wetten.overheid.nl/BWBR0039844"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Oproep nominaties Athenaprijs 2017 – ENW

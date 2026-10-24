@@ -9,7 +9,7 @@ laatste_update: 2017-09-08
 status: geldig
 toestand: 2017-09-08
 bron: "https://wetten.overheid.nl/BWBR0039676"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister van Infrastructuur en Milieu van 13 juni 2017, nr. IENM/BSK-2017/489, houdende beperking aan de openbaarheid van het archief van de Centrale Sector VROM 1940–1981, aanvulling 2017 (Besluit beperking openbaarheid archief Centrale Sector VROM, 1940–1981)

@@ -9,7 +9,7 @@ laatste_update: 2026-04-16
 status: geldig
 toestand: 2026-04-16
 bron: "https://wetten.overheid.nl/BWBR0040182"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 1 november 2017, nr. 2017-0000168256, houdende de inrichting van de directie Organisatie, Bedrijfsvoering en Personeel, alsmede de doorverlening van vertegenwoordigingsbevoegdheden van de directeur Bedrijfsvoering (Organisatie-, mandaat- en volmachtbesluit OBP 2017)

@@ -8,7 +8,7 @@ laatste_update: 2005-11-02
 status: geldig
 toestand: 2005-11-02
 bron: "https://wetten.overheid.nl/BWBR0039488"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Bestuursreglement Onderzoeksraad voor veiligheid

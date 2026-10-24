@@ -9,7 +9,7 @@ laatste_update: 2018-08-01
 status: geldig
 toestand: 2018-08-01
 bron: "https://wetten.overheid.nl/BWBR0039937"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 1 augustus 2017, kenmerk IGZ/B&B 2017-2031244, houdende de instelling van de Klachtadviescommissie Inspectie voor de Gezondheidszorg en Inspectie Jeugdzorg

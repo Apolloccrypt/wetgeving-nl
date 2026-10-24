@@ -5,11 +5,11 @@ identifier: "BWBR0052002"
 categorie: "Milieu"
 soort: "ministeriele-regeling"
 publicatiedatum: 2026-01-01
-laatste_update: 2026-10-16
+laatste_update: 2026-10-22
 status: geldig
-toestand: 2026-10-16
+toestand: 2026-10-22
 bron: "https://wetten.overheid.nl/BWBR0052002"
-opgehaald: 2026-10-23
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Minister van Economische Zaken, de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur en de Minister van Klimaat en Groene Groei, van 13 december 2025, nr. WJZ/102735469, tot vaststelling van de subsidieplafonds en termijnen van openstelling van EZ-subsidie-instrumenten, LVVN-subsidie-instrumenten en KGG-subsidie-instrumenten (Regeling openstelling EZ-, LVVN- en KGG-subsidies 2026) [KetenID WGK 28368]
@@ -90,6 +90,8 @@ opgehaald: 2026-10-23
 |  | 3.28.2, eerste lid, onderdeel w |  |  | 03-08-2026 t/m 14-08-2026 | € 200.000 |
 |  | 3.28.2, eerste lid, onderdeel x |  |  | 03-08-2026 t/m 14-08-2026 | € 189.528 |
 |  | 3.28.2, eerste lid, onderdeel y |  |  | 03-08-2026 t/m 14-08-2026 | € 1.178.085 |
+|  | 3.28.2, eerste lid, onderdeel z |  |  | 26-10-2026 t/m 30-10-2026 | € 172.933 |
+|  | 3.28.2, eerste lid, onderdeel aa |  |  | 26-10-2026 t/m 30-10-2026 | € 1.150.000 |
 | Titel 3.30 Circular Plastics NL | 3.30.2 | Circular Plastics NL-onderzoeksprojecten |  | 21 april 2026 t/m 6 oktober 2026 | € 3.000.000 |
 |  |  | Circular Plastics NL-showcase projecten |  | 21 april t/m 6 oktober 2026 | € 37.000.000 |
 | Titel 3.32: BioBased Circular | Artikel 3.32.2 |  |  | 26 februari 2026 t/m 22 oktober 2026 | € 4.000.000 |

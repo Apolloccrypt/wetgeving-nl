@@ -9,7 +9,7 @@ laatste_update: 2017-12-07
 status: geldig
 toestand: 2017-12-07
 bron: "https://wetten.overheid.nl/BWBR0040271"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van 21 november 2017, houdende vaststelling van de bestanddelen van de beeldenaar van de munten van vijf en tien euro met als thema de Stelling van Amsterdam die in 2017 worden uitgegeven in de serie Nederlands Werelderfgoed

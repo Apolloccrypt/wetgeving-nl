@@ -9,7 +9,7 @@ laatste_update: 2017-10-19
 status: geldig
 toestand: 2017-10-19
 bron: "https://wetten.overheid.nl/BWBR0040076"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 16 oktober 2017, 2017-0000163620, tot vaststelling van het formulier Wet verevening pensioenrechten bij scheiding

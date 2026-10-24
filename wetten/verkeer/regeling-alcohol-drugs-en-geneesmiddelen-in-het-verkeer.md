@@ -9,7 +9,7 @@ laatste_update: 2024-09-20
 status: geldig
 toestand: 2024-09-20
 bron: "https://wetten.overheid.nl/BWBR0039687"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 15 juni 2017, nr. 2086428, houdende bepalingen met betrekking tot onderzoek ter vaststelling van het gebruik van alcohol, drugs en geneesmiddelen in het verkeer (Regeling alcohol, drugs en geneesmiddelen in het verkeer)

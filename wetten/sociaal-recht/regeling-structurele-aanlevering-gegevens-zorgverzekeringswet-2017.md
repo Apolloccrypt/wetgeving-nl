@@ -8,7 +8,7 @@ laatste_update: 2017-06-28
 status: geldig
 toestand: 2017-06-28
 bron: "https://wetten.overheid.nl/BWBR0039684"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Regeling structurele aanlevering gegevens Zorgverzekeringswet 2017

@@ -8,7 +8,7 @@ laatste_update: 2019-11-12
 status: geldig
 toestand: 2019-11-12
 bron: "https://wetten.overheid.nl/BWBR0039958"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Regeling vergoeding extra werkdruk BSB

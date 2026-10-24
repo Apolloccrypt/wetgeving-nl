@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0039785"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Wet van 31 mei 2017 tot wijziging van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen in verband met de herijking en harmonisatie van enige kwaliteitseisen voor kindercentra en peuterspeelzalen, de innovatie van die kwaliteitseisen en het aanpassen van enige eisen aan de kwaliteit van voorschoolse educatie (Wet innovatie en kwaliteit kinderopvang)

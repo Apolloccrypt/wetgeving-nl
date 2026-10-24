@@ -8,7 +8,7 @@ laatste_update: 2017-04-01
 status: geldig
 toestand: 2017-04-01
 bron: "https://wetten.overheid.nl/BWBR0039398"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Vennootschapsbelasting, pensioenen; uitfasering pensioen in eigen beheer

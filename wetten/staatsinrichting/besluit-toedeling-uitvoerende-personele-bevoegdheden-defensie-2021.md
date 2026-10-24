@@ -9,7 +9,7 @@ laatste_update: 2022-12-23
 status: geldig
 toestand: 2022-12-23
 bron: "https://wetten.overheid.nl/BWBR0039990"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Mandaatbesluit Personele Bevoegdheden Defensie 2017

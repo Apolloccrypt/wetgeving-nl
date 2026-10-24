@@ -8,7 +8,7 @@ laatste_update: 2017-08-07
 status: geldig
 toestand: 2017-08-07
 bron: "https://wetten.overheid.nl/BWBR0039867"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Call for proposals, Onderzoekstalent 2018

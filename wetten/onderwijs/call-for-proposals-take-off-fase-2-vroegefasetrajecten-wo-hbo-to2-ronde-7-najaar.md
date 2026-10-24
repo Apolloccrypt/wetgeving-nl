@@ -8,7 +8,7 @@ laatste_update: 2017-07-05
 status: geldig
 toestand: 2017-07-05
 bron: "https://wetten.overheid.nl/BWBR0039737"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Call for proposals Take-off fase 2 Vroegefasetrajecten WO, HBO & TO2 Ronde 7 – Najaar 2017

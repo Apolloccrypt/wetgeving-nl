@@ -9,7 +9,7 @@ laatste_update: 2017-07-01
 status: geldig
 toestand: 2017-07-01
 bron: "https://wetten.overheid.nl/BWBR0039604"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit van het college van afgevaardigden van 19 april 2017 houdende de wijziging van de Verordening op de advocatuur in verband met de periodieke actualisatie, de evaluatie civiele cassatie en de financiering van de ondersteuning van de tuchtrechtspraak (Verzamelverordening 2016)

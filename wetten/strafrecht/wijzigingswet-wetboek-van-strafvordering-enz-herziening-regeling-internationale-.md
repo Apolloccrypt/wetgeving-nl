@@ -9,7 +9,7 @@ laatste_update: 2018-09-19
 status: geldig
 toestand: 2018-09-19
 bron: "https://wetten.overheid.nl/BWBR0039657"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Wet van 7 juni 2017 tot wijziging van het Wetboek van Strafvordering en enkele andere wetten met het oog op het moderniseren van de regeling van internationale samenwerking in strafzaken (herziening regeling internationale samenwerking in strafzaken)

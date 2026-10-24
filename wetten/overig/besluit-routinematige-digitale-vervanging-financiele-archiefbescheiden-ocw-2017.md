@@ -9,7 +9,7 @@ laatste_update: 2017-08-29
 status: geldig
 toestand: 2017-08-29
 bron: "https://wetten.overheid.nl/BWBR0039923"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 17 augustus 2017, nr. 1232501, houdende routinematige digitale vervanging van financiële archiefbescheiden (Besluit routinematige digitale vervanging financiële archiefbescheiden OCW 2017)

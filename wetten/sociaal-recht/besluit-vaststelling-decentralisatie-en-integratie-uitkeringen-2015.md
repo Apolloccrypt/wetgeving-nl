@@ -9,7 +9,7 @@ laatste_update: 2020-10-20
 status: geldig
 toestand: 2020-10-20
 bron: "https://wetten.overheid.nl/BWBR0040102"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van 4 oktober 2017, houdende vaststelling van diverse decentralisatie- en integratie-uitkeringen aan gemeenten en provincies voor het uitkeringsjaar 2015 en wijziging van het Besluit decentralisatie- en integratie-uitkeringen (Besluit vaststelling decentralisatie- en integratie-uitkeringen 2015)

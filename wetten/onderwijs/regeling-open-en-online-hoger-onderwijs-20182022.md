@@ -9,7 +9,7 @@ laatste_update: 2017-09-01
 status: geldig
 toestand: 2017-09-01
 bron: "https://wetten.overheid.nl/BWBR0039848"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 12 juli 2017, nr. HOenS/1188771 houdende voorschriften inzake stimulering open en online hoger onderwijs 2018–2022 (Regeling open en online hoger onderwijs 2018–2022)

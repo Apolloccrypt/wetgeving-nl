@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0039822"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit van 13 juli 2017, nr. 2022588, strekkende tot vaststelling van de vergoedingen van het College en commissies van het Nederlands Register Gerechtelijk Deskundigen (Vergoedingenregeling NRGD)

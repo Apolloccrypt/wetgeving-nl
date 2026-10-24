@@ -9,7 +9,7 @@ laatste_update: 2017-04-05
 status: geldig
 toestand: 2017-04-05
 bron: "https://wetten.overheid.nl/BWBR0039421"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister van Economische Zaken van 30 maart 2017, nr. WJZ/16041115, houdende regels inzake het verlenen van mandaat, volmacht en machtiging aan de directeur-generaal Rijkswaterstaat van het ministerie van Infrastructuur en Milieu betreffende de artikelen 27 en 28 van de Wet windenergie op zee en wijziging van het Besluit mandaat, volmacht en machtiging EZ 2015 (Besluit mandaat, volmacht en machtiging directeur-generaal Rijkswaterstaat en inspecteur-generaal der mijnen Wet windenergie op zee)

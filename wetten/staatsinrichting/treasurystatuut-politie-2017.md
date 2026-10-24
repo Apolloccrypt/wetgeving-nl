@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0039947"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 29 augustus 2017, houdende de vaststelling van een nieuw treasurystatuut voor de politie (Treasurystatuut politie 2017)

@@ -8,7 +8,7 @@ laatste_update: 2017-07-13
 status: geldig
 toestand: 2017-07-13
 bron: "https://wetten.overheid.nl/BWBR0039776"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Call for proposals Take-off HBO – fase 1: haalbaarheidsstudies – Ronde 3 – Juni 2017 – Regieorgaan SIA

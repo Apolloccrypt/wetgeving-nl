@@ -9,7 +9,7 @@ laatste_update: 2017-10-03
 status: geldig
 toestand: 2017-10-03
 bron: "https://wetten.overheid.nl/BWBR0040030"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 1 september 2017, houdende beperking van de openbaarheid van het archief van de Commissies op het gebied van Personeelsbeleid, (1966) 1978–1986

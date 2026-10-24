@@ -9,7 +9,7 @@ laatste_update: 2017-06-07
 status: geldig
 toestand: 2017-06-07
 bron: "https://wetten.overheid.nl/BWBR0039593"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 19 mei 2017, nr. ICE-31/2017, tot vaststelling van een subsidieplafond op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieplafond Cultuur en Ontwikkeling II 2017–2020)

@@ -9,7 +9,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBR0039713"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit van 9 juni 2017, houdende wijziging van diverse uitvoeringsbesluiten voor het voortgezet onderwijs in verband met onder meer deeleindexamens vmbo

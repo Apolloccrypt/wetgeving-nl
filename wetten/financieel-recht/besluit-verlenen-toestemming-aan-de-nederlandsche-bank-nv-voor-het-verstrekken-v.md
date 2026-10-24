@@ -9,7 +9,7 @@ laatste_update: 2017-04-12
 status: geldig
 toestand: 2017-04-12
 bron: "https://wetten.overheid.nl/BWBR0039445"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit van 27 maart, nr. 2017000511 tot het verlenen van toestemming aan De Nederlandsche Bank N.V. voor het verstrekken van een tegemoetkoming aan bepaalde depositohouders die een vergoeding hebben ontvangen uit hoofde van het depositogarantiestelsel

@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0039626"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Wet van 29 mei 2017, houdende wijziging van Boek 5 van het Burgerlijk Wetboek in verband met het verbeteren van het functioneren van verenigingen van eigenaars (Wet verbetering functioneren verenigingen van eigenaars)

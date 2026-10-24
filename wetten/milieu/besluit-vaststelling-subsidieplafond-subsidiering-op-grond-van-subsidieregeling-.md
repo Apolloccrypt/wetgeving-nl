@@ -9,7 +9,7 @@ laatste_update: 2017-09-30
 status: geldig
 toestand: 2017-09-30
 bron: "https://wetten.overheid.nl/BWBR0040020"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 25 september 2017, nr. MINBUZA-2017.1033708, tot vaststelling van een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Tweede openstelling Subsidieprogramma Fonds Duurzaam Water)

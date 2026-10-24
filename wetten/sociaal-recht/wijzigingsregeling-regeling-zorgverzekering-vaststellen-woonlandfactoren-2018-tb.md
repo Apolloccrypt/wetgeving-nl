@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0040213"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 10 november 2017, kenmerk 1241265-168333-Z, houdende wijziging van de Regeling zorgverzekering in verband met het vaststellen van de woonlandfactoren voor het jaar 2018 ten behoeve van de gedifferentieerde berekening van de bijdrage voor verdragsgerechtigden

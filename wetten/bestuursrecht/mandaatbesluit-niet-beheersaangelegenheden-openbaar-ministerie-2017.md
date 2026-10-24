@@ -9,7 +9,7 @@ laatste_update: 2025-08-01
 status: geldig
 toestand: 2025-08-01
 bron: "https://wetten.overheid.nl/BWBR0039392"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister van Veiligheid en Justitie van 21 maart 2017, nr. 2015730 houdende verlening van mandaat, volmacht en machtiging aan de secretaris-generaal van het Ministerie van Veiligheid en Justitie en het College van procureurs-generaal ten aanzien van aangelegenheden van het openbaar ministerie die niet het beheer van het Openbaar Ministerie betreffen (Mandaatbesluit niet-beheersaangelegenheden Openbaar Ministerie)

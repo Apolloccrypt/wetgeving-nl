@@ -9,7 +9,7 @@ laatste_update: 2017-06-30
 status: geldig
 toestand: 2017-06-30
 bron: "https://wetten.overheid.nl/BWBR0039706"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Minister van Economische Zaken van 23 juni 2017, nr. WJZ/17097583, houdende vaststelling van regels met betrekking tot de aanvraag en veiling van vergunningen voor digitale radio-omroep DAB+ in restruimte laag 4 (Regeling aanvraag- en veilingprocedure vergunningen digitale radio-omroep DAB+ laag 4)

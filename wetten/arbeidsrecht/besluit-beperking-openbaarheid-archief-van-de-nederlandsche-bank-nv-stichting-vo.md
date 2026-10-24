@@ -8,7 +8,7 @@ laatste_update: 2017-10-24
 status: geldig
 toestand: 2017-10-24
 bron: "https://wetten.overheid.nl/BWBR0040092"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit beperking openbaarheid archief van De Nederlandsche Bank N.V., Stichting Voorzieningsfonds voor Personeelsleden en Pensioentrekkenden, 1914–2008

@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0040191"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 2 november 2017, nr. MBO-1255120 inzake de vaststelling van de subsidieplafonds van de Regeling kwaliteitsafspraken mbo voor het kalenderjaar 2018

@@ -8,7 +8,7 @@ laatste_update: 2017-07-08
 status: geldig
 toestand: 2017-07-08
 bron: "https://wetten.overheid.nl/BWBR0039741"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit vaststelling selectielijst voor de gemeentelijke en intergemeentelijke organen over de periode vanaf 1 januari 2017

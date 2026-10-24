@@ -9,7 +9,7 @@ laatste_update: 2017-06-27
 status: geldig
 toestand: 2017-06-27
 bron: "https://wetten.overheid.nl/BWBR0039681"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 16 juni 2017 nr. BOACAT2017/037, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij regionale eenheid Midden-Nederland, Team Buitengerechtelijke Afdoeningen

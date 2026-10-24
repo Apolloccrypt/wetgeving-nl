@@ -9,7 +9,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBR0039802"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 10 juli 2017, nr. VO/1221381 houdende regels inzake het verlenen van mandaat en machtiging aan de directeur van het Agentschap CIBG betreffende aangelegenheden die verband houden met het beheer van het lerarenregister en registervoorportaal en de opname en doorhaling van leraren in het lerarenregister en het registervoorportaal (Besluit mandaat en machtiging directeur agentschap CIBG inzake het beheer van het lerarenregister en registervoorportaal)

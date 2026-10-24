@@ -8,7 +8,7 @@ laatste_update: 2017-03-10
 status: geldig
 toestand: 2017-03-10
 bron: "https://wetten.overheid.nl/BWBR0039448"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Directe belastingen, Internationale inlichtingenuitwisseling; Spanje

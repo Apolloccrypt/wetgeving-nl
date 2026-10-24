@@ -9,7 +9,7 @@ laatste_update: 2017-07-01
 status: geldig
 toestand: 2017-07-01
 bron: "https://wetten.overheid.nl/BWBR0039699"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister van Economische Zaken van 27 juni 2017, nr. WJZ/17054933, tot instelling van de Adviescommissie Duurzaamheid Biomassa voor Energietoepassingen (Instellingsbesluit Adviescommissie Duurzaamheid Biomassa voor Energietoepassingen)

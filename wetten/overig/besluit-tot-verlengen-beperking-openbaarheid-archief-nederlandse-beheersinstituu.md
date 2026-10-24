@@ -9,7 +9,7 @@ laatste_update: 2017-05-20
 status: geldig
 toestand: 2017-05-20
 bron: "https://wetten.overheid.nl/BWBR0039557"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit van 12 april 2017 tot het verlengen van de beperking op de openbaarheid van het archief van het Nederlandse Beheersinstituut – Personeelsdossiers 1945–1967, nummer archiefinventaris 2.09.37

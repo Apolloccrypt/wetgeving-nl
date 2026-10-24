@@ -9,7 +9,7 @@ laatste_update: 2017-11-14
 status: geldig
 toestand: 2017-11-14
 bron: "https://wetten.overheid.nl/BWBR0040190"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 10 november 2017, nr. 2017-0000541638, houdende tijdelijke verlening van mandaat, volmacht en machtiging op het terrein van de ruimtelijke ontwikkeling, ruimtelijke ordening, de Omgevingswet en het Kadaster (Tijdelijke regeling mandaat, volmacht en machtiging ruimtelijke ontwikkeling, ruimtelijke ordening, de Omgevingswet en het Kadaster)

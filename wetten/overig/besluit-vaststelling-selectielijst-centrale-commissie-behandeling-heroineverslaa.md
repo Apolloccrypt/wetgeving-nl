@@ -8,7 +8,7 @@ laatste_update: 2017-10-15
 status: geldig
 toestand: 2017-10-15
 bron: "https://wetten.overheid.nl/BWBR0040069"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit vaststelling selectielijst Centrale Commissie Behandeling Heroïneverslaafden 1996–2010

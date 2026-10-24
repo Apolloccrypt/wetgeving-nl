@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0040185"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van 24 oktober 2017, houdende wijziging van enkele besluiten op het gebied van afvalstoffen (gescheiden aangeleverd afval gescheiden houden door inzamelaar en enkele andere verbeteringen en reparaties)

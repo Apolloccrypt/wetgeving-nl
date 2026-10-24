@@ -9,7 +9,7 @@ laatste_update: 2017-10-10
 status: geldig
 toestand: 2017-10-10
 bron: "https://wetten.overheid.nl/BWBR0040025"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 21 september 2017 nr. BOACAT2017/062, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij het Korps Militaire Controleurs Gevaarlijke Stoffen van de Koninklijke Marechaussee

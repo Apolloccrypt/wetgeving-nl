@@ -9,7 +9,7 @@ laatste_update: 2017-10-05
 status: geldig
 toestand: 2017-10-05
 bron: "https://wetten.overheid.nl/BWBR0040042"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de directeur Eenheid Secretariaten Tuchtcolleges en Toetsingscommissies van 21 september 2017, kenmerk 1129616-163472-ESTT, houdende de verlening van ondervolmacht aan de adviseurs bedrijfsvoering van het bedrijfsbureau

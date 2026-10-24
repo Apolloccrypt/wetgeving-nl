@@ -8,7 +8,7 @@ laatste_update: 1991-11-26
 status: geldig
 toestand: 1991-11-26
 bron: "https://wetten.overheid.nl/BWBR0040039"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Regeling bedrijfsvakanties

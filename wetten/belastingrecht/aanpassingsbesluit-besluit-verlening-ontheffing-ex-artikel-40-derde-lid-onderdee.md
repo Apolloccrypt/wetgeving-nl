@@ -9,7 +9,7 @@ laatste_update: 2021-01-15
 status: geldig
 toestand: 2021-01-15
 bron: "https://wetten.overheid.nl/BWBR0040251"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister voor Medische Zorg van 21 november 2017, kenmerk 1258386-169753-PG, houdende aanpassing van het besluit tot verlening van een ontheffing van een ex artikel 40, derde lid, onderdeel g, van de Geneesmiddelenwet, aan het RIVM

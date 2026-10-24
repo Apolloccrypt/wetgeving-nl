@@ -8,7 +8,7 @@ laatste_update: 2017-09-26
 status: geldig
 toestand: 2017-09-26
 bron: "https://wetten.overheid.nl/BWBR0039999"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit vervanging archiefbescheiden RDW 2017

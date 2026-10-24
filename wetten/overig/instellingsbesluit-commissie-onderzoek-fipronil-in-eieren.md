@@ -9,7 +9,7 @@ laatste_update: 2017-10-26
 status: geldig
 toestand: 2017-10-26
 bron: "https://wetten.overheid.nl/BWBR0040109"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 17 oktober 2017, houdende instelling van de commissie die onderzoek doet naar fipronil in eieren (Instellingsbesluit Commissie onderzoek fipronil in eieren)

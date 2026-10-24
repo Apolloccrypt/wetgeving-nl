@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0040265"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 29 november 2017, nr. IENM/BSK-2017/285018, houdende regels voor het subsidiëren van het onderwerken van graanresten na de oogst (Tijdelijke subsidieregeling onderwerken graanresten 2018–2022)

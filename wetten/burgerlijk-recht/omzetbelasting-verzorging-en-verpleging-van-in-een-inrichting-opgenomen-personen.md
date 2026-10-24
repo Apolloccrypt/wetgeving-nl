@@ -8,7 +8,7 @@ laatste_update: 2018-12-29
 status: geldig
 toestand: 2018-12-29
 bron: "https://wetten.overheid.nl/BWBR0039991"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Omzetbelasting; verzorging en verpleging van in een inrichting opgenomen personen

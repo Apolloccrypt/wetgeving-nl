@@ -8,7 +8,7 @@ laatste_update: 2017-08-25
 status: geldig
 toestand: 2017-08-25
 bron: "https://wetten.overheid.nl/BWBR0039922"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit vergoedingen Adviescommissie Duurzaamheid Biomassa voor Energietoepassingen 2017

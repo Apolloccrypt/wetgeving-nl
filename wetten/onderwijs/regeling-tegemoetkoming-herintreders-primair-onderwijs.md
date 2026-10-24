@@ -9,7 +9,7 @@ laatste_update: 2019-05-29
 status: geldig
 toestand: 2019-05-29
 bron: "https://wetten.overheid.nl/BWBR0040130"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 24 oktober 2017, nr. PO/1237137, houdende regels voor de subsidieverstrekking voor tegemoetkoming in de kosten voor de ondersteuning en begeleiding van herintreders in het primair onderwijs (Regeling tegemoetkoming herintreders primair onderwijs)

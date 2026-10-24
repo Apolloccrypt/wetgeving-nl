@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0039770"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister van Veiligheid en Justitie van 3 juli 2017, nr.2094030, houdende instelling van de Commissie modernisering opsporingsonderzoek in het digitale tijdperk (Instellingsbesluit Commissie modernisering opsporingsonderzoek in het digitale tijdperk)

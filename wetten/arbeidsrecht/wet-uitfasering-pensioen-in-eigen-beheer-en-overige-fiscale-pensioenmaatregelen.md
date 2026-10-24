@@ -9,7 +9,7 @@ laatste_update: 2017-04-01
 status: geldig
 toestand: 2017-04-01
 bron: "https://wetten.overheid.nl/BWBR0039380"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Wet van 8 maart 2017 tot wijziging van enkele belastingwetten en enige andere wetten tot uitfasering van het pensioen in eigen beheer en het treffen van enkele fiscale maatregelen inzake oudedagsvoorzieningen (Wet uitfasering pensioen in eigen beheer en overige fiscale pensioenmaatregelen)

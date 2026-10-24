@@ -9,7 +9,7 @@ laatste_update: 2017-07-07
 status: geldig
 toestand: 2017-07-07
 bron: "https://wetten.overheid.nl/BWBR0039738"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Directeur van de Directie Informatiebeleid van 13 juni 2017, kenmerk DI CIO 163388, houdende de regeling van ondermandaat voor de Directie Organisatie, Bedrijfsvoering en Personeel

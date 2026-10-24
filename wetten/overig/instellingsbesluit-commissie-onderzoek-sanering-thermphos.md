@@ -9,7 +9,7 @@ laatste_update: 2017-07-19
 status: geldig
 toestand: 2017-07-19
 bron: "https://wetten.overheid.nl/BWBR0039799"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister van Financiën van 30 juni 2017 [2017-120247], houdende instelling van de Commissie onderzoek sanering Thermphos (Instellingsbesluit Commissie sanering Thermphos)

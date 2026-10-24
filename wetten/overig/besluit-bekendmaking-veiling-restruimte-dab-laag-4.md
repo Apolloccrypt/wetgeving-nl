@@ -9,7 +9,7 @@ laatste_update: 2017-06-30
 status: geldig
 toestand: 2017-06-30
 bron: "https://wetten.overheid.nl/BWBR0039703"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister van Economische Zaken van 23 juni 2017, nr. WJZ/17097614, handelende in overeenstemming met de Staatssecretaris van Onderwijs, Cultuur en Wetenschap inzake de keuze voor het instrument veiling van vergunningen voor digitale radio-omroep DAB+ in laag 4, en de vaststelling van de ontwerp-vergunningen

@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0040264"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van 21 november 2017, houdende regels voor het beperken van de kring van verzekerden op Bonaire, Sint Eustatius en Saba voor de werknemersverzekeringen (Besluit beperking kring verzekerden werknemersverzekeringen BES)

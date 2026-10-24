@@ -8,7 +8,7 @@ laatste_update: 2017-05-30
 status: geldig
 toestand: 2017-05-30
 bron: "https://wetten.overheid.nl/BWBR0039590"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Beleid beoordeling verzoeken notarissen om een ontheffing van de verplichting om een samenstellingsverklaring te verstrekken bij het indienen van kwartaalcijfers over het eerste tot en met het vierde kwartaal 2018

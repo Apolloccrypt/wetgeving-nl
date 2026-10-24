@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0039827"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 14 juli 2017, nr. EGI/1223547, tot aanwijzing van ambtenaren van de Erfgoedinspectie tot toezichthoudende ambtenaren Archiefwet 1995 en Archiefwet BES

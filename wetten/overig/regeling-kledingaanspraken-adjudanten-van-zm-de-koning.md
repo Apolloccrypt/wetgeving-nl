@@ -8,7 +8,7 @@ laatste_update: 2025-04-12
 status: geldig
 toestand: 2025-04-12
 bron: "https://wetten.overheid.nl/BWBR0039950"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Regeling kledingaanspraken adjudanten van Z.M. de Koning

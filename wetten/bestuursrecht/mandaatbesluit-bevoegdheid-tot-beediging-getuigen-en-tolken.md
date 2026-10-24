@@ -9,7 +9,7 @@ laatste_update: 2017-06-21
 status: geldig
 toestand: 2017-06-21
 bron: "https://wetten.overheid.nl/BWBR0039651"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Mandaatbesluit bevoegdheid beëdiging getuigen en tolken

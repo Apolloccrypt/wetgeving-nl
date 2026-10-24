@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0040060"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 8 september 2017, nr. DE/122061, houdende regels voor het instellen van een jury voor toekenning van de Joke Smitprijs, voor de werkwijze van de jury en voor de voordracht van de kandidaten (Regeling toekenning Joke Smitprijs)

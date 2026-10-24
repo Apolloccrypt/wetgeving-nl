@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0040019"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 22 september 2017, nr. MBO/1214093, inzake het aanwijzen van digitale vaardigheden als opleiding educatie alsmede wijziging van de Regeling eindtermen educatie 2013 vanwege het vaststellen van eindtermen voor deze opleiding (Regeling digitale vaardigheden educatie 2018)

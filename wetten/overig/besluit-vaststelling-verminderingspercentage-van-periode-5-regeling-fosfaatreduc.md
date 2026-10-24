@@ -9,7 +9,7 @@ laatste_update: 2017-11-09
 status: geldig
 toestand: 2017-11-09
 bron: "https://wetten.overheid.nl/BWBR0040173"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 3 november 2017, nr. WJZ/17172624, tot vaststelling van het verminderingspercentage van periode 5 in het kader van de Regeling fosfaatreductieplan 2017

@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2021-05-28
 toestand: 2021-05-01
 bron: "https://wetten.overheid.nl/BWBR0040041"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de directeur Eenheid Secretariaten Tuchtcolleges en Toetsingscommissies van 21 september 2017, kenmerk 1129617-163472-ESTT, houdende de verlening van ondervolmacht aan de secretariaatsmedewerkers van het bedrijfsbureau

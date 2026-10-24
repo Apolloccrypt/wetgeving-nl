@@ -9,7 +9,7 @@ laatste_update: 2017-07-15
 status: geldig
 toestand: 2017-07-15
 bron: "https://wetten.overheid.nl/BWBR0039778"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit van 3 juli 2017, houdende vaststelling van de grondslag voor de bijdrage van zelfstandig bestuursorganen voor het gebruik van de voorziening Publicatieplatform voor uitvoeringscontent (Besluit bijdrage PUC)

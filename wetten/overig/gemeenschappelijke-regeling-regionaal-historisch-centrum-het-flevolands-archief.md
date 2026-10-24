@@ -9,7 +9,7 @@ laatste_update: 2017-06-01
 status: geldig
 toestand: 2017-06-01
 bron: "https://wetten.overheid.nl/BWBR0039545"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Gemeenschappelijke Regeling Regionaal Historisch Centrum Het Flevolands Archief

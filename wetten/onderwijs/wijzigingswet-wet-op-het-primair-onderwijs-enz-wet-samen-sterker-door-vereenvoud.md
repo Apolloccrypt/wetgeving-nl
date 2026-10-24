@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0039948"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Wet van 19 augustus 2017 tot wijziging van diverse onderwijswetten in verband met de vereenvoudiging van de vorming van samenwerkingsscholen (Wet samen sterker door vereenvoudiging samenwerkingsschool)

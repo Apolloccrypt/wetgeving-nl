@@ -8,7 +8,7 @@ laatste_update: 2017-11-09
 status: geldig
 toestand: 2017-11-09
 bron: "https://wetten.overheid.nl/BWBR0040168"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit vervanging archiefbescheiden Justid

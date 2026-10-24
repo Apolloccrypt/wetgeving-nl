@@ -9,7 +9,7 @@ laatste_update: 2017-07-26
 status: geldig
 toestand: 2017-07-26
 bron: "https://wetten.overheid.nl/BWBR0039841"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Richtlijnen voor het aanvragen van financiering voor wetenschappelijk onderzoek in het kader van het doorlopend Open Technologieprogramma (OTP)

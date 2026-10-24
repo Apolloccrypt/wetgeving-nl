@@ -9,7 +9,7 @@ laatste_update: 2017-06-07
 status: geldig
 toestand: 2017-06-07
 bron: "https://wetten.overheid.nl/BWBR0039609"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Staatssecretaris van Economische Zaken van 20 mei 2017, nr. WJZ/17066950, houdende de benoeming van de leden van de Commissie knelgevallen fosfaatrechten (benoemingsbesluit Commissie knelgevallen fosfaatrechten)

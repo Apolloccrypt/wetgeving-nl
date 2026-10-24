@@ -9,7 +9,7 @@ laatste_update: 2017-09-02
 status: geldig
 toestand: 2017-09-02
 bron: "https://wetten.overheid.nl/BWBR0039935"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 10 augustus 2017, nr. 920680, houdende routinematige digitale vervanging van archiefbescheiden (Besluit routinematige digitale vervanging archiefbescheiden OCW 2017)

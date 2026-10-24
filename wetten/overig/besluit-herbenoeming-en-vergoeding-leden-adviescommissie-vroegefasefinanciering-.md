@@ -9,7 +9,7 @@ laatste_update: 2017-08-01
 status: geldig
 toestand: 2017-08-01
 bron: "https://wetten.overheid.nl/BWBR0039751"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit houdende herbenoeming en vergoeding leden Adviescommissie vroegefasefinanciering MKB-ondernemers en innovatieve starters

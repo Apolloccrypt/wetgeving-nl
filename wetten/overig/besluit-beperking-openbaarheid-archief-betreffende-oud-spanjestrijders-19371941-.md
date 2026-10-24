@@ -8,7 +8,7 @@ laatste_update: 2017-11-09
 status: geldig
 toestand: 2017-11-09
 bron: "https://wetten.overheid.nl/BWBR0040181"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit beperking openbaarheid archief betreffende Oud-Spanjestrijders 1937–1941, toegang 2.09.99

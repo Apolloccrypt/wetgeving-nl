@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0039530"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Reglement raad van toezicht Staatsbosbeheer als bedoeld in artikel 8, eerste lid, van de Wet verzelfstandiging Staatsbosbeheer

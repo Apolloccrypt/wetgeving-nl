@@ -9,7 +9,7 @@ laatste_update: 2017-06-16
 status: geldig
 toestand: 2017-06-16
 bron: "https://wetten.overheid.nl/BWBR0039635"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit van 6 juni 2017 tot wijziging van het Besluit Gedragstoezicht financiële ondernemingen Wft en het Besluit bestuurlijke boetes financiële sector in verband met de implementatie van richtlijn 2014/92/EU van het Europees Parlement en de Raad van 23 juli 2014 betreffende de vergelijkbaarheid van de in verband met betaalrekeningen aangerekende vergoedingen, het overstappen naar een andere betaalrekening en de toegang tot betaalrekeningen met basisfuncties (PbEU 2014, L 257) (Implementatiebesluit richtlijn betaalrekeningen)

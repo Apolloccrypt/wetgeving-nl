@@ -9,7 +9,7 @@ laatste_update: 2017-06-21
 status: geldig
 toestand: 2017-06-21
 bron: "https://wetten.overheid.nl/BWBR0039704"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 19 juni 2017 nr. BOACAT2017/038, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Leisurelands B.V.

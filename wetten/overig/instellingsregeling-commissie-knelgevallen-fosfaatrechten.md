@@ -9,7 +9,7 @@ laatste_update: 2017-06-07
 status: geldig
 toestand: 2017-06-07
 bron: "https://wetten.overheid.nl/BWBR0039606"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken en de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 20 mei 2017, nr. WJZ/17066875, houdende instelling van de Commissie knelgevallen fosfaatrechten (Instellingsregeling Commissie knelgevallen fosfaatrechten)

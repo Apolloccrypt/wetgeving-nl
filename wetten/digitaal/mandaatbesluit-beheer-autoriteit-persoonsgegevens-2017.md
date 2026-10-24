@@ -9,7 +9,7 @@ laatste_update: 2017-07-18
 status: geldig
 toestand: 2017-07-18
 bron: "https://wetten.overheid.nl/BWBR0039781"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister van Veiligheid en Justitie van 29 juni 2017, nr. 2091347 houdende verlening van mandaat en het doorgeven van volmacht en machtiging ten aanzien van de beheersaangelegenheden van de Autoriteit persoonsgegevens (Mandaatbesluit beheer Autoriteit persoonsgegevens 2017)

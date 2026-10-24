@@ -9,7 +9,7 @@ laatste_update: 2026-02-19
 status: geldig
 toestand: 2026-02-19
 bron: "https://wetten.overheid.nl/BWBR0039667"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 12 juni 2017, nr. 2017-0000097201, tot vaststelling van de regeling minimumloon en minimumvakantiebijslag en wijziging van enkele ministeriële regelingen (Regeling minimumloon en minimumvakantiebijslag)

@@ -9,7 +9,7 @@ laatste_update: 2017-11-01
 status: geldig
 toestand: 2017-11-01
 bron: "https://wetten.overheid.nl/BWBR0040074"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Minister van Economische Zaken van 13 oktober 2017, nr. WJZ/17122295, houdende nadere regels tot vergunningverlening windenergie op zee voor de kavels I en II van het windenergiegebied Hollandse Kust (zuid) (Regeling vergunningverlening windenergie op zee kavels I en II Hollandse Kust (zuid))

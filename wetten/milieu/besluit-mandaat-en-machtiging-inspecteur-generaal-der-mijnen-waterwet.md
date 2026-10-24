@@ -9,7 +9,7 @@ laatste_update: 2017-04-07
 status: geldig
 toestand: 2017-04-07
 bron: "https://wetten.overheid.nl/BWBR0039425"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister van Infrastructuur en Milieu van 30 maart 2017, nr. RWS-2016/51027/158789, houdende regels inzake het verlenen van mandaat en machtiging aan de inspecteur-generaal der mijnen van het ministerie van Economische Zaken betreffende de toepassing van bestuursdwang op grond van de Waterwet (Besluit mandaat en machtiging inspecteur-generaal der mijnen Waterwet)

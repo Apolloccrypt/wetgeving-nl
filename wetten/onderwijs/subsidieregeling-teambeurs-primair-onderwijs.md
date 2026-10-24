@@ -9,7 +9,7 @@ laatste_update: 2019-07-09
 status: geldig
 toestand: 2019-07-09
 bron: "https://wetten.overheid.nl/BWBR0039462"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 26 maart 2017, nr. PO/1116263, houdende regels voor subsidieverstrekking voor het inzetten van kennis en competenties van masteropgeleide leraren in een lerarenteam ten behoeve van schoolontwikkeling (Subsidieregeling Teambeurs primair onderwijs)

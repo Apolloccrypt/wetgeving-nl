@@ -9,7 +9,7 @@ laatste_update: 2017-09-02
 status: geldig
 toestand: 2017-09-02
 bron: "https://wetten.overheid.nl/BWBR0039415"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 27 maart 2017 nr. BOACAT2017/025, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Toezicht en Handhaving van de gemeente Nijmegen

@@ -9,7 +9,7 @@ laatste_update: 2017-09-15
 status: geldig
 toestand: 2017-09-15
 bron: "https://wetten.overheid.nl/BWBR0039982"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister van Infrastructuur en Milieu, van 4 september, nr. IENM/BSK-2017/217047, houdende vaststelling tot geheimverklaring van de opdracht voor de operatie en het onderhoud van het nieuwe regeringsvliegtuig (Boeing BBJ 737 PH-GOV)

@@ -8,7 +8,7 @@ laatste_update: 2019-09-29
 status: geldig
 toestand: 2019-09-29
 bron: "https://wetten.overheid.nl/BWBR0040132"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit vaststelling selectielijst Stichting DBC-Onderhoud 2004–2017 en Nederlandse Zorgautoriteit vanaf 2006

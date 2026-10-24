@@ -9,7 +9,7 @@ laatste_update: 2017-06-24
 status: geldig
 toestand: 2017-06-24
 bron: "https://wetten.overheid.nl/BWBR0039679"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 15 juni 2017, kenmerk 1143247-164699-CZ, houdende vaststelling van beleidsregels voor het subsidiëren van eerstelijnscentra in grootschalige nieuwbouwlocaties 2018 en intrekking van het Beleidskader eerstelijnscentra in grootschalige nieuwbouwlocaties

@@ -8,7 +8,7 @@ laatste_update: 2003-01-01
 status: geldig
 toestand: 2003-01-01
 bron: "https://wetten.overheid.nl/BWBR0039955"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Regeling incidentele reizen voor de militair en zijn naaste betrekking

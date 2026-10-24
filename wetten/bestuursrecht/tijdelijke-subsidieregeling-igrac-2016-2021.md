@@ -9,7 +9,7 @@ laatste_update: 2017-07-13
 status: geldig
 toestand: 2017-07-13
 bron: "https://wetten.overheid.nl/BWBR0039771"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu, van 27 juni 2017, nr. IENM/BSK-2017/67339, houdende regels voor de verstrekking van een tijdelijke subsidie aan het International Groundwater Resources Assessment Centre (Tijdelijke subsidieregeling IGRAC 2016-2021)

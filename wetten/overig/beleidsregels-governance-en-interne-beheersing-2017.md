@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0040067"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Beleidsregels van het Commissariaat voor de Media van 26 september 2017 over de governance en interne beheersing van de NPO, de RPO en de landelijke en regionale publieke media-instellingen (Beleidsregels governance en interne beheersing 2017)

@@ -9,7 +9,7 @@ laatste_update: 2017-10-20
 status: geldig
 toestand: 2017-10-20
 bron: "https://wetten.overheid.nl/BWBR0040087"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister van Veiligheid en Justitie van 10 oktober 2017 nr. BOACAT2017/066, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Westland.

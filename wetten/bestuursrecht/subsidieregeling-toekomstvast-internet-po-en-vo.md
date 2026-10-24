@@ -9,7 +9,7 @@ laatste_update: 2017-07-21
 status: geldig
 toestand: 2017-07-21
 bron: "https://wetten.overheid.nl/BWBR0039815"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 4 juli 2017, nr. POVO/1222853, houdende regels met betrekking tot subsidieverstrekking aan bevoegde gezagsorganen ten behoeve van toekomstvast internet in het primair en voortgezet onderwijs (Subsidieregeling toekomstvast internet po en vo)

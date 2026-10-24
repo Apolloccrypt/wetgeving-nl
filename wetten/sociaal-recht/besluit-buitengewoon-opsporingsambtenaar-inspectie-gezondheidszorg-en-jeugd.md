@@ -9,7 +9,7 @@ laatste_update: 2018-08-02
 status: geldig
 toestand: 2018-08-02
 bron: "https://wetten.overheid.nl/BWBR0040023"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 27 september 2017 nr. BOACAT2017/063, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Inspectie Gezondheidszorg en Jeugd in oprichting

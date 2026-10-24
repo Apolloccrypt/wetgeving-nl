@@ -9,7 +9,7 @@ laatste_update: 2017-09-12
 status: geldig
 toestand: 2017-09-12
 bron: "https://wetten.overheid.nl/BWBR0039963"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 1 september 2017 nr. BOACAT2017/053, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de provinsje Fryslân

@@ -9,7 +9,7 @@ laatste_update: 2018-04-01
 status: geldig
 toestand: 2018-04-01
 bron: "https://wetten.overheid.nl/BWBR0039904"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Staatssecretaris van Financiën van 15 augustus 2017, nummer 2017-0000012937, tot wijziging van de Algemene douaneregeling, de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994 en de Uitvoeringsregeling accijns

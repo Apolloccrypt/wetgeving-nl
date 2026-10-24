@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0040184"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 1 november 2017 nr. BOACAT2017/075, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Almelo

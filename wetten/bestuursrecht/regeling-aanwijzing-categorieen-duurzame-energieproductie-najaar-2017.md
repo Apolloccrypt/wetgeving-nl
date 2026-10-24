@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0039768"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Minister van Economische Zaken van 7 juli 2017, nr. WJZ/17088351, houdende aanwijzing van categorieën van productie-installaties voor de stimulering van duurzame energieproductie in het najaar van 2017 (Regeling aanwijzing categorieën duurzame energieproductie najaar 2017)

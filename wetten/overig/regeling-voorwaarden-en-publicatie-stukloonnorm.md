@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0039424"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 28 maart 2017, 2017-0000055159, houdende voorwaarden met betrekking tot een voorgestelde stukloonnorm door een werkgeversorganisatie en wijze van publicatie van een stukloonnorm (Regeling voorwaarden en publicatie stukloonnorm)

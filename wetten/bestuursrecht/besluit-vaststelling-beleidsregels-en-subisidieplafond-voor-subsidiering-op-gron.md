@@ -9,7 +9,7 @@ laatste_update: 2019-11-21
 status: geldig
 toestand: 2019-11-21
 bron: "https://wetten.overheid.nl/BWBR0039485"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 11 april 2017, nr. MINBUZA-2017.555622, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Matra 2017–2020)

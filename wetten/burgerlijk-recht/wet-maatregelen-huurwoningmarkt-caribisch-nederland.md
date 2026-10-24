@@ -9,7 +9,7 @@ laatste_update: 2025-02-12
 status: geldig
 toestand: 2025-02-12
 bron: "https://wetten.overheid.nl/BWBR0039553"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Wet van 19 april 2017 tot integratie van de Wet huurcommissieregeling BES in een Wet maatregelen huurwoningmarkt Caribisch Nederland onder gelijktijdige aanpassing van eerstgenoemde wet, van Boek 7a van het Burgerlijk Wetboek BES en de Wet volkshuisvesting, ruimtelijke ordening en milieubeheer BES (Wet maatregelen huurwoningmarkt Caribisch Nederland)

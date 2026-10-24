@@ -9,7 +9,7 @@ laatste_update: 2017-08-12
 status: geldig
 toestand: 2017-08-12
 bron: "https://wetten.overheid.nl/BWBR0039877"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit nr. HDIOU-DB/170156 houdende beperking openbaarheid archief Commissariaat Buitenlandse Investeringen In Nederland (CBIN) over de periode 1967–2000 van het Ministerie van Economische Zaken

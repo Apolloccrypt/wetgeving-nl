@@ -9,7 +9,7 @@ laatste_update: 2018-08-01
 status: geldig
 toestand: 2018-08-01
 bron: "https://wetten.overheid.nl/BWBR0039549"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit van 26 april 2017, houdende wijziging van het Besluit basisvoorwaarden kwaliteit voorschoolse educatie in verband met aanscherping van de kwaliteitseisen aan beroepskrachten voorschoolse educatie

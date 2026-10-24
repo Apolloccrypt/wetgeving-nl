@@ -9,7 +9,7 @@ laatste_update: 2017-12-01
 status: geldig
 toestand: 2017-12-01
 bron: "https://wetten.overheid.nl/BWBR0040059"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 29 september 2017, kenmerk MC-1223399-167180, houdende op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake beschikbaarheidbijdrage post mortem orgaanuitname bij donoren 2018

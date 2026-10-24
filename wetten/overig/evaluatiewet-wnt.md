@@ -9,7 +9,7 @@ laatste_update: 2017-04-12
 status: geldig
 toestand: 2017-04-12
 bron: "https://wetten.overheid.nl/BWBR0039454"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Wet van 22 maart 2017 tot wijziging van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector naar aanleiding van de wetsevaluatie (Evaluatiewet WNT)

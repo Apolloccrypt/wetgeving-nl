@@ -8,7 +8,7 @@ laatste_update: 2026-07-16
 status: geldig
 toestand: 2026-07-16
 bron: "https://wetten.overheid.nl/BWBR0039787"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Regeling dienstreizen defensie

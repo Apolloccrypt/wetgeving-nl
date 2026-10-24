@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0040133"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 20 oktober 2017, nr. HO&S/1180908, houdende instelling van de Commissie beoordeling uitingen maatschappelijk verantwoordelijkheidsbesef (Regeling Commissie beoordeling uitingen maatschappelijk verantwoordelijkheidsbesef)

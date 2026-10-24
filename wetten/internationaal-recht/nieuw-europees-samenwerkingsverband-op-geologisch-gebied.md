@@ -8,7 +8,7 @@ laatste_update: 2008-07-17
 status: geldig
 toestand: 2008-07-17
 bron: "https://wetten.overheid.nl/BWBR0039484"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Nieuw Europees samenwerkingsverband op geologisch gebied

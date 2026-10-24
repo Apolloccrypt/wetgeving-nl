@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0039686"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Bekendmaking van de Minister van Sociale Zaken en Werkgelegenheid van 1 december 2016, 2016-0000255883, inzake de gewijzigde bedragen in de artikelen 7a en 12 van de Algemene Kinderbijslagwet per 1 januari 2017

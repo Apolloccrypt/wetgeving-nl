@@ -9,7 +9,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBR0039819"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap en de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 11 juli 2017, nr. WJZ/1171880/7226, houdende regels en beleidsregels ten behoeve van de uitvoering van de fusietoets in het onderwijs (Regeling en beleidsregels fusietoets in het onderwijs 2017)

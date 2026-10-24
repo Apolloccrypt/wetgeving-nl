@@ -9,7 +9,7 @@ laatste_update: 2021-07-01
 status: geldig
 toestand: 2021-07-01
 bron: "https://wetten.overheid.nl/BWBR0039677"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 20 juni 2017, nr. IENM/BSK-2017/124450 houdende regels over gebruiksinformatie en technische eisen aan oplaad- en tankpunten voor alternatieve brandstoffen in verband met de implementatie van richtlijn 2014/94/EU betreffende de uitrol van infrastructuur voor alternatieve brandstoffen (Regeling technische eisen en gebruikersinformatie over de infrastructuur van alternatieve brandstoffen)

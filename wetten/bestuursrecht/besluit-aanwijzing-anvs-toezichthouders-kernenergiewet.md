@@ -9,7 +9,7 @@ laatste_update: 2021-03-03
 status: geldig
 toestand: 2021-03-03
 bron: "https://wetten.overheid.nl/BWBR0039897"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit van 1 augustus 2017 van de Autoriteit Nucleaire Veiligheid en Stralingsbescherming, nr. ANVS-2017/8563, houdende de aanwijzing van inspecteurs die zijn belast met het toezicht op de naleving van de Kernenergiewet (Besluit aanwijzing ANVS-toezichthouders Kernenergiewet)

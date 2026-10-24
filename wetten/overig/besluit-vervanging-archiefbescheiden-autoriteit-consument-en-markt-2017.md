@@ -8,7 +8,7 @@ laatste_update: 2016-06-10
 status: geldig
 toestand: 2016-06-10
 bron: "https://wetten.overheid.nl/BWBR0039644"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit Vervanging Archiefbescheiden Autoriteit Consument en Markt 2017

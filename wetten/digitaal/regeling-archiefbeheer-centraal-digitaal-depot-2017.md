@@ -9,7 +9,7 @@ laatste_update: 2017-08-31
 status: geldig
 toestand: 2017-08-31
 bron: "https://wetten.overheid.nl/BWBR0039929"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Regeling d.d. 7 augustus 2017, nr. Alg 5870 van de algemeen directeur van de Justitiële Informatiedienst, namens de Minister van Veiligheid en Justitie, tot vaststelling van de regels voor het inrichten, beheren en onderhouden van het Centraal Digitaal Depot (Regeling archiefbeheer Centraal Digitaal Depot 2017)

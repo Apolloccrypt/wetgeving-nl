@@ -8,7 +8,7 @@ laatste_update: 2017-04-14
 status: geldig
 toestand: 2017-04-14
 bron: "https://wetten.overheid.nl/BWBR0039458"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Besluit erkenning geschillencommissie Schadeherstelbedrijven

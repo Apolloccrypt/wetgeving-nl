@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0039490"
-opgehaald: 2026-08-25
+opgehaald: 2026-10-24
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 5 april 2017, nr. DE/1155851, houdende regels voor het instellen van een jury voor toekenning van de Jos Brinkprijs, voor de werkwijze van de jury en voor de voordracht van de kandidaten (Regeling toekenning Jos Brinkprijs)

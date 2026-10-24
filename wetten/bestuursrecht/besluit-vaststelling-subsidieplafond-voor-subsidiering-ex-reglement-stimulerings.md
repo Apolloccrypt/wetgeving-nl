@@ -8,7 +8,7 @@ laatste_update: 2017-10-11
 status: geldig
 toestand: 2017-10-11
 bron: "https://wetten.overheid.nl/BWBR0040065"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-24
 ---
 
 # Besluit vaststelling subsidieplafond voor subsidiëring ex Reglement Stimuleringsmaatregel Filmproductie in Nederland
