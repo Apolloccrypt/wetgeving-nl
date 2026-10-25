@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0040328"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van 29 november 2017 tot vaststelling van het tijdstip, bedoeld in artikel 220a, achtste lid, van de Pensioenwet en artikel 214, tiende lid, van de Wet verplichte beroepspensioenregeling

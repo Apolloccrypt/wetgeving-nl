@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0040284"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Minister van Financiën van 21 november 2017, houdende regels over een periodiek interdepartementaal overleg met betrekking tot financieel-economische aangelegenheden bij het Rijk (Regeling IOFEZ van het Rijk)

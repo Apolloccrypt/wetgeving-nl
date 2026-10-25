@@ -9,7 +9,7 @@ laatste_update: 2018-07-01
 status: geldig
 toestand: 2018-07-01
 bron: "https://wetten.overheid.nl/BWBR0041062"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Besluit van 19 juni 2018 tot wijziging van het Besluit toezicht accountantsorganisaties en het Besluit bestuurlijke boetes financiële sector in verband met het versterken van de governance van accountantsorganisaties (Besluit aanvullende maatregelen accountantsorganisaties)

@@ -9,7 +9,7 @@ laatste_update: 2018-02-28
 status: geldig
 toestand: 2018-02-28
 bron: "https://wetten.overheid.nl/BWBR0040663"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 26 februari 2018, nr. IENW/BSK-2018/36474, houdende bepalingen inzake het verstrekken van subsidie aan de stichting Knowledge and Development Centre Mainport Schiphol voor de jaren 2018 tot en met 2022 (Tijdelijke subsidieregeling KDC 2018–2022)

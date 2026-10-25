@@ -9,7 +9,7 @@ laatste_update: 2018-02-15
 status: geldig
 toestand: 2018-02-15
 bron: "https://wetten.overheid.nl/BWBR0040488"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Waterstaat, van 21 december 2017, nr. IENM/BSK-2017/294075, houdende vaststelling van het subsidieplafond op grond van de Rijkscofinancieringsregeling Interreg V voor het jaar 2018

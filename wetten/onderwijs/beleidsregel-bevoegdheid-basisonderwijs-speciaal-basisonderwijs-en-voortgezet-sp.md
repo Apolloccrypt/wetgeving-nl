@@ -9,7 +9,7 @@ laatste_update: 2025-06-13
 status: geldig
 toestand: 2025-06-13
 bron: "https://wetten.overheid.nl/BWBR0040870"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Beleidsregel van de Minister voor Basis- en Voortgezet Onderwijs en Media van 20 april 2017, nr. 1230279, houdende voorwaarden en beperkingen voor verlening van de bevoegdheid tot het geven van onderwijs door personen die in het bezit zijn van een buitenlands bewijsstuk waarmee de bekwaamheid en bevoegdheid in het betreffende land wordt aangetoond (Beleidsregel bevoegdheid basisonderwijs, speciaal basisonderwijs en (voortgezet) speciaal onderwijs voor buitenlandse diploma’s)

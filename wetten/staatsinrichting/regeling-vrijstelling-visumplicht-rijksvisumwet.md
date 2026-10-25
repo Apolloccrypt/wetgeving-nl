@@ -9,7 +9,7 @@ laatste_update: 2022-03-21
 status: geldig
 toestand: 2022-03-21
 bron: "https://wetten.overheid.nl/BWBR0041057"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 14 juni 2018, nr Min-Buza.2018.1422-22, houdende bepalingen inzake vrijstelling van de visumplicht op grond van de Rijksvisumwet (Regeling vrijstelling visumplicht Rijksvisumwet)

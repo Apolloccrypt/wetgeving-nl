@@ -9,7 +9,7 @@ laatste_update: 2018-04-01
 status: geldig
 toestand: 2018-04-01
 bron: "https://wetten.overheid.nl/BWBR0040343"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 1 december 2017, kenmerk 170374-LZ, houdende wijziging van de Regeling langdurige zorg in verband met het afschaffen van het zorgprofiel VV10 en enige andere wijzigingen

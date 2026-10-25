@@ -8,7 +8,7 @@ laatste_update: 2018-02-01
 status: geldig
 toestand: 2018-02-01
 bron: "https://wetten.overheid.nl/BWBR0040543"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Richtlijn voor strafvordering cybercrime

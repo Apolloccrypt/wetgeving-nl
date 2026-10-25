@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0040740"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Wet van 9 maart 2018 tot wijziging van de Wet op de omzetbelasting 1968 (btw-behandeling van vouchers)

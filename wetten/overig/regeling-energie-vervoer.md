@@ -9,7 +9,7 @@ laatste_update: 2026-06-20
 status: geldig
 toestand: 2026-06-20
 bron: "https://wetten.overheid.nl/BWBR0041050"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 18 juni 2018, nr. IenW/BSK-2018/123399, houdende vaststelling van regels ter uitvoering van de titels 9.7 en 9.8 van de Wet milieubeheer en het Besluit energie vervoer en tot intrekking van de Regeling hernieuwbare energie vervoer 2015 en wijziging van de Regeling brandstoffen luchtverontreiniging (Regeling energie vervoer)

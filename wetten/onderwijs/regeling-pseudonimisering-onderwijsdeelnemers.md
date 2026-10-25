@@ -9,7 +9,7 @@ laatste_update: 2023-03-16
 status: geldig
 toestand: 2023-03-16
 bron: "https://wetten.overheid.nl/BWBR0040943"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap en de Minister voor Basis- en Voortgezet Onderwijs en Media van 17 mei 2018, nr. 1319281, houdende voorwaarden waaronder pseudoniemen voor onderwijsdeelnemers gegenereerd en gebruikt kunnen worden (Regeling pseudonimisering onderwijsdeelnemers)

@@ -9,7 +9,7 @@ laatste_update: 2018-05-24
 status: geldig
 toestand: 2018-05-24
 bron: "https://wetten.overheid.nl/BWBR0040925"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister van Financiën, van 9 mei 2018, nr. 2018-69756 tot instelling van de Werkgroep Interdepartementaal Beleidsonderzoek (IBO) Licht Verstandelijk Beperkten (Instellingsbesluit werkgroep IBO Licht Verstandelijk Beperkten)

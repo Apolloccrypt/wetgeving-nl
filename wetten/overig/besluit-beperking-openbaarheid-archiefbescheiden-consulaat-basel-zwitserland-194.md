@@ -9,7 +9,7 @@ laatste_update: 2018-06-28
 status: geldig
 toestand: 2018-06-28
 bron: "https://wetten.overheid.nl/BWBR0041080"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 4 juni 2018, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van het consulaat in Basel, Zwitserland, 1946–1973 (Besluit Beperking Openbaarheid consulaat Basel, Zwitserland)

@@ -8,7 +8,7 @@ laatste_update: 2018-03-16
 status: geldig
 toestand: 2018-03-16
 bron: "https://wetten.overheid.nl/BWBR0040651"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Beleidsregel ter uitvoering van artikel 6 van het Loodsplichtbesluit 1995

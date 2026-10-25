@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0040337"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat, van 4 december 2017, nr. IENM/BSK-2017/274894, houdende aanstelling van de Nederlandse ambtenaar en diens plaatsvervanger van de Gemeenschappelijke Nautische Autoriteit (Aanstellingsbesluit GNA 2018)

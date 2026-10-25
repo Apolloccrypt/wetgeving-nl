@@ -9,7 +9,7 @@ laatste_update: 2018-04-26
 status: geldig
 toestand: 2018-04-26
 bron: "https://wetten.overheid.nl/BWBR0040849"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 17 april 2018, nr. 201802/KPCN/18, strekkende tot aanwijzing van buitengewoon agenten van politie bij de Kustwacht

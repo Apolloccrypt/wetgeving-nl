@@ -9,7 +9,7 @@ laatste_update: 2017-09-01
 status: geldig
 toestand: 2017-09-01
 bron: "https://wetten.overheid.nl/BWBR0040318"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Onderlinge regeling als bedoeld in artikel 38, eerste lid, van het Statuut voor het Koninkrijk der Nederlanden, regelende de samenwerking tussen Nederland, Aruba, Curaçao en Sint Maarten op het gebied van de onderlinge vergelijking van DNA-profielen ten behoeve van de opsporing, vervolging en berechting van strafbare feiten (Onderlinge regeling vergelijking DNA-profielen tussen Nederland, Aruba, Curaçao en Sint Maarten)

@@ -9,7 +9,7 @@ laatste_update: 2018-04-01
 status: geldig
 toestand: 2018-04-01
 bron: "https://wetten.overheid.nl/BWBR0040483"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Staatssecretaris van Financiën van 28 december 2017, nr. 2017-0000235515, tot wijziging van de Wet op de belasting van personenauto’s en motorrijwielen 1992 en van enige uitvoeringsregelingen op het gebied van belastingen en toeslagen

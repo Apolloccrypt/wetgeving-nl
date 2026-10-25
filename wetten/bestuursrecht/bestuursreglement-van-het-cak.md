@@ -8,7 +8,7 @@ laatste_update: 2018-07-12
 status: geldig
 toestand: 2018-07-12
 bron: "https://wetten.overheid.nl/BWBR0041141"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Bestuursreglement van het CAK

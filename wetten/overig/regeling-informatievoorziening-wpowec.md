@@ -9,7 +9,7 @@ laatste_update: 2025-01-25
 status: geldig
 toestand: 2025-01-25
 bron: "https://wetten.overheid.nl/BWBR0041056"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media, van 13 juni 2018, nr. 1366416 PO, houdende regels omtrent informatievoorziening in het primair onderwijs (Regeling informatievoorziening WPO/WEC)

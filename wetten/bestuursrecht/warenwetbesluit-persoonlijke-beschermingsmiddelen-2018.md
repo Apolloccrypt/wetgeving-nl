@@ -9,7 +9,7 @@ laatste_update: 2018-04-21
 status: geldig
 toestand: 2018-04-21
 bron: "https://wetten.overheid.nl/BWBR0040828"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Besluit van 11 april 2018, houdende vaststelling van het Warenwetbesluit persoonlijke beschermingsmiddelen 2018 en wijziging van het Warenwetbesluit bestuurlijke boeten, het Arbeidsomstandighedenbesluit en het Warenwetbesluit drukapparatuur 2016 (Warenwetbesluit persoonlijke beschermingsmiddelen 2018)

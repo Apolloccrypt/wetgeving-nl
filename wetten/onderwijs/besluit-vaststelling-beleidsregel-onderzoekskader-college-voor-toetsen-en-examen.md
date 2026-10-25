@@ -9,7 +9,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBR0040432"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap, van 14 december 2017, nr. 1280915, tot vaststelling van de beleidsregel Onderzoekskader College voor toetsen en examens

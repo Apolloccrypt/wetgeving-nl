@@ -9,7 +9,7 @@ laatste_update: 2018-02-21
 status: geldig
 toestand: 2018-02-21
 bron: "https://wetten.overheid.nl/BWBR0040641"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Inschrijvingsvoorwaarden mediators 2018 (Besluit van het bestuur van de Raad voor Rechtsbijstand van 19 december 2017 krachtens artikel 33 b van de Wet op de Rechtsbijstand)

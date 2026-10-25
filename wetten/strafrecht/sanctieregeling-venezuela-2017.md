@@ -9,7 +9,7 @@ laatste_update: 2024-01-16
 status: geldig
 toestand: 2024-01-16
 bron: "https://wetten.overheid.nl/BWBR0040495"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 19 december 2017, nr. MinBuZa.2017.1305611, houdende beperkende maatregelen in verband met de situatie in Venezuela (Sanctieregeling Venezuela 2017)

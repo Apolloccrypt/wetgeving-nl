@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0040632"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Wet van 24 januari 2018, houdende regels ten aanzien van zorg en dwang voor personen met een psychogeriatrische aandoening of een verstandelijke handicap (Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten)

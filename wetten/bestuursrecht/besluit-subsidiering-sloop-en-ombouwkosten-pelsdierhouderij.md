@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-07-07
 toestand: 2021-07-08
 bron: "https://wetten.overheid.nl/BWBR0040594"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van 25 oktober 2017, houdende regels met betrekking tot subsidiëring van de kosten van sloop en ombouw van nertsenhouderijen (Besluit subsidiëring sloop- en ombouwkosten pelsdierhouderij)

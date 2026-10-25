@@ -9,7 +9,7 @@ laatste_update: 2021-01-23
 status: geldig
 toestand: 2021-01-23
 bron: "https://wetten.overheid.nl/BWBR0041133"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Minister voor Rechtsbescherming van 27 juni 2018, nr. 2296729, houdende vaststelling van de hoogte van de vergoeding voor buitengriffiers en waarnemend griffiers (Regeling vergoeding buitengriffiers en waarnemend griffiers)

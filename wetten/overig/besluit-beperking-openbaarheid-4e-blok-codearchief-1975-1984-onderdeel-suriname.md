@@ -9,7 +9,7 @@ laatste_update: 2018-04-25
 status: geldig
 toestand: 2018-04-25
 bron: "https://wetten.overheid.nl/BWBR0040840"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 11 april 2018, houdende de beperking van de openbaarheid van een aantal inventarisnummers van het 4e blok Codearchief 1975 – 1984 zijnde inventarisnummers met betrekking tot het Nederlandse beleid ten aanzien van Suriname (besluit beperking openbaarheid 4e blok Codearchief, onderdeel Suriname)

@@ -9,7 +9,7 @@ laatste_update: 2020-07-22
 status: geldig
 toestand: 2020-07-22
 bron: "https://wetten.overheid.nl/BWBR0040973"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 23 mei 2018, 2018-0000086086, tot benoeming van de voorzitter van de kwaliteitstafel bedrijfs- en verzekeringsgeneeskunde en vaststelling vergoeding

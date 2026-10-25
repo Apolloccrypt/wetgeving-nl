@@ -9,7 +9,7 @@ laatste_update: 2020-02-17
 status: geldig
 toestand: 2020-02-17
 bron: "https://wetten.overheid.nl/BWBR0040625"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de raad van bestuur van de Nederlandse Organisatie voor Wetenschappelijk Onderzoek van 13 december 2017, nr. 229, houdende regels inzake ondermandaat, volmacht en machtiging aan het domeinbestuur Toegepaste en Technische Wetenschappen voor aangelegenheden met betrekking tot subsidieverstrekking op grond van paragraaf 3.16.3a van de Regeling nationale EZ-subsidies (Besluit ondermandaat, volmacht en machtiging bestuur NWO aan het domeinbestuur Toegepaste en Technische Wetenschappen inzake subsidieverstrekking op grond van paragraaf 3.16.3a van de Regeling nationale EZ-subsidies)

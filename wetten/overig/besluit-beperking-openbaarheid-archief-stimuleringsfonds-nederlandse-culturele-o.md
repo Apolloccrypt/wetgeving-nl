@@ -8,7 +8,7 @@ laatste_update: 2017-12-20
 status: geldig
 toestand: 2017-12-20
 bron: "https://wetten.overheid.nl/BWBR0040400"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit beperking openbaarheid archief Stimuleringsfonds Nederlandse Culturele Omroepproducties

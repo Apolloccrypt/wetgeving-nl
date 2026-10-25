@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0040287"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Minister voor Medische Zorg van 23 november 2017, 1257948-170256-VGP, houdende vaststelling van de bedragen voor het doorberekenen van kosten in de levensmiddelensector (Warenwetregeling doorberekening kosten levensmiddelensector 2017)

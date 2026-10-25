@@ -9,7 +9,7 @@ laatste_update: 2025-01-25
 status: geldig
 toestand: 2025-01-25
 bron: "https://wetten.overheid.nl/BWBR0040429"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 14 december 2017, nr. VO/1016970, houdende regels over het gebruik van gegevens uit het basisregister onderwijs (bron) door de Minister van Onderwijs, Cultuur en Wetenschap en de Inspectie van het onderwijs, vaststelling van de wijze van gegevenslevering in verband met het onderwijsnummer in het voortgezet onderwijs en de wijze van ordening en beschikbaarstelling van gegevens in het voortgezet onderwijs (Regeling informatievoorziening WVO)

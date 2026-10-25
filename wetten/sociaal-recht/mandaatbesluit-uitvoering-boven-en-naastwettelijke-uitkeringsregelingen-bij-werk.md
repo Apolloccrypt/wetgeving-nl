@@ -8,7 +8,7 @@ laatste_update: 2018-01-24
 status: geldig
 toestand: 2018-01-24
 bron: "https://wetten.overheid.nl/BWBR0040587"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Mandaatbesluit uitvoering boven- en naastwettelijke uitkeringsregelingen bij werkloosheid sector defensie 2017

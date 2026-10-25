@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0040988"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Staatssecretaris van Financiën van 29 mei 2018, nr. 2018-0000069720, tot wijziging van de Wet op de accijns, de Wet belastingen op milieugrondslag, het Uitvoeringsbesluit accijns en enige uitvoeringsregelingen op het gebied van belastingen

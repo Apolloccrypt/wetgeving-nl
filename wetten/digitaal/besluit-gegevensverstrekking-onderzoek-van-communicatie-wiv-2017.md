@@ -9,7 +9,7 @@ laatste_update: 2018-05-01
 status: geldig
 toestand: 2018-05-01
 bron: "https://wetten.overheid.nl/BWBR0040846"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Besluit van 18 april 2018 tot aanwijzing van de gegevens waarop een opdracht tot verstrekking aan een aanbieder van een communicatiedienst in het kader van onderzoek van communicatie door de AIVD en MIVD betrekking kan hebben (Besluit gegevensverstrekking onderzoek van communicatie Wiv 2017)

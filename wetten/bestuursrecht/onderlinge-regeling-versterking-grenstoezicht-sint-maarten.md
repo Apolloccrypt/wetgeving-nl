@@ -9,7 +9,7 @@ laatste_update: 2017-12-20
 status: geldig
 toestand: 2017-12-20
 bron: "https://wetten.overheid.nl/BWBR0040394"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Onderlinge regeling van Sint Maarten en Nederland als bedoeld in artikel 38, eerste lid, van het Statuut van Koninkrijk der Nederlanden tot versterking van het grenstoezicht van Sint Maarten (Onderlinge regeling versterking grenstoezicht Sint Maarten)

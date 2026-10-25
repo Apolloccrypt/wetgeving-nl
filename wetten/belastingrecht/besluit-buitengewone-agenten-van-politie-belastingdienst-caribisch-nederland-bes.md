@@ -9,7 +9,7 @@ laatste_update: 2018-04-26
 status: geldig
 toestand: 2018-04-26
 bron: "https://wetten.overheid.nl/BWBR0040847"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 16 april 2018, nr. 201801/KPCN/18, strekkende tot aanwijzing van buitengewoon agenten van politie bij de Belastingdienst/Caribisch Nederland

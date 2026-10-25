@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0040276"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Minister voor Medische Zorg van 23 november 2017, kenmerk 1259373-170386-Z, houdende wijziging van de Regeling zorgverzekering in verband met de wanbetalersbijdrage

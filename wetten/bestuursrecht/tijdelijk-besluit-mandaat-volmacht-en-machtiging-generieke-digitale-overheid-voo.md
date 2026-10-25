@@ -9,7 +9,7 @@ laatste_update: 2017-12-30
 status: geldig
 toestand: 2017-12-30
 bron: "https://wetten.overheid.nl/BWBR0040469"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 18 december 2017, nr. 2017-0000584237, houdende tijdelijke verlening van mandaat, volmacht en machtiging op het terrein van de digitale informatievoorziening en dienstverlening van de overheid aan bedrijven en de elektronische identificatie en authenticatie van bestuursorganen en instanties met een publieke taak (Tijdelijk besluit mandaat, volmacht en machtiging generieke digitale overheid voor bedrijven)

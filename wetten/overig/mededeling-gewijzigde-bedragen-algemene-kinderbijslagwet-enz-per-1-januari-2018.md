@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0040402"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Mededeling van de Minister van Sociale Zaken en Werkgelegenheid van 11 december 2017, 2017-0000195288, over per 1 januari 2018 gewijzigde bedragen in de Algemene Kinderbijslagwet, de Pensioenwet en de Wet verplichte beroepspensioenregeling

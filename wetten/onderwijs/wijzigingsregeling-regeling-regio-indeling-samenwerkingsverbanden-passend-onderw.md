@@ -9,7 +9,7 @@ laatste_update: 2018-03-15
 status: geldig
 toestand: 2018-03-15
 bron: "https://wetten.overheid.nl/BWBR0040706"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media, nummer 1327919, van 6 maart 2018, houdende wijziging van de Regeling regio-indeling samenwerkingsverbanden passend onderwijs PO en VO

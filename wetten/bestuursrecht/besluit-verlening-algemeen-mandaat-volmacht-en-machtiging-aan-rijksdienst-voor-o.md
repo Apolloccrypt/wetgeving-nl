@@ -9,7 +9,7 @@ laatste_update: 2024-12-14
 status: geldig
 toestand: 2024-12-14
 bron: "https://wetten.overheid.nl/BWBR0041037"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken en de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 8 juni 2018, nr. MinBuZa.2018-1291-9 tot verlening van een algemeen mandaat, volmacht en machtiging aan de Rijksdienst voor Ondernemend Nederland

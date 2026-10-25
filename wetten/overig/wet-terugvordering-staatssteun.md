@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0040718"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Wet van 21 februari 2018, houdende regels voor de terugvordering van staatssteun (Wet terugvordering staatssteun)

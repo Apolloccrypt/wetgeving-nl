@@ -9,7 +9,7 @@ laatste_update: 2018-02-01
 status: geldig
 toestand: 2018-02-01
 bron: "https://wetten.overheid.nl/BWBR0040538"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 10 januari 2018 nr. BOACAT2018/002, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Omgevingsdienst IJsselland

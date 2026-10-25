@@ -9,7 +9,7 @@ laatste_update: 2018-05-15
 status: geldig
 toestand: 2018-05-15
 bron: "https://wetten.overheid.nl/BWBR0040897"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Defensie van 30 april 2018, nr. 2018-0000200047 tot intrekking van de Tijdelijke regeling onafhankelijke toetsing bijzondere bevoegdheden Wiv 2002 jegens advocaten en journalisten

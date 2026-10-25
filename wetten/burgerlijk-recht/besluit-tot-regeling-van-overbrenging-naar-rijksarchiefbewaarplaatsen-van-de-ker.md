@@ -9,7 +9,7 @@ laatste_update: 1929-06-14
 status: geldig
 toestand: 1929-06-14
 bron: "https://wetten.overheid.nl/BWBR0040535"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van den 31sten Mei 1929, tot regeling van de overbrenging naar de Rijksarchief-bewaarplaatsen van de kerkelijke doop-, trouw- en begraafboeken, enz. dagteekenend van vóór de invoering van den burgerlijken stand en van de gedeelten der zoogenaamde gaardersarchieven, die aanteekeningen omtrent geboorten, trouwen, sterven en begraven bevatten, welke thans in de gemeentelijke archiefbewaarplaatsen berusten

@@ -8,7 +8,7 @@ laatste_update: 2018-06-01
 status: geldig
 toestand: 2018-06-01
 bron: "https://wetten.overheid.nl/BWBR0040955"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Aanwijzing binnenvaart

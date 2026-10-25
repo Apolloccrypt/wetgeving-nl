@@ -8,7 +8,7 @@ laatste_update: 2018-01-03
 status: geldig
 toestand: 2018-01-03
 bron: "https://wetten.overheid.nl/BWBR0040437"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit tot intrekking van de Regeling lijst minimaal te bewaren gegevens beleggingsondernemingen en Beleidsregel Derde landenbeleid

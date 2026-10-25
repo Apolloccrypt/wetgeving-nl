@@ -9,7 +9,7 @@ laatste_update: 2018-06-07
 status: geldig
 toestand: 2018-06-07
 bron: "https://wetten.overheid.nl/BWBR0040978"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties, van 28 mei 2018, nr. BZK/DGBRW-2018-0000016711, met betrekking tot de toekenning van de rijksprijs voor inspirerend opdrachtgeverschap ‘Gouden Piramide’ (Besluit rijksprijs ‘de Gouden Piramide’)

@@ -9,7 +9,7 @@ laatste_update: 2018-06-28
 status: geldig
 toestand: 2018-06-28
 bron: "https://wetten.overheid.nl/BWBR0041075"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 4 juni 2018, houdende de beperking van de openbaarheid van een aantal inventarisnummers van het archief van de Nederlandse diplomatieke vertegenwoordiging in Italië te Rome, (1955) 1975–2013, en het consulaat-generaal in Italië te Milaan, (1949) 1975–2013, bij overbrenging naar het Nationaal Archief (Besluit beperking openbaarheid archief ambassade Rome en CG Milaan)

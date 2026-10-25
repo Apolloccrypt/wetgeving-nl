@@ -9,7 +9,7 @@ laatste_update: 2018-07-01
 status: geldig
 toestand: 2018-07-01
 bron: "https://wetten.overheid.nl/BWBR0041093"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Staatssecretaris van Economische Zaken en Klimaat van 26 juni 2018, nr. WJZ/18139550, houdende aanwijzing van een organisatie als bedoeld in artikel 14 van de Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken

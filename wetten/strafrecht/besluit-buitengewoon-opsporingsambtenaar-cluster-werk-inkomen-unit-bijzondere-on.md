@@ -9,7 +9,7 @@ laatste_update: 2018-02-28
 status: geldig
 toestand: 2018-02-28
 bron: "https://wetten.overheid.nl/BWBR0040669"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 26 februari 2018 nr. BOACAT2018/011, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij het Cluster Werk & Inkomen, unit Bijzondere Onderzoeken van de gemeente Rotterdam

@@ -9,7 +9,7 @@ laatste_update: 2018-03-13
 status: geldig
 toestand: 2018-03-13
 bron: "https://wetten.overheid.nl/BWBR0040696"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 26 februari 2018, houdende de beperking van de openbaarheid van een aantal inventarisnummers van het archief van de Nederlandse diplomatieke vertegenwoordiging in Ierland te Dublin, 1975–2013, bij overbrenging naar het Nationaal Archief (Besluit beperking openbaarheid Dublin, 1975–2013)

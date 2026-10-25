@@ -9,7 +9,7 @@ laatste_update: 2018-07-01
 status: geldig
 toestand: 2018-07-01
 bron: "https://wetten.overheid.nl/BWBR0040936"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Besluit van 3 mei 2018, houdende tijdelijke regels betreffende de toegankelijkheid van de websites en mobiele applicaties van overheidsinstanties (Tijdelijk besluit digitale toegankelijkheid overheid)

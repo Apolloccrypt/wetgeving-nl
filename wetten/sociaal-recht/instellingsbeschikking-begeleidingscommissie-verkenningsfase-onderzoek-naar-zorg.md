@@ -8,7 +8,7 @@ laatste_update: 2018-01-30
 status: geldig
 toestand: 2018-01-30
 bron: "https://wetten.overheid.nl/BWBR0040598"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Instellingsbeschikking begeleidingscommissie verkenningsfase onderzoek naar zorgbehoeften Dutchbat III militairen

@@ -9,7 +9,7 @@ laatste_update: 2018-06-25
 status: geldig
 toestand: 2018-06-25
 bron: "https://wetten.overheid.nl/BWBR0041063"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Bekendmaking van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 15 juni 2018, 2018-0000108955, over per 1 juli 2018 gewijzigde bedragen in de Algemene Kinderbijslagwet

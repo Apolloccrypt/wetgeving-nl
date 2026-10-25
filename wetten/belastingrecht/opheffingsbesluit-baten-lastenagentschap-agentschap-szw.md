@@ -9,7 +9,7 @@ laatste_update: 2018-06-26
 status: geldig
 toestand: 2018-06-26
 bron: "https://wetten.overheid.nl/BWBR0041060"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid en de Minister van Financiën van 13 juni 2018, 2018-0000102591, tot opheffing van het baten-lastenagentschap Agentschap SZW

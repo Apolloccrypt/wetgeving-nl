@@ -8,7 +8,7 @@ laatste_update: 2017-12-08
 status: geldig
 toestand: 2017-12-08
 bron: "https://wetten.overheid.nl/BWBR0040319"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Beleidsregel toekenning en intrekking informatienummers

@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0040285"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Minister van Financiën van 21 november 2017, houdende regels over het materieelbeheer van roerende zaken bij het Rijk (Regeling materieelbeheer roerende zaken van het Rijk)

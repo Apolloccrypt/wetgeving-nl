@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0040419"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van 7 december 2017 tot vaststelling van de rechtspositie van de voorzitter en leden van de toetsingscommissie inzet bevoegden en van de commissie van toezicht op de inlichtingen- en veiligheidsdiensten (Rechtspositiebesluit toetsingscommissie inzet bevoegdheden en commissie van toezicht op de inlichtingen- en veiligheidsdiensten)

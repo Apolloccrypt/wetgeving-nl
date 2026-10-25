@@ -9,7 +9,7 @@ laatste_update: 2026-07-03
 status: geldig
 toestand: 2026-07-03
 bron: "https://wetten.overheid.nl/BWBR0041101"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Beleidsregel van de Minister van Volksgezondheid, Welzijn en Sport van 29 juni 2018, kenmerk 1373081-178634-PZo, inzake de Wlz-tarieven

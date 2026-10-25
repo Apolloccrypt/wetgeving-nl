@@ -9,7 +9,7 @@ laatste_update: 2021-11-27
 status: geldig
 toestand: 2021-11-27
 bron: "https://wetten.overheid.nl/BWBR0040379"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 13 december 2017, nr. 2167493, houdende instelling van het Audit Committee Ministerie van Justitie en Veiligheid (Instellingsbesluit Audit Committee Ministerie van Justitie en Veiligheid)

@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0040786"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Besluit van 21 maart 2018, houdende regels voor een systeem van informatie-uitwisseling betreffende bovengrondse en ondergrondse infrastructuur van netten en netwerken ter voorkoming van graafschade en ter bevordering van de aanleg van elektronische communicatienetwerken met hoge snelheid (Besluit informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken)

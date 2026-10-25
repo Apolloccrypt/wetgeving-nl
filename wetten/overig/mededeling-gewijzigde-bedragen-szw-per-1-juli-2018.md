@@ -9,7 +9,7 @@ laatste_update: 2018-07-01
 status: geldig
 toestand: 2018-07-01
 bron: "https://wetten.overheid.nl/BWBR0040946"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Mededeling van de Minister van Sociale Zaken en Werkgelegenheid van 15 mei 2018, 2018-0000085753, over per 1 juli 2018 gewijzigde bedragen in enkele wetten, besluiten en regelingen

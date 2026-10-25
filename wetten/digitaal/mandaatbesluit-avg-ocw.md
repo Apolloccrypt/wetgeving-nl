@@ -9,7 +9,7 @@ laatste_update: 2018-07-04
 status: geldig
 toestand: 2018-07-04
 bron: "https://wetten.overheid.nl/BWBR0041106"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 22 juni 2018, nr. BOA/1371414, tot het verlenen van mandaat voor het behandelen van en het besluiten op aanvragen op grond van de Algemene verordening gegevensbescherming (Mandaatbesluit AVG OCW)

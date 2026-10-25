@@ -8,7 +8,7 @@ laatste_update: 2018-06-02
 status: geldig
 toestand: 2018-06-02
 bron: "https://wetten.overheid.nl/BWBR0040964"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Aanwijzingsregeling Koninklijke Marechaussee ex artikel 92, tweede lid, Wiv 2017

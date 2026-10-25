@@ -9,7 +9,7 @@ laatste_update: 2017-12-23
 status: geldig
 toestand: 2017-12-23
 bron: "https://wetten.overheid.nl/BWBR0040442"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat van 4 december 2017, IENM/BSK-2017/299981, inzake de routinematige digitale vervanging archiefbescheiden personeelsdossiers, ministerie van Infrastructuur en Waterstaat (Besluit routinematige digitale vervanging archiefbescheiden personeelsdossiers Infrastructuur en Waterstaat)

@@ -9,7 +9,7 @@ laatste_update: 2018-01-18
 status: geldig
 toestand: 2018-01-18
 bron: "https://wetten.overheid.nl/BWBR0040524"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Staatssecretaris van Financiën van 8 januari 2018, houdende het vaststellen van de gelijkwaardige inspanning van decentrale overheden

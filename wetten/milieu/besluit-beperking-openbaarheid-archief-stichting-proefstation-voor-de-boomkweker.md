@@ -9,7 +9,7 @@ laatste_update: 2018-02-23
 status: geldig
 toestand: 2018-02-23
 bron: "https://wetten.overheid.nl/BWBR0040649"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 29 januari 2018, nr. PSG-DB/17192982, houdende besluit beperking openbaarheid archief Stichting Proefstation voor de Boomkwekerij te Boskoop van het Ministerie van Landbouw, Natuur en Voedselkwaliteit en voorgangers (1899) 1943–2002

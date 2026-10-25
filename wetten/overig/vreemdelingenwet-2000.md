@@ -9,7 +9,7 @@ laatste_update: 2026-10-16
 status: geldig
 toestand: 2026-10-16
 bron: "https://wetten.overheid.nl/BWBR0011823"
-opgehaald: 2026-10-24
+opgehaald: 2026-10-25
 ---
 
 # Wet van 23 november 2000 tot algehele herziening van de Vreemdelingenwet (Vreemdelingenwet 2000)

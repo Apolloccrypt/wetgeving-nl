@@ -9,7 +9,7 @@ laatste_update: 2017-12-30
 status: geldig
 toestand: 2017-12-30
 bron: "https://wetten.overheid.nl/BWBR0040468"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 20 december 2017 nr. BOACAT2017/070, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Parkeren Delft B.V.

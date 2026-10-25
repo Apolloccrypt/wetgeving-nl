@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0040281"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Minister van Financiën van 21 november 2017, houdende regels over de adviesorganen met betrekking tot audit- en bedrijfsvoeringsaangelegenheden van het Rijk (Regeling audit committees van het Rijk)

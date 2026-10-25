@@ -9,7 +9,7 @@ laatste_update: 2018-10-01
 status: geldig
 toestand: 2018-10-01
 bron: "https://wetten.overheid.nl/BWBR0040448"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Wet van 20 december 2017 tot wijziging van de Wet op de omzetbelasting 1968 en enkele andere wetten (Wet afschaffing van de btw-landbouwregeling)

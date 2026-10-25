@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0040544"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Intrekkingsbesluit Deelreglement Suppletie van de Stichting Nederlands Fonds voor de Film

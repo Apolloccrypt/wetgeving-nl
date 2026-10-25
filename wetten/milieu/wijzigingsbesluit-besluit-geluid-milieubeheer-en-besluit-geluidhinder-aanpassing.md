@@ -9,7 +9,7 @@ laatste_update: 2018-03-01
 status: geldig
 toestand: 2018-03-01
 bron: "https://wetten.overheid.nl/BWBR0040390"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van 28 november 2017 tot wijziging van het Besluit geluid milieubeheer en het Besluit geluidhinder in verband met aanpassingen aan het doelmatigheidscriterium en enkele kleine wijzigingen

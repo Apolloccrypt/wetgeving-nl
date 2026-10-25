@@ -9,7 +9,7 @@ laatste_update: 2026-10-16
 status: geldig
 toestand: 2026-10-16
 bron: "https://wetten.overheid.nl/BWBR0053201"
-opgehaald: 2026-10-24
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de secretaris-directeur van de Wetenschappelijke Klimaatraad en de Raad voor Energie van 8 oktober 2026, nr. WKR 2026-028, tot verlening van ondermandaat, volmacht en machtiging voor het secretariaat van de Wetenschappelijke Klimaatraad en de Raad voor Energie (Besluit ondermandaat, volmacht en machtiging voor secretariaat Wetenschappelijke Klimaatraad en Raad voor Energie 2026)

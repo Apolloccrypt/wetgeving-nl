@@ -9,7 +9,7 @@ laatste_update: 2018-02-24
 status: geldig
 toestand: 2018-02-24
 bron: "https://wetten.overheid.nl/BWBR0040650"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van 14 februari 2018 nr. 2018000251, houdende departementale herindeling met betrekking tot elektrisch vervoer

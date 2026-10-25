@@ -8,7 +8,7 @@ laatste_update: 2018-06-09
 status: geldig
 toestand: 2018-06-09
 bron: "https://wetten.overheid.nl/BWBR0040994"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Besluit vaststelling selectielijst Stichting Visitatie Woningcorporaties Nederland (SVWN) voor de periode vanaf 2015

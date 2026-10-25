@@ -9,7 +9,7 @@ laatste_update: 2018-05-25
 status: geldig
 toestand: 2018-05-25
 bron: "https://wetten.overheid.nl/BWBR0040931"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 7 mei 2018, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordiging in Hongarije, Ambassade Boedapest (Besluit beperking openbaarheid ambassade Boedapest)

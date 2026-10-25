@@ -9,7 +9,7 @@ laatste_update: 2018-01-11
 status: geldig
 toestand: 2018-01-11
 bron: "https://wetten.overheid.nl/BWBR0040498"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 22 november 2017, nr. Minbuza-2017.1277810, tot vaststelling van een subsidieplafond en beleidsregels voor subsidieverlening op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieprogramma Creative Twinning 2018–2020)

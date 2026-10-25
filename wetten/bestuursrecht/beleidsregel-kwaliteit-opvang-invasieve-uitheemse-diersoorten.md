@@ -9,7 +9,7 @@ laatste_update: 2018-05-17
 status: geldig
 toestand: 2018-05-17
 bron: "https://wetten.overheid.nl/BWBR0040911"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Beleidsregel van de Minister van Landbouw, Natuur en Voedselkwaliteit van 14 mei 2018, nr. WJZ/18020186, inzake de kwaliteit van de opvang van invasieve uitheemse diersoorten (Beleidsregel kwaliteit opvang invasieve uitheemse diersoorten)

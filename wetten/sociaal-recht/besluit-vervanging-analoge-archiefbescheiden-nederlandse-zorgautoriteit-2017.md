@@ -9,7 +9,7 @@ laatste_update: 2017-12-23
 status: geldig
 toestand: 2017-12-23
 bron: "https://wetten.overheid.nl/BWBR0040426"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit vervanging van analoge archiefbescheiden Nederlandse Zorgautoriteit 2017

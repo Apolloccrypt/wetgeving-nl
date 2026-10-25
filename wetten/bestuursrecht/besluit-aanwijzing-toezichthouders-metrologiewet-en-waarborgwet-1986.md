@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0040979"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Staatssecretaris van Economische Zaken en Klimaat van 26 mei 2018, DGETM/MC 17172892, houdende aanwijzing toezichthouders Metrologiewet en Waarborgwet 1986 (Besluit aanwijzing toezichthouders Metrologiewet en Waarborgwet 1986)

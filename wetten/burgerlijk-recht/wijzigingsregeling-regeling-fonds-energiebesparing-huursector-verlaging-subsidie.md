@@ -9,7 +9,7 @@ laatste_update: 2018-05-30
 status: geldig
 toestand: 2018-05-30
 bron: "https://wetten.overheid.nl/BWBR0040958"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 28 mei 2018, nr 2018-0000302839, houdende wijziging van de Regeling fonds energiebesparing huursector in verband met verlaging van de subsidieplafonds en intrekking met ingang van 1 juli 2018

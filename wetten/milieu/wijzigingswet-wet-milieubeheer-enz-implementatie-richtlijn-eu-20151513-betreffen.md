@@ -9,7 +9,7 @@ laatste_update: 2018-07-01
 status: geldig
 toestand: 2018-07-01
 bron: "https://wetten.overheid.nl/BWBR0040926"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Wet van 18 april 2018 tot wijziging van de Wet milieubeheer in verband met de implementatie van Richtlijn (EU) 2015/1513 van het Europees Parlement en de Raad van 9 september 2015 tot wijziging van Richtlijn 98/70/EG betreffende de kwaliteit van benzine en dieselbrandstof en tot wijziging van Richtlijn 2009/28/EG ter bevordering van het gebruik van energie uit hernieuwbare bronnen alsmede in verband met de operationalisering van de reductieverplichting uit Richtlijn 98/70/EG betreffende de kwaliteit van benzine en dieselbrandstof

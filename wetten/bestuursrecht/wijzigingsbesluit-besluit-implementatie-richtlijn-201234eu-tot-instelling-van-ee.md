@@ -9,7 +9,7 @@ laatste_update: 2018-02-17
 status: geldig
 toestand: 2018-02-17
 bron: "https://wetten.overheid.nl/BWBR0040631"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van 31 januari 2018, houdende wijziging van het Besluit implementatie richtlijn 2012/34/EU tot instelling van één Europese spoorwegruimte in verband met het instellen van aanvullende heffingen, kortingen en aftrek ter dekking van de door de infrastructuurbeheerder gemaakte kosten alsmede prijsprikkels ter bevordering van een betere benutting van de spoorweginfrastructuur en inpassing in de leefomgeving (vergoedingen gebruik hoofdspoorweginfrastructuur)

@@ -9,7 +9,7 @@ laatste_update: 2018-01-27
 status: geldig
 toestand: 2018-01-27
 bron: "https://wetten.overheid.nl/BWBR0040547"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de secretaris-generaal van het Ministerie van Algemene Zaken van 14 december 2017, nr. 3971434 houdende ondermandaat diensthoofden van het ministerie van Algemene Zaken

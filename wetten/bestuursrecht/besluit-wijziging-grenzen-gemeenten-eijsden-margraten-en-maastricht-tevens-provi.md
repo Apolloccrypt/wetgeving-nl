@@ -9,7 +9,7 @@ laatste_update: 2017-12-23
 status: geldig
 toestand: 2017-12-23
 bron: "https://wetten.overheid.nl/BWBR0040427"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van 7 december 2017 tot wijziging van de grenzen van de gemeenten Eijsden-Margraten en Maastricht, alsmede de grens van de provincie Limburg

@@ -9,7 +9,7 @@ laatste_update: 2018-04-01
 status: geldig
 toestand: 2018-04-01
 bron: "https://wetten.overheid.nl/BWBR0040761"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid, van 7 maart 2018, nr. 2213478, houdende nadere regels over de toepassing van in het Besluit brandveilig gebruik en basishulpverlening overige plaatsen genoemde normen, en over de in dat besluit voorgeschreven indiening van een gebruiksmelding (Regeling brandveilig gebruik en basishulpverlening overige plaatsen 2018)

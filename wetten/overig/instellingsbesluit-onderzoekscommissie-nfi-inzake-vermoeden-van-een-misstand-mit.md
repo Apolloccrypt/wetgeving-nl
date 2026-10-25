@@ -9,7 +9,7 @@ laatste_update: 2018-05-17
 status: geldig
 toestand: 2018-05-17
 bron: "https://wetten.overheid.nl/BWBR0040906"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de secretaris-generaal van het Ministerie van Justitie en Veiligheid van 29 maart 2018, houdende instelling van de Onderzoekscommissie NFI inzake een melding van een vermoeden van een misstand bij de uitvoering van de onderzoeksmethode Micro-analyse Invasieve Trauma’s door het Nederlands Forensisch Instituut (Instellingsbesluit Onderzoekscommissie NFI inzake MIT)

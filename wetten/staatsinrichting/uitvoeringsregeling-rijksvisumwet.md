@@ -9,7 +9,7 @@ laatste_update: 2018-07-01
 status: geldig
 toestand: 2018-07-01
 bron: "https://wetten.overheid.nl/BWBR0041055"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 14 juni 2018, nr. Min-Buza-2018.1422-22, tot regeling van de verblijfstermijn die aan een visum voor de toegang tot Caribisch Nederland kan worden verbonden en van de instanties waar een visum kan worden aangevraagd (Uitvoeringsregeling Rijksvisumwet)

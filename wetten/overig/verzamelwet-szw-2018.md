@@ -9,7 +9,7 @@ laatste_update: 2018-04-01
 status: geldig
 toestand: 2018-04-01
 bron: "https://wetten.overheid.nl/BWBR0040370"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Wet van 29 november 2017 tot wijziging van enkele wetten van het Ministerie van Sociale Zaken en Werkgelegenheid (Verzamelwet SZW 2018)

@@ -9,7 +9,7 @@ laatste_update: 2018-03-27
 status: geldig
 toestand: 2018-03-27
 bron: "https://wetten.overheid.nl/BWBR0040756"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Minister van Financiën van 15 maart 2018, houdende regels over het vaststellen van de grensbedragen voor deelname aan het schatkistbankieren en het aanwijzen van de rechtspersonen met een wettelijke taak die niet gehouden zijn tot schatkistbankieren (Regeling uitzondering op het schatkistbankieren bij het Rijk)

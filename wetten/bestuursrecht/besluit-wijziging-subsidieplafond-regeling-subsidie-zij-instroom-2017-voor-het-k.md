@@ -9,7 +9,7 @@ laatste_update: 2019-04-10
 status: geldig
 toestand: 2019-04-10
 bron: "https://wetten.overheid.nl/BWBR0040678"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Bekendmaking van de Minister voor Basis- en Voortgezet Onderwijs en Media van 23 februari 2018, nr. 1286401, houdende wijziging van het subsidieplafond van de Regeling subsidie zij-instroom 2017 voor het kalenderjaar 2017 en vaststelling van het subsidieplafond voor het kalenderjaar 2018

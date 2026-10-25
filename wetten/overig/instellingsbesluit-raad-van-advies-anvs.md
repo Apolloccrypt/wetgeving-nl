@@ -9,7 +9,7 @@ laatste_update: 2018-04-18
 status: geldig
 toestand: 2018-04-18
 bron: "https://wetten.overheid.nl/BWBR0040832"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Autoriteit Nucleaire Veiligheid en Stralingsbescherming van 12 april 2018, nr. ANVS-2018/8816, houdende de instelling van de Raad van Advies ANVS (Instellingsbesluit Raad van Advies ANVS)

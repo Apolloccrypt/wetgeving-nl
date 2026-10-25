@@ -8,7 +8,7 @@ laatste_update: 2018-07-14
 status: geldig
 toestand: 2018-07-14
 bron: "https://wetten.overheid.nl/BWBR0041145"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Regeling verplichte publicatie sterftecijfers instellingen voor medisch specialistische zorg

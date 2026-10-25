@@ -9,7 +9,7 @@ laatste_update: 2019-02-16
 status: geldig
 toestand: 2019-02-16
 bron: "https://wetten.overheid.nl/BWBR0041007"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Wet van 18 april 2018 tot uitvoering van de Verordening (EU) nr. 2016/1191 van het Europees Parlement en de Raad van 6 juli 2016 betreffende de bevordering van het vrije verkeer van burgers door vereenvoudigde overlegging van bepaalde openbare documenten in de Europese Unie en tot wijziging van Verordening nr. 1024/2012 (PbEU 2016, L 200) (Uitvoeringswet verordening overlegging openbare documenten)

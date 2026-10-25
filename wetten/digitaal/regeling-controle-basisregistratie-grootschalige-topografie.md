@@ -9,7 +9,7 @@ laatste_update: 2018-07-01
 status: geldig
 toestand: 2018-07-01
 bron: "https://wetten.overheid.nl/BWBR0040839"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 29 maart 2018, nr. 2018-0000183376, houdende regels betreffende de controle van de basisregistratie grootschalige topografie (Regeling controle basisregistratie grootschalige topografie)

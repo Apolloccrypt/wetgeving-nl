@@ -9,7 +9,7 @@ laatste_update: 2019-02-01
 status: geldig
 toestand: 2019-02-01
 bron: "https://wetten.overheid.nl/BWBR0040407"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van 15 december 2017, houdende bepalingen voor een experiment met instellingsaccreditatie met lichtere opleidingsaccreditatie gericht op onder meer een vermindering van de lasten die gepaard gaan met de accreditatie in het hoger onderwijs (Besluit experiment instellingsaccreditatie met lichtere opleidingsaccreditatie)

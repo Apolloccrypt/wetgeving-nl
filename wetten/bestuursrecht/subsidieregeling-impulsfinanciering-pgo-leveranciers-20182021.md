@@ -9,7 +9,7 @@ laatste_update: 2018-08-01
 status: geldig
 toestand: 2018-08-01
 bron: "https://wetten.overheid.nl/BWBR0041144"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Minister voor Medische Zorg van 3 juli 2018, kenmerk 1372100-178565-IenZ, houdende regels voor de subsidiëring van het ontwikkelen van persoonlijke gezondheidsomgevingen 2018–2021 (Subsidieregeling impulsfinanciering PGO-leveranciers 2018–2021)

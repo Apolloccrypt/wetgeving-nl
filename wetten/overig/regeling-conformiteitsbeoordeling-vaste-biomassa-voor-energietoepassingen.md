@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0040431"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat en de Minister van Economische Zaken en Klimaat van 20 december 2017, nr. IENM/BSK-2017/180307, houdende regels voor de conformiteitsbeoordeling van vaste biomassa voor energietoepassingen (Regeling conformiteitsbeoordeling vaste biomassa voor energietoepassingen)

@@ -9,7 +9,7 @@ laatste_update: 2018-01-24
 status: geldig
 toestand: 2018-01-24
 bron: "https://wetten.overheid.nl/BWBR0040545"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat, van 15 januari 2018, nr. IENM/BSK-2018/5952, houdende aanwijzing van methoden of producten, bedoeld in voorschrift 5.1.7 van bijlage 2 van de Regeling legionellapreventie in drinkwater en warm tapwater

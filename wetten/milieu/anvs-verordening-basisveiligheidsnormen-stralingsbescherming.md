@@ -9,7 +9,7 @@ laatste_update: 2023-07-01
 status: geldig
 toestand: 2023-07-01
 bron: "https://wetten.overheid.nl/BWBR0040581"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Verordening van de Autoriteit Nucleaire Veiligheid en Stralingsbescherming van 9 januari 2018, nr. ANVS-2018/137, houdende nadere regels ter bescherming van personen tegen de gevaren van blootstelling aan ioniserende straling (ANVS-verordening basisveiligheidsnormen stralingsbescherming)

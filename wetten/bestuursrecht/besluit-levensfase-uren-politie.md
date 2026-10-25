@@ -9,7 +9,7 @@ laatste_update: 2019-07-01
 status: geldig
 toestand: 2019-07-01
 bron: "https://wetten.overheid.nl/BWBR0041113"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Besluit van 15 juni 2018 tot wijziging van het Besluit algemene rechtspositie politie en het Besluit bezoldiging politie in verband met de invoering van een stelsel van levensfase-uren (Besluit levensfase-uren politie)

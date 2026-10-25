@@ -9,7 +9,7 @@ laatste_update: 2018-03-03
 status: geldig
 toestand: 2018-03-03
 bron: "https://wetten.overheid.nl/BWBR0040684"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 22 februari 2018, nr. 2193344 houdende de instelling van de Task Force Aanpak Mensenhandel (Instellingsbesluit Task Force Aanpak Mensenhandel 2017)

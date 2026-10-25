@@ -9,7 +9,7 @@ laatste_update: 2017-12-21
 status: geldig
 toestand: 2017-12-21
 bron: "https://wetten.overheid.nl/BWBR0040410"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van het Ministerie van Defensie houdende de beperking aan de openbaarheid van het archief van de Secretaris-Generaal en zijn organisatie-eenheden (1955) 1976–1991 bij overbrenging naar een archiefbewaarplaats

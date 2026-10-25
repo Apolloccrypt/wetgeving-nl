@@ -9,7 +9,7 @@ laatste_update: 2018-05-01
 status: geldig
 toestand: 2018-05-01
 bron: "https://wetten.overheid.nl/BWBR0040860"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Defensie van 25 april 2018, nr. 2018-0000251025, houdende vaststelling van beleidsregels met betrekking tot de uitvoering van de Wiv 2017 (Beleidsregels Wiv 2017)

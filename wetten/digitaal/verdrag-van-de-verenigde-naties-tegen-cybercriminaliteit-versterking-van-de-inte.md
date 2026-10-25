@@ -7,7 +7,7 @@ laatste_update: 2024-12-24
 status: geldig
 toestand: 2024-12-24
 bron: "https://wetten.overheid.nl/BWBV0007182"
-opgehaald: 2026-10-24
+opgehaald: 2026-10-25
 ---
 
 # Verdrag van de Verenigde Naties tegen cybercriminaliteit; Versterking van de internationale samenwerking voor de bestrijding van bepaalde strafbare feiten die worden gepleegd door middel van informatie- en communicatietechnologiesystemen en voor het delen van bewijs in elektronische vorm met betrekking tot ernstige strafbare feiten

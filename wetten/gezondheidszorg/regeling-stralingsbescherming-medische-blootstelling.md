@@ -9,7 +9,7 @@ laatste_update: 2018-02-06
 status: geldig
 toestand: 2018-02-06
 bron: "https://wetten.overheid.nl/BWBR0040539"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Minister voor Medische Zorg van 12 januari 2018, kenmerk 1281162-172106-WJZ, houdende basisveiligheidsnormen voor stralingsbescherming bij medische blootstelling (Regeling stralingsbescherming medische blootstelling)

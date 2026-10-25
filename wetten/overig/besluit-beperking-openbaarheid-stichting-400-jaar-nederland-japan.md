@@ -9,7 +9,7 @@ laatste_update: 2018-03-24
 status: geldig
 toestand: 2018-03-24
 bron: "https://wetten.overheid.nl/BWBR0040746"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 12 maart 2018, houdende de beperking van de openbaarheid van een aantal inventarisnummers van het archief Stichting 400 jaar Nederland-Japan, bij overbrenging naar het Nationaal Archief (Besluit beperking openbaarheid Stichting 400 jaar Nederland-Japan)

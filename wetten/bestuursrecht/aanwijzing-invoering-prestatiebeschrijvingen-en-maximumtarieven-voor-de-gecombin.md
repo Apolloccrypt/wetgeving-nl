@@ -9,7 +9,7 @@ laatste_update: 2018-07-03
 status: geldig
 toestand: 2018-07-03
 bron: "https://wetten.overheid.nl/BWBR0041112"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Aanwijzing van de Minister voor Medische Zorg van 26 juni 2018, kenmerk 1342565-176534-PZO, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake invoering van prestatiebeschrijvingen en maximumtarieven voor de Gecombineerde Leefstijl Interventie (GLI)

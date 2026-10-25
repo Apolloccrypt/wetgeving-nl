@@ -8,7 +8,7 @@ laatste_update: 2017-12-05
 status: geldig
 toestand: 2017-12-05
 bron: "https://wetten.overheid.nl/BWBR0040302"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Beëindiging NWO Stimuleringsfondsen Open Access Publicaties en Conferenties per 1 januari 2018

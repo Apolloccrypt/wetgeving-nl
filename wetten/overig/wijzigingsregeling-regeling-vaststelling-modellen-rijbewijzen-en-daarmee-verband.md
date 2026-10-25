@@ -9,7 +9,7 @@ laatste_update: 2018-06-14
 status: geldig
 toestand: 2018-06-14
 bron: "https://wetten.overheid.nl/BWBR0041020"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 12 juni 2018, nr. IENW/BSK-2018/96488 tot wijziging van de Regeling vaststelling modellen rijbewijzen en daarmee verband houdende formulieren

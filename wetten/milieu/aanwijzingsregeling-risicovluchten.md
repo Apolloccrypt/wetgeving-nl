@@ -9,7 +9,7 @@ laatste_update: 2018-07-01
 status: geldig
 toestand: 2018-07-01
 bron: "https://wetten.overheid.nl/BWBR0041086"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 18 juni 2018, houdende de aanwijzing van risicovluchten en van luchtvaartterreinen, bestemd voor de landing van risicovluchten (Aanwijzingsregeling risicovluchten)

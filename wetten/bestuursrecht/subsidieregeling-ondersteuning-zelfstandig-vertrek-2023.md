@@ -9,7 +9,7 @@ laatste_update: 2026-10-17
 status: geldig
 toestand: 2026-10-17
 bron: "https://wetten.overheid.nl/BWBR0048465"
-opgehaald: 2026-10-24
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Staatssecretaris van Justitie en Veiligheid van 6 juli 2023, nummer 4718821, houdende regels voor de subsidiëring van projecten ter ondersteuning van zelfstandig vertrek van vreemdelingen en gemeenschapsonderdanen uit Nederland (Subsidieregeling ondersteuning zelfstandig vertrek 2023)

@@ -9,7 +9,7 @@ laatste_update: 2025-05-03
 status: geldig
 toestand: 2025-05-03
 bron: "https://wetten.overheid.nl/BWBR0040520"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Rijkswet van 20 december 2017, houdende bepalingen ter implementatie van Richtlijn (EU) 2015/637 van de Raad van de Europese Unie betreffende de coördinatie- en samenwerkingsmaatregelen ter vergemakkelijking van de consulaire bescherming van niet-vertegenwoordigde burgers van de Unie in derde landen en tot intrekking van besluit 95/553/EG (Rijkswet consulaire bescherming EU-burgers)

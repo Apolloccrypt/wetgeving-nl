@@ -9,7 +9,7 @@ laatste_update: 2018-07-01
 status: geldig
 toestand: 2018-07-01
 bron: "https://wetten.overheid.nl/BWBR0040511"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Wet van 6 december 2017 tot wijziging van Boek 7 van het Burgerlijk Wetboek, de Wet handhaving consumentenbescherming en enige andere wetten in verband met de implementatie van Richtlijn (EU) 2015/2302 van het Europees Parlement en de Raad van 25 november 2015 betreffende pakketreizen en gekoppelde reisarrangementen, houdende wijziging van Verordening (EG) nr. 2006/2004 en van Richtlijn 2011/83/EU van het Europees Parlement en de Raad, en tot intrekking van Richtlijn 90/314/EEG van de Raad (PbEU, L 326) (Implementatiewet richtlijn pakketreizen en gekoppelde reisarrangementen)

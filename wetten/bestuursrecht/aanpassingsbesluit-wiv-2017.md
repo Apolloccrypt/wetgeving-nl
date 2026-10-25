@@ -9,7 +9,7 @@ laatste_update: 2018-05-01
 status: geldig
 toestand: 2018-05-01
 bron: "https://wetten.overheid.nl/BWBR0040848"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Besluit van 18 april 2018 tot wijziging van enkele besluiten in verband met de totstandkoming van de Wet op de inlichtingen- en veiligheidsdiensten 2017 (Aanpassingsbesluit Wiv 2017)

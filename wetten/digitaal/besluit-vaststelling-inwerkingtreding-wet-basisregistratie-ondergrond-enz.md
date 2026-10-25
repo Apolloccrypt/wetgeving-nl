@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0040439"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van 13 december 2017, houdende vaststelling van het tijdstip van inwerkintreding van artikelen van de Wet basisregistratie ondergrond en het Besluit basisregistratie ondergrond en het tijdstip van levering van gegevens door de beheerder van de Registratie Data en Informatie Nederlandse Ondergrond en het Bodemkundig Informatie Systeem

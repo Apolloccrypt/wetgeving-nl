@@ -9,7 +9,7 @@ laatste_update: 2018-02-17
 status: geldig
 toestand: 2018-02-17
 bron: "https://wetten.overheid.nl/BWBR0040384"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Wet van 29 november 2017 tot wijziging van enkele wetten van het Ministerie van Infrastructuur en Milieu (Verzamelwet IenM 2018)

@@ -9,7 +9,7 @@ laatste_update: 2018-02-27
 status: geldig
 toestand: 2018-02-27
 bron: "https://wetten.overheid.nl/BWBR0040659"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 12 februari 2018 tot aanwijzing van categorieën van personen, openbare diensten en rechtspersonen met een publiekrechtelijke taak op het terrein van politie, justitie of veiligheid, waarvoor de Politieacademie werkzaamheden kan verrichten op het gebied van het ontwikkelen en verzorgen van politieonderwijs, het ontwikkelen van kennis over de politie of de politietaak en het bijdragen aan de ontwikkeling van de uitoefening van de politietaak waarop het politieonderwijs is gericht (Aanwijzingsbesluit personen, andere openbare diensten of rechtspersonen waarvoor de Politieacademie werkzaamheden kan verrichten)

@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0041041"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Wet van 6 juni 2018 tot wijziging van de Wet kwaliteit, klachten en geschillen zorg in verband met de totstandkoming van het implantatenregister ter bescherming van de gezondheid van cliënten

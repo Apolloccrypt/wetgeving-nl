@@ -8,7 +8,7 @@ laatste_update: 2018-07-06
 status: geldig
 toestand: 2018-07-06
 bron: "https://wetten.overheid.nl/BWBR0041114"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Besluit mandaatverlening, machtiging en tekenbevoegdheid Algemene verordening gegevensbescherming SSO Organisatie en Personeel 2018

@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0040451"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Wet van 20 december 2017 tot wijziging van de Wet op de dividendbelasting 1965, de Wet op de vennootschapsbelasting 1969 en enige andere wetten in verband met de introductie van een inhoudingsplicht voor houdstercoöperaties, de uitbreiding van de inhoudingsvrijstelling in de dividendbelasting en wijziging van enkele antimisbruikbepalingen in de dividendbelasting en vennootschapsbelasting (Wet inhoudingsplicht houdstercoöperatie en uitbreiding inhoudingsvrijstelling)

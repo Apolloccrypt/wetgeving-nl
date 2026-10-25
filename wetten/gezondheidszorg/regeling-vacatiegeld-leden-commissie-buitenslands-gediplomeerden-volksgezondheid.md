@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0040341"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 1 december 2017, kenmerk 170499-BPZ, houdende vaststelling van vacatiegeld ten behoeve van de leden van de Commissie buitenslands gediplomeerden volksgezondheid

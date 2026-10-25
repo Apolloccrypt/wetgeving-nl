@@ -9,7 +9,7 @@ laatste_update: 2019-12-14
 status: geldig
 toestand: 2019-12-14
 bron: "https://wetten.overheid.nl/BWBR0040985"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Minister voor Medische Zorg van 31 mei 2018, 1337436-176289-VGP, houdende vaststelling van regels met betrekking tot de veterinaire controles van producten uit derde landen (Warenwetregeling veterinaire controles derde landen 2018)

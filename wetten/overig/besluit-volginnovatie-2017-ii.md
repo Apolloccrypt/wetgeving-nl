@@ -9,7 +9,7 @@ laatste_update: 2018-01-11
 status: geldig
 toestand: 2018-01-11
 bron: "https://wetten.overheid.nl/BWBR0040499"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat van 4 januari 2018 inzake volginnovatie 2017 II

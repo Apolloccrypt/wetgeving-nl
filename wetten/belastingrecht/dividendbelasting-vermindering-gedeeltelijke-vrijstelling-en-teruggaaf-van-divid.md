@@ -8,7 +8,7 @@ laatste_update: 2023-10-10
 status: geldig
 toestand: 2023-10-10
 bron: "https://wetten.overheid.nl/BWBR0040766"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Dividendbelasting, vermindering, (gedeeltelijke) vrijstelling en teruggaaf van dividendbelasting

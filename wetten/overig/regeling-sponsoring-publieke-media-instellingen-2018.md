@@ -9,7 +9,7 @@ laatste_update: 2018-04-13
 status: geldig
 toestand: 2018-04-13
 bron: "https://wetten.overheid.nl/BWBR0040806"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Regeling van het Commissariaat voor de Media van 27 maart 2018 houdende beleidsregels ten aanzien van sponsoring van publieke media-instellingen en regels ten aanzien van titelsponsoring (Beleidsregel sponsoring publieke media-instellingen 2018)

@@ -8,7 +8,7 @@ laatste_update: 2017-12-07
 status: geldig
 toestand: 2017-12-07
 bron: "https://wetten.overheid.nl/BWBR0040312"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit vaststelling termijnen voor de klachtenprocedure van artikel 71 van de Spoorwegwet

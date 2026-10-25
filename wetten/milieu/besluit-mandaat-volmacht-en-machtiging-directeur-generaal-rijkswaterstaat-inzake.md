@@ -9,7 +9,7 @@ laatste_update: 2017-12-29
 status: geldig
 toestand: 2017-12-29
 bron: "https://wetten.overheid.nl/BWBR0040465"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat van 22 december 2017, nr. WJZ/17199577, houdende regels inzake het verlenen van mandaat, volmacht en machtiging aan de directeur-generaal Rijkswaterstaat inzake het verminderen van de uitstoot van gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen (Besluit mandaat, volmacht en machtiging directeur-generaal Rijkswaterstaat inzake aangelegenheden die verband houden met het verminderen van de uitstoot van gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen)

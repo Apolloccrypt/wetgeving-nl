@@ -9,7 +9,7 @@ laatste_update: 2018-01-27
 status: geldig
 toestand: 2018-01-27
 bron: "https://wetten.overheid.nl/BWBR0040546"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister-President, de Minister van Algemene Zaken van 14 december 2017, nr. 3973240, houdende de vaststelling van het Organisatiebesluit van het Ministerie van Algemene Zaken

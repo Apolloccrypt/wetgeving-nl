@@ -9,7 +9,7 @@ laatste_update: 2017-12-09
 status: geldig
 toestand: 2017-12-09
 bron: "https://wetten.overheid.nl/BWBR0040330"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van 27 november 2017 tot wijziging van het Besluit tarieven in strafzaken 2003 in verband met de indexering van de vergoedingen

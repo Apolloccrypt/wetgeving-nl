@@ -9,7 +9,7 @@ laatste_update: 2018-05-08
 status: geldig
 toestand: 2018-05-08
 bron: "https://wetten.overheid.nl/BWBR0040884"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 25 april 2018, nr. VO/1321293, tot wijziging van de Regeling subsidie zij-instroom 2017 in verband met het aanwijzen van een trainingsprogramma, het vaststellen van een nieuwe aanvraagtermijn voor de trainingsprogramma’s en het vaststellen van regels in geval een zij-instromer het dienstverband beëindigt

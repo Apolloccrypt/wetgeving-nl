@@ -9,7 +9,7 @@ laatste_update: 2018-02-27
 status: geldig
 toestand: 2018-02-27
 bron: "https://wetten.overheid.nl/BWBR0040657"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat van 29 januari 2018, nr. IENM/BSK-2017/273324, houdende beperking aan de openbaarheid van het Archief van de Raad voor de Scheepvaart: dossiers uitspraken en beschikkingen (1908) 1909–2010 (Besluit beperking openbaarheid Archief Raad voor de Scheepvaart, (1908) 1909–2010)

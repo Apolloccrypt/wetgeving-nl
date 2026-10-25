@@ -9,7 +9,7 @@ laatste_update: 2023-10-17
 status: geldig
 toestand: 2023-10-17
 bron: "https://wetten.overheid.nl/BWBR0040636"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 14 februari 2018, nr. WJZ /16056394, houdende regels met betrekking tot subsidiëring van de kosten van sloop en ombouw nertsenhouderijen (Regeling subsidiëring sloop- en ombouwkosten pelsdierhouderij)

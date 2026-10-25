@@ -9,7 +9,7 @@ laatste_update: 2018-02-01
 status: geldig
 toestand: 2018-02-01
 bron: "https://wetten.overheid.nl/BWBR0040578"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Wet van 20 december 2017 tot implementatie van de wijzigingen van de Code en aanhangsels bij het Maritiem Arbeidsverdrag 2006, die door de Internationale Arbeidsconferentie zijn goedgekeurd op 11 juni 2014 (Trb. 2016, 85)

@@ -9,7 +9,7 @@ laatste_update: 2018-06-13
 status: geldig
 toestand: 2018-06-13
 bron: "https://wetten.overheid.nl/BWBR0041010"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 4 juni 2018, nr. EGI/435166, tot het verlenen van mandaat aan de algemeen directeur Douane inzake de uitvoer van cultuurgoederen

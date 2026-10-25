@@ -9,7 +9,7 @@ laatste_update: 2017-01-05
 status: geldig
 toestand: 2017-01-05
 bron: "https://wetten.overheid.nl/BWBR0040497"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Minister van Financiën van 22 december 2017, 2017-0000211126, directie Financiële Markten, houdende regels tot vaststelling van de criteria voor de beoordeling van de vakbekwaamheid van werknemers van een beleggingsonderneming en tot wijziging van de Regeling taakuitoefening en grensoverschrijdende samenwerking financiële toezichthouders Wft ter implementatie van de richtlijn markten voor financiële instrumenten 2014 en van de Vrijstellingsregeling Wft (Regeling vakbekwaamheid werknemers beleggingsondernemingen Wft)

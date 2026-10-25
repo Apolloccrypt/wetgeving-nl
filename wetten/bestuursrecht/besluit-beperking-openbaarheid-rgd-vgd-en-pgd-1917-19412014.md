@@ -8,7 +8,7 @@ laatste_update: 2017-09-30
 status: geldig
 toestand: 2017-09-30
 bron: "https://wetten.overheid.nl/BWBR0040365"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit beperking openbaarheid RGD, VGD en PGD 1917 (1941–2014)

@@ -9,7 +9,7 @@ laatste_update: 2018-06-01
 status: geldig
 toestand: 2018-06-01
 bron: "https://wetten.overheid.nl/BWBR0040968"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat, van 30 mei 2018, nr. IENW/BSK-2018/76657, houdende wijziging van het Besluit erkende organisaties Schepenwet in verband met de actualisatie van erkende organisaties en keuringsinstanties en de intrekking van de aanwijzing van Register Holland B.V. als keuringsinstantie

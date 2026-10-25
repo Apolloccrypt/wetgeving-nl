@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0040435"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Wet van 13 december 2017 tot wijziging van de Pensioenwet, de Wet verplichte beroepspensioenregeling en de Invoerings- en aanpassingswet Pensioenwet in verband met waardeoverdracht van klein pensioen en enige andere wijzigingen inzake waardeoverdracht (Wet waardeoverdracht klein pensioen)

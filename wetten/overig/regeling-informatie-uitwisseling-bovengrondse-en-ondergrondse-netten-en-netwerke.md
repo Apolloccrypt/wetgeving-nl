@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0040787"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 26 maart 2018, nr. WJZ/18027245, houdende een systeem van informatie-uitwisseling betreffende bovengrondse en ondergrondse infrastructuur van netten en netwerken ter voorkoming van graafschade en ter bevordering van de aanleg van elektronische communicatienetwerken met hoge snelheid (Regeling informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken)

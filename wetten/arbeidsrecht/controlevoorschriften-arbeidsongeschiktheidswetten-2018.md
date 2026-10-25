@@ -8,7 +8,7 @@ laatste_update: 2020-11-18
 status: geldig
 toestand: 2020-11-18
 bron: "https://wetten.overheid.nl/BWBR0041039"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Controlevoorschriften arbeidsongeschiktheidswetten 2018

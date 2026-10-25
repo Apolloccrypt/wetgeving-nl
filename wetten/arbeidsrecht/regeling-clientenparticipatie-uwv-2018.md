@@ -8,7 +8,7 @@ laatste_update: 2024-05-08
 status: geldig
 toestand: 2024-05-08
 bron: "https://wetten.overheid.nl/BWBR0040774"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Regeling cliëntenparticipatie UWV 2018

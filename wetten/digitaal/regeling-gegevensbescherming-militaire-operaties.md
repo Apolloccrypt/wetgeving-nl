@@ -8,7 +8,7 @@ laatste_update: 2018-05-25
 status: geldig
 toestand: 2018-05-25
 bron: "https://wetten.overheid.nl/BWBR0040912"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Regeling Gegevensbescherming Militaire Operaties

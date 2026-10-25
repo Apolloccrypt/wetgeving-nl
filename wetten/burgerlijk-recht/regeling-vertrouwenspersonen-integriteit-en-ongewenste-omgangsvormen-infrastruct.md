@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-07-08
 toestand: 2025-06-30
 bron: "https://wetten.overheid.nl/BWBR0040783"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 27 maart 2018, nr. IENW/BSK-2018/66380, houdende vaststelling van de Regeling vertrouwenspersonen ongewenste omgangsvormen en integriteit in de arbeidsorganisatie Ministerie van Infrastructuur en Waterstaat

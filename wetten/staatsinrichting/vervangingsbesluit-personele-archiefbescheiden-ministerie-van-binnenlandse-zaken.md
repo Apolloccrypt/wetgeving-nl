@@ -8,7 +8,7 @@ laatste_update: 2018-05-15
 status: geldig
 toestand: 2018-05-15
 bron: "https://wetten.overheid.nl/BWBR0040892"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Vervangingsbesluit personele archiefbescheiden Ministerie van Binnenlandse Zaken en Koninkrijksrelaties

@@ -9,7 +9,7 @@ laatste_update: 2018-07-27
 status: geldig
 toestand: 2018-07-27
 bron: "https://wetten.overheid.nl/BWBR0041074"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 13 juni 2018, kenmerk 2266413 houdende wijziging van de Regeling modellen en formulieren ten behoeve van de handhaving Justitie

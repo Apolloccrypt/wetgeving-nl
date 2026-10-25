@@ -8,7 +8,7 @@ laatste_update: 2018-05-04
 status: geldig
 toestand: 2018-05-04
 bron: "https://wetten.overheid.nl/BWBR0040871"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Regeling rechten betrokkenen bij de verwerking van persoonsgegevens van het Vervangingsfonds en Participatiefonds

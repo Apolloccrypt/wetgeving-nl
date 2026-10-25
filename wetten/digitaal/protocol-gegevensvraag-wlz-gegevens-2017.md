@@ -8,7 +8,7 @@ laatste_update: 2018-05-24
 status: geldig
 toestand: 2018-05-24
 bron: "https://wetten.overheid.nl/BWBR0040941"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Protocol Gegevensvraag Wlz-gegevens 2017

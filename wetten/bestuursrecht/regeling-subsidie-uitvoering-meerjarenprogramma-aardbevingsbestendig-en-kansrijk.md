@@ -9,7 +9,7 @@ laatste_update: 2022-12-01
 status: geldig
 toestand: 2022-12-01
 bron: "https://wetten.overheid.nl/BWBR0040315"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat van 4 december 2017, nr. WJZ / 16181067, houdende regels met betrekking tot het verstrekken van subsidies ter uitvoering van het Meerjarenprogramma Aardbevingsbestendig en Kansrijk Groningen (Regeling subsidie uitvoering Meerjarenprogramma Aardbevingsbestendig en Kansrijk Groningen)

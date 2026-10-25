@@ -9,7 +9,7 @@ laatste_update: 2020-04-01
 status: geldig
 toestand: 2020-04-01
 bron: "https://wetten.overheid.nl/BWBR0041117"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Wet van 15 juni 2018 tot wijziging van onder meer de Wet op het hoger onderwijs en wetenschappelijk onderzoek met het oog op het optimaliseren van het accreditatiestelsel (Wet accreditatie op maat)

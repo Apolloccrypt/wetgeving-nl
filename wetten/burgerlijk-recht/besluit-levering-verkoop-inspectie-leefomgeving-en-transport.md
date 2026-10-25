@@ -8,7 +8,7 @@ laatste_update: 2018-03-03
 status: geldig
 toestand: 2018-03-03
 bron: "https://wetten.overheid.nl/BWBR0040682"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit levering verkoop, Inspectie Leefomgeving en Transport

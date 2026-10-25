@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0040573"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 23 januari 2018, nr. 2018-0000004839, tot vaststelling van uitvoeringsvoorschriften voor de bescherming van werknemers die beroepsmatig blootgesteld kunnen worden aan ioniserende straling (Regeling stralingsbescherming beroepsmatige blootstelling 2018)

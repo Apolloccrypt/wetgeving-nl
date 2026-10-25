@@ -9,7 +9,7 @@ laatste_update: 2018-04-11
 status: geldig
 toestand: 2018-04-11
 bron: "https://wetten.overheid.nl/BWBR0040455"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Wet van 20 december 2017 tot wijziging van de Pensioenwet en enige andere wetten vanwege een aantal wijzigingen van pensioenwetgeving (Verzamelwet pensioenen 2017)

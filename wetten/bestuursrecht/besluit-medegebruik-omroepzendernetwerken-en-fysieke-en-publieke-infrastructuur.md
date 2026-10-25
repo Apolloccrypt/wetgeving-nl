@@ -9,7 +9,7 @@ laatste_update: 2022-03-02
 status: geldig
 toestand: 2022-03-02
 bron: "https://wetten.overheid.nl/BWBR0040788"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Besluit van 21 maart 2018, houdende regels inzake het medegebruik van antenne-opstelpunten, antennesystemen en antennes bestemd voor omroepzendernetwerken en medegebruik van fysieke infrastructuur ter bevordering van de aanleg van elektronische communicatienetwerken met hoge snelheid (Besluit medegebruik omroepzendernetwerken en fysieke infrastructuur)

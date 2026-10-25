@@ -9,7 +9,7 @@ laatste_update: 2018-07-11
 status: geldig
 toestand: 2018-07-11
 bron: "https://wetten.overheid.nl/BWBR0041130"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 29 juni 2018, nr. 8f0daaaa-or1-1.0., tot vaststelling van procedureregels voor het omgaan met een melding van een vermoeden van een misstand bij de AIVD (Procedureregeling met betrekking tot het behandelen van meldingen inzake vermoedens van misstanden AIVD)

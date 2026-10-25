@@ -9,7 +9,7 @@ laatste_update: 2018-05-08
 status: geldig
 toestand: 2018-05-08
 bron: "https://wetten.overheid.nl/BWBR0040890"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Waterstaat van 10 april 2018, nr. IENW/BSK-2018/74136, houdende vaststelling van het subsidieplafond op grond van de Subsidieregeling VeiligheidNL voor het jaar 2018

@@ -9,7 +9,7 @@ laatste_update: 2018-06-22
 status: geldig
 toestand: 2018-06-22
 bron: "https://wetten.overheid.nl/BWBR0041044"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 7 juni 2018, nr. 8c9fd2f6-or1-1.5, tot vaststelling van de Klachtregeling AIVD (Klachtregeling AIVD 2018)

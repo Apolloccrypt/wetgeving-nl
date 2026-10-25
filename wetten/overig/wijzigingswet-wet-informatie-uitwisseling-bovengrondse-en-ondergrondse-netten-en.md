@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0040872"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Wet van 11 april 2018 tot wijziging van de Wet informatie-uitwisseling ondergrondse netten (evaluatie WION en regeling bevoegde rechter)

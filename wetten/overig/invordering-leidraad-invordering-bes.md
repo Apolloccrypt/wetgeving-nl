@@ -8,7 +8,7 @@ laatste_update: 2018-03-29
 status: geldig
 toestand: 2018-03-29
 bron: "https://wetten.overheid.nl/BWBR0040762"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Invordering, Leidraad Invordering BES

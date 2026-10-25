@@ -9,7 +9,7 @@ laatste_update: 2023-10-05
 status: geldig
 toestand: 2023-10-05
 bron: "https://wetten.overheid.nl/BWBR0040289"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Minister van Financiën van 21 november 2017, houdende regels over het schatkistbankieren door rechtspersonen met een wettelijke of publieke taak en rechtspersonen die publieke liquide middelen beheren (Regeling schatkistbankieren RWT’s en andere rechtspersonen)

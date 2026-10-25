@@ -9,7 +9,7 @@ laatste_update: 2024-11-20
 status: geldig
 toestand: 2024-11-20
 bron: "https://wetten.overheid.nl/BWBR0040421"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 18 december 2017, nr. WJZ/17198954, houdende instelling van de Welzijnscommissie Dierziekten (Instellingsbesluit Welzijnscommissie Dierziekten)

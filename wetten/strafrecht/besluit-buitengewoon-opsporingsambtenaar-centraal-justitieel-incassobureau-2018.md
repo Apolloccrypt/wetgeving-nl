@@ -9,7 +9,7 @@ laatste_update: 2018-09-01
 status: geldig
 toestand: 2018-09-01
 bron: "https://wetten.overheid.nl/BWBR0041084"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 18 juni 2018 nr. BOACAT2018/034, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij het Centraal Justitieel Incassobureau

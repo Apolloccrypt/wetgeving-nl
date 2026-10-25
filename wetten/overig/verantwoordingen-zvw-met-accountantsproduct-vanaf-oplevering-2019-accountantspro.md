@@ -8,7 +8,7 @@ laatste_update: 2018-06-07
 status: geldig
 toestand: 2018-06-07
 bron: "https://wetten.overheid.nl/BWBR0040990"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Verantwoordingen Zvw met accountantsproduct vanaf oplevering 2019 (Accountantsprotocol)

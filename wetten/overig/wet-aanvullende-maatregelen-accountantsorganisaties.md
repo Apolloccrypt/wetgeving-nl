@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0040928"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Wet van 25 april 2018 tot wijziging van de Wet toezicht accountantsorganisaties, het Burgerlijk Wetboek en enige andere wetten op het terrein van accountantsorganisaties en het accountantsberoep in verband met het versterken van de governance van accountantsorganisaties (Wet aanvullende maatregelen accountantsorganisaties)

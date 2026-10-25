@@ -9,7 +9,7 @@ laatste_update: 2023-09-01
 status: geldig
 toestand: 2023-09-01
 bron: "https://wetten.overheid.nl/BWBR0040855"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Minister-President, Minister van Algemene Zaken, de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Defensie van 20 april 2018, nr. 2018-0000241495, houdende vaststelling van regels omtrent het aanwijzen van personen of instanties die een verzoek om mededeling kunnen doen omtrent door de diensten verwerkte gegevens omtrent personen of instanties (Regeling naslag Wiv 2017)

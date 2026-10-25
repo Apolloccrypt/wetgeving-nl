@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0040634"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Wet van 24 januari 2018 tot vaststelling van een Wet forensische zorg en daarmee verband houdende wijzigingen in diverse andere wetten (Wet forensische zorg)

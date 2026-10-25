@@ -9,7 +9,7 @@ laatste_update: 2018-01-19
 status: geldig
 toestand: 2018-01-19
 bron: "https://wetten.overheid.nl/BWBR0040515"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit vaststelling selectielijst Instituut Fysieke Veiligheid

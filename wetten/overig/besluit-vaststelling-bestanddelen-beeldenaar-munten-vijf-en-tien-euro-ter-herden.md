@@ -9,7 +9,7 @@ laatste_update: 2018-06-03
 status: geldig
 toestand: 2018-06-03
 bron: "https://wetten.overheid.nl/BWBR0040961"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Besluit van 22 mei 2018, houdende vaststelling van de bestanddelen van de beeldenaar van de munten van vijf en tien euro die in 2018 worden uitgegeven ter herdenking van Fanny Blankers-Koen in de serie Nederlandse Sporticonen

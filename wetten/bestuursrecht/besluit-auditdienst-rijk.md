@@ -9,7 +9,7 @@ laatste_update: 2018-07-18
 status: geldig
 toestand: 2018-07-18
 bron: "https://wetten.overheid.nl/BWBR0041159"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Besluit van 19 juni 2018, nr. 2017001795, houdende regels over de Auditdienst Rijk (Besluit Auditdienst Rijk)

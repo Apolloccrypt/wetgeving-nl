@@ -9,7 +9,7 @@ laatste_update: 2017-12-28
 status: geldig
 toestand: 2017-12-28
 bron: "https://wetten.overheid.nl/BWBR0040447"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport en de Minister voor Rechtsbescherming van 15 december 2017, houdende vaststelling van de aanvang van de overgangstermijnen aangaande de registratie van jeugd- en gezinsprofessionals in het kwaliteitsregister jeugd

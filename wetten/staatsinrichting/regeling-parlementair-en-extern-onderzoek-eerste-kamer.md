@@ -8,7 +8,7 @@ laatste_update: 2023-06-13
 status: geldig
 toestand: 2023-06-13
 bron: "https://wetten.overheid.nl/BWBR0040376"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Regeling parlementair en extern onderzoek Eerste Kamer

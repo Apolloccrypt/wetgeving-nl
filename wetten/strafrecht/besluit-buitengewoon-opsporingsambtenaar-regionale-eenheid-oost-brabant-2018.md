@@ -9,7 +9,7 @@ laatste_update: 2018-04-13
 status: geldig
 toestand: 2018-04-13
 bron: "https://wetten.overheid.nl/BWBR0040608"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 5 februari 2018 nr. BOACAT2018/009, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Regionale eenheid Oost-Brabant

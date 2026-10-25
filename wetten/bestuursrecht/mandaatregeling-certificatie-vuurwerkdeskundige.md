@@ -9,7 +9,7 @@ laatste_update: 2018-04-13
 status: geldig
 toestand: 2018-04-13
 bron: "https://wetten.overheid.nl/BWBR0040824"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 5 april 2018, 2018-0000050694, houdende het verlenen van mandaat aan Kiwa in verband met het uitvoeren van certificatiewerkzaamheden voor vuurwerkdeskundige (Mandaatregeling certificatie vuurwerkdeskundige)

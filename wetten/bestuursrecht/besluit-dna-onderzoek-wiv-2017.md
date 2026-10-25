@@ -9,7 +9,7 @@ laatste_update: 2018-05-01
 status: geldig
 toestand: 2018-05-01
 bron: "https://wetten.overheid.nl/BWBR0040851"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Besluit van 18 april 2018, houdende regels met betrekking tot het verrichten van DNA-onderzoek in het kader van de uitvoering van de Wet op de inlichtingen- en veiligheidsdiensten 2017 (Besluit DNA-onderzoek Wiv 2017)

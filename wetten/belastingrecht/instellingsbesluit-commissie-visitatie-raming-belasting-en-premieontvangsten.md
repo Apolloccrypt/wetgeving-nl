@@ -8,7 +8,7 @@ laatste_update: 2018-02-23
 status: geldig
 toestand: 2018-02-23
 bron: "https://wetten.overheid.nl/BWBR0040652"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Instellingsbesluit Commissie Visitatie raming belasting- en premieontvangsten

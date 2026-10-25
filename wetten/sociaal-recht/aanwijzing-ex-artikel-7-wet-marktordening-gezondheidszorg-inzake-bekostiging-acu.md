@@ -9,7 +9,7 @@ laatste_update: 2018-07-01
 status: geldig
 toestand: 2018-07-01
 bron: "https://wetten.overheid.nl/BWBR0040898"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 26 april 2018, kenmerk 1309558-174219-CZ, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake bekostiging acute psychiatrische hulpverlening

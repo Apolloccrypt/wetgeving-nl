@@ -9,7 +9,7 @@ laatste_update: 2019-06-25
 status: geldig
 toestand: 2019-06-25
 bron: "https://wetten.overheid.nl/BWBR0040731"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Toezichtbeleid erkenninghouders RDW 2018

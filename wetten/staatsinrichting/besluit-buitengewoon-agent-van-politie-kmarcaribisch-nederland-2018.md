@@ -9,7 +9,7 @@ laatste_update: 2018-06-04
 status: geldig
 toestand: 2018-06-04
 bron: "https://wetten.overheid.nl/BWBR0040951"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 23 mei 2018 nr.: 201803/ KPCN/18 strekkende tot aanwijzing van buitengewoon agenten van politie bij de KMAR/Caribisch Nederland

@@ -9,7 +9,7 @@ laatste_update: 2018-08-01
 status: geldig
 toestand: 2018-08-01
 bron: "https://wetten.overheid.nl/BWBR0040700"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Wet van 14 februari 2018 tot wijziging van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba en de Kieswet in verband met de introductie van kiescolleges voor de Eerste Kamer voor de Caribische openbare lichamen ten behoeve van de verkiezing van de leden van de Eerste Kamer

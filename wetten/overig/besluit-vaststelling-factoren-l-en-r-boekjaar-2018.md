@@ -9,7 +9,7 @@ laatste_update: 2017-12-21
 status: geldig
 toestand: 2017-12-21
 bron: "https://wetten.overheid.nl/BWBR0040408"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit tot vaststelling van de factoren L en r voor het boekjaar 2018

@@ -9,7 +9,7 @@ laatste_update: 2018-07-01
 status: geldig
 toestand: 2018-07-01
 bron: "https://wetten.overheid.nl/BWBR0040618"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Wet van 31 januari 2018 tot wijziging van het Wetboek van Strafvordering, de Penitentiaire beginselenwet, de Beginselenwet verpleging ter beschikking gestelden, de Beginselenwet justitiële jeugdinrichtingen en enkele andere strafrechtelijke wetten met het oog op het aanbrengen van enkele hoofdzakelijk procedurele verbeteringen ten behoeve van de rechtspraktijk

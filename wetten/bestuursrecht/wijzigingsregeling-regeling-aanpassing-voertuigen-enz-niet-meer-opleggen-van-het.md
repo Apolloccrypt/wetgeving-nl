@@ -9,7 +9,7 @@ laatste_update: 2018-05-01
 status: geldig
 toestand: 2018-05-01
 bron: "https://wetten.overheid.nl/BWBR0040804"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 3 april 2018, nr. IENW/BSK-2018/24173, tot wijziging van enkele ministeriële regelingen in verband met het niet meer opleggen van het alcoholslotprogramma in het bestuursrecht

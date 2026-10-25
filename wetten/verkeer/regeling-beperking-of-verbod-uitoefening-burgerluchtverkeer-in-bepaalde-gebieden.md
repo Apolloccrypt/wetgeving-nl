@@ -8,7 +8,7 @@ laatste_update: 2026-06-11
 status: geldig
 toestand: 2026-06-11
 bron: "https://wetten.overheid.nl/BWBR0040730"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Regeling beperking of verbod uitoefening burgerluchtverkeer in bepaalde gebieden 2018

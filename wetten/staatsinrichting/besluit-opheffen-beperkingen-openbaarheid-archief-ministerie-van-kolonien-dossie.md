@@ -8,7 +8,7 @@ laatste_update: 2018-01-16
 status: geldig
 toestand: 2018-01-16
 bron: "https://wetten.overheid.nl/BWBR0040504"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit opheffen beperkingen openbaarheid archief Ministerie van Koloniën: Dossierarchief 1945–1963

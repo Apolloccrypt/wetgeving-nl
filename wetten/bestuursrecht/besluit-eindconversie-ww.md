@@ -9,7 +9,7 @@ laatste_update: 2018-04-01
 status: geldig
 toestand: 2018-04-01
 bron: "https://wetten.overheid.nl/BWBR0040295"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van 28 november 2017 tot het bepalen van het moment en de wijze van het omzetten van het dagloon van de resterende uitkeringsrechten gebaseerd op de Werkloosheidswet zoals deze luidde voor 1 juli 2015 (Besluit eindconversie WW)

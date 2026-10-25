@@ -9,7 +9,7 @@ laatste_update: 2017-12-23
 status: geldig
 toestand: 2017-12-23
 bron: "https://wetten.overheid.nl/BWBR0040412"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Wet van 13 december 2017, houdende uitvoering van de Verordening (EU) 2015/848 van het Europees Parlement en de Raad van 20 mei 2015 betreffende insolventieprocedures (PbEU 2015, L 141) (Uitvoeringswet EU-insolventieverordening)

@@ -9,7 +9,7 @@ laatste_update: 2018-03-23
 status: geldig
 toestand: 2018-03-23
 bron: "https://wetten.overheid.nl/BWBR0040737"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 13 maart 2018, kenmerk 1266736-171004-FEZ, tot verlening van de bevoegdheid tot aanwijzing en intrekking van een zodanige aanwijzing van de kasbeheerder van het Financieel Diensten Centrum

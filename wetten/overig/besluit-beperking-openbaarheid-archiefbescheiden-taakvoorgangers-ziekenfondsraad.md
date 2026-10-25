@@ -9,7 +9,7 @@ laatste_update: 2018-03-01
 status: geldig
 toestand: 2018-03-01
 bron: "https://wetten.overheid.nl/BWBR0040529"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 14 december 2017, kenmerk 1238831-168232-OBP, houdende beperking van de openbaarheid van archiefbescheiden van de taakvoorgangers van de Ziekenfondsraad over de periode (1919) 1941–1948 en van het personeelsarchief over de periode 1949–1965, zoals opgenomen in het archief van de raad en taakvoorgangers (1919) 1941–1999

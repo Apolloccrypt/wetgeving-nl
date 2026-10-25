@@ -9,7 +9,7 @@ laatste_update: 2020-08-28
 status: geldig
 toestand: 2020-08-28
 bron: "https://wetten.overheid.nl/BWBR0041119"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 27 juni 2018, kenmerk 1358163-177565-BPZ, houdende regels voor de bezoldiging en beheerskosten van bestuursorganen volksgezondheid (Regeling bezoldiging en beheerskosten zelfstandige bestuursorganen VWS 2018)

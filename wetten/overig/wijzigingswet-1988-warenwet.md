@@ -9,7 +9,7 @@ laatste_update: 2018-11-17
 status: geldig
 toestand: 2018-11-17
 bron: "https://wetten.overheid.nl/BWBR0040825"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Wet van 21 april 1988, tot wijziging van de Warenwet

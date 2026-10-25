@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0040482"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 8 december 2017, nr. IENM/BSK-2017/205700, houdende regels met betrekking tot de basisregistratie ondergrond (Regeling basisregistratie ondergrond)

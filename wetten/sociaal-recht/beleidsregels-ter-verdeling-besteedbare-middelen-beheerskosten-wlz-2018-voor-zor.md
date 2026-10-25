@@ -9,7 +9,7 @@ laatste_update: 2021-06-25
 status: geldig
 toestand: 2021-06-25
 bron: "https://wetten.overheid.nl/BWBR0040962"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Beleidsregels van de Raad van Bestuur van Zorginstituut Nederland van 19 februari 2018, referentie 2017055845, ter verdeling besteedbare middelen beheerskosten Wlz 2018 voor zorgkantoren

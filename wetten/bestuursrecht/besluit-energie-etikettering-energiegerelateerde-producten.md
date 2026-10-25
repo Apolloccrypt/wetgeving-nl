@@ -9,7 +9,7 @@ laatste_update: 2023-04-19
 status: geldig
 toestand: 2023-04-19
 bron: "https://wetten.overheid.nl/BWBR0040614"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van 30 januari 2018, houdende regels inzake de etikettering van energiegerelateerde producten (Besluit energie-etikettering energiegerelateerde producten)

@@ -9,7 +9,7 @@ laatste_update: 2017-12-14
 status: geldig
 toestand: 2017-12-14
 bron: "https://wetten.overheid.nl/BWBR0040359"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 30 november 2017, nr. 2017-0000574876, houdende bekendmaking van de taak waarmee de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties in het bijzonder zal zijn belast

@@ -9,7 +9,7 @@ laatste_update: 2024-05-15
 status: geldig
 toestand: 2024-05-15
 bron: "https://wetten.overheid.nl/BWBR0040475"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 22 december 2017, nr. 2017-0000633621, houdende vaststelling van het organisatiebesluit Rijksvastgoedbedrijf (Besluit taak RVB 2017)

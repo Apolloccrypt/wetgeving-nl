@@ -9,7 +9,7 @@ laatste_update: 2018-05-15
 status: geldig
 toestand: 2018-05-15
 bron: "https://wetten.overheid.nl/BWBR0040708"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 7 maart 2018, nr. 2018-0000027251, tot vaststelling van een tijdelijke regeling ter compensatie van zelfstandigen, beroepsbeoefenaren en meewerkende echtgenoten die in het tijdvak 7 mei 2005 tot 4 juni 2008 geen recht hadden op uitkering wegens zwangerschap en bevalling (Tijdelijke regeling compensatie zelfstandigen, beroepsbeoefenaren en meewerkende echtgenoten bevallen in het tijdvak 7 mei 2005 tot 4 juni 2008)

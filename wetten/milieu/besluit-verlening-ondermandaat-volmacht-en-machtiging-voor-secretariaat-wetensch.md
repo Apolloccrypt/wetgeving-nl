@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-10-15
 toestand: 2026-02-02
 bron: "https://wetten.overheid.nl/BWBR0048630"
-opgehaald: 2026-10-24
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de secretaris-directeur van de Wetenschappelijke Klimaatraad, nr. 26155688, houdende verlening van ondermandaat, volmacht en machtiging voor het secretariaat van de Wetenschappelijke Klimaatraad

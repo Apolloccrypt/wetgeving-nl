@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0040907"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Besluit van 20 april 2018 tot vaststelling van bedragen voor nadeel van naasten dat niet in vermogensschade bestaat (Besluit vergoeding affectieschade)

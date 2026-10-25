@@ -9,7 +9,7 @@ laatste_update: 2019-02-14
 status: geldig
 toestand: 2019-02-14
 bron: "https://wetten.overheid.nl/BWBR0040714"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 12 maart 2018 nr. BOACAT2018/014, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Qbuzz Openbaar Vervoer

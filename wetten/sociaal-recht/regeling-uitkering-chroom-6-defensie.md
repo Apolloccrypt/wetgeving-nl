@@ -8,7 +8,7 @@ laatste_update: 2021-06-08
 status: geldig
 toestand: 2021-06-08
 bron: "https://wetten.overheid.nl/BWBR0040982"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Regeling uitkering chroom-6 Defensie

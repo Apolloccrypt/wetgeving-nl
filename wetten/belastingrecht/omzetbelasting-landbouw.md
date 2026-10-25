@@ -8,7 +8,7 @@ laatste_update: 2020-08-07
 status: geldig
 toestand: 2020-08-07
 bron: "https://wetten.overheid.nl/BWBR0040474"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Omzetbelasting, landbouw

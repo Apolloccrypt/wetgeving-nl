@@ -9,7 +9,7 @@ laatste_update: 2018-02-21
 status: geldig
 toestand: 2018-02-21
 bron: "https://wetten.overheid.nl/BWBR0040646"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Staatssecretaris van Economische Zaken en Klimaat van 19 februari 2018, nr. TM/180 252 32, handelende in overeenstemming met de Minister voor Basis- en Voortgezet Onderwijs en Media, inzake de keuze voor het instrument veiling van vergunningen voor niet-landelijke commerciële radio-omroep kavels B05 en B36, de vaststelling van die vergunningen en de vaststelling van de daaraan te koppelen vergunningen voor digitale radio-omroep

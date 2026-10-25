@@ -9,7 +9,7 @@ laatste_update: 2018-03-28
 status: geldig
 toestand: 2018-03-28
 bron: "https://wetten.overheid.nl/BWBR0040775"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat van 22 maart 2018, nr. WJZ/18026072, tot vaststelling van de definitieve correcties voor de stimulering van duurzame energieproductie in het jaar 2017 (Regeling vaststelling definitieve correcties duurzame energieproductie 2017)

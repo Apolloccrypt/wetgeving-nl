@@ -9,7 +9,7 @@ laatste_update: 2018-05-02
 status: geldig
 toestand: 2018-05-02
 bron: "https://wetten.overheid.nl/BWBR0040868"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 18 april 2018, houdende de beperking van de openbaarheid van een aantal inventarissen van het archief van de Nederlandse diplomatieke vertegenwoordiging in Griekenland

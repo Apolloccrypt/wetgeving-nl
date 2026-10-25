@@ -9,7 +9,7 @@ laatste_update: 2018-07-01
 status: geldig
 toestand: 2018-07-01
 bron: "https://wetten.overheid.nl/BWBR0040853"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 23 april 2018, nr. IENW/BSK-2018/10392, tot het vaststellen van vacatiegeld voor leden van de commissie van gecommitteerden voor de examens verklaringhouder (Regeling vacatiegeld leden commissie van gecommitteerden voor de examens verklaringhouder)

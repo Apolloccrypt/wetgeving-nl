@@ -9,7 +9,7 @@ laatste_update: 2018-03-22
 status: geldig
 toestand: 2018-03-22
 bron: "https://wetten.overheid.nl/BWBR0040738"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van 9 maart 2018 nr. 2018000387, houdende departementale herindeling taken Wet op de architectentitel en titelbescherming architect en stedenbouwkundige

@@ -8,7 +8,7 @@ laatste_update: 2021-05-18
 status: geldig
 toestand: 2021-05-18
 bron: "https://wetten.overheid.nl/BWBR0040777"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Bestuursreglement CIZ

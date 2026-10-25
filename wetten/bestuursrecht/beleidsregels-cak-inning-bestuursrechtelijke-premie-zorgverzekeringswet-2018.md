@@ -8,7 +8,7 @@ laatste_update: 2018-02-22
 status: geldig
 toestand: 2018-02-22
 bron: "https://wetten.overheid.nl/BWBR0040645"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Beleidsregels CAK inning bestuursrechtelijke premie Zorgverzekeringswet 2018

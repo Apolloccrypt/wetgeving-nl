@@ -9,7 +9,7 @@ laatste_update: 2018-01-24
 status: geldig
 toestand: 2018-01-24
 bron: "https://wetten.overheid.nl/BWBR0040540"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister-President, Minister van Algemene Zaken van 01-01-2018, nr. 3976193 met betrekking tot digitale vervanging van personele archiefbescheiden (Vervangingsbesluit personele archiefbescheiden AZ)

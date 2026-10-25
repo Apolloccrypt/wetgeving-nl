@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0040599"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Beschikking van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 23 januari 2018, nr. 2017-0000012131, tot aanwijzing van de Stichting Projectenbureau Publieke Gezondheid van de Vereniging Publieke Gezondheid en Veiligheid Nederland

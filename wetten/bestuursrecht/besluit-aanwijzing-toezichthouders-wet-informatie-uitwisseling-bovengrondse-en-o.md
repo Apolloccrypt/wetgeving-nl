@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0041091"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Staatssecretaris van Economische Zaken en Klimaat van 27 juni 2018, nr. WJZ/18139565, houdende aanwijzing van toezichthouders op de naleving van de Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken (Besluit aanwijzing toezichthouders Wet bovengrondse en ondergrondse netten en netwerken)

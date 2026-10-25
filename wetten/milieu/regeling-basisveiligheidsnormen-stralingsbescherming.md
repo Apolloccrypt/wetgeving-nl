@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0040509"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, de Staatssecretaris van Sociale Zaken en Werkgelegenheid en de Minister voor Medische Zorg van 9 januari 2018, nr. IENM/BSK-2017/291098, houdende vaststelling van nadere regels ter bescherming van personen tegen de gevaren van blootstelling aan ioniserende straling (Regeling basisveiligheidsnormen stralingsbescherming)

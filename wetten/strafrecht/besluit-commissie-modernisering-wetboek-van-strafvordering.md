@@ -9,7 +9,7 @@ laatste_update: 2018-04-11
 status: geldig
 toestand: 2018-04-11
 bron: "https://wetten.overheid.nl/BWBR0040809"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid en de Minister voor Rechtsbescherming van 31 januari 2018, nr. 2189211, inzake de Commissie modernisering Wetboek van Strafvordering (Besluit Commissie modernisering Wetboek van Strafvordering)

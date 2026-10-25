@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0040362"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Beleidsregel van de Minister van Economische Zaken en Klimaat van 11 december 2017, nr. WJZ/17177946, houdende beleidsregels inzake de wijziging van vergunningen windenergie op zee voor de kavels I en II Hollandse Kust (zuid)

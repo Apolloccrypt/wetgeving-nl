@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-06-26
 toestand: 2018-01-31
 bron: "https://wetten.overheid.nl/BWBR0040568"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 22 januari 2018, 2018-0000002657, tot digitale vervanging archiefbescheiden Ministerie Sociale Zaken en Werkgelegenheid

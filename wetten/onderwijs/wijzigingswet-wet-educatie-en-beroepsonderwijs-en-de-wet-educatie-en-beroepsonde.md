@@ -9,7 +9,7 @@ laatste_update: 2018-08-01
 status: geldig
 toestand: 2018-08-01
 bron: "https://wetten.overheid.nl/BWBR0040658"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Wet van 14 februari 2018 tot wijziging van de Wet educatie en beroepsonderwijs en de Wet educatie en beroepsonderwijs BES vanwege met name de wettelijke verankering van het samenwerkingscollege en de instandhouding van unieke beroepsopleidingen (samenwerkingscollege en unieke beroepsopleidingen)

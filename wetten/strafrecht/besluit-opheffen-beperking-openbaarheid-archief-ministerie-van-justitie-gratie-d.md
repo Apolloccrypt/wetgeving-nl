@@ -8,7 +8,7 @@ laatste_update: 2018-03-30
 status: geldig
 toestand: 2018-03-30
 bron: "https://wetten.overheid.nl/BWBR0040772"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit opheffen beperking openbaarheid archief Ministerie van Justitie: Gratie Doodstraffen, nummer toegang 2.09.71

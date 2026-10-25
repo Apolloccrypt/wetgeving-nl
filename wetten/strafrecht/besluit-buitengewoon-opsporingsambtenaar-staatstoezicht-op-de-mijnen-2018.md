@@ -9,7 +9,7 @@ laatste_update: 2018-06-07
 status: geldig
 toestand: 2018-06-07
 bron: "https://wetten.overheid.nl/BWBR0040983"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 30 mei 2018 nr. BOACAT2018/025, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Staatstoezicht op de Mijnen

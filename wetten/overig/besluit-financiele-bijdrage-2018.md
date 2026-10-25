@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0040405"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van het college van afgevaardigden van 13 december 2017 tot vaststelling van de hoogte van de financiële bijdrage (Besluit financiële bijdrage 2018)

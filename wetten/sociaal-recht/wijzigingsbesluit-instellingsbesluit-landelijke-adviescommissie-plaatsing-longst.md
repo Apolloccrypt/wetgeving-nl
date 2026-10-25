@@ -9,7 +9,7 @@ laatste_update: 2018-05-10
 status: geldig
 toestand: 2018-05-10
 bron: "https://wetten.overheid.nl/BWBR0040896"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 1 mei 2018, nr. 2250459, houdende wijziging van het Instellingsbesluit Landelijke adviescommissie plaatsing longstay forensische zorg in verband met een aanpassing van de benoemings- en herbenoemingstermijn van de voorzitter, de leden en de plaatsvervangende leden

@@ -9,7 +9,7 @@ laatste_update: 2018-06-13
 status: geldig
 toestand: 2018-06-13
 bron: "https://wetten.overheid.nl/BWBR0040831"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Wet van 28 maart 2018 tot herstel van een aantal gebreken van ondergeschikte aard in diverse wetten op het terrein van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (Reparatiewet BZK 2018)

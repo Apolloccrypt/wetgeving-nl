@@ -8,7 +8,7 @@ laatste_update: 2018-05-06
 status: geldig
 toestand: 2018-05-06
 bron: "https://wetten.overheid.nl/BWBR0040876"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Besluit vaststelling selectielijst COGEM voor de periode vanaf 1995

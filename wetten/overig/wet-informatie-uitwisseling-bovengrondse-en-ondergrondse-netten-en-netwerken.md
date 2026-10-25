@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0040728"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Wet van 21 februari 2018, houdende regels over de informatie-uitwisseling betreffende bovengrondse en ondergrondse infrastructuur van netten en netwerken ter voorkoming van graafschade en ter bevordering van de aanleg van elektronische communicatienetwerken met hoge snelheid, alsmede wijziging van de Telecommunicatiewet ter bevordering van medegebruik van fysieke infrastructuur en van de gecoördineerde aanleg van civiele werken (Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken)

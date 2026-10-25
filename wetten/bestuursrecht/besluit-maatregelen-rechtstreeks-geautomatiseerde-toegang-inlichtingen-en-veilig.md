@@ -9,7 +9,7 @@ laatste_update: 2018-05-01
 status: geldig
 toestand: 2018-05-01
 bron: "https://wetten.overheid.nl/BWBR0040844"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Besluit van 18 april 2018, houdende regels inzake technische en organisatorische maatregelen met betrekking tot rechtstreeks geautomatiseerde toegang van de inlichtingen- en veiligheidsdiensten tot de gegevens verwerkt door informanten dan wel door ambtenaren van politie, van de Koninklijke marechaussee en van de rijksbelastingdienst (Besluit maatregelen rechtstreeks geautomatiseerde toegang inlichtingen- en veiligheidsdiensten)

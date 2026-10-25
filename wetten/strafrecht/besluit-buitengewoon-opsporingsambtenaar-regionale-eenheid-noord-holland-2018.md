@@ -9,7 +9,7 @@ laatste_update: 2018-04-13
 status: geldig
 toestand: 2018-04-13
 bron: "https://wetten.overheid.nl/BWBR0040583"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 24 januari 2018 nr. BOACAT2018/005, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de regionale eenheid Noord-Holland

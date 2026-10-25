@@ -9,7 +9,7 @@ laatste_update: 2018-07-01
 status: geldig
 toestand: 2018-07-01
 bron: "https://wetten.overheid.nl/BWBR0040820"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Wet van 28 maart 2018 tot wijziging van de Wet op het financieel toezicht en de Wet toezicht accountantsorganisaties in verband met het vergroten van de transparantie van het toezicht op financiële markten (Wet transparant toezicht financiële markten)

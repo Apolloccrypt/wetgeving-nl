@@ -9,7 +9,7 @@ laatste_update: 2018-02-13
 status: geldig
 toestand: 2018-02-13
 bron: "https://wetten.overheid.nl/BWBR0040617"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 2 februari 2018, houdende instelling van de Onderzoekscommissie WODC III inzake afhandeling klacht drugsonderzoeken (Instellingsbesluit Onderzoekscommissie WODC III inzake afhandeling klacht drugsonderzoeken)

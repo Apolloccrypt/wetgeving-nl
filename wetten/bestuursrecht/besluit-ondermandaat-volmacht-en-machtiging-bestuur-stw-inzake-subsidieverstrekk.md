@@ -9,7 +9,7 @@ laatste_update: 2018-02-15
 status: geldig
 toestand: 2018-02-15
 bron: "https://wetten.overheid.nl/BWBR0040626"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van het bestuur van de Stichting voor de Technische Wetenschappen van 15 december 2017, houdende regels inzake ondermandaat, volmacht en machtiging voor aangelegenheden met betrekking tot subsidieverstrekking op grond van paragraaf 3.16.4 van de Regeling nationale EZ-subsidies (Besluit ondermandaat, volmacht en machtiging bestuur STW inzake subsidieverstrekking op grond van paragraaf 3.16.4 van de Regeling nationale EZ-subsidies)

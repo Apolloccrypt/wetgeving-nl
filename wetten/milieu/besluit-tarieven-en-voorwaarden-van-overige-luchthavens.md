@@ -9,7 +9,7 @@ laatste_update: 2018-05-01
 status: geldig
 toestand: 2018-05-01
 bron: "https://wetten.overheid.nl/BWBR0040862"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Besluit van 9 april 2018, houdende regels betreffende de tarieven en voorwaarden van overige luchthavens (Besluit tarieven en voorwaarden van overige luchthavens)

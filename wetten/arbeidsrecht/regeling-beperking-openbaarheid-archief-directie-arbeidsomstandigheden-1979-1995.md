@@ -9,7 +9,7 @@ laatste_update: 2018-01-04
 status: geldig
 toestand: 2018-01-04
 bron: "https://wetten.overheid.nl/BWBR0040496"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 15 december 2017, 2017-0000190959, tot beperking van de openbaarheid van het archief van de Directie Arbeidsomstandigheden over de periode (1979) 1995 t/m 2004

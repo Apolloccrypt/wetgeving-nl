@@ -9,7 +9,7 @@ laatste_update: 2017-12-20
 status: geldig
 toestand: 2017-12-20
 bron: "https://wetten.overheid.nl/BWBR0040396"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van 7 december 2017 nr. 2017002133, houdende departementale herindeling met betrekking tot generieke digitale overheid voor bedrijven

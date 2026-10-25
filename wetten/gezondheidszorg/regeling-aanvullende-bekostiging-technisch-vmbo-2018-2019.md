@@ -9,7 +9,7 @@ laatste_update: 2019-09-27
 status: geldig
 toestand: 2019-09-27
 bron: "https://wetten.overheid.nl/BWBR0041042"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 13 juni 2018 nr. VO/1364203, houdende regels voor aanvullende bekostiging voor technisch onderwijs in het voorbereidend middelbaar beroepsonderwijs in de kalenderjaren 2018 en 2019 (Regeling aanvullende bekostiging technisch vmbo 2018 en 2019)

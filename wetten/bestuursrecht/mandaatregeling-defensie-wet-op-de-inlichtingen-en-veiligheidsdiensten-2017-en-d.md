@@ -9,7 +9,7 @@ laatste_update: 2026-04-01
 status: geldig
 toestand: 2026-04-01
 bron: "https://wetten.overheid.nl/BWBR0041001"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Mandaatregeling Defensie Wet op de inlichtingen- en veiligheidsdiensten 2017 en Wet veiligheidsonderzoeken

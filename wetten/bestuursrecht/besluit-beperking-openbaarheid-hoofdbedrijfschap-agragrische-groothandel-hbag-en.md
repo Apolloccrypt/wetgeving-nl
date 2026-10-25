@@ -8,7 +8,7 @@ laatste_update: 2016-02-11
 status: geldig
 toestand: 2016-02-11
 bron: "https://wetten.overheid.nl/BWBR0040369"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit beperking openbaarheid Hoofdbedrijfschap Agragrische Groothandel (HBAG) en taakvoorgangers, [2011] 2003–2014

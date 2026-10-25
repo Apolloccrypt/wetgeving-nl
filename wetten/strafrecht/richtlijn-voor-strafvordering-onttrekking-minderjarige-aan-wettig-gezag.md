@@ -8,7 +8,7 @@ laatste_update: 2018-03-15
 status: geldig
 toestand: 2018-03-15
 bron: "https://wetten.overheid.nl/BWBR0040702"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Richtlijn voor strafvordering onttrekking minderjarige aan wettig gezag

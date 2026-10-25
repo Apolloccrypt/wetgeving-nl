@@ -9,7 +9,7 @@ laatste_update: 2018-03-27
 status: geldig
 toestand: 2018-03-27
 bron: "https://wetten.overheid.nl/BWBR0040748"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 16 maart 2018, nr. Min-BuZa.2018.1096-10, houdende instelling van het Audit Committee van het Ministerie van Buitenlandse Zaken (Instellingsbesluit Audit Committee BZ 2018)

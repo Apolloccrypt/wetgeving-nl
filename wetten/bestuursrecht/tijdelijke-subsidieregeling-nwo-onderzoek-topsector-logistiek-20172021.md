@@ -9,7 +9,7 @@ laatste_update: 2018-06-23
 status: geldig
 toestand: 2018-06-23
 bron: "https://wetten.overheid.nl/BWBR0041058"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 18 juni 2018, nr. IENW/BSK-2018/30175, houdende tijdelijke regels voor de subsidieverstrekking aan de Nederlandse Organisatie voor Wetenschappelijk Onderzoek ten behoeve van het Meerjarenprogramma Topsector Logistiek (Tijdelijke subsidieregeling NWO onderzoek Topsector Logistiek 2017–2021)

@@ -9,7 +9,7 @@ laatste_update: 2018-05-24
 status: geldig
 toestand: 2018-05-24
 bron: "https://wetten.overheid.nl/BWBR0040944"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Procedure van de raad van bestuur van de Kansspelautoriteit van 3 april 2018, kenmerk 01.030.408, voor de behandeling van klachten van derden over vergunninghouders waar de Kansspelautoriteit toezicht op houdt (Meldingsprocedure vergunninghouders)

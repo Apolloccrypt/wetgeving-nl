@@ -9,7 +9,7 @@ laatste_update: 2026-01-09
 status: geldig
 toestand: 2026-01-09
 bron: "https://wetten.overheid.nl/BWBR0040324"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 6 december 2017, nr. IENM/BSK-2017/267441, houdende vaststelling van de vereiste kennis, bedrevenheid en ervaring van bedieners van luchtvaartstations en vluchtinformatieverstrekkers, de goedkeuring van de desbetreffende opleidingenplannen, alsmede de certificering van opleidingsinstellingen voor vluchtinformatieverstrekkers (Regeling opleiding en handhaving vakbekwaamheid bedieners van luchtvaartstations en vluchtinformatieverstrekkers)

@@ -9,7 +9,7 @@ laatste_update: 2018-07-12
 status: geldig
 toestand: 2018-07-12
 bron: "https://wetten.overheid.nl/BWBR0041142"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 10 juli 2018, nr. IENW/BSK-2018/122639, houdende regels betreffende het bewijs van verzekering voor niet-kentekenplichtige motorrijtuigen (Regeling bewijs van verzekering niet-kentekenplichtige motorrijtuigen 2018)

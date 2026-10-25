@@ -9,7 +9,7 @@ laatste_update: 2018-10-01
 status: geldig
 toestand: 2018-10-01
 bron: "https://wetten.overheid.nl/BWBR0040949"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Besluit van 4 mei 2018, houdende regels met betrekking tot wijziging van het Besluit Gedragstoezicht financiële ondernemingen Wft, het Besluit Markttoegang financiële ondernemingen Wft, het Besluit prudentiële regels Wft, het Besluit bestuurlijke boetes financiële sector, het Besluit uitvoering EU-verordeningen financiële markten en het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling ter implementatie van de richtlijn verzekeringsdistributie (Besluit implementatie richtlijn verzekeringsdistributie)

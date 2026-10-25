@@ -9,7 +9,7 @@ laatste_update: 2020-07-01
 status: geldig
 toestand: 2020-07-01
 bron: "https://wetten.overheid.nl/BWBR0040793"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Wet van 27 maart 2018, houdende wijziging van de Wet op de orgaandonatie in verband met het opnemen van een actief donorregistratiesysteem

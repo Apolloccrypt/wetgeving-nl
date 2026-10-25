@@ -8,7 +8,7 @@ laatste_update: 2018-03-28
 status: geldig
 toestand: 2018-03-28
 bron: "https://wetten.overheid.nl/BWBR0040759"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit stellen van beperkingen openbaarheid archiefcollectie G.H. Verheyen, nummer archiefinventaris 2.21.443

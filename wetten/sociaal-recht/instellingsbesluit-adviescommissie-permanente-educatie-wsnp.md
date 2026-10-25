@@ -9,7 +9,7 @@ laatste_update: 2026-06-11
 status: geldig
 toestand: 2026-06-11
 bron: "https://wetten.overheid.nl/BWBR0040821"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Raad voor Rechtsbijstand van 1 april 2018, houdende de instelling van de Adviescommissie Permanente Educatie Wsnp

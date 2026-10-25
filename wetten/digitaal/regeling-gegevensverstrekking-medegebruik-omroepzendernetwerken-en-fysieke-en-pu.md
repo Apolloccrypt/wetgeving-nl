@@ -9,7 +9,7 @@ laatste_update: 2022-03-02
 status: geldig
 toestand: 2022-03-02
 bron: "https://wetten.overheid.nl/BWBR0040789"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 26 maart 2018, nr. WJZ/18027277, houdende regels inzake de te verstrekken gegevens in het kader van medegebruik van antenne-opstelpunten en medegebruik van fysieke infrastructuur ter bevordering van de aanleg van elektronische communicatienetwerken met hoge snelheid (Regeling gegevensverstrekking medegebruik omroepzendernetwerken en fysieke infrastructuur)

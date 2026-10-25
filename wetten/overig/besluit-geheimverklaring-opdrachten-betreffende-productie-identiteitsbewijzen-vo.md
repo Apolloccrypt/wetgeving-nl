@@ -9,7 +9,7 @@ laatste_update: 2018-05-01
 status: geldig
 toestand: 2018-05-01
 bron: "https://wetten.overheid.nl/BWBR0040699"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 1 maart 2018, nr. MinBuza-2018.1054-18, tot geheimverklaring van opdrachten betreffende de productie van identiteitsbewijzen voor geprivilegieerden

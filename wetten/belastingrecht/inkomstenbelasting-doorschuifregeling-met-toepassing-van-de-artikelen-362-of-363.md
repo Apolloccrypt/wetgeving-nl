@@ -8,7 +8,7 @@ laatste_update: 2018-05-31
 status: geldig
 toestand: 2018-05-31
 bron: "https://wetten.overheid.nl/BWBR0040957"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Inkomstenbelasting, doorschuifregeling met toepassing van de artikelen 3.62 of 3.63 van de Wet inkomstenbelasting 2001

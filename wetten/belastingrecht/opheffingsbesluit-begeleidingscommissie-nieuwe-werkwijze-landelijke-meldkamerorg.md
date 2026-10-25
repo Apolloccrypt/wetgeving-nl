@@ -8,7 +8,7 @@ laatste_update: 2018-03-22
 status: geldig
 toestand: 2018-03-22
 bron: "https://wetten.overheid.nl/BWBR0040744"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Opheffingsbesluit Begeleidingscommissie nieuwe werkwijze Landelijke Meldkamerorganisatie in oprichting

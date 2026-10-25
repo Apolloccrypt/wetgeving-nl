@@ -9,7 +9,7 @@ laatste_update: 2019-08-01
 status: geldig
 toestand: 2019-08-01
 bron: "https://wetten.overheid.nl/BWBR0041161"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Wet van 27 juni 2018, houdende instelling van een gedeeltelijk verbod op het dragen van gezichtsbedekkende kleding in het onderwijs, het openbaar vervoer, overheidsgebouwen en de zorg (Wet gedeeltelijk verbod gezichtsbedekkende kleding)

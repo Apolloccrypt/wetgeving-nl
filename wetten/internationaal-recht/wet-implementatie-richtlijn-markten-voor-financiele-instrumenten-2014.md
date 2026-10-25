@@ -9,7 +9,7 @@ laatste_update: 2018-01-03
 status: geldig
 toestand: 2018-01-03
 bron: "https://wetten.overheid.nl/BWBR0040456"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Wet van 20 december 2017 tot wijziging van de Wet op het financieel toezicht en enige andere wetten ter implementatie van de richtlijn markten voor financiële instrumenten 2014 en van verordening nr. 600/2014 van het Europees Parlement en de Raad van 15 mei 2014 betreffende markten voor financiële instrumenten en tot wijziging van verordening (EU) nr. 648/2012 (Wet implementatie richtlijn markten voor financiële instrumenten 2014)

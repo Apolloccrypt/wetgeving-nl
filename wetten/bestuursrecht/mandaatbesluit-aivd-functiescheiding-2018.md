@@ -9,7 +9,7 @@ laatste_update: 2018-05-01
 status: geldig
 toestand: 2018-05-01
 bron: "https://wetten.overheid.nl/BWBR0040874"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 30 april 2018, houdende mandaatverlening aan de directeur-generaal van de Algemene Inlichtingen- en Veiligheidsdienst voor het verlenen van toestemming voor het aanwijzen van personen die bij uitsluiting van anderen bevoegd zijn tot kennisneming van de inhoud van verworven gegevens (Mandaatbesluit AIVD functiescheiding 2018)

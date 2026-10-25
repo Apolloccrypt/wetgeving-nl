@@ -9,7 +9,7 @@ laatste_update: 2018-01-20
 status: geldig
 toestand: 2018-01-20
 bron: "https://wetten.overheid.nl/BWBR0040519"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-25
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 21 december 2017, nr. 92/001-2017-12/0001, houdende routinematige digitale vervanging van archiefbescheiden (Besluit routinematige digitale vervanging archiefbescheiden DUO/OI 2018)
