@@ -9,7 +9,7 @@ laatste_update: 2023-11-01
 status: geldig
 toestand: 2023-11-01
 bron: "https://wetten.overheid.nl/BWBR0041233"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Wet van 11 juli 2018 tot aanpassing van wetten ter uitvoering van Verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming) (PbEU 2016, L 119) en de Uitvoeringswet Algemene verordening gegevensbescherming (Aanpassingswet Algemene verordening gegevensbescherming)

@@ -9,7 +9,7 @@ laatste_update: 2018-09-02
 status: geldig
 toestand: 2018-09-02
 bron: "https://wetten.overheid.nl/BWBR0041206"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Wet van 11 juli 2018 tot wijziging van de Wet op het hoger onderwijs en wetenschappelijk onderzoek in verband met de introductie van een grondslag voor de verlaging van het wettelijk collegegeld voor groepen van studenten (verlaagd wettelijk collegegeld)

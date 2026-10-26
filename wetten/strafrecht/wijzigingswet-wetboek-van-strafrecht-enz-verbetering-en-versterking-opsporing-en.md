@@ -9,7 +9,7 @@ laatste_update: 2019-03-01
 status: geldig
 toestand: 2019-03-01
 bron: "https://wetten.overheid.nl/BWBR0041368"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Wet van 27 juni 2018 tot wijziging van het Wetboek van Strafrecht en het Wetboek van Strafvordering in verband met de verbetering en versterking van de opsporing en vervolging van computercriminaliteit (computercriminaliteit III)

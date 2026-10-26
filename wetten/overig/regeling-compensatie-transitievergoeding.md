@@ -9,7 +9,7 @@ laatste_update: 2022-04-01
 status: geldig
 toestand: 2022-04-01
 bron: "https://wetten.overheid.nl/BWBR0041942"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 18 februari 2019, nr. 2019-0000023811, houdende regels met betrekking tot de compensatie van de transitievergoeding bij een einde van de arbeidsovereenkomst na langdurige arbeidsongeschiktheid (Regeling compensatie transitievergoeding)

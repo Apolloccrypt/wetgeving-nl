@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0041339"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van 27 augustus 2018, houdende grenzen aan de door de Bloedvoorzieningsorganisatie uit te voeren niet-wettelijke activiteiten (Besluit niet-wettelijke activiteiten Bloedvoorzieningsorganisatie)

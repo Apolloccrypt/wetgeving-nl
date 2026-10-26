@@ -9,7 +9,7 @@ laatste_update: 2018-11-23
 status: geldig
 toestand: 2018-11-23
 bron: "https://wetten.overheid.nl/BWBR0041565"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport en de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 14 november 2018, kenmerk 1437102-183156-WJZ, houdende de instelling van de adviescommissie Toekomst zorg thuiswonende ouderen (Regeling instelling adviescommissie Toekomst zorg thuiswonende ouderen)

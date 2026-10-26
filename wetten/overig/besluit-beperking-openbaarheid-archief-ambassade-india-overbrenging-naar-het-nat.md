@@ -9,7 +9,7 @@ laatste_update: 2018-07-24
 status: geldig
 toestand: 2018-07-24
 bron: "https://wetten.overheid.nl/BWBR0041187"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 11 juni 2018, houdende de beperking van de openbaarheid van een aantal inventarisnummers van het archief van de Ambassade India, bij overbrenging naar het Nationaal Archief

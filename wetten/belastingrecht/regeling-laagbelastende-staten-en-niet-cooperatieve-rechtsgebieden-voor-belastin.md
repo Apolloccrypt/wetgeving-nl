@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0041785"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Staatssecretaris van Financiën van 31 december 2018 tot aanwijzing van laagbelastende staten en staten die zijn opgenomen op de EU-lijst van niet-coöperatieve rechtsgebieden voor belastingdoeleinden (Regeling laagbelastende staten en niet-coöperatieve rechtsgebieden voor belastingdoeleinden)

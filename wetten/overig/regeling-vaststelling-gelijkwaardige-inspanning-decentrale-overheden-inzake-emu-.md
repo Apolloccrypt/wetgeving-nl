@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0041899"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Staatssecretaris van Financiën van 31 januari 2019, houdende de vaststelling van de gelijkwaardige inspanning van de decentrale overheden inzake het EMU-saldo

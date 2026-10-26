@@ -8,7 +8,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0041760"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Circulaire wijzigingen in de financiële arbeidsvoorwaarden per 1 januari 2019 voor de ambtenaren werkzaam in de sector Rijk

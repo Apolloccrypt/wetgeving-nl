@@ -9,7 +9,7 @@ laatste_update: 2018-10-09
 status: geldig
 toestand: 2018-10-09
 bron: "https://wetten.overheid.nl/BWBR0041423"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 27 september 2018, nr. 2018-0000141540, tot verlening van mandaat, volmacht en machtiging aan de Sociale verzekeringsbank voor de uitvoering van aan de Minister van Sociale Zaken en Werkgelegenheid in verdragen of verordeningen toegekende bevoegdheden op het terrein van de socialezekerheidswetgeving (Regeling mandaat, volmacht en machtiging internationale taken Sociale verzekeringsbank)

@@ -9,7 +9,7 @@ laatste_update: 2019-01-08
 status: geldig
 toestand: 2019-01-08
 bron: "https://wetten.overheid.nl/BWBR0041823"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit d.d. 7 januari 2019 conform artikel 14 van het Archiefbesluit 1995 houdende regels voor de documentaire informatievoorziening van De Nederlandsche Bank NV (Beheersregels archief DNB 2019)

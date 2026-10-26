@@ -8,7 +8,7 @@ laatste_update: 2018-12-28
 status: geldig
 toestand: 2018-12-28
 bron: "https://wetten.overheid.nl/BWBR0041772"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Addendum bij Reglement Stimuleringsmaatregel Filmproductie in Nederland voor High End Series & Single Episodes

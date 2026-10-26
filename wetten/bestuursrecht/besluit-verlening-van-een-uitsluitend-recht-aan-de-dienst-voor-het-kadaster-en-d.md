@@ -9,7 +9,7 @@ laatste_update: 2019-03-20
 status: geldig
 toestand: 2019-03-20
 bron: "https://wetten.overheid.nl/BWBR0042007"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 7 maart 2019, houdende verlening van een uitsluitend recht aan de Dienst voor het kadaster en de openbare registers voor het verlenen van diensten op het gebied van coördinatie met betrekking tot de landelijke voorziening Digitaal stelsel Omgevingswet (DSO-LV) aan de Staat der Nederlanden

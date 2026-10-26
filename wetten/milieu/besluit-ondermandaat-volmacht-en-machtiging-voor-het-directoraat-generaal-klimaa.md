@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-06-22
 toestand: 2025-08-01
 bron: "https://wetten.overheid.nl/BWBR0041827"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de directeur-generaal Klimaat en Energie van het Ministerie van Economische Zaken van 21 december 2018, nr. 18320844, houdende verlening van ondermandaat, volmacht en machtiging voor het directoraat-generaal Klimaat en Energie van het Ministerie van Economische Zaken en Klimaat 2019 (Besluit ondermandaat, volmacht en machtiging voor het directoraat-generaal Klimaat en Energie van het Ministerie van Economische Zaken en Klimaat 2019)

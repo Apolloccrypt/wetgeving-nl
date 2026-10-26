@@ -9,7 +9,7 @@ laatste_update: 2020-07-01
 status: geldig
 toestand: 2020-07-01
 bron: "https://wetten.overheid.nl/BWBR0041646"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Wet van 14 november 2018 tot wijziging van de Wet arbeid en zorg en enige andere wetten in verband met het geboorteverlof en het aanvullend geboorteverlof teneinde bij te dragen aan de ontwikkeling van de band tussen de partner van de moeder en het kind en tevens de positie van vrouwen op de arbeidsmarkt te vergroten alsmede uitbreiding van het adoptie- en pleegzorgverlof (Wet invoering extra geboorteverlof)

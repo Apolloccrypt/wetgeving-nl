@@ -9,7 +9,7 @@ laatste_update: 2018-10-01
 status: geldig
 toestand: 2018-10-01
 bron: "https://wetten.overheid.nl/BWBR0041264"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Minister voor Medische Zorg van 20 augustus 2018, 1364645-177989-VGP, houdende het verlenen van vrijstelling voor de aanwezigheid van bepaalde vitamines in voedingssupplementen (Warenwetregeling vrijstelling voedingssupplementen)

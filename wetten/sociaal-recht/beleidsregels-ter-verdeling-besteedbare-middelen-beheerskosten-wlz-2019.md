@@ -8,7 +8,7 @@ laatste_update: 2020-07-22
 status: geldig
 toestand: 2020-07-22
 bron: "https://wetten.overheid.nl/BWBR0041989"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Beleidsregels ter verdeling besteedbare middelen beheerskosten Wlz 2019

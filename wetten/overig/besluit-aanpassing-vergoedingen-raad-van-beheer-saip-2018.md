@@ -8,7 +8,7 @@ laatste_update: 2018-10-10
 status: geldig
 toestand: 2018-10-10
 bron: "https://wetten.overheid.nl/BWBR0041427"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit aanpassing vergoedingen Raad van Beheer SAIP 2018

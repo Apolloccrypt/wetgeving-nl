@@ -9,7 +9,7 @@ laatste_update: 2026-06-12
 status: geldig
 toestand: 2026-06-12
 bron: "https://wetten.overheid.nl/BWBR0041719"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de directeur-generaal Migratie van het Ministerie van Justitie en Veiligheid van 10 december 2018, nr. 2439151, houdende verlening van ondermandaat, volmacht en machtiging aan functionarissen in de migratieketen (Mandaatbesluit DGM Ministerie van Justitie en Veiligheid)

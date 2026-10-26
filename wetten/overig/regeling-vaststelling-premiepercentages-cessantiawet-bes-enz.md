@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0041473"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 18 oktober 2018, nr. 2018-0000167262, tot vaststelling van de premiepercentages van de Cessantiawet BES, de Wet ongevallenverzekering BES en de Wet ziekteverzekering BES

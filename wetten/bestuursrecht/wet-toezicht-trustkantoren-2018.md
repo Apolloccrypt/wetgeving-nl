@@ -9,7 +9,7 @@ laatste_update: 2025-03-01
 status: geldig
 toestand: 2025-03-01
 bron: "https://wetten.overheid.nl/BWBR0041583"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Wet van 7 november 2018, houdende regels met betrekking tot het verlenen van trustdiensten en het toezicht daarop (Wet toezicht trustkantoren 2018)

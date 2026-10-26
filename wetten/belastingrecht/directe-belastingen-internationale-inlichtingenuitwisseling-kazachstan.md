@@ -8,7 +8,7 @@ laatste_update: 2018-12-09
 status: geldig
 toestand: 2018-12-09
 bron: "https://wetten.overheid.nl/BWBR0041803"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Directe belastingen, internationale inlichtingenuitwisseling; Kazachstan

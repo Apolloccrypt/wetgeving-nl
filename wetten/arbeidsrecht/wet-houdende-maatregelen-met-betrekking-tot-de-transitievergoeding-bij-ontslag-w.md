@@ -9,7 +9,7 @@ laatste_update: 2020-04-01
 status: geldig
 toestand: 2020-04-01
 bron: "https://wetten.overheid.nl/BWBR0041178"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Wet van 11 juli 2018, houdende maatregelen met betrekking tot de transitievergoeding bij ontslag wegens bedrijfseconomische omstandigheden of langdurige arbeidsongeschiktheid

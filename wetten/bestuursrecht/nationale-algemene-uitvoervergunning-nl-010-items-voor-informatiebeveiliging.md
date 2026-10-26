@@ -8,7 +8,7 @@ laatste_update: 2026-03-25
 status: geldig
 toestand: 2026-03-25
 bron: "https://wetten.overheid.nl/BWBR0041748"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Nationale Algemene Uitvoervergunning NL 010 (items voor informatiebeveiliging)

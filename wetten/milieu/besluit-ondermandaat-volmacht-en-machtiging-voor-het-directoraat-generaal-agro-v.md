@@ -9,7 +9,7 @@ laatste_update: 2024-07-02
 status: geldig
 toestand: 2024-07-02
 bron: "https://wetten.overheid.nl/BWBR0041998"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de directeur-generaal Agro van het Ministerie van Landbouw, Natuur en Voedselkwaliteit van 22 februari 2019, nr. 19054182, houdende verlening van ondermandaat, volmacht en machtiging voor het directoraat-generaal Agro van het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2019 (Besluit ondermandaat, volmacht en machtiging voor het directoraat-generaal Agro van het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2019)

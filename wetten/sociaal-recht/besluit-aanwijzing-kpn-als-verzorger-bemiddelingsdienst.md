@@ -9,7 +9,7 @@ laatste_update: 2018-10-01
 status: geldig
 toestand: 2018-10-01
 bron: "https://wetten.overheid.nl/BWBR0041336"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Staatssecretaris van Economische Zaken en Klimaat van 4 september 2018, nr. DGETM-TM/18224772, houdende de aanwijzing van KPN als verzorger van de bemiddelingsdienst

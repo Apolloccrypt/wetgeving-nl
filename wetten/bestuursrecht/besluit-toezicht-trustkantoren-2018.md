@@ -9,7 +9,7 @@ laatste_update: 2024-07-01
 status: geldig
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0041680"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van 3 december 2018, houdende regels met betrekking tot onder meer een aanvullende trustdienst en nadere regels over de beoordeling van de betrouwbaarheid van beleidsbepalers, de integere en beheerste bedrijfsuitoefening, de compliance- en auditfunctie en uitbesteding door trustkantoren (Besluit toezicht trustkantoren 2018)

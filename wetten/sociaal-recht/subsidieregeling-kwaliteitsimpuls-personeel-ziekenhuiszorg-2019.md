@@ -9,7 +9,7 @@ laatste_update: 2019-10-01
 status: geldig
 toestand: 2019-10-01
 bron: "https://wetten.overheid.nl/BWBR0041610"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Minister voor Medische Zorg van 26 november 2018, kenmerk 1451474-184520-MEVA, houdende regels voor subsidiëring van opleidingsactiviteiten in de ziekenhuiszorg (Subsidieregeling kwaliteitsimpuls personeel ziekenhuiszorg 2019)

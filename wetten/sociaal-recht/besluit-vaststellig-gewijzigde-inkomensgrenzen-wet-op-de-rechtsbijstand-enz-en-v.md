@@ -9,7 +9,7 @@ laatste_update: 2019-03-04
 status: geldig
 toestand: 2019-03-04
 bron: "https://wetten.overheid.nl/BWBR0041968"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Bekendmaking van 20 februari 2019, nr. 2495108 van de gewijzigde inkomensgrenzen, bedoeld in de Wet op de rechtsbijstand, het Besluit eigen bijdrage rechtsbijstand en het Besluit toevoeging mediation over 2018, en vaststelling van het normbedrag en het bedrag van het voorschot voor advocaten als bedoeld in het Besluit vergoedingen rechtsbijstand 2000

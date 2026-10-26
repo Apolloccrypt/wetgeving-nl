@@ -9,7 +9,7 @@ laatste_update: 2026-10-16
 status: geldig
 toestand: 2026-10-16
 bron: "https://wetten.overheid.nl/BWBR0053205"
-opgehaald: 2026-10-25
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 9 oktober 2026, ref. nr. BZ2631915, tot het verlenen van volmacht en machtiging aan de algemeen directeur van het Centraal Justitieel Incassobureau in het kader van de financiële bijdrage repatriëring/evacuatie

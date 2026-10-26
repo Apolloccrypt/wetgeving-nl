@@ -9,7 +9,7 @@ laatste_update: 2018-12-18
 status: geldig
 toestand: 2018-12-18
 bron: "https://wetten.overheid.nl/BWBR0041685"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 7 december 2018, kenmerk 1458885-184664-Z, houdende Regeling vaststelling premiepercentage Wlz

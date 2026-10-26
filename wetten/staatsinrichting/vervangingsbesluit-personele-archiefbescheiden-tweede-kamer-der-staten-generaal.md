@@ -8,7 +8,7 @@ laatste_update: 2018-09-15
 status: geldig
 toestand: 2018-09-15
 bron: "https://wetten.overheid.nl/BWBR0041340"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Vervangingsbesluit personele archiefbescheiden Tweede Kamer der Staten-Generaal

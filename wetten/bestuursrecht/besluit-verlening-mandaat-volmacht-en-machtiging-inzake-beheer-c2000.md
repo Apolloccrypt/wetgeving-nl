@@ -9,7 +9,7 @@ laatste_update: 2025-02-26
 status: geldig
 toestand: 2025-02-26
 bron: "https://wetten.overheid.nl/BWBR0041988"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 1 maart 2019, kenmerk 2494716, houdende verlening van mandaat, volmacht en machtiging aan de korpschef van de politie inzake bevoegdheden ten aanzien van de C2000-infrastructuur (Besluit verlening mandaat, volmacht en machtiging inzake beheer C2000)

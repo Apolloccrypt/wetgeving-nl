@@ -9,7 +9,7 @@ laatste_update: 2019-02-06
 status: geldig
 toestand: 2019-02-06
 bron: "https://wetten.overheid.nl/BWBR0041875"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van het College gerechtelijk deskundigen van 17 januari 2019, houdende intrekking van diverse besluiten van algemene strekking en interne regelingen (NRGD veegregeling 2019)

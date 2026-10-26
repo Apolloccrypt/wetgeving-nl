@@ -8,7 +8,7 @@ laatste_update: 2018-09-26
 status: geldig
 toestand: 2018-09-26
 bron: "https://wetten.overheid.nl/BWBR0041369"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Bevoegdheidsregeling DNB 2018

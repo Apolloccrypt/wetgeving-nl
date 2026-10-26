@@ -9,7 +9,7 @@ laatste_update: 2019-02-28
 status: geldig
 toestand: 2019-02-28
 bron: "https://wetten.overheid.nl/BWBR0041948"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister-President, Minister van Algemene Zaken van 18 februari 2019, nr. 4044694, houdende instelling van het Audit Committee van het Ministerie van Algemene Zaken (Instellingsbesluit Audit Committee Ministerie van Algemene Zaken)

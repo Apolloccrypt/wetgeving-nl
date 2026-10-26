@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-06-26
 toestand: 2018-09-05
 bron: "https://wetten.overheid.nl/BWBR0041317"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 28 augustus 2018, 2018-0000130316, tot Besluit digitale vervanging archiefbescheiden van het Ministerie van Sociale Zaken en Werkgelegenheid systeem Diane

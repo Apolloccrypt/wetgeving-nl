@@ -9,7 +9,7 @@ laatste_update: 2026-07-07
 status: geldig
 toestand: 2026-07-07
 bron: "https://wetten.overheid.nl/BWBR0041573"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 16 november 2018, nr. 2018-0000893805, houdende nadere regels inzake de rechtspositie van staten- en commissieleden, gedeputeerden, commissarissen van de Koning, raads- en commissieleden, wethouders, burgemeesters en de leden van het algemeen bestuur en het dagelijks bestuur en de voorzitters van de waterschappen (Regeling rechtspositie decentrale politieke ambtsdragers)

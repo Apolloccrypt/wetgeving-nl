@@ -9,7 +9,7 @@ laatste_update: 2018-07-31
 status: geldig
 toestand: 2018-07-31
 bron: "https://wetten.overheid.nl/BWBR0041215"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Autoriteit Persoonsgegevens van 17 juli 2018 tot aanwijzing van toezichthouders betreffende de Telecommunicatiewet en eidas-verordening van de Autoriteit Persoonsgegevens (Besluit aanwijzing toezichthouders Telecommunicatiewet en eidas-verordening Autoriteit Persoonsgegevens)

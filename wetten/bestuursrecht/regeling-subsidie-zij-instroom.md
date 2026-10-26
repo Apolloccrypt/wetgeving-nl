@@ -9,7 +9,7 @@ laatste_update: 2026-10-17
 status: geldig
 toestand: 2026-10-17
 bron: "https://wetten.overheid.nl/BWBR0039459"
-opgehaald: 2026-10-25
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 3 april 2017, nr. VO/1091439, houdende regels voor het verstrekken van subsidie voor zij-instromers in het primair onderwijs, voortgezet onderwijs en het middelbaar beroepsonderwijs om hun onderwijsbevoegdheid te halen (Regeling subsidie zij-instroom 2017)

@@ -9,7 +9,7 @@ laatste_update: 2024-10-23
 status: geldig
 toestand: 2024-10-23
 bron: "https://wetten.overheid.nl/BWBR0041544"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 5 november 2018, nr. MinBuZa.2018.1852-26, houdende beperkende maatregelen tegen proliferatie en gebruik van chemische wapens (Sanctieregeling chemische wapens 2018)

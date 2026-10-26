@@ -8,7 +8,7 @@ laatste_update: 2018-10-12
 status: geldig
 toestand: 2018-10-12
 bron: "https://wetten.overheid.nl/BWBR0041440"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Circulaire toepassing programma versterken inzetbaarheid sector Rijk

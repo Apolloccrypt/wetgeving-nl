@@ -9,7 +9,7 @@ laatste_update: 2022-04-01
 status: geldig
 toestand: 2022-04-01
 bron: "https://wetten.overheid.nl/BWBR0041370"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van 27 augustus 2018, houdende regels met betrekking tot specifieke uitkeringen ten behoeve van het gemeentelijk onderwijsachterstandenbeleid (Besluit specifieke uitkeringen gemeentelijk onderwijsachterstandenbeleid)

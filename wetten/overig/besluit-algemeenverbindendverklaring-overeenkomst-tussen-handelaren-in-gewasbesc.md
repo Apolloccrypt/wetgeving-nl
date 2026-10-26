@@ -9,7 +9,7 @@ laatste_update: 2019-02-23
 status: geldig
 toestand: 2019-02-23
 bron: "https://wetten.overheid.nl/BWBR0041927"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 11 februari 2019, nr. 19009380, houdende de algemeenverbindendverklaring van een overeenkomst tussen handelaren in gewasbeschermingsmiddelen

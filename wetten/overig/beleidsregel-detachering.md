@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0041461"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de algemene raad van 3 november 2014 tot vaststelling van de beleidsregel inzake ontheffing kantoorhouden in één arrondissement op één locatie vanwege detachering (Beleidsregel detachering)

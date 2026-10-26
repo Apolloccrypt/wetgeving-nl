@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0041807"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de algemeen directeur van de Dienst ICT Uitvoering van het Ministerie van Economische Zaken en Klimaat van 21 december 2018, nr. 19001141, houdende verlening van ondermandaat, volmacht en machtiging voor de Dienst ICT Uitvoering van het Ministerie van Economische Zaken en Klimaat 2019 (Besluit ondermandaat, volmacht en machtiging voor de Dienst ICT Uitvoering van het Ministerie van Economische Zaken en Klimaat 2019)

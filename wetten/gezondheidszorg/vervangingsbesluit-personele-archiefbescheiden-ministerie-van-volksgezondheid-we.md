@@ -9,7 +9,7 @@ laatste_update: 2022-06-04
 status: geldig
 toestand: 2022-06-04
 bron: "https://wetten.overheid.nl/BWBR0041300"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 23 augustus 2018 tot vervanging personele archiefbescheiden Ministerie van Volksgezondheid, Welzijn en Sport

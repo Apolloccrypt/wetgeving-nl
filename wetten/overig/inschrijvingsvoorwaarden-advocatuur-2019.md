@@ -9,7 +9,7 @@ laatste_update: 2018-12-20
 status: geldig
 toestand: 2018-12-20
 bron: "https://wetten.overheid.nl/BWBR0041711"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Inschrijvingsvoorwaarden advocatuur 2019 (Besluit van het bestuur van de Raad voor Rechtsbijstand van 10 oktober 2018 krachtens artikel 15 van de Wet op de Rechtsbijstand, goedgekeurd bij besluit van het Ministerie van Justitie en Veiligheid van 2 november 2018)

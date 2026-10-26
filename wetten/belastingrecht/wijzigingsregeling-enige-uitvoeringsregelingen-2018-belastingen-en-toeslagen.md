@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0041799"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Staatssecretaris van Financiën van 31 december 2018 tot wijziging van enige uitvoeringsregelingen op het gebied van belastingen en toeslagen

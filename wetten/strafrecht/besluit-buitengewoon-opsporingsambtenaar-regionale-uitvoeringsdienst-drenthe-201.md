@@ -9,7 +9,7 @@ laatste_update: 2019-01-09
 status: geldig
 toestand: 2019-01-09
 bron: "https://wetten.overheid.nl/BWBR0041804"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 27 december 2018 nr. BOACAT2018/065, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Regionale Uitvoeringsdienst Drenthe

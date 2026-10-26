@@ -8,7 +8,7 @@ laatste_update: 2018-09-28
 status: geldig
 toestand: 2018-09-28
 bron: "https://wetten.overheid.nl/BWBR0041375"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit vaststelling selectielijst Kansspelautoriteit 2018 vanaf 1 april 2012

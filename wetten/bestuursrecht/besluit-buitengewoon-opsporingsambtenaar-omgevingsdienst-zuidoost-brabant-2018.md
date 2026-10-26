@@ -9,7 +9,7 @@ laatste_update: 2018-09-13
 status: geldig
 toestand: 2018-09-13
 bron: "https://wetten.overheid.nl/BWBR0041338"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 10 september 2018 nr. BOACAT2018/0050, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Omgevingsdienst Zuidoost Brabant

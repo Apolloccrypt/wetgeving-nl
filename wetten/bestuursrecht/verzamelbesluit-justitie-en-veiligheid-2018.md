@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0041232"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van 11 juli 2018, houdende wijziging van enkele besluiten op het terrein van Justitie en Veiligheid in verband met het doorvoeren van technische verbeteringen (Verzamelbesluit Justitie en Veiligheid 2018)

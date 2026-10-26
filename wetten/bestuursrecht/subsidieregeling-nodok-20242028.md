@@ -9,7 +9,7 @@ laatste_update: 2024-06-29
 status: geldig
 toestand: 2024-06-29
 bron: "https://wetten.overheid.nl/BWBR0041809"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 19 december 2018, kenmerk 1436504-183102-PG, houdende regels voor de subsidiëring van nader onderzoek naar de doodsoorzaak van kinderen (Subsidieregeling NODOK 2019–2023)

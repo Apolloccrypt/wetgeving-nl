@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-05-27
 toestand: 2025-08-01
 bron: "https://wetten.overheid.nl/BWBR0041897"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit ondermandaat, volmacht en machtiging plaatsvervangend secretaris-generaal van het Ministerie van Economische Zaken en Klimaat 2019 van 4 februari 2019, nr. WJZ/18313389, voor de plaatsvervangend secretaris-generaal van het Ministerie van Economische Zaken en Klimaat 2019 (Besluit ondermandaat, volmacht en machtiging plaatsvervangend secretaris-generaal van het Ministerie van Economische Zaken en Klimaat 2019)

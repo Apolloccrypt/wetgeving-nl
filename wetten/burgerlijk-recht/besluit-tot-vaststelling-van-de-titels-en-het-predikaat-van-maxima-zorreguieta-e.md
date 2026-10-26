@@ -9,7 +9,7 @@ laatste_update: 2002-02-01
 status: geldig
 toestand: 2002-02-01
 bron: "https://wetten.overheid.nl/BWBR0041838"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van 25 januari 2002 tot vaststelling van de titels en het predikaat van Máxima Zorreguieta en van de titels, namen en het predikaat van de kinderen die geboren mochten worden uit het huwelijk van Zijne Koninklijke Hoogheid Prins Willem-Alexander Claus George Ferdinand, Prins van Oranje, Prins der Nederlanden, Prins van Oranje-Nassau, Jonkheer van Amsberg met Hare Koninklijke Hoogheid Prinses Máxima der Nederlanden, Prinses van Oranje-Nassau, mevrouw van Amsberg

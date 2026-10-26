@@ -9,7 +9,7 @@ laatste_update: 2018-10-16
 status: geldig
 toestand: 2018-10-16
 bron: "https://wetten.overheid.nl/BWBR0041421"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Wet van 26 september 2018 tot wijziging van het Wetboek van Strafrecht, het Wetboek van Strafvordering en enkele andere wetten tot versterking van de strafrechtelijke en de strafvorderlijke mogelijkheden om terrorisme te bestrijden (versterking strafrechtelijke aanpak terrorisme)

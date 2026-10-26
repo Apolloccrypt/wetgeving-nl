@@ -9,7 +9,7 @@ laatste_update: 2024-04-27
 status: geldig
 toestand: 2024-04-27
 bron: "https://wetten.overheid.nl/BWBR0041883"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 31 januari 2019, nr. FEZ/18274465, tot instelling van het Audit Committee LNV (Instellingsbesluit Audit Committee LNV)

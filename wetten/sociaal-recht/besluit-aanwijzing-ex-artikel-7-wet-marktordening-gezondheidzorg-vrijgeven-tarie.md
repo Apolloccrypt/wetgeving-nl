@@ -9,7 +9,7 @@ laatste_update: 2019-05-01
 status: geldig
 toestand: 2019-05-01
 bron: "https://wetten.overheid.nl/BWBR0042009"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Aanwijzing van de Minister voor Medische Zorg, van 12 maart 2019, kenmerk 1493202-187870-PZO op grond van artikel 7 van de Wet marktordening gezondheidzorg inzake het vrijgeven van tarieven van eerstelijnsdiagnostiek in de medisch specialistische zorg

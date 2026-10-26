@@ -9,7 +9,7 @@ laatste_update: 2019-03-14
 status: geldig
 toestand: 2019-03-14
 bron: "https://wetten.overheid.nl/BWBR0041972"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van 14 februari 2019, houdende vaststelling van de bestanddelen van de beeldenaar van de munten van vijf en tien euro die in 2019 worden uitgegeven ter gelegenheid van 100 jaar Nederlandse luchtvaart

@@ -8,7 +8,7 @@ laatste_update: 2018-07-26
 status: geldig
 toestand: 2018-07-26
 bron: "https://wetten.overheid.nl/BWBR0041198"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit intrekking enkele regelingen en tariefbeschikkingen in de GGZ

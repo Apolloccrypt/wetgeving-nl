@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0041735"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat van 14 december 2018, nr. DB/17085085, inzake de digitale vervanging van archiefbescheiden personeelsdossiers van het Ministerie van Economische Zaken en Klimaat (Vervangingsbesluit personele archiefbescheiden Ministerie van Economische Zaken en Klimaat)

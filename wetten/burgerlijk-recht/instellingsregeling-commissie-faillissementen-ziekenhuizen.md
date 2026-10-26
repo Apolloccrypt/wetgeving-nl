@@ -9,7 +9,7 @@ laatste_update: 2019-02-27
 status: geldig
 toestand: 2019-02-27
 bron: "https://wetten.overheid.nl/BWBR0041945"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Minister voor Medische Zorg en de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 19 februari 2019, kenmerk 1486841-187330-PZO, houdende instelling van de Commissie onderzoek faillissementen ziekenhuizen

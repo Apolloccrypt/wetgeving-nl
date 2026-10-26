@@ -9,7 +9,7 @@ laatste_update: 2018-12-01
 status: geldig
 toestand: 2018-12-01
 bron: "https://wetten.overheid.nl/BWBR0041603"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 29 november 2018, ELVV/18299083, houdende visverbod voor een bepaald tijdvak voor Saba

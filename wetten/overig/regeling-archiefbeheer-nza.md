@@ -8,7 +8,7 @@ laatste_update: 2018-11-13
 status: geldig
 toestand: 2018-11-13
 bron: "https://wetten.overheid.nl/BWBR0041538"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Regeling archiefbeheer NZa

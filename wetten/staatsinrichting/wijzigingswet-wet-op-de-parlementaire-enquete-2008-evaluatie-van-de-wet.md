@@ -9,7 +9,7 @@ laatste_update: 2019-03-09
 status: geldig
 toestand: 2019-03-09
 bron: "https://wetten.overheid.nl/BWBR0041983"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Wet van 23 januari 2019 tot wijziging van de Wet op de parlementaire enquête 2008 in verband met de evaluatie van deze wet

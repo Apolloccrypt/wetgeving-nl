@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0041744"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 28 november 2018, kenmerk 2417279, tot vaststelling van het formulier voor schadevergoedingsverzoeken in het strafproces

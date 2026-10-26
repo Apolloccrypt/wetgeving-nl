@@ -9,7 +9,7 @@ laatste_update: 2018-10-31
 status: geldig
 toestand: 2018-10-31
 bron: "https://wetten.overheid.nl/BWBR0041478"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Vaststelling selectielijst voor de administratieve neerslag betreffende de publiekrechtelijke taken van het CAK vanaf 2007 en zijn bedrijfsvoeringstaken vanaf 1968

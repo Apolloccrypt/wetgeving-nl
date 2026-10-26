@@ -8,7 +8,7 @@ laatste_update: 2019-02-02
 status: geldig
 toestand: 2019-02-02
 bron: "https://wetten.overheid.nl/BWBR0041865"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Publicatie aanduiding publiek identificatiemiddel rijbewijs

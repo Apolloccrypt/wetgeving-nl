@@ -9,7 +9,7 @@ laatste_update: 2018-10-03
 status: geldig
 toestand: 2018-10-03
 bron: "https://wetten.overheid.nl/BWBR0041413"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Tijdelijke regeling van 20 september 2018, kenmerk 2320309, inzake de toepassing van de Wet politiegegevens op de verwerking van persoonsgegevens door buitengewoon opsporingsambtenaren

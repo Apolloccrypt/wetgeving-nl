@@ -9,7 +9,7 @@ laatste_update: 2018-08-08
 status: geldig
 toestand: 2018-08-08
 bron: "https://wetten.overheid.nl/BWBR0041239"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid, van 26 juli 2018, kenmerk 2308300, houdende de aanwijzing van vuurwapendragers bij de Fiscale Inlichtingen en Opsporingsdienst (Besluit voorschrift vuurwapendragers FIOD)

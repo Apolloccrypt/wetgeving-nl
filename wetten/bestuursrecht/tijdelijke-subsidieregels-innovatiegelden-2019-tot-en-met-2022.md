@@ -8,7 +8,7 @@ laatste_update: 2018-12-29
 status: geldig
 toestand: 2018-12-29
 bron: "https://wetten.overheid.nl/BWBR0041779"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Tijdelijke subsidieregels Innovatiegelden 2019 tot en met 2022

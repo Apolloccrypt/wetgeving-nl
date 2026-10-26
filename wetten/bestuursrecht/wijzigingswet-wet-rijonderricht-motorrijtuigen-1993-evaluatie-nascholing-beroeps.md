@@ -9,7 +9,7 @@ laatste_update: 2020-04-01
 status: geldig
 toestand: 2020-04-01
 bron: "https://wetten.overheid.nl/BWBR0041825"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Wet van 19 december 2018 tot wijziging van de Wet rijonderricht motorrijtuigen 1993 (wijzigingen naar aanleiding van evaluatie, nascholing beroepschauffeurs, bestuursrechtelijke handhaving en enkele verbeteringen)

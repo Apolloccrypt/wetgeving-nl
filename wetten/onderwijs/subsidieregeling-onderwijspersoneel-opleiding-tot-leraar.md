@@ -9,7 +9,7 @@ laatste_update: 2026-03-11
 status: geldig
 toestand: 2026-03-11
 bron: "https://wetten.overheid.nl/BWBR0041619"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 26 november 2018, nr. PO/1416144, houdende regels voor subsidieverstrekking als tegemoetkoming in de studiekosten en kosten van studieverlof voor het volgen van de opleiding tot leraar door een onderwijsassistent (Subsidieregeling onderwijsassistenten opleiding tot leraar)

@@ -9,7 +9,7 @@ laatste_update: 2019-04-04
 status: geldig
 toestand: 2019-04-04
 bron: "https://wetten.overheid.nl/BWBR0042005"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 7 maart 2019 nr. BOACAT2019/015, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Woerden

@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0041721"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat van 14 december 2018 nr. WJZ/ 18272243, tot het verlenen van machtiging aan P-Direkt

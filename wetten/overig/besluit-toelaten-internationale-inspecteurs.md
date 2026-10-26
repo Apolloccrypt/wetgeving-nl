@@ -9,7 +9,7 @@ laatste_update: 2018-08-17
 status: geldig
 toestand: 2018-08-17
 bron: "https://wetten.overheid.nl/BWBR0041255"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van 14 augustus 2018 van de Autoriteit Nucleaire Veiligheid en Stralingsbescherming, nr. ANVS-2018/12015, houdende toelating safeguards inspecteurs van het Internationaal Atoomenergieagentschap en Euratom (Besluit toelaten internationale inspecteurs)

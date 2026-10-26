@@ -9,7 +9,7 @@ laatste_update: 2019-03-07
 status: geldig
 toestand: 2019-03-07
 bron: "https://wetten.overheid.nl/BWBR0041976"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 26 februari 2019, kenmerk 1361456-177749-WJZ, houdende vaststelling van de rekenfactor ingevolge de Wet buitengewoon pensioen 1940–1945 en de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers voor het jaar 2018

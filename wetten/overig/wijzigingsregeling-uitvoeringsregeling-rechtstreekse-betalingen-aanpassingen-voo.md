@@ -9,7 +9,7 @@ laatste_update: 2019-02-02
 status: geldig
 toestand: 2019-02-02
 bron: "https://wetten.overheid.nl/BWBR0041870"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 29 januari 2019, nr. WJZ/ 18316966, tot wijziging van de Uitvoeringsregeling rechtstreekse betalingen in verband met onder meer aanpassingen van de voorwaarden voor de graasdierpremie

@@ -9,7 +9,7 @@ laatste_update: 2019-09-14
 status: geldig
 toestand: 2019-09-14
 bron: "https://wetten.overheid.nl/BWBR0041768"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Wet van 5 december 2018 tot wijziging van de Wet op het financieel toezicht, de Wet bekostiging financieel toezicht, het Burgerlijk Wetboek en de Wet handhaving consumentenbescherming ter implementatie van richtlijn nr. 2015/2366/EU van het Europees Parlement en de Raad van 25 november 2015 betreffende betalingsdiensten in de interne markt, houdende wijziging van de Richtlijnen 2002/65/EG, 2009/110/EG en 2013/36/EU en Verordening (EU) nr. 1093/2010 en houdende intrekking van Richtlijn 2007/64/EG (PbEU 2015, L 337) (Implementatiewet herziene richtlijn betaaldiensten)

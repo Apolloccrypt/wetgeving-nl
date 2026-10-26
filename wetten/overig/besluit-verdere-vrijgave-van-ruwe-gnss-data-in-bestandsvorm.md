@@ -9,7 +9,7 @@ laatste_update: 2018-09-09
 status: geldig
 toestand: 2018-09-09
 bron: "https://wetten.overheid.nl/BWBR0041329"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit verdere vrijgave van de ruwe GNSS-data in bestandsvorm

@@ -8,7 +8,7 @@ laatste_update: 2003-05-12
 status: geldig
 toestand: 2003-05-12
 bron: "https://wetten.overheid.nl/BWBR0041484"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Regeling ambtseed burgerambtenaren Defensie

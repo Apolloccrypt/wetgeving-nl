@@ -8,7 +8,7 @@ laatste_update: 2018-12-13
 status: geldig
 toestand: 2018-12-13
 bron: "https://wetten.overheid.nl/BWBR0041653"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Subsidieplafondbesluit Aangepast lezen 2019, Koninklijke Bibliotheek

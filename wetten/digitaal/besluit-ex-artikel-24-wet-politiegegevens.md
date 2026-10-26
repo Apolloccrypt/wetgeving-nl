@@ -9,7 +9,7 @@ laatste_update: 2018-10-01
 status: geldig
 toestand: 2018-10-01
 bron: "https://wetten.overheid.nl/BWBR0041378"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van 30 augustus 2018 tot bepaling van categorieën van politiegegevens als bedoeld in artikel 24 van de Wet politiegegevens (Besluit ex artikel 24 Wet politiegegevens)

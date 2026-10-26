@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0041907"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van 22 januari 2019, houdende wijzigingen van ondergeschikte aard in enkele algemene maatregelen van bestuur op het terrein van het openbaar bestuur (Verzamelbesluit openbaar bestuur 2019)

@@ -9,7 +9,7 @@ laatste_update: 2024-02-27
 status: geldig
 toestand: 2024-02-27
 bron: "https://wetten.overheid.nl/BWBR0041688"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de secretaris-generaal van het Ministerie van Justitie en Veiligheid van 10 december 2018, nr. 2410554/18/DP&O, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan de hoofden van de clusters van het Ministerie van Justitie en Veiligheid (Mandaatbesluit hoofden clusters Ministerie van Justitie en Veiligheid)

@@ -9,7 +9,7 @@ laatste_update: 2018-10-01
 status: geldig
 toestand: 2018-10-01
 bron: "https://wetten.overheid.nl/BWBR0041357"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Beleidsregel van de Minister van Infrastructuur en Waterstaat, van 12 september 2018, nr. IENW/BSK-2018/183049, houdende vaststelling van regels voor experimenten in het kader van vergaand geautomatiseerd varen op rijksvaarwegen (Beleidsregel experimenten vergaand geautomatiseerd varen rijksvaarwegen)

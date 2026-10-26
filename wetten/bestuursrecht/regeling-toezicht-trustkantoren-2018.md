@@ -9,7 +9,7 @@ laatste_update: 2025-11-25
 status: geldig
 toestand: 2025-11-25
 bron: "https://wetten.overheid.nl/BWBR0041629"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Minister van Financiën van 27 november 2018, kenmerk 2018-0000202559, directie Financiële Markten, houdende de vaststelling van vrijstellingen en de te verstrekken gegevens voor vergunningaanvragen en voor het melden van incidenten (Regeling toezicht trustkantoren 2018)

@@ -8,7 +8,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0041506"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit vergunning Impact Loterij B.V. 2018–2023

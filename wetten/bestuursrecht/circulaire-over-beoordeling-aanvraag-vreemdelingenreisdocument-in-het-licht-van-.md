@@ -8,7 +8,7 @@ laatste_update: 2018-10-01
 status: geldig
 toestand: 2018-10-01
 bron: "https://wetten.overheid.nl/BWBR0041504"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Circulaire over beoordeling aanvraag vreemdelingenreisdocument in het licht van internationale betrekkingen

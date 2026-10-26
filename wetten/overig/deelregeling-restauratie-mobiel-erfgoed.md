@@ -8,7 +8,7 @@ laatste_update: 2018-10-18
 status: geldig
 toestand: 2018-10-18
 bron: "https://wetten.overheid.nl/BWBR0041448"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Deelregeling Restauratie Mobiel Erfgoed

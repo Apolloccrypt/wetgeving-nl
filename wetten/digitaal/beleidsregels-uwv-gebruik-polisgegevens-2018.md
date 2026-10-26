@@ -8,7 +8,7 @@ laatste_update: 2018-07-28
 status: geldig
 toestand: 2018-07-28
 bron: "https://wetten.overheid.nl/BWBR0041201"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Beleidsregels UWV gebruik polisgegevens 2018

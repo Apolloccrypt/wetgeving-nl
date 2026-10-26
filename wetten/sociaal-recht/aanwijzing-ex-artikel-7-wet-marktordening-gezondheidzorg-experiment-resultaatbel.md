@@ -9,7 +9,7 @@ laatste_update: 2019-02-01
 status: geldig
 toestand: 2019-02-01
 bron: "https://wetten.overheid.nl/BWBR0041671"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Aanwijzing van de Minister voor Medische Zorg van 10 december 2018, kenmerk 1453331-184685-PZo op grond van artikel 7 van de Wet marktordening gezondheidzorg inzake het experiment resultaatbeloning en zorgvernieuwing eerstelijnsverblijf

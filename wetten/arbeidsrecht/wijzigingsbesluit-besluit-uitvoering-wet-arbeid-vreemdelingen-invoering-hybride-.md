@@ -9,7 +9,7 @@ laatste_update: 2018-10-01
 status: geldig
 toestand: 2018-10-01
 bron: "https://wetten.overheid.nl/BWBR0041341"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van 27 augustus 2018 tot wijziging van het Besluit uitvoering Wet arbeid vreemdelingen in verband met de invoering van hybride ondernemerschap voor vreemdelingen die arbeid verrichten in het kader van overplaatsing binnen een onderneming, een verduidelijking van de voorwaarden voor werkzaamheden in het kader van een Working Holiday Scheme of Working Holiday Programme, een nul-quotum voor vreemdelingen met de Noord-Koreaanse nationaliteit, en enige technische wijzigingen

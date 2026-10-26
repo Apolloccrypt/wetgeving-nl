@@ -8,7 +8,7 @@ laatste_update: 2018-11-08
 status: geldig
 toestand: 2018-11-08
 bron: "https://wetten.overheid.nl/BWBR0041526"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit Aanwijzing medewerkers BFT 2018

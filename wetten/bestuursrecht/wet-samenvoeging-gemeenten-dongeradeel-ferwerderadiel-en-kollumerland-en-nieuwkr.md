@@ -9,7 +9,7 @@ laatste_update: 2018-09-15
 status: geldig
 toestand: 2018-09-15
 bron: "https://wetten.overheid.nl/BWBR0041305"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Wet van 11 juli 2018 tot samenvoeging van de gemeenten Dongeradeel, Ferwerderadiel en Kollumerland en Nieuwkruisland

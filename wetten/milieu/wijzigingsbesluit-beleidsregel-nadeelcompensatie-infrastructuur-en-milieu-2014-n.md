@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0041663"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat, van 11 december 2018, nr. IENW/BSK-2018/197037, tot wijziging van de Beleidsregel nadeelcompensatie Infrastructuur en Milieu 2014 in verband met een nadere invulling van het normaal maatschappelijk risico en normaal ondernemersrisico en enige andere wijzigingen

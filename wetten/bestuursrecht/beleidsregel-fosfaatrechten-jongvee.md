@@ -9,7 +9,7 @@ laatste_update: 2018-07-20
 status: geldig
 toestand: 2018-07-20
 bron: "https://wetten.overheid.nl/BWBR0041173"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Beleidsregel van de Minister van Landbouw, Natuur en Voedselkwaliteit van 18 juli 2018, nr. WJZ/18044127, houdende regels over de toepassing van artikel 21b van de Meststoffenwet op jongvee voor de vleesveehouderij (beleidsregel fosfaatrechten jongvee)

@@ -9,7 +9,7 @@ laatste_update: 2018-11-13
 status: geldig
 toestand: 2018-11-13
 bron: "https://wetten.overheid.nl/BWBR0041540"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister voor Basis- en Voortgezet Onderwijs en Media van 30 oktober 2018, nr. O&B/1372936, houdende beperking van de openbaarheid van het archief van de directie Bestuursondersteuning en Advies (BOA) van het Ministerie van Onderwijs, Cultuur en Wetenschap over de periode (1954) 1968 – 2008 (2010)

@@ -8,7 +8,7 @@ laatste_update: 2019-02-27
 status: geldig
 toestand: 2019-02-27
 bron: "https://wetten.overheid.nl/BWBR0041947"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit vaststelling subsidieplafonds 2019 Koninklijke Bibliotheek

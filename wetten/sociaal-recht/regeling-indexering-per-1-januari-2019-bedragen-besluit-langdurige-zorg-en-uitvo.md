@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0041555"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 8 november 2018, kenmerk 1437213-183157-WJZ, houdende indexering per 1 januari 2019 van bedragen krachtens het Besluit langdurige zorg en het Uitvoeringsbesluit Wmo 2015

@@ -9,7 +9,7 @@ laatste_update: 2019-02-01
 status: geldig
 toestand: 2019-02-01
 bron: "https://wetten.overheid.nl/BWBR0041864"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 29 januari 2019, nr. 2019-0000037204, houdende instelling van de Commissie van onderzoek inzake de procedure van werving, selectie en benoeming van de voorzitter van het Huis voor klokkenluiders

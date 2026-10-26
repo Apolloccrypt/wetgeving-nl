@@ -9,7 +9,7 @@ laatste_update: 2019-03-01
 status: geldig
 toestand: 2019-03-01
 bron: "https://wetten.overheid.nl/BWBR0041952"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 15 februari 2019, nr. 2433978, houdende regels voor de aanwijzing van een keuringsdienst voor het keuren van technische hulpmiddelen waarmee onderzoekshandelingen worden verricht in een geautomatiseerd werk

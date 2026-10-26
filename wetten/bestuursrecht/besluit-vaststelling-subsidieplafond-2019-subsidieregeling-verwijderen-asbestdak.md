@@ -9,7 +9,7 @@ laatste_update: 2019-02-01
 status: geldig
 toestand: 2019-02-01
 bron: "https://wetten.overheid.nl/BWBR0041645"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Waterstaat, van 5 december 2018, nr. IENM/BSK-2018/224789 houdende vaststelling van het subsidieplafond voor het jaar 2019 op grond van de Subsidieregeling verwijderen asbestdaken voor het jaar 2019

@@ -9,7 +9,7 @@ laatste_update: 2018-09-07
 status: geldig
 toestand: 2018-09-07
 bron: "https://wetten.overheid.nl/BWBR0041324"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap, kenmerk: HD.018.091 houdende routinematige digitale vervanging van archiefbescheiden (Besluit routinematige digitale vervanging inkomende papieren archiefbescheiden DUO Groningen)

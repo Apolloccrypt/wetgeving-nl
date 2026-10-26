@@ -9,7 +9,7 @@ laatste_update: 2023-05-25
 status: geldig
 toestand: 2023-05-25
 bron: "https://wetten.overheid.nl/BWBR0041639"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de secretaris-generaal van het Ministerie van Justitie en Veiligheid van 29 november 2018, nr. 2413706/18/DP&O, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging met betrekking tot de eigenaarsrol voor enkele taakorganisaties aan de plaatsvervangend secretaris-generaal van het Ministerie van Justitie en Veiligheid (Mandaatbesluit eigenaarsrol pSG Ministerie van Justitie en Veiligheid)

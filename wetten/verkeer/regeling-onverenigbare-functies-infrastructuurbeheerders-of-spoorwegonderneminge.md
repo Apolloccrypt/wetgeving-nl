@@ -9,7 +9,7 @@ laatste_update: 2019-03-07
 status: geldig
 toestand: 2019-03-07
 bron: "https://wetten.overheid.nl/BWBR0041975"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 19 februari 2019, nr. IENW/BSK-2019/23784, houdende vaststelling van regels inzake de onafhankelijkheid van leden van de raad van commissarissen of de raad van bestuur en andere personen in dienst van beheerders of spoorwegondernemingen (Regeling onverenigbare functies infrastructuurbeheerders of spoorwegondernemingen)

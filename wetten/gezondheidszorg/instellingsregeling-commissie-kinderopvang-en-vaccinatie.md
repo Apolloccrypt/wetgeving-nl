@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0041787"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid en de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, mede namens de Staatssecretaris van Volksgezondheid, Welzijn en Sport, van 19 december 2018, nr.2018-0000816616, tot instelling van een Commissie kinderopvang en vaccinatie (Instellingsregeling Commissie kinderopvang en vaccinatie)

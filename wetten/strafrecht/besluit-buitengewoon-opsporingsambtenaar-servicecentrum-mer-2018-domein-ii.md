@@ -9,7 +9,7 @@ laatste_update: 2018-12-20
 status: geldig
 toestand: 2018-12-20
 bron: "https://wetten.overheid.nl/BWBR0041704"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 12 december 2018 nr. BOACAT2018/064, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij het Servicecentrum MER in domein II

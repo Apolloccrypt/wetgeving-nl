@@ -8,7 +8,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0041348"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Regeling ziektekostenverzekering militairen

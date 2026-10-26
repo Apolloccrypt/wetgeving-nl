@@ -9,7 +9,7 @@ laatste_update: 2020-12-12
 status: geldig
 toestand: 2020-12-12
 bron: "https://wetten.overheid.nl/BWBR0041974"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 19 februari 2019, nr. IENW/BSK-, houdende regels inzake het toezicht op Europese uitvoeringsverordeningen inzake de beoordeling van nieuwe spoorvervoerdiensten voor passagiers (Regeling toezicht uitvoeringsverordening nieuwe personenvervoerdiensten per trein zonder concessie)

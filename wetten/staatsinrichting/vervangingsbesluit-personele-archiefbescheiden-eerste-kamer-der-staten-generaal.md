@@ -8,7 +8,7 @@ laatste_update: 2018-09-01
 status: geldig
 toestand: 2018-09-01
 bron: "https://wetten.overheid.nl/BWBR0041304"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Vervangingsbesluit personele archiefbescheiden Eerste Kamer der Staten-Generaal

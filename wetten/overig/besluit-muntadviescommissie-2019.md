@@ -9,7 +9,7 @@ laatste_update: 2023-09-08
 status: geldig
 toestand: 2023-09-08
 bron: "https://wetten.overheid.nl/BWBR0041990"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Staatssecretaris van Financiën van 5 maart 2019, directie Financiële Markten, nr. 2019-000028707, houdende de instelling van een commissie ter advisering omtrent de keuze van de beeldenaars voor nieuw uit te geven herdenkingsmunten en munten voor verzamelaars (Besluit Muntadviescommissie 2019)

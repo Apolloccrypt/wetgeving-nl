@@ -9,7 +9,7 @@ laatste_update: 2018-11-01
 status: geldig
 toestand: 2018-11-01
 bron: "https://wetten.overheid.nl/BWBR0041502"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister van Financiën, van 15 oktober 2018, nr. 2018-169735, tot instelling van de Werkgroep Interdepartementaal Beleidsonderzoek (IBO) Toeslagen (Instellingsbesluit werkgroep IBO Toeslagen)

@@ -9,7 +9,7 @@ laatste_update: 2018-11-30
 status: geldig
 toestand: 2018-11-30
 bron: "https://wetten.overheid.nl/BWBR0041601"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 19 november 2018, nr. MINBUZA-2018.1975-18, tot wijziging van het besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 8 maart 2018, nr. minbuza-2018.385214, tot vaststelling van een subsidieplafond en beleidsregels voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Wijziging Orange Knowledge Programme 2018–2022 en vaststelling subsidieplafonds eerste kwartaal 2019)

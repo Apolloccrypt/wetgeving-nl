@@ -9,7 +9,7 @@ laatste_update: 2022-01-25
 status: geldig
 toestand: 2022-01-25
 bron: "https://wetten.overheid.nl/BWBR0041818"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de directeur van het Centraal Planbureau van het Ministerie van Economische Zaken en Klimaat van 20 december 2018, nr. CPB-2018/611, houdende verlening van ondermandaat, volmacht en machtiging voor het Centraal Planbureau van het Ministerie van Economische Zaken en Klimaat 2019 (Besluit ondermandaat, volmacht en machtiging voor het Centraal Planbureau van het Ministerie van Economische Zaken en Klimaat 2019)

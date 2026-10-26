@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0041165"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van 3 juli 2018, houdende voorschriften in verband met de traceerbaarheid van implantaten ter bescherming van de gezondheid van cliënten (Besluit registratie implantaten)

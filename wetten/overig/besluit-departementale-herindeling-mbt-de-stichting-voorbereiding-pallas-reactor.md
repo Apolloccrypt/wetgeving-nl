@@ -9,7 +9,7 @@ laatste_update: 2019-01-16
 status: geldig
 toestand: 2019-01-16
 bron: "https://wetten.overheid.nl/BWBR0041815"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van 20 december 2018 nr.2018002408, houdende departementale herindeling met betrekking tot de Stichting Voorbereiding PALLAS-reactor

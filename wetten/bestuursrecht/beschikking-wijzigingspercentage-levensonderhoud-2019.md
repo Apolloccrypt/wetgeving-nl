@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0041475"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Beschikking van de Minister voor Rechtsbescherming van 19 oktober 2018, nr. 238277, Directie Wetgeving Juridische Zaken, tot vaststelling van het percentage waarmee de bedragen voor levensonderhoud met ingang van 1 januari 2019 worden verhoogd (Beschikking wijzigingspercentage levensonderhoud 2019)

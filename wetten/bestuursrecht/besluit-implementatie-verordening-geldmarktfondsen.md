@@ -9,7 +9,7 @@ laatste_update: 2019-03-09
 status: geldig
 toestand: 2019-03-09
 bron: "https://wetten.overheid.nl/BWBR0041977"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van 15 februari 2019 tot wijziging van het Besluit uitvoering EU-verordeningen financiële markten in verband met de implementatie van Verordening (EU) nr. 2017/1131 van het Europees Parlement en de Raad van 14 juni 2017 inzake geldmarktfondsen (PbEU 2017, L 169) (Besluit implementatie verordening geldmarktfondsen)

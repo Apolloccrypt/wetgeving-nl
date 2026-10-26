@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0041723"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 12 december 2018, nr. WJZ/ 18271310, tot het verlenen van machtiging aan P-Direkt

@@ -9,7 +9,7 @@ laatste_update: 2019-04-01
 status: geldig
 toestand: 2019-04-01
 bron: "https://wetten.overheid.nl/BWBR0042001"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Wet van 6 maart 2019 tot wijziging van de Wet schadefonds geweldsmisdrijven in verband met het opheffen van de rechtspersoonlijkheid van het fonds, uitbreiding van de taakuitoefening tot de openbare lichamen Bonaire, Sint Eustatius en Saba alsmede verduidelijking van de regeling van uitkeringen door het Schadefonds en het vorderingsrecht van het slachtoffer jegens derden

@@ -8,7 +8,7 @@ laatste_update: 2019-08-29
 status: geldig
 toestand: 2019-08-29
 bron: "https://wetten.overheid.nl/BWBR0041784"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit heffing van omzetbelasting ter zake van vouchers, waardebonnen en zegels

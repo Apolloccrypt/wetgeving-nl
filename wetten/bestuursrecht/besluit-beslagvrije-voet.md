@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0041895"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van 6 februari 2019, houdende regels in verband met de vereenvoudiging van de beslagvrije voet (Besluit beslagvrije voet)

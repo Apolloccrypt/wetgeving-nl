@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0041190"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister van Financiën van 13 juli 2018, nr. 2018-0000117266, directie Financiële Markten, tot aanwijzing van personen die zijn belast met het toezicht op de naleving van de Wet ter voorkoming van witwassen en financieren van terrorisme en tot mandaatverlening betreffende de handhaving (Aanwijzings- en mandaatbesluit Wwft 2018)

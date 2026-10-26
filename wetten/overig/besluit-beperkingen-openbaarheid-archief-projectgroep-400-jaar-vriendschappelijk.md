@@ -9,7 +9,7 @@ laatste_update: 2018-07-24
 status: geldig
 toestand: 2018-07-24
 bron: "https://wetten.overheid.nl/BWBR0041186"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 11 juli 2018, houdende beperkingen aan de openbaarheid van het archief van Projectgroep 400 jaar vriendschappelijke betrekkingen Verenigde Staten - Nederland, 2008–2010 Nummer toegang: 2.05.428; Archiefbloknummer Z335

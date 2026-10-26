@@ -9,7 +9,7 @@ laatste_update: 2020-05-05
 status: geldig
 toestand: 2020-05-05
 bron: "https://wetten.overheid.nl/BWBR0041468"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van 15 oktober 2018 van de Autoriteit Nucleaire Veiligheid en Stralingsbescherming, nr. ANVS-2018/20017, tot het vaststellen van een procedureregeling voorkomen en oplossen belangenconflicten Autoriteit Nucleaire Veiligheid en Stralingsbescherming (Procedureregeling belangenconflicten ANVS)

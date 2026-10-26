@@ -9,7 +9,7 @@ laatste_update: 2018-10-17
 status: geldig
 toestand: 2018-10-17
 bron: "https://wetten.overheid.nl/BWBR0041442"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 11 oktober 2018 nr. BOACAT2018/058, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de provincie Overijssel

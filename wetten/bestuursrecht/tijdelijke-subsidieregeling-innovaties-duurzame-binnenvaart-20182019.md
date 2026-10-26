@@ -9,7 +9,7 @@ laatste_update: 2019-10-12
 status: geldig
 toestand: 2019-10-12
 bron: "https://wetten.overheid.nl/BWBR0041347"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 12 september 2018, nr. IENW/BSK-2018/116306, houdende vaststelling van de Tijdelijke subsidieregeling innovaties duurzame binnenvaart 2018–2019 (Tijdelijke subsidieregeling innovaties duurzame binnenvaart 2018–2019)

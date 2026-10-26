@@ -9,7 +9,7 @@ laatste_update: 2018-12-28
 status: geldig
 toestand: 2018-12-28
 bron: "https://wetten.overheid.nl/BWBR0041757"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister voor Basis- en Voortgezet Onderwijs en Media van 17 december 2018, nr. VO/1433973, houdende instelling van de beoordelingscommissie technisch vmbo voor de periode 2018 tot en met 2023 (Instellingsbesluit beoordelingscommissie technisch vmbo 2018–2023)

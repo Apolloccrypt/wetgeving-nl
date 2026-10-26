@@ -9,7 +9,7 @@ laatste_update: 2018-09-28
 status: geldig
 toestand: 2018-09-28
 bron: "https://wetten.overheid.nl/BWBR0041380"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van 14 september 2018, houdende tijdelijke regels ten behoeve van een experiment met de elektronische aanvraag van rijbewijzen

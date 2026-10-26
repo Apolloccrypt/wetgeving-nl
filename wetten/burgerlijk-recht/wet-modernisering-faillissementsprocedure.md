@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0041333"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Wet van 27 juni 2018 tot wijziging van de Faillissementswet en enige andere wetten in verband met het moderniseren van de faillissementsprocedure (Wet modernisering faillissementsprocedure)

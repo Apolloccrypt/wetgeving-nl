@@ -9,7 +9,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBR0041185"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 13 juli 2018 nr. WJZ/1221455(8450), houdende actualisering van de Regeling Inspectie van het onderwijs 2006 (Regeling Inspectie van het onderwijs 2018)

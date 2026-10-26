@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0041831"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van 17 december 2018 tot vaststelling van een luchthavenbesluit voor de militaire luchthaven De Kooy (Luchthavenbesluit De Kooy)

@@ -9,7 +9,7 @@ laatste_update: 2026-06-01
 status: geldig
 toestand: 2026-06-01
 bron: "https://wetten.overheid.nl/BWBR0041860"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 15 januari 2019, nr. MBO/1420991, houdende instelling van de Tijdelijke adviescommissie regionaal investeringsfonds mbo (Instellingsbesluit Tijdelijke adviescommissie regionaal investeringsfonds mbo 2019–2022)

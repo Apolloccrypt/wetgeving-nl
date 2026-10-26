@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0041467"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Wet van 3 oktober 2018 tot wijziging van een aantal wetten op het terrein van het Ministerie van Volksgezondheid, Welzijn en Sport teneinde misslagen en omissies te herstellen (Verzamelwet VWS 2018)

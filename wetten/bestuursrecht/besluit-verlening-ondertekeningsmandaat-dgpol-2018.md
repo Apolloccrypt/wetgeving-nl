@@ -9,7 +9,7 @@ laatste_update: 2025-09-27
 status: geldig
 toestand: 2025-09-27
 bron: "https://wetten.overheid.nl/BWBR0041630"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de directeur-generaal Politie van het Ministerie van Justitie en Veiligheid van 21 november 2018, kenmerk DGP/R&S/2419686 houdende verlening van ondertekeningsmandaat aan de directeur Politieel Beleid en Taakuitvoering (Besluit verlening ondertekeningsmandaat DGPOL 2018)

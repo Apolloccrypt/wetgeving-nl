@@ -9,7 +9,7 @@ laatste_update: 2018-11-01
 status: geldig
 toestand: 2018-11-01
 bron: "https://wetten.overheid.nl/BWBR0041489"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister voor Medische Zorg van 23 oktober 2018, kenmerk 1436906-183117-GMT, houdende vaststelling van tijdelijke beleidsregels inzake de Wet geneesmiddelen prijzen in verband met het van toepassing worden van Gedelegeerde Verordening (EU) 2016/161 (Tijdelijke beleidsregels maximumprijzen geneesmiddelen in verband met gedelegeerde verordening 2016/161)

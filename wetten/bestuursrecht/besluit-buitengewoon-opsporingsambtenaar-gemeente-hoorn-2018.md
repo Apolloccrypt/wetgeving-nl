@@ -9,7 +9,7 @@ laatste_update: 2019-03-20
 status: geldig
 toestand: 2019-03-20
 bron: "https://wetten.overheid.nl/BWBR0041434"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 3 oktober 2018 nr. BOACAT2018/056, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Hoorn

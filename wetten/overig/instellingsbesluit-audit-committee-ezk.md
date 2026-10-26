@@ -9,7 +9,7 @@ laatste_update: 2019-03-12
 status: geldig
 toestand: 2019-03-12
 bron: "https://wetten.overheid.nl/BWBR0041984"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat van 5 maart 2019, nr. FEZ / 19046355, tot instelling van het Audit Committee EZK (Instellingsbesluit Audit Committee EZK)

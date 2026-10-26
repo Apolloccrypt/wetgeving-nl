@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0041618"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Minister van Financiën van 26 november 2018, 2018-195628, directie Financiële Markten, tot vaststelling van de bijdragen gemoedsbezwaarden 2019

@@ -9,7 +9,7 @@ laatste_update: 2019-02-01
 status: geldig
 toestand: 2019-02-01
 bron: "https://wetten.overheid.nl/BWBR0041868"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 28 januari 2019, 2019-0000037591, houdende regels voor de verstrekking van subsidie aan de Stichting Professor mr. J.R. Thorbecke Leerstoel (Subsidieregeling Stichting Professor mr. J.R. Thorbecke Leerstoel)

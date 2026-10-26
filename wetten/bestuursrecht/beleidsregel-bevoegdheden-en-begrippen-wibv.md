@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0041558"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Beleidsregel van de Minister voor Medische Zorg van 9 november 2018, kenmerk 1443084-183704-GMT, in verband met de invulling van een aantal bevoegdheden en begrippen uit de Wet inzake bloedvoorziening (Beleidsregel bevoegdheden en begrippen Wibv)

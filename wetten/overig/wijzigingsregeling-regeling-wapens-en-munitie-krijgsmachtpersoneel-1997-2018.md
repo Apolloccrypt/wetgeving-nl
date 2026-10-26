@@ -8,7 +8,7 @@ laatste_update: 2018-12-14
 status: geldig
 toestand: 2018-12-14
 bron: "https://wetten.overheid.nl/BWBR0041662"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Wijzigingsregeling Regeling wapens en munitie krijgsmachtpersoneel 1997 (2018)

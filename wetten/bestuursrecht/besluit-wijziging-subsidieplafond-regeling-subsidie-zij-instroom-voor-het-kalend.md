@@ -9,7 +9,7 @@ laatste_update: 2018-12-20
 status: geldig
 toestand: 2018-12-20
 bron: "https://wetten.overheid.nl/BWBR0041718"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap en de Minister voor Basis- en Voortgezet Onderwijs en Media van 18 december 2018, nr. vo/1457242, houdende wijziging van het subsidieplafond van de Regeling subsidie zij-instroom voor het kalenderjaar 2018

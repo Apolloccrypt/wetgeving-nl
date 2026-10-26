@@ -9,7 +9,7 @@ laatste_update: 2025-11-19
 status: geldig
 toestand: 2025-11-19
 bron: "https://wetten.overheid.nl/BWBR0041699"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de secretaris-generaal van het Ministerie van Justitie en Veiligheid van 10 december 2018, nr. 2410553/18/DP&O, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan de hoofden van de taakorganisaties van het Ministerie van Justitie en Veiligheid (Mandaatbesluit hoofden taakorganisaties Ministerie van Justitie en Veiligheid)

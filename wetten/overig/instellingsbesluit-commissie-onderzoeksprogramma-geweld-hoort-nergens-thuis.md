@@ -9,7 +9,7 @@ laatste_update: 2019-02-13
 status: geldig
 toestand: 2019-02-13
 bron: "https://wetten.overheid.nl/BWBR0041901"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 22 januari 2019, kenmerk 1464077-185556-J, houdende instelling van de Commissie Onderzoeksprogramma Geweld hoort nergens thuis (Instellingsbesluit Commissie Onderzoeksprogramma Geweld hoort nergens thuis)

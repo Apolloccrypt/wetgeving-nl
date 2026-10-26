@@ -9,7 +9,7 @@ laatste_update: 2021-10-01
 status: geldig
 toestand: 2021-10-01
 bron: "https://wetten.overheid.nl/BWBR0042051"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Wet van 20 februari 2019 tot wijziging van de Wet op de kansspelen, de Wet op de kansspelbelasting en enkele andere wetten in verband met het organiseren van kansspelen op afstand

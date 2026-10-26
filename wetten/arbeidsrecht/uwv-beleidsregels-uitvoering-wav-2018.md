@@ -8,7 +8,7 @@ laatste_update: 2019-10-01
 status: geldig
 toestand: 2019-10-01
 bron: "https://wetten.overheid.nl/BWBR0041410"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # UWV Beleidsregels uitvoering Wav 2018

@@ -8,7 +8,7 @@ laatste_update: 2023-07-26
 status: geldig
 toestand: 2023-07-26
 bron: "https://wetten.overheid.nl/BWBR0041256"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Regeling toevoeging bewindvoerders Wsnp II

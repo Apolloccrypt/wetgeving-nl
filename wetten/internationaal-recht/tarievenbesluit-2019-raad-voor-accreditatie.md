@@ -8,7 +8,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0041777"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Tarievenbesluit 2019 Raad voor Accreditatie

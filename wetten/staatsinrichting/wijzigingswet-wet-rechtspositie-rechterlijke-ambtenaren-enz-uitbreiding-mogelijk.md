@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0041327"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Wet van 27 juni 2018 tot wijziging van de Wet rechtspositie rechterlijke ambtenaren en enige andere wetten in verband met de uitbreiding van de mogelijkheden om ten aanzien van voor het leven benoemde rechterlijke ambtenaren disciplinaire maatregelen op te leggen en tevens andere maatregelen te treffen

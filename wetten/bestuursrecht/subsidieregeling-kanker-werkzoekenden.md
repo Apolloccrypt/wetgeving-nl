@@ -9,7 +9,7 @@ laatste_update: 2018-09-29
 status: geldig
 toestand: 2018-09-29
 bron: "https://wetten.overheid.nl/BWBR0041388"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 20 september 2018, nr. 2018-0000130650, houdende regels voor het verstrekken van subsidie ten behoeve van maatschappelijke initiatieven die erop zijn gericht (ex-)kankerpatiënten zonder werk meer kans te geven op een terugkeer naar werk (Subsidieregeling Kanker & Werkzoekenden)

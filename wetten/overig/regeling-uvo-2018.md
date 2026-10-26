@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0041396"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Regeling van 20 september 2018 van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Defensie houdende het stellen van regels met betrekking tot een Unit Veiligheidsonderzoeken (Regeling UVO 2018)

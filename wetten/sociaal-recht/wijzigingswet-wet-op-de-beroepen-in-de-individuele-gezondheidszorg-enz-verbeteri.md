@@ -9,7 +9,7 @@ laatste_update: 2019-04-01
 status: geldig
 toestand: 2019-04-01
 bron: "https://wetten.overheid.nl/BWBR0041261"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Wet van 11 juli 2018 tot wijziging van de Wet op de beroepen in de individuele gezondheidszorg in verband met de verbeteringen die worden doorgevoerd in het tuchtrecht alsmede verbeteringen ten aanzien van het functioneren van de wet

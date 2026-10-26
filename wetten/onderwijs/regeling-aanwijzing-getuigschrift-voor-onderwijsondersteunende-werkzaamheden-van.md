@@ -9,7 +9,7 @@ laatste_update: 2021-08-01
 status: geldig
 toestand: 2021-08-01
 bron: "https://wetten.overheid.nl/BWBR0041267"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 20 augustus 2018, nr. MBO/1335781, houdende regels tot aanwijzing van een getuigschrift waaruit blijkt dat wordt voldaan aan de vastgestelde bekwaamheidseisen voor onderwijsondersteunend personeel (Regeling aanwijzing getuigschrift voor onderwijsondersteunende werkzaamheden van instructeurs beroepsonderwijs)

@@ -9,7 +9,7 @@ laatste_update: 2018-11-30
 status: geldig
 toestand: 2018-11-30
 bron: "https://wetten.overheid.nl/BWBR0041584"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit uitzondering van vernietiging in het kader van cultuurhistorisch belang hotspot MH17-casus

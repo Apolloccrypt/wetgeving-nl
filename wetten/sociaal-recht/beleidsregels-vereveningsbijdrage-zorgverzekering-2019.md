@@ -8,7 +8,7 @@ laatste_update: 2021-09-07
 status: geldig
 toestand: 2021-09-07
 bron: "https://wetten.overheid.nl/BWBR0041500"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Beleidsregels vereveningsbijdrage zorgverzekering 2019

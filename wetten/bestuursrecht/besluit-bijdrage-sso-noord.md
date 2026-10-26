@@ -9,7 +9,7 @@ laatste_update: 2018-12-20
 status: geldig
 toestand: 2018-12-20
 bron: "https://wetten.overheid.nl/BWBR0041702"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van 6 december 2018, houdende de grondslag voor en nadere regels omtrent de vaststelling en de betaling van de bijdrage van een zelfstandig bestuursorgaan voor het gebruik van de diensten van Shared Service Organisatie Noord (Besluit bijdrage SSO-Noord)

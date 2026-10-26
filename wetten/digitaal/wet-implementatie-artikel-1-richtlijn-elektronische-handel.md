@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0041750"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Wet van 19 december 2018 tot wijziging van de Wet op de omzetbelasting 1968 (Wet implementatie artikel 1 richtlijn elektronische handel)

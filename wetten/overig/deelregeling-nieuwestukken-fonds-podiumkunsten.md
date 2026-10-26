@@ -8,7 +8,7 @@ laatste_update: 2018-12-15
 status: geldig
 toestand: 2018-12-15
 bron: "https://wetten.overheid.nl/BWBR0041683"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Deelregeling #NieuweStukken Fonds Podiumkunsten

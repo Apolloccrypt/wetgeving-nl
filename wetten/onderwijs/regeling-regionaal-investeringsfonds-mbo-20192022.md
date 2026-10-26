@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0041553"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 6 november 2018, nr. MBO/1337390, houdende regels voor de verstrekking van aanvullende bekostiging voor de verbetering van de aansluiting van het beroepsonderwijs op de arbeidsmarkt door publiek-private samenwerking (Regeling regionaal investeringsfonds mbo 2019–2022)

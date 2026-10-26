@@ -8,7 +8,7 @@ laatste_update: 2019-06-21
 status: geldig
 toestand: 2019-06-21
 bron: "https://wetten.overheid.nl/BWBR0041534"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Reglement Vervangingsfonds en Bedrijfsgezondheidszorg voor het onderwijs

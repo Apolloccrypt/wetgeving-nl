@@ -9,7 +9,7 @@ laatste_update: 2018-09-29
 status: geldig
 toestand: 2018-09-29
 bron: "https://wetten.overheid.nl/BWBR0041390"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 13 september 2018, kenmerk 1415905-180575-OBP houdende houdende aansluiting bij de bezwarenadviescommissie personele aangelegenheden BZK

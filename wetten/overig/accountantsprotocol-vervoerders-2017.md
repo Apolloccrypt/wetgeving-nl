@@ -8,7 +8,7 @@ laatste_update: 2021-12-11
 status: geldig
 toestand: 2021-12-11
 bron: "https://wetten.overheid.nl/BWBR0041411"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Accountantsprotocol vervoerders 2017

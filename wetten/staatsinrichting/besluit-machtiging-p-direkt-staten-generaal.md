@@ -9,7 +9,7 @@ laatste_update: 2018-09-16
 status: geldig
 toestand: 2018-09-16
 bron: "https://wetten.overheid.nl/BWBR0041342"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Griffier van de Tweede Kamer der Staten-Generaal van 25 juli 2018, nr. 18.1694, tot het verlenen van machtiging aan P-Direkt

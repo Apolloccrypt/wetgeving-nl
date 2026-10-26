@@ -8,7 +8,7 @@ laatste_update: 2019-03-01
 status: geldig
 toestand: 2019-03-01
 bron: "https://wetten.overheid.nl/BWBR0041956"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Aanwijzing voor de internationale aspecten van de inzet van de bevoegdheid ex art. 126nba Sv

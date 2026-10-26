@@ -9,7 +9,7 @@ laatste_update: 2018-09-01
 status: geldig
 toestand: 2018-09-01
 bron: "https://wetten.overheid.nl/BWBR0041299"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 30 augustus 2018, nr. IENW/BSK-2018/173672, tot erkenning van het Aerodrome flight information service officer license van St. Maarten voor de BES

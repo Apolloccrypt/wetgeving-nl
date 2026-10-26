@@ -9,7 +9,7 @@ laatste_update: 2019-04-01
 status: geldig
 toestand: 2019-04-01
 bron: "https://wetten.overheid.nl/BWBR0042050"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Minister van Financiën van 20 maart 2019, 2019-0000041462, directie Financiële Markten, houdende regels ten aanzien van de erkenning van beroepskwalificaties van financieel adviseurs (Regeling erkenning EU-beroepskwalificaties financieel adviseur)

@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-07-01
 toestand: 2025-08-01
 bron: "https://wetten.overheid.nl/BWBR0041829"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de directeur Communicatie van het Ministerie van Economische Zaken en Klimaat van 9 januari 2019, nr. 19008305, houdende verlening van ondermandaat, volmacht en machtiging voor de directie Communicatie van het Ministerie van Economische Zaken en Klimaat 2019 (Besluit ondermandaat, volmacht en machtiging voor de directie Communicatie van het Ministerie van Economische Zaken en Klimaat 2019)

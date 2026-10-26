@@ -9,7 +9,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBR0041926"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister voor Basis- en Voortgezet Onderwijs en Media van 12 februari 2019 nr. VO/1422321, over het ambtshalve verlenen van een ontheffing aan personen die beschikken over een getuigschrift van de pedagogische academie voor het basisonderwijs en over een certificaat ‘Groepsleraar onderbouw basis- en kaderberoepsgerichte leerweg voorbereidend middelbaar beroepsonderwijs’ om les te mogen geven in de onderbouw van de basis- en kaderberoepsgerichte leerweg van het voorbereidend middelbaar beroepsonderwijs (Besluit ontheffing gecertificeerde pabo-gediplomeerden voor de onderbouw vmbo basis- en kader)

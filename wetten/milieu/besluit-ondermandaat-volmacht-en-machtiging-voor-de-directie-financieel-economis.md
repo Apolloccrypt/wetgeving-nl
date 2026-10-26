@@ -9,7 +9,7 @@ laatste_update: 2024-01-06
 status: geldig
 toestand: 2024-01-06
 bron: "https://wetten.overheid.nl/BWBR0041822"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de directeur Financieel-Economische Zaken van het Ministerie van Landbouw, Natuur en Voedselkwaliteit van nr. 18325042, houdende verlening van ondermandaat, volmacht en machtiging voor de directie Financieel-Economische Zaken van het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2019 (Besluit ondermandaat, volmacht en machtiging voor de directie Financieel-Economische Zaken van het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2019)

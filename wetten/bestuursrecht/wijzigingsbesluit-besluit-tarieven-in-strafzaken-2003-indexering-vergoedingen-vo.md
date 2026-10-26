@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0041697"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van 3 december 2018 tot wijziging van het Besluit tarieven in strafzaken 2003 in verband met de indexering van de vergoedingen voor psychiaters en psychologen en de verhoging van urenmaxima bij het opstellen van tripelrapportages

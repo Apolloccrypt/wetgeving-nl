@@ -8,7 +8,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0041788"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Tijdelijke subsidieregels samenwerking Belastingdienst 2019–2022 (Digitale Inclusie) Koninklijke Bibliotheek

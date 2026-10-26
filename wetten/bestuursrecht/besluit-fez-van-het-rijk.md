@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0041910"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van 31 januari 2019, houdende regels over de directies Financieel Economische Zaken van de ministeries (Besluit FEZ van het Rijk)

@@ -9,7 +9,7 @@ laatste_update: 2019-03-15
 status: geldig
 toestand: 2019-03-15
 bron: "https://wetten.overheid.nl/BWBR0041418"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van 27 augustus 2018 tot wijziging van het Besluit bekostiging WPO in verband met het aanpassen van de groeiregeling en van het onderwijsachterstandenbeleid in het primair onderwijs

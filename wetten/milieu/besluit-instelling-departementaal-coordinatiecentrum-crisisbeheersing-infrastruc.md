@@ -9,7 +9,7 @@ laatste_update: 2019-02-09
 status: geldig
 toestand: 2019-02-09
 bron: "https://wetten.overheid.nl/BWBR0041886"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat, van 1 februari 2019, nr. IENW/BSK-2019/16637, tot instelling van het Departementaal Coördinatiecentrum Crisisbeheersing Infrastructuur en Waterstaat

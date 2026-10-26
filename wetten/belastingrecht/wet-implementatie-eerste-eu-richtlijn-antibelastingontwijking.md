@@ -9,7 +9,7 @@ laatste_update: 2019-11-06
 status: geldig
 toestand: 2019-11-06
 bron: "https://wetten.overheid.nl/BWBR0041756"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Wet van 19 december 2018 tot wijziging van de Wet op de vennootschapsbelasting 1969 en de Invorderingswet 1990 in verband met de implementatie van Richtlijn (EU) 2016/1164 van de Raad van 12 juli 2016 tot vaststelling van regels ter bestrijding van belastingontwijkingspraktijken welke rechtstreeks van invloed zijn op de werking van de interne markt (PbEU 2016, L 234/26) (Wet implementatie eerste EU-richtlijn antibelastingontwijking)

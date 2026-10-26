@@ -9,7 +9,7 @@ laatste_update: 2019-11-21
 status: geldig
 toestand: 2019-11-21
 bron: "https://wetten.overheid.nl/BWBR0041337"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de minister van Buitenlandse Zaken van 5 september 2018, nr. MinBuZa-2018.986886, tot vaststelling van beleidsregels en een subsidieplafond op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidiebeleidskader NFRP Politieke Partijen Programma 2019)

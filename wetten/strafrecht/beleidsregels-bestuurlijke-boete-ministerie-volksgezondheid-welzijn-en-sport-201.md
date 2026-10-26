@@ -9,7 +9,7 @@ laatste_update: 2025-03-01
 status: geldig
 toestand: 2025-03-01
 bron: "https://wetten.overheid.nl/BWBR0041790"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport, de Minister voor Medische Zorg en de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 17 december 2018, kenmerk 2018-2207875, houdende de vaststelling van beleidsregels inzake het opleggen van bestuurlijke boetes (Beleidsregels bestuurlijke boete Ministerie VWS 2019)

@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0041693"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 10 december 2018, 2018-0000767274, tot wijziging van de Ontslagregeling in verband met een wijziging van de voorwaarden voor toepassing van de overbruggingsregeling transitievergoeding

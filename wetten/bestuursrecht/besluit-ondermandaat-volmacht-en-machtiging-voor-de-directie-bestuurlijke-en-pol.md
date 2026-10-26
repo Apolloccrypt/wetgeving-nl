@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0041806"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de directeur Bestuurlijke en Politieke Zaken van het Ministerie van Landbouw, Natuur en Voedselkwaliteit van 20 december 2018, nr. 18325123, houdende verlening van ondermandaat, volmacht en machtiging voor de directie Bestuurlijke en Politieke Zaken van het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2019 (Besluit ondermandaat, volmacht en machtiging voor de directie Bestuurlijke en Politieke Zaken van het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2019)

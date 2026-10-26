@@ -9,7 +9,7 @@ laatste_update: 2018-10-01
 status: geldig
 toestand: 2018-10-01
 bron: "https://wetten.overheid.nl/BWBR0041355"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat van 14 september 2018, nr. WJZ/18200470, houdende aanwijzing van categorieën van productie-installaties voor de stimulering van duurzame energieproductie in het najaar van 2018 (Regeling aanwijzing categorieën duurzame energieproductie najaar 2018)

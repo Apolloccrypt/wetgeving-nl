@@ -9,7 +9,7 @@ laatste_update: 2018-09-15
 status: geldig
 toestand: 2018-09-15
 bron: "https://wetten.overheid.nl/BWBR0041279"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Wet 11 juli 2018 tot samenvoeging van de gemeenten Binnenmaas, Cromstrijen, Korendijk, Oud-Beijerland en Strijen

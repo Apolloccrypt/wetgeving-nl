@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0041725"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van 11 december 2018 tot wijziging van het Besluit prudentiële regels Wft, het Besluit bijzondere prudentiële maatregelen, beleggerscompensatie en depositogarantie Wft en enige andere besluiten (Besluit herstel en afwikkeling van verzekeraars)

@@ -9,7 +9,7 @@ laatste_update: 2018-08-25
 status: geldig
 toestand: 2018-08-25
 bron: "https://wetten.overheid.nl/BWBR0041260"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Wet van 11 juli 2018, houdende bepalingen samenhangend met de vervolging en berechting in Nederland van strafbare feiten die verband houden met het neerhalen van Malaysia Airlines vlucht MH17 op 17 juli 2014

@@ -9,7 +9,7 @@ laatste_update: 2019-01-23
 status: geldig
 toestand: 2019-01-23
 bron: "https://wetten.overheid.nl/BWBR0041834"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat, van 21 januari 2019, nr. IENW/BSK-2019/3104, houdende aanwijzing van de functionaris bedoeld in artikel 8a.39, derde lid, onder b, van de Wet luchtvaart, van de ambtenaar bedoeld in artikel 8a.39, vierde lid, eerste volzin, van de Wet luchtvaart en van de functionaris bedoeld in artikel 8a.40, eerste lid, van de Wet luchtvaart

@@ -9,7 +9,7 @@ laatste_update: 2022-07-02
 status: geldig
 toestand: 2022-07-02
 bron: "https://wetten.overheid.nl/BWBR0041387"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Minister voor Medische Zorg van 24 september 2018, kenmerk 1418368-180788-Z, houdende bepalingen omtrent de in de Zorgverzekeringswet bedoelde vereveningsbijdrage voor het jaar 2019 (Regeling risicoverevening 2019)

@@ -8,7 +8,7 @@ laatste_update: 2019-02-28
 status: geldig
 toestand: 2019-02-28
 bron: "https://wetten.overheid.nl/BWBR0041962"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Controleprotocol nacalculatie 2018 Wlz-zorgaanbieders

@@ -9,7 +9,7 @@ laatste_update: 2018-09-15
 status: geldig
 toestand: 2018-09-15
 bron: "https://wetten.overheid.nl/BWBR0041284"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Wet van 11 juli 2018 tot samenvoeging van de gemeenten Leerdam, Vianen en Zederik en wijziging van de grens tussen de provincies Utrecht en Zuid-Holland

@@ -9,7 +9,7 @@ laatste_update: 2018-10-16
 status: geldig
 toestand: 2018-10-16
 bron: "https://wetten.overheid.nl/BWBR0041444"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Staatssecretaris van Justitie en Veiligheid en de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 9 oktober 2018, nr. 2381058, houdende instelling van de Onderzoekscommissie Langdurig verblijvende vreemdelingen zonder bestendig verblijfsrecht (Instellingsregeling Onderzoekscommissie Langdurig verblijvende vreemdelingen zonder bestendig verblijfsrecht)

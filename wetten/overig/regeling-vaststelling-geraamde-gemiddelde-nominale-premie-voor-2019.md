@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0041455"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Minister voor Medische Zorg van 15 oktober 2018, kenmerk 1422127-181094-Z, houdende vaststelling van de geraamde gemiddelde nominale premie voor 2019

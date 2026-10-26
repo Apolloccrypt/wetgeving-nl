@@ -9,7 +9,7 @@ laatste_update: 2019-01-16
 status: geldig
 toestand: 2019-01-16
 bron: "https://wetten.overheid.nl/BWBR0041810"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 7 januari 2019 nr. BOACAT2018/0665, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Omgevingsdienst Twente

@@ -9,7 +9,7 @@ laatste_update: 2018-11-17
 status: geldig
 toestand: 2018-11-17
 bron: "https://wetten.overheid.nl/BWBR0041552"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid, de Minister voor Rechtsbescherming, de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, de Staatssecretaris van Economische Zaken en Klimaat en de Staatssecretaris van Financiën, van 7 november 2018, 2018-0000179085, tot instelling van de Commissie regulering van werk (Instellingsregeling Commissie regulering van werk)

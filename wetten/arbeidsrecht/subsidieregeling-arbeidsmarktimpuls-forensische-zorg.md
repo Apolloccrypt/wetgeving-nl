@@ -9,7 +9,7 @@ laatste_update: 2018-10-06
 status: geldig
 toestand: 2018-10-06
 bron: "https://wetten.overheid.nl/BWBR0041420"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Minister voor Rechtsbescherming van 1 oktober 2018, kenmerk 2365132, houdende regels voor subsidiëring van activiteiten van instellingen voor Forensische Psychiatrische Klinieken en Forensische Psychiatrische Afdelingen gericht op de verbetering van hun positie op de arbeidsmarkt (Subsidieregeling Arbeidsmarktimpuls forensische zorg)

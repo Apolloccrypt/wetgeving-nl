@@ -9,7 +9,7 @@ laatste_update: 2019-02-16
 status: geldig
 toestand: 2019-02-16
 bron: "https://wetten.overheid.nl/BWBR0041485"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Minister voor Rechtsbescherming van 22 oktober 2018, nr. 2387751 tot aanwijzing van de centrale autoriteit, bedoeld in artikel 2, eerste lid, van de Uitvoeringswet verordening overlegging openbare documenten

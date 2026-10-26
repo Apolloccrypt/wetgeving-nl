@@ -8,7 +8,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0041791"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Regeling WPG Defensie

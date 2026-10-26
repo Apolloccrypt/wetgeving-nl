@@ -9,7 +9,7 @@ laatste_update: 2019-02-19
 status: geldig
 toestand: 2019-02-19
 bron: "https://wetten.overheid.nl/BWBR0041903"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 29 januari 2019, nr. 2019-0000033998, houdende vaststelling van het model proces-verbaal in verband met de mogelijke toewijzing van extra zetels voor Nederland in het Europees Parlement

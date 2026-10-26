@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0041732"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Wet van 28 november 2018 tot wijziging van de Wet op het financieel toezicht en enige andere wetten in verband met de herziening van het kader voor herstel en afwikkeling van verzekeraars (Wet herstel en afwikkeling van verzekeraars)

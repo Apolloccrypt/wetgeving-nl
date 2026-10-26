@@ -9,7 +9,7 @@ laatste_update: 2002-03-01
 status: geldig
 toestand: 2002-03-01
 bron: "https://wetten.overheid.nl/BWBR0041839"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van 25 januari 2002, houdende verlening van wapen en onderscheidingsvlag aan Hare Koninklijke Hoogheid Prinses Máxima

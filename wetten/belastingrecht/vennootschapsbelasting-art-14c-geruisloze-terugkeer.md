@@ -8,7 +8,7 @@ laatste_update: 2023-07-18
 status: geldig
 toestand: 2023-07-18
 bron: "https://wetten.overheid.nl/BWBR0041539"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Vennootschapsbelasting; art. 14c; geruisloze terugkeer

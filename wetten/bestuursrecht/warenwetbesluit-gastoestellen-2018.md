@@ -9,7 +9,7 @@ laatste_update: 2018-07-18
 status: geldig
 toestand: 2018-07-18
 bron: "https://wetten.overheid.nl/BWBR0041162"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van 22 mei 2018, houdende vaststelling van het Warenwetbesluit gastoestellen 2018 en wijziging van het Warenwetbesluit bestuurlijke boeten (Warenwetbesluit gastoestellen 2018)

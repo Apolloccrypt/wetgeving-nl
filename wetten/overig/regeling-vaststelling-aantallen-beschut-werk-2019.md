@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0041650"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 3 december 2018, 2018-0000171280, tot vaststelling van de aantallen beschut werk voor het jaar 2019 (Regeling vaststelling aantallen beschut werk 2019)

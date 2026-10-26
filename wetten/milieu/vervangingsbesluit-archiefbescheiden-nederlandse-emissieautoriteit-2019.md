@@ -9,7 +9,7 @@ laatste_update: 2019-02-23
 status: geldig
 toestand: 2019-02-23
 bron: "https://wetten.overheid.nl/BWBR0041936"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van het bestuur van de Nederlandse Emissieautoriteit van 5 februari 2019, met kenmerk NEa-2018/17248 inzake de routinematige digitale vervanging van archiefbescheiden (Vervangingsbesluit archiefbescheiden Nederlandse Emissieautoriteit 2019)

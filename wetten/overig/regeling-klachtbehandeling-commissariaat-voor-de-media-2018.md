@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0041786"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Regeling klachtbehandeling Commissariaat voor de Media 2018

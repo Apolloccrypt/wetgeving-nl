@@ -9,7 +9,7 @@ laatste_update: 2018-09-19
 status: geldig
 toestand: 2018-09-19
 bron: "https://wetten.overheid.nl/BWBR0041352"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Wet van 15 juni 2018, houdende verbeteringen in enkele wetten van het Ministerie van Justitie en Veiligheid (Verzamelwet Justitie en Veiligheid 2018)

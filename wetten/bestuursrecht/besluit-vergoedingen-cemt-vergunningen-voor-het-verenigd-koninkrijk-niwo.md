@@ -9,7 +9,7 @@ laatste_update: 2019-03-21
 status: geldig
 toestand: 2019-03-21
 bron: "https://wetten.overheid.nl/BWBR0042010"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de directie van de Nationale en Internationale Wegvervoer Organisatie (NIWO) houdende vaststelling van de tarieven van de vergoedingen inzake CEMT-vergunningen voor het beroepsgoederenvervoer over de weg naar het Verenigd Koninkrijk na de uittreding van dit land uit de Europese Unie op 29 maart 2019 (Besluit vergoedingen CEMT-vergunningen voor het Verenigd Koninkrijk NIWO)

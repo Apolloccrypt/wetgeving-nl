@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0041625"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister voor Medische Zorg van 26 november 2018, kenmerk 1449924-184386-S, houdende vaststelling van beleidsregels voor het subsidiëren van sportevenementen 2019–2020 (Besluit vaststelling beleidskader sportevenementen 2019–2020)

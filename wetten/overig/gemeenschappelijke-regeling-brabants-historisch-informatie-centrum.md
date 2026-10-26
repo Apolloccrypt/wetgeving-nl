@@ -9,7 +9,7 @@ laatste_update: 2021-11-27
 status: geldig
 toestand: 2021-11-27
 bron: "https://wetten.overheid.nl/BWBR0042023"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Gemeenschappelijke Regeling Brabants Historisch Informatie centrum, nr. 969921, van 15 juni 2016

@@ -9,7 +9,7 @@ laatste_update: 2018-12-15
 status: geldig
 toestand: 2018-12-15
 bron: "https://wetten.overheid.nl/BWBR0041674"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister van Financiën, van 5 december 2018 nr. 2018-2059995, tot instelling van de Werkgroep Interdepartementaal Beleidsonderzoek (IBO) Internationalisering van het onderwijs (Instellingsbesluit werkgroep IBO Internationalisering van het onderwijs)

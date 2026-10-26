@@ -9,7 +9,7 @@ laatste_update: 2019-04-30
 status: geldig
 toestand: 2019-04-30
 bron: "https://wetten.overheid.nl/BWBR0041957"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 14 februari 2019 nr. BOACAT2019/008, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Coöperatie ParkeerService UA

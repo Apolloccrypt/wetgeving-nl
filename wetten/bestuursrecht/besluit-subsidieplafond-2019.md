@@ -9,7 +9,7 @@ laatste_update: 2018-11-15
 status: geldig
 toestand: 2018-11-15
 bron: "https://wetten.overheid.nl/BWBR0041550"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de algemene raad van 5 november 2018 tot vaststelling van een subsidieplafond (Besluit subsidieplafond 2019)

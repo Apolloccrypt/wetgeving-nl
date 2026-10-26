@@ -9,7 +9,7 @@ laatste_update: 2019-03-14
 status: geldig
 toestand: 2019-03-14
 bron: "https://wetten.overheid.nl/BWBR0041494"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 1 november 2018, kenmerk 1430593-182478-DMO, houdende voorwaarden waaronder organisaties goedgekeurd en geregistreerd worden in het kader van de toepassing van de Regeling vergoeding verklaring omtrent het gedrag en gedragsverklaring aanbesteden (Regeling Gratis VOG voor vrijwilligers)

@@ -8,7 +8,7 @@ laatste_update: 2024-01-19
 status: geldig
 toestand: 2024-01-19
 bron: "https://wetten.overheid.nl/BWBR0041624"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Nadere voorschriften NOCLAR

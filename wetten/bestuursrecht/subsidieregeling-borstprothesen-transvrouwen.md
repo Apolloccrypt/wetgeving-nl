@@ -9,7 +9,7 @@ laatste_update: 2024-01-31
 status: geldig
 toestand: 2024-01-31
 bron: "https://wetten.overheid.nl/BWBR0041856"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Minister voor Medische Zorg van 21 december 2018, kenmerk 1463057-185477-CZ, houdende regels voor het verstrekken van subsidie voor het operatief plaatsen van borstprothesen bij transvrouwen (Subsidieregeling borstprothesen transvrouwen)

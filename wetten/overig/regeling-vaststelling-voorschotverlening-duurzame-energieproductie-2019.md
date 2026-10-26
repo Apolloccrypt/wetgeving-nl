@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0041499"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat van 30 oktober 2018, nr. WJZ/ 18264901, tot vaststelling van de correcties voor de voorschotverlening duurzame energieproductie 2019 (Regeling vaststelling voorschotverlening duurzame energieproductie 2019)

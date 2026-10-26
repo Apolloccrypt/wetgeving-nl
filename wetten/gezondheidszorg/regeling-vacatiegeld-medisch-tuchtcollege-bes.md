@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0041575"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 13 november 2018, kenmerk 1437842-183262-ESTT, houdende vaststelling van het vacatiegeld voor personen die lid of plaatsvervangend lid zijn van het Medisch Tuchtcollege bedoeld in artikel 8 van de Wet medisch Tuchtrecht BES (Regeling vacatiegeld Medisch Tuchtcollege BES)

@@ -9,7 +9,7 @@ laatste_update: 2019-01-03
 status: geldig
 toestand: 2019-01-03
 bron: "https://wetten.overheid.nl/BWBR0041797"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Minister van Financiën en de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 18 december 2018, 2018-0000224375, directie Financiële Markten, houdende de instelling van een commissie in verband met de advisering over een duurzame verbetering van wettelijke controles door accountants (Instellingsregeling Commissie toekomst accountancysector)

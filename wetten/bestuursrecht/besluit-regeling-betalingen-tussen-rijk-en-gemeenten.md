@@ -9,7 +9,7 @@ laatste_update: 1925-06-01
 status: geldig
 toestand: 1925-06-01
 bron: "https://wetten.overheid.nl/BWBR0041549"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van den 28sten Maart 1925, tot regeling van de betalingen tusschen Rijk en Gemeenten

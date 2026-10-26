@@ -9,7 +9,7 @@ laatste_update: 2019-01-26
 status: geldig
 toestand: 2019-01-26
 bron: "https://wetten.overheid.nl/BWBR0041836"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Beleidsregel van de Nationale en Internationale Wegvervoer Organisatie (NIWO) inzake de verdeling van de beschikbare CEMT-vergunningen voor het beroepsgoederenvervoer over de weg naar het Verenigd Koninkrijk na de uittreding van dit land uit de Europese Unie op 29 maart 2019 (Beleidsregel NIWO inzake verdeling van CEMT-vergunning in 2019 naar het Verenigd Koninkrijk)

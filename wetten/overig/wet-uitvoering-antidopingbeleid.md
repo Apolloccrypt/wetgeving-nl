@@ -9,7 +9,7 @@ laatste_update: 2025-07-05
 status: geldig
 toestand: 2025-07-05
 bron: "https://wetten.overheid.nl/BWBR0041439"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Wet van 26 september 2018, houdende regels tot uitvoering van het antidopingbeleid en tot instelling van de Dopingautoriteit (Wet uitvoering antidopingbeleid)

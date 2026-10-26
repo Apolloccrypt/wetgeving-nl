@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0041742"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 13 december 2018, nr. 2423518, houdende vaststelling van de technische vereisten voor camera’s en het centrale opslagsysteem gebruikt bij het vastleggen en bewaren van kentekengegevens op grond van artikel 126jj van het Wetboek van Strafvordering door de politie

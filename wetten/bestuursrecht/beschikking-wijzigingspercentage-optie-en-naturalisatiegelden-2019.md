@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0041281"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Beschikking wijzigingspercentage optie- en naturalisatiegelden 2019 van 27 augustus 2018, nummer 2018/1

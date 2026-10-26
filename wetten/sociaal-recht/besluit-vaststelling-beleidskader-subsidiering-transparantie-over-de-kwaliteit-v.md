@@ -9,7 +9,7 @@ laatste_update: 2019-02-01
 status: geldig
 toestand: 2019-02-01
 bron: "https://wetten.overheid.nl/BWBR0041842"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister voor Medische Zorg van 17 januari 2019, kenmerk 1464902-185563-PZo, houdende vaststelling van beleidsregels en subsidieplafond inzake het subsidiëren van transparantie over de kwaliteit van zorg 2019 (Besluit vaststelling beleidskader subsidiëring transparantie over de kwaliteit van zorg 2019)

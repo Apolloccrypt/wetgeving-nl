@@ -8,7 +8,7 @@ laatste_update: 2019-02-01
 status: geldig
 toestand: 2019-02-01
 bron: "https://wetten.overheid.nl/BWBR0041873"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Selectieverstrekking Sociale Verzekeringsbank

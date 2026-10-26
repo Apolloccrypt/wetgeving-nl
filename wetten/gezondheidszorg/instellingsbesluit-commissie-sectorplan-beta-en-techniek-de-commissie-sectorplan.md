@@ -9,7 +9,7 @@ laatste_update: 2026-03-07
 status: geldig
 toestand: 2026-03-07
 bron: "https://wetten.overheid.nl/BWBR0041941"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 10 januari 2019, nr. OWB/1456772, houdende instelling van de Commissie sectorplan Bèta en Techniek en de Commissie sectorplan Social Sciences and Humanities (Instellingsbesluit Commissie sectorplan Bèta en Techniek en de Commissie sectorplan Social Sciences and Humanities)

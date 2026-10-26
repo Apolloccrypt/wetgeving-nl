@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0041518"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat van 15 oktober 2018, nr. WJZ/18250666, tot aanwijzing van de delen van hoogspanningsnetten als bedoeld in artikel 22a van de Elektriciteitswet 1998

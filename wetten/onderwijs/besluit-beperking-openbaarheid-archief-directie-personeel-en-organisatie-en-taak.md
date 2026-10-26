@@ -9,7 +9,7 @@ laatste_update: 2018-12-05
 status: geldig
 toestand: 2018-12-05
 bron: "https://wetten.overheid.nl/BWBR0041613"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister voor Basis- en Voortgezet Onderwijs en Media, nr. 1407525 d.d. 26 november 2018, houdende beperking van de openbaarheid van het archief van de Directie Personeel en Organisatie en taakvoorgangers van het Ministerie van Onderwijs, Cultuur en Wetenschap over de periode (1972) 1977–2003 (2008)

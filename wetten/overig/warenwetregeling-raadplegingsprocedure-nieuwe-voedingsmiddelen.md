@@ -9,7 +9,7 @@ laatste_update: 2018-08-28
 status: geldig
 toestand: 2018-08-28
 bron: "https://wetten.overheid.nl/BWBR0041262"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Minister voor Medische Zorg van 17 augustus 2018, kenmerk 1392646-179588-WJZ, houdende regels inzake de procedurele stappen van de raadplegingsprocedure om vast te stellen of een voedingsmiddel een nieuw voedingsmiddel is in de zin van Verordening (EU) 2015/2283 (Warenwetregeling raadplegingsprocedure nieuwe voedingsmiddelen)

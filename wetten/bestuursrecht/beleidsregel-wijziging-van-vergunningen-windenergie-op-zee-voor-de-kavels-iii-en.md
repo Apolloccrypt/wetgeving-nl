@@ -9,7 +9,7 @@ laatste_update: 2019-03-08
 status: geldig
 toestand: 2019-03-08
 bron: "https://wetten.overheid.nl/BWBR0041980"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Beleidsregel van de Minister van Economische Zaken en Klimaat van 5 maart 2019, nr. WJZ/19040222, houdende beleidsregel inzake de wijziging van vergunningen windenergie op zee voor de kavels III en IV Hollandse Kust (zuid)

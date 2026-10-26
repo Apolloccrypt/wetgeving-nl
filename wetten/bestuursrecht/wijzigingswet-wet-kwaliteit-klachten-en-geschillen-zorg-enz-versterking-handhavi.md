@@ -9,7 +9,7 @@ laatste_update: 2020-03-19
 status: geldig
 toestand: 2020-03-19
 bron: "https://wetten.overheid.nl/BWBR0041912"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Wet van 23 januari 2019 tot wijziging van diverse wetten op het terrein van de volksgezondheid in verband met de versterking van het handhavingsinstrumentarium van de Inspectie gezondheidszorg en jeugd en enkele andere wijzigingen

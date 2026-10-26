@@ -8,7 +8,7 @@ laatste_update: 2018-10-01
 status: geldig
 toestand: 2018-10-01
 bron: "https://wetten.overheid.nl/BWBR0041446"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Circulaire aanvraagprocedure reisdocumenten voor vluchtelingen of vreemdelingen als bedoeld in artikel 12, 14 en 15, tweede lid, van de Paspoortwet

@@ -9,7 +9,7 @@ laatste_update: 2021-04-03
 status: geldig
 toestand: 2021-04-03
 bron: "https://wetten.overheid.nl/BWBR0041628"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 27 november 2018, nr. 2018-0000173036, tot aanwijzing ontwikkelingsorganisaties als bedoeld in de artikelen 35, derde lid, onderdeel b, van de Algemene Ouderdomswet, 63a, derde lid, onderdeel b, van de Algemene nabestaandenwet, en 1, onderdeel b, van het Besluit regels export uitkeringen (Regeling aanwijzing organisaties voor ontwikkelingssamenwerking 2019)

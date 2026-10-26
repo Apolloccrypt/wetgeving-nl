@@ -9,7 +9,7 @@ laatste_update: 2018-10-24
 status: geldig
 toestand: 2018-10-24
 bron: "https://wetten.overheid.nl/BWBR0041465"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid, van 10 oktober 2018, nr. 2373355, houdende aanwijzing van toezichthoudende ambtenaren op het Besluit subsidie rechtspersonen voor voogdij en gezinsvoogdij vreemdelingen 2015 en op subsidies ten behoeve van opvang en begeleiding van alleenstaande minderjarige vreemdelingen op grond van artikel 48a van de Wet Justitie-subsidies

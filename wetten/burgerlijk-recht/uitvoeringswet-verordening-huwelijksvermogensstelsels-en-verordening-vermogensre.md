@@ -9,7 +9,7 @@ laatste_update: 2023-07-01
 status: geldig
 toestand: 2023-07-01
 bron: "https://wetten.overheid.nl/BWBR0041407"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Wet van 11 juli 2018 tot uitvoering van de Verordening (EU) nr. 2016/1103 van de Raad van 24 juni 2016 tot uitvoering van de nauwere samenwerking op het gebied van de bevoegdheid, het toepasselijke recht en de erkenning en tenuitvoerlegging van beslissingen op het gebied van huwelijksvermogensstelsels (PbEU 2016, L 183) en de Verordening (EU) nr. 2016/1104 van de Raad van 24 juni 2016 tot uitvoering van de nauwere samenwerking op het gebied van de bevoegdheid, het toepasselijke recht en de erkenning en tenuitvoerlegging van beslissingen op het gebied van de vermogensrechtelijke gevolgen van geregistreerde partnerschappen (PbEU 2016, L 183) (Uitvoeringswet Verordening huwelijksvermogensstelsels en Verordening vermogensrechtelijke gevolgen geregistreerde partnerschappen)

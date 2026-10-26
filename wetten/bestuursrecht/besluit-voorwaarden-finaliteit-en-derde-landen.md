@@ -9,7 +9,7 @@ laatste_update: 2019-03-07
 status: geldig
 toestand: 2019-03-07
 bron: "https://wetten.overheid.nl/BWBR0041970"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van 19 februari 2019 houdende nadere regels met betrekking tot de finaliteit van opdrachten die worden gegeven aan betalings- en effectenafwikkelsystemen in derde landen (Besluit voorwaarden finaliteit en derde landen)

@@ -9,7 +9,7 @@ laatste_update: 2019-01-22
 status: geldig
 toestand: 2019-01-22
 bron: "https://wetten.overheid.nl/BWBR0041805"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid tot het verlenen van inzage in overgebrachte archiefdossiers (archiefbescheiden) van de Immigratie- en Naturalisatiedienst (IND) aan de Dienst Terugkeer en Vertrek (DT&V) door de algemene rijksarchivaris op grond van artikel 18 lid 1 van de Archiefwet 1995 (Besluit inzage overgebrachte archiefdossiers IND door DT&V)

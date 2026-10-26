@@ -9,7 +9,7 @@ laatste_update: 2018-12-20
 status: geldig
 toestand: 2018-12-20
 bron: "https://wetten.overheid.nl/BWBR0041432"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 27 september 2018 nr. BOACAT2018/055, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Erfgoedinspectie

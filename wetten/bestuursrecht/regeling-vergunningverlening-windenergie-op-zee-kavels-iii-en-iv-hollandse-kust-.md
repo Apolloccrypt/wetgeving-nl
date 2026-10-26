@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0041607"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat van 23 november 2018, nr. WJZ/18199760, houdende nadere regels tot vergunningverlening windenergie op zee voor de kavels III en IV van het windenergiegebied Hollandse Kust (zuid) (Regeling vergunningverlening windenergie op zee kavels III en IV Hollandse Kust (zuid))

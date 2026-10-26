@@ -8,7 +8,7 @@ laatste_update: 2018-07-22
 status: geldig
 toestand: 2018-07-22
 bron: "https://wetten.overheid.nl/BWBR0041175"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit vaststelling Selectielijst Bedrijfsvoering en Beleid van ‘de Rechtspraak’ voor waardering alle niet-rechtszaak-gebonden stukken, ontvangen of opgemaakt vanaf 1 januari 2002

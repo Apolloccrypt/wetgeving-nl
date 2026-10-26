@@ -9,7 +9,7 @@ laatste_update: 2019-02-18
 status: geldig
 toestand: 2019-02-18
 bron: "https://wetten.overheid.nl/BWBR0041700"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 6 december 2018 nr. BOACAT2018/061, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Regionale Uitvoeringsdienst Zeeland

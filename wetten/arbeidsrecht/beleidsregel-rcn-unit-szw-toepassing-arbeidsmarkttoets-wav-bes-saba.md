@@ -8,7 +8,7 @@ laatste_update: 2021-12-14
 status: geldig
 toestand: 2021-12-14
 bron: "https://wetten.overheid.nl/BWBR0041595"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Beleidsregel RCN-unit SZW toepassing arbeidsmarkttoets Wav BES Saba

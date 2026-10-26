@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0041881"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Beleidsregels van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 30 januari 2019, nr 2018-0000172386, tot vaststelling van beleidsregels op grond van het Besluit onderstand BES (Beleidsregels toepassing Besluit onderstand BES 2019)

@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0041632"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van 20 november 2018, houdende regels ter uitvoering van de artikelen 126g, negende lid, 126h, vierde en vijfde lid, 126i, vierde lid, 126j, vierde en vijfde lid, 126o, zesde lid, 126q, vierde lid, en 126zc, van het Wetboek van Strafvordering (Samenwerkingsbesluit bijzondere opsporingsbevoegdheden 2019)

@@ -9,7 +9,7 @@ laatste_update: 2019-02-28
 status: geldig
 toestand: 2019-02-28
 bron: "https://wetten.overheid.nl/BWBR0041953"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 15 februari 2019, kenmerk 2429311, houdende regels betreffende de kwalificaties van opsporingsambtenaren die door de korpschef kunnen worden aangewezen als lid van een technisch team

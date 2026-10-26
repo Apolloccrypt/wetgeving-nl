@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0041844"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 21 januari 2019, nr. 2018-0000159940, tot vaststelling van de formulieren in gebruik bij het landelijk register kinderopvang 2019

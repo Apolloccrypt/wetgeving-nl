@@ -9,7 +9,7 @@ laatste_update: 2018-07-28
 status: geldig
 toestand: 2018-07-28
 bron: "https://wetten.overheid.nl/BWBR0041205"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van 12 juli 2018 tot wijziging van het Besluit prudentiële regels Wft, het Besluit Markttoegang financiële ondernemingen Wft, het Besluit bijzondere prudentiële maatregelen, beleggerscompensatie en depositogarantie Wft, het Besluit Gedragstoezicht financiële ondernemingen Wft, het Besluit bestuurlijke boetes financiële sector, het Besluit politiegegevens en het Besluit prudentieel toezicht financiële groepen Wft (Herstelbesluit financiële markten 2018)

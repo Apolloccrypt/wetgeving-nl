@@ -8,7 +8,7 @@ laatste_update: 2016-08-01
 status: geldig
 toestand: 2016-08-01
 bron: "https://wetten.overheid.nl/BWBR0042015"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Gemeenschappelijke regeling Regionaal Historisch Centrum ‘Gelders Archief’

@@ -9,7 +9,7 @@ laatste_update: 2018-11-09
 status: geldig
 toestand: 2018-11-09
 bron: "https://wetten.overheid.nl/BWBR0041525"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 30 oktober 2018, nr. MBO/1336499, houdende nadere voorschriften ten aanzien van de melding tot het voornemen een beroepsopleiding te starten of te beëindigen (Regeling melding starten of stoppen van een beroepsopleiding 2018)

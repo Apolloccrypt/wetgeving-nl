@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0041594"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 28 november 2018, nr. IENW/BSK-2018/240871, houdende vaststelling van regels met betrekking tot de eigenschappen van de landelijk werkende OV-chipkaart (Regeling landelijk werkende OV-chipkaart)

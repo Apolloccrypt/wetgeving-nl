@@ -8,7 +8,7 @@ laatste_update: 2018-12-22
 status: geldig
 toestand: 2018-12-22
 bron: "https://wetten.overheid.nl/BWBR0041741"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Richtsnoeren vereenvoudigde afdoening van boetezaken ACM

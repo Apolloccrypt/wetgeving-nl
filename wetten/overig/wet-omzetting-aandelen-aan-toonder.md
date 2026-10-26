@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0041991"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Wet van 13 februari 2019 tot wijziging van het Burgerlijk Wetboek en het Burgerlijk Wetboek BES houdende de omzetting van aandelen aan toonder in aandelen op naam ten behoeve van de vaststelling van de identiteit van houders van deze aandelen (Wet omzetting aandelen aan toonder)

@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0041242"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Minister voor Medische Zorg van 7 augustus 2018, kenmerk 1373080-178630-WJZ, houdende voorschriften over de wijze van en termijn voor de verstrekking van gegevens in het kader van het implantatenregister ter bescherming van de gezondheid van cliënten (Regeling registratie implantaten)

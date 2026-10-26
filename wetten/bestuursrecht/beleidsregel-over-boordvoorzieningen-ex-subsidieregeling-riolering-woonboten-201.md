@@ -9,7 +9,7 @@ laatste_update: 2018-12-01
 status: geldig
 toestand: 2018-12-01
 bron: "https://wetten.overheid.nl/BWBR0041514"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Beleidsregel van de Minister van Infrastructuur en Waterstaat, van 30 oktober 2018, nr. IENW/BSK–2018/176078, over boordvoorzieningen in het kader van de Subsidieregeling riolering woonboten 2018–2020

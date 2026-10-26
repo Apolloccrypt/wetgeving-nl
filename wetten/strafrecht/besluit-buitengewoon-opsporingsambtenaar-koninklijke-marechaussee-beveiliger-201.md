@@ -9,7 +9,7 @@ laatste_update: 2018-08-15
 status: geldig
 toestand: 2018-08-15
 bron: "https://wetten.overheid.nl/BWBR0041219"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 19 juli 2018 nr. BOACAT2018/043, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Koninklijke Marechaussee (generieke opsporing)

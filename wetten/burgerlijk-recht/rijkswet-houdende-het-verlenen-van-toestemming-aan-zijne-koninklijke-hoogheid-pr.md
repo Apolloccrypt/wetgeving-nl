@@ -9,7 +9,7 @@ laatste_update: 2001-07-13
 status: geldig
 toestand: 2001-07-13
 bron: "https://wetten.overheid.nl/BWBR0041837"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Rijkswet van 4 juli 2001, houdende het verlenen van toestemming aan Zijne Koninklijke Hoogheid Prins Willem-Alexander Claus George Ferdinand, Prins van Oranje, Prins der Nederlanden, Prins van Oranje-Nassau, Jonkheer van Amsberg om een huwelijk aan te gaan met Máxima Zorreguieta

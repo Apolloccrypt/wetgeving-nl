@@ -9,7 +9,7 @@ laatste_update: 2018-09-22
 status: geldig
 toestand: 2018-09-22
 bron: "https://wetten.overheid.nl/BWBR0041360"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Secretaris-Generaal van Volksgezondheid, Welzijn en Sport van 5 september 2018, kenmerk 1397934-179718-PEMA, houdende de regeling van de vervanging van de projectdirecteur Project relocatie EMA bij afwezigheid

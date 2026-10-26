@@ -8,7 +8,7 @@ laatste_update: 2019-03-28
 status: geldig
 toestand: 2019-03-28
 bron: "https://wetten.overheid.nl/BWBR0041858"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Circulaire Introductie bij provincies van het Rechtspositiebesluit decentrale politieke ambtsdragers

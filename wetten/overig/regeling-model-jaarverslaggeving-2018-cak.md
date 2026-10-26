@@ -8,7 +8,7 @@ laatste_update: 2019-03-26
 status: geldig
 toestand: 2019-03-26
 bron: "https://wetten.overheid.nl/BWBR0042043"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Regeling Model Jaarverslaggeving 2018 CAK

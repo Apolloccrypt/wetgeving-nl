@@ -9,7 +9,7 @@ laatste_update: 2018-07-21
 status: geldig
 toestand: 2018-07-21
 bron: "https://wetten.overheid.nl/BWBR0041180"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 25 juni 2018, over de termijn van beperking van de openbaarheid van de naar de Rijksarchiefbewaarplaats over te brengen dossiers in het archief van de diplomatieke vertegenwoordiging in India, (1908) 1975–2013

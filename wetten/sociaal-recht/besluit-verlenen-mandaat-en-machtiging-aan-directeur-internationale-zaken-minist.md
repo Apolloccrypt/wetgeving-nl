@@ -9,7 +9,7 @@ laatste_update: 2018-10-09
 status: geldig
 toestand: 2018-10-09
 bron: "https://wetten.overheid.nl/BWBR0041422"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 28 september 2018, nr.2018-0000150801, tot het verlenen van mandaat en machtiging aan de directeur Internationale Zaken van het Ministerie van Volksgezondheid, Welzijn en Sport ten aanzien van het Tijdelijk Besluit bijzondere uitkeringen integrale projecten BES

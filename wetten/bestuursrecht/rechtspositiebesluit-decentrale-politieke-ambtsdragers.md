@@ -9,7 +9,7 @@ laatste_update: 2026-07-07
 status: geldig
 toestand: 2026-07-07
 bron: "https://wetten.overheid.nl/BWBR0041522"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van 15 oktober 2018, houdende regels inzake de rechtspositie van staten- en commissieleden, gedeputeerden, commissarissen van de Koning, raads- en commissieleden, wethouders, burgemeesters en de leden van het algemeen bestuur en het dagelijks bestuur en de voorzitters van de waterschappen (Rechtspositiebesluit decentrale politieke ambtsdragers)

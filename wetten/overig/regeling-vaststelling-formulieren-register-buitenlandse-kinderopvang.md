@@ -8,7 +8,7 @@ laatste_update: 2023-11-30
 status: geldig
 toestand: 2023-11-30
 bron: "https://wetten.overheid.nl/BWBR0041600"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Regeling vaststelling formulieren register buitenlandse kinderopvang

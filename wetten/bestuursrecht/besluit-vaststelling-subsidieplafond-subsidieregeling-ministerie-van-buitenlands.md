@@ -9,7 +9,7 @@ laatste_update: 2018-11-28
 status: geldig
 toestand: 2018-11-28
 bron: "https://wetten.overheid.nl/BWBR0041578"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 12 november 2018, nr. MinBuZa.2018.1891-10, tot vaststelling van een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 met het oog op de financiering van ontwikkelingsrelevante infrastructuurprojecten in ontwikkelingslanden (DRIVE) (Subsidieplafond DRIVE 2019)

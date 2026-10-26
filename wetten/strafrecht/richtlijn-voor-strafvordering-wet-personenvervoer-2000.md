@@ -8,7 +8,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0041658"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Richtlijn voor strafvordering wet personenvervoer 2000

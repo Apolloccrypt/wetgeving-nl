@@ -9,7 +9,7 @@ laatste_update: 2019-03-10
 status: geldig
 toestand: 2019-03-10
 bron: "https://wetten.overheid.nl/BWBR0041985"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Ministers van Justitie en Veiligheid en van Defensie van 22 februari 2019, kenmerk 2503605, houdende aanwijzing van luchtvaartterreinen op Bonaire, Sint Eustatius en Saba waarop de Koninklijke marechaussee de politietaak uitvoert (Aanwijzing luchtvaartterreinen BES waarop de Koninklijke marechaussee de politietaak uitvoert)

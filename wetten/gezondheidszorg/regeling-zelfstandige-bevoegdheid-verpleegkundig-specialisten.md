@@ -9,7 +9,7 @@ laatste_update: 2023-07-01
 status: geldig
 toestand: 2023-07-01
 bron: "https://wetten.overheid.nl/BWBR0041163"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Regeling van de Minister voor Medische Zorg van 9 juli 2018, kenmerk 1376127-178814-WJZ, houdende de zelfstandige bevoegdheid van verpleegkundig specialisten tot het verrichten van handelingen die zijn voorbehouden aan bepaalde beroepen (Regeling zelfstandige bevoegdheid verpleegkundig specialisten)

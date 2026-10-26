@@ -9,7 +9,7 @@ laatste_update: 2018-09-19
 status: geldig
 toestand: 2018-09-19
 bron: "https://wetten.overheid.nl/BWBR0041213"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Wet van 11 juli 2018, houdende wijziging van de wet van 22 april 1855, houdende regeling der verantwoordelijkheid van de Hoofden der Ministeriële Departementen (Stb. 1855, 33) en aanpassing van daarmee verband houdende bepalingen in het Wetboek van Strafvordering en het Wetboek van Strafrecht in verband met het aanbrengen van enkele moderniseringen

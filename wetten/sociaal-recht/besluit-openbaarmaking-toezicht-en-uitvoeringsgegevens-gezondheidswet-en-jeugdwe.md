@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0041861"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van 15 januari 2019, houdende vaststelling van regels ter uitvoering van de Gezondheidswet en de Jeugdwet over de openbaarmaking van informatie over naleving en uitvoering van regelgeving (Besluit openbaarmaking toezicht- en uitvoeringsgegevens Gezondheidswet en Jeugdwet)

@@ -8,7 +8,7 @@ laatste_update: 2019-03-08
 status: geldig
 toestand: 2019-03-08
 bron: "https://wetten.overheid.nl/BWBR0041981"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit Raad voor Rechtsbijstand (bekrachtiging besluiten Wbtv en Wsnp 1 januari 2019 tot en met heden)

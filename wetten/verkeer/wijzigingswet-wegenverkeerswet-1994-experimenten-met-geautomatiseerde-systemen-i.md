@@ -9,7 +9,7 @@ laatste_update: 2019-07-01
 status: geldig
 toestand: 2019-07-01
 bron: "https://wetten.overheid.nl/BWBR0041438"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Wet van 26 september 2018 tot wijziging van de Wegenverkeerswet 1994 in verband met mogelijk maken van experimenten met geautomatiseerde systemen in motorrijtuigen

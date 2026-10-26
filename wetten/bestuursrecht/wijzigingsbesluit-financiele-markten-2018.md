@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0041656"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-26
 ---
 
 # Besluit van 29 november 2018 tot wijziging van het Besluit Gedragstoezicht financiële ondernemingen Wft, het Besluit bestuurlijke boetes financiële sector, het Besluit financiële markten BES en het Besluit bijzondere prudentiële maatregelen, beleggerscompensatie en depositogarantie Wft (Wijzigingsbesluit financiële markten 2018)

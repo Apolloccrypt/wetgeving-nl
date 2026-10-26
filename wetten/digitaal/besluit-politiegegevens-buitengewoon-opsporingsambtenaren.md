@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0041971"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-26
 ---
 
 # Besluit van 6 februari 2019, houdende bepalingen inzake de overeenkomstige toepassing van de Wet politiegegevens op de verwerking van persoonsgegevens door personen die als buitengewoon opsporingsambtenaar zijn belast met de opsporing van strafbare feiten (Besluit politiegegevens buitengewoon opsporingsambtenaren)
