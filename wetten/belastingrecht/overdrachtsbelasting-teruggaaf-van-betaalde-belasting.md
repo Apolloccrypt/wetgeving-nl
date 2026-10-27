@@ -8,7 +8,7 @@ laatste_update: 2019-10-19
 status: geldig
 toestand: 2019-10-19
 bron: "https://wetten.overheid.nl/BWBR0042683"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Overdrachtsbelasting, teruggaaf van betaalde belasting

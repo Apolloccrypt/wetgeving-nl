@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0042687"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Besluit van 9 oktober 2019, houdende wijziging van het Kansspelenbesluit in verband met de verlaging van de minimaal verplichte procentuele afdracht ten behoeve van enig algemeen belang en een andere wijziging

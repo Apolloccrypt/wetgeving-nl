@@ -9,7 +9,7 @@ laatste_update: 2019-08-29
 status: geldig
 toestand: 2019-08-29
 bron: "https://wetten.overheid.nl/BWBR0042501"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister van Financiën van 20 augustus 2019 (DJZ 2019-124350), houdende aanwijzing van toezichthouders op de naleving van de Wet normering topinkomens op het terrein van Financiën (Aanwijzing toezichthouders WNT Ministerie van Financiën)

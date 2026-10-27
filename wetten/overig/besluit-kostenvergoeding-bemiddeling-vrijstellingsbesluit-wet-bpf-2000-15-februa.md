@@ -9,7 +9,7 @@ laatste_update: 2019-05-18
 status: geldig
 toestand: 2019-05-18
 bron: "https://wetten.overheid.nl/BWBR0042211"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van het Dagelijks Bestuur tot vaststelling van een regeling inzake kostenvergoeding bemiddeling vrijstellingsbesluit Wet Bpf 2000, 15 februari 2019 (Besluit kostenvergoeding bemiddeling vrijstellingsbesluit Wet Bpf 2000, 15 februari 2019)

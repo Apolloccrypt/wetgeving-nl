@@ -9,7 +9,7 @@ laatste_update: 2021-09-18
 status: geldig
 toestand: 2021-09-18
 bron: "https://wetten.overheid.nl/BWBR0042262"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van 16 mei 2019, houdende regels ter uitvoering van de Wet verplichte geestelijke gezondheidszorg (Besluit verplichte geestelijke gezondheidszorg)

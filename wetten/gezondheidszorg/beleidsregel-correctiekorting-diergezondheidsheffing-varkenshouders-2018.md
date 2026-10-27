@@ -9,7 +9,7 @@ laatste_update: 2019-06-18
 status: geldig
 toestand: 2019-06-18
 bron: "https://wetten.overheid.nl/BWBR0042296"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Beleidsregel van de Minister van Landbouw, Natuur en Voedselkwaliteit van 5 juni 2019, nr. WJZ / 19124149, houdende een correctiekorting op de diergezondheidsheffing voor bepaalde varkenshouders voor 2018 (Beleidsregel correctiekorting diergezondheidsheffing varkenshouders 2018)

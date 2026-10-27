@@ -9,7 +9,7 @@ laatste_update: 2019-06-13
 status: geldig
 toestand: 2019-06-13
 bron: "https://wetten.overheid.nl/BWBR0042285"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 3 juni 2019, kenmerk 1525326-190188-Z, houdende Nadere aanwijzing van de besteedbare middelen ter dekking van de beheerskosten Wlz 2019 (Nadere aanwijzing besteedbare middelen beheerskosten Wlz 2019)

@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0042891"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Minister voor Medische Zorg van 27 november 2019, kenmerk 1596133-197192-CZ, houdende regels voor het verstrekken van subsidie voor het verrichten van kunstmatige inseminatie met donorsemen indien dit niet ten laste van de zorgverzekering kan worden gebracht (Subsidieregeling kunstmatige inseminatie met donorsemen)

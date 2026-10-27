@@ -9,7 +9,7 @@ laatste_update: 2026-03-06
 status: geldig
 toestand: 2026-03-06
 bron: "https://wetten.overheid.nl/BWBR0042578"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Regeling van De Nederlandsche Bank N.V. van 23 september 2019, houdende regels met betrekking tot de implementatie en invoering van specifieke bepalingen en opties en discreties uit de richtlijn en verordening kapitaalvereisten (Regeling specifieke bepalingen CRD en CRR 2019)

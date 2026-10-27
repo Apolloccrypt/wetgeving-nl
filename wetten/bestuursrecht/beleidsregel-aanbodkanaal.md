@@ -9,7 +9,7 @@ laatste_update: 2019-10-01
 status: geldig
 toestand: 2019-10-01
 bron: "https://wetten.overheid.nl/BWBR0042172"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Beleidsregel van de Minister voor Basis- en Voortgezet Onderwijs en Media van 25 april 2019, nr. WJZ/7965679(8176), houdende uitleg van het begrip aanbodkanaal in het kader van het besluit over instemming, bedoeld in de artikelen 2.21, derde lid, en 2.60m, derde lid, Mediawet 2008 (Beleidsregel aanbodkanaal)

@@ -9,7 +9,7 @@ laatste_update: 2019-10-22
 status: geldig
 toestand: 2019-10-22
 bron: "https://wetten.overheid.nl/BWBR0042684"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Besluit van 4 oktober 2019 tot wijziging van het Besluit uitvoering EU-verordeningen financiële markten in verband met de implementatie van Verordening (EU) nr. 2019/834 van het Europees Parlement en de Raad van 20 mei 2019 tot wijziging van de Verordening (EU) nr. 648/2012 wat betreft de clearingverplichting, de opschorting van de clearingverplichting, de rapportagevereisten, de risicolimiteringstechnieken voor otc‑derivatencontracten die niet door een centrale tegenpartij worden gecleard, de registratie van en het toezicht op transactieregisters en de vereisten voor transactieregisters (PbEU 2019, L 141) (Besluit implementatie wijzigingsverordening EMIR)

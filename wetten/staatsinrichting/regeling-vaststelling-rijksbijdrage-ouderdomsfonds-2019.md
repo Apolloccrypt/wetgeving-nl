@@ -9,7 +9,7 @@ laatste_update: 2019-05-22
 status: geldig
 toestand: 2019-05-22
 bron: "https://wetten.overheid.nl/BWBR0042222"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 14 mei 2019, nr. 2019-0000059525, tot vaststelling van de rijksbijdrage voor het Ouderdomsfonds voor het jaar 2019

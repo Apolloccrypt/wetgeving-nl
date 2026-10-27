@@ -9,7 +9,7 @@ laatste_update: 2019-12-20
 status: geldig
 toestand: 2019-12-20
 bron: "https://wetten.overheid.nl/BWBR0042911"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 21 november 2019, nr. 17731306, tot wijziging van de Subsidieregeling cultuurbegeleider primair en speciaal onderwijs in verband met indexatie van de subsidiebedragen voor vervangingskosten van leraren

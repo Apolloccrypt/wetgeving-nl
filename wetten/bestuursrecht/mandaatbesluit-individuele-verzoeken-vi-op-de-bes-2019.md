@@ -9,7 +9,7 @@ laatste_update: 2019-10-18
 status: geldig
 toestand: 2019-10-18
 bron: "https://wetten.overheid.nl/BWBR0042647"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 8 oktober 2019 (kenmerk: 2703930/19/DP&O), houdende verlening van mandaat met betrekking tot de bevoegdheid om te besluiten op individuele verzoeken tot voorwaardelijke invrijheidstelling op de BES (Mandaatbesluit individuele verzoeken VI op de BES 2019)

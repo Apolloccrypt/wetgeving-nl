@@ -9,7 +9,7 @@ laatste_update: 2019-11-11
 status: geldig
 toestand: 2019-11-11
 bron: "https://wetten.overheid.nl/BWBR0042757"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Besluit van 1 november 2019 nr.2019002307, houdende enkele tijdelijke voorzieningen voor de periode dat minister drs. K.H. Ollongren niet in staat is haar taken als Minister van Binnenlandse Zaken en Koninkrijksrelaties en Vice-Minister-President uit te oefenen

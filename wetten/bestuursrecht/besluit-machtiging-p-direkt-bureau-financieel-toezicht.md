@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-04-14
 toestand: 2026-03-03
 bron: "https://wetten.overheid.nl/BWBR0042208"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Directeur van het Bureau Financieel Toezicht van 11 december 2018, tot het verlenen van machtiging aan P-Direkt

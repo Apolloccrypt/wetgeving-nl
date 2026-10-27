@@ -9,7 +9,7 @@ laatste_update: 2019-05-01
 status: geldig
 toestand: 2019-05-01
 bron: "https://wetten.overheid.nl/BWBR0042109"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van 8 april 2019 tot wijziging van het Vreemdelingenbesluit 2000, in verband met de aanpassing van enkele regels voor de beoordeling van verblijfsaanvragen

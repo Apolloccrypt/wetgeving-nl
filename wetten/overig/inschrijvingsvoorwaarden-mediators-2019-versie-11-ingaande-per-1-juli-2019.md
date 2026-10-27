@@ -8,7 +8,7 @@ laatste_update: 2019-06-26
 status: geldig
 toestand: 2019-06-26
 bron: "https://wetten.overheid.nl/BWBR0042337"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Inschrijvingsvoorwaarden mediators 2019, versie 1.1 (ingaande per 1 juli 2019)

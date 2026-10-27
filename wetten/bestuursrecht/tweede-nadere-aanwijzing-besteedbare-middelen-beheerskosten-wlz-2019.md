@@ -9,7 +9,7 @@ laatste_update: 2019-12-03
 status: geldig
 toestand: 2019-12-03
 bron: "https://wetten.overheid.nl/BWBR0042834"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 22 november 2019, kenmerk 1596789-197231-Z, houdende vaststelling van een tweede nadere aanwijzing van de besteedbare middelen ter dekking van de beheerskosten Wlz 2019

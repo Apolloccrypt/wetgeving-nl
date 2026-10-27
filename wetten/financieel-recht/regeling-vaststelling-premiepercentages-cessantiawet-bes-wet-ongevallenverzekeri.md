@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0042779"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 11 november 2019, 2019-0000138675, tot Regeling tot vaststelling van de premiepercentages van de Cessantiawet BES, de Wet ongevallenverzekering BES en de Wet ziekteverzekering BES

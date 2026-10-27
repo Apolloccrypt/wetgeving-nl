@@ -9,7 +9,7 @@ laatste_update: 2019-06-01
 status: geldig
 toestand: 2019-06-01
 bron: "https://wetten.overheid.nl/BWBR0042178"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 25 april 2019, nr. Min-Buza.2019.3834-38 houdende instelling van een Expertgroep inzake politieke steun aan interstatelijk geweld en inzake humanitaire interventie

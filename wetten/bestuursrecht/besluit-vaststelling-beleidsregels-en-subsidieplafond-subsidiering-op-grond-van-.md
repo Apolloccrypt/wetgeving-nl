@@ -9,7 +9,7 @@ laatste_update: 2021-10-23
 status: geldig
 toestand: 2021-10-23
 bron: "https://wetten.overheid.nl/BWBR0042097"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 29 maart 2019, Min-BuZa.2019.3184-25, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieprogramma SDG Results: Access to renewable energy)

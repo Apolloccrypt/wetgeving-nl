@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0042559"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 13 september 2019, nr. WJZ/ 18250526, houdende regels omtrent het verstrekken van gegevens en inlichtingen door de Autoriteit Consument en Markt en het intrekken van de Regeling gegevensverstrekking ACM (Regeling gegevensverstrekking ACM 2019)

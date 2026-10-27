@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0042074"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Wet van 20 maart 2019 tot wijziging van het Burgerlijk Wetboek en het Wetboek van Burgerlijke Rechtsvordering teneinde de afwikkeling van massaschade in een collectieve actie mogelijk te maken (Wet afwikkeling massaschade in collectieve actie)

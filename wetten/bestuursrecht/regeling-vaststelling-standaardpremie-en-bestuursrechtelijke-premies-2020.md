@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0042806"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Minister voor Medische Zorg van 19 november 2019, kenmerk 1595061-197094-Z, houdende vaststelling van de standaardpremie en de bestuursrechtelijke premies voor 2020 (Regeling vaststelling standaardpremie en bestuursrechtelijke premies 2020)

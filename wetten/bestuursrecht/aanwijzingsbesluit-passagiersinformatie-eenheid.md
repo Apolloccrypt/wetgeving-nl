@@ -9,7 +9,7 @@ laatste_update: 2019-06-18
 status: geldig
 toestand: 2019-06-18
 bron: "https://wetten.overheid.nl/BWBR0042358"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 19 juni 2019, nr. 2624961, houdende aanwijzing van de Koninklijke marechaussee als instantie waar de Passagiersinformatie-eenheid wordt ondergebracht (Aanwijzingsbesluit Passagiersinformatie-eenheid)

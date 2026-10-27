@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0042934"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Wet van 18 december 2019 tot wijziging van de Wet op de vennootschapsbelasting 1969, de Wet inkomstenbelasting 2001 en de Wet op de dividendbelasting 1965 in verband met de implementatie van Richtlijn (EU) 2017/952 van de Raad van 29 mei 2017 tot wijziging van Richtlijn (EU) 2016/1164 wat betreft hybridemismatches met derde landen (PbEU 2017, L 144/1) (Wet implementatie tweede EU-richtlijn antibelastingontwijking)

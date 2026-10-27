@@ -8,7 +8,7 @@ laatste_update: 2019-12-06
 status: geldig
 toestand: 2019-12-06
 bron: "https://wetten.overheid.nl/BWBR0042850"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Besluit beperkingen openbaarheid KNAW

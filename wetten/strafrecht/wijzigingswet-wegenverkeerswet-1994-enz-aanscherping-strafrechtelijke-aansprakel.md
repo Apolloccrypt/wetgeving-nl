@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0042766"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Wet van 6 november 2019 tot wijziging van de Wegenverkeerswet 1994 en het Wetboek van Strafrecht in verband met strafbaarstelling van zeer gevaarlijk rijgedrag en verhoging van de strafmaxima van enkele ernstige verkeersdelicten met het oog op versterking van de verkeershandhaving (aanscherping strafrechtelijke aansprakelijkheid ernstige verkeersdelicten)

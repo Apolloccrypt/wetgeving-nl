@@ -9,7 +9,7 @@ laatste_update: 2019-10-11
 status: geldig
 toestand: 2019-10-11
 bron: "https://wetten.overheid.nl/BWBR0042630"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid d.d. 13 september 2019 kenmerk 2543384, houdende beperking van de openbaarheid van het archief van het Gratiebeleid en uitvoering van het Ministerie van Justitie (1827) 1947–1988 (1999)

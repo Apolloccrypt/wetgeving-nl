@@ -9,7 +9,7 @@ laatste_update: 2019-07-01
 status: geldig
 toestand: 2019-07-01
 bron: "https://wetten.overheid.nl/BWBR0042274"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Beleidsregel van de Minister van Infrastructuur en Waterstaat, van 5 juni 2019, nr. IENW/BSK-2019/122815, houdende vaststelling van regels voor experimenten in het kader van vergaand geautomatiseerd varen op de territoriale zee (Beleidsregel experimenten vergaand geautomatiseerd varen territoriale zee)

@@ -9,7 +9,7 @@ laatste_update: 2020-11-18
 status: geldig
 toestand: 2020-11-18
 bron: "https://wetten.overheid.nl/BWBR0042108"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 1 april 2019, nr. 2387622, tot vaststelling van beleidsregels op het gebied van particuliere beveiligingsorganisaties en recherchebureaus 2019 (Beleidsregels particuliere beveiligingsorganisaties en recherchebureaus 2019)

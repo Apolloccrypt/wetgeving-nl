@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0042394"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Wet van 2 juli 2019, houdende een kader voor het ontwikkelen van beleid gericht op onomkeerbaar en stapsgewijs terugdringen van de Nederlandse emissies van broeikasgassen teneinde wereldwijde opwarming van de aarde en de verandering van het klimaat te beperken (Klimaatwet)

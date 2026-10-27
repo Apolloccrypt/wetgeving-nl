@@ -9,7 +9,7 @@ laatste_update: 2019-11-14
 status: geldig
 toestand: 2019-11-14
 bron: "https://wetten.overheid.nl/BWBR0042642"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Wet van 2 oktober 2019 tot wijziging van de Wet milieubeheer ten behoeve van de implementatie van Richtlijn (EU) 2018/410 van het Europees Parlement en de Raad van 14 maart 2018 tot wijziging van Richtlijn 2003/87/EG ter bevordering van kosteneffectieve emissiereducties en koolstofarme investeringen en van Besluit (EU) 2015/1814 (PbEU L 76)

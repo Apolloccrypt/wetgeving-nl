@@ -9,7 +9,7 @@ laatste_update: 2025-11-01
 status: geldig
 toestand: 2025-11-01
 bron: "https://wetten.overheid.nl/BWBR0042315"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 18 juni 2019, nr. 2624966, houdende de aanwijzing van de SIS II-databank als databank waarmee de Passagiersinformatie-eenheid de passagiersgegevens bevoegd is te vergelijken in de zin van artikel 6, tweede lid, onderdeel a, van de Wet gebruik van passagiersgegevens voor de bestrijding van terroristische en ernstige misdrijven

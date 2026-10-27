@@ -9,7 +9,7 @@ laatste_update: 2019-07-21
 status: geldig
 toestand: 2019-07-21
 bron: "https://wetten.overheid.nl/BWBR0042425"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 5 juli 2019, nr. 8fe5737c-0r1-2.0, houdende vaststelling van beleidsregels met betrekking tot de uitvoering van de Wet veiligheidsonderzoeken (Beleidsregel artikel 13 Wet veiligheidsonderzoeken)

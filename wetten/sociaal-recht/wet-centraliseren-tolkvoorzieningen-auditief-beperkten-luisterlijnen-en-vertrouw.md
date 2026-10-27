@@ -9,7 +9,7 @@ laatste_update: 2019-07-01
 status: geldig
 toestand: 2019-07-01
 bron: "https://wetten.overheid.nl/BWBR0042316"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Wet van 22 mei 2019 tot wijziging van de Participatiewet, de Wet maatschappelijke ondersteuning 2015 en de Jeugdwet in verband met het centraliseren van tolkvoorzieningen ten behoeve van de ondersteuning bij de arbeidsinschakeling en de deelname aan het maatschappelijk verkeer van personen met een auditieve beperking, van de luisterlijnen voor volwassenen en jeugdigen en van het vertrouwenswerk jeugd (Wet centraliseren tolkvoorzieningen auditief beperkten leef- en werkdomein, luisterlijnen en vertrouwenswerk jeugd)

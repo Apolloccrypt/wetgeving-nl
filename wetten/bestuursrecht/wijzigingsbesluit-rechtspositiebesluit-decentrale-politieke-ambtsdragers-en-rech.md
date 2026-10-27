@@ -9,7 +9,7 @@ laatste_update: 2019-12-01
 status: geldig
 toestand: 2019-12-01
 bron: "https://wetten.overheid.nl/BWBR0042417"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van 5 juli 2019, houdende wijziging van het Rechtspositiebesluit decentrale politieke ambtsdragers in verband met de verhoging van de vergoeding voor de werkzaamheden van raadsleden en de bezoldiging van de zittende burgemeester na afloop van de periode van opclassificatie van een gemeente, alsmede nadere wijziging van het Rechtspositiebesluit Rijksvertegenwoordiger BES in verband met de harmonisatie van de rechtspositie van decentrale politieke ambtsdragers

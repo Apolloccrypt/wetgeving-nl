@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0042618"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Minister van Financiën van 30 september 2019, 2019-0000158813, directie Financiële Markten, tot wijziging van de Uitvoeringsregeling Wft in verband met het invoeren van een maximum kredietvergoedingspercentage bij het via internet aanbieden van flitskredieten door in andere lidstaten gevestigde financiële ondernemingen aan consumenten in Nederland (Regeling aanpak flitskrediet)

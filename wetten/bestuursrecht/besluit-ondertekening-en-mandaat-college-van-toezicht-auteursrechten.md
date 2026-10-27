@@ -8,7 +8,7 @@ laatste_update: 2019-04-27
 status: geldig
 toestand: 2019-04-27
 bron: "https://wetten.overheid.nl/BWBR0042157"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit ondertekening en mandaat College van Toezicht Auteursrechten

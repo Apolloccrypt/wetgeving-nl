@@ -8,7 +8,7 @@ laatste_update: 2019-05-21
 status: geldig
 toestand: 2019-05-21
 bron: "https://wetten.overheid.nl/BWBR0042220"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Protocol Accountantsonderzoek CAK Bestuurlijke verantwoording 2018

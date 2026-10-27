@@ -9,7 +9,7 @@ laatste_update: 2019-07-21
 status: geldig
 toestand: 2019-07-21
 bron: "https://wetten.overheid.nl/BWBR0042353"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van 14 juni 2019 tot wijziging van het Besluit bestuurlijke boetes financiële sector, het Besluit Gedragstoezicht financiële ondernemingen Wft, het Besluit transparantie uitgevende instellingen Wft, het Besluit uitvoering EU-verordeningen financiële markten en het Vrijstellingsbesluit overnamebiedingen Wft in verband met de implementatie van Verordening (EU) nr. 2017/1129 van het Europees Parlement en de Raad van 14 juni 2017 betreffende het prospectus dat moet worden gepubliceerd wanneer effecten aan het publiek worden aangeboden of tot de handel op een gereglementeerde markt worden toegelaten en tot intrekking van Richtlijn 2003/71/EG (PbEU 2017, L 168) (Besluit implementatie prospectusverordening)

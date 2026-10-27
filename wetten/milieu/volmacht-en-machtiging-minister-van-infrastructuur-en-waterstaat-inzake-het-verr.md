@@ -9,7 +9,7 @@ laatste_update: 2019-05-08
 status: geldig
 toestand: 2019-05-08
 bron: "https://wetten.overheid.nl/BWBR0042187"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Volmacht en machtiging van de Minister van Economische Zaken en Klimaat van 26 april 2019, nr. WJZ/ 19092461, aan de Minister van Infrastructuur en Waterstaat inzake het verrichten van rechtshandelingen en overige handelingen die verband houden met inkoop(gerelateerde) taken ten behoeve van de Nederlandse Emissieautoriteit (Volmacht en machtiging Minister van Infrastructuur en Waterstaat inzake het verrichten van rechtshandelingen en overige handelingen die verband houden met inkoop (gerelateerde) taken ten behoeve van de Nederlandse Emissieautoriteit)

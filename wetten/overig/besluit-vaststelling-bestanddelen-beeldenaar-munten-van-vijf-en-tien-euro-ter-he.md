@@ -9,7 +9,7 @@ laatste_update: 2019-12-29
 status: geldig
 toestand: 2019-12-29
 bron: "https://wetten.overheid.nl/BWBR0042857"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Besluit van 21 november 2019, houdende vaststelling van de bestanddelen van de beeldenaar van de munten van vijf en tien euro die in 2019 worden uitgegeven ter herdenking van Jaap Eden in de serie Nederlandse Sporticonen

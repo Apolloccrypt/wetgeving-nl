@@ -9,7 +9,7 @@ laatste_update: 2019-12-14
 status: geldig
 toestand: 2019-12-14
 bron: "https://wetten.overheid.nl/BWBR0042828"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Minister voor Medische Zorg van 21 november 2019, 1609688-198450-VGP, houdende vaststelling van regels in verband met de uitvoering van Verordening (EU) 2017/625 en tot wijziging en intrekking van enkele Warenwetregelingen (Warenwetregeling uitvoering verordening officiële controles en andere officiële activiteiten)

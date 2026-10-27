@@ -8,7 +8,7 @@ laatste_update: 2019-05-09
 status: geldig
 toestand: 2019-05-09
 bron: "https://wetten.overheid.nl/BWBR0042188"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Regeling Cliëntenparticipatie SVB 2019

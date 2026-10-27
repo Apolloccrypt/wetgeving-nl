@@ -8,7 +8,7 @@ laatste_update: 2019-06-25
 status: geldig
 toestand: 2019-06-25
 bron: "https://wetten.overheid.nl/BWBR0042322"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Mandaatregeling TNO 2019

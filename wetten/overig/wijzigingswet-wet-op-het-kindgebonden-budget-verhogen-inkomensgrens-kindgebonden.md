@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0042770"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Wet van 10 juli 2019 tot wijziging van de Wet op het kindgebonden budget in verband met het verhogen van de inkomensgrens van het kindgebonden budget voor paren

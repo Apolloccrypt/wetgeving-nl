@@ -9,7 +9,7 @@ laatste_update: 2019-05-01
 status: geldig
 toestand: 2019-05-01
 bron: "https://wetten.overheid.nl/BWBR0042130"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 15 april 2019, nr. IENW/BSK-2019/60784, houdende vaststelling van regels voor subsidiëring van het inwinnen van extern advies over maatschappelijk verantwoord inkopen door aanbestedingsplichtige organisaties (Subsidieregeling advies bij klimaatneutraal en circulair inkopen)

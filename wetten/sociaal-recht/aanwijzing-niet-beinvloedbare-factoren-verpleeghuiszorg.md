@@ -9,7 +9,7 @@ laatste_update: 2019-09-01
 status: geldig
 toestand: 2019-09-01
 bron: "https://wetten.overheid.nl/BWBR0042413"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 5 juli 2019, kenmerk 1546308-192510-PZO, op grond van artikel 7 van de Wet marktordening gezondheidzorg inzake niet-beïnvloedbare factoren bij verzuim van zorgpersoneel in de verpleeghuiszorg

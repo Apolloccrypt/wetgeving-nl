@@ -9,7 +9,7 @@ laatste_update: 2019-04-02
 status: geldig
 toestand: 2019-04-02
 bron: "https://wetten.overheid.nl/BWBR0042082"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de directeur van Kiwa CBS B.V. van 22 maart 2019, houdende verlening van ondermandaat, volmacht en machtiging voor Kiwa CBS B.V. (Besluit ondermandaat, volmacht en machtiging Kiwa CBS B.V. 2019)

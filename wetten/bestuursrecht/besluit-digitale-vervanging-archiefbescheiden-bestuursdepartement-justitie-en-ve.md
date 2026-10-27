@@ -9,7 +9,7 @@ laatste_update: 2019-07-31
 status: geldig
 toestand: 2019-07-31
 bron: "https://wetten.overheid.nl/BWBR0042473"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 18 juli 2019, kenmerk 2583709 betreffende de digitale vervanging van archiefbescheiden van het bestuursdepartement van het Ministerie van Justitie en Veiligheid (Besluit digitale vervanging archiefbescheiden bestuursdepartement Justitie en Veiligheid 2019)

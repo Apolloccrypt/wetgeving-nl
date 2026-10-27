@@ -9,7 +9,7 @@ laatste_update: 2019-04-27
 status: geldig
 toestand: 2019-04-27
 bron: "https://wetten.overheid.nl/BWBR0042150"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 16 april 2019, nr. VO/7950998, houdende regels voor onvoorziene gevallen bij invoering vereenvoudiging bekostiging VO 2018 (Regeling onvoorziene gevallen bij invoering vereenvoudiging bekostiging VO 2018)

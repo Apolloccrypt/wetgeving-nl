@@ -9,7 +9,7 @@ laatste_update: 2024-08-01
 status: geldig
 toestand: 2024-08-01
 bron: "https://wetten.overheid.nl/BWBR0042056"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister voor Basis- en Voortgezet Onderwijs en Media, van 12 februari 2019, nr. 5252180, tot intrekking van waarderingskaders onder vaststelling van beleidsregels houdende Onderzoekskaders 2019

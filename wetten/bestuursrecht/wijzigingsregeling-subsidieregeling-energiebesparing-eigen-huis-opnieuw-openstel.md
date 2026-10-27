@@ -9,7 +9,7 @@ laatste_update: 2019-09-02
 status: geldig
 toestand: 2019-09-02
 bron: "https://wetten.overheid.nl/BWBR0042493"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 13 augustus 2019, nr. 2019-0000390399, tot wijziging van de Subsidieregeling energiebesparing eigen huis in verband met het opnieuw openstellen van de subsidie voor eigenaar-bewoners

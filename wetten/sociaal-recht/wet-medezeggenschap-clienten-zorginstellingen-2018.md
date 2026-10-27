@@ -9,7 +9,7 @@ laatste_update: 2025-07-05
 status: geldig
 toestand: 2025-07-05
 bron: "https://wetten.overheid.nl/BWBR0042294"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Wet van 22 mei 2019, houdende nieuwe bepalingen met betrekking tot de medezeggenschap van cliënten in zorginstellingen (Wet medezeggenschap cliënten zorginstellingen 2018)

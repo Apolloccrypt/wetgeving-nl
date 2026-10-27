@@ -9,7 +9,7 @@ laatste_update: 2019-10-01
 status: geldig
 toestand: 2019-10-01
 bron: "https://wetten.overheid.nl/BWBR0042384"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van 1 juli 2019, houdende regels inzake het gebruik van het burgerservicenummer door de stichting Slachtofferhulp Nederland (Besluit gebruik burgerservicenummer door Slachtofferhulp Nederland)

@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0042170"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de raad van bestuur van de kansspelautoriteit van 26 september 2017, kenmerk 10339, inzake de verlening van een vergunning tot het organiseren van een gelegenheid als bedoeld in artikel 3 van de Wet op de kansspelen

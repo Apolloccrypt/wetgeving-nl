@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0042882"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Minister voor Milieu en Wonen van 12 december 2019, nr. IENW/BSK-2019/235039, houdende regelen ter uitvoering van Verordening (EU) 2019/1021 betreffende persistente organische verontreinigende stoffen (Uitvoeringsregeling EU-verordening persistente organische verontreinigende stoffen)

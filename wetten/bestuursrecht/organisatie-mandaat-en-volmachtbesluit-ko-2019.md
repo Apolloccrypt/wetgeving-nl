@@ -9,7 +9,7 @@ laatste_update: 2023-09-19
 status: geldig
 toestand: 2023-09-19
 bron: "https://wetten.overheid.nl/BWBR0042440"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 15 juli 2019, nr. 2019-0000097652, houdende de inrichting van de directie Kinderopvang, alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Kinderopvang (Organisatie-, mandaat- en volmachtbesluit KO 2019)

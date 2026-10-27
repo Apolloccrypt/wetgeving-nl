@@ -8,7 +8,7 @@ laatste_update: 2019-09-20
 status: geldig
 toestand: 2019-09-20
 bron: "https://wetten.overheid.nl/BWBR0042562"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Vervangingsbesluit Donor archief 1998–2010 CIBG

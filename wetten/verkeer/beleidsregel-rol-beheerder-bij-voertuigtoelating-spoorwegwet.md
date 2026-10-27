@@ -9,7 +9,7 @@ laatste_update: 2019-08-07
 status: geldig
 toestand: 2019-08-07
 bron: "https://wetten.overheid.nl/BWBR0042483"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Beleidsregel van de Staatssecretaris van Infrastructuur en Waterstaat, van 30 juli 2019, nr. ILT- 2019/41462 over de rol van de beheerder bij de beoordeling van de infrastructuurcompatibiliteit in het kader van de toelating van spoorvoertuigen (Beleidsregel rol beheerder bij voertuigtoelating Spoorwegwet)

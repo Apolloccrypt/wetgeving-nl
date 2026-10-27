@@ -9,7 +9,7 @@ laatste_update: 2019-06-06
 status: geldig
 toestand: 2019-06-06
 bron: "https://wetten.overheid.nl/BWBR0042267"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 27 mei 2019, nr. MinBuZa.2019.3926-31, houdende nadere vaststelling van de onderzoekstaak van de directie Internationaal Onderzoek en Beleidsevaluatie

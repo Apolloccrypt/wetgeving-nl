@@ -9,7 +9,7 @@ laatste_update: 2023-09-02
 status: geldig
 toestand: 2023-09-02
 bron: "https://wetten.overheid.nl/BWBR0042738"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 31 oktober 2019, kenmerk 1604138-181029-WJZ, houdende nadere regels op grond van de Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten (Regeling zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten)

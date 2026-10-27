@@ -9,7 +9,7 @@ laatste_update: 2019-05-01
 status: geldig
 toestand: 2019-05-01
 bron: "https://wetten.overheid.nl/BWBR0042166"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 24 april 2019, nr. 2018-0000176423, houdende regels voor het verstrekken van subsidie ten behoeve van subsidieonderzoek IPS voor common mental disorders (Subsidieregeling onderzoek IPS voor CMD)

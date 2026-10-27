@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0042476"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Regeling van het College voor Toetsen en Examens van 24 juni 2019, nummer CvTE-19.00779, houdende vaststelling van de syllabi voor de centrale examens in het vwo, havo en vmbo ten behoeve van het examenjaar 2021, nadere vaststelling van enkele eerder vastgestelde syllabi ten behoeve van de examenjaren 2020, tevens preliminaire vaststelling van enkele syllabi ten behoeve van de examenjaren 2022 en 2023 (Regeling syllabi centrale examens vo 2021)

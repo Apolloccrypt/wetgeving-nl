@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0042053"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Wet van 13 maart 2019 tot wijzing van de Wet op de huurtoeslag in verband met het laten vervallen van de bepaling dat de eigen bijdrage in de huurtoeslag wordt geïndexeerd met het percentage van de netto-bijstandsontwikkeling indien dat percentage lager is dan het percentage van de huurprijsontwikkeling en van de maximale inkomensgrenzen vanaf welke geen huurtoeslag wordt toegekend (Wet aanpassing indexering eigen bijdrage huurtoeslag en het vervallen van de maximale inkomensgrenzen)

@@ -8,7 +8,7 @@ laatste_update: 2019-04-28
 status: geldig
 toestand: 2019-04-28
 bron: "https://wetten.overheid.nl/BWBR0042149"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit vaststelling Selectielijst beroepsvereniging Verpleegkundigen en Verzorgenden Nederland (V&VN) en rechtsvoorganger vanaf 2009

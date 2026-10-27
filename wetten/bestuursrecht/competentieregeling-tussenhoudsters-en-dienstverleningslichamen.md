@@ -8,7 +8,7 @@ laatste_update: 2019-07-20
 status: geldig
 toestand: 2019-07-20
 bron: "https://wetten.overheid.nl/BWBR0042427"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Competentieregeling (tussen)houdsters en dienstverleningslichamen

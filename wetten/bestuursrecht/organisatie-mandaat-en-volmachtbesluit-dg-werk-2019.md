@@ -9,7 +9,7 @@ laatste_update: 2026-02-19
 status: geldig
 toestand: 2026-02-19
 bron: "https://wetten.overheid.nl/BWBR0042435"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 15 juli 2019, nr. 2019-0000097657, houdende toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan onder de directeur-generaal Werk ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit DG Werk 2019)

@@ -9,7 +9,7 @@ laatste_update: 2019-06-22
 status: geldig
 toestand: 2019-06-22
 bron: "https://wetten.overheid.nl/BWBR0042310"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 11 juni 2019, nr. 2575852, houdende instelling van de Commissie Telefonie Justitiabelen [Instellingsbesluit Commissie Telefonie voor Justitiabelen]

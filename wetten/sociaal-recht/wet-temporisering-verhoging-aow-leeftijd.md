@@ -9,7 +9,7 @@ laatste_update: 2023-07-01
 status: geldig
 toestand: 2023-07-01
 bron: "https://wetten.overheid.nl/BWBR0042381"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Wet van 3 juli 2019 tot wijziging van de Algemene Ouderdomswet, de Wet op de loonbelasting 1964, de Wet verhoging AOW- en pensioenrichtleeftijd, de Wet versnelling stapsgewijze verhoging AOW-leeftijd en de Wet tegemoetkomingen loondomein in verband met temporisering van de stapsgewijze verhoging van de AOW-leeftijd (Wet temporisering verhoging AOW-leeftijd)

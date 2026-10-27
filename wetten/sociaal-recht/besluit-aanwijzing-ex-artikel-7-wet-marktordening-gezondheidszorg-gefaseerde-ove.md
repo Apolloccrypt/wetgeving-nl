@@ -9,7 +9,7 @@ laatste_update: 2019-09-01
 status: geldig
 toestand: 2019-09-01
 bron: "https://wetten.overheid.nl/BWBR0042399"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Aanwijzing van de Minister voor Medische Zorg van 3 juli 2019, kenmerk 1549124-192760-PZO, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake de gefaseerde overheveling van de geneeskundige zorg voor specifieke patiëntgroepen

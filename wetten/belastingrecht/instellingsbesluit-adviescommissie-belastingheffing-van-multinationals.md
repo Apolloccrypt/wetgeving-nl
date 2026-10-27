@@ -9,7 +9,7 @@ laatste_update: 2019-09-13
 status: geldig
 toestand: 2019-09-13
 bron: "https://wetten.overheid.nl/BWBR0042538"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Staatssecretaris van Financiën van 9 september 2019, nr. 2019-0000149369, houdende instelling van de Adviescommissie belastingheffing van multinationals

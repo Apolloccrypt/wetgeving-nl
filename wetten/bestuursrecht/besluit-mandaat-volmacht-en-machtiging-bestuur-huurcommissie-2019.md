@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2025-12-02
 toestand: 2024-09-17
 bron: "https://wetten.overheid.nl/BWBR0042105"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties, van 14 maart 2019, nr. MA/2019-059/UP, houdende de verlening van mandaat, volmacht en machtiging aan het bestuur van de huurcommissie ten aanzien van de administratieve ondersteuning van de huurcommissie (Besluit mandaat, volmacht en machtiging bestuur huurcommissie 2019)

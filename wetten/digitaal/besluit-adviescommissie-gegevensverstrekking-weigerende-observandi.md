@@ -9,7 +9,7 @@ laatste_update: 2019-11-28
 status: geldig
 toestand: 2019-11-28
 bron: "https://wetten.overheid.nl/BWBR0042811"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Besluit van 19 november 2019, houdende vaststelling van het Besluit adviescommissie gegevensverstrekking weigerende observandi

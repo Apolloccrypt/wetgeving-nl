@@ -9,7 +9,7 @@ laatste_update: 2020-07-01
 status: geldig
 toestand: 2020-07-01
 bron: "https://wetten.overheid.nl/BWBR0042797"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Besluit van 11 november 2019, houdende vaststelling van de massagrenzen waar beneden een platina, gouden of zilveren voorwerp niet gewaarborgd behoeft te worden (Waarborgbesluit 2019)

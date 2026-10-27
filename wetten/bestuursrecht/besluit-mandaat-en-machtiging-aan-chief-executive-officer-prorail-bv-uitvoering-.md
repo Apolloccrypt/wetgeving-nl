@@ -9,7 +9,7 @@ laatste_update: 2019-07-30
 status: geldig
 toestand: 2019-07-30
 bron: "https://wetten.overheid.nl/BWBR0042469"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Waterstaat, van 18 juli 2019, nr. IENW/BSK-2019/136513, houdende verlening van mandaat en machtiging aan de Chief Executive Officer van ProRail B.V. voor de uitvoering van de Tijdelijke subsidieregeling stimulering goederenvervoer per spoor

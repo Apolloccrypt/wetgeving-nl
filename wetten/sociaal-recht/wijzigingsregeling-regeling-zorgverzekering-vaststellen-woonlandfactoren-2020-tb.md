@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0042702"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Minister voor Medische Zorg van 18 oktober 2019, kenmerk 1594729-197076-Z, houdende wijziging van de Regeling zorgverzekering in verband met het vaststellen van de woonlandfactoren voor het jaar 2020 ten behoeve van de gedifferentieerde berekening van de bijdrage voor verdragsgerechtigden

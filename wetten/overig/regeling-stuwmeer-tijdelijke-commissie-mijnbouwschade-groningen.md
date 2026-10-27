@@ -9,7 +9,7 @@ laatste_update: 2019-07-05
 status: geldig
 toestand: 2019-07-05
 bron: "https://wetten.overheid.nl/BWBR0042372"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat van 3 juli 2019, nr. WJZ/ 19151179, houdende maatregelen aanpak stuwmeer schademeldingen Tijdelijke Commissie Mijnbouwschade Groningen (Regeling Stuwmeer TCMG)

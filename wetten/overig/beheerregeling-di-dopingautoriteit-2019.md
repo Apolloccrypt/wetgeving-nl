@@ -9,7 +9,7 @@ laatste_update: 2019-04-12
 status: geldig
 toestand: 2019-04-12
 bron: "https://wetten.overheid.nl/BWBR0042176"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Regeling van het bestuur van de Dopingautoriteit van 1 januari 2019, houdende de beheersregels voor documentaire informatie (Beheerregeling DI Dopingautoriteit 2019)

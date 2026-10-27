@@ -9,7 +9,7 @@ laatste_update: 2019-05-18
 status: geldig
 toestand: 2019-05-18
 bron: "https://wetten.overheid.nl/BWBR0042212"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van het Dagelijks Bestuur tot vaststelling van de vergoeding van de Bemiddelaar en adviseurs Vrijstellingsregeling Wet Bpf 2000, 15 februari 2019 (Besluit Vergoeding Bemiddelaar en adviseurs Wet Bpf 2000, 15 februari 2019)

@@ -9,7 +9,7 @@ laatste_update: 2017-07-01
 status: geldig
 toestand: 2017-07-01
 bron: "https://wetten.overheid.nl/BWBR0042478"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van 4 mei 2017 tot wijziging van het Besluit Gedragstoezicht financiële ondernemingen Wft, het Besluit prudentiële regels Wft, het Besluit ter voorkoming van witwassen en financieren van terrorisme BES en het Besluit melding zeggenschap en kapitaalbelang in uitgevende instellingen Wft (Wijzigingsbesluit financiële markten 2017)

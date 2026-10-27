@@ -9,7 +9,7 @@ laatste_update: 2019-04-19
 status: geldig
 toestand: 2019-04-19
 bron: "https://wetten.overheid.nl/BWBR0042121"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van 18 april 2019, houdende het verbod op het op de markt brengen, verspreiden of het verkopen van binaire opties aan niet-professionele cliënten in verband met Verordening (EU) nr. 600/2014 van het Europees Parlement en de Raad van 15 mei 2014 en de Wet op het financieel toezicht (Verbod op binaire opties)

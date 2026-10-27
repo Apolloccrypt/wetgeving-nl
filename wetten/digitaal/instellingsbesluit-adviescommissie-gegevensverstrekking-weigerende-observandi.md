@@ -9,7 +9,7 @@ laatste_update: 2019-11-28
 status: geldig
 toestand: 2019-11-28
 bron: "https://wetten.overheid.nl/BWBR0042823"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 8 november 2019, nr. 2729205, houdende instelling van de Adviescommissie gegevensverstrekking weigerende observandi (Instellingsbesluit Adviescommissie gegevensverstrekking weigerende observandi)

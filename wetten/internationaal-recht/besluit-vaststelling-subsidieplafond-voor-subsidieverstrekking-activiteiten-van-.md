@@ -9,7 +9,7 @@ laatste_update: 2020-10-31
 status: geldig
 toestand: 2020-10-31
 bron: "https://wetten.overheid.nl/BWBR0042798"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 18 november 2019, tot vaststelling van een subsidieplafond voor subsidieverstrekking voor activiteiten van MKB-ondernemingen gericht op de bevordering van duurzaam internationaal ondernemen (Vouchers internationaal ondernemen)

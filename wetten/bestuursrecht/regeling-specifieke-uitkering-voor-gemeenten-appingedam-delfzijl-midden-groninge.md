@@ -9,7 +9,7 @@ laatste_update: 2019-06-20
 status: geldig
 toestand: 2019-06-20
 bron: "https://wetten.overheid.nl/BWBR0042306"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat van 17 juni 2019, nr. WJZ/19138916, houdende een specifieke uitkering voor de gemeenten Appingedam, Delfzijl, Midden-Groningen en Groningen in verband met de versterking van de gebouwen in batch 1.588

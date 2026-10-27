@@ -9,7 +9,7 @@ laatste_update: 2025-07-05
 status: geldig
 toestand: 2025-07-05
 bron: "https://wetten.overheid.nl/BWBR0042895"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Wet van 4 december 2019 tot wijziging van de Wet geneesmiddelenprijzen in verband met een aanpassing van de referentielanden

@@ -9,7 +9,7 @@ laatste_update: 2019-10-01
 status: geldig
 toestand: 2019-10-01
 bron: "https://wetten.overheid.nl/BWBR0042522"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 26 augustus 2019, nr. 2019-0000122747, tot wijziging van de Regeling uitvoering Wet arbeid vreemdelingen 2014 in verband met de tewerkstelling van koks ten behoeve van de Aziatische horeca

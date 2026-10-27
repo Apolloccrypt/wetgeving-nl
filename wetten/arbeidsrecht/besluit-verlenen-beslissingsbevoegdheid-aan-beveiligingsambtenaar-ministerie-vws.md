@@ -9,7 +9,7 @@ laatste_update: 2019-05-25
 status: geldig
 toestand: 2019-05-25
 bron: "https://wetten.overheid.nl/BWBR0042238"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Secretaris-Generaal van Volksgezondheid, Welzijn en Sport van 17 mei 2019, kenmerk 1527228-190339-BPZ, houdende het verlenen van de bevoegdheid aan de Beveiligingsambtenaar van het ministerie besluiten te nemen met betrekking tot het toevoegen, verwijderen of wijzigen van functies op de lijst van vertrouwensfuncties van het ministerie

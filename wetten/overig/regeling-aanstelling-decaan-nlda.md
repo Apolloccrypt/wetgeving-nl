@@ -9,7 +9,7 @@ laatste_update: 2019-05-22
 status: geldig
 toestand: 2019-05-22
 bron: "https://wetten.overheid.nl/BWBR0042221"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Ministeriële regeling van de Staatssecretaris van Defensie van 13 mei 2019, Hoofddirectie Personeel, nr. BS/2019008294, inzake aanstelling decaan Nederlandse Defensie Academie

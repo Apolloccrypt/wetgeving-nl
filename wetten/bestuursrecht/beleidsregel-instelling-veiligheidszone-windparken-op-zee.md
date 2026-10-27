@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0042533"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat, van 16 april 2018, nr. RWS-2018/13729, houdende vaststelling van een beleidsregel voor de instelling van een veiligheidszone voor windparken op zee (Beleidsregel instelling veiligheidszone windparken op zee)

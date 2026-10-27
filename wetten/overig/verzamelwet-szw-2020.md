@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0042918"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Wet van 11 december 2019 tot wijziging van enkele wetten van het Ministerie van Sociale Zaken en Werkgelegenheid alsmede enkele wetten van andere ministeries (Verzamelwet SZW 2020)

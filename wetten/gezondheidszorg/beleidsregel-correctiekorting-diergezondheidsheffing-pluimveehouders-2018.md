@@ -9,7 +9,7 @@ laatste_update: 2019-04-24
 status: geldig
 toestand: 2019-04-24
 bron: "https://wetten.overheid.nl/BWBR0042134"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Beleidsregel van de Minister van Landbouw, Natuur en Voedselkwaliteit van 13 april 2019, nr. 19086190, houdende een correctiekorting op de diergezondheidsheffing voor bepaalde pluimveehouders voor 2018 (Beleidsregel correctiekorting diergezondheidsheffing pluimveehouders 2018)

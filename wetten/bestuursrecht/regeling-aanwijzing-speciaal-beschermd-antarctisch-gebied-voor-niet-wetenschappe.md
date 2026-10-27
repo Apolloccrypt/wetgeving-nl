@@ -9,7 +9,7 @@ laatste_update: 2019-07-01
 status: geldig
 toestand: 2019-07-01
 bron: "https://wetten.overheid.nl/BWBR0042336"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 21 juni 2019, nr. IENW/BSK-2019/129612, tot aanwijzing van speciaal beschermd Antarctisch gebied ten behoeve van niet-wetenschappelijke activiteiten met als doel het bezoeken van een historische plaats of een historisch monument

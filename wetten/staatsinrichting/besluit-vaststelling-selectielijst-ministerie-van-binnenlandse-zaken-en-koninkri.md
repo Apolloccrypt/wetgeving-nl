@@ -8,7 +8,7 @@ laatste_update: 2019-08-11
 status: geldig
 toestand: 2019-08-11
 bron: "https://wetten.overheid.nl/BWBR0042484"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit vaststelling selectielijst Ministerie van Binnenlandse Zaken en Koninkrijksrelaties vanaf 1 januari 2003

@@ -9,7 +9,7 @@ laatste_update: 2019-12-21
 status: geldig
 toestand: 2019-12-21
 bron: "https://wetten.overheid.nl/BWBR0042917"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Staatssecretaris van Financiën van 27 november 2019 tot instelling van een toetsingscommissie buitengewoon opsporingsambtenaar Belastingdienst (Instellingsbesluit toetsingscommissie buitengewoon opsporingsambtenaar Belastingdienst 2019)

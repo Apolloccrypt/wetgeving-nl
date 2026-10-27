@@ -9,7 +9,7 @@ laatste_update: 2026-04-18
 status: geldig
 toestand: 2026-04-18
 bron: "https://wetten.overheid.nl/BWBR0042181"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Nationaal Coördinator Terrorismebestrijding en Veiligheid van het Ministerie van Justitie en Veiligheid van 25 april 2019, nr. 2516833, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan onder de Nationaal Coördinator Terrorismebestrijding en Veiligheid ressorterende ambtenaren (Mandaatbesluit NCTV Ministerie van Justitie en Veiligheid 2019)

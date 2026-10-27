@@ -9,7 +9,7 @@ laatste_update: 2019-11-23
 status: geldig
 toestand: 2019-11-23
 bron: "https://wetten.overheid.nl/BWBR0042783"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Besluit vaststelling Selectielijst van de Nederlandse Transplantatie Stichting vanaf 1 januari 2019

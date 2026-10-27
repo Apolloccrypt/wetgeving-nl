@@ -9,7 +9,7 @@ laatste_update: 2019-10-23
 status: geldig
 toestand: 2019-10-23
 bron: "https://wetten.overheid.nl/BWBR0042091"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister voor Basis- en Voortgezet Onderwijs en Media van 8 maart 2019, nr. VO/1440721, houdende instelling van de Commissie beoordeling begaafdheid in het primair en voortgezet onderwijs ten behoeve van de Regeling subsidie begaafde leerlingen po en vo (Instellingsbesluit Commissie begaafdheid po en vo)

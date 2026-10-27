@@ -9,7 +9,7 @@ laatste_update: 2019-04-19
 status: geldig
 toestand: 2019-04-19
 bron: "https://wetten.overheid.nl/BWBR0042122"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van 18 april 2019, houdende beperkingen aan het op de markt brengen, verspreiden of het verkopen van contracts for differences aan niet-professionele cliënten in verband met Verordening (EU) nr. 600/2014 van het Europees Parlement en de Raad van 15 mei 2014 en de Wet op het financieel toezicht (Beperkingen aan CFD’s)

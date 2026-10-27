@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2025-12-22
 toestand: 2024-09-17
 bron: "https://wetten.overheid.nl/BWBR0042107"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van het bestuur van de huurcommissie, van 8 maart 2019, nr. MA/2019-062/UP, houdende de organisatie-inrichting van administratieve ondersteuning van de Huurcommissie aan te duiden als Dienst van de Huurcommissie (Organisatiebesluit dienst van de huurcommissie 2019)

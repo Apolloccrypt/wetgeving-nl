@@ -9,7 +9,7 @@ laatste_update: 2025-04-01
 status: geldig
 toestand: 2025-04-01
 bron: "https://wetten.overheid.nl/BWBR0042608"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Minister voor Rechtsbescherming van 23 september 2019, nr. 2699493, houdende vaststelling van de Regeling model huisregels private instellingen voor de verpleging van ter beschikking gestelden

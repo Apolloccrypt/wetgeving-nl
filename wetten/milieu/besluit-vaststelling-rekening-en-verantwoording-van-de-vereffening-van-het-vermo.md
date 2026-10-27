@@ -9,7 +9,7 @@ laatste_update: 2019-10-17
 status: geldig
 toestand: 2019-10-17
 bron: "https://wetten.overheid.nl/BWBR0042652"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 7 oktober 2019, nr. WJZ/19222267, houdende vaststelling van de rekening en verantwoording van de vereffening van het vermogen van het voormalig Bedrijfschap voor bosbouw, bosbeheer, natuurbeheer en houtteelt

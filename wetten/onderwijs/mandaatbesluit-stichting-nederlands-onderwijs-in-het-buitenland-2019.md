@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0042248"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap 23 april 2019, nr. PO/7456625, houdende de mandatering van de directeur van de Stichting Nederlands Onderwijs in het Buitenland (Mandaatbesluit Stichting Nederlands Onderwijs in het Buitenland 2019)

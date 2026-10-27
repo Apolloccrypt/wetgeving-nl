@@ -9,7 +9,7 @@ laatste_update: 2020-10-20
 status: geldig
 toestand: 2020-10-20
 bron: "https://wetten.overheid.nl/BWBR0042151"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van 26 maart 2019, houdende vaststelling van diverse decentralisatie- en integratie-uitkeringen aan gemeenten en provincies voor het uitkeringsjaar 2016 alsmede wijziging van het Besluit vaststelling decentralisatie- en integratie-uitkeringen 2015 en het Besluit decentralisatie- en integratie-uitkeringen (Besluit vaststelling decentralisatie- en integratie-uitkeringen 2016)

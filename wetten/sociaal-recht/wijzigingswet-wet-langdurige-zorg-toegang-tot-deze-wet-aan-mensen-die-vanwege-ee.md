@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0042804"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Wet van 10 juli 2019 tot wijziging van de Wet langdurige zorg om toegang tot deze wet te bieden aan mensen die vanwege een psychische stoornis blijvend behoefte hebben aan permanent toezicht of 24 uur per dag zorg nabij

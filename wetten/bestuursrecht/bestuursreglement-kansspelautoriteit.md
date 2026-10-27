@@ -9,7 +9,7 @@ laatste_update: 2019-04-05
 status: geldig
 toestand: 2019-04-05
 bron: "https://wetten.overheid.nl/BWBR0042093"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de raad van bestuur van de Kansspelautoriteit tot vaststelling van een bestuursreglement (kenmerk 01.053.735)

@@ -9,7 +9,7 @@ laatste_update: 2019-11-27
 status: geldig
 toestand: 2019-11-27
 bron: "https://wetten.overheid.nl/BWBR0042812"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Besluit inzake lijst van verwerkingen van persoonsgegevens waarvoor een gegevensbeschermingseffectbeoordeling (DPIA) verplicht is, Autoriteit Persoonsgegevens

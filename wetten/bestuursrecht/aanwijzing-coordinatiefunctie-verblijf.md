@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0042809"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Aanwijzing van de Minister voor Medische Zorg 19 november 2019, kenmerk 1613272-198762-PZo op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake de coördinatiefunctie verblijf

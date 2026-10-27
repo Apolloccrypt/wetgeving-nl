@@ -9,7 +9,7 @@ laatste_update: 2019-04-25
 status: geldig
 toestand: 2019-04-25
 bron: "https://wetten.overheid.nl/BWBR0042141"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de secretaris-generaal van het Ministerie van Landbouw, Natuur en Voedselkwaliteit van 18 april 2019, nr. WJZ/ 19094898, betreffende verlening van ondermandaat, volmacht en machtiging aan de directeur Transitie en aansturing bedrijfsvoering voor aangelegenheden inzake de Vereffeningsorganisatie PBO 2019 (Besluit ondermandaat, volmacht en machtiging directeur Transitie en aansturing bedrijfsvoering inzake de Vereffeningsorganisatie PBO 2019)

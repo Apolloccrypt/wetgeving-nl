@@ -8,7 +8,7 @@ laatste_update: 2019-04-02
 status: geldig
 toestand: 2019-04-02
 bron: "https://wetten.overheid.nl/BWBR0042090"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Maatregelbeleid Raad voor Rechtsbijstand

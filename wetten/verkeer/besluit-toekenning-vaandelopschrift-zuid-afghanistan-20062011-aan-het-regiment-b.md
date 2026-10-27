@@ -9,7 +9,7 @@ laatste_update: 2019-12-01
 status: geldig
 toestand: 2019-12-01
 bron: "https://wetten.overheid.nl/BWBR0042662"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Besluit van 11 september 2019, tot toekenning van het vaandelopschrift «Zuid-Afghanistan 2006–2011» aan het Regiment Bevoorradings- en Transporttroepen

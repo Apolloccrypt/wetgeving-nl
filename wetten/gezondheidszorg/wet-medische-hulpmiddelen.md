@@ -9,7 +9,7 @@ laatste_update: 2026-02-19
 status: geldig
 toestand: 2026-02-19
 bron: "https://wetten.overheid.nl/BWBR0042755"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Wet van 24 oktober 2019, houdende regels over de veiligheid en kwaliteit van medische hulpmiddelen (Wet medische hulpmiddelen)

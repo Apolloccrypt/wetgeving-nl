@@ -9,7 +9,7 @@ laatste_update: 2020-06-24
 status: geldig
 toestand: 2020-06-24
 bron: "https://wetten.overheid.nl/BWBR0042406"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 19 juni 2019, MINBUZA-2019.347107, tot instelling en bezoldiging van de adviescommissie SDG Partnerschapfaciliteit

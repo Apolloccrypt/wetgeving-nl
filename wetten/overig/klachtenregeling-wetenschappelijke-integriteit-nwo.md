@@ -9,7 +9,7 @@ laatste_update: 2020-04-07
 status: geldig
 toestand: 2020-04-07
 bron: "https://wetten.overheid.nl/BWBR0042286"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de raad van bestuur van de Nederlandse Organisatie van Wetenschappelijk Onderzoek van 22 mei 2019, nr. 2019 RvB 139, houdende vaststelling van de Klachtenregeling wetenschappelijke integriteit NWO

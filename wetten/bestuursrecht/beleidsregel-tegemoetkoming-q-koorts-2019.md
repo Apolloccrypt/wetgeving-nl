@@ -9,7 +9,7 @@ laatste_update: 2019-08-01
 status: geldig
 toestand: 2019-08-01
 bron: "https://wetten.overheid.nl/BWBR0042403"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Beleidsregel van de Minister van Volksgezondheid, Welzijn en Sport van 9 juli 2019, kenmerk 1516264-189438-PG, over regels voor de verstrekking van een tegemoetkoming in verband met de grote gevolgen van de Q-koortsuitbraak (Beleidsregel tegemoetkoming Q-koorts 2019)

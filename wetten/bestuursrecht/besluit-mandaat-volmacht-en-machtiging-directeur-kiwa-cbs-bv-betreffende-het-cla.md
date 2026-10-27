@@ -9,7 +9,7 @@ laatste_update: 2019-04-02
 status: geldig
 toestand: 2019-04-02
 bron: "https://wetten.overheid.nl/BWBR0042080"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 22 maart 2019, nr. WJZ/18070514, aan de directeur van Kiwa CBS B.V. betreffende het classificeren van slachtrunderen en slachtvarkens (Besluit mandaat, volmacht en machtiging directeur Kiwa CBS B.V. betreffende het classificeren van slachtrunderen en slachtvarkens)

@@ -9,7 +9,7 @@ laatste_update: 2019-12-14
 status: geldig
 toestand: 2019-12-14
 bron: "https://wetten.overheid.nl/BWBR0042887"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Besluit van 15 november 2019, nr. DB/19216000, houdende beperking openbaarheid archief afdeling Personeelszaken Ministerie van Landbouw, Natuur en Voedselkwaliteit geboortejaren 1835–1976 en 1877–2005

@@ -9,7 +9,7 @@ laatste_update: 2022-06-11
 status: geldig
 toestand: 2022-06-11
 bron: "https://wetten.overheid.nl/BWBR0042301"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Wet van 5 juni 2019, houdende regels ter implementatie van richtlijn (EU) 2016/681 van het Europees Parlement en de Raad van 27 april 2016 over het gebruik van persoonsgegevens van passagiers (PNR-gegevens) voor het voorkomen, opsporen, onderzoeken en vervolgen van terroristische misdrijven en ernstige criminaliteit (PbEU 2016, L 119) (Wet gebruik van passagiersgegevens voor de bestrijding van terroristische en ernstige misdrijven)

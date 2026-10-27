@@ -8,7 +8,7 @@ laatste_update: 2019-09-05
 status: geldig
 toestand: 2019-09-05
 bron: "https://wetten.overheid.nl/BWBR0042528"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Omzetbelasting, reikwijdte VAVO-arrest bij samenwerkingen

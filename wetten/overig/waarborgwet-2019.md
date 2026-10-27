@@ -9,7 +9,7 @@ laatste_update: 2022-03-02
 status: geldig
 toestand: 2022-03-02
 bron: "https://wetten.overheid.nl/BWBR0042284"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Wet van 22 mei 2019, houdende regels omtrent het waarborgen van edelmetalen voorwerpen (Waarborgwet 2019)

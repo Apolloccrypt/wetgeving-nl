@@ -8,7 +8,7 @@ laatste_update: 2019-09-20
 status: geldig
 toestand: 2019-09-20
 bron: "https://wetten.overheid.nl/BWBR0042561"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Vervangingsbesluit BIG archief 1995–2007 CIBG

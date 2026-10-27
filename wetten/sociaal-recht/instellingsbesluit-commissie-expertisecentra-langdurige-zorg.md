@@ -9,7 +9,7 @@ laatste_update: 2026-02-28
 status: geldig
 toestand: 2026-02-28
 bron: "https://wetten.overheid.nl/BWBR0042534"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 5 september 2019, kenmerk 1564875-193879-LZ, houdende de instelling van de Commissie Expertisecentra langdurige zorg (Instellingsbesluit Commissie Expertisecentra langdurige zorg)

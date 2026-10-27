@@ -8,7 +8,7 @@ laatste_update: 2019-12-13
 status: geldig
 toestand: 2019-12-13
 bron: "https://wetten.overheid.nl/BWBR0042881"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Regeling toevoeging bijzondere curatoren

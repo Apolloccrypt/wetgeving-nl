@@ -9,7 +9,7 @@ laatste_update: 2019-05-29
 status: geldig
 toestand: 2019-05-29
 bron: "https://wetten.overheid.nl/BWBR0042247"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 27 maart 2019, nr. PO/5330988, houdende regels voor de subsidieverstrekking voor de vervolgpilot tweetalig primair onderwijs (Subsidieregeling vervolgpilot tweetalig primair onderwijs)

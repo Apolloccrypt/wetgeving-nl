@@ -9,7 +9,7 @@ laatste_update: 2019-06-25
 status: geldig
 toestand: 2019-06-25
 bron: "https://wetten.overheid.nl/BWBR0042318"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 27 mei 2019, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordiging in Maleisië, Ambassade Kuala Lumpur (1956) 1965–2013 (Besluit Beperking Openbaarheid Kuala Lumpur, 1965–2013)

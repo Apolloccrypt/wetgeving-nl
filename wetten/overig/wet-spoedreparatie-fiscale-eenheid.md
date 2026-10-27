@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0042204"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Wet van 24 april 2019 tot wijziging van de Wet op de vennootschapsbelasting 1969 en de Wet op de dividendbelasting 1965 in verband met enkele spoedreparaties inzake de fiscale eenheid (Wet spoedreparatie fiscale eenheid)

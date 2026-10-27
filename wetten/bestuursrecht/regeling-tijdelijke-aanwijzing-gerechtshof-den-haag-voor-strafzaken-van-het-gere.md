@@ -9,7 +9,7 @@ laatste_update: 2019-04-24
 status: geldig
 toestand: 2019-04-24
 bron: "https://wetten.overheid.nl/BWBR0042140"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Minister voor Rechtsbescherming van 11 april 2019, nr. 2561595 houdende tijdelijke aanwijzing van een ander Gerechtshof als bedoeld in artikel 62a van de Wet op de rechterlijke organisatie (Regeling tijdelijke aanwijzing gerechtshof Den Haag voor standaard strafzaken van gerechtshof Arnhem-Leeuwarden)

@@ -9,7 +9,7 @@ laatste_update: 2019-04-13
 status: geldig
 toestand: 2019-04-13
 bron: "https://wetten.overheid.nl/BWBR0042114"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 3 april, nr. 2509646, houdende aanwijzing van opsporingsambtenaren bij de Belastingdienst/FIOD, de NVWA-IOD, de directie Opsporing van de Inspectie SZW, en de ILT-IOD tot hulpofficier van justitie (Besluit hulpofficieren van justitie van de bijzondere opsporingsdiensten)

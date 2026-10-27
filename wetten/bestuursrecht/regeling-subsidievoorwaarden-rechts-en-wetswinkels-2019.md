@@ -8,7 +8,7 @@ laatste_update: 2019-05-27
 status: geldig
 toestand: 2019-05-27
 bron: "https://wetten.overheid.nl/BWBR0042240"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Regeling subsidievoorwaarden rechts- en wetswinkels 2019

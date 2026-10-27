@@ -9,7 +9,7 @@ laatste_update: 2018-11-14
 status: geldig
 toestand: 2018-11-14
 bron: "https://wetten.overheid.nl/BWBR0042293"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Staatssecretaris van Economische Zaken en Klimaat van 2 november 2018, nr. DGETM-TM /18273531, inzake verlengbaarheid van de vergunning voor Public Acces Mobile Radio in de 450 – 470 MHz-band (Besluit verlengbaarheid PAMR-vergunning 2018)

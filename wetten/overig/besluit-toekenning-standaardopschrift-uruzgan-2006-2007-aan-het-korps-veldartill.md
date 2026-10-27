@@ -9,7 +9,7 @@ laatste_update: 2019-12-01
 status: geldig
 toestand: 2019-12-01
 bron: "https://wetten.overheid.nl/BWBR0042648"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Besluit van 11 september 2019, tot toekenning van het standaardopschrift «Uruzgan 2006-2007» aan het Korps Veldartillerie

@@ -9,7 +9,7 @@ laatste_update: 2019-05-24
 status: geldig
 toestand: 2019-05-24
 bron: "https://wetten.overheid.nl/BWBR0042226"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 23 april 2019, nr. 1396110, houdende de vaststelling van regelingen inzake vertrouwenspersonen integriteit en ongewenste omgangsvormen (Regeling vertrouwenspersonen integriteit en ongewenste omgangsvormen OCW 2019)

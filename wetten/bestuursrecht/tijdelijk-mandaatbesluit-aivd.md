@@ -9,7 +9,7 @@ laatste_update: 2019-12-10
 status: geldig
 toestand: 2019-12-10
 bron: "https://wetten.overheid.nl/BWBR0042865"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister voor de Algemene Inlichtingen- en Veiligheidsdienst van 4 december 2019, nr. 2019-0000623511, tot het verlenen van mandaat, volmacht en machtiging ter uitvoering van de Wet op de inlichtingen- en veiligheidsdiensten 2017 (Tijdelijk Mandaatbesluit AIVD)

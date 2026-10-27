@@ -9,7 +9,7 @@ laatste_update: 2019-07-11
 status: geldig
 toestand: 2019-07-11
 bron: "https://wetten.overheid.nl/BWBR0042389"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Beleidsregels van het Commissariaat voor de Media van 25 juni 2019 over bestuurlijke boetes in het kader van de Mediawet 2008 (Beleidsregels bestuurlijke boetes 2019)

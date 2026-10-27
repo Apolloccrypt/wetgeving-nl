@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0042753"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Besluit van 29 oktober 2019 tot wijziging van het Reglement verkeersregels en verkeerstekens 1990, het Besluit administratieve bepalingen inzake het wegverkeer en het Kentekenreglement in verband met de harmonisatie van milieuzones

@@ -9,7 +9,7 @@ laatste_update: 2019-07-02
 status: geldig
 toestand: 2019-07-02
 bron: "https://wetten.overheid.nl/BWBR0042349"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 13 juni 2019, nr. 2019-0000251071, houdende instelling van de Commissie van onderzoek inzake misstanden ProDemos-Huis voor democratie en rechtsstaat

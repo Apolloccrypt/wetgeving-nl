@@ -9,7 +9,7 @@ laatste_update: 2019-09-19
 status: geldig
 toestand: 2019-09-19
 bron: "https://wetten.overheid.nl/BWBR0042554"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid, namens deze de divisiedirecteur Gevangeniswezen en Vreemdelingenbewaring van de Dienst Justitële Inrichtingen, d.d. 10 september 2019, kenmerk GW/SB 0909191, houdende beperking van de openbaarheid van het naar het Nationaal Archief over te brengen archief van de penitentiaire inrichtingen in Breda uit de periode 1940–1975, nummer toegang 5121.003 en ’s-Hertogenbosch / Leuvense Poort uit de periode 1855–1975

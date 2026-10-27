@@ -8,7 +8,7 @@ laatste_update: 2020-02-12
 status: geldig
 toestand: 2020-02-12
 bron: "https://wetten.overheid.nl/BWBR0042311"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Reglement Participatiefonds voor het Primair Onderwijs en de Expertisecentra voor het schooljaar 2019-2020

@@ -9,7 +9,7 @@ laatste_update: 2024-08-29
 status: geldig
 toestand: 2024-08-29
 bron: "https://wetten.overheid.nl/BWBR0042768"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 31 oktober 2019, kenmerk 1574427-194610-OBP, houdende vaststelling van de Volmachtregeling personele aangelegenheden VWS (Volmachtregeling personele aangelegenheden VWS 2019)

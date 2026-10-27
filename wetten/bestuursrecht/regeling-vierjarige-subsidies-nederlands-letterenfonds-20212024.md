@@ -8,7 +8,7 @@ laatste_update: 2019-12-21
 status: geldig
 toestand: 2019-12-21
 bron: "https://wetten.overheid.nl/BWBR0042933"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Regeling vierjarige subsidies Nederlands Letterenfonds 2021–2024

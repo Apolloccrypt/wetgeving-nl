@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0042818"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Wet van 13 november 2019, houdende regels inzake een uniform experiment met teelt en verkoop van hennep en hasjiesj voor recreatief gebruik in een gesloten coffeeshopketen (Wet experiment gesloten coffeeshopketen)

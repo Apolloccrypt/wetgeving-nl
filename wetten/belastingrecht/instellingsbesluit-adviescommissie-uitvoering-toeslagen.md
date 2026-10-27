@@ -9,7 +9,7 @@ laatste_update: 2019-07-24
 status: geldig
 toestand: 2019-07-24
 bron: "https://wetten.overheid.nl/BWBR0042439"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Staatssecretaris van Financiën van 12 juli 2019, (kenmerk 2019-116721), houdende instelling van de Adviescommissie Uitvoering Toeslagen bij de Belastingdienst (Instellingsbesluit Adviescommissie uitvoering Toeslagen)

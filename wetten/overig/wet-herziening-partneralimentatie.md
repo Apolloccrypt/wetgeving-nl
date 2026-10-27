@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0042499"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Wet van 18 juli 2019 tot wijziging van Boek 1 van het Burgerlijk Wetboek en van enige andere wetten in verband met de herziening van het stelsel van partneralimentatie (Wet herziening partneralimentatie)

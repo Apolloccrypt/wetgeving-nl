@@ -9,7 +9,7 @@ laatste_update: 2019-08-01
 status: geldig
 toestand: 2019-08-01
 bron: "https://wetten.overheid.nl/BWBR0042295"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 6 juni 2019 nr. BOACAT2019/028, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Afdeling Veiligheid & Wijken, team Handhaving Sociale Zekerheid (Fraudebestrijding) van de gemeente Tilburg

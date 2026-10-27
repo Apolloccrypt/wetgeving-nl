@@ -9,7 +9,7 @@ laatste_update: 2019-05-01
 status: geldig
 toestand: 2019-05-01
 bron: "https://wetten.overheid.nl/BWBR0042173"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 25 april 2019, kenmerk 1517626-189561-DMO, houdende de vaststelling van de Beleidsregels inzake de subsidiëring van projecten en activiteiten ten behoeve van de participatie en emancipatie van de Sinti en Roma in Nederland (Besluit vaststelling beleidsregels inzake de subsidiëring van projecten en activiteiten ten behoeve van de participatie en emancipatie van de Sinti en Roma in Nederland)

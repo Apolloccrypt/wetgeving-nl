@@ -9,7 +9,7 @@ laatste_update: 2023-06-21
 status: geldig
 toestand: 2023-06-21
 bron: "https://wetten.overheid.nl/BWBR0042288"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Beleidsregel van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 7 juni 2019, nr. 2019-0000004752, tot hernieuwde vaststelling van een Beleidsregel arbocatalogi (Beleidsregel arbocatalogi 2019)

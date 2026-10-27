@@ -8,7 +8,7 @@ laatste_update: 2019-11-29
 status: geldig
 toestand: 2019-11-29
 bron: "https://wetten.overheid.nl/BWBR0042807"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Opheffingsbesluit baten-lastendienst Defensie Telematica Organisatie

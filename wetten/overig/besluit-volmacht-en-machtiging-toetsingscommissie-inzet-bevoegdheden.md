@@ -9,7 +9,7 @@ laatste_update: 2019-05-11
 status: geldig
 toestand: 2019-05-11
 bron: "https://wetten.overheid.nl/BWBR0042202"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister-President, Minister van Algemene Zaken van 24 april 2019, nr. 4062112 houdende regels inzake volmacht en machtiging aan de Toetsingscommissie inzet bevoegdheden

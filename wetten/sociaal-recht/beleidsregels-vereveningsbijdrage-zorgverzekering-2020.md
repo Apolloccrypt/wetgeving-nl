@@ -9,7 +9,7 @@ laatste_update: 2021-09-07
 status: geldig
 toestand: 2021-09-07
 bron: "https://wetten.overheid.nl/BWBR0042711"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Beleidsregels van de Raad van Bestuur van Zorginstituut Nederland van 8 oktober 2019, kenmerk 2019043230, voor de toekenning en vaststelling van de vereveningsbijdrage aan zorgverzekeraars 2020 (Beleidsregels vereveningsbijdrage zorgverzekering 2020)

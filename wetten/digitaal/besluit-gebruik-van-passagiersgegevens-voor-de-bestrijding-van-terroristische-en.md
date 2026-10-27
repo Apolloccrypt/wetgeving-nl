@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0042377"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van 28 juni 2019 ter uitvoering van de Wet gebruik van passagiersgegevens voor de bestrijding van terroristische en ernstige misdrijven en tot wijziging van het Besluit politiegegevens in verband met de verstrekking van politiegegevens aan de Passagiersinformatie-eenheid (Besluit gebruik van passagiersgegevens voor de bestrijding van terroristische en ernstige misdrijven)

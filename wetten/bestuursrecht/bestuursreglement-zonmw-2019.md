@@ -8,7 +8,7 @@ laatste_update: 2019-05-07
 status: geldig
 toestand: 2019-05-07
 bron: "https://wetten.overheid.nl/BWBR0042194"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Bestuursreglement ZonMw 2019

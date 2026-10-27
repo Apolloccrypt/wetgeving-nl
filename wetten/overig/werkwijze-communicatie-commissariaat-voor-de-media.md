@@ -8,7 +8,7 @@ laatste_update: 2019-04-24
 status: geldig
 toestand: 2019-04-24
 bron: "https://wetten.overheid.nl/BWBR0042143"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Werkwijze Communicatie Commissariaat voor de Media

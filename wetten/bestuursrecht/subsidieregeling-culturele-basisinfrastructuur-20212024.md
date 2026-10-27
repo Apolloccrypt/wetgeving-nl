@@ -9,7 +9,7 @@ laatste_update: 2020-06-04
 status: geldig
 toestand: 2020-06-04
 bron: "https://wetten.overheid.nl/BWBR0042754"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 30 oktober 2019, nr. 17644318, houdende wijziging van de Regeling op het specifiek cultuurbeleid en de Regeling beheer rijkscollectie en subsidiëring museale instellingen in verband met het vaststellen van de criteria voor vierjaarlijkse subsidiëring in de periode 2021–2024 alsmede met enkele aanpassingen van technische aard (Subsidieregeling culturele basisinfrastructuur 2021–2024)

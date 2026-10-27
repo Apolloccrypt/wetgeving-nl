@@ -9,7 +9,7 @@ laatste_update: 2019-12-03
 status: geldig
 toestand: 2019-12-03
 bron: "https://wetten.overheid.nl/BWBR0042833"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid en de Minister voor Rechtsbescherming van 25 november 2019 nr. 2710533 betreffende de wetenschappelijke onafhankelijkheid van het Wetenschappelijk Onderzoek- en Documentatiecentrum van het Ministerie van Justitie en Veiligheid (Regeling wetenschappelijke onafhankelijkheid WODC)

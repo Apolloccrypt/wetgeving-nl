@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0042772"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 8 november 2019, kenmerk 1608564-198346-PZo inzake bekostigingsexperiment aanvullende beroepen ggz/fz

@@ -9,7 +9,7 @@ laatste_update: 2024-10-12
 status: geldig
 toestand: 2024-10-12
 bron: "https://wetten.overheid.nl/BWBR0042339"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Beleidsregel van de Minister voor Medische Zorg van 18 juni 2019, kenmerk 1540378-191839 CZ, houdende regels voor het subsidiëren van regionale partnerschappen voor het stimuleren van digitale informatie-uitwisseling in de geboortezorgketen in Nederland (Beleidsregel subsidiëring Versnellingsprogramma Informatie-uitwisseling Patiënt en Professional Babyconnect)

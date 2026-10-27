@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0042210"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Wet van 17 april 2019, houdende aanpassing van wetten in verband met de invoering van de normalisering van de rechtspositie van ambtenaren (Aanpassingswet Wnra)

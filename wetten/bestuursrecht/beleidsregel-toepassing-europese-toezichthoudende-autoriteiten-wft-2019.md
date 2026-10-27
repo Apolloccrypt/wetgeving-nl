@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-05-15
 toestand: 2019-04-06
 bron: "https://wetten.overheid.nl/BWBR0042098"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Beleidsregel van De Nederlandsche Bank N.V. van 21 maart 2019 tot toepassing van richtsnoeren van de Europese toezichthoudende autoriteiten in verband met het prudentieel toezicht en de afwikkelingstaak bij of krachtens de Wet op het financieel toezicht (Beleidsregel toepassing richtsnoeren Europese toezichthoudende autoriteiten Wft 2019)

@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0042707"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Beschikking van de Minister voor Rechtsbescherming van 18 oktober 2019, nr. 2727242, Directie Wetgeving en Juridische Zaken, tot vaststelling van het percentage waarmee de bedragen voor levensonderhoud met ingang van 1 januari 2020 worden verhoogd

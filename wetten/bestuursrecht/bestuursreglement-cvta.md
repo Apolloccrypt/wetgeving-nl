@@ -9,7 +9,7 @@ laatste_update: 2019-07-25
 status: geldig
 toestand: 2019-07-25
 bron: "https://wetten.overheid.nl/BWBR0042444"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van het College van Toezicht Auteursrechten van 11 juni 2019 tot vaststelling van een bestuursreglement

@@ -9,7 +9,7 @@ laatste_update: 2024-01-16
 status: geldig
 toestand: 2024-01-16
 bron: "https://wetten.overheid.nl/BWBR0042844"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 25 november 2019, nr. MinBuZa.2019.4569-27, houdende beperkende maatregelen in verband met de situatie in Nicaragua, tot wijziging van Sanctieregeling Centraal-Afrikaanse Republiek 2014 en tot intrekking van Sanctieregeling Maldiven 2018 (Sanctieregeling Nicaragua 2019)

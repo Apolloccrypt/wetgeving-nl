@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0042735"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Beleidsregel van de Staatssecretaris van Economische Zaken en Klimaat van 28 oktober 2019, nr. WJZ/ 19200370, omtrent de uitleg van het begrip 'technisch wetenschappelijk onderzoek' bij de behandeling van aanvragen van een S&O-verklaring

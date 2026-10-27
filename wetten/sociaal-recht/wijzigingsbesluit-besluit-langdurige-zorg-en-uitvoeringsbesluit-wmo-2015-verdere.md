@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0042653"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Besluit van 4 oktober 2019, houdende een wijziging van het Besluit langdurige zorg en het Uitvoeringsbesluit Wmo 2015 voor de verdere doorvoering van het abonnementstarief voor maatschappelijke ondersteuning, de aanpassing van de bijdragesystematiek voor persoonsgebonden budgetten voor beschermd wonen en het regelen van een bevoegdheid voor het inkorten van de termijn waarover de bijdrage wordt geïnd of kwijtschelden van een bijdrage in het geval een verzuim in het opleggen daarvan niet aan de verzekerde of cliënt te wijten is

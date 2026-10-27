@@ -9,7 +9,7 @@ laatste_update: 2019-07-10
 status: geldig
 toestand: 2019-07-10
 bron: "https://wetten.overheid.nl/BWBR0042397"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 27 juni 2019, nr. IENW/BSK-2019/104331, houdende vaststelling van de Regeling melden voorvallen in de burgerluchtvaart 2019 (Regeling melden voorvallen in de burgerluchtvaart 2019)

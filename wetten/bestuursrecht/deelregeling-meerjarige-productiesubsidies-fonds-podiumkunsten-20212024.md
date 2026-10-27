@@ -8,7 +8,7 @@ laatste_update: 2019-11-22
 status: geldig
 toestand: 2019-11-22
 bron: "https://wetten.overheid.nl/BWBR0042786"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Deelregeling meerjarige productiesubsidies Fonds Podiumkunsten 2021–2024

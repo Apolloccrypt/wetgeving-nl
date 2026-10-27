@@ -8,7 +8,7 @@ laatste_update: 2019-09-03
 status: geldig
 toestand: 2019-09-03
 bron: "https://wetten.overheid.nl/BWBR0042564"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Mandaatbesluit Uitvoering Ziektewet, artikel 62 Burgerlijk ambtenarenreglement defensie en artikel 120 Algemeen militair ambtenarenreglement defensie

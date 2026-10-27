@@ -9,7 +9,7 @@ laatste_update: 2020-10-29
 status: geldig
 toestand: 2020-10-29
 bron: "https://wetten.overheid.nl/BWBR0042746"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Besluit van 24 oktober 2019 tot wijziging van het Besluit Gedragstoezicht financiële ondernemingen Wft, het Besluit Markttoegang financiële ondernemingen Wft, het Besluit toezicht accountantsorganisaties, alsmede enige andere besluiten op het terrein van de financiële markten (Wijzigingsbesluit financiële markten 2019)

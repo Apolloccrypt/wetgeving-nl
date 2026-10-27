@@ -9,7 +9,7 @@ laatste_update: 2019-10-10
 status: geldig
 toestand: 2019-10-10
 bron: "https://wetten.overheid.nl/BWBR0042624"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Besluit tot het stellen van beperkingen aan de openbaarheid van archiefbescheiden geborgen in de archieven DGBR (2.09.08), COOM (2.09.61), STPD (2.09.42.01), CABR (2.09.09), Bureau Bijzondere Jeugdzorg (2.09.42.02) en de Provinciale Inspecties en Tehuizen voor de Bijzondere Jeugdzorg in Groningen, Drenthe, Overijssel, Gelderland, Utrecht, Limburg, Noord-Brabant, Zeeland, Zuid-Holland en Noord-Holland

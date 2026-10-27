@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0042527"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Wet van 10 juli 2019 tot wijziging van de Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten en de Wet op de beroepen in de individuele gezondheidszorg in verband met de invoering van de Wzd-functionaris

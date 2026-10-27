@@ -9,7 +9,7 @@ laatste_update: 2019-12-10
 status: geldig
 toestand: 2019-12-10
 bron: "https://wetten.overheid.nl/BWBR0042867"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister voor Milieu en Wonen van 4 december 2019, nr. 2019-0000623509, tot het verlenen van mandaat, volmacht en machtiging ter uitvoering van een aantal wetten, besluiten, regelingen en beschikkingen op het terrein van wonen (Tijdelijk Mandaatbesluit Wonen)

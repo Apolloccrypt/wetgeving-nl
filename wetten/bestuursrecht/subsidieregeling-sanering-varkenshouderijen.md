@@ -9,7 +9,7 @@ laatste_update: 2021-03-24
 status: geldig
 toestand: 2021-03-24
 bron: "https://wetten.overheid.nl/BWBR0042634"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 10 oktober 2019, nr. WJZ/ 19237719 , tot vaststelling van een regeling voor de verstrekking van subsidie voor het saneren van varkenshouderijlocaties in verband met geurhinder (Subsidieregeling sanering varkenshouderijen)

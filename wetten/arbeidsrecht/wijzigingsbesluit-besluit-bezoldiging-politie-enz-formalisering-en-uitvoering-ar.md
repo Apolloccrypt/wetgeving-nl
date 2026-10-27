@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0042927"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Besluit van 13 december 2019 tot wijziging van het Besluit bezoldiging politie en enkele andere rechtspositionele besluiten ter formalisering en uitvoering van de Arbeidsvoorwaardenovereenkomst sector Politie 2018–2020 inzake onder meer afspraken betreffende het inkomen, de capaciteit en inzetbaarheid, de kwaliteit, loopbaan en onderwijs en de duurzame inzetbaarheid van ambtenaren, werkzaam in de sector Politie

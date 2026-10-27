@@ -9,7 +9,7 @@ laatste_update: 2019-07-01
 status: geldig
 toestand: 2019-07-01
 bron: "https://wetten.overheid.nl/BWBR0042258"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van 14 mei 2019 tot vaststelling van de tijdstippen, bedoeld in de artikelen 12.24, 12.25 en 12.26 van de Wet studiefinanciering 2000 en 9.4 van de Wet studiefinanciering BES

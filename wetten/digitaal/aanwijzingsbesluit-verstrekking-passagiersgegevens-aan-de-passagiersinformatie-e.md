@@ -9,7 +9,7 @@ laatste_update: 2025-07-02
 status: geldig
 toestand: 2025-07-02
 bron: "https://wetten.overheid.nl/BWBR0042357"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 19 juni 2019, nr. 2624982, houdende de vaststelling van de tijdstippen en de wijze van het verstrekken van passagiersgegevens door de luchtvaartmaatschappijen aan de passagiersinformatie-eenheid (Aanwijzingsbesluit verstrekking passagiersgegevens aan de passagiersinformatie-eenheid)

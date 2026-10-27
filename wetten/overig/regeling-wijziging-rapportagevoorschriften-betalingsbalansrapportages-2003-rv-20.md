@@ -9,7 +9,7 @@ laatste_update: 2020-07-01
 status: geldig
 toestand: 2020-07-01
 bron: "https://wetten.overheid.nl/BWBR0042800"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Regeling van De Nederlandsche Bank N.V. van 18 november 2019 houdende wijziging van de Rapportagevoorschriften betalingsbalansrapportages 2003

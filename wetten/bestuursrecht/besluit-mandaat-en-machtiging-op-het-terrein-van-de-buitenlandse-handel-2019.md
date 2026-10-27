@@ -9,7 +9,7 @@ laatste_update: 2021-07-30
 status: geldig
 toestand: 2021-07-30
 bron: "https://wetten.overheid.nl/BWBR0042532"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 5 juni 2019, nr. MinBuZa.2019.3960-29, houdende regels inzake mandaat en machtiging inzake in- en uitvoer (Besluit mandaat en machtiging op het terrein van de buitenlandse handel 2019)

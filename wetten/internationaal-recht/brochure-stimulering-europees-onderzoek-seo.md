@@ -8,7 +8,7 @@ laatste_update: 2019-12-23
 status: geldig
 toestand: 2019-12-23
 bron: "https://wetten.overheid.nl/BWBR0042931"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Brochure Stimulering Europees Onderzoek (SEO)

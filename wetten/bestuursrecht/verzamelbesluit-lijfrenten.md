@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2025-01-31
 toestand: 2025-01-31
 bron: "https://wetten.overheid.nl/BWBR0042260"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Verzamelbesluit Lijfrenten

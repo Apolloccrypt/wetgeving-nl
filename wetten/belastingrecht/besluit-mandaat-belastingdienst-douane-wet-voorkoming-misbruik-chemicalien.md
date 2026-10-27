@@ -9,7 +9,7 @@ laatste_update: 2019-04-20
 status: geldig
 toestand: 2019-04-20
 bron: "https://wetten.overheid.nl/BWBR0042128"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister voor Medische Zorg van 4 april 2019, kenmerk 1509423-188975-WJZ, houdende verlening van mandaat betreffende de Wet voorkoming misbruik chemicaliën (Besluit mandaat Belastingdienst Douane Wet voorkoming misbruik chemicaliën)

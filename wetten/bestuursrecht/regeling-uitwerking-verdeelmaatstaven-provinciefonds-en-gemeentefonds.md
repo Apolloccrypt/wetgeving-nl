@@ -9,7 +9,7 @@ laatste_update: 2019-04-30
 status: geldig
 toestand: 2019-04-30
 bron: "https://wetten.overheid.nl/BWBR0042163"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Staatssecretaris van Financiën van 25 maart 2019, nr. 2019-0000113361, houdende regels met betrekking tot de uitwerking van de begrippen in de verdeelmaatstaven van het provinciefonds en gemeentefonds alsmede vaststelling van de verdeelsleutel voor een enkele verdeelmaatstaf (Regeling uitwerking verdeelmaatstaven provinciefonds en gemeentefonds)

@@ -9,7 +9,7 @@ laatste_update: 2019-05-30
 status: geldig
 toestand: 2019-05-30
 bron: "https://wetten.overheid.nl/BWBR0042252"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister-President, Minister van Algemene Zaken van 19 april 2019, met nummer 4053106, tot digitale vervanging archiefbescheiden ministerie van Algemene Zaken (Besluit digitale vervanging ministerie van Algemene zaken)

@@ -8,7 +8,7 @@ laatste_update: 2019-08-01
 status: geldig
 toestand: 2019-08-01
 bron: "https://wetten.overheid.nl/BWBR0042452"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Aanwijzing strafvorderingsbeleid overtreding Wet gedeeltelijk verbod gezichtsbedekkende kleding

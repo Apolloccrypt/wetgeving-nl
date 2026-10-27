@@ -9,7 +9,7 @@ laatste_update: 2019-05-24
 status: geldig
 toestand: 2019-05-24
 bron: "https://wetten.overheid.nl/BWBR0042227"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 23 april 2019 nr. 1394232, houdende de instelling van een klachtencommissie ongewenste omgangsvormen bij het Ministerie van Onderwijs, Cultuur en Wetenschap (Regeling Klachtencommissie ongewenste omgangsvormen OCW 2019)

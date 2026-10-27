@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0042168"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Waterstaat, van 26 april 2019, nr. IENW/BSK-2019/62573, houdende regels inzake de verlening van mandaat, volmacht en machtiging aan de Stichting Veiligheid en Vakmanschap Rail Vervoer (Besluit mandaat, volmacht en machtiging Stichting VVRV)

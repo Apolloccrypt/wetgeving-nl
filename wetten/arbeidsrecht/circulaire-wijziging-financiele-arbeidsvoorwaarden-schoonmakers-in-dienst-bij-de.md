@@ -8,7 +8,7 @@ laatste_update: 2019-06-28
 status: geldig
 toestand: 2019-06-28
 bron: "https://wetten.overheid.nl/BWBR0042345"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Circulaire wijziging financiële arbeidsvoorwaarden schoonmakers in dienst bij de Rijksschoonmaakorganisatie

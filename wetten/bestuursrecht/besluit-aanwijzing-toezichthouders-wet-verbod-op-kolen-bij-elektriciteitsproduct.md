@@ -9,7 +9,7 @@ laatste_update: 2019-12-20
 status: geldig
 toestand: 2019-12-20
 bron: "https://wetten.overheid.nl/BWBR0042916"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat van 12 december 2019, nr. WJZ/19081477, tot aanwijzing toezichthouders voor de Wet verbod op kolen bij elektriciteitsproductie

@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0042266"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van 16 mei 2019, houdende regels ter uitvoering van de Wet zorg en dwang voor personen met een psychogeriatrische aandoening of een verstandelijke handicap (Besluit zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten)

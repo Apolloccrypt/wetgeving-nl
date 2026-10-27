@@ -9,7 +9,7 @@ laatste_update: 2019-09-07
 status: geldig
 toestand: 2019-09-07
 bron: "https://wetten.overheid.nl/BWBR0042529"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 5 augustus 2019, houdende de beperking van de openbaarheid van een aantal inventarisnummers van het archief van het bureau Schadeclaims Indonesië, het bureau Schadeclaims Duitse Democratische Republiek en de sectie Uitvoering Compensatie Accoord Egypte (1947) 1962–1989 (2006), nummer toegang: 2.05.407, projectnummer: 20150057, bij overbrenging naar het Nationaal Archief (besluit beperking openbaarheid bureau Schadeclaims)

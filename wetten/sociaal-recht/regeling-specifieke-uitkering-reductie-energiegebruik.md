@@ -9,7 +9,7 @@ laatste_update: 2021-02-10
 status: geldig
 toestand: 2021-02-10
 bron: "https://wetten.overheid.nl/BWBR0042607"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 1 oktober 2019, nr. 2019-0000096953, houdende regels met betrekking tot het verstrekken van een eenmalige specifieke uitkering ten behoeve van de reductie van energiegebruik bij koopwoningen (Regeling specifieke uitkering reductie energiegebruik)

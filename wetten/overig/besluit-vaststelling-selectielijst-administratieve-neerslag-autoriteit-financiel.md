@@ -8,7 +8,7 @@ laatste_update: 2019-09-26
 status: geldig
 toestand: 2019-09-26
 bron: "https://wetten.overheid.nl/BWBR0042565"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Besluit vaststelling selectielijst administratieve neerslag Autoriteit Financiële Markten over de periode vanaf 2002

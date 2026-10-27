@@ -9,7 +9,7 @@ laatste_update: 2022-12-01
 status: geldig
 toestand: 2022-12-01
 bron: "https://wetten.overheid.nl/BWBR0042645"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Besluit van 1 oktober 2019, houdende regels inzake de opleiding tot orthopedagoog-generalist

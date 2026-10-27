@@ -9,7 +9,7 @@ laatste_update: 2019-05-10
 status: geldig
 toestand: 2019-05-10
 bron: "https://wetten.overheid.nl/BWBR0042201"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 20 maart 2019, houdende instelling van de begeleidingscommissie Tweede evaluatie Wet normering topinkomens (Instellingsbesluit begeleidingscommissie Tweede evaluatie Wet normering topinkomens)

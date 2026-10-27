@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0042257"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van 17 mei 2019, houdende tijdelijke regels inzake de opleiding, deskundigheid en tijdelijke zelfstandige bevoegdheid tot het verrichten van voorbehouden handelingen door de geregistreerd-mondhygiënist (Tijdelijk besluit zelfstandige bevoegdheid geregistreerd-mondhygiënist)

@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0042718"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat van 29 oktober 2019, nr. WJZ/ 19003260, houdende een specifieke uitkering voor de Provincie Flevoland in verband met de sanering van windturbines in het windpark Zeewolde (Regeling specifieke uitkering provincie Flevoland sanering windpark Zeewolde)

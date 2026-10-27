@@ -9,7 +9,7 @@ laatste_update: 2019-12-08
 status: geldig
 toestand: 2019-12-08
 bron: "https://wetten.overheid.nl/BWBR0042852"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Ministerie van Justitie en Veiligheid van 5 november 2019, nr. 2736901, houdende een eenmalige specifieke uitkering voor gemeenten in verband met de versterking van de lokale integrale aanpak van radicalisering, extremisme en terrorisme in 2020

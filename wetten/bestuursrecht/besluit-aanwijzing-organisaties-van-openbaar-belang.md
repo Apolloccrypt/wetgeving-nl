@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0042393"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van 26 juni 2019 tot wijziging van het Besluit toezicht accountantsorganisaties in verband met de aanwijzing van organisaties van openbaar belang als bedoeld in artikel 1, eerste lid, onder l, onder 5°, van de Wet toezicht accountantsorganisaties (Besluit aanwijzing organisaties van openbaar belang)

@@ -9,7 +9,7 @@ laatste_update: 2019-08-28
 status: geldig
 toestand: 2019-08-28
 bron: "https://wetten.overheid.nl/BWBR0042503"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 21 augustus 2019, nr. 2655834, houdende de erkenning van schietverenigingen

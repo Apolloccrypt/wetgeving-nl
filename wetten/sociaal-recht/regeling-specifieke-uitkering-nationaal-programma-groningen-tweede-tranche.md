@@ -9,7 +9,7 @@ laatste_update: 2019-12-07
 status: geldig
 toestand: 2019-12-07
 bron: "https://wetten.overheid.nl/BWBR0042851"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat van 4 december 2019, nr. WJZ/ 19261150, houdende een specifieke uitkering voor de gemeente Appingedam, Het Hogeland, Midden-Groningen en de provincie Groningen in verband met de uitvoering van het nationaal programma Groningen (Regeling specifieke uitkering nationaal programma Groningen tweede tranche)

@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0042814"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 20 november 2019, nr. 2748461, tot aanwijzing van Stichting Fiom als rechtspersoon belast met algemene voorlichtingstaken met betrekking tot interlandelijke adoptie (Aanwijzingsbesluit algemene voorlichter interlandelijke adoptie)

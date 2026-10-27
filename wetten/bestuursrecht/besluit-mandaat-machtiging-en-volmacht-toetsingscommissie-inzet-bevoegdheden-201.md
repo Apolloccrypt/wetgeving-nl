@@ -9,7 +9,7 @@ laatste_update: 2019-06-13
 status: geldig
 toestand: 2019-06-13
 bron: "https://wetten.overheid.nl/BWBR0042282"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de voorzitter van de Toetsingscommissie inzet bevoegdheden van 15 mei 2019, nr. 4063348 houdende mandaat, machtiging en volmacht voor de tot het secretariaat behorende functionarissen van de Toetsingscommissie inzet bevoegdheden (Besluit mandaat, machtiging en volmacht Toetsingscommissie inzet bevoegdheden 2019)

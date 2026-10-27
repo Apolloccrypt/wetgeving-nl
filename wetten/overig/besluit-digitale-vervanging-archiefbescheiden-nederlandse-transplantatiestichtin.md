@@ -9,7 +9,7 @@ laatste_update: 2019-11-22
 status: geldig
 toestand: 2019-11-22
 bron: "https://wetten.overheid.nl/BWBR0042788"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Besluit digitale vervanging archiefbescheiden Nederlandse Transplantatie Stichting 2019

@@ -9,7 +9,7 @@ laatste_update: 2020-07-01
 status: geldig
 toestand: 2020-07-01
 bron: "https://wetten.overheid.nl/BWBR0042304"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Secretaris-Generaal van Volksgezondheid, Welzijn en Sport van 7 juni 2019, kenmerk 1539769-191348-PDZ, houdende het verlenen van ondermandaat en ondervolmacht aan de programma manager Duurzame zorg

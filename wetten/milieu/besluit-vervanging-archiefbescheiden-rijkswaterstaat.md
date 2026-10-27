@@ -9,7 +9,7 @@ laatste_update: 2019-04-19
 status: geldig
 toestand: 2019-04-19
 bron: "https://wetten.overheid.nl/BWBR0042127"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van 5 maart 2019, met kenmerk RWS-2019/7467 tot vervanging archiefbescheiden Rijkswaterstaat

@@ -8,7 +8,7 @@ laatste_update: 2019-06-11
 status: geldig
 toestand: 2019-06-11
 bron: "https://wetten.overheid.nl/BWBR0042225"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Gedragscode integriteit Eerste Kamer

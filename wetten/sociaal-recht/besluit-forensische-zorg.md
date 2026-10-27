@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0042326"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van 6 juni 2019, houdende vaststelling van het Besluit forensische zorg en daarmee verband houdende wijzigingen van enige andere regelingen (Besluit forensische zorg)

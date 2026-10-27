@@ -9,7 +9,7 @@ laatste_update: 2021-07-07
 status: geldig
 toestand: 2021-07-07
 bron: "https://wetten.overheid.nl/BWBR0042392"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat van 5 juli 2019, nr. WJZ/ 19139599, houdende regels inzake het verlenen van mandaat, volmacht en machtiging aan de inspecteur-generaal van de Inspectie Leefomgeving en Transport voor handhaving ten aanzien van aangelegenheden die verband houden met het Besluit gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen (Besluit mandaat, volmacht en machtiging IG ILT handhaving Besluit gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen)

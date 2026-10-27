@@ -9,7 +9,7 @@ laatste_update: 2019-07-21
 status: geldig
 toestand: 2019-07-21
 bron: "https://wetten.overheid.nl/BWBR0042250"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Wet van 15 mei 2019 tot wijziging van de Wet op het financieel toezicht en enkele andere wetten in verband met de implementatie van Verordening (EU) nr. 2017/1129 van het Europees Parlement en de Raad 14 juni 2017 betreffende het prospectus dat moet worden gepubliceerd wanneer effecten aan het publiek worden aangeboden of tot de handel op een gereglementeerde markt worden toegelaten en tot intrekking van Richtlijn 2003/71/EG (PbEU 2017, L 168) (Wet implementatie prospectusverordening)

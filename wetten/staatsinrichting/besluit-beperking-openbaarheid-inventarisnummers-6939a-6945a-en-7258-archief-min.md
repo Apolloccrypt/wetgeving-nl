@@ -9,7 +9,7 @@ laatste_update: 2019-11-22
 status: geldig
 toestand: 2019-11-22
 bron: "https://wetten.overheid.nl/BWBR0042785"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Besluit houdende het stellen van een beperking aan de openbaarheid van de inventarisnummers 6939A, 6945A en 7258 van het archief van de ministeries voor Algemeene Oorlogvoering van het Koninkrijk (AOK) en van Algemeene Zaken (AZ): Kabinet van de Minister-President (KMP), nummer archiefinventaris 2.03.01

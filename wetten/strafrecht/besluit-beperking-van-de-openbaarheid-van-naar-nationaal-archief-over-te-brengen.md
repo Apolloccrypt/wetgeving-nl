@@ -9,7 +9,7 @@ laatste_update: 2019-09-19
 status: geldig
 toestand: 2019-09-19
 bron: "https://wetten.overheid.nl/BWBR0042555"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid, namens deze de divisiedirecteur Gevangeniswezen en Vreemdelingenbewaring van de Dienst Justitiële Inrichtingen, d.d. 10 september 2019, kenmerk GW/SB 0909192, houdende beperking van de openbaarheid van het naar het Nationaal Archief over te brengen archief van de penitentiaire inrichting Rijkswerkinrichting Veenhuizen / Esserheem uit de periode 1940–1956, nummer toegang 5125.004

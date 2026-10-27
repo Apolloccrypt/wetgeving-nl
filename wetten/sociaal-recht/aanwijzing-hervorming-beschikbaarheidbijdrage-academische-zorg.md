@@ -9,7 +9,7 @@ laatste_update: 2019-12-01
 status: geldig
 toestand: 2019-12-01
 bron: "https://wetten.overheid.nl/BWBR0042611"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 25 september 2019, kenmerk 1533873-190928-PZo, inzake hervorming beschikbaarheidbijdrage academische zorg

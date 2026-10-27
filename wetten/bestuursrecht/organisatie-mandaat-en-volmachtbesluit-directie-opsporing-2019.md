@@ -9,7 +9,7 @@ laatste_update: 2024-03-21
 status: geldig
 toestand: 2024-03-21
 bron: "https://wetten.overheid.nl/BWBR0042775"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 7 november 2019, 2019-0000112449, houdende de inrichting van de directie Opsporing, alsmede de toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan de onder de directeur ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit directie Opsporing 2019)

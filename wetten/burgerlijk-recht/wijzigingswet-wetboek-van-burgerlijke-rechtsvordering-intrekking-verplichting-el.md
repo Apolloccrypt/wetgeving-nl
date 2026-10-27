@@ -9,7 +9,7 @@ laatste_update: 2019-10-01
 status: geldig
 toestand: 2019-10-01
 bron: "https://wetten.overheid.nl/BWBR0042405"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Wet van 3 juli 2019 tot wijziging van het Wetboek van Burgerlijke Rechtsvordering tot intrekking van de verplichting om elektronisch te procederen bij de rechtbanken Gelderland en Midden-Nederland en tot verruiming van de mogelijkheden van de mondelinge behandeling in het civiele procesrecht

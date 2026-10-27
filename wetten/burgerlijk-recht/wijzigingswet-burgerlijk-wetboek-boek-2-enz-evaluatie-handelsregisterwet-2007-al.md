@@ -9,7 +9,7 @@ laatste_update: 2021-09-28
 status: geldig
 toestand: 2021-09-28
 bron: "https://wetten.overheid.nl/BWBR0042497"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Wet van 26 juni 2019 tot wijziging van de Handelsregisterwet 2007 in verband met de evaluatie van die wet, alsmede regeling van enkele andere aan het handelsregister gerelateerde onderwerpen in het Burgerlijk Wetboek, de Handelsregisterwet 2007 en de Wet op de Kamer van Koophandel

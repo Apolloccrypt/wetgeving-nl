@@ -9,7 +9,7 @@ laatste_update: 2022-07-02
 status: geldig
 toestand: 2022-07-02
 bron: "https://wetten.overheid.nl/BWBR0042712"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Minister voor Medische Zorg van 4 oktober 2019, kenmerk 1562477-193693-Z, houdende bepalingen omtrent de in de Zorgverzekeringswet bedoelde vereveningsbijdrage voor het jaar 2020 (Regeling risicoverevening 2020)

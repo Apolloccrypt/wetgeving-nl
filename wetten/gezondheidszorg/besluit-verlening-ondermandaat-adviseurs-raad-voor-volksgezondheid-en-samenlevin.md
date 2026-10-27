@@ -8,7 +8,7 @@ laatste_update: 2019-09-14
 status: geldig
 toestand: 2019-09-14
 bron: "https://wetten.overheid.nl/BWBR0042535"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit verlening ondermandaat adviseurs Raad voor Volksgezondheid en Samenleving (verrichten privaatrechtelijke handelingen)

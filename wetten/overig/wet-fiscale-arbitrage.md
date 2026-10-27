@@ -9,7 +9,7 @@ laatste_update: 2019-07-16
 status: geldig
 toestand: 2019-07-16
 bron: "https://wetten.overheid.nl/BWBR0042409"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Wet van 10 juli 2019, houdende Invoering van een wettelijk mechanisme ten behoeve van de beslechting van belastinggeschillen tussen lidstaten van de Europese Unie (Wet fiscale arbitrage)

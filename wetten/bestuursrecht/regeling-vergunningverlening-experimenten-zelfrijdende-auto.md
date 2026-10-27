@@ -9,7 +9,7 @@ laatste_update: 2019-07-01
 status: geldig
 toestand: 2019-07-01
 bron: "https://wetten.overheid.nl/BWBR0042343"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 20 juni 2019, nr. IENW/BSK-2019/134685, houdende vaststelling van regels voor experimenten met zelfrijdende voertuigen zonder bestuurder in het voertuig waarvoor een vergunning vereist is

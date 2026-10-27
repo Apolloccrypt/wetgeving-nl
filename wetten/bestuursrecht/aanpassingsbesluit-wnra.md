@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0042626"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Besluit van 30 september 2019, houdende aanpassing van besluiten in verband met de invoering van de normalisering van de rechtspositie van ambtenaren (Aanpassingsbesluit Wnra)

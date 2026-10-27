@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0042905"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Wet van 11 december 2019, houdende Regels voor het produceren van elektriciteit met behulp van kolen (Wet verbod op kolen bij elektriciteitsproductie)

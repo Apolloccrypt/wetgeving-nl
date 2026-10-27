@@ -8,7 +8,7 @@ laatste_update: 2019-08-30
 status: geldig
 toestand: 2019-08-30
 bron: "https://wetten.overheid.nl/BWBR0042508"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit beperking openbaarheid bestand Bureau Secretaris-Generaal/Kabinet 1946–1999

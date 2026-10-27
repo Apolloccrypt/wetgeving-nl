@@ -9,7 +9,7 @@ laatste_update: 2019-05-28
 status: geldig
 toestand: 2019-05-28
 bron: "https://wetten.overheid.nl/BWBR0042253"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de raad van bestuur van de kansspelautoriteit van 23 december 2016, kenmerk 10509, inzake de verlening van een vergunning tot het organiseren van lotto’s

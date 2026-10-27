@@ -9,7 +9,7 @@ laatste_update: 2020-10-01
 status: geldig
 toestand: 2020-10-01
 bron: "https://wetten.overheid.nl/BWBR0042548"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van 30 augustus 2019, houdende vaststelling van regels in verband met de uitvoering van Verordening (EU) 2017/625 van het Europees Parlement en de Raad van 15 maart 2017 betreffende officiële controles en andere officiële activiteiten die worden uitgevoerd om de toepassing van de levensmiddelen- en diervoederwetgeving en van de voorschriften inzake diergezondheid, dierenwelzijn, plantgezondheid en gewasbeschermingsmiddelen te waarborgen en tot wijziging van enkele Warenwetbesluiten (Warenwetbesluit uitvoering verordening officiële controles en andere officiële activiteiten)

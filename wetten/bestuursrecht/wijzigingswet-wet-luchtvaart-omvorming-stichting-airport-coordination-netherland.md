@@ -9,7 +9,7 @@ laatste_update: 2020-07-01
 status: geldig
 toestand: 2020-07-01
 bron: "https://wetten.overheid.nl/BWBR0042126"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Wet van 27 maart 2018 tot wijziging van de Wet luchtvaart (Omvorming Stichting Airport Coordination Netherlands tot publiekrechtelijk zelfstandig bestuursorgaan)

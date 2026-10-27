@@ -9,7 +9,7 @@ laatste_update: 2019-12-06
 status: geldig
 toestand: 2019-12-06
 bron: "https://wetten.overheid.nl/BWBR0042847"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Beleidsregels van het Commissariaat voor de Media van 26 november 2019 over bestuurlijke boetes in het kader van de Wet op de vaste boekenprijs (Beleidsregels bestuurlijke boetes vaste boekenprijs 2019)

@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0042494"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 6 augustus 2019, nr. 2019-0000416437, houdende vaststelling van het Controleprotocol Wet normering topinkomens 2019 (Regeling Controleprotocol WNT 2019)

@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0042602"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat van 23 september 2019, nr. WJZ/ 19192416, houdende aanwijzing van categorieën van productie-installaties voor de stimulering van duurzame energieproductie in het najaar van 2019 (Regeling aanwijzing categorieën duurzame energieproductie najaar 2019)

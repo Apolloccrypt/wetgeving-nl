@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0042148"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van 2 april 2019, houdende regels met betrekking tot de begroting en verantwoording van de kosten van het toezicht van de Stichting Autoriteit Financiële Markten en De Nederlandsche Bank N.V. en de financiering van de toezichtkosten (Besluit bekostiging financieel toezicht 2019)

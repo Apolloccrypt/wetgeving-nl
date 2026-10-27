@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0042307"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Wet van 29 mei 2019 tot wijziging van Boek 7 van het Burgerlijk Wetboek, de Wet allocatie arbeidskrachten door intermediairs, de Wet financiering sociale verzekeringen en enige andere wetten om de balans tussen vaste en flexibele arbeidsovereenkomsten te verbeteren (Wet arbeidsmarkt in balans)

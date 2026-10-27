@@ -9,7 +9,7 @@ laatste_update: 2019-12-07
 status: geldig
 toestand: 2019-12-07
 bron: "https://wetten.overheid.nl/BWBR0042853"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat van 29 november 2019, nr. WJZ/ 19229655, houdende beleidsregels over het buiten gebruik stellen van boorgaten en putten (Beleidsregel buiten gebruik stellen boorgaten en putten)

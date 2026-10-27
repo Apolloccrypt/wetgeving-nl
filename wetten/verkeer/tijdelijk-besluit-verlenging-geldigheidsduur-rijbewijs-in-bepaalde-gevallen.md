@@ -9,7 +9,7 @@ laatste_update: 2020-09-04
 status: geldig
 toestand: 2020-09-04
 bron: "https://wetten.overheid.nl/BWBR0042799"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Besluit van 13 november 2019 tot wijziging van het Reglement rijbewijzen in verband met de tijdelijke verlenging van de geldigheidsduur van het rijbewijs in bepaalde gevallen (Tijdelijk besluit verlenging geldigheidsduur rijbewijs in bepaalde gevallen)

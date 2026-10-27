@@ -8,7 +8,7 @@ laatste_update: 2022-08-05
 status: geldig
 toestand: 2022-08-05
 bron: "https://wetten.overheid.nl/BWBR0042886"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Vennootschapsbelasting, dividendbelasting, subjectieve vrijstellingen natuurschoonlichamen, pensioenlichamen, zorglichamen en sociale werkbedrijf-lichamen (artikel 5 Wet op de vennootschapsbelasting 1969)

@@ -9,7 +9,7 @@ laatste_update: 2019-12-18
 status: geldig
 toestand: 2019-12-18
 bron: "https://wetten.overheid.nl/BWBR0042901"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 9 december 2019, nr 2756384, houdende instelling van de Commissie Dossier J.A. Poch

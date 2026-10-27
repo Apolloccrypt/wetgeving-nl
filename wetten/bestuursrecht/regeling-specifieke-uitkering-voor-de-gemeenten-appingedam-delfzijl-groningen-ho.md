@@ -9,7 +9,7 @@ laatste_update: 2020-10-01
 status: geldig
 toestand: 2020-10-01
 bron: "https://wetten.overheid.nl/BWBR0042408"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat van 12 juli 2019, nr. WJZ/ 19151243, houdende een specifieke uitkering voor de gemeenten Appingedam, Delfzijl, Groningen, Hogeland, Loppersum, Midden-Groningen en de provincie Groningen in verband met de uitvoering van het Nationaal programma Groningen

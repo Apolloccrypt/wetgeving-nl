@@ -9,7 +9,7 @@ laatste_update: 2019-06-19
 status: geldig
 toestand: 2019-06-19
 bron: "https://wetten.overheid.nl/BWBR0042299"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Wet van 29 mei 2019 tot wijziging van de Crisis- en herstelwet in verband met het versnellen van woningbouw en het faciliteren van duurzame ontwikkeling, zoals het verduurzamen van het energiegebruik

@@ -9,7 +9,7 @@ laatste_update: 2019-05-07
 status: geldig
 toestand: 2019-05-07
 bron: "https://wetten.overheid.nl/BWBR0042179"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 25 april 2019 nr. WJZ/6093459, houdende regels voor de verstrekking van subsidie aan rijksmonumenteneigenaren voor de in 2019 gemaakte drukkende onderhoudskosten in het kader van een vóór 2019 aangevangen onderhoudsproject (Subsidieregeling overgang afschaffing fiscale aftrek van uitgaven voor monumentenpanden)

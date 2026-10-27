@@ -9,7 +9,7 @@ laatste_update: 2019-10-02
 status: geldig
 toestand: 2019-10-02
 bron: "https://wetten.overheid.nl/BWBR0042603"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Besluit van 20 september 2019, nr. 2016001827, houdende gelijkstelling van 22 mei 2020, 14 mei 2021 en 27 mei 2022 met een algemeen erkende feestdag

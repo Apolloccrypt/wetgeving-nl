@@ -9,7 +9,7 @@ laatste_update: 2026-02-19
 status: geldig
 toestand: 2026-02-19
 bron: "https://wetten.overheid.nl/BWBR0042450"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 15 juli 2019, nr. 2019-0000097655, houdende de inrichting van de directie Uitvoeringstaken Arbeidsvoorwaardenwetgeving, alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Uitvoeringstaken Arbeidsvoorwaardenwetgeving (Organisatie-, mandaat- en volmachtbesluit directie UAW 2019)

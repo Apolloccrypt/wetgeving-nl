@@ -9,7 +9,7 @@ laatste_update: 2019-06-13
 status: geldig
 toestand: 2019-06-13
 bron: "https://wetten.overheid.nl/BWBR0042281"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Minister van Financiën en de Minister van Sociale Zaken en Werkgelegenheid van 29 mei 2019, kenmerk 2019-0000078866, directie Financiële Markten, tot vaststelling van de bandbreedtes en tarieven, bedoeld in artikel 9, eerste lid, van het Besluit bekostiging financieel toezicht 2019, voor het jaar 2019 (Regeling bekostiging financieel toezicht 2019)

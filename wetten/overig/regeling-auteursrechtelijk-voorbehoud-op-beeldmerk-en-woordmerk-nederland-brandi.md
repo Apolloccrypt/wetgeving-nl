@@ -9,7 +9,7 @@ laatste_update: 2019-11-09
 status: geldig
 toestand: 2019-11-09
 bron: "https://wetten.overheid.nl/BWBR0042742"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 4 november 2019, houdende een auteursrechtelijk voorbehoud op het beeldmerk en woordmerk die zullen worden gebruikt ten behoeve van ‘Nederland Branding’

@@ -9,7 +9,7 @@ laatste_update: 2025-02-19
 status: geldig
 toestand: 2025-02-19
 bron: "https://wetten.overheid.nl/BWBR0042734"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Besluit van 24 oktober 2019, houdende enkele bepalingen met betrekking tot ambtenaren werkzaam bij vertegenwoordigingen van het Koninkrijk

@@ -8,7 +8,7 @@ laatste_update: 2019-10-08
 status: geldig
 toestand: 2019-10-08
 bron: "https://wetten.overheid.nl/BWBR0042617"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Accountantsprotocol Verantwoordingen Zorg- en beheerskosten gemaakt t.b.v. verdragsgerechtigden

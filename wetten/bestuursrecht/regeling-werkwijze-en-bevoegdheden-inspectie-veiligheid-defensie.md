@@ -8,7 +8,7 @@ laatste_update: 2019-04-19
 status: geldig
 toestand: 2019-04-19
 bron: "https://wetten.overheid.nl/BWBR0042123"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Regeling werkwijze en bevoegdheden Inspectie Veiligheid Defensie

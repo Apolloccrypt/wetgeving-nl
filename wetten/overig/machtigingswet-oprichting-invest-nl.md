@@ -9,7 +9,7 @@ laatste_update: 2022-03-02
 status: geldig
 toestand: 2022-03-02
 bron: "https://wetten.overheid.nl/BWBR0042840"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Wet van 20 november 2019, houdende machtiging tot oprichting van de Nederlandse financierings- en ontwikkelingsinstelling Invest-NL (Machtigingswet oprichting Invest-NL)

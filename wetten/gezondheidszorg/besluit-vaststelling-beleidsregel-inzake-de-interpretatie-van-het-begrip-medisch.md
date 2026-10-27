@@ -9,7 +9,7 @@ laatste_update: 2019-04-05
 status: geldig
 toestand: 2019-04-05
 bron: "https://wetten.overheid.nl/BWBR0042095"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister voor Medische Zorg van 27 maart 2019, kenmerk 1506290-188241-GMT, houdende de vaststelling van een beleidsregel inzake de interpretatie van het begrip medisch hulpmiddel

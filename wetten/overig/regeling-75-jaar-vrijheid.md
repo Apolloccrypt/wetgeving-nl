@@ -8,7 +8,7 @@ laatste_update: 2019-10-01
 status: geldig
 toestand: 2019-10-01
 bron: "https://wetten.overheid.nl/BWBR0042606"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Regeling 75 jaar vrijheid

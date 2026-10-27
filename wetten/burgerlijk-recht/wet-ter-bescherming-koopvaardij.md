@@ -9,7 +9,7 @@ laatste_update: 2022-02-01
 status: geldig
 toestand: 2022-02-01
 bron: "https://wetten.overheid.nl/BWBR0042278"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Wet van 15 mei 2019, houdende regels voor de inzet van gewapende particuliere maritieme beveiligers aan boord van Nederlandse koopvaardijschepen (Wet ter Bescherming Koopvaardij)

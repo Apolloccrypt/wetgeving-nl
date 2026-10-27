@@ -9,7 +9,7 @@ laatste_update: 2019-11-13
 status: geldig
 toestand: 2019-11-13
 bron: "https://wetten.overheid.nl/BWBR0042759"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Besluit van 31 oktober 2019, houdende departementale herindeling met betrekking tot versterking gebouwen en toekomstbestendig maken van Groningen

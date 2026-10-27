@@ -8,7 +8,7 @@ laatste_update: 2019-10-23
 status: geldig
 toestand: 2019-10-23
 bron: "https://wetten.overheid.nl/BWBR0042690"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Huishoudelijk Reglement van de Stichting Fonds voor Cultuurparticipatie 2019

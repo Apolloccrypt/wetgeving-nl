@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0042111"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Wet van 27 maart 2019 tot wijziging van enige wetten en het treffen van voorzieningen in verband met de terugtrekking van het Verenigd Koninkrijk uit de Europese Unie (Verzamelwet Brexit)

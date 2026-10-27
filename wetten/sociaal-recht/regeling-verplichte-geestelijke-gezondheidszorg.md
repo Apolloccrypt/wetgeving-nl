@@ -9,7 +9,7 @@ laatste_update: 2023-09-02
 status: geldig
 toestand: 2023-09-02
 bron: "https://wetten.overheid.nl/BWBR0042740"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 31 oktober 2019, kenmerk 1604148-181029-WJZ, houdende nadere regels voor het kunnen verlenen van verplichte zorg aan een persoon met een psychische stoornis (Regeling verplichte geestelijke gezondheidszorg)

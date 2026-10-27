@@ -8,7 +8,7 @@ laatste_update: 2019-12-14
 status: geldig
 toestand: 2019-12-14
 bron: "https://wetten.overheid.nl/BWBR0042885"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Inkomstenbelasting, buitenlandse belastingplichtigen, pro-rata-aftrek persoonlijke aftrekposten en tegemoetkomingen als niet is voldaan aan de 90%-eis

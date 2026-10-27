@@ -9,7 +9,7 @@ laatste_update: 2019-06-06
 status: geldig
 toestand: 2019-06-06
 bron: "https://wetten.overheid.nl/BWBR0042264"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van 17 mei 2019, houdende vaststelling van de rechtspositie van de leden van de Autoriteit persoonsgegevens (Besluit rechtspositie leden Autoriteit persoonsgegevens)

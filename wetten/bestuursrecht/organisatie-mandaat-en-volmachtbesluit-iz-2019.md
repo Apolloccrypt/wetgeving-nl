@@ -9,7 +9,7 @@ laatste_update: 2023-09-14
 status: geldig
 toestand: 2023-09-14
 bron: "https://wetten.overheid.nl/BWBR0042445"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 15 juli 2019, nr. 2019-0000097647, houdende de inrichting van de directie Internationale Zaken alsmede doorverlening van vertegenwoordigings-bevoegdheden van de directeur Internationale Zaken (Organisatie-, mandaat- en volmachtbesluit IZ 2019)

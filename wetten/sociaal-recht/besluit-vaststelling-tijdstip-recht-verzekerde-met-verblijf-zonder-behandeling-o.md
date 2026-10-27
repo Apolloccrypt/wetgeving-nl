@@ -9,7 +9,7 @@ laatste_update: 2020-02-01
 status: geldig
 toestand: 2020-02-01
 bron: "https://wetten.overheid.nl/BWBR0042876"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Besluit van 21 november 2019, houdende vaststelling van het tijdstip tot wanneer de verzekerde met verblijf zonder behandeling geen recht heeft op mobiliteitshulpmiddelen op grond van de Wlz

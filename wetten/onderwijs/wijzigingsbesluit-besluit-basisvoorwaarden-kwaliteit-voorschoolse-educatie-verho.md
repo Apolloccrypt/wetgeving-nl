@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0042633"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Besluit van 20 september 2019 tot wijziging van het Besluit basisvoorwaarden kwaliteit voorschoolse educatie in verband met de verhoging van het minimaal aantal uren aanbod voorschoolse educatie en de inzet van een pedagogisch beleidsmedewerker

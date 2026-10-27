@@ -8,7 +8,7 @@ laatste_update: 2019-04-25
 status: geldig
 toestand: 2019-04-25
 bron: "https://wetten.overheid.nl/BWBR0042147"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Circulaire digitale aanlevering dubbelen burgerlijke stand en latere vermeldingen

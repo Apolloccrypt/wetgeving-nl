@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0042739"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Wet van 27 september 2019 tot wijziging van enige wetten in verband met de normalisering van de rechtspositie van ambtenaren in het onderwijs

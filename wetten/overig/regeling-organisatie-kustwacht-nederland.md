@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0042251"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat en van de Minister van Defensie, van 25 mei 2019, nr. IENW/BSK-2019/95910, tot vaststelling van de organisatie van de Kustwacht voor Nederland (Regeling organisatie Kustwacht Nederland)

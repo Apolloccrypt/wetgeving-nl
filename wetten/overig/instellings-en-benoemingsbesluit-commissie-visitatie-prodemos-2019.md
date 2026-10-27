@@ -9,7 +9,7 @@ laatste_update: 2019-10-22
 status: geldig
 toestand: 2019-10-22
 bron: "https://wetten.overheid.nl/BWBR0042685"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 10 oktober 2019 met kenmerk 2019-0000509315, tot instelling en benoeming van een commissie voor de visitatie van ProDemos 2019

@@ -9,7 +9,7 @@ laatste_update: 2023-01-03
 status: geldig
 toestand: 2023-01-03
 bron: "https://wetten.overheid.nl/BWBR0042903"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken in overeenstemming met de Minister van Financiën van 9 december 2019, Min-BuZa.2019.4620-11, tot vaststelling van enkele bepalingen met het oog op de tenuitvoerlegging van sanctieresoluties van de Veiligheidsraad van de Verenigde Naties voorafgaand aan implementatie daarvan door de Europese Unie (Sanctieregeling overbrugging tenuitvoerlegging sanctieresoluties van de Veiligheidsraad van de Verenigde Naties 2019)

@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-07-14
 toestand: 2025-10-30
 bron: "https://wetten.overheid.nl/BWBR0042419"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap en de Minister voor Basis- en Voortgezet Onderwijs en Media van 8 juli 2019, nr. MBO/5897553, houdende regels voor het verstrekken van subsidie ten behoeve van het organiseren van nationale vakwedstrijden in het voortgezet onderwijs en beroepsonderwijs alsmede het voorbereiden op en deelname aan internationale vakwedstrijden in het beroepsonderwijs (Regeling vakwedstrijden vmbo en mbo)

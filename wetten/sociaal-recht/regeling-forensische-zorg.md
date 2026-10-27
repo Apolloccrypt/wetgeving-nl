@@ -9,7 +9,7 @@ laatste_update: 2021-11-05
 status: geldig
 toestand: 2021-11-05
 bron: "https://wetten.overheid.nl/BWBR0042412"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Minister voor Rechtsbescherming van 5 juli 2019, nummer 2628872, houdende de regels forensische zorg (Regeling forensische zorg)

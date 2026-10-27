@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0042732"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Wet van 15 mei 2019 tot wijziging van de Woningwet, de Wet algemene bepalingen omgevingsrecht en het Burgerlijk Wetboek in verband met de invoering van een nieuw stelsel van kwaliteitsborging voor het bouwen en de versterking van de positie van de bouwconsument (Wet kwaliteitsborging voor het bouwen)

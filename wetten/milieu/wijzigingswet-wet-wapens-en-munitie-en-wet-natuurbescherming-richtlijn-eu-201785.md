@@ -9,7 +9,7 @@ laatste_update: 2019-07-23
 status: geldig
 toestand: 2019-07-23
 bron: "https://wetten.overheid.nl/BWBR0042438"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Wet van 5 juni 2019 tot wijziging van de Wet wapens en munitie in verband met de Richtlijn (EU) 2017/853 van het Europees parlement en de Raad van de Europese Unie van 17 mei 2017 tot wijziging van Richtlijn 91/477/EEG van de Raad inzake de controle op de verwerving en het voorhanden hebben van wapens (PbEU 2017, L 137/22)

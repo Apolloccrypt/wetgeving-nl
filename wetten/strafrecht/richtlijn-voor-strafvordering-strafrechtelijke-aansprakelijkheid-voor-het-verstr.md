@@ -9,7 +9,7 @@ laatste_update: 2019-11-01
 status: geldig
 toestand: 2019-11-01
 bron: "https://wetten.overheid.nl/BWBR0042303"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Richtlijn voor strafvordering strafrechtelijke aansprakelijkheid voor verstrekken passagiersgegevens door luchtvaartmaatschappijen op basis van wet Passenger Name Records (PNR-wet)

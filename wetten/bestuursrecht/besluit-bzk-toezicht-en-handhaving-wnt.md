@@ -9,7 +9,7 @@ laatste_update: 2019-07-12
 status: geldig
 toestand: 2019-07-12
 bron: "https://wetten.overheid.nl/BWBR0042396"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 6 juni 2019, nr. 2019-0000024213, houdende aanwijzing van toezichthouders op de naleving van de Wet normering topinkomens en het verlenen van mandaat voor de handhaving van die wet op het terrein van Binnenlandse Zaken en Koninkrijksrelaties (Besluit BZK-toezicht en handhaving WNT)

@@ -9,7 +9,7 @@ laatste_update: 2019-10-18
 status: geldig
 toestand: 2019-10-18
 bron: "https://wetten.overheid.nl/BWBR0042223"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 14 mei 2019, nr. 2019-0000061915, tot vaststelling van de rijksbijdrage in de kosten van heffingskortingen voor het jaar 2019

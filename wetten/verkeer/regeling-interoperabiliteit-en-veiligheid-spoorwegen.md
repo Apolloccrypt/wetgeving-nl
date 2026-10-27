@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0042287"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 4 juni 2019, nr. IENW/BSK- 2019/122715, houdende nadere implementatie van richtlijn (EU) 2016/797 van het Europees Parlement en de Raad van 11 mei 2016 betreffende de interoperabiliteit van het spoorwegsysteem in de Europese Unie (PbEU 2016, L 138/44) en van richtlijn (EU) 2016/798 van het Europees Parlement en de Raad van 11 mei 2016 inzake veiligheid op het spoor (PbEU 2016, L 138/102) (Regeling interoperabiliteit en veiligheid spoorwegen)

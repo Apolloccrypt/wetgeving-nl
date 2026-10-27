@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0042213"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Wet van 24 april 2019 tot wijziging van de Luchtvaartwet en de Luchtvaartwet BES in verband met de uitvoering van Verordening (EG) nr. 300/2008 van het Europees Parlement en de Raad van 11 maart 2008 inzake gemeenschappelijke regels op het gebied van de beveiliging van de burgerluchtvaart en tot intrekking van Verordening (EG) nr. 2320/2002 (Pb EU 2008, L 97/72) en enkele andere verordeningen op het gebied van de beveiliging van de burgerluchtvaart (Uitvoeringswet EG-verordening 300/2008)

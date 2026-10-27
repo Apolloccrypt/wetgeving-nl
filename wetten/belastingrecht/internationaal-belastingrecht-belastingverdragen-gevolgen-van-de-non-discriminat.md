@@ -8,7 +8,7 @@ laatste_update: 2019-12-21
 status: geldig
 toestand: 2019-12-21
 bron: "https://wetten.overheid.nl/BWBR0042922"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Internationaal belastingrecht, belastingverdragen; gevolgen van de non-discriminatiebepalingen (België, Suriname en Aruba) voor de Wet inkomstenbelasting 2001

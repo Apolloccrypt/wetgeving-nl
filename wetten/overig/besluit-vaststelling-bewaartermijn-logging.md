@@ -9,7 +9,7 @@ laatste_update: 2019-09-01
 status: geldig
 toestand: 2019-09-01
 bron: "https://wetten.overheid.nl/BWBR0042391"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister voor Medische Zorg van 27 juni 2019, kenmerk 1529221-190512-WJZ, houdende vaststelling van een bewaartermijn voor logging

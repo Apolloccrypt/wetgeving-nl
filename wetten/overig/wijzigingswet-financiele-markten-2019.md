@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0042420"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Wet van 3 juli 2019 tot wijziging van de Wet op het financieel toezicht en enige andere wetten op het terrein van de financiële markten (Wijzigingswet financiële markten 2019)

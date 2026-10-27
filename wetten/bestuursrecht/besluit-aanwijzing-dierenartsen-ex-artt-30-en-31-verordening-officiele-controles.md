@@ -9,7 +9,7 @@ laatste_update: 2026-05-22
 status: geldig
 toestand: 2026-05-22
 bron: "https://wetten.overheid.nl/BWBR0042889"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 10 december 2019, nr. WJZ/ 19260258 , tot aanwijzing van dierenartsen als bedoeld in artikel 30 en 31 van Verordening officiële controles

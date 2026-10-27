@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0042708"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat van 18 oktober 2019, nr. WJZ/ 19240234, tot vaststelling van het percentage duurzame elektriciteit van de totale hoeveelheid elektriciteit die wordt opgewekt door middel van niet-zuivere biomassa in een afvalverbrandingsinstallatie 2020

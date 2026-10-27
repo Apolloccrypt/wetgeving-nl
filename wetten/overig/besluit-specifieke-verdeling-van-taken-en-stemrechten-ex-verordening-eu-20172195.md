@@ -9,7 +9,7 @@ laatste_update: 2020-02-01
 status: geldig
 toestand: 2020-02-01
 bron: "https://wetten.overheid.nl/BWBR0042846"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat, houdende specifieke verdeling van taken en stemrechten in verband met Verordening (EU) 2017/2195 van de Commissie tot vaststelling van richtsnoeren voor elektriciteitsbalancering

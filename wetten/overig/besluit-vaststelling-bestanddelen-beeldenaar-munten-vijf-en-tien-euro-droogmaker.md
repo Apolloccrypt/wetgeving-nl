@@ -9,7 +9,7 @@ laatste_update: 2019-08-24
 status: geldig
 toestand: 2019-08-24
 bron: "https://wetten.overheid.nl/BWBR0042498"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van 18 juni 2019, houdende vaststelling van de bestanddelen van de beeldenaar van de munten van vijf en tien euro met als thema Droogmakerij de Beemster die in 2019 worden uitgegeven in de serie Nederlands Werelderfgoed

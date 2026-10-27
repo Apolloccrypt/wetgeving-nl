@@ -9,7 +9,7 @@ laatste_update: 2019-05-21
 status: geldig
 toestand: 2019-05-21
 bron: "https://wetten.overheid.nl/BWBR0042219"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 16 mei 2019 nr. BOACAT2019/023, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Moerdijk

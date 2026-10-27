@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0042892"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Besluit tot intrekking aanwijzing B3 status van inactieve B3-lichamen

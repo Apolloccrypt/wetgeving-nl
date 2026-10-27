@@ -9,7 +9,7 @@ laatste_update: 2019-12-01
 status: geldig
 toestand: 2019-12-01
 bron: "https://wetten.overheid.nl/BWBR0042691"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Besluit van 17 september 2019, tot toekenning van het vaandelopschrift «Helmand, Kandahar en Uruzgan» aan het Korps Mariniers

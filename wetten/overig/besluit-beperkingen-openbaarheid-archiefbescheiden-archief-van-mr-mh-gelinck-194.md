@@ -9,7 +9,7 @@ laatste_update: 2019-04-05
 status: geldig
 toestand: 2019-04-05
 bron: "https://wetten.overheid.nl/BWBR0042094"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Besluit tot het stellen van beperkingen aan de openbaarheid van archiefbescheiden geborgen in het archief van mr. M.H. Gelinck 1946–1974, nummer archiefinventaris 2.21.281.40

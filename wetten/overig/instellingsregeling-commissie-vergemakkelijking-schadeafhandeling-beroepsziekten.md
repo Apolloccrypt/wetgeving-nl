@@ -9,7 +9,7 @@ laatste_update: 2019-06-29
 status: geldig
 toestand: 2019-06-29
 bron: "https://wetten.overheid.nl/BWBR0042348"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-27
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid en de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 24 juni 2019, 2019-0000090547, tot instelling van de Commissie vergemakkelijking schadeafhandeling beroepsziekten (Instellingsregeling commissie vergemakkelijking schadeafhandeling beroepsziekten)

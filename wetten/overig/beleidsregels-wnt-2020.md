@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0042784"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-27
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 29 oktober 2019, nr. 2019-0000473424, houdende vaststelling van beleidsregels inzake de toepassing van de Wet normering topinkomens met ingang van 1 januari 2020 (Beleidsregels WNT 2020)
