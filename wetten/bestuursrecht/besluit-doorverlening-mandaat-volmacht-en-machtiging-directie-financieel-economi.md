@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0043032"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de directeur Financieel-Economische Zaken van 1 januari 2020, nr. 4091298, houdende doorverlening mandaat, volmacht en machtiging aan een medewerker binnen de directie Financieel-Economische Zaken

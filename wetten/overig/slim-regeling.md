@@ -9,7 +9,7 @@ laatste_update: 2026-05-23
 status: geldig
 toestand: 2026-05-23
 bron: "https://wetten.overheid.nl/BWBR0043015"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 16 december 2019, nr. 2019-0000139944, tot het verstrekken van subsidies in het kader van leren en ontwikkelen in het mkb en in het grootbedrijf in de sectoren landbouw, horeca en recreatie (Stimuleringsregeling voor leren en ontwikkelen in mkb-ondernemingen en specifiek voor de grootbedrijven in de landbouw-, horeca- of recreatiesector)

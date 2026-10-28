@@ -9,7 +9,7 @@ laatste_update: 2020-04-17
 status: geldig
 toestand: 2020-04-17
 bron: "https://wetten.overheid.nl/BWBR0043389"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister van Financiën, van 10 maart 2020, tot instelling van de Werkgroep Discontovoet

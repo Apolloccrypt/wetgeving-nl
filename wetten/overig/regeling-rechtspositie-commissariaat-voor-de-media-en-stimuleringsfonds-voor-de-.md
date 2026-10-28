@@ -9,7 +9,7 @@ laatste_update: 2020-10-01
 status: geldig
 toestand: 2020-10-01
 bron: "https://wetten.overheid.nl/BWBR0043929"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 7 juli 2020, nr. 24938080, houdende regels met betrekking tot de rechtspositie van de voorzitter en leden van het Commissariaat voor de Media en de leden van het bestuur van het Stimuleringsfonds voor de journalistiek (Regeling rechtspositie Commissariaat voor de Media en Stimuleringsfonds voor de Journalistiek)

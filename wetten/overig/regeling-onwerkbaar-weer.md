@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0043008"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 19 december 2019, 2019-0000157117, tot vaststelling van omstandigheden en daarbij geldende voorwaarden waarbij de verplichting tot loondoorbetaling niet geldt (Regeling onwerkbaar weer)

@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0042937"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Wet van 18 december 2019 tot wijziging van de Wet op de omzetbelasting 1968 (Wet implementatie richtlijn harmonisatie en vereenvoudiging handelsverkeer tussen lidstaten)

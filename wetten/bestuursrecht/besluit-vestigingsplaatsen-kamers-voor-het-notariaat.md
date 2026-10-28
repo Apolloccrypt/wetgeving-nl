@@ -9,7 +9,7 @@ laatste_update: 2020-07-01
 status: geldig
 toestand: 2020-07-01
 bron: "https://wetten.overheid.nl/BWBR0043542"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van 11 mei 2020 tot vaststelling van het Besluit vestigingsplaatsen kamers voor het notariaat

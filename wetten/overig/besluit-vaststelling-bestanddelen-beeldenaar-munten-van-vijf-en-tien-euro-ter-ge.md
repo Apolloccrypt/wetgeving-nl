@@ -9,7 +9,7 @@ laatste_update: 2020-05-05
 status: geldig
 toestand: 2020-05-05
 bron: "https://wetten.overheid.nl/BWBR0043374"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van 16 maart 2020, houdende vaststelling van de bestanddelen van de beeldenaar van de munten van vijf en tien euro die in 2020 worden uitgegeven ter gelegenheid van 75 jaar vrijheid

@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-04-30
 toestand: 2020-07-25
 bron: "https://wetten.overheid.nl/BWBR0043959"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 17 juli 2020, nr. 2957977, houdende vaststelling van modellen van akte ten behoeve van de kennisgeving van gerechtelijke mededelingen van de Hoge Raad der Nederlanden

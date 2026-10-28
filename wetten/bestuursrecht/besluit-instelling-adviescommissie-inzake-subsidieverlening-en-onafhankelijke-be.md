@@ -9,7 +9,7 @@ laatste_update: 2020-08-05
 status: geldig
 toestand: 2020-08-05
 bron: "https://wetten.overheid.nl/BWBR0043980"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Besluit tot instelling van een adviescommissie inzake subsidieverlening en een onafhankelijke bezwarenadviescommissie op de voet van artikel 7:13 van de Algemene wet bestuursrecht bij de uitvoering van Subsidiebeleidsregeling Kleinschalige Voorzieningen voor de regio’s Rotterdam-Rijnmond en Den Haag

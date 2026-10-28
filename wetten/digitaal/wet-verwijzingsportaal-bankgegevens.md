@@ -9,7 +9,7 @@ laatste_update: 2020-09-10
 status: geldig
 toestand: 2020-09-10
 bron: "https://wetten.overheid.nl/BWBR0043570"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Wet van 22 april 2020 tot wijziging van de Wet op het financieel toezicht in verband met het via een centraal elektronisch systeem geautomatiseerd ontsluiten van identificerende gegevens alsmede enkele andere gegevens door banken en andere betaaldienstverleners (Wet verwijzingsportaal bankgegevens)

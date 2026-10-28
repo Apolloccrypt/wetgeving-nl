@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0043557"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 15 mei 2020, nr. 2020-0000027462, houdende nadere regels met betrekking tot verstrekking van een specifieke uitkering aan gemeenten ten behoeve van het versnellen van de bouw van betaalbare woningen in een kwalitatief goede leefomgeving (Regeling Woningbouwimpuls 2020)

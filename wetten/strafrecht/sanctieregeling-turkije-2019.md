@@ -9,7 +9,7 @@ laatste_update: 2020-01-07
 status: geldig
 toestand: 2020-01-07
 bron: "https://wetten.overheid.nl/BWBR0043053"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 19 december 2019, nr. MinBuZa.2019.4731-13, houdende beperkende maatregelen in het licht van ongeoorloofde booractiviteiten van Turkije in het oostelijk deel van de Middellandse Zee (Sanctieregeling Turkije 2019)

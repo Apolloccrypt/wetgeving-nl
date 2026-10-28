@@ -8,7 +8,7 @@ laatste_update: 2020-07-10
 status: geldig
 toestand: 2020-07-10
 bron: "https://wetten.overheid.nl/BWBR0043838"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Besluit vaststelling selectielijst Keurmerkinstituut vanaf [1997] 1998

@@ -8,7 +8,7 @@ laatste_update: 2020-01-29
 status: geldig
 toestand: 2020-01-29
 bron: "https://wetten.overheid.nl/BWBR0043109"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Subsidieregeling uitelkaar.nl 2020

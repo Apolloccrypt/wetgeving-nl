@@ -9,7 +9,7 @@ laatste_update: 2021-03-01
 status: geldig
 toestand: 2021-03-01
 bron: "https://wetten.overheid.nl/BWBR0043194"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Wet van 5 februari 2020, houdende regels betreffende beschermende maatregelen tegen schadelijke organismen bij planten (Plantgezondheidswet)

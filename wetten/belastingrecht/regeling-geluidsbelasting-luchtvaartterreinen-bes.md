@@ -9,7 +9,7 @@ laatste_update: 2020-10-01
 status: geldig
 toestand: 2020-10-01
 bron: "https://wetten.overheid.nl/BWBR0043966"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 25 juli 2020, nr. IENW/BSK-2020/128685 houdende regels voor de wijze van berekenen van geluidsbelasting veroorzaakt door luchtvaartuigen die gebruikmaken van de luchtvaartterreinen in de openbare lichamen Bonaire, Sint Eustatius en Saba (Regeling geluidsbelasting luchtvaartterreinen BES)

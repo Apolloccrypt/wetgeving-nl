@@ -9,7 +9,7 @@ laatste_update: 2020-03-25
 status: geldig
 toestand: 2020-03-25
 bron: "https://wetten.overheid.nl/BWBR0043310"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 22 maart 2020, nr. IENW/BSK-2018/98566, tot wijziging van de Gemeenschappelijke regeling schadevergoedingsschap HSL-Zuid, A16 en A4

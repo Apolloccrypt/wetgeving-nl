@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0043724"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 9 juni 2020, kenmerk 2903199, over radiodekking ten behoeve van de C2000-dienstverlening in bouwwerken (Regeling radiodekking C2000 in bouwwerken)

@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0043818"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Besluit van 3 juli 2020, houdende tijdelijke regels voor de toekenning van een specifieke uitkering aan gemeenten en provincies ten behoeve van innovatie in de digitale dienstverlening (Tijdelijk besluit specifieke uitkering verbetering digitale dienstverlening)

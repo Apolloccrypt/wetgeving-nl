@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0043677"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Besluit van het college voor Toetsen en Examens van 8 juni 2020 nummer CvTE – 20.01006, houdende regels inzake de uitslag van het staatsexamen voortgezet onderwijs BES in het examenjaar 2020 (Besluit staatsexamens VO BES 2020)

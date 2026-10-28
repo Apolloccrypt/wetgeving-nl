@@ -9,7 +9,7 @@ laatste_update: 2024-12-31
 status: geldig
 toestand: 2024-12-31
 bron: "https://wetten.overheid.nl/BWBR0043005"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Beleidsregel van de raad voor rechtsbijstand over verstrekking van een tijdelijke aanvullende vergoeding voor verleende rechtsbijstand en verrichte mediation in de jaren 2020 en 2021

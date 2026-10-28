@@ -8,7 +8,7 @@ laatste_update: 2020-07-24
 status: geldig
 toestand: 2020-07-24
 bron: "https://wetten.overheid.nl/BWBR0043928"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Besluit permanente educatie Wbtv

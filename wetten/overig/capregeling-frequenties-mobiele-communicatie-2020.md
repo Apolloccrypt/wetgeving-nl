@@ -9,7 +9,7 @@ laatste_update: 2024-02-15
 status: geldig
 toestand: 2024-02-15
 bron: "https://wetten.overheid.nl/BWBR0043243"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 6 maart 2020, nr. WJZ/20063207, tot vaststelling van de maximale hoeveelheid frequentieruimte voor mobiele communicatie (Capregeling frequenties mobiele communicatie 2020)

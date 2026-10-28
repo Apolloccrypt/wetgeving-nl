@@ -9,7 +9,7 @@ laatste_update: 2025-07-05
 status: geldig
 toestand: 2025-07-05
 bron: "https://wetten.overheid.nl/BWBR0043797"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Wet van 10 juni 2020, houdende regels in verband met de uitbreiding van het toezicht op nieuwe zorgaanbieders (Wet toetreding zorgaanbieders)

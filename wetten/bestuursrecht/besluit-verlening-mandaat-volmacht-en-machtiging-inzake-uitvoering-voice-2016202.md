@@ -9,7 +9,7 @@ laatste_update: 2021-03-27
 status: geldig
 toestand: 2021-03-27
 bron: "https://wetten.overheid.nl/BWBR0043221"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 21 januari 2020, nr. Min-BuZa.2019.4758-25, tot verlening van mandaat, volmacht en machtiging inzake uitvoering van het Voice 2016–2024 Fonds

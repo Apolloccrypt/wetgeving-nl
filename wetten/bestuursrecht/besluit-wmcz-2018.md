@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0043098"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van 13 januari 2020, houdende regels over de reikwijdte van de Wet medezeggenschap cliënten zorginstellingen 2018 en de inperking van de verplichting tot het instellen van een cliëntenraad (Besluit Wmcz 2018)

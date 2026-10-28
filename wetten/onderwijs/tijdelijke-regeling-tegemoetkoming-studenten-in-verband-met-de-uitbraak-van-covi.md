@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0043922"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 7 juli 2020, nr. 24674751, houdende tegemoetkoming voor studievertraging in verband met de uitbraak van COVID-19 (Tijdelijke regeling tegemoetkoming studenten in verband met de uitbraak van COVID-19)

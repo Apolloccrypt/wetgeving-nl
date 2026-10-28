@@ -9,7 +9,7 @@ laatste_update: 2020-09-01
 status: geldig
 toestand: 2020-09-01
 bron: "https://wetten.overheid.nl/BWBR0043857"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Aanwijzing van de Minister voor Medische Zorg van 29 juni 2020, kenmerk 1708250-207156-PZo, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake de resterende overheveling van de geneeskundige zorg voor specifieke patiëntgroepen

@@ -8,7 +8,7 @@ laatste_update: 2020-05-31
 status: geldig
 toestand: 2020-05-31
 bron: "https://wetten.overheid.nl/BWBR0043580"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit vaststelling selectielijst ZonMw over de periode vanaf 21 mei 2001

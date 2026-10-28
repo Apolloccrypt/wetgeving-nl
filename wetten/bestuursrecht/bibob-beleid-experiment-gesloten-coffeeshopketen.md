@@ -9,7 +9,7 @@ laatste_update: 2020-07-01
 status: geldig
 toestand: 2020-07-01
 bron: "https://wetten.overheid.nl/BWBR0043745"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister voor Medische Zorg en de Minister van Justitie en Veiligheid van 1 maart 2020, kenmerk 1616044-199023-VGP, houdende de vaststelling van beleidsregels inzake het toepassen van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur in het kader van het Experiment gesloten coffeeshopketen (Bibob-beleid Experiment gesloten coffeeshopketen)

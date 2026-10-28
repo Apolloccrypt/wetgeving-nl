@@ -9,7 +9,7 @@ laatste_update: 2021-09-18
 status: geldig
 toestand: 2021-09-18
 bron: "https://wetten.overheid.nl/BWBR0043321"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Beleidsregels van de Raad van bestuur van Zorginstituut Nederland van 25 februari 2020, kenmerk 2019059528, ter verdeling besteedbare middelen beheerskosten Wlz 2020

@@ -9,7 +9,7 @@ laatste_update: 2026-04-18
 status: geldig
 toestand: 2026-04-18
 bron: "https://wetten.overheid.nl/BWBR0042974"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 6 december 2019, kenmerk 1617702-199192-J, houdende regels voor het verstrekken van subsidie voor continuïteit van cruciale jeugdzorg (Subsidieregeling continuïteit cruciale jeugdzorg)

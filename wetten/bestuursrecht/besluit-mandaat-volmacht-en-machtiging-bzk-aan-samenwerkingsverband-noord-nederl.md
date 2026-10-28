@@ -9,7 +9,7 @@ laatste_update: 2020-04-07
 status: geldig
 toestand: 2020-04-07
 bron: "https://wetten.overheid.nl/BWBR0043355"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 23 maart 2020, nr. 2020-0000071915, houdende regels inzake mandaat, volmacht en machtiging aan het Samenwerkingsverband Noord-Nederland voor het uitvoeren van de Regeling energiebesparing woningen bouwkundig versterkingsprogramma Groningenveld (Besluit mandaat, volmacht en machtiging BZK aan Samenwerkingsverband Noord-Nederland in het kader van de subsidieregeling energiebesparing woningen)

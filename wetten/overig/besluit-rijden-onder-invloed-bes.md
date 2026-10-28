@@ -9,7 +9,7 @@ laatste_update: 2022-07-01
 status: geldig
 toestand: 2022-07-01
 bron: "https://wetten.overheid.nl/BWBR0043727"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Besluit van 10 juni 2020, houdende regels over de onderzoeken die kunnen worden ingezet op Bonaire, Sint Eustatius en Saba ter vaststelling van het gebruik van alcohol of andere stoffen die de rijvaardigheid kunnen beïnvloeden (Besluit rijden onder invloed BES)

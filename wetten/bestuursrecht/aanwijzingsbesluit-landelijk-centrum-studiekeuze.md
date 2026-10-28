@@ -9,7 +9,7 @@ laatste_update: 2024-07-10
 status: geldig
 toestand: 2024-07-10
 bron: "https://wetten.overheid.nl/BWBR0043412"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 17 maart 2020, nr. 23680942 houdende de aanwijzing van een rechtspersoon als bedoeld in artikel 7.15a, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek (Aanwijzingsbesluit Stichting Studiekeuze123)

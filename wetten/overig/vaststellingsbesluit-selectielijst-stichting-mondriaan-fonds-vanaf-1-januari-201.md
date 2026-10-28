@@ -8,7 +8,7 @@ laatste_update: 2020-01-31
 status: geldig
 toestand: 2020-01-31
 bron: "https://wetten.overheid.nl/BWBR0043103"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Vaststellingsbesluit selectielijst Stichting Mondriaan Fonds vanaf 1 januari 2012

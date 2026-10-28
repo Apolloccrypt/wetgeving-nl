@@ -8,7 +8,7 @@ laatste_update: 2020-07-25
 status: geldig
 toestand: 2020-07-25
 bron: "https://wetten.overheid.nl/BWBR0043933"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Besluit beperking openbaarheid taak- en personeelsarchief Ziekenfondsraad 1949-1999 respectievelijk 1966-1999 van archiefblok P79

@@ -9,7 +9,7 @@ laatste_update: 2020-07-01
 status: geldig
 toestand: 2020-07-01
 bron: "https://wetten.overheid.nl/BWBR0043722"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 17 juni 2020, nr. IenW/BSK-2020/106139, tot wijziging van de Regeling maatregelen rijvaardigheid en geschiktheid 2011 in verband met een aanpassing van betalingstermijnen

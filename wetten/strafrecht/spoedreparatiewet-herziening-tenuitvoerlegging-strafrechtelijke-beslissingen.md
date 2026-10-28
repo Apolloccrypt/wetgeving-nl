@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0043800"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Wet van 24 juni 2020 tot wijziging van het Wetboek van Strafvordering en enkele andere wetten in verband met het doorvoeren van enkele noodzakelijke reparaties en andere kleine wijzigingen (Spoedreparatiewet herziening tenuitvoerlegging strafrechtelijke beslissingen)

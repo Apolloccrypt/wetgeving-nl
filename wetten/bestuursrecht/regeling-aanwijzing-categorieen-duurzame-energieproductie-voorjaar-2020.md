@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0043270"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat van 11 maart 2020, nr. WJZ/ 20030806, houdende aanwijzing van categorieën van productie-installaties voor de stimulering van duurzame energieproductie in het voorjaar van 2020 (Regeling aanwijzing categorieën duurzame energieproductie voorjaar 2020)

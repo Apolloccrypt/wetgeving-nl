@@ -9,7 +9,7 @@ laatste_update: 2020-07-01
 status: geldig
 toestand: 2020-07-01
 bron: "https://wetten.overheid.nl/BWBR0043438"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat van 19 april 2020, nr. WJZ/19207030, houdende regels over werkzaamheden die het Centraal bureau voor de statistiek voor derden verricht (Regeling werkzaamheden derden CBS)

@@ -9,7 +9,7 @@ laatste_update: 2020-03-17
 status: geldig
 toestand: 2020-03-17
 bron: "https://wetten.overheid.nl/BWBR0043272"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 5 maart 2020, nr. WJZ/ 20041948, houdende eenmalige specifieke uitkeringen in verband met de uitvoering van Regio Deals derde tranche (Regeling specifieke uitkering Regio Deals derde tranche)

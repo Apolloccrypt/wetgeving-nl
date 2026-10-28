@@ -9,7 +9,7 @@ laatste_update: 2023-02-01
 status: geldig
 toestand: 2023-02-01
 bron: "https://wetten.overheid.nl/BWBR0043688"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Wet van 17 juni 2020, houdende regels over een tijdelijke voorziening voor de betekening van exploten op grond van het Wetboek van Burgerlijke Rechtsvordering en wijziging van de Loodsenwet, de Algemene wet inzake rijksbelastingen, de Invorderingswet 1990, de Algemene wet inkomensafhankelijke regelingen en de Luchtvaartwet BES in verband met de uitbraak van COVID-19 (Verzamelspoedwet COVID-19)

@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0042963"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van 18 december 2019 tot wijziging van diverse besluiten in verband met de herziening van de tenuitvoerlegging van strafrechtelijke beslissingen (Invoeringsbesluit herziening tenuitvoerlegging strafrechtelijke beslissingen)

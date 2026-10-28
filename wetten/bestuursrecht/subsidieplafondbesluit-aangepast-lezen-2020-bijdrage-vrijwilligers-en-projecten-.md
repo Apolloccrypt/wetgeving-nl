@@ -8,7 +8,7 @@ laatste_update: 2020-02-18
 status: geldig
 toestand: 2020-02-18
 bron: "https://wetten.overheid.nl/BWBR0043187"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Subsidieplafondbesluit Aangepast Lezen 2020 (bijdrage vrijwilligers en projecten), Koninklijke Bibliotheek

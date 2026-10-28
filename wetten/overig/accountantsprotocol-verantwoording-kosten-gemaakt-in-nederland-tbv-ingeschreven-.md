@@ -8,7 +8,7 @@ laatste_update: 2020-05-08
 status: geldig
 toestand: 2020-05-08
 bron: "https://wetten.overheid.nl/BWBR0043465"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Accountantsprotocol verantwoording kosten gemaakt in Nederland t.b.v. ingeschreven tlv buitenland

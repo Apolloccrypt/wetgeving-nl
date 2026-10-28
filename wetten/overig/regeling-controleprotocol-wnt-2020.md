@@ -9,7 +9,7 @@ laatste_update: 2020-07-01
 status: geldig
 toestand: 2020-07-01
 bron: "https://wetten.overheid.nl/BWBR0043725"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 9 juni 2020, nr 2020-0000351254, houdende vaststelling van het Controleprotocol Wet normering topinkomens 2020 (Regeling Controleprotocol WNT 2020)

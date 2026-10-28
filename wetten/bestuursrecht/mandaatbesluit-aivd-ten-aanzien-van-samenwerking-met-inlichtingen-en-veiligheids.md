@@ -9,7 +9,7 @@ laatste_update: 2020-08-01
 status: geldig
 toestand: 2020-08-01
 bron: "https://wetten.overheid.nl/BWBR0043886"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 8 juli 2020, houdende mandaatverlening aan de directeur-generaal van de Algemene Inlichtingen- en Veiligheidsdienst voor het verlenen van toestemming voor het aangaan van een samenwerkingsrelatie met een inlichtingen- en veiligheidsdienst van een ander land en het verlenen van technische en andere vormen van ondersteuning in het kader van een samenwerkingsrelatie (Mandaatbesluit AIVD ten aanzien van samenwerking met inlichtingen- en veiligheidsdiensten van andere landen 2020)

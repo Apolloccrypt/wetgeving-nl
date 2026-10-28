@@ -9,7 +9,7 @@ laatste_update: 2020-01-03
 status: geldig
 toestand: 2020-01-03
 bron: "https://wetten.overheid.nl/BWBR0043043"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de secretaris-generaal van het Ministerie van Algemene Zaken van 1 januari 2020, nr. 4091305, houdende ondermandaat diensthoofden van het ministerie van Algemene Zaken

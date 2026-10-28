@@ -9,7 +9,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBR0043822"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 20 mei 2020, nr. MBO/24508460, houdende regels voor gegevensverstrekking over overstappende jongeren naar het middelbaar beroepsonderwijs (Regeling gegevensverstrekking bij overstap naar het mbo)

@@ -9,7 +9,7 @@ laatste_update: 2020-02-29
 status: geldig
 toestand: 2020-02-29
 bron: "https://wetten.overheid.nl/BWBR0043226"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van het bestuur van de Raad voor Rechtsbijstand tot instelling van de Adviescommissie Subsidieregeling Stelselherziening rechtsbijstand en vaststelling Reglement Adviescommissie Subsidieregeling Stelselherziening rechtsbijstand

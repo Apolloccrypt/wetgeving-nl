@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0043277"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Wet van 19 februari 2020 tot wijziging van de Omgevingswet en enkele andere wetten met het oog op het beschermen van de bodem, met inbegrip van het grondwater, en het duurzaam en doelmatig gebruik van de bodem (Aanvullingswet bodem Omgevingswet)

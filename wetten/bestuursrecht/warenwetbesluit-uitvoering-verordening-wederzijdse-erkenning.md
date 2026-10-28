@@ -9,7 +9,7 @@ laatste_update: 2020-06-09
 status: geldig
 toestand: 2020-06-09
 bron: "https://wetten.overheid.nl/BWBR0043610"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Besluit van 25 mei 2020, houdende vaststelling van regels in verband met de uitvoering van Verordening (EU) 2019/515 betreffende de wederzijdse erkenning van goederen die in een andere lidstaat rechtmatig in de handel zijn gebracht (Warenwetbesluit uitvoering verordening wederzijdse erkenning)

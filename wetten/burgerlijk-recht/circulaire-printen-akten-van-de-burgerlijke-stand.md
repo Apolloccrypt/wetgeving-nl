@@ -8,7 +8,7 @@ laatste_update: 2020-02-28
 status: geldig
 toestand: 2020-02-28
 bron: "https://wetten.overheid.nl/BWBR0043228"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Circulaire printen akten van de burgerlijke stand

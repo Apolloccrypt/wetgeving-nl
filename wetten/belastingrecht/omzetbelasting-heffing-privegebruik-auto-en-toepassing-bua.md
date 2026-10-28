@@ -8,7 +8,7 @@ laatste_update: 2020-07-04
 status: geldig
 toestand: 2020-07-04
 bron: "https://wetten.overheid.nl/BWBR0043783"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Omzetbelasting, heffing privégebruik auto en toepassing BUA

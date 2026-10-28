@@ -9,7 +9,7 @@ laatste_update: 2024-01-16
 status: geldig
 toestand: 2024-01-16
 bron: "https://wetten.overheid.nl/BWBR0043987"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 5 augustus 2020, nr. Min-BuZa.2020.5615-27, houdende beperkende maatregelen tegen cyberaanvallen (Sanctieregeling cyberaanvallen 2020)

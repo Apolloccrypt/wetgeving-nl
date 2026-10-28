@@ -9,7 +9,7 @@ laatste_update: 2020-07-08
 status: geldig
 toestand: 2020-07-08
 bron: "https://wetten.overheid.nl/BWBR0043796"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Wet van 24 juni 2020 tot wijziging van de Handelsregisterwet 2007, de Wet ter voorkoming van witwassen en financieren van terrorisme en enkele andere wetten in verband met de registratie van uiteindelijk belanghebbenden van vennootschappen en andere juridische entiteiten ter implementatie van de gewijzigde vierde anti-witwasrichtlijn (Implementatiewet registratie uiteindelijk belanghebbenden van vennootschappen en andere juridische entiteiten)

@@ -9,7 +9,7 @@ laatste_update: 2022-11-05
 status: geldig
 toestand: 2022-11-05
 bron: "https://wetten.overheid.nl/BWBR0043785"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Wet van 1 juli 2020 tot wijziging van de Algemene wet inkomensafhankelijke regelingen in verband met uitbreiding van de hardheidsclausule en invoering van een hardheidsregeling, een vangnetbepaling, een grondslag voor een compensatieregeling alsmede een O/GS-tegemoetkomingsregeling (Wet hardheidsaanpassing Awir)

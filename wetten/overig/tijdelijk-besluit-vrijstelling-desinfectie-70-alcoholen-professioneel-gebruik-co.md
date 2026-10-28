@@ -9,7 +9,7 @@ laatste_update: 2020-06-16
 status: geldig
 toestand: 2020-06-16
 bron: "https://wetten.overheid.nl/BWBR0043642"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Tijdelijke vrijstelling op grond van artikel 46, eerste lid van de Wet gewasbeschermingsmiddelen en biociden inzake desinfectiemiddelen aangaande 70% alcoholen in verband met de uitbraak COVID-19 (Tijdelijk besluit vrijstelling desinfectie 70% alcoholen professioneel gebruik Covid-19 2020)

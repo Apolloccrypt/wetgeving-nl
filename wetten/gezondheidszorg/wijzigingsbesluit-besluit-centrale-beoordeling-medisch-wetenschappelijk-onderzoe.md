@@ -9,7 +9,7 @@ laatste_update: 2021-05-26
 status: geldig
 toestand: 2021-05-26
 bron: "https://wetten.overheid.nl/BWBR0043631"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Besluit van 2 juni 2020, houdende wijziging van het Besluit centrale beoordeling medisch-wetenschappelijk onderzoek met mensen in verband met wijziging van de categorieën onderzoek waarvan beoordeling door de Centrale Commissie Mensgebonden Onderzoek gewenst is

@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0043012"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de directeur Bedrijfsvoering van 1 januari 2020, nr. 4091296, houdende doorverlening mandaat, volmacht en machtiging aan de medewerkers binnen de directie Bedrijfsvoering

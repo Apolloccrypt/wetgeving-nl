@@ -8,7 +8,7 @@ laatste_update: 2020-12-10
 status: geldig
 toestand: 2020-12-10
 bron: "https://wetten.overheid.nl/BWBR0043222"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Mandaatbesluit directeur 3W

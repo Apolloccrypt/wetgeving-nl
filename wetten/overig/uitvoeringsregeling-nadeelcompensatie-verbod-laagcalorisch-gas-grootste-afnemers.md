@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0043793"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat van 30 juni 2020, nr. WJZ/ 20142740 houdende regels voor de uitvoering van de beoordeling van verzoeken om een vergoeding op grond van artikel 10m van de Gaswet

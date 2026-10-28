@@ -9,7 +9,7 @@ laatste_update: 2020-07-01
 status: geldig
 toestand: 2020-07-01
 bron: "https://wetten.overheid.nl/BWBR0043532"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Wet van 6 maart 2020 tot wijziging van de Politiewet 2012, de Wet veiligheidsregio’s en de Tijdelijke wet ambulancezorg in verband met de wettelijke regeling van meldkamers (Wijzigingswet meldkamers)

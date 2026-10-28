@@ -9,7 +9,7 @@ laatste_update: 2020-03-07
 status: geldig
 toestand: 2020-03-07
 bron: "https://wetten.overheid.nl/BWBR0043245"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Staatssecretaris van Economische Zaken en Klimaat van 6 maart 2020, nr. WJZ/20062913, inzake de keuze voor het instrument veiling van vergunningen voor mobiele communicatie in de 700, 1400 en 2100 MHz-band en de vaststelling van de te veilen vergunningen

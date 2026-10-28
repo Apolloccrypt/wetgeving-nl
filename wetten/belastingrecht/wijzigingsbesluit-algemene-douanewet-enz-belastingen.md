@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0042944"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van 18 december 2019 tot wijziging van de Algemene douanewet, enige uitvoeringsbesluiten op het gebied van de belastingen en enige andere besluiten

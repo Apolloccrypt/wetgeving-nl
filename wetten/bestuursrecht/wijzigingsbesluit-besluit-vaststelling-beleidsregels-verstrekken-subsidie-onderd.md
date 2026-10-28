@@ -9,7 +9,7 @@ laatste_update: 2020-04-17
 status: geldig
 toestand: 2020-04-17
 bron: "https://wetten.overheid.nl/BWBR0043388"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 6 april 2020, nr. BZ.2020.5133-33, tot wijziging van het besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 24 augustus 2016 tot vaststelling van beleidsregels voor het verstrekken van subsidie in het kader van onderdeel 1 van het Dutch Trade and Investment Fund (Wijziging Dutch Trade and Investment Fund)

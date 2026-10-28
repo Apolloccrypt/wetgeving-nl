@@ -9,7 +9,7 @@ laatste_update: 2020-04-28
 status: geldig
 toestand: 2020-04-28
 bron: "https://wetten.overheid.nl/BWBR0043431"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Aanwijzing van de Minister voor Medische Zorg van 23 april 2020, kenmerk 1677978-204496-PZO, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake de meerkosten en continuïteitsbijdrage vanwege het coronavirus in curatieve en forensische zorg

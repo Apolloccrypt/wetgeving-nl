@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0043794"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat van 30 juni 2020, nr. WJZ/ 20169432, tot vaststelling van beleidsregels voor de beoordeling van verzoeken om een vergoeding op grond van artikel 10m van de Gaswet (Beleidsregel nadeelcompensatie verbod laagcalorisch gas grootste afnemers)

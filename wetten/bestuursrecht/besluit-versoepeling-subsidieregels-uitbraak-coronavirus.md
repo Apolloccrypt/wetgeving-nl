@@ -9,7 +9,7 @@ laatste_update: 2020-04-08
 status: geldig
 toestand: 2020-04-08
 bron: "https://wetten.overheid.nl/BWBR0043359"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 6 april 2020, kenmerk 1668653-203752-FEZ, houdende het versoepelen van de regels voor het verantwoorden van subsidies in verband met de uitbraak van het Coronavirus (Besluit versoepeling subsidieregels uitbraak Coronavirus)

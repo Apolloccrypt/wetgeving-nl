@@ -9,7 +9,7 @@ laatste_update: 2023-12-16
 status: geldig
 toestand: 2023-12-16
 bron: "https://wetten.overheid.nl/BWBR0043446"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister van Financiën van 24 april 2020 2020-0000070153, directie Financiële Markten, houdende instelling van de Kwartiermakers toekomst accountancysector (Instellingsbesluit Kwartiermakers toekomst accountancysector)

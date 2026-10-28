@@ -9,7 +9,7 @@ laatste_update: 2020-05-27
 status: geldig
 toestand: 2020-05-27
 bron: "https://wetten.overheid.nl/BWBR0043581"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Waterstaat, van 18 mei 2020, nr. IENW/BSK-2020/83940 houdende vaststelling van het subsidieplafond op grond van de Subsidieregeling VeiligheidNL voor het jaar 2020

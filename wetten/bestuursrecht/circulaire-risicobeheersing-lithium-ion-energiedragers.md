@@ -8,7 +8,7 @@ laatste_update: 2020-07-01
 status: geldig
 toestand: 2020-07-01
 bron: "https://wetten.overheid.nl/BWBR0043769"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Circulaire risicobeheersing lithium-ion energiedragers

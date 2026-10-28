@@ -9,7 +9,7 @@ laatste_update: 2020-07-30
 status: geldig
 toestand: 2020-07-30
 bron: "https://wetten.overheid.nl/BWBR0043951"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Vaststelling selectielijst archiefbescheiden provinciale organen vanaf 1 januari 2020

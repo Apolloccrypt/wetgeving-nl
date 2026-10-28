@@ -9,7 +9,7 @@ laatste_update: 2026-04-22
 status: geldig
 toestand: 2026-04-22
 bron: "https://wetten.overheid.nl/BWBR0043027"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister van Financiën van 18 december 2019 tot vaststelling van het Organisatiebesluit Ministerie van Financiën 2020

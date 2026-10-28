@@ -8,7 +8,7 @@ laatste_update: 2020-02-14
 status: geldig
 toestand: 2020-02-14
 bron: "https://wetten.overheid.nl/BWBR0043168"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit vervanging archiefbescheiden NVAO 2019

@@ -8,7 +8,7 @@ laatste_update: 2020-01-31
 status: geldig
 toestand: 2020-01-31
 bron: "https://wetten.overheid.nl/BWBR0043101"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Vaststellingsbesluit selectielijst Nederlandse organisatie voor Wetenschappelijk Onderzoek (NWO) en rechtsvoorganger vanaf 1 april 1950

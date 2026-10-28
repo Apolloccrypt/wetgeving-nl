@@ -9,7 +9,7 @@ laatste_update: 2025-10-17
 status: geldig
 toestand: 2025-10-17
 bron: "https://wetten.overheid.nl/BWBR0043624"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat van 5 juni 2020, nr. WJZ/ 20110425, tot instelling van de Commissie Mijnbouwschade (Instellingsbesluit Commissie Mijnbouwschade)

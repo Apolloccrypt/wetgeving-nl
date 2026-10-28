@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0043540"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van 11 mei 2020, houdende regels met betrekking tot verstrekking van een specifieke uitkering aan gemeenten ten behoeve van het versnellen van de bouw van betaalbare woningen in een kwalitatief goede leefomgeving (Besluit Woningbouwimpuls 2020)

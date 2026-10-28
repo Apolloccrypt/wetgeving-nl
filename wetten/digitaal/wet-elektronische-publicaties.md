@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0043961"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Wet van 1 juli 2020 tot wijziging van de Bekendmakingswet, enz. (elektronische publicatie van algemene bekendmakingen, mededelingen en kennisgevingen (Wet elektronische publicaties))

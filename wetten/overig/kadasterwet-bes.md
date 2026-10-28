@@ -9,7 +9,7 @@ laatste_update: 2024-12-11
 status: geldig
 toestand: 2024-12-11
 bron: "https://wetten.overheid.nl/BWBR0043565"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Wet van 8 april 2020, houdende regels met betrekking tot de openbare registers voor registergoederen en de kadasters op Bonaire, Sint Eustatius en Saba (Kadasterwet BES)

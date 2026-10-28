@@ -9,7 +9,7 @@ laatste_update: 2020-07-10
 status: geldig
 toestand: 2020-07-10
 bron: "https://wetten.overheid.nl/BWBR0043801"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Staatssecretaris van Justitie en Veiligheid van 29 juni 2020, nr. 2916673, houdende een eenmalige specifieke uitkering voor gemeenten in verband met het treffen van maatregelen ter vermindering van overlast en criminaliteit veroorzaakt door asielzoekers

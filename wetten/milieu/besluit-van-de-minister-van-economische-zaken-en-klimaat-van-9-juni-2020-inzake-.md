@@ -8,7 +8,7 @@ laatste_update: 2020-06-13
 status: geldig
 toestand: 2020-06-13
 bron: "https://wetten.overheid.nl/BWBR0043641"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat van 9 juni 2020 inzake volginnovatie 2019

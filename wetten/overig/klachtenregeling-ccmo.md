@@ -9,7 +9,7 @@ laatste_update: 2020-04-30
 status: geldig
 toestand: 2020-04-30
 bron: "https://wetten.overheid.nl/BWBR0043441"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Klachtenregeling Centrale Commissie Mensgebonden Onderzoek

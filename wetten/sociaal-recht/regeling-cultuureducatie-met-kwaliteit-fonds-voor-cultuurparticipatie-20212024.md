@@ -8,7 +8,7 @@ laatste_update: 2020-05-19
 status: geldig
 toestand: 2020-05-19
 bron: "https://wetten.overheid.nl/BWBR0043546"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Regeling Cultuureducatie met Kwaliteit Fonds voor Cultuurparticipatie 2021–2024

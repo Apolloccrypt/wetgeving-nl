@@ -8,7 +8,7 @@ laatste_update: 2020-03-16
 status: geldig
 toestand: 2020-03-16
 bron: "https://wetten.overheid.nl/BWBR0043274"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Circulaire Beleidskader rechtspositie stagiairs bij de sector Rijk

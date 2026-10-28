@@ -9,7 +9,7 @@ laatste_update: 2020-03-31
 status: geldig
 toestand: 2020-03-31
 bron: "https://wetten.overheid.nl/BWBR0043263"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van 21 februari 2020, houdende de vaststelling van de betalingstermijn op grond van artikel 34, derde lid, van de Wet op de Kamer van Koophandel

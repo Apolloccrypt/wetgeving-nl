@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0043181"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 7 februari 2020, 2020-0000005710, tot vaststelling van beleidsregels toepassing Wet algemene ouderdomsverzekering BES en Wet algemene weduwen- en wezenverzekering BES

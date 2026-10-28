@@ -9,7 +9,7 @@ laatste_update: 2020-02-27
 status: geldig
 toestand: 2020-02-27
 bron: "https://wetten.overheid.nl/BWBR0043215"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid d.d. 17 januari 2020, kenmerk 2633979, houdende beperking van de openbaarheid van het archief van de Hoofdafdeling Privaatrecht van het Ministerie van Justitie inzake geslachtsnaamswijzigingen, 1921–1972

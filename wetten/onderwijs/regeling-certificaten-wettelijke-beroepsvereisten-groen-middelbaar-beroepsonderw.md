@@ -9,7 +9,7 @@ laatste_update: 2025-08-01
 status: geldig
 toestand: 2025-08-01
 bron: "https://wetten.overheid.nl/BWBR0043847"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 1 juli 2020, kenmerk MBO-24861840 houdende vaststelling van certificaten wettelijke beroepsvereisten groen middelbaar beroepsonderwijs voor beroepsgerichte onderdelen van kwalificaties en keuzedelen die betrekking hebben op de sector Landbouw, Natuur en Voedselkwaliteit (Regeling certificaten wettelijke beroepsvereisten groen middelbaar beroepsonderwijs)

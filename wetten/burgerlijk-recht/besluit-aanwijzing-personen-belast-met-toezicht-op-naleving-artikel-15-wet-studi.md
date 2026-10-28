@@ -9,7 +9,7 @@ laatste_update: 2012-05-01
 status: geldig
 toestand: 2012-05-01
 bron: "https://wetten.overheid.nl/BWBR0043157"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 19 april 2012, nr. HO&S/399254, tot aanwijzing van personen belast met het toezicht op de naleving van artikel 1.5 van de Wet studiefinanciering 2000

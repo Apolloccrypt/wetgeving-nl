@@ -9,7 +9,7 @@ laatste_update: 2020-05-13
 status: geldig
 toestand: 2020-05-13
 bron: "https://wetten.overheid.nl/BWBR0043516"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister voor Medische Zorg, van 11 mei 2020, kenmerk 1680867-204678-GMT houdende aanwijzing van de bevoegde autoriteit in het kader van Uitvoeringsverordening 2020/568 in verband met de uitvoer van persoonlijke beschermingsmiddelen en medische hulpmiddelen

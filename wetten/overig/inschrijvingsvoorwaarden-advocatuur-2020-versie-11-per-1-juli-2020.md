@@ -9,7 +9,7 @@ laatste_update: 2020-07-14
 status: geldig
 toestand: 2020-07-14
 bron: "https://wetten.overheid.nl/BWBR0043878"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Inschrijvingsvoorwaarden advocatuur 2020, versie 1.1 (versie per 1-7-2020)

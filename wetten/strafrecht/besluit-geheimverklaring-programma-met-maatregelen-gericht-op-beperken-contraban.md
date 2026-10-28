@@ -9,7 +9,7 @@ laatste_update: 2020-05-09
 status: geldig
 toestand: 2020-05-09
 bron: "https://wetten.overheid.nl/BWBR0043488"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 22 april 2020 tot geheimverklaring van een programma met gebouwelijke en technologische maatregelen gericht op het beperken van contrabande, reduceren van geweldsdreiging en van voortgezet crimineel handelen door gedetineerden in detentie, binnen de Dienst Justitiële Inrichtingen

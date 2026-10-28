@@ -9,7 +9,7 @@ laatste_update: 2019-12-14
 status: geldig
 toestand: 2019-12-14
 bron: "https://wetten.overheid.nl/BWBR0042945"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 13 december 2019, nr. DGA-DAD/19300759, tot aanwijzing van C-Mark B.V. als gemachtigde instantie als bedoeld in artikel 31, eerste lid, Verordening 2017/625

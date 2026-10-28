@@ -9,7 +9,7 @@ laatste_update: 2020-06-25
 status: geldig
 toestand: 2020-06-25
 bron: "https://wetten.overheid.nl/BWBR0043701"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 11 maart 2020, nr. 22593371, houdende de vaststelling van de deeltijdfactor voor de vergoeding van de leden en voorzitter van de Onderwijsraad (Vergoedingenregeling Onderwijsraad 2020)

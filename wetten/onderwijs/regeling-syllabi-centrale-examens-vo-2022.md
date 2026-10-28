@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0043819"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # De regeling van het College voor Toetsen en Examens van 22 juni 2020 nummer CvTE-20.01233, houdende vaststelling van de syllabi voor de centrale examens in het vwo, havo en vmbo ten behoeve van het examenjaar 2022, nadere vaststelling van enkele eerder vastgestelde syllabi ten behoeve van het examenjaar 2021, tevens preliminaire vaststelling van een syllabus ten behoeve van het examenjaar 2023 (Regeling syllabi centrale examens vo 2022)

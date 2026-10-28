@@ -9,7 +9,7 @@ laatste_update: 2020-05-12
 status: geldig
 toestand: 2020-05-12
 bron: "https://wetten.overheid.nl/BWBR0043502"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister voor Medische Zorg van 30 april 2020, kenmerk 1680122-204629-MEVA, houdende het versoepelen van de regels voor het verantwoorden van subsidies bij de Subsidieregeling kwaliteitsimpuls personeel ziekenhuiszorg 2019 in verband met de uitbraak van het Coronavirus (Besluit versoepeling regels verantwoording Subsidieregeling kwaliteitsimpuls personeel ziekenhuiszorg 2019)

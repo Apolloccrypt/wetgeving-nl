@@ -9,7 +9,7 @@ laatste_update: 2024-11-28
 status: geldig
 toestand: 2024-11-28
 bron: "https://wetten.overheid.nl/BWBR0043184"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 7 februari 2020, 2020-0000005689, houdende de inrichting van de directie Financieel-Economische Zaken alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Financieel-Economische Zaken (Organisatie-, mandaat en volmachtbesluit Directie Financieel-Economische Zaken 2020)

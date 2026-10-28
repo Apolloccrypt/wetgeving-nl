@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0043009"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Staatssecretaris van Financiën van 18 december 2019, houdende regels betreffende beschikkingen onderscheidenlijk besluiten tot openbaarmaking van wegens opzettelijk medeplegen aan een beroepsbeoefenaar opgelegde vergrijpboeten (Regeling openbaarmaking vergrijpboeten)

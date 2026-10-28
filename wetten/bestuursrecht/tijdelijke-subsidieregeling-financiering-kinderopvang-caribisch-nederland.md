@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-06-30
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0043533"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 8 mei 2020, nr. 2020-0000031778, tot vaststelling van een tijdelijke subsidieregeling voor de financiering van kinderopvang in Caribisch Nederland (Tijdelijke subsidieregeling financiering kinderopvang Caribisch Nederland)

@@ -9,7 +9,7 @@ laatste_update: 2020-04-29
 status: geldig
 toestand: 2020-04-29
 bron: "https://wetten.overheid.nl/BWBR0043428"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister voor Basis- en Voortgezet Onderwijs en Media, van 8 april 2020, nr. 19886682, tot het stellen van beperkingen aan de openbaarheid van de collectie Arbeitsbereich der NSDAP in den Niederlanden 1940–1945, collectienummer 88

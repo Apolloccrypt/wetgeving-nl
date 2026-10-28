@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0042990"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap, de Minister voor Basis- en Voortgezet Onderwijs en Media, de Minister van Sociale Zaken en Werkgelegenheid en de Minister van Volksgezondheid, Welzijn en Sport van 18 december 2019 nr. WJZ/17704957(10958), houdende wijziging van de Kaderregeling subsidies OCW, SZW en VWS in verband met het schrappen van het rapport van feitelijke bevindingen als vast onderdeel van het financieel verslag

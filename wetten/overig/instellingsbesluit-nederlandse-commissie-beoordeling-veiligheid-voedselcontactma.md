@@ -9,7 +9,7 @@ laatste_update: 2020-07-01
 status: geldig
 toestand: 2020-07-01
 bron: "https://wetten.overheid.nl/BWBR0043718"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister voor Medische Zorg van 12 juni 2020, 1699650-206280-VGP, houdende instelling van een commissie voor de beoordeling van de veiligheid van voedselcontactmaterialen (Instellingsbesluit Nederlandse Commissie beoordeling veiligheid voedselcontactmaterialen)

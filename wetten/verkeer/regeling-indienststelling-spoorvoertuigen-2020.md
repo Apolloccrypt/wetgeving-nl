@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0043393"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 12 april 2020, nr. IENW/BSK-2019/250897, houdende vaststelling van regels betreffende het in de handel brengen, de indienststelling en het onderhoud van spoorvoertuigen op de hoofdspoorwegen (Regeling indienststelling spoorvoertuigen 2020)

@@ -9,7 +9,7 @@ laatste_update: 2020-06-12
 status: geldig
 toestand: 2020-06-12
 bron: "https://wetten.overheid.nl/BWBR0043630"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Tijdelijke vrijstelling en wijzigingsbesluit op grond van artikel 46, eerste lid, van de Wet gewasbeschermingsmiddelen en biociden met betrekking tot het professioneel gebruik van desinfectiemiddelen in alle sectoren en de wijziging van enkele bestaande vrijstellingen (Tijdelijke vrijstelling en wijzigingsbesluit professioneel gebruik desinfectiemiddelen COVID-19)

@@ -9,7 +9,7 @@ laatste_update: 2020-07-28
 status: geldig
 toestand: 2020-07-28
 bron: "https://wetten.overheid.nl/BWBR0043950"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 14 juli 2020, nr. Min-BuZa.2020.5169-22, tot wijziging van het besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 26 februari 2019, Min-BuZa. 2019.2328-18, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Wijziging Subsidieprogramma Fonds Verantwoord Ondernemen 2019–2022)

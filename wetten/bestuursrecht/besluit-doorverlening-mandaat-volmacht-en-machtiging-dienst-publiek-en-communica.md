@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0043023"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de directeur Dienst Publiek en Communicatie van 1 januari 2020, nr. 4091297, houdende doorverlening mandaat, volmacht en machtiging aan de medewerkers binnen de Dienst Publiek en Communicatie

@@ -9,7 +9,7 @@ laatste_update: 2020-03-05
 status: geldig
 toestand: 2020-03-05
 bron: "https://wetten.overheid.nl/BWBR0043236"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 24 februari 2020 tot geheimverklaring van de opdracht(en) in het kader van het verstoren van communicatie met niet-toegestane communicatiemiddelen ten behoeve van de Dienst Justitiële Inrichtingen

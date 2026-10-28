@@ -9,7 +9,7 @@ laatste_update: 2025-05-31
 status: geldig
 toestand: 2025-05-31
 bron: "https://wetten.overheid.nl/BWBR0043289"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de inspecteur-generaal Leefomgeving en Transport, van 12 maart 2020, nr. ILT-2020/2848, houdende inrichting van de Inspectie Leefomgeving en Transport en verlening van mandaat, volmacht en machtiging (Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2020)

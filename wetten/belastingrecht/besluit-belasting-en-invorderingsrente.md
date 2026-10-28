@@ -9,7 +9,7 @@ laatste_update: 2026-02-13
 status: geldig
 toestand: 2026-02-13
 bron: "https://wetten.overheid.nl/BWBR0043680"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Besluit van 17 juni 2020, houdende vaststelling van het Besluit belasting- en invorderingsrente

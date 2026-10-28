@@ -9,7 +9,7 @@ laatste_update: 2023-04-01
 status: geldig
 toestand: 2023-04-01
 bron: "https://wetten.overheid.nl/BWBR0043552"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister voor Medische Zorg van 14 mei 2020, kenmerk 1685523-204923-CZ, houdende regels voor een subsidie voor het faciliteren van medisch specialisten bij de overgang naar integrale tarieven voor medisch specialistische zorg en kaakchirurgie (Subsidieregeling overgang integrale tarieven medisch-specialistische zorg 2020 en 2021)

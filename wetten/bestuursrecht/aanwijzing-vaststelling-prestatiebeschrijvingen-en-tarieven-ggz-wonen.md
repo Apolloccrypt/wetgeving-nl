@@ -9,7 +9,7 @@ laatste_update: 2020-09-01
 status: geldig
 toestand: 2020-09-01
 bron: "https://wetten.overheid.nl/BWBR0043775"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 25 juni 2020, kenmerk 1706559-206975 PZO, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake de vaststelling van prestatiebeschrijvingen en tarieven voor GGZ Wonen

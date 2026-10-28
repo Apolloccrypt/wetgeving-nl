@@ -8,7 +8,7 @@ laatste_update: 2020-01-31
 status: geldig
 toestand: 2020-01-31
 bron: "https://wetten.overheid.nl/BWBR0043104"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Vaststellingsbesluit selectielijst neerslag handelingen Sociale Verzekeringsbank (SVB) over de periode (1956 –) 2004 –

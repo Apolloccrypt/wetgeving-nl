@@ -9,7 +9,7 @@ laatste_update: 2021-04-30
 status: geldig
 toestand: 2021-04-30
 bron: "https://wetten.overheid.nl/BWBR0043122"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van 23 januari 2020, nr. 2020000099, houdende instelling van een Nationale Groep van het Permanent Hof van Arbitrage (Instellingsbesluit Nationale Groep Permanent Hof van Arbitrage)

@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0043563"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van het College voor Toetsen en Examens van 18 mei 2020, nummer CvTE – 20.00936, houdende regels inzake de uitslag van het staatsexamen voortgezet onderwijs in het examenjaar 2020 (Besluit staatsexamens voortgezet onderwijs 2020)

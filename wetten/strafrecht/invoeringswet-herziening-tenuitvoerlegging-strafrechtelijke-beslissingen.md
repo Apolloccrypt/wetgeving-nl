@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0043045"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Wet van 18 december 2019 tot wijziging van het Wetboek van Strafvordering en enkele andere wetten in verband met de invoering van de Wet herziening tenuitvoerlegging strafrechtelijke beslissingen (Invoeringswet herziening tenuitvoerlegging strafrechtelijke beslissingen)

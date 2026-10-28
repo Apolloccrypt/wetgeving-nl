@@ -9,7 +9,7 @@ laatste_update: 2020-07-01
 status: geldig
 toestand: 2020-07-01
 bron: "https://wetten.overheid.nl/BWBR0043034"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Wet van 18 december 2019 tot wijziging van de Wet op de internationale bijstandsverlening bij de heffing van belastingen en de Algemene wet inzake rijksbelastingen in verband met de implementatie van Richtlijn (EU) 2018/822 van de Raad van 25 mei 2018 tot wijziging van Richtlijn 2011/16/EU wat betreft verplichte automatische uitwisseling van inlichtingen op belastinggebied met betrekking tot meldingsplichtige grensoverschrijdende constructies (PbEU 2018, L 139) (Wet implementatie EU-richtlijn meldingsplichtige grensoverschrijdende constructies)

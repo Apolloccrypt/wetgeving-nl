@@ -9,7 +9,7 @@ laatste_update: 2020-02-22
 status: geldig
 toestand: 2020-02-22
 bron: "https://wetten.overheid.nl/BWBR0043199"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat van 14 februari 2020, nr. WJZ/ 20030467, tot het verlenen van volmacht en machtiging aan functionarissen van het Ministerie van Buitenlandse Zaken in verband met bevoegdheden ten aanzien van attachés en lokale werknemers van het Ministerie van Economische Zaken en Klimaat (Besluit volmacht en machtiging attachés en lokale werknemers EZK)

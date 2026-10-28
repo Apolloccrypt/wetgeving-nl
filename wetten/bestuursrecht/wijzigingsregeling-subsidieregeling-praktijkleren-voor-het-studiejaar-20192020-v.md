@@ -9,7 +9,7 @@ laatste_update: 2020-05-30
 status: geldig
 toestand: 2020-05-30
 bron: "https://wetten.overheid.nl/BWBR0043585"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 25 mei 2020, nr. WJZ/24500912, houdende vaststelling van de subsidieplafonds van de Subsidieregeling praktijkleren voor het studiejaar 2019–2020, alsmede wijziging van de Subsidieregeling praktijkleren in verband met het invoegen van een voorschotronde en een herziening van de berekeningswijze van het subsidiebedrag voor 2020

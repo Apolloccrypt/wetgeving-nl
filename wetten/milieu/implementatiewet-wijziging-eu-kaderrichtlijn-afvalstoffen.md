@@ -9,7 +9,7 @@ laatste_update: 2020-07-01
 status: geldig
 toestand: 2020-07-01
 bron: "https://wetten.overheid.nl/BWBR0043601"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Wet van 27 mei 2020 tot wijziging van de Wet milieubeheer in verband met de implementatie van Richtlijn (EU) 2018/851 van het Europees Parlement en de Raad van 30 mei 2018 tot wijziging van Richtlijn 2008/98/EG betreffende afvalstoffen (PbEU L 150) (Implementatiewet wijziging EU-kaderrichtlijn afvalstoffen)

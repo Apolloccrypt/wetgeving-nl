@@ -9,7 +9,7 @@ laatste_update: 2020-12-12
 status: geldig
 toestand: 2020-12-12
 bron: "https://wetten.overheid.nl/BWBR0043799"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 25 juni 2020, nr. WJZ/ 20152865, houdende eenmalige specifieke uitkering in verband met de uitvoering van de MKB-deals (Regeling specifieke uitkering MKB-deals)

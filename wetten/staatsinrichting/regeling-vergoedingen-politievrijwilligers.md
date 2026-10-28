@@ -9,7 +9,7 @@ laatste_update: 2026-07-15
 status: geldig
 toestand: 2026-07-15
 bron: "https://wetten.overheid.nl/BWBR0043862"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 15 juni 2020, nr. 2937169 houdende regels omtrent de vergoedingen van politievrijwilligers (Regeling vergoedingen politievrijwilligers)

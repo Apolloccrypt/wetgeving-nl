@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0043743"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister voor Medische Zorg en de Minister van Justitie en Veiligheid van 14 mei 2020, 1654245-202486-VGP, houdende aanwijzing van toezichthouders op de naleving van de Wet experiment gesloten coffeeshopketen en het verlenen van mandaat en machtiging voor de uitvoering en handhaving van die wet

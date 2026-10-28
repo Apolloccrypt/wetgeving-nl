@@ -9,7 +9,7 @@ laatste_update: 2020-07-01
 status: geldig
 toestand: 2020-07-01
 bron: "https://wetten.overheid.nl/BWBR0043715"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Regeling van het Commissariaat voor de Media houdende vaststelling van de vergoeding voor het uitbrengen van programmagidsen als bedoeld in artikel 2.139, zesde lid, van de Mediawet 2008 (Regeling tarieven Programmagegevens 2020)

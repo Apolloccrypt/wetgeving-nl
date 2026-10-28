@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0043660"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Wet van 12 februari 2020 tot aanvulling en wijziging van de Omgevingswet, intrekking van enkele wetten over de fysieke leefomgeving, wijziging van andere wetten en regeling van overgangsrecht voor de invoering van de Omgevingswet (Invoeringswet Omgevingswet)

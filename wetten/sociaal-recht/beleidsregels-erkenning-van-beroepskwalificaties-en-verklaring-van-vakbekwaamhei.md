@@ -8,7 +8,7 @@ laatste_update: 2020-05-18
 status: geldig
 toestand: 2020-05-18
 bron: "https://wetten.overheid.nl/BWBR0043548"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Beleidsregels erkenning van beroepskwalificaties en verklaring van vakbekwaamheid beroepen in de individuele gezondheidszorg

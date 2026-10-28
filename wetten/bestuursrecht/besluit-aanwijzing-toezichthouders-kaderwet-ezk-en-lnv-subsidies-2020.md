@@ -9,7 +9,7 @@ laatste_update: 2020-07-10
 status: geldig
 toestand: 2020-07-10
 bron: "https://wetten.overheid.nl/BWBR0043803"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat en de Minister van Landbouw, Natuur en Voedselkwaliteit van 3 juli 2020 nr. WJZ/ 20035404, houdende aanwijzing toezichthouders Kaderwet EZK- en LNV-subsidies (Besluit aanwijzing toezichthouders Kaderwet EZK- en LNV-subsidies 2020)

@@ -8,7 +8,7 @@ laatste_update: 2020-01-16
 status: geldig
 toestand: 2020-01-16
 bron: "https://wetten.overheid.nl/BWBR0043073"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit beperkingen openbaarheid archiefbescheiden Ministerie van Justitie: Commissies tot Opsporing van Oorlogsmisdadigers (COOM), nummer archiefinventaris 2.09.61

@@ -9,7 +9,7 @@ laatste_update: 2020-07-02
 status: geldig
 toestand: 2020-07-02
 bron: "https://wetten.overheid.nl/BWBR0043766"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Beleidsregel van de Minister van Landbouw, Natuur en Voedselkwaliteit van 25 juni 2020, nr. WJZ/19298421, in verband met het vervoer van dieren bij buitentemperaturen van ten minste 35 graden Celsius (Beleidsregel diertransport bij hoge temperaturen)

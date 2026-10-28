@@ -9,7 +9,7 @@ laatste_update: 2020-07-01
 status: geldig
 toestand: 2020-07-01
 bron: "https://wetten.overheid.nl/BWBR0043746"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister voor Medische Zorg en de Minister van Justitie en Veiligheid van 15 mei 2020, kenmerk 1689433-205259-VGP, houdende opening van het tijdvak voor het indienen van een aanvraag om aanwijzing als teler in het kader van het experiment gesloten coffeeshopketen en vaststelling van de minimale hoeveelheid hennep die bij aanvang van de uitvoering van het experiment moet kunnen worden geproduceerd

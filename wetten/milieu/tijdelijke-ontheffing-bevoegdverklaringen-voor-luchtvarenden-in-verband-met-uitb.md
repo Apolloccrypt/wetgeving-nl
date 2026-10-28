@@ -9,7 +9,7 @@ laatste_update: 2020-04-15
 status: geldig
 toestand: 2020-04-15
 bron: "https://wetten.overheid.nl/BWBR0043380"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Tijdelijke ontheffing op grond van artikel 2.1, vierde lid, van de Wet luchtvaart in verband met de uitbraak van COVID-19 (Tijdelijke ontheffing bevoegdverklaringen voor luchtvarenden in verband met uitbraak COVID-19 2020)

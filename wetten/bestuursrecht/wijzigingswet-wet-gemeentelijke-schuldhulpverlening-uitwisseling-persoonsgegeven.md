@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0043843"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Wet van 24 juni 2020 tot wijziging van de Wet gemeentelijke schuldhulpverlening ten behoeve van de uitwisseling van persoonsgegevens

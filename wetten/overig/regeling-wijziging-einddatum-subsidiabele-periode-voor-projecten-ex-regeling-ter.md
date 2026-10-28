@@ -9,7 +9,7 @@ laatste_update: 2020-06-23
 status: geldig
 toestand: 2020-06-23
 bron: "https://wetten.overheid.nl/BWBR0043685"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 15 juni 2020, 2020-0000072113, tot wijziging van de einddatum van de subsidiabele periode voor projecten gebaseerd op de Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 30 juni 2014, 2014-0000087456, ter stimulering van activiteiten die een duurzame bijdrage leveren aan het tegengaan van armoede- en schuldenproblematiek, in verband met de coronacrisis

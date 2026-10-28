@@ -8,7 +8,7 @@ laatste_update: 2020-04-10
 status: geldig
 toestand: 2020-04-10
 bron: "https://wetten.overheid.nl/BWBR0043370"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Regeling tarieven Airport Coordination Netherlands 2020

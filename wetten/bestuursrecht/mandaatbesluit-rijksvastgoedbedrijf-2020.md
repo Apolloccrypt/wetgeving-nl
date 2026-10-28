@@ -8,7 +8,7 @@ laatste_update: 2023-12-19
 status: geldig
 toestand: 2023-12-19
 bron: "https://wetten.overheid.nl/BWBR0043265"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Mandaatbesluit Rijksvastgoedbedrijf 2020

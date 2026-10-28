@@ -9,7 +9,7 @@ laatste_update: 2023-11-02
 status: geldig
 toestand: 2023-11-02
 bron: "https://wetten.overheid.nl/BWBR0042950"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat, van 11 december 2019, nr. IENW/BSK-2019/255828, tot vaststelling van het Besluit mandaat CBR met betrekking tot de afgifte, opschorting en intrekking van vaarbewijzen, Rijnpatenten, radarpatenten en de afgifte van het ICC 2019 (Besluit mandaat CBR 2019)

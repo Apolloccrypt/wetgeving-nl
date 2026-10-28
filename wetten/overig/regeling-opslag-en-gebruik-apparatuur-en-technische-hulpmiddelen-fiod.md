@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0043010"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Vaststelling van de regeling van de Staatssecretaris van Financiën van 18 december 2019, nr. 2019-0000193533, houdende aanwijzingsregels omtrent de plaats van opslag en de betrokken ambtenaren bij de FIOD bij het gebruik van apparatuur en technische hulpmiddelen (Regeling opslag en gebruik apparatuur en technische hulpmiddelen FIOD)

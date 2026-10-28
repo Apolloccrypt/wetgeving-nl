@@ -9,7 +9,7 @@ laatste_update: 2020-10-01
 status: geldig
 toestand: 2020-10-01
 bron: "https://wetten.overheid.nl/BWBR0043596"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 20 mei 2020, nr. 2898424, houdende regels over de inrichting van een politiecellencomplex en de registratie van gegevens van ingeslotenen

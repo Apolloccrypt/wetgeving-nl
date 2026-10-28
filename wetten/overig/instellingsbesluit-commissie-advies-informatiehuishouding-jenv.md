@@ -9,7 +9,7 @@ laatste_update: 2020-05-20
 status: geldig
 toestand: 2020-05-20
 bron: "https://wetten.overheid.nl/BWBR0043554"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 17 februari 2020, nr. 2355583/19/DI&I, houdende instelling van de Commissie advies informatiehuishouding van het ministerie van Justitie en Veiligheid (Instellingsbesluit Commissie advies informatiehuishouding JenV)

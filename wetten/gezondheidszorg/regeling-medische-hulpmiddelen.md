@@ -9,7 +9,7 @@ laatste_update: 2022-05-26
 status: geldig
 toestand: 2022-05-26
 bron: "https://wetten.overheid.nl/BWBR0043450"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister voor Medische Zorg van 23 april 2020, kenmerk 1673023-204144, houdende de vaststelling van taaleisen en nadere regels in de zin van Verordening (EU) 2017/745 en Verordening (EU) 2017/746 (Regeling medische hulpmiddelen)

@@ -8,7 +8,7 @@ laatste_update: 2021-04-16
 status: geldig
 toestand: 2021-04-16
 bron: "https://wetten.overheid.nl/BWBR0043538"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Tijdelijke regeling van het Fonds Podiumkunsten voor live-uitvoeringen tijdens de Covid-19crisis (Balkonscènes)

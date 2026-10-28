@@ -9,7 +9,7 @@ laatste_update: 2026-04-17
 status: geldig
 toestand: 2026-04-17
 bron: "https://wetten.overheid.nl/BWBR0043386"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 7 april 2020, kenmerk 1665225-201979-LZ, houdende regels voor het verstrekken van subsidie voor de realisatie van aardbevingsbestendige zorg in Groningen (Regeling subsidies aardbevingsbestendige zorg)

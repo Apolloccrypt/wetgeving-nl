@@ -9,7 +9,7 @@ laatste_update: 2024-11-06
 status: geldig
 toestand: 2024-11-06
 bron: "https://wetten.overheid.nl/BWBR0043208"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Wet van 5 februari 2020 tot wijziging van een aantal wetten op het terrein van het Ministerie van Volksgezondheid, Welzijn en Sport (Verzamelwet VWS 2020)

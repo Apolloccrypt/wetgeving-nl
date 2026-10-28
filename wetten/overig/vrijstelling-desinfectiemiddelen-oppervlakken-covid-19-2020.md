@@ -9,7 +9,7 @@ laatste_update: 2020-04-15
 status: geldig
 toestand: 2020-04-15
 bron: "https://wetten.overheid.nl/BWBR0043322"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Tijdelijke vrijstelling op grond van artikel 46, eerste lid van de Wet gewasbeschermingsmiddelen en biociden voor het gebruik van de desinfectiemiddelen op oppervlakken in verband met de uitbraak COVID-19 (Vrijstelling desinfectiemiddelen oppervlakken COVID-19 2020)

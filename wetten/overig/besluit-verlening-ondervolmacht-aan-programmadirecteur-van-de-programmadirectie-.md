@@ -9,7 +9,7 @@ laatste_update: 2020-08-06
 status: geldig
 toestand: 2020-08-06
 bron: "https://wetten.overheid.nl/BWBR0043985"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de secretaris-generaal van het Ministerie van Volksgezondheid, Welzijn en Sport van 23 juli 2020, kenmerk, 1722709-208223-OBP, houdende het verlenen van een ondervolmacht aan de programmadirecteur van de programmadirectie Realisatie Digitale Ondersteuning COVID-19 tot het aangaan van detacheringsovereenkomsten

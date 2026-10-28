@@ -8,7 +8,7 @@ laatste_update: 2021-08-31
 status: geldig
 toestand: 2021-08-31
 bron: "https://wetten.overheid.nl/BWBR0043777"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Leidraad FATCA/CRS met technische toelichting bij de NL IGA en de CRS-regelgeving

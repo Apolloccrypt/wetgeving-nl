@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0043736"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Besluit van 18 juni 2020, houdende implementatie van enkele bepalingen van Richtlijn (EU) 2018/851 van het Europees Parlement en de Raad van 30 mei 2018 tot wijziging van Richtlijn 2008/98/EG betreffende afvalstoffen (PbEU L 150/109) (Besluit gescheiden inzameling huishoudelijke afvalstoffen)

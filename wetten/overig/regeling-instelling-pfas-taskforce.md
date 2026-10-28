@@ -9,7 +9,7 @@ laatste_update: 2020-02-15
 status: geldig
 toestand: 2020-02-15
 bron: "https://wetten.overheid.nl/BWBR0043166"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister voor Milieu en Wonen en de Minister van Binnenlandse Zaken en Koninkrijksrelaties, van 10 februari 2020, nr. IENW/BSK-2020/5739, houdende instelling van de PFAS-taskforce

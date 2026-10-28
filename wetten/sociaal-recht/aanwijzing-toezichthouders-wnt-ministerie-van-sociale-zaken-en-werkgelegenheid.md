@@ -9,7 +9,7 @@ laatste_update: 2020-05-01
 status: geldig
 toestand: 2020-05-01
 bron: "https://wetten.overheid.nl/BWBR0043443"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 20 april 2020, nr. 2020-0000023728, tot Aanwijzing toezichthouders WNT Ministerie van Sociale Zaken en Werkgelegenheid

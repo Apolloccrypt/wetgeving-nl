@@ -9,7 +9,7 @@ laatste_update: 2020-10-01
 status: geldig
 toestand: 2020-10-01
 bron: "https://wetten.overheid.nl/BWBR0043842"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 30 juni 2020, nr. IENW/BSK-2020/111578, houdende regels met betrekking tot de afgifte, wijziging, overdracht, schorsing en intrekking van het Europese bewijs van luchtwaardigheid en enkele overige bepalingen (Regeling Europese bewijzen van luchtwaardigheid)

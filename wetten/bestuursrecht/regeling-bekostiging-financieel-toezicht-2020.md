@@ -9,7 +9,7 @@ laatste_update: 2020-07-10
 status: geldig
 toestand: 2020-07-10
 bron: "https://wetten.overheid.nl/BWBR0043654"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister van Financiën en de Minister van Sociale Zaken en Werkgelegenheid van 3 juni 2020, kenmerk 2020-0000094883, directie Financiële Markten, tot vaststelling van de bandbreedtes en tarieven, bedoeld in artikel 9, eerste lid, van het Besluit bekostiging financieel toezicht 2019, voor het jaar 2020 (Regeling bekostiging financieel toezicht 2020)

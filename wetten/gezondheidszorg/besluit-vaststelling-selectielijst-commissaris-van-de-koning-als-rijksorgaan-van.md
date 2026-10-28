@@ -8,7 +8,7 @@ laatste_update: 2020-07-30
 status: geldig
 toestand: 2020-07-30
 bron: "https://wetten.overheid.nl/BWBR0043969"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Besluit vaststelling selectielijst commissaris van de Koning als rijksorgaan vanaf 1 januari 2020

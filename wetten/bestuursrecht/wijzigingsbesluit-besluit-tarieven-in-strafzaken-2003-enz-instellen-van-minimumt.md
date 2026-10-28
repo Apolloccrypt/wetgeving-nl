@@ -9,7 +9,7 @@ laatste_update: 2020-07-01
 status: geldig
 toestand: 2020-07-01
 bron: "https://wetten.overheid.nl/BWBR0043737"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Besluit van 24 juni 2020 tot wijzing van het Besluit tarieven in strafzaken 2003, het Besluit beëdigde tolken en vertalers en het Besluit proceskosten bestuursrecht in verband met het instellen van minimumtarieven en het borgen van de kwaliteit en integriteit van beëdigde tolken en vertalers

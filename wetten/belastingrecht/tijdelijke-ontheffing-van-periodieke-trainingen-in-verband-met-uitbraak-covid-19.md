@@ -8,7 +8,7 @@ laatste_update: 2020-04-08
 status: geldig
 toestand: 2020-04-08
 bron: "https://wetten.overheid.nl/BWBR0043358"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Tijdelijke ontheffing van periodieke trainingen in verband met uitbraak COVID-19 2020

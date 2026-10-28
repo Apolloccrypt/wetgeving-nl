@@ -9,7 +9,7 @@ laatste_update: 2020-06-26
 status: geldig
 toestand: 2020-06-26
 bron: "https://wetten.overheid.nl/BWBR0043714"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 18 juni 2020, kenmerk 1689282-205240-WJZ, houdende aanwijzing van toezichthoudende ambtenaren van de douane en verlening van mandaat en machtiging in verband met de bestuursrechtelijke handhaving van de artikelen 4a, 4b, 4c, 4e, 4h en 4i van de Tabaks- en rookwarenwet in verband met het voorkomen van illegale handel in tabak (Besluit aanwijzing toezichthoudende ambtenaren douane en mandaat en machtiging in verband met het voorkomen van illegale handel in tabak)

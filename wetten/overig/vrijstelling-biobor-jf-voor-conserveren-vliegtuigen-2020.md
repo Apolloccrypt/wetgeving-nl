@@ -9,7 +9,7 @@ laatste_update: 2020-05-09
 status: geldig
 toestand: 2020-05-09
 bron: "https://wetten.overheid.nl/BWBR0043469"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Tijdelijke vrijstelling op grond van artikel 46, eerste lid van de Wet gewasbeschermingsmiddelen en biociden voor het gebruik van Biobor JF ten behoeve van het conserveren van vliegtuigen (Vrijstelling Biobor JF voor conserveren vliegtuigen 2020)

@@ -9,7 +9,7 @@ laatste_update: 2025-03-22
 status: geldig
 toestand: 2025-03-22
 bron: "https://wetten.overheid.nl/BWBR0043749"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister voor Medische Zorg en de Minister van Justitie en Veiligheid van 12 mei 2020, kenmerk 1681487-204740-VGP, houdende regels in verband met het experiment met een gesloten coffeeshopketen (Regeling experiment gesloten coffeeshopketen)

@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0043609"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 29 mei 2020, nr. WJZ/17860769, houdende regels voor subsidieverstrekking over een periode van tien jaren voor iconische rijksmonumenten (Subsidieregeling tienjarige ondersteuning iconische rijksmonumenten)

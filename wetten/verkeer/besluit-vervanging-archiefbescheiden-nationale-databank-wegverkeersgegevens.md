@@ -8,7 +8,7 @@ laatste_update: 2020-01-04
 status: geldig
 toestand: 2020-01-04
 bron: "https://wetten.overheid.nl/BWBR0043044"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit vervanging archiefbescheiden Nationale Databank Wegverkeersgegevens

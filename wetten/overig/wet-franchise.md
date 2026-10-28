@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0043881"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Wet van 1 juli 2020 tot wijziging van Boek 7 van het Burgerlijk Wetboek in verband met de invoering van regels omtrent de franchiseovereenkomst (Wet franchise)

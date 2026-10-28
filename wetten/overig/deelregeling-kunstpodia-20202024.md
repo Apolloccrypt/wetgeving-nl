@@ -9,7 +9,7 @@ laatste_update: 2020-05-12
 status: geldig
 toestand: 2020-05-12
 bron: "https://wetten.overheid.nl/BWBR0043507"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Deelregeling Kunstpodia 2020-2024

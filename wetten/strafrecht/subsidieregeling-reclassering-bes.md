@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0042975"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister voor Rechtsbescherming van 3 december 2019, kenmerk 2758802, houdende regels voor subsidiëring van reclassering op de BES (Subsidieregeling reclassering BES)

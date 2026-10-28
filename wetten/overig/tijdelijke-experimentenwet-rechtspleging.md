@@ -9,7 +9,7 @@ laatste_update: 2023-04-01
 status: geldig
 toestand: 2023-04-01
 bron: "https://wetten.overheid.nl/BWBR0043790"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Wet van 24 juni 2020, houdende regels inzake invoering van een tijdelijke mogelijkheid voor experimenten in de rechtspleging (Tijdelijke Experimentenwet rechtspleging)

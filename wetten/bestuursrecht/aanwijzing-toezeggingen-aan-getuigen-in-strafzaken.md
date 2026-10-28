@@ -8,7 +8,7 @@ laatste_update: 2020-06-01
 status: geldig
 toestand: 2020-06-01
 bron: "https://wetten.overheid.nl/BWBR0043568"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Aanwijzing toezeggingen aan getuigen in strafzaken

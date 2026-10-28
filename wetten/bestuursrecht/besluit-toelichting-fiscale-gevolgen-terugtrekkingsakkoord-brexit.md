@@ -9,7 +9,7 @@ laatste_update: 2020-02-01
 status: geldig
 toestand: 2020-02-01
 bron: "https://wetten.overheid.nl/BWBR0043114"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Fiscale gevolgen van het akkoord inzake de terugtrekking van het Verenigd Koninkrijk uit de Europese Unie met ingang van 1 februari 2020 (Besluit toelichting fiscale gevolgen terugtrekkingsakkoord Brexit)

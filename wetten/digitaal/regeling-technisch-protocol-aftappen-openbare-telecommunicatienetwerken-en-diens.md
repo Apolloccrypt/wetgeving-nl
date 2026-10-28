@@ -9,7 +9,7 @@ laatste_update: 2020-04-01
 status: geldig
 toestand: 2020-04-01
 bron: "https://wetten.overheid.nl/BWBR0043298"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 19 maart 2020, nr. 20067632, houdende vaststelling van een technisch protocol met betrekking tot de wijze van aflevering van geïntercepteerde telecommunicatie (Regeling technisch protocol aftappen openbare telecommunicatienetwerken en -diensten)

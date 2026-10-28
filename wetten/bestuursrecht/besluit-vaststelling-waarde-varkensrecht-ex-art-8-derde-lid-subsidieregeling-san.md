@@ -9,7 +9,7 @@ laatste_update: 2020-06-17
 status: geldig
 toestand: 2020-06-17
 bron: "https://wetten.overheid.nl/BWBR0043649"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Besluit ter vaststelling van de waarde van varkensrecht, bedoeld in artikel 8, derde lid, van de Subsidieregeling sanering varkenshouderijen (Marktprijzen-besluit)

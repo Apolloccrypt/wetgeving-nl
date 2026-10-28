@@ -9,7 +9,7 @@ laatste_update: 2020-06-19
 status: geldig
 toestand: 2020-06-19
 bron: "https://wetten.overheid.nl/BWBR0043669"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 9 juni 2020, nr. 2020-0000070400 tot het verlenen van volmacht en machtiging aan functionarissen van het Ministerie van Buitenlandse Zaken in verband met bevoegdheden ten aanzien van attachés en lokale werknemers van het Ministerie van Sociale Zaken en Werkgelegenheid (Besluit volmacht en machtiging attachés en lokale werknemers Sociale Zaken en Werkgelegenheid)

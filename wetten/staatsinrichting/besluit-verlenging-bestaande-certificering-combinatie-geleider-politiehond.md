@@ -9,7 +9,7 @@ laatste_update: 2020-05-15
 status: geldig
 toestand: 2020-05-15
 bron: "https://wetten.overheid.nl/BWBR0043530"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 4 mei 2020, nr. 2897295, houdende verlenging bestaande certificering combinatie geleider politiehond

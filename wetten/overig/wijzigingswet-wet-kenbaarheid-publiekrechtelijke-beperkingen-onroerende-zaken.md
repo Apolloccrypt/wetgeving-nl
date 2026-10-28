@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0043189"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Wet van 5 februari 2020 tot wijziging van de Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken teneinde die beperkingen beter kenbaar te maken

@@ -9,7 +9,7 @@ laatste_update: 2020-01-16
 status: geldig
 toestand: 2020-01-16
 bron: "https://wetten.overheid.nl/BWBR0043071"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Inspecteur-generaal van de Inspectie Gezondheidszorg en Jeugd van 17 september 2019, kenmerk 2019-2338710, houdende de verlening van ondervolmacht aan de directeur Beleid, Juridische Zaken, Communicatie en Bureau Opsporing Boetes, de directeur Bedrijfsvoering, de programmadirecteur Toezicht Sociaal Domein en de hoofden en teamleiders van de Inspectie Gezondheidszorg en Jeugd

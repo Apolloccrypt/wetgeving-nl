@@ -9,7 +9,7 @@ laatste_update: 2020-05-01
 status: geldig
 toestand: 2020-05-01
 bron: "https://wetten.overheid.nl/BWBR0043287"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Aanwijzing van de Minister voor Medische Zorg van 10 maart 2020, kenmerk 1642169-201362-CZ, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake hervorming beschikbaarheidbijdrage kapitaallasten academische zorg

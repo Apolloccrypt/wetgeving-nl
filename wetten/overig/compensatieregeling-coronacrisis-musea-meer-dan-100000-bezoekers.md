@@ -8,7 +8,7 @@ laatste_update: 2020-06-20
 status: geldig
 toestand: 2020-06-20
 bron: "https://wetten.overheid.nl/BWBR0043678"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Compensatieregeling Coronacrisis Musea meer dan 100.000 bezoekers

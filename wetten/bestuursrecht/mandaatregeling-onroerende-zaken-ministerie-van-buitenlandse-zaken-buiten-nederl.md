@@ -8,7 +8,7 @@ laatste_update: 2020-04-25
 status: geldig
 toestand: 2020-04-25
 bron: "https://wetten.overheid.nl/BWBR0043426"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Mandaatregeling onroerende zaken Ministerie van Buitenlandse Zaken buiten Nederland

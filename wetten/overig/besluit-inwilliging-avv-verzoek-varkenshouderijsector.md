@@ -9,7 +9,7 @@ laatste_update: 2020-05-23
 status: geldig
 toestand: 2020-05-23
 bron: "https://wetten.overheid.nl/BWBR0043561"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 24 april 2020, nr. 19135433, houdende inwilliging AVV-verzoek varkenshouderijsector

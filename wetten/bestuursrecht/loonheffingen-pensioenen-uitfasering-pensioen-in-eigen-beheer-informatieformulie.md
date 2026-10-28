@@ -8,7 +8,7 @@ laatste_update: 2020-04-11
 status: geldig
 toestand: 2020-04-11
 bron: "https://wetten.overheid.nl/BWBR0043378"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Loonheffingen, pensioenen; uitfasering pensioen in eigen beheer, informatieformulier

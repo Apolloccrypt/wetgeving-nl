@@ -9,7 +9,7 @@ laatste_update: 2020-06-23
 status: geldig
 toestand: 2020-06-23
 bron: "https://wetten.overheid.nl/BWBR0043684"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Staatssecretaris van Financiën van 28 februari 2020, kenmerk 2020-0000037633 houdende instelling van een externe klankbordgroep leiderschap en cultuur om de Belastingdienst van adviezen te voorzien gedurende de looptijd van het leiderschaps- en cultuurprogramma

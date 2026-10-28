@@ -9,7 +9,7 @@ laatste_update: 2020-04-19
 status: geldig
 toestand: 2020-04-19
 bron: "https://wetten.overheid.nl/BWBR0043400"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit vaststelling selectielijst van de Commissie voor de milieueffectrapportage, over de periode vanaf 1 december 1981

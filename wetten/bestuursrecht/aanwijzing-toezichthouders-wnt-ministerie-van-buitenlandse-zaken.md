@@ -9,7 +9,7 @@ laatste_update: 2020-01-03
 status: geldig
 toestand: 2020-01-03
 bron: "https://wetten.overheid.nl/BWBR0043042"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 19 december 2019, nr. Min-Buza.2019.4641-10, houdende aanwijzing van toezichthouders op de naleving van de Wet normering topinkomens op het terrein van Buitenlandse Zaken (Aanwijzing toezichthouders WNT Ministerie van Buitenlandse Zaken)

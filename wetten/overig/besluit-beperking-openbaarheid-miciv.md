@@ -8,7 +8,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0043014"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit beperking openbaarheid (MICIV)

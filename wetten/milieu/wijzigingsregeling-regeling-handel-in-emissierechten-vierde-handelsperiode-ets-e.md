@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0043619"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat van 5 juni 2020, nr. WJZ/ 19250484, tot wijziging van de Regeling handel in emissierechten in verband met de vierde handelsperiode ETS en toegangsrestricties voor rekeninghouders buiten Nederland

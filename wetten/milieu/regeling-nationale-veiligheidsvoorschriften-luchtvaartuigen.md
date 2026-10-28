@@ -9,7 +9,7 @@ laatste_update: 2024-03-07
 status: geldig
 toestand: 2024-03-07
 bron: "https://wetten.overheid.nl/BWBR0043696"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 16 juni 2020 nr. IENW/BSK-2020/88503, houdende regels met betrekking tot de luchtwaardigheid en het gebruik van luchtvaartuigen (Regeling nationale veiligheidsvoorschriften luchtvaartuigen)

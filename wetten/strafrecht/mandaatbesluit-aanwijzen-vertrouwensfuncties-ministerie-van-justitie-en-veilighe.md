@@ -9,7 +9,7 @@ laatste_update: 2020-04-18
 status: geldig
 toestand: 2020-04-18
 bron: "https://wetten.overheid.nl/BWBR0043397"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de secretaris-generaal van het Ministerie van Justitie en Veiligheid van 3 april 2020, 2842595/20/DP&O, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging met betrekking tot de bevoegdheid tot het aanwijzen vertrouwensfuncties namens de Minister van Justitie en Veiligheid (Mandaatbesluit melding vertrouwensfuncties Ministerie van Justitie en Veiligheid)

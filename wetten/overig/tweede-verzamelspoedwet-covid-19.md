@@ -9,7 +9,7 @@ laatste_update: 2023-11-16
 status: geldig
 toestand: 2023-11-16
 bron: "https://wetten.overheid.nl/BWBR0043880"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Wet van 8 juli 2020, houdende tijdelijke voorzieningen op het terrein van het Ministerie van Onderwijs, Cultuur en Wetenschap en het Ministerie van Justitie en Veiligheid, en tot wijziging van enkele wetten op het terrein van het Ministerie van Onderwijs, Cultuur en Wetenschap, het Ministerie van Infrastructuur en Waterstaat, het Ministerie van Justitie en Veiligheid en het Ministerie van Volksgezondheid, Welzijn en Sport (Tweede Verzamelspoedwet COVID-19)

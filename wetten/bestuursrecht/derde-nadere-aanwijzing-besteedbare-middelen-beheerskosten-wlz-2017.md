@@ -9,7 +9,7 @@ laatste_update: 2020-07-28
 status: geldig
 toestand: 2020-07-28
 bron: "https://wetten.overheid.nl/BWBR0043949"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 17 juli 2020, kenmerk 1697152-205828-Z, houdende Tweede Nadere aanwijzing van de besteedbare middelen ter dekking van de beheerskosten 2017 (Derde nadere aanwijzing besteedbare middelen beheerskosten Wlz 2017)

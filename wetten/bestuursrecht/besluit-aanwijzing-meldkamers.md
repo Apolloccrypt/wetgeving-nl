@@ -9,7 +9,7 @@ laatste_update: 2026-01-23
 status: geldig
 toestand: 2026-01-23
 bron: "https://wetten.overheid.nl/BWBR0043931"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Besluit van 16 juli 2020, houdende aanwijzing van de locaties en de werkgebieden van de meldkamers, bedoeld in artikel 25a, eerste lid, van de Politiewet 2012 (Besluit aanwijzing meldkamers)

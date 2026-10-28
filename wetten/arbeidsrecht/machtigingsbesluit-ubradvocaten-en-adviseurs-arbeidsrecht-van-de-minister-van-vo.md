@@ -9,7 +9,7 @@ laatste_update: 2020-05-14
 status: geldig
 toestand: 2020-05-14
 bron: "https://wetten.overheid.nl/BWBR0043527"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 1 mei 2020, kenmerk 1681574-204749-OBP, tot machtiging van de manager van Advocaten en Adviseurs Arbeidsrecht (Expertisecentrum Organisatie en Personeel en/of diens rechtsopvolger) van de Uitvoeringsorganisatie Bedrijfsvoering Rijk (UBR), inzake juridische procedures betreffende personeelsaangelegenheden (Machtigingsbesluit UBR|Advocaten en Adviseurs Arbeidsrecht van de Minister van Volksgezondheid, Welzijn en Sport)

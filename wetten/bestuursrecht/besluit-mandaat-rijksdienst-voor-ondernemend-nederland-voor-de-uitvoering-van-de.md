@@ -9,7 +9,7 @@ laatste_update: 2022-03-16
 status: geldig
 toestand: 2022-03-16
 bron: "https://wetten.overheid.nl/BWBR0043202"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit mandaat Rijksdienst voor Ondernemend Nederland voor de uitvoering van de Wet veiligheidsregio’s en van de Wet tegemoetkoming schade bij rampen van 11 februari 2020, nr. 2804339

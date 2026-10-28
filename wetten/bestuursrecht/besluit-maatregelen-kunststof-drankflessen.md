@@ -9,7 +9,7 @@ laatste_update: 2020-07-01
 status: geldig
 toestand: 2020-07-01
 bron: "https://wetten.overheid.nl/BWBR0043415"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van 6 maart 2020 tot wijziging van het Besluit beheer verpakkingen 2014 in verband met het opnemen van een doelstelling voor gescheiden inzameling van kunststof drankflessen en het aanpassen van de artikelen over statiegeld op drankverpakkingen (Besluit maatregelen kunststof drankflessen)

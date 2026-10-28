@@ -9,7 +9,7 @@ laatste_update: 2020-03-19
 status: geldig
 toestand: 2020-03-19
 bron: "https://wetten.overheid.nl/BWBR0043216"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Beleidsregel van de Minister voor Basis- en Voortgezet Onderwijs en Media van 19 februari 2020, nr. PO/BenS/17873009, houdende regels voor een experiment ruimte in onderwijstijd in het basisonderwijs (Beleidsregel experiment ruimte in onderwijstijd)

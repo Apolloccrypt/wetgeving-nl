@@ -9,7 +9,7 @@ laatste_update: 2020-09-15
 status: geldig
 toestand: 2020-09-15
 bron: "https://wetten.overheid.nl/BWBR0043890"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Wet van 8 juli 2020, houdende samenvoeging van de gemeenten Appingedam, Delfzijl en Loppersum

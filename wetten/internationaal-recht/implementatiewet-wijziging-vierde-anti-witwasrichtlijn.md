@@ -9,7 +9,7 @@ laatste_update: 2020-07-10
 status: geldig
 toestand: 2020-07-10
 bron: "https://wetten.overheid.nl/BWBR0043558"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Wet van 22 april 2020 tot wijziging van de Wet ter voorkoming van witwassen en financieren van terrorisme en de Wet toezicht trustkantoren 2018 in verband met de implementatie van richtlijn (EU) 2018/843 van het Europees Parlement en de Raad van 30 mei 2018 tot wijziging van richtlijn (EU) 2015/849 inzake de voorkoming van het gebruik van het financiële stelsel voor het witwassen van geld of terrorismefinanciering, en tot wijziging van de Richtlijnen 2009/138/EG en 2013/36/EU (PbEU 2018, L 156) (Implementatiewet wijziging vierde anti-witwasrichtlijn)

@@ -9,7 +9,7 @@ laatste_update: 1991-07-17
 status: geldig
 toestand: 1991-07-17
 bron: "https://wetten.overheid.nl/BWBR0043206"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Rijkswet van 3 juli 1991, goedkeuring van het Verdrag inzake de uitbanning van alle vormen van discriminatie van vrouwen (New York, 18 december 1979)

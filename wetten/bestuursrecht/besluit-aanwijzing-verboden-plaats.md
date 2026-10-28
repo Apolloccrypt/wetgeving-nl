@@ -9,7 +9,7 @@ laatste_update: 2020-06-20
 status: geldig
 toestand: 2020-06-20
 bron: "https://wetten.overheid.nl/BWBR0043673"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Besluit van 27 mei 2020, nr. 2020001061, aanwijzing verboden plaats

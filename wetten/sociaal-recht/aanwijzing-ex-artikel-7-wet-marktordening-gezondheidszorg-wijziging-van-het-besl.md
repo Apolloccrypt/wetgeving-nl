@@ -9,7 +9,7 @@ laatste_update: 2020-09-01
 status: geldig
 toestand: 2020-09-01
 bron: "https://wetten.overheid.nl/BWBR0043858"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Aanwijzing van de Minister voor Medische Zorg van 6 juli 2020, kenmerk 1713658-207569-PZo, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake de wijziging van het Besluit beschikbaarheidbijdrage WMG

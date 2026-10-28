@@ -9,7 +9,7 @@ laatste_update: 2020-07-01
 status: geldig
 toestand: 2020-07-01
 bron: "https://wetten.overheid.nl/BWBR0043218"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Wet van 5 februari 2020 tot wijziging van de Waterwet ten behoeve van subsidiëring uit het deltafonds van maatregelen en voorzieningen tegen wateroverlast

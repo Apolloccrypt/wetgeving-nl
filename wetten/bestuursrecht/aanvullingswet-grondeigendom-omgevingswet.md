@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0043371"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Wet van 14 maart 2020 tot wijziging van de Omgevingswet en enkele andere wetten vanwege opname in de Omgevingswet van regels over het vestigen van een voorkeursrecht, regels over onteigening, bijzondere regels voor het inrichten van gebieden en, met het oog op verschillende typen gebiedsontwikkelingen, een verdere aanpassing van de regels over kostenverhaal (Aanvullingswet grondeigendom Omgevingswet)

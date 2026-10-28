@@ -9,7 +9,7 @@ laatste_update: 2020-07-08
 status: geldig
 toestand: 2020-07-08
 bron: "https://wetten.overheid.nl/BWBR0043795"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 29 juni 2020, nr. IENW/BSK-2020/117591, met betrekking tot een algemeen verbindend verklaring van een overeenkomst over een afvalbeheerbijdrage, tot intrekking van de Regeling verzoek afvalbeheersbijdragen en tot wijziging van enkele regelingen ter implementatie van Richtlijn (EU) 2018/851 van het Europees Parlement en de Raad van 30 mei 2018 tot wijziging van Richtlijn 2008/98/EG betreffende afvalstoffen (PbEU 2018, L 150) (Regeling verzoek algemeen verbindend verklaring overeenkomst afvalbeheerbijdrage)

@@ -9,7 +9,7 @@ laatste_update: 2021-04-21
 status: geldig
 toestand: 2021-04-21
 bron: "https://wetten.overheid.nl/BWBR0043376"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Staatssecretarissen van Financiën, van 29 maart 2020, nr. 2020-66979, houdende benoeming van twee personeelsraadspersonen bij de Belastingdienst (Besluit personeelsraadspersonen Belastingdienst 2020)

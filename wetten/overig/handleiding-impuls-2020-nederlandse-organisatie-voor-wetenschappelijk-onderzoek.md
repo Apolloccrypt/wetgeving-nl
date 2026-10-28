@@ -8,7 +8,7 @@ laatste_update: 2020-05-26
 status: geldig
 toestand: 2020-05-26
 bron: "https://wetten.overheid.nl/BWBR0043571"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Handleiding Impuls 2020, Nederlandse Organisatie voor Wetenschappelijk Onderzoek

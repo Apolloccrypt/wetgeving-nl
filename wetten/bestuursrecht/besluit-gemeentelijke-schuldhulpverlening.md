@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0043850"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Besluit van 6 juli 2020, houdende regels voor de uitvoering van de Wet gemeentelijke schuldhulpverlening (Besluit gemeentelijke schuldhulpverlening)

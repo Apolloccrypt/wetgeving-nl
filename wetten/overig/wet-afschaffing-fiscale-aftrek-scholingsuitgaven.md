@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0043046"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Wet van 18 december 2019 tot wijziging van de Wet inkomstenbelasting 2001 met het oog op afschaffing van de fiscale aftrek van scholingsuitgaven (Wet afschaffing fiscale aftrek scholingsuitgaven)

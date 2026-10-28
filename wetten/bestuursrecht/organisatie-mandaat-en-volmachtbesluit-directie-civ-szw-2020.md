@@ -9,7 +9,7 @@ laatste_update: 2025-11-27
 status: geldig
 toestand: 2025-11-27
 bron: "https://wetten.overheid.nl/BWBR0043597"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 25 mei 2020, nr. 2020-0000058877, houdende de inrichting van de directie CIO-office en Integrale Veiligheid alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur CIO-office en Integrale Veiligheid (Organisatie-, mandaat- en volmachtbesluit directie CIV SZW 2020)

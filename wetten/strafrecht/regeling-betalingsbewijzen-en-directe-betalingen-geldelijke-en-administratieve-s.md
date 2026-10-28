@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0042983"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister voor Rechtsbescherming van 13 december 2019, nr. 2772917, houdende regels met betrekking tot betalingsbewijzen en directe betalingen inzake geldelijke en administratieve sancties (Regeling betalingsbewijzen en directe betalingen geldelijke en administratieve sancties)

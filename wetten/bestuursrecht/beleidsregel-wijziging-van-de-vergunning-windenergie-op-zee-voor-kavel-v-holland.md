@@ -9,7 +9,7 @@ laatste_update: 2020-04-08
 status: geldig
 toestand: 2020-04-08
 bron: "https://wetten.overheid.nl/BWBR0043363"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Beleidsregel van de Minister van Economische Zaken en Klimaat van 1 april 2020, nr. WJZ/20007206, houdende beleidsregel inzake de wijziging van de vergunning windenergie op zee voor de kavel V Hollandse Kust (noord)

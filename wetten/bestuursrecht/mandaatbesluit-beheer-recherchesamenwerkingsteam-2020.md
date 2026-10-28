@@ -9,7 +9,7 @@ laatste_update: 2020-07-04
 status: geldig
 toestand: 2020-07-04
 bron: "https://wetten.overheid.nl/BWBR0043778"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 10 juni 2020, nr. DGPenV/ICA/2923896, houdende verlening van mandaat, volmacht en machtiging aan de korpschef van het landelijk politiekorps inzake het beheer van het recherchesamenwerkingsteam (Mandaatbesluit beheer recherchesamenwerkingsteam 2020)

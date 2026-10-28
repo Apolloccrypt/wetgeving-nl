@@ -9,7 +9,7 @@ laatste_update: 2020-06-01
 status: geldig
 toestand: 2020-06-01
 bron: "https://wetten.overheid.nl/BWBR0043574"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat van 25 mei 2020, nr. WJZ/ 20057781, houdende regels met betrekking tot het verstrekken van een eenmalige specifieke uitkering voor het inwinnen van extern advies ten behoeve van de Transitievisie Warmte (Regeling specifieke uitkering Extern Advies Warmtetransitie)

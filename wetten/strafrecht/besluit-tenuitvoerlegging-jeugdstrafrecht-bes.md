@@ -9,7 +9,7 @@ laatste_update: 2020-08-01
 status: geldig
 toestand: 2020-08-01
 bron: "https://wetten.overheid.nl/BWBR0043946"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Besluit van 16 juli 2020, houdende vaststelling van regels voor de tenuitvoerlegging van het jeugdstrafrecht op Bonaire, Sint-Eustatius en Saba (Besluit tenuitvoerlegging jeugdstrafrecht BES)

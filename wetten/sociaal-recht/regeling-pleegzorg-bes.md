@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0043751"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 16 juni 2020, kenmerk 1671339-203979-WJZ, houdende nadere regels voor de uitvoering van pleegzorg op Bonaire, Sint Eustatius en Saba (Regeling pleegzorg BES)

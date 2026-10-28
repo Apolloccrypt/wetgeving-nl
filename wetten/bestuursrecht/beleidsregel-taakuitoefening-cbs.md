@@ -9,7 +9,7 @@ laatste_update: 2020-07-01
 status: geldig
 toestand: 2020-07-01
 bron: "https://wetten.overheid.nl/BWBR0043439"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Beleidsregel van de Minister van Economische Zaken en Klimaat van 19 april 2020, nr. WJZ/19207028, met betrekking tot de taakuitoefening van het Centraal bureau voor de statistiek (Beleidsregel taakuitoefening CBS)

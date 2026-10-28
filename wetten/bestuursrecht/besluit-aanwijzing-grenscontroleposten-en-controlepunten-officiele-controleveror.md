@@ -9,7 +9,7 @@ laatste_update: 2021-12-01
 status: geldig
 toestand: 2021-12-01
 bron: "https://wetten.overheid.nl/BWBR0043971"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Inspecteur-Generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister van Landbouw, Natuur en Voedselkwaliteit en de Minister voor Medische Zorg van 16 juli 2020, TRCVWA/2020/2753, tot aanwijzing van grenscontroleposten en controlepunten, als bedoeld in verordening (EU) 2017/625 voor dieren, dierlijke producten, levensmiddelen en fyto (Besluit aanwijzing grenscontroleposten en controlepunten officiële controleverordening dierlijk, levensmiddelen en fyto)

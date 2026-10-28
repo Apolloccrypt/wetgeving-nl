@@ -9,7 +9,7 @@ laatste_update: 2020-03-20
 status: geldig
 toestand: 2020-03-20
 bron: "https://wetten.overheid.nl/BWBR0043286"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister voor Basis- en Voortgezet Onderwijs en Media van 9 maart 2020, nr. 17846177, houdende beperking aan de openbaarheid van het archief van het Koninklijk Kabinet van Schilderijen Mauritshuis, 1816–1944

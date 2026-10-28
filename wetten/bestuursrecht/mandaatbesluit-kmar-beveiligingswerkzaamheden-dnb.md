@@ -9,7 +9,7 @@ laatste_update: 2020-02-28
 status: geldig
 toestand: 2020-02-28
 bron: "https://wetten.overheid.nl/BWBR0043214"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 11 februari 2020, nr. 2775658, houdende verlening van mandaat aan de hoofdofficier van justitie van de openbare lichamen Bonaire, Sint-Eustatius en Saba ter zake het geven van aanwijzingen aan de commandant van de Koninklijke marechaussee voor het verrichten van beveiligingswerkzaamheden voor De Nederlandsche Bank (Mandaatbesluit Kmar beveiligingswerkzaamheden DNB)

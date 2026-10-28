@@ -8,7 +8,7 @@ laatste_update: 2020-06-26
 status: geldig
 toestand: 2020-06-26
 bron: "https://wetten.overheid.nl/BWBR0043706"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Regeling van het Fonds Podiumkunsten voor podia voor aanvullende ondersteuning in verband met gederfde inkomsten als gevolg van COVID-19-maatregelen

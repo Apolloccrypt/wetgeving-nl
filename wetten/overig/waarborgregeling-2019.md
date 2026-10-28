@@ -9,7 +9,7 @@ laatste_update: 2020-07-01
 status: geldig
 toestand: 2020-07-01
 bron: "https://wetten.overheid.nl/BWBR0043723"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 11 juni 2020, nr. WJZ/ 19042169, houdende vaststelling van regels omtrent het waarborgen van edelmetalen voorwerpen (Waarborgregeling 2019)

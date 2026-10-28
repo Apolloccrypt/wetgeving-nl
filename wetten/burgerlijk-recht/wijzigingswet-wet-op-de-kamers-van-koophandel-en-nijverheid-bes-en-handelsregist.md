@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0043100"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Wet van 11 december 2019 tot wijziging van de Wet op de Kamers van Koophandel en Nijverheid BES en de Handelsregisterwet 2009 BES

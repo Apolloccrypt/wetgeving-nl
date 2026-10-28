@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0043534"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister voor Basis- en Voortgezet Onderwijs en Media van 11 mei 2020, nr. VO/23920412, houdende regels inzake de uitslag van het eindexamen voortgezet onderwijs in het schooljaar 2019–2020 (Besluit eindexamens voortgezet onderwijs 2020)

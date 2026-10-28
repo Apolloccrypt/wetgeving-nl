@@ -8,7 +8,7 @@ laatste_update: 2020-05-15
 status: geldig
 toestand: 2020-05-15
 bron: "https://wetten.overheid.nl/BWBR0043521"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit vaststelling selectielijst Sociaal-Economische Raad (1956–2006) vanaf 2015

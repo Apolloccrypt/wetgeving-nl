@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0043812"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Wet van 10 juni 2020 tot wijziging van diverse wetten in verband met de invoering van de Wet toetreding zorgaanbieders (Aanpassingswet Wet toetreding zorgaanbieders)

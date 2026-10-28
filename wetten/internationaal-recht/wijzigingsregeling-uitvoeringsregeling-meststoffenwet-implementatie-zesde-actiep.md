@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0043057"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 19 december 2019, nr. WJZ/ 19085872, tot wijziging van de Uitvoeringsregeling Meststoffenwet in verband met de implementatie van het zesde actieprogramma Nitraatrichtlijn

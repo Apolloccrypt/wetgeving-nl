@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0043903"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Besluit van 7 juli 2020, houdende regels met betrekking tot het via een centraal elektronisch systeem geautomatiseerd ontsluiten van identificerende gegevens alsmede enkele andere gegevens door banken en andere betaaldienstverleners (Besluit verwijzingsportaal bankgegevens)

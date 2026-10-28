@@ -9,7 +9,7 @@ laatste_update: 2020-01-18
 status: geldig
 toestand: 2020-01-18
 bron: "https://wetten.overheid.nl/BWBR0043082"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van 6 januari 2020, nr. 2019002742, houdende de herindeling van de ministeriële taak met betrekking tot de Stichting Advisering Bestuursrechtspraak voor Milieu en Ruimtelijke Ordening

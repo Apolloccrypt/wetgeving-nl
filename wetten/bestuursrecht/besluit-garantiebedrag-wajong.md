@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0043909"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Besluit van 9 juli 2020, houdende de vaststelling van de periode waarover het inkomen ten behoeve van het garantiebedrag Wajong in aanmerking wordt genomen (Besluit garantiebedrag)

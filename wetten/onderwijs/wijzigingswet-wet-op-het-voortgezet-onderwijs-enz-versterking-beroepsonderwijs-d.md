@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0043608"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Wet van 20 mei 2020 tot wijziging van onder andere de Wet op het voortgezet onderwijs, de Wet educatie en beroepsonderwijs en de Leerplichtwet 1969 in verband met de versterking van het beroepsonderwijs, door het wettelijk mogelijk maken van doorlopende leerroutes vmbo-mbo (sterk beroepsonderwijs)

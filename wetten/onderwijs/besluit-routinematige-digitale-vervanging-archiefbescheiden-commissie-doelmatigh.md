@@ -9,7 +9,7 @@ laatste_update: 2020-03-03
 status: geldig
 toestand: 2020-03-03
 bron: "https://wetten.overheid.nl/BWBR0043232"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 18 februari 2020, 20935100, houdende routinematige digitale vervanging van archiefbescheiden (Besluit routinematige digitale vervanging archiefbescheiden Commissie Doelmatigheid Hoger Onderwijs)

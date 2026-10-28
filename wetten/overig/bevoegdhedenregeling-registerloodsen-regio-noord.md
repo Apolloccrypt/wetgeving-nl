@@ -8,7 +8,7 @@ laatste_update: 2020-04-01
 status: geldig
 toestand: 2020-04-01
 bron: "https://wetten.overheid.nl/BWBR0043333"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Bevoegdhedenregeling registerloodsen regio Noord

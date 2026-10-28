@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-06-30
 toestand: 2025-02-13
 bron: "https://wetten.overheid.nl/BWBR0043395"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 14 april 2020, nr. WJZ/ 20004577 houdende regels inzake het verlenen van mandaat en machtiging voor de uitgifte van identificatiedocumenten van paardachtigen (Besluit mandaat en machtiging inzake de uitgifte van paardachtigen 2020)

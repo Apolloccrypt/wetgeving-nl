@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0043238"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Wet van 5 februari 2020 tot wijziging van de Scheepvaartverkeerswet en enige andere wetten in verband met verdere flexibilisering van de loodsplicht (Loodsplicht nieuwe stijl)

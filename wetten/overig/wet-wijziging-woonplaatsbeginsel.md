@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0043235"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Wet van 12 februari 2020 tot wijziging van de Jeugdwet in verband met de verduidelijking van het woonplaatsbeginsel (Wet wijziging woonplaatsbeginsel)

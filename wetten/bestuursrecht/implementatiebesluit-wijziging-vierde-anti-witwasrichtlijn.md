@@ -9,7 +9,7 @@ laatste_update: 2020-05-21
 status: geldig
 toestand: 2020-05-21
 bron: "https://wetten.overheid.nl/BWBR0043562"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van 11 mei 2020 tot wijziging van onder meer het Uitvoeringsbesluit Wwft 2018 en het Besluit bekostiging financieel toezicht 2019 ter implementatie van richtlijn (EU) 2018/843 van het Europees Parlement en de Raad van 30 mei 2018 tot wijziging van richtlijn (EU) 2015/849 inzake de voorkoming van het gebruik van het financiële stelsel voor het witwassen van geld of terrorismefinanciering, en tot wijziging van de Richtlijnen 2009/138/EG en 2013/36/EU (PbEU 2018, L 156) (Implementatiebesluit wijziging vierde anti-witwasrichtlijn)

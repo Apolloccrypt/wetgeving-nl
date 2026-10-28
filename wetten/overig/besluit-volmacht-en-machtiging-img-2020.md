@@ -9,7 +9,7 @@ laatste_update: 2024-11-12
 status: geldig
 toestand: 2024-11-12
 bron: "https://wetten.overheid.nl/BWBR0043770"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat van 26 juni 2020, nr. WJZ/20125234, houdende regels inzake de verlening van volmacht en machtiging voor het Instituut Mijnbouwschade Groningen (Besluit volmacht en machtiging IMG 2020)

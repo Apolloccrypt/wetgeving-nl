@@ -8,7 +8,7 @@ laatste_update: 2020-01-16
 status: geldig
 toestand: 2020-01-16
 bron: "https://wetten.overheid.nl/BWBR0043072"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit opheffen beperkingen openbaarheid archieven Kabinet der Koningin over de periode 1946–1988

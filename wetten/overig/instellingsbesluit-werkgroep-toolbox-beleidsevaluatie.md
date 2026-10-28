@@ -9,7 +9,7 @@ laatste_update: 2020-02-26
 status: geldig
 toestand: 2020-02-26
 bron: "https://wetten.overheid.nl/BWBR0043212"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister van Financiën, van 6 februari 2020, nr. 23665, tot instelling van de Werkgroep Toolbox Beleidsevaluatie (Instellingsbesluit Werkgroep Toolbox Beleidsevaluatie)

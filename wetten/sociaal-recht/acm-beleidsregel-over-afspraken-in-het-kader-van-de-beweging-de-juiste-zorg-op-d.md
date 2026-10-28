@@ -8,7 +8,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0042972"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # ACM Beleidsregel over afspraken in het kader van de beweging ‘De juiste zorg op de juiste plek’

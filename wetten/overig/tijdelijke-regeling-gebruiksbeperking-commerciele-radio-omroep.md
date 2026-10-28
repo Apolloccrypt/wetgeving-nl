@@ -9,7 +9,7 @@ laatste_update: 2025-12-24
 status: geldig
 toestand: 2025-12-24
 bron: "https://wetten.overheid.nl/BWBR0043213"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 13 februari 2020, nr. WJZ/ 19242023, tot vaststelling van tijdelijke regels met betrekking tot de maximale hoeveelheid frequentieruimte bestemd voor commerciële FM-radio-omroep die één rechtspersoon kan gebruiken of verwerven (Tijdelijke regeling gebruiksbeperking commerciële FM-radio-omroep)

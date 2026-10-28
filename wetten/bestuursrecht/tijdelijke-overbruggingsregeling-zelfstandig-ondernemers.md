@@ -9,7 +9,7 @@ laatste_update: 2021-10-01
 status: geldig
 toestand: 2021-10-01
 bron: "https://wetten.overheid.nl/BWBR0043402"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van 17 april 2020, houdende tijdelijke regels omtrent bijstandsverlening aan zelfstandigen die financieel getroffen zijn door de gevolgen van de crisis in verband met COVID-19 (Tijdelijke overbruggingsregeling zelfstandig ondernemers)

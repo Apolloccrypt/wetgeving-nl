@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0043300"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van 6 maart 2020, houdende regels inzake de opleiding tot en de deskundigheid van de klinisch technoloog (Besluit opleidingseisen en deskundigheidsgebied klinisch technoloog)

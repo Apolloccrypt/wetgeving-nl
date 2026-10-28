@@ -9,7 +9,7 @@ laatste_update: 2020-07-30
 status: geldig
 toestand: 2020-07-30
 bron: "https://wetten.overheid.nl/BWBR0043963"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Vaststelling selectielijst CML BV vanaf 3 mei 2018

@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0043031"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat, van 24 december 2019, nr. IENW/BSK-2019/269660, tot vaststelling van het Besluit tot goedkeuring examenreglementen en examenprogramma's voor de binnenvaart 2020

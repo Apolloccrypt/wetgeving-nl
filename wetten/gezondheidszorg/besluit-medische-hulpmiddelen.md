@@ -9,7 +9,7 @@ laatste_update: 2022-05-26
 status: geldig
 toestand: 2022-05-26
 bron: "https://wetten.overheid.nl/BWBR0043470"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van 24 april 2020, houdende regels met betrekking tot de herverwerking en het verder gebruik van hulpmiddelen voor eenmalig gebruik in de zin van artikel 17 van Verordening (EU) 2017/745 en nadere regels over het gebruik van medische hulpmiddelen (Besluit medische hulpmiddelen)

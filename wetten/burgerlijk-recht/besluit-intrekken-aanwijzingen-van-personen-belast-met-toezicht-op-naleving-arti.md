@@ -9,7 +9,7 @@ laatste_update: 2014-10-30
 status: geldig
 toestand: 2014-10-30
 bron: "https://wetten.overheid.nl/BWBR0043153"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 7 oktober 2014, nr. HO&S/674004, tot het intrekken van een drietal aanwijzingen van personen belast met het toezicht op de naleving van artikel 1.5 van de Wet studiefinanciering 2000

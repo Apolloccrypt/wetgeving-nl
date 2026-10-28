@@ -9,7 +9,7 @@ laatste_update: 2020-05-05
 status: geldig
 toestand: 2020-05-05
 bron: "https://wetten.overheid.nl/BWBR0043457"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Waterstaat, van 29 april 2020, nr. IENW/BSK-2020/55012, houdende benoeming en toekenning van vergoedingen aan de voorzitter en de andere leden van de raad van toezicht van het Koninklijk Nederlands Meteorologisch Instituut (Benoemingsbesluit raad van toezicht KNMI 2020–2023)

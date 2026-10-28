@@ -9,7 +9,7 @@ laatste_update: 2020-06-17
 status: geldig
 toestand: 2020-06-17
 bron: "https://wetten.overheid.nl/BWBR0043647"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 4 juni 2020, nr. 2901763, houdende toestemming tot het verstrekken en verder verstrekken van politiegegevens en justitiële gegevens ten behoeve van de verlening van de Orde van de Nederlandse Leeuw, de Orde van Oranje-Nassau en de Erepenning voor menslievend hulpbetoon

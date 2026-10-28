@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0043247"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Wet van 19 februari 2020 tot wijziging van de Omgevingswet en enkele andere wetten met het oog op de beheersing van geluid afkomstig van wegen, spoorwegen en industrieterreinen (Aanvullingswet geluid Omgevingswet)

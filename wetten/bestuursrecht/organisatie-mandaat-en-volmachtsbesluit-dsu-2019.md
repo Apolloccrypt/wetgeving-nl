@@ -9,7 +9,7 @@ laatste_update: 2026-04-16
 status: geldig
 toestand: 2026-04-16
 bron: "https://wetten.overheid.nl/BWBR0043152"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 3 februari 2020, nr. 2020-0000004496, houdende de inrichting van de directie Dienstverlening, Samenwerkingsverbanden en Uitvoering, alsmede de doorverlening van vertegenwoordigingsbevoegdheden van de directie Dienstverlening, Samenwerkingsverbanden en Uitvoering (Organisatie-, Mandaat- en Volmachtbesluit DSU 2019)

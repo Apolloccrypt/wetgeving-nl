@@ -9,7 +9,7 @@ laatste_update: 2020-04-01
 status: geldig
 toestand: 2020-04-01
 bron: "https://wetten.overheid.nl/BWBR0043064"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat van 13 december 2019, nr. WJZ/ 19201387, houdende nadere regels tot vergunningverlening windenergie op zee voor het kavel V van het windenergiegebied Hollandse Kust (noord) (Regeling vergunningverlening windenergie op zee kavel V Hollandse Kust (noord))

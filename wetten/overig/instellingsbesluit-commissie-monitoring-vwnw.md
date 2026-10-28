@@ -8,7 +8,7 @@ laatste_update: 2019-12-31
 status: geldig
 toestand: 2019-12-31
 bron: "https://wetten.overheid.nl/BWBR0042965"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Instellingsbesluit Commissie monitoring VWNW

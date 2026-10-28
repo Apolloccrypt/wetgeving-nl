@@ -9,7 +9,7 @@ laatste_update: 2020-09-23
 status: geldig
 toestand: 2020-09-23
 bron: "https://wetten.overheid.nl/BWBR0043347"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat van 30 maart 2020, nr. WJZ/ 20076708, tot vaststelling van de definitieve correcties voor de stimulering van duurzame energieproductie in het jaar 2019 (Regeling vaststelling definitieve correcties duurzame energieproductie 2019)

@@ -9,7 +9,7 @@ laatste_update: 2020-07-04
 status: geldig
 toestand: 2020-07-04
 bron: "https://wetten.overheid.nl/BWBR0043788"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat van 26 juni 2020, nr. WJZ/ 20132220, houdende verlening van volmacht en machtiging aan de manager van Advocaten en Adviseurs Arbeidsrecht van de Uitvoeringsorganisatie Bedrijfsvoering Rijk inzake juridische procedures betreffende personeelsaangelegenheden (Besluit volmacht en machtiging UBR|Advocaten en Adviseurs Arbeidsrecht EZK 2020)

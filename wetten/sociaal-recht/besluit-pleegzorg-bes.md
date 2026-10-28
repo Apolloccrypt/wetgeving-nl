@@ -9,7 +9,7 @@ laatste_update: 2020-07-01
 status: geldig
 toestand: 2020-07-01
 bron: "https://wetten.overheid.nl/BWBR0043716"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Besluit van 14 mei 2020, houdende nadere regels voor de uitvoering van pleegzorg op Bonaire, Sint Eustatius en Saba (Besluit pleegzorg BES)

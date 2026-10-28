@@ -9,7 +9,7 @@ laatste_update: 2020-01-16
 status: geldig
 toestand: 2020-01-16
 bron: "https://wetten.overheid.nl/BWBR0043070"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Beleidsregel van De Nederlandsche Bank N.V. over de wijze waarop zij in het toezicht de naleving beoordeelt in hoeverre trustkantoren het risico beheersen op betrokkenheid van het trustkantoor of zijn medewerkers bij handelingen die op een dusdanige wijze ingaan tegen hetgeen volgens het ongeschreven recht in het maatschappelijk verkeer betaamt, dat hierdoor het vertrouwen in het trustkantoor of in de financiële markten ernstig kan worden geschaad (Beleidsregel maatschappelijke betamelijkheid trustkantoren)

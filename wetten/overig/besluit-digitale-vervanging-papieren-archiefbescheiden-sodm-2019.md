@@ -9,7 +9,7 @@ laatste_update: 2019-12-24
 status: geldig
 toestand: 2019-12-24
 bron: "https://wetten.overheid.nl/BWBR0042957"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van 9 december 2019 met kenmerk 19013111 tot digitale vervanging van papieren archiefbescheiden van het Staatstoezicht op de Mijnen (Besluit digitale vervanging archiefbescheiden SodM 2019)

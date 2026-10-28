@@ -8,7 +8,7 @@ laatste_update: 2020-05-21
 status: geldig
 toestand: 2020-05-21
 bron: "https://wetten.overheid.nl/BWBR0043553"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit vaststelling generieke selectielijst informatie politie vanaf 1 januari 2013

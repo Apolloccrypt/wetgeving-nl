@@ -9,7 +9,7 @@ laatste_update: 2021-04-01
 status: geldig
 toestand: 2021-04-01
 bron: "https://wetten.overheid.nl/BWBR0043668"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Wet van 3 juni 2020 tot wijziging van het Wetboek van Burgerlijke Rechtsvordering en de Faillissementswet in verband met de herziening van het beslag- en executierecht

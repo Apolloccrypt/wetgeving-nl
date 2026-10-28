@@ -9,7 +9,7 @@ laatste_update: 2020-07-21
 status: geldig
 toestand: 2020-07-21
 bron: "https://wetten.overheid.nl/BWBR0043919"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 10 juli 2020, 2020-0000092873, tot opheffing van de commissie vergemakkelijking schadeafhandeling beroepsziekten

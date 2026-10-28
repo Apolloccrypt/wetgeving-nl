@@ -9,7 +9,7 @@ laatste_update: 2020-07-23
 status: geldig
 toestand: 2020-07-23
 bron: "https://wetten.overheid.nl/BWBR0043915"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 20 juli 2020, houdende verlening van mandaat en machtiging aan de Rijksdienst voor Ondernemend Nederland in verband met de subsidieverstrekking inzake de stimulering van e-health thuis ten tijde van de coronacrisis (Mandaatbesluit Rijksdienst voor Ondernemend Nederland inzake de Stimuleringsregeling E-health Thuis COVID-19 2.0)

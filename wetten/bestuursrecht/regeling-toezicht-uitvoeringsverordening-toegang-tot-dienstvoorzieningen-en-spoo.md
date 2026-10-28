@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0042949"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 11 december 2019, nr. IENW/BSK-2019/255555, houdende vaststelling van regels inzake het toezicht op rechtstreeks bindende Europese regels op het gebied van de toegang tot dienstvoorzieningen en spoorbonden diensten (Regeling toezicht uitvoeringsverordening toegang tot dienstvoorzieningen en spoorbonden diensten)

@@ -9,7 +9,7 @@ laatste_update: 2020-05-21
 status: geldig
 toestand: 2020-05-21
 bron: "https://wetten.overheid.nl/BWBR0043559"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 18 mei 2020, nr. WJZ/ 20127708, houdende enige bepalingen ter uitvoering van uitvoeringsverordeningen (EU) 2020/593, (EU) 2020/594 en (EU) 2020/599 (Regeling uitvoering uitvoeringsverordeningen (EU) 2020/593, (EU) 2020/594 en (EU) 2020/599)

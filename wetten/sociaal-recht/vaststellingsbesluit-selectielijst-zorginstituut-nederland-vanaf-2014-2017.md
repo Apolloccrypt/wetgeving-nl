@@ -8,7 +8,7 @@ laatste_update: 2020-01-31
 status: geldig
 toestand: 2020-01-31
 bron: "https://wetten.overheid.nl/BWBR0043107"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Vaststellingsbesluit selectielijst Zorginstituut Nederland vanaf (2014) 2017

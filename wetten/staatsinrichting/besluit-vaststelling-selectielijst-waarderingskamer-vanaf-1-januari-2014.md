@@ -8,7 +8,7 @@ laatste_update: 2020-01-31
 status: geldig
 toestand: 2020-01-31
 bron: "https://wetten.overheid.nl/BWBR0043106"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit vaststelling selectielijst Waarderingskamer vanaf 1 januari 2014

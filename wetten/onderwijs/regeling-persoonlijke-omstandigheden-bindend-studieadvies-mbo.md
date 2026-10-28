@@ -9,7 +9,7 @@ laatste_update: 2020-08-01
 status: geldig
 toestand: 2020-08-01
 bron: "https://wetten.overheid.nl/BWBR0043972"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 3 juli 2020, nr. MBO/24897525, over de persoonlijke omstandigheden die worden betrokken bij afgifte van het bindend studieadvies in het middelbaar beroepsonderwijs (Regeling persoonlijke omstandigheden bindend studieadvies mbo)

@@ -9,7 +9,7 @@ laatste_update: 2025-04-05
 status: geldig
 toestand: 2025-04-05
 bron: "https://wetten.overheid.nl/BWBR0043738"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Besluit van 15 juni 2020, houdende regels over het experiment met een gesloten coffeeshopketen (Besluit experiment gesloten coffeeshopketen)

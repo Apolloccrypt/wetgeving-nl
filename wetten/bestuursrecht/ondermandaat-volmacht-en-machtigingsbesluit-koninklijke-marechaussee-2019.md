@@ -8,7 +8,7 @@ laatste_update: 2020-03-12
 status: geldig
 toestand: 2020-03-12
 bron: "https://wetten.overheid.nl/BWBR0043240"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Ondermandaat, -Volmacht en -Machtigingsbesluit Koninklijke Marechaussee 2019

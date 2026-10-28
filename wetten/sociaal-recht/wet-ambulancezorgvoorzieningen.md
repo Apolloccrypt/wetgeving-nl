@@ -9,7 +9,7 @@ laatste_update: 2025-07-05
 status: geldig
 toestand: 2025-07-05
 bron: "https://wetten.overheid.nl/BWBR0043925"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Wet van 9 juli 2020, houdende regels inzake de organisatie, beschikbaarheid en kwaliteit van ambulancevoorzieningen (Wet ambulancezorgvoorzieningen)

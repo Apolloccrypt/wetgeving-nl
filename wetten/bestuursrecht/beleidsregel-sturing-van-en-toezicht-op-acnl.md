@@ -9,7 +9,7 @@ laatste_update: 2020-04-25
 status: geldig
 toestand: 2020-04-25
 bron: "https://wetten.overheid.nl/BWBR0043414"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Beleidsregel van de Minister van Infrastructuur en Waterstaat over de sturing van en het toezicht op Airport Coordination The Netherlands (ACNL) (Beleidsregel sturing van en toezicht op ACNL)

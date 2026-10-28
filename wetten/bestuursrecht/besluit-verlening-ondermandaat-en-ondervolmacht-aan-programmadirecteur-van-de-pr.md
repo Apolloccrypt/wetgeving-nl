@@ -9,7 +9,7 @@ laatste_update: 2020-08-07
 status: geldig
 toestand: 2020-08-07
 bron: "https://wetten.overheid.nl/BWBR0043988"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Secretaris-Generaal van Volksgezondheid, Welzijn en Sport van 3 augustus 2020, kenmerk 1728183-208615-WJZ, houdende het verlenen van ondermandaat en ondervolmacht aan de programmadirecteur van de programmadirectie COVID-19

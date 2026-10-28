@@ -9,7 +9,7 @@ laatste_update: 2020-07-18
 status: geldig
 toestand: 2020-07-18
 bron: "https://wetten.overheid.nl/BWBR0043902"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Besluit van 7 juli 2020, houdende de voor het personeel van de Kamer van Koophandel ten opzichte van Rijksambtenaren afwijkende arbeidsvoorwaardelijke aangelegenheden (Besluit rechtspositie Kamer van Koophandel)

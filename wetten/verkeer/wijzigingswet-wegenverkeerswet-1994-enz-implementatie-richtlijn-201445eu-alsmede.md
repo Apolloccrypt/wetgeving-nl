@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0043651"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Wet van 20 mei 2020 tot wijziging van de Wegenverkeerswet 1994 in verband met de implementatie van richtlijn 2014/45/EU alsmede ter invoering van een registratie- en kentekenplicht voor landbouw- en bosbouwtrekkers, motorrijtuigen met beperkte snelheid, mobiele machines en aanhangwagens die uitsluitend bestemd zijn om daardoor te worden voortbewogen en het niet meer toelaten tot het verkeer van nieuwe motorrijtuigen met beperkte snelheid

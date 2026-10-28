@@ -8,7 +8,7 @@ laatste_update: 2021-03-10
 status: geldig
 toestand: 2021-03-10
 bron: "https://wetten.overheid.nl/BWBR0043001"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Verkeersregeling Defensie

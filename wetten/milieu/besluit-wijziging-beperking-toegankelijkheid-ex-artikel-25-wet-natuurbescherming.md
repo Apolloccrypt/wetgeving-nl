@@ -9,7 +9,7 @@ laatste_update: 2020-07-01
 status: geldig
 toestand: 2020-07-01
 bron: "https://wetten.overheid.nl/BWBR0043451"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 23 april 2020, nr.: 20096284, tot wijziging van de begrenzing van de beperking in toegankelijkheid van een gebied ex artikel 2.5, gelegen binnen het Natura 2000-gebied ‘IJsselmeer’

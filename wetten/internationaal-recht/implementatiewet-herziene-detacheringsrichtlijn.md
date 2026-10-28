@@ -9,7 +9,7 @@ laatste_update: 2020-07-30
 status: geldig
 toestand: 2020-07-30
 bron: "https://wetten.overheid.nl/BWBR0043892"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Wet van 1 juli 2020 tot wijziging van de Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie, de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten en enkele andere wetten in verband met de implementatie van Richtlijn (EU) 2018/957 van het Europees Parlement en de Raad van 28 juni 2018 tot wijziging van Richtlijn 96/71/EG betreffende de terbeschikkingstelling van werknemers met het oog op het verrichten van diensten (PbEU 2018, L 173) (Implementatiewet herziene detacheringsrichtlijn)

@@ -8,7 +8,7 @@ laatste_update: 2020-07-18
 status: geldig
 toestand: 2020-07-18
 bron: "https://wetten.overheid.nl/BWBR0043906"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Besluit tekenbevoegdheid vertrouwensfuncties en veiligheidsonderzoeken BZK 2020

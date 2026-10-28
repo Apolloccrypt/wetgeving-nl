@@ -9,7 +9,7 @@ laatste_update: 2024-05-25
 status: geldig
 toestand: 2024-05-25
 bron: "https://wetten.overheid.nl/BWBR0043304"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister voor Milieu en Wonen van 16 maart 2020, nr. 2020-0000141044, houdende nadere regels ten aanzien van de kenbaarheid van publiekrechtelijke beperkingen op onroerende zaken (Regeling kenbaarheid publiekrechtelijke beperkingen onroerende zaken)

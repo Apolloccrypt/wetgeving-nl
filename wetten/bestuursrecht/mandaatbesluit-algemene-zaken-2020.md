@@ -9,7 +9,7 @@ laatste_update: 2025-04-29
 status: geldig
 toestand: 2025-04-29
 bron: "https://wetten.overheid.nl/BWBR0043000"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister-President, Minister van Algemene Zaken, van 1 januari 2020, nr. 4091295, houdende mandaat, volmacht en machtiging voor het Ministerie van Algemene Zaken

@@ -9,7 +9,7 @@ laatste_update: 2020-01-23
 status: geldig
 toestand: 2020-01-23
 bron: "https://wetten.overheid.nl/BWBR0043091"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de directeur Organisatie, Bedrijfsvoering en Personeel van 13 januari 2020, kenmerk 1629348-200342-OBP, houdende de verlening van ondermandaat en ondervolmacht aan het plaatsvervangend afdelingshoofd van de afdeling VWS Flex

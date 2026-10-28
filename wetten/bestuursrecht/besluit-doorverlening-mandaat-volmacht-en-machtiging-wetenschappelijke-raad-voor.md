@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0043028"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de directeur van de Wetenschappelijke Raad voor het Regeringsbeleid van 1 januari 2020, nr. 4092777, houdende doorverlening mandaat, volmacht en machtiging aan een medewerker binnen het bureau van de Wetenschappelijke Raad voor het Regeringsbeleid

@@ -9,7 +9,7 @@ laatste_update: 2020-07-01
 status: geldig
 toestand: 2020-07-01
 bron: "https://wetten.overheid.nl/BWBR0043762"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid, van 22 juni 2020, kenmerk 2944128, houdende de hoofdlijnen van beleid en beheer met betrekking tot de meldkamers, waaronder de multidisciplinaire sturing en de beleids- en beheercyclus voor de vaststelling van het beleids- en bestedingsplan (Regeling hoofdlijnen beleid en beheer meldkamers)

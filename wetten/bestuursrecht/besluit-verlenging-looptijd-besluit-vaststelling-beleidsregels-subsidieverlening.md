@@ -9,7 +9,7 @@ laatste_update: 2019-12-28
 status: geldig
 toestand: 2019-12-28
 bron: "https://wetten.overheid.nl/BWBR0042968"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 13 december 2019 tot verlenging van de looptijd van beleidsregels voor subsidieverlening met het oog op de financiering van ontwikkelingsrelevante infrastructuurprojecten in ontwikkelingslanden (DRIVE)

@@ -9,7 +9,7 @@ laatste_update: 2020-06-19
 status: geldig
 toestand: 2020-06-19
 bron: "https://wetten.overheid.nl/BWBR0043670"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Beleidsregel van de Minister van Infrastructuur en Waterstaat, houdende bepalingen in verband met de handhaving van twee Europese verordeningen inzake passagiersrechten in de luchtvaart (Beleidsregel handhaving verordening (EG) nr. 261/2004 en verordening (EG) nr. 1107/2006 inzake passagiersrechten luchtvaartpassagiers)

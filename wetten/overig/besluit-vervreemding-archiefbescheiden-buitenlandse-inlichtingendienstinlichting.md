@@ -9,7 +9,7 @@ laatste_update: 2020-04-01
 status: geldig
 toestand: 2020-04-01
 bron: "https://wetten.overheid.nl/BWBR0043188"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister-President, Minister van Algemene Zaken van 7 februari 2020, nr. 4114901, houdende besluit tot vervreemding van archiefbescheiden van de Buitenlandse Inlichtingendienst/Inlichtingendienst Buitenland (blok BID/IDB 1945–1994)

@@ -9,7 +9,7 @@ laatste_update: 2020-09-04
 status: geldig
 toestand: 2020-09-04
 bron: "https://wetten.overheid.nl/BWBR0043424"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat van 23 april 2020, nr. WJZ/ 20118982, houdende regels inzake de verlening van mandaat, volmacht en machtiging voor het hoofd van de RCN-unit SZW van de Rijksdienst Caribisch Nederland

@@ -9,7 +9,7 @@ laatste_update: 2021-08-01
 status: geldig
 toestand: 2021-08-01
 bron: "https://wetten.overheid.nl/BWBR0043965"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Wet van 1 juli 2020 tot wijziging van de Wet educatie en beroepsonderwijs en een aantal andere wetten in verband met diverse maatregelen gericht op het versterken van de positie van mbo-studenten (Wet versterken positie mbo-studenten)

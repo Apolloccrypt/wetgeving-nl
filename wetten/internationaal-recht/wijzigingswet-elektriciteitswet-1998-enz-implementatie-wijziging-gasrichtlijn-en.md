@@ -9,7 +9,7 @@ laatste_update: 2020-07-10
 status: geldig
 toestand: 2020-07-10
 bron: "https://wetten.overheid.nl/BWBR0043813"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Wet van 10 juni 2020 tot wijziging van de Elektriciteitswet 1998 en Gaswet (implementatie wijziging Gasrichtlijn en een aantal verordeningen op het gebied van elektriciteit en gas)

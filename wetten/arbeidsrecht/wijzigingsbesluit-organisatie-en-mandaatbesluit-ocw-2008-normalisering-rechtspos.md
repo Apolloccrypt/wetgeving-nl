@@ -9,7 +9,7 @@ laatste_update: 2020-06-25
 status: geldig
 toestand: 2020-06-25
 bron: "https://wetten.overheid.nl/BWBR0043703"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 15 januari 2020, nr. 17881647, houdende wijziging van het Organisatie- en mandaatbesluit OCW 2008 in verband met de inwerkingtreding van de Wet normalisering rechtspositie ambtenaren

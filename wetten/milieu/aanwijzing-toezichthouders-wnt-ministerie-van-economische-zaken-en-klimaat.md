@@ -9,7 +9,7 @@ laatste_update: 2020-07-04
 status: geldig
 toestand: 2020-07-04
 bron: "https://wetten.overheid.nl/BWBR0043792"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-28
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat van 26 juni 2020, nr. WJZ/ 20167069, houdende aanwijzing van toezichthouders op de naleving van de Wet normering topinkomens op het terrein van Economische Zaken en Klimaat (Aanwijzing toezichthouders WNT Ministerie van Economische Zaken en Klimaat)
