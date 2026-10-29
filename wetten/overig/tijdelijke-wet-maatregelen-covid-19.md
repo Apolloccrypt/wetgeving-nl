@@ -9,7 +9,7 @@ laatste_update: 2022-03-15
 status: geldig
 toestand: 2022-03-15
 bron: "https://wetten.overheid.nl/BWBR0044337"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Wet van 28 oktober 2020, houdende Tijdelijke bepalingen in verband met maatregelen ter bestrijding van de epidemie van covid-19 voor de langere termijn (Tijdelijke wet maatregelen covid-19)

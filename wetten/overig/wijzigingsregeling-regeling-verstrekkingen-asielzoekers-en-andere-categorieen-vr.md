@@ -9,7 +9,7 @@ laatste_update: 2020-09-18
 status: geldig
 toestand: 2020-09-18
 bron: "https://wetten.overheid.nl/BWBR0044096"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Staatssecretaris van Justitie en Veiligheid van 14 september 2020, nummer 2995026, houdende wijziging van de Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005 in verband met de versobering van de verstrekkingen aan bepaalde groepen asielzoekers

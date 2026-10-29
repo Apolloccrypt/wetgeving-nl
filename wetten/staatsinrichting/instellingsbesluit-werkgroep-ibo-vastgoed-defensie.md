@@ -9,7 +9,7 @@ laatste_update: 2020-10-13
 status: geldig
 toestand: 2020-10-13
 bron: "https://wetten.overheid.nl/BWBR0044204"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Minister van Financiën, van 18 september 2020, nr. 2020-176699, tot instelling van de Werkgroep Interdepartementaal Beleidsonderzoek (IBO) Vastgoed Defensie (Instellingsbesluit Werkgroep IBO Vastgoed Defensie)

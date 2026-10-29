@@ -8,7 +8,7 @@ laatste_update: 2020-06-28
 status: geldig
 toestand: 2020-06-28
 bron: "https://wetten.overheid.nl/BWBR0044341"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Plaatselijke regelingen Eemsmonding

@@ -9,7 +9,7 @@ laatste_update: 2020-12-01
 status: geldig
 toestand: 2020-12-01
 bron: "https://wetten.overheid.nl/BWBR0044526"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van het bestuur van de Raad voor Rechtsbijstand van 01-12-2020 tot instelling van de Adviescommissie Toelating op Rechtwijzer.nl en vaststelling Reglement Adviescommissie Toelating op Rechtwijzer.nl

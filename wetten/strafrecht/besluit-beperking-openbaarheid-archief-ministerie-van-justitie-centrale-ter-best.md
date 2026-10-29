@@ -9,7 +9,7 @@ laatste_update: 2021-01-14
 status: geldig
 toestand: 2021-01-14
 bron: "https://wetten.overheid.nl/BWBR0044701"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid d.d. 3 december 2020, kenmerk 2631141, houdende beperking van de openbaarheid van het archief van het Ministerie van Justitie, Centrale ter bestrijding van de handel in vrouwen en kinderen en van de handel in ontuchtige uitgaven en taakvoorgangers, (1904) 1908–1968

@@ -8,7 +8,7 @@ laatste_update: 2021-03-02
 status: geldig
 toestand: 2021-03-02
 bron: "https://wetten.overheid.nl/BWBR0044871"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Deelregeling coronaregeling medewerkers collectiebeleid

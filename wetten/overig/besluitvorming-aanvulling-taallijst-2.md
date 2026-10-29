@@ -8,7 +8,7 @@ laatste_update: 2021-01-23
 status: geldig
 toestand: 2021-01-23
 bron: "https://wetten.overheid.nl/BWBR0044734"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluitvorming aanvulling taallijst (2)

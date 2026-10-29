@@ -9,7 +9,7 @@ laatste_update: 2021-02-13
 status: geldig
 toestand: 2021-02-13
 bron: "https://wetten.overheid.nl/BWBR0044814"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 30 december 2020, tot geheimverklaring van de overheidsopdracht tot beheer, onderhoud en ondersteuning van Aanvraagstations en Reisdocumenten Aanvraag- en Archiefstations

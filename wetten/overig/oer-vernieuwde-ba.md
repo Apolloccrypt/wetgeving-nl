@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0044517"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Opleidings- en examenreglement vernieuwde beroepsopleiding advocaten, Besluit van de algemene raad van 7 december 2020, houdende de vaststelling van een opleidings- en examenreglement vernieuwde beroepsopleiding advocaten (OER vernieuwde BA)

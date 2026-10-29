@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0044248"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Wet van 7 oktober 2020 tot wijziging van de Wet op rechterlijke organisatie in verband met het wegnemen van belemmeringen voor gerechten bij het verlenen van onderlinge bijstand in geval van gebrek aan voldoende zittingscapaciteit

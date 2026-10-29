@@ -9,7 +9,7 @@ laatste_update: 2021-03-01
 status: geldig
 toestand: 2021-03-01
 bron: "https://wetten.overheid.nl/BWBR0044689"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 10 december 2020, nr. MBO/26255276, houdende de vaststelling van het subsidieplafond van de Regeling regionaal investeringsfonds mbo 2019-2022 voor het kalenderjaar 2021

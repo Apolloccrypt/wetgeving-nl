@@ -9,7 +9,7 @@ laatste_update: 2022-01-31
 status: geldig
 toestand: 2022-01-31
 bron: "https://wetten.overheid.nl/BWBR0044726"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluit van 14 januari 2021, houdende regels in verband met de onafhankelijke uitoefening van het toezicht door de Centrale Commissie Mensgebonden Onderzoek (Besluit onafhankelijke uitoefening toezicht Centrale Commissie Mensgebonden Onderzoek)

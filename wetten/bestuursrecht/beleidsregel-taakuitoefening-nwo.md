@@ -9,7 +9,7 @@ laatste_update: 2020-11-21
 status: geldig
 toestand: 2020-11-21
 bron: "https://wetten.overheid.nl/BWBR0044357"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap, van 11 november 2020, nr. 25767002, houdende de taakuitoefening van de Nederlandse organisatie voor wetenschappelijk onderzoek (Beleidsregel taakuitoefening NWO)

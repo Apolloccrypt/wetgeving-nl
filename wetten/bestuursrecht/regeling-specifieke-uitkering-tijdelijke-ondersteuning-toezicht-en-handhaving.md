@@ -9,7 +9,7 @@ laatste_update: 2021-07-01
 status: geldig
 toestand: 2021-07-01
 bron: "https://wetten.overheid.nl/BWBR0044562"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 17 december 2020, nr 3146111, houdende een eenmalige specifieke uitkering voor gemeenten in verband met de ondersteuning van de toezichts- en handhavingstaak door tijdelijke arbeidskrachten (Regeling specifieke uitkering tijdelijke ondersteuning toezicht en handhaving)

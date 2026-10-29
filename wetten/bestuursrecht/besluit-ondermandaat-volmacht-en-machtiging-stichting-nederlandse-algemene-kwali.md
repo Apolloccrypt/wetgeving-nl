@@ -9,7 +9,7 @@ laatste_update: 2022-07-01
 status: geldig
 toestand: 2022-07-01
 bron: "https://wetten.overheid.nl/BWBR0044861"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de directeur Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw van 1 februari 2021 houdende verlening van ondermandaat, volmacht en machtiging voor de Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw (Besluit ondermandaat, volmacht en machtiging Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw 2021)

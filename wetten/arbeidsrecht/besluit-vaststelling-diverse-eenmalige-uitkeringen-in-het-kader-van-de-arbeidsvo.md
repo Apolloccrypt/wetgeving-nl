@@ -9,7 +9,7 @@ laatste_update: 2021-02-12
 status: geldig
 toestand: 2021-02-12
 bron: "https://wetten.overheid.nl/BWBR0044816"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluit van 30 november 2020, tot vaststelling van een eenmalige uitkering in december 2018 alsmede, in het kader van de arbeidsvoorwaardenovereenkomst voor de sector Defensie over de periode 1 oktober 2018 tot en met 31 december 2020, tot vaststelling van eenmalige uitkeringen in augustus 2019 en augustus 2020 en tot wijziging van enige besluiten, alsmede wijzigingen ten behoeve van personeel dat de loonontwikkeling volgt in de sector Rijk en een aantal andere wijzigingen

@@ -8,7 +8,7 @@ laatste_update: 2024-09-12
 status: geldig
 toestand: 2024-09-12
 bron: "https://wetten.overheid.nl/BWBR0044207"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Regeling toezicht en handhaving Gedragscode Leden van de Tweede Kamer der Staten-Generaal

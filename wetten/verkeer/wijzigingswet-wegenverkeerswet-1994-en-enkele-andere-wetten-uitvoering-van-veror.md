@@ -9,7 +9,7 @@ laatste_update: 2020-09-01
 status: geldig
 toestand: 2020-09-01
 bron: "https://wetten.overheid.nl/BWBR0044018"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Wet van 8 juli 2020 tot wijziging van de Wegenverkeerswet 1994 en enkele andere wetten in verband met de uitvoering van verordening (EU) 2018/858 en andere besluiten van de Europese Unie betreffende de goedkeuring van en het markttoezicht op motorvoertuigen, aanhangwagens daarvan en systemen, onderdelen en technische eenheden die voor dergelijke voertuigen zijn bestemd (Uitvoeringswet verordening (EU) 2018/858)

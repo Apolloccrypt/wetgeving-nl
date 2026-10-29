@@ -9,7 +9,7 @@ laatste_update: 2022-09-15
 status: geldig
 toestand: 2022-09-15
 bron: "https://wetten.overheid.nl/BWBR0044043"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 28 augustus 2020, nr. PO/17896773, houdende regels voor de voorzieningenplanning bij scholen in het primair onderwijs in Caribisch Nederland (Regeling voorzieningenplanning po CN 2021)

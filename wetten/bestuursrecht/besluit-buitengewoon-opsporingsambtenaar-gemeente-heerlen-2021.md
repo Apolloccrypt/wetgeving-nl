@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-04-21
 toestand: 2024-06-20
 bron: "https://wetten.overheid.nl/BWBR0044836"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 15 februari 2021 nr. BOACAT2021/003, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Heerlen

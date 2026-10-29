@@ -8,7 +8,7 @@ laatste_update: 2020-09-12
 status: geldig
 toestand: 2020-09-12
 bron: "https://wetten.overheid.nl/BWBR0044076"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Regeling Tijdelijke Toelage Luchtverkeersleiders

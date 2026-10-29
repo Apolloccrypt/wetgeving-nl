@@ -9,7 +9,7 @@ laatste_update: 2021-01-14
 status: geldig
 toestand: 2021-01-14
 bron: "https://wetten.overheid.nl/BWBR0044699"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid d.d. 3 december 2020, kenmerk 2700707, houdende beperking van de openbaarheid van het archief van de Adviescommissie voor Vreemdelingenzaken 1967–2001

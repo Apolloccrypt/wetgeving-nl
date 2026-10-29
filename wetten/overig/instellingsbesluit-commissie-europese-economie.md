@@ -9,7 +9,7 @@ laatste_update: 2021-01-14
 status: geldig
 toestand: 2021-01-14
 bron: "https://wetten.overheid.nl/BWBR0044702"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Minister van Financiën en de Minister van Buitenlandse Zaken d.d. 5 januari 2021, (nr. 2020-00000251307), houdende instelling van de Commissie Europese economie

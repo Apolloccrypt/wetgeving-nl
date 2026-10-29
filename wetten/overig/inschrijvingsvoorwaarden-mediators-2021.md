@@ -9,7 +9,7 @@ laatste_update: 2020-12-16
 status: geldig
 toestand: 2020-12-16
 bron: "https://wetten.overheid.nl/BWBR0044459"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # (Besluit van het bestuur van de Raad voor Rechtsbijstand van 28 oktober 2020 krachtens artikel 33b van de Wet op de Rechtsbijstand, goedgekeurd bij besluit van het Ministerie van Justitie en Veiligheid van 20 november 2020)

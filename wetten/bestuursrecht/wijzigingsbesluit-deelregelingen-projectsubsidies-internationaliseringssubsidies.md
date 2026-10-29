@@ -9,7 +9,7 @@ laatste_update: 2021-02-19
 status: geldig
 toestand: 2021-02-19
 bron: "https://wetten.overheid.nl/BWBR0044832"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de raad van bestuur van het Fonds Podiumkunsten tot wijziging van de Deelregeling projectsubsidies Fonds Podiumkunsten, de Deelregeling internationaliseringssubsidies Fonds Podiumkunsten, de Deelregeling composities en libretto's Fonds Podiumkunsten, de Deelregeling programmeringssubsidies Fonds Podiumkunsten en de Tijdelijke regeling van het Fonds Podiumkunsten voor live-uitvoeringen tijdens de Covid-19crisis (Balkonscènes)

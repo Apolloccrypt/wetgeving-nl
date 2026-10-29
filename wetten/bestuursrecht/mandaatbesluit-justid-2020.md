@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2021-05-31
 toestand: 2021-04-01
 bron: "https://wetten.overheid.nl/BWBR0044124"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de algemeen directeur van de Justitiële Informatiedienst van het Ministerie van Justitie en Veiligheid van 10 september 2020, nr. Alg. 6164, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan onder de algemeen directeur ressorterende ambtenaren (Mandaatbesluit Justid 2020)

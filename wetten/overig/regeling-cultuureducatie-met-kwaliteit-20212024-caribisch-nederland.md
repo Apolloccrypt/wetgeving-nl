@@ -8,7 +8,7 @@ laatste_update: 2020-11-28
 status: geldig
 toestand: 2020-11-28
 bron: "https://wetten.overheid.nl/BWBR0044392"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Regeling Cultuureducatie met Kwaliteit 2021–2024 Caribisch Nederland

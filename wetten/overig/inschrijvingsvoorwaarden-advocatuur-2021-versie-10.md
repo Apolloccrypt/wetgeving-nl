@@ -8,7 +8,7 @@ laatste_update: 2020-12-16
 status: geldig
 toestand: 2020-12-16
 bron: "https://wetten.overheid.nl/BWBR0044503"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Inschrijvingsvoorwaarden advocatuur 2021, versie 1.0

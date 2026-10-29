@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0044575"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Wet van 9 december 2020 tot wijziging van enkele belastingwetten en enige andere wetten (Overige fiscale maatregelen 2021)

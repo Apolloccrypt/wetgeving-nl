@@ -8,7 +8,7 @@ laatste_update: 2020-08-29
 status: geldig
 toestand: 2020-08-29
 bron: "https://wetten.overheid.nl/BWBR0044022"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Machtigingsbesluit UBR|Advocaten en Adviseurs Arbeidsrecht van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties

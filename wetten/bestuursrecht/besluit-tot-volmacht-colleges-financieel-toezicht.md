@@ -8,7 +8,7 @@ laatste_update: 2021-02-05
 status: geldig
 toestand: 2021-02-05
 bron: "https://wetten.overheid.nl/BWBR0044780"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluit tot volmacht Colleges financieel toezicht

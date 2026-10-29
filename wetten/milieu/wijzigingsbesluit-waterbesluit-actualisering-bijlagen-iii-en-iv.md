@@ -9,7 +9,7 @@ laatste_update: 2020-10-01
 status: geldig
 toestand: 2020-10-01
 bron: "https://wetten.overheid.nl/BWBR0044051"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van 1 september 2020 tot wijziging van het Waterbesluit (actualisering van bijlagen III en IV)

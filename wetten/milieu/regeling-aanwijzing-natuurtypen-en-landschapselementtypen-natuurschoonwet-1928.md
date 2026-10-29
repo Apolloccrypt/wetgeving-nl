@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0044266"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit en de Staatssecretaris van Financiën van 27 oktober 2020, nr. WJZ/ 18182465, houdende aanwijzing van natuurtypen en landschapselementtypen als bedoeld in het Rangschikkingsbesluit Natuurschoonwet 1928 en wijziging van de Regeling model beschrijving en beplantingsplan Natuurschoonwet 1928 (Regeling aanwijzing natuurtypen en landschapselementtypen Natuurschoonwet 1928)

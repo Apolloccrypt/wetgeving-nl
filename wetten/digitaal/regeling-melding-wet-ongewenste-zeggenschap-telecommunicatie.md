@@ -9,7 +9,7 @@ laatste_update: 2020-10-01
 status: geldig
 toestand: 2020-10-01
 bron: "https://wetten.overheid.nl/BWBR0044121"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 17 september 2020, nr. WJZ/ 20216274, houdende voorschriften met betrekking tot de melding van het voornemen overwegende zeggenschap in een telecommunicatiepartij te verkrijgen (Regeling melding Wet ongewenste zeggenschap telecommunicatie)

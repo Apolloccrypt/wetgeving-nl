@@ -9,7 +9,7 @@ laatste_update: 2020-12-10
 status: geldig
 toestand: 2020-12-10
 bron: "https://wetten.overheid.nl/BWBR0044456"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Wet van 2 december 2020, houdende wijziging van de Algemene Ouderdomswet en de Wet op de loonbelasting 1964 in verband met de verandering van de koppeling van de AOW- en pensioenrichtleeftijd aan de stijging van de levensverwachting (Wet verandering koppeling AOW-leeftijd)

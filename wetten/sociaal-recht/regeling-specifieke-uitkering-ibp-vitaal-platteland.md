@@ -9,7 +9,7 @@ laatste_update: 2020-08-26
 status: geldig
 toestand: 2020-08-26
 bron: "https://wetten.overheid.nl/BWBR0044021"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 19 augustus 2020, nr. WJZ/ 20215117, houdende regels voor het verstrekken van eenmalige specifieke uitkeringen in verband met de uitvoering van het interbestuurlijk programma ‘Naar een Vitaal Platteland’ (Regeling specifieke uitkering IBP-Vitaal Platteland)

@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0044605"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Staatssecretaris van Financiën van 31 december 2020, houdende nadere regels voor de toepassing van de Wet bronbelasting 2021 (Uitvoeringsregeling bronbelasting 2021)

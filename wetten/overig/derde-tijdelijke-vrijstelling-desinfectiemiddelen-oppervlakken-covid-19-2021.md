@@ -9,7 +9,7 @@ laatste_update: 2021-03-05
 status: geldig
 toestand: 2021-03-05
 bron: "https://wetten.overheid.nl/BWBR0044879"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Derde tijdelijke vrijstelling op grond van artikel 46, eerste lid van de Wet gewasbeschermingsmiddelen en biociden voor het gebruik van de desinfectiemiddelen op oppervlakken in verband met de uitbraak COVID-19 (Derde tijdelijke vrijstelling desinfectiemiddelen oppervlakken COVID-19 2021)

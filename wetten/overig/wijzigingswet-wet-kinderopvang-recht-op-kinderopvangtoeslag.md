@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0044572"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Wet van 2 december 2020 tot wijziging van de Wet kinderopvang in verband met enkele wijzigingen met betrekking tot het recht op kinderopvangtoeslag

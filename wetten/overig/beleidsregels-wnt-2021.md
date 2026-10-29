@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0044192"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 23 september 2020, nr. 2020-0000036462 houdende vaststelling van beleidsregels inzake de toepassing van de Wet normering topinkomens met ingang van 1 januari 2021 (Beleidsregels WNT 2021)

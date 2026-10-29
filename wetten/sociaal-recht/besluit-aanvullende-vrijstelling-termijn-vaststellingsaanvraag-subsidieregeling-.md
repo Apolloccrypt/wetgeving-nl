@@ -9,7 +9,7 @@ laatste_update: 2020-10-17
 status: geldig
 toestand: 2020-10-17
 bron: "https://wetten.overheid.nl/BWBR0044218"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Minister voor Medische Zorg van 29 september 2020, kenmerk 1751613-210899-MEVA, houdende een aanvullende vrijstelling van de termijn voor het indienen van de aanvraag tot vaststelling bij de Subsidieregeling kwaliteitsimpuls personeel ziekenhuiszorg 2019 in verband met de uitbraak van het coronavirus (Besluit aanvullende vrijstelling termijn vaststellingsaanvraag Subsidieregeling kwaliteitsimpuls personeel ziekenhuiszorg 2019)

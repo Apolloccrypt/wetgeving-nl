@@ -8,7 +8,7 @@ laatste_update: 2020-09-19
 status: geldig
 toestand: 2020-09-19
 bron: "https://wetten.overheid.nl/BWBR0044099"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Schenk- en erfbelasting, kwijtschelding

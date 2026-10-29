@@ -9,7 +9,7 @@ laatste_update: 2021-04-01
 status: geldig
 toestand: 2021-04-01
 bron: "https://wetten.overheid.nl/BWBR0044068"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van 31 augustus 2020 houdende aanwijzing van 's-Hertogenbosch als nevenzittingsplaats van het Regionaal Tuchtcollege voor de Gezondheidszorg te Eindhoven

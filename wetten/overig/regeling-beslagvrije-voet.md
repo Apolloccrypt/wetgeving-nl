@@ -9,7 +9,7 @@ laatste_update: 2026-04-16
 status: geldig
 toestand: 2026-04-16
 bron: "https://wetten.overheid.nl/BWBR0044476"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 25 november 2020, nr. 2020-0000159922, houdende regels in verband met de vereenvoudiging en de berekening van de beslagvrije voet (Regeling beslagvrije voet)

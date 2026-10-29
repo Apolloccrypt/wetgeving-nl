@@ -9,7 +9,7 @@ laatste_update: 2021-02-25
 status: geldig
 toestand: 2021-02-25
 bron: "https://wetten.overheid.nl/BWBR0044851"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap, van 26 januari 2021, nr. 26750652, houdende vaststelling van het onderwijsaccountantsprotocol voor de sectoren PO, VO, MBO en HO (Regeling onderwijsaccountantsprotocol OCW 2020)

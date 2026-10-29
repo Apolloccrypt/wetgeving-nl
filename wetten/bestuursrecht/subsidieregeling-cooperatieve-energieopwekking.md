@@ -9,7 +9,7 @@ laatste_update: 2026-03-01
 status: geldig
 toestand: 2026-03-01
 bron: "https://wetten.overheid.nl/BWBR0044882"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat van 27 februari 2021, nr. WJZ/20120093, tot vaststelling van een regeling voor de verstrekking van subsidie voor het lokaal en gezamenlijk opwekken van hernieuwbare elektriciteit (Subsidieregeling coöperatieve energieopwekking)

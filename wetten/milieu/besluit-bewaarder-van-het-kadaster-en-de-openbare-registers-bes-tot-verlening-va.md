@@ -8,7 +8,7 @@ laatste_update: 2020-12-09
 status: geldig
 toestand: 2020-12-09
 bron: "https://wetten.overheid.nl/BWBR0044452"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit bewaarder van het kadaster en de openbare registers BES tot verlening van mandaat en machtiging ten aanzien van het beslissen op verzoeken tot inschrijving in de openbare registers voor onroerende zaken en voor schepen en luchtvaartuigen, het verstrekken van inlichtingen uit de kadastrale registratie, de registraties voor schepen en luchtvaartuigen en het bijwerken van de kadastrale registratie en registraties voor schepen en luchtvaartuigen in verband met het inwerkingtreden van de Regels met betrekking tot de openbare registers voor registergoederen en de kadasters op Bonaire, Sint Eustatius en Saba (Kadasterwet BES)

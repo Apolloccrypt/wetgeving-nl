@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0044588"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Minister voor Medische Zorg van 10 december 2020, kenmerk 1790414-214991-PZO, houdende verlening van mandaat, volmacht en machtiging aan het Zorginstituut Nederland inzake subsidieverstrekking Subsidieregeling leren gebruiken van uitkomstinformatie voor Samen beslissen 2021–2025 (Besluit mandaat, volmacht en machtiging Zorginstituut Nederland subsidieverstrekking leren gebruiken van uitkomstinformatie voor Samen beslissen 2021–2025)

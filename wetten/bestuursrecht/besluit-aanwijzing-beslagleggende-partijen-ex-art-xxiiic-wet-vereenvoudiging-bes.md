@@ -9,7 +9,7 @@ laatste_update: 2021-05-21
 status: geldig
 toestand: 2021-05-21
 bron: "https://wetten.overheid.nl/BWBR0044633"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 16 december 2020, nr. 2020-0000172192, tot aanwijzing van beslagleggende partijen waarop artikel XXIIIC van de Wet vereenvoudiging beslagvrije voet van toepassing is

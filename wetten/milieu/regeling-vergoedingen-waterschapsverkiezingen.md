@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0044240"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 16 oktober 2020, nr. IENW/BSK-2020/175451, houdende vaststelling van de Regeling vergoedingen waterschapsverkiezingen

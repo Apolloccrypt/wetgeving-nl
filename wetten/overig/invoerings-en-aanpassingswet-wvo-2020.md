@@ -9,7 +9,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBR0044812"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Wet van 27 januari 2021 tot wijziging van de Wet voortgezet onderwijs 2020 en diverse andere wetten in verband met het opnemen van invoeringsrecht in en het overbrengen van overgangsrecht naar de Wet voortgezet onderwijs 2020 en wegens aanpassing van verwijzingen in andere wetten (Invoerings- en aanpassingswet WVO 2020)

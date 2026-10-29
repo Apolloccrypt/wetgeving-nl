@@ -9,7 +9,7 @@ laatste_update: 2020-11-04
 status: geldig
 toestand: 2020-11-04
 bron: "https://wetten.overheid.nl/BWBR0044288"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit tot instelling van een bemiddelaar in geschillen over toepassing van het vrijstellingsbesluit in het kader van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000, 15 februari 2019 (Besluit Bemiddelaar Vrijstellingsbesluit Wet Bpf 2000, 15 februari 2019)

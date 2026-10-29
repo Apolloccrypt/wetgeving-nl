@@ -9,7 +9,7 @@ laatste_update: 2021-07-01
 status: geldig
 toestand: 2021-07-01
 bron: "https://wetten.overheid.nl/BWBR0044250"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Wet van 30 september 2020 tot wijziging van de Wet implementatie EU-richtlijnen energie-efficiëntie teneinde een grondslag op te nemen voor de energie-audit

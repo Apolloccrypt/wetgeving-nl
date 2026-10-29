@@ -9,7 +9,7 @@ laatste_update: 2020-10-01
 status: geldig
 toestand: 2020-10-01
 bron: "https://wetten.overheid.nl/BWBR0044069"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van 31 augustus 2020 tot wijziging van een aantal besluiten op het terrein van het Ministerie van Volksgezondheid, Welzijn en Sport teneinde de orthopedagoog-generalist toe te voegen aan de begripsbepaling van geregistreerde professional en de naamswijziging van het AMHK en enkele andere wijzigingen door te voeren (Verzamelbesluit VWS 2020)

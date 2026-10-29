@@ -9,7 +9,7 @@ laatste_update: 2020-09-18
 status: geldig
 toestand: 2020-09-18
 bron: "https://wetten.overheid.nl/BWBR0044092"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Staatssecretaris van Economische Zaken en Klimaat van 9 september 2020, nr. DGBI-DE/20222594, tot verlenging van de termijn voor het advies van het Adviescollege verdeling frequentieruimte commerciële radio en tot herbenoeming van de leden

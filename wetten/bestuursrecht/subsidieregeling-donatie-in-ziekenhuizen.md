@@ -9,7 +9,7 @@ laatste_update: 2025-08-22
 status: geldig
 toestand: 2025-08-22
 bron: "https://wetten.overheid.nl/BWBR0044035"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Minister voor Medische Zorg van 19 augustus 2020, kenmerk 1733131-209016-GMT, houdende regels voor het verstrekken van subsidie aan ziekenhuizen voor de inzet van professionals die betrokken zijn bij donatie in ziekenhuizen (Subsidieregeling donatie in ziekenhuizen)

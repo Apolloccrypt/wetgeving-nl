@@ -9,7 +9,7 @@ laatste_update: 2020-10-01
 status: geldig
 toestand: 2020-10-01
 bron: "https://wetten.overheid.nl/BWBR0044134"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van 2 september 2020, houdende regels inzake de behandeling van klachten over de raad voor de kinderbescherming door een klachtadviescommissie (Besluit klachtadviescommissie raad voor de kinderbescherming)

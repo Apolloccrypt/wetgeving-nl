@@ -8,7 +8,7 @@ laatste_update: 2021-02-20
 status: geldig
 toestand: 2021-02-20
 bron: "https://wetten.overheid.nl/BWBR0044834"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Protocol accountantsonderzoek Wlz-uitvoerders 2020

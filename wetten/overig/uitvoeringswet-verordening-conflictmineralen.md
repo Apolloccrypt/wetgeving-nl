@@ -9,7 +9,7 @@ laatste_update: 2021-02-05
 status: geldig
 toestand: 2021-02-05
 bron: "https://wetten.overheid.nl/BWBR0044779"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Wet van 27 januari 2021 tot uitvoering van Verordening (EU) 2017/821 van het Europees Parlement en de Raad van 17 mei 2017 tot vaststelling van verplichtingen inzake passende zorgvuldigheid in de toeleveringsketen voor Unie-importeurs van tin, tantaal en wolfraam, de overeenkomstige ertsen, en goud uit conflict- en hoogrisicogebieden (PbEU, L 130) (Uitvoeringswet Verordening conflictmineralen)

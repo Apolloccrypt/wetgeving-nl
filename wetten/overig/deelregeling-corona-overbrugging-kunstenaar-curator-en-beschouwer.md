@@ -8,7 +8,7 @@ laatste_update: 2021-02-13
 status: geldig
 toestand: 2021-02-13
 bron: "https://wetten.overheid.nl/BWBR0044810"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Deelregeling Corona-overbrugging kunstenaar, curator en beschouwer

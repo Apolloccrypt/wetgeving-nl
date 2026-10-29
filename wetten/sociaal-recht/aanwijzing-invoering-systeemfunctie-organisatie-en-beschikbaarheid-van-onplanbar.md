@@ -9,7 +9,7 @@ laatste_update: 2021-02-02
 status: geldig
 toestand: 2021-02-02
 bron: "https://wetten.overheid.nl/BWBR0044769"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport, 25 januari 2021, kenmerk 1811415-216967-PZo, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake de invoering van een systeemfunctie voor organisatie en beschikbaarheid van onplanbare avond-, nacht- en weekendzorg en een bekostigingsexperiment met cliëntprofielen in de wijkverpleging

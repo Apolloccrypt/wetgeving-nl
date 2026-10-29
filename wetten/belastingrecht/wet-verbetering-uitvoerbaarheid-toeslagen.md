@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0044577"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Wet van 16 december 2020 tot wijziging van de Algemene wet inkomensafhankelijke regelingen en enkele andere wetten met het oog op verbetering van de uitvoerbaarheid van toeslagen (Wet verbetering uitvoerbaarheid toeslagen)

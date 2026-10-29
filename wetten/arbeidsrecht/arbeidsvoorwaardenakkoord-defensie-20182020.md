@@ -8,7 +8,7 @@ laatste_update: 2021-03-04
 status: geldig
 toestand: 2021-03-04
 bron: "https://wetten.overheid.nl/BWBR0044884"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Arbeidsvoorwaardenakkoord Defensie 2018–2020

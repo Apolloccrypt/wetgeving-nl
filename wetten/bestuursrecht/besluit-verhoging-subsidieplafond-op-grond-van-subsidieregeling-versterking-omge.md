@@ -9,7 +9,7 @@ laatste_update: 2020-12-01
 status: geldig
 toestand: 2020-12-01
 bron: "https://wetten.overheid.nl/BWBR0044242"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Waterstaat, van 12 oktober 2020, nr. IENW/BSK-2020/193715, houdende verhoging van het subsidieplafond op grond van de Subsidieregeling versterking omgevingsveiligheid industriële activiteiten voor het jaar 2020

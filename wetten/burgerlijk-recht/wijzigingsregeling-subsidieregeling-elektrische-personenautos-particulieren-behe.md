@@ -9,7 +9,7 @@ laatste_update: 2020-10-30
 status: geldig
 toestand: 2020-10-30
 bron: "https://wetten.overheid.nl/BWBR0044217"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 14 oktober 2020, nr. IENW/BSK-2020/191861, tot wijziging van de Subsidieregeling elektrische personenauto’s particulieren in verband met de beheersbaarheid van de jaarbudgetgrenzen

@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0044219"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Beschikking van de Minister voor Rechtsbescherming van 15 oktober 2020, nr. 3052992, directie Wetgeving en Juridische Zaken, tot vaststelling van het percentage waarmee de bedragen voor levensonderhoud met ingang van 1 januari 2021 worden verhoogd (Beschikking wijzigingspercentage levensonderhoud 2021)

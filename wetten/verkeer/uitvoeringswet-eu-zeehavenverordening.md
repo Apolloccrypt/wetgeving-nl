@@ -9,7 +9,7 @@ laatste_update: 2021-02-26
 status: geldig
 toestand: 2021-02-26
 bron: "https://wetten.overheid.nl/BWBR0044856"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Wet van 20 januari 2021 tot uitvoering van Verordening (EU) 2017/352 van het Europees Parlement en de Raad van 15 februari 2017 tot vaststelling van een kader voor het verrichten van havendiensten en gemeenschappelijke regels inzake de financiële transparantie van havens (PbEU 2017, L 57) (Uitvoeringswet EU-zeehavenverordening)

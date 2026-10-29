@@ -9,7 +9,7 @@ laatste_update: 2020-09-10
 status: geldig
 toestand: 2020-09-10
 bron: "https://wetten.overheid.nl/BWBR0044040"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Tweede tijdelijke vrijstelling op grond van artikel 46, eerste lid van de Wet gewasbeschermingsmiddelen en biociden inzake handdesinfectiemiddelen met 70% alcoholen in verband met de uitbraak COVID-19 (Tweede tijdelijke vrijstelling handdesinfectiedesinfectie 70% alcoholen professioneel gebruik COVID-19 2020)

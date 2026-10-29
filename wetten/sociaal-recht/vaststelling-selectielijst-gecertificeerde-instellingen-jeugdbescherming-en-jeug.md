@@ -9,7 +9,7 @@ laatste_update: 2021-02-26
 status: geldig
 toestand: 2021-02-26
 bron: "https://wetten.overheid.nl/BWBR0044846"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Vaststelling selectielijst van de Gecertificeerde Instellingen voor Jeugdbescherming en Jeugdreclassering en rechtsvoorgangers vanaf 1 november 1995

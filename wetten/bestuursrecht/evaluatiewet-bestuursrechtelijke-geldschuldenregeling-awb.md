@@ -9,7 +9,7 @@ laatste_update: 2021-04-01
 status: geldig
 toestand: 2021-04-01
 bron: "https://wetten.overheid.nl/BWBR0044664"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Wet van 18 november 2020 tot wijziging van de Algemene wet bestuursrecht naar aanleiding van de evaluatie van de regeling over bestuursrechtelijke geldschulden (Evaluatiewet bestuursrechtelijke geldschuldenregeling Awb)

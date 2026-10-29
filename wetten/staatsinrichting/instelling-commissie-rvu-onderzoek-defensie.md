@@ -8,7 +8,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0044639"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Instelling Commissie RVU Onderzoek Defensie

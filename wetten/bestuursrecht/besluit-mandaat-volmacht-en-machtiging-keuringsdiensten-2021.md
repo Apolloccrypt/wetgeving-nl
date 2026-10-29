@@ -9,7 +9,7 @@ laatste_update: 2026-02-24
 status: geldig
 toestand: 2026-02-24
 bron: "https://wetten.overheid.nl/BWBR0044854"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 10 februari 2021, nr. WJZ/ 21033622, houdende regels inzake het verlenen van mandaat, volmacht en machtiging aan de (technisch) directeuren van de keuringsdiensten (Besluit mandaat, volmacht en machtiging keuringsdiensten 2021)

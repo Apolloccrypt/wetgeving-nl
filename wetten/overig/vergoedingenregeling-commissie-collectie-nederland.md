@@ -9,7 +9,7 @@ laatste_update: 2020-10-31
 status: geldig
 toestand: 2020-10-31
 bron: "https://wetten.overheid.nl/BWBR0044271"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 13 oktober 2020, nr. 25426964, houdende vaststelling van de vergoedingen van de leden van de Commissie Collectie Nederland (Vergoedingenregeling Commissie Collectie Nederland)

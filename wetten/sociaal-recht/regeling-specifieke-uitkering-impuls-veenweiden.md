@@ -9,7 +9,7 @@ laatste_update: 2020-10-17
 status: geldig
 toestand: 2020-10-17
 bron: "https://wetten.overheid.nl/BWBR0044220"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 14 oktober 2020, nr. WJZ/20254079, houdende regels voor het verstrekken van eenmalige specifieke uitkeringen in verband met de uitvoering van het interbestuurlijk programma ‘Veenplan 1e fase’ (Regeling specifieke uitkering Impuls Veenweiden)

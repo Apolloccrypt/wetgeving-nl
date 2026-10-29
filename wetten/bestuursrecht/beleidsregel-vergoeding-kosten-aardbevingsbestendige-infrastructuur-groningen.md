@@ -9,7 +9,7 @@ laatste_update: 2021-03-06
 status: geldig
 toestand: 2021-03-06
 bron: "https://wetten.overheid.nl/BWBR0044887"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Beleidsregel van de Minister van Economische Zaken en Klimaat van 15 februari 2021, nr. WJZ/ 20298861, tot vergoeding van kosten van maatregelen voor aardbevingsbestendige infrastructuur in Groningen (Beleidsregel vergoeding kosten aardbevingsbestendige infrastructuur Groningen)

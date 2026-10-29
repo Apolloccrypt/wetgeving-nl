@@ -9,7 +9,7 @@ laatste_update: 2020-10-20
 status: geldig
 toestand: 2020-10-20
 bron: "https://wetten.overheid.nl/BWBR0044225"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van 5 oktober 2020 tot vaststelling van de bestanddelen van de beeldenaar van de munten van vijf en tien euro met als thema het Woudagemaal die in 2020 worden uitgegeven in de serie Nederlands Werelderfgoed

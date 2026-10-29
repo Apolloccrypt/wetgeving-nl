@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0044334"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van 4 november 2020, houdende regels met betrekking tot de compensatie van de transitievergoeding bij beëindiging van de werkzaamheden van de onderneming vanwege pensionering of overlijden van de werkgever (Besluit compensatie transitievergoeding bij beëindiging van de werkzaamheden van de onderneming)

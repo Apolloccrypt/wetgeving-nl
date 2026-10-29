@@ -9,7 +9,7 @@ laatste_update: 1953-12-20
 status: geldig
 toestand: 1953-12-20
 bron: "https://wetten.overheid.nl/BWBR0044717"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # BESLUIT van 25 November 1953, houdende regelen ter uitvoering van artikel 13, vierde lid, van de Wet buitengewone bevoegdheden burgerlijk gezag

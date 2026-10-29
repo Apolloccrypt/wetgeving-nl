@@ -8,7 +8,7 @@ laatste_update: 2020-12-03
 status: geldig
 toestand: 2020-12-03
 bron: "https://wetten.overheid.nl/BWBR0044445"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Richtlijn voor strafvordering misbruik seksueel beeldmateriaal

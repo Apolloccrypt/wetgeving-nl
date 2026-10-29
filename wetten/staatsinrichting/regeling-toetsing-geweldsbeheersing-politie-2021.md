@@ -9,7 +9,7 @@ laatste_update: 2025-04-01
 status: geldig
 toestand: 2025-04-01
 bron: "https://wetten.overheid.nl/BWBR0044623"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 18 december 2020, nr. 3137827, houdende vaststelling van bepalingen inzake toetsing van ambtenaren van politie met betrekking tot geweldsbeheersing, aanhoudings- en zelfverdedigingsvaardigheden en schietvaardigheid (Regeling toetsing geweldsbeheersing politie 2021)

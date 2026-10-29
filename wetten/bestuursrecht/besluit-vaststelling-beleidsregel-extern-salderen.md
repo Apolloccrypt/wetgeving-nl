@@ -9,7 +9,7 @@ laatste_update: 2020-10-16
 status: geldig
 toestand: 2020-10-16
 bron: "https://wetten.overheid.nl/BWBR0044213"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 9 oktober 2020, nr. WJZ/ 20244506, houdende vaststelling van de beleidsregel extern salderen

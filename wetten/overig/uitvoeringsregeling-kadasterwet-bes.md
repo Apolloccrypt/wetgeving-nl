@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0044468"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 23 november 2020, nr. 2020-0000452626, houdende uitvoeringsregels bij de Kadasterwet BES (Uitvoeringsregeling Kadasterwet BES)

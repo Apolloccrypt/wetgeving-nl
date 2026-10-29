@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0044668"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluit van 1 december 2020 tot wijziging van het Besluit beveiliging burgerluchtvaart in verband met de uitvoering van Verordening (EG) nr. 300/2008 van het Europees Parlement en de Raad van 11 maart 2008 inzake gemeenschappelijke regels op het gebied van de beveiliging van de burgerluchtvaart en tot intrekking van Verordening (EG) nr. 2320/2002 (Pb EU 2008, L 97/72) en een andere verordening op het gebied van de beveiliging van de burgerluchtvaart (Uitvoeringsbesluit EG-verordening 300/2008)

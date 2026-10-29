@@ -9,7 +9,7 @@ laatste_update: 2020-12-02
 status: geldig
 toestand: 2020-12-02
 bron: "https://wetten.overheid.nl/BWBR0044422"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Minister voor Medische Zorg van 23 november 2020, kenmerk 1780092-214088-Z, houdende vaststelling van een nadere aanwijzing voor de besteedbare middelen ter dekking van de beheerskosten Wlz 2020 (Nadere aanwijzing besteedbare middelen beheerskosten Wlz 2020)

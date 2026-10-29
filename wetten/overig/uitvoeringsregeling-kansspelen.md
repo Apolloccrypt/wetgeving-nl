@@ -9,7 +9,7 @@ laatste_update: 2026-04-01
 status: geldig
 toestand: 2026-04-01
 bron: "https://wetten.overheid.nl/BWBR0044763"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Minister voor Rechtsbescherming van 21 januari 2021, nr. 3181161, houdende bepalingen ter uitvoering van de Wet op de kansspelen (Uitvoeringsregeling kansspelen)

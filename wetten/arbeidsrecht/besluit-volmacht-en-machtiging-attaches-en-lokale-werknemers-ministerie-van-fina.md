@@ -9,7 +9,7 @@ laatste_update: 2020-12-24
 status: geldig
 toestand: 2020-12-24
 bron: "https://wetten.overheid.nl/BWBR0044561"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Minister van Financiën van 10 november 2020, (nr. 2020-0000180938), tot het verlenen van volmacht en machtiging aan functionarissen van het Ministerie van Buitenlandse Zaken in verband met bevoegdheden ten aanzien van attachés en lokale werknemers van het Ministerie van Financiën

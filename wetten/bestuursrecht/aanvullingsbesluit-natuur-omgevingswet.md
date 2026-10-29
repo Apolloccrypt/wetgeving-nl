@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0044730"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluit van 16 december 2020 tot wijziging van het Besluit activiteiten leefomgeving, het Besluit kwaliteit leefomgeving, het Omgevingsbesluit en enkele andere besluiten in verband met de overgang van de Wet natuurbescherming naar de Omgevingswet (Aanvullingsbesluit natuur Omgevingswet)

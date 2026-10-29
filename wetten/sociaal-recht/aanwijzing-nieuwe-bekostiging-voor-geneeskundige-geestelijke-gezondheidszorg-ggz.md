@@ -9,7 +9,7 @@ laatste_update: 2020-12-22
 status: geldig
 toestand: 2020-12-22
 bron: "https://wetten.overheid.nl/BWBR0044560"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 14 december 2020, 1795863-215660-PZo, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake invoering nieuwe bekostiging voor geneeskundige geestelijke gezondheidszorg (ggz) en forensische zorg (fz)

@@ -9,7 +9,7 @@ laatste_update: 2023-11-01
 status: geldig
 toestand: 2023-11-01
 bron: "https://wetten.overheid.nl/BWBR0044511"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 9 december 2020, Min-BuZa.2020.6279-19, houdende regels inzake mandaat, volmacht en machtiging voor het Ministerie van Buitenlandse Zaken

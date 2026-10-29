@@ -9,7 +9,7 @@ laatste_update: 2020-11-20
 status: geldig
 toestand: 2020-11-20
 bron: "https://wetten.overheid.nl/BWBR0044329"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van 13 oktober 2020, houdende het binnen het Wapen der Cavalerie van de Koninklijke Landmacht samenvoegen van het Regiment Huzaren Van Sytzama, het Regiment Huzaren Prins Alexander en het Regiment Huzaren Prins van Oranje tot het Regiment Huzaren Prinses Catharina-Amalia

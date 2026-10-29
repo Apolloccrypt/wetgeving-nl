@@ -8,7 +8,7 @@ laatste_update: 2025-04-11
 status: geldig
 toestand: 2025-04-11
 bron: "https://wetten.overheid.nl/BWBR0044478"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Deelregeling Curator Beschouwer

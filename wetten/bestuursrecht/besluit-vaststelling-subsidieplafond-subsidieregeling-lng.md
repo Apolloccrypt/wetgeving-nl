@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0044395"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Waterstaat, van 26 november 2020, nr. IENW/BSK-2020/179366, houdende vaststelling van het subsidieplafond op grond van de Subsidieregeling LNG

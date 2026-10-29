@@ -9,7 +9,7 @@ laatste_update: 2022-01-22
 status: geldig
 toestand: 2022-01-22
 bron: "https://wetten.overheid.nl/BWBR0044725"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 14 januari 2021, nr. WJZ/ 20202483, houdende vaststelling van regels met betrekking tot de aanvraag en veiling van voorwaardelijk teruggekomen vergunningen voor niet-landelijke commerciële radio (Regeling voorwaardelijke veiling niet-landelijke commerciële FM-vergunningen)

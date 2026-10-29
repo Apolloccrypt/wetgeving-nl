@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0044342"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van 2 november 2020, houdende regels voor verzekeringskeuringen van ex-kankerpatiënten ten behoeve van het afsluiten van overlijdensrisicoverzekeringen en uitvaartverzekeringen (Besluit verzekeringskeuringen ex-kankerpatiënten)

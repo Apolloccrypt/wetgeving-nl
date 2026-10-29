@@ -9,7 +9,7 @@ laatste_update: 2020-10-03
 status: geldig
 toestand: 2020-10-03
 bron: "https://wetten.overheid.nl/BWBR0044170"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 1 oktober 2020, nr. IENW/BSK-2020/181458, houdende tijdelijke regels voor toekenning van specifieke uitkeringen ter stimulering van het nemen van maatregelen ten behoeve van veiliger, doelmatiger en duurzamer gebruik van verkeersinfrastructuur 2020 (Tijdelijke stimuleringsregeling veilig, doelmatig en duurzaam gebruik verkeersinfrastructuur 2020)

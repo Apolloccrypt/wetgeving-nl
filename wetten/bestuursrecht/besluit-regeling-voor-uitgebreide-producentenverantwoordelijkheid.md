@@ -9,7 +9,7 @@ laatste_update: 2020-11-09
 status: geldig
 toestand: 2020-11-09
 bron: "https://wetten.overheid.nl/BWBR0044197"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van 18 september 2020, houdende regels voor een regeling voor uitgebreide producentenverantwoordelijkheid voor het beheer van afvalstoffen (Besluit regeling voor uitgebreide producentenverantwoordelijkheid)

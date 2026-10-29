@@ -8,7 +8,7 @@ laatste_update: 2021-02-20
 status: geldig
 toestand: 2021-02-20
 bron: "https://wetten.overheid.nl/BWBR0044827"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluit vaststelling Selectielijst Stichting Hobéon SKO Certificatie vanaf 1 maart 2008

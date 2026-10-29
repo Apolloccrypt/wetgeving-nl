@@ -9,7 +9,7 @@ laatste_update: 2021-04-01
 status: geldig
 toestand: 2021-04-01
 bron: "https://wetten.overheid.nl/BWBR0044919"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 16 februari 2021, kenmerk 1824481-216302-PG, houdende regels ter uitwerking van artikel 12a, derde lid, van de Wet publieke gezondheid (Regeling bevolkingsonderzoek ex artikel 12a, derde lid, Wet publieke gezondheid)

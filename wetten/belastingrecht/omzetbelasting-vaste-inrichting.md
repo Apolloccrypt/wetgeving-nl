@@ -8,7 +8,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0044522"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Omzetbelasting, vaste inrichting

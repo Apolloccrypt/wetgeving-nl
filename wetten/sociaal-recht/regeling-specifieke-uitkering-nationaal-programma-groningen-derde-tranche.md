@@ -9,7 +9,7 @@ laatste_update: 2020-10-02
 status: geldig
 toestand: 2020-10-02
 bron: "https://wetten.overheid.nl/BWBR0044160"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 28 september 2020, nr. 2020-0000499860, houdende regels met betrekking tot het verstrekken van een specifieke uitkering aan de gemeente Delfzijl, de gemeente Groningen, de gemeente Loppersum, de gemeente Oldambt en de provincie Groningen in het kader van een derde tranche in verband met de uitvoering van het Nationaal Programma Groningen

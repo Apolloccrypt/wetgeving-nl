@@ -9,7 +9,7 @@ laatste_update: 2022-07-15
 status: geldig
 toestand: 2022-07-15
 bron: "https://wetten.overheid.nl/BWBR0044773"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluit van 26 januari 2021, houdende bepalingen ter uitvoering van de Wet kansspelen op afstand (Besluit kansspelen op afstand)

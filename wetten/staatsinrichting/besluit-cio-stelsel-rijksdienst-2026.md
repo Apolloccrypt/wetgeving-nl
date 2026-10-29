@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0044613"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 14 december 2025, nr. 2025-0000042677 tot wijziging van het Besluit CIO-stelsel Rijksdienst 2021 (Besluit CIO-stelsel Rijksdienst 2026)

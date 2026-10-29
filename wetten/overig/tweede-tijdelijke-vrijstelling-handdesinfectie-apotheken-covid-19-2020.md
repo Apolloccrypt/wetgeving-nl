@@ -9,7 +9,7 @@ laatste_update: 2020-09-06
 status: geldig
 toestand: 2020-09-06
 bron: "https://wetten.overheid.nl/BWBR0044033"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Tweede tijdelijke vrijstelling op grond van artikel 46, eerste lid van de Wet gewasbeschermingsmiddelen en biociden inzake handdesinfectiemiddelen in verband met de uitbraak COVID-19 (Tweede tijdelijke vrijstelling handdesinfectie apotheken COVID-19 2020)

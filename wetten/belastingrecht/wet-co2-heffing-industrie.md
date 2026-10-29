@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0044578"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Wet van 16 december 2020 tot wijziging van de Wet belastingen op milieugrondslag en de Wet Milieubeheer voor de invoering van een CO2-heffing voor de industrie (Wet CO2-heffing industrie)

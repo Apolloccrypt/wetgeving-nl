@@ -8,7 +8,7 @@ laatste_update: 2021-02-11
 status: geldig
 toestand: 2021-02-11
 bron: "https://wetten.overheid.nl/BWBR0044797"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluit beperking termijn openbaarheid van naar de rijksarchiefbewaarplaats over te brengen dossiers archief Hoofdafdeling Privaatrecht Ministerie van Justitie inzake geslachtsnaamswijzigingen, 1921–1972

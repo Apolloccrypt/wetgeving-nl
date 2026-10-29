@@ -8,7 +8,7 @@ laatste_update: 2020-08-23
 status: geldig
 toestand: 2020-08-23
 bron: "https://wetten.overheid.nl/BWBR0044014"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit vaststelling selectielijst Liftinstituut B.V. vanaf 1 januari 1956

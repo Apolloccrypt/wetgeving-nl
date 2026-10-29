@@ -9,7 +9,7 @@ laatste_update: 2021-05-12
 status: geldig
 toestand: 2021-05-12
 bron: "https://wetten.overheid.nl/BWBR0044778"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 1 februari 2021, nr. WJZ/20288990, tot vaststelling van beleidsregels voor de beoordeling van aanvragen om een vergoeding op grond van artikel 8 van de Wet verbod pelsdierhouderij

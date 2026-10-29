@@ -9,7 +9,7 @@ laatste_update: 2022-10-05
 status: geldig
 toestand: 2022-10-05
 bron: "https://wetten.overheid.nl/BWBR0044484"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de algemeen directeur van het Nederlands Forensisch Instituut van het Ministerie van Justitie en Veiligheid van 20 november 2020, houdende verlening van ondermandaat, alsmede het doorgeven van volmacht en machtiging aan onder de algemeen directeur ressorterende ambtenaren (Mandaatbesluit NFI 2020)

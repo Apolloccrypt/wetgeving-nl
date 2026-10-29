@@ -9,7 +9,7 @@ laatste_update: 2024-07-27
 status: geldig
 toestand: 2024-07-27
 bron: "https://wetten.overheid.nl/BWBR0044850"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Minister voor Medische Zorg van 15 februari 2021, kenmerk 1825181-218196-MEVA, houdende verlening van mandaat en machtiging aan de Sociale verzekeringsbank (Besluit mandaat en machtiging pgb-zorgbonus voor pgb-zorgverleners COVID-19)

@@ -8,7 +8,7 @@ laatste_update: 2020-09-04
 status: geldig
 toestand: 2020-09-04
 bron: "https://wetten.overheid.nl/BWBR0044047"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Aanwijzing hoge transacties

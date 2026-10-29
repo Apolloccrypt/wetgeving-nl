@@ -8,7 +8,7 @@ laatste_update: 2021-03-10
 status: geldig
 toestand: 2021-03-10
 bron: "https://wetten.overheid.nl/BWBR0044921"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # NL accreditatie-vereisten voor organen die toezicht houden op de AVG-gedragscode

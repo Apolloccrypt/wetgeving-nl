@@ -9,7 +9,7 @@ laatste_update: 2021-08-01
 status: geldig
 toestand: 2021-08-01
 bron: "https://wetten.overheid.nl/BWBR0044049"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Wet van 31 augustus 2020, houdende voorstel van wet van de leden Kwint en Westerveld tot wijziging van diverse onderwijswetten teneinde te verbieden dat leerlingen van ouders die geen vrijwillige geldelijke bijdrage hebben voldaan worden buitengesloten van activiteiten

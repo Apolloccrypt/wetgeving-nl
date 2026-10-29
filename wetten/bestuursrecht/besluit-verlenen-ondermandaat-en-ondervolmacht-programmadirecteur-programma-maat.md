@@ -9,7 +9,7 @@ laatste_update: 2020-11-20
 status: geldig
 toestand: 2020-11-20
 bron: "https://wetten.overheid.nl/BWBR0044353"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Secretaris-Generaal van het Ministerie van Volksgezondheid, Welzijn en Sport van 10 november 2020, kenmerk 1776285-213699-OBP, houdende het verlenen van ondermandaat en ondervolmacht aan de programmadirecteur van het programma Maatschappelijke Diensttijd, alsmede het regelen van de vervanging van de programmadirecteur bij diens afwezigheid

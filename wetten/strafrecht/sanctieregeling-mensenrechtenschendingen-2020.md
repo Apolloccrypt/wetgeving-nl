@@ -9,7 +9,7 @@ laatste_update: 2024-06-12
 status: geldig
 toestand: 2024-06-12
 bron: "https://wetten.overheid.nl/BWBR0044518"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 10 december 2020, nr. Min-BuZa.2020.6281-10, houdende beperkende maatregelen tegen mensenrechtenschending (Sanctieregeling mensenrechtenschendingen 2020)

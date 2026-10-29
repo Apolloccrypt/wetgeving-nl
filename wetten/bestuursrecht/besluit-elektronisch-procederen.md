@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0044275"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van 15 oktober 2020, houdende regels voor het langs elektronische weg procederen in het civiele recht en in het bestuursrecht (Besluit elektronisch procederen)

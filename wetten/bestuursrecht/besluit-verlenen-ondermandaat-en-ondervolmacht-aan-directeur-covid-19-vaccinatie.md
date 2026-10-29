@@ -9,7 +9,7 @@ laatste_update: 2021-01-15
 status: geldig
 toestand: 2021-01-15
 bron: "https://wetten.overheid.nl/BWBR0044715"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Secretaris-Generaal van het Ministerie van Volksgezondheid, Welzijn en Sport van 4 januari 2021, kenmerk 1800960-216132-OBP, houdende het verlenen van ondermandaat en ondervolmacht aan de Directeur COVID-19 Vaccinaties

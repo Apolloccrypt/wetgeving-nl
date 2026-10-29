@@ -9,7 +9,7 @@ laatste_update: 2020-12-09
 status: geldig
 toestand: 2020-12-09
 bron: "https://wetten.overheid.nl/BWBR0044454"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat van 7 december 2020, nr. WJZ/20297704, houdende vaststelling van modellen als bedoeld in artikel 7a, vierde lid, van de Warmteregeling

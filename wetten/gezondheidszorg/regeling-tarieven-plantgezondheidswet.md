@@ -9,7 +9,7 @@ laatste_update: 2026-07-03
 status: geldig
 toestand: 2026-07-03
 bron: "https://wetten.overheid.nl/BWBR0044857"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 10 februari 2021, nr. WJZ/ 20038819, houdende vaststelling van de tarieven op basis van de Plantgezondheidswet (Regeling tarieven Plantgezondheidswet)

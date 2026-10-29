@@ -9,7 +9,7 @@ laatste_update: 2021-02-18
 status: geldig
 toestand: 2021-02-18
 bron: "https://wetten.overheid.nl/BWBR0044824"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Minister voor Basis- en Voortgezet Onderwijs en Media houdende het gedeeltelijk opheffen van de termijnen van de beperking aan de openbaarheid van archiefbescheiden, opgenomen in het archief van de Directie Curatieve Zorg en taakvoorgangers van het Ministerie van Welzijn, Volksgezondheid, en Cultuur (1984) 1995-2006

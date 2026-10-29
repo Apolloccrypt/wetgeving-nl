@@ -8,7 +8,7 @@ laatste_update: 2021-02-03
 status: geldig
 toestand: 2021-02-03
 bron: "https://wetten.overheid.nl/BWBR0044817"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Circulaire scholing tijdens uitkering ex Algemene pensioenwet politieke ambtsdragers (Appa)

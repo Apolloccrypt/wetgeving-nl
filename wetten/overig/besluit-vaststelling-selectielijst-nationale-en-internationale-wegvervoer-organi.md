@@ -8,7 +8,7 @@ laatste_update: 2020-10-03
 status: geldig
 toestand: 2020-10-03
 bron: "https://wetten.overheid.nl/BWBR0044157"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit vaststelling selectielijst Nationale en Internationale Wegvervoer Organisatie vanaf 1 januari 2017 voor primaire taken en vanaf 1 januari 1946 voor bedrijfsvoeringstaken

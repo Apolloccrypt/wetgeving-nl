@@ -8,7 +8,7 @@ laatste_update: 2023-02-01
 status: geldig
 toestand: 2023-02-01
 bron: "https://wetten.overheid.nl/BWBR0044480"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Kunst Verbinding

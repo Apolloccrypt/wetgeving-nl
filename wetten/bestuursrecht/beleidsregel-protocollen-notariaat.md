@@ -9,7 +9,7 @@ laatste_update: 2021-02-11
 status: geldig
 toestand: 2021-02-11
 bron: "https://wetten.overheid.nl/BWBR0044806"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 3 februari 2021 Directie Juridische en Operationele Aangelegenheden, 3180197, tot vaststelling van beleidsregels op het gebied van protocolbeheer en -toewijzing binnen het notariaat (Beleidsregel protocollen notariaat)

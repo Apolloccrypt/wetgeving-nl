@@ -9,7 +9,7 @@ laatste_update: 2021-04-01
 status: geldig
 toestand: 2021-04-01
 bron: "https://wetten.overheid.nl/BWBR0044883"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat van 27 februari 2021, nr. WJZ /20244719, tot openstelling van de Subsidieregeling coöperatieve energieopwekking voor 2021 (Besluit openstelling Subsidieregeling coöperatieve energieopwekking 2021)

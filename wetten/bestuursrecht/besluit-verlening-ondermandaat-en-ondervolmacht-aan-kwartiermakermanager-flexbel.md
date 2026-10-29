@@ -9,7 +9,7 @@ laatste_update: 2020-08-22
 status: geldig
 toestand: 2020-08-22
 bron: "https://wetten.overheid.nl/BWBR0044013"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de directeur Organisatie, Bedrijfsvoering en Personeel van 12 augustus 2020, kenmerk 1727403-208568-OBP, houdende de verlening van ondermandaat en ondervolmacht aan de kwartiermaker/manager van Flex|Beleid

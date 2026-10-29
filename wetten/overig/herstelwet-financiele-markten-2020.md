@@ -9,7 +9,7 @@ laatste_update: 2021-06-30
 status: geldig
 toestand: 2021-06-30
 bron: "https://wetten.overheid.nl/BWBR0044214"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Wet van 7 oktober 2020 tot wijziging van de Wet op het financieel toezicht, de Wet ter voorkoming van witwassen en financieren van terrorisme, de Wet toezicht trustkantoren 2018 en enige andere wetten in verband met het herstel van gebreken en omissies bij de implementatie van Europese regelgeving op het terrein van de financiële markten (Herstelwet financiële markten 2020)

@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0044348"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Wet van 4 november 2020 tot wijziging van enkele wetten van het Ministerie van Infrastructuur en Waterstaat en van de Arbeidstijdenwet (Verzamelwet IenW 2019)

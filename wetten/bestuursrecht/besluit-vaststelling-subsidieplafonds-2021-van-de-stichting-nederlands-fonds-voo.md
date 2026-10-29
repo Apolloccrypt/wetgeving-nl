@@ -8,7 +8,7 @@ laatste_update: 2021-03-10
 status: geldig
 toestand: 2021-03-10
 bron: "https://wetten.overheid.nl/BWBR0044922"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluit vaststelling Subsidieplafonds 2021 van de Stichting Nederlands Fonds voor de Film

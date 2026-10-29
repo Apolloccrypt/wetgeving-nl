@@ -8,7 +8,7 @@ laatste_update: 2021-01-20
 status: geldig
 toestand: 2021-01-20
 bron: "https://wetten.overheid.nl/BWBR0044718"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Regeling ter compensatie van de schade bij aanbieders van vrije podiumkunstproducties door de COVID-19-maatregelen

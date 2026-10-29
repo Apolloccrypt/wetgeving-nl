@@ -9,7 +9,7 @@ laatste_update: 2021-01-07
 status: geldig
 toestand: 2021-01-07
 bron: "https://wetten.overheid.nl/BWBR0044688"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluit betreffende het opheffen van de beperkingen gesteld aan de openbaarheid van het archief van het Ministerie van Justitie, Verenigingenregister, (1820)1874–1976, toegangsnummer 2.09.12.01, en het Archief van het Ministerie van Justitie, Stichtingenregister, 1957–1976, toegangsnummer 2.09.12.02

@@ -9,7 +9,7 @@ laatste_update: 2020-12-01
 status: geldig
 toestand: 2020-12-01
 bron: "https://wetten.overheid.nl/BWBR0044020"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Wet van 8 juli 2020 tot wijziging van de Wegenverkeerswet 1994 in verband met het ongeldig maken van getuigschriften van vakbekwaamheid en getuigschriften van nascholing ter uitvoering van Richtlijn 2003/59/EG betreffende de vakbekwaamheid en de opleiding en nascholing van bestuurders van bepaalde voor goederen- en personenvervoer over de weg bestemde voertuigen (PbEU 2003, L 226)

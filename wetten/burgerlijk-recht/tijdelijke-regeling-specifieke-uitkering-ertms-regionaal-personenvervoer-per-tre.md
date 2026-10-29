@@ -9,7 +9,7 @@ laatste_update: 2023-10-03
 status: geldig
 toestand: 2023-10-03
 bron: "https://wetten.overheid.nl/BWBR0044179"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 5 oktober 2020, nr. IENW/BSK-2020/186839, houdende vaststelling van een specifieke uitkering in verband met implementatie van ERTMS in materieel voor regionaal personenvervoer per trein (Tijdelijke regeling specifieke uitkering ERTMS regionaal personenvervoer per trein 2020–2031)

@@ -9,7 +9,7 @@ laatste_update: 2021-03-05
 status: geldig
 toestand: 2021-03-05
 bron: "https://wetten.overheid.nl/BWBR0044118"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van 22 september 2020, houdende regels ter uitwerking van hoofdstuk 14a van de Telecommunicatiewet (Besluit ongewenste zeggenschap telecommunicatie)

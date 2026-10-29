@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0044901"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 18 februari 2021, nr. 2021-0000027549, tot het stellen van nadere regels met betrekking tot de het bepalen van de loonwaarde alsmede de vaststelling van de vergoeding voor de werkgeverslasten in het kader van de loonkostensubsidie (Regeling loonkostensubsidie Participatiewet 2021)

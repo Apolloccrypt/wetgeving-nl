@@ -9,7 +9,7 @@ laatste_update: 2026-06-13
 status: geldig
 toestand: 2026-06-13
 bron: "https://wetten.overheid.nl/BWBR0044751"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Minister voor Rechtsbescherming van 21 januari 2021, nr.3152870, houdende regels met betrekking tot de hoogte van de pikettoelage rechterlijke ambtenaren (Regeling pikettoelage rechterlijke ambtenaren 2020)

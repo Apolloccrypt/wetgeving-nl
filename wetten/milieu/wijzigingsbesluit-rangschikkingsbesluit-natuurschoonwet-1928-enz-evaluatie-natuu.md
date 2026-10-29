@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0044074"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van 31 augustus 2020, houdende wijziging van het Rangschikkingsbesluit Natuurschoonwet 1928 in verband met de evaluatie van de Natuurschoonwet 1928

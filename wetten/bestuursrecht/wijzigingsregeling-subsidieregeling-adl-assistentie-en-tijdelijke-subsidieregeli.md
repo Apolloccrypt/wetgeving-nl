@@ -9,7 +9,7 @@ laatste_update: 2020-12-01
 status: geldig
 toestand: 2020-12-01
 bron: "https://wetten.overheid.nl/BWBR0044403"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Minister voor Medische Zorg van 20 november 2020, kenmerk 1781977-214221-LZ, houdende wijziging van de Subsidieregeling ADL-assistentie en de Tijdelijke subsidieregeling extramurale behandeling

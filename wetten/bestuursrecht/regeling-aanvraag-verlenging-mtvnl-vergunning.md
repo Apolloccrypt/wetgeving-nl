@@ -9,7 +9,7 @@ laatste_update: 2020-10-20
 status: geldig
 toestand: 2020-10-20
 bron: "https://wetten.overheid.nl/BWBR0044230"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat van 12 oktober 2020, nr. WJZ/ 20214683, houdende regels voor het aanvragen van een verlenging van de vergunning van Mobiele TV Nederland B.V. (Regeling aanvraag verlenging MTV NL-vergunning)

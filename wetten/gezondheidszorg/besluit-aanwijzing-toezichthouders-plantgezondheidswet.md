@@ -9,7 +9,7 @@ laatste_update: 2025-11-20
 status: geldig
 toestand: 2025-11-20
 bron: "https://wetten.overheid.nl/BWBR0044855"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 10 februari 2021, nr. WJZ/20182603, tot aanwijzing van toezichthouders Plantgezondheidswet (Besluit aanwijzing toezichthouders Plantgezondheidswet)

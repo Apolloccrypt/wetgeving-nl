@@ -8,7 +8,7 @@ laatste_update: 2020-09-01
 status: geldig
 toestand: 2020-09-01
 bron: "https://wetten.overheid.nl/BWBR0044027"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Aanwijzing voorlichting opsporing en vervolging

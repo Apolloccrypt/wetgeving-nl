@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0044224"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 16 oktober 2020, nr. IENW/BSK-2020/195119, houdende vaststelling van een tijdelijke regeling voor versnelling van maatregelen ten behoeve van klimaatadaptatie 2021-2027 (Tijdelijke impulsregeling klimaatadaptatie 2021–2027)

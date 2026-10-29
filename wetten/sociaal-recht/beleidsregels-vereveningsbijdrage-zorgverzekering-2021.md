@@ -9,7 +9,7 @@ laatste_update: 2022-12-21
 status: geldig
 toestand: 2022-12-21
 bron: "https://wetten.overheid.nl/BWBR0044256"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Beleidsregels van de Raad van Bestuur van Zorginstituut Nederland van 13 oktober 2020, kenmerk 2020043936, voor de toekenning en vaststelling van de vereveningsbijdrage aan zorgverzekeraars 2021 (Beleidsregels vereveningsbijdrage zorgverzekering 2021)

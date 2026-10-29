@@ -8,7 +8,7 @@ laatste_update: 2020-11-20
 status: geldig
 toestand: 2020-11-20
 bron: "https://wetten.overheid.nl/BWBR0044352"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit beperkingen openbaarheid archiefbescheiden BZK Zuivering Ambtenaren (2.04.67), Militair Gezag (2.13.25), BRIOP (2.13.208), Defensie Collectie Zuiveringen (2.13.99), Financiën Bureau Zuivering (2.08.79), BZK Bureau Invordering (2.04.77), Justitie Afdeling Politie (2.09.107), Justitie RVD (2.09.45) en NEFIS (2.10.62)

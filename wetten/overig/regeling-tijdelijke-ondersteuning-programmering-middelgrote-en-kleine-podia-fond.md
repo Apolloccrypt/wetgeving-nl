@@ -8,7 +8,7 @@ laatste_update: 2020-10-15
 status: geldig
 toestand: 2020-10-15
 bron: "https://wetten.overheid.nl/BWBR0044211"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Regeling tijdelijke ondersteuning programmering middelgrote en kleine podia Fonds Podiumkunsten (Podiumstartregeling)

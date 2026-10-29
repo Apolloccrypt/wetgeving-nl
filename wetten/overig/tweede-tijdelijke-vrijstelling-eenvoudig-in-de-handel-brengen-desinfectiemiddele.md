@@ -9,7 +9,7 @@ laatste_update: 2020-09-30
 status: geldig
 toestand: 2020-09-30
 bron: "https://wetten.overheid.nl/BWBR0044039"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Tweede tijdelijke vrijstelling op grond van artikel 46, eerste lid van de Wet gewasbeschermingsmiddelen en biociden voor het eenvoudiger in de handel brengen van biociden in verband met de uitbraak COVID-19 (Tweede tijdelijke vrijstelling eenvoudig in de handel brengen desinfectiemiddelen COVID-19 2020)

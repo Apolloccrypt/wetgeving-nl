@@ -9,7 +9,7 @@ laatste_update: 2021-08-01
 status: geldig
 toestand: 2021-08-01
 bron: "https://wetten.overheid.nl/BWBR0044501"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Wet van 25 november 2020 tot wijziging van enkele wetten op het terrein van het Ministerie van Sociale Zaken en Werkgelegenheid en het Ministerie van Justitie en Veiligheid en de introductie van bepalingen ter invoering van de tijdelijke mogelijkheid voor de rechter om de behandeling van faillissementsverzoeken aan te houden en andere verhaalsacties te schorsen en een schuldenaar een tijdelijk betalingsuitstel te verlenen in verband met de uitbraak van COVID-19 (Tijdelijke wet COVID-19 SZW en JenV)

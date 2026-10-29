@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-04-30
 toestand: 2025-02-13
 bron: "https://wetten.overheid.nl/BWBR0044328"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 10 november 2020, nr. MBO/25458774, houdende de verstrekking van een specifieke uitkering voor extra financiële middelen voor de RMC-functie (Regeling specifieke uitkering extra financiële middelen RMC-functie)

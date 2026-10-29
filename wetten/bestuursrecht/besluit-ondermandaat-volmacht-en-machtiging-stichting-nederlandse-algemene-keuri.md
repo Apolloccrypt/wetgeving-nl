@@ -9,7 +9,7 @@ laatste_update: 2021-03-01
 status: geldig
 toestand: 2021-03-01
 bron: "https://wetten.overheid.nl/BWBR0044862"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluit ondermandaat, volmacht en machtiging Stichting Nederlandse Algemene Keuringsdienst voor zaaizaad en pootgoed van landbouwgewassen 2021. Besluit van de directeur van de Stichting Nederlandse Algemene Keuringsdienst voor zaaizaad en pootgoed van landbouwgewassen van 19 februari 2021, houdende verlening van ondermandaat, volmacht en machtiging voor de Stichting Nederlandse Algemene Keuringsdienst voor zaaizaad en pootgoed van landbouwgewassen (Besluit ondermandaat, volmacht en machtiging Stichting Nederlandse Algemene Keuringsdienst voor zaaizaad en pootgoed van landbouwgewassen 2021)

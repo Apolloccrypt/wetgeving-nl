@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0044360"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Aanwijzing van de Minister voor Medische Zorg van 13 november 2020, kenmerk 1776599-213723-PZo, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake de aanwijzing ambulancezorg - Amsterdam Medical Services en de prestatie onderlinge dienstverlening

@@ -9,7 +9,7 @@ laatste_update: 2020-12-22
 status: geldig
 toestand: 2020-12-22
 bron: "https://wetten.overheid.nl/BWBR0044532"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 15 december 2020, nr. WJZ/ 20035882, tot vaststelling van regels met betrekking tot de aanvraag en veiling van vergunningen voor digitale radio-omroep DAB+ in laag 7 (Regeling aanvraag- en veilingprocedure digitale radio-omroep DAB+ laag 7)

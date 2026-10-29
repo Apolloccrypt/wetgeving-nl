@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-05-17
 toestand: 2024-03-30
 bron: "https://wetten.overheid.nl/BWBR0044870"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 22 februari 2021 nr. BOACAT2021/004, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Stichting Het Groninger Landschap

@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0044265"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Beleidsregel van de Minister van Landbouw, Natuur en Voedselkwaliteit en de Staatssecretaris van Financiën van 27 oktober 2020, nr. WJZ/ 18182476, inzake de voorwaarden voor openstelling van landgoederen (Beleidsregel openstelling landgoederen Natuurschoonwet 1928)

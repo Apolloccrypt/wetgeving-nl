@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0044791"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluit van 27 januari 2021 tot wijziging van het Besluit prudentiële regels Wft, het Besluit prudentieel toezicht financiële groepen Wft en het Besluit bestuurlijke boetes financiële sector in verband met de implementatie van Richtlijn (EU) 2019/878 van het Europees Parlement en de Raad van 20 mei 2019 tot wijziging van Richtlijn 2013/36/EU met betrekking tot vrijgestelde entiteiten, financiële holdings, gemengde financiële holdings, beloning, toezichtsmaatregelen en -bevoegdheden en kapitaalconserveringsmaatregelen (PbEU 2019, L 150) (Implementatiebesluit kapitaalvereisten 2020)

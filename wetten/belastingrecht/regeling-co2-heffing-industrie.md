@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0044637"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat van 15 december 2020, nr. WJZ/ 20169624, tot uitvoering van de CO2-heffing industrie

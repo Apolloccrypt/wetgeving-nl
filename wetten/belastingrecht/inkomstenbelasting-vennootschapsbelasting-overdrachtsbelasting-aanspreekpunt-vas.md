@@ -8,7 +8,7 @@ laatste_update: 2023-04-15
 status: geldig
 toestand: 2023-04-15
 bron: "https://wetten.overheid.nl/BWBR0044070"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Inkomstenbelasting, vennootschapsbelasting, overdrachtsbelasting, aanspreekpunt Vastgoedfondsen

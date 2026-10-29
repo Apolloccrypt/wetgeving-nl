@@ -8,7 +8,7 @@ laatste_update: 2020-11-05
 status: geldig
 toestand: 2020-11-05
 bron: "https://wetten.overheid.nl/BWBR0044305"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Deelregeling extra budget meerjarige productiesubsidies Fonds Podiumkunsten 2021–2024

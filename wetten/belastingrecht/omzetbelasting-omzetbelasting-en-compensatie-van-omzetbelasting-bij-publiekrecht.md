@@ -8,7 +8,7 @@ laatste_update: 2020-12-31
 status: geldig
 toestand: 2020-12-31
 bron: "https://wetten.overheid.nl/BWBR0044602"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Omzetbelasting, omzetbelasting en compensatie van omzetbelasting bij publiekrechtelijke lichamen

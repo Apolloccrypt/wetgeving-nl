@@ -9,7 +9,7 @@ laatste_update: 2026-03-27
 status: geldig
 toestand: 2026-03-27
 bron: "https://wetten.overheid.nl/BWBR0044210"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 8 oktober 2020 , nr. IENW/BSK-2020/186487, houdende regels in verband met verdere flexibilisering van de loodsplicht (Loodsplichtregeling 2021)

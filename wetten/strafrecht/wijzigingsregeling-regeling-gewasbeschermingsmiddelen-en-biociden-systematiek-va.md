@@ -9,7 +9,7 @@ laatste_update: 2021-04-01
 status: geldig
 toestand: 2021-04-01
 bron: "https://wetten.overheid.nl/BWBR0044625"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 11 december 2020, nr. WJZ/ 19217067, tot wijziging van de Regeling gewasbeschermingsmiddelen en biociden in verband met verduidelijking van de systematiek van erkenning van bedrijven en instellingen die onderzoek doen naar de werking van gewasbeschermingsmiddelen, verruiming van regels over het verstrekken van een bewijs van vakbekwaamheid en wijzigingen in de bestuurlijke boetes

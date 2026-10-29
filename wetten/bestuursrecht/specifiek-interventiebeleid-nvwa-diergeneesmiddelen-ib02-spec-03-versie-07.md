@@ -9,7 +9,7 @@ laatste_update: 2020-08-15
 status: geldig
 toestand: 2020-08-15
 bron: "https://wetten.overheid.nl/BWBR0044004"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister van Landbouw, Natuur en Voedselkwaliteit van 17 juli 2020, nr. NVWA/2020/3794, tot vaststelling van het Specifiek interventiebeleid diergeneesmiddelen (IB02-SPEC 03, versie 07)

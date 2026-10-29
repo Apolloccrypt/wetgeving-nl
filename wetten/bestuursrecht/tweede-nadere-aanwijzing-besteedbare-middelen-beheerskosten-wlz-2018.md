@@ -9,7 +9,7 @@ laatste_update: 2021-03-10
 status: geldig
 toestand: 2021-03-10
 bron: "https://wetten.overheid.nl/BWBR0044909"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Minister voor Medische Zorg van 1 maart 2021, kenmerk 1833982-218920-Z, houdende Tweede Nadere aanwijzing van de besteedbare middelen ter dekking van de beheerskosten 2018 (Tweede nadere aanwijzing besteedbare middelen beheerskosten Wlz 2018)

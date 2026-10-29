@@ -8,7 +8,7 @@ laatste_update: 2020-12-11
 status: geldig
 toestand: 2020-12-11
 bron: "https://wetten.overheid.nl/BWBR0044462"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Wet inkomstenbelasting BES, eigen woning; aftrek van kosten als persoonlijke lasten

@@ -9,7 +9,7 @@ laatste_update: 2023-08-01
 status: geldig
 toestand: 2023-08-01
 bron: "https://wetten.overheid.nl/BWBR0044028"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Beleidsregel van de Minister voor Basis- en Voortgezet Onderwijs en Media van 26 augustus 2020, nr. VO/25236992, tot nadere regels voor de verstrekking van een licentie Topsporttalentschool voor scholen in het voortgezet onderwijs (Beleidsregel verstrekking licentie Topsporttalentschool VO 2020)

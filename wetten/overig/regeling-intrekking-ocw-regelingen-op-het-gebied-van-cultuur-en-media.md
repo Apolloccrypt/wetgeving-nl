@@ -9,7 +9,7 @@ laatste_update: 2021-04-01
 status: geldig
 toestand: 2021-04-01
 bron: "https://wetten.overheid.nl/BWBR0044802"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap en de Minister voor Basis- en Voortgezet Onderwijs en Media van 1 februari 2021, nr. WJZ/18620404(6660), houdende intrekking van regelingen op het gebied van cultuur en media en enkele andere regelingen in verband met het feit dat zij hun betekenis hebben verloren (Regeling intrekking OCW-regelingen op het gebied van cultuur en media)

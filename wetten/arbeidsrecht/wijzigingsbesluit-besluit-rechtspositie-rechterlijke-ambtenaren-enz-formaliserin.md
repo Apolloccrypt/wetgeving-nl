@@ -9,7 +9,7 @@ laatste_update: 2020-10-01
 status: geldig
 toestand: 2020-10-01
 bron: "https://wetten.overheid.nl/BWBR0044143"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van 25 september 2020 tot wijziging van het Besluit rechtspositie rechterlijke ambtenaren en het Besluit rechtspositie leden gerechtsbesturen en Raad voor de rechtspraak ter formalisering van de Arbeidsvoorwaardenovereenkomst sector Rechterlijke Macht 2018 – 2020

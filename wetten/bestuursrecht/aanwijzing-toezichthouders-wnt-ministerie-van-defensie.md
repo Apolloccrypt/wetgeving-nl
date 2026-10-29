@@ -8,7 +8,7 @@ laatste_update: 2020-08-15
 status: geldig
 toestand: 2020-08-15
 bron: "https://wetten.overheid.nl/BWBR0044000"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Aanwijzing toezichthouders WNT Ministerie van Defensie

@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0044428"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 1 december 2020, nr. IENW/BSK-2020/224134, tot wijziging van de Drinkwaterregeling in verband met herziening van de beoordelingsrichtlijn BRL 6010 voor de certificatie van legionella-adviseurs

@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0044894"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluit van 23 februari 2021 tot het stellen van regels ten aanzien van de loonkostensubsidie Participatiewet met betrekking tot het bepalen van de doelgroep, de uniforme bepaling van de loonwaarde en het moment van uitbetalen van de loonkostensubsidie (Besluit loonkostensubsidie Participatiewet 2021)

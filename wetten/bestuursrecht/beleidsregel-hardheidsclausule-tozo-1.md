@@ -9,7 +9,7 @@ laatste_update: 2021-02-06
 status: geldig
 toestand: 2021-02-06
 bron: "https://wetten.overheid.nl/BWBR0044782"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 27 januari 2021,2021-0000005816, tot vaststelling van een beleidsregel ten behoeve van uitoefening van de bevoegdheid om als fout of onzeker aangemerkte kosten voor bijstand op grond van de Tijdelijke overbruggingsregeling zelfstandig ondernemers te vergoeden indien het niet vergoeden tot een onbillijkheid van overwegende aard zou leiden (Beleidsregel hardheidsclausule Tozo 1)

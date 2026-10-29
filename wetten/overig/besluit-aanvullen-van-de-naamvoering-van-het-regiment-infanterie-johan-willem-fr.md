@@ -9,7 +9,7 @@ laatste_update: 2020-11-20
 status: geldig
 toestand: 2020-11-20
 bron: "https://wetten.overheid.nl/BWBR0044331"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van 26 oktober 2020, houdende het aanvullen van de naamvoering van het Regiment Infanterie Johan Willem Friso met de prinselijke titel

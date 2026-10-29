@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0044567"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Wet van 16 december 2020 tot wijziging van de Wet op de vennootschapsbelasting 1969 in verband met het voorkomen van langdurig uitstel van verliesneming ingevolge de liquidatie- en stakingsverliesregeling en het inperken van de reikwijdte van deze regelingen (Wet beperking liquidatie- en stakingsverliesregeling)

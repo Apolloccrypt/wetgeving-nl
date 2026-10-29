@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0044530"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 8 december 2020, nr. 2020-0000714269, houdende nadere regels inzake een uitkering als bedoeld in artikel 71 van het Rechtspositiebesluit ambtenaren BES (Regeling arbeidsmarkttoelage ambtenaren BES)

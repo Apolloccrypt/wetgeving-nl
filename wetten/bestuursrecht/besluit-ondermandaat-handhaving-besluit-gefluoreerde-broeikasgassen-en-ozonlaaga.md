@@ -9,7 +9,7 @@ laatste_update: 2020-12-31
 status: geldig
 toestand: 2020-12-31
 bron: "https://wetten.overheid.nl/BWBR0044608"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de inspecteur-generaal Leefomgeving en Transport, van 10 december 2020, nr. ILT-2020/68534, houdende verlening van ondermandaat, volmacht en machtiging voor de handhaving ten aanzien van aangelegenheden die verband houden met het Besluit gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen (Besluit ondermandaat handhaving Besluit gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen)

@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0044617"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Minister-President, Minister van Algemene Zaken van 18 december 2020, nr. 4169072, tot vaststelling van een kader houdende de organisatie-inrichting van het BVA-stelsel binnen de Rijksdienst (Besluit BVA-stelsel Rijksdienst 2021)

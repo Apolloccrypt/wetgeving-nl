@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0044614"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Beleidsregel van de Minister van Economische Zaken en Klimaat van 18 december 2020, nr. WJZ/ 20293295, tot intrekking van de Beleidsregels Nederlandse emissieautoriteit handhaving handel in emissierechten 2016

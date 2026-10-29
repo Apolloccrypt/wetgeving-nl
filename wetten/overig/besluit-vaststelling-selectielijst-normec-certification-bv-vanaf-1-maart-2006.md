@@ -8,7 +8,7 @@ laatste_update: 2021-03-12
 status: geldig
 toestand: 2021-03-12
 bron: "https://wetten.overheid.nl/BWBR0044917"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluit vaststelling selectielijst Normec Certification BV vanaf 1 maart 2006

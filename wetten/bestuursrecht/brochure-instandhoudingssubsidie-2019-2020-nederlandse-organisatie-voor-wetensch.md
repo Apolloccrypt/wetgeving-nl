@@ -8,7 +8,7 @@ laatste_update: 2020-09-24
 status: geldig
 toestand: 2020-09-24
 bron: "https://wetten.overheid.nl/BWBR0044117"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Brochure Instandhoudingssubsidie 2019-2020, Nederlandse Organisatie voor Wetenschappelijk Onderzoek

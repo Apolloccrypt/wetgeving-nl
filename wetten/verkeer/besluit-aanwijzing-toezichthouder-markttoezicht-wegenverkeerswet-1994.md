@@ -9,7 +9,7 @@ laatste_update: 2023-05-31
 status: geldig
 toestand: 2023-05-31
 bron: "https://wetten.overheid.nl/BWBR0044516"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat, van 9 december 2020, nr. IENW/BSK-2020/239093, houdende aanwijzing personen belast met toezicht als bedoeld in artikel 158, eerste lid, van de Wegenverkeerswet 1994 ten behoeve van markttoezicht als bedoeld in die wet (Besluit aanwijzing toezichthouders markttoezicht Wegenverkeerswet 1994)

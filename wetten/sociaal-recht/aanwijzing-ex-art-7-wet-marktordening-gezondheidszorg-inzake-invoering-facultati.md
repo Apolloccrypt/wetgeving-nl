@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0044286"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Aanwijzing van de Minister voor Medische Zorg van 26 oktober 2020, kenmerk 1766434-212847-PZO, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake de invoering van een facultatieve prestatie met een vrij tarief in de medisch specialistische zorg

@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0044911"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluit van 27 november 2020 tot wijziging van het Besluit activiteiten leefomgeving, het Besluit kwaliteit leefomgeving, het Omgevingsbesluit en enkele andere besluiten met het oog op het beschermen van de bodem, met inbegrip van het grondwater, en het duurzaam en doelmatig gebruik van de bodem (Aanvullingsbesluit bodem Omgevingswet)

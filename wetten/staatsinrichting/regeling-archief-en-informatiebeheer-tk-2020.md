@@ -9,7 +9,7 @@ laatste_update: 2020-11-03
 status: geldig
 toestand: 2020-11-03
 bron: "https://wetten.overheid.nl/BWBR0044276"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van het Presidium van de Tweede Kamer der Staten-Generaal van 23 september 2020 tot vaststelling van regels voor het archief- en informatiebeheer van de Tweede Kamer der Staten-Generaal (Regeling Archief- en Informatiebeheer TK 2020)

@@ -8,7 +8,7 @@ laatste_update: 2023-02-24
 status: geldig
 toestand: 2023-02-24
 bron: "https://wetten.overheid.nl/BWBR0044788"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluit Protocol Huisbezoeken Handhaving UWV 2020

@@ -9,7 +9,7 @@ laatste_update: 2021-07-01
 status: geldig
 toestand: 2021-07-01
 bron: "https://wetten.overheid.nl/BWBR0044860"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Wet van 16 december 2020, houdende regels inzake instelling van een Mobiliteitsfonds (Wet Mobiliteitsfonds) (Wet Mobiliteitsfonds)

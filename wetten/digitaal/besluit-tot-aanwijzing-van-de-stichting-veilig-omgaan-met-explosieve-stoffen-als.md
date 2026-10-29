@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0044469"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 26 november 2020, nr. 2020-0000158163, houdende aanwijzing van de Stichting Veilig Omgaan met Explosieve Stoffen (hierna: Stichting VOMES) als verwerker als bedoeld in artikel 28 van de Algemene verordening gegevensbescherming en verlening van mandaat, volmacht en machtiging aan de Stichting VOMES ter uitvoering van het beheer van het Register Veilig Werken met Explosieve Stoffen

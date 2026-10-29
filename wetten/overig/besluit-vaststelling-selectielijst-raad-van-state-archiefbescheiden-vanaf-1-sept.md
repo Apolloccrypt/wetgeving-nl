@@ -9,7 +9,7 @@ laatste_update: 2020-12-03
 status: geldig
 toestand: 2020-12-03
 bron: "https://wetten.overheid.nl/BWBR0044419"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van 12 november 2020, kenmerk 2011002711, houdende vaststelling van de Selectielijst Raad van State voor het selecteren van te vernietigen en permanent te bewaren archiefbescheiden vanaf 1 september 2010

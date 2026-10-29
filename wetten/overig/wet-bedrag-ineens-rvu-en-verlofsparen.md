@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0044727"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Wet van 14 januari 2021 tot wijziging van de Pensioenwet, de Wet verplichte beroepspensioenregeling, de Wet op het financieel toezicht, de Wet inkomstenbelasting 2001 en de Wet op de loonbelasting 1964 in verband met de introductie van de mogelijkheid om een deel van de waarde van de aanspraken op ouderdomspensioen of op periodieke uitkeringen van oudedagsvoorzieningen in de derde pijler op de ingangsdatum daarvan te laten afkopen, de tijdelijke versoepeling van de pseudo-eindheffing bij regelingen voor vervroegde uittreding en de uitbreiding van de fiscale ruimte voor het sparen van bovenwettelijk verlof (Wet bedrag ineens, RVU en verlofsparen)

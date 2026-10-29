@@ -9,7 +9,7 @@ laatste_update: 2021-03-09
 status: geldig
 toestand: 2021-03-09
 bron: "https://wetten.overheid.nl/BWBR0044905"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Staatssecretaris van Financiën – Fiscaliteit en Belastingdienst van 21 februari 2021, nr. 2021-0000031623, houdende instelling van de Commissie doorstroomvennootschappen

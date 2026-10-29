@@ -8,7 +8,7 @@ laatste_update: 2021-03-01
 status: geldig
 toestand: 2021-03-01
 bron: "https://wetten.overheid.nl/BWBR0044693"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Aanwijzing tbs bij vreemdelingen

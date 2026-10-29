@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-04-17
 toestand: 2020-12-29
 bron: "https://wetten.overheid.nl/BWBR0044590"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Minister-President, Minister van Algemene Zaken van 18 december 2020, kenmerk 4177136, tot vaststelling van de Aanwijzingen voor de externe contacten van rijksambtenaren

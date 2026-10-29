@@ -9,7 +9,7 @@ laatste_update: 2025-09-18
 status: geldig
 toestand: 2025-09-18
 bron: "https://wetten.overheid.nl/BWBR0044747"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 21 januari 2021 nr. WJZ/ 21008735, tot instelling van de Adviescommissie Nationale Parken (Instellingsbesluit Adviescommissie Nationale Parken)

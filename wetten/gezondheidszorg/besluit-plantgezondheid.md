@@ -9,7 +9,7 @@ laatste_update: 2021-03-01
 status: geldig
 toestand: 2021-03-01
 bron: "https://wetten.overheid.nl/BWBR0044299"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van 2 oktober 2020, houdende bepalingen in verband met plantgezondheid (Besluit plantgezondheid)

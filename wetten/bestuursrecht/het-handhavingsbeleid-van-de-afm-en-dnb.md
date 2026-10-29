@@ -8,7 +8,7 @@ laatste_update: 2020-11-03
 status: geldig
 toestand: 2020-11-03
 bron: "https://wetten.overheid.nl/BWBR0044284"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Het handhavingsbeleid van de AFM en DNB

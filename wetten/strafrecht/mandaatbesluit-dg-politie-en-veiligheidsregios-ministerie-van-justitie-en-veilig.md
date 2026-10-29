@@ -9,7 +9,7 @@ laatste_update: 2026-03-10
 status: geldig
 toestand: 2026-03-10
 bron: "https://wetten.overheid.nl/BWBR0044902"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de directeur-generaal Politie en Veiligheidsregio’s van het Ministerie van Justitie en Veiligheid van 28 januari 2021, nr. DGPenV/3196075, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan onder de directeur-generaal ressorterende functionarissen (Mandaatbesluit DG Politie en Veiligheidsregio’s Ministerie van Justitie en Veiligheid 2021)

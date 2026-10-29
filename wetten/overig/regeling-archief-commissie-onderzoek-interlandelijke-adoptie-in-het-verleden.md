@@ -9,7 +9,7 @@ laatste_update: 2020-11-18
 status: geldig
 toestand: 2020-11-18
 bron: "https://wetten.overheid.nl/BWBR0044344"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 17 november 2020, nr. 3083491, tot vaststelling van een reglement inzake de organisatie en het beheer van het archief van de commissie belast met het onderzoek naar interlandelijke adoptie in het verleden (Reglement archief Commissie Onderzoek Interlandelijke Adoptie in het verleden)

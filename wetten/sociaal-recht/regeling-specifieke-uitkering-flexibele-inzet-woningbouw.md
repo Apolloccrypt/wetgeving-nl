@@ -9,7 +9,7 @@ laatste_update: 2020-10-01
 status: geldig
 toestand: 2020-10-01
 bron: "https://wetten.overheid.nl/BWBR0044128"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 28 september 2020, nr. 2020-0000468858, houdende regels met betrekking tot het verstrekken van een eenmalige specifieke uitkering ten behoeve van de financiering van regionale flexpools die het voorkomen van vertragingen in de voorfase van de woningbouw tot doel hebben (Regeling specifieke uitkering flexibele inzet ondersteuning woningbouw)

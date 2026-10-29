@@ -8,7 +8,7 @@ laatste_update: 2021-09-01
 status: geldig
 toestand: 2021-09-01
 bron: "https://wetten.overheid.nl/BWBR0044758"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluit vaststellen (gewijzigde) Eindtermen accountantsopleidingen 2016

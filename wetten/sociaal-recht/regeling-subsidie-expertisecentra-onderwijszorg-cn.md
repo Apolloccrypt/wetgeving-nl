@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0044453"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 26 november 2020, nr. PO/BenS/ 26079464, houdende regels over het verstrekken van subsidie aan de expertisecentra onderwijszorg in Caribisch Nederland (Regeling subsidie expertisecentra onderwijszorg CN)

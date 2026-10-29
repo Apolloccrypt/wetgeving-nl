@@ -9,7 +9,7 @@ laatste_update: 2020-10-07
 status: geldig
 toestand: 2020-10-07
 bron: "https://wetten.overheid.nl/BWBR0044180"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit Beperking openbaarheid archiefbestand Bureau Secretaris-Generaal / Kabinet 1946–1999

@@ -9,7 +9,7 @@ laatste_update: 2020-12-22
 status: geldig
 toestand: 2020-12-22
 bron: "https://wetten.overheid.nl/BWBR0044535"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Staatssecretaris van Economische Zaken en Klimaat van 15 december 2020, nr. DGBI-DE/20170961, handelend in overeenstemming met de Minister voor Basis- en Voortgezet Onderwijs en Media, inzake de keuze voor het instrument veiling van vergunningen voor digitale radio-omroep DAB+ in laag 7 (Besluit bekendmaking veiling DAB+ laag 7)

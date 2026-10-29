@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0044674"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluit van 7 december 2020 tot wijziging van het Besluit kwaliteit leefomgeving, het Omgevingsbesluit, het Besluit activiteiten leefomgeving en enkele andere algemene maatregelen van bestuur vanwege het opnemen van regels over landinrichting, voorkeursrecht en onteigening en een verdere aanpassing van de regels over kostenverhaal (Aanvullingsbesluit grondeigendom Omgevingswet)

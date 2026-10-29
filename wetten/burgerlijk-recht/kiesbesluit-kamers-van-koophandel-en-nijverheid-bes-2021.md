@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0044819"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluit van 15 januari 2021, houdende regels over de verkiezing van de bestuursleden van de Kamers van Koophandel en Nijverheid BES (Kiesbesluit Kamers van Koophandel en Nijverheid BES 2021)

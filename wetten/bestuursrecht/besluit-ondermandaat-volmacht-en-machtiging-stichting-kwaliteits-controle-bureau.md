@@ -9,7 +9,7 @@ laatste_update: 2021-03-01
 status: geldig
 toestand: 2021-03-01
 bron: "https://wetten.overheid.nl/BWBR0044864"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de technisch directeur Stichting Kwaliteits-Controle-Bureau van 19 februari 2021, houdende verlening van ondermandaat, volmacht en machtiging voor de Stichting Kwaliteits-Controle-Bureau (Besluit ondermandaat, volmacht en machtiging Stichting Kwaliteits-Controle-Bureau 2021)

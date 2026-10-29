@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0044296"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Wet van 14 oktober 2020 tot wijziging van de Politiewet 2012 en de Wet op de medische keuringen in verband met het screenen van personen die ambtenaar van politie willen worden of zijn en personen die krachtens overeenkomst werkzaamheden voor de politie, de rijksrecherche of de Politieacademie gaan verrichten of verrichten (screening ambtenaren van politie en politie-externen)

@@ -9,7 +9,7 @@ laatste_update: 2021-02-18
 status: geldig
 toestand: 2021-02-18
 bron: "https://wetten.overheid.nl/BWBR0044822"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluit van 9 februari 2021, houdende vaststelling van regels met betrekking tot het verlenen van clementie voor geldboetes betreffende kartels (Besluit clementie)

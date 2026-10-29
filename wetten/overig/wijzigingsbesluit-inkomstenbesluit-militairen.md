@@ -8,7 +8,7 @@ laatste_update: 2021-02-01
 status: geldig
 toestand: 2021-02-01
 bron: "https://wetten.overheid.nl/BWBR0044652"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Wijzigingsbesluit Inkomstenbesluit militairen

@@ -9,7 +9,7 @@ laatste_update: 2020-08-19
 status: geldig
 toestand: 2020-08-19
 bron: "https://wetten.overheid.nl/BWBR0044008"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Minister-President, Minister van Algemene Zaken van 14 juli 2020, #4100673-v8, houdende regels op het gebied van de informatiehuishouding voor het Ministerie van Algemene Zaken (kortweg: Beheersregeling Archiefbeheer AZ 2020)

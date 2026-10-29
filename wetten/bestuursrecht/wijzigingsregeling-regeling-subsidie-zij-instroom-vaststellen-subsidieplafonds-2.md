@@ -9,7 +9,7 @@ laatste_update: 2021-02-24
 status: geldig
 toestand: 2021-02-24
 bron: "https://wetten.overheid.nl/BWBR0044844"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap en de Minister voor Basis- en Voortgezet Onderwijs en Media van 11 februari 2021, nr. PO/2522640, houdende wijziging van de Regeling subsidie zij-instroom in verband met het vaststellen van de subsidieplafonds voor 2021, een herziening van de definitie van zij-instromer in het mbo en een aanvulling van de weigeringsgronden

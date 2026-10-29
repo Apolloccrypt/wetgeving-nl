@@ -9,7 +9,7 @@ laatste_update: 2021-02-22
 status: geldig
 toestand: 2021-02-22
 bron: "https://wetten.overheid.nl/BWBR0044837"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Wet van 22 februari 2021, houdende wijziging van de Wet publieke gezondheid in verband met een tijdelijke bevoegdheid om het vertoeven in de openlucht te beperken teneinde de verspreiding van het SARSCoV-2-virus zoveel mogelijk te belemmeren (Tijdelijke wet beperking vertoeven in de openlucht covid-19)

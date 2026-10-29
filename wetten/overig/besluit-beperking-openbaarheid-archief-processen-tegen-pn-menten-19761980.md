@@ -9,7 +9,7 @@ laatste_update: 2021-01-14
 status: geldig
 toestand: 2021-01-14
 bron: "https://wetten.overheid.nl/BWBR0044700"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid d.d. 15 december 2020, kenmerk 2618966, houdende beperking van de openbaarheid van het Archief van de processen tegen P.N. Menten 1976–1980

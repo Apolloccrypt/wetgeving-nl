@@ -9,7 +9,7 @@ laatste_update: 2021-03-11
 status: geldig
 toestand: 2021-03-11
 bron: "https://wetten.overheid.nl/BWBR0044920"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Inspecteur-Generaal van de Nederlandse Voedsel- en Warenautoriteit van 25 februari 2021, NVWA/2021/1133, houdende de aanwijzing van bevoegde functionarissen van de Nederlandse Voedsel- en Warenautoriteit voor de gegevensverwerking in kader van de Wet politiegegevens (Aanwijzing bevoegd functionarissen Nederlandse Voedsel- en Warenautoriteit)

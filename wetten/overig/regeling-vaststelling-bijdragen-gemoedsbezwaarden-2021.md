@@ -9,7 +9,7 @@ laatste_update: 2021-01-05
 status: geldig
 toestand: 2021-01-05
 bron: "https://wetten.overheid.nl/BWBR0044671"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Minister van Financiën van 16 december 2020, 2020-0000245827, directie Financiële Markten, tot vaststelling van de bijdragen gemoedsbezwaarden 2021

@@ -8,7 +8,7 @@ laatste_update: 2020-09-29
 status: geldig
 toestand: 2020-09-29
 bron: "https://wetten.overheid.nl/BWBR0044123"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Vennootschapsbelasting en dividendbelasting, hybride geldverstrekkingen, intrekkingsbesluit

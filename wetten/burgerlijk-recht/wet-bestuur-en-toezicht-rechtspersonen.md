@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0044657"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Wet van 11 november 2020 tot wijziging van het Burgerlijk Wetboek in verband met de uniformering en de verduidelijking van enkele bepalingen omtrent het bestuur en de raad van commissarissen van rechtspersonen (Wet bestuur en toezicht rechtspersonen)

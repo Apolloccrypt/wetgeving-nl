@@ -9,7 +9,7 @@ laatste_update: 2020-12-25
 status: geldig
 toestand: 2020-12-25
 bron: "https://wetten.overheid.nl/BWBR0044566"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Minister voor Medische Zorg van 16 december 2020, kenmerk 1799528-215983-WJZ, houdende het verlenen van volmacht en machtiging aan de plaatsvervangend Secretaris-Generaal van het Ministerie van VWS voor de uitoefening van de rechten van de Staat als aandeelhouder van Intravacc B.V.

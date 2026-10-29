@@ -9,7 +9,7 @@ laatste_update: 2020-10-20
 status: geldig
 toestand: 2020-10-20
 bron: "https://wetten.overheid.nl/BWBR0044226"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van 31 augustus 2020, houdende vaststelling van de decentralisatie- en integratie-uitkeringen aan de gemeenten en provincies voor het uitkeringsjaar 2017 alsmede wijziging van het Besluit vaststelling decentralisatie- en integratie-uitkeringen 2015 en het Besluit vaststelling decentralisatie- en integratie-uitkeringen 2016 (Besluit vaststelling decentralisatie-en integratie-uitkeringen 2017)

@@ -9,7 +9,7 @@ laatste_update: 2020-10-10
 status: geldig
 toestand: 2020-10-10
 bron: "https://wetten.overheid.nl/BWBR0044194"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Wet van 6 oktober 2020, houdende tijdelijke bepalingen in verband met de inzet van een notificatieapplicatie bij de bestrijding van de epidemie van covid-19 en waarborgen ter voorkoming van misbruik daarvan (Tijdelijke wet notificatieapplicatie covid-19)

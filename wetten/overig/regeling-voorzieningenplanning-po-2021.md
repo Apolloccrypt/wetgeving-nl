@@ -9,7 +9,7 @@ laatste_update: 2024-08-01
 status: geldig
 toestand: 2024-08-01
 bron: "https://wetten.overheid.nl/BWBR0044044"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 28 augustus 2020, nr. PO/17898051, houdende regels voor de voorzieningenplanning bij scholen in het primair onderwijs (Regeling voorzieningenplanning po 2021)

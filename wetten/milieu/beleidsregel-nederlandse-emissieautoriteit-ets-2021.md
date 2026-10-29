@@ -9,7 +9,7 @@ laatste_update: 2024-07-01
 status: geldig
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0044649"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Beleidsregel van het bestuur van de Nederlandse Emissieautoriteit van 17 december 2020, nr. NEA-2020/21858, houdende regels met betrekking tot de handhaving van regels ter uitvoering van het Europese emissiehandelssysteem 2021 (Beleidsregel Nederlandse Emissieautoriteit ETS 2021)

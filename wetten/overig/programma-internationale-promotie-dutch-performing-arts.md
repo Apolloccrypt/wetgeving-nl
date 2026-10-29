@@ -8,7 +8,7 @@ laatste_update: 2021-03-05
 status: geldig
 toestand: 2021-03-05
 bron: "https://wetten.overheid.nl/BWBR0044891"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Programma Internationale Promotie Dutch Performing Arts

@@ -9,7 +9,7 @@ laatste_update: 2021-02-20
 status: geldig
 toestand: 2021-02-20
 bron: "https://wetten.overheid.nl/BWBR0044833"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Wet van 10 februari 2021 tot wijziging van de Vreemdelingenwet 2000 in verband met de tijdelijke verlenging van de bevoegdheid om biometrische gegevens van vreemdelingen af te nemen en te verwerken

@@ -9,7 +9,7 @@ laatste_update: 2020-12-05
 status: geldig
 toestand: 2020-12-05
 bron: "https://wetten.overheid.nl/BWBR0044448"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 13 november 2020 (kenmerk 3076157/20/DP&O), houdende instelling van een tijdelijk programmadirectoraat-generaal Samenleving en COVID-19 (‘Instellingsbesluit DGSC-19’) en tevens houdende wijziging van het Organisatiebesluit Ministerie van Justitie en Veiligheid, het Mandaatbesluit Ministerie van Justitie en Veiligheid en het Mandaatbesluit hoofden cluster Ministerie van Justitie en Veiligheid

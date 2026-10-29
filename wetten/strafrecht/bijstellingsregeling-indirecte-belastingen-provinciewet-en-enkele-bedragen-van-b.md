@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0044582"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Bijstellingsregeling accijns, belasting van personenauto’s en motorrijwielen, motorrijtuigenbelasting, belastingen op milieugrondslag en de Provinciewet 2021

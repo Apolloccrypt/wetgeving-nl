@@ -9,7 +9,7 @@ laatste_update: 2020-11-12
 status: geldig
 toestand: 2020-11-12
 bron: "https://wetten.overheid.nl/BWBR0044332"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van het bestuur van het Centraal Orgaan opvang asielzoekers (COA) van 18 augustus 2020 tot vaststelling van regels voor het archiefbeheer van het COA (Regeling archiefbeheer COA 2020)

@@ -9,7 +9,7 @@ laatste_update: 2025-10-17
 status: geldig
 toestand: 2025-10-17
 bron: "https://wetten.overheid.nl/BWBR0044380"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 11 november 2020, nr. 25919607, tot het instellen van de adviescommissie diversiteit en inclusie in onderwijs en onderzoek (Instellingsbesluit adviescommissie diversiteit en inclusie in onderwijs en onderzoek)

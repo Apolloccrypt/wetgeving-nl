@@ -9,7 +9,7 @@ laatste_update: 2020-12-25
 status: geldig
 toestand: 2020-12-25
 bron: "https://wetten.overheid.nl/BWBR0044565"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Minister voor Medische Zorg van 16 december 2020, kenmerk 1799530-215983-WJZ, houdende het verlenen van volmacht en machtiging aan de directeur van de Projectdirectie Antonie van Leeuwenhoek-terrein

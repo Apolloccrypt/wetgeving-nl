@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0044679"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluit van 9 december 2020 tot wijziging van het Besluit kwaliteit leefomgeving, het Omgevingsbesluit, het Besluit activiteiten leefomgeving, het Besluit bouwwerken leefomgeving, het Invoeringsbesluit Omgevingswet en enkele andere besluiten met het oog op de beheersing van geluid afkomstig van wegen, spoorwegen en industrieterreinen (Aanvullingsbesluit geluid Omgevingswet)

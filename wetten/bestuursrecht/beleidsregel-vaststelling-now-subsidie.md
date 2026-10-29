@@ -9,7 +9,7 @@ laatste_update: 2022-05-25
 status: geldig
 toestand: 2022-05-25
 bron: "https://wetten.overheid.nl/BWBR0044175"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Beleidsregel van de Minister van Sociale Zaken en Werkgelegenheid van 29 september 2020, nr. 2020-0000128045, ten behoeve van de vaststelling van de NOW-subsidie (Beleidsregel vaststelling NOW-subsidie)

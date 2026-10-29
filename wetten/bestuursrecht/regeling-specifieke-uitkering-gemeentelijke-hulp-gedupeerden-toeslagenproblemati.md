@@ -9,7 +9,7 @@ laatste_update: 2021-11-23
 status: geldig
 toestand: 2021-11-23
 bron: "https://wetten.overheid.nl/BWBR0044385"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Minister van Financiën van 18 november 2020, (nr. 2020-0000226790), houdende regels voor de verstrekking van een eenmalige specifieke uitkering voor gemeentelijke hulp aan gedupeerde rechthebbenden op toeslagen (Regeling specifieke uitkering gemeentelijke hulp gedupeerden toeslagenproblematiek)

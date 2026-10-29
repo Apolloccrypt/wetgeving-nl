@@ -9,7 +9,7 @@ laatste_update: 2020-11-25
 status: geldig
 toestand: 2020-11-25
 bron: "https://wetten.overheid.nl/BWBR0044362"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Beleidsregel van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 16 november 2020, nr. 2020-0000152843, tot vaststelling van de Beleidsregel maatregelenbeleid in verband met het verwijderen van (her-)registraties (Beleidsregel maatregelenbeleid (her)registratie arbowetgeving)

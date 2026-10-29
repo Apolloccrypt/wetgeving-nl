@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-04-30
 toestand: 2021-01-08
 bron: "https://wetten.overheid.nl/BWBR0044695"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluit vaststelling selectielijst primair proces 'de Rechtspraak' vanaf (1985) 2005

@@ -9,7 +9,7 @@ laatste_update: 2020-12-16
 status: geldig
 toestand: 2020-12-16
 bron: "https://wetten.overheid.nl/BWBR0044502"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de algemene raad van 26 oktober 2020 tot vaststelling van een subsidieplafond (Besluit subsidieplafond 2021)

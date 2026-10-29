@@ -9,7 +9,7 @@ laatste_update: 2025-12-31
 status: geldig
 toestand: 2025-12-31
 bron: "https://wetten.overheid.nl/BWBR0044185"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Minister voor Medische Zorg van 29 september 2020, kenmerk 1746006-210301-PG, houdende regels voor het verstrekken van subsidie aan abortusklinieken voor de opleiding van abortusartsen (Subsidieregeling opleiding abortusartsen)

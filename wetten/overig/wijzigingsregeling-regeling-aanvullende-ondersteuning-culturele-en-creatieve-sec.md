@@ -9,7 +9,7 @@ laatste_update: 2021-01-28
 status: geldig
 toestand: 2021-01-28
 bron: "https://wetten.overheid.nl/BWBR0044744"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 25 januari 2021, nr. 26718194, tot wijziging van de Regeling aanvullende ondersteuning culturele en creatieve sector COVID-19 in verband met een tweede aanvullend steunpakket

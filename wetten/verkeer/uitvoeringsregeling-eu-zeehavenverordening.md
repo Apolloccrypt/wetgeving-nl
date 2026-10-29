@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0044859"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat en de Minister van Sociale Zaken en Werkgelegenheid, van 11 februari 2021, nr. IENW/BSK-2021/11012, houdende regels met betrekking tot de behandeling van klachten in het kader van de uitvoering van de EU-zeehavenverordening (Uitvoeringsregeling EU-zeehavenverordening)

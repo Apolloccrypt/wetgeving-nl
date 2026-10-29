@@ -9,7 +9,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBR0044030"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Beleidsregel van de Minister voor Basis- en Voortgezet Onderwijs en Media van 26 augustus 2020, nr. VO/25234365, tot nadere regels voor de verstrekking van een Dans- en Muzieklicentie voor scholen in het voortgezet onderwijs (Beleidsregel DAMU-licentie VO 2020)

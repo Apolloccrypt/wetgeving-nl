@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0044722"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties, de Minister van Economische Zaken en Klimaat, de Staatssecretaris van Financiën – Fiscaliteit en Belastingdienst, de Minister van Infrastructuur en Waterstaat, de Minister van Justitie en Veiligheid, de Minister van Landbouw, Natuur en Voedselkwaliteit, de Minister van Onderwijs, Cultuur en Wetenschap en de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 1 december 2020 tot aanvulling en wijziging van de Omgevingsregeling, intrekking en wijziging van andere regelingen en regeling van overgangsrecht voor de invoering van de Omgevingswet (Invoeringsregeling Omgevingswet)

@@ -9,7 +9,7 @@ laatste_update: 2026-06-24
 status: geldig
 toestand: 2026-06-24
 bron: "https://wetten.overheid.nl/BWBR0044863"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 10 februari 2021, nr. WJZ/18085049, houdende uitvoeringsbepalingen met betrekking tot plantgezondheid (Regeling plantgezondheid)

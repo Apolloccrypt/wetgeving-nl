@@ -9,7 +9,7 @@ laatste_update: 2022-06-07
 status: geldig
 toestand: 2022-06-07
 bron: "https://wetten.overheid.nl/BWBR0044587"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Wet van 16 december 2020 tot wijziging van de Auteurswet, de Wet op de naburige rechten, de Databankenwet en de Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten in verband met de implementatie van Richtlijn (EU) 2019/790 van het Europees parlement en de Raad van 17 april 2019 inzake auteursrechten en naburige rechten in de digitale eengemaakte markt en tot wijziging van de Richtlijnen 96/9/EG en 2001/29/EG (Implementatiewet richtlijn auteursrecht in de digitale eengemaakte markt)

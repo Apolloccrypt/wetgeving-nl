@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0044477"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Minister voor Medische Zorg van 30 november 2020, kenmerk 1782923-214367-Z, houdende wijziging van de Regeling zorgverzekering in verband met het vereenvoudigen van de wanbetalersbijdrage

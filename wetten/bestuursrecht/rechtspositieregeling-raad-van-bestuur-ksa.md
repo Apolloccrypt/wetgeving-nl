@@ -9,7 +9,7 @@ laatste_update: 2020-11-05
 status: geldig
 toestand: 2020-11-05
 bron: "https://wetten.overheid.nl/BWBR0044300"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Minister voor Rechtsbescherming van 26 oktober 2020 (kenmerk 2984427/20/DP&O), houdende regels met betrekking tot de rechtspositie van de voorzitter en de overige leden van de raad van bestuur van de Kansspelautoriteit (Rechtspositieregeling raad van bestuur Ksa)

@@ -9,7 +9,7 @@ laatste_update: 2021-12-08
 status: geldig
 toestand: 2021-12-08
 bron: "https://wetten.overheid.nl/BWBR0044318"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 6 november 2020, nr. 2020-0000602571, houdende vaststelling van regels voor het verstrekken van een eenmalige specifieke uitkering aan gemeenten ten behoeve van de huisvesting van kwetsbare doelgroepen

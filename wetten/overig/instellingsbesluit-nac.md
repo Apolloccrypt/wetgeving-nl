@@ -9,7 +9,7 @@ laatste_update: 2020-09-22
 status: geldig
 toestand: 2020-09-22
 bron: "https://wetten.overheid.nl/BWBR0044105"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat, van 8 september 2020, nr. IENW/BSK-2020/168657, tot instelling van een Nationale Adviesgroep Cabinelucht (Instellingsbesluit NAC)

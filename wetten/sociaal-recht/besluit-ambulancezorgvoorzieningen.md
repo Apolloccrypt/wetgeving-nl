@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0044443"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van 20 november 2020, houdende bepalingen inzake de uitwisseling van gegevens tussen Regionale Ambulancevoorzieningen en afdelingen spoedeisende hulp en aanpassingen van verschillende algemene maatregelen van bestuur vanwege de invoering van de Wet ambulancezorgvoorzieningen (Besluit ambulancezorgvoorzieningen)

@@ -8,7 +8,7 @@ laatste_update: 2020-10-25
 status: geldig
 toestand: 2020-10-25
 bron: "https://wetten.overheid.nl/BWBR0044255"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit vaststelling selectielijst College gerechtelijk deskundigen vanaf 1 januari 2010

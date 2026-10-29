@@ -9,7 +9,7 @@ laatste_update: 2020-10-13
 status: geldig
 toestand: 2020-10-13
 bron: "https://wetten.overheid.nl/BWBR0044198"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Minister van Financiën, van 24 september 2020, nr. 2020-177695, tot instelling van de Werkgroep Interdepartementaal Beleidsonderzoek (IBO) Agentschappen (Instellingsbesluit Werkgroep IBO Agentschappen)

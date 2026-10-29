@@ -9,7 +9,7 @@ laatste_update: 2025-01-26
 status: geldig
 toestand: 2025-01-26
 bron: "https://wetten.overheid.nl/BWBR0044858"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 10 februari 2021, nr. WJZ/ 20040426, tot vaststelling van bepalingen voor de implementatie van fytosanitaire uitvoeringsbesluiten (Regeling fytosanitaire uitvoeringsbesluiten)

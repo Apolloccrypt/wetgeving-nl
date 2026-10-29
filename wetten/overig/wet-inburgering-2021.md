@@ -9,7 +9,7 @@ laatste_update: 2025-10-21
 status: geldig
 toestand: 2025-10-21
 bron: "https://wetten.overheid.nl/BWBR0044770"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Wet van 2 december 2020, houdende regels over inburgering in de Nederlandse samenleving (Wet inburgering 2021)

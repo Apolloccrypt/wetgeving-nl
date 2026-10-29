@@ -9,7 +9,7 @@ laatste_update: 2020-09-09
 status: geldig
 toestand: 2020-09-09
 bron: "https://wetten.overheid.nl/BWBR0044067"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Secretaris-Generaal van het Ministerie van Volksgezondheid, Welzijn en Sport van 28 augustus 2020, kenmerk 1727117-208534-OBP, houdende het verlenen van ondermandaat en ondervolmacht aan de programmadirecteur van de programmadirectie COVID-19

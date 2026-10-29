@@ -9,7 +9,7 @@ laatste_update: 2020-11-20
 status: geldig
 toestand: 2020-11-20
 bron: "https://wetten.overheid.nl/BWBR0044330"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van 13 oktober 2020 houdende de oprichting bij de Koninklijke Landmacht van het Wapen van de Informatiemanoeuvre en de oprichting van het daaronder ressorterende Korps Inlichtingen en Veiligheid Prinses Alexia en het Korps Communicatie en Engagement Prinses Ariane

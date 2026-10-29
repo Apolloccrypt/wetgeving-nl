@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0044178"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 31 augustus 2020, 2020-0000036179, tot uitvoering van het Besluit onderstand BES (Regeling onderstand BES)

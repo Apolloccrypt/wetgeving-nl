@@ -9,7 +9,7 @@ laatste_update: 2021-12-01
 status: geldig
 toestand: 2021-12-01
 bron: "https://wetten.overheid.nl/BWBR0043990"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Wet van 24 juni 2020 tot wijziging van de Penitentiaire beginselenwet, het Wetboek van Strafrecht en enige andere wetten in verband met de wijziging van de regeling inzake detentiefasering en voorwaardelijke invrijheidstelling (Wet straffen en beschermen)

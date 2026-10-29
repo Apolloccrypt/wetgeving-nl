@@ -9,7 +9,7 @@ laatste_update: 2022-03-01
 status: geldig
 toestand: 2022-03-01
 bron: "https://wetten.overheid.nl/BWBR0044868"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Raad van Bestuur van Zorginstituut Nederland van 9 februari 2021 (kenmerk 2020049797), ter verdeling van de besteedbare middelen beheerskosten Wlz 2021

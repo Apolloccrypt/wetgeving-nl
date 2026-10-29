@@ -9,7 +9,7 @@ laatste_update: 2021-03-24
 status: geldig
 toestand: 2021-03-24
 bron: "https://wetten.overheid.nl/BWBR0044323"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Staatssecretaris van Financiën van 27 oktober 2020, nr. 2020-0000196116, tot wijziging van de Uitvoeringsregeling accijns

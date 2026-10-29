@@ -9,7 +9,7 @@ laatste_update: 2022-04-23
 status: geldig
 toestand: 2022-04-23
 bron: "https://wetten.overheid.nl/BWBR0044914"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-29
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport, de Minister voor Medische Zorg en de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 1 maart 2021, kenmerk 1822557-217968-PZo, houdende het opdragen van strafrechtelijke handhaving op terrein van de Jeugdwet, de Wet langdurige zorg, de Wet maatschappelijke ondersteuning 2015, de Wet marktordening gezondheidszorg en de Zorgverzekeringswet aan de Inspectie SZW en de intrekking van enkele verouderde regelingen (Regeling strafrechtelijke handhaving door de Inspectie SZW op het terrein van Jeugdwet, Wlz, Wmo 2015, Wmg en Zvw)

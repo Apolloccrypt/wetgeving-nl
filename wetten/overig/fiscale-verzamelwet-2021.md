@@ -9,7 +9,7 @@ laatste_update: 2021-06-03
 status: geldig
 toestand: 2021-06-03
 bron: "https://wetten.overheid.nl/BWBR0044364"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Wet van 11 november 2020 tot wijziging van enkele belastingwetten en enige andere wetten (Fiscale verzamelwet 2021)

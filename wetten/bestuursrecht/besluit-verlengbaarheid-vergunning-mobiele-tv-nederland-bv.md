@@ -9,7 +9,7 @@ laatste_update: 2020-10-20
 status: geldig
 toestand: 2020-10-20
 bron: "https://wetten.overheid.nl/BWBR0044229"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Staatssecretaris van Economische Zaken en Klimaat van 12 oktober 2020, nr. DGBI-DE/20217926, inzake de verlengbaarheid van de vergunning van Mobiele TV Nederland B.V. in band III (Besluit verlengbaarheid vergunning Mobiele TV Nederland B.V.)

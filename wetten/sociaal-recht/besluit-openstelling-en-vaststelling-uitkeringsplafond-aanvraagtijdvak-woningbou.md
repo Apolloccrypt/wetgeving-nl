@@ -9,7 +9,7 @@ laatste_update: 2021-03-26
 status: geldig
 toestand: 2021-03-26
 bron: "https://wetten.overheid.nl/BWBR0044109"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 16 september 2020, nr. 2020-0000552790, tot openstelling en vaststelling uitkeringsplafond aanvraagtijdvak Woningbouwimpuls

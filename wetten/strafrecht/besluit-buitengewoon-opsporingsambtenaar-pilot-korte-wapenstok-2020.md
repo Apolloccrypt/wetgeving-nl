@@ -9,7 +9,7 @@ laatste_update: 2020-12-31
 status: geldig
 toestand: 2020-12-31
 bron: "https://wetten.overheid.nl/BWBR0044601"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-29
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 21 december 2020, nr. BOACAT2020/066, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij een van de geselecteerde gemeente aan de pilot korte wapenstok
