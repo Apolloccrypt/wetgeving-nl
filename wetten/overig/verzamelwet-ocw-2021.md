@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0045554"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Wet van 14 juli 2021 tot wijziging van verschillende wetten op met name het terrein van onderwijs, cultuur en media in verband met voornamelijk wetstechnische en redactionele verbeteringen (Verzamelwet OCW 2021)

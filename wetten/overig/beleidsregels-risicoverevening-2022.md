@@ -9,7 +9,7 @@ laatste_update: 2026-01-20
 status: geldig
 toestand: 2026-01-20
 bron: "https://wetten.overheid.nl/BWBR0045725"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Beleidsregels van de Raad van Bestuur van Zorginstituut Nederland van 12 oktober 2021, kenmerk 2021031251, voor de toekenning en vaststelling van de vereveningsbijdrage aan zorgverzekeraars 2022 (Beleidsregels Risicoverevening 2022)

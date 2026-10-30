@@ -8,7 +8,7 @@ laatste_update: 2021-07-08
 status: geldig
 toestand: 2021-07-08
 bron: "https://wetten.overheid.nl/BWBR0045341"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit vaststelling selectielijst Centraal Bureau voor de Statistiek vanaf 2004 en Centrale Commissie voor de Statistiek voor de periode 2004–2016

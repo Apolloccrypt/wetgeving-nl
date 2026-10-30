@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0045237"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 8 juni 2021, kenmerk 2353779-1007921-WJZ, houdende regels ter uitvoering van de Alcoholwet (Alcoholregeling)

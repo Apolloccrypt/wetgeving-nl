@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0045504"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat en de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 19 maart 2021 tot wijziging van de Omgevingsregeling vanwege het opnemen van regels met het oog op de beheersing van geluid afkomstig van wegen, spoorwegen en industrieterreinen (Aanvullingsregeling geluid Omgevingswet)

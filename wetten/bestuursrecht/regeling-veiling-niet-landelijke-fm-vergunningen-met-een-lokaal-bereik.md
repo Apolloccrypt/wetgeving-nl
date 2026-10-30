@@ -9,7 +9,7 @@ laatste_update: 2021-07-17
 status: geldig
 toestand: 2021-07-17
 bron: "https://wetten.overheid.nl/BWBR0045414"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat van 9 juli 2021, nr. WJZ/ 20178120, houdende vaststelling van regels met betrekking tot de aanvraag en veiling van niet-landelijke commerciële FM-vergunningen met een lokaal bereik 2021 (Regeling veiling niet-landelijke FM-vergunningen met en lokaal bereik)

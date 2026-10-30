@@ -8,7 +8,7 @@ laatste_update: 2021-03-27
 status: geldig
 toestand: 2021-03-27
 bron: "https://wetten.overheid.nl/BWBR0044977"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # (Onder)Mandaatbesluit Politie beheer RST 2021

@@ -9,7 +9,7 @@ laatste_update: 2021-12-17
 status: geldig
 toestand: 2021-12-17
 bron: "https://wetten.overheid.nl/BWBR0045633"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 20 september 2021, nr. 2021-0000469865, houdende vaststelling van regels voor het verstrekken van eenmalige specifieke uitkeringen aan gemeenten ten behoeve van de bouw van woon- en verblijfsruimte voor aandachtsgroepen (Regeling specifieke uitkering tweede tranche voor huisvesting aandachtsgroepen)

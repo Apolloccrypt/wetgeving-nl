@@ -9,7 +9,7 @@ laatste_update: 2021-10-13
 status: geldig
 toestand: 2021-10-13
 bron: "https://wetten.overheid.nl/BWBR0045687"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Besluit van 11 oktober 2021 tot wijziging van het Reglement rijbewijzen in verband met de tijdelijke verlenging van de geldigheidsduur van het rijbewijs, getuigschrift van vakbekwaamheid en getuigschrift van nascholing in verband met COVID-19 en enkele andere wijzigingen (Tweede tijdelijk besluit verlenging geldigheidsduur rijbewijs in verband met COVID-19)

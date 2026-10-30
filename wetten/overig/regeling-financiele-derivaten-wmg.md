@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0045538"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 20 augustus 2021, kenmerk 3242401-1014062-PZO, houdende nadere regels voor het aantrekken van financiële derivaten door zorgaanbieders (Regeling financiële derivaten WMG)

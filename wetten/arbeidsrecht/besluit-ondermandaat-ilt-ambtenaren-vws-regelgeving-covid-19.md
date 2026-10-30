@@ -8,7 +8,7 @@ laatste_update: 2021-07-08
 status: geldig
 toestand: 2021-07-08
 bron: "https://wetten.overheid.nl/BWBR0045365"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit ondermandaat ILT-ambtenaren VWS-regelgeving covid-19

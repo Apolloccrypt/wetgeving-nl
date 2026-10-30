@@ -9,7 +9,7 @@ laatste_update: 2021-07-24
 status: geldig
 toestand: 2021-07-24
 bron: "https://wetten.overheid.nl/BWBR0045468"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Staatssecretaris van Financiën - Fiscaliteit en Belastingdienst, d.d. 14 juli 2021 kenmerk 2021 140356, houdende de instelling van de paritaire commissie advisering ontheffing geheimhoudingsplicht artikel 67 van de Algemene wet inzake rijksbelastingen dan wel artikel 67 van de Invorderingswet 1990 in het kader van fiscale integriteit (Besluit paritaire commissie ontheffing geheimhoudingsplicht fiscale integriteit)

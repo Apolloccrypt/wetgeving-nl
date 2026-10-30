@@ -8,7 +8,7 @@ laatste_update: 2021-10-21
 status: geldig
 toestand: 2021-10-21
 bron: "https://wetten.overheid.nl/BWBR0045712"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Besluit Vervanging Archiefbescheiden CJIB 2021

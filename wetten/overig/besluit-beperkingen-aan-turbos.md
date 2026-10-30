@@ -9,7 +9,7 @@ laatste_update: 2021-10-01
 status: geldig
 toestand: 2021-10-01
 bron: "https://wetten.overheid.nl/BWBR0045359"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van 30 juni 2021, houdende beperkingen aan het in Nederland op de markt brengen, verspreiden of het verkopen van turbo’s aan niet-professionele cliënten in verband met Verordening (EU) nr. 600/2014 van het Europees Parlement en de Raad van 15 mei 2014 en de Wet op het financieel toezicht (Besluit beperkingen aan turbo’s)

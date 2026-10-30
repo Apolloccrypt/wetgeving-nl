@@ -9,7 +9,7 @@ laatste_update: 2021-07-01
 status: geldig
 toestand: 2021-07-01
 bron: "https://wetten.overheid.nl/BWBR0045307"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 17 juni 2021, houdende regels met betrekking tot de verstrekking van eenmalige specifieke uitkeringen in het kader van het Bestuursakkoord Compensatiepakket Marinierskazerne dat op 26 juni 2020 is gesloten door de Staat der Nederlanden, de provincie Zeeland, de gemeente Vlissingen en het waterschap Scheldestromen (Regeling specifieke uitkeringen Wind in de Zeilen)

@@ -9,7 +9,7 @@ laatste_update: 2021-06-03
 status: geldig
 toestand: 2021-06-03
 bron: "https://wetten.overheid.nl/BWBR0045197"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van 28 mei 2021, nr. 2021001051, houdende een aanvullende tijdelijke voorziening voor de periode dat Minister B. van ‘t Wout niet in staat is zijn taken als Minister van Economische Zaken en Klimaat uit te oefenen

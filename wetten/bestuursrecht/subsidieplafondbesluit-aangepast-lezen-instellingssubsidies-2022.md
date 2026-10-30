@@ -8,7 +8,7 @@ laatste_update: 2021-06-15
 status: geldig
 toestand: 2021-06-15
 bron: "https://wetten.overheid.nl/BWBR0045222"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Subsidieplafondbesluit Aangepast Lezen Instellingssubsidies 2022

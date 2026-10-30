@@ -9,7 +9,7 @@ laatste_update: 2021-07-22
 status: geldig
 toestand: 2021-07-22
 bron: "https://wetten.overheid.nl/BWBR0045435"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Beleidsregels van de Minister voor Rechtsbescherming van 8 juli 2021, nr. 3386950, betreffende de afdracht voor de Nederlandse draf- en rensport uit de totalisator, bedoeld in artikel 23 van de Wet op de kansspelen (Beleidsregels totalisatorafdracht)

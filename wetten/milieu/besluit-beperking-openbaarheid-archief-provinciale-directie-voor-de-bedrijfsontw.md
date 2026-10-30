@@ -9,7 +9,7 @@ laatste_update: 2021-06-29
 status: geldig
 toestand: 2021-06-29
 bron: "https://wetten.overheid.nl/BWBR0045289"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit beperking openbaarheid met betrekking van het archief van de Provinciale Directie voor de Bedrijfsontwikkeling in Utrecht van het Ministerie van Landbouw, Natuur en Voedselkwaliteit, (1947) 1963–1983 (1984) Inventaris PDBU

@@ -9,7 +9,7 @@ laatste_update: 2021-05-29
 status: geldig
 toestand: 2021-05-29
 bron: "https://wetten.overheid.nl/BWBR0045167"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Directeur Eenheid Secretariaten Tuchtcolleges en Toetsingscommissies van het Ministerie van Volksgezondheid, Welzijn en Sport van 19 mei 2021, kenmerk 2356238-1008168-ESTT, houdende de verlening van Financieel ondervolmacht aan de secretariaatsmedewerkers

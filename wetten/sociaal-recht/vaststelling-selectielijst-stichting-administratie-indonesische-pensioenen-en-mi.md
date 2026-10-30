@@ -9,7 +9,7 @@ laatste_update: 2021-09-24
 status: geldig
 toestand: 2021-09-24
 bron: "https://wetten.overheid.nl/BWBR0045635"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Vaststelling selectielijst Stichting Administratie Indonesische Pensioenen en het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties inzake overzeese pensioenen en uitkeringen voor de periode vanaf 1951

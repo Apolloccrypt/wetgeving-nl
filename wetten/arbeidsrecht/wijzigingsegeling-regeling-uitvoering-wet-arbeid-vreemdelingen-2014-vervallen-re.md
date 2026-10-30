@@ -9,7 +9,7 @@ laatste_update: 2022-02-01
 status: geldig
 toestand: 2022-02-01
 bron: "https://wetten.overheid.nl/BWBR0045732"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 18 oktober 2021, 2021-0000162643, tot Wijziging van de Regeling uitvoering Wet arbeid vreemdelingen 2014 in verband met het vervallen van de regeling voor tewerkstelling van koks in de Aziatische horeca

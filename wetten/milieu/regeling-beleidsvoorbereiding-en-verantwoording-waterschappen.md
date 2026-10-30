@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0024848"
-opgehaald: 2026-10-23
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Staatssecretaris van Verkeer en Waterstaat, houdende voorschriften inzake de beleidsvoorbereiding en de verantwoording van waterschappen (Regeling beleidsvoorbereiding en verantwoording waterschappen)
@@ -64,7 +64,7 @@ De kosten- en opbrengstsoorten, bedoeld in de [artikelen 4.74, eerste lid, onder
 
 1. De uitvoeringsinformatie, bedoeld in de [artikelen 4.73](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=4.73), [4.74, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=4.74), [4.75, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=4.75), 4.74, zesde lid, en 4.75, vijfde lid, van het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023025) wordt ingedeeld volgens de door de Unie van Waterschappen vastgestelde afspraken voor bedrijfsvergelijking.
 
-2. De door de Unie van Waterschappen vastgestelde afspraken voor bedrijfsvergelijking, bedoeld in het eerste lid, zijn opgenomen op de website van de Unie van Waterschappen en gepubliceerd via www.uvw.nl, dossier ‘Verslaggeving waterschappen’.
+2. De door de Unie van Waterschappen vastgestelde afspraken voor bedrijfsvergelijking, bedoeld in het eerste lid, zijn opgenomen op de website van de Unie van Waterschappen en gepubliceerd via [www.uvw.nl](https://urldefense.com/v3/__https:/unievanwaterschappen.nl/themas/verslaggeving-en-accountantscontrole/__;!!KEc074MNZw!c-D5sQEbJP6fSuwdREjf95FopWs615ymSxjIQ49ekCcCDoFBoEkLripNUPv4pwKp__0izRmNwCz_iPH7Y_L8jI2ONAJxWZ0MgGw$), dossier ‘Verslaggeving waterschappen’.
 
 ##### Artikel 7
 

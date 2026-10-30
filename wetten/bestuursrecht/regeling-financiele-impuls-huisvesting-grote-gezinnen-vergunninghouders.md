@@ -9,7 +9,7 @@ laatste_update: 2021-07-15
 status: geldig
 toestand: 2021-07-15
 bron: "https://wetten.overheid.nl/BWBR0045362"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Staatssecretaris van Justitie en Veiligheid van 29 juni 2021, nr. 3378999, houdende een eenmalige specifieke uitkering voor gemeenten in verband met het stimuleren van versnelde huisvesting en begeleiding van grote gezinnen vergunninghouders die verblijven op de opvanglocaties van het Centraal Orgaan opvang asielzoekers (Financiële impuls huisvesting grote gezinnen vergunninghouders)

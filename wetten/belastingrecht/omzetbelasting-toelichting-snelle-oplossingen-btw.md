@@ -8,7 +8,7 @@ laatste_update: 2024-10-11
 status: geldig
 toestand: 2024-10-11
 bron: "https://wetten.overheid.nl/BWBR0045068"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Omzetbelasting. Toelichting snelle oplossingen btw

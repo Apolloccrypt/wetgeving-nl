@@ -8,7 +8,7 @@ laatste_update: 2021-09-17
 status: geldig
 toestand: 2021-09-17
 bron: "https://wetten.overheid.nl/BWBR0045621"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Besluit beperking openbaarheid archief Provinciale Directie voor de Bedrijfsontwikkeling in Zeeland, Ministerie van LNV, (1962) 1963-1983 (1985) Inventaris PDBZ

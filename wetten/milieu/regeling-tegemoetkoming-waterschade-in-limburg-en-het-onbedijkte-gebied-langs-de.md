@@ -9,7 +9,7 @@ laatste_update: 2022-06-29
 status: geldig
 toestand: 2022-06-29
 bron: "https://wetten.overheid.nl/BWBR0045602"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 2 september 2021, nr. 3512514, houdende regeling van de tegemoetkoming in de waterschade in Limburg en het onbedijkte gebied langs de Maas in Noord-Brabant in juli 2021 (Regeling tegemoetkoming waterschade in Limburg en het onbedijkte gebied langs de Maas in Noord-Brabant in juli 2021)

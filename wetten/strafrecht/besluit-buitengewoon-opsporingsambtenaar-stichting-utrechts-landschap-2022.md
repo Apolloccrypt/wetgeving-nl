@@ -9,7 +9,7 @@ laatste_update: 2022-01-31
 status: geldig
 toestand: 2022-01-31
 bron: "https://wetten.overheid.nl/BWBR0045663"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 21 september 2021 nr. BOACAT2021/047, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Stichting Utrechts Landschap

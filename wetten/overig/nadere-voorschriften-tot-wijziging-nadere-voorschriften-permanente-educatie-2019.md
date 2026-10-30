@@ -9,7 +9,7 @@ laatste_update: 2021-03-31
 status: geldig
 toestand: 2021-03-31
 bron: "https://wetten.overheid.nl/BWBR0044988"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Nadere voorschriften van 9 maart 2021 houdende regels tot wijziging van de Nadere voorschriften Permanente Educatie 2019

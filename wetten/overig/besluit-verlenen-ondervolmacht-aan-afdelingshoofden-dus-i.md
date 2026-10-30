@@ -9,7 +9,7 @@ laatste_update: 2021-06-01
 status: geldig
 toestand: 2021-06-01
 bron: "https://wetten.overheid.nl/BWBR0045178"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van Directeur DUS-I van het Ministerie van Volksgezondheid, Welzijn en Sport van 21 april 2021, kenmerk 2350232-1007503, betreffende het verlenen van een ondervolmacht aan de afdelingshoofden van DUS-I

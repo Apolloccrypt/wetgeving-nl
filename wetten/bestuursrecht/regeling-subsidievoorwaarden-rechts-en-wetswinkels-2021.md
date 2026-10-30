@@ -8,7 +8,7 @@ laatste_update: 2021-04-30
 status: geldig
 toestand: 2021-04-30
 bron: "https://wetten.overheid.nl/BWBR0045081"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Regeling subsidievoorwaarden rechts- en wetswinkels 2021

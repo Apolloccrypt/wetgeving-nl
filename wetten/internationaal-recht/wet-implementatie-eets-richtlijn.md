@@ -9,7 +9,7 @@ laatste_update: 2021-10-19
 status: geldig
 toestand: 2021-10-19
 bron: "https://wetten.overheid.nl/BWBR0045586"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Wet van 7 juli 2021, houdende regels voor de implementatie van Richtlijn (EU) 2019/520 van het Europese Parlement en de Raad van 19 maart 2019 betreffende de interoperabiliteit van elektronische tolheffingssystemen voor het wegverkeer en ter facilitering van de grensoverschrijdende uitwisseling van informatie over niet-betaling van wegentol in de Unie (Wet implementatie EETS-richtlijn)

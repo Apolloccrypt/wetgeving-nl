@@ -8,7 +8,7 @@ laatste_update: 2021-08-04
 status: geldig
 toestand: 2021-08-04
 bron: "https://wetten.overheid.nl/BWBR0045492"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Instellingsbesluit Adviescollege Voorwaardelijke Invrijheidstelling

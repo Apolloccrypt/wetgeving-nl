@@ -5,11 +5,12 @@ identifier: "BWBR0046608"
 categorie: "Overig"
 soort: "ministeriele-regeling"
 publicatiedatum: 2022-05-01
-laatste_update: 2022-05-01
-status: geldig
-toestand: 2022-05-01
+laatste_update: 2026-01-01
+status: vervallen
+vervallen_op: 2026-10-19
+toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0046608"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de directeur-generaal DUO van 21 april 2022, nr. HD.022.054, tot het stellen van nadere eisen bij het schriftelijk indienen van verzoeken en gebruik van de elektronische weg bij verzoeken op grond van Wet open overheid
@@ -40,9 +41,9 @@ woo-verzoeken@duo.nl
 
 ##### Artikel 4
 
-1. Ten einde een vlotte behandeling van verzoeken zoals bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046608&artikel=1&z=2022-05-01&g=2022-05-01), te bespoedigen is een Woo-formulier vastgesteld, dat is opgenomen in [bijlage 1](https://wetten.overheid.nl/BWBR0046608) bij deze regeling.
+1. Ten einde een vlotte behandeling van verzoeken zoals bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046608&artikel=1&z=2022-05-01&g=2026-01-01), te bespoedigen is een Woo-formulier vastgesteld, dat is opgenomen in [bijlage 1](https://wetten.overheid.nl/BWBR0046608) bij deze regeling.
 
-2. Dit formulier is elektronisch beschikbaar via www.duo.nl en wordt op verzoek per post toegezonden.
+2. Dit formulier is elektronisch beschikbaar via [www.duo.nl](http://www.duo.nl) en wordt op verzoek per post toegezonden.
 
 3. Het gebruik van het Woo-formulier is niet verplicht.
 

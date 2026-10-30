@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0045649"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 21 september 2021, kenmerk 3255145-1015194-PZo, houdende nadere regels over de jaarverantwoording op grond van artikel 40b van de Wet marktordening gezondheidszorg (Regeling openbare jaarverantwoording WMG)

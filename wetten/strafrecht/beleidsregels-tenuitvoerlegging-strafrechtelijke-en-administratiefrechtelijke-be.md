@@ -9,7 +9,7 @@ laatste_update: 2024-04-01
 status: geldig
 toestand: 2024-04-01
 bron: "https://wetten.overheid.nl/BWBR0045326"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Beleidsregels van de Minister voor Rechtsbescherming van 28 juni 2021, kenmerk 2772918, betreffende de tenuitvoerlegging strafrechtelijke beslissingen (Beleidsregels tenuitvoerlegging strafrechtelijke en administratiefrechtelijke beslissingen 2021)

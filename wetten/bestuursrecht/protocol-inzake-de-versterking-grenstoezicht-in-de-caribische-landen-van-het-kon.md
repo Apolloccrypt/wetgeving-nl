@@ -8,7 +8,7 @@ laatste_update: 2021-02-05
 status: geldig
 toestand: 2021-02-05
 bron: "https://wetten.overheid.nl/BWBR0045143"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Protocol inzake de Versterking grenstoezicht in de Caribische landen van het Koninkrijk van 05-02-2021

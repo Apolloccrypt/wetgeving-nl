@@ -9,7 +9,7 @@ laatste_update: 2024-05-04
 status: geldig
 toestand: 2024-05-04
 bron: "https://wetten.overheid.nl/BWBR0044993"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 28 maart 2021, nr. IENW/BSK-2021/69344, houdende tijdelijke regels inzake een specifieke uitkering ten behoeve van het oppakken van buitenproportionele opgaven inzake bodem en het afronden van oude afspraken ter overbrugging van te maken afspraken daarover onder de Omgevingswet (Tijdelijke regeling specifieke uitkering bodem overbruggingsjaar 2021)

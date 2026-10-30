@@ -9,7 +9,7 @@ laatste_update: 2021-07-01
 status: geldig
 toestand: 2021-07-01
 bron: "https://wetten.overheid.nl/BWBR0044964"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van 15 maart 2021, houdende wijziging van het Besluit openbaarmaking toezicht- en uitvoeringsgegevens Gezondheidswet en Jeugdwet

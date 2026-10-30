@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-05-10
 toestand: 2024-01-30
 bron: "https://wetten.overheid.nl/BWBR0045114"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 13 mei 2021, nr. BOACAT2021/017, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Breda

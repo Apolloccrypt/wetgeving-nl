@@ -9,7 +9,7 @@ laatste_update: 2025-02-28
 status: geldig
 toestand: 2025-02-28
 bron: "https://wetten.overheid.nl/BWBR0045758"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 26 oktober 2021, kenmerk 3275465-1017787-DMO, houdende het verstrekken van een specifieke uitkering voor het lokaal versterken van de functie van cliëntondersteuning (Regeling specifieke uitkering versterking cliëntondersteuning)

@@ -9,7 +9,7 @@ laatste_update: 2021-04-01
 status: geldig
 toestand: 2021-04-01
 bron: "https://wetten.overheid.nl/BWBR0044958"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Secretaris-Generaal van het Ministerie van Volksgezondheid, Welzijn en Sport, van 12 maart 2021, kenmerk 1841400-219512-OBP, houdende het verlenen van ondermandaat en ondervolmachten aan de directeur ter coördinatie van de COVID-19-programma’s

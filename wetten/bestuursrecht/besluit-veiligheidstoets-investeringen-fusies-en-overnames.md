@@ -5,11 +5,11 @@ identifier: "BWBR0048204"
 categorie: "Overig"
 soort: "AMvB"
 publicatiedatum: 2023-06-01
-laatste_update: 2023-06-01
+laatste_update: 2026-10-24
 status: geldig
-toestand: 2023-06-01
+toestand: 2026-10-24
 bron: "https://wetten.overheid.nl/BWBR0048204"
-opgehaald: 2026-09-04
+opgehaald: 2026-10-30
 ---
 
 # Besluit van 4 mei 2023, houdende voorschriften ter uitvoering van de Wet veiligheidstoets investeringen, fusies en overnames en tot wijziging van het Besluit justitiële en strafvorderlijke gegevens (Besluit veiligheidstoets investeringen, fusies en overnames)
@@ -84,7 +84,7 @@ In dit besluit en de daarop berustende bepalingen wordt onder *wet* verstaan: de
 
 ##### Artikel 7
 
-De Kamer van Koophandel verstrekt desgevraagd alle informatie aan Onze Minister met betrekking tot [artikel 15a van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=15a) en [artikel 5 van de Implementatiewet registratie uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies](https://wetten.overheid.nl/jci1.3:c:BWBR0046156&artikel=5).
+*Vervallen*
 
 ##### Artikel 8
 
@@ -96,7 +96,7 @@ De bewaartermijn van de persoonsgegevens die op grond van de [wet](https://wette
 
 2. De bewaartermijn van de gegevens, bedoeld in het eerste lid, is maximaal 12 maanden.
 
-3. In afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048204&artikel=8&z=2023-06-01&g=2023-06-01) geldt de bewaartermijn, bedoeld in het tweede lid, ook voor persoonsgegevens waarover de beursgenoteerde doelonderneming beschikt, naar aanleiding van een informatieverzoek als bedoeld in het eerste lid.
+3. In afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048204&artikel=8&z=2026-10-24&g=2026-10-24) geldt de bewaartermijn, bedoeld in het tweede lid, ook voor persoonsgegevens waarover de beursgenoteerde doelonderneming beschikt, naar aanleiding van een informatieverzoek als bedoeld in het eerste lid.
 
 4. De beursgenoteerde doelonderneming draagt onverwijld zorg voor vernietiging van de gegevens, bedoeld in het eerste lid, voor het verstrijken van de termijn, bedoeld in het tweede lid.
 

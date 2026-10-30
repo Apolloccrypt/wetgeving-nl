@@ -9,7 +9,7 @@ laatste_update: 2021-08-27
 status: geldig
 toestand: 2021-08-27
 bron: "https://wetten.overheid.nl/BWBR0045532"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 17 augustus 2021, houdende regels inzake mandaat voor de bevoegdheden genoemd in artikel 7, tweede lid, van de Bekendmakingswet en artikel 2.6 van de Regeling elektronische publicaties (Mandaatbesluit Minister van Binnenlandse Zaken en Koninkrijksrelaties bevoegdheden artikel 7, tweede lid, Bekendmakingswet en artikel 2.6 Regeling elektronische publicaties)

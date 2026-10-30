@@ -9,7 +9,7 @@ laatste_update: 2022-09-16
 status: geldig
 toestand: 2022-09-16
 bron: "https://wetten.overheid.nl/BWBR0044978"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 23 maart 2021, nr. Min-Buza.2021.7678-22, houdende instelling van de Commissie van onderzoek inzake het Non Lethal Assistance (NLA) programma dat de Nederlandse regering van 2015 tot 2018 in Syrië heeft uitgevoerd (Instellingsbesluit Commissie van onderzoek NLA-programma in Syrië)

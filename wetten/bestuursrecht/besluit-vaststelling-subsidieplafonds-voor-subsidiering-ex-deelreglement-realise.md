@@ -9,7 +9,7 @@ laatste_update: 2021-05-01
 status: geldig
 toestand: 2021-05-01
 bron: "https://wetten.overheid.nl/BWBR0045201"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de directeur-bestuurder van het Nederlands Fonds voor de Film tot vaststelling van de subsidieplafonds voor subsidiëring op grond van het Deelreglement Realisering en het Deelreglement Distributie

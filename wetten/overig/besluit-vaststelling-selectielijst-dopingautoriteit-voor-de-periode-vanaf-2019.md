@@ -8,7 +8,7 @@ laatste_update: 2021-06-13
 status: geldig
 toestand: 2021-06-13
 bron: "https://wetten.overheid.nl/BWBR0045217"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit vaststelling selectielijst Dopingautoriteit voor de periode vanaf 2019

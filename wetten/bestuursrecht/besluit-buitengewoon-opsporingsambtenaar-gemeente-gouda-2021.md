@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-07-21
 toestand: 2021-07-22
 bron: "https://wetten.overheid.nl/BWBR0045441"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 21 juli 2021 nr. BOACAT2021/031, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Gouda

@@ -9,7 +9,7 @@ laatste_update: 2021-07-01
 status: geldig
 toestand: 2021-07-01
 bron: "https://wetten.overheid.nl/BWBR0045238"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Beleidsregel van de Minister van Sociale Zaken en Werkgelegenheid van 8 juni 2021, nr. 2021-0000026520, tot vaststelling van beleidsregels op grond van de Wet arbeid vreemdelingen BES (Beleidsregel RCN-Unit SZW toepassing arbeidsmarkttoets Wav BES Bonaire)

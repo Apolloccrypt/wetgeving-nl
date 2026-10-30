@@ -9,7 +9,7 @@ laatste_update: 2021-10-19
 status: geldig
 toestand: 2021-10-19
 bron: "https://wetten.overheid.nl/BWBR0045688"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Wet van 29 september 2021 tot wijziging van de Wet op het financieel toezicht en de Faillissementswet in verband met de implementatie van Richtlijn (EU) 2019/2034 van het Europees Parlement en de Raad van 27 november 2019 betreffende het prudentiële toezicht op beleggingsondernemingen en tot wijziging van Richtlijnen 2002/87/EG, 2009/65/EG, 2011/61/EU, 2013/36/EU, 2014/59/EU en 2014/65/EU (PbEU 2019, L 314), alsmede in verband met de uitvoering van Verordening (EU) 2019/2033 van het Europees Parlement en de Raad van 27 november 2019 betreffende prudentiële vereisten voor beleggingsondernemingen en tot wijziging van Verordeningen (EU) nr. 1093/2010, (EU) nr. 575/2013, (EU) nr. 600/2014 en (EU) nr. 806/2014 (PbEU 2019, L 314) (Implementatiewet richtlijn prudentieel toezicht beleggingsondernemingen)

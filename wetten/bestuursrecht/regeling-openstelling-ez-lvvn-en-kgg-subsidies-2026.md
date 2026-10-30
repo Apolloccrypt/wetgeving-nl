@@ -5,11 +5,11 @@ identifier: "BWBR0052002"
 categorie: "Milieu"
 soort: "ministeriele-regeling"
 publicatiedatum: 2026-01-01
-laatste_update: 2026-10-22
+laatste_update: 2026-10-23
 status: geldig
-toestand: 2026-10-22
+toestand: 2026-10-23
 bron: "https://wetten.overheid.nl/BWBR0052002"
-opgehaald: 2026-10-27
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Minister van Economische Zaken, de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur en de Minister van Klimaat en Groene Groei, van 13 december 2025, nr. WJZ/102735469, tot vaststelling van de subsidieplafonds en termijnen van openstelling van EZ-subsidie-instrumenten, LVVN-subsidie-instrumenten en KGG-subsidie-instrumenten (Regeling openstelling EZ-, LVVN- en KGG-subsidies 2026) [KetenID WGK 28368]
@@ -95,8 +95,8 @@ opgehaald: 2026-10-27
 | Titel 3.30 Circular Plastics NL | 3.30.2 | Circular Plastics NL-onderzoeksprojecten |  | 21 april 2026 t/m 6 oktober 2026 | € 3.000.000 |
 |  |  | Circular Plastics NL-showcase projecten |  | 21 april t/m 6 oktober 2026 | € 37.000.000 |
 | Titel 3.32: BioBased Circular | Artikel 3.32.2 |  |  | 26 februari 2026 t/m 22 oktober 2026 | € 4.000.000 |
-| Titel 4.2: Energie-innovatie | 4.2.9 | Energie & Klimaat Onderzoek en Ontwikkeling (EKOO) | Onderdeel A. Elektriciteit | 22-04-2026 t/m 28-05-2026 | € 7.000.000 |
-|  |  |  | Onderdeel C: Industrie | 01-04-2026 t/m 13-05-2026 | € 7.000.000 |
+| Titel 4.2: Energie-innovatie | 4.2.9 | Energie & Klimaat Onderzoek en Ontwikkeling (EKOO) | Onderdeel A. Elektriciteit | 22-04-2026 t/m 28-05-2026 | € 8.678.465 |
+|  |  |  | Onderdeel C: Industrie | 01-04-2026 t/m 13-05-2026 | € 8.379.313 |
 |  |  |  | Onderdeel D: Circulaire economie, 1. Circulaire economie, anders dan circulaire plastics, biobased circulair en kritieke grondstoffen | 22-10-2026 t/m 03-12-2026 | € 2.500.000 |
 |  |  |  | Onderdeel D: Circulaire economie, 3. Biobased circular innovatiethema’s 3.1, 3.4, 3.5 en 3.6 | 01-04-2026 t/m 22-04-2026 | € 3.000.000 |
 |  |  |  | Onderdeel D: Circulaire economie, 3. Biobased circular alle innovatiethema’s | 18-05-2026 t/m 20-08-2026 | € 3.000.000 |
@@ -116,9 +116,9 @@ opgehaald: 2026-10-27
 |  |  |  | 4. Carbon capture, utilisation, and storage (CCUS) | 16-02-2026 t/m 16-03-2026 | € 3.000.000 |
 |  | 4.2.113 | Studies voor duurzame industrie (STUDI) | Programmalijn 1: CO2-reducerende maatregelen anders dan waterstof en groene chemie | 01-05-2025 t/m 31-03-2026 | € 26.300.000 |
 |  |  |  | Programmalijn 2: Waterstof en groene chemie | 01-05-2025 t/m 31-03-2026 | € 10.000.000 |
-|  |  |  | Programmalijn 1: CO2-reducerende maatregelen anders dan waterstof en groene chemie en vergassing van reststromen | 18-05-2026 t/m 31-03-2026 | € 28.300.000 |
-|  |  |  | Programmalijn 2: Waterstof en groene chemie | 18-05-2026 t/m 31-03-2026 | € 10.000.000 |
-|  |  |  | Programmalijn 3: Vergassing van reststromen | 18-05-2026 t/m 31-03-2026 | € 7.500.000 |
+|  |  |  | Programmalijn 1: CO2-reducerende maatregelen anders dan waterstof en groene chemie en vergassing van reststromen | 18-05-2026 t/m 31-03-2027 | € 28.300.000 |
+|  |  |  | Programmalijn 2: Waterstof en groene chemie | 18-05-2026 t/m 31-03-2027 | € 10.000.000 |
+|  |  |  | Programmalijn 3: Vergassing van reststromen | 18-05-2026 t/m 31-03-2027 | € 7.500.000 |
 | Titel 4.4: Indirecte emissiekosten ETS | 4.4.2 |  |  | 3-08-2026 t/m 30-09-2026 | € 318.239.000 |
 | Titel 4.5: Investeringssubsidie duurzame energie en energiebesparing (ISDE) | 4.5.2, tweede lid, onderdelen a en b, derde, vierde en vijfde lid | Investeringssubsidie voor de investering in: 1. een ruimteverwarmingstoestel, waterverwarmingstoestel of zonneboiler; 2. energiebesparende isolatiemaatregelen of energiebesparende isolatiemaatregelen in combinatie met één ventilatiemaatregel; 3. de aansluiting op een warmtenet; of 4. een voorziening voor elektrisch koken, |  | 01-01-2026 t/m 31-12-2026 | € 500.000.000 |
 |  | 4.5.2, tweede lid, onderdeel c | Investeringssubsidie voor de investering in installaties voor de productie van hernieuwbare elektriciteit met één of meer windturbines |  | 01-01-2026 t/m 31-12-2026 | € 5.000.000 |

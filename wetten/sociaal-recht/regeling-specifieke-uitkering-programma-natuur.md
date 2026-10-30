@@ -9,7 +9,7 @@ laatste_update: 2024-01-11
 status: geldig
 toestand: 2024-01-11
 bron: "https://wetten.overheid.nl/BWBR0045066"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 19 april 2021, nr. WJZ/ 21105834, houdende regels voor het verstrekken van eenmalige specifieke uitkeringen in verband met de uitvoering van het Uitvoeringsprogramma Natuur (Regeling specifieke uitkering Programma Natuur)

@@ -9,7 +9,7 @@ laatste_update: 2021-08-31
 status: geldig
 toestand: 2021-08-31
 bron: "https://wetten.overheid.nl/BWBR0045541"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 20 augustus 2021, kenmerk 3227386-1012525-J, tot uitvoering van de Uitvoeringswet Erasmusprogramma en programma Europees Solidariteitskorps VWS

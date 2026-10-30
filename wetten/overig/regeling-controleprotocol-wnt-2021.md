@@ -9,7 +9,7 @@ laatste_update: 2021-07-01
 status: geldig
 toestand: 2021-07-01
 bron: "https://wetten.overheid.nl/BWBR0045243"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 1 juni 2021, 2021-0000290770, houdende vaststelling van het Controleprotocol Wet normering topinkomens 2021 (Regeling Controleprotocol WNT 2021)

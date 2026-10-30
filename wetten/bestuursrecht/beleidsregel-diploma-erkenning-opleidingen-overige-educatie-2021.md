@@ -9,7 +9,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBR0045183"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 25 mei 2021 nr. MBO/25782734, houdende beleid over de wijze waarop de bevoegdheid wordt uitgeoefend tot het verlenen van het recht op diploma-erkenning als bedoeld in artikel 1.4a.1 van de Wet educatie en beroepsonderwijs voor opleidingen overige educatie als bedoeld in artikel 7.3.1, eerste lid, onder b tot en met f, van de Wet educatie en beroepsonderwijs (Beleidsregel diploma-erkenning opleidingen overige educatie (2021))

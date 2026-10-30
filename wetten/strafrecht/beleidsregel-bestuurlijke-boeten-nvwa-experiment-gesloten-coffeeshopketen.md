@@ -9,7 +9,7 @@ laatste_update: 2025-09-19
 status: geldig
 toestand: 2025-09-19
 bron: "https://wetten.overheid.nl/BWBR0045253"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister voor Medische Zorg en de Minister van Justitie en Veiligheid van 15 juni 2021, houdende de vaststelling van een beleidsregel inzake het opleggen van bestuurlijke boeten door de Nederlandse Voedsel- en Warenautoriteit voor het overtreden van het bepaalde bij of krachtens het Besluit experiment gesloten coffeeshopketen waarop de Nederlandse Voedsel- en Warenautoriteit kan handhaven (Beleidsregel bestuurlijke boeten NVWA-experiment gesloten coffeeshopketen)

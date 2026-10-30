@@ -8,7 +8,7 @@ laatste_update: 2021-06-13
 status: geldig
 toestand: 2021-06-13
 bron: "https://wetten.overheid.nl/BWBR0045216"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit vaststelling selectielijst Stichting Nidos voor de periode vanaf 1 november 1995

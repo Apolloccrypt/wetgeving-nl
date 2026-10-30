@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0045235"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Staatssecretaris van Financiën van 11 juni 2021 houdende instelling van een tijdelijke commissie voor beoordeling van verzoeken om aanvullende schadevergoeding voor werkelijke schade (Instellingsregeling Commissie aanvullende schadevergoeding werkelijke schade)

@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-06-03
 toestand: 2021-04-01
 bron: "https://wetten.overheid.nl/BWBR0045019"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Wet van 24 maart 2021 tot wijziging van Boek 7 van het Burgerlijk Wetboek, de Uitvoeringswet huurprijzen woonruimte en de Woningwet (tijdelijke huurkorting)

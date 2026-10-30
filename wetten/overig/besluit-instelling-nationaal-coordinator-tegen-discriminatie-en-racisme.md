@@ -9,7 +9,7 @@ laatste_update: 2021-10-19
 status: geldig
 toestand: 2021-10-19
 bron: "https://wetten.overheid.nl/BWBR0045706"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 14 oktober 2021, nr. 2021-0000494844, houdende instelling van de Nationaal Coördinator tegen Discriminatie en Racisme

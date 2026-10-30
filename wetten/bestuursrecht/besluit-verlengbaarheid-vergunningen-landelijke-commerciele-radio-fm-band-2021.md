@@ -9,7 +9,7 @@ laatste_update: 2021-08-31
 status: geldig
 toestand: 2021-08-31
 bron: "https://wetten.overheid.nl/BWBR0045546"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Staatssecretaris van Economische Zaken en Klimaat van 26 augustus 2021 nr. DGBI/212 14 203, inzake de verlengbaarheid van vergunningen voor landelijke commerciële radio-omroepen in de FM-band

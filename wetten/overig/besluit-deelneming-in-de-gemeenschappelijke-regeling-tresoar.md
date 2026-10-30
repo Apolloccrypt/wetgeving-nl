@@ -9,7 +9,7 @@ laatste_update: 2021-09-17
 status: geldig
 toestand: 2021-09-17
 bron: "https://wetten.overheid.nl/BWBR0045393"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister voor Basis- en Voortgezet Onderwijs en Media van houdende deelneming in de Gemeenschappelijke regeling Tresoar

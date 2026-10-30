@@ -8,7 +8,7 @@ laatste_update: 2021-09-17
 status: geldig
 toestand: 2021-09-17
 bron: "https://wetten.overheid.nl/BWBR0045620"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Besluit beperking openbaarheid archief Hoofdingenieur-directeur voor de Landinrichting, Grond- en Bosbeheer Limburg, Ministerie van LNV, (1943) 1955-1985 (1991) Inventaris 07.F24

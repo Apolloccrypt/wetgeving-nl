@@ -9,7 +9,7 @@ laatste_update: 2021-07-08
 status: geldig
 toestand: 2021-07-08
 bron: "https://wetten.overheid.nl/BWBR0045363"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 25 juni 2021, nr. HO&S/28475203, tot het verlenen van mandaat ten aanzien van procedurele besluiten bij accreditaties in het hoger onderwijs aan DG DUO (Mandaatbesluit verlengingsbesluiten accreditatie hoger onderwijs)

@@ -9,7 +9,7 @@ laatste_update: 2022-02-08
 status: geldig
 toestand: 2022-02-08
 bron: "https://wetten.overheid.nl/BWBR0045008"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de algemeen directeur van de Dienst JUSTIS van het Ministerie van Justitie en Veiligheid van 24 februari 2021, nr. 3216722, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan onder de algemeen directeur ressorterende ambtenaren (Mandaatbesluit Dienst JUSTIS 2020)

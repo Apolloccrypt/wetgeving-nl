@@ -8,7 +8,7 @@ laatste_update: 2021-09-30
 status: geldig
 toestand: 2021-09-30
 bron: "https://wetten.overheid.nl/BWBR0045648"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Inkomstenbelasting, eigenwoningrente; betaalpauze voor rente en aflossing eigenwoningschuld

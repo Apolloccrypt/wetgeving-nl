@@ -9,7 +9,7 @@ laatste_update: 2023-06-20
 status: geldig
 toestand: 2023-06-20
 bron: "https://wetten.overheid.nl/BWBR0045176"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Wet van 26 mei 2021 tot wijziging van de Wet publieke gezondheid in verband met het stellen van tijdelijke regels over de inzet van coronatoegangsbewijzen bij de bestrijding van het virus SARS-CoV-2 (Tijdelijke wet coronatoegangsbewijzen)

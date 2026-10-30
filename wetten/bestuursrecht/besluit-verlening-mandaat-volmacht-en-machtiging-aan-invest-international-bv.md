@@ -9,7 +9,7 @@ laatste_update: 2023-02-01
 status: geldig
 toestand: 2023-02-01
 bron: "https://wetten.overheid.nl/BWBR0045642"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 17 september 2021, nr. Min-BuZa.2021.9219-10, tot verlening van mandaat, volmacht en machtiging aan Invest International B.V.

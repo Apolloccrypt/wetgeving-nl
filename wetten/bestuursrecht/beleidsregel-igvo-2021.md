@@ -9,7 +9,7 @@ laatste_update: 2024-08-01
 status: geldig
 toestand: 2024-08-01
 bron: "https://wetten.overheid.nl/BWBR0045242"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Beleidsregel van de Minister voor Basis- en Voortgezet Onderwijs en Media van 7 juni 2021, nr. VO/28225728, betreffende cursussen internationaal georiënteerd voortgezet onderwijs (Beleidsregel IGVO 2021)

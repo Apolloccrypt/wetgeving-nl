@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0044970"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Wet van 10 maart 2021 tot wijziging van de Wet natuurbescherming en de Omgevingswet (stikstofreductie en natuurverbetering)

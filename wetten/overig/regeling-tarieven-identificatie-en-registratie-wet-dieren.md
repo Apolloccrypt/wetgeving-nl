@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0045050"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 12 april 2021, nr. WJZ/ 21073844, houdende vaststelling van tarieven van retributies voor identificatie en registratie Wet dieren (Regeling tarieven identificatie en registratie Wet dieren)

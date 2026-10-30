@@ -9,7 +9,7 @@ laatste_update: 2021-09-12
 status: geldig
 toestand: 2021-09-12
 bron: "https://wetten.overheid.nl/BWBR0045601"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Vaststelling selectielijst van DARE!! Services B.V. voor de periode vanaf 19 maart 1998

@@ -8,7 +8,7 @@ laatste_update: 2021-09-17
 status: geldig
 toestand: 2021-09-17
 bron: "https://wetten.overheid.nl/BWBR0045614"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Besluit beperking openbaarheid van het archief van de Provinciale Directie voor de Bedrijfsontwikkeling in Noord-Holland van het Ministerie van Landbouw, Natuur en Voedselkwaliteit, (1947) 1963–1983 (1995) Inventaris PDBNH

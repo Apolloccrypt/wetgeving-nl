@@ -9,7 +9,7 @@ laatste_update: 2021-04-24
 status: geldig
 toestand: 2021-04-24
 bron: "https://wetten.overheid.nl/BWBR0045069"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Wet van 7 april 2021 tot wijziging van de Wegenverkeerswet 1994 en de Wet rijonderricht motorrijtuigen 1993 in verband met het niet meer opleggen van het alcoholslotprogramma in het bestuursrecht

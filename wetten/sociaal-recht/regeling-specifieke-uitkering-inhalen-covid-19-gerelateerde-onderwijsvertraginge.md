@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0045681"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Minister voor Basis- en Voorgezet Onderwijs en Media van 30 september, nr. KO/28085678, houdende regels voor het verstrekken van specifieke uitkeringen voor het stimuleren van gemeentelijke maatregelen om COVID-19 gerelateerde onderwijsvertragingen in te lopen

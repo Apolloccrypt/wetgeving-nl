@@ -9,7 +9,7 @@ laatste_update: 2021-07-22
 status: geldig
 toestand: 2021-07-22
 bron: "https://wetten.overheid.nl/BWBR0045442"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat, van 18 juli 2021, nr. IENW/BSK-2021/201382, houdende mandatering van de Directeur Kustwacht tot bevoegde autoriteit voor maritieme beveiliging als bedoeld in artikel 6 van de verordening (EG) nr. 725/2004 van het Europees Parlement en de Raad van 31 maart 2004 betreffende de verbetering van de beveiliging van schepen en havenfaciliteiten (PbEU L 129) (Mandaatbesluit Directeur Kustwacht uitvoering verordening (EG) nr. 725/2004 inzake havenbeveiliging)

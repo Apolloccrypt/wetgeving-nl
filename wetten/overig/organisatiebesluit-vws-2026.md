@@ -5,11 +5,11 @@ identifier: "BWBR0052629"
 categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
 publicatiedatum: 2026-05-21
-laatste_update: 2026-05-21
+laatste_update: 2026-10-20
 status: geldig
-toestand: 2026-05-21
+toestand: 2026-10-20
 bron: "https://wetten.overheid.nl/BWBR0052629"
-opgehaald: 2026-09-10
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 7 mei 2026, kenmerk 4375594-1096264-OBP, houdende de vaststelling van het Organisatiebesluit VWS 2026
@@ -490,71 +490,29 @@ De directie Jeugd staat onder leiding van een collegiaal managementteam. Onder e
 
 ##### Artikel 37
 
-1. De Inspectie Gezondheidszorg en Jeugd staat onder leiding van een inspecteur-generaal (IG).
+1. De Inspectie Gezondheidszorg en Jeugd staat onder leiding van een inspecteur-generaal.
 
-2. Onder de IG ressorteren:
+2. De inspecteur-generaal geeft leiding aan de volgende functionarissen:
 
-- a. de Hoofdinspecteurs die belast zijn met bepaalde gebieden van de zorg en tevens aangewezen kunnen worden als plaatsvervangend IG:
+- a. de directeur Toezichtregie;
 
-   - 1°. de Hoofdinspecteur Cure en GMT;
+- b. de directeur Toezicht Regio Noord;
 
-   - 2°. de Hoofdinspecteur Jeugd en Maatschappelijke Zorg;
+- c. de directeur Toezicht Regio Zuid;
 
-   - 3°. de Project Hoofdinspecteur Front-office.
+- d. de directeur Producten en Opsporing;
 
-- b. de directeur Strategie en Organisatie;
+- e. de directeur Staf en Bedrijfsvoering.
 
-- c. de directeur Bedrijfsvoering;
+3. De directeur Toezichtregie geeft leiding aan de directie Toezichtregie.
 
-- d. de Programmadirecteur Toezicht Sociaal Domein.
+4. De directeur Toezicht Regio Noord geeft leiding aan de directie Toezicht Regio Noord.
 
-3. Onder de Hoofdinspecteur Cure en GMT ressorteren de volgende onderdelen:
+5. De directeur Toezicht Regio Zuid geeft leiding aan de directie Toezicht Regio Zuid.
 
-- a. Medisch Specialistische Zorg 1;
+6. De directeur Producten en Opsporing geeft leiding aan de directie Producten en Opsporing.
 
-- b. Medisch Specialistische Zorg 2;
-
-- c. Medische Technologie;
-
-- d. Eerstelijnszorg;
-
-- e. Farmaceutische Producten.
-
-4. Onder de Hoofdinspecteur Jeugd en Maatschappelijke Zorg ressorteren de volgende onderdelen:
-
-- a. Jeugd;
-
-- b. Geestelijke Gezondheidszorg;
-
-- c. Gehandicaptenzorg;
-
-- d. Netwerkzorg en Preventie.
-
-5. Onder de Project Hoofdinspecteur ressorteert het volgende onderdeel:
-
-- a. Informatie en Meldingen Centrum.
-
-6. Onder de directeur Strategie en Organisatie ressorteren de volgende onderdelen:
-
-- a. Bestuursondersteuning, Beleid en Strategie;
-
-- b. Juridische Zaken;
-
-- c. Communicatie;
-
-- d. Bureau Opsporing en Boetes.
-
-7. Onder de directeur Bedrijfsvoering ressorteren de volgende onderdelen:
-
-- a. Financiën, Kwaliteit en Control;
-
-- b. Personeel en Organisatie;
-
-- c. Risicodetectie en Ontwikkeling;
-
-- d. Informatie en ICT;
-
-- e. Facilitaire Ondersteuning.
+7. De directeur Staf en Bedrijfsvoering geeft leiding aan de directie Staf en Bedrijfsvoering.
 
 ##### Artikel 38
 

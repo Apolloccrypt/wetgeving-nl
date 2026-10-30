@@ -9,7 +9,7 @@ laatste_update: 2025-12-03
 status: geldig
 toestand: 2025-12-03
 bron: "https://wetten.overheid.nl/BWBR0045202"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Minister van Financiën en de Minister van Sociale Zaken en Werkgelegenheid van 31 mei 2021, kenmerk 2021-0000097511, directie Financiële Markten, tot vaststelling van de bandbreedtes en tarieven, bedoeld in artikel 9, eerste lid, van het Besluit bekostiging financieel toezicht 2019, voor het jaar 2021 (Regeling bekostiging financieel toezicht 2021)

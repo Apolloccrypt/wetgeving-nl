@@ -8,7 +8,7 @@ laatste_update: 2026-06-16
 status: geldig
 toestand: 2026-06-16
 bron: "https://wetten.overheid.nl/BWBR0044975"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Reglement van Orde van de Tweede Kamer der Staten-Generaal

@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0045673"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 4 oktober 2021, kenmerk 3259137-1007923-J, houdende regels met betrekking tot het verstrekken van een specifieke uitkering voor activiteiten ten behoeve van de vastgoedtransitie van de gesloten jeugdhulp, de ombouw van separeerruimten in de gesloten jeugdhulp en vastgoedtransitie van open driemilieusvoorzieningen (Regeling specifieke uitkering vastgoedtransitie residentiële jeugdhulp 2021)

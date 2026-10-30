@@ -8,7 +8,7 @@ laatste_update: 2021-03-20
 status: geldig
 toestand: 2021-03-20
 bron: "https://wetten.overheid.nl/BWBR0044956"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit forfaitair bedrag en verruiming compensatieregeling

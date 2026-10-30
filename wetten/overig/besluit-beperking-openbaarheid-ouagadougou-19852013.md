@@ -9,7 +9,7 @@ laatste_update: 2024-01-19
 status: geldig
 toestand: 2024-01-19
 bron: "https://wetten.overheid.nl/BWBR0045134"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 9 april 2021, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordiging in Burkina Faso en Niger, Ambassade Ouagadougou (1975) 1985–2013 (Besluit Beperking Openbaarheid Ouagadougou (1985–2013)

@@ -9,7 +9,7 @@ laatste_update: 2021-09-04
 status: geldig
 toestand: 2021-09-04
 bron: "https://wetten.overheid.nl/BWBR0045579"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Besluit tot verlening van mandaat, volmacht en machtiging aan de kwartiermaker inspectie op de domeinen belastingen, toeslagen en douane (Mandaatbesluit kwartiermaker inspectie op de domeinen belastingen, toeslagen en douane), d.d. 23 augustus 2021 (2021-158170)

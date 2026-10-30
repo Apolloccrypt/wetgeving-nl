@@ -9,7 +9,7 @@ laatste_update: 2021-06-29
 status: geldig
 toestand: 2021-06-29
 bron: "https://wetten.overheid.nl/BWBR0045290"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit beperking openbaarheid met betrekking van de archieven van de Consulentschappen in de provincie Utrecht van het Ministerie van Landbouw, Natuur en Voedselkwaliteit, 1897–1987 Inventaris RPU

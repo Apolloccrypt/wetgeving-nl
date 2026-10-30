@@ -9,7 +9,7 @@ laatste_update: 2021-11-01
 status: geldig
 toestand: 2021-11-01
 bron: "https://wetten.overheid.nl/BWBR0045718"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Inspecteur-generaal van de Inspectie Justitie en Veiligheid namens de Minister voor Medische Zorg en de Minister van Justitie en Veiligheid, van 14 oktober 2021 tot vaststelling van een beleidsregel inzake het opleggen van bestuurlijke boeten door de Inspectie Justitie en Veiligheid voor het overtreden van het bepaalde bij of krachtens het Besluit experiment gesloten coffeeshopketen waarop de Inspectie Justitie en Veiligheid kan handhaven (Beleidsregel bestuurlijke boeten IJenV – experiment gesloten coffeeshopketen)

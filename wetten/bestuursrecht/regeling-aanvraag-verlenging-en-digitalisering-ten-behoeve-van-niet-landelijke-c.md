@@ -9,7 +9,7 @@ laatste_update: 2021-09-11
 status: geldig
 toestand: 2021-09-11
 bron: "https://wetten.overheid.nl/BWBR0045603"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 2 september 2021, nr. WJZ/ 21144379, houdende regels inzake de aanvraag verlenging en digitalisering commerciële radio-omroep (middengolf en niet-landelijke FM) en verlenging niet-gekoppelde vergunning voor digitale radio-omroep (laag 4) (Regeling aanvraag verlenging en digitalisering ten behoeve van niet-landelijke commerciële radio-omroep 2021)

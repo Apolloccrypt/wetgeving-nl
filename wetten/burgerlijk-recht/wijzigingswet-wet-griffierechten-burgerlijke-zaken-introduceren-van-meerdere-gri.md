@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0045756"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Wet van 29 september 2021 tot wijziging van de Wet griffierechten burgerlijke zaken in verband met het introduceren van meerdere griffierechtcategorieën voor lagere geldvorderingen en het toevoegen van een griffierechtcategorie voor hoge geldvorderingen

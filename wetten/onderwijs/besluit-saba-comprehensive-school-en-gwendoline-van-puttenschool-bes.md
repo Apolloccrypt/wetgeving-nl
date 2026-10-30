@@ -9,7 +9,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBR0045020"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van 18 maart 2021, houdende regels voor de toepassing en afwijking van de bij of krachtens de Wet voortgezet onderwijs BES vastgestelde voorschriften over onder meer de inrichting van het onderwijs aan de Saba Comprehensive School op Saba en Gwendoline van Puttenschool op Sint Eustatius (Besluit Saba Comprehensive School en Gwendoline van Puttenschool BES)

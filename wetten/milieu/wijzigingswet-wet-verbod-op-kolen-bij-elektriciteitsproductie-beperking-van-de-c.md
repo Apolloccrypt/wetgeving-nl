@@ -9,7 +9,7 @@ laatste_update: 2024-06-28
 status: geldig
 toestand: 2024-06-28
 bron: "https://wetten.overheid.nl/BWBR0045514"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Wet van 7 juli 2021 tot wijziging van de Wet verbod op kolen bij elektriciteitsproductie in verband met beperking van de CO2-emissie

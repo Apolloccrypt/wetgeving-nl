@@ -9,7 +9,7 @@ laatste_update: 2024-01-19
 status: geldig
 toestand: 2024-01-19
 bron: "https://wetten.overheid.nl/BWBR0045594"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 30 augustus 2021, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordiging in Finland, Ambassade Helsinki, (Besluit Beperking Openbaarheid Helsinki, (1973) 1975–2013)

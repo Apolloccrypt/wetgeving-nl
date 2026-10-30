@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0045412"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Minister voor Medische Zorg van 7 juli 2021, kenmerk 3222015-1012271-MEVA, houdende regels voor het subsidiëren van opleidingsactiviteiten in verband met de opleiding tot Arts Internationale Gezondheid en Tropengeneeskunde 2021–2026 (Subsidieregeling opleidingsactiviteiten AIGT 2021–2026)

@@ -9,7 +9,7 @@ laatste_update: 2021-09-01
 status: geldig
 toestand: 2021-09-01
 bron: "https://wetten.overheid.nl/BWBR0045612"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Directeur Organisatie, Bedrijfsvoering en Personeel van het Ministerie van Volksgezondheid, Welzijn en Sport van 19 augustus 2021, kenmerk 3240608-1013844-OBP, houdende verlening van bijzonder ondervolmacht aan de Vervoerscoördinator van de directie Organisatie, Bedrijfsvoering en Personeel in het kader van de pilot Leasefiets

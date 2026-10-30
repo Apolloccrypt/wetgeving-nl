@@ -9,7 +9,7 @@ laatste_update: 2021-04-01
 status: geldig
 toestand: 2021-04-01
 bron: "https://wetten.overheid.nl/BWBR0045001"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 31 maart 2021, nr. 3268755, houdende de verlening van mandaat, volmacht en machtiging aan de Rijksdienst voor Ondernemend Nederland in verband met het uitvoeren van de Tijdelijke beleidsregel bedrijvenschade coronarellen (Mandaatbesluit RVO inzake de Tijdelijke beleidsregel bedrijvenschade coronarellen)

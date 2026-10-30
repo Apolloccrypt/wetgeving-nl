@@ -8,7 +8,7 @@ laatste_update: 2022-01-27
 status: geldig
 toestand: 2022-01-27
 bron: "https://wetten.overheid.nl/BWBR0045477"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Beleidsregel Handhaving Besluit Eindapparaten (bepaling netwerkaansluitpunt en vrije keuze eindapparaten)

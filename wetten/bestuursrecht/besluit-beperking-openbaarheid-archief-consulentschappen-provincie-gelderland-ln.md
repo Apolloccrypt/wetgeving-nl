@@ -8,7 +8,7 @@ laatste_update: 2021-10-16
 status: geldig
 toestand: 2021-10-16
 bron: "https://wetten.overheid.nl/BWBR0045700"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Besluit beperking openbaarheid archief Consulentschappen Provincie Gelderland LNV 1948–1993 Inventaris CLV-GELDER

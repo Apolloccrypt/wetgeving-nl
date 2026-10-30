@@ -9,7 +9,7 @@ laatste_update: 2021-07-17
 status: geldig
 toestand: 2021-07-17
 bron: "https://wetten.overheid.nl/BWBR0045406"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van 12 juli 2021 tot wijziging van het Reglement rijbewijzen in verband met een aanpassing van de eisen aan examenvoertuigen, enkele terminologische aanpassingen en enkele aanpassingen in de procedure betreffende de aanvraag van een verklaring van geschiktheid

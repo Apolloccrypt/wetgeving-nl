@@ -9,7 +9,7 @@ laatste_update: 2021-07-03
 status: geldig
 toestand: 2021-07-03
 bron: "https://wetten.overheid.nl/BWBR0045054"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Wet van 17 maart 2021, houdende regels ter uitvoering van de EU-verordening betreffende het programma voor onderwijs, opleiding, jeugd en sport en de EU-verordening betreffende het programma Europees Solidariteitskorps (Uitvoeringswet Erasmusprogramma en Europees Solidariteitskorps)

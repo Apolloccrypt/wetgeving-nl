@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-06-30
 toestand: 2022-11-05
 bron: "https://wetten.overheid.nl/BWBR0045445"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 16 juli 2021, nr. PO/ 28571561, houdende regels voor subsidieverstrekking ten behoeve van impuls en innovatie in het bewegingsonderwijs (Subsidieregeling impuls en innovatie bewegingsonderwijs)

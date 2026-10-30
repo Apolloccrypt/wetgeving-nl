@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0045743"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Besluit van 13 oktober 2021 tot wijziging van het Besluit uitvoering EU-verordeningen financiële markten ter uitvoering van drie Europese verordeningen in het kader van het herstel van de COVID-19-crisis (Uitvoeringsbesluit kapitaalmarkten herstelpakket I)

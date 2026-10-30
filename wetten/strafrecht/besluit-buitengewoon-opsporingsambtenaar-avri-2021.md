@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-06-30
 toestand: 2021-07-07
 bron: "https://wetten.overheid.nl/BWBR0045474"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 2 juli 2021 nr. BOACAT2021/20, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Avri

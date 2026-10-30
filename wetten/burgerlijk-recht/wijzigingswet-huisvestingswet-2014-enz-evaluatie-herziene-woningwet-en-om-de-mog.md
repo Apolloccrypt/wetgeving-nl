@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0045610"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Wet van 7 juli 2021 tot wijziging van de Huisvestingswet 2014, de Woningwet, Boek 7 van het Burgerlijk Wetboek en de Overgangswet nieuw Burgerlijk Wetboek naar aanleiding van de evaluatie van de herziene Woningwet en om de mogelijkheden voor tijdelijke huurovereenkomsten te verruimen

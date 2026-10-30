@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0045206"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van 4 juni 2021, houdende regels betreffende de benoemingsprocedure voor leden van de Sociaal-Economische Raad en de onverenigbaarheid van functies (Besluit benoemingsprocedure SER)

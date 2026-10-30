@@ -8,7 +8,7 @@ laatste_update: 2021-07-24
 status: geldig
 toestand: 2021-07-24
 bron: "https://wetten.overheid.nl/BWBR0045469"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Overdrachtsbelasting, startersvrijstelling en 2%-tarief; vragen en antwoorden

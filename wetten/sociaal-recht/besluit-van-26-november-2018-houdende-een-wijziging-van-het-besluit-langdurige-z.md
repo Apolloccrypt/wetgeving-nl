@@ -9,7 +9,7 @@ laatste_update: 2020-10-01
 status: geldig
 toestand: 2020-10-01
 bron: "https://wetten.overheid.nl/BWBR0041626"
-opgehaald: 2026-10-29
+opgehaald: 2026-10-30
 ---
 
 # Besluit van 26 november 2018, houdende een wijziging van het Besluit langdurige zorg en het Uitvoeringsbesluit Wmo 2015 tot verlaging van de vermogensinkomensbijtelling, verkorting van de overgangstermijnen voor de hoge en lage eigen bijdrage, de termijn waarover het CAK een eigen bijdrage mag opleggen, het introduceren van een abonnementstarief voor maatwerkvoorzieningen in de zin van de Wet maatschappelijke ondersteuning 2015 en een grondslag voor het uitzonderen van eenmalige letselschadevergoedingen van het vermogen dat meetelt voor de vermogensinkomensbijtelling voor de berekening van de bijdrage

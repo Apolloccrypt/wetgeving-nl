@@ -9,7 +9,7 @@ laatste_update: 2021-07-17
 status: geldig
 toestand: 2021-07-17
 bron: "https://wetten.overheid.nl/BWBR0045415"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Wet van 14 juli 2021 tot uitvoering van Deel III van de op 30 december 2020 te Brussel en Londen tot stand gekomen Handels- en Samenwerkingsovereenkomst tussen de Europese Unie en de Europese Gemeenschap voor Atoomenergie enerzijds en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland anderzijds (PbEU 2020, L 444 en PbEU 2021, L 149) (Uitvoeringswet Handels- en Samenwerkingsovereenkomst EU – VK Justitie en Veiligheid)

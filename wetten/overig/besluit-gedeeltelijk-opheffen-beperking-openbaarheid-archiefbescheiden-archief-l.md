@@ -9,7 +9,7 @@ laatste_update: 2021-06-23
 status: geldig
 toestand: 2021-06-23
 bron: "https://wetten.overheid.nl/BWBR0045252"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister voor Basis- en Voortgezet Onderwijs en Media houdende het (gedeeltelijk) opheffen van de van de beperking aan de openbaarheid van archiefbescheiden, opgenomen in het archief van de Liquidatie van Verwaltung Sarphatistraat (LVVS) en van de Vermögensverwaltungs- und Rentenanstalt (VVRA), (1929) 1941–1968, toegangsnummer 2.09.48.01

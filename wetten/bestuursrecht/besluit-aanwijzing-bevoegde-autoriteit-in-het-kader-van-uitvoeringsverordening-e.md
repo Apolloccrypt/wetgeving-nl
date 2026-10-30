@@ -9,7 +9,7 @@ laatste_update: 2021-03-19
 status: geldig
 toestand: 2021-03-19
 bron: "https://wetten.overheid.nl/BWBR0044951"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 17 maart 2021, kenmerk 1842830-219548-GMT, houdende aanwijzing van de bevoegde autoriteit in het kader van Uitvoeringsverordening (EU) 2021/442 in verband met een vergunningplicht voor de uitvoer van vaccins tegen aan SARS gerelateerde coronavirussen

@@ -9,7 +9,7 @@ laatste_update: 2021-09-04
 status: geldig
 toestand: 2021-09-04
 bron: "https://wetten.overheid.nl/BWBR0045588"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Besluit van 1 september 2021, houdende de vantoepassingverklaring van de Wet tegemoetkoming schade bij rampen op het afstromend water in Limburg ten gevolge van de regenval in juli 2021

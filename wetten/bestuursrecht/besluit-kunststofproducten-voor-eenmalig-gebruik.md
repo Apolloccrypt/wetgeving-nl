@@ -9,7 +9,7 @@ laatste_update: 2024-12-31
 status: geldig
 toestand: 2024-12-31
 bron: "https://wetten.overheid.nl/BWBR0045257"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van 17 juni 2021, houdende regels inzake aangewezen kunststofproducten voor eenmalig gebruik, producten van oxo-degradeerbare kunststoffen en kunststofhoudend vistuig en houdende wijziging van het Besluit beheer verpakkingen 2014 (Besluit kunststofproducten voor eenmalig gebruik)

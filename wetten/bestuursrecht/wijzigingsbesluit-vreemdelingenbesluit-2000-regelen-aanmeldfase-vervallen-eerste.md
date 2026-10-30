@@ -9,7 +9,7 @@ laatste_update: 2021-06-25
 status: geldig
 toestand: 2021-06-25
 bron: "https://wetten.overheid.nl/BWBR0045193"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van 28 mei 2021 tot wijziging van het Vreemdelingenbesluit 2000, in verband met het regelen van de aanmeldfase, het vervallen van het eerste gehoor in de algemene asielprocedure en het doorvoeren van enkele technische aanpassingen

@@ -9,7 +9,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBR0045580"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 21 augustus 2021, nr. MBO/26721259, houdende vaststelling van de landelijke standaarden voor de kwaliteit van de examens van de beroepsopleidingen (Regeling standaarden examenkwaliteit beroepsonderwijs 2021)

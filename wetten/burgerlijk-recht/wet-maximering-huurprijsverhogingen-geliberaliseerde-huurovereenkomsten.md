@@ -9,7 +9,7 @@ laatste_update: 2024-04-27
 status: geldig
 toestand: 2024-04-27
 bron: "https://wetten.overheid.nl/BWBR0045063"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Wet van 9 april 2021 tot wijziging van Boek 7 van het Burgerlijk Wetboek en de Uitvoeringswet huurprijzen woonruimte (Wet maximering huurprijsverhogingen geliberaliseerde huurovereenkomsten)

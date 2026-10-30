@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0045575"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Beschikking wijzigingspercentage optie- en naturalisatiegelden 2022 van 29 augustus 2021, nummer 2021/1

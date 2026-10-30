@@ -9,7 +9,7 @@ laatste_update: 2021-05-01
 status: geldig
 toestand: 2021-05-01
 bron: "https://wetten.overheid.nl/BWBR0045057"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Wet van 24 maart 2021 tot wijziging van Boek 2 van het Burgerlijk Wetboek in verband met het inroepen van een bedenktijd door het bestuur van een beursvennootschap

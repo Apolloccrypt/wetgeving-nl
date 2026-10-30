@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0045452"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Wet van 14 juli 2021 tot wijziging van de Winkeltijdenwet in verband met de bescherming van winkeliers tegen eenzijdige wijzigingen van openingstijden

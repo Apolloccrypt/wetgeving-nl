@@ -9,7 +9,7 @@ laatste_update: 2026-06-24
 status: geldig
 toestand: 2026-06-24
 bron: "https://wetten.overheid.nl/BWBR0045404"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit, van 2 juli 2021, nr. DGA-DAD/21105186, tot aanwijzing van Gezondheidsdienst voor Dieren B.V. voor uitvoering van diergezondheidsmonitoring

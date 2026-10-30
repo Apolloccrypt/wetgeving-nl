@@ -9,7 +9,7 @@ laatste_update: 2021-10-19
 status: geldig
 toestand: 2021-10-19
 bron: "https://wetten.overheid.nl/BWBR0045661"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 15 september 2021, nr. IENW/BSK-2021/108251, houdende regels voor een goede uitvoering van de Wet implementatie EETS-richtlijn (Regeling implementatie EETS-richtlijn)

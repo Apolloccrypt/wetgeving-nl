@@ -5,11 +5,11 @@ identifier: "BWBR0052807"
 categorie: "Onderwijs"
 soort: "ministeriele-regeling"
 publicatiedatum: 2026-07-09
-laatste_update: 2026-07-09
+laatste_update: 2026-10-24
 status: geldig
-toestand: 2026-07-09
+toestand: 2026-10-24
 bron: "https://wetten.overheid.nl/BWBR0052807"
-opgehaald: 2026-09-21
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur van 26 juni 2026, nr. WJZ/106580719, houdende vaststelling van de Regeling schoolzuivel 2026 [KetenID WGK 29209]
@@ -73,7 +73,7 @@ In deze regeling wordt verstaan onder:
 
 - g. verklaart alle medewerking te verschaffen bij op grond van artikel 10 van verordening (EU) 2017/39 te verrichten controles ter plaatse;
 
-- h. verklaart akkoord te gaan met belevering van de door de minister toe te wijzen scholen gedurende de perioden van levering als bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052807&hoofdstuk=5&artikel=9&z=2026-07-09&g=2026-07-09);
+- h. verklaart akkoord te gaan met belevering van de door de minister toe te wijzen scholen gedurende de perioden van levering als bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052807&hoofdstuk=5&artikel=9&z=2026-10-24&g=2026-10-24);
 
 - i. verklaart zich te houden aan de Richtlijnen voor communicatie met de scholen; en
 
@@ -105,7 +105,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-1. De minister schorst een erkenning of trekt een erkenning in overeenkomstig artikel 7 van verordening (EU) 2017/40 wanneer een erkende leverancier niet langer voldoet aan de voorwaarden van verordening (EU) 2017/39, verordening (EU) 2017/40, de erkenningsvoorwaarden als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052807&hoofdstuk=2&artikel=2&z=2026-07-09&g=2026-07-09), of overige voorwaarden ingevolge deze regeling.
+1. De minister schorst een erkenning of trekt een erkenning in overeenkomstig artikel 7 van verordening (EU) 2017/40 wanneer een erkende leverancier niet langer voldoet aan de voorwaarden van verordening (EU) 2017/39, verordening (EU) 2017/40, de erkenningsvoorwaarden als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052807&hoofdstuk=2&artikel=2&z=2026-10-24&g=2026-10-24), of overige voorwaarden ingevolge deze regeling.
 
 2. Een erkende leverancier die gedurende een erkenningsperiode kenbaar maakt dat hij afziet van deelname aan deze regeling verliest door die verklaring de erkenning en kan geen aanvraag indienen voor een met de onderhavige regeling vergelijkbare voorziening voor de volgende erkenningsperiode.
 
@@ -151,7 +151,7 @@ Alle aan deze regeling deelnemende scholen:
 
 - a. zorgen ervoor dat de zuivelproducten worden uitgereikt aan en geconsumeerd worden door de leerlingen die zijn ingeschreven in het schoolregister;
 
-- b. kunnen eenmalig tot en met 15 december 2026 het aantal leerlingen als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052807&hoofdstuk=3&artikel=5&z=2026-07-09&g=2026-07-09), wijzigen op basis van de werkelijke mutaties van de school in het betreffende schooljaar, tenzij sprake is van uitzonderlijke omstandigheden, ter beoordeling van de minister;
+- b. kunnen eenmalig tot en met 18 december 2026 het aantal leerlingen als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052807&hoofdstuk=3&artikel=5&z=2026-10-24&g=2026-10-24), wijzigen op basis van de werkelijke mutaties van de school in het betreffende schooljaar, tenzij sprake is van uitzonderlijke omstandigheden, ter beoordeling van de minister;
 
 - c. wijzen een medewerker aan die de verspreiding van de zuivelproducten coördineert; en
 
@@ -173,7 +173,7 @@ Alle aan deze regeling deelnemende scholen:
 
 ##### Artikel 7
 
-1. Eenheden zijn subsidiabel indien in de in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052807&hoofdstuk=5&artikel=9&z=2026-07-09&g=2026-07-09), genoemde perioden, 20 weken per schooljaar twee maal per week per leerling gratis eenheden zuivelproducten worden verstrekt, waarvan maximaal 25 procent yoghurt, die geproduceerd zijn met aantoonbaar substantiële bovenwettelijke milieu- en dierenwelzijnseisen en daarop aantoonbaar controle heeft plaats gevonden
+1. Eenheden zijn subsidiabel indien in de in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052807&hoofdstuk=5&artikel=9&z=2026-10-24&g=2026-10-24), genoemde perioden, 20 weken per schooljaar twee maal per week per leerling gratis eenheden zuivelproducten worden verstrekt, waarvan maximaal 25 procent yoghurt, die geproduceerd zijn met aantoonbaar substantiële bovenwettelijke milieu- en dierenwelzijnseisen en daarop aantoonbaar controle heeft plaats gevonden
 
 2. In afwijking van het eerste lid zal de erkende leverancier ten minste 25 procent biologische zuivelproducten per leerling per schooljaar leveren en dit bij levering kenbaar maken.
 
@@ -187,7 +187,7 @@ Een erkende leverancier van zuivelproducten ontvangt steun ten bedrage van 36,3 
 
 ##### Artikel 9
 
-1. Een erkende leverancier van zuivelproducten verzoekt de minister in drie termijnen om betaling van steun over de periode waarin hij de zuivelproducten heeft afgeleverd aan een deelnemende school als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052807&hoofdstuk=3&artikel=4&z=2026-07-09&g=2026-07-09).
+1. Een erkende leverancier van zuivelproducten verzoekt de minister in drie termijnen om betaling van steun over de periode waarin hij de zuivelproducten heeft afgeleverd aan een deelnemende school als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052807&hoofdstuk=3&artikel=4&z=2026-10-24&g=2026-10-24).
 
 2. Steunaanvragen van erkende leveranciers worden per periode van levering ingediend waarbij de eerste periode in schooljaar 2026/2027 aanvangt in week 46. De perioden van levering zijn:
 

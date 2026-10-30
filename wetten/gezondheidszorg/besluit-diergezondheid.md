@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0045039"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van 24 maart 2021, houdende regels met betrekking tot de preventie en bestrijding van dierziekten en tot wijziging van het Besluit dierlijke producten, het Besluit diergeneesmiddelen, het Besluit handhaving en overige zaken Wet dieren en het Besluit houders van dieren (Besluit diergezondheid)

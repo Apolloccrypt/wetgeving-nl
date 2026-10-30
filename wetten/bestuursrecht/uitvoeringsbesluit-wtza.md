@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0045000"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van 17 maart 2021, houdende regels ter uitvoering van de Wet toetreding zorgaanbieders (Uitvoeringsbesluit Wtza)

@@ -9,7 +9,7 @@ laatste_update: 2021-12-01
 status: geldig
 toestand: 2021-12-01
 bron: "https://wetten.overheid.nl/BWBR0045668"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 29 september 2021, houdende mandaatverlening aan de directeur-generaal van de Algemene Inlichtingen- en Veiligheidsdienst voor het doen van een verzoek aan de Minister van Justitie en Veiligheid dan wel de Minister van Defensie tot het verlenen van technische en andere vormen van ondersteuning bij de uitvoering van diens taak door een of meer landelijke eenheden van de politie onderscheidenlijk de Koninklijke Marechaussee (Mandaatbesluit AIVD ten aanzien van verzoeken om technische en andere vormen van ondersteuning 2021)

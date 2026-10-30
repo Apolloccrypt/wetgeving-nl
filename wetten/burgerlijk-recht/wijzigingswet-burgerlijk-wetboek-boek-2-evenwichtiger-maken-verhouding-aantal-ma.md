@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0045731"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Wet van 29 september 2021 tot wijziging van Boek 2 van het Burgerlijk Wetboek in verband met het evenwichtiger maken van de verhouding tussen het aantal mannen en vrouwen in het bestuur en de raad van commissarissen van grote naamloze en besloten vennootschappen

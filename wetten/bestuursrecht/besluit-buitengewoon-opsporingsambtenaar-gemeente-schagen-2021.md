@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-06-02
 toestand: 2021-06-03
 bron: "https://wetten.overheid.nl/BWBR0045196"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 2 juni 2021 nr. BOACAT2021/013, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Schagen

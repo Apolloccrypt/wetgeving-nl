@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0045239"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Staatssecretaris van Financiën van 11 juni 2021, houdende instelling van een tijdelijke commissie ter uitvoering van de artikelen 49a en 49c van de Algemene wet inkomensafhankelijke regelingen en de compensatieregeling (Instellingsregeling Commissie van onafhankelijke deskundigen hersteloperatie toeslagen)

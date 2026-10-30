@@ -9,7 +9,7 @@ laatste_update: 2021-06-11
 status: geldig
 toestand: 2021-06-11
 bron: "https://wetten.overheid.nl/BWBR0045212"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat van 27 mei 2021, nr. ILT-2021/ 33149, houdende vaststelling van de talen bedoeld in artikel 4, derde lid, onder a, artikel 5, onder a, en artikel 6, vierde lid van de Wet pleziervaartuigen 2016

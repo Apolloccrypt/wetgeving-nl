@@ -9,7 +9,7 @@ laatste_update: 2026-04-01
 status: geldig
 toestand: 2026-04-01
 bron: "https://wetten.overheid.nl/BWBR0045371"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Regeling van 21 juni 2021, nr. 3366642 houdende voorschriften voor de uitvoering van de controle van personen, bagage en vracht op luchtvaartterreinen (Regeling uitvoering beveiliging burgerluchtvaart 2021)

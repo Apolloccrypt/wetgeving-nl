@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0045646"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Fiscale tegemoetkomingen naar aanleiding van de coronacrisis; (Besluit noodmaatregelen coronacrisis Caribisch Nederland)

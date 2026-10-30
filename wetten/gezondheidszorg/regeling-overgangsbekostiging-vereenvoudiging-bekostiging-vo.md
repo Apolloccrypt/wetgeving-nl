@@ -9,7 +9,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBR0045608"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 30 augustus 2021, nr. VO/29098712, houdende regels voor de overgangsbekostiging in het kader van de vereenvoudiging van de bekostiging voortgezet onderwijs (Regeling overgangsbekostiging vereenvoudiging bekostiging vo)

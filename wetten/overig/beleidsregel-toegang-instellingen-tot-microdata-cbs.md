@@ -9,7 +9,7 @@ laatste_update: 2021-08-01
 status: geldig
 toestand: 2021-08-01
 bron: "https://wetten.overheid.nl/BWBR0045454"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Beleidsregel van de directeur-generaal van de statistiek van 12 juli 2021, nr. CSB-2021-072, houdende de criteria voor het verlenen van toegang aan instellingen tot microdata van het Centraal Bureau voor de Statistiek (Beleidsregel toegang instellingen tot microdata CBS)

@@ -9,7 +9,7 @@ laatste_update: 2021-10-06
 status: geldig
 toestand: 2021-10-06
 bron: "https://wetten.overheid.nl/BWBR0045665"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat van 1 oktober 2021, nr. WJZ/ 20056324, houdende nadere regels betreffende de veiligheid en integriteit van openbare elektronische communicatienetwerken en -diensten (Regeling veiligheid en integriteit telecommunicatie)

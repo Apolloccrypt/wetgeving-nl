@@ -9,7 +9,7 @@ laatste_update: 2022-07-01
 status: geldig
 toestand: 2022-07-01
 bron: "https://wetten.overheid.nl/BWBR0045247"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Wet van 19 mei 2021 tot wijziging van het Wetboek van Strafvordering in verband met het wijzigen van de rechterlijke procedure voor de beoordeling van de rechtmatige binnentreding van een woning of lokaal met als doel het verwijderen van personen alsmede voorwerpen die daar worden aangetroffen (Wet handhaving kraakverbod)

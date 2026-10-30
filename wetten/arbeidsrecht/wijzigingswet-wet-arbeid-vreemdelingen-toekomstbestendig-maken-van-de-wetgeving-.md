@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0045741"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Wet van 29 september 2021 tot wijziging van de Wet arbeid vreemdelingen in verband met het toekomstbestendig maken van de wetgeving op het terrein van arbeidsmigratie

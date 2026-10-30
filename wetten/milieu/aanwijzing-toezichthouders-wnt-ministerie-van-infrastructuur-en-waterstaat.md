@@ -9,7 +9,7 @@ laatste_update: 2021-10-15
 status: geldig
 toestand: 2021-10-15
 bron: "https://wetten.overheid.nl/BWBR0045698"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat van 22 augustus 2021 nr. IENW/BSK‑2019/246859 houdende aanwijzing van toezichthouders op de naleving van de Wet normering topinkomens op het terrein van Infrastructuur en Waterstaat (Aanwijzing toezichthouders WNT Ministerie van Infrastructuur en Waterstaat)

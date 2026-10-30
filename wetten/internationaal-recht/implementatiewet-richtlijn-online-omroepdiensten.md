@@ -9,7 +9,7 @@ laatste_update: 2021-06-07
 status: geldig
 toestand: 2021-06-07
 bron: "https://wetten.overheid.nl/BWBR0045195"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Wet van 19 mei 2021 tot wijziging van de Auteurswet en de Wet op de naburige rechten in verband met de implementatie van de Richtlijn (EU) 2019/789 van het Europees Parlement en de Raad van 17 april 2019 tot vaststelling van voorschriften inzake de uitoefening van auteursrechten en naburige rechten die van toepassing zijn op bepaalde online-uitzendingen van omroeporganisaties en doorgifte van televisie- en radioprogramma’s en tot wijziging van Richtlijn 93/83/EEG van de Raad (Implementatiewet richtlijn online omroepdiensten)

@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-05-24
 toestand: 2021-05-25
 bron: "https://wetten.overheid.nl/BWBR0045016"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 24 maart 2021 nr. BOACAT2021/009, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Maastricht

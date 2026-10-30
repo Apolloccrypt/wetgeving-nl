@@ -9,7 +9,7 @@ laatste_update: 2026-07-08
 status: geldig
 toestand: 2026-07-08
 bron: "https://wetten.overheid.nl/BWBR0045702"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat van 27 september 2021, nr. WJZ/ 19262804, houdende de verlening van mandaat, volmacht en machtiging voor het bestuur van de Nederlandse Emissieautoriteit (Besluit mandaat, volmacht en machtiging Nederlandse Emissieautoriteit 2021)

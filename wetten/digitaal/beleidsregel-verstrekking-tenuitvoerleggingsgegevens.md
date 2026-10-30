@@ -9,7 +9,7 @@ laatste_update: 2021-09-18
 status: geldig
 toestand: 2021-09-18
 bron: "https://wetten.overheid.nl/BWBR0045627"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Beleidsregel van de Minister voor Rechtsbescherming van 8 september 2021, kenmerk 3281544 over de verstrekking van tenuitvoerleggingsgegevens (Beleidsregel verstrekking tenuitvoerleggingsgegevens)

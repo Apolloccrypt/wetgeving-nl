@@ -9,7 +9,7 @@ laatste_update: 2024-10-26
 status: geldig
 toestand: 2024-10-26
 bron: "https://wetten.overheid.nl/BWBR0045006"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 19 maart, nr. PO/27075429, houdende regels voor de verstrekking van bijzondere bekostiging voor het primair onderwijs voor de professionalisering van personeel en de begeleiding van starters en schoolleiders voor de schooljaren 2021–2022 en 2022–2023 (Regeling bijzondere bekostiging professionalisering en begeleiding starters en schoolleiders)

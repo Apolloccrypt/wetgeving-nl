@@ -9,7 +9,7 @@ laatste_update: 2026-04-03
 status: geldig
 toestand: 2026-04-03
 bron: "https://wetten.overheid.nl/BWBR0045076"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de secretaris-generaal van 7 april 2021, (nr. 2021-63950) houdende vaststelling van het Organisatiebesluit van de Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021

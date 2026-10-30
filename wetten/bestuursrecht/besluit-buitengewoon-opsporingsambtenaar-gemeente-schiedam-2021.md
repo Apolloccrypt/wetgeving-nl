@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-06-01
 toestand: 2021-06-02
 bron: "https://wetten.overheid.nl/BWBR0044983"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 22 maart 2021 nr. BOACAT2021/008, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Schiedam

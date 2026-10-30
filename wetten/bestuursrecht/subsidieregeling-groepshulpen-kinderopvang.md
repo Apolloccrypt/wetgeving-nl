@@ -5,11 +5,11 @@ identifier: "BWBR0049599"
 categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
 publicatiedatum: 2024-04-24
-laatste_update: 2025-07-12
+laatste_update: 2026-10-24
 status: geldig
-toestand: 2025-07-12
+toestand: 2026-10-24
 bron: "https://wetten.overheid.nl/BWBR0049599"
-opgehaald: 2026-09-06
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 18 april 2024, nr. 2024-0000094111, tot het verstrekken van subsidie aan geregistreerde kindercentra voor de inzet van groepshulpen (Subsidieregeling groepshulpen kinderopvang)
@@ -46,15 +46,17 @@ Het doel van deze regeling is de inzet en doorontwikkeling van groepshulpen met 
 
 1. Subsidie op grond van deze regeling wordt slechts verstrekt indien aan alle onderstaande voorwaarden is voldaan:
 
-- a. aan de aanvrager is ook subsidie verstrekt op grond van de [Subsidieregeling praktijkleren in de derde leerweg](https://wetten.overheid.nl/jci1.3:c:BWBR0046007) of op grond van de [Subsidieregeling praktijkleren](https://wetten.overheid.nl/jci1.3:c:BWBR0034144);
+- a. aan de aanvrager is ook subsidie verstrekt op grond van de [Subsidieregeling praktijkleren in de derde leerweg](https://wetten.overheid.nl/jci1.3:c:BWBR0046007), zoals die luidde op 31 maart 2026, de [Subsidieregeling praktijkleren in de loopbaanbegeleidende leerweg 2026](https://wetten.overheid.nl/jci1.3:c:BWBR0053238) of op grond van de [Subsidieregeling praktijkleren](https://wetten.overheid.nl/jci1.3:c:BWBR0034144);
 
 - b. de subsidie, bedoeld in onderdeel a, is verstrekt voor de groepshulp voor wie subsidie op grond van deze regeling wordt gevraagd;
 
 - c. de groepshulp voor wie subsidie wordt aangevraagd:
 
-   - 1°. volgt scholing of heeft scholing gevolgd via praktijkleren in het mbo als bedoeld in [artikel 1 van de Subsidieregeling praktijkleren in de derde leerweg](https://wetten.overheid.nl/jci1.3:c:BWBR0046007&artikel=1); of
+   - 1°. volgt scholing of heeft scholing gevolgd via praktijkleren in het mbo als bedoeld in [artikel 1 van de Subsidieregeling praktijkleren in de derde leerweg](https://wetten.overheid.nl/jci1.3:c:BWBR0046007&artikel=1), zoals die luidde op 31 maart 2026; of
 
    - 2°. heeft deelgenomen aan een gerealiseerde praktijkleerplaats voor een mbo-student in het kader van een beroepsopleiding als bedoeld in [artikel 4 van de Subsidieregeling praktijkleren](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&artikel=4);
+
+   - 3°. volgt scholing of heeft scholing gevolgd via praktijkleren in het mbo als bedoeld [artikel 1 van de Subsidieregeling praktijkleren in de loopbaanbegeleidende leerweg 2026](https://wetten.overheid.nl/jci1.3:c:BWBR0053238&artikel=1);
 
 - d. de scholing via praktijkleren in het mbo of de gerealiseerde praktijkleerplaats, bedoeld in onderdeel c, is gestart tussen 1 augustus 2023 en 31 oktober 2026;
 
@@ -92,7 +94,7 @@ Het doel van deze regeling is de inzet en doorontwikkeling van groepshulpen met 
 
 - c. van de eerste maandag van november 2026, 09:00 uur, tot en met de laatste vrijdag van november 2026, 17:00 uur.
 
-2. In geval het indienen van een subsidieaanvraag op of kort voor de sluitingsdatum van een aanvraagtijdvak langere tijd niet mogelijk is aan de kant van het elektronisch loket, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049599&paragraaf=2&artikel=8&z=2025-07-12&g=2025-07-12), kan de minister met inachtneming van een redelijke termijn een nieuw tijdstip voor uiterste indiening van een subsidieaanvraag bepalen. De minister maakt dit tijdstip bekend op [www.rvo.nl](http://www.rvo.nl).
+2. In geval het indienen van een subsidieaanvraag op of kort voor de sluitingsdatum van een aanvraagtijdvak langere tijd niet mogelijk is aan de kant van het elektronisch loket, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049599&paragraaf=2&artikel=8&z=2026-10-24&g=2026-10-24), kan de minister met inachtneming van een redelijke termijn een nieuw tijdstip voor uiterste indiening van een subsidieaanvraag bepalen. De minister maakt dit tijdstip bekend op [www.rvo.nl](http://www.rvo.nl).
 
 3. Alleen volledige subsidieaanvragen worden in behandeling genomen. Indien een subsidieaanvraag onvolledig is en de aanvrager op grond van [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) in de gelegenheid is gesteld zijn subsidieaanvraag aan te vullen, geldt als datum van ontvangst de datum waarop de volledige aanvraag is ontvangen.
 
@@ -150,7 +152,7 @@ De minister beslist binnen 13 weken na sluiting van het aanvraagtijdvak op aanvr
 
 ##### Artikel 12. Bewaartermijn
 
-Aan de verstrekking van de subsidie is de verplichting verbonden dat de subsidieontvanger de arbeidsovereenkomst, bedoeld in [artikel 4, onderdeel f,](https://wetten.overheid.nl/jci1.3:c:BWBR0049599&paragraaf=1&artikel=4&z=2025-07-12&g=2025-07-12) gedurende vijf jaren bewaart na datum van het vaststellingsbesluit. Deze overeenkomst kan door de minister steekproefsgewijs worden opgevraagd met het oog op het toezicht op de naleving van deze regeling.
+Aan de verstrekking van de subsidie is de verplichting verbonden dat de subsidieontvanger de arbeidsovereenkomst, bedoeld in [artikel 4, onderdeel f,](https://wetten.overheid.nl/jci1.3:c:BWBR0049599&paragraaf=1&artikel=4&z=2026-10-24&g=2026-10-24) gedurende vijf jaren bewaart na datum van het vaststellingsbesluit. Deze overeenkomst kan door de minister steekproefsgewijs worden opgevraagd met het oog op het toezicht op de naleving van deze regeling.
 
 #### Paragraaf 3. Mandaatverlening en toezicht
 
@@ -172,7 +174,7 @@ Aan de verstrekking van de subsidie is de verplichting verbonden dat de subsidie
 
 1. De minister is verwerkingsverantwoordelijke als bedoeld in artikel 4 van de Algemene verordening gegevensbescherming voor de verwerking van persoonsgegevens op basis van deze regeling.
 
-2. RVO is verwerker voor de verwerking van persoonsgegevens ter uitvoering van de gemandateerde taken, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0049599&paragraaf=3&artikel=13&z=2025-07-12&g=2025-07-12) en [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0049599&paragraaf=4&artikel=16&z=2025-07-12&g=2025-07-12).
+2. RVO is verwerker voor de verwerking van persoonsgegevens ter uitvoering van de gemandateerde taken, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0049599&paragraaf=3&artikel=13&z=2026-10-24&g=2026-10-24) en [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0049599&paragraaf=4&artikel=16&z=2026-10-24&g=2026-10-24).
 
 ##### Artikel 15. Toezicht
 

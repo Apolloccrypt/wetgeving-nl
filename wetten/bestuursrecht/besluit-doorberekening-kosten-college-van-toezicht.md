@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0044995"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van 23 maart 2021, houdende regels met betrekking tot de bepaling van de bijdrage van elk van de collectieve beheersorganisaties en onafhankelijke beheersorganisaties aan de kosten van het College van Toezicht, bedoeld in de Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten (Besluit doorberekening kosten College van Toezicht)

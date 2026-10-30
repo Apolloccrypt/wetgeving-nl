@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0045101"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Wet van 21 april 2021 tot wijziging van het Wetboek van Strafvordering en het Wetboek van Strafrecht in verband met de nadere versterking van de positie van het slachtoffer in het strafproces (Wet uitbreiding slachtofferrechten)

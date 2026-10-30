@@ -9,7 +9,7 @@ laatste_update: 2021-10-22
 status: geldig
 toestand: 2021-10-22
 bron: "https://wetten.overheid.nl/BWBR0045710"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 8 oktober 2021, houdende de beperking van de openbaarheid van het Ministerie van Buitenlandse Zaken het Vijfde Blok Codearchief (1961) 1985–1990 (1998)

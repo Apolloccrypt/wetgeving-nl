@@ -9,7 +9,7 @@ laatste_update: 2021-10-19
 status: geldig
 toestand: 2021-10-19
 bron: "https://wetten.overheid.nl/BWBR0045664"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat, van 15 september 2021, nr. IENW/BSK-2021/183819, houdende aanwijzing van ambtenaren belast met het toezicht op de naleving van de Wet implementatie EETS-richtlijn (Besluit aanwijzing toezichthouder Wet implementatie EETS-richtlijn)

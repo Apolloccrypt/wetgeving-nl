@@ -8,7 +8,7 @@ laatste_update: 2021-04-01
 status: geldig
 toestand: 2021-04-01
 bron: "https://wetten.overheid.nl/BWBR0045007"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit beperking openbaarheid archief Centrale Directies Ministerie van Financiën

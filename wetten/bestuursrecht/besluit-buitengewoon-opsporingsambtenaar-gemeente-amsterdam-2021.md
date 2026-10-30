@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-04-28
 toestand: 2021-04-29
 bron: "https://wetten.overheid.nl/BWBR0045074"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 27 april 2021, nr. BOACAT2021/011 strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Amsterdam

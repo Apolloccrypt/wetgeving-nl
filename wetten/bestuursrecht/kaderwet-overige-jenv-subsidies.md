@@ -9,7 +9,7 @@ laatste_update: 2022-07-01
 status: geldig
 toestand: 2022-07-01
 bron: "https://wetten.overheid.nl/BWBR0044954"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Wet van 10 maart 2021, houdende regels over het verstrekken van subsidies door de Minister van Justitie en Veiligheid en de Minister voor Rechtsbescherming en tot intrekking van de Wet Justitie-subsidies (Kaderwet overige JenV-subsidies)

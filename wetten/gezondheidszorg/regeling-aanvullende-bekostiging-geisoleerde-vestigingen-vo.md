@@ -9,7 +9,7 @@ laatste_update: 2023-03-16
 status: geldig
 toestand: 2023-03-16
 bron: "https://wetten.overheid.nl/BWBR0045604"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 30 augustus 2021, nr. VO/29098214, houdende regels voor de verstrekking van aanvullende bekostiging voor geïsoleerde vestigingen in het voortgezet onderwijs (Regeling aanvullende bekostiging geïsoleerde vestigingen vo)

@@ -9,7 +9,7 @@ laatste_update: 2021-06-01
 status: geldig
 toestand: 2021-06-01
 bron: "https://wetten.overheid.nl/BWBR0045182"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 28 mei 2021, kenmerk 2361911-1009138-WJZ, houdende aanpassing van het Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 11 december 2020, kenmerk 1793063-215168-WJZ, houdende aanwijzing van ambtenaren voor de uitoefening van het toezicht op de naleving van hoofdstuk Va van de Wet publieke gezondheid in verband met de bestrijding van de epidemie van covid-19 (Stcrt. 2020, 66366) en het verlenen van mandaat aan de Inspectie Leefomgeving en Transport

@@ -8,7 +8,7 @@ laatste_update: 2021-07-19
 status: geldig
 toestand: 2021-07-19
 bron: "https://wetten.overheid.nl/BWBR0045409"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit vaststelling subsidieplafonds subsidiëring ex Reglement Stimuleringsmaatregel Filmproductie in Nederland, Deelreglement Ontwikkeling en Deelreglement Realisering

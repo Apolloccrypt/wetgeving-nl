@@ -9,7 +9,7 @@ laatste_update: 2021-12-01
 status: geldig
 toestand: 2021-12-01
 bron: "https://wetten.overheid.nl/BWBR0045209"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van 31 mei 2021 tot wijziging van de Penitentiaire maatregel, het Besluit tenuitvoerlegging strafrechtelijke beslissingen en het Besluit forensische zorg in verband met de wijziging van de regeling inzake detentiefasering en voorwaardelijke invrijheidstelling (Uitvoeringsbesluit Wet straffen en beschermen)

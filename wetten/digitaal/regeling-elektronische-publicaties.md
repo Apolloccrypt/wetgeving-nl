@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0045086"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 29 april 2021, houdende regels over elektronische publicatie van algemene bekendmakingen, mededelingen en kennisgevingen (Regeling elektronische publicaties)

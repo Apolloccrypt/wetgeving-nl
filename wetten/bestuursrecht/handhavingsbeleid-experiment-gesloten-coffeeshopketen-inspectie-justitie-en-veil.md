@@ -9,7 +9,7 @@ laatste_update: 2021-11-01
 status: geldig
 toestand: 2021-11-01
 bron: "https://wetten.overheid.nl/BWBR0045722"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Inspecteur-generaal van de Inspectie Justitie en Veiligheid namens de Minister voor Medische Zorg en de Minister van Justitie en Veiligheid, van 14 oktober 2021 tot vaststelling van het Handhavingsbeleid Experiment Gesloten Coffeeshopketen Inspectie Justitie en Veiligheid

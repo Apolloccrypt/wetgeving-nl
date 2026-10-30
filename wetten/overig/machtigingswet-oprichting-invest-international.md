@@ -9,7 +9,7 @@ laatste_update: 2021-07-21
 status: geldig
 toestand: 2021-07-21
 bron: "https://wetten.overheid.nl/BWBR0045430"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Wet van 14 juli 2021, houdende machtiging tot oprichting van de Nederlandse financierings- en ontwikkelingsinstelling Invest International (Machtigingswet oprichting Invest International)

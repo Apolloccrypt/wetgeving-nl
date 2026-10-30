@@ -9,7 +9,7 @@ laatste_update: 2022-10-12
 status: geldig
 toestand: 2022-10-12
 bron: "https://wetten.overheid.nl/BWBR0045388"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Wet van 23 juni 2021 tot wijziging van de Algemene pensioenwet politieke ambtsdragers onder meer in verband met de harmonisering van het partnerpensioen en het wezenpensioen met de regelingen voor het overheidspersoneel alsmede tot wijziging van de Wet schadeloosstelling leden Tweede Kamer, de Wet vergoedingen leden Eerste Kamer, de Wet rechtspositie ministers en staatssecretarissen, de Wet rechtspositie Raad van State, Algemene Rekenkamer en Nationale ombudsman, de Wet schadeloosstelling, uitkering en pensioen leden Europees Parlement, de Gemeentewet en de Provinciewet betreffende de rechtspositie van politieke ambtsdragers, en aanpassing van de Wet privatisering ABP (Wet aanpassing Appa en enkele andere wetten 2021)

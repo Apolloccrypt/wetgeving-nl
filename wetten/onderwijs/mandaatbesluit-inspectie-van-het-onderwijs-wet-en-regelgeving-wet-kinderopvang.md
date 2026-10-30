@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0045729"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 15 oktober 2021, 2021-0000162685, tot verlening van mandaat aan de Inspectie van het Onderwijs tot uitoefening van een bevoegdheid op grond van de wet- en regelgeving op het terrein van de Wet kinderopvang

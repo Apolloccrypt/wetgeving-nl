@@ -9,7 +9,7 @@ laatste_update: 2021-09-15
 status: geldig
 toestand: 2021-09-15
 bron: "https://wetten.overheid.nl/BWBR0045524"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat, van 20 augustus 2021, nr. IENW/BSK-2021/127014, houdende aanwijzing van ambtenaren belast met het toezicht op de naleving van de Wet rijonderricht motorrijtuigen 1993 (Besluit aanwijzing toezichthoudende ambtenaren Wet rijonderricht motorrijtuigen 1993)

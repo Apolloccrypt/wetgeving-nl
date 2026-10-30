@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0044962"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Wet van 3 maart 2021 tot wijziging van de Algemene wet bestuursrecht en enkele andere wetten in verband met het nieuwe omgevingsrecht en nadeelcompensatierecht

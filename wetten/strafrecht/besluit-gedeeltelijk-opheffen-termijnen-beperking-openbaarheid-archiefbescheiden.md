@@ -9,7 +9,7 @@ laatste_update: 2021-07-15
 status: geldig
 toestand: 2021-07-15
 bron: "https://wetten.overheid.nl/BWBR0045397"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister voor Basis- en Voortgezet Onderwijs en Media houdende het gedeeltelijk opheffen van de termijnen van de beperking aan de openbaarheid van archiefbescheiden, opgenomen in het archief Ministerie van Justitie: Bureaus Kabinet en Juridische Zaken van de afdeling Politie ressorterend onder het Ministerie van Justitie (1932–) 1945–1952 (–1968), nummer toegang 2.09.107

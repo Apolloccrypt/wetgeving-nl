@@ -4,12 +4,12 @@ citeertitel: "Besluit registratie toeristische verhuur van woonruimte"
 identifier: "BWBR0044586"
 categorie: "Overig"
 soort: "AMvB"
-publicatiedatum: 2021-01-01
-laatste_update: 2021-01-01
+publicatiedatum: 2026-08-31
+laatste_update: 2026-10-24
 status: geldig
-toestand: 2021-01-01
+toestand: 2026-10-24
 bron: "https://wetten.overheid.nl/BWBR0044586"
-opgehaald: 2026-10-29
+opgehaald: 2026-10-30
 ---
 
 # Besluit van 22 december 2020, houdende regels inzake de registratie van de toeristische verhuur van woonruimte
@@ -61,7 +61,17 @@ Indien de gemeenteraad toepassing heeft gegeven aan [artikel 23a, eerste lid, va
 
 2. Het registratienummer wordt kosteloos verstrekt.
 
-3. Het registratienummer wordt direct nadat de aanvrager de gegevens, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044586&hoofdstuk=2&artikel=3&z=2021-01-01&g=2021-01-01), heeft ingevuld in het registratiesysteem aan de aanvrager getoond, en per e-mail toegezonden aan de aanvrager.
+3. Het registratienummer wordt direct nadat de aanvrager de gegevens, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044586&hoofdstuk=2&artikel=3&z=2026-10-24&g=2026-10-24), heeft ingevuld in het registratiesysteem aan de aanvrager getoond, en per e-mail toegezonden aan de aanvrager.
+
+##### Artikel 5a
+
+Het registratiesysteem stelt de aanvrager in staat om:
+
+- a. de gegevens die bij de aanvraag zijn vermeld op ieder moment te actualiseren;
+
+- b. het college van burgemeester en wethouders te verzoeken de gegevens die bij een eerdere aanvraag voor een woonruimte zijn vermeld opnieuw te kunnen gebruiken voor een aanvraag die ziet op een andere woonruimte;
+
+- c. het college van burgemeester en wethouders te verzoeken een registratienummer dat aan de aanvrager is verleend te verwijderen.
 
 ##### Artikel 6
 
@@ -69,7 +79,37 @@ Indien de gemeenteraad toepassing heeft gegeven aan [artikel 23a, eerste lid, va
 
 2. Het college van burgemeester en wethouders kan een registratienummer verwijderen indien de gegevens bij de aanvraag van het registratienummer onjuist zijn ingevuld, of indien de aanvrager de woonruimte niet meer kan aanbieden voor toeristische verhuur.
 
+### Hoofdstuk 2a. Het centraal digitaal toegangspunt
+
+##### Artikel 6a
+
+1. Binnen het centraal digitaal toegangspunt worden de volgende persoonsgegevens verwerkt:
+
+- a. registratienummers;
+
+- b. adressen van woonruimten die voor toeristische verhuur zijn aangeboden;
+
+- c. linkadressen van de advertenties van woonruimten die voor toeristische verhuur zijn aangeboden; en
+
+- d. de activiteitsgegevens, bedoeld in artikel 3, twaalfde lid, van de verordening kortetermijnverhuur.
+
+##### Artikel 6b
+
+Een klein of micro-onlineplatform voor kortetermijnverhuur als bedoeld in artikel 3, zesde lid, van de verordening kortetermijnverhuur, levert de gegevens, bedoeld in artikel 9, tweede lid, van de verordening kortetermijnverhuur, bij het centraal digitaal toegangspunt aan via:
+
+- a. een communicatiemiddel tussen machines; of
+
+- b. een binnen het centraal digitaal toegangspunt ingerichte functie die de handmatige ontvangst van gegevens mogelijk maakt.
+
+##### Artikel 6c
+
+Het college van burgemeester en wethouders verwijdert de gegevens die het vanuit het centraal digitaal toegangspunt heeft ontvangen binnen achttien maanden nadat deze gegevens zijn ontvangen.
+
 ### Hoofdstuk 3. Slotbepalingen
+
+##### Artikel 6d
+
+Het college van burgemeester en wethouders stelt de aanvrager van een registratienummer dat is afgegeven vóór inwerkingtreding van het Besluit van 31 augustus 2026 tot wijziging van het Besluit registratie toeristische verhuur van woonruimte ten behoeve van de uitvoering van de verordening kortetermijnverhuur (Stb. 2026, 266) in de gelegenheid de gegevens, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044586&hoofdstuk=2&artikel=3&z=2026-10-24&g=2026-10-24), die de aanvrager nog niet aan het college heeft verzonden aan het college te verzenden binnen zes maanden na inwerkingtreding van dat besluit.
 
 ##### Artikel 7
 

@@ -8,7 +8,7 @@ laatste_update: 2021-10-16
 status: geldig
 toestand: 2021-10-16
 bron: "https://wetten.overheid.nl/BWBR0045693"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Besluit beperking openbaarheid archief Directeur Landbouw, Natuur en Openluchtrecreatie in de provincie Utrecht Ministerie van Landbouw, Natuur en Voedselkwaliteit, (1965) 1984–1994 (1995) Inventaris DLNO-UTRCH

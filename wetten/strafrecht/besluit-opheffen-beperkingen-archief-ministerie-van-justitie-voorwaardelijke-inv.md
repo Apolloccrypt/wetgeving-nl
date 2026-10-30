@@ -9,7 +9,7 @@ laatste_update: 2021-05-04
 status: geldig
 toestand: 2021-05-04
 bron: "https://wetten.overheid.nl/BWBR0045085"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit betreffende het opheffen van de beperkingen gesteld aan het archief Ministerie van Justitie: Voorwaardelijke Invrijheidstellingen 1950–1978, nummer toegang 2.09.115

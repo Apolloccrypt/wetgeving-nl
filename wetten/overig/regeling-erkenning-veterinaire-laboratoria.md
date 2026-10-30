@@ -9,7 +9,7 @@ laatste_update: 2026-04-01
 status: geldig
 toestand: 2026-04-01
 bron: "https://wetten.overheid.nl/BWBR0045052"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 12 april 2021 , nr. WJZ/ 20328658 , houdende een erkenningensystematiek van laboratoria op veterinair terrein (Regeling erkenning veterinaire laboratoria)

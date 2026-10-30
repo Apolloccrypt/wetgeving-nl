@@ -9,7 +9,7 @@ laatste_update: 2026-05-31
 status: geldig
 toestand: 2026-05-31
 bron: "https://wetten.overheid.nl/BWBR0045184"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Staatssecretaris van Justitie en Veiligheid van 26 mei 2021, nummer 3341012, houdende wijziging van het Voorschrift Vreemdelingen 2000 (honderdeenenzeventigste wijziging)

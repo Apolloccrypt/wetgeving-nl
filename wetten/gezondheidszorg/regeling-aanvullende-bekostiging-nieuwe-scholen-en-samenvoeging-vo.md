@@ -9,7 +9,7 @@ laatste_update: 2025-06-11
 status: geldig
 toestand: 2025-06-11
 bron: "https://wetten.overheid.nl/BWBR0045606"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 30 augustus 2021, nr. VO/29099210, houdende regels voor de aanvullende bekostiging voor nieuwe scholen en bij samenvoegingen in het voortgezet onderwijs (Regeling aanvullende bekostiging nieuwe scholen en samenvoeging vo)

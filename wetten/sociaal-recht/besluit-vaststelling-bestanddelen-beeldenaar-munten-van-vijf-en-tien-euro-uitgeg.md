@@ -9,7 +9,7 @@ laatste_update: 2021-10-20
 status: geldig
 toestand: 2021-10-20
 bron: "https://wetten.overheid.nl/BWBR0045666"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Besluit van 27 september 2021 tot vaststelling van de bestanddelen van de beeldenaar van de munten van vijf en tien euro die in 2021 worden uitgegeven ter gelegenheid van het veertigjarig bestaan van het NOS Jeugdjournaal

@@ -8,7 +8,7 @@ laatste_update: 2021-11-01
 status: geldig
 toestand: 2021-11-01
 bron: "https://wetten.overheid.nl/BWBR0045736"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Richtlijn voor strafvordering witwassen

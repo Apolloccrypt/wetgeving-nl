@@ -9,7 +9,7 @@ laatste_update: 2021-05-07
 status: geldig
 toestand: 2021-05-07
 bron: "https://wetten.overheid.nl/BWBR0045004"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Wet van 17 maart 2021 tot aanpassing van enkele wetten ter uitvoering van de Verordening (EU) 2017/1939 van de Raad van 12 oktober 2017 betreffende nauwere samenwerking bij de instelling van het Europees Openbaar Ministerie («EOM») (PbEU 2017, L 283) (Invoeringswet EOM)

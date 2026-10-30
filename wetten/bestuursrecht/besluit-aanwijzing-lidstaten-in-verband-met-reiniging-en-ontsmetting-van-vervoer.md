@@ -9,7 +9,7 @@ laatste_update: 2021-08-11
 status: geldig
 toestand: 2021-08-11
 bron: "https://wetten.overheid.nl/BWBR0045499"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Chief Veterinary Inspector van de Nederlandse Voedsel- en Warenautoriteit namens de Minister van Landbouw, Natuur en Voedselkwaliteit van 5 augustus 2021, houdende aanwijzing van diverse lidstaten in verband met de verplichting tot reiniging en ontsmetting van in Nederland gebrachte vervoermiddelen voor evenhoevigen, pluimvee of broedeieren (Besluit aanwijzing lidstaten in verband met reiniging en ontsmetting van vervoermiddelen)

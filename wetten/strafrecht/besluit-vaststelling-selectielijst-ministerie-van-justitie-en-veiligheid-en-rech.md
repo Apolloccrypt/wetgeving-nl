@@ -8,7 +8,7 @@ laatste_update: 2021-04-14
 status: geldig
 toestand: 2021-04-14
 bron: "https://wetten.overheid.nl/BWBR0045040"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit vaststelling selectielijst Ministerie van Justitie en Veiligheid en rechtsvoorgangers over de periode vanaf 5 mei 1945

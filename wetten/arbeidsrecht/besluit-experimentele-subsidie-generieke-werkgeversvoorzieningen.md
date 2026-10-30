@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-06-30
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0045276"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van 16 juni 2021 houdende regels voor experimenten met het verstrekken van subsidies voor generieke werkgeversvoorzieningen (Besluit experimentele subsidie generieke werkgeversvoorzieningen)

@@ -9,7 +9,7 @@ laatste_update: 2021-06-23
 status: geldig
 toestand: 2021-06-23
 bron: "https://wetten.overheid.nl/BWBR0045225"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van 8 juni 2021 tot vaststelling van de bestanddelen van de beeldenaar van de munten van vijf en tien euro ter ere van Anton Geesink die in 2021 worden uitgegeven in de serie Nederlandse sporticonen

@@ -9,7 +9,7 @@ laatste_update: 2021-10-01
 status: geldig
 toestand: 2021-10-01
 bron: "https://wetten.overheid.nl/BWBR0045429"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van 15 juli 2021, houdende vaststelling rechtspositie voorzitters regionale toetsingscommissies euthanasie (Besluit rechtspositie voorzitters regionale toetsingscommissies euthanasie)

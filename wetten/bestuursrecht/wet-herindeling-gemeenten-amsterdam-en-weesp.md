@@ -9,7 +9,7 @@ laatste_update: 2021-09-15
 status: geldig
 toestand: 2021-09-15
 bron: "https://wetten.overheid.nl/BWBR0045261"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Wet van 9 juni 2021 tot herindeling van de gemeenten Amsterdam en Weesp

@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0045327"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 25 juni 2021 nr. BOACAT2021/025, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij BUHA B.V.

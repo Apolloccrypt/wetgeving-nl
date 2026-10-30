@@ -9,7 +9,7 @@ laatste_update: 2021-09-07
 status: geldig
 toestand: 2021-09-07
 bron: "https://wetten.overheid.nl/BWBR0045590"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat van 20 augustus 2021, kenmerk RWS-2021/24423 tot het mandateren aan de provincie Noord-Brabant van de bevoegdheid tot het door of namens de Minister van Infrastructuur en Waterstaat laten verleggen van kabels en leidingen ten behoeve van de uitvoering van de reconstructie van rijksweg N65 Vught – Haaren

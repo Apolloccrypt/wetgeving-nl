@@ -9,7 +9,7 @@ laatste_update: 2021-07-07
 status: geldig
 toestand: 2021-07-07
 bron: "https://wetten.overheid.nl/BWBR0045339"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 25 juni 2021, nr. 3364133, houdende instelling van de adviescommissie voor de Landelijke Eenheid (Instellingsbesluit adviescommissie voor de Landelijke Eenheid)

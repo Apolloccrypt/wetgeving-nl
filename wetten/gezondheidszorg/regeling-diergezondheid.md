@@ -9,7 +9,7 @@ laatste_update: 2025-06-05
 status: geldig
 toestand: 2025-06-05
 bron: "https://wetten.overheid.nl/BWBR0045053"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 12 april 2021, nr. WJZ/ 21072840, houdende regels met betrekking tot de preventie en bestrijding van dierziekten en tot wijziging van de Regeling diergeneesmiddelen, de Regeling dierlijke producten, de Regeling diergeneeskundigen, de Regeling diervoeders 2012, de Regeling handhaving en overige zaken Wet dieren en de Regeling houders van dieren (Regeling diergezondheid)

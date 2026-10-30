@@ -9,7 +9,7 @@ laatste_update: 2021-09-22
 status: geldig
 toestand: 2021-09-22
 bron: "https://wetten.overheid.nl/BWBR0045632"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Raad voor Rechtsbijstand inzake bekrachtiging besluiten in het kader van de Wbtv en Wsnp in de periode van 18 augustus 2021 tot en met heden

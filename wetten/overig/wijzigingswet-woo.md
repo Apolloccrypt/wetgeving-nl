@@ -9,7 +9,7 @@ laatste_update: 2021-10-28
 status: geldig
 toestand: 2021-10-28
 bron: "https://wetten.overheid.nl/BWBR0045753"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Wet van 25 oktober 2021 tot wijziging van het voorstel van wet van de leden Snels en Sneller houdende regels over de toegankelijkheid van informatie van publiek belang (Wet open overheid) (Wijzigingswet Woo)

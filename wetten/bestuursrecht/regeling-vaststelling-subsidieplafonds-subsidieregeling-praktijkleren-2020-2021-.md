@@ -9,7 +9,7 @@ laatste_update: 2021-07-23
 status: geldig
 toestand: 2021-07-23
 bron: "https://wetten.overheid.nl/BWBR0045459"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 7 juli 2021, nr. MBO/28142118, houdende vaststelling van de subsidieplafonds van de Subsidieregeling praktijkleren voor het studiejaar 2020-2021, alsmede wijziging van de Subsidieregeling praktijkleren in verband met het definiëren van het begrip ‘hoofdactiviteit’, het toevoegen van conjunctuurgevoelige sectoren die in aanmerking komen voor aanvullende subsidie, het opnemen van een coulancebepaling, alsmede de toevoeging van een aanvullende subsidie voor praktijkleerplaatsen in het hbo

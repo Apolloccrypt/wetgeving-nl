@@ -9,7 +9,7 @@ laatste_update: 2021-07-21
 status: geldig
 toestand: 2021-07-21
 bron: "https://wetten.overheid.nl/BWBR0045436"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Waterstaat, van 14 juli 2021, nr. IENW/BSK-2021/192050, houdende vaststelling van het subsidieplafond op grond van de Subsidieregeling VeiligheidNL voor het jaar 2021

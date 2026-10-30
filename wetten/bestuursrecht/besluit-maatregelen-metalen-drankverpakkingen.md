@@ -9,7 +9,7 @@ laatste_update: 2022-12-31
 status: geldig
 toestand: 2022-12-31
 bron: "https://wetten.overheid.nl/BWBR0045135"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van 30 april 2021, houdende wijziging van het Besluit beheer verpakkingen 2014 in verband met het opnemen van een doelstelling voor gescheiden inzameling van metalen drankverpakkingen en het invoeren van statiegeld op metalen drankverpakkingen (Besluit maatregelen metalen drankverpakkingen)

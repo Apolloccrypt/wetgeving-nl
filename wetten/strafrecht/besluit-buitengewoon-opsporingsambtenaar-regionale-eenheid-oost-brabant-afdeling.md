@@ -9,7 +9,7 @@ laatste_update: 2024-07-10
 status: geldig
 toestand: 2024-07-10
 bron: "https://wetten.overheid.nl/BWBR0045280"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 17 juni 2021 nr. BOACAT2021/018, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij regionale eenheid Oost-Brabant, afdeling gemeenschappelijke Bob-kamer

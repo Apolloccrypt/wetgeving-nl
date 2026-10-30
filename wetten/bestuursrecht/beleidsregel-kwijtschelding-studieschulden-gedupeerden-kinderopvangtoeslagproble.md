@@ -9,7 +9,7 @@ laatste_update: 2023-11-03
 status: geldig
 toestand: 2023-11-03
 bron: "https://wetten.overheid.nl/BWBR0045370"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap en de Minister voor Basis- en Voortgezet Onderwijs en Media van 29 juni 2021, nr. 28468296, houdende regels omtrent de kwijtschelding van studieschulden van gedupeerden van de problemen rondom de kinderopvangtoeslag (Beleidsregel kwijtschelding studieschulden gedupeerden kinderopvangtoeslagproblematiek)

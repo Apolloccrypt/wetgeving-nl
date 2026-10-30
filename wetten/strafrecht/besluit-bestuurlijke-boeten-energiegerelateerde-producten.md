@@ -9,7 +9,7 @@ laatste_update: 2021-07-23
 status: geldig
 toestand: 2021-07-23
 bron: "https://wetten.overheid.nl/BWBR0045092"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van 25 maart 2021 tot vaststelling van bestuurlijke boeten energiegerelateerde producten alsmede tot wijziging van een aantal besluiten in verband met het wijzigen van de citeertitel van de Wet implementatie EU-richtlijnen energie-efficiëntie (Besluit bestuurlijke boeten energiegerelateerde producten)

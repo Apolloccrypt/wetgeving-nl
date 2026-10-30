@@ -9,7 +9,7 @@ laatste_update: 2021-08-26
 status: geldig
 toestand: 2021-08-26
 bron: "https://wetten.overheid.nl/BWBR0045530"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Staatssecretaris van Economische Zaken en Klimaat van 9 juli 2021, nr. DGBI-DE/210 25 388, handelend in overeenstemming met de Minister voor Basis- en Voortgezet Onderwijs en Media, inzake de keuze voor het instrument veiling van vergunningen voor niet-landelijke commerciële radio-omroep kavels B39 tot en met B54, en de vaststelling van die vergunningen, (Besluit bekendmaking veiling kavels B39 tot en met B54)

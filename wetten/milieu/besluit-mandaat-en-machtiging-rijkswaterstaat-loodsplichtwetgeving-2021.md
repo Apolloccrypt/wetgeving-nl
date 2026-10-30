@@ -9,7 +9,7 @@ laatste_update: 2021-05-21
 status: geldig
 toestand: 2021-05-21
 bron: "https://wetten.overheid.nl/BWBR0045144"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de directeur-generaal Rijkswaterstaat van 26 april 2021 met kenmerk RWS-2021/13909 houdende verlening van mandaat en machtiging voor het Loodsplichtbesluit 2021, de Loodsplichtregeling 2021, het Besluit markttoezicht registerloodsen en het Besluit opleidingen en bevoegdheden nautische beroepsbeoefenaren (Besluit mandaat en machtiging Rijkswaterstaat loodsplichtwetgeving 2021)

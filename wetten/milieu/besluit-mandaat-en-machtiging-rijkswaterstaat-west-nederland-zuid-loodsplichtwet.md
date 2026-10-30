@@ -9,7 +9,7 @@ laatste_update: 2021-07-06
 status: geldig
 toestand: 2021-07-06
 bron: "https://wetten.overheid.nl/BWBR0045335"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de hoofdingenieur-directeur van het regionale organisatieonderdeel Rijkswaterstaat West-Nederland Zuid van 30 juni 2021 met kenmerk RWS-2021/21022, houdende verlening van mandaat en machtiging voor het Loodsplichtbesluit 2021, de Loodsplichtregeling 2021, het Besluit markttoezicht registerloodsen en het Besluit opleidingen en bevoegdheden nautische beroepsbeoefenaren (Besluit mandaat en machtiging Rijkswaterstaat West-Nederland Zuid loodsplichtwetgeving 2021)

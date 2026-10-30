@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0045037"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van 1 april 2021, houdende regels over elektronische publicatie van algemene bekendmakingen, mededelingen en kennisgevingen (Besluit elektronische publicaties)

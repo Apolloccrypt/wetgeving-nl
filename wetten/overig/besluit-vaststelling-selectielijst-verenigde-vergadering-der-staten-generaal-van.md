@@ -9,7 +9,7 @@ laatste_update: 2021-03-24
 status: geldig
 toestand: 2021-03-24
 bron: "https://wetten.overheid.nl/BWBR0044959"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van 12 februari 2021, kenmerk 2021000255, houdende vaststelling van een selectielijst Verenigde Vergadering der Staten-Generaal vanaf 5 mei 1945

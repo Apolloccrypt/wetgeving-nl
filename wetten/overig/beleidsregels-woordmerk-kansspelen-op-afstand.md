@@ -9,7 +9,7 @@ laatste_update: 2021-05-01
 status: geldig
 toestand: 2021-05-01
 bron: "https://wetten.overheid.nl/BWBR0045079"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Beleidsregels van de raad van bestuur van de Kansspelautoriteit inzake het gebruik van het woordmerk door houders van een vergunning tot het organiseren van kansspelen op afstand (Beleidsregels woordmerk kansspelen op afstand)

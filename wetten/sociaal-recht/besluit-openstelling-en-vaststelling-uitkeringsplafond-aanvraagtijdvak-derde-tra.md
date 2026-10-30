@@ -9,7 +9,7 @@ laatste_update: 2021-09-01
 status: geldig
 toestand: 2021-09-01
 bron: "https://wetten.overheid.nl/BWBR0045386"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 8 juli 2021, nr. 2021-0000346891, tot openstelling en vaststelling uitkeringsplafond aanvraagtijdvak van de derde tranche van de Woningbouwimpuls

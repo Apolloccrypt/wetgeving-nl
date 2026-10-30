@@ -9,7 +9,7 @@ laatste_update: 2021-06-01
 status: geldig
 toestand: 2021-06-01
 bron: "https://wetten.overheid.nl/BWBR0045174"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 17 mei 2021, kenmerk 2359346-1008298-WJZ, houdende de verlening van mandaat en machtiging aan de toezichthoudende ambtenaren van de douane in verband met het voorkomen van illegale handel in tabak (Besluit verlening van mandaat en machtiging aan de toezichthoudende ambtenaren van de douane in verband met het voorkomen van illegale handel in tabak)

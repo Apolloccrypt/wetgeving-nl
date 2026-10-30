@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0045396"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Staatssecretaris van Financiën van 12 juli 2021 houdende instelling van een Oudercommissie kinderopvangtoeslag (Instellingsregeling Oudercommissie kinderopvangtoeslag)

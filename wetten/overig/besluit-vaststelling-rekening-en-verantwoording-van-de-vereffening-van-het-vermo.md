@@ -9,7 +9,7 @@ laatste_update: 2021-09-30
 status: geldig
 toestand: 2021-09-30
 bron: "https://wetten.overheid.nl/BWBR0045645"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 4 september 2021, nr. WJZ/ 21203074, houdende vaststelling van de rekening en verantwoording van de vereffening van het vermogen van het voormalig Productschap Zuivel

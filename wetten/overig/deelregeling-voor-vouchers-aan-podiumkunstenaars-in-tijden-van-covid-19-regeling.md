@@ -8,7 +8,7 @@ laatste_update: 2021-06-29
 status: geldig
 toestand: 2021-06-29
 bron: "https://wetten.overheid.nl/BWBR0045291"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Deelregeling voor vouchers aan podiumkunstenaars in tijden van covid-19 (Regeling podiumkunstvouchers)

@@ -9,7 +9,7 @@ laatste_update: 2026-04-02
 status: geldig
 toestand: 2026-04-02
 bron: "https://wetten.overheid.nl/BWBR0045555"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Besluit van 27 augustus 2021 tot uitvoering van de Wet inburgering 2021 (Besluit inburgering 2021)

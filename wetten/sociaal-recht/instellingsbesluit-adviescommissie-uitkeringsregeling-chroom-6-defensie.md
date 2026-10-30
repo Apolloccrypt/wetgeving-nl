@@ -8,7 +8,7 @@ laatste_update: 2021-03-26
 status: geldig
 toestand: 2021-03-26
 bron: "https://wetten.overheid.nl/BWBR0044967"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Instellingsbesluit Adviescommissie Uitkeringsregeling chroom-6 Defensie

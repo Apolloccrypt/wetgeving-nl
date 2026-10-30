@@ -9,7 +9,7 @@ laatste_update: 2021-08-07
 status: geldig
 toestand: 2021-08-07
 bron: "https://wetten.overheid.nl/BWBR0045494"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 7 juni 2021, nr. Min-BuZa.2021.8678-13, tot vaststelling van een regeling inzake de organisatie en het beheer van het archief van de Commissie van onderzoek NLA-programma in Syrië (Regeling archief Commissie van onderzoek NLA-programma in Syrië)

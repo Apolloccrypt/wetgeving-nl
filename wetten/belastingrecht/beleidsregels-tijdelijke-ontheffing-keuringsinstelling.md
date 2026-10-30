@@ -9,7 +9,7 @@ laatste_update: 2021-04-01
 status: geldig
 toestand: 2021-04-01
 bron: "https://wetten.overheid.nl/BWBR0044986"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Beleidsregels van de raad van bestuur van de Kansspelautoriteit inzake tijdelijke ontheffing keuringsinstelling (Beleidsregels tijdelijke ontheffing keuringsinstelling)

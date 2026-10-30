@@ -9,7 +9,7 @@ laatste_update: 2025-06-06
 status: geldig
 toestand: 2025-06-06
 bron: "https://wetten.overheid.nl/BWBR0045385"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van het bestuur van de Dienst voor het kadaster en de openbare registers, houdende het organisatiereglement van de Dienst van het kadaster en de openbare registers (Reglement inrichting organisatie Kadaster 2021)

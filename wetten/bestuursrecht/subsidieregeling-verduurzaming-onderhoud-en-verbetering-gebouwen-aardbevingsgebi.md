@@ -9,7 +9,7 @@ laatste_update: 2026-04-02
 status: geldig
 toestand: 2026-04-02
 bron: "https://wetten.overheid.nl/BWBR0045187"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 31 mei 2021, nr. 2021-0000136391, houdende vaststelling van regels voor het verstrekken van subsidie aan gebouweigenaren in het aardbevingsgebied in de provincie Groningen ten behoeve van verduurzaming, onderhoud en verbetering van het gebouw (Subsidieregeling verduurzaming, onderhoud en verbetering gebouwen aardbevingsgebied Groningen)

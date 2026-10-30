@@ -9,7 +9,7 @@ laatste_update: 2022-04-30
 status: geldig
 toestand: 2022-04-30
 bron: "https://wetten.overheid.nl/BWBR0045107"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 29 april 2021, nr. WJZ/ 21040040, houdende vaststelling van de retributies verbonden aan verschillende handelingen betreffende het handelsregister en het uitvoeren van de taken van de Kamers van Koophandel en Nijverheid BES (Financiële regeling handelsregister BES 2022)

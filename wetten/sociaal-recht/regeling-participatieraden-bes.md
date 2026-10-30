@@ -9,7 +9,7 @@ laatste_update: 2021-07-06
 status: geldig
 toestand: 2021-07-06
 bron: "https://wetten.overheid.nl/BWBR0045334"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 9 maart 2021, houdende nadere regels inzake participatieraden (Regeling participatieraden BES)

@@ -9,7 +9,7 @@ laatste_update: 2021-09-23
 status: geldig
 toestand: 2021-09-23
 bron: "https://wetten.overheid.nl/BWBR0045638"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 21 september 2021, nr. 2021-0000473446, houdende de verlening van mandaat, volmacht en machtiging aan de algemeen directeur van de Rijksdienst voor Ondernemend Nederland in verband met de verstrekking van uitkeringen en subsidie ter verbetering van de digitale dienstverlening (Mandaatbesluit RVO inzake Innovatiebudget)

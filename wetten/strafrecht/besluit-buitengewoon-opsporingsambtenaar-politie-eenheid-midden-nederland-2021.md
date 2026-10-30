@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-07-23
 toestand: 2021-07-24
 bron: "https://wetten.overheid.nl/BWBR0045458"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 14 juli 2021 nr. BOACAT2021/028, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij politie eenheid Midden-Nederland

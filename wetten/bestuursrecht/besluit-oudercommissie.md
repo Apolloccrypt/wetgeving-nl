@@ -9,7 +9,7 @@ laatste_update: 2023-05-05
 status: geldig
 toestand: 2023-05-05
 bron: "https://wetten.overheid.nl/BWBR0045400"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Toeslagen. Besluit benoeming en vergoeding leden Oudercommissie

@@ -9,7 +9,7 @@ laatste_update: 2021-09-24
 status: geldig
 toestand: 2021-09-24
 bron: "https://wetten.overheid.nl/BWBR0045637"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister voor Basis- en Voortgezet Onderwijs en Media houdende het gedeeltelijk opheffen van de beperking aan de openbaarheid van archiefbescheiden, opgenomen in het archief van de Hoge Raad der Nederlanden, (1939) 1940–1979 (1981), nummer toegang 2.09.65

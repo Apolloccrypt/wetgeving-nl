@@ -8,7 +8,7 @@ laatste_update: 2021-04-03
 status: geldig
 toestand: 2021-04-03
 bron: "https://wetten.overheid.nl/BWBR0045022"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Compensatieregeling Coronacrisis Meerjarige Kunstpodia Tweede Steunmaatregel

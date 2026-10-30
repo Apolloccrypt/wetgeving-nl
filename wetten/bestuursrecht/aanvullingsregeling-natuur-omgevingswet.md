@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0045508"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 9 juni 2021 tot wijziging van de Omgevingsregeling in verband met de overgang van de Wet natuurbescherming naar de Omgevingswet (Aanvullingsregeling natuur Omgevingswet)

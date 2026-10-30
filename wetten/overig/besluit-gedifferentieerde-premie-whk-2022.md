@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0045542"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Besluit gedifferentieerde premie Werkhervattingskas 2022

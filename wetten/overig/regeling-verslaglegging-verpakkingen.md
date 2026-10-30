@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0045640"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 20 september 2021, nr. IENW/BSK-2021/242116, houdende vaststelling van nadere regels voor het verslag over de uitvoering van de regeling voor uitgebreide producentenverantwoordelijkheid inzake verpakkingen in het Besluit beheer verpakkingen 2014 (Regeling verslaglegging verpakkingen)

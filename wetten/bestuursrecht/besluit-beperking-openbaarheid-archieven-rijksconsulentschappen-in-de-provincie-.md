@@ -9,7 +9,7 @@ laatste_update: 2021-06-29
 status: geldig
 toestand: 2021-06-29
 bron: "https://wetten.overheid.nl/BWBR0045287"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit beperking openbaarheid met betrekking op de archieven van de Rijksconsulentschappen in de provincie Drenthe van het Ministerie van Landbouw, Natuur en Voedselkwaliteit, 1901–1986 Inventariskenmerk 0929

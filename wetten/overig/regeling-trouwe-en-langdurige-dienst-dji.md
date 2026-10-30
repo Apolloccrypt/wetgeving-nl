@@ -9,7 +9,7 @@ laatste_update: 2021-05-04
 status: geldig
 toestand: 2021-05-04
 bron: "https://wetten.overheid.nl/BWBR0045089"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 21 april 2021, nr. 2127629, houdende bepalingen voor de toekenning van een medaille of penning voor trouwe en langdurige dienst bij de Dienst Justitiële Inrichtingen (Regeling trouwe en langdurige dienst DJI)

@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-05-04
 toestand: 2021-05-12
 bron: "https://wetten.overheid.nl/BWBR0045121"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 4 mei 2021 nr. BOACAT2021/010 strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Venlo

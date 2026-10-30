@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-07-14
 toestand: 2021-09-01
 bron: "https://wetten.overheid.nl/BWBR0045511"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Secretaris-Generaal van het Ministerie van Volksgezondheid, Welzijn en Sport van 10 augustus 2021, kenmerk 3239331-1013756-OBP, houdende het verlenen van ondermandaat en ondervolmachten aan de programmadirecteur en plaatsvervangend Directeur-Generaal van het programma Medische Isotopen

@@ -9,7 +9,7 @@ laatste_update: 2021-07-08
 status: geldig
 toestand: 2021-07-08
 bron: "https://wetten.overheid.nl/BWBR0045352"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de directeur-generaal Toeslagen van het ministerie van Financiën van 24 juni 2021, (2021-122924), houdende verlening van ondermandaat aan de plaatsvervanger van de directeur-generaal Toeslagen (Mandaatbesluit plaatsvervanger directeur-generaal Toeslagen 2021)

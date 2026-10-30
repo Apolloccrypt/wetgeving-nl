@@ -9,7 +9,7 @@ laatste_update: 2022-11-11
 status: geldig
 toestand: 2022-11-11
 bron: "https://wetten.overheid.nl/BWBR0045740"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Besluit van 14 oktober 2021 tot wijziging van het Besluit uitvoering EU-verordeningen financiële markten, het Besluit Gedragstoezicht financiële ondernemingen Wft en het Besluit bekostiging financieel toezicht 2019, en in verband met de uitvoering van Verordening (EU) 2020/1503 van het Europees Parlement en de Raad van 7 oktober 2020 betreffende Europese crowdfundingdienstverleners voor bedrijven en tot wijziging van Verordening (EU) 2017/1129 en Richtlijn (EU) 2019/1937 (PbEU 2020, L 347) (Uitvoeringsbesluit verordening Europese crowdfundingdienstverleners voor bedrijven)

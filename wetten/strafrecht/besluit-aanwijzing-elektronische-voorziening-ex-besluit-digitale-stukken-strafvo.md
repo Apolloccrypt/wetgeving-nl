@@ -9,7 +9,7 @@ laatste_update: 2021-09-02
 status: geldig
 toestand: 2021-09-02
 bron: "https://wetten.overheid.nl/BWBR0045548"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 18 augustus 2021, nr. 3468035, tot aanwijzing van een elektronische voorziening in de zin van het Besluit digitale stukken Strafvordering

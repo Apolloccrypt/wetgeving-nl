@@ -9,7 +9,7 @@ laatste_update: 2021-06-26
 status: geldig
 toestand: 2021-06-26
 bron: "https://wetten.overheid.nl/BWBR0045278"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de hoofdingenieur-directeur van het regionale organisatieonderdeel Rijkswaterstaat Noord-Nederland van 22 juni 2021 met kenmerk RWS-2021/17959, houdende verlening van mandaat en machtiging voor het Loodsplichtbesluit 2021, de Loodsplichtregeling 2021, het Besluit markttoezicht registerloodsen en het Besluit opleidingen en bevoegdheden nautische beroepsbeoefenaren (Besluit mandaat en machtiging Rijkswaterstaat Noord-Nederland loodsplichtwetgeving 2021)

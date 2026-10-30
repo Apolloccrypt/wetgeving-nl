@@ -9,7 +9,7 @@ laatste_update: 2021-04-26
 status: geldig
 toestand: 2021-04-26
 bron: "https://wetten.overheid.nl/BWBR0045043"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid en de Staatssecretaris van Infrastructuur en Waterstaat van 29 maart 2021 nr. 3241615 houdende regels ter uitvoering van de Wet precursoren voor explosieven (Regeling precursoren voor explosieven 2021)

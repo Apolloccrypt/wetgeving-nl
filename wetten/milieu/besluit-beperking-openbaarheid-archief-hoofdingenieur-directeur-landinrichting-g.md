@@ -9,7 +9,7 @@ laatste_update: 2021-06-29
 status: geldig
 toestand: 2021-06-29
 bron: "https://wetten.overheid.nl/BWBR0045295"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit beperking openbaarheid met betrekking het archief van de Hoofdingenieur-directeur voor de Landinrichting, Grond- en Bosbeheer in Noord-Brabant van het Ministerie Landbouw, Natuur en Voedselkwaliteit, (1947) 1972–1983 (1992) Inventaris 1716

@@ -8,7 +8,7 @@ laatste_update: 2021-07-02
 status: geldig
 toestand: 2021-07-02
 bron: "https://wetten.overheid.nl/BWBR0045325"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Verdragsrelaties met voormalige Sovjet- en Joegoslavische republieken

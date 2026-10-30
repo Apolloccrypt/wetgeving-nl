@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-05-21
 toestand: 2021-06-01
 bron: "https://wetten.overheid.nl/BWBR0045179"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van 26 mei 2021 tot wijziging van het Besluit uitvoering Wet arbeid vreemdelingen en het Vreemdelingenbesluit 2000 in verband met een tijdelijke vrijstelling voor startende innovatieve ondernemingen

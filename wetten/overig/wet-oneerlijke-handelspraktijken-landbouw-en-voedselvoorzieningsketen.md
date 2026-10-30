@@ -9,7 +9,7 @@ laatste_update: 2021-11-01
 status: geldig
 toestand: 2021-11-01
 bron: "https://wetten.overheid.nl/BWBR0045048"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Wet van 3 maart 2021, houdende regels strekkende tot implementatie van Richtlijn (EU) 2019/633 van het Europees Parlement en de Raad van 17 april 2019 inzake oneerlijke handelspraktijken in de relaties tussen ondernemingen in de landbouw- en voedselvoorzieningsketen (PbEU 2019, L 111/59) (Wet oneerlijke handelspraktijken landbouw- en voedselvoorzieningsketen)

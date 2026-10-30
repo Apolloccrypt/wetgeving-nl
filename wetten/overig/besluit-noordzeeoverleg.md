@@ -9,7 +9,7 @@ laatste_update: 2024-06-26
 status: geldig
 toestand: 2024-06-26
 bron: "https://wetten.overheid.nl/BWBR0045308"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat, van 29 juni 2021, nr. IENW/BSK-2021-138524, tot instelling van het Noordzeeoverleg (Besluit Noordzeeoverleg)

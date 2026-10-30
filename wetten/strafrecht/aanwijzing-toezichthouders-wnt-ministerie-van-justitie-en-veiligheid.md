@@ -9,7 +9,7 @@ laatste_update: 2021-10-09
 status: geldig
 toestand: 2021-10-09
 bron: "https://wetten.overheid.nl/BWBR0045675"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 20 september 2021 en nr. 3446724, houdende aanwijzing van toezichthouders op de naleving van de Wet normering topinkomens op het terrein van Justitie en Veiligheid (Aanwijzing toezichthouders WNT Ministerie van Justitie en Veiligheid)

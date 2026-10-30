@@ -9,7 +9,7 @@ laatste_update: 2021-03-20
 status: geldig
 toestand: 2021-03-20
 bron: "https://wetten.overheid.nl/BWBR0044950"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid, van 11 maart 2021, nr. 2021-0000038964 tot machtiging van de manager van Advocaten en Adviseurs Arbeidsrecht (Expertisecentrum Organisatie en Personeel en/of diens rechtsopvolger) van de Uitvoeringsorganisatie Bedrijfsvoering Rijk (UBR), inzake juridische procedures betreffende personeelsaangelegenheden (Machtigingsbesluit UBR|Advocaten en Adviseurs Arbeidsrecht van de Minister van Sociale Zaken en Werkgelegenheid)

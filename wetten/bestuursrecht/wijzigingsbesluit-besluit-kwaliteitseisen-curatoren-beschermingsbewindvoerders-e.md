@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0045699"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Besluit van 11 oktober 2021 tot wijziging van het Besluit kwaliteitseisen curatoren, beschermingsbewindvoerders en mentoren naar aanleiding van de evaluatie van de Wet wijziging curatele, beschermingsbewind en mentorschap

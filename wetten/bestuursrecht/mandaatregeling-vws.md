@@ -4,11 +4,11 @@ identifier: "BWBR0007923"
 categorie: "Overig"
 soort: "ministeriele-regeling"
 publicatiedatum: 1996-03-01
-laatste_update: 2026-07-15
+laatste_update: 2026-10-20
 status: geldig
-toestand: 2026-07-15
+toestand: 2026-10-20
 bron: "https://wetten.overheid.nl/BWBR0007923"
-opgehaald: 2026-09-29
+opgehaald: 2026-10-30
 ---
 
 # Mandaatregeling VWS
@@ -77,21 +77,21 @@ Een krachtens mandaat genomen besluit vermeldt namens welk bewindspersoon het be
 
 ##### Artikel 8. De Secretaris-Generaal
 
-De Secretaris-Generaal heeft mandaat ten aanzien van alle stukken met uitsluiting van de stukken die ingevolge [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=4&artikel=11&z=2026-07-15&g=2026-07-15) door de Minister dienen te worden ondertekend.
+De Secretaris-Generaal heeft mandaat ten aanzien van alle stukken met uitsluiting van de stukken die ingevolge [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=4&artikel=11&z=2026-10-20&g=2026-10-20) door de Minister dienen te worden ondertekend.
 
 ##### Artikel 9. De plaatsvervangend Secretaris-Generaal
 
-Behoudens [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=4&artikel=12&z=2026-07-15&g=2026-07-15), heeft de plaatsvervangend Secretaris-Generaal mandaat ten aanzien van dezelfde stukken als de Secretaris-Generaal, voor zover die behoren tot zijn werkterrein.
+Behoudens [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=4&artikel=12&z=2026-10-20&g=2026-10-20), heeft de plaatsvervangend Secretaris-Generaal mandaat ten aanzien van dezelfde stukken als de Secretaris-Generaal, voor zover die behoren tot zijn werkterrein.
 
 ##### Artikel 10
 
-1. Behoudens de [artikelen 12 tot en met 15b](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=4&artikel=12&z=2026-07-15&g=2026-07-15) hebben de volgende functionarissen mandaat ten aanzien van stukken die tot hun werkterrein behoren:
+1. Behoudens de [artikelen 12 tot en met 15b](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=4&artikel=12&z=2026-10-20&g=2026-10-20) hebben de volgende functionarissen mandaat ten aanzien van stukken die tot hun werkterrein behoren:
 
 - a. De Directeuren-Generaal en de directeuren van een directie of eenheid van het kernministerie;
 
 - b. de Directeur-Generaal van het Rijksinstituut voor Volksgezondheid en Milieu;
 
-- c. de inspecteur-generaal en de Directeur Strategie en Organisatie van de Inspectie gezondheidszorg en jeugd;
+- c. de inspecteur-generaal van de Inspectie gezondheidszorg en jeugd;
 
 - d. de inspecteur-generaal, de Directeur Strategie, de Directeur Handhaven, de Directeur Slachttoezicht, de Directeur Handelstoezicht, de Directeur Bureau Risicobeoordeling en Onderzoek en de Directeur Interne Organisatie van de Nederlandse Voedsel- en Warenautoriteit;
 
@@ -111,7 +111,7 @@ Behoudens [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk
 
 ##### Artikel 10a
 
-Het mandaat, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=8&z=2026-07-15&g=2026-07-15), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=9&z=2026-07-15&g=2026-07-15) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2026-07-15&g=2026-07-15), hebben de Secretaris-Generaal, de plaatsvervangend Secretaris-Generaal, de Directeuren-Generaal van het kernministerie en de directeuren van het kernministerie alleen binnen de aan hen toegewezen budgetten.
+Het mandaat, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=8&z=2026-10-20&g=2026-10-20), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=9&z=2026-10-20&g=2026-10-20) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2026-10-20&g=2026-10-20), hebben de Secretaris-Generaal, de plaatsvervangend Secretaris-Generaal, de Directeuren-Generaal van het kernministerie en de directeuren van het kernministerie alleen binnen de aan hen toegewezen budgetten.
 
 #### Hoofdstuk 4. Beperkingen algemeen mandaat
 
@@ -147,11 +147,11 @@ Het mandaat, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0007
 
 ##### Artikel 12. Secretaris-Generaal
 
-In afwijking van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=9&z=2026-07-15&g=2026-07-15) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2026-07-15&g=2026-07-15) heeft de Secretaris-Generaal het mandaat met betrekking tot de stukken bestemd voor de Nationale ombudsman.
+In afwijking van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=9&z=2026-10-20&g=2026-10-20) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2026-10-20&g=2026-10-20) heeft de Secretaris-Generaal het mandaat met betrekking tot de stukken bestemd voor de Nationale ombudsman.
 
 ##### Artikel 13
 
-In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2026-07-15&g=2026-07-15) hebben de Secretaris-Generaal, de Directeuren-Generaal van het kernministerie en de functionarissen genoemd in [artikel 10, eerste lid, onder b, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2026-07-15&g=2026-07-15), ieder mandaat ten aanzien van beleidsregels, alsmede ten aanzien van circulaires die tot hun werkterrein behoren en die worden gebruikt voor:
+In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2026-10-20&g=2026-10-20) hebben de Secretaris-Generaal, de Directeuren-Generaal van het kernministerie en de functionarissen genoemd in [artikel 10, eerste lid, onder b, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2026-10-20&g=2026-10-20), ieder mandaat ten aanzien van beleidsregels, alsmede ten aanzien van circulaires die tot hun werkterrein behoren en die worden gebruikt voor:
 
 - a. bekendmaking van beleidsmaatregelen en daarmee samenhangende voorschriften;
 
@@ -161,9 +161,9 @@ In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&ho
 
 ##### Artikel 13a
 
-1. In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2026-07-15&g=2026-07-15) heeft de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit mandaat ten aanzien van het vaststellen van beleidsregels, met uitzondering van beleidsregels omtrent de uitleg van wettelijke voorschriften.
+1. In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2026-10-20&g=2026-10-20) heeft de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit mandaat ten aanzien van het vaststellen van beleidsregels, met uitzondering van beleidsregels omtrent de uitleg van wettelijke voorschriften.
 
-2. In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2026-07-15&g=2026-07-15) hebben de functionarissen genoemd in [artikel 10, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2026-07-15&g=2026-07-15), ieder mandaat ten aanzien van circulaires die tot hun werkterrein behoren en die worden gebruikt voor:
+2. In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2026-10-20&g=2026-10-20) hebben de functionarissen genoemd in [artikel 10, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2026-10-20&g=2026-10-20), ieder mandaat ten aanzien van circulaires die tot hun werkterrein behoren en die worden gebruikt voor:
 
 - a. bekendmaking van beleidsmaatregelen en daarmee samenhangende voorschriften;
 
@@ -173,7 +173,7 @@ In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&ho
 
 ##### Artikel 14
 
-1. In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2026-07-15&g=2026-07-15) hebben ten aanzien van verweerschriften en beroepschriften ten behoeve van procedures bij de bestuursrechter en machtigingen om de Minister daarin te vertegenwoordigen de volgende functionarissen mandaat:
+1. In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2026-10-20&g=2026-10-20) hebben ten aanzien van verweerschriften en hoger beroepschriften ten behoeve van procedures bij de bestuursrechter en machtigingen om de Minister daarin te vertegenwoordigen de volgende functionarissen mandaat:
 
 - a. de Secretaris-Generaal;
 
@@ -181,33 +181,33 @@ In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&ho
 
 - c. de Directeur Zorg en Jeugd in Caribisch Nederland, voor zover behorend tot het werkterrein van de directie Zorg en Jeugd in Caribisch Nederland;
 
-- d. ten aanzien van hun eigen werkterrein, de functionarissen genoemd in [artikel 10, eerste lid, onder b tot en met e, h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2026-07-15&g=2026-07-15).
+- d. ten aanzien van hun eigen werkterrein, de functionarissen genoemd in [artikel 10, eerste lid, onder b tot en met e, h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2026-10-20&g=2026-10-20).
 
-2. In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2026-07-15&g=2026-07-15) hebben de Secretaris-Generaal en de Directeur Wetgeving en Juridische Zaken mandaat tot het nemen van beslissingen op bezwaar, behoudens de gevallen genoemd in het derde lid.
+2. In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2026-10-20&g=2026-10-20) hebben de Secretaris-Generaal en de Directeur Wetgeving en Juridische Zaken mandaat tot het nemen van beslissingen op bezwaar, behoudens de gevallen genoemd in het derde lid.
 
-3. In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2026-07-15&g=2026-07-15) hebben de Secretaris-Generaal en de Directeur Zorg en Jeugd in Caribisch Nederland mandaat tot het nemen van beslissingen op bezwaar, voor zover behorend tot het werkterrein van de directie Zorg en Jeugd in Caribisch Nederland.
+3. In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2026-10-20&g=2026-10-20) hebben de Secretaris-Generaal en de Directeur Zorg en Jeugd in Caribisch Nederland mandaat tot het nemen van beslissingen op bezwaar, voor zover behorend tot het werkterrein van de directie Zorg en Jeugd in Caribisch Nederland.
 
 4. In afwijking van het tweede lid en derde blijft aan de Minister voorbehouden de bevoegdheid tot het nemen van een besluit inzake een bezwaar tegen een besluit dat door de Minister dan wel door de Secretaris-Generaal namens de Minister is genomen.
 
-5. Op machtigingen, verleend ten behoeve van het vertegenwoordigen van de Minister in procedures bij de bestuursrechter, zijn de [artikelen 16, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=5&artikel=16&z=2026-07-15&g=2026-07-15), voor zover het de goedkeuring van de Secretaris-Generaal betreft, en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=6&artikel=17&z=2026-07-15&g=2026-07-15) niet van toepassing.
+5. Op machtigingen, verleend ten behoeve van het vertegenwoordigen van de Minister in procedures bij de bestuursrechter, zijn de [artikelen 16, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=5&artikel=16&z=2026-10-20&g=2026-10-20), voor zover het de goedkeuring van de Secretaris-Generaal betreft, en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=6&artikel=17&z=2026-10-20&g=2026-10-20) niet van toepassing.
 
 6. Alle functionarissen ondergeschikt aan de Directeur Wetgeving en Juridische Zaken hebben mandaat met betrekking tot het nemen van beslissingen en het verrichten van handelingen betreffende de voorbereiding van een beslissing op bezwaar.
 
 7. In afwijking van het tweede lid hebben de inspecteur-generaal, de directeur Strategie, het divisiehoofd Juridische Zaken en de teamleiders van de teams Bezwaar & Beroep 1 en Bezwaar & Beroep 2 van de Nederlandse Voedsel- en Warenautoriteit mandaat tot het nemen van beslissingen op bezwaar met betrekking tot besluiten die tot hun werkterrein behoren.
 
-8. In aanvulling op het eerste lid, onder d, hebben de directeur Strategie en Organisatie en het hoofd Juridische Zaken van de Inspectie Gezondheidszorg en Jeugd mandaat ten aanzien van verweerschriften met betrekking tot besluiten die tot hun werkterrein behoren.
+8. In aanvulling op het eerste lid, onder d, hebben de directeuren van de Inspectie Gezondheidszorg en Jeugd mandaat ten aanzien van verweerschriften en hoger beroepschriften met betrekking tot besluiten die tot hun werkterrein behoren.
 
-9. In aanvulling op het eerste lid, onder d, hebben het divisiehoofd Juridische Zaken en de teamleiders van de teams Bezwaar & Beroep 1 en Bezwaar & Beroep 2 van de Nederlandse Voedsel- en Warenautoriteit mandaat ten aanzien van verweerschriften en beroepschriften ten behoeve van procedures bij de bestuursrechter en machtiging om de Minister daarin te vertegenwoordigen met betrekking tot besluiten die tot hun werkterrein behoren.
+9. In aanvulling op het eerste lid, onder d, hebben het divisiehoofd Juridische Zaken en de teamleiders van de teams Bezwaar & Beroep 1 en Bezwaar & Beroep 2 van de Nederlandse Voedsel- en Warenautoriteit mandaat ten aanzien van verweerschriften en hoger beroepschriften ten behoeve van procedures bij de bestuursrechter en machtiging om de Minister daarin te vertegenwoordigen met betrekking tot besluiten die tot hun werkterrein behoren.
 
 10. Alle functionarissen ondergeschikt aan de Directeur Zorg en Jeugd in Caribisch Nederland hebben mandaat met betrekking tot het nemen van beslissingen en het verrichten van handelingen betreffende de voorbereiding van een beslissing op bezwaar, voor zover behorend tot het werkterrein van de directie Zorg en Jeugd in Caribisch Nederland.
 
 ##### Artikel 15. Wet open overheid
 
-1. In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2026-07-15&g=2026-07-15) hebben de Secretaris-Generaal, de plaatsvervangend Secretaris-Generaal en de Directeur Open Overheid ieder mandaat tot het nemen van besluiten in het kader van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754).
+1. In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2026-10-20&g=2026-10-20) hebben de Secretaris-Generaal, de plaatsvervangend Secretaris-Generaal en de Directeur Open Overheid ieder mandaat tot het nemen van besluiten in het kader van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754).
 
-2. In afwijking van [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=4&artikel=14&z=2026-07-15&g=2026-07-15), hebben de Secretaris-Generaal en de Directeur Open Overheid mandaat tot het nemen van beslissingen op bezwaar in het kader van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754).
+2. In afwijking van [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=4&artikel=14&z=2026-10-20&g=2026-10-20), hebben de Secretaris-Generaal en de Directeur Open Overheid mandaat tot het nemen van beslissingen op bezwaar in het kader van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754).
 
-3. In afwijking van [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=4&artikel=14&z=2026-07-15&g=2026-07-15), hebben ten aanzien van verweerschriften en beroepschriften in het kader van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) ten behoeve van procedures bij de bestuursrechter en machtigingen om de Minister daarin te vertegenwoordigen de volgende functionarissen mandaat:
+3. In afwijking van [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=4&artikel=14&z=2026-10-20&g=2026-10-20), hebben ten aanzien van verweerschriften en beroepschriften in het kader van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) ten behoeve van procedures bij de bestuursrechter en machtigingen om de Minister daarin te vertegenwoordigen de volgende functionarissen mandaat:
 
 - a. de Secretaris-Generaal;
 
@@ -219,7 +219,7 @@ In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&ho
 
 ##### Artikel 15a
 
-1. In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2026-07-15&g=2026-07-15) juncto [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=1&artikel=1b&z=2026-07-15&g=2026-07-15) hebben de Inspecteur-Generaal en de Hoofdinspecteurs van de Inspectie gezondheidszorg en jeugd ieder mandaat voor:
+1. In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2026-10-20&g=2026-10-20) juncto [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=1&artikel=1b&z=2026-10-20&g=2026-10-20) hebben de Inspecteur-Generaal en de directeuren van de Inspectie gezondheidszorg en jeugd ieder mandaat voor:
 
 - a. het opleggen van een last onder dwangsom als bedoeld in [artikel 29, tweede lid van de Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=29) en [artikel 39, tweede lid, van de Gezondheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&artikel=39) of het toepassen van bestuursdwang als bedoeld in [artikel 29, eerste lid, van de Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=29);
 
@@ -229,13 +229,13 @@ In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&ho
 
 - d. het geven van een schriftelijke aanwijzing als bedoeld in [artikel 9.3, eerste lid, van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=9.3).
 
-2. In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2026-07-15&g=2026-07-15) juncto [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=1&artikel=1b&z=2026-07-15&g=2026-07-15) hebben de onder de Hoofdinspecteurs van de Inspectie gezondheidszorg en jeugd ressorterende functionarissen ieder machtiging tot het aanzeggen van een voornemen tot het opleggen van een last onder dwangsom en het aanzeggen van het voornemen tot het geven van een schriftelijke aanwijzing als bedoeld in het eerste lid.
+2. In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2026-10-20&g=2026-10-20) juncto [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=1&artikel=1b&z=2026-10-20&g=2026-10-20) hebben de onder de directeuren van de Inspectie gezondheidszorg en jeugd ressorterende functionarissen ieder machtiging tot het aanzeggen van een voornemen tot het opleggen van een last onder dwangsom en het aanzeggen van het voornemen tot het geven van een schriftelijke aanwijzing als bedoeld in het eerste lid.
 
-3. In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2026-07-15&g=2026-07-15) juncto [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=1&artikel=1b&z=2026-07-15&g=2026-07-15) hebben de Inspecteur-Generaal, de Directeur Beleid en Strategie, het hoofd Bureau Opsporing en Boetes en het hoofd Juridische Zaken van de inspectie gezondheidszorg en jeugd mandaat voor het opleggen van een bestuurlijke boete op het werkterrein van de Inspectie gezondheidszorg en jeugd.
+3. In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2026-10-20&g=2026-10-20) juncto [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=1&artikel=1b&z=2026-10-20&g=2026-10-20) hebben de Inspecteur-Generaal en de directeuren van de inspectie gezondheidszorg en jeugd mandaat voor het opleggen van een bestuurlijke boete op het werkterrein van de Inspectie gezondheidszorg en jeugd.
 
 ##### Artikel 15b
 
-1. De Inspecteur-Generaal, de Hoofdinspecteurs van de Inspectie gezondheidszorg en jeugd en de Inspecteurs van de Inspectie gezondheidszorg en jeugd, hebben mandaat tot het nemen van besluiten tot openbaarmaking, als bedoeld in [onderdeel II, onder 3.1, subonderdeel a, en onderdeel III, onder 3.1, subonderdeel a, van de bijlage bij het Besluit openbaarmaking toezicht- en uitvoeringsgegevens Gezondheidswet en Jeugdwet](https://wetten.overheid.nl/BWBR0041861), met uitzondering van de besluiten, bedoeld in het tweede lid, te nemen.
+1. De Inspecteur-Generaal en de directeuren van de Inspectie gezondheidszorg en jeugd, hebben mandaat tot het nemen van besluiten tot openbaarmaking, als bedoeld in [onderdeel II, onder 3.1, subonderdeel a, en onderdeel III, onder 3.1, subonderdeel a, van de bijlage bij het Besluit openbaarmaking toezicht- en uitvoeringsgegevens Gezondheidswet en Jeugdwet](https://wetten.overheid.nl/BWBR0041861), met uitzondering van de besluiten, bedoeld in het tweede lid, te nemen.
 
 2. De directeuren van het kernministerie hebben mandaat tot het nemen van besluiten tot openbaarmaking als bedoeld in [onderdeel II, onder 3.1, subonderdeel a, van de bijlage bij het Besluit openbaarmaking toezicht- en uitvoeringsgegevens Gezondheidswet en Jeugdwet](https://wetten.overheid.nl/BWBR0041861), voor zover de openbaarmaking de verlenging van bevelen op grond van [artikel 27, vierde lid, Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=27) als bedoeld in de tabel in onderdeel II, onder 2.3, van die bijlage betreft.
 
@@ -251,9 +251,9 @@ De Directeur-Generaal van het Rijksinstituut voor Volksgezondheid en Milieu heef
 
 1. De directeur van een directie of eenheid is bevoegd ondermandaat of ondertekeningsmandaat te verlenen aan de Directeur Organisatie, Bedrijfsvoering en Personeel met betrekking tot stukken ter zake van onderwerpen die tot het werkterrein van de Directie Organisatie, Bedrijfsvoering en Personeel behoren.
 
-2. De Directeur Organisatie, Bedrijfsvoering en Personeel kan aan andere ondergeschikten dan hoofden van direct onder hem ressorterende organisatie-eenheden ondermandaat verlenen. Deze bevoegdheid komt ook toe aan de andere functionarissen, genoemd in [artikel 10, eerste lid, onder a tot en met j](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2026-07-15&g=2026-07-15), en als bedoeld in artikel 10, tweede lid.
+2. De Directeur Organisatie, Bedrijfsvoering en Personeel kan aan andere ondergeschikten dan hoofden van direct onder hem ressorterende organisatie-eenheden ondermandaat verlenen. Deze bevoegdheid komt ook toe aan de andere functionarissen, genoemd in [artikel 10, eerste lid, onder a tot en met j](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2026-10-20&g=2026-10-20), en als bedoeld in artikel 10, tweede lid.
 
-3. De functionarissen, bedoeld in [artikel 14, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=4&artikel=14&z=2026-07-15&g=2026-07-15), en [artikel 15, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=4&artikel=15&z=2026-07-15&g=2026-07-15), zijn bevoegd om hoofden van direct onder hen ressorterende organisatie-eenheden, dan wel indien geen sprake is van een verdeling in organisatie-eenheden, de andere leden van het betrokken collegiale managementteam, ondermandaat dan wel machtiging te verlenen tot het geheel of gedeeltelijk uitoefenen van de daar genoemde bevoegdheden.
+3. De functionarissen, bedoeld in [artikel 14, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=4&artikel=14&z=2026-10-20&g=2026-10-20), en [artikel 15, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=4&artikel=15&z=2026-10-20&g=2026-10-20), zijn bevoegd om hoofden van direct onder hen ressorterende organisatie-eenheden, dan wel indien geen sprake is van een verdeling in organisatie-eenheden, de andere leden van het betrokken collegiale managementteam, ondermandaat dan wel machtiging te verlenen tot het geheel of gedeeltelijk uitoefenen van de daar genoemde bevoegdheden.
 
 4. Ondermandaat kan hetzij algemeen hetzij voor een bepaald geval verleend worden.
 
@@ -265,7 +265,7 @@ De Directeur-Generaal van het Rijksinstituut voor Volksgezondheid en Milieu heef
 
 ##### Artikel 16a. Bijzonder ondermandaat
 
-1. Onverminderd [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=4&artikel=11&z=2026-07-15&g=2026-07-15), kan de Secretaris-Generaal, in het kader van een bepaald project en andere bijzondere gevallen, naast of in plaats van de op grond van de [Hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&z=2026-07-15&g=2026-07-15), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=4&z=2026-07-15&g=2026-07-15) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=5&z=2026-07-15&g=2026-07-15) bevoegde functionarissen, aan anderen de bevoegdheid verlenen om in naam van de Minister besluiten te nemen.
+1. Onverminderd [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=4&artikel=11&z=2026-10-20&g=2026-10-20), kan de Secretaris-Generaal, in het kader van een bepaald project en andere bijzondere gevallen, naast of in plaats van de op grond van de [Hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&z=2026-10-20&g=2026-10-20), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=4&z=2026-10-20&g=2026-10-20) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=5&z=2026-10-20&g=2026-10-20) bevoegde functionarissen, aan anderen de bevoegdheid verlenen om in naam van de Minister besluiten te nemen.
 
 2. Bijzonder ondermandaat aan personen die geen ambtenaar zijn, wordt slechts verleend voor zover daartoe dwingende redenen zijn.
 

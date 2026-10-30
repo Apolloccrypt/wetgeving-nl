@@ -9,7 +9,7 @@ laatste_update: 2021-06-29
 status: geldig
 toestand: 2021-06-29
 bron: "https://wetten.overheid.nl/BWBR0045296"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit beperking openbaarheid met betrekking op het archief van het Rijkslandbouwconsulentschap voor Noord-Oostelijk Noord-Brabant in Oss, 1947–1969

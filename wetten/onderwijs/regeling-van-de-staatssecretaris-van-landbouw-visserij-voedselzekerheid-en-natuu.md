@@ -5,11 +5,11 @@ identifier: "BWBR0052802"
 categorie: "Onderwijs"
 soort: "ministeriele-regeling"
 publicatiedatum: 2026-07-09
-laatste_update: 2026-07-09
+laatste_update: 2026-10-24
 status: geldig
-toestand: 2026-07-09
+toestand: 2026-10-24
 bron: "https://wetten.overheid.nl/BWBR0052802"
-opgehaald: 2026-09-21
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur van 26 juni 2026, nr. WJZ/106451381, houdende vaststelling van de Regeling schoolfruit en -groenten 2026 (KetenID WGK 29208)
@@ -55,7 +55,7 @@ In deze regeling wordt verstaan onder:
 
 1. De minister verleent op verzoek aan maximaal acht leveranciers van fruit en groenten voor de periode van schooljaar 2026/2027 een erkenning indien de leverancier:
 
-- a. bewijst dat hij op de dag van de erkenningsaanvraag ingeschreven staat bij de Kamer van Koophandel of een vergelijkbare registratie in een andere lidstaat onder een of meer in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052802&bijlage=1&z=2026-07-09&g=2026-07-09) vermelde SBI-codes;
+- a. bewijst dat hij op de dag van de erkenningsaanvraag ingeschreven staat bij de Kamer van Koophandel of een vergelijkbare registratie in een andere lidstaat onder een of meer in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052802&bijlage=1&z=2026-10-24&g=2026-10-24) vermelde SBI-codes;
 
 - b. bewijst dat hij in een periode van ten minste twee jaar vóór de dag van de erkenningsaanvraag zijn hoofdactiviteiten heeft in de groenten- en fruitsector;
 
@@ -73,13 +73,13 @@ In deze regeling wordt verstaan onder:
 
 - g. bewijst dat hij Global Gap of gelijkwaardig gecertificeerd is of rechtstreeks van een gecertificeerde leverancier fruit en groenten betrekt;
 
-- h. verklaart dat hij overeenkomstig de criteria van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052802&bijlage=2&z=2026-07-09&g=2026-07-09) geen verbonden partij is met een andere leverancier van producten die om een erkenning verzoekt;
+- h. verklaart dat hij overeenkomstig de criteria van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052802&bijlage=2&z=2026-10-24&g=2026-10-24) geen verbonden partij is met een andere leverancier van producten die om een erkenning verzoekt;
 
 - i. verklaart dat hij kennis heeft van en akkoord gaat met een eenheidsprijs aan steun ten bedrage van 26,6 eurocent per portie;
 
 - j. verklaart alle medewerking te verschaffen bij op grond van artikel 10 van verordening (EU) 2017/39 te verrichten controles ter plaatse;
 
-- k. verklaart akkoord te gaan met belevering van de door de minister toe te wijzen scholen gedurende de perioden van levering als bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052802&hoofdstuk=5&artikel=9&z=2026-07-09&g=2026-07-09);
+- k. verklaart akkoord te gaan met belevering van de door de minister toe te wijzen scholen gedurende de perioden van levering als bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052802&hoofdstuk=5&artikel=9&z=2026-10-24&g=2026-10-24);
 
 - l. verklaart zich te houden aan de Richtlijnen voor communicatie met de scholen; en
 
@@ -111,7 +111,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-1. De minister schorst een erkenning of trekt een erkenning in overeenkomstig artikel 7 van verordening (EU) 2017/40 wanneer een erkende leverancier niet langer voldoet aan de voorwaarden van verordening (EU) 2017/39, verordening (EU) 2017/40, de erkenningsvoorwaarden als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052802&hoofdstuk=2&artikel=2&z=2026-07-09&g=2026-07-09), of overige voorwaarden ingevolge deze regeling.
+1. De minister schorst een erkenning of trekt een erkenning in overeenkomstig artikel 7 van verordening (EU) 2017/40 wanneer een erkende leverancier niet langer voldoet aan de voorwaarden van verordening (EU) 2017/39, verordening (EU) 2017/40, de erkenningsvoorwaarden als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052802&hoofdstuk=2&artikel=2&z=2026-10-24&g=2026-10-24), of overige voorwaarden ingevolge deze regeling.
 
 2. Een erkende leverancier die gedurende een erkenningsperiode kenbaar maakt dat hij afziet van deelname aan deze regeling verliest door die verklaring de erkenning en kan geen aanvraag indienen voor een met de onderhavige regeling vergelijkbare voorziening voor de volgende erkenningsperiode.
 
@@ -155,7 +155,7 @@ Alle aan deze regeling deelnemende scholen:
 
 - a. zorgen ervoor dat fruit en groenten op school worden uitgereikt aan en geconsumeerd worden door de leerlingen die zijn ingeschreven in het schoolregister;
 
-- b. kunnen eenmalig tot en met 15 december 2026 het aantal leerlingen als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052802&hoofdstuk=3&artikel=5&z=2026-07-09&g=2026-07-09), wijzigen op basis van de werkelijke mutaties van de school in het betreffende schooljaar, tenzij sprake is van uitzonderlijke omstandigheden, ter beoordeling van de minister;
+- b. kunnen eenmalig tot en met 18 december 2026 het aantal leerlingen als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052802&hoofdstuk=3&artikel=5&z=2026-10-24&g=2026-10-24), wijzigen op basis van de werkelijke mutaties van de school in het betreffende schooljaar, tenzij sprake is van uitzonderlijke omstandigheden, ter beoordeling van de minister;
 
 - c. wijzen een medewerker aan die de verspreiding van gratis fruit en groenten coördineert;
 
@@ -189,13 +189,13 @@ Alle aan deze regeling deelnemende scholen:
 
 - d. geen toegevoegde suiker, toegevoegde kunstmatige zoetstoffen, toegevoegd vet of toegevoegd zout bevatten;
 
-- e. opgenomen zijn in de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052802&bijlage=3&z=2026-07-09&g=2026-07-09) vermelde lijst van toegestane producten.
+- e. opgenomen zijn in de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052802&bijlage=3&z=2026-10-24&g=2026-10-24) vermelde lijst van toegestane producten.
 
 2. Producten zijn subsidiabel indien de verstrekte porties per schooljaar:
 
 - a. minimaal 15% en maximaal 25% groenten bevatten;
 
-- b. maximaal 15% hetzelfde product bevatten voor wat betreft fruit en maximaal 10% hetzelfde product bevatten voor wat betreft groente, conform de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052802&bijlage=3&z=2026-07-09&g=2026-07-09) opgenomen lijst met toegestane producten;
+- b. maximaal 15% hetzelfde product bevatten voor wat betreft fruit en maximaal 10% hetzelfde product bevatten voor wat betreft groente, conform de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052802&bijlage=3&z=2026-10-24&g=2026-10-24) opgenomen lijst met toegestane producten;
 
 - c. drie maal per week aan de leerlingen worden verstrekt; en
 
@@ -217,7 +217,7 @@ Een erkende leverancier van fruit en groenten ontvangt steun ten bedrage van 26,
 
 ##### Artikel 9
 
-1. Een erkende leverancier van fruit en groenten verzoekt de minister in drie termijnen om betaling van steun over de periode waarin hij subsidiabele activiteiten heeft verricht ten behoeve van een deelnemende school als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052802&hoofdstuk=3&artikel=4&z=2026-07-09&g=2026-07-09).
+1. Een erkende leverancier van fruit en groenten verzoekt de minister in drie termijnen om betaling van steun over de periode waarin hij subsidiabele activiteiten heeft verricht ten behoeve van een deelnemende school als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052802&hoofdstuk=3&artikel=4&z=2026-10-24&g=2026-10-24).
 
 2. Steunaanvragen van erkende leveranciers worden per periode van levering ingediend, waarbij de eerste periode in schooljaar 2026/2027 aanvangt in week 46. De perioden van levering zijn:
 

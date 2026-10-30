@@ -9,7 +9,7 @@ laatste_update: 2021-05-27
 status: geldig
 toestand: 2021-05-27
 bron: "https://wetten.overheid.nl/BWBR0045151"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister van Financiën van 12 mei 2021, 2021-0000094671, directie Financiële Markten, tot instelling van de Evaluatiecommissie Conservatrix (Instellingsbesluit Evaluatiecommissie Conservatrix)

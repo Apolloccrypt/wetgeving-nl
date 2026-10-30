@@ -9,7 +9,7 @@ laatste_update: 2021-07-24
 status: geldig
 toestand: 2021-07-24
 bron: "https://wetten.overheid.nl/BWBR0045457"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Waterstaat, van 4 juli 2021, nr. IENW/BSK-2021/182051, houdende verhoging van de subsidieplafonds op grond van de Subsidieregeling versterking omgevingsveiligheid industriële activiteiten voor het jaar 2021

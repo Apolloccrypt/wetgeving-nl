@@ -5,11 +5,11 @@ identifier: "BWBR0051520"
 categorie: "Overig"
 soort: "zbo"
 publicatiedatum: 2025-09-24
-laatste_update: 2025-09-24
+laatste_update: 2026-10-22
 status: geldig
-toestand: 2025-09-24
+toestand: 2026-10-22
 bron: "https://wetten.overheid.nl/BWBR0051520"
-opgehaald: 2026-09-09
+opgehaald: 2026-10-30
 ---
 
 # Besluit van het Stimuleringsfonds voor de Journalistiek van 21 augustus 2025, nr. OJ2526VD, tot vaststelling van een Subsidieregeling Verduurzaming Onderzoeksjournalistieke Organisaties 2025–2026
@@ -141,7 +141,7 @@ Het voor subsidie beschikbare bedrag wordt verdeeld op basis van een rangschikki
 
 1. Aanvragen worden door het Stimuleringsfonds eerst beoordeeld aan de hand van het volgende drempelcriterium:
 
-- a) de aanvrager voldoet aan [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0051520&hoofdstuk=2&artikel=2.1&z=2025-09-24&g=2025-09-24) van de regeling.
+- a) de aanvrager voldoet aan [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0051520&hoofdstuk=2&artikel=2.1&z=2026-10-22&g=2026-10-22) van de regeling.
 
 2. Als een aanvraag niet aan het drempelcriterium voldoet, wijst het Stimuleringsfonds de aanvraag af.
 
@@ -189,7 +189,7 @@ Het voor subsidie beschikbare bedrag wordt verdeeld op basis van een rangschikki
 
 ##### Artikel 3.5. Besluit
 
-Het Stimuleringsfonds beslist binnen 12 weken na afloop van de periode, bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0051520&hoofdstuk=2&artikel=2.3&z=2025-09-24&g=2025-09-24).
+Het Stimuleringsfonds beslist binnen 12 weken na afloop van de periode, bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0051520&hoofdstuk=2&artikel=2.3&z=2026-10-22&g=2026-10-22).
 
 ##### Artikel 3.6. Subsidiehoogte
 
@@ -213,7 +213,7 @@ Voor zover subsidies worden verleend ten laste van een begroting die nog niet is
 
 ##### Artikel 4.1. Aanvraag ontwikkelbudget
 
-1. Ontwikkelbudget kan alleen worden aangevraagd door een subsidieontvanger die op grond van deze regeling reeds subsidie ontvangt, als bedoeld in [artikel 1.4, vijfde lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0051520&hoofdstuk=1&artikel=1.4&z=2025-09-24&g=2025-09-24) en die met het volledige team deelnemen aan alle georganiseerde activiteiten binnen het begeleidingsprogramma.
+1. Ontwikkelbudget kan alleen worden aangevraagd door een subsidieontvanger die op grond van deze regeling reeds subsidie ontvangt, als bedoeld in [artikel 1.4, vijfde lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0051520&hoofdstuk=1&artikel=1.4&z=2026-10-22&g=2026-10-22) en die met het volledige team deelnemen aan alle georganiseerde activiteiten binnen het begeleidingsprogramma.
 
 2. Een aanvraag wordt uitsluitend ingediend door het invullen van een door het Stimuleringsfonds vastgesteld aanvraagformulier op de website van het Stimuleringsfonds, volgens de daarbij vermelde instructies, en omvat in ieder geval:
 
@@ -243,7 +243,7 @@ Voor zover subsidies worden verleend ten laste van een begroting die nog niet is
 
 ##### Artikel 4.3. Subsidieplafond ontwikkelbudget
 
-1. Voor het ontwikkelbudget is in totaal 200.000 euro beschikbaar.
+1. Voor het ontwikkelbudget is in totaal 200.371,31 euro beschikbaar.
 
 2. Het Stimuleringsfonds weigert een subsidieaanvraag voor het ontwikkelbudget voor zover door de verstrekking daarvan het subsidieplafond zou worden overschreden.
 
@@ -287,7 +287,7 @@ Voor zover subsidies worden verleend ten laste van een begroting die nog niet is
 
 2. Alle aanvragen tot subsidievaststelling moeten uiterlijk 28 februari 2027 zijn ingediend.
 
-3. Een aanvraag tot subsidievaststelling gaat vergezeld van een activiteitenverslag en een financieel verslag, zoals bedoeld in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0051520&hoofdstuk=4&artikel=4.8&z=2025-09-24&g=2025-09-24). Het activiteitenverslag en het financieel verslag worden uitsluitend ingediend volgens een door het Stimuleringsfonds vast te stellen format.
+3. Een aanvraag tot subsidievaststelling gaat vergezeld van een activiteitenverslag en een financieel verslag, zoals bedoeld in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0051520&hoofdstuk=4&artikel=4.8&z=2026-10-22&g=2026-10-22). Het activiteitenverslag en het financieel verslag worden uitsluitend ingediend volgens een door het Stimuleringsfonds vast te stellen format.
 
 4. De subsidie wordt vastgesteld op basis van het activiteitenverslag en het financieel verslag.
 
@@ -303,7 +303,7 @@ Voor zover subsidies worden verleend ten laste van een begroting die nog niet is
 
 1. De activiteiten voor de financiële verduurzaming van onderzoeksjournalistieke organisaties worden aangewezen als DAEB. De activiteiten die met de uitvoering van de DAEB verband houden betreffen het structureel versterken van de financiële basis van onderzoeksjournalistieke organisaties, door in te zetten op de inhoudelijke en zakelijke groei van de organisatie en de ontwikkeling van onderzoeksjournalistiek in zijn algemeen. De activiteiten dienen te fungeren als vliegwiel voor het vergaren van andere inkomsten en dienen te leiden tot verdere financiële stabiliteit van de organisatie.
 
-2. De kosten die voor vergoeding in aanmerking komen, zijn omschreven in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0051520&hoofdstuk=1&artikel=1.4&z=2025-09-24&g=2025-09-24) en [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051520&hoofdstuk=4&artikel=4.2&z=2025-09-24&g=2025-09-24) van de subsidieregeling.
+2. De kosten die voor vergoeding in aanmerking komen, zijn omschreven in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0051520&hoofdstuk=1&artikel=1.4&z=2026-10-22&g=2026-10-22) en [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051520&hoofdstuk=4&artikel=4.2&z=2026-10-22&g=2026-10-22) van de subsidieregeling.
 
 3. De aanvrager wordt in de subsidieverleningsbeschikking met de uitvoering van de DAEB belast.
 
@@ -331,7 +331,7 @@ Voor zover subsidies worden verleend ten laste van een begroting die nog niet is
 
 1. Een aanvraag tot subsidievaststelling wordt uiterlijk 28 februari 2027 ingediend.
 
-2. De aanvraag tot subsidievaststelling gaat vergezeld van een inhoudelijk verslag en een financieel verslag als bedoeld in [artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051520&hoofdstuk=7&artikel=7.2&z=2025-09-24&g=2025-09-24).
+2. De aanvraag tot subsidievaststelling gaat vergezeld van een inhoudelijk verslag en een financieel verslag als bedoeld in [artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051520&hoofdstuk=7&artikel=7.2&z=2026-10-22&g=2026-10-22).
 
 ##### Artikel 7.2. Inhoudelijk verslag en financieel verslag
 

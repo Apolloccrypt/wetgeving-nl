@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-06-23
 toestand: 2022-06-23
 bron: "https://wetten.overheid.nl/BWBR0045263"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 7 juni 2021, tot instelling van de Taskforce Onze hulpverleners veilig (Instellingsbesluit Taskforce Onze hulpverleners veilig)

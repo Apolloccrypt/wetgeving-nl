@@ -8,7 +8,7 @@ laatste_update: 2021-06-18
 status: geldig
 toestand: 2021-06-18
 bron: "https://wetten.overheid.nl/BWBR0045244"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Klachtenregeling BFT 2021

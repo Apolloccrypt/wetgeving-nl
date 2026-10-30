@@ -9,7 +9,7 @@ laatste_update: 2021-10-30
 status: geldig
 toestand: 2021-10-30
 bron: "https://wetten.overheid.nl/BWBR0045747"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat van 27 oktober 2021, nr. IENW/BSK-2021/275727, houdende vaststelling van het maximaal toegestane aandeel van het eigen vermogen in het totale vermogen, bedoeld in artikel 10, tweede lid, van de Drinkwaterwet, en van de gewogen gemiddelde vermogenskostenvoet, bedoeld in het derde lid van dat artikel, voor de kalenderjaren 2022 tot met 2024

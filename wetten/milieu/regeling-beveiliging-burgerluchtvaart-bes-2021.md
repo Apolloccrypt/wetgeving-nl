@@ -9,7 +9,7 @@ laatste_update: 2024-04-01
 status: geldig
 toestand: 2024-04-01
 bron: "https://wetten.overheid.nl/BWBR0045374"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Regeling van 21 juni 2021, nr. 3366665 houdende voorschriften voor de beveiliging op de luchthavens van Bonaire, Sint Eustatius en Saba (Regeling beveiliging burgerluchtvaart BES 2021)

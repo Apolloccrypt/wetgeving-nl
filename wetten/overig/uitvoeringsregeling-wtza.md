@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0045540"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 20 augustus 2021, kenmerk 3242398-1014062-PZO, houdende nadere regels op grond van de Wet toetreding zorgaanbieders (Uitvoeringsregeling Wtza)

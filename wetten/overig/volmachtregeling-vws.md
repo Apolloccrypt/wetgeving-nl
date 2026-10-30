@@ -4,11 +4,11 @@ identifier: "BWBR0010710"
 categorie: "Overig"
 soort: "ministeriele-regeling"
 publicatiedatum: 1999-09-24
-laatste_update: 2025-04-01
+laatste_update: 2026-10-20
 status: geldig
-toestand: 2025-04-01
+toestand: 2026-10-20
 bron: "https://wetten.overheid.nl/BWBR0010710"
-opgehaald: 2026-10-01
+opgehaald: 2026-10-30
 ---
 
 # Volmachtregeling VWS
@@ -77,7 +77,7 @@ Bij de uitoefening van de volmacht vermeldt de gevolmachtigde, indien mogelijk s
 
 ##### Artikel 8
 
-De Secretaris-Generaal heeft volmacht ten aanzien van alle rechtshandelingen met uitsluiting van de rechtshandelingen die ingevolge [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&artikel=11&z=2025-04-01&g=2025-04-01) door de Minister worden verricht.
+De Secretaris-Generaal heeft volmacht ten aanzien van alle rechtshandelingen met uitsluiting van de rechtshandelingen die ingevolge [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&artikel=11&z=2026-10-20&g=2026-10-20) door de Minister worden verricht.
 
 ##### Artikel 9
 
@@ -95,31 +95,33 @@ De plaatsvervangend Secretaris-Generaal heeft volmacht ten aanzien van de rechts
 
 - d. de inspecteur-generaal van de Inspectie gezondheidszorg en jeugd;
 
-- e. de Algemeen Directeur van het CIBG;
+- e. de directeuren direct ressorterend onder de inspecteur-generaal van de Inspectie gezondheidszorg en jeugd tot een bedrag van € 250.000 inclusief btw;
 
-- f. de Directeur van het agentschap College ter Beoordeling van Geneesmiddelen;
+- f. de Algemeen Directeur van het CIBG;
 
-- g. de Directeur van het Sociaal en Cultureel Planbureau;
+- g. de Directeur van het agentschap College ter Beoordeling van Geneesmiddelen;
 
-- h. de Directeur van de Dienst Uitvoering Subsidies aan Instellingen;
+- h. de Directeur van het Sociaal en Cultureel Planbureau;
 
-- i. de Directeur van de Dienst Testen;
+- i. de Directeur van de Dienst Uitvoering Subsidies aan Instellingen;
 
-- j. de Algemeen Secretaris/Directeur van de Raad voor Volksgezondheid en Samenleving;
+- j. de Directeur van de Dienst Testen;
 
-- k. de Algemeen Secretaris van de Gezondheidsraad;
+- k. de Algemeen Secretaris/Directeur van de Raad voor Volksgezondheid en Samenleving;
 
-- l. de Algemeen Secretaris van de Centrale Commissie Mensgebonden Onderzoek;
+- l. de Algemeen Secretaris van de Gezondheidsraad;
 
-- m. de Algemeen Secretaris van de Nederlandse Sportraad;
+- m. de Algemeen Secretaris van de Centrale Commissie Mensgebonden Onderzoek;
 
-- n. de hoofden van de direct onder de functionarissen, genoemd onder a tot en met l, ressorterende organisatie-eenheden tot een bedrag van € 33 000 exclusief btw.
+- n. de Algemeen Secretaris van de Nederlandse Sportraad;
+
+- o. de hoofden van de direct onder de functionarissen, genoemd onder a tot en met m, ressorterende organisatie-eenheden tot een bedrag van € 33 000 exclusief btw.
 
 2. De volmacht, verleend in het eerste lid, heeft geen betrekking op het sluiten van borgtochtovereenkomsten, vaststellingsovereenkomsten, overeenkomsten van geldlening en overeenkomsten, waarbij zaken worden verhuurd of verkocht, met uitzondering van overeenkomsten waarbij tijdschriften op basis van abonnementen worden verkocht.
 
 ##### Artikel 10a
 
-De volmacht, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=8&z=2025-04-01&g=2025-04-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=9&z=2025-04-01&g=2025-04-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2025-04-01&g=2025-04-01), hebben de Secretaris-Generaal, de plaatsvervangend Secretaris-Generaal, de Directeuren-Generaal van het kernministerie en de directeuren van het kernministerie alleen binnen de aan hen toegewezen budgetten.
+De volmacht, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=8&z=2026-10-20&g=2026-10-20), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=9&z=2026-10-20&g=2026-10-20) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2026-10-20&g=2026-10-20), hebben de Secretaris-Generaal, de plaatsvervangend Secretaris-Generaal, de Directeuren-Generaal van het kernministerie en de directeuren van het kernministerie alleen binnen de aan hen toegewezen budgetten.
 
 ### Hoofdstuk 4. Beperkingen van volmacht
 
@@ -135,13 +137,13 @@ De volmacht, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0010
 
 ##### Artikel 12
 
-In afwijking van [artikel 11, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&artikel=11&z=2025-04-01&g=2025-04-01), hebben de volgende functionarissen volmacht om rechtshandelingen te verrichten waarbij een buitenlandse publiekrechtelijke rechtspersoon partij is:
+In afwijking van [artikel 11, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&artikel=11&z=2026-10-20&g=2026-10-20), hebben de volgende functionarissen volmacht om rechtshandelingen te verrichten waarbij een buitenlandse publiekrechtelijke rechtspersoon partij is:
 
 - 1. de Secretaris-Generaal, de plaatsvervangend Secretaris-Generaal alsmede de Directeur-Generaal van het Rijksinstituut voor Volksgezondheid en Milieu, voorzover het gaat om rechtshandelingen die behoren tot het werkterrein van het Rijksinstituut voor Volksgezondheid en Milieu;
 
 - 2. de Secretaris-Generaal alsmede de plaatsvervangend Secretaris-Generaal voorzover het gaat om rechtshandelingen die behoren tot het werkterrein van de Projectdirectie Antonie van Leeuwenhoek Terrein;
 
-- 3. de functionarissen genoemd in [artikel 10, eerste lid, onder a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2025-04-01&g=2025-04-01), voorzover het gaat om rechtshandelingen die behoren tot het werkterrein van EU4Health.
+- 3. de functionarissen genoemd in [artikel 10, eerste lid, onder a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2026-10-20&g=2026-10-20), voorzover het gaat om rechtshandelingen die behoren tot het werkterrein van EU4Health.
 
 ##### Artikel 13
 
@@ -149,7 +151,7 @@ In afwijking van [artikel 11, eerste lid, onderdeel a](https://wetten.overheid.n
 
 ##### Artikel 14
 
-In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2025-04-01&g=2025-04-01) wordt uitsluitend aan de Directeur Financieel-Economische Zaken en door deze aan te wijzen kasbeheerders volmacht verleend om bankrekeningen te openen, te wijzigen en op te heffen.
+In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2026-10-20&g=2026-10-20) wordt uitsluitend aan de Directeur Financieel-Economische Zaken en door deze aan te wijzen kasbeheerders volmacht verleend om bankrekeningen te openen, te wijzigen en op te heffen.
 
 ##### Artikel 15
 
@@ -161,11 +163,11 @@ In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&ho
 
 1. De directeuren van beleidsdirecties en stafeenheden zijn bevoegd ondervolmacht te verlenen aan de directeur van een facilitaire eenheid.
 
-2. De functionarissen genoemd in [artikel 10, eerste lid, onder a tot en met l](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2025-04-01&g=2025-04-01), kunnen ondervolmacht verlenen:
+2. De functionarissen genoemd in [artikel 10, eerste lid, onder a tot en met l](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2026-10-20&g=2026-10-20), kunnen ondervolmacht verlenen:
 
-- a. tot een bedrag van € 33 000 exclusief btw aan anderen dan de in [artikel 10, eerste lid, onder n](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2025-04-01&g=2025-04-01), genoemde hoofden;
+- a. tot een bedrag van € 33 000 exclusief btw aan anderen dan de in [artikel 10, eerste lid, onder n](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2026-10-20&g=2026-10-20), genoemde hoofden;
 
-- b. in bijzondere gevallen tot een bedrag hoger dan € 33 000 exclusief btw, maar niet hoger dan € 100.000 exclusief btw, aan de in [artikel 10, eerste lid, onder n](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2025-04-01&g=2025-04-01), genoemde hoofden en de onder a van dit lid bedoelde functionarissen.
+- b. in bijzondere gevallen tot een bedrag hoger dan € 33 000 exclusief btw, maar niet hoger dan € 100.000 exclusief btw, aan de in [artikel 10, eerste lid, onder n](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2026-10-20&g=2026-10-20), genoemde hoofden en de onder a van dit lid bedoelde functionarissen.
 
 3. Ondervolmacht kan hetzij algemeen hetzij voor een bepaald geval verleend worden.
 
@@ -173,17 +175,17 @@ In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&ho
 
 5. Op ondervolmacht zijn de bepalingen van deze regeling van overeenkomstige toepassing.
 
-6. Van de volmachten, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&artikel=12&z=2025-04-01&g=2025-04-01), wordt geen ondervolmacht verleend.
+6. Van de volmachten, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&artikel=12&z=2026-10-20&g=2026-10-20), wordt geen ondervolmacht verleend.
 
 ### Hoofdstuk 6. Bijzonder ondervolmacht
 
 ##### Artikel 17
 
-1. Onverminderd [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&artikel=11&z=2025-04-01&g=2025-04-01) kan de Secretaris-Generaal in het kader van een bepaald project en in andere bijzondere gevallen naast of in plaats van de op grond van de [Hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&z=2025-04-01&g=2025-04-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&z=2025-04-01&g=2025-04-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=5&z=2025-04-01&g=2025-04-01) bevoegde functionarissen aan anderen de bevoegdheid verlenen in naam van de Minister privaatrechtelijke rechtshandelingen te verrichten.
+1. Onverminderd [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&artikel=11&z=2026-10-20&g=2026-10-20) kan de Secretaris-Generaal in het kader van een bepaald project en in andere bijzondere gevallen naast of in plaats van de op grond van de [Hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&z=2026-10-20&g=2026-10-20), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&z=2026-10-20&g=2026-10-20) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=5&z=2026-10-20&g=2026-10-20) bevoegde functionarissen aan anderen de bevoegdheid verlenen in naam van de Minister privaatrechtelijke rechtshandelingen te verrichten.
 
 2. Bijzondere ondervolmacht aan personen die geen ambtenaar zijn, wordt slechts verleend voor zover daartoe dwingende redenen zijn.
 
-3. Van de volmachten, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&artikel=12&z=2025-04-01&g=2025-04-01), wordt geen bijzondere ondervolmacht verleend.
+3. Van de volmachten, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&artikel=12&z=2026-10-20&g=2026-10-20), wordt geen bijzondere ondervolmacht verleend.
 
 ### Hoofdstuk 7. Volmachtregister
 

@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0045505"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Landbouw, Natuur en Voedselkwaliteit van 27 mei 2021 tot aanvulling en wijziging van de Omgevingsregeling en wijziging en intrekking van enige andere regelingen met het oog op het beschermen van de bodem, met inbegrip van het grondwater en het duurzaam en doelmatig gebruik van de bodem (Aanvullingsregeling bodem Omgevingswet)

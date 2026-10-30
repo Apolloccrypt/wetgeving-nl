@@ -9,7 +9,7 @@ laatste_update: 2024-12-03
 status: geldig
 toestand: 2024-12-03
 bron: "https://wetten.overheid.nl/BWBR0045451"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat, van 18 juli 2021, nr. IENW/BSK-2021/199859, houdende regels inzake de verlening van mandaat, volmacht en machtiging aan de Dienst Wegverkeer voor de uitvoering van de Wet tijdelijke tolheffing Blankenburgverbinding en ViA15 (Besluit mandaat, volmacht en machtiging RDW voor de uitvoering van de Wet tijdelijke tolheffing Blankenburgverbinding en ViA15)

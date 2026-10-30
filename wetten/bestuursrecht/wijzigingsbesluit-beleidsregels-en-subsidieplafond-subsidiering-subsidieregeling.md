@@ -9,7 +9,7 @@ laatste_update: 2021-10-23
 status: geldig
 toestand: 2021-10-23
 bron: "https://wetten.overheid.nl/BWBR0045719"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 14 oktober 2021, MINBUZA-2021.813544, tot wijziging van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Tweede openstelling en wijziging Subsidieprogramma SDG Results: Access to renewable energy)

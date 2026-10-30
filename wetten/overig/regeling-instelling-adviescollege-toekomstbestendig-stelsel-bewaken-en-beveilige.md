@@ -9,7 +9,7 @@ laatste_update: 2021-05-21
 status: geldig
 toestand: 2021-05-21
 bron: "https://wetten.overheid.nl/BWBR0045141"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 3 mei 2021, nr. 3291895, houdende instelling van het adviescollege toekomstbestendig stelsel bewaken en beveiligen

@@ -5,11 +5,11 @@ identifier: "BWBR0051925"
 categorie: "Overig"
 soort: "zbo"
 publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
+laatste_update: 2026-10-21
 status: geldig
-toestand: 2026-01-01
+toestand: 2026-10-21
 bron: "https://wetten.overheid.nl/BWBR0051925"
-opgehaald: 2026-09-09
+opgehaald: 2026-10-30
 ---
 
 # Besluit van het Instituut Mijnbouwschade Groningen van 6 november 2025, houdende vaststelling van de organisatiestructuur en verlening van mandaat, volmacht en machtiging aan de voorzitter, de andere leden en aan ambtenaren van het Instituut Mijnbouwschade Groningen (Besluit organisatie, mandaat, volmacht en machtiging van het Instituut Mijnbouwschade Groningen 2026)
@@ -78,6 +78,8 @@ In dit besluit wordt verstaan onder:
 3. De afdelingen staan onder leiding van een afdelingsmanager.
 
 4. Teams behorende tot de afdelingen staan onder leiding van een teammanager.
+
+5. De afdelingsmanager Informatievoorziening is tevens chief information officer (CIO) van het Instituut.
 
 ##### Artikel 3. Taken
 
@@ -193,15 +195,15 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 7. Fysieke schade en bijkomende kosten
 
-1. Aan de teammanager van het team Fysieke Schade Regulier en Complex behorende tot de afdeling Schadevergoeding en de daartoe aangewezen coördinerend medewerkers, wordt mandaat en machtiging verleend voor het nemen van primaire besluiten en het verrichten van overige, daarmee samenhangende handelingen, in verband met besluiten tot schadevergoeding ten aanzien van fysieke schade aan een gebouw of werk, alsmede besluiten op aanvragen tot vergoeding van bijkomende kosten, toekenning van de overlastvergoeding en vergoeding van materiële (gevolg)schade.
+1. Aan de teammanager van het team Fysieke Schade 2 behorende tot de afdeling Schadevergoeding en de daartoe aangewezen coördinerend medewerkers, wordt mandaat en machtiging verleend voor het nemen van primaire besluiten en het verrichten van overige, daarmee samenhangende handelingen, in verband met besluiten tot schadevergoeding ten aanzien van fysieke schade aan een gebouw of werk, alsmede besluiten op aanvragen tot vergoeding van bijkomende kosten, toekenning van de overlastvergoeding en vergoeding van materiële (gevolg)schade.
 
 2. Aan de teammanager van het team Werkvoorbereiding, behorende tot de afdeling Aanvragerskeuze, wordt mandaat en machtiging verleend voor het nemen van besluiten inzake het afwijzen of buiten behandeling stellen van aanvragen fysieke schade aan een gebouw of werk als bedoeld in artikel 2.1 van de Werkwijze, en het verrichten van overige, daarmee samenhangende handelingen, uitgezonderd besluiten waarin het advies van een deskundige als bedoeld in artikel 1.5 van de Werkwijze is ingewonnen.
 
 3. Aan de teammanager van het team Planning, behorende tot de afdeling Aanvragerskeuze, wordt mandaat en machtiging verleend voor het nemen van besluiten voor het afwijzen of buiten behandeling stellen van aanvragen en het verrichten van overige, daarmee samenhangende handelingen vanwege het niet kunnen inplannen van schadeopnames.
 
-4. Aan de coördinerend medewerkers van het team Fysieke Schade Regulier en Complex, behorende tot de afdeling Schadevergoeding, wordt mandaat en machtiging verleend voor het nemen van primaire besluiten en het verrichten van overige, daarmee samenhangende handelingen op aanvragen tot vergoeding van financieel en bouwkundig advies, bedoeld in [artikel 13n TwG](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13n).
+4. Aan de teammanager van het team Fysieke Schade 3 wordt mandaat en machtiging verleend voor het nemen van primaire besluiten en het verrichten van overige, daarmee samenhangende handelingen in verband met besluiten tot schadevergoeding die buiten het reguliere systeem behandeld worden, alsmede besluiten op aanvragen tot vergoeding van bijkomende kosten, toekenning van de overlastvergoeding en besluiten op aanvragen tot vergoeding van bouwkundig, bodemkundig, ecologisch, hydrologisch en financieel advies, bedoeld in [artikel 13n Tijdelijke wet Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13n).
 
-5. Aan de teammanager van het team Fysieke Schade Regulier en Complex behorende tot de afdeling Schadevergoeding, wordt mandaat, volmacht en machtiging verleend voor het nemen van primaire besluiten die worden afgehandeld middels een forfaitaire vergoeding, de daarmee verband houdende vaststellingsovereenkomsten en het verrichten van overige, daarmee samenhangende handelingen.
+5. Aan de teammanager van het team Fysieke Schade 2 behorende tot de afdeling Schadevergoeding, wordt mandaat, volmacht en machtiging verleend voor het nemen van primaire besluiten die worden afgehandeld middels een forfaitaire vergoeding, de daarmee verband houdende vaststellingsovereenkomsten en het verrichten van overige, daarmee samenhangende handelingen.
 
 6. Aan de teammanager van het team Herstel in Natura, behorende tot de afdeling Herstel, wordt mandaat, volmacht en machtiging verleend voor het tekenen van:
 
@@ -209,9 +211,11 @@ In dit besluit wordt verstaan onder:
 
 - b. het proces verbaal dat wordt opgemaakt en ondertekend na oplevering door het bedrijf dat tot herstel is overgegaan conform het adviesrapport van de deskundige die de schade bij de aanvrager heeft opgenomen.
 
+7. Het zesde lid is van overeenkomstige toepassing voor de teammanager Duurzaam Herstel, behorende tot de afdeling Herstel, indien er naast de vergoeding voor schade in natura, bedoeld in hoofdstuk 2a van de werkwijze, een tegemoetkoming, bedoeld in [artikel 2, tiende lid, van de TwG](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=2) wordt toegekend.
+
 ##### Artikel 8. Daadwerkelijk herstel
 
-1. Aan de teammanager van het team Fysieke Schade Regulier en Complex behorende tot de afdeling Schadevergoeding, wordt mandaat, volmacht en machtiging verleend voor het nemen van besluiten tot daadwerkelijk herstel als bedoeld in de paragraaf 2c.1, met uitzondering van artikel 2.14, van de Werkwijze, de daarmee verband houdende vaststellingsovereenkomsten en het verrichten van overige, daarmee samenhangende handelingen.
+1. Aan de teammanager van het team Fysieke Schade 2 behorende tot de afdeling Schadevergoeding, wordt mandaat, volmacht en machtiging verleend voor het nemen van besluiten tot daadwerkelijk herstel als bedoeld in de paragraaf 2c.1, met uitzondering van artikel 2.14, van de Werkwijze, de daarmee verband houdende vaststellingsovereenkomsten en het verrichten van overige, daarmee samenhangende handelingen.
 
 2. Aan de teammanagers van de teams Herstel in Natura en Herstel met Eigen Aannemer, behorende tot de afdeling Herstel, wordt mandaat en machtiging verleend voor het nemen van besluiten en het verrichten van overige, daarmee samenhangende handelingen als bedoeld in artikel 2.14 van de Werkwijze.
 
@@ -229,19 +233,23 @@ Aan de teammanager van het team Waardedaling en Immaterieel, behorende tot de af
 
 ##### Artikel 11. ‘Op maat-dossiers’
 
-1. Aan door de afdelingsmanager Schadevergoeding aangewezen medewerkers die ‘Op maat-dossiers’ behandelen en de teammanager van het team Fysieke Schade Regulier en Complex behorende tot de afdeling Schadevergoeding, wordt mandaat, volmacht en machtiging verleend voor het nemen van primaire fysieke schadebesluiten, het verrichten van overige, daarmee samenhangende handelingen, het aangaan van vaststellingsovereenkomsten en het nemen van besluiten op grond van [artikel 1a.1, eerste lid, van de Regeling Tijdelijke wet Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&artikel=1a.1), voor zover dit een bedrag van € 50.000, per zaak niet te boven gaat.
+1. Aan door de afdelingsmanager Schadevergoeding aangewezen medewerkers die ‘Op maat-dossiers’ behandelen en de teammanager van het team Fysieke Schade 3 behorende tot de afdeling Schadevergoeding, wordt mandaat, volmacht en machtiging verleend voor het nemen van primaire fysieke schadebesluiten, het verrichten van overige, daarmee samenhangende handelingen, het aangaan van vaststellingsovereenkomsten en het nemen van besluiten op grond van [artikel 1a.1, eerste lid, van de Regeling Tijdelijke wet Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&artikel=1a.1), voor zover dit een bedrag van € 50.000, per zaak niet te boven gaat.
 
 2. Het Bureau en haar medewerkers ondersteunen bij een spoedige en dienstbare behandeling van ‘Op maat-dossiers’.
 
+3. Aan door de afdelingsmanager Schadevergoeding aangewezen medewerkers die ‘Op maat-dossiers’ behandelen en de teammanager van het team Fysieke Schade 3, behorende tot de afdeling Schadevergoeding, wordt volmacht en machtiging verleend voor het verrichten van privaatrechtelijke rechtshandelingen en daarmee samenhangende feitelijke handelingen voor de afhandeling van dossiers die in behandeling zijn bij het Interventieteam Vastgelopen Situaties. Dit omvat de bevoegdheid tot het aangaan van financiële verplichtingen, voor zover de verplichtingen een bedrag van € 1.000, per verplichting niet te boven gaat.
+
 ##### Artikel 12. Duurzaam Herstel
 
-Aan de teammanager van het team Duurzaam Herstel, behorende tot afdeling Herstel wordt mandaat, volmacht en machtiging verleend voor:
+1. Aan de teammanager van het team Duurzaam Herstel, behorende tot afdeling Herstel wordt mandaat, volmacht en machtiging verleend voor:
 
 - a. de bevoegdheid tot het tekenen van de overeenkomst tussen het Instituut en de aanvrager waarin wordt afgesproken op welke wijze de tegemoetkoming als bedoeld in [artikel 2, tiende lid, van de TwG](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=2) in natura wordt toegekend en uitgevoerd in verband met een daartoe door het Instituut genomen besluit op de aanvraag voor een tegemoetkoming;
 
 - b. de bevoegdheid tot het tekenen van het proces verbaal dat wordt opgemaakt en ondertekend na oplevering door het bedrijf dat de werkzaamheden heeft uitgevoerd conform het besluit van het Instituut voor een tegemoetkoming als bedoeld in [artikel 2, tiende lid, van de TwG](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=2);
 
 - c. het verrichten van privaatrechtelijke rechtshandelingen en daarmee samenhangende feitelijke handelingen verband houdende met schade die ontstaat bij het ten uitvoer brengen van besluiten van het Instituut op aanvragen voor een tegemoetkoming als bedoeld in [artikel 2, tiende lid, van de TwG](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=2), voor zover herstel van de schade geen onderdeel is van de tegemoetkoming en dit een bedrag van € 10.000 per verplichting niet te boven gaat.
+
+2. Aan de teammanager van het team Duurzaam Herstel, behorende tot de afdeling Herstel, wordt mandaat, volmacht en machtiging verleend om opdrachten te verstrekken aan de aannemer voor de uitvoering van de tegemoetkoming duurzaam herstel. Dit omvat de bevoegdheid om financiële verplichtingen aan te gaan, mits deze verplichtingen gezamenlijk de waarde van de in de beschikking toegekende tegemoetkoming niet overschrijden.
 
 ##### Artikel 13. Woo, klachten en AVG
 
@@ -265,9 +273,9 @@ Aan de teammanager van het team Duurzaam Herstel, behorende tot afdeling Herstel
 
 ##### Artikel 15. Bezwaar en bezwaaradviescommissie
 
-1. Aan de teammanager van het team Bezwaar, behorende tot de afdeling Schadevergoeding, wordt mandaat en machtiging verleend voor het behandelen van bezwaarschriften, het nemen van beslissingen op bezwaar en het verrichten van overige, daarmee samenhangende handelingen tegen de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0051925&hoofdstuk=3&artikel=7&z=2026-01-01&g=2026-01-01), [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0051925&hoofdstuk=3&artikel=8&z=2026-01-01&g=2026-01-01), [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0051925&hoofdstuk=3&artikel=11&z=2026-01-01&g=2026-01-01), [artikel 13, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051925&hoofdstuk=3&artikel=13&z=2026-01-01&g=2026-01-01), en [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0051925&hoofdstuk=3&artikel=17&z=2026-01-01&g=2026-01-01) bedoelde primaire besluiten.
+1. Aan de teammanager van het team Bezwaar, behorende tot de afdeling Schadevergoeding, wordt mandaat en machtiging verleend voor het behandelen van bezwaarschriften, het nemen van beslissingen op bezwaar en het verrichten van overige, daarmee samenhangende handelingen tegen de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0051925&hoofdstuk=3&artikel=7&z=2026-10-21&g=2026-10-21), [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0051925&hoofdstuk=3&artikel=8&z=2026-10-21&g=2026-10-21), [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0051925&hoofdstuk=3&artikel=11&z=2026-10-21&g=2026-10-21), [artikel 13, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051925&hoofdstuk=3&artikel=13&z=2026-10-21&g=2026-10-21), en [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0051925&hoofdstuk=3&artikel=17&z=2026-10-21&g=2026-10-21) bedoelde primaire besluiten.
 
-2. Aan de teammanager van het team Waardedaling en Immaterieel, behorende tot de afdeling Schadevergoeding en de daartoe aangewezen coördinerend medewerkers, wordt mandaat en machtiging verleend voor het behandelen van bezwaarschriften, het nemen van beslissingen op bezwaar en het verrichten van overige, daarmee samenhangende handelingen tegen de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0051925&hoofdstuk=3&artikel=9&z=2026-01-01&g=2026-01-01) bedoelde primaire besluiten.
+2. Aan de teammanager van het team Waardedaling en Immaterieel, behorende tot de afdeling Schadevergoeding en de daartoe aangewezen coördinerend medewerkers, wordt mandaat en machtiging verleend voor het behandelen van bezwaarschriften, het nemen van beslissingen op bezwaar en het verrichten van overige, daarmee samenhangende handelingen tegen de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0051925&hoofdstuk=3&artikel=9&z=2026-10-21&g=2026-10-21) bedoelde primaire besluiten.
 
 3. Aan de teammanagers van de afdeling Schadevergoeding, de juristen van die afdeling en aan door de afdelingsmanager Schadevergoeding aangewezen medewerkers wordt machtiging verleend om het Instituut te vertegenwoordigen bij zittingen van de bezwaaradviescommissie. Tevens zijn zij bevoegd één of meer personen als medegemachtigde te introduceren.
 
@@ -285,7 +293,7 @@ Aan de teammanager van het team Duurzaam Herstel, behorende tot afdeling Herstel
 
 - e. het introduceren van één of meer personen als medegemachtigde.
 
-2. Aan de teammanager Beroep, behorende tot de afdeling Strategie en Beleid, wordt mandaat, volmacht en machtiging verleend voor het wijzigingen van een beslissing op bezwaar, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0051925&hoofdstuk=3&artikel=15&z=2026-01-01&g=2026-01-01), waartegen rechtsmiddelen bij de bestuursrechter zijn ingesteld en het verrichten van overige, daarmee samenhangende handelingen.
+2. Aan de teammanager Beroep, behorende tot de afdeling Strategie en Beleid, wordt mandaat, volmacht en machtiging verleend voor het wijzigingen van een beslissing op bezwaar, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0051925&hoofdstuk=3&artikel=15&z=2026-10-21&g=2026-10-21), waartegen rechtsmiddelen bij de bestuursrechter zijn ingesteld en het verrichten van overige, daarmee samenhangende handelingen.
 
 ##### Artikel 17. Ingebrekestellingen, terugvorderingen en herziening van besluiten
 
@@ -295,7 +303,7 @@ Aan de teammanagers van de afdeling Schadevergoeding en de aangewezen coördiner
 
 1. De uit dit besluit voor de afdelingsmanager Schadevergoeding voortvloeiende bevoegdheden gaan in geval van afwezigheid over op de onder hem ressorterende teammanagers, met dien verstande dat de beslissing op bezwaar niet mag worden genomen door degene die het besluit waartegen het bezwaar is gericht, heeft genomen.
 
-2. De teammanagers van de teams Bestuurlijk en Juridisch Advies en Beroep, behorende tot de afdeling Strategie en Beleid en de teams Fysieke Schade Regulier en Complex, Bezwaar en Waardedaling en Immaterieel, behorende tot de afdeling Schadevergoeding, vervangen elkaar onderling, met dien verstande dat de beslissing op bezwaar niet mag worden genomen door degene die het besluit waartegen het bezwaar is gericht, heeft genomen.
+2. De teammanagers van de teams Bestuurlijk en Juridisch Advies en Beroep, behorende tot de afdeling Strategie en Beleid en de teams Fysieke Schade 2, Fysieke Schade 3, Bezwaar en Waardedaling en Immaterieel, behorende tot de afdeling Schadevergoeding, vervangen elkaar onderling, met dien verstande dat de beslissing op bezwaar niet mag worden genomen door degene die het besluit waartegen het bezwaar is gericht, heeft genomen.
 
 3. De uit dit besluit voor de teammanagers van de teams Werkvoorbereiding en Planning voortvloeiende bevoegdheden gaan in geval van afwezigheid over op een andere teammanager van diezelfde afdeling.
 
@@ -385,7 +393,7 @@ gevolgd door naam en functie van de (onder)gemandateerde functionaris.
 
 ##### Artikel 25. Inwerkingtreding
 
-Dit besluit treedt in werking op 1 januari 2026 en werkt ten aanzien van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051925&hoofdstuk=3&artikel=15&z=2026-01-01&g=2026-01-01), terug tot en met 1 december 2025.
+Dit besluit treedt in werking op 1 januari 2026 en werkt ten aanzien van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051925&hoofdstuk=3&artikel=15&z=2026-10-21&g=2026-10-21), terug tot en met 1 december 2025.
 
 ##### Artikel 26. Citeertitel
 

@@ -9,7 +9,7 @@ laatste_update: 2021-06-16
 status: geldig
 toestand: 2021-06-16
 bron: "https://wetten.overheid.nl/BWBR0045241"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # NL aanvullende accreditatie-eisen certificeringsorganen Autoriteit Persoonsgegevens1De tekst van deze aanvullende eisen in de Engelse taal is authentiek. Bij interpretatieverschillen is de Engelse tekst leidend.

@@ -9,7 +9,7 @@ laatste_update: 2024-05-17
 status: geldig
 toestand: 2024-05-17
 bron: "https://wetten.overheid.nl/BWBR0045473"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 7 juni 2021 nr. BOACAT2021/022, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Steenwijkerland

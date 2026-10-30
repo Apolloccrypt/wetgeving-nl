@@ -8,7 +8,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0045658"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Rapportagevoorschriften betalingsbalansrapportages 2022 (RV 2022)

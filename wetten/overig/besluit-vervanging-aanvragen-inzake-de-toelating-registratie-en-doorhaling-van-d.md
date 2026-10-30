@@ -8,7 +8,7 @@ laatste_update: 2021-06-26
 status: geldig
 toestand: 2021-06-26
 bron: "https://wetten.overheid.nl/BWBR0045277"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit vervanging aanvragen inzake de toelating, registratie en doorhaling van de uitoefening van de diergeneeskunde 1992 – 2010

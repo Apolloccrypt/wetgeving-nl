@@ -9,7 +9,7 @@ laatste_update: 2021-04-24
 status: geldig
 toestand: 2021-04-24
 bron: "https://wetten.overheid.nl/BWBR0045067"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit, van 13 april 2021, nr. WJZ/ 21081980, tot het verlenen van mandaat, volmacht en machtiging aan de directeur-generaal Rijkswaterstaat en de inspecteur-generaal Inspectie Leefomgeving en Transport inzake de uitvoering en handhaving van de Wet bescherming Antarctica (Besluit mandaat, volmacht en machtiging inzake de Wet bescherming Antarctica)

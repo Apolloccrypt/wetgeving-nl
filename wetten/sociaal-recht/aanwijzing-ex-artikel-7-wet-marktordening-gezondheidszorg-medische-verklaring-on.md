@@ -9,7 +9,7 @@ laatste_update: 2021-07-22
 status: geldig
 toestand: 2021-07-22
 bron: "https://wetten.overheid.nl/BWBR0045449"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Aanwijzing van de Minister voor Medische Zorg van 4 juni 2021, kenmerk 2369290-1009887-PZO, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake de medische verklaring onder de Wet zorg en dwang

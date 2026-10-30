@@ -9,7 +9,7 @@ laatste_update: 2021-07-21
 status: geldig
 toestand: 2021-07-21
 bron: "https://wetten.overheid.nl/BWBR0045428"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Beleidsregels openbaarmaking informatie over vergunningen en vergunninghouders Kansspelen op afstand (Beleidsregels openbaarmaking VVKOA), kenmerk 01.243.714

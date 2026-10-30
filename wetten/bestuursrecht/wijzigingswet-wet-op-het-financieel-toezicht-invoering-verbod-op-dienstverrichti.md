@@ -9,7 +9,7 @@ laatste_update: 2021-03-17
 status: geldig
 toestand: 2021-03-17
 bron: "https://wetten.overheid.nl/BWBR0044936"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Wet van 3 maart 2021 tot wijziging van de Wet op het financieel toezicht in verband met de invoering van een verbod op dienstverrichting door derdelandverzekeraars

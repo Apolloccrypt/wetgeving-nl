@@ -9,7 +9,7 @@ laatste_update: 2021-06-17
 status: geldig
 toestand: 2021-06-17
 bron: "https://wetten.overheid.nl/BWBR0045236"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 27 mei 2021 (kenmerk 3285529/21/DP&O), houdende instelling van de Hoofddirecteur Bedrijfsvoering en tevens houdende wijziging van het Organisatiebesluit Ministerie van Justitie en Veiligheid

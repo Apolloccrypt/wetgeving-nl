@@ -9,7 +9,7 @@ laatste_update: 2025-11-25
 status: geldig
 toestand: 2025-11-25
 bron: "https://wetten.overheid.nl/BWBR0045713"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 14 oktober 2021 nr. BOACAT2021/050, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Rijswijk

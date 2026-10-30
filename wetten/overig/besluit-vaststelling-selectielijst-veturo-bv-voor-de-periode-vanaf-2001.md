@@ -8,7 +8,7 @@ laatste_update: 2021-05-09
 status: geldig
 toestand: 2021-05-09
 bron: "https://wetten.overheid.nl/BWBR0045106"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit vaststelling selectielijst Veturo B.V. voor de periode vanaf 2001

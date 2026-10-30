@@ -9,7 +9,7 @@ laatste_update: 2026-04-01
 status: geldig
 toestand: 2026-04-01
 bron: "https://wetten.overheid.nl/BWBR0045408"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 14 juli 2021, nr. WJZ / 20185759, houdende bepalingen ten behoeve van prijs-, productie en marktinformatie in het kader van het Gemeenschappelijk Landbouwbeleid (Regeling prijs-, productie- en marktinformatie GLB)

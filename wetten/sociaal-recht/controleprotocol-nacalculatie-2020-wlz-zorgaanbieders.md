@@ -8,7 +8,7 @@ laatste_update: 2021-03-25
 status: geldig
 toestand: 2021-03-25
 bron: "https://wetten.overheid.nl/BWBR0044966"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Controleprotocol nacalculatie 2020 Wlz-zorgaanbieders

@@ -9,7 +9,7 @@ laatste_update: 2021-10-19
 status: geldig
 toestand: 2021-10-19
 bron: "https://wetten.overheid.nl/BWBR0045660"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Regeling van De Nederlandsche Bank N.V. en de Stichting Autoriteit Financiële Markten van 16 september 2021 houdende regels met betrekking tot het beheerst beloningsbeleid van banken, beleggingsondernemingen en premiepensioeninstellingen (Regeling beheerst beloningsbeleid Wft 2021)

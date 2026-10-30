@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0045030"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Wet van 25 februari 2021 tot wijziging van onder meer de Wet op het primair onderwijs, de Wet op de expertisecentra, de Wet primair onderwijs BES, de Wet op het voortgezet onderwijs en enkele andere wetten vanwege de vereenvoudiging van de bekostiging van de scholen voor primair onderwijs en samenwerkingsverbanden

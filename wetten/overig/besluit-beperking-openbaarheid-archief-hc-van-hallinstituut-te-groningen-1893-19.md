@@ -8,7 +8,7 @@ laatste_update: 2021-09-04
 status: geldig
 toestand: 2021-09-04
 bron: "https://wetten.overheid.nl/BWBR0045576"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Besluit beperking openbaarheid archief H.C. van Hallinstituut te Groningen 1893 – 1995

@@ -9,7 +9,7 @@ laatste_update: 2021-05-22
 status: geldig
 toestand: 2021-05-22
 bron: "https://wetten.overheid.nl/BWBR0045148"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Beleidsregel van de Raad voor Rechtsbijstand tot verstrekking van subsidie aan advocaten die rechtsbijstand geven aan de ontboden verdachte in zaken die het OM met een strafbeschikking ex artikel 257c Wetboek van Strafvordering wil afdoen (Beleidsregel consult ontboden verdachte artikel 257c Sv)

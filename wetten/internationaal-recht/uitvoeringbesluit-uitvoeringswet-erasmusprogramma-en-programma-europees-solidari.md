@@ -9,7 +9,7 @@ laatste_update: 2021-08-07
 status: geldig
 toestand: 2021-08-07
 bron: "https://wetten.overheid.nl/BWBR0045493"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 30 juni 2021, nr. 28569531, tot uitvoering van de Uitvoeringswet Erasmusprogramma en programma Europees Solidariteitskorps

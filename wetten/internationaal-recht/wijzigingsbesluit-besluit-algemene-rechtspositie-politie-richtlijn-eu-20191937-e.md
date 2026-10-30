@@ -9,7 +9,7 @@ laatste_update: 2023-02-18
 status: geldig
 toestand: 2023-02-18
 bron: "https://wetten.overheid.nl/BWBR0045720"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Besluit van 12 oktober 2021 tot Wijziging van het Besluit algemene rechtspositie politie ter implementatie van Richtlijn (EU) 2019/1937 van het Europees Parlement en de Raad van 23 oktober 2019 (PbEU 2019, L 305)

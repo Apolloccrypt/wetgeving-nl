@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0045644"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 20 september 2021, nr. 2021-0000136761, tot het aanwijzen van het Nederlands Centrum voor Beroepsziekten als de instelling, bedoeld in artikel 9, derde lid, van de Arbeidsomstandighedenwet

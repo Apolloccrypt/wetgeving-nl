@@ -9,7 +9,7 @@ laatste_update: 2021-04-09
 status: geldig
 toestand: 2021-04-09
 bron: "https://wetten.overheid.nl/BWBR0045032"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Minister-President, Minister van Algemene Zaken van 24 maart 2021 nr. 4196055, houdende vaststelling van Aanwijzingen voor de juridische functie Rijk

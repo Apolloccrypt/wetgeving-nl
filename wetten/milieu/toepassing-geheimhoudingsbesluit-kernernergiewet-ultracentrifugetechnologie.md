@@ -8,7 +8,7 @@ laatste_update: 1971-09-29
 status: geldig
 toestand: 1971-09-29
 bron: "https://wetten.overheid.nl/BWBR0045254"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Toepassing Geheimhoudingsbesluit Kernernergiewet (ultracentrifugetechnologie)

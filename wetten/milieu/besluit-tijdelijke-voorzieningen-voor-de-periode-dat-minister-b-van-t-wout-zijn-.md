@@ -8,7 +8,7 @@ laatste_update: 2021-05-28
 status: geldig
 toestand: 2021-05-28
 bron: "https://wetten.overheid.nl/BWBR0045172"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit tijdelijke voorzieningen voor de periode dat Minister B. van ’t Wout zijn taken als Minister van Economische Zaken en Klimaat niet kan uitoefenen

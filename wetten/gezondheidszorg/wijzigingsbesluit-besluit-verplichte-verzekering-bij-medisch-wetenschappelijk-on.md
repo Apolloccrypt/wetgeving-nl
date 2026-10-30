@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0045258"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van 17 juni 2021, houdende wijziging van het Besluit verplichte verzekering bij medisch-wetenschappelijk onderzoek met mensen 2015 in verband met medisch-wetenschappelijk onderzoek gericht op zwangeren en wetenschappelijk onderzoek als bedoeld in de paragrafen 4 en 5 van de Embryowet

@@ -8,7 +8,7 @@ laatste_update: 2021-09-17
 status: geldig
 toestand: 2021-09-17
 bron: "https://wetten.overheid.nl/BWBR0045615"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Besluit beperking openbaarheid archief Consulentschappen provincie Noord-Holland, Ministerie van LNV, 1983–1990 (1995) Inventaris RPNH

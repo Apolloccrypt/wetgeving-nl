@@ -9,7 +9,7 @@ laatste_update: 2021-07-01
 status: geldig
 toestand: 2021-07-01
 bron: "https://wetten.overheid.nl/BWBR0045210"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Minister voor Rechtsbescherming van 8 mei 2021, nr. 3313234, houdende wijziging van de Regeling selectie, plaatsing en overplaatsing van gedetineerden, de Regeling tijdelijk verlaten van de inrichting en de Regeling arbeid gedetineerden en diverse andere regelingen in verband met de wijziging van de regeling inzake detentiefasering als gevolg van de inwerkingtreding van de Wet straffen en beschermen

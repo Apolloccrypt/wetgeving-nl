@@ -9,7 +9,7 @@ laatste_update: 2021-10-07
 status: geldig
 toestand: 2021-10-07
 bron: "https://wetten.overheid.nl/BWBR0045670"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-30
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 27 september 2021, kenmerk 3253869-1015137-PZo, inzake wijziging beschikbaarheidbijdrage coördinatie ROAZ en traumazorg en opleiden, trainen en oefenen bij rampen en crises in verband met de wijziging van het Besluit Beschikbaarheidbijdrage Wmg

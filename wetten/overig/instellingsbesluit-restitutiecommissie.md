@@ -9,7 +9,7 @@ laatste_update: 2025-11-29
 status: geldig
 toestand: 2025-11-29
 bron: "https://wetten.overheid.nl/BWBR0045060"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 15 april 2021, nr. WJZ/27740278, houdende instelling van de Adviescommissie restitutieverzoeken cultuurgoederen en Tweede Wereldoorlog en de vaststelling van het door deze commissie te hanteren beoordelingskader (Instellingsbesluit Restitutiecommissie)

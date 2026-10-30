@@ -9,7 +9,7 @@ laatste_update: 2021-05-15
 status: geldig
 toestand: 2021-05-15
 bron: "https://wetten.overheid.nl/BWBR0045130"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de directeur-generaal van Rijkswaterstaat van 19 april 2021, met kenmerk RWS-2021/9455 houdende verlening van mandaat, volmacht en machtiging aan functionarissen voor de duur van het programma Zuidasdok en houdende wijziging van het Besluit mandaat, volmacht en machtiging Rijkswaterstaat 2013 ten aanzien van een tweetal verduidelijkingen

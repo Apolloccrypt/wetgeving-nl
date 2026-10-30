@@ -5,11 +5,11 @@ identifier: "BWBR0051515"
 categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
 publicatiedatum: 2025-09-23
-laatste_update: 2025-09-23
+laatste_update: 2026-10-23
 status: geldig
-toestand: 2025-09-23
+toestand: 2026-10-23
 bron: "https://wetten.overheid.nl/BWBR0051515"
-opgehaald: 2026-09-09
+opgehaald: 2026-10-30
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 18 september 2025, nr. 6692706, houdende regels met betrekking tot het verstrekken van een specifieke uitkering voor de aanpak Preventie met Gezag 2026–2029
@@ -104,13 +104,13 @@ De hoogte van de specifieke uitkering bedraagt per gemeente ten hoogste het in d
 
 ##### Artikel 9. Terugvordering
 
-1. De Minister kan onverschuldigd uitgekeerde bedragen naar aanleiding van een lagere vaststelling van de uitkering als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051515&artikel=8&z=2025-09-23&g=2025-09-23), terugvorderen.
+1. De Minister kan onverschuldigd uitgekeerde bedragen naar aanleiding van een lagere vaststelling van de uitkering als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051515&artikel=8&z=2026-10-23&g=2026-10-23), terugvorderen.
 
 2. Indien de verantwoordingsinformatie te laat, niet of niet volledig wordt verstrekt, kan de Minister de uitkering op een lager bedrag vaststellen als volledige terugvordering tot een onbillijkheid van overwegende aard zou leiden.
 
 ##### Artikel 10. Hardheidsclausule
 
-De Minister kan een bepaling van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang van het verstrekken van een uitkering voor de activiteiten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051515&artikel=2&z=2025-09-23&g=2025-09-23), zal leiden tot een onbillijkheid van overwegende aard.
+De Minister kan een bepaling van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang van het verstrekken van een uitkering voor de activiteiten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051515&artikel=2&z=2026-10-23&g=2026-10-23), zal leiden tot een onbillijkheid van overwegende aard.
 
 ##### Artikel 11. Inwerkingtreding
 

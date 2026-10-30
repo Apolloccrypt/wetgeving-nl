@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-07-12
 toestand: 2021-07-13
 bron: "https://wetten.overheid.nl/BWBR0045391"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 7 juli 2021 nr. BOACAT2021/032, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Ministerie van Financiën/Douane

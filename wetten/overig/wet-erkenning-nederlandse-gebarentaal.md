@@ -9,7 +9,7 @@ laatste_update: 2021-07-01
 status: geldig
 toestand: 2021-07-01
 bron: "https://wetten.overheid.nl/BWBR0045012"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-30
 ---
 
 # Wet van 16 maart 2021, houdende erkenning van de Nederlandse Gebarentaal (Wet erkenning Nederlandse Gebarentaal)
