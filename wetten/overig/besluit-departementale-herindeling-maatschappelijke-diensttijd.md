@@ -9,7 +9,7 @@ laatste_update: 2022-01-19
 status: geldig
 toestand: 2022-01-19
 bron: "https://wetten.overheid.nl/BWBR0046204"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van 10 januari 2022 nr. 2022000018, houdende departementale herindeling met betrekking tot maatschappelijke diensttijd

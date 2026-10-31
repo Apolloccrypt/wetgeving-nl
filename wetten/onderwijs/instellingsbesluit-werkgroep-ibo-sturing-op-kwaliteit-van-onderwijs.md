@@ -9,7 +9,7 @@ laatste_update: 2022-03-04
 status: geldig
 toestand: 2022-03-04
 bron: "https://wetten.overheid.nl/BWBR0046379"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister van Financiën, van 9 februari 2022, nr. 11359, tot instelling van de Werkgroep Interdepartementaal Beleidsonderzoek (IBO) Sturing op kwaliteit van onderwijs (Instellingsbesluit Werkgroep IBO Sturing op kwaliteit van onderwijs)

@@ -9,7 +9,7 @@ laatste_update: 2022-01-29
 status: geldig
 toestand: 2022-01-29
 bron: "https://wetten.overheid.nl/BWBR0046242"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van 24 januari 2022 tot wijziging van het Besluit bestuurlijke boetes financiële sector ter implementatie van de richtlijn verliesabsorptie- en herkapitalisatiecapaciteit van banken en beleggingsondernemingen (Implementatiebesluit verliesabsorptie- en herkapitalisatiecapaciteit van banken en beleggingsondernemingen)

@@ -9,7 +9,7 @@ laatste_update: 2022-01-18
 status: geldig
 toestand: 2022-01-18
 bron: "https://wetten.overheid.nl/BWBR0046195"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 10 januari 2022 nr. BOACAT2021/071, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Etten-Leur

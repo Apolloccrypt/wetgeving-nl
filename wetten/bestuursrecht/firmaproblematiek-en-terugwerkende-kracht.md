@@ -9,7 +9,7 @@ laatste_update: 2022-02-02
 status: geldig
 toestand: 2022-02-02
 bron: "https://wetten.overheid.nl/BWBR0046254"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Inkomstenbelasting. Winstfaciliteiten; Firmaproblematiek en terugwerkende kracht

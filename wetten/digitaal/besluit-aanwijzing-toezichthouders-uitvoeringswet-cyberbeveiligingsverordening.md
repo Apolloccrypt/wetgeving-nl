@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0046504"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat van 29 maart 2022, nr. WJZ/22044300 tot aanwijzing toezichthouders Uitvoeringswet cyberbeveiligingsverordening (Besluit aanwijzing toezichthouders Uitvoeringswet cyberbeveiligingsverordening)

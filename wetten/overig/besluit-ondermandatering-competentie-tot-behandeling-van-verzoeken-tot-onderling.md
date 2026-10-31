@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0046042"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de directeur Verbruiksbelastingen, Douane en Internationale aangelegenheden van 15 november 2021, Nr. 2021-0000226675, houdende ondermandatering van de competentie tot behandeling van verzoeken tot een ‘onderlinge overlegprocedure’

@@ -9,7 +9,7 @@ laatste_update: 2022-02-10
 status: geldig
 toestand: 2022-02-10
 bron: "https://wetten.overheid.nl/BWBR0046287"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 1 februari 2022, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordiging in Qatar, Ambassade Doha, Besluit Beperking Openbaarheid Ambassade Doha (Qatar) (1991) 2005–2013 (2014)

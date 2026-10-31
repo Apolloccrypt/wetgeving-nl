@@ -9,7 +9,7 @@ laatste_update: 2021-12-02
 status: geldig
 toestand: 2021-12-02
 bron: "https://wetten.overheid.nl/BWBR0045965"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Beleidsregel van de Staatssecretaris van Infrastructuur en Waterstaat, van 1 november 2021 nr. ILT-2021/61062 over de erkenning van medische en psychologische keuringsinstituten en de goedkeuring van keuringsreglementen (Beleidsregel keuringsinstituten Spoorwegwet)

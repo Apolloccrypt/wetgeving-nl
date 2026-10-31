@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0046467"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Regeling van het College voor toetsen en examens van 7 februari 2022, nummer CvTE22.00407, houdende preliminaire vaststelling van de syllabi voor de centrale examens in het havo voor 2024 en in het vwo voor 2025 van de vakken biologie, natuurkunde en scheikunde

@@ -9,7 +9,7 @@ laatste_update: 2022-02-05
 status: geldig
 toestand: 2022-02-05
 bron: "https://wetten.overheid.nl/BWBR0046280"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Waterstaat, van 31 januari 2022, nr. IENW/BSK-2022/12407, houdende vaststelling van de speerpunten voor het jaar 2022 op grond van de Tijdelijke subsidieregeling versterking omgevingsveiligheid industriële activiteiten 2022–2027

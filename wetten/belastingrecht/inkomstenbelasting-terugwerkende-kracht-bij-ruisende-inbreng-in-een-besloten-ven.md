@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-10-22
 toestand: 2008-09-27
 bron: "https://wetten.overheid.nl/BWBR0024524"
-opgehaald: 2026-10-30
+opgehaald: 2026-10-31
 ---
 
 # Inkomstenbelasting, terugwerkende kracht bij ruisende inbreng in een besloten vennootschap

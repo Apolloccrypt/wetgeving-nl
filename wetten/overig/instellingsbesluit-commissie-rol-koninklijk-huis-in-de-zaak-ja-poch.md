@@ -9,7 +9,7 @@ laatste_update: 2022-06-18
 status: geldig
 toestand: 2022-06-18
 bron: "https://wetten.overheid.nl/BWBR0045843"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 12 november 2021, nr. 3557824, houdende instelling van de Commissie rol Koninklijk Huis in zaak J.A. Poch

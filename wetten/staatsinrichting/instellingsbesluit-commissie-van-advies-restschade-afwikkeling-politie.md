@@ -9,7 +9,7 @@ laatste_update: 2025-04-01
 status: geldig
 toestand: 2025-04-01
 bron: "https://wetten.overheid.nl/BWBR0045770"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 24 september 2021, nr. 3563540, houdende instelling van een tijdelijke commissie voor toetsing en advisering bij verzoeken om vergoeding van restschade inzake beroepsziekten binnen de sector politie op grond van overgangsbeleid (Instellingsbesluit Commissie van Advies Restschade Afwikkeling Politie)

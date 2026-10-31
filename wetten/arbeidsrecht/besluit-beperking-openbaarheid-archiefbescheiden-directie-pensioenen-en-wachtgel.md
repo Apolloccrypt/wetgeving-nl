@@ -9,7 +9,7 @@ laatste_update: 2021-12-08
 status: geldig
 toestand: 2021-12-08
 bron: "https://wetten.overheid.nl/BWBR0045987"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister voor Basis- en Voortgezet Onderwijs en Media houdende het opheffen van de beperking aan de openbaarheid van archiefbescheiden, opgenomen in Archief van de Directie Pensioenen en Wachtgelden van het Ministerie van Binnenlandse Zaken, 1953–1997, nummer toegang 2.04.98

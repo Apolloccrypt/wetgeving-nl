@@ -8,7 +8,7 @@ laatste_update: 2022-01-29
 status: geldig
 toestand: 2022-01-29
 bron: "https://wetten.overheid.nl/BWBR0046246"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Subsidieregeling werkzaamheden ten behoeve van rechtsbijstand pilot Feijenoord

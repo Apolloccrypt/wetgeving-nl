@@ -9,7 +9,7 @@ laatste_update: 2015-12-11
 status: geldig
 toestand: 2015-12-11
 bron: "https://wetten.overheid.nl/BWBR0037308"
-opgehaald: 2026-10-30
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 2 december 2015, nr. MinBuza-2015.631328, tot wijziging van het besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 13 juni 2014, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Tweede call Fonds Duurzaam Ondernemen en Voedselzekerheid) en het besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 19 september 2014, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Derde openstelling Ghana WASH Window van het Fonds Duurzaam Water)

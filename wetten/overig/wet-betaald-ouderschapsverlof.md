@@ -9,7 +9,7 @@ laatste_update: 2022-08-02
 status: geldig
 toestand: 2022-08-02
 bron: "https://wetten.overheid.nl/BWBR0046019"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Wet van 13 oktober 2021 tot wijziging van de Wet arbeid en zorg, de Wet flexibel werken en enige andere wetten in verband met de implementatie van Richtlijn (EU) 2019/1158 van het Europees Parlement en de Raad van 20 juni 2019 betreffende het evenwicht tussen werk en privéleven voor ouders en mantelzorgers en tot intrekking van Richtlijn 2010/18/EU van de Raad (PbEU 2019, L 188) (Wet betaald ouderschapsverlof)

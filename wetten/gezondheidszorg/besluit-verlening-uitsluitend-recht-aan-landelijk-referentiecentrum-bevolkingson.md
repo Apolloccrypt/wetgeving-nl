@@ -9,7 +9,7 @@ laatste_update: 2022-04-05
 status: geldig
 toestand: 2022-04-05
 bron: "https://wetten.overheid.nl/BWBR0046511"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 24 maart 2022, kenmerk 3341535-1026728-WJZ, houdende de verlening van een uitsluitend recht aan het Landelijk Referentiecentrum Bevolkingsonderzoeken voor het verlenen van diensten ten behoeve van de borging en optimalisatie van de kwaliteit van bevolkingsonderzoek naar borstkanker in Europees en Caribisch Nederland aan de Staat der Nederlanden

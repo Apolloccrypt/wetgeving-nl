@@ -9,7 +9,7 @@ laatste_update: 2022-10-07
 status: geldig
 toestand: 2022-10-07
 bron: "https://wetten.overheid.nl/BWBR0046248"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 19 januari 2022, nr. 3576949, houdende instelling van de Commissie Wet wapens en munitie (Instellingsbesluit Commissie Wet wapens en munitie)

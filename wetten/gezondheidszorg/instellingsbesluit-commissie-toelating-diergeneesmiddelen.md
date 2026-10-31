@@ -9,7 +9,7 @@ laatste_update: 2022-04-12
 status: geldig
 toestand: 2022-04-12
 bron: "https://wetten.overheid.nl/BWBR0046538"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 6 april 2022, nr. WJZ/ 22032292, tot instelling van de Commissie toelating diergeneesmiddelen

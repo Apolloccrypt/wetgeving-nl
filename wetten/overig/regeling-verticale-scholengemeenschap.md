@@ -9,7 +9,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBR0046250"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap en de Minister voor Primair en Voortgezet Onderwijs van 20 januari 2022, MBO/30119886, houdende regels ten behoeve van de aanvraag voor de vorming, wijziging en beëindiging van een verticale scholengemeenschap (Regeling verticale scholengemeenschap)

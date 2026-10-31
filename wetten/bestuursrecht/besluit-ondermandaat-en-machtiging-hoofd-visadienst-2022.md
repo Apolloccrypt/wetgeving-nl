@@ -9,7 +9,7 @@ laatste_update: 2022-02-22
 status: geldig
 toestand: 2022-02-22
 bron: "https://wetten.overheid.nl/BWBR0046325"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de directeur-generaal Immigratie- en Naturalisatiedienst van het Ministerie van Justitie en Veiligheid, in de functie van hoofd van de Visadienst, van 16 februari 2022, nr. 3852710, houdende verlening van ondermandaat en -machtiging (Besluit ondermandaat en -machtiging Hoofd Visadienst 2022)

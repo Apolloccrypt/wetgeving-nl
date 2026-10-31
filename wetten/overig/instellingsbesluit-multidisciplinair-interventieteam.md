@@ -9,7 +9,7 @@ laatste_update: 2021-12-23
 status: geldig
 toestand: 2021-12-23
 bron: "https://wetten.overheid.nl/BWBR0046065"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid, de Minister van Financiën, de Minister van Defensie, het College van procureurs-generaal en de korpschef van 17 december 2021, nr. 3708729, tot instelling van het multidisciplinair interventieteam (Instellingsbesluit multidisciplinair interventieteam)

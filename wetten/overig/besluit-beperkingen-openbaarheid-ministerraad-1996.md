@@ -8,7 +8,7 @@ laatste_update: 2021-11-19
 status: geldig
 toestand: 2021-11-19
 bron: "https://wetten.overheid.nl/BWBR0045859"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit beperkingen openbaarheid ministerraad 1996

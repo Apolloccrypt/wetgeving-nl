@@ -9,7 +9,7 @@ laatste_update: 2026-10-16
 status: geldig
 toestand: 2026-10-16
 bron: "https://wetten.overheid.nl/BWBR0053236"
-opgehaald: 2026-10-30
+opgehaald: 2026-10-31
 ---
 
 # Wet van 14 oktober 2026 tot wijziging van de Wet terugkeer en vreemdelingenbewaring en enige andere wetten met het oog op het handhaven van de mogelijkheden om maatregelen te nemen ten aanzien van overlastgevende vreemdelingen, het verruimen van de mogelijkheden tot ongewenstverklaring en het verhogen van het strafmaximum van artikel 197 van het Wetboek van Strafrecht (novelle Wet terugkeer en vreemdelingenbewaring)

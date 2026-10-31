@@ -9,7 +9,7 @@ laatste_update: 2022-03-18
 status: geldig
 toestand: 2022-03-18
 bron: "https://wetten.overheid.nl/BWBR0046435"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Directeur Ketenvoorzieningen en Innovatie van de Justitiële Informatiedienst van het Ministerie van Justitie en Veiligheid van 4 februari 2022, nr. Alg. 6261, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan onder de directeur ressorterende ambtenaren (Mandaatbesluit Ketenvoorzieningen en Innovatie Justid 2022)

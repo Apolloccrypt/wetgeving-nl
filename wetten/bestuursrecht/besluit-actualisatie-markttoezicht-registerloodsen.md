@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0046069"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van 7 december 2021 tot wijziging van het Besluit markttoezicht registerloodsen en het Besluit opleidingen en bevoegdheden nautische beroepsbeoefenaren in verband met de actualisatie van het markttoezicht op het aanbod van dienstverlening door registerloodsen (Besluit actualisatie markttoezicht registerloodsen)

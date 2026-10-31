@@ -9,7 +9,7 @@ laatste_update: 2022-04-01
 status: geldig
 toestand: 2022-04-01
 bron: "https://wetten.overheid.nl/BWBR0046465"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 16 maart 2022 nr. BOACAT2022/014, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Nederlandse Voedsel- en Warenautoriteit

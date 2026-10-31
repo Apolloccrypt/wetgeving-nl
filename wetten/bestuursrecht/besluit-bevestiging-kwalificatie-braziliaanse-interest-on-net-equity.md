@@ -8,7 +8,7 @@ laatste_update: 2022-04-04
 status: geldig
 toestand: 2022-04-04
 bron: "https://wetten.overheid.nl/BWBR0046510"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Besluit bevestiging kwalificatie Braziliaanse interest on net equity

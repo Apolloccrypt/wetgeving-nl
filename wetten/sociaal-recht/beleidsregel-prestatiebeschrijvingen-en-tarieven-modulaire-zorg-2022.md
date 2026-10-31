@@ -8,7 +8,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0046039"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Beleidsregel prestatiebeschrijvingen en tarieven modulaire zorg 2022

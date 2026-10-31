@@ -9,7 +9,7 @@ laatste_update: 2026-06-12
 status: geldig
 toestand: 2026-06-12
 bron: "https://wetten.overheid.nl/BWBR0046159"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van 9 december 2021, houdende voorschriften inzake de bekostiging van basisscholen en speciale scholen voor basisonderwijs (Besluit bekostiging WPO 2022)

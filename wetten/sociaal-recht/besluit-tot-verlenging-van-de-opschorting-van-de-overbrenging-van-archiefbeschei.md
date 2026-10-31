@@ -8,7 +8,7 @@ laatste_update: 2022-01-13
 status: geldig
 toestand: 2022-01-13
 bron: "https://wetten.overheid.nl/BWBR0046163"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit tot verlenging van de opschorting van de overbrenging van archiefbescheiden van de Pensioen- en Uitkeringsraad als bedoeld in artikel 13, lid 3 Archiefwet 1995

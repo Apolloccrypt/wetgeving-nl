@@ -9,7 +9,7 @@ laatste_update: 2022-03-23
 status: geldig
 toestand: 2022-03-23
 bron: "https://wetten.overheid.nl/BWBR0046449"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de directeur Wetgeving en Juridische Zaken van het Ministerie van Justitie en Veiligheid van 17 maart 2022, nr. 3891150, houdende verlening van ondermandaat aan het hoofd van de sector Juridische Zaken en Wetgevingsbeleid (Ondermandaatbesluit DWJZ Ministerie van Justitie en Veiligheid 2022)

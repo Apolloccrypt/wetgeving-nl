@@ -9,7 +9,7 @@ laatste_update: 2023-11-01
 status: geldig
 toestand: 2023-11-01
 bron: "https://wetten.overheid.nl/BWBR0045836"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Minister voor Rechtsbescherming van 28 oktober 2021, kenmerk 3577060/21/DP&O, houdende regels met betrekking tot de vergoedingen van de bestuursleden van het Bureau Financieel Toezicht (Regeling vergoeding bestuur Bureau Financieel Toezicht 2021)

@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0045813"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Wet van 4 november 2021, houdende wijziging van de Wet bronbelasting 2021 in verband met de invoering van een aanvullende bronbelasting op dividenden naar laagbelastende jurisdicties en in misbruiksituaties (Wet invoering conditionele bronbelasting op dividenden)

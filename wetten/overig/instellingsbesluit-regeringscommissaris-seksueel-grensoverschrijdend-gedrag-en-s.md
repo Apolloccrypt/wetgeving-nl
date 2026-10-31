@@ -9,7 +9,7 @@ laatste_update: 2024-07-12
 status: geldig
 toestand: 2024-07-12
 bron: "https://wetten.overheid.nl/BWBR0046512"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 30 maart 2022, nr. DOB/32058971, inhoudende de instelling van de Regeringscommissaris seksueel grensoverschrijdend gedrag en seksueel geweld (Instellingsbesluit Regeringscommissaris seksueel grensoverschrijdend gedrag en seksueel geweld)

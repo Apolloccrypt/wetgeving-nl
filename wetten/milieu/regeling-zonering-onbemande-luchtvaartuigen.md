@@ -9,7 +9,7 @@ laatste_update: 2026-10-21
 status: geldig
 toestand: 2026-10-21
 bron: "https://wetten.overheid.nl/BWBR0044597"
-opgehaald: 2026-10-30
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 21 december 2020, nr. IENW/BSK-2020/236627, houdende de vaststelling van regels met betrekking tot het afbakenen en aanwijzen van geografische zones voor onbemande luchtvaartuigen (Regeling zonering onbemande luchtvaartuigen)

@@ -9,7 +9,7 @@ laatste_update: 2022-03-04
 status: geldig
 toestand: 2022-03-04
 bron: "https://wetten.overheid.nl/BWBR0046382"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 18 februari 2022, kenmerk 3804584, houdende verlening van mandaat aan de Inspecteur-Generaal Leefomgeving en Transport en aanwijzing van ambtenaren voor de uitoefening van het toezicht op de naleving van de Wet ter Bescherming Koopvaardij

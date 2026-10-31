@@ -9,7 +9,7 @@ laatste_update: 2022-04-23
 status: geldig
 toestand: 2022-04-23
 bron: "https://wetten.overheid.nl/BWBR0046588"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Beleidsregel van de Minister voor Natuur en Stikstof van 19 april 2022, nr. WJZ/ 21312619, over de beoordeling van aanvragen van certificaten voor handel binnen de Europese Unie en van aanvragen van invoervergunningen en wederuitvoercertificaten voor olifantenivoor (Beleidsregel certificaten EU handel, invoer en wederuitvoer olifantenivoor)

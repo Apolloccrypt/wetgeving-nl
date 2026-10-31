@@ -9,7 +9,7 @@ laatste_update: 2022-02-26
 status: geldig
 toestand: 2022-02-26
 bron: "https://wetten.overheid.nl/BWBR0046354"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap, van 24 januari 2022, nr. 29713506, houdende vaststelling van het onderwijsaccountantsprotocol voor de sectoren PO, VO, MBO en HO (Regeling onderwijsaccountantsprotocol OCW 2021)

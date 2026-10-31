@@ -9,7 +9,7 @@ laatste_update: 2022-04-23
 status: geldig
 toestand: 2022-04-23
 bron: "https://wetten.overheid.nl/BWBR0046586"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties tot het vaststellen van de tijdstippen, bedoeld in artikel 47, eerste en vijfde lid, van het Besluit basisregistratie personen en artikel 94, eerste lid, van de Paspoortuitvoeringsregeling Nederland 2001

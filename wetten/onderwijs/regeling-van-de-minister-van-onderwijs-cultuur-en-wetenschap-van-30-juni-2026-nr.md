@@ -9,7 +9,7 @@ laatste_update: 2026-10-24
 status: geldig
 toestand: 2026-10-24
 bron: "https://wetten.overheid.nl/BWBR0052838"
-opgehaald: 2026-10-30
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 30 juni 2026, nr. MBO/64628091 houdende vaststelling van keuzedelen die onderdeel uitmaken van de kwalificatiestructuur van het middelbaar beroepsonderwijs (Regeling vaststelling keuzedelen mbo)

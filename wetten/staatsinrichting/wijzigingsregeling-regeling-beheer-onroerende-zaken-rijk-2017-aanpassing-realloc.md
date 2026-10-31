@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0046074"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 10 december 2021, nr. 2021-0000622658 tot wijziging van de Regeling beheer onroerende zaken Rijk 2017 in verband met de aanpassing van de reallocatieprocedure

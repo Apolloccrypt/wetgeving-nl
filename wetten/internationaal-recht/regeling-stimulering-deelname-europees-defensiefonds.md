@@ -9,7 +9,7 @@ laatste_update: 2025-04-16
 status: geldig
 toestand: 2025-04-16
 bron: "https://wetten.overheid.nl/BWBR0045966"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat van 29 november 2021, nr. WJZ/ 21294511, houdende de vaststelling van subsidie-instrumenten ter stimulering van de deelname van ondernemingen aan acties in het kader van het Europees Defensiefonds (Regeling stimulering deelname Europees Defensiefonds)

@@ -8,7 +8,7 @@ laatste_update: 2021-11-27
 status: geldig
 toestand: 2021-11-27
 bron: "https://wetten.overheid.nl/BWBR0045902"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit vervanging archiefbescheiden medische dossiers van medische keuringen van vliegers en luchtverkeersleiders, Ministerie van Infrastructuur en Waterstaat 2022

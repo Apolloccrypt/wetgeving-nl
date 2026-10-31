@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0046477"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 29 maart 2022, nr. IENW/BSK-2022/50452, houdende regels inzake aangewezen kunststofproducten voor eenmalig gebruik (Regeling kunststofproducten voor eenmalig gebruik)

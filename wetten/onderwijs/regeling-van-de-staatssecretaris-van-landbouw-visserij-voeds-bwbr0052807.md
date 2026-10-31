@@ -9,7 +9,7 @@ laatste_update: 2026-10-24
 status: geldig
 toestand: 2026-10-24
 bron: "https://wetten.overheid.nl/BWBR0052807"
-opgehaald: 2026-10-30
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur van 26 juni 2026, nr. WJZ/106580719, houdende vaststelling van de Regeling schoolzuivel 2026 [KetenID WGK 29209]

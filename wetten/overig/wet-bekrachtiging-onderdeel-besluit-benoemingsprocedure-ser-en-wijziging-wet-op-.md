@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0046082"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Wet van 15 december 2021, houdende bekrachtiging van een onderdeel van het Besluit benoemingsprocedure SER en tot wijziging van de Wet op de Sociaal-Economische Raad in verband met vervanging van de goedkeuringsprocedure door een voorhangprocedure

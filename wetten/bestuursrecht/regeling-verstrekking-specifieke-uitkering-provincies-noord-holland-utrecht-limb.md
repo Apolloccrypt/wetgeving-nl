@@ -9,7 +9,7 @@ laatste_update: 2024-10-19
 status: geldig
 toestand: 2024-10-19
 bron: "https://wetten.overheid.nl/BWBR0045931"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 29 november 2021, nr. 2021-0000413275, houdende regels met betrekking tot de verstrekking van een specifieke uitkering aan de provincies Noord-Holland, Utrecht, Limburg, Zeeland, Overijssel, Groningen en Zuid-Holland ten behoeve van een kwalitatief hoogwaardige en duurzame woon- en leefomgeving in acht NOVI-gebieden

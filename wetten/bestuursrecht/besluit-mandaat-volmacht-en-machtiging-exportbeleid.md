@@ -9,7 +9,7 @@ laatste_update: 2021-12-16
 status: geldig
 toestand: 2021-12-16
 bron: "https://wetten.overheid.nl/BWBR0046021"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 8 december 2021, nr. Min-BuZa.2021.11092-7, houdende bepalingen omtrent mandaat, volmacht en machtiging op het terrein van het exportbeleid

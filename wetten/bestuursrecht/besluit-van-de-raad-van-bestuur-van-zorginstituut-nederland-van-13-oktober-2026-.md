@@ -9,7 +9,7 @@ laatste_update: 2026-10-23
 status: geldig
 toestand: 2026-10-23
 bron: "https://wetten.overheid.nl/BWBR0053233"
-opgehaald: 2026-10-30
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Raad van Bestuur van Zorginstituut Nederland van 13 oktober 2026, kenmerk 2026007360, tot vaststelling van het reglement van de Commissie Onderzoek 2026 (Reglement Commissie Onderzoek 2026)

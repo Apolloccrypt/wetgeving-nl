@@ -9,7 +9,7 @@ laatste_update: 2026-10-22
 status: geldig
 toestand: 2026-10-22
 bron: "https://wetten.overheid.nl/BWBR0053235"
-opgehaald: 2026-10-30
+opgehaald: 2026-10-31
 ---
 
 # Wet van 30 september 2026 tot wijziging van de Wet milieubeheer en enkele andere wetten ter uitvoering van Verordening (EU) 2024/1157 van het Europees Parlement en de Raad van 11 april 2024 betreffende de overbrenging van afvalstoffen, ter gedeeltelijke implementatie van een daaraan gerelateerde richtlijn, ter aanvullende implementatie van Richtlijn (EU) 2018/851 van het Europees Parlement en de Raad van 30 mei 2018 tot wijziging van Richtlijn 2008/98/EG betreffende afvalstoffen en in verband met het opnemen van een grondslag voor de uitvoering van Verordening (EU) 2023/1542 van het Europees Parlement en de Raad van 12 juli 2023 inzake batterijen en afgedankte batterijen (Wet uitvoering EU-verordening overbrenging van afvalstoffen en implementatie enkele andere EU-rechtshandelingen)

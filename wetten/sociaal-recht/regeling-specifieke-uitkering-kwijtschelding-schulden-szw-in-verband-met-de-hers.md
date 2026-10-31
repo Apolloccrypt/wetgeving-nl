@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0045861"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 16 november 2021, 2021-0000180781, tot de verstrekking van een specifieke uitkering aan gemeenten voor compensatie van de kosten die verband houden met het kwijtschelden van publieke schulden binnen het SZW-domein in het kader van de hersteloperatie kinderopvangtoeslagaffaire toeslagen (Regeling specifieke uitkering kwijtschelding schulden SZW in verband met de hersteloperatie toeslagen)

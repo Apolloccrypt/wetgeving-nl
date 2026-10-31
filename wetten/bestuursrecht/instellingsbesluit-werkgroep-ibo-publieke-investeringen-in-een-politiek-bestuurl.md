@@ -9,7 +9,7 @@ laatste_update: 2021-12-02
 status: geldig
 toestand: 2021-12-02
 bron: "https://wetten.overheid.nl/BWBR0045962"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister van Financiën, van 25 oktober, nr. 203166, tot instelling van de Werkgroep Interdepartementaal Beleidsonderzoek (IBO) Publieke investeringen in een politiek bestuurlijke context (Instellingsbesluit Werkgroep IBO Publieke investeringen in een politiek bestuurlijke context)

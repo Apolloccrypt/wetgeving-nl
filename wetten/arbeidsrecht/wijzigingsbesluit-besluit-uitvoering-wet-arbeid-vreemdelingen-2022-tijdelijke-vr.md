@@ -9,7 +9,7 @@ laatste_update: 2022-04-01
 status: geldig
 toestand: 2022-04-01
 bron: "https://wetten.overheid.nl/BWBR0046482"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Besluit van 29 maart 2022 tot wijziging van het Besluit uitvoering Wet arbeid vreemdelingen 2022 in verband met een tijdelijke vrijstelling van de tewerkstellingsvergunningsplicht, gelet op het Uitvoeringsbesluit van de Raad tot vaststelling van het bestaan van een massale toestroom van ontheemden uit Oekraïne in de zin van artikel 5 van Richtlijn 2001/55/EG van de Raad van 20 juli 2001, en tot invoering van tijdelijke bescherming naar aanleiding daarvan

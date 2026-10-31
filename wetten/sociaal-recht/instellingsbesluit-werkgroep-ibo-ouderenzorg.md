@@ -9,7 +9,7 @@ laatste_update: 2021-12-15
 status: geldig
 toestand: 2021-12-15
 bron: "https://wetten.overheid.nl/BWBR0046013"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister van Financiën, van 29 november 2021, nr. 237593, tot instelling van de Werkgroep Interdepartementaal Beleidsonderzoek (IBO) Ouderenzorg (Instellingsbesluit Werkgroep IBO Ouderenzorg)

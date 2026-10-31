@@ -9,7 +9,7 @@ laatste_update: 2022-02-24
 status: geldig
 toestand: 2022-02-24
 bron: "https://wetten.overheid.nl/BWBR0046331"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid d.d. 23 december 2021, kenmerk 2670125, houdende beperking van de openbaarheid van het naar het Drents Archief over te brengen archief van de Rijkspolitie Drenthe, district Assen, 1975–1992

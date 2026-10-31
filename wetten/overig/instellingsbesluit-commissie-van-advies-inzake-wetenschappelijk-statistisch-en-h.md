@@ -8,7 +8,7 @@ laatste_update: 2022-01-12
 status: geldig
 toestand: 2022-01-12
 bron: "https://wetten.overheid.nl/BWBR0046164"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Instellingsbesluit Commissie van Advies inzake wetenschappelijk, statistisch en historisch onderzoek en onderzoeksjournalistiek SVB

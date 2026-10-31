@@ -9,7 +9,7 @@ laatste_update: 2022-04-09
 status: geldig
 toestand: 2022-04-09
 bron: "https://wetten.overheid.nl/BWBR0046531"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 4 april 2022, nr. IENW/BSK-2022/54670, houdende regels voor het verstrekken van specifieke uitkeringen om fijnstofknelpunten rondom veehouderijen op te lossen (Regeling specifieke uitkeringen oplossen fijnstofknelpunten rondom veehouderijen)

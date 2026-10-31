@@ -9,7 +9,7 @@ laatste_update: 2021-11-13
 status: geldig
 toestand: 2021-11-13
 bron: "https://wetten.overheid.nl/BWBR0045837"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van 8 november 2021 tot wijziging van het Besluit uitvoering EU-verordeningen financiële markten in verband met de uitvoering van de verordening herstel en afwikkeling centrale tegenpartijen en de verordening verliesabsorptie- en herkapitalisatiecapaciteit van banken en beleggingsondernemingen (Uitvoeringsbesluit verordening herstel en afwikkeling centrale tegenpartijen)

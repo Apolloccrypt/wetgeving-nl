@@ -8,7 +8,7 @@ laatste_update: 2022-01-13
 status: geldig
 toestand: 2022-01-13
 bron: "https://wetten.overheid.nl/BWBR0046182"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit Defensie volmacht en machtiging lokale werknemers

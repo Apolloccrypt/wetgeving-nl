@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0045984"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 2 december 2021, nr. IENW/BSK-2021/308633, houdende vaststelling van regels voor het verstrekken van subsidies voor de taakuitoefening van beheerders van de hoofdspoorweginfrastructuur (Subsidieregeling taakuitoefening beheerders van de HSWI)

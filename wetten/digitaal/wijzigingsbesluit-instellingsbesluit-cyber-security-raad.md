@@ -9,7 +9,7 @@ laatste_update: 2022-02-19
 status: geldig
 toestand: 2022-02-19
 bron: "https://wetten.overheid.nl/BWBR0046322"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 27 januari 2022, kenmerk 3786249, houdende wijziging van het Instellingsbesluit Cyber Security Raad

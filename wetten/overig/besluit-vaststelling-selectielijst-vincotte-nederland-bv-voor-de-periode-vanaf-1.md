@@ -8,7 +8,7 @@ laatste_update: 2022-03-02
 status: geldig
 toestand: 2022-03-02
 bron: "https://wetten.overheid.nl/BWBR0046351"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit vaststelling selectielijst Vinçotte Nederland B.V. voor de periode vanaf 11 september 1997

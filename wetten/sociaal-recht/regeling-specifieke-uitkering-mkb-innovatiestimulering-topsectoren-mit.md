@@ -9,7 +9,7 @@ laatste_update: 2025-04-08
 status: geldig
 toestand: 2025-04-08
 bron: "https://wetten.overheid.nl/BWBR0045964"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat van 29 november 2021, nr. WJZ/ 21119437, houdende regels voor het verstrekken van eenmalige specifieke uitkeringen in verband met de uitvoering van de subsidiemodule MKB innovatiestimulering topsectoren 2021 (Regeling specifieke uitkering MIT 2021)

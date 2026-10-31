@@ -8,7 +8,7 @@ laatste_update: 2022-03-10
 status: geldig
 toestand: 2022-03-10
 bron: "https://wetten.overheid.nl/BWBR0046402"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit vaststelling selectielijst archiefbescheiden commissaris van de Koning als rijksorgaan ontvangen of opgemaakt vanaf 1 januari 2014 tot 1 januari 2020

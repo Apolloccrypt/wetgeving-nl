@@ -8,7 +8,7 @@ laatste_update: 2021-12-09
 status: geldig
 toestand: 2021-12-09
 bron: "https://wetten.overheid.nl/BWBR0045992"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit routinematige vervanging inkomende post KNAW 2021

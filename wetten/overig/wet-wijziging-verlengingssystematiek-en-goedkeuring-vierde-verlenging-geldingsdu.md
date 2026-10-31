@@ -9,7 +9,7 @@ laatste_update: 2022-03-15
 status: geldig
 toestand: 2022-03-15
 bron: "https://wetten.overheid.nl/BWBR0046427"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Wet van 23 februari 2022 tot wijziging van de Tijdelijke wet maatregelen covid-19 in verband met een wijziging van de verlengingssystematiek en goedkeuring van het Besluit houdende de vierde verlenging van de geldingsduur van bepalingen van de Tijdelijke wet maatregelen covid-19 (Stb. 2021, 549) (Wet wijziging verlengingssystematiek en goedkeuring vierde verlenging geldingsduur Tijdelijke wet maatregelen covid-19)

@@ -9,7 +9,7 @@ laatste_update: 2022-02-01
 status: geldig
 toestand: 2022-02-01
 bron: "https://wetten.overheid.nl/BWBR0046153"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Wet van 1 december 2021, houdende wijziging van de Wet ter Bescherming Koopvaardij houdende aanpassingen in verband met het certificerings- en vergunningstelsel, de positie van particuliere beveiligers, de scheepsbeheerder en de kapitein, de verwerking van bijzondere persoonsgegevens en herstel van enkele onvolkomenheden (Reparatiewet WtBK)

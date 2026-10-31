@@ -9,7 +9,7 @@ laatste_update: 2022-02-05
 status: geldig
 toestand: 2022-02-05
 bron: "https://wetten.overheid.nl/BWBR0046270"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 31 januari 2022 nr. IENW/BSK-2022/12408, houdende vaststelling van regels voor subsidiëring van initiatieven die bijdragen aan het versterken van de omgevingsveiligheid ten aanzien van industriële activiteiten met gevaarlijke stoffen en risicovolle processen 2022–2027 (Tijdelijke subsidieregeling versterking omgevingsveiligheid industriële activiteiten 2022–2027)

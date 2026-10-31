@@ -9,7 +9,7 @@ laatste_update: 2022-03-10
 status: geldig
 toestand: 2022-03-10
 bron: "https://wetten.overheid.nl/BWBR0046408"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de algemeen directeur van het Wetenschappelijk Onderzoek- en Documentatiecentrum (WODC) van 17 februari 2022, nr. 3857996/22/D&B/DO houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan onder de algemeen directeur ressorterende ambtenaren (Mandaatbesluit WODC)

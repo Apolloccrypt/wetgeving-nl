@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-07-14
 toestand: 2022-04-19
 bron: "https://wetten.overheid.nl/BWBR0046568"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Verstrekkingsvoorwaarden inzake het kentekenregister van de Dienst Wegverkeer 2022

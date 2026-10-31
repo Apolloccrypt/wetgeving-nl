@@ -9,7 +9,7 @@ laatste_update: 2023-10-12
 status: geldig
 toestand: 2023-10-12
 bron: "https://wetten.overheid.nl/BWBR0046257"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 19 januari 2021 houdende nadere regels ter uitvoering van de Wet ter Bescherming Koopvaardij en het Besluit bescherming koopvaardij (Regeling bescherming koopvaardij)

@@ -9,7 +9,7 @@ laatste_update: 2026-04-01
 status: geldig
 toestand: 2026-04-01
 bron: "https://wetten.overheid.nl/BWBR0046234"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Minister voor Volkshuisvesting en Ruimtelijke Ordening, van 18 januari 2022 nr. 2022-0000019027, houdende regels met betrekking tot een subsidieregeling voor verduurzaming en onderhoud voor verhuurders (Subsidieregeling Verduurzaming en Onderhoud Huurwoningen)

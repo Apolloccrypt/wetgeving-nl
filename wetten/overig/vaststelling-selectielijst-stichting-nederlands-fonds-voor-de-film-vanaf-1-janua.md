@@ -8,7 +8,7 @@ laatste_update: 2021-11-20
 status: geldig
 toestand: 2021-11-20
 bron: "https://wetten.overheid.nl/BWBR0045857"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Vaststelling Selectielijst Stichting Nederlands Fonds voor de Film vanaf 1 januari 2013

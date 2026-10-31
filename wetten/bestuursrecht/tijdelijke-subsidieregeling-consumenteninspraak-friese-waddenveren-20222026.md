@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0046097"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 15 december 2021, nr. IENW/BSK-2021/314060, houdende regels over subsidie ten behoeve van consumenteninspraak inzake de uitvoering van de concessies voor de Friese Waddenveren over de jaren 2022 tot en met 2026 (Tijdelijke subsidieregeling consumenteninspraak Friese Waddenveren 2022–2026)

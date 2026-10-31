@@ -9,7 +9,7 @@ laatste_update: 2022-04-01
 status: geldig
 toestand: 2022-04-01
 bron: "https://wetten.overheid.nl/BWBR0046194"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Wet van 22 december 2021 tot wijziging van de Wet op de beroepen in de individuele gezondheidszorg in verband met de organisatie van de regionale tuchtcolleges en tot het aanbrengen van enkele andere wijzigingen

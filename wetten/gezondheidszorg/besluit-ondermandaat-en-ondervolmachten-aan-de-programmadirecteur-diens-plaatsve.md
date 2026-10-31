@@ -9,7 +9,7 @@ laatste_update: 2022-03-09
 status: geldig
 toestand: 2022-03-09
 bron: "https://wetten.overheid.nl/BWBR0046399"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Secretaris-Generaal van het Ministerie van Volksgezondheid, Welzijn en Sport van 24 februari 2022, kenmerk 3321638-1021996-OBP, houdende het verlenen van ondermandaat en ondervolmachten aan de programmadirecteur, diens plaatsvervanger en een plaatsvervangend Directeur-Generaal ten behoeve van het programma Pandemische Paraatheid Publieke Gezondheid

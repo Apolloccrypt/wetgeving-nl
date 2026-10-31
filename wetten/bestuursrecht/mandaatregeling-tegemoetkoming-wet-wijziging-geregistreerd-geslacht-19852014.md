@@ -9,7 +9,7 @@ laatste_update: 2021-11-11
 status: geldig
 toestand: 2021-11-11
 bron: "https://wetten.overheid.nl/BWBR0045809"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Minister voor Rechtsbescherming van 28 oktober 2021, nr. 3606427, Directie Wetgeving en Juridische Zaken, houdende het mandaat voor het verstrekken van een tegemoetkoming in verband met het leed dat transgender en intersekse personen hebben ondervonden als gevolg van de tussen 1985 en 2014 geldende wetgeving voor de wijziging van het geregistreerde geslacht (mandaatregeling tegemoetkoming Wet wijziging geregistreerd geslacht 1985–2014)

@@ -9,7 +9,7 @@ laatste_update: 2022-05-23
 status: geldig
 toestand: 2022-05-23
 bron: "https://wetten.overheid.nl/BWBR0046546"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 5 april 2022 nr. BOACAT2022/021, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Deventer

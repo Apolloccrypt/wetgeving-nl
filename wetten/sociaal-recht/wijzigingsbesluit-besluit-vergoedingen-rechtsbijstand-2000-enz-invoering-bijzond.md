@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0046083"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van 15 december 2021 tot wijziging van het Besluit vergoedingen rechtsbijstand 2000 en het Besluit rechtsbijstand- en toevoegcriteria in verband met de invoering van bijzondere procedurele bepalingen in het Vreemdelingenbesluit 2000 onder andere voor situaties waarin sprake is van een aanzienlijke toename van het aantal asielaanvragen

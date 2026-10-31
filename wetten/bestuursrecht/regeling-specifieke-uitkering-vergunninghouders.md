@@ -9,7 +9,7 @@ laatste_update: 2021-12-08
 status: geldig
 toestand: 2021-12-08
 bron: "https://wetten.overheid.nl/BWBR0045989"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 6 december 2021, nr. 2021-0000578548, houdende vaststelling van regels voor het verstrekken van een specifieke uitkering aan gemeenten ten behoeve van de huisvesting van vergunninghouders (Regeling specifieke uitkering vergunninghouders)

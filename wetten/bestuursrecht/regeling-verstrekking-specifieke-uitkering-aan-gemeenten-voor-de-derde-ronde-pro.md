@@ -9,7 +9,7 @@ laatste_update: 2022-09-14
 status: geldig
 toestand: 2022-09-14
 bron: "https://wetten.overheid.nl/BWBR0046413"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Minister voor Volkshuisvesting en Ruimtelijke Ordening van 8 maart 2022, nr. 2021-0000677231 houdende regels met betrekking tot de verstrekking van een specifieke uitkering aan gemeenten voor de derde ronde proeftuinen van het programma aardgasvrije wijken

@@ -9,7 +9,7 @@ laatste_update: 2022-02-11
 status: geldig
 toestand: 2022-02-11
 bron: "https://wetten.overheid.nl/BWBR0046302"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 7 februari 2022, nr. IENW/BSK-2021/303986, houdende vaststelling van een tijdelijke specifieke uitkering in verband met de uitvoering van het Landelijk Verbeterprogramma Overwegen (Tijdelijke regeling specifieke uitkering Landelijk Verbeterprogramma Overwegen 2022–2028)

@@ -9,7 +9,7 @@ laatste_update: 2022-03-23
 status: geldig
 toestand: 2022-03-23
 bron: "https://wetten.overheid.nl/BWBR0046447"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Beleidsregel van de Minister van Landbouw, Natuur en Voedselkwaliteit van 16 maart 2022, nr. WJZ/ 22101854, tot vaststelling van de gronden waarop ontheffing verleend wordt van de verboden, opgenomen in artikel 8, eerste lid, van het Reglement voor de Binnenvisserij 1985 en artikel 29, eerste lid, onderdeel g, en tweede en derde lid, van de Uitvoeringsregeling visserij, ten behoeve van cultuurhistorische visserij (Beleidsregel ontheffing vergunningsplicht IJsselmeer voor cultuurhistorische visserij)

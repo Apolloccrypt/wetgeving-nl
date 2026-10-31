@@ -9,7 +9,7 @@ laatste_update: 2022-03-03
 status: geldig
 toestand: 2022-03-03
 bron: "https://wetten.overheid.nl/BWBR0046366"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Minister voor Volkshuisvesting en Ruimtelijke Ordening, van 14 februari 2022, nr. 2021-0000600632, houdende regels voor de verstrekking van een subsidie aan de Stichting Geonovum (Subsidieregeling Geonovum 2022–2027)

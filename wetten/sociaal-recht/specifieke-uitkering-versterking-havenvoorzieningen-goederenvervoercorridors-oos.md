@@ -9,7 +9,7 @@ laatste_update: 2026-02-20
 status: geldig
 toestand: 2026-02-20
 bron: "https://wetten.overheid.nl/BWBR0046244"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 25 januari 2022, nr. IENW/BSK-2021/278136, houdende regels voor de verstrekking van een specifieke uitkering in verband met de aanleg en verbetering van openbare havenfaciliteiten op de goederenvervoercorridors Oost en Zuidoost (Specifieke uitkering versterking havenvoorzieningen goederenvervoercorridors Oost en Zuidoost 2022–2026)

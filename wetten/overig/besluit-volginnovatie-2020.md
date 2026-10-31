@@ -9,7 +9,7 @@ laatste_update: 2021-12-23
 status: geldig
 toestand: 2021-12-23
 bron: "https://wetten.overheid.nl/BWBR0046068"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat van 8 december 2021 inzake volginnovatie 2020

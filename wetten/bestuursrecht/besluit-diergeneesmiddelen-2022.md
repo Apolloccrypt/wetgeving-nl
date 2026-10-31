@@ -9,7 +9,7 @@ laatste_update: 2025-03-01
 status: geldig
 toestand: 2025-03-01
 bron: "https://wetten.overheid.nl/BWBR0046416"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Besluit van 25 februari 2022, houdende regels over diergeneesmiddelen en gemedicineerde diervoeders (Besluit diergeneesmiddelen 2022)

@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0046239"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 25 januari 2022, nr. WJZ/ 22015438, houdende regels over diergeneesmiddelen (Regeling diergeneesmiddelen 2022)

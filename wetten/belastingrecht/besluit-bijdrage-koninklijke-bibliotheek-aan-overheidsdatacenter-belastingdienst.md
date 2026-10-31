@@ -9,7 +9,7 @@ laatste_update: 2021-11-12
 status: geldig
 toestand: 2021-11-12
 bron: "https://wetten.overheid.nl/BWBR0045812"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van 4 november 2021, houdende de grondslag voor en regels omtrent de vaststelling en de betaling van de bijdrage van de Koninklijke Bibliotheek voor het gebruik van housingdiensten van het rekencentrum van de Belastingdienst (Besluit bijdrage Koninklijke Bibliotheek aan Overheidsdatacenter Belastingdienst)

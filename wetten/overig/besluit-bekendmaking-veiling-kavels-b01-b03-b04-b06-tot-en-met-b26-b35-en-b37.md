@@ -9,7 +9,7 @@ laatste_update: 2022-04-06
 status: geldig
 toestand: 2022-04-06
 bron: "https://wetten.overheid.nl/BWBR0046523"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat van 4 april 2022 nr. DGBI-DE/22097037, handelend in overeenstemming met de Staatssecretaris Cultuur en Media, inzake de keuze voor het instrument veiling van vergunningen voor niet-landelijke commerciële radio-omroep kavels B01, B03, B04, B06 tot en met B26, B35 en B37, de vaststelling van die vergunningen, en de vaststelling van de daaraan te koppelen vergunningen voor digitale radio-omroep (Besluit bekendmaking veiling kavels B01, B03, B04, B06 tot en met B26, B35 en B37)

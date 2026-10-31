@@ -9,7 +9,7 @@ laatste_update: 2022-04-01
 status: geldig
 toestand: 2022-04-01
 bron: "https://wetten.overheid.nl/BWBR0046376"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van 24 februari 2022, houdende wijziging van het Tuchtrechtbesluit BIG in verband met het terugbrengen van het aantal regionale tuchtcolleges van vijf naar drie en het Besluit opleidingseisen en deskundigheidsgebied verloskundige 2008 in verband met een nadere invulling van de tijdens de stages te verrichten episiotomieën

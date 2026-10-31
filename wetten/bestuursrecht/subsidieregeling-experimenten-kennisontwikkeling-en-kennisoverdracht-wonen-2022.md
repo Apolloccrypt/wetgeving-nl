@@ -9,7 +9,7 @@ laatste_update: 2022-04-13
 status: geldig
 toestand: 2022-04-13
 bron: "https://wetten.overheid.nl/BWBR0046549"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Minister voor Volkshuisvesting en Ruimtelijke Ordening van 11 april 2022, nr. 2022-0000167676, houdende regels voor de verstrekking van subsidies voor experimenten, kennisontwikkeling- en kennisoverdrachtactiviteiten op het terrein van het rijksbeleid met betrekking tot het bouwen, het wonen en de woonomgeving (Subsidieregeling experimenten, kennisontwikkeling en kennisoverdracht wonen 2022)

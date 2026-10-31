@@ -9,7 +9,7 @@ laatste_update: 2022-04-01
 status: geldig
 toestand: 2022-04-01
 bron: "https://wetten.overheid.nl/BWBR0046418"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 10 maart 2022, nr. IENW/BSK-2022/44209, houdende vaststelling van regels voor het verstrekken van specifieke uitkeringen ten behoeve van lokale en regionale MIRT-projecten en MIRT-projectpakketten (Regeling specifieke uitkeringen lokale en regionale MIRT-projecten en MIRT-projectpakketten)

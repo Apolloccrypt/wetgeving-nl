@@ -9,7 +9,7 @@ laatste_update: 2024-04-01
 status: geldig
 toestand: 2024-04-01
 bron: "https://wetten.overheid.nl/BWBR0045971"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Secretaris Generaal van het Ministerie van Justitie en Veiligheid, 29 november 2021, nr. 3342915 houdende nadere bepalingen inzake de taakopdracht van het Centraal Justitieel Incassobureau (Takenbesluit CJIB)

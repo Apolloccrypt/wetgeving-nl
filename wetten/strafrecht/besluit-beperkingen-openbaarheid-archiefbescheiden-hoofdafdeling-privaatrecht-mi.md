@@ -8,7 +8,7 @@ laatste_update: 2021-12-17
 status: geldig
 toestand: 2021-12-17
 bron: "https://wetten.overheid.nl/BWBR0046033"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit beperkingen openbaarheid archiefbescheiden Hoofdafdeling Privaatrecht Ministerie van Justitie inzake geslachtsnaamswijzigingen, 1921 – 1972 (toegangsnummer 2.09.131)

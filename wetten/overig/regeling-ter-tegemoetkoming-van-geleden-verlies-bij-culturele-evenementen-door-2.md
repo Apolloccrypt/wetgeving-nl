@@ -8,7 +8,7 @@ laatste_update: 2021-11-08
 status: geldig
 toestand: 2021-11-08
 bron: "https://wetten.overheid.nl/BWBR0045798"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling ter tegemoetkoming van geleden verlies bij culturele evenementen door 25%-COVID-19-maatregel

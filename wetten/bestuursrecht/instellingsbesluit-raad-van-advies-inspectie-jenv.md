@@ -9,7 +9,7 @@ laatste_update: 2021-11-27
 status: geldig
 toestand: 2021-11-27
 bron: "https://wetten.overheid.nl/BWBR0045904"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Inspecteur-generaal van de Inspectie Justitie en Veiligheid van 2 juni 2020 en nummer 2889153, houdende de instelling van de Raad van Advies van de Inspectie JenV (Instellingsbesluit Raad van Advies Inspectie JenV)

@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0045991"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van 21 november 2021, nr. 2021002215, houdende verlening van een concessie als genoemd in artikel 2.19 van de Mediawet 2008 aan de Stichting Nederlandse Publieke Omroep voor de periode 2022–2031

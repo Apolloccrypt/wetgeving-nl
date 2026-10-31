@@ -8,7 +8,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0046140"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Registratiewet 1970, vermelding BSN en RSIN in het elektronische aangiftebericht

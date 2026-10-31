@@ -9,7 +9,7 @@ laatste_update: 2022-01-19
 status: geldig
 toestand: 2022-01-19
 bron: "https://wetten.overheid.nl/BWBR0046207"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Minister van Financiën van 6 januari 2022, 2021-0000263329, directie Financiële Markten, tot vaststelling van de bijdragen gemoedsbezwaarden 2022

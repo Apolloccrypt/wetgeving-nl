@@ -9,7 +9,7 @@ laatste_update: 2022-04-12
 status: geldig
 toestand: 2022-04-12
 bron: "https://wetten.overheid.nl/BWBR0046495"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 30 maart 2022 nr. BOACAT2022/029, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij het Ministerie van Economische Zaken, DG Agro en Natuur/beleidsdirectie Natuur en Biodiversiteit/Waddenunit

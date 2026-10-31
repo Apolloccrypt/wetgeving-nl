@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0046155"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van 22 december 2021, houdende regels ter uitvoering van de Wet ter Bescherming Koopvaardij (Besluit bescherming koopvaardij) alsmede vaststelling van het tijdstip van inwerkingtreding van de Wet ter Bescherming Koopvaardij

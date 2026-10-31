@@ -9,7 +9,7 @@ laatste_update: 2021-11-27
 status: geldig
 toestand: 2021-11-27
 bron: "https://wetten.overheid.nl/BWBR0045905"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 25 november 2021 nr. BOACAT2021/065, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij het Functioneel Parket

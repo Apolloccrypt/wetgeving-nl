@@ -9,7 +9,7 @@ laatste_update: 2022-05-01
 status: geldig
 toestand: 2022-05-01
 bron: "https://wetten.overheid.nl/BWBR0046349"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Wet van 9 februari 2022, houdende regels ter uitvoering van Verordening (EU) 2019/881 (Uitvoeringswet cyberbeveiligingsverordening)

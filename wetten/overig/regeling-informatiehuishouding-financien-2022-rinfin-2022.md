@@ -9,7 +9,7 @@ laatste_update: 2023-07-07
 status: geldig
 toestand: 2023-07-07
 bron: "https://wetten.overheid.nl/BWBR0046157"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Minister van Financiën van 16 december 2021, nr. 2021-238261, houdende beheersregels op het gebied van de informatiehuishouding voor het Ministerie van Financiën (Regeling Informatiehuishouding Financiën 2022)

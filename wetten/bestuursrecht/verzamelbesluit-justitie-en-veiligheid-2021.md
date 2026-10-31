@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0046010"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van 24 november 2021 tot wijziging van enkele besluiten op het terrein van Justitie en Veiligheid in verband met het doorvoeren van technische verbeteringen en noodzakelijke beperkte aanpassingen (Verzamelbesluit Justitie en Veiligheid 2021)

@@ -9,7 +9,7 @@ laatste_update: 2022-02-09
 status: geldig
 toestand: 2022-02-09
 bron: "https://wetten.overheid.nl/BWBR0046282"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Tijdelijke vrijstelling op grond van artikel 46, eerste lid van de Wet gewasbeschermingsmiddelen en biociden voor het gebruik van desinfectiemiddelen in luchtvaartuigen in verband met de uitbraak COVID-19 (Vierde tijdelijke vrijstelling desinfectie luchtvaartuigen COVID-19 2022)

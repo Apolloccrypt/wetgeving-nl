@@ -9,7 +9,7 @@ laatste_update: 2024-06-06
 status: geldig
 toestand: 2024-06-06
 bron: "https://wetten.overheid.nl/BWBR0045939"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 23 november 2021, nr. BOACAT2021/034, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Hardenberg

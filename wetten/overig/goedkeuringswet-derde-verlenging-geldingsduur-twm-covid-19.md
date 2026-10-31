@@ -9,7 +9,7 @@ laatste_update: 2021-12-14
 status: geldig
 toestand: 2021-12-14
 bron: "https://wetten.overheid.nl/BWBR0046006"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Wet van 1 december 2021, houdende goedkeuring van het koninklijk besluit van 16 augustus 2021, houdende de derde verlenging van de geldingsduur van bepalingen van de Tijdelijke wet maatregelen covid-19 (Stb. 2021, 393) (Goedkeuringswet derde verlenging geldingsduur Twm covid-19)

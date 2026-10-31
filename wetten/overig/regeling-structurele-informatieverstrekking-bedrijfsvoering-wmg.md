@@ -8,7 +8,7 @@ laatste_update: 2025-01-10
 status: geldig
 toestand: 2025-01-10
 bron: "https://wetten.overheid.nl/BWBR0046300"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling structurele informatieverstrekking bedrijfsvoering Wmg

@@ -9,7 +9,7 @@ laatste_update: 2022-01-22
 status: geldig
 toestand: 2022-01-22
 bron: "https://wetten.overheid.nl/BWBR0046220"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister voor Langdurige Zorg en Sport van 13 januari 2022, kenmerk 3294400-1021540-Z, houdende vaststelling van een aanwijzing voor de besteedbare middelen ter dekking van de beheerskosten Wlz 2022 (Aanwijzing besteedbare middelen beheerskosten Wlz 2022)

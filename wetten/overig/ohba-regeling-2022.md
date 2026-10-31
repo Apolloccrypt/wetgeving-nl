@@ -9,7 +9,7 @@ laatste_update: 2025-02-06
 status: geldig
 toestand: 2025-02-06
 bron: "https://wetten.overheid.nl/BWBR0046410"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Staatssecretaris van Justitie en Veiligheid van 25 februari 2022, nummer 3848377, houdende vaststelling van de Regeling onderwijshuisvestingsbudgetten asielzoekers 2022 (OHBA-regeling 2022)

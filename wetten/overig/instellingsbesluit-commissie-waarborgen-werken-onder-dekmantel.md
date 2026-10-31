@@ -9,7 +9,7 @@ laatste_update: 2022-03-24
 status: geldig
 toestand: 2022-03-24
 bron: "https://wetten.overheid.nl/BWBR0046458"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 29 januari 2022, kenmerk 3817562, houdende instelling van de Commissie Waarborgen Werken Onder Dekmantel (Instellingsbesluit Commissie Waarborgen Werken Onder Dekmantel)

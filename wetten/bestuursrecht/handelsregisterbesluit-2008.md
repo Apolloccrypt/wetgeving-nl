@@ -9,7 +9,7 @@ laatste_update: 2026-10-24
 status: geldig
 toestand: 2026-10-24
 bron: "https://wetten.overheid.nl/BWBR0024067"
-opgehaald: 2026-10-30
+opgehaald: 2026-10-31
 ---
 
 # Besluit van 18 juni 2008, houdende de vaststelling van een nieuw Handelsregisterbesluit 2008 (Handelsregisterbesluit 2008)

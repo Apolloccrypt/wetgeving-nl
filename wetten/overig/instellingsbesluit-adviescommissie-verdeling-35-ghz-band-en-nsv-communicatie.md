@@ -9,7 +9,7 @@ laatste_update: 2021-12-22
 status: geldig
 toestand: 2021-12-22
 bron: "https://wetten.overheid.nl/BWBR0046053"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat van 17 december 2021, nr. WJZ/21207879, tot instelling van de Adviescommissie verdeling 3,5 GHz-band en waarborging nood-, spoed- en veiligheidscommunicatie (Instellingsbesluit Adviescommissie Verdeling 3,5 GHz-band en NSV-communicatie)

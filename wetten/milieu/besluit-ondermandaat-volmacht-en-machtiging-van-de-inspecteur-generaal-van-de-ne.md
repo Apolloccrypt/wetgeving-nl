@@ -9,7 +9,7 @@ laatste_update: 2025-02-06
 status: geldig
 toestand: 2025-02-06
 bron: "https://wetten.overheid.nl/BWBR0046225"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit van 6 december 2021, nr. NVWA/2022/457, houdende verlening van ondermandaat, volmacht en machtiging voor de Nederlandse Voedsel-en Warenautoriteit van het Ministerie van Landbouw, Natuur en Voedselkwaliteit (Besluit ondermandaat, volmacht en machtiging Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2022)

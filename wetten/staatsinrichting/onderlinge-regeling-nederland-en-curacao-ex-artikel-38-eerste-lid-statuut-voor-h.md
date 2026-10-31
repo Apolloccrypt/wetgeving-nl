@@ -8,7 +8,7 @@ laatste_update: 2021-12-03
 status: geldig
 toestand: 2021-12-03
 bron: "https://wetten.overheid.nl/BWBR0045980"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Onderlinge regeling Nederland en Curaçao ex artikel 38, eerste lid, Statuut voor het Koninkrijk der Nederlanden (verdeling opbrengsten octrooibestel)

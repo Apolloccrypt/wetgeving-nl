@@ -9,7 +9,7 @@ laatste_update: 2022-02-01
 status: geldig
 toestand: 2022-02-01
 bron: "https://wetten.overheid.nl/BWBR0046149"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van 24 november 2021, houdende vaststelling van een onderscheidingsvlag voor Hare Koninklijke Hoogheid Prinses Catharina-Amalia en haar zusters

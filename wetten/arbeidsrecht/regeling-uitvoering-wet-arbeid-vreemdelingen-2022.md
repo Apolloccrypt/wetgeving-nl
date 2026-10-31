@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0046054"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 29 november 2021, 2021-0000084573, tot vaststelling van een nieuwe Regeling uitvoering Wet arbeid vreemdelingen (Regeling uitvoering Wet arbeid vreemdelingen 2022)

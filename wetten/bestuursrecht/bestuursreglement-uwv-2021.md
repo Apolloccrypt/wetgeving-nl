@@ -8,7 +8,7 @@ laatste_update: 2022-04-23
 status: geldig
 toestand: 2022-04-23
 bron: "https://wetten.overheid.nl/BWBR0046584"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Bestuursreglement UWV 2021

@@ -9,7 +9,7 @@ laatste_update: 2022-06-01
 status: geldig
 toestand: 2022-06-01
 bron: "https://wetten.overheid.nl/BWBR0046460"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Minister voor Rechtsbescherming van 22 maart 2022, nr. 3903171, directie Wetgeving en Juridische Zaken, tot aanwijzing van de rechtspersoon, bedoeld in artikel 16d van de Auteurswet en artikel 11 van de Wet op de naburige rechten

@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0045860"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 8 november 2021, nr. 2021-0000584993, houdende regels voor de subsidiëring van de Stichting COELO (Subsidieregeling COELO)

@@ -8,7 +8,7 @@ laatste_update: 2026-10-21
 status: geldig
 toestand: 2026-10-21
 bron: "https://wetten.overheid.nl/BWBR0053230"
-opgehaald: 2026-10-30
+opgehaald: 2026-10-31
 ---
 
 # Statutenwijziging Stichting Skal

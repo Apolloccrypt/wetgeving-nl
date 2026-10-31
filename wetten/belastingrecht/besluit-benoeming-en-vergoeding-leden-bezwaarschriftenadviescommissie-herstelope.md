@@ -8,7 +8,7 @@ laatste_update: 2026-06-27
 status: geldig
 toestand: 2026-06-27
 bron: "https://wetten.overheid.nl/BWBR0045901"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit benoeming en vergoeding leden Bezwaarschriftenadviescommissie hersteloperatie toeslagen

@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-10-27
 toestand: 2026-07-24
 bron: "https://wetten.overheid.nl/BWBR0052886"
-opgehaald: 2026-10-30
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Waterstaat van 21 juli 2026, nr. IENW/BSK- 2026/77120 houdende tijdelijke vrijstelling op grond van artikel 46, eerste lid van de Wet gewasbeschermingsmiddelen en biociden voor het gebruik van Stan’s Wildlife Carbon Dioxide tegen ganzen (Vrijstelling Stan’s Wildlife Carbon Dioxide voor bestrijding van ganzen 2026)

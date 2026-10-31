@@ -9,7 +9,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBR0046401"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 22 februari 2022, nr. PO/FenV/31402895, houdende regels voor het verstrekken van bijzondere en aanvullende bekostiging voor het voortgezet speciaal onderwijs en praktijkonderwijs in verband met de aanpak van jeugdwerkloosheid als gevolg van de coronacrisis voor 2022 (Regeling bijzondere en aanvullende bekostiging voor aanpak jeugdwerkloosheid als gevolg van de coronacrisis 2022)

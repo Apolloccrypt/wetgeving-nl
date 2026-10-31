@@ -9,7 +9,7 @@ laatste_update: 2022-02-11
 status: geldig
 toestand: 2022-02-11
 bron: "https://wetten.overheid.nl/BWBR0046295"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 1 februari 2022, kenmerk 3310683-1023507-WJZ, houdende vaststelling van de rekenfactor ingevolge de Wet buitengewoon pensioen 1940–1945 en de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers voor het jaar 2021

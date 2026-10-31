@@ -9,7 +9,7 @@ laatste_update: 2022-04-08
 status: geldig
 toestand: 2022-04-08
 bron: "https://wetten.overheid.nl/BWBR0046527"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de directie van de Nationale en Internationale Wegvervoer Organisatie tot vaststelling van de tarieven, bedoeld in artikel 37, vierde lid, van de Wet implementatie EETS-richtlijn (Tariefbesluit NIWO inzake EETS)

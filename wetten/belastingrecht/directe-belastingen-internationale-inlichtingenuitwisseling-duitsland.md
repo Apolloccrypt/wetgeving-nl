@@ -8,7 +8,7 @@ laatste_update: 2021-10-15
 status: geldig
 toestand: 2021-10-15
 bron: "https://wetten.overheid.nl/BWBR0045773"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Directe belastingen, Internationale inlichtingenuitwisseling; Duitsland

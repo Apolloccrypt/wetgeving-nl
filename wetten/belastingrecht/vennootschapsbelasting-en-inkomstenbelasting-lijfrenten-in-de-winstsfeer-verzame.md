@@ -8,7 +8,7 @@ laatste_update: 2025-02-06
 status: geldig
 toestand: 2025-02-06
 bron: "https://wetten.overheid.nl/BWBR0046229"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Vennootschapsbelasting en inkomstenbelasting, lijfrenten in de winstsfeer, verzamelbesluit

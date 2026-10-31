@@ -8,7 +8,7 @@ laatste_update: 2022-03-23
 status: geldig
 toestand: 2022-03-23
 bron: "https://wetten.overheid.nl/BWBR0046445"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Regeling tarieven Airport Coordination Netherlands 2022

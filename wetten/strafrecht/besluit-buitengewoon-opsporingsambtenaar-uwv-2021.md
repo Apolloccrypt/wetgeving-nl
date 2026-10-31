@@ -9,7 +9,7 @@ laatste_update: 2023-09-01
 status: geldig
 toestand: 2023-09-01
 bron: "https://wetten.overheid.nl/BWBR0045769"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 28 oktober 2021 nr. BOACAT2021/055, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Uitvoeringsinstituut Werknemersverzekeringen

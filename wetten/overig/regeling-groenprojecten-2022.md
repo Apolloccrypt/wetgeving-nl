@@ -9,7 +9,7 @@ laatste_update: 2024-05-01
 status: geldig
 toestand: 2024-05-01
 bron: "https://wetten.overheid.nl/BWBR0046599"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat en de Staatssecretaris van Fiscaliteit en Belastingdienst van 19 april 2022, nr. IENW/BSK-2022/51234, houdende regels inzake in Nederland gelegen projecten welke in het belang zijn van de bescherming van het milieu (Regeling groenprojecten 2022)

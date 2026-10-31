@@ -9,7 +9,7 @@ laatste_update: 2025-12-03
 status: geldig
 toestand: 2025-12-03
 bron: "https://wetten.overheid.nl/BWBR0045960"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 23 november 2021, nr. BOACAT2021/059, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Werkorganisatie Langedijk en Heerhugowaard

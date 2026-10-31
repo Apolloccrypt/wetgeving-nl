@@ -9,7 +9,7 @@ laatste_update: 2022-04-21
 status: geldig
 toestand: 2022-04-21
 bron: "https://wetten.overheid.nl/BWBR0046557"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Vaststelling selectielijst van de Kamer van Koophandel voor de periode vanaf 2014

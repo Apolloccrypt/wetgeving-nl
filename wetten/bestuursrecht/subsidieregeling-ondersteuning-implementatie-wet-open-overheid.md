@@ -9,7 +9,7 @@ laatste_update: 2022-03-26
 status: geldig
 toestand: 2022-03-26
 bron: "https://wetten.overheid.nl/BWBR0046466"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 22 maart 2022, 2021-0000604446, houdende regels voor de subsidiëring van het Interprovinciaal Overleg, de Vereniging van Nederlandse Gemeenten en het Waterschapshuis ten behoeve van de ondersteuning bij het implementeren van de Wet open overheid (Subsidieregeling ondersteuning implementatie Wet open overheid)

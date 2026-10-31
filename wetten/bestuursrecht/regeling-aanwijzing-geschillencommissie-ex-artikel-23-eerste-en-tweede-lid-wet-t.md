@@ -9,7 +9,7 @@ laatste_update: 2022-04-01
 status: geldig
 toestand: 2022-04-01
 bron: "https://wetten.overheid.nl/BWBR0046314"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Minister voor Rechtsbescherming van 10 februari 2022, nr. 3827949, directie Wetgeving en Juridische Zaken, houdende aanwijzing van de geschillencommissie zoals bedoeld in artikel 23, eerste en tweede lid, van de Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten

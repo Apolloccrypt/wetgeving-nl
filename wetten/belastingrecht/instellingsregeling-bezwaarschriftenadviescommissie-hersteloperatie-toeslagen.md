@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0045876"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Staatssecretaris van Financiën van 19 november 2021, houdende de instelling van een bezwaarschriftenadviescommissie ter behandeling van bezwaren tegen besluiten inzake de hersteloperatie toeslagen (Instellingsregeling Bezwaarschriftenadviescommissie hersteloperatie toeslagen)

@@ -9,7 +9,7 @@ laatste_update: 2022-03-23
 status: geldig
 toestand: 2022-03-23
 bron: "https://wetten.overheid.nl/BWBR0046371"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 21 februari 2022 nr. BOACAT2021/068 strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Autoriteit Nucleaire Veiligheid en Stralingsbescherming

@@ -9,7 +9,7 @@ laatste_update: 2022-03-22
 status: geldig
 toestand: 2022-03-22
 bron: "https://wetten.overheid.nl/BWBR0046443"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 14 maart 2022, nr. BOACAT BOACAT2022/010 strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Zwolle

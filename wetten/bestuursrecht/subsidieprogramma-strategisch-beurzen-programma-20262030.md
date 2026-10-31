@@ -9,7 +9,7 @@ laatste_update: 2026-10-23
 status: geldig
 toestand: 2026-10-23
 bron: "https://wetten.overheid.nl/BWBR0052293"
-opgehaald: 2026-10-30
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Staatssecretaris van Buitenlandse Zaken van 11 februari 2026, nr. BZ2624947, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieprogramma Strategisch beurzen programma 2026–2030)

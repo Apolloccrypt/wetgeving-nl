@@ -9,7 +9,7 @@ laatste_update: 2025-03-12
 status: geldig
 toestand: 2025-03-12
 bron: "https://wetten.overheid.nl/BWBR0045917"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 25 november 2021, nr. 2021-0000049505, houdende regels voor de verstrekking van een specifieke uitkering aan gemeenten voor de bekostiging van de kwijtschelding van gemeentelijke belastingen van gedupeerden door de toeslagenaffaire (Regeling specifieke uitkering kwijtschelding gemeentelijke belastingen)

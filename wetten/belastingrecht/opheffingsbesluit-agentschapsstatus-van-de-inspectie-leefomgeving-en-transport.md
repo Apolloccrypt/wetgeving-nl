@@ -9,7 +9,7 @@ laatste_update: 2022-03-24
 status: geldig
 toestand: 2022-03-24
 bron: "https://wetten.overheid.nl/BWBR0046455"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat, van 17 januari 2022, nr. ILT-2021/71366 tot opheffing van de agentschapsstatus van de Inspectie Leefomgeving en Transport (Opheffingsbesluit agentschapsstatus van de Inspectie Leefomgeving en Transport)

@@ -8,7 +8,7 @@ laatste_update: 2021-12-07
 status: geldig
 toestand: 2021-12-07
 bron: "https://wetten.overheid.nl/BWBR0045978"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling verstrekking gegevens voor onderzoek naar kansspelverslaving

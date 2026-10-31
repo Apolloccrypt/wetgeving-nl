@@ -8,7 +8,7 @@ laatste_update: 2022-04-07
 status: geldig
 toestand: 2022-04-07
 bron: "https://wetten.overheid.nl/BWBR0046522"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Besluit aanwijzing toezichthouders DNB 2022

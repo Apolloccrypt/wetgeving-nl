@@ -9,7 +9,7 @@ laatste_update: 2022-04-02
 status: geldig
 toestand: 2022-04-02
 bron: "https://wetten.overheid.nl/BWBR0046507"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Besluit houdende inwilliging AVV-verzoek onderzoek brancheorganisatie Sierteeltproducten 23 maart 2022 nr. 22081376

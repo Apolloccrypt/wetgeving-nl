@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-04-30
 toestand: 2023-10-01
 bron: "https://wetten.overheid.nl/BWBR0045807"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 1 november 2021, nr. 3565428, houdende vaststelling van modellen van akte ten behoeve van de kennisgeving van gerechtelijke mededelingen 2021

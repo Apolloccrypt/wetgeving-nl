@@ -9,7 +9,7 @@ laatste_update: 2022-04-29
 status: geldig
 toestand: 2022-04-29
 bron: "https://wetten.overheid.nl/BWBR0046591"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 15 april 2022 tot geheim-verklaring van de opdracht voor beveiligingsdiensten voor bedreigd personeel binnen de Dienst Justitiële Inrichtingen

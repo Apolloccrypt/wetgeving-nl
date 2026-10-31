@@ -9,7 +9,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBR0045852"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Wet van 11 november 2021 tot wijziging van de Wet educatie en beroepsonderwijs en de Wet op het voortgezet onderwijs in verband met een vereenvoudiging van de bestuurlijke inrichting van het stelsel voor beroepsonderwijs door omvorming van het aoc tot verticale scholengemeenschap en een andere invulling van bevoegd gezag (Wet bestuurlijke harmonisatie beroepsonderwijs)

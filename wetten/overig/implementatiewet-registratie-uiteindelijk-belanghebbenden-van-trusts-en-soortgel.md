@@ -9,7 +9,7 @@ laatste_update: 2026-06-03
 status: geldig
 toestand: 2026-06-03
 bron: "https://wetten.overheid.nl/BWBR0046156"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Wet van 24 november 2021, houdende regels met betrekking tot de registratie van uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies ter implementatie van artikel 31 van de gewijzigde vierde anti-witwasrichtlijn (Implementatiewet registratie uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies)

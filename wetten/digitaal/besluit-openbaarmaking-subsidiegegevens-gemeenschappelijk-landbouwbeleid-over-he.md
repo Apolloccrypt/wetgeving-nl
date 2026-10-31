@@ -9,7 +9,7 @@ laatste_update: 2021-12-17
 status: geldig
 toestand: 2021-12-17
 bron: "https://wetten.overheid.nl/BWBR0046034"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 7 december 2021, BHM 21294503, inhoudende openbaarmaking van de subsidiegegevens Gemeenschappelijk landbouwbeleid over het EU-boekjaar 2021

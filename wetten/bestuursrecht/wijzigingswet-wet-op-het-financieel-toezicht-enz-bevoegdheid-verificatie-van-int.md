@@ -9,7 +9,7 @@ laatste_update: 2022-03-03
 status: geldig
 toestand: 2022-03-03
 bron: "https://wetten.overheid.nl/BWBR0046375"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Wet van 23 februari 2022 tot wijziging van de Wet op het financieel toezicht en de Faillissementswet in verband met de bevoegdheid om vast te stellen of een bank of beleggingsonderneming faalt of waarschijnlijk zal falen en in verband met de verificatie van interesten die lopen vanaf de faillietverklaring van een bank of beleggingsonderneming ter uitvoering van Richtlijn nr. 2014/59/EU alsmede ter uitvoering van Verordening (EU) nr. 806/2014

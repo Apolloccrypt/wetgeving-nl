@@ -9,7 +9,7 @@ laatste_update: 2022-01-07
 status: geldig
 toestand: 2022-01-07
 bron: "https://wetten.overheid.nl/BWBR0046183"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Beleidsregels van de Minister van Volksgezondheid, Welzijn en Sport van 9 december 2021, kenmerk 3290096-1020857-PZO, inzake het gebruik van de bevoegdheid om een verklaring omtrent het gedrag op te vragen in het kader van de Wet toetreding zorgaanbieders (Beleidsregels VOG Wtza)

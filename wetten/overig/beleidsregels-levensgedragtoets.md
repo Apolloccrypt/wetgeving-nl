@@ -9,7 +9,7 @@ laatste_update: 2022-04-13
 status: geldig
 toestand: 2022-04-13
 bron: "https://wetten.overheid.nl/BWBR0046555"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Beleidsregels van de raad van bestuur van de Kansspelautoriteit inzake de beoordeling van het levensgedrag bij vergunningen voor de exploitatie van speelautomaten (Beleidsregels levensgedragtoets)

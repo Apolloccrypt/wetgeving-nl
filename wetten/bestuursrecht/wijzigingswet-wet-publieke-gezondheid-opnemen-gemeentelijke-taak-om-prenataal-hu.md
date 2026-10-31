@@ -9,7 +9,7 @@ laatste_update: 2022-07-01
 status: geldig
 toestand: 2022-07-01
 bron: "https://wetten.overheid.nl/BWBR0046154"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Wet van 15 december 2021 tot wijziging van de Wet publieke gezondheid vanwege het opnemen daarin van een gemeentelijke taak om prenataal huisbezoek te verrichten

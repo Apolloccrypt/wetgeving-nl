@@ -9,7 +9,7 @@ laatste_update: 2023-07-01
 status: geldig
 toestand: 2023-07-01
 bron: "https://wetten.overheid.nl/BWBR0046029"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 7 december 2021, nr. WJZ/ 21139932, houdende regels met betrekking tot de energie-audit en tot wijziging van de Tijdelijke regeling implementatie artikelen 8 en 14 Richtlijn energie-efficiëntie (Regeling energie-audit)

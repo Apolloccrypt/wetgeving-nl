@@ -9,7 +9,7 @@ laatste_update: 2025-12-13
 status: geldig
 toestand: 2025-12-13
 bron: "https://wetten.overheid.nl/BWBR0046566"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 12 april 2022, nr. DE/32285369 houdende de vaststelling van de subsidieplafonds, bedoeld in artikel 1.3 van de Subsidieregeling gender- en LHBTI+-gelijkheid 2022–2027

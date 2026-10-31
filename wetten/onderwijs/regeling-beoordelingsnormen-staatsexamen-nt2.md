@@ -9,7 +9,7 @@ laatste_update: 2022-12-29
 status: geldig
 toestand: 2022-12-29
 bron: "https://wetten.overheid.nl/BWBR0046169"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling van het College voor toetsen en examens van 29 november 2021, nummer CvTE-21.01023, houdende vaststelling van de beoordelingsnormen voor het Staatsexamen Nederlands als tweede taal (Regeling beoordelingsnormen Staatsexamen Nt2)

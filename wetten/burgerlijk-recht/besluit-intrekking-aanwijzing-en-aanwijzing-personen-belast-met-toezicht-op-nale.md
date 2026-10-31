@@ -9,7 +9,7 @@ laatste_update: 2022-03-23
 status: geldig
 toestand: 2022-03-23
 bron: "https://wetten.overheid.nl/BWBR0046446"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 7 maart 2022, nr. HO&S/30932387, houdende de intrekking van een aanwijzing en tot aanwijzing van personen belast met het toezicht op de naleving van artikel 1.5 van de Wet studiefinanciering 2000

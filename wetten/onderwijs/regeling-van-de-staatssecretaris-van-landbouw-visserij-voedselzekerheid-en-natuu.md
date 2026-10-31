@@ -9,7 +9,7 @@ laatste_update: 2026-10-24
 status: geldig
 toestand: 2026-10-24
 bron: "https://wetten.overheid.nl/BWBR0052802"
-opgehaald: 2026-10-30
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur van 26 juni 2026, nr. WJZ/106451381, houdende vaststelling van de Regeling schoolfruit en -groenten 2026 (KetenID WGK 29208)

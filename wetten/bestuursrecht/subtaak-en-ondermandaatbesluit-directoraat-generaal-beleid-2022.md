@@ -9,7 +9,7 @@ laatste_update: 2022-04-14
 status: geldig
 toestand: 2022-04-14
 bron: "https://wetten.overheid.nl/BWBR0046559"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Subtaak- en ondermandaatbesluit Directoraat-Generaal Beleid 2022

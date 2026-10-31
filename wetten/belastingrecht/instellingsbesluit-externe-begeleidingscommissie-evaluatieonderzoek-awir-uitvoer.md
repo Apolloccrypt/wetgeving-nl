@@ -9,7 +9,7 @@ laatste_update: 2021-12-25
 status: geldig
 toestand: 2021-12-25
 bron: "https://wetten.overheid.nl/BWBR0046073"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Staatssecretaris van Financiën van 12 november 2021, kenmerk 2021-00000218769, houdende instelling van een externe commissie ter begeleiding van het Evaluatieonderzoek Awir, uitvoering en dienstverlening toeslagen

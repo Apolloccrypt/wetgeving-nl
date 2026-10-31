@@ -8,7 +8,7 @@ laatste_update: 2021-12-04
 status: geldig
 toestand: 2021-12-04
 bron: "https://wetten.overheid.nl/BWBR0045975"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit beperking openbaarheid archieven Bedrijfsvereniging voor de Steen-, cement-, glas- en keramische industrie, Bedrijfsvereniging voor de Chemische Industrie en Bedrijfsvereniging voor de Voedings- en Genotmiddelenindustrie

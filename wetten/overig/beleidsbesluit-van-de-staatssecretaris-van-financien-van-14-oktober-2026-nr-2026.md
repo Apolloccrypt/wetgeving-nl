@@ -9,7 +9,7 @@ laatste_update: 2026-10-23
 status: geldig
 toestand: 2026-10-23
 bron: "https://wetten.overheid.nl/BWBR0053234"
-opgehaald: 2026-10-30
+opgehaald: 2026-10-31
 ---
 
 # Beleidsbesluit van de Staatssecretaris van Financiën van 14 oktober 2026, nr. 2026-18520 over terugwerkende kracht bij ruisende inbreng in een besloten vennootschap (Beleidsbesluit terugwerkende kracht bij ruisende inbreng 2026)

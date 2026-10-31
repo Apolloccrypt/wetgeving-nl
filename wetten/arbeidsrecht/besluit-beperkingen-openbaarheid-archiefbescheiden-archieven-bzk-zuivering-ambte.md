@@ -8,7 +8,7 @@ laatste_update: 2021-11-18
 status: geldig
 toestand: 2021-11-18
 bron: "https://wetten.overheid.nl/BWBR0045851"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit beperkingen openbaarheid archiefbescheiden archieven BZK Zuivering Ambtenaren (2.04.67), Nederlandse gezantschappen te Zweden en Finland (2.05.219), BZK Bureau Invordering (2.04.77) en Militair Gezag Zuid-Holland (3.09.34)

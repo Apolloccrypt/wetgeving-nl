@@ -8,7 +8,7 @@ laatste_update: 2021-11-03
 status: geldig
 toestand: 2021-11-03
 bron: "https://wetten.overheid.nl/BWBR0045760"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Omzetbelasting, beheer van gemeenschappelijke beleggingsfondsen; bijzonder overheidstoezicht

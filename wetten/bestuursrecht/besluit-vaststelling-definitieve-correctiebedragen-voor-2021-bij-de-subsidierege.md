@@ -9,7 +9,7 @@ laatste_update: 2022-04-08
 status: geldig
 toestand: 2022-04-08
 bron: "https://wetten.overheid.nl/BWBR0046532"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister Klimaat en Energie van 5 april 2022, nr. WJZ/ 21321090, tot vaststelling van de definitieve correctiebedragen Subsidieregeling coöperatieve energieopwekking voor 2021 (Besluit vaststelling definitieve correctiebedragen voor 2021 bij de Subsidieregeling coöperatieve energieopwekking)

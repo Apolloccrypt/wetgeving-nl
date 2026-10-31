@@ -9,7 +9,7 @@ laatste_update: 2022-01-27
 status: geldig
 toestand: 2022-01-27
 bron: "https://wetten.overheid.nl/BWBR0046238"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 25 januari 2022 nr. BOACAT2021/042, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Meppel

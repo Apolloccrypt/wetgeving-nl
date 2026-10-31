@@ -8,7 +8,7 @@ laatste_update: 2022-04-20
 status: geldig
 toestand: 2022-04-20
 bron: "https://wetten.overheid.nl/BWBR0046574"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Upstream: Music

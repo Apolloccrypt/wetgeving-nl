@@ -9,7 +9,7 @@ laatste_update: 2021-12-03
 status: geldig
 toestand: 2021-12-03
 bron: "https://wetten.overheid.nl/BWBR0045970"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Minister van Financiën van 24 november 2021, 2021-0000228988, directie Financiële Markten, tot wijziging van de Vrijstellingsregeling Wft en de Regeling bekostiging financieel toezicht eenmalige handelingen in verband met de implementatie van Richtlijn (EU) 2020/1504 en Verordening (EU) 2020/1503 (Implementatieregeling Europese crowdfundingdienstverleners voor bedrijven)

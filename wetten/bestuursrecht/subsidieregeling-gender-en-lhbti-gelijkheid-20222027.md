@@ -9,7 +9,7 @@ laatste_update: 2023-08-01
 status: geldig
 toestand: 2023-08-01
 bron: "https://wetten.overheid.nl/BWBR0046320"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 7 februari 2022, DE/30284427, houdende regels voor de subsidieverstrekking voor gender- en LHBTI+-gelijkheid (Subsidieregeling gender- en LHBTI+-gelijkheid 2022–2027)

@@ -9,7 +9,7 @@ laatste_update: 2022-04-05
 status: geldig
 toestand: 2022-04-05
 bron: "https://wetten.overheid.nl/BWBR0046517"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Wet van 16 maart 2022 tot wijziging van de Wet belastingen op milieugrondslag en de Wet milieubeheer voor de invoering van een minimum CO2-prijs bij elektriciteitsopwekking (Wet minimum CO2-prijs elektriciteitsopwekking)

@@ -9,7 +9,7 @@ laatste_update: 2026-06-12
 status: geldig
 toestand: 2026-06-12
 bron: "https://wetten.overheid.nl/BWBR0046160"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van 9 december 2021, houdende voorschriften inzake berekening, toekenning en het beheer van de bekostiging van scholen voor speciaal onderwijs, scholen voor voortgezet speciaal onderwijs en scholen voor speciaal en voortgezet speciaal onderwijs (Besluit bekostiging WEC 2022)

@@ -9,7 +9,7 @@ laatste_update: 2026-10-24
 status: geldig
 toestand: 2026-10-24
 bron: "https://wetten.overheid.nl/BWBR0053239"
-opgehaald: 2026-10-30
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 15 oktober 2026, kenmerk 4536033-1105161-WJZ, houdende aanwijzing van nationale referentielaboratoria als bedoeld in artikel 100, eerste lid, van Verordening (EU) 2017/625

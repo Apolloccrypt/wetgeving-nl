@@ -9,7 +9,7 @@ laatste_update: 2022-07-01
 status: geldig
 toestand: 2022-07-01
 bron: "https://wetten.overheid.nl/BWBR0046553"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Wet van 30 maart 2022 tot wijziging van Boek 6 van het Burgerlijk Wetboek in verband met het verkorten van de wettelijke betaaltermijn tot 30 dagen

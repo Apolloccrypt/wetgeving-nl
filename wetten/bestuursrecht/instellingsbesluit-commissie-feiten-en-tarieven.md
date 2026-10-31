@@ -9,7 +9,7 @@ laatste_update: 2022-03-07
 status: geldig
 toestand: 2022-03-07
 bron: "https://wetten.overheid.nl/BWBR0046392"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Instellingsbesluit Commissie Feiten en Tarieven, Openbaar Ministerie

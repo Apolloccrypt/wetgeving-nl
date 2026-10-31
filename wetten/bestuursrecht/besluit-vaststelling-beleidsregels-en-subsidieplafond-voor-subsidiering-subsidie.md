@@ -9,7 +9,7 @@ laatste_update: 2025-01-03
 status: geldig
 toestand: 2025-01-03
 bron: "https://wetten.overheid.nl/BWBR0046494"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 23 maart 2022 Min-BuZa.2022.11591-18, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieprogramma Support International Business 2022–2026)

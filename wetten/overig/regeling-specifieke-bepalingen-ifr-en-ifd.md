@@ -9,7 +9,7 @@ laatste_update: 2026-02-11
 status: geldig
 toestand: 2026-02-11
 bron: "https://wetten.overheid.nl/BWBR0045790"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling van De Nederlandsche Bank N.V. van 28 oktober 2021 houdende regels met betrekking tot de berekening van het solvabiliteitsvereiste uit de verordening prudentiële vereisten voor beleggingsondernemingen voor beheerders van beleggingsinstellingen en icbe’s die tevens beleggingsdiensten verlenen, en regels met betrekking tot de implementatie van specifieke bepalingen uit de richtlijn prudentiële vereisten voor beleggingsondernemingen en de uitvoering van specifieke bepalingen van de verordening kapitaalvereisten (Regeling specifieke bepalingen IFR en IFD)

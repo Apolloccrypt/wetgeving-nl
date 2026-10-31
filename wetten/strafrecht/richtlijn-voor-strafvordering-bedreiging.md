@@ -8,7 +8,7 @@ laatste_update: 2022-04-01
 status: geldig
 toestand: 2022-04-01
 bron: "https://wetten.overheid.nl/BWBR0046488"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Richtlijn voor strafvordering bedreiging

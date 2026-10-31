@@ -8,7 +8,7 @@ laatste_update: 2021-12-17
 status: geldig
 toestand: 2021-12-17
 bron: "https://wetten.overheid.nl/BWBR0046031"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit beperking openbaarheid twee dossiers archief Rijksrecherche, (1919) 1940–2007 (toegangsnummer 2.09.130)

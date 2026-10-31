@@ -9,7 +9,7 @@ laatste_update: 2022-07-08
 status: geldig
 toestand: 2022-07-08
 bron: "https://wetten.overheid.nl/BWBR0046222"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Wet van 15 december 2021 tot wijziging van de Wet op het financieel toezicht en de Faillissementswet in verband met de implementatie van de richtlijn betreffende de uitgifte van gedekte obligaties en het overheidstoezicht op gedekte obligaties (Implementatiewet richtlijn gedekte obligaties)

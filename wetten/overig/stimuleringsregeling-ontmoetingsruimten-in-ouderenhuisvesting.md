@@ -9,7 +9,7 @@ laatste_update: 2026-04-17
 status: geldig
 toestand: 2026-04-17
 bron: "https://wetten.overheid.nl/BWBR0045929"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 24 november 2021, nr. 2021-0000613325, houdende regels voor de subsidiëring van de realisatie van ontmoetingsruimten voor ouderen in of nabij geclusterde woonvormen (Stimuleringsregeling ontmoetingsruimten in ouderenhuisvesting)

@@ -9,7 +9,7 @@ laatste_update: 2022-04-06
 status: geldig
 toestand: 2022-04-06
 bron: "https://wetten.overheid.nl/BWBR0046519"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Kennisgeving van de Minister van Economische Zaken en Klimaat van 4 april 2022, nr. DE/ 22138904, inzake de bekendmaking van het demografisch bereik van vergunningen voor niet-landelijke commerciële radio ten behoeve van de verdeling van vergunningen voor niet-landelijke commerciële radio-omroep kavels B01 t/m B54

@@ -9,7 +9,7 @@ laatste_update: 2022-01-20
 status: geldig
 toestand: 2022-01-20
 bron: "https://wetten.overheid.nl/BWBR0046218"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 13 januari 2022, nr. 2022-0000012978, tot tijdelijk verlenen van mandaat, volmacht en machtiging op het terrein van de aanpak van regionale knelpunten en het sluiten van regio deals

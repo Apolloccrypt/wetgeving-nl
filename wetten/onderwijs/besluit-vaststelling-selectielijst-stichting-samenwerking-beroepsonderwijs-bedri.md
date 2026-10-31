@@ -8,7 +8,7 @@ laatste_update: 2021-12-26
 status: geldig
 toestand: 2021-12-26
 bron: "https://wetten.overheid.nl/BWBR0046059"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit vaststelling selectielijst Stichting Samenwerking Beroepsonderwijs Bedrijfsleven vanaf 1 augustus 2015

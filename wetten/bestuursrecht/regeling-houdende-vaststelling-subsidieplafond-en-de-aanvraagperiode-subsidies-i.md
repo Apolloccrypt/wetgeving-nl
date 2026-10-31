@@ -9,7 +9,7 @@ laatste_update: 2022-04-01
 status: geldig
 toestand: 2022-04-01
 bron: "https://wetten.overheid.nl/BWBR0046486"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 26 maart 2022, nr. IENW/BSK-2022/60989, houdende vaststelling van het subsidieplafond en de aanvraagperiode subsidies in het kader de Tijdelijke subsidieregeling onderzoek Topsector Logistiek 2022–2026 voor het jaar 2022

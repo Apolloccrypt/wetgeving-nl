@@ -8,7 +8,7 @@ laatste_update: 2022-04-14
 status: geldig
 toestand: 2022-04-14
 bron: "https://wetten.overheid.nl/BWBR0046552"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Ondermandaat, -volmacht en -machtigingsbesluit SG Defensie 2022

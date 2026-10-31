@@ -9,7 +9,7 @@ laatste_update: 2022-07-01
 status: geldig
 toestand: 2022-07-01
 bron: "https://wetten.overheid.nl/BWBR0046567"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Besluit van 12 april 2022, houdende regels met betrekking tot de vaststelling door het College van Toezicht van de betrouwbaarheid en geschiktheid van een persoon die is of wordt belast met de taken van het orgaan dat de toezichtfunctie uitoefent of de dagelijkse leiding heeft in een collectieve beheersorganisatie en tot wijziging van het Besluit doorberekening kosten College van Toezicht (Stb. 2021, 164) in verband met een aanpassing van overwegend technische aard (Besluit betrouwbaarheid en geschiktheid toezichthouders en bestuurders collectieve beheersorganisaties)

@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0046036"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Minister van Financiën van 2 december 2021, 2021-0000229697, directie Financiële Markten, houdende regels met betrekking tot de maximumbedragen van aansprakelijkheid bij nucleaire ongevallen (Regeling aansprakelijkheid kernongevallen)

@@ -9,7 +9,7 @@ laatste_update: 2022-04-01
 status: geldig
 toestand: 2022-04-01
 bron: "https://wetten.overheid.nl/BWBR0046407"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Minister voor Klimaat en Energie van 5 maart 2022, nr. WJZ/ 21307522, houdende regels inzake de vergunningverlening windenergiegebied Hollandse Kust (west) kavel VI (Regeling vergunningverlening windenergiegebied Hollandse Kust (west) kavel VI)

@@ -9,7 +9,7 @@ laatste_update: 2021-11-02
 status: geldig
 toestand: 2021-11-02
 bron: "https://wetten.overheid.nl/BWBR0045761"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 1 november 2021, nr. 3612099 strekkende tot een noodoplossing voor het verlengen van boa-aktes naar aanleiding van de grootschalige IT-storing binnen Justis

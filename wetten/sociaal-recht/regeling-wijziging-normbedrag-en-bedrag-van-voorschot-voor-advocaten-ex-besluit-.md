@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0046095"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling van 13 december 2021, nr. 3695115, tot wijziging van het normbedrag en het bedrag van het voorschot voor advocaten als bedoeld in het Besluit vergoedingen rechtsbijstand 2000 en tot bekendmaking van van de gewijzigde inkomensgrenzen, zoals bedoeld in de Wet op de rechtsbijstand, en van eigen bijdragen en bedragen, bedoeld in het Besluit eigen bijdrage rechtsbijstand, het Besluit vergoedingen rechtsbijstand en het Besluit toevoeging mediation over 2022

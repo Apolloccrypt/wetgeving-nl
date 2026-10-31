@@ -8,7 +8,7 @@ laatste_update: 2021-12-08
 status: geldig
 toestand: 2021-12-08
 bron: "https://wetten.overheid.nl/BWBR0045986"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Opslag en behandeling ontplofbare stoffen en voorwerpen

@@ -8,7 +8,7 @@ laatste_update: 2021-12-16
 status: geldig
 toestand: 2021-12-16
 bron: "https://wetten.overheid.nl/BWBR0046027"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Beleidsregel prestaties en tarieven gespecialiseerde geestelijke gezondheidszorg

@@ -9,7 +9,7 @@ laatste_update: 2024-08-07
 status: geldig
 toestand: 2024-08-07
 bron: "https://wetten.overheid.nl/BWBR0045981"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Beleidsregel van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 22 november 2021, nr. ILT-2021/66240, houdende vaststelling van de beleidsregel Autoriteit woningcorporaties ter invulling van haar bevoegdheden in de (gewijzigde) Woningwet en aanverwante regelgeving naar aanleiding van de evaluatie (Beleidsregel Autoriteit woningcorporaties naar aanleiding van de wijziging van de Woningwet)

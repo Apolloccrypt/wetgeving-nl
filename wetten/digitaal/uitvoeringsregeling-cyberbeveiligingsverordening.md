@@ -9,7 +9,7 @@ laatste_update: 2026-02-18
 status: geldig
 toestand: 2026-02-18
 bron: "https://wetten.overheid.nl/BWBR0046502"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat van 29 maart 2022, nr. WJZ/ 21288575, houdende regels ter uitvoering van de Verordening (EU) nr. 2019/881 (Uitvoeringsregeling cyberbeveiligingsverordening)

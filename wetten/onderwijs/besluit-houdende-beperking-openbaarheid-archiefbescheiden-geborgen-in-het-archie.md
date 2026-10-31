@@ -9,7 +9,7 @@ laatste_update: 2022-02-23
 status: geldig
 toestand: 2022-02-23
 bron: "https://wetten.overheid.nl/BWBR0046328"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 12 februari 2022, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordiging in Bangladesh, Ambassade Dhaka, Besluit Beperking Openbaarheid Bangladesh, Ambassade Dhaka (1971) 1975–2013

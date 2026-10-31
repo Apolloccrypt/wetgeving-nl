@@ -9,7 +9,7 @@ laatste_update: 2021-12-29
 status: geldig
 toestand: 2021-12-29
 bron: "https://wetten.overheid.nl/BWBR0046089"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling van het Stimuleringsfonds voor de journalistiek nr. SP2022 tot vaststelling van subsidieplafonds voor het jaar 2022

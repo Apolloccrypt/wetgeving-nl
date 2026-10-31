@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0046444"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Wet van 23 februari 2022, houdende wijziging van wetten op met name het terrein van onderwijs, cultuur en media in verband met hoofdzakelijk wetstechnische en redactionele verbeteringen (Verzamelwet OCW 2022)

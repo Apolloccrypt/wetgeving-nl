@@ -9,7 +9,7 @@ laatste_update: 2024-04-04
 status: geldig
 toestand: 2024-04-04
 bron: "https://wetten.overheid.nl/BWBR0046267"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 26 januari 2022 nr. BOACAT2022/004, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Stichting Het Drentse Landschap

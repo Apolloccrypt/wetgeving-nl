@@ -9,7 +9,7 @@ laatste_update: 2022-02-01
 status: geldig
 toestand: 2022-02-01
 bron: "https://wetten.overheid.nl/BWBR0046249"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling alternatieve voorschriften wat betreft afmetingen en massa’s van de voertuigcategorieën landbouw- en bosbouwtrekkers, landbouw- of bosbouwaanhangwagens en verwisselbare getrokken uitrustingsstukken en mobiele machines ten behoeve van het verlenen van een ontheffing van de goedkeuringseisen

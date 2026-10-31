@@ -9,7 +9,7 @@ laatste_update: 2022-03-02
 status: geldig
 toestand: 2022-03-02
 bron: "https://wetten.overheid.nl/BWBR0046364"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat van 24 februari 2022, nr. WJZ/ 21302080, tot aanwijzing van een orgaan dat verantwoordelijk is voor het beheer van de financiële bijdrage uit de reserve en een onafhankelijk auditorgaan voor de Brexit Adjustment Reserve (Aanwijzingsbesluit managementorgaan en auditorgaan BAR)

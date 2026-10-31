@@ -9,7 +9,7 @@ laatste_update: 2024-07-10
 status: geldig
 toestand: 2024-07-10
 bron: "https://wetten.overheid.nl/BWBR0046161"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 4 januari 2022 nr. BOACAT2021/073, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de regionale eenheid Amsterdam, Team Buitengerechtelijke Afdoening

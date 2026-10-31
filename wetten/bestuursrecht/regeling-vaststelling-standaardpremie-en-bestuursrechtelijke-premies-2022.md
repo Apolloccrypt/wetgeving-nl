@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0045944"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 23 november 2021, kenmerk 3262509-1016080-Z, houdende Regeling vaststelling standaardpremie en bestuursrechtelijke premies 2022

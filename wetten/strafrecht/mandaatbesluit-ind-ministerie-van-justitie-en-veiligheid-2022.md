@@ -9,7 +9,7 @@ laatste_update: 2026-10-24
 status: geldig
 toestand: 2026-10-24
 bron: "https://wetten.overheid.nl/BWBR0046393"
-opgehaald: 2026-10-30
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de directeur-generaal Immigratie- en Naturalisatiedienst van het Ministerie van Justitie en Veiligheid van 1 maart 2022, Digijustnummer 3878126 houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan onder de directeur-generaal ressorterende functionarissen (Mandaatbesluit IND Ministerie van Justitie en Veiligheid 2022)

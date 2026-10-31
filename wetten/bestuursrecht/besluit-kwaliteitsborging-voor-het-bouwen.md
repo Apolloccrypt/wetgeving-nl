@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0046570"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Besluit van 4 april 2022, houdende wijziging van het Bouwbesluit 2012, het Besluit bouwwerken leefomgeving, het Besluit kwaliteit leefomgeving en het Omgevingsbesluit in verband met de invoering van een nieuw stelsel van kwaliteitsborging voor het bouwen (Besluit kwaliteitsborging voor het bouwen)

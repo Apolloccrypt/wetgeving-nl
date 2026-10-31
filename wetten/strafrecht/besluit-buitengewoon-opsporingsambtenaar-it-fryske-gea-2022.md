@@ -9,7 +9,7 @@ laatste_update: 2024-02-29
 status: geldig
 toestand: 2024-02-29
 bron: "https://wetten.overheid.nl/BWBR0046514"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 28 maart 2022 nr. BOACAT2022/009, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij It Fryske Gea

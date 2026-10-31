@@ -9,7 +9,7 @@ laatste_update: 2021-12-01
 status: geldig
 toestand: 2021-12-01
 bron: "https://wetten.overheid.nl/BWBR0045853"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van 28 oktober 2021, houdende instelling van het onderscheidingsteken voor trouwe en langdurige dienst brandweer

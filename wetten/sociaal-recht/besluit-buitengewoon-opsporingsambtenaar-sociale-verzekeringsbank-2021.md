@@ -9,7 +9,7 @@ laatste_update: 2021-11-10
 status: geldig
 toestand: 2021-11-10
 bron: "https://wetten.overheid.nl/BWBR0045805"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 2 november 2021 nr. BOACAT2021/056, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Sociale Verzekeringsbank

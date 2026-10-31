@@ -8,7 +8,7 @@ laatste_update: 2022-03-23
 status: geldig
 toestand: 2022-03-23
 bron: "https://wetten.overheid.nl/BWBR0046451"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Compensatieregeling Coronacrisis Musea Vijfde Steunmaatregel

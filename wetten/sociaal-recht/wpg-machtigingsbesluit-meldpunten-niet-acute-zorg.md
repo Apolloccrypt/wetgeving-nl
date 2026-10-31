@@ -9,7 +9,7 @@ laatste_update: 2021-12-11
 status: geldig
 toestand: 2021-12-11
 bron: "https://wetten.overheid.nl/BWBR0045999"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit ingevolge artikel 18, tweede lid, Wet politiegegevens van de Minister van Justitie en Veiligheid, kenmerk 3575871 van 22 november 2021 houdende toestemming aan de korpschef tot het verstrekken van politiegegevens aan de burgemeester en aan het college van burgemeester en wethouders voor hun taak als bedoeld in artikel 2.1.1 van de Wmo 2015 (Wpg-machtigingsbesluit meldpunten niet-acute zorg)

@@ -8,7 +8,7 @@ laatste_update: 2021-11-04
 status: geldig
 toestand: 2021-11-04
 bron: "https://wetten.overheid.nl/BWBR0045777"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Instellingsbesluit Onafhankelijke Adviescommissie chroom-6 Defensie

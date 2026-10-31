@@ -9,7 +9,7 @@ laatste_update: 2021-12-11
 status: geldig
 toestand: 2021-12-11
 bron: "https://wetten.overheid.nl/BWBR0046000"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Waterstaat van 2 december 2021, nr. IENW/BSK-2021/294215, houdende vaststelling van het subsidieplafond op grond van de Regeling bijzondere uitkeringen afvalbeheer Bonaire 2020–2023 voor het jaar 2022

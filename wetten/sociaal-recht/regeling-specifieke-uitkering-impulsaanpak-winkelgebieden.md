@@ -9,7 +9,7 @@ laatste_update: 2026-06-03
 status: geldig
 toestand: 2026-06-03
 bron: "https://wetten.overheid.nl/BWBR0046593"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat van 22 april 2022, nr. WJZ/ 22038298, tot instelling van een specifieke uitkering gericht op de impulsaanpak winkelgebieden (Regeling specifieke uitkering impulsaanpak winkelgebieden)

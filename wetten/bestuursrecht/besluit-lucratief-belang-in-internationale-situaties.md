@@ -8,7 +8,7 @@ laatste_update: 2021-11-24
 status: geldig
 toestand: 2021-11-24
 bron: "https://wetten.overheid.nl/BWBR0045878"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit Lucratief belang in internationale situaties

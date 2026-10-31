@@ -8,7 +8,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0046422"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Beleidsregel toetsingskader waterkwaliteit

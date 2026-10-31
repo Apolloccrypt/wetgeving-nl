@@ -9,7 +9,7 @@ laatste_update: 2022-05-05
 status: geldig
 toestand: 2022-05-05
 bron: "https://wetten.overheid.nl/BWBR0046409"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 2 maart 2022 nr. BOACAT2022/011, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Kansspelautoriteit

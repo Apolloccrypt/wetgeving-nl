@@ -8,7 +8,7 @@ laatste_update: 2023-12-29
 status: geldig
 toestand: 2023-12-29
 bron: "https://wetten.overheid.nl/BWBR0046173"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Beleidsregel prestatiebeschrijvingen voor farmaceutische zorg

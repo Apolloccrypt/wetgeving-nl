@@ -9,7 +9,7 @@ laatste_update: 2022-03-15
 status: geldig
 toestand: 2022-03-15
 bron: "https://wetten.overheid.nl/BWBR0046421"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 11 maart 2022, nr. 3849015, houdende de bekendmaking van een beleidsregel voor coulance bij de toepassing van de Regeling tegemoetkoming waterschade in Limburg en het onbedijkte gebied langs de Maas in Noord-Brabant in juli 2021 (Beleidsregel coulance wateroverlast in juli 2021)

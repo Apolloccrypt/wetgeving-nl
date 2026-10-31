@@ -9,7 +9,7 @@ laatste_update: 2026-03-12
 status: geldig
 toestand: 2026-03-12
 bron: "https://wetten.overheid.nl/BWBR0046497"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat van 31 maart 2022, nr. WJZ/ 22050244, houdende de verlening van mandaat aan het Samenwerkingsverband Noord-Nederland en de intrekking van enkele besluiten

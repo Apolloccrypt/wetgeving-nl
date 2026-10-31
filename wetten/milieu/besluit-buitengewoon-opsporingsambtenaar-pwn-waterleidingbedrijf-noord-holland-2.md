@@ -9,7 +9,7 @@ laatste_update: 2021-12-19
 status: geldig
 toestand: 2021-12-19
 bron: "https://wetten.overheid.nl/BWBR0045811"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 11 november 2021, nr. BOACAT2021/057, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij PWN Waterleidingbedrijf Noord-Holland

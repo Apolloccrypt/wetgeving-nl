@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0046044"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 25 november 2021, kenmerk 3279852-1019491-PG, houdende Regeling tot vaststelling formulier doodsoorzaak ten behoeve van de statistiek

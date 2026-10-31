@@ -9,7 +9,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBR0045794"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van 14 oktober 2021, houdende wijziging van verschillende besluiten om deze in overeenstemming te brengen met de Wet voortgezet onderwijs 2020 (Aanpassingsbesluit WVO 2020)

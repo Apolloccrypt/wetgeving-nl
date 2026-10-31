@@ -9,7 +9,7 @@ laatste_update: 2021-12-08
 status: geldig
 toestand: 2021-12-08
 bron: "https://wetten.overheid.nl/BWBR0045985"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 1 december 2021, nr. 2021-0000578310, houdende regels met betrekking tot de verstrekking van een specifieke uitkering aan gemeenten ten behoeve van de financiering van tijdelijke capaciteit of externe expertise ter bevordering van de snelheid van woningbouw in veertien grootschalige woningbouwgebieden (Regeling specifieke uitkering snelheid woningbouw)

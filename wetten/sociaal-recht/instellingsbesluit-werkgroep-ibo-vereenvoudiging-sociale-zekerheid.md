@@ -9,7 +9,7 @@ laatste_update: 2022-03-03
 status: geldig
 toestand: 2022-03-03
 bron: "https://wetten.overheid.nl/BWBR0046367"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister van Financiën, van 9 februari 2022, nr. 11359, tot instelling van de Werkgroep Interdepartementaal Beleidsonderzoek (IBO) Vereenvoudiging sociale zekerheid (Instellingsbesluit Werkgroep IBO Vereenvoudiging sociale zekerheid)

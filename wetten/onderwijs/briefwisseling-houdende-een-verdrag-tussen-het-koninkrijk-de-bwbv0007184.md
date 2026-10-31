@@ -8,7 +8,7 @@ laatste_update: 2026-10-26
 status: geldig
 toestand: 2026-10-26
 bron: "https://wetten.overheid.nl/BWBV0007184"
-opgehaald: 2026-10-30
+opgehaald: 2026-10-31
 ---
 
 # Briefwisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur (UNESCO) inzake de “Fifth UNESCO Global Forum against Racism and Discrimination”, te ’s-Gravenhage, Nederland, van 28 tot en met 30 oktober 2026

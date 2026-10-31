@@ -9,7 +9,7 @@ laatste_update: 2021-11-20
 status: geldig
 toestand: 2021-11-20
 bron: "https://wetten.overheid.nl/BWBR0045867"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 11 november 2021, kenmerk 3276389-1019021-DMO, houdende de instelling van de Commissie Versterking kennis geschiedenis voormalig Nederlands-Indië (Instellingsbesluit Commissie Versterking kennis geschiedenis voormalig Nederlands-Indië)

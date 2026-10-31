@@ -8,7 +8,7 @@ laatste_update: 2023-04-13
 status: geldig
 toestand: 2023-04-13
 bron: "https://wetten.overheid.nl/BWBR0046394"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling Samen Cultuurmaken 2022–2024

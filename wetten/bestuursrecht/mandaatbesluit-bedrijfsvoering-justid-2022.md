@@ -9,7 +9,7 @@ laatste_update: 2022-03-17
 status: geldig
 toestand: 2022-03-17
 bron: "https://wetten.overheid.nl/BWBR0046434"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Besluit van het Hoofd Bedrijfsvoering van de Justitiële Informatiedienst van het Ministerie van Justitie en Veiligheid van 4 februari 2022, nr. Alg. 6261, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan onder het hoofd ressorterende ambtenaren (Mandaatbesluit Bedrijfsvoering Justid 2022)

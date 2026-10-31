@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0046094"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Wet van 22 december 2021 tot wijziging van de Wet inkomstenbelasting 2001, de Wet op de vennootschapsbelasting 1969, de Wet op de dividendbelasting 1965, de Wet bronbelasting 2021, de Algemene wet inzake rijksbelastingen en de Wet implementatie tweede EU-richtlijn antibelastingontwijking in verband met de implementatie van Richtlijn (EU) 2017/952 van de Raad van 29 mei 2017 tot wijziging van Richtlijn (EU) 2016/1164 wat betreft de maatregel om mismatches door een omgekeerde hybride tegen te gaan (PbEU 2017, L 144/1) (Wet implementatie belastingplichtmaatregel uit de tweede EU-richtlijn antibelastingontwijking)

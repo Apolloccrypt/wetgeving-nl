@@ -9,7 +9,7 @@ laatste_update: 2023-10-01
 status: geldig
 toestand: 2023-10-01
 bron: "https://wetten.overheid.nl/BWBR0046232"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Wet van 22 december 2021, houdende goedkeuring en uitvoering van het op 23 juli 2018 te Brussel tot stand gekomen Verdrag tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden inzake politiesamenwerking (Trb. 2018, 160)

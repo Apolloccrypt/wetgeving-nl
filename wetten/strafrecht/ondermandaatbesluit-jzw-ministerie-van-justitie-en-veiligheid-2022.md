@@ -9,7 +9,7 @@ laatste_update: 2024-06-04
 status: geldig
 toestand: 2024-06-04
 bron: "https://wetten.overheid.nl/BWBR0046450"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Besluit van het hoofd van de sector Juridische Zaken en Wetgevingsbeleid van het Ministerie van Justitie en Veiligheid van 14 maart 2022, nr. 3891156 houdende verlening van ondermandaat aan onder het hoofd van de sector Juridische Zaken en Wetgevingsbeleid ressorterende functionarissen (Ondermandaatbesluit JZW Ministerie van Justitie en Veiligheid)

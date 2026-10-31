@@ -9,7 +9,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBR0046311"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Wet van 9 februari 2022 tot wijziging van de Uitvoeringswet internationale kinderbescherming en enige andere wetten in verband met de herschikking van de Verordening (EU) nr. 2019/1111 van de Raad van 25 juni 2019 betreffende de bevoegdheid, de erkenning en tenuitvoerlegging van beslissingen in huwelijkszaken en inzake de ouderlijke verantwoordelijkheid, en betreffende internationale kinderontvoering (herschikking) (PbEU 2019, L 178)

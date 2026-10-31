@@ -9,7 +9,7 @@ laatste_update: 2022-03-24
 status: geldig
 toestand: 2022-03-24
 bron: "https://wetten.overheid.nl/BWBR0046456"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Besluit van 8 maart 2022, nr. 2022000289, houdende gelijkstelling van 28 april 2023, 19 mei 2023, 10 mei 2024, 27 december 2024 en 30 mei 2025 met een algemeen erkende feestdag

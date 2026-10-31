@@ -9,7 +9,7 @@ laatste_update: 2022-04-01
 status: geldig
 toestand: 2022-04-01
 bron: "https://wetten.overheid.nl/BWBR0046241"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 27 januari 2022, nr. IENW/BSK-2021/330670, houdende de aanwijzing van Bonaire International Airport

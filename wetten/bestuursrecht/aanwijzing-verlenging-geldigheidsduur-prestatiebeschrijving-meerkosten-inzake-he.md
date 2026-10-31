@@ -9,7 +9,7 @@ laatste_update: 2022-02-08
 status: geldig
 toestand: 2022-02-08
 bron: "https://wetten.overheid.nl/BWBR0046284"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 31 januari 2022, kenmerk 3308642-1023276-PZO, inzake de verlenging van de geldigheidsduur van de prestatiebeschrijving voor meerkosten in verband met het coronavirus tot en met 31 december 2022

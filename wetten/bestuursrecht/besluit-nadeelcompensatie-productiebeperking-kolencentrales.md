@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0046085"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van 16 december 2021, houdende regels met betrekking tot vergoeding van schade van exploitanten van kolencentrales in verband met de beperking van de CO2-emissie (Besluit nadeelcompensatie productiebeperking kolencentrales)

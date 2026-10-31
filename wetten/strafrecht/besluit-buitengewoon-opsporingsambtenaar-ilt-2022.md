@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0045763"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 27 oktober 2021 nr. BOACAT2021/035, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Inspectie Leefomgeving en Transport

@@ -9,7 +9,7 @@ laatste_update: 2022-07-01
 status: geldig
 toestand: 2022-07-01
 bron: "https://wetten.overheid.nl/BWBR0045875"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Wet van 11 november 2021 tot wijziging van de Wet justitiële en strafvorderlijke gegevens in verband met het mogelijk maken van het in bepaalde gevallen weigeren van afgifte van een verklaring omtrent het gedrag op basis van politiegegevens

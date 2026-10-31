@@ -9,7 +9,7 @@ laatste_update: 2022-02-04
 status: geldig
 toestand: 2022-02-04
 bron: "https://wetten.overheid.nl/BWBR0046265"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 26 januari 2022, nr. 3774522, Directie Eigenaars advisering, houdende een eenmalige specifieke uitkering voor gemeenten in verband met de ondersteuning van de verplichte controle van coronatoegangsbewijzen bij voorzieningen en activiteiten (Regeling specifieke uitkering naleving controle coronatoegangsbewijzen 2022)

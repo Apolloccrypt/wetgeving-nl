@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0046084"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Wet van 1 december 2021 tot wijziging van de Loodsenwet en enige andere wetten in verband met de actualisatie van het markttoezicht op het aanbod van dienstverlening door registerloodsen (Wet actualisatie markttoezicht registerloodsen)

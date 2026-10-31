@@ -9,7 +9,7 @@ laatste_update: 2021-11-15
 status: geldig
 toestand: 2021-11-15
 bron: "https://wetten.overheid.nl/BWBR0045806"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Beleidsregel van de Minister van Landbouw, Natuur en Voedselkwaliteit van 29 oktober 2021, nr. WJZ/ 21135426, tot vaststelling van beleidsregels voor de beoordeling van aanvragen om een tegemoetkoming in de kosten van het aanleveren van gegevens door PAS-melders

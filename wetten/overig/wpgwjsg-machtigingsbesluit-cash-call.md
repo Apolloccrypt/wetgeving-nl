@@ -9,7 +9,7 @@ laatste_update: 2022-02-26
 status: geldig
 toestand: 2022-02-26
 bron: "https://wetten.overheid.nl/BWBR0046345"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 22 november 2021, nr. 2763712, houdende toestemming tot het verstrekken van bepaalde politiegegevens en strafvorderlijke gegevens aan de Belastingdienst met het oog op de heffing en invordering van belastingen alsmede rechten bij invoer en rechten bij uitvoer

@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-10-23
 toestand: 2025-10-28
 bron: "https://wetten.overheid.nl/BWBR0051653"
-opgehaald: 2026-10-30
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 17 oktober 2025, kenmerk 4239299-1089780-WJZ, houdende aanwijzing van nationale referentielaboratoria als bedoeld in artikel 100, eerste lid, van Verordening (EU) 2017/625

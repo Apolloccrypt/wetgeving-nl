@@ -9,7 +9,7 @@ laatste_update: 2021-12-15
 status: geldig
 toestand: 2021-12-15
 bron: "https://wetten.overheid.nl/BWBR0046011"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van 23 november 2021, houdende vaststelling van de decentralisatie- en integratie-uitkeringen aan de gemeenten en provincies voor het uitkeringsjaar 2018 (Besluit vaststelling decentralisatie-en integratie-uitkeringen 2018)

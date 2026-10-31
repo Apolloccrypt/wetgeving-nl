@@ -9,7 +9,7 @@ laatste_update: 2022-07-01
 status: geldig
 toestand: 2022-07-01
 bron: "https://wetten.overheid.nl/BWBR0046214"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Wet van 15 december 2021 tot wijziging van de Wet gemeenschappelijke regelingen en enige andere wetten in verband met het versterken van de democratische legitimatie van gemeenschappelijke regelingen

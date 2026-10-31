@@ -9,7 +9,7 @@ laatste_update: 2022-04-12
 status: geldig
 toestand: 2022-04-12
 bron: "https://wetten.overheid.nl/BWBR0046540"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 7 april 2022, nr. Min-Buza.2022.11632-23, houdende aanwijzing toezichthoudende ambtenaren Uitvoeringswet Verordening conflictmineralen (Besluit aanwijzing toezichthoudende ambtenaren Uitvoeringswet Verordening conflictmineralen)

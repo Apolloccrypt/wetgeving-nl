@@ -9,7 +9,7 @@ laatste_update: 2022-01-28
 status: geldig
 toestand: 2022-01-28
 bron: "https://wetten.overheid.nl/BWBR0046247"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Beleidsregel van de Minister van Justitie en Veiligheid van 18 januari 2022, nr. 3789369, ten behoeve van de vaststelling van de tegemoetkoming in de teeltplanschade bedoeld in artikel 8 van de Regeling tegemoetkoming waterschade in Limburg en het onbedijkte gebied langs de Maas in Noord-Brabant in juli 2021

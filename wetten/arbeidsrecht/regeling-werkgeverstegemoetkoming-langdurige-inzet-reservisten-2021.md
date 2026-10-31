@@ -8,7 +8,7 @@ laatste_update: 2021-12-01
 status: geldig
 toestand: 2021-12-01
 bron: "https://wetten.overheid.nl/BWBR0045932"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling werkgeverstegemoetkoming langdurige inzet reservisten 2021

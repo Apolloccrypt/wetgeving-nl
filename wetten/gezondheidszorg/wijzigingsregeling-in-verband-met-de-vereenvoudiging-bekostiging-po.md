@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0046548"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 15 maart 2022, nr. PO/FenV/31937769, houdende de verlenging van de termijn voor de leerlingentelling en aanpassing en intrekking van verschillende regelingen in verband met de vereenvoudiging bekostiging primair onderwijs (Wijzigingsregeling in verband met de vereenvoudiging bekostiging po)

@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0046092"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Wet van 22 december 2021 tot wijziging van de Wet op de vennootschapsbelasting 1969 met het oog op het tegengaan van enkele mismatches die ontstaan bij de toepassing van het zakelijkheidsbeginsel in de vennootschapsbelasting (Wet tegengaan mismatches bij toepassing zakelijkheidsbeginsel)

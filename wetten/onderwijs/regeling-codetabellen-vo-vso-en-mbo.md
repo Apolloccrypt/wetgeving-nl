@@ -9,7 +9,7 @@ laatste_update: 2026-10-22
 status: geldig
 toestand: 2026-10-22
 bron: "https://wetten.overheid.nl/BWBR0048579"
-opgehaald: 2026-10-30
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 15 augustus 2023, nr. OCW-2023/40175854, houdende vaststelling van de erkende opleidingscodetabel, erkende opleidingscodetabel BES eilanden, erkende opleidingscodetabel staatsexamens, opleidingencodetabel, vakcodetabel en examenonderdelencodetabel voor voortgezet onderwijs, voortgezet speciaal onderwijs en middelbaar beroepsonderwijs (Regeling codetabellen vo, vso en mbo)

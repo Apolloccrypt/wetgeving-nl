@@ -9,7 +9,7 @@ laatste_update: 2023-02-13
 status: geldig
 toestand: 2023-02-13
 bron: "https://wetten.overheid.nl/BWBR0046107"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Wet van 22 december 2021 tot wijziging van de Wet op de accijns en enkele andere wetten in verband met implementatie van de horizontale accijnsrichtlijn (EU) 2020/262, richtlijn alcoholaccijns (EU) 2020/1151 en richtlijn btw en accijns bij defensie-inspanningen (EU) 2019/2235 (Wet implementatie richtlijnen accijns 2022)

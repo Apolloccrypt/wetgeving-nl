@@ -9,7 +9,7 @@ laatste_update: 2025-04-10
 status: geldig
 toestand: 2025-04-10
 bron: "https://wetten.overheid.nl/BWBR0046491"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 23 maart 2022 nr. BOACAT2022/013, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Velsen

@@ -9,7 +9,7 @@ laatste_update: 2026-10-24
 status: geldig
 toestand: 2026-10-24
 bron: "https://wetten.overheid.nl/BWBR0049599"
-opgehaald: 2026-10-30
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 18 april 2024, nr. 2024-0000094111, tot het verstrekken van subsidie aan geregistreerde kindercentra voor de inzet van groepshulpen (Subsidieregeling groepshulpen kinderopvang)

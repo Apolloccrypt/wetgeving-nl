@@ -9,7 +9,7 @@ laatste_update: 2022-05-02
 status: geldig
 toestand: 2022-05-02
 bron: "https://wetten.overheid.nl/BWBR0046369"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 21 februari 2022, nr. BOACAT2021/064, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Oosterhout

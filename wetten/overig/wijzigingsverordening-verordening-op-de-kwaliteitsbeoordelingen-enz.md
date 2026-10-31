@@ -8,7 +8,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0046150"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Wijzigingsverordening Verordening op de kwaliteitsbeoordelingen, enz.

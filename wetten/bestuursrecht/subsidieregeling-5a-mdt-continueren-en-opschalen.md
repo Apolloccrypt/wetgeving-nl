@@ -9,7 +9,7 @@ laatste_update: 2024-05-15
 status: geldig
 toestand: 2024-05-15
 bron: "https://wetten.overheid.nl/BWBR0046343"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 17 februari 2022, nr. 31400808, houdende regels voor de subsidiëring van het programma maatschappelijke diensttijd 5a (Subsidieregeling 5a – MDT Continueren en innoveren door te experimenteren)

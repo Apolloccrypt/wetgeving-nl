@@ -9,7 +9,7 @@ laatste_update: 2022-02-18
 status: geldig
 toestand: 2022-02-18
 bron: "https://wetten.overheid.nl/BWBR0046318"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Staatssecretaris van Financiën – Fiscaliteit en Belastingdienst, mede namens de Staatssecretaris van Defensie, de Minister van Buitenlandse Zaken en de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking d.d. 9 februari 2022, (nr. 2022-39796) houdende instelling van de Interdepartementale Commissie Verkoop Defensiematerieel (Instellingsbesluit Interdepartementale Commissie Verkoop Defensiematerieel)

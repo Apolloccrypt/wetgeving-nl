@@ -9,7 +9,7 @@ laatste_update: 2021-11-19
 status: geldig
 toestand: 2021-11-19
 bron: "https://wetten.overheid.nl/BWBR0045858"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van 28 oktober 2021, houdende instelling van het Kruis van Verdienste brandweer

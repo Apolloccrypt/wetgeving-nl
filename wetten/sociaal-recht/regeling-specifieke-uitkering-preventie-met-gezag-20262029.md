@@ -9,7 +9,7 @@ laatste_update: 2026-10-23
 status: geldig
 toestand: 2026-10-23
 bron: "https://wetten.overheid.nl/BWBR0051515"
-opgehaald: 2026-10-30
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 18 september 2025, nr. 6692706, houdende regels met betrekking tot het verstrekken van een specifieke uitkering voor de aanpak Preventie met Gezag 2026–2029

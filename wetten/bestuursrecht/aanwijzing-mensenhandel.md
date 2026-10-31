@@ -8,7 +8,7 @@ laatste_update: 2022-04-01
 status: geldig
 toestand: 2022-04-01
 bron: "https://wetten.overheid.nl/BWBR0046368"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Aanwijzing mensenhandel

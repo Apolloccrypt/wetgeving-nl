@@ -9,7 +9,7 @@ laatste_update: 2022-02-24
 status: geldig
 toestand: 2022-02-24
 bron: "https://wetten.overheid.nl/BWBR0046335"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid d.d. 23 december 2021, kenmerk 2671127, houdende beperking van de openbaarheid van de Archieven van de Rijkspolitie in de provincie Noord-Brabant, Districten Eindhoven, ’s-Hertogenbosch en Breda, (1937) 1945–1993 (1995)

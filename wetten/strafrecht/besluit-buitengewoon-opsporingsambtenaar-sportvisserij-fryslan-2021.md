@@ -9,7 +9,7 @@ laatste_update: 2021-12-08
 status: geldig
 toestand: 2021-12-08
 bron: "https://wetten.overheid.nl/BWBR0045988"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 30 november 2021, nr. BOACAT2021/046, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Sportvisserij Fryslân

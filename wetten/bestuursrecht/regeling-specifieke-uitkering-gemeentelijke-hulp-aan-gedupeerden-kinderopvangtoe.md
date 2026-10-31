@@ -9,7 +9,7 @@ laatste_update: 2026-01-15
 status: geldig
 toestand: 2026-01-15
 bron: "https://wetten.overheid.nl/BWBR0045864"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Minister van Financiën van 11 november 2021 (nr. 2021-024089) houdende regels voor de verstrekking van een specifieke uitkering aan gemeenten voor verlening van hulp aan gedupeerde rechthebbenden op kinderopvangtoeslag (Regeling specifieke uitkering gemeentelijke hulp aan gedupeerden kinderopvangtoeslagproblematiek 2021)

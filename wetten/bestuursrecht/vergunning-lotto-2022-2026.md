@@ -9,7 +9,7 @@ laatste_update: 2021-12-24
 status: geldig
 toestand: 2021-12-24
 bron: "https://wetten.overheid.nl/BWBR0046123"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de raad van bestuur van de Kansspelautoriteit van 23 november 2021, 300008/01.251.938, tot het verlenen van een vergunning, als bedoeld in artikel 14a, eerste lid, van de Wet op de kansspelen, aan Lotto B.V., ingeschreven in het handelsregister van Nederland onder KvK-nummer 41151075

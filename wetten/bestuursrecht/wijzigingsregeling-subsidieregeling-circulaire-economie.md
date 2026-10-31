@@ -9,7 +9,7 @@ laatste_update: 2022-04-12
 status: geldig
 toestand: 2022-04-12
 bron: "https://wetten.overheid.nl/BWBR0046544"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 8 april 2022, nr. IENW/BSK-2022/69195, tot wijziging van de Subsidieregeling circulaire economie

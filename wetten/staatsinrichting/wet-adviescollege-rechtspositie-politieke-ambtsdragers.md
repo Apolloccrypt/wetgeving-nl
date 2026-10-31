@@ -9,7 +9,7 @@ laatste_update: 2026-02-20
 status: geldig
 toestand: 2026-02-20
 bron: "https://wetten.overheid.nl/BWBR0045946"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Wet van 17 november 2021, houdende instelling van een adviescollege op het terrein van de rechtspositie van politieke ambtsdragers (Wet adviescollege rechtspositie politieke ambtsdragers)

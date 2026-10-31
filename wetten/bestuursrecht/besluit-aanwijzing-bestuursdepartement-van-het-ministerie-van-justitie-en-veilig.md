@@ -9,7 +9,7 @@ laatste_update: 2021-12-23
 status: geldig
 toestand: 2021-12-23
 bron: "https://wetten.overheid.nl/BWBR0046055"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 13 december 2021, nr. 3668776 houdende aanwijzing van het bestuursdepartement van het Ministerie van Justitie en Veiligheid als algemene bewaarplaats van protocollen in verband met de verplichting protocollen die ouder zijn dan vijfenzeventig jaar, met uitzondering van de akten betreffende uiterste willen, en die in een algemene bewaarplaats berusten en de akten betreffende uiterste willen die ouder zijn dan honderd jaar over te brengen naar een rijksarchiefbewaarplaats

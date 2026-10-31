@@ -9,7 +9,7 @@ laatste_update: 2025-07-17
 status: geldig
 toestand: 2025-07-17
 bron: "https://wetten.overheid.nl/BWBR0046243"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 18 januari 2022 nr. BOACAT2021/074, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de afdeling Stadstoezicht van de gemeente Almere

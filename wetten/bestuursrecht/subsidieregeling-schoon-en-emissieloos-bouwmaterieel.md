@@ -9,7 +9,7 @@ laatste_update: 2026-01-20
 status: geldig
 toestand: 2026-01-20
 bron: "https://wetten.overheid.nl/BWBR0046464"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 22 maart 2022, nr. IENW/BSK-2022/51482, houdende vaststelling van regels ter bevordering van de aanschaf, ombouw en innovatie van schoon of emissieloos bouwmaterieel dat wordt gebruikt in de bouw (Subsidieregeling schoon en emissieloos bouwmaterieel)

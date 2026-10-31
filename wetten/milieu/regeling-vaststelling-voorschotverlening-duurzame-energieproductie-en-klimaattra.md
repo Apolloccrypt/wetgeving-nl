@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0045788"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 2 november 2021, nr. WJZ/ 21253915, tot vaststelling van de correcties voor de voorschotverlening duurzame energieproductie en klimaattransitie 2022 (Regeling vaststelling voorschotverlening duurzame energieproductie en klimaattransitie 2022)

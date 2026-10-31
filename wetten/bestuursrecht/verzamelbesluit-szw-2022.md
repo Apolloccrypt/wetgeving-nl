@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0046050"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van 13 december 2021 tot wijziging van diverse algemene maatregelen van bestuur van het Ministerie van Sociale Zaken en Werkgelegenheid in verband met kleine beleidsmatige, technische en redactionele wijzigingen (Verzamelbesluit SZW 2022)

@@ -9,7 +9,7 @@ laatste_update: 2021-12-25
 status: geldig
 toestand: 2021-12-25
 bron: "https://wetten.overheid.nl/BWBR0046075"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 22 december 2021 kenmerk 3677256, houdende verlening van mandaat, volmacht en machtiging aan de korpschef van de politie inzake bevoegdheden ten aanzien van de instandhouding en doorontwikkeling van de NL-Alert keten (Besluit verlening mandaat, volmacht en machtiging NL-Alert keten)

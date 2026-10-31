@@ -9,7 +9,7 @@ laatste_update: 2025-03-21
 status: geldig
 toestand: 2025-03-21
 bron: "https://wetten.overheid.nl/BWBR0046356"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 28 februari 2022, nr. Min-BuZa.2022.11493-16, houdende beperkende maatregelen in verband met de erkenning van Donetsk en Luhansk van Oekraïne en het sturen van Russische strijdkrachten (Sanctieregeling erkenning Donetsk en Luhansk 2022)

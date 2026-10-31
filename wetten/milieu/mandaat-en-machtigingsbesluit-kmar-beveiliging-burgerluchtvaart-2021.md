@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0046117"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister van Justitie van 13 december 2021, nr. 3700270, houdende verlening van mandaat en machtiging aan de Commandant van de Koninklijke marechaussee ter zake van bevoegdheden op het terrein van de beveiliging van de burgerluchtvaart (Mandaat- en machtigingsbesluit Kmar beveiliging burgerluchtvaart 2021)

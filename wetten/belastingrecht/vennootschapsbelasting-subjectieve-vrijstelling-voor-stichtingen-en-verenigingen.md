@@ -8,7 +8,7 @@ laatste_update: 2022-03-31
 status: geldig
 toestand: 2022-03-31
 bron: "https://wetten.overheid.nl/BWBR0046478"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Vennootschapsbelasting, subjectieve vrijstelling voor stichtingen en verenigingen (artikel 6 van de Wet op de vennootschapsbelasting 1969)

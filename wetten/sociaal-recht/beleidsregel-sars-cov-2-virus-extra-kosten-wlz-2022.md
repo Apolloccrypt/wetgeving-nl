@@ -9,7 +9,7 @@ laatste_update: 2022-04-07
 status: geldig
 toestand: 2022-04-07
 bron: "https://wetten.overheid.nl/BWBR0046530"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-31
 ---
 
 # Beleidsregel SARS-CoV-2 virus extra kosten Wlz 2022, Nederlandse Zorgautoriteit

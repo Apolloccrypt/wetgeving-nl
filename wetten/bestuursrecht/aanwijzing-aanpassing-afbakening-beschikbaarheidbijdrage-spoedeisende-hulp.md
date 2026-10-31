@@ -9,7 +9,7 @@ laatste_update: 2021-11-04
 status: geldig
 toestand: 2021-11-04
 bron: "https://wetten.overheid.nl/BWBR0045779"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 28 oktober 2021, kenmerk 3266624-1017495-PZO, inzake de aanpassing van de afbakening van de beschikbaarheidbijdrage spoedeisende hulp

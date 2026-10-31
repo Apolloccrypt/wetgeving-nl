@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0045842"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Beschikking van de Minister voor Rechtsbescherming van 12 november 2021, nr. 3613881, Directie Wetgeving en Juridische Zaken, tot vaststelling van het percentage waarmee de bedragen voor levensonderhoud met ingang van 1 januari 2022 worden verhoogd (Beschikking wijzigingspercentage levensonderhoud 2022)

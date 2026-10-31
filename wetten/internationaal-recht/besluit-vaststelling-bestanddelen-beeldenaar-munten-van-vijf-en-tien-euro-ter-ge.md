@@ -9,7 +9,7 @@ laatste_update: 2022-04-27
 status: geldig
 toestand: 2022-04-27
 bron: "https://wetten.overheid.nl/BWBR0046337"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van 9 februari 2022 tot vaststelling van de bestanddelen van de beeldenaar van de munten van vijf en tien euro die in 2022 worden uitgegeven ter gelegenheid van het dertigjarig jubileum van de ondertekening van het Verdrag van Maastricht

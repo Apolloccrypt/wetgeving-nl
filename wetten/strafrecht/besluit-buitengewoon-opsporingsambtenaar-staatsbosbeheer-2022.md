@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0046106"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-31
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 14 december 2021 nr. BOACAT2021/058, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Staatsbosbeheer
