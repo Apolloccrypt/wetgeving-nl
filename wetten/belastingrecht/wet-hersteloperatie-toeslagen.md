@@ -9,7 +9,7 @@ laatste_update: 2026-04-01
 status: geldig
 toestand: 2026-04-01
 bron: "https://wetten.overheid.nl/BWBR0047436"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Wet van 2 november 2022, houdende regels ten behoeve van de hersteloperatie toeslagen (Wet hersteloperatie toeslagen)

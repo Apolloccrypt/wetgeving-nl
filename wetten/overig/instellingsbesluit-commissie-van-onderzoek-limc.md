@@ -8,7 +8,7 @@ laatste_update: 2022-09-10
 status: geldig
 toestand: 2022-09-10
 bron: "https://wetten.overheid.nl/BWBR0047128"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Instellingsbesluit Commissie van onderzoek LIMC

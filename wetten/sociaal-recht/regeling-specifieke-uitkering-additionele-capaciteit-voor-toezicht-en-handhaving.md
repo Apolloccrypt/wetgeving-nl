@@ -9,7 +9,7 @@ laatste_update: 2026-05-14
 status: geldig
 toestand: 2026-05-14
 bron: "https://wetten.overheid.nl/BWBR0046881"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister voor Klimaat en Energie van 30 juni 2022, nr. WJZ/ 22076980, houdende regels over het verstrekken van eenmalige specifieke uitkeringen ten behoeve van extra ondersteuning voor toezicht op en handhaving van de energiebesparingsplicht

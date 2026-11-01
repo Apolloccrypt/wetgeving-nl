@@ -8,7 +8,7 @@ laatste_update: 2023-05-13
 status: geldig
 toestand: 2023-05-13
 bron: "https://wetten.overheid.nl/BWBR0046657"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Assurantiebelasting

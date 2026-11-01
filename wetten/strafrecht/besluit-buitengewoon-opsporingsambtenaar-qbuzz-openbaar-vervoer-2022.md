@@ -9,7 +9,7 @@ laatste_update: 2023-03-16
 status: geldig
 toestand: 2023-03-16
 bron: "https://wetten.overheid.nl/BWBR0047102"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 26 augustus 2022 nr. BOACAT2022/061, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Qbuzz Openbaar Vervoer

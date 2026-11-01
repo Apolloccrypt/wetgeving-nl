@@ -9,7 +9,7 @@ laatste_update: 2022-07-01
 status: geldig
 toestand: 2022-07-01
 bron: "https://wetten.overheid.nl/BWBR0046615"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 26 april 2022, 3348384-1027396-VGP, houdende wijziging van de Warenwetregeling verpakkingen en gebruiksartikelen in verband met het verwijderen en toevoegen van stoffen aan deel A van de bijlage en enkele technische wijzigingen

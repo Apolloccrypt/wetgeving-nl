@@ -9,7 +9,7 @@ laatste_update: 2022-09-14
 status: geldig
 toestand: 2022-09-14
 bron: "https://wetten.overheid.nl/BWBR0047152"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Vrijstelling op grond van artikel 46, eerste lid, van de Wet gewasbeschermingsmiddelen en biociden inzake de biocide Maxforce Quantum (Tweede vrijstelling Maxforce Quantum Mediterraan draaigatje 2022)

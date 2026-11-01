@@ -9,7 +9,7 @@ laatste_update: 2022-07-01
 status: geldig
 toestand: 2022-07-01
 bron: "https://wetten.overheid.nl/BWBR0046660"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van 21 april 2022, houdende regels voor het verstrekken van subsidies door de Minister van Justitie en Veiligheid en de Minister voor Rechtsbescherming (Kaderbesluit overige JenV-subsidies)

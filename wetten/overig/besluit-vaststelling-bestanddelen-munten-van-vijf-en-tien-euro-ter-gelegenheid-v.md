@@ -9,7 +9,7 @@ laatste_update: 2022-09-28
 status: geldig
 toestand: 2022-09-28
 bron: "https://wetten.overheid.nl/BWBR0047119"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van 30 augustus 2022 tot vaststelling van de bestanddelen van de beeldenaar van de munten van vijf en tien euro die in 2022 worden uitgegeven ter gelegenheid van de honderdvijftigste geboortedag van Piet Mondriaan

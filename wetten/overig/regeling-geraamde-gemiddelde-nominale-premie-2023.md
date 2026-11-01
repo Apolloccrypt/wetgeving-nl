@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0047360"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 17 oktober 2022, kenmerk 3442093-1036919-Z, houdende Regeling geraamde gemiddelde nominale premie 2023

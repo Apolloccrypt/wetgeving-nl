@@ -9,7 +9,7 @@ laatste_update: 2025-08-09
 status: geldig
 toestand: 2025-08-09
 bron: "https://wetten.overheid.nl/BWBR0047193"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Beleidsregel van de Staatssecretaris van Financiën – Fiscaliteit en Belastingdienst, mede namens de Staatssecretaris Koninkrijksrelaties en Digitalisering, van 18 september 2022, nr. 2022-18406 tot verlenging van de compensatie van de kosten voor organisaties die eHerkenning moeten gebruiken voor het doen van belastingaangifte (Beleidsregel compensatie inloggen belastingaangifte)

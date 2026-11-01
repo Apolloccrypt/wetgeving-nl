@@ -9,7 +9,7 @@ laatste_update: 2024-05-04
 status: geldig
 toestand: 2024-05-04
 bron: "https://wetten.overheid.nl/BWBR0046602"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 26 april 2022, nr. IENW/BSK-2022/76068, houdende de vaststelling van tijdelijke regels voor het verlenen van een specifieke uitkering voor bodemopgaven voor het jaar 2022 (Tijdelijke regeling specifieke uitkering bodem 2022)

@@ -9,7 +9,7 @@ laatste_update: 2022-11-12
 status: geldig
 toestand: 2022-11-12
 bron: "https://wetten.overheid.nl/BWBR0047452"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid d.d. 25 oktober 2022, kenmerk 2987138, houdende beperking van de openbaarheid van de aanvulling op het archief van het Directoraat-Generaal voor de Bijzondere Rechtspleging (DGBR), 1945–1958 (1983)

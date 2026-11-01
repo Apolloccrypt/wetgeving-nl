@@ -9,7 +9,7 @@ laatste_update: 2022-07-13
 status: geldig
 toestand: 2022-07-13
 bron: "https://wetten.overheid.nl/BWBR0046895"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 5 juli 2022, kenmerk 3389733-1031726-PDCV, houdende Aanwijzingsbesluit activiteiten van algemeen belang in het kader van de Wet Markt en Overheid

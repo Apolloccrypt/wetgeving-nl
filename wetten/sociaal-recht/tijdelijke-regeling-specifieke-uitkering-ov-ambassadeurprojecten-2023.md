@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-06-30
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0047413"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 30 oktober 2022, nr. IENW/BSK-2021/66906, houdende regels voor een specifieke uitkering ten behoeve van gemeentelijke OV-ambassadeurprojecten in de periode van 2023–2025 (Tijdelijke regeling specifieke uitkering OV-ambassadeurprojecten 2023)

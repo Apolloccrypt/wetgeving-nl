@@ -9,7 +9,7 @@ laatste_update: 2022-07-09
 status: geldig
 toestand: 2022-07-09
 bron: "https://wetten.overheid.nl/BWBR0046872"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van 5 juli 2022, houdende voorschriften voor een experiment met betrekking tot de bijzondere nadere vooropleidingseisen voor de opleiding tot leraar basisonderwijs, met het oog op verbetering van de toegankelijkheid (Besluit experiment bijzondere nadere vooropleidingseisen opleiding tot leraar basisonderwijs)

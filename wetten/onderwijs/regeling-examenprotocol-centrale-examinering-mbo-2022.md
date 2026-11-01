@@ -9,7 +9,7 @@ laatste_update: 2022-08-19
 status: geldig
 toestand: 2022-08-19
 bron: "https://wetten.overheid.nl/BWBR0047055"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van het College voor toetsen en examens van 27 juni 2022, nummer CvTE-22.00899, houdende vaststelling van het examenprotocol centrale examinering mbo 2022 (Regeling examenprotocol centrale examinering mbo 2022)

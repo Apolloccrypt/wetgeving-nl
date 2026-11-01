@@ -9,7 +9,7 @@ laatste_update: 2022-07-20
 status: geldig
 toestand: 2022-07-20
 bron: "https://wetten.overheid.nl/BWBR0046941"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 1 juli 2022 nr. MBO/33246094, houdende vaststelling van de subsidieplafonds van de Subsidieregeling praktijkleren voor het studiejaar 2021–2022, alsmede wijziging van de Subsidieregeling praktijkleren in verband met het vervallen van aanvullende subsidies voor de mbo bbl-leerplekken in conjunctuurgevoelige sectoren en hbo-leerplekken in de tekortsectoren techniek (inclusief ICT) en gezondheidszorg

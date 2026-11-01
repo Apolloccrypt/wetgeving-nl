@@ -8,7 +8,7 @@ laatste_update: 2022-07-06
 status: geldig
 toestand: 2022-07-06
 bron: "https://wetten.overheid.nl/BWBR0046853"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Protocol werkwijze Toelating & Aanwijzing

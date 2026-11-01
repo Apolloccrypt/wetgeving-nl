@@ -9,7 +9,7 @@ laatste_update: 2022-05-13
 status: geldig
 toestand: 2022-05-13
 bron: "https://wetten.overheid.nl/BWBR0046655"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van 3 mei 2022, houdende instelling van een staatscommissie tegen discriminatie en racisme (Instellingsbesluit staatscommissie tegen discriminatie en racisme)

@@ -9,7 +9,7 @@ laatste_update: 2022-11-17
 status: geldig
 toestand: 2022-11-17
 bron: "https://wetten.overheid.nl/BWBR0046974"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 12 juli 2022 nr. BOACAT2022/049, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Katwijk

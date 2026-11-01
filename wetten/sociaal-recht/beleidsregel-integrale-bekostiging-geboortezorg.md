@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0046888"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Beleidsregel integrale bekostiging geboortezorg BR/REG-23130, Nederlandse Zorgautoriteit

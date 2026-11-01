@@ -9,7 +9,7 @@ laatste_update: 2022-09-02
 status: geldig
 toestand: 2022-09-02
 bron: "https://wetten.overheid.nl/BWBR0047094"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 24 augustus 2022, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordiging in Ghana, Ambassade Accra, Besluit Beperking Openbaarheid Accra, (1967) 1985-2012 (2013)

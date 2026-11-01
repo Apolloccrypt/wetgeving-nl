@@ -9,7 +9,7 @@ laatste_update: 2023-03-25
 status: geldig
 toestand: 2023-03-25
 bron: "https://wetten.overheid.nl/BWBR0047050"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 3 augustus 2022, nr. PO/32243538, houdende regels voor de subsidieverstrekking aan scholen voor het verbeteren van de basisvaardigheden met evidence informed interventies (Subsidieregeling verbetering basisvaardigheden)

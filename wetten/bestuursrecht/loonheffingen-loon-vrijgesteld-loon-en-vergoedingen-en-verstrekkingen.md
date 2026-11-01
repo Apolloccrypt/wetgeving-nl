@@ -8,7 +8,7 @@ laatste_update: 2022-07-29
 status: geldig
 toestand: 2022-07-29
 bron: "https://wetten.overheid.nl/BWBR0046987"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Loonheffingen, loon, vrijgesteld loon en vergoedingen en verstrekkingen

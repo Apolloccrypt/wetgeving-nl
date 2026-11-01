@@ -8,7 +8,7 @@ laatste_update: 2022-06-30
 status: geldig
 toestand: 2022-06-30
 bron: "https://wetten.overheid.nl/BWBR0046823"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Omzetbelasting, accijns, belasting op personenauto's en motorrijwielen, motorrijtuigenbelasting, overdrachtsbelasting, energiebelasting en opslag duurzame energie- en klimaattransitie en belasting op leidingwater, diplomatieke vrijstellingen

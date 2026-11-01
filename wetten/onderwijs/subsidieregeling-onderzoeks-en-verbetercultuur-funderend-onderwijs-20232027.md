@@ -9,7 +9,7 @@ laatste_update: 2023-09-02
 status: geldig
 toestand: 2023-09-02
 bron: "https://wetten.overheid.nl/BWBR0047399"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 8 oktober 2022, nr. VO/34073685, houdende regels voor de subsidieverstrekking voor het gericht werken aan een onderzoeks- en verbetercultuur in het funderend onderwijs (Subsidieregeling onderzoeks- en verbetercultuur funderend onderwijs 2023–2027)

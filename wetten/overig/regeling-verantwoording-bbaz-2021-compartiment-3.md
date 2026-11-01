@@ -8,7 +8,7 @@ laatste_update: 2022-06-24
 status: geldig
 toestand: 2022-06-24
 bron: "https://wetten.overheid.nl/BWBR0046782"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling verantwoording bbaz 2021 compartiment 3

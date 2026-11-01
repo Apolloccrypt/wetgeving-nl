@@ -9,7 +9,7 @@ laatste_update: 2022-10-25
 status: geldig
 toestand: 2022-10-25
 bron: "https://wetten.overheid.nl/BWBR0047356"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 27 september 2022, nr. KENNIS/34020061, houdende de formele instelling van de Begeleidingscommissie Leerlingen- en Studentenramingen (Instellingsbesluit Begeleidingscommissie Leerlingen- en Studentenramingen 2022)

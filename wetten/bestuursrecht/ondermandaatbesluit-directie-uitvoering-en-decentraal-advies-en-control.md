@@ -9,7 +9,7 @@ laatste_update: 2022-07-14
 status: geldig
 toestand: 2022-07-14
 bron: "https://wetten.overheid.nl/BWBR0046905"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de directeur Uitvoering en Decentraal Advies en Control van 30 juni 2022 nr. IenW/BSK-2022/156807, tot verlening van ondermandaat, volmacht en machtiging (Ondermandaatbesluit directie Uitvoering en Decentraal Advies en Control)

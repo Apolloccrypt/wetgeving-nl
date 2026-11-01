@@ -9,7 +9,7 @@ laatste_update: 2026-06-25
 status: geldig
 toestand: 2026-06-25
 bron: "https://wetten.overheid.nl/BWBR0046932"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister voor Volkshuisvesting en Ruimtelijke Ordening houdende regels voor het verstrekken van specifieke uitkeringen aan gemeenten voor de realisatie van woonruimten voor aandachtsgroepen (Meerjarige regeling specifieke uitkeringen aandachtsgroepen)

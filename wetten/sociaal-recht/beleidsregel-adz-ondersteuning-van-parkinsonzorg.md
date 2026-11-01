@@ -8,7 +8,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0047430"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Beleidsregel Adz-ondersteuning van Parkinsonzorg

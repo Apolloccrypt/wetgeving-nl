@@ -9,7 +9,7 @@ laatste_update: 2022-11-25
 status: geldig
 toestand: 2022-11-25
 bron: "https://wetten.overheid.nl/BWBR0047506"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Ondermandaat aan de vertegenwoordiger van de Nederlandse regering bij de regeringen van Aruba, Curaçao en Sint Maarten

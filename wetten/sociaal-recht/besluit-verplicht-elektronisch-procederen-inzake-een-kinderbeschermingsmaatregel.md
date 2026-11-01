@@ -9,7 +9,7 @@ laatste_update: 2022-10-12
 status: geldig
 toestand: 2022-10-12
 bron: "https://wetten.overheid.nl/BWBR0047268"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Besluit van 3 oktober 2022, houdende regels met betrekking tot verplicht elektronisch doen van verzoeken en mededelingen en de indiening en verzending van processtukken inzake een kinderbeschermingsmaatregel en jeugdhulp

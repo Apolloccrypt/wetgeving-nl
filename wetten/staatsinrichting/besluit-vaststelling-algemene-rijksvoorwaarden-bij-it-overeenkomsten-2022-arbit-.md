@@ -9,7 +9,7 @@ laatste_update: 2022-09-10
 status: geldig
 toestand: 2022-09-10
 bron: "https://wetten.overheid.nl/BWBR0047124"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister-President, Minister van Algemene Zaken van 22 augustus 2022, nr. 3771053 houdende vaststelling van de Algemene Rijksvoorwaarden bij IT-overeenkomsten 2022 (ARBIT-2022)

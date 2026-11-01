@@ -9,7 +9,7 @@ laatste_update: 2022-11-24
 status: geldig
 toestand: 2022-11-24
 bron: "https://wetten.overheid.nl/BWBR0047502"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 15 november 2022 nr. BOACAT2022/077, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Goes

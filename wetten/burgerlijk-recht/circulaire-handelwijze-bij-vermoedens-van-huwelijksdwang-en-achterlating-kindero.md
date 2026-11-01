@@ -8,7 +8,7 @@ laatste_update: 2022-10-21
 status: geldig
 toestand: 2022-10-21
 bron: "https://wetten.overheid.nl/BWBR0047347"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Circulaire handelwijze bij vermoedens van huwelijksdwang en achterlating, kinderontvoering, uitbuiting, onttrekking van kinderen aan overheidstoezicht en aangifte van geboorte en medischeverklaring (art. 2.43 en 2.49 Wet BRP)

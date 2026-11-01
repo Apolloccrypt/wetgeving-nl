@@ -8,7 +8,7 @@ laatste_update: 2022-07-20
 status: geldig
 toestand: 2022-07-20
 bron: "https://wetten.overheid.nl/BWBR0046944"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Nadere regeling inzake de PEPP-toezichtrapportage

@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0046995"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat van 11 juli 2022, nr. WJZ/ 22018415, houdende regels voor de verstrekking van subsidie uit het Nationaal Groeifonds (Subsidieregeling Nationaal Groeifonds)

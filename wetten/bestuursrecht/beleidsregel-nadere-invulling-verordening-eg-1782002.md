@@ -9,7 +9,7 @@ laatste_update: 2022-07-01
 status: geldig
 toestand: 2022-07-01
 bron: "https://wetten.overheid.nl/BWBR0046824"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Beleidsregel van de Minister van Volksgezondheid, Welzijn en Sport en de Minister van Landbouw, Natuur en Voedselkwaliteit van 21 juni 2022, 3373903-1030201-VGP, houdende nadere invulling van de artikelen 18, 19 en 20 van Verordening (EG) 178/2002 (Beleidsregel nadere invulling Verordening (EG) 178/2002)

@@ -9,7 +9,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBR0046936"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 6 juli 2022, nr. 33295719, houdende regels voor de subsidiëring van een rijke schooldag voor leerlingen in het primair onderwijs, voortgezet onderwijs, speciaal onderwijs en voortgezet speciaal onderwijs (Subsidieregeling School en omgeving)

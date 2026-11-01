@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0046714"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister voor Volkshuisvesting en Ruimtelijke Ordening van 24 mei 2022, nr. 2022-0000021197, houdende instelling van de commissie versnelling tijdelijke huisvesting (Instellingsbesluit commissie versnelling tijdelijke huisvesting)

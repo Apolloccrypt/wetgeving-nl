@@ -9,7 +9,7 @@ laatste_update: 2023-07-01
 status: geldig
 toestand: 2023-07-01
 bron: "https://wetten.overheid.nl/BWBR0047438"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Wet van 13 oktober 2022 tot wijziging van de Mijnbouwwet (aanpassing van het vergunningsstelsel voor opsporen en winnen van aardwarmte)

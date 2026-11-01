@@ -9,7 +9,7 @@ laatste_update: 2022-09-08
 status: geldig
 toestand: 2022-09-08
 bron: "https://wetten.overheid.nl/BWBR0047118"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van 26 augustus 2022 houdende de instelling van een staatscommissie demografische ontwikkelingen 2050 (Instellingsbesluit staatscommissie demografische ontwikkelingen 2050)

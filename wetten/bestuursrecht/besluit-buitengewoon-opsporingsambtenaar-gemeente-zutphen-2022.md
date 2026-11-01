@@ -9,7 +9,7 @@ laatste_update: 2024-06-21
 status: geldig
 toestand: 2024-06-21
 bron: "https://wetten.overheid.nl/BWBR0046702"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 18 mei 2022 nr. BOACAT2022/037, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Zutphen

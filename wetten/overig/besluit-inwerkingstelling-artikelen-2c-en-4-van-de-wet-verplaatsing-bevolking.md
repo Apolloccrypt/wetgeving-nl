@@ -9,7 +9,7 @@ laatste_update: 2022-04-01
 status: geldig
 toestand: 2022-04-01
 bron: "https://wetten.overheid.nl/BWBR0047073"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van 31 maart 2022, houdende inwerkingstelling van de artikelen 2c en 4 van de Wet verplaatsing bevolking

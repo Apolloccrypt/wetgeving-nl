@@ -9,7 +9,7 @@ laatste_update: 2022-07-01
 status: geldig
 toestand: 2022-07-01
 bron: "https://wetten.overheid.nl/BWBR0046834"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de directeur van de Stichting Bloembollenkeuringsdienst van 10 juni 2022, houdende verlening van ondermandaat, volmacht en machtiging voor de Stichting Bloembollenkeuringsdienst (Besluit ondermandaat, volmacht en machtiging Stichting Bloembollenkeuringsdienst 2022)

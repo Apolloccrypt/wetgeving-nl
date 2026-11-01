@@ -9,7 +9,7 @@ laatste_update: 2022-05-24
 status: geldig
 toestand: 2022-05-24
 bron: "https://wetten.overheid.nl/BWBR0046687"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 20 mei 2022, nr. IENW/BSK-2022/48111, houdende regels voor toekenning van specifieke uitkeringen voor intelligente verkeersregelinstallaties (Tijdelijke regeling specifieke uitkeringen intelligente verkeersregelinstallaties)

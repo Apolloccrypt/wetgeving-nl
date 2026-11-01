@@ -9,7 +9,7 @@ laatste_update: 2022-07-01
 status: geldig
 toestand: 2022-07-01
 bron: "https://wetten.overheid.nl/BWBR0046774"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 1 juni 2022, 2022-00028050, houdende vaststelling van het Controleprotocol Wet normering topinkomens 2022 (Regeling Controleprotocol WNT 2022)

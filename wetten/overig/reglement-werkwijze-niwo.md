@@ -9,7 +9,7 @@ laatste_update: 2022-05-25
 status: geldig
 toestand: 2022-05-25
 bron: "https://wetten.overheid.nl/BWBR0046699"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Nationale en Internationale Wegvervoer Organisatie van 2 januari 2017, tot vaststelling van een reglement (Reglement werkwijze NIWO)

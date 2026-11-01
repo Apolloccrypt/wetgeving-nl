@@ -8,7 +8,7 @@ laatste_update: 2024-06-25
 status: geldig
 toestand: 2024-06-25
 bron: "https://wetten.overheid.nl/BWBR0046665"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Podiumregeling Fonds Podiumkunsten

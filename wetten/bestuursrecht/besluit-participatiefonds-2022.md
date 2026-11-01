@@ -9,7 +9,7 @@ laatste_update: 2024-01-31
 status: geldig
 toestand: 2024-01-31
 bron: "https://wetten.overheid.nl/BWBR0046708"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van 3 mei 2022, houdende vaststelling van de voorwaarden voor de ministeriële instemming met de statuten van het participatiefonds en de gevolgen van intrekking van de aanwijzing van het participatiefonds als gevolg van de modernisering van het participatiefonds en beëindiging van het vervangingsfonds (Besluit participatiefonds 2022)

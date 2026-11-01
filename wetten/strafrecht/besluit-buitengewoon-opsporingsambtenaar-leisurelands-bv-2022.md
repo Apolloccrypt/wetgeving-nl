@@ -9,7 +9,7 @@ laatste_update: 2022-06-21
 status: geldig
 toestand: 2022-06-21
 bron: "https://wetten.overheid.nl/BWBR0046619"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 25 april 2022, nr. BOACAT2022/024, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Leisurelands B.V.

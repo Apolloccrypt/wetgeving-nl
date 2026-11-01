@@ -9,7 +9,7 @@ laatste_update: 2022-07-05
 status: geldig
 toestand: 2022-07-05
 bron: "https://wetten.overheid.nl/BWBR0046843"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van 7 juni 2022, [nr. 2022001205] houdende instelling van de medaille voor trouwe en langdurige dienst Nederlandse Douane

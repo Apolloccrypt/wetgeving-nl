@@ -9,7 +9,7 @@ laatste_update: 2022-09-01
 status: geldig
 toestand: 2022-09-01
 bron: "https://wetten.overheid.nl/BWBR0047091"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken, de Minister van Defensie en de Staatssecretaris van Justitie en Veiligheid van 25 maart 2022, nr. Min-BuZa.2022.858, houdende de instelling van de Commissie van onderzoek naar de evacuatieoperatie vanuit Kaboel, die Nederland in de tweede helft van augustus 2021 uitvoerde nadat de Taliban de macht in Afghanistan had overgenomen (Instellingsbesluit Commissie van onderzoek evacuatieoperatie Kaboel)

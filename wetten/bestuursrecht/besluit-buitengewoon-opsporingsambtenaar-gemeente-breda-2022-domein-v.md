@@ -9,7 +9,7 @@ laatste_update: 2022-09-08
 status: geldig
 toestand: 2022-09-08
 bron: "https://wetten.overheid.nl/BWBR0047121"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 31 augustus 2022 nr. BOACAT2022/063, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Breda

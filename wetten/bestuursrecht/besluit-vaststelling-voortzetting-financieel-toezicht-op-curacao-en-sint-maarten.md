@@ -9,7 +9,7 @@ laatste_update: 2022-09-01
 status: geldig
 toestand: 2022-09-01
 bron: "https://wetten.overheid.nl/BWBR0046983"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van 5 juli 2022, nr. 2022001458 houdende de vaststelling tot voortzetting van het financieel toezicht op Curaçao en Sint Maarten

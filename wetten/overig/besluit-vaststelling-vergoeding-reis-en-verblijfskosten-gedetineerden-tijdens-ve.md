@@ -9,7 +9,7 @@ laatste_update: 2025-07-24
 status: geldig
 toestand: 2025-07-24
 bron: "https://wetten.overheid.nl/BWBR0046717"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 9 mei 2022, kenmerk 4003321, tot vaststelling van de vergoeding inzake de reis- en verblijfskosten van gedetineerden tijdens verlof en strafonderbreking op basis van de Regeling tijdelijk verlaten van de inrichting

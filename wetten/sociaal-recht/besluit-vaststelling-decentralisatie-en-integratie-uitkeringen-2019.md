@@ -9,7 +9,7 @@ laatste_update: 2022-10-01
 status: geldig
 toestand: 2022-10-01
 bron: "https://wetten.overheid.nl/BWBR0047215"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van 5 september 2022, houdende vaststelling van de decentralisatie- en integratie-uitkeringen aan de gemeenten en provincies voor het uitkeringsjaar 2019 (Besluit vaststelling decentralisatie- en integratie-uitkeringen 2019)

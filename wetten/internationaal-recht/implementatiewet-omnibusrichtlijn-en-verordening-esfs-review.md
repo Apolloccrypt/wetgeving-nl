@@ -9,7 +9,7 @@ laatste_update: 2022-09-03
 status: geldig
 toestand: 2022-09-03
 bron: "https://wetten.overheid.nl/BWBR0047113"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Wet van 22 augustus 2022 tot wijziging van de Wet op het financieel toezicht en de Wet op de economische delicten ter implementatie van Richtlijn (EU) 2019/2177 en ter uitvoering van Verordening (EU) 2019/2175 tot wijziging van diverse richtlijnen en verordeningen betreffende het Europees systeem voor financieel toezicht (Implementatiewet omnibusrichtlijn en -verordening ESFS-review)

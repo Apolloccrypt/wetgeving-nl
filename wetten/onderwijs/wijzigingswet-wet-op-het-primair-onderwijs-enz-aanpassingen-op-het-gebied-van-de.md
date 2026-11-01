@@ -9,7 +9,7 @@ laatste_update: 2024-05-01
 status: geldig
 toestand: 2024-05-01
 bron: "https://wetten.overheid.nl/BWBR0046751"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Wet van 9 februari 2022 tot wijziging van een aantal onderwijswetten in verband met aanpassingen op het gebied van de doorstroom van het basisonderwijs naar het voortgezet onderwijs en wijziging van de stelselinrichting van doorstroomtoetsen en toetsen verbonden aan leerling- en onderwijsvolgsystemen in het basisonderwijs

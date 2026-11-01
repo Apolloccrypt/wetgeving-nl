@@ -9,7 +9,7 @@ laatste_update: 2022-06-24
 status: geldig
 toestand: 2022-06-24
 bron: "https://wetten.overheid.nl/BWBR0046783"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Secretaris-Generaal van het Ministerie van Volksgezondheid, Welzijn en Sport van 9 juni 2022, kenmerk 3379981-1030686-OBP, houdende het verlenen van ondermandaat en ondervolmachten aan de programmadirecteur en diens plaatsvervanger van het programma Covid-19 Informatie en Coördinatie

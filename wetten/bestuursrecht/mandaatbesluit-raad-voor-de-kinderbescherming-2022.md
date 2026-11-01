@@ -9,7 +9,7 @@ laatste_update: 2022-07-27
 status: geldig
 toestand: 2022-07-27
 bron: "https://wetten.overheid.nl/BWBR0046969"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de algemeen directeur van de Raad voor de Kinderbescherming van het Ministerie van Justitie en Veiligheid van 7 juli 2022, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan onder de algemeen directeur ressorterende functionarissen (Mandaatbesluit Raad voor de Kinderbescherming Ministerie van Justitie en Veiligheid 2022)

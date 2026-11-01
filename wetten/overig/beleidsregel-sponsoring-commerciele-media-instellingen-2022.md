@@ -8,7 +8,7 @@ laatste_update: 2022-05-18
 status: geldig
 toestand: 2022-05-18
 bron: "https://wetten.overheid.nl/BWBR0046664"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Beleidsregel sponsoring commerciële media-instellingen 2022

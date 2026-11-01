@@ -9,7 +9,7 @@ laatste_update: 2022-06-04
 status: geldig
 toestand: 2022-06-04
 bron: "https://wetten.overheid.nl/BWBR0046731"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van 17 mei 2022, houdende regels met betrekking tot de emissie van broeikasgassen bij elektriciteitsopwekking (Besluit emissie van broeikasgassen elektriciteitsopwekking)

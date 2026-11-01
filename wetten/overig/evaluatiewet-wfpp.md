@@ -9,7 +9,7 @@ laatste_update: 2025-02-12
 status: geldig
 toestand: 2025-02-12
 bron: "https://wetten.overheid.nl/BWBR0047385"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Wet van 19 oktober 2022 tot wijziging van de Wet financiering politieke partijen in verband met de evaluatie van deze wet (Evaluatiewet Wfpp)

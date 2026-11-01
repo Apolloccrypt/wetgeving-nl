@@ -9,7 +9,7 @@ laatste_update: 2022-09-03
 status: geldig
 toestand: 2022-09-03
 bron: "https://wetten.overheid.nl/BWBR0046704"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van 17 mei 2022 tot wijziging van het Besluit uitvoering EU-verordeningen financiële markten, het Besluit bekostiging financieel toezicht 2019 en enkele andere besluiten ter implementatie van Richtlijn (EU) 2019/2177 tot wijziging van diverse richtlijnen betreffende het Europees systeem voor financieel toezicht (Implementatiebesluit omnibusrichtlijn ESFS-review)

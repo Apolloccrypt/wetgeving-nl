@@ -9,7 +9,7 @@ laatste_update: 2022-09-18
 status: geldig
 toestand: 2022-09-18
 bron: "https://wetten.overheid.nl/BWBR0047035"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 28 juli 2022 nr. BOACAT BOACAT2022/053, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Afdeling Veiligheid Toezicht en Handhaving van de gemeente Valkenburg aan de Geul

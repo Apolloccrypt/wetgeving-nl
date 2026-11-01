@@ -9,7 +9,7 @@ laatste_update: 2022-07-12
 status: geldig
 toestand: 2022-07-12
 bron: "https://wetten.overheid.nl/BWBR0046894"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Aanwijzing van de Minister voor Langdurige Zorg en Sport van 1 juli 2022, kenmerk 3383563-1031031-PZO, op grond van artikel 7 van de Wet marktordening gezondheidzorg inzake een bekostigingsexperiment Wlz-zorg in onderwijstijd

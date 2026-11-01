@@ -9,7 +9,7 @@ laatste_update: 2026-07-03
 status: geldig
 toestand: 2026-07-03
 bron: "https://wetten.overheid.nl/BWBR0046732"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Staatssecretaris van Justitie en Veiligheid van 31 mei 2022, nr. 4022247, houdende een specifieke uitkering voor gemeenten in verband met de bekostiging van acute opvang en verstrekkingen vanwege de oorlogssituatie in Oekraïne (Bekostigingsregeling opvang ontheemden Oekraïne)

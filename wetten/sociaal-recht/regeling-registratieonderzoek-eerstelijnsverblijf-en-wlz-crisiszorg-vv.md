@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-07-03
 toestand: 2022-07-07
 bron: "https://wetten.overheid.nl/BWBR0046857"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling registratieonderzoek eerstelijnsverblijf en Wlz crisiszorg vv

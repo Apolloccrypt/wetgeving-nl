@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0047439"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Beschikking van de Minister voor Rechtsbescherming van 4 november 2022, nr. 4269574, Directie Wetgeving en Juridische Zaken, tot vaststelling van het percentage waarmee de bedragen voor levensonderhoud met ingang van 1 januari 2023 worden verhoogd (Beschikking wijzigingspercentage levensonderhoud 2023)

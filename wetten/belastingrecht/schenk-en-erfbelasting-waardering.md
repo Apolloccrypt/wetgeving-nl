@@ -8,7 +8,7 @@ laatste_update: 2022-06-25
 status: geldig
 toestand: 2022-06-25
 bron: "https://wetten.overheid.nl/BWBR0046800"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Schenk- en erfbelasting, waardering

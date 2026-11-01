@@ -9,7 +9,7 @@ laatste_update: 2022-10-01
 status: geldig
 toestand: 2022-10-01
 bron: "https://wetten.overheid.nl/BWBR0047213"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van 14 september 2022, tot instelling van het Adviescollege toelatings- en verantwoordingscriteria landelijke publieke omroep (Besluit instelling Adviescollege toelatings- en verantwoordingscriteria landelijke publieke omroep)

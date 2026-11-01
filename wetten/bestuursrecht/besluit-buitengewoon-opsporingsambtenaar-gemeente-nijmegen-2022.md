@@ -9,7 +9,7 @@ laatste_update: 2024-11-27
 status: geldig
 toestand: 2024-11-27
 bron: "https://wetten.overheid.nl/BWBR0046679"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 11 mei 2022 nr. BOACAT2022/035, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Nijmegen

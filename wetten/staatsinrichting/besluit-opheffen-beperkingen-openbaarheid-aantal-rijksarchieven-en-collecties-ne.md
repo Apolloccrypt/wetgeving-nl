@@ -9,7 +9,7 @@ laatste_update: 2022-10-07
 status: geldig
 toestand: 2022-10-07
 bron: "https://wetten.overheid.nl/BWBR0047250"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit betreffende het opheffen van de beperkingen gesteld aan de openbaarheid van een aantal rijksarchieven en collecties thans in beheer bij het NIOD Instituut voor Oorlogs-, Holocaust- en Genocidestudies

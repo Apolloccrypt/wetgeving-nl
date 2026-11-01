@@ -9,7 +9,7 @@ laatste_update: 2022-08-16
 status: geldig
 toestand: 2022-08-16
 bron: "https://wetten.overheid.nl/BWBR0047051"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Beleidsregel van de Staatssecretaris van Infrastructuur en Waterstaat van 28 juli 2022, nr. IENM/ILT-2022/36807, houdende vaststelling van handhavingsbeleid inzake de kwaliteitseisen die gelden voor benzine en diesel voor het wegverkeer bestemd voor de export naar lage- en middeninkomenslanden buiten de EU, in het bijzonder bestemd voor ECOWAS-landen, in verband met toezicht op en de handhaving van de zorgplicht van artikel 9.2.1.2 van de Wet milieubeheer (Beleidsregel handhaving kwaliteit van benzine en diesel bestemd voor de export naar lage- en middeninkomenslanden buiten de EU, in het bijzonder ECOWAS-landen, 2022)

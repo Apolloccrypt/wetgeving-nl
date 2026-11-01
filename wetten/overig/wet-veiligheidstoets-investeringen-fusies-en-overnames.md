@@ -9,7 +9,7 @@ laatste_update: 2025-09-01
 status: geldig
 toestand: 2025-09-01
 bron: "https://wetten.overheid.nl/BWBR0046747"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Wet van 18 mei 2022, houdende regels tot invoering van een toets betreffende verwervingsactiviteiten die een risico kunnen vormen voor de nationale veiligheid gezien het effect hiervan op vitale aanbieders, beheerders van bedrijfscampussen of ondernemingen die actief zijn op het gebied van sensitieve technologie (Wet veiligheidstoets investeringen, fusies en overnames)

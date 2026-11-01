@@ -9,7 +9,7 @@ laatste_update: 2022-07-20
 status: geldig
 toestand: 2022-07-20
 bron: "https://wetten.overheid.nl/BWBR0046934"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Wet van 14 juli 2022 tot wijziging van de Algemene wet inkomensafhankelijke regelingen in verband met het tijdelijk achterwege laten van de rente bij bepaalde hervattingen van de invordering van toeslagschulden (Wet geen rente bij hervatting invordering toeslagschulden)

@@ -9,7 +9,7 @@ laatste_update: 2024-05-15
 status: geldig
 toestand: 2024-05-15
 bron: "https://wetten.overheid.nl/BWBR0047054"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 9 augustus 2022 nr. BOACAT2022/048, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Omgevingsdienst IJsselland

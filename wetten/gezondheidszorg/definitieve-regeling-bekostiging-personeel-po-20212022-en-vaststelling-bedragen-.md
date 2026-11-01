@@ -9,7 +9,7 @@ laatste_update: 2022-08-31
 status: geldig
 toestand: 2022-08-31
 bron: "https://wetten.overheid.nl/BWBR0047086"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 12 augustus 2022, nr. PO/FenV/33271986, houdende aanpassing van de bedragen personele bekostiging primair onderwijs voor het schooljaar 2021–2022 en het vaststellen van de bedragen voor ondersteuning van leerlingen in het primair en voortgezet onderwijs schooljaar 2021–2022 (Definitieve Regeling bekostiging personeel PO 2021–2022 en vaststelling bedragen voor ondersteuning van leerlingen in het PO en VO 2021–2022)

@@ -9,7 +9,7 @@ laatste_update: 2022-07-07
 status: geldig
 toestand: 2022-07-07
 bron: "https://wetten.overheid.nl/BWBR0046858"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Subsidiebeleidsregeling van 27 juni 2022 inzake de Kleinschalige Voorzieningen Justitiële Jeugd voor de regio Rotterdam-Rijnmond en Den Haag 2023 en 2024

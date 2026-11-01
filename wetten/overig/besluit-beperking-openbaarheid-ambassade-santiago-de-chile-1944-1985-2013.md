@@ -9,7 +9,7 @@ laatste_update: 2022-11-08
 status: geldig
 toestand: 2022-11-08
 bron: "https://wetten.overheid.nl/BWBR0047427"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 21 oktober 2022, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordigingen in Chili, Ambassade Santiago de Chile, (1944) 1985 – 2013, (Besluit Beperking Openbaarheid Ambassade Santiago de Chile (1944)1985 – 2013, (1944)

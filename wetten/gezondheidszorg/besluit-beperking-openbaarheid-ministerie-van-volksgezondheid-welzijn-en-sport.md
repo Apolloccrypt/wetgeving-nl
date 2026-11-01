@@ -8,7 +8,7 @@ laatste_update: 2022-10-28
 status: geldig
 toestand: 2022-10-28
 bron: "https://wetten.overheid.nl/BWBR0047380"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Besluit beperking openbaarheid, Ministerie van Volksgezondheid, Welzijn en Sport

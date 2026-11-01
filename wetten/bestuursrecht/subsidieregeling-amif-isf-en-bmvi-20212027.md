@@ -9,7 +9,7 @@ laatste_update: 2026-04-16
 status: geldig
 toestand: 2026-04-16
 bron: "https://wetten.overheid.nl/BWBR0046658"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid, de Minister voor Rechtsbescherming, de Staatssecretaris van Justitie en Veiligheid en de Minister van Sociale Zaken en Werkgelegenheid van 10 mei 2022, nummer 3952250, tot besteding van de gelden uit het Fonds voor asiel, migratie en integratie, het Fonds voor interne veiligheid en het Fonds voor geïntegreerd grensbeheer, van het Instrument voor financiële steun voor grensbeheer en visumbeleid (Subsidieregeling AMIF, ISF en BMVI 2021–2027)

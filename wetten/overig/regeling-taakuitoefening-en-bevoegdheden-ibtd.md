@@ -9,7 +9,7 @@ laatste_update: 2022-07-08
 status: geldig
 toestand: 2022-07-08
 bron: "https://wetten.overheid.nl/BWBR0046866"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister van Financiën van 24 juni 2022 (2022-163738), houdende regels inzake de taakuitoefening en bevoegdheden van de inspectie belastingen, toeslagen en douane (Regeling taakuitoefening en bevoegdheden IBTD)

@@ -9,7 +9,7 @@ laatste_update: 2024-04-04
 status: geldig
 toestand: 2024-04-04
 bron: "https://wetten.overheid.nl/BWBR0047072"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 19 augustus 2022 nr. BOACAT2022/059, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Stichting Veiligheidszorg Drenthe, Dienst Justis

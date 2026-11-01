@@ -9,7 +9,7 @@ laatste_update: 2024-04-01
 status: geldig
 toestand: 2024-04-01
 bron: "https://wetten.overheid.nl/BWBR0046952"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat en de Minister van Financiën van 8 juli 2022, nr. WJZ/ 22273638, houdende regels over de Adviescommissie Nationaal Groeifonds (Regeling adviescommissie Nationaal Groeifonds)

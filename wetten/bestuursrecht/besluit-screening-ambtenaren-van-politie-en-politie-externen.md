@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0047260"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van 3 oktober 2022, houdende regels over het screenen van personen die ambtenaar van politie willen worden of zijn en personen die krachtens overeenkomst werkzaamheden voor de politie, de rijksrecherche of de Politieacademie gaan verrichten of verrichten (Besluit screening ambtenaren van politie en politie-externen)

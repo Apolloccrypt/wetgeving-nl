@@ -9,7 +9,7 @@ laatste_update: 2026-07-17
 status: geldig
 toestand: 2026-07-17
 bron: "https://wetten.overheid.nl/BWBR0046626"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 21 april 2022, 2022-0000091000, tot vaststelling van een tijdelijke subsidieregeling gericht op het ontwikkelen, uitvoeren en onderzoeken van experimenten en het uitvoeren van wetenschappelijke onderzoek naar effectieve interventies inzake duurzame inzetbaarheid en leven lang ontwikkelen (Tijdelijke subsidieregeling onderzoek en experimenten duurzame inzetbaarheidsinterventies)

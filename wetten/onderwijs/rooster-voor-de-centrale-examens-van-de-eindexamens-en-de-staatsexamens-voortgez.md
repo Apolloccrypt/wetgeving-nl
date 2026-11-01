@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-07-10
 toestand: 2024-02-15
 bron: "https://wetten.overheid.nl/BWBR0046997"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van het College voor toetsen en examens van 27 juni 2022, met nummer CvTE-22.2200845, houdende het vaststellen van het tijdstip van de toetsen van de centrale examens voor 2024 (Rooster voor de centrale examens van de eindexamens en de staatsexamens voortgezet onderwijs in 2024)

@@ -9,7 +9,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBR0046913"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 24 juni 2022, nr. MBO/30739616, houdende uitwerking maatstaven voor studiesucces in het mbo

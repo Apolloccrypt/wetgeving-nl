@@ -9,7 +9,7 @@ laatste_update: 2022-06-14
 status: geldig
 toestand: 2022-06-14
 bron: "https://wetten.overheid.nl/BWBR0046749"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van 31 mei 2022, houdende toestemming als bedoeld in artikel 9, aanhef en onder c, van de Bankwet 1998 tot het verrichten van werkzaamheden in verband met de omwisseling van hryvnia voor Oekraïense ontheemden

@@ -9,7 +9,7 @@ laatste_update: 2022-11-17
 status: geldig
 toestand: 2022-11-17
 bron: "https://wetten.overheid.nl/BWBR0047477"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 9 november 2022 nr. BOACAT2022/078, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Koninklijke Marechaussee Recherche en Intelligence

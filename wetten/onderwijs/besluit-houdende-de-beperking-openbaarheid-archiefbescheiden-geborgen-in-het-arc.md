@@ -9,7 +9,7 @@ laatste_update: 2022-05-28
 status: geldig
 toestand: 2022-05-28
 bron: "https://wetten.overheid.nl/BWBR0046707"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 22 april 2022, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordiging in Zimbabwe, Ambassade Harare (1956) 1980–2013 (2014), Besluit Beperking Openbaarheid Ambassade Harare 1980–2013 (2014)

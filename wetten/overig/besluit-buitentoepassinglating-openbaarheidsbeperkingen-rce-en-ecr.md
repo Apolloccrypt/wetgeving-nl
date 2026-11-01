@@ -9,7 +9,7 @@ laatste_update: 2022-08-19
 status: geldig
 toestand: 2022-08-19
 bron: "https://wetten.overheid.nl/BWBR0047056"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 13 juli 2022, nr. 31980452, tot buitentoepassinglating van op archiefbescheiden rustende openbaarheidsbeperkingen als bedoeld in artikel 15, eerste lid, van de Archiefwet 1995, ten behoeve van de Rijksdienst voor het Cultureel Erfgoed en het Expertisecentrum Restitutie (Besluit buitentoepassinglating openbaarheidsbeperkingen RCE en ECR)

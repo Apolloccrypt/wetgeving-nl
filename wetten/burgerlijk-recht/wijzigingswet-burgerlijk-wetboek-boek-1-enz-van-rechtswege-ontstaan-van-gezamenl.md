@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0046778"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Wet van 7 juni 2022 tot wijziging van Boek 1 van het Burgerlijk Wetboek en de Wet basisregistratie personen in verband met het van rechtswege ontstaan van gezamenlijk gezag door erkenning

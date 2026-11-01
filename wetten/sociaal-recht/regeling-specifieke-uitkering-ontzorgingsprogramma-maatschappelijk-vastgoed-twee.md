@@ -9,7 +9,7 @@ laatste_update: 2024-10-01
 status: geldig
 toestand: 2024-10-01
 bron: "https://wetten.overheid.nl/BWBR0047108"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van Onze Minister voor Volkshuisvesting en Ruimtelijke Ordening van 5 september 2022, nr. 2022-0000033803, houdende regels met betrekking tot het verstrekken van een specifieke uitkering ten behoeve van het ontzorgen van kleine maatschappelijk vastgoedeigenaren bij de verduurzaming van de gebouwde onroerende zaken die zij in eigendom hebben, tweede tranche (Regeling specifieke uitkering ontzorgingsprogramma maatschappelijk vastgoed tweede tranche)

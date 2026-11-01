@@ -9,7 +9,7 @@ laatste_update: 2022-11-23
 status: geldig
 toestand: 2022-11-23
 bron: "https://wetten.overheid.nl/BWBR0047500"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister voor Armoedebeleid, Participatie en Pensioenen van 14 november 2022, 2022-0000226601, tot instelling van het monitoringcomité ESF+ 2021–2027

@@ -9,7 +9,7 @@ laatste_update: 2022-10-01
 status: geldig
 toestand: 2022-10-01
 bron: "https://wetten.overheid.nl/BWBR0046743"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Wet van 1 juni 2022, houdende Regels omtrent garanties van oorsprong voor energie uit hernieuwbare bronnen (Wet implementatie EU-richtlijn hernieuwbare energie voor garanties van oorsprong)

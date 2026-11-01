@@ -9,7 +9,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBR0046994"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap en de Minister voor Primair- en Voortgezet Onderwijs, van 18 juli 2022, nr. 33067320, tot intrekking van onderzoekskaders 2017 niet bekostigd primair onderwijs en voortgezet onderwijs onder vaststelling van beleidsregels houdende Onderzoekskaders 2022 niet bekostigd primair onderwijs en voortgezet onderwijs

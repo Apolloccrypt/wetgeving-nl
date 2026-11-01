@@ -9,7 +9,7 @@ laatste_update: 2022-11-23
 status: geldig
 toestand: 2022-11-23
 bron: "https://wetten.overheid.nl/BWBR0047501"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid d.d. 15 november 2022, kenmerk 2967416, houdende beperking van de openbaarheid op het archief Koninklijke Onderscheidingen van de afdeling Kabinetszaken 1958-1996 van het Ministerie van Justitie

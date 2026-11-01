@@ -8,7 +8,7 @@ laatste_update: 2022-09-22
 status: geldig
 toestand: 2022-09-22
 bron: "https://wetten.overheid.nl/BWBR0047169"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit beperking openbaarheid archief directie Algemene Fiscale Zaken

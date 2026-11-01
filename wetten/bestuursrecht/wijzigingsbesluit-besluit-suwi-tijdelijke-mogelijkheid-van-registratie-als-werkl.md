@@ -9,7 +9,7 @@ laatste_update: 2022-12-17
 status: geldig
 toestand: 2022-12-17
 bron: "https://wetten.overheid.nl/BWBR0046798"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van 22 juni 2022 tot wijziging van het Besluit SUWI in verband met de tijdelijke mogelijkheid van registratie als werkloze werkzoekende, gelet op het Uitvoeringsbesluit van de Raad tot vaststelling van het bestaan van een massale toestroom van ontheemden uit Oekraïne in de zin van artikel 5 van de Richtlijn 2001/55/EG van de Raad van 20 juli 2001, en tot invoering van tijdelijke bescherming naar aanleiding daarvan

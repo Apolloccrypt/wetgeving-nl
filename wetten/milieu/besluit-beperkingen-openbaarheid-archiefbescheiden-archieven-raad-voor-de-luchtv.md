@@ -8,7 +8,7 @@ laatste_update: 2022-10-15
 status: geldig
 toestand: 2022-10-15
 bron: "https://wetten.overheid.nl/BWBR0047278"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Besluit beperkingen openbaarheid archiefbescheiden archieven Raad voor de Luchtvaart en het Bureau Vooronderzoek Ongevallen en Incidenten van de Rijksluchtvaartdienst, 1924–1998 (2000), nummer toegang 2.16.107

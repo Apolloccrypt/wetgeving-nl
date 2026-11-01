@@ -9,7 +9,7 @@ laatste_update: 2022-05-25
 status: geldig
 toestand: 2022-05-25
 bron: "https://wetten.overheid.nl/BWBR0046706"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Statutenwijziging 2022 Stichting Fonds voor Cultuurparticipatie

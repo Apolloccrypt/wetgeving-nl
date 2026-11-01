@@ -9,7 +9,7 @@ laatste_update: 2022-05-19
 status: geldig
 toestand: 2022-05-19
 bron: "https://wetten.overheid.nl/BWBR0046677"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Beleidsregel van de Minister van Volksgezondheid, Welzijn en Sport van 10 mei 2022, 3357024-1028239-VGP, houdende het vaststellen van een actielimiet en een limietwaarde voor tetrodotoxine in levende tweekleppige weekdieren (Beleidsregel Warenwet TTX in levende tweekleppige weekdieren 2022)

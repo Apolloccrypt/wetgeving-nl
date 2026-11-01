@@ -9,7 +9,7 @@ laatste_update: 2024-04-18
 status: geldig
 toestand: 2024-04-18
 bron: "https://wetten.overheid.nl/BWBR0047505"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister voor Natuur en Stikstof van 22 november 2022, nr. WJZ/ 22514102, houdende specifieke uitkeringen aan provincies in verband met de regievoering ontwikkeling en ondersteuning van het Nationaal Programma Landelijk Gebied (Regeling specifieke uitkering voorbereidingskosten landelijk gebied, versnellingsvoorstellen en PAS-melders)

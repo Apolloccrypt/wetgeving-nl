@@ -8,7 +8,7 @@ laatste_update: 2022-11-09
 status: geldig
 toestand: 2022-11-09
 bron: "https://wetten.overheid.nl/BWBR0047435"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Besluit vervanging archiefbescheiden Sociaal-economische Raad 2022

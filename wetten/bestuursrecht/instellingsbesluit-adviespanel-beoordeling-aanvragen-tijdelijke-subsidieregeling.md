@@ -9,7 +9,7 @@ laatste_update: 2026-07-17
 status: geldig
 toestand: 2026-07-17
 bron: "https://wetten.overheid.nl/BWBR0046651"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 22 april 2022, 2022-0000079265, tot instelling van het Adviespanel beoordeling Tijdelijke subsidieregeling onderzoek en experimenten duurzame inzetbaarheidsinterventies (Instellingsbesluit Adviespanel beoordeling aanvragen Tijdelijke subsidieregeling onderzoek en experimenten duurzame inzetbaarheidsinterventies)

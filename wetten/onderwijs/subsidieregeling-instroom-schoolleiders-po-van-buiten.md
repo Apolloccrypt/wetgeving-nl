@@ -9,7 +9,7 @@ laatste_update: 2025-01-22
 status: geldig
 toestand: 2025-01-22
 bron: "https://wetten.overheid.nl/BWBR0047089"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 24 augustus 2022, nr. PO/32407496, houdende regels voor de subsidieverstrekking als tegemoetkoming in de opleidingskosten van instromende schoolleiders die de opleiding tot schoolleider gaan volgen (Subsidieregeling instroom schoolleiders po van buiten)

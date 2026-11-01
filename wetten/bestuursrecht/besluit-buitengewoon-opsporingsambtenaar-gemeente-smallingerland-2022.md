@@ -9,7 +9,7 @@ laatste_update: 2022-09-29
 status: geldig
 toestand: 2022-09-29
 bron: "https://wetten.overheid.nl/BWBR0047160"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 9 september nr. BOACAT2022/067, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Smallingerland

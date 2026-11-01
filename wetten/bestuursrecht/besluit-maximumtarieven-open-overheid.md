@@ -9,7 +9,7 @@ laatste_update: 2022-06-15
 status: geldig
 toestand: 2022-06-15
 bron: "https://wetten.overheid.nl/BWBR0046755"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van 1 juni 2022, houdende tarieven voor het vervaardigen van kopieën op verzoek op grond van de Wet open overheid (Besluit maximumtarieven open overheid)

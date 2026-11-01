@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0046821"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister voor Rechtsbescherming van 24 juni 2022, nr. 4040514, houdende het aanwijzen van functies die een hoge mate van integriteit vereisen en waarvoor de afgifte van een verklaring omtrent het gedrag kan worden geweigerd op basis van politiegegevens (Regeling aanwijzing functies VOG politiegegevens)

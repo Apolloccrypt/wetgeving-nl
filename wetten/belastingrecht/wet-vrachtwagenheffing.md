@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0047082"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Wet van 22 augustus 2022, houdende regels voor het in rekening brengen van een vrachtwagenheffing voor het rijden met een vrachtwagen op aangewezen wegvakken (Wet vrachtwagenheffing)

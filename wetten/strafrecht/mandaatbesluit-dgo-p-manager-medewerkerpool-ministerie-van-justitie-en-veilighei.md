@@ -9,7 +9,7 @@ laatste_update: 2022-10-11
 status: geldig
 toestand: 2022-10-11
 bron: "https://wetten.overheid.nl/BWBR0047257"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de programmadirecteur-generaal Ondermijning van het Ministerie van Justitie en Veiligheid van 4 oktober 2022, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan de P-Manager van het programmadirectoraat-generaal ondermijning

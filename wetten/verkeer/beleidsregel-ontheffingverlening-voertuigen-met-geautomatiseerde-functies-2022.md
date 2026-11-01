@@ -8,7 +8,7 @@ laatste_update: 2022-10-14
 status: geldig
 toestand: 2022-10-14
 bron: "https://wetten.overheid.nl/BWBR0047275"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Beleidsregel ontheffingverlening voertuigen met geautomatiseerde functies 2022

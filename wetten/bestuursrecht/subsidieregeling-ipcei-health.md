@@ -9,7 +9,7 @@ laatste_update: 2024-07-26
 status: geldig
 toestand: 2024-07-26
 bron: "https://wetten.overheid.nl/BWBR0046873"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister van Volksgezondheid Welzijn en Sport van 29 juni 2022, kenmerk 3389067-1031676-GMT, houdende regels voor de subsidiëring van activiteiten die binnen de reikwijdte van Important Projects of Common European Interest op het gebied van Health vallen (Subsidieregeling IPCEI Health)

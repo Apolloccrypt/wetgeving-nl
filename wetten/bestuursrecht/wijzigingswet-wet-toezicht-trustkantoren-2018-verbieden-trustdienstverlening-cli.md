@@ -9,7 +9,7 @@ laatste_update: 2022-07-16
 status: geldig
 toestand: 2022-07-16
 bron: "https://wetten.overheid.nl/BWBR0046918"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Wet van 13 juli 2022 tot wijziging van de Wet toezicht trustkantoren 2018 in verband met een spoedmaatregel om trustdienstverlening aan cliënten in de Russische Federatie of de Republiek Belarus te verbieden

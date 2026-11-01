@@ -9,7 +9,7 @@ laatste_update: 2022-09-05
 status: geldig
 toestand: 2022-09-05
 bron: "https://wetten.overheid.nl/BWBR0046980"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 13 juli 2022 nr. BOACAT2022/045, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Dordrecht

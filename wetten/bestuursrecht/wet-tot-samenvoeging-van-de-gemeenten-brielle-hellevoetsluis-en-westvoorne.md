@@ -9,7 +9,7 @@ laatste_update: 2022-09-15
 status: geldig
 toestand: 2022-09-15
 bron: "https://wetten.overheid.nl/BWBR0047020"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Wet van 14 juli 2022, houdende samenvoeging van de gemeenten Brielle, Hellevoetsluis en Westvoorne

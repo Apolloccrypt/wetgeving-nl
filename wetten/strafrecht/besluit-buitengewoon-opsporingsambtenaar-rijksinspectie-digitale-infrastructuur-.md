@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0047059"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 15 augustus 2022 nr. BOACAT2022/058, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Agentschap Telecom

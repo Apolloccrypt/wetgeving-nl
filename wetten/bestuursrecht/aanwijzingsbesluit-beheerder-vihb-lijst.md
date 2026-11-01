@@ -9,7 +9,7 @@ laatste_update: 2022-10-01
 status: geldig
 toestand: 2022-10-01
 bron: "https://wetten.overheid.nl/BWBR0047077"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Waterstaat, van 26 augustus 2022, nr. IENW/BSK-2022/170258, houdende aanwijzing van NIWO als beheerder van de lijst van inzamelaars, bedoeld in artikel 10.45, eerste lid, onderdeel a, van de Wet milieubeheer en van de lijst van vervoerders, handelaars en bemiddelaars, bedoeld in artikel 10.55, eerste lid, van de Wet milieubeheer (Aanwijzingsbesluit beheerder VIHB-lijst)

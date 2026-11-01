@@ -9,7 +9,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBR0046964"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap en de Minister voor Primair en Voortgezet Onderwijs, van 4 juli 2022, nr. VO/28164592, houdende regels omtrent informatievoorziening in het primair en voortgezet onderwijs en beroepsonderwijs in Bonaire, Sint Eustatius en Saba (Regeling informatievoorziening PO/VO/MBO BES)

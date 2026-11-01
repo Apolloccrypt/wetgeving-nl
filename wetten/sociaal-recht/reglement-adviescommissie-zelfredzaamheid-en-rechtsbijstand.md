@@ -9,7 +9,7 @@ laatste_update: 2022-11-25
 status: geldig
 toestand: 2022-11-25
 bron: "https://wetten.overheid.nl/BWBR0047508"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Besluit van het bestuur van de Raad voor Rechtsbijstand tot instelling van de Adviescommissie Zelfredzaamheid Rechtshulp en Rechtsbijstand en besluit tot vaststelling van het reglement van de Adviescommissie Zelfredzaamheid Rechtshulp en Rechtsbijstand

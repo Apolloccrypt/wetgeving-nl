@@ -9,7 +9,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBR0046776"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 14 juni 2022 nr. BOACAT2022/044, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Maassluis

@@ -9,7 +9,7 @@ laatste_update: 2026-04-01
 status: geldig
 toestand: 2026-04-01
 bron: "https://wetten.overheid.nl/BWBR0047245"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van het College voor toetsen en examens van 26 september 2022, nummer CvTE-22.00945, houdende vaststelling van de toetswijzer voor de doorstroomtoets in het primair onderwijs (Regeling toetswijzer doorstroomtoets PO)

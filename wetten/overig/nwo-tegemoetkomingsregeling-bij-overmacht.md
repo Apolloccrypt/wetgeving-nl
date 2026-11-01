@@ -8,7 +8,7 @@ laatste_update: 2022-10-12
 status: geldig
 toestand: 2022-10-12
 bron: "https://wetten.overheid.nl/BWBR0047272"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # NWO Tegemoetkomingsregeling bij overmacht

@@ -8,7 +8,7 @@ laatste_update: 2022-08-27
 status: geldig
 toestand: 2022-08-27
 bron: "https://wetten.overheid.nl/BWBR0047074"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Bestuursreglement Toelatingsorganisatie Kwaliteitsborging Bouw

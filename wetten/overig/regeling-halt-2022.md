@@ -9,7 +9,7 @@ laatste_update: 2022-10-19
 status: geldig
 toestand: 2022-10-19
 bron: "https://wetten.overheid.nl/BWBR0047314"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister voor Rechtsbescherming van 10 oktober 2022, nr. 4219202, houdende regels inzake de subsidiëring van Halt (Regeling Halt 2022)

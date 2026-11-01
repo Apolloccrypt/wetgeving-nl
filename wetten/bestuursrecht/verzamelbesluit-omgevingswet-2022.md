@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0046640"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van 26 april 2022, houdende wijzigingen van ondergeschikte betekenis in de algemene maatregelen van bestuur op het terrein van het wettelijke stelsel van de Omgevingswet (Verzamelbesluit Omgevingswet 2022)

@@ -9,7 +9,7 @@ laatste_update: 2022-11-12
 status: geldig
 toestand: 2022-11-12
 bron: "https://wetten.overheid.nl/BWBR0047447"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 31 oktober 2022, nr. O&B/25184593, houdende beperking aan de openbaarheid van het archief van het Rijksmuseum Slot Loevestein, 1946–1995

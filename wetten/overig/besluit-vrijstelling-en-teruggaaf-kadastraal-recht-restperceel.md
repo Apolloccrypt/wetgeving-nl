@@ -9,7 +9,7 @@ laatste_update: 2022-05-30
 status: geldig
 toestand: 2022-05-30
 bron: "https://wetten.overheid.nl/BWBR0046716"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van het bestuur van de Dienst voor het kadaster en de openbare registers tot vrijstelling en teruggaaf kadastraal recht meting restperceel (Besluit vrijstelling en teruggaaf kadastraal recht restperceel)

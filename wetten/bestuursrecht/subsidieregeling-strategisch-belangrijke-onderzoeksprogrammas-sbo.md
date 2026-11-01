@@ -9,7 +9,7 @@ laatste_update: 2025-07-18
 status: geldig
 toestand: 2025-07-18
 bron: "https://wetten.overheid.nl/BWBR0047415"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat van 28 oktober 2022, nr. WJZ/ 22086636, houdende regels voor het verstrekken van subsidies door het Ministerie van Economische Zaken en Klimaat aan strategisch belangrijke onderzoeksprogramma’s van onderzoeksinstituten (Subsidieregeling strategisch belangrijke onderzoeksprogramma’s (SBO))

@@ -8,7 +8,7 @@ laatste_update: 2022-07-07
 status: geldig
 toestand: 2022-07-07
 bron: "https://wetten.overheid.nl/BWBR0046860"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Beleidskader Penitentiair Programma, Overgangsrecht van het Gevangeniswezen

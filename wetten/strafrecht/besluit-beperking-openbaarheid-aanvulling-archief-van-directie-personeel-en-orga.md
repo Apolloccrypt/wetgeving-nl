@@ -9,7 +9,7 @@ laatste_update: 2022-09-14
 status: geldig
 toestand: 2022-09-14
 bron: "https://wetten.overheid.nl/BWBR0047137"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid d.d. 1 september 2022, kenmerk 3938693, houdende beperking van de openbaarheid van de aanvulling op het archief van Directie Personeel en Organisatie van het Ministerie van Justitie 1922–2000

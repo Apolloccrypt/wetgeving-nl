@@ -9,7 +9,7 @@ laatste_update: 2022-09-17
 status: geldig
 toestand: 2022-09-17
 bron: "https://wetten.overheid.nl/BWBR0047157"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Infrastructuur en Waterstaat van 5 september 2022, nr. 2022-0000348109, houdende nadere regels over de kwijtschelding van provinciale, gemeentelijke en waterschapsbelastingen (Regeling kwijtschelding belastingen medeoverheden)

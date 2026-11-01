@@ -9,7 +9,7 @@ laatste_update: 2022-11-01
 status: geldig
 toestand: 2022-11-01
 bron: "https://wetten.overheid.nl/BWBR0047407"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 21 oktober 2022, kenmerk 3452903-1038179-PZo, inzake de invoering van een prestatie voor algemene diensten of activiteiten ten behoeve van zorg voor Parkinsonpatiënten

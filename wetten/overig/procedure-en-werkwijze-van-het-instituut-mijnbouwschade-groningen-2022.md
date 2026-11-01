@@ -9,7 +9,7 @@ laatste_update: 2026-05-12
 status: geldig
 toestand: 2026-05-12
 bron: "https://wetten.overheid.nl/BWBR0046981"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Procedure en werkwijze van het Instituut Mijnbouwschade Groningen van 14 april 2022 tot de afhandeling van schade die is ontstaan door beweging van de bodem als gevolg van de aanleg of exploitatie van een mijnbouwwerk ten behoeve van het winnen van gas uit het Groningenveld of als gevolg van de gasopslag Norg (Procedure en werkwijze van het Instituut Mijnbouwschade Groningen 2022)

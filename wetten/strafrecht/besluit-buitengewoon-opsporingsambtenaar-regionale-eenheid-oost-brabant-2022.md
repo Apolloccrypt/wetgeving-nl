@@ -9,7 +9,7 @@ laatste_update: 2024-07-17
 status: geldig
 toestand: 2024-07-17
 bron: "https://wetten.overheid.nl/BWBR0047476"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 9 november 2022 nr. BOACAT2022/074, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Regionale eenheid Oost-Brabant

@@ -9,7 +9,7 @@ laatste_update: 2022-11-04
 status: geldig
 toestand: 2022-11-04
 bron: "https://wetten.overheid.nl/BWBR0047419"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Wet van 13 oktober 2022 tot wijziging van de Wet op het financieel toezicht, de Faillissementswet en enige andere wetten ter uitvoering van Verordening (EU) 2021/23 betreffende een kader voor het herstel en de afwikkeling van centrale tegenpartijen (Uitvoeringswet verordening herstel en afwikkeling centrale tegenpartijen)

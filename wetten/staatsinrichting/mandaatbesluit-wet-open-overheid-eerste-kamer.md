@@ -9,7 +9,7 @@ laatste_update: 2022-05-01
 status: geldig
 toestand: 2022-05-01
 bron: "https://wetten.overheid.nl/BWBR0046612"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Huishoudelijke Commissie en de Griffier van de Eerste Kamer der Staten- Generaal, houdende regels inzake het verlenen van mandaat en machtiging betreffende de uitvoering van de Wet open overheid (Mandaatbesluit Wet open overheid Eerste Kamer)

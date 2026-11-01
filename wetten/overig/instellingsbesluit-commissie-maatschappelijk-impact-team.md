@@ -9,7 +9,7 @@ laatste_update: 2022-09-01
 status: geldig
 toestand: 2022-09-01
 bron: "https://wetten.overheid.nl/BWBR0047087"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 24 augustus 2022, nr. 2022-0000173239, houdende de instelling van de Commissie Maatschappelijk Impact Team (Instellingsbesluit Commissie Maatschappelijk Impact Team)

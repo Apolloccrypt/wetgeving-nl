@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-06-30
 toestand: 2023-04-01
 bron: "https://wetten.overheid.nl/BWBR0046805"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 15 juni 2022, nr. 32713080, houdende regels voor subsidieverstrekking aan samenwerkingsverbanden voor het bereiken van niet-ingeschreven jongeren ten behoeve van de stimulering van hun ontwikkeling (Subsidieregeling Wel in Ontwikkeling)

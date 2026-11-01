@@ -9,7 +9,7 @@ laatste_update: 2022-07-19
 status: geldig
 toestand: 2022-07-19
 bron: "https://wetten.overheid.nl/BWBR0046935"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 12 juli 2022 kenmerk 2022-0000352542 (Besluit Sturing Digitale Overheid 2022), tot wijziging van het Instellingsbesluit Sturing Digitale Overheid in het kader van de introductie van een meerjarenprogrammering op de generieke digitale infrastructuur

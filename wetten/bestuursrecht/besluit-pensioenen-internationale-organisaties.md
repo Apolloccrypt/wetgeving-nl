@@ -8,7 +8,7 @@ laatste_update: 2022-08-24
 status: geldig
 toestand: 2022-08-24
 bron: "https://wetten.overheid.nl/BWBR0047063"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit pensioenen Internationale Organisaties

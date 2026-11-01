@@ -9,7 +9,7 @@ laatste_update: 2022-10-04
 status: geldig
 toestand: 2022-10-04
 bron: "https://wetten.overheid.nl/BWBR0047239"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Autoriteit Consument en Markt tot wijziging van het formulier en de bijlagen behorende bij het formulier voor aanvraag van een vergunning voor het leveren van elektriciteit en/of gas aan kleinverbruikers

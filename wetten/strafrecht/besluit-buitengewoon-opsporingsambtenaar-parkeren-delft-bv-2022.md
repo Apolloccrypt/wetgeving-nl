@@ -9,7 +9,7 @@ laatste_update: 2022-12-30
 status: geldig
 toestand: 2022-12-30
 bron: "https://wetten.overheid.nl/BWBR0047432"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 1 november 2022 nr. BOACAT2022/060, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Parkeren Delft B.V.

@@ -9,7 +9,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBR0046806"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 13 juni 2022, kenmerk 1030460-3378059-PZo, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake de vaststelling van integrale prestatiebeschrijvingen voor de geboortezorg

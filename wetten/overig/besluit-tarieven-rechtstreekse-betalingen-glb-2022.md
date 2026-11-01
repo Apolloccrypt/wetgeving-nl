@@ -9,7 +9,7 @@ laatste_update: 2022-12-01
 status: geldig
 toestand: 2022-12-01
 bron: "https://wetten.overheid.nl/BWBR0047320"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 11 oktober 2022, nr. WJZ/ 22489915, met betrekking tot de tarieven rechtstreekse betalingen GLB 2022

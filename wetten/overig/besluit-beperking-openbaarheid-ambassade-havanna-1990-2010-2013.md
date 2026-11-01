@@ -9,7 +9,7 @@ laatste_update: 2022-10-19
 status: geldig
 toestand: 2022-10-19
 bron: "https://wetten.overheid.nl/BWBR0047312"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 4 oktober 2022, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordiging in Cuba, Ambassade Havanna (1966) 1990-2010 (2013), Besluit Beperking Openbaarheid, Havanna 1990-2010 (2013)

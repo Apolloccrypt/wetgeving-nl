@@ -9,7 +9,7 @@ laatste_update: 2022-05-26
 status: geldig
 toestand: 2022-05-26
 bron: "https://wetten.overheid.nl/BWBR0046701"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit inzake de termijn van beperking van de openbaarheid van de naar de rijksarchiefbewaarplaatsen over te brengen dossiers in het archief van de diplomatieke vertegenwoordiging in Bangladesh (1971) 1975–2013 van het Ministerie van Buitenlandse Zaken

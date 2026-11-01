@@ -9,7 +9,7 @@ laatste_update: 2022-09-07
 status: geldig
 toestand: 2022-09-07
 bron: "https://wetten.overheid.nl/BWBR0047112"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 23 augustus 2022, nr. 4095996, houdende wijziging van de Regeling aanvullende arbeidsvoorwaarden luchtvaart politie in verband met de formalisering van een afspraak uit de Arbeidsvoorwaardenovereenkomst 2021 sector Politie

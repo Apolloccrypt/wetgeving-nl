@@ -9,7 +9,7 @@ laatste_update: 2022-11-12
 status: geldig
 toestand: 2022-11-12
 bron: "https://wetten.overheid.nl/BWBR0047453"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid d.d. 25 oktober 2022, kenmerk 3577266, houdende beperking van de openbaarheid op de geluidsbanden van de processen tegen P.N. Menten 1976–1980 toegang 2.09.133

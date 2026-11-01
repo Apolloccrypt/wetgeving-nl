@@ -9,7 +9,7 @@ laatste_update: 2023-05-15
 status: geldig
 toestand: 2023-05-15
 bron: "https://wetten.overheid.nl/BWBR0047309"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Wet van 5 oktober 2022 tot wijziging van de Wet basisregistratie personen in verband met de invoering van een centrale voorziening ter ondersteuning van de colleges van burgemeester en wethouders bij het onderzoek of een persoon als ingezetene in de basisregistratie personen op een adres in de gemeente dient te worden ingeschreven alsmede naar de juistheid van de gegevens betreffende het adres van een ingezetene in de basisregistratie personen

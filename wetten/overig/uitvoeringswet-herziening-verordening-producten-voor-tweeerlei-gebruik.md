@@ -9,7 +9,7 @@ laatste_update: 2022-07-07
 status: geldig
 toestand: 2022-07-07
 bron: "https://wetten.overheid.nl/BWBR0046855"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Wet van 22 juni 2022 tot wijziging van de Wet strategische diensten voor de uitvoering van de Verordening (EU) 2021/821 van het Europees Parlement en de Raad van 20 mei 2021 tot instelling van een EU-regeling voor controle op de uitvoer, de overbrenging, de tussenhandel, de technische bijstand en de doorvoer van producten voor tweeërlei gebruik (herschikking) (PbEU 2021, L 206) (Uitvoeringswet herziening Verordening producten voor tweeërlei gebruik)

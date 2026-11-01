@@ -9,7 +9,7 @@ laatste_update: 2022-06-24
 status: geldig
 toestand: 2022-06-24
 bron: "https://wetten.overheid.nl/BWBR0046787"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Beleidsregel van de Minister van Economische Zaken en Klimaat en de Minister voor Klimaat en Energie van 21 juni 2022 nr. WJZ/22228374 tot vaststelling van het beleid tot afwikkeling van aanvragen tot ontheffing van het verbod van artikel 5 duodecies Verordening (EU) nr. 833/2014 van de Raad van 31 juli 2014 betreffende beperkende maatregelen naar aanleiding van acties van Rusland die de situatie in Oekraïne destabiliseren (Beleidsregel ontheffingen Minister van EZK en Minister voor KE verbod artikel 5 duodecies Verordening (EU) nr. 833/2014)

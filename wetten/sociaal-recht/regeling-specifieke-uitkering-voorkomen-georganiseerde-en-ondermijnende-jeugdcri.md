@@ -9,7 +9,7 @@ laatste_update: 2022-09-14
 status: geldig
 toestand: 2022-09-14
 bron: "https://wetten.overheid.nl/BWBR0047146"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 30 augustus 2022, nr 4165922, houdende regels met betrekking tot het verstrekken van een specifieke uitkering tegen ondermijnende jeugdcriminaliteit (Regeling specifieke uitkering voorkomen georganiseerde en ondermijnende jeugdcriminaliteit 2022)

@@ -9,7 +9,7 @@ laatste_update: 2022-10-01
 status: geldig
 toestand: 2022-10-01
 bron: "https://wetten.overheid.nl/BWBR0047217"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 22 september 2022, nr. IENW/BSK-2022/203259, houdende vaststelling van regels voor de beveiliging van treinen die door de Kanaaltunnel rijden (Regeling beveiliging treinen Kanaaltunnel)

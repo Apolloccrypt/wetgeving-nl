@@ -9,7 +9,7 @@ laatste_update: 2022-07-01
 status: geldig
 toestand: 2022-07-01
 bron: "https://wetten.overheid.nl/BWBR0046828"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister voor Klimaat en Energie van 21 juni 2022, nr. WJZ/ 22087356, houdende beleidsregel inzake de wijziging van de vergunningen windenergie op zee voor de kavels VI en VII Hollandse Kust (west) (Beleidsregel wijziging van de vergunningen windenergie op zee voor kavels VI en VII Hollandse Kust (west))

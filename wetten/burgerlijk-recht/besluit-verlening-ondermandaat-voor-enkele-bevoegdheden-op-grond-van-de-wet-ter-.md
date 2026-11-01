@@ -9,7 +9,7 @@ laatste_update: 2022-06-03
 status: geldig
 toestand: 2022-06-03
 bron: "https://wetten.overheid.nl/BWBR0046727"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Inspecteur-Generaal Leefomgeving en Transport, van 2 mei 2022, nr. ILT-2022/24160, houdende verlening van ondermandaat voor enkele bevoegdheden op grond van de Wet ter Bescherming Koopvaardij

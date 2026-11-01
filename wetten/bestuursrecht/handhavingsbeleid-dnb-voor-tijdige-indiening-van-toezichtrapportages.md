@@ -9,7 +9,7 @@ laatste_update: 2026-02-13
 status: geldig
 toestand: 2026-02-13
 bron: "https://wetten.overheid.nl/BWBR0046616"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Beleidsregel van de Nederlandsche Bank N.V. van 30 maart 2022 houdende regels met betrekking tot de tijdige indiening van toezichtrapportages

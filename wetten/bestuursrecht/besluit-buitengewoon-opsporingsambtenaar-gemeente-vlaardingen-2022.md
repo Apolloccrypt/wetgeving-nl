@@ -9,7 +9,7 @@ laatste_update: 2022-10-29
 status: geldig
 toestand: 2022-10-29
 bron: "https://wetten.overheid.nl/BWBR0047379"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 21 oktober 2022 nr. BOACAT2022/073, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Vlaardingen

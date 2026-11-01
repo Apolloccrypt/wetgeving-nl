@@ -9,7 +9,7 @@ laatste_update: 2022-08-24
 status: geldig
 toestand: 2022-08-24
 bron: "https://wetten.overheid.nl/BWBR0047064"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat van 22 augustus 2022, nr. IENW/BSK-2022/164528, tot wijziging van de Regeling basisveiligheidsnormen stralingsbescherming in verband met de splitsing van de opleidingseisen voor de toezichthoudend medewerker stralingsbescherming meet- en regeltoepassingen

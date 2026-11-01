@@ -9,7 +9,7 @@ laatste_update: 2024-07-03
 status: geldig
 toestand: 2024-07-03
 bron: "https://wetten.overheid.nl/BWBR0047319"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 11 oktober 2022 nr. BOACAT2022/070, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Westland

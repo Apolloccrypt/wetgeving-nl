@@ -9,7 +9,7 @@ laatste_update: 2022-09-30
 status: geldig
 toestand: 2022-09-30
 bron: "https://wetten.overheid.nl/BWBR0047206"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 22 september 2022, nummer 4202695, houdende verlening van mandaat, volmacht en machtiging aan de directeur Dienstverlening, Samenwerkingsverbanden en Uitvoering van het Ministerie van Sociale Zaken en Werkgelegenheid (Mandaatbesluit Europese fondsen DGM 2022)

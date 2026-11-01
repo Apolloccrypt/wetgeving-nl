@@ -9,7 +9,7 @@ laatste_update: 2022-10-15
 status: geldig
 toestand: 2022-10-15
 bron: "https://wetten.overheid.nl/BWBR0047298"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 4 oktober 2022, nr. WJZ/32371149, houdende wijziging van het Organisatie- en mandaatbesluit OCW 2008 in verband met een wijziging in de bekendmaking van algemene ondermandaten en de inwerkingtreding van de Wet open overheid

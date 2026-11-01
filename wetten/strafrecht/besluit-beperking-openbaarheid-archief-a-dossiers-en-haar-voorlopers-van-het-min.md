@@ -9,7 +9,7 @@ laatste_update: 2022-09-21
 status: geldig
 toestand: 2022-09-21
 bron: "https://wetten.overheid.nl/BWBR0047165"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid d.d. 14 juli 2022, kenmerk 2702133 houdende beperking van de openbaarheid van het archief van de A-dossiers en haar voorlopers van het Ministerie van Justitie, (1923) 1948–1987 (2005)

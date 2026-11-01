@@ -9,7 +9,7 @@ laatste_update: 2025-12-25
 status: geldig
 toestand: 2025-12-25
 bron: "https://wetten.overheid.nl/BWBR0047095"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Autoriteit Consument en Markt van 18 augustus 2022, tot aanwijzing van toezichthouders van de Autoriteit Consument en Markt (Besluit aanwijzing toezichthouders ACM 2022)

@@ -8,7 +8,7 @@ laatste_update: 2022-07-14
 status: geldig
 toestand: 2022-07-14
 bron: "https://wetten.overheid.nl/BWBR0046909"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Omzetbelasting, teruggaaf van omzetbelasting bij kortingen in verband met de tijdelijke toepassing verlaagd btw-tarief voor energie

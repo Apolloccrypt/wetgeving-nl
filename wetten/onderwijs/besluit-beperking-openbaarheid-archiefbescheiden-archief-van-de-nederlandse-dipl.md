@@ -9,7 +9,7 @@ laatste_update: 2022-05-28
 status: geldig
 toestand: 2022-05-28
 bron: "https://wetten.overheid.nl/BWBR0046713"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 20 april 2022, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordiging in Noorwegen, Ambassade Oslo (1963)1975-2013, Besluit Beperking Openbaarheid, Oslo (1975–2013)

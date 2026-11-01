@@ -9,7 +9,7 @@ laatste_update: 2022-10-01
 status: geldig
 toestand: 2022-10-01
 bron: "https://wetten.overheid.nl/BWBR0046999"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Wet van 22 juni 2022 tot wijziging van het Wetboek van Strafvordering ter bevordering van innovatie van verschillende onderwerpen in het kader van de modernisering van het Wetboek van Strafvordering (Innovatiewet Strafvordering)

@@ -8,7 +8,7 @@ laatste_update: 2022-11-16
 status: geldig
 toestand: 2022-11-16
 bron: "https://wetten.overheid.nl/BWBR0047456"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Besluit beperkingen openbaarheid archiefbescheiden collectie archieven Strijdkrachten in Nederlands-Indië (2.13.132) en archieven Nederlandse Ambassade in België en Luxemburg (2.05.43)

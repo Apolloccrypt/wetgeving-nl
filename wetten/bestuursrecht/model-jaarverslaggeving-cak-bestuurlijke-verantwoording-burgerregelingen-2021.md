@@ -8,7 +8,7 @@ laatste_update: 2022-06-28
 status: geldig
 toestand: 2022-06-28
 bron: "https://wetten.overheid.nl/BWBR0046809"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Model Jaarverslaggeving CAK bestuurlijke verantwoording burgerregelingen 2021

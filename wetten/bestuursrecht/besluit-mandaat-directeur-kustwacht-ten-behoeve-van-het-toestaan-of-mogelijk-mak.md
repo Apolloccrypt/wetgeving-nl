@@ -9,7 +9,7 @@ laatste_update: 2022-05-06
 status: geldig
 toestand: 2022-05-06
 bron: "https://wetten.overheid.nl/BWBR0046635"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 25 april 2022, kenmerk 3804037 houdende verlening van mandaat aan de directeur Kustwacht voor het verlenen van toestemming aan scheepsbeheerders ten behoeve van het verrichten, toe te staan of mogelijk te maken van gewapende maritieme beveiligingswerkzaamheden

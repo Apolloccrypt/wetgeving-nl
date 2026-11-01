@@ -9,7 +9,7 @@ laatste_update: 2022-11-10
 status: geldig
 toestand: 2022-11-10
 bron: "https://wetten.overheid.nl/BWBR0047442"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 1 november 2022 nr. BOACAT2022/075, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij het Korps Militaire Controleurs Gevaarlijke Stoffen van de Koninklijke Marechaussee

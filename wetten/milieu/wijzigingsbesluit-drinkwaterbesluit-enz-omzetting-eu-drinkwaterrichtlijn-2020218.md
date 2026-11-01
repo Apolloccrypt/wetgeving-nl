@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0047493"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Besluit van 8 november 2022 tot wijziging van het Drinkwaterbesluit, het Besluit kwaliteit leefomgeving en enkele andere algemene maatregelen van bestuur in verband met de omzetting van EU-Drinkwaterrichtlijn 2020/2184 (herschikking)

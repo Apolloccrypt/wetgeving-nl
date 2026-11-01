@@ -9,7 +9,7 @@ laatste_update: 2022-07-27
 status: geldig
 toestand: 2022-07-27
 bron: "https://wetten.overheid.nl/BWBR0046971"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Waterstaat, van 20 juli 2022, nr. IENW/BSK-2022/167347, houdende vaststelling van het subsidieplafond op grond van de Subsidieregeling VeiligheidNL voor het jaar 2022

@@ -9,7 +9,7 @@ laatste_update: 2023-04-01
 status: geldig
 toestand: 2023-04-01
 bron: "https://wetten.overheid.nl/BWBR0047451"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Wet van 13 oktober 2022, houdende wijziging van de Gemeentewet, Provinciewet, Waterschapswet, Wet openbare lichamen Bonaire, Sint Eustatius en Saba en enige andere wetten in verband met het bevorderen van de bestuurlijke integriteit en de aanpak van aanhoudende bestuurlijke problemen in het decentraal bestuur (Wet bevorderen integriteit en functioneren decentraal bestuur)

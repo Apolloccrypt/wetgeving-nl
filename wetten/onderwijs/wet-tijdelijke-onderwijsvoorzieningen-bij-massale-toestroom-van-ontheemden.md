@@ -9,7 +9,7 @@ laatste_update: 2024-08-01
 status: geldig
 toestand: 2024-08-01
 bron: "https://wetten.overheid.nl/BWBR0046911"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Wet van 6 juli 2022 tot wijziging van de Wet op het primair onderwijs, Wet op het voortgezet onderwijs en Wet voortgezet onderwijs 2020 in verband met de inrichting van tijdelijke onderwijsvoorzieningen als gevolg van de massale toestroom van ontheemden als bedoeld in de Richtlijn 2001/55/EG van de Raad van 20 juli 2001 betreffende minimumnormen voor het verlenen van tijdelijke bescherming in geval van massale toestroom van ontheemden en maatregelen ter bevordering van een evenwicht tussen de inspanning van de lidstaten voor de opvang en het dragen van de consequenties van de opvang van deze personen (PbEU 2001, L212) (Wet tijdelijke onderwijsvoorzieningen bij massale toestroom van ontheemden)

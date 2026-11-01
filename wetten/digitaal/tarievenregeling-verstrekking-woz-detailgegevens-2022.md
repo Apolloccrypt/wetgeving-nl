@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0046703"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van het bestuur van de Dienst voor het kadaster en de openbare registers tot vaststellen van de tarieven voor verstrekking WOZ-detailgegevens 2022

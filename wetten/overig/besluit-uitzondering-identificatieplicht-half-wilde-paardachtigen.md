@@ -9,7 +9,7 @@ laatste_update: 2025-10-09
 status: geldig
 toestand: 2025-10-09
 bron: "https://wetten.overheid.nl/BWBR0046920"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 11 juli 2022, nr. WJZ/ 22233441, houdende aanwijzing van terreinen met populaties van half wilde paardachtigen die zijn uitgezonderd van de identificatieplicht (Besluit uitzondering identificatieplicht half wilde paardachtigen)

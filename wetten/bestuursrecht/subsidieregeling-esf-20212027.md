@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0046622"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister voor Armoedebeleid, Participatie en Pensioenen Van 22 april 2022, nr. 2022-0000100140, houdende regels over de besteding van financiële middelen uit het Europees Sociaal Fonds Subsidieregeling ESF+ 2021–2027)

@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0047507"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister voor Klimaat en Energie van 21 november 2022, nr. WJZ/ 22484211, tot openstelling van de Subsidieregeling coöperatieve energieopwekking 2023

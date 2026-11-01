@@ -9,7 +9,7 @@ laatste_update: 2024-12-19
 status: geldig
 toestand: 2024-12-19
 bron: "https://wetten.overheid.nl/BWBR0047361"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister voor Rechtsbescherming van 17 oktober, nr. 4218030 houdende regels met betrekking tot de vrijstelling van griffierechten voor gedupeerde ouders herstelregelingen kinderopvangtoeslag in procedures in verband met het herstel van gezag (Regeling vrijstelling griffierechten voor gedupeerde ouders herstelregelingen kinderopvangtoeslag)

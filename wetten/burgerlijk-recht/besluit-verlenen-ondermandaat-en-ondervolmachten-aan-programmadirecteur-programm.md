@@ -9,7 +9,7 @@ laatste_update: 2022-10-05
 status: geldig
 toestand: 2022-10-05
 bron: "https://wetten.overheid.nl/BWBR0047248"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Secretaris-Generaal van het Ministerie van Volksgezondheid, Welzijn en Sport van 27 september 2022, kenmerk 3441170-1035589-OBP, houdende het verlenen van ondermandaat en ondervolmachten aan de programmadirecteur van het programma Begeleiding verkoop Intravacc

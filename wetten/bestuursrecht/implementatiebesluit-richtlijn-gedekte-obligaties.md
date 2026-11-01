@@ -9,7 +9,7 @@ laatste_update: 2022-07-08
 status: geldig
 toestand: 2022-07-08
 bron: "https://wetten.overheid.nl/BWBR0046752"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van 24 mei 2022 tot wijziging van het Besluit prudentiële regels Wft in verband met de implementatie van de richtlijn betreffende de uitgifte van gedekte obligaties en het overheidstoezicht op gedekte obligaties (Implementatiebesluit richtlijn gedekte obligaties)

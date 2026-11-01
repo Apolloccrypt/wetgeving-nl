@@ -9,7 +9,7 @@ laatste_update: 2022-06-22
 status: geldig
 toestand: 2022-06-22
 bron: "https://wetten.overheid.nl/BWBR0046771"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap en de Minister voor Primair en Voortgezet Onderwijs van 17 juni 2022, nr. WJZ/32667555, houdende de verlenging van het experiment educatieve module

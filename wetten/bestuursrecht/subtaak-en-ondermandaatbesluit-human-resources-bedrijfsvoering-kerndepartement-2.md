@@ -8,7 +8,7 @@ laatste_update: 2022-11-04
 status: geldig
 toestand: 2022-11-04
 bron: "https://wetten.overheid.nl/BWBR0047424"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Subtaak- en ondermandaatbesluit Human Resources & Bedrijfsvoering (Kerndepartement) 2022

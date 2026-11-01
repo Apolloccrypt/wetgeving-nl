@@ -9,7 +9,7 @@ laatste_update: 2022-09-09
 status: geldig
 toestand: 2022-09-09
 bron: "https://wetten.overheid.nl/BWBR0047123"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister Primair en Voortgezet Onderwijs van 31 augustus 2022, nr. PO/33528646, houdende regels voor de subsidieverstrekking voor expertisedeling ten behoeve van onderwijs aan nieuwkomersleerlingen (Subsidieregeling expertisedeling onderwijs nieuwkomersleerlingen)

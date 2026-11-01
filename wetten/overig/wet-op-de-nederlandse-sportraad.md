@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0047303"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Wet van 28 september 2022, houdende regels omtrent de instelling van de Nederlandse Sportraad (Wet op de Nederlandse Sportraad)

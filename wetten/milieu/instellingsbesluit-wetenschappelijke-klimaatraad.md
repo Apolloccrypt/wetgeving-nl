@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-07-13
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0047416"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Besluit van 29 oktober 2022 tot instelling van de Wetenschappelijke Klimaatraad

@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0047134"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van 5 september 2022, houdende uitvoering van de artikelen 570, tweede lid, en 575, van het Wetboek van Strafvordering (Besluit innovatie strafvordering)

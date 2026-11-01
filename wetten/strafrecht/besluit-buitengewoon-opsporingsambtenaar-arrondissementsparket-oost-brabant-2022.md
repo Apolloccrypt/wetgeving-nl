@@ -9,7 +9,7 @@ laatste_update: 2026-01-08
 status: geldig
 toestand: 2026-01-08
 bron: "https://wetten.overheid.nl/BWBR0047148"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 6 september 2022 nr. BOACAT2022/064, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij het arrondissementsparket Oost-Brabant

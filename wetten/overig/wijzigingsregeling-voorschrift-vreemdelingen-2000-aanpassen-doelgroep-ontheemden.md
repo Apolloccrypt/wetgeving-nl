@@ -9,7 +9,7 @@ laatste_update: 2023-03-04
 status: geldig
 toestand: 2023-03-04
 bron: "https://wetten.overheid.nl/BWBR0047070"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Staatssecretaris van Justitie en Veiligheid van 17 augustus 2022, nummer 4123685, houdende wijziging van het Voorschrift Vreemdelingen 2000 in verband met het aanpassen van de doelgroep ontheemden uit Oekraïne, waaraan tijdelijke bescherming wordt verleend (honderdnegenenzeventigste wijziging)

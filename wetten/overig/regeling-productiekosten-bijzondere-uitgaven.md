@@ -8,7 +8,7 @@ laatste_update: 2022-10-04
 status: geldig
 toestand: 2022-10-04
 bron: "https://wetten.overheid.nl/BWBR0047158"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling productiekosten bijzondere uitgaven

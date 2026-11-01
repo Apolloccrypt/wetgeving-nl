@@ -8,7 +8,7 @@ laatste_update: 2022-07-02
 status: geldig
 toestand: 2022-07-02
 bron: "https://wetten.overheid.nl/BWBR0046838"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit winstallocatie vaste inrichtingen 2022

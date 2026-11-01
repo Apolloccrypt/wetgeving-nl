@@ -9,7 +9,7 @@ laatste_update: 2023-10-04
 status: geldig
 toestand: 2023-10-04
 bron: "https://wetten.overheid.nl/BWBR0047337"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 30 september 2022, nr. PO/F&V/34027106, houdende regels voor de bekostiging van het primair onderwijs in Caribisch Nederland voor het jaar 2023 (Regeling bekostiging WPO BES 2023)

@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0047473"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Besluit van 8 november 2022, houdende voorschriften voor een experiment op het terrein van onderwijszorgarrangementen, met het oog op verbetering van de toegankelijkheid van het onderwijs (Besluit experiment onderwijszorgarrangementen)

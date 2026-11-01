@@ -9,7 +9,7 @@ laatste_update: 2023-02-09
 status: geldig
 toestand: 2023-02-09
 bron: "https://wetten.overheid.nl/BWBR0047455"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister voor Volkshuisvesting en Ruimtelijke Ordening van 10 november 2022, nr. 2022-0000598384, houdende vaststelling van regels voor het verstrekken van een eenmalige specifieke uitkering aan medeoverheden ter stimulering van het realiseren van flex- en transformatiewoningen (stimuleringsregeling flex- en transformatiewoningen)

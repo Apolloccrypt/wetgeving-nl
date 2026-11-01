@@ -9,7 +9,7 @@ laatste_update: 2022-08-26
 status: geldig
 toestand: 2022-08-26
 bron: "https://wetten.overheid.nl/BWBR0047069"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat van 17 augustus 2022 nr. IENW/BSK-2020/105070, tot het verlenen van volmacht en machtiging aan functionarissen van het Ministerie van Buitenlandse Zaken in verband met bevoegdheden ten aanzien van attachés en lokale werknemers van het Ministerie van Infrastructuur en Waterstaat (Besluit volmacht en machtiging attachés en lokale werknemers Infrastructuur en Waterstaat)

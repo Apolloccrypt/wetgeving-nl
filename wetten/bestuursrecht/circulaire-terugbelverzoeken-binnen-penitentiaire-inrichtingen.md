@@ -9,7 +9,7 @@ laatste_update: 2022-10-01
 status: geldig
 toestand: 2022-10-01
 bron: "https://wetten.overheid.nl/BWBR0047216"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Circulaire Terugbelverzoeken binnen penitentiaire inrichtingen, Dienst Justitiële Inrichtingen

@@ -9,7 +9,7 @@ laatste_update: 2022-07-28
 status: geldig
 toestand: 2022-07-28
 bron: "https://wetten.overheid.nl/BWBR0046975"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 15 juli 2022, nr. 3898490 tot geheimverklaring van het gehele productieproces van vreemdelingendocumenten

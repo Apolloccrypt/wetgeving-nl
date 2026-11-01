@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0046871"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Wet van 1 juli 2022 tot wijziging van enkele belastingwetten (Wet aanvullende fiscale koopkrachtmaatregelen 2022)

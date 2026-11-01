@@ -9,7 +9,7 @@ laatste_update: 2022-09-01
 status: geldig
 toestand: 2022-09-01
 bron: "https://wetten.overheid.nl/BWBR0046914"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister voor Volkshuisvesting en Ruimtelijke Ordening van 4 juli 2022, nr. 2021-0000346891, tot openstelling en vaststelling uitkeringsplafond aanvraagtijdvak van de vierde tranche van de Woningbouwimpuls

@@ -9,7 +9,7 @@ laatste_update: 2022-11-24
 status: geldig
 toestand: 2022-11-24
 bron: "https://wetten.overheid.nl/BWBR0047503"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister voor Natuur en Stikstof van 22 november 2022, nr. WJZ/ 22543722, houdende regels voor het verstrekken van specifieke uitkeringen in verband met de realisatie van provinciale versnellingsvoorstellen voor de gebiedsgerichte aanpak voor natuur, inclusief stikstof, water en klimaat (Regeling specifieke uitkering provinciale versnellingsvoorstellen transitie landelijk gebied)

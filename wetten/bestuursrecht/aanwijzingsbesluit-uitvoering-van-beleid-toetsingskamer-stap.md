@@ -9,7 +9,7 @@ laatste_update: 2022-07-20
 status: geldig
 toestand: 2022-07-20
 bron: "https://wetten.overheid.nl/BWBR0046945"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 11 juli 2022, nr. 2022-0000132132, houdende de aanwijzing van ambtenaren van Uitvoering Van Beleid (Toetsingskamer STAP)

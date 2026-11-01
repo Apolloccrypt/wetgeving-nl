@@ -9,7 +9,7 @@ laatste_update: 2022-06-18
 status: geldig
 toestand: 2022-06-18
 bron: "https://wetten.overheid.nl/BWBR0046766"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van 8 juni 2022 tot wijziging van het Besluit tarieven in strafzaken 2003 in verband met de jaarlijkse indexering van de vergoedingen voor psychiaters en psychologen

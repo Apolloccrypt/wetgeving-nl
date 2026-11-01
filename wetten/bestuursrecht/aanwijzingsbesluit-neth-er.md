@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0047103"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 22 augustus 2022, nr. 33731300, houdende de aanwijzing van een rechtspersoon als bedoeld in artikel 3b, eerste lid, van de Wet subsidiëring landelijke onderwijsondersteunende activiteiten 2013 (Aanwijzingsbesluit Neth-ER)

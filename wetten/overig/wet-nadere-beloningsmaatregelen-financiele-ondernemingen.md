@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0046753"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Wet van 25 mei 2022 tot wijziging van de Wet op het financieel toezicht houdende nadere regels met betrekking tot het beloningsbeleid van financiële ondernemingen (Wet nadere beloningsmaatregelen financiële ondernemingen)

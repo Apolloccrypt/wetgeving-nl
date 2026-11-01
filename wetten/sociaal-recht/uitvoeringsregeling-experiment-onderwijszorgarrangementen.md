@@ -9,7 +9,7 @@ laatste_update: 2024-10-04
 status: geldig
 toestand: 2024-10-04
 bron: "https://wetten.overheid.nl/BWBR0047485"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 4 november 2022, nr. 34393937, houdende uitvoering van het Besluit experiment onderwijszorgarrangementen (Uitvoeringsregeling experiment onderwijszorgarrangementen)

@@ -9,7 +9,7 @@ laatste_update: 2024-06-20
 status: geldig
 toestand: 2024-06-20
 bron: "https://wetten.overheid.nl/BWBR0047219"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 13 juli 2022, nr. 4094455, houdende instelling van de monitoringscommissie voor de Landelijke Eenheid (Instellingsbesluit monitoringscommissie voor de Landelijke Eenheid)

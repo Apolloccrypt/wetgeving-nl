@@ -9,7 +9,7 @@ laatste_update: 2022-09-19
 status: geldig
 toestand: 2022-09-19
 bron: "https://wetten.overheid.nl/BWBR0047147"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister voor Natuur en Stikstof van 9 september 2022, nr. WJZ/22306358, tot instelling van de Ecologische Autoriteit (Instellingsbesluit Ecologische Autoriteit)

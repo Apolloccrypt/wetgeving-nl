@@ -9,7 +9,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBR0046840"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Wet van 22 juni 2022, houdende tijdelijke regels inzake instelling van een Nationaal Groeifonds (Tijdelijke wet Nationaal Groeifonds)

@@ -9,7 +9,7 @@ laatste_update: 2022-07-01
 status: geldig
 toestand: 2022-07-01
 bron: "https://wetten.overheid.nl/BWBR0046671"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van 22 april 2022 tot wijziging van het Besluit inhoud bestuursverslag in verband met de tijdelijke verplichting voor grote vennootschappen om in het bestuursverslag te rapporteren over de man-vrouwverhouding in de top en subtop en over de streefcijfers

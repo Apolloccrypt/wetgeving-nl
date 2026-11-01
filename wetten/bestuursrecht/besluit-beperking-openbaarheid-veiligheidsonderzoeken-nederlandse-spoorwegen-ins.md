@@ -8,7 +8,7 @@ laatste_update: 2022-06-02
 status: geldig
 toestand: 2022-06-02
 bron: "https://wetten.overheid.nl/BWBR0046720"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit beperking openbaarheid Veiligheidsonderzoeken Nederlandse Spoorwegen, Inspectie Leefomgeving en Transport

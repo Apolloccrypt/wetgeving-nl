@@ -9,7 +9,7 @@ laatste_update: 2022-10-01
 status: geldig
 toestand: 2022-10-01
 bron: "https://wetten.overheid.nl/BWBR0046986"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Beleidsregel van de Staatssecretaris van Economische Zaken en Klimaat van 6 juli 2022, nr. DGKE-PDG/ 22285713, betreffende de vergoeding van meerkosten van aardbevingsbestendig bouwen in Groningen 2022

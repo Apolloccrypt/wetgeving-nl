@@ -9,7 +9,7 @@ laatste_update: 2022-05-04
 status: geldig
 toestand: 2022-05-04
 bron: "https://wetten.overheid.nl/BWBR0046623"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 2 mei 2022, nr. IENW/BSK-2022/80275, tot wijziging van de Regeling melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen in verband met een technische aanpassing voor melding handelsregisternummer;

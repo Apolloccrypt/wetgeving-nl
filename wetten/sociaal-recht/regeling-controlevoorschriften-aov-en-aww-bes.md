@@ -9,7 +9,7 @@ laatste_update: 2022-10-12
 status: geldig
 toestand: 2022-10-12
 bron: "https://wetten.overheid.nl/BWBR0047265"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister voor Armoedebeleid, Participatie en Pensioenen van 3 oktober 2022, nr. 2022-0000197282, tot vaststelling van controlevoorschriften voor de uitvoering van de volksverzekeringen in Caribisch Nederland (Regeling controlevoorschriften AOV en AWW BES)

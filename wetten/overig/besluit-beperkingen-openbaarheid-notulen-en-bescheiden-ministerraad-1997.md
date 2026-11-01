@@ -8,7 +8,7 @@ laatste_update: 2022-10-27
 status: geldig
 toestand: 2022-10-27
 bron: "https://wetten.overheid.nl/BWBR0047373"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Besluit beperkingen openbaarheid notulen en bescheiden ministerraad 1997

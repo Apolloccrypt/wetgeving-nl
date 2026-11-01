@@ -9,7 +9,7 @@ laatste_update: 2022-07-16
 status: geldig
 toestand: 2022-07-16
 bron: "https://wetten.overheid.nl/BWBR0046883"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Tijdelijke regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 5 juli 2022, nr. WJZ/ 22086088, tot vaststelling van voorschriften inzake het op de markt aanbieden van EU-bemestingsproducten

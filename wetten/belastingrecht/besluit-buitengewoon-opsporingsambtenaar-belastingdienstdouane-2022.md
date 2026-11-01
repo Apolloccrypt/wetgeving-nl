@@ -9,7 +9,7 @@ laatste_update: 2022-12-01
 status: geldig
 toestand: 2022-12-01
 bron: "https://wetten.overheid.nl/BWBR0047325"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 11 oktober 2022 nr. BOACAT2022/065, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Belastingdienst/Douane

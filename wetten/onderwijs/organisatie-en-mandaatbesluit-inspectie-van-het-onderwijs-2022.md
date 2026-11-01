@@ -9,7 +9,7 @@ laatste_update: 2022-10-05
 status: geldig
 toestand: 2022-10-05
 bron: "https://wetten.overheid.nl/BWBR0047242"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de inspecteur-generaal van het onderwijs van 11 juli 2022, nr. IvhO/2022/33553859, houdende vaststelling van de organisatie van en de mandaatbevoegdheden binnen de Inspectie van het Onderwijs (Organisatie- en mandaatbesluit Inspectie van het Onderwijs 2022)

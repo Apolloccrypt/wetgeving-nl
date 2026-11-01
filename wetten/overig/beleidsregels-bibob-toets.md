@@ -9,7 +9,7 @@ laatste_update: 2022-10-03
 status: geldig
 toestand: 2022-10-03
 bron: "https://wetten.overheid.nl/BWBR0047221"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Beleidsregels van de raad van bestuur van de Kansspelautoriteit inzake toepassing van de Wet Bibob bij exploitatievergunningen (Beleidsregels Bibob-toets)

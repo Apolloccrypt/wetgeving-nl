@@ -9,7 +9,7 @@ laatste_update: 2022-09-21
 status: geldig
 toestand: 2022-09-21
 bron: "https://wetten.overheid.nl/BWBR0047164"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid d.d. 6 september 2022, kenmerk 2701704, houdende beperking van de openbaarheid van de aanvulling op het archief van het Ministerie van Justitie: Directoraat-Generaal van Politie, (1937) 1940-1946 (1948)

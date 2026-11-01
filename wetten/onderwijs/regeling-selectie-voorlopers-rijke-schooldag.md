@@ -9,7 +9,7 @@ laatste_update: 2022-05-04
 status: geldig
 toestand: 2022-05-04
 bron: "https://wetten.overheid.nl/BWBR0046620"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 29 april 2022, nr 32542757, houdende regels voor de selectie van voorlopers voor het programma Rijke Schooldag (Regeling selectie voorlopers Rijke Schooldag)

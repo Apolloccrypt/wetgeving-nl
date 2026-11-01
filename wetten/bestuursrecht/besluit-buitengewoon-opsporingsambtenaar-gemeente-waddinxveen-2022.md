@@ -9,7 +9,7 @@ laatste_update: 2024-11-06
 status: geldig
 toestand: 2024-11-06
 bron: "https://wetten.overheid.nl/BWBR0047307"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 10 oktober 2022 nr. BOACAT2022/068, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Waddinxveen

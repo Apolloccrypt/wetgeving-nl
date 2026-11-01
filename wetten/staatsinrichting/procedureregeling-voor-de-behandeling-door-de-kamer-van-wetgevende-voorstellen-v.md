@@ -8,7 +8,7 @@ laatste_update: 2010-02-11
 status: geldig
 toestand: 2010-02-11
 bron: "https://wetten.overheid.nl/BWBR0046760"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Procedureregeling voor de behandeling door de Kamer van wetgevende voorstellen van de Europese Unie in het kader van het parlementair behandelvoorbehoud en in het kader van de toetsing op aspecten van Europese rechtsgrondslag, subsidiariteit en proportionaliteit

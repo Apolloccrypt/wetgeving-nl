@@ -9,7 +9,7 @@ laatste_update: 2022-11-09
 status: geldig
 toestand: 2022-11-09
 bron: "https://wetten.overheid.nl/BWBR0047441"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Besluit van 29 oktober 2022, houdende instelling van de De Ruytermedaille (Besluit De Ruytermedaille)

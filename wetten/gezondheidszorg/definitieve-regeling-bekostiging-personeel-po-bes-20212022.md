@@ -9,7 +9,7 @@ laatste_update: 2022-08-31
 status: geldig
 toestand: 2022-08-31
 bron: "https://wetten.overheid.nl/BWBR0047083"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 12 augustus 2022, nr. PO/F&V/33528282, houdende regels voor de bekostiging personeel primair onderwijs in Caribisch Nederland voor het schooljaar 2021–2022 (Definitieve Regeling bekostiging personeel PO BES 2021–2022)

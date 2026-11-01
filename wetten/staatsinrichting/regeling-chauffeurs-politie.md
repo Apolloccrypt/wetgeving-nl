@@ -9,7 +9,7 @@ laatste_update: 2025-04-01
 status: geldig
 toestand: 2025-04-01
 bron: "https://wetten.overheid.nl/BWBR0047262"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 20 september 2022, houdende de vaststelling van enkele rechtspositionele bepalingen ten aanzien van ambtenaren in de sector Politie die werkzaam zijn als chauffeur (Regeling chauffeurs politie)

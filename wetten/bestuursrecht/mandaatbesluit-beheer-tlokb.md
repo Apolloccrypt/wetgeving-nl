@@ -9,7 +9,7 @@ laatste_update: 2022-05-24
 status: geldig
 toestand: 2022-05-24
 bron: "https://wetten.overheid.nl/BWBR0046690"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister voor Volkshuisvesting en Ruimtelijke Ordening van 18 mei 2022, nr. 2022-0000161014, houdende verlening van mandaat, volmacht en machtiging aan de toelatingsorganisatie kwaliteitsborging bouw (Mandaatbesluit beheer TloKB)

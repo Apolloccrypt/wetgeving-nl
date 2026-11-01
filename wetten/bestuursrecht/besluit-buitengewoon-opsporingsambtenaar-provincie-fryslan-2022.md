@@ -9,7 +9,7 @@ laatste_update: 2022-09-12
 status: geldig
 toestand: 2022-09-12
 bron: "https://wetten.overheid.nl/BWBR0047143"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 7 september 2022 nr. BOACAT2022/062, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Provincie Fryslân

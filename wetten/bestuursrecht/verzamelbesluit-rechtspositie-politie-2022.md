@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0047156"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van 1 september 2022 tot wijziging van onder meer het Besluit algemene rechtspositie politie en Besluit bezoldiging politie in verband met de formalisering van afspraken uit de Arbeidsvoorwaardenovereenkomst sector Politie 2021 en ontwikkelingen in de uitvoeringspraktijk alsmede enkele technische wijzigingen (Verzamelbesluit rechtspositie politie 2022)

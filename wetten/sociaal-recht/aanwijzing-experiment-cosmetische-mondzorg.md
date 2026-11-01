@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0047486"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 9 november 2022, kenmerk 3458392-1038667-PZO op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake een bekostigingsexperiment in de cosmetische mondzorg

@@ -9,7 +9,7 @@ laatste_update: 2022-10-26
 status: geldig
 toestand: 2022-10-26
 bron: "https://wetten.overheid.nl/BWBR0047362"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 17 oktober 2022, nr. 23457860, houdende het stellen van beperkingen aan de openbaarheid van het archief van het Rijksmuseum Boerhaave, 1927–1994

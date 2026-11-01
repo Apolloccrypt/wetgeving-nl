@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0047243"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 27 september 2022, kenmerk 3432838-1034796-CZ houdende aanwijzing van de Stichting Regionale Ambulancevoorziening Limburg voor de regio’s Limburg-Noord en Limburg-Zuid als de Regionale Ambulancevoorziening, bedoeld in artikel 4 van de Wet ambulancezorgvoorzieningen

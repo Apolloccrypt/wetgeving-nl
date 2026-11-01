@@ -9,7 +9,7 @@ laatste_update: 2022-11-22
 status: geldig
 toestand: 2022-11-22
 bron: "https://wetten.overheid.nl/BWBR0047499"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat van 16 november 2022, nr. DGED-DE / 22526727, tot gedeeltelijke verlengbaarheid van de vergunning voor Public Access Mobile Radio in de 450 – 470 MHz-band (Besluit gedeeltelijke verlengbaarheid PAMR-vergunning 2022)

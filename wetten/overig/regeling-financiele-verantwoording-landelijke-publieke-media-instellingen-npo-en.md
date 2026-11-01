@@ -9,7 +9,7 @@ laatste_update: 2026-07-15
 status: geldig
 toestand: 2026-07-15
 bron: "https://wetten.overheid.nl/BWBR0046601"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 19 april 2022, nr. WJZ/30984886 (13746), houdende vaststelling van een nieuw financieel handboek voor de landelijke publieke media-instellingen, de NPO en de Ster (Regeling financiële verantwoording landelijke publieke media-instellingen, NPO en Ster 2022)

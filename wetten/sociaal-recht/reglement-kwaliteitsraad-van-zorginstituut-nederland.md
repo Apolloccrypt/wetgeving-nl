@@ -8,7 +8,7 @@ laatste_update: 2022-11-12
 status: geldig
 toestand: 2022-11-12
 bron: "https://wetten.overheid.nl/BWBR0047443"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Reglement Kwaliteitsraad van Zorginstituut Nederland

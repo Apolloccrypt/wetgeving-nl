@@ -9,7 +9,7 @@ laatste_update: 2022-09-01
 status: geldig
 toestand: 2022-09-01
 bron: "https://wetten.overheid.nl/BWBR0046963"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 13 juli 2022 nr. BOACAT2022/050, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Leidschendam-Voorburg

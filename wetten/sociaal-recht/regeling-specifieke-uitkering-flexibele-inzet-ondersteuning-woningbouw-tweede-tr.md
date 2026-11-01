@@ -9,7 +9,7 @@ laatste_update: 2023-07-06
 status: geldig
 toestand: 2023-07-06
 bron: "https://wetten.overheid.nl/BWBR0046948"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister voor Volkshuisvesting en Ruimtelijke Ordening van 11 juli 2022, nr. 2022-0000353424, houdende regels met betrekking tot het verstrekken van een specifieke uitkering ten behoeve van de financiering van capaciteitsondersteuning voor het voorkomen van vertragingen in de voorfase van de woningbouw (Regeling specifieke uitkering flexibele inzet ondersteuning woningbouw (tweede tranche))

@@ -9,7 +9,7 @@ laatste_update: 2024-07-01
 status: geldig
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0046775"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Wet van 25 mei 2022 tot wijziging van de Jeugdwet en de Wet maatschappelijke ondersteuning 2015 teneinde de uitvoeringslasten bij het aanbesteden van diensten als bedoeld in die wetten te verlichten, alsmede grondslagen op te nemen voor het stellen van regels die bij de inkoop of subsidiëring van die diensten in acht worden genomen (Wet maatschappelijk verantwoord inkopen Jeugdwet en Wmo 2015)

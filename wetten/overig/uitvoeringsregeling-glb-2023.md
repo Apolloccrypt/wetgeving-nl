@@ -9,7 +9,7 @@ laatste_update: 2026-07-11
 status: geldig
 toestand: 2026-07-11
 bron: "https://wetten.overheid.nl/BWBR0047444"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 1 november 2022, nr. WJZ/22031065, houdende de uitvoering van het gemeenschappelijk landbouwbeleid voor wat betreft de rechtstreekse betalingen en de conditionaliteiten (Uitvoeringsregeling GLB 2023)

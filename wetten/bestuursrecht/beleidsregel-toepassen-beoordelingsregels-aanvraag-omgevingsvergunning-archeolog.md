@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0047270"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 23 september 2022, nr. RCE/33974968, tot vaststelling van beleidsregels inzake het toepassen van beoordelingsregels bij een aanvraag om een omgevingsvergunning voor een archeologische rijksmonumentenactiviteit (Beleidsregel toepassen beoordelingsregels aanvraag omgevingsvergunning archeologische rijksmonumentenactiviteit)

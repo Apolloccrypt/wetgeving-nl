@@ -9,7 +9,7 @@ laatste_update: 2022-07-12
 status: geldig
 toestand: 2022-07-12
 bron: "https://wetten.overheid.nl/BWBR0046885"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Beleidsregel van de Minister voor Klimaat en Energie van 28 juni 2022, nr. WJZ/ 21315315, tot vaststelling van regels over de toets passende stimulering en de cumulatietoets in het kader van het Besluit duurzame energieproductie en klimaattransitie (Beleidsregel toets passende stimulering en cumulatietoets onder het Besluit duurzame energieproductie en klimaattransitie)

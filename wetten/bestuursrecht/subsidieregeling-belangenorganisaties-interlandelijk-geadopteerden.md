@@ -9,7 +9,7 @@ laatste_update: 2022-10-20
 status: geldig
 toestand: 2022-10-20
 bron: "https://wetten.overheid.nl/BWBR0047326"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister voor Rechtsbescherming van 11 oktober 2022, nr. 4225136, houdende regels over het verstrekken van subsidies aan belangenorganisaties voor interlandelijk geadopteerden (Subsidieregeling belangenorganisaties interlandelijk geadopteerden)

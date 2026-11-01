@@ -9,7 +9,7 @@ laatste_update: 2024-07-17
 status: geldig
 toestand: 2024-07-17
 bron: "https://wetten.overheid.nl/BWBR0047045"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 2 augustus 2022 nr. BOACAT2022/054, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij regionale eenheid Noord-Holland, Team Buitengerechtelijke Afdoening

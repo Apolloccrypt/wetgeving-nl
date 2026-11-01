@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0047429"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Wet van 28 september 2022, houdende wijziging van de Gemeentewet, de Provinciewet en de Comptabiliteitswet 2016 in verband met het afschaffen van de decentrale rekenkamerfunctie en het uitbreiden van de bevoegdheden van de rekenkamers (Wet versterking decentrale rekenkamers)

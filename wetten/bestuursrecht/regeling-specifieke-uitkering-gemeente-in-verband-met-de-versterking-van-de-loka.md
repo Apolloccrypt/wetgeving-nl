@@ -9,7 +9,7 @@ laatste_update: 2022-07-24
 status: geldig
 toestand: 2022-07-24
 bron: "https://wetten.overheid.nl/BWBR0046954"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 11 juli 2022, nr. 4098572, houdende een specifieke uitkering voor gemeenten in verband met de versterking van de lokale integrale aanpak van radicalisering, extremisme en terrorisme in 2023 – 2026

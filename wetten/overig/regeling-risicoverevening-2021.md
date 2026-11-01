@@ -9,7 +9,7 @@ laatste_update: 2022-07-02
 status: geldig
 toestand: 2022-07-02
 bron: "https://wetten.overheid.nl/BWBR0046846"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 23 juni 2022, kenmerk 3383966-1031067-Z, houdende bepalingen omtrent de in de Zorgverzekeringswet bedoelde vereveningsbijdrage voor het jaar 2021 (Regeling risicoverevening 2021)

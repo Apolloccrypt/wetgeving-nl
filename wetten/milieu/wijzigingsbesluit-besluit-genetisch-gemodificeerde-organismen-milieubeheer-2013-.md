@@ -9,7 +9,7 @@ laatste_update: 2024-05-18
 status: geldig
 toestand: 2024-05-18
 bron: "https://wetten.overheid.nl/BWBR0047365"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Besluit van 20 oktober 2022 tot wijziging van het Besluit genetisch gemodificeerde organismen milieubeheer 2013 (uitvoering verordeningen (EU) 2019/1381 en (EU) 2020/1043)

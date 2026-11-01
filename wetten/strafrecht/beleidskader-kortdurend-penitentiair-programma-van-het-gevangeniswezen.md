@@ -8,7 +8,7 @@ laatste_update: 2022-07-07
 status: geldig
 toestand: 2022-07-07
 bron: "https://wetten.overheid.nl/BWBR0046863"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Beleidskader Kortdurend Penitentiair Programma van het Gevangeniswezen

@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0046826"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Wet van 15 juni 2022 tot wijziging van de Wet subsidiëring landelijke onderwijsondersteunende activiteiten 2013 in verband met de toebedeling van wettelijke taken op het gebied van internationalisering binnen het onderwijs (Wet wettelijke taken internationalisering onderwijs)

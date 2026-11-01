@@ -9,7 +9,7 @@ laatste_update: 2026-05-30
 status: geldig
 toestand: 2026-05-30
 bron: "https://wetten.overheid.nl/BWBR0046773"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 13 juni 2022, kenmerk Min-BuZa.2022.11939-7, tot heroprichting van de lnterdepartementale Raad voor de Handelspolitiek

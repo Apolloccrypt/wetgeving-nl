@@ -9,7 +9,7 @@ laatste_update: 2022-06-01
 status: geldig
 toestand: 2022-06-01
 bron: "https://wetten.overheid.nl/BWBR0046600"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Waterstaat, van 19 april 2022, nr. IENW/BSK-2022/41066, in overeenstemming met de Staatssecretaris van Financiën en na overleg met de Minister voor Klimaat en Energie tot vaststelling van de wijze waarop de steun als percentage van het projectvermogen wordt berekend in het kader van de Regeling groenprojecten 2022 (Beleidsregel berekening steunpercentage Regeling groenprojecten 2022)

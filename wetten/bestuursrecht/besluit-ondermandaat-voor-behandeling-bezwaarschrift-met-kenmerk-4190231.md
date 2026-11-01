@@ -9,7 +9,7 @@ laatste_update: 2022-10-19
 status: geldig
 toestand: 2022-10-19
 bron: "https://wetten.overheid.nl/BWBR0047313"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de algemeen directeur van het Nederlands Forensisch Instituut (NFI) van het Ministerie van Justitie en Veiligheid van 10 oktober 2022 met kenmerk 22-DIR-122, houdende verlening van ondermandaat aan het Sectorhoofd Juridische Zaken en Wetgevingsbeleid van de Directie Wetgeving en Juridische Zaken van het Ministerie van Justitie en Veiligheid (Besluit ondermandaat voor behandeling bezwaarschrift met kenmerk 4190231)

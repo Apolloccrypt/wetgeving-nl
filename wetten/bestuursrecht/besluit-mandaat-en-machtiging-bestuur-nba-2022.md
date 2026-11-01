@@ -9,7 +9,7 @@ laatste_update: 2022-12-13
 status: geldig
 toestand: 2022-12-13
 bron: "https://wetten.overheid.nl/BWBR0047311"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Besluit van 4 oktober 2022 van het bestuur van de Nederlandse beroepsorganisatie van accountants houdende regels inzake mandaat en machtiging (Besluit mandaat en machtiging bestuur NBA 2022)

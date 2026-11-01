@@ -9,7 +9,7 @@ laatste_update: 2022-10-01
 status: geldig
 toestand: 2022-10-01
 bron: "https://wetten.overheid.nl/BWBR0047205"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 23 september 2022, nr. 2022-0000193208, tot het aanwijzen van groepen volledig en duurzaam arbeidsongeschikten waarop de artikelen 52, tweede lid, van de Wet WIA en 2:46a, eerste lid, van de Wajong tijdelijk niet van toepassing zijn

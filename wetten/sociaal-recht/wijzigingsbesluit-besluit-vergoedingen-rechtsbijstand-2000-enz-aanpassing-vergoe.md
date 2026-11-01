@@ -9,7 +9,7 @@ laatste_update: 2022-09-01
 status: geldig
 toestand: 2022-09-01
 bron: "https://wetten.overheid.nl/BWBR0046991"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van 7 juli 2022 tot wijziging van het Besluit vergoedingen rechtsbijstand 2000, het Besluit toevoeging mediation en het Vreemdelingenbesluit 2000 in verband met aanpassing van de vergoedingen van rechtsbijstandverleners en mediators

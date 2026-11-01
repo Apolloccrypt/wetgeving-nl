@@ -9,7 +9,7 @@ laatste_update: 2022-09-07
 status: geldig
 toestand: 2022-09-07
 bron: "https://wetten.overheid.nl/BWBR0047109"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 15 augustus 2022, nr. 723586, houdende beperking van de openbaarheid van het archief van Directoraat-generaal Cultuur en Media van het Ministerie van Onderwijs, Cultuur en Wetenschap over de periode (1945) 1965 – 2008

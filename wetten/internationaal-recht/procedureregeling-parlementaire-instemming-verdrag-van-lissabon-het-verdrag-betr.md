@@ -8,7 +8,7 @@ laatste_update: 2021-12-09
 status: geldig
 toestand: 2021-12-09
 bron: "https://wetten.overheid.nl/BWBR0046759"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Procedureregeling parlementaire instemming Verdrag van Lissabon (het Verdrag betreffende de werking van de Europese Unie)

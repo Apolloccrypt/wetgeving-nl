@@ -9,7 +9,7 @@ laatste_update: 2022-09-01
 status: geldig
 toestand: 2022-09-01
 bron: "https://wetten.overheid.nl/BWBR0046870"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 27 juni 2022, kenmerk 3381555-1030850-PZO, inzake wijzigingen beschikbaarheidbijdrage academische zorg met betrekking tot wetenschap en compartimenten

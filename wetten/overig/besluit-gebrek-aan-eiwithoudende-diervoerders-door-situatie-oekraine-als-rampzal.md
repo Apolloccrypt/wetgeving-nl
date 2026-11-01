@@ -9,7 +9,7 @@ laatste_update: 2022-11-05
 status: geldig
 toestand: 2022-11-05
 bron: "https://wetten.overheid.nl/BWBR0047426"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 2 november 2022, nr. WJZ/ 22225091, tot erkenning van het gebrek aan eiwithoudende diervoerders door de situatie in Oekraïne als rampzalige omstandigheid voor de biologische productie

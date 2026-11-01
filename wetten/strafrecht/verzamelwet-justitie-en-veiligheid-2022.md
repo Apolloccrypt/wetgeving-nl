@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0047122"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Wet van 22 augustus 2022 tot wijziging van enkele wetten op het gebied van Justitie en Veiligheid in verband met aanpassingen van overwegend technische aard (Verzamelwet Justitie en Veiligheid 2022)

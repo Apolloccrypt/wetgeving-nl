@@ -9,7 +9,7 @@ laatste_update: 2022-09-27
 status: geldig
 toestand: 2022-09-27
 bron: "https://wetten.overheid.nl/BWBR0047183"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit vervanging van archiefbescheiden Kansspelautoriteit 2022

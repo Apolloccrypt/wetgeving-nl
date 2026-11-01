@@ -9,7 +9,7 @@ laatste_update: 2022-09-21
 status: geldig
 toestand: 2022-09-21
 bron: "https://wetten.overheid.nl/BWBR0047163"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid d.d. 1 september 2022, kenmerk 2988943, houdende beperking van de openbaarheid van de aanvulling van de archieven van het Ministerie van Justitie: Verbaalarchief, (1853) 1915–1955 (1963); Kabinetsarchief, (1907) 1915–1940

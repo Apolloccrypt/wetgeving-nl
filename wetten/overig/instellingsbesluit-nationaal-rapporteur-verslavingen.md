@@ -9,7 +9,7 @@ laatste_update: 2022-12-01
 status: geldig
 toestand: 2022-12-01
 bron: "https://wetten.overheid.nl/BWBR0047491"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 11 november 2022, kenmerk 3456138-1038442-VGP houdende instelling van en regels voor de taakuitoefening van de Nationaal Rapporteur Verslavingen (Instellingsbesluit Nationaal Rapporteur Verslavingen)

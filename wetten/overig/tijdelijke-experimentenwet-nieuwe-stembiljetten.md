@@ -9,7 +9,7 @@ laatste_update: 2025-02-12
 status: geldig
 toestand: 2025-02-12
 bron: "https://wetten.overheid.nl/BWBR0047212"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Wet van 1 juni 2022, houdende tijdelijke regels voor experimenten met nieuwe stembiljetten (Tijdelijke experimentenwet nieuwe stembiljetten)

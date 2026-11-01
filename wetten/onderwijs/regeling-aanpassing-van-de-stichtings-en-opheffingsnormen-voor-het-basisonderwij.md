@@ -9,7 +9,7 @@ laatste_update: 2023-08-01
 status: geldig
 toestand: 2023-08-01
 bron: "https://wetten.overheid.nl/BWBR0047394"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs, van 16 oktober 2022, nr. POR/202206/000049, houdende aanpassing van de stichtings- en opheffingsnormen voor het basisonderwijs in 2023 (Regeling aanpassing van de stichtings- en opheffingsnormen voor het basisonderwijs in 2023)

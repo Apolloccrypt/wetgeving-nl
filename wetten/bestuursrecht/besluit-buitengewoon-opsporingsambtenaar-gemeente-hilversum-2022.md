@@ -9,7 +9,7 @@ laatste_update: 2025-10-15
 status: geldig
 toestand: 2025-10-15
 bron: "https://wetten.overheid.nl/BWBR0047067"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 18 augustus 2022 nr. BOACAT2022/055, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Hilversum

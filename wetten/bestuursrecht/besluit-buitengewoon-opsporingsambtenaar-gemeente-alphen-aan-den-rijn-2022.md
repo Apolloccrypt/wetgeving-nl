@@ -9,7 +9,7 @@ laatste_update: 2022-06-13
 status: geldig
 toestand: 2022-06-13
 bron: "https://wetten.overheid.nl/BWBR0046741"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 31 mei 2022 nr. BOACAT2022/041, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Alphen aan den Rijn

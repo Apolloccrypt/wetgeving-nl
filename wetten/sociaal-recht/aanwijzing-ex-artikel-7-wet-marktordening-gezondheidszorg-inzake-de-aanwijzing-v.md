@@ -9,7 +9,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBR0046807"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Aanwijzing van de Minister voor Langdurige Zorg en Sport van 18 mei 2022, 3366568-1028982-PZo, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake de aanwijzing voor het verschijnen ter zitting en zorg tijdens onvrijwillige opname op grond van de Wet Zorg en Dwang

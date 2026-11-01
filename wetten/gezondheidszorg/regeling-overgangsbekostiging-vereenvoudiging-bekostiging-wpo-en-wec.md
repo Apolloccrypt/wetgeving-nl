@@ -9,7 +9,7 @@ laatste_update: 2025-06-27
 status: geldig
 toestand: 2025-06-27
 bron: "https://wetten.overheid.nl/BWBR0047334"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 30 september 2022, nr. PO/FenV/34026576, houdende vaststelling van de bedragen voor de bepaling van de overgangsregeling herverdeeleffect bekostiging primair onderwijs (Regeling overgangsbekostiging vereenvoudiging bekostiging WPO en WEC)

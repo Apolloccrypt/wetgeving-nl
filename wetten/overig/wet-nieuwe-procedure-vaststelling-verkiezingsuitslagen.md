@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0047041"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Wet van 15 juni 2022 tot wijziging van de Kieswet in verband met de aanpassing van de procedure voor de vaststelling van verkiezingsuitslagen alsmede regeling van enkele andere onderwerpen in die wet, de Waterschapswet, de Mediawet 2008 en de Mediawet BES (Wet nieuwe procedure vaststelling verkiezingsuitslagen)

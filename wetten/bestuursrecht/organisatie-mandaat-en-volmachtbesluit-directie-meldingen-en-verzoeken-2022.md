@@ -9,7 +9,7 @@ laatste_update: 2025-04-11
 status: geldig
 toestand: 2025-04-11
 bron: "https://wetten.overheid.nl/BWBR0046803"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 13 juni 2022, 2022-0000004981, houdende de inrichting van de directie Meldingen en Verzoeken, alsmede de toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan de onder de directeur ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit directie Meldingen en Verzoeken 2022)

@@ -9,7 +9,7 @@ laatste_update: 2026-03-01
 status: geldig
 toestand: 2026-03-01
 bron: "https://wetten.overheid.nl/BWBR0047315"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 21 september 2022, nummer Min-BuZa.2022.12383-30 tot aanwijzing van posten bevoegd tot het in ontvangst nemen van aanvragen voor reisdocumenten en identiteitskaarten

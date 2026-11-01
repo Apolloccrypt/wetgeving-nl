@@ -9,7 +9,7 @@ laatste_update: 2023-07-01
 status: geldig
 toestand: 2023-07-01
 bron: "https://wetten.overheid.nl/BWBR0046712"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Wet van 11 mei 2022, houdende wijziging van de Wet op het financieel toezicht, de Wet bekostiging financieel toezicht 2019 en enige andere wetten op het terrein van de financiële markten (Wijzigingswet financiële markten 2022)

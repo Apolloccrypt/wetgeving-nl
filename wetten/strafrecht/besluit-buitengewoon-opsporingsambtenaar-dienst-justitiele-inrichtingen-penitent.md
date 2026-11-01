@@ -9,7 +9,7 @@ laatste_update: 2022-07-20
 status: geldig
 toestand: 2022-07-20
 bron: "https://wetten.overheid.nl/BWBR0046946"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 12 juli 2022, nr. BOACAT2022/046, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Dienst Justitiële Inrichtingen, Penitentiaire Inrichting Middelburg

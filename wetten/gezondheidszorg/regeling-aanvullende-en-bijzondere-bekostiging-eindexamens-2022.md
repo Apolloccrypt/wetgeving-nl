@@ -9,7 +9,7 @@ laatste_update: 2023-03-16
 status: geldig
 toestand: 2023-03-16
 bron: "https://wetten.overheid.nl/BWBR0046950"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap en de Minister voor Primair en Voortgezet Onderwijs van 1 juli 2022, nr. VO/33196495, houdende regels voor de verstrekking van aanvullende en bijzondere bekostiging als tegemoetkoming voor scholen in het voortgezet onderwijs, het voortgezet speciaal onderwijs en vavo-instellingen voor de organisatie en uitvoering van de maatregelen voor het eindexamen 2022 (Regeling aanvullende en bijzondere bekostiging eindexamens 2022)

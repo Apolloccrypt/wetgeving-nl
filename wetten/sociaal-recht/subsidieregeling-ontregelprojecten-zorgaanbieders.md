@@ -9,7 +9,7 @@ laatste_update: 2023-03-01
 status: geldig
 toestand: 2023-03-01
 bron: "https://wetten.overheid.nl/BWBR0046984"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister voor Langdurige Zorg en Sport van 12 juli 2022, kenmerk 3355048-1028024-PZO houdende regels voor de subsidiëring van [ont]regelprojecten bij zorgaanbieders (Subsidieregeling [ont]regelprojecten zorgaanbieders)

@@ -9,7 +9,7 @@ laatste_update: 2022-07-21
 status: geldig
 toestand: 2022-07-21
 bron: "https://wetten.overheid.nl/BWBR0046949"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 5 juli 2022, nr. 4067181, houdende regels met betrekking tot meetmiddelen waarvoor voor gebruik ervan een verklaring vereist is (Regeling meetmiddelen politie 2022)

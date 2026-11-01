@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0047390"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 21 oktober 2022, houdende regels omtrent de oprichting en inrichting van een kiescollege voor de Eerste Kamer voor Nederlanders die geen ingezetenen zijn alsmede wijziging van de Kiesregeling ten behoeve van de verkiezing van de leden van het kiescollege voor Nederlanders die geen ingezetenen zijn en de verkiezing van de leden van de Eerste Kamer door de leden van dit kiescollege (Regeling kiescollege niet-ingezetenen)

@@ -8,7 +8,7 @@ laatste_update: 2022-11-19
 status: geldig
 toestand: 2022-11-19
 bron: "https://wetten.overheid.nl/BWBR0047487"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Huishoudelijk reglement van het Nederlands Fonds voor de Film

@@ -9,7 +9,7 @@ laatste_update: 2022-07-27
 status: geldig
 toestand: 2022-07-27
 bron: "https://wetten.overheid.nl/BWBR0046970"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister van Financiën van 11 juli 2022, houdende regels voor periodiek evaluatieonderzoek 2022 (Regeling periodiek evaluatieonderzoek 2022)

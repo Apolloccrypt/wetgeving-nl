@@ -8,7 +8,7 @@ laatste_update: 2022-09-24
 status: geldig
 toestand: 2022-09-24
 bron: "https://wetten.overheid.nl/BWBR0047176"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Loonheffingen, inkomstenbelasting, winst, vervoer; reiskostenvergoedingen, reizen per auto en openbaar vervoer

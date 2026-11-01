@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0047331"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-01
 ---
 
 # Besluit van 10 oktober 2022, houdende regels omtrent de oprichting en inrichting van een kiescollege voor de Eerste Kamer voor Nederlanders die geen ingezetenen zijn alsmede wijziging van het Kiesbesluit ten behoeve van de verkiezing van de leden van het kiescollege voor Nederlanders die geen ingezetenen zijn en de verkiezing van de leden van de Eerste Kamer door de leden van dit kiescollege (Besluit kiescollege niet-ingezetenen)

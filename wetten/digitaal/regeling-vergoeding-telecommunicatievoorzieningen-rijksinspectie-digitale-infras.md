@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0046654"
-opgehaald: 2026-09-02
+opgehaald: 2026-11-01
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat van 9 mei 2022, nr. WJZ/ 22084591, houdende Regels omtrent de vergoeding voor de kosten van de bemoeiing met betrekking tot de in artikel 31 van de Wet telecommunicatievoorzieningen BES genoemde werkzaamheden en diensten (Regeling vergoeding telecommunicatievoorzieningen Agentschap Telecom BES 2022)
