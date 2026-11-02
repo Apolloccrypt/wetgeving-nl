@@ -9,7 +9,7 @@ laatste_update: 2026-10-24
 status: geldig
 toestand: 2026-10-24
 bron: "https://wetten.overheid.nl/BWBR0053238"
-opgehaald: 2026-11-01
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 15 oktober 2026, nr. 2026-0000144926, tot subsidiëring van scholing via praktijkleren in de loopbaanbegeleidende leerweg 2026 [KetenID WGK027925]

@@ -6,10 +6,11 @@ categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
 publicatiedatum: 2021-11-02
 laatste_update: 2021-11-02
-status: geldig
+status: vervallen
+vervallen_op: 2026-11-01
 toestand: 2021-11-02
 bron: "https://wetten.overheid.nl/BWBR0045762"
-opgehaald: 2026-10-31
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 25 oktober 2021 nr. BOACAT2021/048, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Amsterdam, afdeling Amsterdamse Bos

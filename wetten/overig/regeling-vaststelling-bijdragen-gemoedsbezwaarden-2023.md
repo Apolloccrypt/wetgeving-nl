@@ -9,7 +9,7 @@ laatste_update: 2023-01-25
 status: geldig
 toestand: 2023-01-25
 bron: "https://wetten.overheid.nl/BWBR0047805"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister van Financiën van 16 januari 2023, 2023-0000004930, directie Financiële Markten, tot vaststelling van de bijdragen gemoedsbezwaarden 2023

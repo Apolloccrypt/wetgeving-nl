@@ -9,7 +9,7 @@ laatste_update: 2023-12-23
 status: geldig
 toestand: 2023-12-23
 bron: "https://wetten.overheid.nl/BWBR0048103"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister voor Klimaat en Energie van 19 april 2023, nr. WJZ/ 26957559, tot vaststelling van de definitieve correctiebedragen Subsidieregeling coöperatieve energieopwekking voor 2022 (Besluit vaststelling definitieve correctiebedragen voor 2022 bij de Subsidieregeling coöperatieve energieopwekking)

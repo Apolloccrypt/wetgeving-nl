@@ -9,7 +9,7 @@ laatste_update: 2023-04-21
 status: geldig
 toestand: 2023-04-21
 bron: "https://wetten.overheid.nl/BWBR0048087"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de directeur Advies, Regie en Centrale autoriteit van het directoraat-generaal Straffen en Beschermen van het Ministerie van Justitie en Veiligheid van 11 april 2023, nr. 4502827, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan de onder de directeur ressorterende functionarissen (Mandaatbesluit DARC/DGSenB Ministerie van Justitie en Veiligheid 2023)

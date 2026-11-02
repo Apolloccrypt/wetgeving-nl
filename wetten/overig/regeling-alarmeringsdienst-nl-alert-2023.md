@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0047721"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat van 19 december 2022, nr. WJZ/ 22099861, houdende regels voor aanbieders van openbare mobiele communicatienetwerken inzake de alarmeringsdienst NL-Alert (Regeling alarmeringsdienst NL-Alert 2023)

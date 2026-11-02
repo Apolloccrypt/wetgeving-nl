@@ -9,7 +9,7 @@ laatste_update: 2023-08-02
 status: geldig
 toestand: 2023-08-02
 bron: "https://wetten.overheid.nl/BWBR0048137"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 1 mei 2023 nr. BOACAT2023/019, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Den Helder

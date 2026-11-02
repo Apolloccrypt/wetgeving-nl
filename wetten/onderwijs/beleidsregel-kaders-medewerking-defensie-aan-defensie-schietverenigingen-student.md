@@ -8,7 +8,7 @@ laatste_update: 2023-03-07
 status: geldig
 toestand: 2023-03-07
 bron: "https://wetten.overheid.nl/BWBR0047947"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Beleidsregel kaders medewerking defensie aan (defensie-) schietverenigingen, studentenweerbaarheidsverenigingen en defensieschietteams

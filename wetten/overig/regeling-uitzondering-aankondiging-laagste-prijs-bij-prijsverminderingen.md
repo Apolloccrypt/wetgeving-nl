@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0047675"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat van 16 december 2022, nr. WJZ/22193750, tot aanwijzing van producten die uitgezonderd zijn van de aankondiging van de laagste prijs in dertig dagen bij prijsverminderingen (Regeling uitzondering aankondiging laagste prijs bij prijsverminderingen)

@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0047574"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister voor Langdurige Zorg en Sport van 23 november 2022, kenmerk 3468514-1039718-LZ houdende wijziging van de Subsidieregeling ADL-assistentie

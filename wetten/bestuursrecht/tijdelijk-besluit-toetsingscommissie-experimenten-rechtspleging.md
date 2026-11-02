@@ -9,7 +9,7 @@ laatste_update: 2023-04-01
 status: geldig
 toestand: 2023-04-01
 bron: "https://wetten.overheid.nl/BWBR0047952"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van 6 maart 2023, tijdelijk besluit houdende nadere regels inzake de Toetsingscommissie experimenten rechtspleging (Tijdelijk besluit Toetsingscommissie experimenten rechtspleging)

@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0047731"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 19 december 2022, nr. 22566628, houdende inwilliging AVV-verzoek Glastuinbouwsector (Sierteeltproducten)

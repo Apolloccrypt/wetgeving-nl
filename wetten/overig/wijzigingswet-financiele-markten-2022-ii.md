@@ -9,7 +9,7 @@ laatste_update: 2023-07-01
 status: geldig
 toestand: 2023-07-01
 bron: "https://wetten.overheid.nl/BWBR0047899"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Wet van 7 december 2022 tot wijziging van de Wet op het financieel toezicht, de Bankwet 1998, de Wet financiële markten BES en enige andere wetten op het terrein van de financiële markten (Wijzigingswet financiële markten 2022-II)

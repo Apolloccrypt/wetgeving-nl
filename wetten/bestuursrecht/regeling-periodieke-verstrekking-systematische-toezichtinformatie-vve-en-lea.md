@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0048116"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 19 april 2023, nr. PO/37613133, houdende regels voor de periodieke verstrekking van systematische toezichtinformatie door gemeenten ten behoeve van het interbestuurlijk toezicht op de wettelijke taken in het kader van voorschoolse educatie en de lokale educatieve agenda

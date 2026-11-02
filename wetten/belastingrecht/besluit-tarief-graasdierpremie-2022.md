@@ -9,7 +9,7 @@ laatste_update: 2023-03-13
 status: geldig
 toestand: 2023-03-13
 bron: "https://wetten.overheid.nl/BWBR0047956"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 9 maart 2023, nr. WJZ/ 26305474, met betrekking tot het tarief graasdierpremie 2022

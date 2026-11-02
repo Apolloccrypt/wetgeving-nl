@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0047705"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Wet van 21 december 2022 tot wijziging van de Invorderingswet 1990 en enkele andere wetten tot invoering van een grondslag voor het niet in rekening brengen van invorderingsrente in specifieke gevallen (Wet delegatiebepaling geen invorderingsrente in specifieke gevallen)

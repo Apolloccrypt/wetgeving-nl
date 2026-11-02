@@ -8,7 +8,7 @@ laatste_update: 2023-03-16
 status: geldig
 toestand: 2023-03-16
 bron: "https://wetten.overheid.nl/BWBR0047964"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Beleidsregels CAK termijnen eigen bijdrage Wlz en Wmo 2015

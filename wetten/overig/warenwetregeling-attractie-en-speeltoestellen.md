@@ -9,7 +9,7 @@ laatste_update: 2025-04-01
 status: geldig
 toestand: 2025-04-01
 bron: "https://wetten.overheid.nl/BWBR0048051"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 6 april 2023, kenmerk 3562279-1045822-WJZ, houdende vaststelling van regels met betrekking tot de veiligheid van attractie- en speeltoestellen (Warenwetregeling attractie- en speeltoestellen) Warenwetregeling attractie- en speeltoestellen

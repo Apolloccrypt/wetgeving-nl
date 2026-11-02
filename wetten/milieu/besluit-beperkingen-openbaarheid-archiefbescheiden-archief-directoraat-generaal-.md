@@ -8,7 +8,7 @@ laatste_update: 2023-01-26
 status: geldig
 toestand: 2023-01-26
 bron: "https://wetten.overheid.nl/BWBR0047810"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit beperkingen openbaarheid archiefbescheiden archief Directoraat-Generaal Rijksluchtvaartdienst, 1919–1982, nummer toegang 2.16.5240

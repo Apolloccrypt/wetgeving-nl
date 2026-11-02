@@ -8,7 +8,7 @@ laatste_update: 2023-01-03
 status: geldig
 toestand: 2023-01-03
 bron: "https://wetten.overheid.nl/BWBR0047741"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Beleidsregels proefplaatsing UWV 2023

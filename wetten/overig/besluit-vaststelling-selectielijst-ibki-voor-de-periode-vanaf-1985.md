@@ -8,7 +8,7 @@ laatste_update: 2023-02-24
 status: geldig
 toestand: 2023-02-24
 bron: "https://wetten.overheid.nl/BWBR0047904"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit vaststelling selectielijst IBKI voor de periode vanaf 1985

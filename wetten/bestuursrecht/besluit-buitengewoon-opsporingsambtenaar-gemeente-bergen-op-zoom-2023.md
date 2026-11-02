@@ -9,7 +9,7 @@ laatste_update: 2023-11-16
 status: geldig
 toestand: 2023-11-16
 bron: "https://wetten.overheid.nl/BWBR0047971"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 13 maart 2023 nr. BOACAT2023/012, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Bergen op Zoom

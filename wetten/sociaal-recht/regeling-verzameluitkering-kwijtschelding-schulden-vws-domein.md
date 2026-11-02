@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0047584"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 28 november 2022, kenmerk 3469337-1039676-PPGB houdende het als onderdeel van een verzameluitkering verstrekken van compensatie aan gemeenten ter dekking van de kosten die verband houden met het kwijtschelden van publieke schulden van gedupeerden binnen het VWS-domein in het kader van de hersteloperatie kinderopvangtoeslagaffaire (Regeling verzameluitkering kwijtschelding schulden VWS-domein)

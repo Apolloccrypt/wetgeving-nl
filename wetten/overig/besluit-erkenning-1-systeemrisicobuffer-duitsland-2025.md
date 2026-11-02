@@ -9,7 +9,7 @@ laatste_update: 2025-12-01
 status: geldig
 toestand: 2025-12-01
 bron: "https://wetten.overheid.nl/BWBR0047799"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van De Nederlandsche Bank N.V. van 12 januari 2023 tot erkenning van de op 30 maart 2022 door de Duitse financiële toezichthouder BaFin gepubliceerde systeemrisicobufferpercentage (Besluit erkenning 2% systeemrisicobuffer Duitsland 2022)

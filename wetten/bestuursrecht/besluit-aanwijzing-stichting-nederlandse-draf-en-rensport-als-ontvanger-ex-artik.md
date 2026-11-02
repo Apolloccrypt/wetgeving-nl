@@ -9,7 +9,7 @@ laatste_update: 2022-12-10
 status: geldig
 toestand: 2022-12-10
 bron: "https://wetten.overheid.nl/BWBR0047604"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 28 november 2022, nr. 3654283, tot aanwijzing van de Stichting Nederlandse Draf- en Rensport als ontvanger, bedoeld in artikel 2.2, tweede lid, van de Regeling kansspelen op afstand

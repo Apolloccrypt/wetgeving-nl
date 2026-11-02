@@ -8,7 +8,7 @@ laatste_update: 2023-04-01
 status: geldig
 toestand: 2023-04-01
 bron: "https://wetten.overheid.nl/BWBR0047836"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Wijzigingsregeling Regeling maatregelen rijvaardigheid en geschiktheid 2011 (toevoeging twee nieuwe educatieve maatregelen en aanpassing instroomeisen voor educatieve maatregel gedrag en verkeer), enz.

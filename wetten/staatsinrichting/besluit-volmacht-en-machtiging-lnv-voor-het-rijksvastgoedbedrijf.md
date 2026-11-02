@@ -9,7 +9,7 @@ laatste_update: 2022-12-23
 status: geldig
 toestand: 2022-12-23
 bron: "https://wetten.overheid.nl/BWBR0047674"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister voor Natuur en Stikstof van 20 december 2022, nr. WJZ/ 22564959, houdende volmacht en machtiging voor het Rijksvastgoedbedrijf (Besluit volmacht en machtiging LNV voor het Rijksvastgoedbedrijf)

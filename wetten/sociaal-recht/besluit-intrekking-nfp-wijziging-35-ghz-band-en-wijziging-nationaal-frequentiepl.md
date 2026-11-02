@@ -9,7 +9,7 @@ laatste_update: 2023-12-01
 status: geldig
 toestand: 2023-12-01
 bron: "https://wetten.overheid.nl/BWBR0047938"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat van 23 februari 2023, nr. ED/DE 26348713, tot intrekking van het besluit van de Staatssecretaris van Economische Zaken en Klimaat van 26 april 2021, nr. BI/20299360, houdende wijziging van het Nationaal Frequentieplan 2014 in verband met de bestemming van de 3,5 GHz-band voor mobiele communicatie (NFP-wijziging 3,5 GHz-band), en tot wijziging van het Nationaal Frequentieplan 2014 in verband met de vaststelling van een nieuwe indeling van de 3,5 GHz-band met waarborgen voor de door Inmarsat verzorgde NSV-communicatie

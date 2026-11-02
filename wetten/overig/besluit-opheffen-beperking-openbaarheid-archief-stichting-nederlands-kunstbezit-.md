@@ -9,7 +9,7 @@ laatste_update: 2023-03-21
 status: geldig
 toestand: 2023-03-21
 bron: "https://wetten.overheid.nl/BWBR0047967"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap houdende het opheffen van de beperking aan de openbaarheid van het archief van de Stichting Nederlands Kunstbezit (SNK) en haar taakvoorganger / taakopvolgers, (1930) 1945–1951 (1983), nummer toegang 2.08.42

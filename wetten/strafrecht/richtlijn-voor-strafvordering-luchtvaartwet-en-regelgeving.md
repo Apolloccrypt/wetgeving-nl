@@ -8,7 +8,7 @@ laatste_update: 2023-03-01
 status: geldig
 toestand: 2023-03-01
 bron: "https://wetten.overheid.nl/BWBR0047896"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Richtlijn voor strafvordering luchtvaartwet- en regelgeving

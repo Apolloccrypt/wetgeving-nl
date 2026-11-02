@@ -8,7 +8,7 @@ laatste_update: 2023-02-17
 status: geldig
 toestand: 2023-02-17
 bron: "https://wetten.overheid.nl/BWBR0047881"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit beperking openbaarheid archief Reclameraad Ministerie van Volksgezondheid, Welzijn en Sport, (1957) 1965-1988 (1989)

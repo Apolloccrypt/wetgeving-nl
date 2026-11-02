@@ -9,7 +9,7 @@ laatste_update: 2026-06-12
 status: geldig
 toestand: 2026-06-12
 bron: "https://wetten.overheid.nl/BWBR0047689"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat en de Minister van Sociale Zaken en Werkgelegenheid van 22 december 2022, nr. 2022-0000261694, houdende regels met betrekking tot de besteding van gelden uit het Fonds voor een rechtvaardige transitie, opgericht bij Verordening (EU) 2021/1056 van het Europees Parlement en de Raad (Subsidieregeling JTF 2021–2027)

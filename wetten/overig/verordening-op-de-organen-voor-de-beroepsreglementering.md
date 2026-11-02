@@ -8,7 +8,7 @@ laatste_update: 2023-06-21
 status: geldig
 toestand: 2023-06-21
 bron: "https://wetten.overheid.nl/BWBR0047744"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Verordening op de organen voor de Beroepsreglementering

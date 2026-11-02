@@ -9,7 +9,7 @@ laatste_update: 2026-04-01
 status: geldig
 toestand: 2026-04-01
 bron: "https://wetten.overheid.nl/BWBR0047663"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 19 december 2022, nr. WJZ/ 21206194, tot uitvoering van verordening (EU) 2021/2115 en verordening (EU) 2021/2116 inzake het Gemeenschappelijk landbouwbeleid (Regeling uitvoering NSP GLB 2023–2027)

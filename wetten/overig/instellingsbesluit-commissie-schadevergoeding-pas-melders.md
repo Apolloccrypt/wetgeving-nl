@@ -9,7 +9,7 @@ laatste_update: 2023-02-14
 status: geldig
 toestand: 2023-02-14
 bron: "https://wetten.overheid.nl/BWBR0047873"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister voor Natuur en Stikstof, van 7 februari 2023, nr. WJZ/ 26322531 tot instelling van de Commissie schadevergoeding PAS-melders

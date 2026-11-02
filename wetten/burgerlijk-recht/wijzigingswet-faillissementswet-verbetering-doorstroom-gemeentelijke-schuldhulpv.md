@@ -9,7 +9,7 @@ laatste_update: 2023-07-01
 status: geldig
 toestand: 2023-07-01
 bron: "https://wetten.overheid.nl/BWBR0047978"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Wet van 10 februari 2023 tot wijziging van de Faillissementswet ter verbetering van de doorstroom van de gemeentelijke schuldhulpverlening naar de wettelijke schuldsaneringsregeling natuurlijke personen

@@ -9,7 +9,7 @@ laatste_update: 2022-12-17
 status: geldig
 toestand: 2022-12-17
 bron: "https://wetten.overheid.nl/BWBR0047621"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister voor Rechtsbescherming van 7 december 2022, nr. 4354696, houdende wijziging van de Regeling selectie, plaatsing en overplaatsing van gedetineerden in verband met de wijziging van de regeling inzake de plaatsing in de extra beveiligde inrichting en de herbeoordeling hiervan en het uitsluiten van gedetineerden met een verhoogd vlucht- of maatschappelijk risico van regionale plaatsing

@@ -8,7 +8,7 @@ laatste_update: 2022-12-16
 status: geldig
 toestand: 2022-12-16
 bron: "https://wetten.overheid.nl/BWBR0047611"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit vaststelling selectielijst Koninklijke Nederlandse Akademie van Wetenschappen voor de periode vanaf 1 november 2020

@@ -8,7 +8,7 @@ laatste_update: 2023-04-29
 status: geldig
 toestand: 2023-04-29
 bron: "https://wetten.overheid.nl/BWBR0048112"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Besluit meldingsplichtige grensoverschrijdende constructies

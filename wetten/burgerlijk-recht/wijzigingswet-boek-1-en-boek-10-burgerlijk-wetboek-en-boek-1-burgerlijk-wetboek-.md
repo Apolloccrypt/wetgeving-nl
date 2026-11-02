@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0048053"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Wet van 24 maart 2023 tot wijziging van enige bepalingen in Boek 1 en Boek 10 van het Burgerlijk Wetboek en van Boek 1 van het Burgerlijk Wetboek van Bonaire, Sint Eustatius en Saba met betrekking tot de keuze van de geslachtsnaam (introductie gecombineerde geslachtsnaam)

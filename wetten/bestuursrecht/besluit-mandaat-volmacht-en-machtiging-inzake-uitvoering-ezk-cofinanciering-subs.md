@@ -9,7 +9,7 @@ laatste_update: 2023-02-04
 status: geldig
 toestand: 2023-02-04
 bron: "https://wetten.overheid.nl/BWBR0047845"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat van 30 januari 2023, nr. WJZ/ 22496139, houdende verlening van mandaat, volmacht en machtiging aan enkele decentrale overheden ter uitvoering van de EZK-cofinanciering op grond van de Subsidieregeling JTF 2021-2027 (Besluit mandaat, volmacht en machtiging inzake uitvoering EZK-cofinanciering Subsidieregeling JTF 2021-2027)

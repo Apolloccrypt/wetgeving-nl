@@ -9,7 +9,7 @@ laatste_update: 2023-07-01
 status: geldig
 toestand: 2023-07-01
 bron: "https://wetten.overheid.nl/BWBR0047979"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Wet van 9 maart 2023 tot wijziging van het Wetboek van Burgerlijke Rechtsvordering, het Burgerlijk Wetboek en enige andere wetten (tegengaan huwelijkse gevangenschap en enige andere onderwerpen)

@@ -8,7 +8,7 @@ laatste_update: 2023-05-11
 status: geldig
 toestand: 2023-05-11
 bron: "https://wetten.overheid.nl/BWBR0048145"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Beleidsregel Toegang niet-openbare informatie in dossiers betreffende uitvoering wetten verzetsdeelnemers en oorlogsgetroffenen ten behoeve van onderzoek

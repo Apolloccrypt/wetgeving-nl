@@ -9,7 +9,7 @@ laatste_update: 2023-04-20
 status: geldig
 toestand: 2023-04-20
 bron: "https://wetten.overheid.nl/BWBR0048080"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 12 april 2023 tot vaststelling van de hoogte van de vergoedingen van de voorzitter en overige leden van de Kiesraad (Regeling vergoeding leden Kiesraad)

@@ -8,7 +8,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0047736"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Richtlijn voor strafvordering verkeersongevallen, gevaarlijk verkeersgedrag en verlaten plaats ongeval

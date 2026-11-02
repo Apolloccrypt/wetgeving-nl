@@ -9,7 +9,7 @@ laatste_update: 2023-04-22
 status: geldig
 toestand: 2023-04-22
 bron: "https://wetten.overheid.nl/BWBR0048088"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid d.d. 13 april 2023, kenmerk 4347283, houdende beperking van de openbaarheid van het archief wettigingdossiers (WE-dossiers) 1951–1997 van het Ministerie van Justitie

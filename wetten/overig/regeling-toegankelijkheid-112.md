@@ -9,7 +9,7 @@ laatste_update: 2023-04-08
 status: geldig
 toestand: 2023-04-08
 bron: "https://wetten.overheid.nl/BWBR0048046"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 30 maart 2023, kenmerk 4548783, betreffende de toegankelijkheid van het noodnummer 112 voor mensen met een communicatieve beperking ter uitvoering van artikel 4, achtste lid, van Richtlijn 2019/882/EU van het Europees Parlement en de Raad van 17 april 2019 betreffende de toegankelijkheidsvoorschriften voor producten en diensten (PbEU 2019, L 151) (Regeling toegankelijkheid noodnummer 112)

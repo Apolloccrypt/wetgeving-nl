@@ -8,7 +8,7 @@ laatste_update: 2023-03-11
 status: geldig
 toestand: 2023-03-11
 bron: "https://wetten.overheid.nl/BWBR0047950"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Beleidsregel opsporing tuberculose

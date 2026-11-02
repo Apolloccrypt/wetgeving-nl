@@ -8,7 +8,7 @@ laatste_update: 2023-01-28
 status: geldig
 toestand: 2023-01-28
 bron: "https://wetten.overheid.nl/BWBR0047827"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Inkomstenbelasting, aanwijzing massaal bezwaar plus over kalenderjaren 2017 tot en met 2020

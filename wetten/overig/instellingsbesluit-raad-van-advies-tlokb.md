@@ -9,7 +9,7 @@ laatste_update: 2023-04-05
 status: geldig
 toestand: 2023-04-05
 bron: "https://wetten.overheid.nl/BWBR0048032"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Toelatingsorganisatie Kwaliteitsborging Bouw (TloKB) van 15 februari 2023 tot instelling van de Raad van Advies van de TloKB

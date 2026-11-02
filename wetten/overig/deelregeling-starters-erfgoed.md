@@ -8,7 +8,7 @@ laatste_update: 2023-01-25
 status: geldig
 toestand: 2023-01-25
 bron: "https://wetten.overheid.nl/BWBR0047812"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Deelregeling starters erfgoed

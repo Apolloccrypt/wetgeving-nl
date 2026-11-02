@@ -9,7 +9,7 @@ laatste_update: 2023-03-31
 status: geldig
 toestand: 2023-03-31
 bron: "https://wetten.overheid.nl/BWBR0048016"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de directeur van de Nationale Opvang Organisatie van het Ministerie van Justitie en Veiligheid van 23 maart 2023, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan onder de directeur ressorterende functionarissen (Mandaatbesluit NOO Ministerie van Justitie en Veiligheid 2023)

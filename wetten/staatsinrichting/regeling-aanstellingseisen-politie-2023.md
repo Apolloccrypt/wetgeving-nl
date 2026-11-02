@@ -9,7 +9,7 @@ laatste_update: 2024-10-02
 status: geldig
 toestand: 2024-10-02
 bron: "https://wetten.overheid.nl/BWBR0047833"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 23 januari 2023, nr. 4381549, houdende regels omtrent het aanstellen van politieambtenaren (Regeling aanstellingseisen politie 2023)

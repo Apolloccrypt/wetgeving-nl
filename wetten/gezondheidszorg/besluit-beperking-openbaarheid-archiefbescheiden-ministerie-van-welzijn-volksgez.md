@@ -9,7 +9,7 @@ laatste_update: 2023-04-29
 status: geldig
 toestand: 2023-04-29
 bron: "https://wetten.overheid.nl/BWBR0048109"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Besluit beperking openbaarheid archiefbescheiden Ministerie vanWelzijn, Volksgezondheid en Cultuur, (1930) 1982-1994 (2000)

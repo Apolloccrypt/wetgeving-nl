@@ -9,7 +9,7 @@ laatste_update: 2024-03-05
 status: geldig
 toestand: 2024-03-05
 bron: "https://wetten.overheid.nl/BWBR0048047"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de directeur-generaal Regieorganisatie Transitie Landelijk Gebied van het Ministerie van Landbouw, Natuur en Voedselkwaliteit van 3 april 2023, nr. 26818476, houdende verlening van ondermandaat, volmacht en machtiging voor het directoraat-generaal Regieorganisatie Transitie Landelijk Gebied van het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2023 (Besluit ondermandaat, volmacht en machtiging voor het directoraat-generaal Regieorganisatie Transitie Landelijk Gebied van het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2023)

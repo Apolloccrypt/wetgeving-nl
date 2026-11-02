@@ -9,7 +9,7 @@ laatste_update: 2022-12-07
 status: geldig
 toestand: 2022-12-07
 bron: "https://wetten.overheid.nl/BWBR0047582"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Staatssecretaris van Justitie en Veiligheid van 1 december 2022, nr. 4297634, houdende een eenmalige specifieke uitkering voor de pilotgemeenten in verband met de bekostiging van de pilot Landelijke Vreemdelingen Voorziening in 2022 (Bekostigingsregeling pilot Landelijke Vreemdelingen Voorziening 2022)

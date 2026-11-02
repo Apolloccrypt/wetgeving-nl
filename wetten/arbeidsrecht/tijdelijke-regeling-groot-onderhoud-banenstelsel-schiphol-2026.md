@@ -6,10 +6,11 @@ categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
 publicatiedatum: 2026-03-09
 laatste_update: 2026-03-09
-status: geldig
+status: vervallen
+vervallen_op: 2026-10-31
 toestand: 2026-03-09
 bron: "https://wetten.overheid.nl/BWBR0052298"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat van 10 februari 2026, nr. IENW/BSK-2026/15842, houdende vaststelling van vervangende grenswaarden geluidbelasting en vrijstelling van regels in het Luchthavenverkeerbesluit Schiphol in verband met groot onderhoud aan het banenstelsel op de luchthaven Schiphol (Tijdelijke regeling groot onderhoud banenstelsel Schiphol 2026) [KetenID WGK028341]

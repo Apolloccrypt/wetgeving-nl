@@ -9,7 +9,7 @@ laatste_update: 2023-02-02
 status: geldig
 toestand: 2023-02-02
 bron: "https://wetten.overheid.nl/BWBR0047842"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap, van 22 december 2022, nr. 34119112, houdende vaststelling van het onderwijsaccountantsprotocol voor de sectoren PO, VO en MBO in Caribisch Nederland (Regeling onderwijsaccountantsprotocol OCW BES 2022)

@@ -9,7 +9,7 @@ laatste_update: 2023-02-18
 status: geldig
 toestand: 2023-02-18
 bron: "https://wetten.overheid.nl/BWBR0047878"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 10 februari 2023, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordiging in Indonesië, ambassade Jakarta, Besluit Beperking Openbaarheid Jakarta (1958) 1973–2013 (2014)

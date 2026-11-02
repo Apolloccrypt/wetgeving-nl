@@ -5,11 +5,11 @@ identifier: "BWBR0044586"
 categorie: "Overig"
 soort: "AMvB"
 publicatiedatum: 2026-08-31
-laatste_update: 2026-10-24
+laatste_update: 2026-11-01
 status: geldig
-toestand: 2026-10-24
+toestand: 2026-11-01
 bron: "https://wetten.overheid.nl/BWBR0044586"
-opgehaald: 2026-11-01
+opgehaald: 2026-11-02
 ---
 
 # Besluit van 22 december 2020, houdende regels inzake de registratie van de toeristische verhuur van woonruimte
@@ -18,15 +18,15 @@ opgehaald: 2026-11-01
 
 ##### Artikel 1
 
-In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
+In dit besluit wordt verstaan onder:
 
-- *aanvrager:* degene die een registratienummer aanvraagt voor het aanbieden van een woonruimte voor toeristische verhuur als bedoeld in [artikel 23a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=23a)
+- *aanvrager:* degene die een registratienummer aanvraagt;
 
-- *identificatiemiddel:* elektronisch middel dat persoonsidentificatiegegevens bevat en gebruikt wordt voor de authenticatie van een natuurlijke persoon, rechtspersoon of onderneming die toegang wenst tot elektronische dienstverlening;
+- *centraal digitaal toegangspunt:* het centraal digitaal toegangspunt, bedoeld in [artikel 23j, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=23j);
 
-- *registratienummer:* registratienummer als bedoeld in [artikel 23a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=23a);
+- *registratienummer:* een registratienummer als bedoeld in [artikel 23a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=23a);
 
-- *registratiesysteem:* registratiesysteem als bedoeld in [artikel 23f, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=23f);
+- *registratiesysteem:* het registratiesysteem, bedoeld in [artikel 23f, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=23f);
 
 - *wet:*
  [Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303).
@@ -39,13 +39,9 @@ Indien de gemeenteraad toepassing heeft gegeven aan [artikel 23a, eerste lid, va
 
 ##### Artikel 3
 
-1. De aanvrager maakt bij de aanvraag van een registratienummer via het registratiesysteem gebruik van DigiD, eHerkenning, een door Onze Minister toegelaten of erkend identificatiemiddel of een door de Europese Unie erkend identificatiemiddel dat voldoet aan de voorwaarden als bedoeld in Verordening (EU) Nr. 910/2014 van het Europees Parlement en de Raad van 23 juli 2014 betreffende elektronische identificatie en vertrouwensdiensten voor elektronische transacties in de interne markt en tot intrekking van Richtlijn 1999/93/EG (Pb EU 2014, L 257/73).
+1. De aanvrager maakt bij de aanvraag van een registratienummer via het registratiesysteem gebruik van DigiD, eHerkenning, een ander identificatiemiddel als bedoeld in [artikel 1 van de Wet digitale overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&artikel=1) of een door de Europese Unie erkend identificatiemiddel dat voldoet aan de voorwaarden als bedoeld in Verordening (EU) Nr. 910/2014 van het Europees Parlement en de Raad van 23 juli 2014 betreffende elektronische identificatie en vertrouwensdiensten voor elektronische transacties in de interne markt en tot intrekking van Richtlijn 1999/93/EG (Pb EU 2014, L 257/73).
 
-2. De aanvrager vermeldt in zijn aanvraag de volgende gegevens:
-
-- a. zijn e-mailadres, en
-
-- b. het adres van de woonruimte die hij voor toeristische verhuur in gebruik wil geven indien dit een ander adres is dan zijn woonadres, bedoeld in [artikel 1.1, onderdeel o, onder 1°, van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.1).
+2. De aanvrager vermeldt in zijn aanvraag de gegevens, bedoeld in artikel 5, eerste lid, van de verordening kortetermijnverhuur.
 
 ##### Artikel 4
 
@@ -53,7 +49,7 @@ Indien de gemeenteraad toepassing heeft gegeven aan [artikel 23a, eerste lid, va
 
 2. Het registratienummer is voor derden niet herleidbaar naar de aanvrager en het adres van de woonruimte die voor toeristische verhuur wordt aangeboden.
 
-3. Het registratienummer wordt weergegeven in een willekeurig gegenereerd hexadecimaal nummer bestaande uit 20 posities, met een opbouw van 5 keer 4 posities.
+3. Het registratienummer wordt weergegeven in een landencode gevolgd door een willekeurig gegenereerd hexadecimaal nummer bestaande uit twintig posities, met een opbouw van vijf keer vier posities.
 
 ##### Artikel 5
 
@@ -61,7 +57,9 @@ Indien de gemeenteraad toepassing heeft gegeven aan [artikel 23a, eerste lid, va
 
 2. Het registratienummer wordt kosteloos verstrekt.
 
-3. Het registratienummer wordt direct nadat de aanvrager de gegevens, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044586&hoofdstuk=2&artikel=3&z=2026-10-24&g=2026-10-24), heeft ingevuld in het registratiesysteem aan de aanvrager getoond, en per e-mail toegezonden aan de aanvrager.
+3. Het registratienummer wordt direct nadat de aanvrager de gegevens, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044586&hoofdstuk=2&artikel=3&z=2026-11-01&g=2026-11-01), heeft ingevuld in het registratiesysteem aan de aanvrager getoond en toegezonden aan de aanvrager.
+
+4. Het college van burgemeester en wethouders neemt afgegeven registratienummers op in een openbaar toegankelijk register.
 
 ##### Artikel 5a
 
@@ -75,9 +73,15 @@ Het registratiesysteem stelt de aanvrager in staat om:
 
 ##### Artikel 6
 
-1. Het college van burgemeester en wethouders verwijdert het registratienummer en de gegevens van de aanvrager binnen vier weken na een daartoe strekkend verzoek van de aanvrager. Deze termijn kan met maximaal vier weken worden verlengd.
+1. Het college van burgemeester en wethouders verwijdert het registratienummer en de gegevens van de aanvrager binnen achttien maanden na een daartoe strekkend verzoek van de aanvrager.
 
-2. Het college van burgemeester en wethouders kan een registratienummer verwijderen indien de gegevens bij de aanvraag van het registratienummer onjuist zijn ingevuld, of indien de aanvrager de woonruimte niet meer kan aanbieden voor toeristische verhuur.
+2. Onverminderd het eerste lid, kan het college van burgemeester en wethouders een registratienummer verwijderen indien:
+
+- a. de aanvrager de woonruimte niet meer kan aanbieden voor toeristische verhuur;
+
+- b. het college van burgemeester en wethouders een registratienummer op grond van [artikel 23i, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=23i) heeft ingetrokken.
+
+3. Een registratienummer dat op grond van het eerste of het tweede lid is verwijderd, wordt door het college van burgemeester en wethouders tevens verwijderd uit het register, bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044586&hoofdstuk=2&artikel=5&z=2026-11-01&g=2026-11-01).
 
 ### Hoofdstuk 2a. Het centraal digitaal toegangspunt
 
@@ -109,7 +113,7 @@ Het college van burgemeester en wethouders verwijdert de gegevens die het vanuit
 
 ##### Artikel 6d
 
-Het college van burgemeester en wethouders stelt de aanvrager van een registratienummer dat is afgegeven vóór inwerkingtreding van het Besluit van 31 augustus 2026 tot wijziging van het Besluit registratie toeristische verhuur van woonruimte ten behoeve van de uitvoering van de verordening kortetermijnverhuur (Stb. 2026, 266) in de gelegenheid de gegevens, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044586&hoofdstuk=2&artikel=3&z=2026-10-24&g=2026-10-24), die de aanvrager nog niet aan het college heeft verzonden aan het college te verzenden binnen zes maanden na inwerkingtreding van dat besluit.
+Het college van burgemeester en wethouders stelt de aanvrager van een registratienummer dat is afgegeven vóór inwerkingtreding van het Besluit van 31 augustus 2026 tot wijziging van het Besluit registratie toeristische verhuur van woonruimte ten behoeve van de uitvoering van de verordening kortetermijnverhuur (Stb. 2026, 266) in de gelegenheid de gegevens, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044586&hoofdstuk=2&artikel=3&z=2026-11-01&g=2026-11-01), die de aanvrager nog niet aan het college heeft verzonden aan het college te verzenden binnen zes maanden na inwerkingtreding van dat besluit.
 
 ##### Artikel 7
 

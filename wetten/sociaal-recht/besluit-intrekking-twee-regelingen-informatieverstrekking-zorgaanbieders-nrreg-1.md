@@ -9,7 +9,7 @@ laatste_update: 2023-02-01
 status: geldig
 toestand: 2023-02-01
 bron: "https://wetten.overheid.nl/BWBR0047837"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit houdende intrekking van de regeling verplichte informatieverstrekking zorgaanbieders van forensische zorg (NR/REG-1913) en regeling Informatieverstrekking voorheen gebudgetteerde zorgaanbieders van gespecialiseerde ggz (NR/REG-1826)

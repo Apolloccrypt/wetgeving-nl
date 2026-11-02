@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0047617"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van 22 november 2022 als bedoeld in artikel 6, eerste lid, van de Wet op de inlichtingen- en veiligheidsdiensten 2017 (Geïntegreerde Aanwijzing 2023–2026)

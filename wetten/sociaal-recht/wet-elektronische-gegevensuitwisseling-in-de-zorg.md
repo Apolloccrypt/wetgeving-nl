@@ -9,7 +9,7 @@ laatste_update: 2025-07-05
 status: geldig
 toestand: 2025-07-05
 bron: "https://wetten.overheid.nl/BWBR0048095"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Wet van 19 april 2023, houdende regels inzake het elektronisch delen en benaderen van gegevens tussen zorgverleners in aangewezen gegevensuitwisselingen (Wet elektronische gegevensuitwisseling in de zorg)

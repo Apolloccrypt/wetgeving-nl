@@ -9,7 +9,7 @@ laatste_update: 2024-07-02
 status: geldig
 toestand: 2024-07-02
 bron: "https://wetten.overheid.nl/BWBR0047829"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit verlening mandaat, volmacht en machtiging aan algemeen directeur Rijksdienst voor Ondernemend Nederland in het kader van subsidiëring project Digitale Infrastructuur voor Toekomstbestendige Mobiliteit (DITM)

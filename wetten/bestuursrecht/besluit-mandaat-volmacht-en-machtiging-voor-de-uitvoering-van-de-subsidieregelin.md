@@ -9,7 +9,7 @@ laatste_update: 2022-12-30
 status: geldig
 toestand: 2022-12-30
 bron: "https://wetten.overheid.nl/BWBR0047730"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 22 december 2022, nr. 2022-0000260375, houdende verlening van mandaat, volmacht en machtiging aan het dagelijks bestuur van het Samenwerkingsverband Noord-Nederland, het college van burgemeester en wethouders van de gemeente Rotterdam en gedeputeerde staten van de Provincie Noord-Brabant voor de uitvoering van de Subsidieregeling JTF 2021–2027 (Besluit mandaat, volmacht en machtiging voor de uitvoering van de Subsidieregeling JTF 2021–2027)

@@ -9,7 +9,7 @@ laatste_update: 2023-04-29
 status: geldig
 toestand: 2023-04-29
 bron: "https://wetten.overheid.nl/BWBR0048108"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 24 april 2023, OWB/38021585, houdende de verlening van mandaat, volmacht en machtiging aan de Rijksdienst voor Ondernemend Nederland in verband met de subsidieverstrekking inzake de Subsidieregeling matching Horizon Europe (Mandaatbesluit RVO inzake Subsidieregeling matching Horizon Europe)

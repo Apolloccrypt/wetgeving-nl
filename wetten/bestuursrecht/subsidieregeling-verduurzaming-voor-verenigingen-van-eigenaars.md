@@ -9,7 +9,7 @@ laatste_update: 2026-04-01
 status: geldig
 toestand: 2026-04-01
 bron: "https://wetten.overheid.nl/BWBR0047596"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister voor Volkshuisvesting en Ruimtelijke Ordening, van 29 november 2022, nr. 2022-0000630123, houdende vaststelling van regels voor het verstrekken van subsidie aan verenigingen van eigenaars, woonverenigingen en wooncoöperaties in verband met het stimuleren van verduurzamingsmaatregelen in bestaande woningen (Subsidieregeling Verduurzaming voor Verenigingen van Eigenaars)

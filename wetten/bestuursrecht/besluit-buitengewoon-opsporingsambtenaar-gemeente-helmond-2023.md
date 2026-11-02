@@ -9,7 +9,7 @@ laatste_update: 2023-04-06
 status: geldig
 toestand: 2023-04-06
 bron: "https://wetten.overheid.nl/BWBR0048034"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 28 maart 2023 nr. BOACAT2023/014, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Helmond

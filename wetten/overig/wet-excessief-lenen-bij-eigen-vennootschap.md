@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0047711"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Wet van 21 december 2022 tot wijziging van de Wet inkomstenbelasting 2001 en de Invorderingswet 1990 ter bestrijding van belastinguitstel en -afstel als gevolg van excessief lenen bij een eigen vennootschap (Wet excessief lenen bij eigen vennootschap)

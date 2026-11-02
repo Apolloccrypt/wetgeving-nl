@@ -9,7 +9,7 @@ laatste_update: 2026-04-21
 status: geldig
 toestand: 2026-04-21
 bron: "https://wetten.overheid.nl/BWBR0047609"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 6 december 2022, kenmerk 3468798-1039784-J, houdende specifieke uitkeringen voor randvoorwaardelijke functies jeugdhulp

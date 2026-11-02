@@ -9,7 +9,7 @@ laatste_update: 2023-04-21
 status: geldig
 toestand: 2023-04-21
 bron: "https://wetten.overheid.nl/BWBR0048082"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister van Financiën van 7 april 2023, nr. 80552, houdende instelling van de Adviescommissie Analytics (Instellingsbesluit Adviescommissie Analytics)

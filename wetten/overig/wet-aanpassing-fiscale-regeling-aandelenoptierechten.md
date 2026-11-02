@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0047709"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Wet van 21 december 2022 tot wijziging van de Wet op de loonbelasting 1964 tot wijziging van de fiscale regeling voor aandelenoptierechten met het oog op het wegnemen van een liquiditeitsprobleem in het geval van het verstrekken van aandelenoptierechten als loon (Wet aanpassing fiscale regeling aandelenoptierechten)

@@ -8,7 +8,7 @@ laatste_update: 2023-02-24
 status: geldig
 toestand: 2023-02-24
 bron: "https://wetten.overheid.nl/BWBR0047909"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit openstellen elektronische weg indienen bezwaarschriften Ctgb

@@ -9,7 +9,7 @@ laatste_update: 2023-05-02
 status: geldig
 toestand: 2023-05-02
 bron: "https://wetten.overheid.nl/BWBR0048120"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 20 maart 2023, nr. O&B/33591377, houdende beperking van de openbaarheid van het archief van de Centrale Directie Rijksarchiefdienst van het Ministerie van Onderwijs, Cultuur en Wetenschap over de periode (1946) 1967–2007 (2011)

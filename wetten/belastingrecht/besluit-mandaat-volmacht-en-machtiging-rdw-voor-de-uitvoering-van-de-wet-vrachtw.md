@@ -9,7 +9,7 @@ laatste_update: 2025-10-04
 status: geldig
 toestand: 2025-10-04
 bron: "https://wetten.overheid.nl/BWBR0047686"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat, van 6 december 2022, nr. IENW/BSK-2022/281749, houdende regels inzake de verlening van mandaat, volmacht en machtiging aan de Dienst Wegverkeer voor de uitvoering van de Wet vrachtwagenheffing en de Wet implementatie EETS-richtlijn (Besluit mandaat, volmacht en machtiging RDW voor de uitvoering van de Wet vrachtwagenheffing)

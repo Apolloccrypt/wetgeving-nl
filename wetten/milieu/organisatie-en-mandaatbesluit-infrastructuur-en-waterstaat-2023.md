@@ -9,7 +9,7 @@ laatste_update: 2026-02-12
 status: geldig
 toestand: 2026-02-12
 bron: "https://wetten.overheid.nl/BWBR0048191"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat, van 8 mei 2023, nr. IENM/BSK-2023/96266, houdende vaststelling van de organisatie van het Ministerie van Infrastructuur en Waterstaat en verlening van mandaat, volmacht en machtiging aan de secretaris-generaal en de diensthoofden (Organisatie- en mandaatbesluit Infrastructuur en Waterstaat 2023)

@@ -9,7 +9,7 @@ laatste_update: 2023-03-22
 status: geldig
 toestand: 2023-03-22
 bron: "https://wetten.overheid.nl/BWBR0047972"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 10 maart 2023, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordiging in Jemen, Ambassade Sana’a (1975–2013), Besluit Beperking Openbaarheid, Sana’a (1975–2013)

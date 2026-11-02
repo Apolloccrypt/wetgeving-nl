@@ -8,7 +8,7 @@ laatste_update: 2022-12-16
 status: geldig
 toestand: 2022-12-16
 bron: "https://wetten.overheid.nl/BWBR0047612"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit vaststelling selectielijst SKH B.V. voor de periode vanaf 26 augustus 1996

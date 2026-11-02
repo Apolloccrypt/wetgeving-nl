@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0047677"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 13 december 2022, nr. WJZ 22526407, houdende wijziging van de Regeling Europese EZK en LNV subsidies 2021 door inpassing van de brede weersverzekering onder het nieuwe GLB en het opvragen van het BTW-nummer

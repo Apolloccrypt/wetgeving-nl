@@ -9,7 +9,7 @@ laatste_update: 2024-03-05
 status: geldig
 toestand: 2024-03-05
 bron: "https://wetten.overheid.nl/BWBR0047949"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister voor Rechtsbescherming van 6 maart 2023, nr. 4495438, houdende regels inzake subsidie om de werkdruk bij gecertificeerde instellingen te verlagen 2023 (Regeling subsidie verlagen werkdruk gecertificeerde instellingen 2023)

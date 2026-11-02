@@ -9,7 +9,7 @@ laatste_update: 2023-04-20
 status: geldig
 toestand: 2023-04-20
 bron: "https://wetten.overheid.nl/BWBR0048075"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Wet van 5 april 2023, houdende regels over het voortduren van de werking van de artikelen 2c en 4 van de Wet verplaatsing bevolking en tot wijziging van die wet (Voortduringswet artikelen 2c en 4 Wvb)

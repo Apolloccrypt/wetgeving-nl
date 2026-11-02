@@ -8,7 +8,7 @@ laatste_update: 2023-03-22
 status: geldig
 toestand: 2023-03-22
 bron: "https://wetten.overheid.nl/BWBR0047970"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling Macrobeheersinstrument geneeskundige geestelijke gezondheidszorg vanaf 2023

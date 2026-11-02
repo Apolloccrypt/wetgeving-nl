@@ -8,7 +8,7 @@ laatste_update: 2023-03-17
 status: geldig
 toestand: 2023-03-17
 bron: "https://wetten.overheid.nl/BWBR0047966"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Controleprotocol nacalculatie 2022 Wlz-zorgaanbieders

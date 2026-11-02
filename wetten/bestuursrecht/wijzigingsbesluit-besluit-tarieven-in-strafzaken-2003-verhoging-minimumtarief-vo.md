@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0047521"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van 21 november 2022 tot wijziging van het Besluit tarieven in strafzaken 2003 in verband met de verhoging van het minimumtarief voor tolken en de jaarlijkse indexering van de vergoedingen voor psychologen en psychiaters 2023

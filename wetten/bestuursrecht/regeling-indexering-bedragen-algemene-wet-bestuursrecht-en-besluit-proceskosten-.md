@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0047641"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister voor Rechtsbescherming van 12 december 2022, nr. 4343031, tot indexering van bedragen in de Algemene wet bestuursrecht en het Besluit proceskosten bestuursrecht

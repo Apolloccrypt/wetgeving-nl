@@ -9,7 +9,7 @@ laatste_update: 2024-07-01
 status: geldig
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0048096"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Besluit van 19 april 2023, houdende regels voor de uitvoering van de Wet elektronische gegevensuitwisseling in de zorg (Besluit elektronische gegevensuitwisseling in de zorg)

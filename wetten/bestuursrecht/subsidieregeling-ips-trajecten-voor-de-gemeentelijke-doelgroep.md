@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0047929"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister voor Armoedebeleid, Participatie en Pensioenen van 20 februari 2023, 2023-0000079987, tot subsidiëring van re-integratiemethode Individuele Plaatsing en Steun voor de gemeentelijke doelgroep (Subsidieregeling IPS-trajecten voor de gemeentelijke doelgroep)

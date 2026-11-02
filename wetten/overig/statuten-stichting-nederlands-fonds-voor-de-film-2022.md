@@ -8,7 +8,7 @@ laatste_update: 2022-11-29
 status: geldig
 toestand: 2022-11-29
 bron: "https://wetten.overheid.nl/BWBR0047541"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Statuten Stichting Nederlands Fonds voor de Film 2022

@@ -9,7 +9,7 @@ laatste_update: 2023-05-01
 status: geldig
 toestand: 2023-05-01
 bron: "https://wetten.overheid.nl/BWBR0048131"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Beleidsregel Kostprijsmodel zorgproducten medisch-specialistische zorg – BR/REG-23152, Nederlandse Zorgautoriteit

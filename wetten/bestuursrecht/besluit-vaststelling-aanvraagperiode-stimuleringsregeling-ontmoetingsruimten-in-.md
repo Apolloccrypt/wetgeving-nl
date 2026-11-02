@@ -9,7 +9,7 @@ laatste_update: 2023-07-06
 status: geldig
 toestand: 2023-07-06
 bron: "https://wetten.overheid.nl/BWBR0047600"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister voor Volkshuisvesting en Ruimtelijke Ordening van 28 november 2022, nr. 2022-0000643137, tot vaststelling aanvraagperiode Stimuleringsregeling ontmoetingsruimten in ouderenhuisvesting in 2023

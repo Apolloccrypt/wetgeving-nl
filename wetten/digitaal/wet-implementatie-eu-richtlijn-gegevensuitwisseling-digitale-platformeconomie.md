@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0047722"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Wet van 21 december 2022 tot wijziging van de Wet op de internationale bijstandsverlening bij de heffing van belastingen in verband met de implementatie van Richtlijn (EU) 2021/514 van de Raad van 22 maart 2021 tot wijziging van Richtlijn 2011/16/EU betreffende de administratieve samenwerking op het gebied van de belastingen (PbEU 2021, L 104) (Wet implementatie EU-richtlijn gegevensuitwisseling digitale platformeconomie)

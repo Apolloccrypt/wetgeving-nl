@@ -9,7 +9,7 @@ laatste_update: 2023-06-25
 status: geldig
 toestand: 2023-06-25
 bron: "https://wetten.overheid.nl/BWBR0047509"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Wet van 2 november 2022 tot wijziging van Boek 3 van het Burgerlijk Wetboek en het Wetboek van Burgerlijke Rechtsvordering in verband met de omzetting van Richtlijn (EU) 2020/1828 van het Europees Parlement en de Raad van 25 november 2020 betreffende representatieve vorderingen ter bescherming van de collectieve belangen van consumenten en tot intrekking van Richtlijn 2009/22/EG (PbEU 2020, L 409) (Implementatiewet richtlijn representatieve vorderingen voor consumenten)

@@ -9,7 +9,7 @@ laatste_update: 2023-02-28
 status: geldig
 toestand: 2023-02-28
 bron: "https://wetten.overheid.nl/BWBR0047806"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 10 januari 2023 nr. BOACAT2023/002, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Rotterdam, afdeling Werk en Inkomen

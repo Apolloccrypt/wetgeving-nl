@@ -9,7 +9,7 @@ laatste_update: 2022-11-29
 status: geldig
 toestand: 2022-11-29
 bron: "https://wetten.overheid.nl/BWBR0047522"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 22 november 2022, nr. 2022-0000609015, houdende regels voor de subsidiëring van de stichting WeConnect (Subsidieregeling stichting WeConnect)

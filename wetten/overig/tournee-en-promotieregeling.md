@@ -8,7 +8,7 @@ laatste_update: 2022-12-23
 status: geldig
 toestand: 2022-12-23
 bron: "https://wetten.overheid.nl/BWBR0047669"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Tournee- en promotieregeling

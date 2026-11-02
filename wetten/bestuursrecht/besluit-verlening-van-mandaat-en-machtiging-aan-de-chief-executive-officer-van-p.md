@@ -9,7 +9,7 @@ laatste_update: 2023-03-11
 status: geldig
 toestand: 2023-03-11
 bron: "https://wetten.overheid.nl/BWBR0047955"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Waterstaat, van 7 maart 2023, nr. IENW/BSK-2023/60968, houdende verlening van mandaat en machtiging aan de Chief Executive Officer van ProRail B.V. voor de uitvoering van de Tijdelijke subsidieregeling opstellen en rangeren spoorgoederenvervoer 2023 – 2025

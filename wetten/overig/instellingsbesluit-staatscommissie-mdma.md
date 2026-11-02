@@ -9,7 +9,7 @@ laatste_update: 2024-01-30
 status: geldig
 toestand: 2024-01-30
 bron: "https://wetten.overheid.nl/BWBR0048065"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van 24 maart 2023, nr. 2023000802, houdende de instelling van een Staatscommissie MDMA (Instellingsbesluit Staatscommissie MDMA)

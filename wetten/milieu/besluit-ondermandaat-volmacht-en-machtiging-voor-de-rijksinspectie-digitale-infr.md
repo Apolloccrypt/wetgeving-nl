@@ -9,7 +9,7 @@ laatste_update: 2024-08-30
 status: geldig
 toestand: 2024-08-30
 bron: "https://wetten.overheid.nl/BWBR0047538"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de inspecteur-generaal van de Rijksinspectie Digitale Infrastructuur van 22 november 2022, betreffende verlening van ondermandaat, volmacht en machtiging aan de Rijksinspectie Digitale Infrastructuur van het Ministerie van Economische Zaken en Klimaat (Besluit ondermandaat, volmacht en machtiging Rijksinspectie Digitale Infrastructuur van het Ministerie van Economische Zaken en Klimaat)

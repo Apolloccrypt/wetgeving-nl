@@ -9,7 +9,7 @@ laatste_update: 2026-01-06
 status: geldig
 toestand: 2026-01-06
 bron: "https://wetten.overheid.nl/BWBR0047606"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van het College voor toetsen en examens van 28 november 2022, nummer CvTE-22.00977, houdende vaststelling van de regeling voor de procedure om te komen tot de beoordelingsnormen van de doorstroomtoetsen (Regeling beoordelingsnormen doorstroomtoetsen PO)

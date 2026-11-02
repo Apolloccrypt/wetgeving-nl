@@ -9,7 +9,7 @@ laatste_update: 2022-12-21
 status: geldig
 toestand: 2022-12-21
 bron: "https://wetten.overheid.nl/BWBR0047659"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat van 17 december 2022, nr. WJZ/ 22233745, houdende regels inzake de verlening van mandaat, volmacht en machtiging aan het dagelijks bestuur van het Samenwerkingsverband Noord-Nederland betreffende het verstrekken van subsidies ten laste van de Rijkscofinanciering op grond van de Regeling Europese EZK- en LNV-subsidies 2021 (Besluit mandaat, volmacht en machtiging dagelijks bestuur van het Samenwerkingsverband Noord-Nederland inzake subsidieverstrekking Rijkscofinanciering Regeling Europese EZK- en LNV-subsidies 2021)

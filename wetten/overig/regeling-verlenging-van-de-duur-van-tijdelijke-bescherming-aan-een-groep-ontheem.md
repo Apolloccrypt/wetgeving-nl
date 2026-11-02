@@ -9,7 +9,7 @@ laatste_update: 2023-03-04
 status: geldig
 toestand: 2023-03-04
 bron: "https://wetten.overheid.nl/BWBR0047941"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Staatssecretaris van Justitie en Veiligheid van 1 maart 2023, nummer 4507236, in verband met de verlenging van de duur van tijdelijke bescherming aan een groep ontheemden uit Oekraïne

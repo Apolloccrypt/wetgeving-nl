@@ -9,7 +9,7 @@ laatste_update: 2025-09-05
 status: geldig
 toestand: 2025-09-05
 bron: "https://wetten.overheid.nl/BWBR0048064"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Wet van 24 maart 2023, houdende regels ter uitvoering van Verordening (EU) 2021/784 van het Europees Parlement en de Raad van 29 april 2021 inzake het tegengaan van de verspreiding van terroristische online-inhoud (PbEU 2021, L 172) (Uitvoeringswet verordening terroristische online-inhoud)

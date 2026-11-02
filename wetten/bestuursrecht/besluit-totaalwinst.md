@@ -8,7 +8,7 @@ laatste_update: 2023-03-31
 status: geldig
 toestand: 2023-03-31
 bron: "https://wetten.overheid.nl/BWBR0048018"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit Totaalwinst

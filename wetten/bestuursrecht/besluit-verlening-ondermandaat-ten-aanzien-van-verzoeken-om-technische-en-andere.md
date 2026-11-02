@@ -9,7 +9,7 @@ laatste_update: 2022-12-30
 status: geldig
 toestand: 2022-12-30
 bron: "https://wetten.overheid.nl/BWBR0047723"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de directeur-generaal van de Algemene Inlichtingen- en Veiligheidsdienst van 17 november 2022, kenmerk 94b1cd73-or1-1.0, houdende verlening van ondermandaat aan een unithoofd van de dienst ten aanzien van verzoeken om technische en andere vormen van ondersteuning als bedoeld in artikel 95, tweede en derde lid, van de Wet op de inlichtingen- en veiligheidsdiensten 2017 (Besluit verlening ondermandaat ten aanzien van verzoeken om technische en andere vormen van ondersteuning 2022)

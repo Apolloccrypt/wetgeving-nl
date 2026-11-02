@@ -9,7 +9,7 @@ laatste_update: 2025-07-22
 status: geldig
 toestand: 2025-07-22
 bron: "https://wetten.overheid.nl/BWBR0048126"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 25 april 2023 nr. BOACAT2023/020, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Afdeling Veiligheid & Wijken, team Stadstoezicht van de gemeente Tilburg

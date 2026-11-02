@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0047679"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 14 december 2022, nr. 2022-0000464741, houdende regels voor de subsidiëring van de Stichting Centrum voor Arbeidsverhoudingen Overheidspersoneel (Subsidieregeling Stichting CAOP 2023)

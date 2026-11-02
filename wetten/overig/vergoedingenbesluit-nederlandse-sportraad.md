@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0047527"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister voor Langdurige Zorg en Sport van 21 november 2022, kenmerk 1039801-3468863-BPZ houdende de vaststelling van de vergoedingen van de Nederlandse Sportraad (Vergoedingenbesluit Nederlandse Sportraad)

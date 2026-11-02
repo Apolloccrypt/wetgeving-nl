@@ -9,7 +9,7 @@ laatste_update: 2023-04-19
 status: geldig
 toestand: 2023-04-19
 bron: "https://wetten.overheid.nl/BWBR0047989"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van 15 maart 2023, houdende vaststelling van regels in verband met de uitvoering van Verordening (EU) 2019/1020 betreffende markttoezicht en conformiteit van producten (Warenwetbesluit uitvoering markttoezichtverordening)

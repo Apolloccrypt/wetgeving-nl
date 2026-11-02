@@ -9,7 +9,7 @@ laatste_update: 2026-07-16
 status: geldig
 toestand: 2026-07-16
 bron: "https://wetten.overheid.nl/BWBR0047526"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 25 november 2022, 2022-0000230810, tot instelling van een Adviescommissie beroepsziekten als gevolg van blootstelling aan gevaarlijke stoffen (Instellingsbesluit Adviescommissie Lijst beroepsziekten)

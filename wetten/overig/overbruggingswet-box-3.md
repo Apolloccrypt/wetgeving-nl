@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0047702"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Wet van 21 december 2022 tot wijziging van de Wet inkomstenbelasting 2001 om de berekening van het voordeel uit sparen en beleggen in overeenstemming te brengen met het arrest van de Hoge Raad van 24 december 2021 (Overbruggingswet box 3)

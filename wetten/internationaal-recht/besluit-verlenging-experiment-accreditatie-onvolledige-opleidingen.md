@@ -9,7 +9,7 @@ laatste_update: 2023-02-02
 status: geldig
 toestand: 2023-02-02
 bron: "https://wetten.overheid.nl/BWBR0047824"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap en de Minister voor Primair en Voortgezet Onderwijs van 23 januari 2023, nr. WJZ/34943353, houdende verlenging van het experiment accreditatie onvolledige opleidingen

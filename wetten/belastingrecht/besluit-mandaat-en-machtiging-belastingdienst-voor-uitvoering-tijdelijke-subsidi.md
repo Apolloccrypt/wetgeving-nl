@@ -9,7 +9,7 @@ laatste_update: 2026-07-08
 status: geldig
 toestand: 2026-07-08
 bron: "https://wetten.overheid.nl/BWBR0048037"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister voor Klimaat en Energie van 4 april 2023, nr. WJZ / 26741074, houdende verlening van mandaat en machtiging aan de directeur-generaal Belastingdienst voor uitvoering van de Tijdelijke subsidieregeling tegemoetkoming blokaansluitingen (Besluit mandaat en machtiging Belastingdienst voor uitvoering Tijdelijke subsidieregeling tegemoetkoming blokaansluitingen)

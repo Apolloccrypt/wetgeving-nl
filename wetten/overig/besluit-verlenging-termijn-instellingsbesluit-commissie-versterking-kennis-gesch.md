@@ -9,7 +9,7 @@ laatste_update: 2023-02-01
 status: geldig
 toestand: 2023-02-01
 bron: "https://wetten.overheid.nl/BWBR0047599"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 24 november 2022, kenmerk 3467358-1039592-DMO, houdende verlenging van de termijn, bedoeld in artikel 5, tweede lid, van het Instellingsbesluit Commissie Versterking kennis geschiedenis voormalig Nederlands-Indië

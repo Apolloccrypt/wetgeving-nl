@@ -9,7 +9,7 @@ laatste_update: 2025-11-28
 status: geldig
 toestand: 2025-11-28
 bron: "https://wetten.overheid.nl/BWBR0048176"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 16 mei 2023, nr. VO/38233241 houdende regels voor de subsidieverstrekking aan scholen voor deelnemen aan het doorontwikkeltraject van praktijkgerichte programma’s voor het havo en voor het deelnemen aan de pilot met de praktijkroute havo-Educatie (Subsidieregeling praktijkgerichte havo)

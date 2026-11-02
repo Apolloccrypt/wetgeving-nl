@@ -9,7 +9,7 @@ laatste_update: 2023-07-01
 status: geldig
 toestand: 2023-07-01
 bron: "https://wetten.overheid.nl/BWBR0048179"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 20 mei 2023, nr. IENW/BSK-2023/19412, houdende vaststelling van de taak en samenstelling van de commissie bedoeld in artikel 8.34 van de Wet luchtvaart in verband met de transitie naar de Maatschappelijke Raad Schiphol (Regeling transitie CROS-MRS)

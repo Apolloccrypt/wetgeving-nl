@@ -8,7 +8,7 @@ laatste_update: 2023-05-15
 status: geldig
 toestand: 2023-05-15
 bron: "https://wetten.overheid.nl/BWBR0048118"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Circulaire Adresonderzoek BRP

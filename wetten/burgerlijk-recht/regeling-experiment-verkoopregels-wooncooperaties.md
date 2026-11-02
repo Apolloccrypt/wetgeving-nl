@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0047588"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister voor Volkshuisvesting en Ruimtelijke Ordening van 2 december 2022, nr. 2022-0000642550, houdende regels voor een experiment inzake de voorschriften omtrent het vervreemden van onroerende zaken aan wooncoöperaties (Regeling experiment verkoopregels wooncoöperaties)

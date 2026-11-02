@@ -4,11 +4,11 @@ identifier: "BWBR0038145"
 categorie: "Belastingrecht"
 soort: "beleidsregel"
 publicatiedatum: 2016-07-01
-laatste_update: 2026-08-08
+laatste_update: 2026-11-01
 status: geldig
-toestand: 2026-08-08
+toestand: 2026-11-01
 bron: "https://wetten.overheid.nl/BWBR0038145"
-opgehaald: 2026-10-12
+opgehaald: 2026-11-02
 ---
 
 # Besluit Bestuurlijke Boeten Belastingdienst
@@ -19,31 +19,31 @@ opgehaald: 2026-10-12
 
 - 1. In dit besluit is het beleid neergelegd voor het opleggen van bestuurlijke boeten bij de heffing van rijksbelastingen waarop [Hoofdstuk VIIIA van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA) (hierna: AWR) van toepassing is. Het besluit is ook van toepassing op regelingen die onder het bereik van dit hoofdstuk van de [AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) zijn gebracht, zoals de werknemersverzekeringen.
 
-- 2. Op beboetbare feiten die zijn begaan ná de inwerkingtredingsdatum van dit besluit (zie [§ 40](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=5&paragraaf=40&z=2026-08-08&g=2026-08-08)) zijn de beleidsregels van dit besluit van toepassing.
+- 2. Op beboetbare feiten die zijn begaan ná de inwerkingtredingsdatum van dit besluit (zie [§ 40](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=5&paragraaf=40&z=2026-11-01&g=2026-11-01)) zijn de beleidsregels van dit besluit van toepassing.
 
 - 3. Op beboetbare feiten die zijn begaan vóór de inwerkingtredingsdatum van dit besluit blijven de (oude) beleidsregels van toepassing, zoals deze luidden ten tijde van het begaan het beboetbare feit. Indien ter zake van deze feiten op het moment van inwerkingtreding van dit besluit nog geen boete is opgelegd of de boetebeschikking nog niet onherroepelijk vaststaat, dan zijn de beleidsregels van dit (nieuwe) besluit van toepassing voor zover deze gunstiger zijn voor belanghebbende.
 
-- 4. Het voorgaande lid is niet van toepassing op beleidsregels inzake inkeer (zie [§ 7, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=7&z=2026-08-08&g=2026-08-08)).
+- 4. Het voorgaande lid is niet van toepassing op beleidsregels inzake inkeer (zie [§ 7, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=7&z=2026-11-01&g=2026-11-01)).
 
 - 5. Omdat zoveel mogelijk is aangesloten bij de paragraafindeling van de voorgangers van dit besluit komen sommige paragraafnummers in dit besluit niet voor.
 
-- 6. Dit besluit werd gewijzigd bij besluit van 20 december 2019, nr. 2019-22295 (Stcrt. 2019, 66184). De wijziging betrof de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=2&z=2026-08-08&g=2026-08-08), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=5&z=2026-08-08&g=2026-08-08), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=7&z=2026-08-08&g=2026-08-08), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=8&z=2026-08-08&g=2026-08-08), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=9&z=2026-08-08&g=2026-08-08), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=3&paragraaf=25&z=2026-08-08&g=2026-08-08), [28b](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=3&paragraaf=28b&z=2026-08-08&g=2026-08-08), [28c](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=3&paragraaf=28c&z=2026-08-08&g=2026-08-08), [28f](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=3&paragraaf=28f&z=2026-08-08&g=2026-08-08), [28h](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=3&paragraaf=28h&z=2026-08-08&g=2026-08-08), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=4&paragraaf=33&z=2026-08-08&g=2026-08-08) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=4&paragraaf=37&z=2026-08-08&g=2026-08-08). Het betrof de verwerking van enkele noodzakelijke actualisaties. Dit besluit werd voorts gewijzigd bij besluit van 14 december 2021, nr. 2021-23737 (Stcrt. 2021, 48225). De wijziging betrof de [paragrafen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=1&z=2026-08-08&g=2026-08-08) en [34](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=4&paragraaf=34&z=2026-08-08&g=2026-08-08). Het betrof de uitbreiding van § 34 BBBB met een derde lid met een bijzondere regeling voor het overgangsrecht voor oudere motorrijtuigen ([artikel 84a van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=84a)). Dit besluit werd gewijzigd bij besluit van 17 mei 2023, nr 2023-110608 (Stcrt. 2023, 15037). De wijzigingen werden aangebracht naar aanleiding van het arrest van de Hoge Raad van 24 september 2021 (ECLI:NL:HR:2021:1351). In [§ 24](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=2&paragraaf=24&z=2026-08-08&g=2026-08-08) en [§ 28](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=2&paragraaf=24&z=2026-08-08&g=2026-08-08) werd vastgelegd wanneer een boete achterwege blijft en § 24a is vervallen. Dit besluit werd gewijzigd bij besluit van 22 juni 2023, nr. 2023-13263 (Stcrt. 2023, 17366). De wijziging betrof de paragrafen 1, 2, 8, 15, 33, 34 en 36. In § 34, tweede lid, is de betalingsverzuimboete verlaagd van maximaal 100 naar 50 procent van de nageheven motorrijtuigenbelasting. Uit § 34, vierde lid (nieuw), volgt dat in uitzonderlijke gevallen alsnog een boete van maximaal 100 procent kan worden opgelegd. Voor het overige zijn de genoemde paragrafen op onderdelen geactualiseerd of redactioneel verbeterd. Daarmee is geen beleidswijziging beoogd. Dit besluit werd gewijzigd bij besluit van 16 januari 2024, nr. 2024-861 (Stcrt. 2024, 1915). [§8](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=8&z=2026-08-08&g=2026-08-08) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=15&z=2026-08-08&g=2026-08-08) zijn geactualiseerd en [§28f](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=3&paragraaf=28f&z=2026-08-08&g=2026-08-08) is bijgewerkt voor de verplichte gegevensuitwisseling digitale platformeconomie (DAC7). Dit besluit werd gewijzigd bij besluit van 18 december 2024, nr. 2024-15704, (Stcrt. 2024, 38810). De wijzigingen betroffen een verhoging van de boetebedragen zoals genoemd in de [paragrafen 28b](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=3&paragraaf=28b&z=2026-08-08&g=2026-08-08), [28c](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=3&paragraaf=28c&z=2026-08-08&g=2026-08-08) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=4&paragraaf=37&z=2026-08-08&g=2026-08-08) in verband met de indexatie van de wettelijke boetemaxima die op grond van [artikel 67cb van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67cb) en de Bijstellingsregeling directe belastingen 2025 per 1 januari 2025 plaatsvond. Met de wijziging van de [paragrafen 31b](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=4&paragraaf=31b&z=2026-08-08&g=2026-08-08) en [32](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=4&paragraaf=32&z=2026-08-08&g=2026-08-08) werden de in die paragrafen genoemde percentages vervangen door bedragen. Dit besluit werd gewijzigd bij besluit van 30 juli 2026, nr. 2026-14582, (Stcrt. 2026, 27767). De wijzigingen betroffen de [paragrafen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=2&paragraaf=22&z=2026-08-08&g=2026-08-08), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=2&paragraaf=23&z=2026-08-08&g=2026-08-08), [28e](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=3&paragraaf=28e&z=2026-08-08&g=2026-08-08), [28f](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=3&paragraaf=28f&z=2026-08-08&g=2026-08-08) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=4&paragraaf=36&z=2026-08-08&g=2026-08-08) en de toevoeging van de nieuwe [paragrafen 28i](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=3&paragraaf=28i&z=2026-08-08&g=2026-08-08) en [28j](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=3&paragraaf=28j&z=2026-08-08&g=2026-08-08). De wijzigingen hielden verband met de implementatie van DAC8 en DAC9, de invoering van beleid voor nieuwe bestuurlijke vergrijpboeten en een tijdelijke regeling voor de eerste aangifteperiode onder de [Wet minimumbelasting 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049111). Voor het overige zijn enkele actualisaties en redactionele verbeteringen aangebracht.
+- 6. Dit besluit werd gewijzigd bij besluit van 20 december 2019, nr. 2019-22295 (Stcrt. 2019, 66184). De wijziging betrof de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=2&z=2026-11-01&g=2026-11-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=5&z=2026-11-01&g=2026-11-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=7&z=2026-11-01&g=2026-11-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=8&z=2026-11-01&g=2026-11-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=9&z=2026-11-01&g=2026-11-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=3&paragraaf=25&z=2026-11-01&g=2026-11-01), [28b](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=3&paragraaf=28b&z=2026-11-01&g=2026-11-01), [28c](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=3&paragraaf=28c&z=2026-11-01&g=2026-11-01), [28f](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=3&paragraaf=28f&z=2026-11-01&g=2026-11-01), [28h](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=3&paragraaf=28h&z=2026-11-01&g=2026-11-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=4&paragraaf=33&z=2026-11-01&g=2026-11-01) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=4&paragraaf=37&z=2026-11-01&g=2026-11-01). Het betrof de verwerking van enkele noodzakelijke actualisaties. Dit besluit werd voorts gewijzigd bij besluit van 14 december 2021, nr. 2021-23737 (Stcrt. 2021, 48225). De wijziging betrof de [paragrafen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=1&z=2026-11-01&g=2026-11-01) en [34](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=4&paragraaf=34&z=2026-11-01&g=2026-11-01). Het betrof de uitbreiding van § 34 BBBB met een derde lid met een bijzondere regeling voor het overgangsrecht voor oudere motorrijtuigen ([artikel 84a van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=84a)). Dit besluit werd gewijzigd bij besluit van 17 mei 2023, nr 2023-110608 (Stcrt. 2023, 15037). De wijzigingen werden aangebracht naar aanleiding van het arrest van de Hoge Raad van 24 september 2021 (ECLI:NL:HR:2021:1351). In [§ 24](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=2&paragraaf=24&z=2026-11-01&g=2026-11-01) en [§ 28](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=2&paragraaf=24&z=2026-11-01&g=2026-11-01) werd vastgelegd wanneer een boete achterwege blijft en § 24a is vervallen. Dit besluit werd gewijzigd bij besluit van 22 juni 2023, nr. 2023-13263 (Stcrt. 2023, 17366). De wijziging betrof de paragrafen 1, 2, 8, 15, 33, 34 en 36. In § 34, tweede lid, is de betalingsverzuimboete verlaagd van maximaal 100 naar 50 procent van de nageheven motorrijtuigenbelasting. Uit § 34, vierde lid (nieuw), volgt dat in uitzonderlijke gevallen alsnog een boete van maximaal 100 procent kan worden opgelegd. Voor het overige zijn de genoemde paragrafen op onderdelen geactualiseerd of redactioneel verbeterd. Daarmee is geen beleidswijziging beoogd. Dit besluit werd gewijzigd bij besluit van 16 januari 2024, nr. 2024-861 (Stcrt. 2024, 1915). [§8](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=8&z=2026-11-01&g=2026-11-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=15&z=2026-11-01&g=2026-11-01) zijn geactualiseerd en [§28f](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=3&paragraaf=28f&z=2026-11-01&g=2026-11-01) is bijgewerkt voor de verplichte gegevensuitwisseling digitale platformeconomie (DAC7). Dit besluit werd gewijzigd bij besluit van 18 december 2024, nr. 2024-15704, (Stcrt. 2024, 38810). De wijzigingen betroffen een verhoging van de boetebedragen zoals genoemd in de [paragrafen 28b](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=3&paragraaf=28b&z=2026-11-01&g=2026-11-01), [28c](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=3&paragraaf=28c&z=2026-11-01&g=2026-11-01) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=4&paragraaf=37&z=2026-11-01&g=2026-11-01) in verband met de indexatie van de wettelijke boetemaxima die op grond van [artikel 67cb van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67cb) en de Bijstellingsregeling directe belastingen 2025 per 1 januari 2025 plaatsvond. Met de wijziging van de [paragrafen 31b](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=4&paragraaf=31b&z=2026-11-01&g=2026-11-01) en [32](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=4&paragraaf=32&z=2026-11-01&g=2026-11-01) werden de in die paragrafen genoemde percentages vervangen door bedragen. Dit besluit werd gewijzigd bij besluit van 30 juli 2026, nr. 2026-14582, (Stcrt. 2026, 27767). De wijzigingen betroffen de [paragrafen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=2&paragraaf=22&z=2026-11-01&g=2026-11-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=2&paragraaf=23&z=2026-11-01&g=2026-11-01), [28e](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=3&paragraaf=28e&z=2026-11-01&g=2026-11-01), [28f](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=3&paragraaf=28f&z=2026-11-01&g=2026-11-01) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=4&paragraaf=36&z=2026-11-01&g=2026-11-01) en de toevoeging van de nieuwe [paragrafen 28i](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=3&paragraaf=28i&z=2026-11-01&g=2026-11-01) en [28j](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=3&paragraaf=28j&z=2026-11-01&g=2026-11-01). De wijzigingen hielden verband met de implementatie van DAC8 en DAC9, de invoering van beleid voor nieuwe bestuurlijke vergrijpboeten en een tijdelijke regeling voor de eerste aangifteperiode onder de [Wet minimumbelasting 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049111). Voor het overige zijn enkele actualisaties en redactionele verbeteringen aangebracht.
 
 #### § 2. Begrip belanghebbende
 
 - 1. Onder belanghebbende wordt voor de toepassing van dit besluit verstaan degene die, op grond van [artikel 5:1, tweede en derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:1) (hierna: Awb) en [artikel 67o, eerste lid, van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67o), in de hoedanigheid van pleger, medepleger, doen pleger, uitlokker, medeplichtige, feitelijk leidinggever of opdrachtgever een bestuurlijke boete kan worden opgelegd.
 
-- 2. De bijzondere verzuimboeten van [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=4&z=2026-08-08&g=2026-08-08) van dit besluit worden overeenkomstig [artikel 67o, tweede lid, van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67o) niet opgelegd aan de medeplichtige.
+- 2. De bijzondere verzuimboeten van [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=4&z=2026-11-01&g=2026-11-01) van dit besluit worden overeenkomstig [artikel 67o, tweede lid, van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67o) niet opgelegd aan de medeplichtige.
 
 - 3. De bepaling van [artikel 67o, derde lid, van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67o), geldt voor alle in hoofdstuk 3 van dit besluit genoemde vergrijpboeten.
 
 - 4. De wettelijke boetemaxima gelden voor de pleger, de medepleger, de doen pleger, de uitlokker, de feitelijk leidinggever en de opdrachtgever. In geval van beboeting van een medeplichtige bedraagt het wettelijke boetemaximum een derde minder ([artikel 67o, derde lid, van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67o)).
 
-- 5. Wordt een vergrijpboete opgelegd aan een medeplichtige dan worden de in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=3&z=2026-08-08&g=2026-08-08) van dit besluit genoemde standaardpercentages en -bedragen met een derde verminderd. Daarna vindt toepassing van de [paragrafen 6 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=6&z=2026-08-08&g=2026-08-08) van dit besluit plaats.
+- 5. Wordt een vergrijpboete opgelegd aan een medeplichtige dan worden de in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=3&z=2026-11-01&g=2026-11-01) van dit besluit genoemde standaardpercentages en -bedragen met een derde verminderd. Daarna vindt toepassing van de [paragrafen 6 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=6&z=2026-11-01&g=2026-11-01) van dit besluit plaats.
 
 - 6. Een besluit tot het opleggen van een bestuurlijke boete aan een medepleger, doen pleger, uitlokker, medeplichtige, feitelijk leidinggever of opdrachtgever wordt genomen met voorafgaande toestemming van de algemeen directeur van een van de organisatieonderdelen genoemd in [artikel 3, eerste lid, onderdeel a en c, van de Uitvoeringsregeling Belastingdienst 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&artikel=3) en de hoofddirecteur van de concerndirectie Fiscale en Juridische Zaken van de Belastingdienst (Cd FJZ), dan wel, voor de Douane, met voorafgaande toestemming van de directeur-generaal Douane.
 
-- 7. Het vorige lid en [§ 12](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=12&z=2026-08-08&g=2026-08-08) zijn van overeenkomstige toepassing op een besluit tot het openbaar maken van een bestuurlijke boete als bedoeld in [artikel 67r van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67r).
+- 7. Het vorige lid en [§ 12](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=12&z=2026-11-01&g=2026-11-01) zijn van overeenkomstige toepassing op een besluit tot het openbaar maken van een bestuurlijke boete als bedoeld in [artikel 67r van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67r).
 
 #### § 3. Ambtshalve vermindering
 
@@ -65,11 +65,11 @@ De inspecteur kan de boetebeschikking op grond van [artikel 65 van de AWR](https
 
 - 4. Belanghebbende kan bijvoorbeeld niet meer vrijwillig verbeteren nadat hem is medegedeeld dat een boekenonderzoek zal worden ingesteld.
 
-- 5. Uitsluitend de vrijwillige verbetering voor de vergrijpboete bij aanslagbelastingen heeft een wettelijke basis ([artikel 67n AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67n); de inkeerregeling). De vrijwillige verbetering voor vergrijpboeten bij aangiftebelastingen is beleidsmatig in [§ 25](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=3&paragraaf=25&z=2026-08-08&g=2026-08-08) geregeld.
+- 5. Uitsluitend de vrijwillige verbetering voor de vergrijpboete bij aanslagbelastingen heeft een wettelijke basis ([artikel 67n AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67n); de inkeerregeling). De vrijwillige verbetering voor vergrijpboeten bij aangiftebelastingen is beleidsmatig in [§ 25](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=3&paragraaf=25&z=2026-11-01&g=2026-11-01) geregeld.
 
 #### § 6. Straftoemeting
 
-- 1. Bij het opleggen van een boete gaat de inspecteur uit van de percentages of bedragen vermeld in dit besluit. Het opleggen van een boete is een vorm van straftoemeting. Daarom houdt de inspecteur rekening met omstandigheden die aanleiding geven tot een hogere of een lagere boete dan op grond van de percentages of bedragen van dit besluit kan worden opgelegd. Deze omstandigheden (zie [§ 7](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=7&z=2026-08-08&g=2026-08-08) en [§ 8](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=8&z=2026-08-08&g=2026-08-08)) vormen het sluitstuk van de behoorlijke straftoemeting bij bestuurlijke boeten. Gelet hierop is de inspecteur bij de uiteindelijke vaststelling van de hoogte van de boete dus niet gebonden aan vaste bedragen of percentages. De op grond van [§ 21 tot en met § 37](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=2&paragraaf=21&z=2026-08-08&g=2026-08-08) bepaalde hoogte van de boete kan zowel met een bepaald bedrag als met een bepaald percentage verlaagd of verhoogd worden. De boete kan echter nooit meer bedragen dan het wettelijk maximum.
+- 1. Bij het opleggen van een boete gaat de inspecteur uit van de percentages of bedragen vermeld in dit besluit. Het opleggen van een boete is een vorm van straftoemeting. Daarom houdt de inspecteur rekening met omstandigheden die aanleiding geven tot een hogere of een lagere boete dan op grond van de percentages of bedragen van dit besluit kan worden opgelegd. Deze omstandigheden (zie [§ 7](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=7&z=2026-11-01&g=2026-11-01) en [§ 8](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=8&z=2026-11-01&g=2026-11-01)) vormen het sluitstuk van de behoorlijke straftoemeting bij bestuurlijke boeten. Gelet hierop is de inspecteur bij de uiteindelijke vaststelling van de hoogte van de boete dus niet gebonden aan vaste bedragen of percentages. De op grond van [§ 21 tot en met § 37](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=2&paragraaf=21&z=2026-11-01&g=2026-11-01) bepaalde hoogte van de boete kan zowel met een bepaald bedrag als met een bepaald percentage verlaagd of verhoogd worden. De boete kan echter nooit meer bedragen dan het wettelijk maximum.
 
 - 2. Bij het in aanmerking nemen van individuele omstandigheden vindt een afweging plaats tussen zowel strafverminderende feiten en omstandigheden als strafverzwarende feiten en omstandigheden. Het resultaat van de afweging zal moeten leiden tot een boete die passend is te achten bij de geconstateerde beboetbare gedraging.
 
@@ -109,7 +109,7 @@ De inspecteur kan de boetebeschikking op grond van [artikel 65 van de AWR](https
 
 #### § 8. Strafverzwarende omstandigheden
 
-- 1. In bijzondere gevallen kan de op grond van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=3&z=2026-08-08&g=2026-08-08) bepaalde vergrijpboete worden verhoogd. Het verhogen van een verzuimboete op grond van deze paragraaf is niet toegestaan.
+- 1. In bijzondere gevallen kan de op grond van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=3&z=2026-11-01&g=2026-11-01) bepaalde vergrijpboete worden verhoogd. Het verhogen van een verzuimboete op grond van deze paragraaf is niet toegestaan.
 
 - 2. In daarvoor in aanmerking komende gevallen moet rekening worden gehouden met recidive. Van recidive is sprake indien aan belanghebbende voor hetzelfde belastingmiddel reeds eerder een vergrijpboete of een straf is opgelegd.
 
@@ -133,6 +133,20 @@ De inspecteur kan de boetebeschikking op grond van [artikel 65 van de AWR](https
 
 #### § 9. Dag van betaling
 
+- 1. Voor de betalingen wordt aangesloten bij het civielrechtelijke uitgangspunt dat een betaling geacht wordt te hebben plaatsgevonden op het tijdstip waarop het verschuldigde bedrag op de rekening van de crediteur is bijgeschreven.
+
+- 2. Voor de toepassing van dit besluit geldt als dag van betaling:
+
+   - – bij betalingen per bank de datum van bijschrijving op de rekening van de Belastingdienst;
+
+   - – bij betaling op het postkantoor, hetzij door middel van storting van contant geld hetzij met een pinpas, de eerste werkdag volgend op de dag van de storting of pintransactie;
+
+   - – bij rechtstreekse betaling aan de Belastingdienst door middel van pin- en creditcardtransacties bij de Belastingdienst/Douane de dag van de pin- of creditcardtransactie.
+
+- 3. De huisbankier van de Belastingdienst heeft één werkdag nodig om het op het postkantoor gestorte contante geld op de rekening van de Belastingdienst bij te schrijven.
+
+- 4. Bij de Belastingdienst/Douane kan, uitsluitend ter zake van enkele niet-fiscale douanetaken, betaald worden door middel van pin- en creditcardtransacties.
+
 #### § 10. Eenvoudige en uitvoerige procedure (artikel 67pa van de AWR)
 
 - 1. In [afdeling 5.4.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=5.4.2) zijn twee procedures neergelegd:
@@ -143,13 +157,13 @@ De inspecteur kan de boetebeschikking op grond van [artikel 65 van de AWR](https
 
 - 2. Bij het opleggen van een verzuimboete kan worden volstaan met het volgen van de lichte procedure, hetgeen een relatief eenvoudige procedure is voor lichte boeten.
 
-- 3. De zware procedure moet worden gevolgd wanneer het opleggen van een vergrijpboete wordt overwogen. Zie [§ 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=12&z=2026-08-08&g=2026-08-08).
+- 3. De zware procedure moet worden gevolgd wanneer het opleggen van een vergrijpboete wordt overwogen. Zie [§ 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=12&z=2026-11-01&g=2026-11-01).
 
 #### § 11. Mededelingsplicht
 
 - 1. Bij het opleggen van een boete vermeldt de mededeling de feiten die aanleiding hebben gegeven tot het opleggen van de boete, alsmede, indien sprake is van een vergrijpboete, de feiten en omstandigheden op grond waarvan kan worden aangenomen dat sprake is van opzet of grove schuld. In voorkomende gevallen dient de mededeling tevens te vermelden de bijzondere omstandigheden die tot een matiging dan wel verhoging van de boete hebben geleid.
 
-- 2. Indien een kennisgeving in de zin van [§ 12](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=12&z=2026-08-08&g=2026-08-08) is verzonden waarin de gronden van het voornemen een vergrijpboete op te leggen zijn opgenomen, waarop geen reactie van belanghebbende is ontvangen, kan de inspecteur in de mededeling volstaan met een verwijzing naar de kennisgeving.
+- 2. Indien een kennisgeving in de zin van [§ 12](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=12&z=2026-11-01&g=2026-11-01) is verzonden waarin de gronden van het voornemen een vergrijpboete op te leggen zijn opgenomen, waarop geen reactie van belanghebbende is ontvangen, kan de inspecteur in de mededeling volstaan met een verwijzing naar de kennisgeving.
 
 #### § 12. Kennisgeving en hoorplicht bij vergrijpboete
 
@@ -201,7 +215,7 @@ De inspecteur kan de boetebeschikking op grond van [artikel 65 van de AWR](https
 
 - 1. Indien het opleggen van een vergrijpboete tot een lager boetebedrag voor hetzelfde feit zou leiden dan het opleggen van een verzuimboete dan kiest de inspecteur voor het opleggen van de hogere verzuimboete.
 
-- 2. Een eenmaal opgelegde verzuimboete sluit het opleggen van een vergrijpboete voor hetzelfde feit uit ([artikel 5:43 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:43)) behoudens bij nieuwe bezwaren ([art. 67q AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67q), zie [§ 16](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=16&z=2026-08-08&g=2026-08-08)).
+- 2. Een eenmaal opgelegde verzuimboete sluit het opleggen van een vergrijpboete voor hetzelfde feit uit ([artikel 5:43 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:43)) behoudens bij nieuwe bezwaren ([art. 67q AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67q), zie [§ 16](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=16&z=2026-11-01&g=2026-11-01)).
 
 - 3. Het opleggen van een vergrijpboete sluit het nadien opleggen van een verzuimboete voor hetzelfde feit uit ([artikel 5:43 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:43)). Een opgelegde vergrijpboete kan niet worden omgezet in een verzuimboete. De inspecteur dient de mogelijkheid van deze uitkomst mee te wegen bij zijn keuze tussen een verzuim- of vergrijpboete.
 
@@ -217,7 +231,7 @@ De inspecteur kan de boetebeschikking op grond van [artikel 65 van de AWR](https
 
 #### § 16. Vergrijpboete na verzuimboete bij nieuwe bezwaren (artikel 67q van de AWR)
 
-De boete- en fraudecoördinator is belast met de beoordeling van (de aanwezigheid van) nieuwe bezwaren, het afnemen van het hoorgesprek als bedoeld in [§ 12](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=12&z=2026-08-08&g=2026-08-08) en het opleggen van de vergrijpboete.
+De boete- en fraudecoördinator is belast met de beoordeling van (de aanwezigheid van) nieuwe bezwaren, het afnemen van het hoorgesprek als bedoeld in [§ 12](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=12&z=2026-11-01&g=2026-11-01) en het opleggen van de vergrijpboete.
 
 ### Hoofdstuk 2. Verzuimboeten
 
@@ -237,7 +251,7 @@ De boete- en fraudecoördinator is belast met de beoordeling van (de aanwezighei
 
 #### § 22. Aangifteverzuimboete aangiftebelasting artikel 67b, eerste lid, van de AWR
 
-- 1. Deze paragraaf is niet van toepassing op de aangifte loonbelasting. Zie voor de loonbelasting [§ 22a](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=2&paragraaf=22a&z=2026-08-08&g=2026-08-08).
+- 1. Deze paragraaf is niet van toepassing op de aangifte loonbelasting. Zie voor de loonbelasting [§ 22a](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=2&paragraaf=22a&z=2026-11-01&g=2026-11-01).
 
 - 2. Het niet of niet binnen de termijn doen van aangifte voor de aangiftebelasting wordt aangemerkt als een aangifteverzuim.
 
@@ -246,8 +260,6 @@ De boete- en fraudecoördinator is belast met de beoordeling van (de aanwezighei
 - 4. In geval dat de aangifte wordt ingediend binnen zeven dagen na afloop van de wettelijke aangiftetermijn legt de inspecteur geen verzuimboete op.
 
 - 5. In afwijking van het derde en vierde lid kan in uitzonderlijke gevallen een boete tot het maximum van [artikel 67b, eerste lid, van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67b), worden opgelegd. Van een uitzonderlijk geval kan bijvoorbeeld sprake zijn indien belanghebbende stelselmatig in verzuim is.
-
-- 6. Voor aangifteverzuimen die betrekking hebben op de aangifteplicht, bedoeld in [artikel 14.3, van de Wet minimumbelasting 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=14.3), wordt tot en met 31 oktober 2026 geen verzuimboete opgelegd.
 
 #### § 22a. Aangifteverzuimboete loonbelasting artikel 67b, tweede lid, van de AWR
 
@@ -263,7 +275,7 @@ De boete- en fraudecoördinator is belast met de beoordeling van (de aanwezighei
 
 #### § 23. Betalingsverzuimboete aangiftebelasting artikel 67c van de AWR
 
-- 1. Deze paragraaf ziet op betalingsverzuimen in het (periodieke) betalingspatroon. Constatering van een dergelijk betalingsverzuim vindt doorgaans plaats door geautomatiseerde vergelijking van de betaling met de gedane aangifte. Is er geen aangifte gedaan, dan wordt veelal geautomatiseerd een naheffingsaanslag met een geschat bedrag opgelegd. Inhoudelijke toetsing van de op de aangifte vermelde belastingschuld aan de materiële belastingschuld vindt in deze fase niet plaats. Deze paragraaf ziet derhalve niet op onjuistheden in het betalingsgedrag die pas bij de hiervoor genoemde inhoudelijke toetsing, bijvoorbeeld bij een boekenonderzoek, aan het licht komen (zie [§ 24](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=2&paragraaf=24&z=2026-08-08&g=2026-08-08)).
+- 1. Deze paragraaf ziet op betalingsverzuimen in het (periodieke) betalingspatroon. Constatering van een dergelijk betalingsverzuim vindt doorgaans plaats door geautomatiseerde vergelijking van de betaling met de gedane aangifte. Is er geen aangifte gedaan, dan wordt veelal geautomatiseerd een naheffingsaanslag met een geschat bedrag opgelegd. Inhoudelijke toetsing van de op de aangifte vermelde belastingschuld aan de materiële belastingschuld vindt in deze fase niet plaats. Deze paragraaf ziet derhalve niet op onjuistheden in het betalingsgedrag die pas bij de hiervoor genoemde inhoudelijke toetsing, bijvoorbeeld bij een boekenonderzoek, aan het licht komen (zie [§ 24](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=2&paragraaf=24&z=2026-11-01&g=2026-11-01)).
 
 - 2. Voor het opleggen van de boeten voor een betalingsverzuim wordt een systematiek gehanteerd waarbij de verzuimboete wordt gerelateerd aan de hoogte van de niet, gedeeltelijk niet of niet binnen de termijn betaalde belasting.
 
@@ -275,11 +287,9 @@ De boete- en fraudecoördinator is belast met de beoordeling van (de aanwezighei
 
 - 6. In afwijking van de leden 2 tot en met 4 kan in uitzonderlijke gevallen een verzuimboete tot het wettelijk maximum worden opgelegd. Van een uitzonderlijk geval kan bijvoorbeeld sprake zijn indien belanghebbende stelselmatig in verzuim is.
 
-- 7. Voor betaalverzuimen die betrekking hebben op de verplichting om op aangifte te betalen, bedoeld in [artikel 14.3, van de Wet minimumbelasting 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=14.3), wordt tot en met 31 oktober 2026 geen verzuimboete opgelegd.
-
 #### § 24. Verzuimboete aangiftebelasting betalingsverzuim gebleken onjuistheden artikel 67c van de AWR
 
-- 1. Anders dan [§ 23](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=2&paragraaf=23&z=2026-08-08&g=2026-08-08) ziet deze paragraaf op de situatie waarin niet, gedeeltelijk niet of niet binnen de termijn is betaald omdat er te weinig belasting is aangegeven. Deze paragraaf ziet op situaties waarin de inspecteur niet in het kader van het periodieke betalingspatroon maar pas naderhand heeft kunnen constateren dat belanghebbende de belasting niet, gedeeltelijk niet of niet binnen de termijn heeft afgedragen of voldaan, omdat er te weinig belasting is aangegeven. Deze paragraaf ziet dus ook op de situatie dat belanghebbende niet heeft betaald, omdat hij ten onrechte niet heeft verzocht om een uitnodiging tot het doen van aangifte.
+- 1. Anders dan [§ 23](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=2&paragraaf=23&z=2026-11-01&g=2026-11-01) ziet deze paragraaf op de situatie waarin niet, gedeeltelijk niet of niet binnen de termijn is betaald omdat er te weinig belasting is aangegeven. Deze paragraaf ziet op situaties waarin de inspecteur niet in het kader van het periodieke betalingspatroon maar pas naderhand heeft kunnen constateren dat belanghebbende de belasting niet, gedeeltelijk niet of niet binnen de termijn heeft afgedragen of voldaan, omdat er te weinig belasting is aangegeven. Deze paragraaf ziet dus ook op de situatie dat belanghebbende niet heeft betaald, omdat hij ten onrechte niet heeft verzocht om een uitnodiging tot het doen van aangifte.
 
 - 2. Indien sprake is van het niet, gedeeltelijk niet dan wel niet binnen de termijn betalen van een aangiftebelasting, legt de inspecteur een verzuimboete op van 10 procent van de verschuldigde belasting tot het wettelijk maximum van [artikel 67c, eerste lid, van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67c). De boete wordt minimaal gesteld op € 50.
 
@@ -291,9 +301,25 @@ De boete- en fraudecoördinator is belast met de beoordeling van (de aanwezighei
 
 - 6. De hiervoor bedoelde boete wordt niet gebaseerd op een verklaring die belanghebbende ter nakoming van een wettelijke mededelingsplicht en onder bedreiging van een boete heeft verstrekt (zie ECLI:NL:HR:2021:1351).
 
-- 7. Voorts wordt de hiervoor bedoelde verzuimboete niet opgelegd voor zover sprake is van een vrijwillige verbetering (zie [§ 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=5&z=2026-08-08&g=2026-08-08)).
+- 7. Voorts wordt de hiervoor bedoelde verzuimboete niet opgelegd voor zover sprake is van een vrijwillige verbetering (zie [§ 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=5&z=2026-11-01&g=2026-11-01)).
 
 #### § 24a. Verzuimboete aangiftebelasting betalingsverzuim suppletie / correctiebericht artikel 67c van de AWR
+
+- 1. Deze paragraaf geeft inhoud aan de wijze waarop de verzuimboete wordt berekend ingeval van een suppletie voor aangiftebelastingen die is aan te merken als een vrijwillige verbetering. Voor de toepassing van deze paragraaf is het uitgangspunt dat de suppletie alsnog leidt tot een juiste afdracht of voldoening van verschuldigde belasting.
+
+- 2. De werkingssfeer is beperkt tot die situaties waarin belanghebbende in eerste instantie de op aangifte te betalen belasting te laag heeft berekend, aangegeven en betaald en overeenkomstig een suppletie van de aangifte het te weinig betaalde belasting alsnog betaalt.
+
+- 3. Indien sprake is van een suppletie legt de inspecteur,
+
+   - a. geen vergrijpboete op grond van [artikel 67f van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67f) op (zie [§ 25, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=3&paragraaf=25&z=2026-11-01&g=2026-11-01)), en
+
+   - b. geen verzuimboete op indien het belastingbedrag dat ingevolge de suppletie alsnog wordt betaald € 20.000 of minder bedraagt, of
+
+   - c. geen verzuimboete op indien het belastingbedrag dat ingevolge de suppletie wordt betaald minder bedraagt dan 10 procent van het bedrag van de belasting die over het tijdvak/de tijdvakken waarop de suppletie(s) betrekking heeft/hebben, eerder per saldo is betaald dan wel terugontvangen;
+
+   - d. in overige gevallen een verzuimboete op van 5 procent tot het wettelijk maximum van [artikel 67c, eerste lid, van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67c).
+
+- 4. Het grensbedrag van het derde lid wordt toegepast op de tijdvakken die in een kalenderjaar of (gebroken) boekjaar vallen. Heeft de suppletie betrekking op tijdvakken die in meer kalenderjaren of (gebroken) boekjaren vallen, dan legt de inspecteur per kalenderjaar of (gebroken) boekjaar een eventuele verzuimboete op.
 
 #### § 24b. Verzuimboete artikel 67ca van de AWR
 
@@ -325,13 +351,13 @@ De boete- en fraudecoördinator is belast met de beoordeling van (de aanwezighei
 
 - 7. Het vorige lid vindt overeenkomstige toepassing indien meer dan één boetepercentage moet worden toegepast.
 
-- 8. Indien sprake is van vrijwillige verbetering (zie [§ 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=5&z=2026-08-08&g=2026-08-08)) met betrekking tot een aangiftebelasting legt de inspecteur geen vergrijpboete op grond van [artikel 67f van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67f) op.
+- 8. Indien sprake is van vrijwillige verbetering (zie [§ 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=5&z=2026-11-01&g=2026-11-01)) met betrekking tot een aangiftebelasting legt de inspecteur geen vergrijpboete op grond van [artikel 67f van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67f) op.
 
 #### § 25a. Vergrijpboete verzoeken artikel 67cc van de AWR
 
 - 1. Indien in een verzoek om het vaststellen van een voorlopige aanslag of in een verzoek om herziening als bedoeld in [artikel 9.5 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.5) en [artikel 27 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=27) met opzet onjuiste of onvolledige gegevens of inlichtingen zijn verstrekt, legt de inspecteur een vergrijpboete op.
 
-- 2. De vergrijpboete bedraagt maximaal 100% van het bedrag aan belasting dat als gevolg van de onjuiste of onvolledige gegevens of inlichtingen ten onrechte is of zou zijn teruggeven of ten onrechte niet is of zou zijn betaald. De [eerste volzin van het vijfde lid van § 25](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=3&paragraaf=25&z=2026-08-08&g=2026-08-08) is niet van toepassing.
+- 2. De vergrijpboete bedraagt maximaal 100% van het bedrag aan belasting dat als gevolg van de onjuiste of onvolledige gegevens of inlichtingen ten onrechte is of zou zijn teruggeven of ten onrechte niet is of zou zijn betaald. De [eerste volzin van het vijfde lid van § 25](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=3&paragraaf=25&z=2026-11-01&g=2026-11-01) is niet van toepassing.
 
 - 3. Een vergrijpboete wordt niet opgelegd na de dagtekening van de definitieve aanslag over het belastingjaar waarop het verzoek betrekking heeft.
 
@@ -399,7 +425,7 @@ De boete- en fraudecoördinator is belast met de beoordeling van (de aanwezighei
 
 - 3. Indien het aan opzet of grove schuld van de belanghebbende is te wijten dat de belasting (gedeeltelijk) niet binnen de termijn is betaald, legt de inspecteur de vergrijpboete op bij een afzonderlijke beschikking.
 
-- 4. [Paragraaf 24, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=2&paragraaf=24&z=2026-08-08&g=2026-08-08), van dit besluit is van overeenkomstige toepassing.
+- 4. [Paragraaf 24, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=2&paragraaf=24&z=2026-11-01&g=2026-11-01), van dit besluit is van overeenkomstige toepassing.
 
 - 5. Bij onjuiste en onvolledige kilometeradministraties is vaak sprake van manipulatie, een bepaalde vorm van listigheid dan wel valsheid in geschrifte. Het is een ernstige zaak als de inspecteur door de onjuistheid of onvolledigheid van de overgelegde kilometeradministratie wordt misleid en daardoor ten onrechte accepteert dat geen sprake is van (belastbaar) privégebruik. Dit is zeer verwijtbaar en daarom is in beginsel een hogere standaardboete van toepassing dan de standaardboete bij andere correcties. Uitgaande van die hogere boeten dient de inspecteur echter wel steeds te beoordelen of de feiten in de betreffende zaak voldoende ernstig zijn om ook in die zaak een dergelijke hogere boete op te leggen.
 
@@ -457,7 +483,7 @@ Indien het aan opzet of grove schuld van belanghebbende is te wijten dat de mede
 
 - 1. Indien het aan opzet of grove schuld van belanghebbende is te wijten dat de in [artikel 11, eerste, tweede, derde of vierde lid, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=11) (WIB) bedoelde verplichtingen niet, niet tijdig, niet volledig of niet juist zijn of worden nagekomen, vormt dit een vergrijp ter zake waarvan door of namens de Minister van Financiën een vergrijpboete wordt opgelegd.
 
-- 2. De hoogte van de in [artikel 11 van de WIB](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=11) bedoelde vergrijpboete wordt, onverminderd de toepassing van [§ 6 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=6&z=2026-08-08&g=2026-08-08), in overleg met de vaktechnisch coördinator formeel recht bepaald.
+- 2. De hoogte van de in [artikel 11 van de WIB](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=11) bedoelde vergrijpboete wordt, onverminderd de toepassing van [§ 6 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=6&z=2026-11-01&g=2026-11-01), in overleg met de vaktechnisch coördinator formeel recht bepaald.
 
 #### § 28g. Vergrijpboete informatieverplichting artikel 75 van de SW jo. artikel 10e, lid 7 van het UBSW 1956
 
@@ -469,19 +495,19 @@ Indien het aan opzet of grove schuld van belanghebbende is te wijten dat de mede
 
 - 1. Indien het aan opzet of grove schuld van belanghebbende is te wijten dat de in [artikel 29h, eerste lid, van de Wet Vpb](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=29h) bedoelde verplichtingen niet, niet tijdig, niet volledig of niet juist zijn of worden nagekomen, legt de inspecteur een vergrijpboete op (artikel 29h, eerste lid, van de Wet Vpb).
 
-- 2. De hoogte van de vergrijpboete wordt, onverminderd de toepassing van [§ 6 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=6&z=2026-08-08&g=2026-08-08), in overleg met de vaktechnisch coördinator formeel recht bepaald.
+- 2. De hoogte van de vergrijpboete wordt, onverminderd de toepassing van [§ 6 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=6&z=2026-11-01&g=2026-11-01), in overleg met de vaktechnisch coördinator formeel recht bepaald.
 
 #### § 28i. Vergrijpboete informatieverplichting binnenlandse transacties (artikel 67fa AWR)
 
 - 1. Indien het aan opzet of grove schuld van de belanghebbende is te wijten dat de verplichtingen, bedoeld in [artikel 67fa, eerste lid, AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67fa) niet, niet tijdig, onjuist of onvolledig zijn of worden nagekomen, legt de inspecteur een vergrijpboete op.
 
-- 2. De hoogte van de vergrijpboete wordt, onverminderd de toepassing van [§ 6 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=6&z=2026-08-08&g=2026-08-08), in overleg met de vaktechnisch coördinator formeel recht bepaald.
+- 2. De hoogte van de vergrijpboete wordt, onverminderd de toepassing van [§ 6 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=6&z=2026-11-01&g=2026-11-01), in overleg met de vaktechnisch coördinator formeel recht bepaald.
 
 #### § 28j. Vergrijpboete bijheffing-informatieverplichting (artikel 13.3 van de Wet minimumbelasting 2024)
 
 - 1. Indien het aan opzet of grove schuld van de belanghebbende is te wijten dat een verplichting als bedoeld in [artikel 13.3 van de Wet minimumbelasting 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=13.3) niet, niet tijdig, niet volledig of niet juist is of wordt nagekomen, legt de inspecteur een vergrijpboete op.
 
-- 2. De hoogte van de vergrijpboete wordt, onverminderd de toepassing van [§ 6 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=6&z=2026-08-08&g=2026-08-08), in overleg met de vaktechnisch coördinator formeel recht bepaald.
+- 2. De hoogte van de vergrijpboete wordt, onverminderd de toepassing van [§ 6 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=6&z=2026-11-01&g=2026-11-01), in overleg met de vaktechnisch coördinator formeel recht bepaald.
 
 ### Hoofdstuk 4. Bijzondere verzuimboeten
 
@@ -515,11 +541,11 @@ Indien het aan opzet of grove schuld van belanghebbende is te wijten dat de mede
 
 - 3. In uitzonderlijke gevallen kan een verzuimboete tot het wettelijk maximum van [artikel 28c van de Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=28c) worden opgelegd. Hierbij kan bijvoorbeeld worden gedacht aan situaties waarin sprake is van het stelselmatig niet, niet binnen de termijn, onjuist of onvolledig indienen van de EDM.
 
-- 4. Het opleggen van een verzuimboete op grond van deze paragraaf blijft achterwege, indien reeds met toepassing van [§ 22a](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=2&paragraaf=22a&z=2026-08-08&g=2026-08-08) ter zake van dezelfde onjuistheden of onvolledigheden een boete is opgelegd in verband met een onjuiste of onvolledige loonbelastingaangifte.
+- 4. Het opleggen van een verzuimboete op grond van deze paragraaf blijft achterwege, indien reeds met toepassing van [§ 22a](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=2&paragraaf=22a&z=2026-11-01&g=2026-11-01) ter zake van dezelfde onjuistheden of onvolledigheden een boete is opgelegd in verband met een onjuiste of onvolledige loonbelastingaangifte.
 
 #### § 31a. Verzuimboete omzetbelasting artikel 40 van de Wet OB
 
-De bepalingen van de [§ 31a tot en met § 32](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=4&paragraaf=31a&z=2026-08-08&g=2026-08-08) zijn van toepassing op de verzuimboete op basis van [artikel 40 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=40) (hierna: Wet OB). Op grond van dit artikel kan de inspecteur een verzuimboete opleggen indien de belanghebbende de in [artikel 37a van de Wet OB](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=37a) bedoelde lijst niet of niet binnen de termijn heeft ingediend, dan wel een onvolledige of een onjuiste lijst heeft ingediend. De lijst van artikel 37a van de Wet OB wordt in het vervolg aangeduid als de opgaaf ICP, waarbij de afkorting ICP staat voor intracommunautaire prestaties.
+De bepalingen van de [§ 31a tot en met § 32](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=4&paragraaf=31a&z=2026-11-01&g=2026-11-01) zijn van toepassing op de verzuimboete op basis van [artikel 40 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=40) (hierna: Wet OB). Op grond van dit artikel kan de inspecteur een verzuimboete opleggen indien de belanghebbende de in [artikel 37a van de Wet OB](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=37a) bedoelde lijst niet of niet binnen de termijn heeft ingediend, dan wel een onvolledige of een onjuiste lijst heeft ingediend. De lijst van artikel 37a van de Wet OB wordt in het vervolg aangeduid als de opgaaf ICP, waarbij de afkorting ICP staat voor intracommunautaire prestaties.
 
 #### § 31b. Verzuimboete niet of niet binnen de termijn indienen opgaaf ICP en indienen onjuiste of onvolledige opgaaf ICP artikel 40 van de Wet OB
 
@@ -563,9 +589,9 @@ De bepalingen van de [§ 31a tot en met § 32](https://wetten.overheid.nl/jci1.3
 
 - 9. In uitzonderlijke gevallen kan een verzuimboete tot maximaal € 6.709 worden opgelegd. Van een uitzonderlijk geval kan sprake zijn indien bijvoorbeeld belanghebbende stelselmatig in verzuim is. Ook kan bijvoorbeeld worden gedacht aan situaties waarin veelvuldig een onjuiste opgaaf ICP is ingediend dan wel aan situaties waarin sprake is van samenspanning van leverancier en afnemer ten einde in Nederland of een andere Lidstaat van de Europese Gemeenschap belastingontduiking te bevorderen. Een ander voorbeeld is het stelselmatig niet of onjuist vermelden van de totaalbedragen van de leveringen per afnemer in het betreffende tijdvak in de opgaaf ICP.
 
-- 10. Het opleggen van een verzuimboete wegens het indienen van een onjuiste opgaaf ICP blijft achterwege, indien voor deze opgaaf ICP reeds een verzuimboete is opgelegd op de voet van [§ 31b](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=4&paragraaf=31b&z=2026-08-08&g=2026-08-08) van dit besluit.
+- 10. Het opleggen van een verzuimboete wegens het indienen van een onjuiste opgaaf ICP blijft achterwege, indien voor deze opgaaf ICP reeds een verzuimboete is opgelegd op de voet van [§ 31b](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=4&paragraaf=31b&z=2026-11-01&g=2026-11-01) van dit besluit.
 
-- 11. Het opleggen van een verzuimboete wegens het indienen van een onjuiste opgaaf ICP blijft achterwege, indien reeds met toepassing van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=2&z=2026-08-08&g=2026-08-08) van dit besluit ter zake van dezelfde onjuistheden een boete is opgelegd in verband met een onjuiste OB-aangifte.
+- 11. Het opleggen van een verzuimboete wegens het indienen van een onjuiste opgaaf ICP blijft achterwege, indien reeds met toepassing van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=2&z=2026-11-01&g=2026-11-01) van dit besluit ter zake van dezelfde onjuistheden een boete is opgelegd in verband met een onjuiste OB-aangifte.
 
 #### § 33. Verzuimboete betalingscontrole motorrijtuigenbelasting (artikel 67c van de AWR)
 
@@ -579,13 +605,13 @@ De bepalingen van de [§ 31a tot en met § 32](https://wetten.overheid.nl/jci1.3
 
 - 5. (Vervallen.)
 
-- 6. Verzuimen als bedoeld in de [paragrafen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=4&paragraaf=34&z=2026-08-08&g=2026-08-08) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=4&paragraaf=35&z=2026-08-08&g=2026-08-08) worden niet meegerekend.
+- 6. Verzuimen als bedoeld in de [paragrafen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=4&paragraaf=34&z=2026-11-01&g=2026-11-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=4&paragraaf=35&z=2026-11-01&g=2026-11-01) worden niet meegerekend.
 
 - 7. Ingeval op grond van [artikel 4c, zevende lid, van de Uitvoeringsregeling MB 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0007308&artikel=4c) de vergunning voor het betalen per maand van de belasting is geëindigd of door de inspecteur is ingetrokken, wordt op grond van [artikel 20 van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=20) een naheffingsaanslag voor de resterende belastingschuld over het lopende tijdvak opgelegd. Indien het intrekken van de vergunning zijn oorzaak vindt in het niet aan de voorwaarden van de vergunning hebben voldaan door de belastingplichtige, legt de inspecteur een verzuimboete op als bedoeld in de voorgaande leden van deze paragraaf. Indien de vergunning op verzoek van belanghebbende vervalt en op grond van [artikel 20 van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=20) een naheffingsaanslag voor de resterende belastingschuld over het lopende tijdvak wordt opgelegd, legt de inspecteur geen verzuimboete op.
 
 #### § 34. Verzuimboete overige naheffingen Wet MB 1994
 
-- 1. Deze paragraaf heeft betrekking op andere naheffingsaanslagen dan die voortvloeien uit de in [§ 33](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=4&paragraaf=33&z=2026-08-08&g=2026-08-08) bedoelde betalingscontrole. Het betreft in deze paragraaf in het algemeen naheffingen vanwege het niet doen van een juiste aangifte, het niet voldoen aan de gestelde voorwaarden, het gebruik maken van de weg gedurende een schorsing, of het niet hebben betaald van de verschuldigde belasting ingeval van een in het buitenland of een ten onrechte niet in Nederland gekentekend motorrijtuig. Indien een of meer van dergelijke feiten worden geconstateerd, is sprake van een verzuim. Ter zake van dat verzuim legt de inspecteur op grond van de [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=37), respectievelijk [70](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=70), [77](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=77) of [84a van de Wet MB 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=84a) een verzuimboete op. [Artikel 67c van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67c) is hierbij van overeenkomstige toepassing.
+- 1. Deze paragraaf heeft betrekking op andere naheffingsaanslagen dan die voortvloeien uit de in [§ 33](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=4&paragraaf=33&z=2026-11-01&g=2026-11-01) bedoelde betalingscontrole. Het betreft in deze paragraaf in het algemeen naheffingen vanwege het niet doen van een juiste aangifte, het niet voldoen aan de gestelde voorwaarden, het gebruik maken van de weg gedurende een schorsing, of het niet hebben betaald van de verschuldigde belasting ingeval van een in het buitenland of een ten onrechte niet in Nederland gekentekend motorrijtuig. Indien een of meer van dergelijke feiten worden geconstateerd, is sprake van een verzuim. Ter zake van dat verzuim legt de inspecteur op grond van de [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=37), respectievelijk [70](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=70), [77](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=77) of [84a van de Wet MB 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=84a) een verzuimboete op. [Artikel 67c van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67c) is hierbij van overeenkomstige toepassing.
 
 - 2. De verzuimboete bedraagt 50 procent van het bedrag aan belasting dat niet of gedeeltelijk niet is betaald, met een minimum van € 50 en maximaal het wettelijk maximum van [artikel 67c van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67c). De verzuimboete wordt opgelegd aan degene op wiens naam de naheffingsaanslag is gesteld.
 

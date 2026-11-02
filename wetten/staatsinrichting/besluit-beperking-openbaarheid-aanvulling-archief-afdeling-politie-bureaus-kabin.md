@@ -9,7 +9,7 @@ laatste_update: 2023-05-17
 status: geldig
 toestand: 2023-05-17
 bron: "https://wetten.overheid.nl/BWBR0048158"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid d.d. 20 april 2023, kenmerk 2696573, houdende beperking van de openbaarheid van de aanvulling op het archief van Afdeling Politie, Bureaus Kabinet en Juridische Zaken, (1932) 1945–1952 (1968)

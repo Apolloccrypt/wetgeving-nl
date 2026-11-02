@@ -8,7 +8,7 @@ laatste_update: 2023-02-18
 status: geldig
 toestand: 2023-02-18
 bron: "https://wetten.overheid.nl/BWBR0047886"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Instellingsbesluit Commissie van onderzoek mortierongeval Mali

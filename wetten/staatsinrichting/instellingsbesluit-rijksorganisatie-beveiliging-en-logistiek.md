@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0047764"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Financiën van 27 december 2022, 2022-0000639218, in verband met de instelling van het Agentschap Rijksorganisatie Beveiliging en Logistiek

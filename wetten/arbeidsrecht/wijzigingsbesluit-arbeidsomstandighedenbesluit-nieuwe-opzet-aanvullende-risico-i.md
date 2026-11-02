@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0047619"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van 7 december 2022, houdende wijziging van het Arbeidsomstandighedenbesluit in verband met een nieuwe opzet van de aanvullende risico-inventarisatie en -evaluatie inzake de risico’s zware ongevallen met gevaarlijke stoffen

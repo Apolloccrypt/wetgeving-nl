@@ -9,7 +9,7 @@ laatste_update: 2023-06-19
 status: geldig
 toestand: 2023-06-19
 bron: "https://wetten.overheid.nl/BWBR0048102"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 19 april 2023 nr. BOACAT2023/018, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Sittard-Geleen

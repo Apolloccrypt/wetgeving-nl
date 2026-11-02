@@ -9,7 +9,7 @@ laatste_update: 2026-01-31
 status: geldig
 toestand: 2026-01-31
 bron: "https://wetten.overheid.nl/BWBR0047808"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 18 november 2022, nr. IENW/BSK-2022/203483, houdende vaststelling van de Regeling bodemkwaliteit 2022

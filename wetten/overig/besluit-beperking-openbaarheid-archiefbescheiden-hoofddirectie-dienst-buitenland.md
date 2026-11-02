@@ -9,7 +9,7 @@ laatste_update: 2023-05-18
 status: geldig
 toestand: 2023-05-18
 bron: "https://wetten.overheid.nl/BWBR0048160"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 8 mei 2023, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Hoofddirectie Dienst Buitenlandse Zaken en Hoofddirectie Personeel en Organisatie, personeelsdossiers, Besluit Beperking Openbaarheid Hoofddirectie Dienst Buitenlandse Zaken en Hoofddirectie Personeel en Organisatie, personeelsdossiers (1945) 1985–2010

@@ -9,7 +9,7 @@ laatste_update: 2023-04-07
 status: geldig
 toestand: 2023-04-07
 bron: "https://wetten.overheid.nl/BWBR0048038"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Omzetbelasting. Reisbureauregeling

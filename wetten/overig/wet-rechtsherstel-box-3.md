@@ -9,7 +9,7 @@ laatste_update: 2025-07-19
 status: geldig
 toestand: 2025-07-19
 bron: "https://wetten.overheid.nl/BWBR0047699"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Wet van 21 december 2022 tot wijziging van het voordeel uit sparen en beleggen als bedoeld in artikel 5.2 van de Wet inkomstenbelasting 2001 over de kalenderjaren 2017 tot met 2022 door het lager vaststellen van het voordeel in gevallen waarin dat nodig is om het voordeel in overeenstemming te brengen met de uitspraak van de Hoge Raad van 24 december 2021 (Wet rechtsherstel box 3)

@@ -9,7 +9,7 @@ laatste_update: 2023-02-01
 status: geldig
 toestand: 2023-02-01
 bron: "https://wetten.overheid.nl/BWBR0047670"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister voor Volkshuisvesting en Ruimtelijke Ordening van 15 december 2022 nr. 2022-0000679065 tot openstelling en vaststelling uitkeringsplafond aanvraagtijdvak van de vijfde tranche van de Woningbouwimpuls

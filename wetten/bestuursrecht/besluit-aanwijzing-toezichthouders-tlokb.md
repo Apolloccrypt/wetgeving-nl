@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0048007"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Toelatingsorganisatie Kwaliteitsborging Bouw (TloKB) van 22 februari 2023 tot aanwijzing van toezichthouders TloKB, houdende de aanwijzing van personen die zijn belast met het toezicht op de naleving van het stelsel van kwaliteitsborging voor het bouwen bij of krachtens artikel 7ac en artikel 7ah Woningwet (Besluit aanwijzing toezichthouders TloKB)

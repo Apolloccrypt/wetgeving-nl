@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-06-30
 toestand: 2023-04-01
 bron: "https://wetten.overheid.nl/BWBR0048019"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 24 maart 2023, nr. 35151531, houdende regels voor het verstrekken van specifieke uitkeringen voor de voorschoolse educatie aan ontheemde peuters (Regeling specifieke uitkering voor de voorschoolse educatie aan ontheemde peuters)

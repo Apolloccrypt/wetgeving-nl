@@ -9,7 +9,7 @@ laatste_update: 2026-10-24
 status: geldig
 toestand: 2026-10-24
 bron: "https://wetten.overheid.nl/BWBR0048204"
-opgehaald: 2026-11-01
+opgehaald: 2026-11-02
 ---
 
 # Besluit van 4 mei 2023, houdende voorschriften ter uitvoering van de Wet veiligheidstoets investeringen, fusies en overnames en tot wijziging van het Besluit justitiële en strafvorderlijke gegevens (Besluit veiligheidstoets investeringen, fusies en overnames)

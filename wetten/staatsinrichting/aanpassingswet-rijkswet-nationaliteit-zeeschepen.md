@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0048161"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Wet van 8 juni 2022 tot intrekking van vijf wetten en aanpassing van diverse wetten in verband met de Rijkswet nationaliteit zeeschepen, alsmede goedkeuring van de Regeling vergoeding schade door olieverontreiniging BES (Aanpassingswet Rijkswet nationaliteit zeeschepen)

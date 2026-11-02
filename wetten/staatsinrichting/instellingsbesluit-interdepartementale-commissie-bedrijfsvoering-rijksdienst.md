@@ -9,7 +9,7 @@ laatste_update: 2023-01-26
 status: geldig
 toestand: 2023-01-26
 bron: "https://wetten.overheid.nl/BWBR0047819"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 18 november 2022, nr. 2022-0000027551, houdende instelling van de Interdepartementale Commissie Bedrijfsvoering Rijksdienst (Instellingsbesluit Interdepartementale Commissie Bedrijfsvoering Rijksdienst)

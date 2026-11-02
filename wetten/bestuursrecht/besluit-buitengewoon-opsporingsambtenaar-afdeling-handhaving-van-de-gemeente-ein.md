@@ -9,7 +9,7 @@ laatste_update: 2025-04-02
 status: geldig
 toestand: 2025-04-02
 bron: "https://wetten.overheid.nl/BWBR0047977"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 14 maart 2023 nr. BOACAT2023/013, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij afdeling Stadstoezicht van de gemeente Eindhoven

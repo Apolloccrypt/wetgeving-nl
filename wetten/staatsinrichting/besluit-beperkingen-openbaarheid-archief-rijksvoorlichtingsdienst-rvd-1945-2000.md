@@ -8,7 +8,7 @@ laatste_update: 2023-01-03
 status: geldig
 toestand: 2023-01-03
 bron: "https://wetten.overheid.nl/BWBR0047745"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit Beperkingen Openbaarheid archief Rijksvoorlichtingsdienst (RVD) 1945 – 2000

@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0048148"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Rijkswet van 8 juni 2022, houdende regels omtrent de verkrijging en het verlies van de nationaliteit van zeeschepen (Rijkswet nationaliteit zeeschepen)

@@ -9,7 +9,7 @@ laatste_update: 2025-08-30
 status: geldig
 toestand: 2025-08-30
 bron: "https://wetten.overheid.nl/BWBR0047510"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister voor Rechtsbescherming van 15 november 2022, nummer 4266516, houdende de tijdelijke aanwijzing van de (overige) zittingsplaatsen van een rechtbank als (overige) zittingsplaatsen van een andere rechtbank als bedoeld in artikel 46a van de Wet op de rechterlijke organisatie, ten behoeve van strafzaken in eerste aanleg (Tijdelijke aanwijzing rechtbank Zeeland-West-Brabant voor meervoudige strafzaken van de rechtbank Rotterdam)

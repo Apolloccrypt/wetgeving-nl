@@ -9,7 +9,7 @@ laatste_update: 2023-07-01
 status: geldig
 toestand: 2023-07-01
 bron: "https://wetten.overheid.nl/BWBR0047831"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van 23 januari 2023 tot wijziging van het Besluit prudentiële regels Wft, het Besluit Gedragstoezicht financiële ondernemingen Wft, het Besluit bestuurlijke boetes financiële sector en enige andere besluiten op het terrein van de financiële markten (Wijzigingsbesluit financiële markten 2022)

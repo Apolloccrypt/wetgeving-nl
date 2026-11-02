@@ -5,11 +5,11 @@ identifier: "BWBR0052275"
 categorie: "Overig"
 soort: "zbo"
 publicatiedatum: 2026-02-10
-laatste_update: 2026-02-10
+laatste_update: 2026-11-01
 status: geldig
-toestand: 2026-02-10
+toestand: 2026-11-01
 bron: "https://wetten.overheid.nl/BWBR0052275"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-02
 ---
 
 # Besluit van het Stimuleringsfonds voor de Journalistiek van 10 december 2025, nr. PLJ2627, tot vaststelling van een subsidieregeling Lokale Journalistieke Impact 2026–2027
@@ -91,7 +91,7 @@ Een subsidie wordt verstrekt voor een periode van maximaal 12 maanden voor de ko
 
 ##### Artikel 2.1. Subsidieaanvrager
 
-1. Subsidie kan uitsluitend worden aangevraagd door een private lokale mediaorganisatie als bedoeld in [artikel 1.1, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0052275&hoofdstuk=1&artikel=1.1&z=2026-02-10&g=2026-02-10).
+1. Subsidie kan uitsluitend worden aangevraagd door een private lokale mediaorganisatie als bedoeld in [artikel 1.1, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0052275&hoofdstuk=1&artikel=1.1&z=2026-11-01&g=2026-11-01).
 
 2. Een private lokale mediaorganisatie kan op grond van deze regeling slechts eenmaal voor één dienst of product subsidie aanvragen.
 
@@ -115,7 +115,7 @@ Een subsidie wordt verstrekt voor een periode van maximaal 12 maanden voor de ko
 
 - g) Indien beschikbaar: de meest recente jaarrekening en het meest recente jaarverslag.
 
-2. Een aanvraag wordt alleen in behandeling genomen als deze volledig is. Het Stimuleringsfonds beoordeelt binnen een week na indiening van de aanvraag de volledigheid daarvan. In voorkomend geval krijgt de aanvrager bericht over ontbrekende gegevens, met de eenmalige uitnodiging om de ontbrekende gegevens alsnog binnen één week, maar in elk geval voor het einde van de periode als genoemd in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0052275&hoofdstuk=2&artikel=2.3&z=2026-02-10&g=2026-02-10), aan te leveren. Blijft tijdige en volledige aanlevering van de gegevens uit, dan wordt de aanvraag geweigerd.
+2. Een aanvraag wordt alleen in behandeling genomen als deze volledig is. Het Stimuleringsfonds beoordeelt binnen een week na indiening van de aanvraag de volledigheid daarvan. In voorkomend geval krijgt de aanvrager bericht over ontbrekende gegevens, met de eenmalige uitnodiging om de ontbrekende gegevens alsnog binnen één week, maar in elk geval voor het einde van de periode als genoemd in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0052275&hoofdstuk=2&artikel=2.3&z=2026-11-01&g=2026-11-01), aan te leveren. Blijft tijdige en volledige aanlevering van de gegevens uit, dan wordt de aanvraag geweigerd.
 
 ##### Artikel 2.3. Termijn aanvraag
 
@@ -131,7 +131,7 @@ Het voor subsidie beschikbare bedrag wordt verdeeld op basis van een rangschikki
 
 1. Aanvragen worden door het Stimuleringsfonds eerst beoordeeld aan de hand van het volgende drempelcriterium:
 
-- a) De aanvrager voldoet aan [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052275&hoofdstuk=2&artikel=2.1&z=2026-02-10&g=2026-02-10).
+- a) De aanvrager voldoet aan [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052275&hoofdstuk=2&artikel=2.1&z=2026-11-01&g=2026-11-01).
 
 2. Als een aanvraag niet aan het drempelcriterium voldoet, wijst het Stimuleringsfonds de aanvraag af.
 
@@ -183,7 +183,7 @@ Het voor subsidie beschikbare bedrag wordt verdeeld op basis van een rangschikki
 
 ##### Artikel 3.5. Besluit
 
-Het Stimuleringsfonds beslist binnen 12 weken na afloop van de periode, bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0052275&hoofdstuk=2&artikel=2.3&z=2026-02-10&g=2026-02-10).
+Het Stimuleringsfonds beslist binnen 12 weken na afloop van de periode, bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0052275&hoofdstuk=2&artikel=2.3&z=2026-11-01&g=2026-11-01).
 
 ##### Artikel 3.6. Subsidiehoogte
 
@@ -205,7 +205,7 @@ De maximale hoogte van de te verlenen subsidie per aanvrager is 80.000 euro.
 
 1. Een aanvraag tot subsidievaststelling wordt ingediend in de periode van 5 juli 2027 tot en met 9 juli 2027.
 
-2. De aanvraag tot subsidievaststelling gaat vergezeld van een inhoudelijk verslag en een financieel verslag als bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0052275&hoofdstuk=4&artikel=4.2&z=2026-02-10&g=2026-02-10).
+2. De aanvraag tot subsidievaststelling gaat vergezeld van een inhoudelijk verslag en een financieel verslag als bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0052275&hoofdstuk=4&artikel=4.2&z=2026-11-01&g=2026-11-01).
 
 ##### Artikel 4.2. Inhoudelijk verslag en financieel verslag
 
@@ -249,7 +249,7 @@ De intrekking of wijziging werkt terug tot en met het tijdstip waarop de subsidi
 
 ##### Artikel 5.1. Aanvraag ontwikkelsubsidie
 
-1. Ontwikkelsubsidie kan alleen worden aangevraagd door een subsidieontvanger die op grond van deze regeling reeds subsidie ontvangt, als bedoeld in [artikel 1.5, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0052275&hoofdstuk=1&artikel=1.5&z=2026-02-10&g=2026-02-10) en die met het team deelneemt aan alle georganiseerde activiteiten binnen het begeleidingsprogramma.
+1. Ontwikkelsubsidie kan alleen worden aangevraagd door een subsidieontvanger die op grond van deze regeling reeds subsidie ontvangt, als bedoeld in [artikel 1.5, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0052275&hoofdstuk=1&artikel=1.5&z=2026-11-01&g=2026-11-01) en die met het team deelneemt aan alle georganiseerde activiteiten binnen het begeleidingsprogramma.
 
 2. Een aanvraag wordt uitsluitend ingediend door het invullen van een door het Stimuleringsfonds vastgesteld aanvraagformulier op de website van het Stimuleringsfonds, volgens de daarbij vermelde instructies, en omvat in ieder geval:
 
@@ -277,7 +277,7 @@ De intrekking of wijziging werkt terug tot en met het tijdstip waarop de subsidi
 
 ##### Artikel 5.3. Subsidieplafond ontwikkelsubsidie
 
-1. Voor de ontwikkelsubsidie is in totaal 50.000 euro beschikbaar.
+1. Voor de ontwikkelsubsidie is in totaal 68.750 euro beschikbaar.
 
 2. Het Stimuleringsfonds weigert een subsidieaanvraag voor de ontwikkelsubsidie voor zover door de verstrekking daarvan het subsidieplafond zou worden overschreden.
 
@@ -323,7 +323,7 @@ De maximale hoogte van de te verlenen ontwikkelsubsidie per aanvrager is 6.250 e
 
 2. Alle aanvragen tot subsidievaststelling moeten uiterlijk 31 mei 2027 zijn ingediend.
 
-3. Een aanvraag tot subsidievaststelling gaat vergezeld van een activiteitenverslag en een financieel verslag, zoals bedoeld in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0052275&hoofdstuk=4&artikel=4.2&z=2026-02-10&g=2026-02-10). Het activiteitenverslag en het financieel verslag worden uitsluitend ingediend volgens een door het Stimuleringsfonds vast te stellen format.
+3. Een aanvraag tot subsidievaststelling gaat vergezeld van een activiteitenverslag en een financieel verslag, zoals bedoeld in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0052275&hoofdstuk=4&artikel=4.2&z=2026-11-01&g=2026-11-01). Het activiteitenverslag en het financieel verslag worden uitsluitend ingediend volgens een door het Stimuleringsfonds vast te stellen format.
 
 4. De subsidie wordt vastgesteld op basis van het activiteitenverslag en het financieel verslag.
 

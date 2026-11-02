@@ -9,7 +9,7 @@ laatste_update: 2023-04-06
 status: geldig
 toestand: 2023-04-06
 bron: "https://wetten.overheid.nl/BWBR0048033"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Beleidsregel van de Nederlandsche Bank N.V. van 27 maart 2023 houdende regels met betrekking tot de beoordeling van de afwikkelbaarheid van verzekeraars als bedoeld in artikel 3a:82 van de Wet op het financieel toezicht (Beleidsregel afwikkelbaarheid verzekeraars 2023)

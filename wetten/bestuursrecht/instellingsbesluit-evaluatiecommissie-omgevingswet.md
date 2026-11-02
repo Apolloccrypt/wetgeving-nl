@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0047729"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister voor Volkshuisvesting en Ruimtelijke Ordening van 23 december 2022 houdende instelling van de Commissie evaluatie Omgevingswet (Instellingsbesluit Evaluatiecommissie Omgevingswet)

@@ -9,7 +9,7 @@ laatste_update: 2025-08-16
 status: geldig
 toestand: 2025-08-16
 bron: "https://wetten.overheid.nl/BWBR0047743"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 22 december 2022, nr.MinBuZa.2022.14729-27, houdende beperkende maatregelen ten aanzien van Haïti (Sanctieregeling Haïti 2022)

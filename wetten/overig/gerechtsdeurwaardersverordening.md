@@ -9,7 +9,7 @@ laatste_update: 2023-02-01
 status: geldig
 toestand: 2023-02-01
 bron: "https://wetten.overheid.nl/BWBR0047777"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de ledenraad van de Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders van 8 juli 2022 houdende de vaststelling van de Gerechtsdeurwaardersverordening (Gerechtsdeurwaardersverordening)

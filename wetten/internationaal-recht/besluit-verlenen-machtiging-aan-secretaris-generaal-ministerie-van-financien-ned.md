@@ -9,7 +9,7 @@ laatste_update: 2023-01-18
 status: geldig
 toestand: 2023-01-18
 bron: "https://wetten.overheid.nl/BWBR0047779"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 13 december 2022, nr. Min-BuZa.2022.14738-9, tot het verlenen van machtiging aan de Secretaris-Generaal van het Ministerie van Financiën in het kader van de Nederlandse afdrachten aan de Europese Unie en ontvangsten vanuit het Europees herstelfonds

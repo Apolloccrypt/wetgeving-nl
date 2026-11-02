@@ -9,7 +9,7 @@ laatste_update: 2023-03-01
 status: geldig
 toestand: 2023-03-01
 bron: "https://wetten.overheid.nl/BWBR0047921"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister voor Langdurige Zorg en Sport van 20 februari 2023, kenmerk 3515405-1043206-LZ, houdende vaststelling van het beleidskader en het subsidieplafond inzake het subsidiëren van de uitvoering van gespecialiseerde cliëntondersteuning (Besluit vaststelling beleidskader subsidiëring uitvoering gespecialiseerde cliëntondersteuning)

@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0048026"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van 28 maart 2023, houdende vaststelling van regels met betrekking tot de veiligheid van attractie- en speeltoestellen (Warenwetbesluit attractie- en speeltoestellen 2023)

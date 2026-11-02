@@ -9,7 +9,7 @@ laatste_update: 2023-03-01
 status: geldig
 toestand: 2023-03-01
 bron: "https://wetten.overheid.nl/BWBR0047925"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat van 23 februari 2023, nr. WJZ/26476420, tot vaststelling van regels met betrekking tot de aanvraag en veiling van vergunningen voor landelijke commerciële FM-radio-omroep met bijbehorende vergunningen voor digitale radio-omroep in laag 2 (kanaal 11C) (Regeling aanvraag- en veilingprocedure vergunningen landelijke commerciële radio-omroep 2023)

@@ -9,7 +9,7 @@ laatste_update: 2023-03-28
 status: geldig
 toestand: 2023-03-28
 bron: "https://wetten.overheid.nl/BWBR0047997"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister voor Volkshuisvesting en Ruimtelijke Ordening van 1 maart 2023, nr. 2023-0000089913, houdende aanwijzing van toezichthouders op de naleving van de Wet normering topinkomens op het terrein van Volkshuisvesting en Ruimtelijke Ordening (Aanwijzing toezichthouders WNT overige instellingen Ministerie voor VRO)

@@ -9,7 +9,7 @@ laatste_update: 2022-12-15
 status: geldig
 toestand: 2022-12-15
 bron: "https://wetten.overheid.nl/BWBR0047628"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister voor Klimaat en Energie van 12 december 2022, nr. WJZ/ 22493242, houdende regels inzake een subsidie voor leveranciers ter bekostiging van een plafond voor energietarieven voor kleinverbruikers in 2023 (Subsidieregeling bekostiging plafond energietarieven kleinverbruikers 2023)

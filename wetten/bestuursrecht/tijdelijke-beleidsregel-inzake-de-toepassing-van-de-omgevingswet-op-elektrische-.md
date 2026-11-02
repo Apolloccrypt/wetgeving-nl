@@ -9,7 +9,7 @@ laatste_update: 2025-12-24
 status: geldig
 toestand: 2025-12-24
 bron: "https://wetten.overheid.nl/BWBR0047700"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat van 16 december 2022, tot vaststelling van een tijdelijke beleidsregel inzake de toepassing van de Wet beheer rijkswaterstaatswerken op elektrische laadpunten op verzorgingsplaatsen

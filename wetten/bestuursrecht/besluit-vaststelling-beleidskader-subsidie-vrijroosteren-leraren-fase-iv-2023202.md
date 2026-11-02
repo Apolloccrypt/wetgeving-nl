@@ -9,7 +9,7 @@ laatste_update: 2023-02-15
 status: geldig
 toestand: 2023-02-15
 bron: "https://wetten.overheid.nl/BWBR0047874"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister voor Primair en Voortgezet Onderwijs van 3 februari 2023, nr. 35001265 houdende vaststelling van een beleidskader en een subsidieplafond voor de subsidieverstrekking aan scholen met achterstandsleerlingen gericht op het vrijroosteren van leraren voor deelname aan coachingsactiviteiten en het intensief begeleiden van leerlingen in de schooljaren 2023–2025 (Besluit vaststelling beleidskader subsidie vrijroosteren leraren fase IV 2023–2025)

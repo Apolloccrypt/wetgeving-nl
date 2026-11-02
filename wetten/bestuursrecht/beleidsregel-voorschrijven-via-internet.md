@@ -9,7 +9,7 @@ laatste_update: 2023-04-12
 status: geldig
 toestand: 2023-04-12
 bron: "https://wetten.overheid.nl/BWBR0048048"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 27 maart 2023, kenmerk 3453103-1038189-GMT, tot een beleidsregel over het niet handhavend optreden tegen overtreding van artikel 67 van de Geneesmiddelenwet in het geval van voorschrijven via internet (Beleidsregel voorschrijven via internet)

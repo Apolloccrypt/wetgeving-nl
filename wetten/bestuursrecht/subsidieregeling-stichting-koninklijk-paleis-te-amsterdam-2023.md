@@ -9,7 +9,7 @@ laatste_update: 2023-04-21
 status: geldig
 toestand: 2023-04-21
 bron: "https://wetten.overheid.nl/BWBR0048081"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 4 april 2023, nr. 2022-0000566419, houdende regels voor de subsidiëring van de Stichting Koninklijk Paleis te Amsterdam (Subsidieregeling Stichting Koninklijk Paleis te Amsterdam 2023)

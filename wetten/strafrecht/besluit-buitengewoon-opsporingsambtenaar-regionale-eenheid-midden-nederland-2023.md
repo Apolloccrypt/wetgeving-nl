@@ -9,7 +9,7 @@ laatste_update: 2024-07-17
 status: geldig
 toestand: 2024-07-17
 bron: "https://wetten.overheid.nl/BWBR0047898"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 14 februari 2023 nr. BOACAT2023/007, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij regionale eenheid Midden-Nederland

@@ -9,7 +9,7 @@ laatste_update: 2023-03-01
 status: geldig
 toestand: 2023-03-01
 bron: "https://wetten.overheid.nl/BWBR0047693"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van 16 december 2022 tot wijziging van het Besluit periodieke registratie Wet BIG in verband met de periodieke registratie van de orthopedagoog-generalist en de klinisch technoloog

@@ -9,7 +9,7 @@ laatste_update: 2025-12-06
 status: geldig
 toestand: 2025-12-06
 bron: "https://wetten.overheid.nl/BWBR0048167"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 8 mei 2023, nr 2023-0000244781, houdende regels met betrekking tot het gebruik van publieke identificatiemiddelen en de voorzieningen, bedoeld in artikel 5, eerste lid, van de Wet digitale overheid (Regeling voorzieningen Wdo)

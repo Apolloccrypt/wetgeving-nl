@@ -9,7 +9,7 @@ laatste_update: 2023-02-16
 status: geldig
 toestand: 2023-02-16
 bron: "https://wetten.overheid.nl/BWBR0047882"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van 10 februari 2023 tot wijziging van het Uitvoeringsbesluit accijns en enige andere besluiten in verband met implementatie van de horizontale accijnsrichtlijn (EU) 2020/262 en de richtlijn alcoholaccijns (EU) 2020/1151 (Implementatiebesluit richtlijnen accijns 2023)

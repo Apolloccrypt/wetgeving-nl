@@ -9,7 +9,7 @@ laatste_update: 2023-05-03
 status: geldig
 toestand: 2023-05-03
 bron: "https://wetten.overheid.nl/BWBR0048123"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 14 april 2023, nr. VO/37841750, houdende regels voor de subsidieverstrekking aan vestigingen van scholen voor het deelnemen aan het programma Ontwikkelkracht (Subsidieregeling Ontwikkelkracht)

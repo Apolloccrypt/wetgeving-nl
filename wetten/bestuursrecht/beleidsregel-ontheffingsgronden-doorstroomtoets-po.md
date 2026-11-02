@@ -9,7 +9,7 @@ laatste_update: 2023-08-01
 status: geldig
 toestand: 2023-08-01
 bron: "https://wetten.overheid.nl/BWBR0048189"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Beleidsregel van de Minister voor Primair en Voortgezet Onderwijs van 15 mei 2023, nr. 38329751, houdende ontheffingsgronden voor de doorstroomtoets po (Beleidsregel ontheffingsgronden doorstroomtoets po)

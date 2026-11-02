@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-07-06
 toestand: 2024-07-02
 bron: "https://wetten.overheid.nl/BWBR0047632"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Beleidsregels financiële sanering toegelaten instellingen 2023

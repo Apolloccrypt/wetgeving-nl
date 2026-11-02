@@ -9,7 +9,7 @@ laatste_update: 2022-12-09
 status: geldig
 toestand: 2022-12-09
 bron: "https://wetten.overheid.nl/BWBR0047591"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister voor Ruimtelijke Ordening en Volkshuisvesting van 15 november 2022, houdende regels met betrekking tot het verstrekken van een eenmalige specifieke uitkering ten behoeve van het versnellen van woningbouw in de Waddengemeenten (Regeling eenmalige specifieke uitkering woningbouw Waddengemeenten)

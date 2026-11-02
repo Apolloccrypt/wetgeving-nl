@@ -9,7 +9,7 @@ laatste_update: 2023-08-01
 status: geldig
 toestand: 2023-08-01
 bron: "https://wetten.overheid.nl/BWBR0047568"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van 9 november 2022 tot wijziging van onder andere het Toetsbesluit PO in verband met enkele aanpassingen op het gebied van de doorstroom van het primair onderwijs naar het voortgezet onderwijs en erkenning van doorstroomtoetsen en toetsen verbonden aan leerling- en onderwijsvolgsystemen in het primair onderwijs (Besluit doorstroomtoetsen po)

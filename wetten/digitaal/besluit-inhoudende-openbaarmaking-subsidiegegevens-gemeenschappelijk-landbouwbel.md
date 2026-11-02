@@ -9,7 +9,7 @@ laatste_update: 2022-12-24
 status: geldig
 toestand: 2022-12-24
 bron: "https://wetten.overheid.nl/BWBR0047667"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 19 december 2022, nr. 22557363, inhoudende openbaarmaking van de subsidiegegevens Gemeenschappelijk landbouwbeleid over het EU-boekjaar 2022

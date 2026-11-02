@@ -9,7 +9,7 @@ laatste_update: 2025-02-06
 status: geldig
 toestand: 2025-02-06
 bron: "https://wetten.overheid.nl/BWBR0048175"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister voor Volkshuisvesting en Ruimtelijke Ordening van 16 mei 2023, nr. 2023-0000254706, houdende instelling van de landelijke versnellingstafel woningbouw (Instellingsbesluit landelijke versnellingstafel woningbouw)

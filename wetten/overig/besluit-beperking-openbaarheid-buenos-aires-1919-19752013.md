@@ -9,7 +9,7 @@ laatste_update: 2023-03-03
 status: geldig
 toestand: 2023-03-03
 bron: "https://wetten.overheid.nl/BWBR0047935"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 22 februari 2023, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordiging in Argentinië, ambassade Buenos Aires, Besluit Beperking Openbaarheid Buenos Aires (1919) 1975–2013

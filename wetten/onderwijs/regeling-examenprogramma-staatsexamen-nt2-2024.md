@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0047815"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van het College voor toetsen en examens van 28 november 2022, CvTE-23.00009, houdende vaststelling van het examenprogramma Staatsexamen Nederlands als tweede taal voor de examenjaren vanaf examenjaar 2024 (Regeling examenprogramma Staatsexamen Nt2 2024)

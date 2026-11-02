@@ -9,7 +9,7 @@ laatste_update: 2022-11-30
 status: geldig
 toestand: 2022-11-30
 bron: "https://wetten.overheid.nl/BWBR0047534"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister-President, Minister van Algemene Zaken 25 november 2022 nr. 4302072, houdende instelling van de Ministeriële Commissie Crisisbeheersing

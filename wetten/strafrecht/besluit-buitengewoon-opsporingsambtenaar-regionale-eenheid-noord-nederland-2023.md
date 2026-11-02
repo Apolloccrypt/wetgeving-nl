@@ -9,7 +9,7 @@ laatste_update: 2024-07-18
 status: geldig
 toestand: 2024-07-18
 bron: "https://wetten.overheid.nl/BWBR0048181"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 16 mei 2023 nr. BOACAT2023/024, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de regionale eenheid Noord-Nederland

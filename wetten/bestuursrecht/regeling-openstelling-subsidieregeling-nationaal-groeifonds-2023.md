@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0047605"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat van 25 november 2022, nr. WJZ/ 22545471, houdende vaststelling van de subsidieplafonds en de aanvraagperiode voor subsidies als bedoeld in de Subsidieregeling Nationaal Groeifonds, geldend voor het kalenderjaar 2023 (Regeling openstelling Subsidieregeling Nationaal Groeifonds 2023)

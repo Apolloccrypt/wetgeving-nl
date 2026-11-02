@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0047876"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 10 februari 2023, kenmerk 3503357-1042699-PDPP, houdende het verstrekken van een specifieke uitkering voor het versterken van de GGD’en in verband met infectieziektebestrijding (Regeling specifieke uitkering versterking GGD'en)

@@ -9,7 +9,7 @@ laatste_update: 2023-02-28
 status: geldig
 toestand: 2023-02-28
 bron: "https://wetten.overheid.nl/BWBR0047912"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid d.d. 7 februari 2023, kenmerk 3955715, houdende beperking van de openbaarheid van het archief van de Centrale Adoptieraad (centrale adoptiedocumentatie) 1957–1999

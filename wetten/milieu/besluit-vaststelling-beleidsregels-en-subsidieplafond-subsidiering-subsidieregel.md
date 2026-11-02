@@ -9,7 +9,7 @@ laatste_update: 2023-01-25
 status: geldig
 toestand: 2023-01-25
 bron: "https://wetten.overheid.nl/BWBR0047803"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 14 januari 2023, nr. Min-BuZa.2022.14764-36, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieprogramma Bodemvruchtbaarheid)

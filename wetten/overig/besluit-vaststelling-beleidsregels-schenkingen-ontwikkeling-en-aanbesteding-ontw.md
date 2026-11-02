@@ -9,7 +9,7 @@ laatste_update: 2023-01-06
 status: geldig
 toestand: 2023-01-06
 bron: "https://wetten.overheid.nl/BWBR0047759"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 2 december 2022, nr. MinBuza.2022.146666-9, tot vaststelling van beleidsregels voor het doen van schenkingen met het oog op de ontwikkeling en aanbesteding van ontwikkelingsrelevante infrastructurele projecten (Develop2Build 2023)

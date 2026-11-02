@@ -9,7 +9,7 @@ laatste_update: 2023-07-01
 status: geldig
 toestand: 2023-07-01
 bron: "https://wetten.overheid.nl/BWBR0048185"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 16 mei 2023 nr. BOACAT2023/022, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Gorinchem

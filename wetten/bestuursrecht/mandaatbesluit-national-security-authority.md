@@ -8,7 +8,7 @@ laatste_update: 2023-02-23
 status: geldig
 toestand: 2023-02-23
 bron: "https://wetten.overheid.nl/BWBR0047897"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Mandaatbesluit National Security Authority

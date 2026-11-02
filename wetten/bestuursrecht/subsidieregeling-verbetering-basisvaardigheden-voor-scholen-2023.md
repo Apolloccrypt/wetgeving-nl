@@ -9,7 +9,7 @@ laatste_update: 2023-07-21
 status: geldig
 toestand: 2023-07-21
 bron: "https://wetten.overheid.nl/BWBR0047996"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # De Regeling van de Minister voor Primair en Voortgezet Onderwijs van 21 maart 2023, nr. VO/37433047, houdende regels voor de subsidieverstrekking aan scholen voor het verbeteren van de basisvaardigheden met bewezen effectieve interventies (Subsidieregeling verbetering basisvaardigheden voor scholen 2023)

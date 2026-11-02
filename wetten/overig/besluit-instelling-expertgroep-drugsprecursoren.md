@@ -8,7 +8,7 @@ laatste_update: 2023-03-30
 status: geldig
 toestand: 2023-03-30
 bron: "https://wetten.overheid.nl/BWBR0048010"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit instelling Expertgroep drugsprecursoren

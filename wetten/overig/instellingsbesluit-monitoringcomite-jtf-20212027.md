@@ -9,7 +9,7 @@ laatste_update: 2023-05-25
 status: geldig
 toestand: 2023-05-25
 bron: "https://wetten.overheid.nl/BWBR0048182"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat en van de Minister van Sociale Zaken en Werkgelegenheid van 26 april 2023, nr. WJZ/ 26784467, tot instelling van het monitoringcomité JTF 2021–2027 (Instellingsbesluit monitoringcomité JTF 2021–2027)

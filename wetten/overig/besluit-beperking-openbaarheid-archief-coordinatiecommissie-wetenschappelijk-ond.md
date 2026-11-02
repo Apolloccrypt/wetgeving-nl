@@ -9,7 +9,7 @@ laatste_update: 2023-01-28
 status: geldig
 toestand: 2023-01-28
 bron: "https://wetten.overheid.nl/BWBR0047816"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid d.d. 12 januari 2023, kenmerk 2981935, houdende beperking van de openbaarheid van het archief van de Coördinatiecommissie Wetenschappelijk Onderzoek Kinderbescherming (CWOK) (1953) 1955–1988 (1989)

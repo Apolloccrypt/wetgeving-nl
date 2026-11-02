@@ -8,7 +8,7 @@ laatste_update: 2023-05-26
 status: geldig
 toestand: 2023-05-26
 bron: "https://wetten.overheid.nl/BWBR0048190"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Beleidsregel Prioritering van handhavingsonderzoeken door de Autoriteit Consument en Markt 2023

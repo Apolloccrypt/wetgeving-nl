@@ -9,7 +9,7 @@ laatste_update: 2023-10-18
 status: geldig
 toestand: 2023-10-18
 bron: "https://wetten.overheid.nl/BWBR0048017"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 7 maart 2023, nr. DAD/22557762, tot aanwijzing van de Landelijke Inspectiedienst Dierenbescherming als gemachtigde instantie overeenkomstig de Verordening officiële controles (Besluit aanwijzing LID als gemachtigde instantie)

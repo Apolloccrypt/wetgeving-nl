@@ -9,7 +9,7 @@ laatste_update: 2023-07-01
 status: geldig
 toestand: 2023-07-01
 bron: "https://wetten.overheid.nl/BWBR0048093"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Besluit van 14 april 2023, houdende regels voor uitgebreide producentenverantwoordelijkheid voor textielproducten (Besluit uitgebreide producentenverantwoordelijkheid textiel)

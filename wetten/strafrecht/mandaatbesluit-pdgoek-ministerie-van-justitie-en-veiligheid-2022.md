@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-06-11
 toestand: 2023-08-01
 bron: "https://wetten.overheid.nl/BWBR0048163"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de programma directeur-generaal Oekraïense Ontheemden van het Ministerie van Justitie en Veiligheid van 21 april 2023, houdende verlening van ondermandaat, volmacht en machtiging aan functionarissen in het programma directoraat-generaal Oekraïense Ontheemden (Mandaatbesluit pDGOek Ministerie van Justitie en Veiligheid 2022)

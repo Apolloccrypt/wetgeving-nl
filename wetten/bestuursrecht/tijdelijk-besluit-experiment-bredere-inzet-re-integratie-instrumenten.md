@@ -9,7 +9,7 @@ laatste_update: 2023-04-22
 status: geldig
 toestand: 2023-04-22
 bron: "https://wetten.overheid.nl/BWBR0048090"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Besluit van 13 april 2023, houdende tijdelijke regels voor een experiment met de inzet van re-integratie-instrumenten voor volledig en duurzaam arbeidsongeschikte personen (Tijdelijk besluit experiment bredere inzet re-integratie-instrumenten)

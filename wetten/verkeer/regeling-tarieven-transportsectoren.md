@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0047719"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 14 december 2022, nr. IENW/BSK-2022/293161, houdende vaststelling van de tarieven transportsectoren (Regeling tarieven transportsectoren)

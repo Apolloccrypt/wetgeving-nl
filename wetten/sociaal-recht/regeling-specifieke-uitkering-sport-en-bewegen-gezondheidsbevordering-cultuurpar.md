@@ -9,7 +9,7 @@ laatste_update: 2025-10-29
 status: geldig
 toestand: 2025-10-29
 bron: "https://wetten.overheid.nl/BWBR0047862"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister voor Langdurige Zorg en Sport van 6 februari 2023, kenmerk 3507504-1043050-PG, houdende een specifieke uitkering voor sport en bewegen, gezondheidsbevordering, cultuurparticipatie en de sociale basis 2023–2026 (Regeling specifieke uitkering sport en bewegen, gezondheidsbevordering, cultuurparticipatie en de sociale basis 2023–2026)

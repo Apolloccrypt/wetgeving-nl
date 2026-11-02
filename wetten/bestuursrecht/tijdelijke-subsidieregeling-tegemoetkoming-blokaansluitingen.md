@@ -9,7 +9,7 @@ laatste_update: 2023-09-29
 status: geldig
 toestand: 2023-09-29
 bron: "https://wetten.overheid.nl/BWBR0048035"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister voor Klimaat en Energie van 4 april 2023, nr. WJZ/ 22558560, houdende tijdelijke regels inzake subsidie voor tegemoetkoming in energiekosten voor bewoners achter een blokaansluiting voor elektriciteit of warmte

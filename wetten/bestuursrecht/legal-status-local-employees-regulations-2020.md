@@ -8,7 +8,7 @@ laatste_update: 2026-01-07
 status: geldig
 toestand: 2026-01-07
 bron: "https://wetten.overheid.nl/BWBR0047757"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Legal Status (Local Employees) Regulations 2020

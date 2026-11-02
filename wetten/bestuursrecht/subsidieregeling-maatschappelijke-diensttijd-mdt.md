@@ -9,7 +9,7 @@ laatste_update: 2026-04-08
 status: geldig
 toestand: 2026-04-08
 bron: "https://wetten.overheid.nl/BWBR0048113"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 24 april 2023, nr. 37179289, houdende regels voor de subsidiëring van het programma Maatschappelijke Diensttijd (Subsidieregeling MDT 2023)

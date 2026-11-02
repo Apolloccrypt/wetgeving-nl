@@ -9,7 +9,7 @@ laatste_update: 2023-01-28
 status: geldig
 toestand: 2023-01-28
 bron: "https://wetten.overheid.nl/BWBR0047822"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Inspecteur-generaal van de Inspectie van Justitie en Veiligheid namens de Minister voor Medische Zorg en de Minister van Justitie en Veiligheid, van 7 juli 2022, houdende de vaststelling van beleidsregel met betrekking tot prioritering EGC (Beleidsregels prioritering IJenV EGC)

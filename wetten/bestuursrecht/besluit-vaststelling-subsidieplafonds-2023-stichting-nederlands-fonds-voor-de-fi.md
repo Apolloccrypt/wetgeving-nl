@@ -8,7 +8,7 @@ laatste_update: 2023-03-29
 status: geldig
 toestand: 2023-03-29
 bron: "https://wetten.overheid.nl/BWBR0048008"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit vaststelling Subsidieplafonds 2023 Stichting Nederlands Fonds voor de Film

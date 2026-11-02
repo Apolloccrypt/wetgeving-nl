@@ -8,7 +8,7 @@ laatste_update: 2023-05-01
 status: geldig
 toestand: 2023-05-01
 bron: "https://wetten.overheid.nl/BWBR0048139"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Regeling registratie en aanlevering kostprijzen zorgproducten medisch-specialistische zorg

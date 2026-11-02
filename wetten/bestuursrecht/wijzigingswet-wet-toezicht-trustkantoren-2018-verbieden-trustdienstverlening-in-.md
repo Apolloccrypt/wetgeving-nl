@@ -9,7 +9,7 @@ laatste_update: 2023-07-01
 status: geldig
 toestand: 2023-07-01
 bron: "https://wetten.overheid.nl/BWBR0047895"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Wet van 7 december 2022 tot wijziging van de Wet toezicht trustkantoren 2018 in verband met maatregelen om trustdienstverlening in gevallen met hoge integriteitrisico’s te verbieden

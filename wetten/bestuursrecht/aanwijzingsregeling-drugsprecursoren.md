@@ -9,7 +9,7 @@ laatste_update: 2024-06-18
 status: geldig
 toestand: 2024-06-18
 bron: "https://wetten.overheid.nl/BWBR0048009"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling aanwijzing verboden drugsprecursoren

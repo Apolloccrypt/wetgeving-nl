@@ -9,7 +9,7 @@ laatste_update: 2026-07-18
 status: geldig
 toestand: 2026-07-18
 bron: "https://wetten.overheid.nl/BWBR0048036"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 28 maart 2023, nr. 33945522, houdende instelling van de Adviescommissie tot benoeming van leden van de Adviescommissie restitutieverzoeken cultuurgoederen en Tweede Wereldoorlog

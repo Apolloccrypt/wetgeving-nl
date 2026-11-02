@@ -9,7 +9,7 @@ laatste_update: 2023-06-13
 status: geldig
 toestand: 2023-06-13
 bron: "https://wetten.overheid.nl/BWBR0047902"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 17 februari 2023, nr. IENW/BSK-2023/14107, houdende vaststelling van regels met betrekking tot de erkenning van opleidingsinstellingen en het afnemen van assessments inzake het vervoer van gevaarlijke stoffen door de lucht en enkele overige bepalingen (Regeling erkenning opleidingsinstellingen en assessments vervoer gevaarlijke stoffen door de lucht)

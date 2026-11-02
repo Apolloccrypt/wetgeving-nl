@@ -9,7 +9,7 @@ laatste_update: 2026-01-06
 status: geldig
 toestand: 2026-01-06
 bron: "https://wetten.overheid.nl/BWBR0047614"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van het College voor toetsen en examens van 28 november 2022, nummer CvTE-22.00976, houdende vaststelling van het beoordelingskader voor de doorstroomtoets in het primair onderwijs (Regeling beoordelingskader doorstroomtoets PO)

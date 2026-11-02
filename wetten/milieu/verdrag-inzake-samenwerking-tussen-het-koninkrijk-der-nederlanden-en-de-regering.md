@@ -5,10 +5,11 @@ categorie: "Internationaal recht"
 soort: "verdrag"
 publicatiedatum: 2001-11-02
 laatste_update: 2001-11-02
-status: geldig
+status: vervallen
+vervallen_op: 2026-11-01
 toestand: 2001-11-02
 bron: "https://wetten.overheid.nl/BWBV0001980"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-02
 ---
 
 # Verdrag inzake samenwerking tussen het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika betreffende toegang tot en gebruik van faciliteiten in de Nederlandse Antillen en Aruba voor drugsbestrijding vanuit de lucht

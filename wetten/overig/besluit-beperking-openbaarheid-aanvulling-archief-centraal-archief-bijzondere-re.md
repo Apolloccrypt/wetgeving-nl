@@ -9,7 +9,7 @@ laatste_update: 2023-02-18
 status: geldig
 toestand: 2023-02-18
 bron: "https://wetten.overheid.nl/BWBR0047880"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid d.d. 7 februari 2023, kenmerk 3973239, houdende beperking van de openbaarheid van de aanvulling op het archief Centraal Archief Bijzondere Rechtspleging, correspondentiearchief (1945) 1957–1997 (2000)

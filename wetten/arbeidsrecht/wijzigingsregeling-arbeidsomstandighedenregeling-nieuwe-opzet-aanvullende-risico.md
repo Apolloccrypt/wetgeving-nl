@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0047714"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 19 december 2022, 2022-0000224898, houdende wijziging van de Arbeidsomstandighedenregeling in verband met een nieuwe opzet van de aanvullende risico-inventarisatie en -evaluatie inzake risico’s zware ongevallen met gevaarlijke stoffen

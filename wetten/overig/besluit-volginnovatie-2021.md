@@ -9,7 +9,7 @@ laatste_update: 2022-12-15
 status: geldig
 toestand: 2022-12-15
 bron: "https://wetten.overheid.nl/BWBR0047623"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat van 5 december 2022 inzake volginnovatie 2021, Rijksdienst voor Ondernemend Nederland

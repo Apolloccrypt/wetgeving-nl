@@ -9,7 +9,7 @@ laatste_update: 2022-12-17
 status: geldig
 toestand: 2022-12-17
 bron: "https://wetten.overheid.nl/BWBR0047634"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Wet van 9 december 2022 tot wijziging van de Waterschapswet in verband met het schrappen van de geborgde zetels voor de categorie bedrijven, het schrappen van de eis dat ten minste één lid van het dagelijks bestuur houder is van een geborgde zetel en het introduceren van een vaste verdeling van de resterende geborgde zetels

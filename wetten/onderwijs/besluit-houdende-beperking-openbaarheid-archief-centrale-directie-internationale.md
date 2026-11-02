@@ -9,7 +9,7 @@ laatste_update: 2023-01-20
 status: geldig
 toestand: 2023-01-20
 bron: "https://wetten.overheid.nl/BWBR0047774"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 6 december 2022, nr. O&B/1407525, houdende beperking van de openbaarheid van het archief van de Centrale Directie Internationale Betrekkingen en taakvoorgangers van het Ministerie van Onderwijs, Cultuur en Wetenschap over de periode 1945-1988

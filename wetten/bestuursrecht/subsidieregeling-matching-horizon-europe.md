@@ -9,7 +9,7 @@ laatste_update: 2024-01-03
 status: geldig
 toestand: 2024-01-03
 bron: "https://wetten.overheid.nl/BWBR0048107"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 24 april 2023, nr. OWB/38032344 houdende regels voor het verstrekken van subsidie ten behoeve van het bevorderen van wetenschap en innovatie door middel van het stimuleren en faciliteren van deelname aan het Europese kaderprogramma voor onderzoek en innovatie Horizon Europe (Subsidieregeling matching Horizon Europe)

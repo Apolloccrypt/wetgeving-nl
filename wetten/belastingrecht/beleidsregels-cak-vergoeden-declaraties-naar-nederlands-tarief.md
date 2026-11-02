@@ -8,7 +8,7 @@ laatste_update: 2024-10-19
 status: geldig
 toestand: 2024-10-19
 bron: "https://wetten.overheid.nl/BWBR0048130"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Beleidsregels CAK vergoeden declaraties naar Nederlands tarief

@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0047542"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 21 november 2022, kenmerk 3442101-1036920-Z, houdende regeling vaststelling standaardpremie en bestuursrechtelijke premies 2023 (Regeling vaststelling standaardpremie en bestuursrechtelijke premies 2023)

@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0047943"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Wet van 2 november 2022, houdende regels ter uitvoering van Verordening (EU) 2019/1020 van het Europees Parlement en de Raad van 20 juni 2019 betreffende markttoezicht en conformiteit van producten en tot wijziging van Richtlijn 2004/42/EG en de Verordeningen (EG) nr. 765/2008 en (EU) nr. 305/2011 (PbEU 2019, L 169) en Verordening (EU) 2020/740 van het Europees Parlement en de Raad van 25 mei 2020 inzake de etikettering van banden met betrekking tot hun brandstofefficiëntie en andere parameters, tot wijziging van Verordening (EU) 2017/1369 en tot intrekking van Verordening (EG) nr. 1222/2009 (PbEU 2020, L 177) (Wet uitvoering markttoezichtverordening)

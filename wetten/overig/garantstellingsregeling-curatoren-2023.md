@@ -9,7 +9,7 @@ laatste_update: 2023-06-01
 status: geldig
 toestand: 2023-06-01
 bron: "https://wetten.overheid.nl/BWBR0048015"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister voor Rechtsbescherming van 21 maart 2023, nr. 3533353, houdende regels voor de beoordeling van de gegrondheid van verzoeken van curatoren tot verstrekking van een voorschot en de grenzen waarbinnen zodanige verzoeken kunnen worden toegewezen (Garantstellingsregeling curatoren 2023)

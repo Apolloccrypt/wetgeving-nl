@@ -5,11 +5,11 @@ identifier: "BWBR0050739"
 categorie: "Digitaal en privacy"
 soort: "wet"
 publicatiedatum: 2025-02-04
-laatste_update: 2025-09-01
+laatste_update: 2026-11-01
 status: geldig
-toestand: 2025-09-01
+toestand: 2026-11-01
 bron: "https://wetten.overheid.nl/BWBR0050739"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-02
 ---
 
 # Wet van 29 januari 2025 tot uitvoering van verordening (EU) 2022/2065 van het Europees Parlement en de Raad van 19 oktober 2022 betreffende een eengemaakte markt voor digitale diensten en tot wijziging van Richtlijn 2000/31/EG (Uitvoeringswet digitaledienstenverordening)
@@ -57,17 +57,19 @@ In deze wet wordt verstaan onder:
 
 2. Met het toezicht op de naleving van artikel 22, zevende tot en met negende en elfde lid, van verordening (EU) 2023/988 van het Europees Parlement en de Raad van 10 mei 2023 inzake algemene productveiligheid, tot wijziging van Verordening (EU) nr. 1025/2012 van het Europees Parlement en de Raad en Richtlijn (EU) 2020/1828 van het Europees Parlement en de Raad, en tot intrekking van Richtlijn 2001/95/EG van het Europees Parlement en de Raad en Richtlijn 87/357/EEG van de Raad (PbEU 2023, L 135) is belast de Autoriteit Consument en Markt.
 
-3. De toezichthouder beschikt niet over de bevoegdheid, genoemd in [artikel 5:19 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19), bij de uitoefening van het toezicht, bedoeld in het eerste lid.
+3. Met het toezicht op de naleving van de artikelen 7, eerste en tweede lid, en 8 van verordening (EU) 2024/1028 van het Europees parlement en de Raad van 11 april 2024 betreffende het verzamelen en delen van gegevens met betrekking tot kortetermijnverhuur van accommodatie en tot wijziging van Verordening (EU) 2018/1724 van het Europees Parlement en de Raad (PbEU 2024, L 2024/1028) is belast de Autoriteit Consument en Markt.
+
+4. De toezichthouder beschikt niet over de bevoegdheid, genoemd in [artikel 5:19 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19), bij de uitoefening van het toezicht, bedoeld in het eerste lid.
 
 ##### Artikel 2.3. (bestuurlijke boete)
 
-1. De Autoriteit Consument en Markt is bevoegd tot oplegging van een bestuurlijke boete van ten hoogste het bedrag, genoemd in artikel 52, derde lid, van de digitaledienstenverordening, ter handhaving van de bepalingen, genoemd in [artikel 2.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050739&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2025-09-01&g=2025-09-01).
+1. De Autoriteit Consument en Markt is bevoegd tot oplegging van een bestuurlijke boete van ten hoogste het bedrag, genoemd in artikel 52, derde lid, van de digitaledienstenverordening, ter handhaving van de bepalingen, genoemd in [artikel 2.2, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050739&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2026-11-01&g=2026-11-01).
 
 2. De bestuurlijke boete, bedoeld in [artikel 12m, eerste lid, van de Instellingswet Autoriteit Consument](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=12m), bedraagt ten hoogste het bedrag, genoemd in artikel 52, derde lid, van de digitaledienstenverordening, indien die boete wordt opgelegd in het kader van de uitvoering van een taak die bij of krachtens deze wet aan de Autoriteit Consument en Markt is opgedragen.
 
 ##### Artikel 2.4. (last onder dwangsom)
 
-1. De Autoriteit Consument en Markt is bevoegd tot oplegging van een last onder dwangsom van ten hoogste het bedrag, genoemd in artikel 52, vierde lid, van de digitaledienstenverordening, ter handhaving van de bepalingen genoemd in [artikel 2.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050739&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2025-09-01&g=2025-09-01).
+1. De Autoriteit Consument en Markt is bevoegd tot oplegging van een last onder dwangsom van ten hoogste het bedrag, genoemd in artikel 52, vierde lid, van de digitaledienstenverordening, ter handhaving van de bepalingen genoemd in [artikel 2.2, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050739&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2026-11-01&g=2026-11-01).
 
 2. De last onder dwangsom, bedoeld in [artikel 12m, derde lid, van de Instellingswet Autoriteit Consument](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=12m), bedraagt ten hoogste het bedrag, genoemd in artikel 52, vierde lid, van de digitaledienstenverordening, indien de last onder dwangsom wordt opgelegd in het kader van de uitvoering van een taak die bij of krachtens deze wet aan de Autoriteit Consument en Markt is opgedragen.
 
@@ -85,7 +87,7 @@ In deze wet wordt verstaan onder:
 
 ##### Artikel 2.6. (machtiging rechter-commissaris bij zelfstandige last)
 
-1. Voor een zelfstandige last als bedoeld in [artikel 2.5, eerste lid, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0050739&hoofdstuk=2&paragraaf=2.2&artikel=2.5&z=2025-09-01&g=2025-09-01), is voorafgaande machtiging vereist van de rechter-commissaris, belast met de behandeling van strafzaken bij de rechtbank Rotterdam. In het verzoek om afgifte van de machtiging wordt gemotiveerd dat de maatregel in verhouding staat tot de aard, de ernst, de herhaling en de duur van de inbreuk, zonder onnodige beperking van toegang tot wettelijke informatie door afnemers van de betrokken dienst.
+1. Voor een zelfstandige last als bedoeld in [artikel 2.5, eerste lid, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0050739&hoofdstuk=2&paragraaf=2.2&artikel=2.5&z=2026-11-01&g=2026-11-01), is voorafgaande machtiging vereist van de rechter-commissaris, belast met de behandeling van strafzaken bij de rechtbank Rotterdam. In het verzoek om afgifte van de machtiging wordt gemotiveerd dat de maatregel in verhouding staat tot de aard, de ernst, de herhaling en de duur van de inbreuk, zonder onnodige beperking van toegang tot wettelijke informatie door afnemers van de betrokken dienst.
 
 2. De rechter-commissaris kan het openbaar ministerie, de aanbieder van de tussenhandeldiensten, de geadresseerden van de maatregel en eventuele derden met een legitiem belang, bedoeld in artikel 51, derde lid, tweede alinea, tweede volzin, van de digitaledienstenverordening, horen alvorens te beslissen. [Artikel 171 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=171) is van overeenkomstige toepassing.
 
@@ -95,7 +97,7 @@ In deze wet wordt verstaan onder:
 
 5. Tegen de beslissing van de rechter-commissaris, bedoeld in het eerste lid, staat voor de Autoriteit Consument en Markt, voor zover het verzoek om een machtiging niet is toegewezen, binnen veertien dagen beroep open bij de rechtbank Rotterdam, sector strafrecht.
 
-6. De Autoriteit Consument en Markt maakt de machtiging van de rechter-commissaris gelijktijdig met de zelfstandige last, bedoeld in [artikel 2.5, eerste lid, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0050739&hoofdstuk=2&paragraaf=2.2&artikel=2.5&z=2025-09-01&g=2025-09-01), bekend.
+6. De Autoriteit Consument en Markt maakt de machtiging van de rechter-commissaris gelijktijdig met de zelfstandige last, bedoeld in [artikel 2.5, eerste lid, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0050739&hoofdstuk=2&paragraaf=2.2&artikel=2.5&z=2026-11-01&g=2026-11-01), bekend.
 
 ##### Artikel 2.6a. (inzichtelijkheid meldingen)
 
@@ -151,9 +153,9 @@ De Autoriteit Consument en Markt maakt jaarlijks een overzicht openbaar van het 
 
 1. De Autoriteit persoonsgegevens is bevoegd tot oplegging van een bestuurlijke boete van ten hoogste het bedrag, genoemd in artikel 52, derde lid, van de digitaledienstenverordening ter handhaving van:
 
-- a. de bepalingen, genoemd in [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050739&hoofdstuk=3&artikel=3.2&z=2025-09-01&g=2025-09-01);
+- a. de bepalingen, genoemd in [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050739&hoofdstuk=3&artikel=3.2&z=2026-11-01&g=2026-11-01);
 
-- b. de artikelen [3.5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050739&hoofdstuk=3&artikel=3.5&z=2025-09-01&g=2025-09-01), en [3.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050739&hoofdstuk=3&artikel=3.6&z=2025-09-01&g=2025-09-01);
+- b. de artikelen [3.5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050739&hoofdstuk=3&artikel=3.5&z=2026-11-01&g=2026-11-01), en [3.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050739&hoofdstuk=3&artikel=3.6&z=2026-11-01&g=2026-11-01);
 
 - c. [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), voor zover het betreft de verplichting tot het verlenen van medewerking aan een vordering van een bij of krachtens artikel 3.2, eerste lid, aangewezen persoon.
 
@@ -163,7 +165,7 @@ De Autoriteit Consument en Markt maakt jaarlijks een overzicht openbaar van het 
 
 ##### Artikel 3.4. (last onder dwangsom)
 
-1. De Autoriteit persoonsgegevens is bevoegd tot oplegging van een last onder dwangsom van ten hoogste het bedrag, genoemd in artikel 52, vierde lid, van de digitaledienstenverordening ter handhaving van de bepalingen, genoemd in [artikel 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050739&hoofdstuk=3&artikel=3.3&z=2025-09-01&g=2025-09-01).
+1. De Autoriteit persoonsgegevens is bevoegd tot oplegging van een last onder dwangsom van ten hoogste het bedrag, genoemd in artikel 52, vierde lid, van de digitaledienstenverordening ter handhaving van de bepalingen, genoemd in [artikel 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050739&hoofdstuk=3&artikel=3.3&z=2026-11-01&g=2026-11-01).
 
 2. De te betalen geldsom van een verbeurde dwangsom komt toe aan de Staat.
 
@@ -191,7 +193,7 @@ De Autoriteit Consument en Markt maakt jaarlijks een overzicht openbaar van het 
 
 ##### Artikel 3.6. (zelfstandige last)
 
-1. De Autoriteit persoonsgegevens kan in geval van overtreding van de bepalingen, genoemd in [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050739&hoofdstuk=3&artikel=3.2&z=2025-09-01&g=2025-09-01), aan de overtreder een zelfstandige last opleggen in de vorm van een bindende aanwijzing.
+1. De Autoriteit persoonsgegevens kan in geval van overtreding van de bepalingen, genoemd in [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050739&hoofdstuk=3&artikel=3.2&z=2026-11-01&g=2026-11-01), aan de overtreder een zelfstandige last opleggen in de vorm van een bindende aanwijzing.
 
 2. De Autoriteit persoonsgegevens kan een zelfstandige last opleggen aan een aanbieder van een tussenhandeldienst in de vorm van:
 
@@ -205,7 +207,7 @@ De Autoriteit Consument en Markt maakt jaarlijks een overzicht openbaar van het 
 
 1. Indien de Autoriteit Consument en Markt een verzoek tot het uitoefenen van onderzoeksbevoegdheden overeenkomstig de artikelen 57, tweede lid, en 66, derde lid, van de digitaledienstenverordening ontvangt ten aanzien van een gedraging waarvoor de Autoriteit persoonsgegevens bevoegd is, verwijst de Autoriteit Consument en Markt het verzoek door naar de Autoriteit persoonsgegevens.
 
-2. Met het uitoefenen van onderzoeksbevoegdheden ter uitvoering van een verzoek als bedoeld in het eerste lid zijn belast de personen, bedoeld in [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050739&hoofdstuk=3&artikel=3.2&z=2025-09-01&g=2025-09-01).
+2. Met het uitoefenen van onderzoeksbevoegdheden ter uitvoering van een verzoek als bedoeld in het eerste lid zijn belast de personen, bedoeld in [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050739&hoofdstuk=3&artikel=3.2&z=2026-11-01&g=2026-11-01).
 
 3. De personen, bedoeld in het tweede lid, beschikken voor het uitoefenen van onderzoeksbevoegdheden over de bevoegdheden die hun ingevolge de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) en deze wet zijn toegekend ter uitoefening van het toezicht op de naleving.
 
@@ -213,13 +215,13 @@ De Autoriteit Consument en Markt maakt jaarlijks een overzicht openbaar van het 
 
 ##### Artikel 4.1. (gegevensverstrekking Autoriteit persoonsgegevens)
 
-1. De Autoriteit persoonsgegevens kan gegevens of inlichtingen die zij in verband met enige werkzaamheid ten behoeve van de uitvoering van een taak als bedoeld in de [artikelen 2.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050739&hoofdstuk=2&paragraaf=2.4&artikel=2.9&z=2025-09-01&g=2025-09-01), en [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0050739&hoofdstuk=3&artikel=3.2&z=2025-09-01&g=2025-09-01) heeft verkregen, verstrekken aan de Autoriteit Consument en Markt ten behoeve van een goede vervulling van haar taken genoemd in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050739&hoofdstuk=2&z=2025-09-01&g=2025-09-01) van deze wet.
+1. De Autoriteit persoonsgegevens kan gegevens of inlichtingen die zij in verband met enige werkzaamheid ten behoeve van de uitvoering van een taak als bedoeld in de [artikelen 2.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050739&hoofdstuk=2&paragraaf=2.4&artikel=2.9&z=2026-11-01&g=2026-11-01), en [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0050739&hoofdstuk=3&artikel=3.2&z=2026-11-01&g=2026-11-01) heeft verkregen, verstrekken aan de Autoriteit Consument en Markt ten behoeve van een goede vervulling van haar taken genoemd in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050739&hoofdstuk=2&z=2026-11-01&g=2026-11-01) van deze wet.
 
 2. De Autoriteit persoonsgegevens verstrekt aan de Autoriteit Consument en Markt:
 
 - a. de ondersteuning en informatie, bedoeld in artikel 55, derde lid, van de digitaledienstenverordening;
 
-- b. alle gegevens omtrent de krachtens [artikel 3.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050739&hoofdstuk=3&artikel=3.7&z=2025-09-01&g=2025-09-01), genomen toezichtsmaatregelen.
+- b. alle gegevens omtrent de krachtens [artikel 3.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050739&hoofdstuk=3&artikel=3.7&z=2026-11-01&g=2026-11-01), genomen toezichtsmaatregelen.
 
 ##### Artikel 4.2. (samenwerkingsprotocol Autoriteit Consument en Markt en Autoriteit persoonsgegevens)
 
@@ -229,13 +231,13 @@ De Autoriteit Consument en Markt maakt jaarlijks een overzicht openbaar van het 
 
 ##### Artikel 4.3. (uitleg begrippen digitaledienstenverordening)
 
-Voor zover door de Autoriteit persoonsgegevens bij de uitoefening van haar bevoegdheden begrippen worden uitgelegd, die worden gehanteerd in een van de bepalingen, genoemd in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050739&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2025-09-01&g=2025-09-01), dan vindt deze uitleg plaats in overeenstemming met de Autoriteit Consument en Markt. In het samenwerkingsprotocol, bedoeld in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050739&hoofdstuk=4&artikel=4.2&z=2025-09-01&g=2025-09-01), worden hierover nadere afspraken gemaakt.
+Voor zover door de Autoriteit persoonsgegevens bij de uitoefening van haar bevoegdheden begrippen worden uitgelegd, die worden gehanteerd in een van de bepalingen, genoemd in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050739&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2026-11-01&g=2026-11-01), dan vindt deze uitleg plaats in overeenstemming met de Autoriteit Consument en Markt. In het samenwerkingsprotocol, bedoeld in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050739&hoofdstuk=4&artikel=4.2&z=2026-11-01&g=2026-11-01), worden hierover nadere afspraken gemaakt.
 
 ##### Artikel 4.4. (samenwerkingsprotocol Autoriteit Consument en Markt en openbaar ministerie)
 
 1. De Autoriteit Consument en Markt en het openbaar ministerie maken afspraken in het belang van de uitvoering van de digitaledienstenverordening en deze wet.
 
-2. De afspraken, bedoeld in het eerste lid, worden vastgelegd in een samenwerkingsprotocol en hebben in elk geval betrekking op de samenwerking bij de totstandkoming van een besluit tot het opleggen van een zelfstandige last als bedoeld in [artikel 2.5, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0050739&hoofdstuk=2&paragraaf=2.2&artikel=2.5&z=2025-09-01&g=2025-09-01).
+2. De afspraken, bedoeld in het eerste lid, worden vastgelegd in een samenwerkingsprotocol en hebben in elk geval betrekking op de samenwerking bij de totstandkoming van een besluit tot het opleggen van een zelfstandige last als bedoeld in [artikel 2.5, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0050739&hoofdstuk=2&paragraaf=2.2&artikel=2.5&z=2026-11-01&g=2026-11-01).
 
 3. De Autoriteit Consument en Markt doet mededeling van het samenwerkingsprotocol in de Staatscourant.
 

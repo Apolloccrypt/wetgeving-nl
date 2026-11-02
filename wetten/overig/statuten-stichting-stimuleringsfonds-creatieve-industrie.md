@@ -8,7 +8,7 @@ laatste_update: 2023-02-06
 status: geldig
 toestand: 2023-02-06
 bron: "https://wetten.overheid.nl/BWBR0047849"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Statuten Stichting Stimuleringsfonds Creatieve Industrie

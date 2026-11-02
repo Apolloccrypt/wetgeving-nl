@@ -5,11 +5,11 @@ identifier: "BWBR0025740"
 categorie: "Staatsinrichting en bestuur"
 soort: "circulaire"
 publicatiedatum: 2026-02-01
-laatste_update: 2026-07-01
+laatste_update: 2026-11-01
 status: geldig
-toestand: 2026-07-01
+toestand: 2026-11-01
 bron: "https://wetten.overheid.nl/BWBR0025740"
-opgehaald: 2026-10-11
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister van Justitie van 30 maart 2009, nummer WBN 2009/1, houdende wijziging van de tekst van de Handleiding voor de toepassing van de Rijkswet op het Nederlanderschap toegespitst op buiten het Koninkrijk afgelegde optieverklaringen en ingediende naturalisatieverzoeken
@@ -44,7 +44,7 @@ Artikel 8, tweede lid, RWN – de verzoeker voor wie de vereisten van vijf jaar 
 
 Artikel 8, eerste lid, onder d RWN – het inburgeringvereiste – ten slotte geldt ook voor bovengenoemde categorie verzoekers. Omdat met name de wijze waarop het inburgeringsexamen op de diplomatieke of consulaire post wordt afgenomen, verschilt met de wijze waarop dit in Nederland gebeurt, is dit onderdeel van de procedure uitgebreider beschreven.
 
-Voor de behandeling van optieverklaringen en verzoeken om naturalisatie in het buitenland is het van belang dat de buitenlandse documenten of akten die overgelegd worden gelegaliseerd zijn en zonodig inhoudelijk geverifieerd volgens de thans geldende legalisatiecirculaire van de Minister van Justitie.
+Voor de behandeling van optieverklaringen en verzoeken om naturalisatie in het buitenland is het van belang dat de buitenlandse documenten of akten die overgelegd worden gelegaliseerd zijn en zonodig inhoudelijk geverifieerd volgens de thans geldende legalisatiecirculaire van de Minister van Asiel en Migratie.
 
 *Circulaire Buitenland*
 
@@ -367,10 +367,6 @@ Voor zowel het verkrijgen van documenten als de vertalingen en eventuele legalis
 Van de voorwaarde van het overleggen van uit het buitenland afkomstige gelegaliseerde/van apostille voorziene documenten kan worden vrijgesteld de persoon die wegens bewijsnood niet in staat is dergelijke documenten over te leggen. Indien geen sprake is van bewijsnood, wordt geen vrijstelling verleend.
 
 Bewijsnood zal zich met name voordoen in het geval dat registers van de burgerlijke stand in het land waar de documenten vandaan moeten komen niet bestaan dan wel onvolledig zijn, alsmede wanneer in het land in kwestie geen stukken kunnen worden verkregen vanwege de op dat moment bestaande politieke situatie.
-
-Syrië
-
-In Syrië geboren vreemdelingen hoeven geen Syrisch paspoort noch een uit Syrië afkomstige geboorteakte te overleggen. De reden hiervoor is dat uit het ambtsbericht over Syrië uit juni 2022 gebleken is dat in Syrië nog steeds sprake is van een instabiele situatie, die niet alleen wordt veroorzaakt door de aard en frequentie van het geweld, maar ook door repressieve acties van de Syrische regering en andere feitelijke machthebbers in delen van het land. Daardoor kan het verkrijgen van documenten niet gevergd worden.
 
 Etnisch Armenen uit Azerbeidzjan
 
@@ -796,7 +792,7 @@ Hieronder wordt de procedure beschreven voor de behandeling van verzoeken om nat
 
 Voor wat betreft de voorwaarden voor verlening van het Nederlanderschap, zie de toelichting bij artikelen 8, 9, eerste lid en 11 RWN.
 
-Dit artikel is een inleidende bepaling waaruit blijkt dat naturalisatie – de RWN spreekt van ‘verlenen van het Nederlanderschap’ – tot stand komt bij koninklijk besluit en alleen als iemand daar zelf om vraagt. Dit koninklijk besluit is een zogenoemd ‘klein KB’, waarvoor geen overleg in de ministerraad is vereist, waarvoor het advies van de Raad van State achterwege kan blijven en waarvoor geen plaatsing in het Staatsblad nodig is. Artikel 7, tweede lid, RWN verleent een adviserende functie aan de Minister van Justitie van de Nederlandse Antillen respectievelijk Aruba maar de uiteindelijke voordracht vindt plaats door de Minister van Justitie van Nederland op grond van artikel 7, eerste lid, RWN. De Minister is bevoegd om een verzoek om naturalisatie aan te houden of af te wijzen (zie artikel 9, vijfde lid, RWN).
+Dit artikel is een inleidende bepaling waaruit blijkt dat naturalisatie – de RWN spreekt van ‘verlenen van het Nederlanderschap’ – tot stand komt bij koninklijk besluit en alleen als iemand daar zelf om vraagt. Dit koninklijk besluit is een zogenoemd ‘klein KB’, waarvoor geen overleg in de ministerraad is vereist, waarvoor het advies van de Raad van State achterwege kan blijven en waarvoor geen plaatsing in het Staatsblad nodig is. Artikel 7, tweede lid, RWN verleent een adviserende functie aan de Minister van Justitie respectievelijk Aruba, Curaçao of Sint Maarten maar de uiteindelijke voordracht vindt plaats door de Minister van Asiel en Migratie in het Europees deel van het Koninkrijk op grond van artikel 7, eerste lid, RWN. De minister is bevoegd om een verzoek om naturalisatie aan te houden of af te wijzen (zie artikel 9, vijfde lid, RWN)
 
 ### Paragraaf 2.2. toelichting nadere regelgeving in het BVVN
 
@@ -1043,11 +1039,9 @@ Voor zowel het verkrijgen van documenten als de vertalingen en eventuele legalis
 
 Van de voorwaarde van het overleggen van uit het buitenland afkomstige gelegaliseerde/van apostille voorziene documenten kan worden vrijgesteld de persoon die wegens bewijsnood niet in staat is dergelijke documenten over te leggen. Indien geen sprake is van bewijsnood, wordt geen vrijstelling verleend.
 
-Bewijsnood zal zich met name voordoen in het geval dat registers van de burgerlijke stand in het land waar de documenten vandaan moeten komen niet bestaan dan wel onvolledig zijn, alsmede wanneer in het land in kwestie geen stukken kunnen worden verkregen vanwege de op dat moment bestaande politieke situatie.
+Bewijsnood zal zich met name voordoen in het geval dat registers van de burgerlijke stand in het land waar de documenten vandaan moeten komen niet bestaan dan wel onvolledig zijn, alsmede wanneer in het land in kwestie geen stukken kunnen worden verkregen vanwege de op dat
 
-Syrië
-
-In Syrië geboren vreemdelingen hoeven geen Syrisch paspoort noch een uit Syrië afkomstige geboorteakte te overleggen. De reden hiervoor is dat uit het ambtsbericht over Syrië uit juni 2022 gebleken is dat in Syrië nog steeds sprake is van een instabiele situatie, die niet alleen wordt veroorzaakt door de aard en frequentie van het geweld, maar ook door repressieve acties van de Syrische regering en andere feitelijke machthebbers in delen van het land. Daardoor kan het verkrijgen van documenten niet gevergd worden.
+moment bestaande politieke situatie.
 
 Etnisch Armenen uit Azerbeidzjan
 
@@ -1614,7 +1608,7 @@ Model 1.24a: Formulier zienswijze andere ouder / wettelijk vertegenwoordiger ove
 
 Model 1.25a: Verklaring ‘Ingelicht over betaling van optiegelden’ tevens inverzuimstelling; alsook: Verklaring vrijgesteld van optiegelden
 
-Model 1.26a: Buitenbehandelingstelling optieverklaring wegens niet-betaling van optiegelden
+Model 1.26a HRWN: Buitenbehandelingstelling optieverklaring wegens niet-betaling van optiegelden
 
 Model 1.27a: Besluit tot ontheffing betaling optiegelden
 
@@ -1718,7 +1712,7 @@ Model 2.16a HRWN: Formulier zienswijze andere ouder / wettelijk vertegenwoordige
 
 Model 2.1a HRWN: Verzoek om naturalisatie tot Nederlander (meerderjarige)
 
-Model 2.21a HRWN: Verklaring ‘geïnformeerd negatief advies’
+Model 2.21a HRWN: Verklaring “geïnformeerd negatief advies”
 
 Model 2.22a HRWN: Adviesblad naturalisatie
 

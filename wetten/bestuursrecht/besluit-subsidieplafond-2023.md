@@ -9,7 +9,7 @@ laatste_update: 2023-01-17
 status: geldig
 toestand: 2023-01-17
 bron: "https://wetten.overheid.nl/BWBR0047772"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de algemene raad van 15 november 2022 tot vaststelling van een subsidieplafond (Besluit subsidieplafond 2023)

@@ -9,7 +9,7 @@ laatste_update: 2025-11-27
 status: geldig
 toestand: 2025-11-27
 bron: "https://wetten.overheid.nl/BWBR0047991"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 22 maart 2023, nr. WJZ/37384724 (ID14608), houdende regels voor het verstrekken van eenmalige specifieke uitkeringen aan gemeenten en eenmalige subsidies aan provinciale ondersteuningsinstellingen ten behoeve van het realiseren van toekomstbestendige lokale bibliotheekvoorzieningen (Regeling eenmalige specifieke uitkeringen en subsidies lokale bibliotheekvoorzieningen)

@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0048027"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Wet van 25 januari 2023, houdende wijziging van het Wetboek van Burgerlijke Rechtsvordering en enige andere wetten in verband met de technische eenmaking van het Wetboek van Burgerlijke Rechtsvordering (Wet technische eenmaking Wetboek van Burgerlijke Rechtsvordering)

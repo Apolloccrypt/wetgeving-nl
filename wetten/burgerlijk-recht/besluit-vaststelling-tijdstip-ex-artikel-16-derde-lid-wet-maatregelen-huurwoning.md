@@ -9,7 +9,7 @@ laatste_update: 2023-01-24
 status: geldig
 toestand: 2023-01-24
 bron: "https://wetten.overheid.nl/BWBR0047814"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van 16 januari 2023 tot vaststelling van het tijdstip, bedoeld in artikel 1.6, derde lid, van de Wet maatregelen huurwoningmarkt Caribisch Nederland voor het openbaar lichaam Bonaire

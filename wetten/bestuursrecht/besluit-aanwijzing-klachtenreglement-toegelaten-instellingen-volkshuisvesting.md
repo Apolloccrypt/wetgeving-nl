@@ -9,7 +9,7 @@ laatste_update: 2023-02-28
 status: geldig
 toestand: 2023-02-28
 bron: "https://wetten.overheid.nl/BWBR0047916"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister voor Volkshuisvesting en Ruimtelijke Ordening van 17 februari 2023 tot aanwijzing van het klachtenreglement van toegelaten instellingen volkshuisvesting

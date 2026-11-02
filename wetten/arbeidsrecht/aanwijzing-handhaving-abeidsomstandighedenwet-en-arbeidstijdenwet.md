@@ -9,7 +9,7 @@ laatste_update: 2023-04-01
 status: geldig
 toestand: 2023-04-01
 bron: "https://wetten.overheid.nl/BWBR0047984"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Aanwijzing handhaving Arbeidsomstandighedenwet en Arbeidstijdenwet

@@ -9,7 +9,7 @@ laatste_update: 2022-12-03
 status: geldig
 toestand: 2022-12-03
 bron: "https://wetten.overheid.nl/BWBR0047555"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Beleidsregel vergoeding deskundigenkosten Rijkswaterstaat

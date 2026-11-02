@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0047535"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 25 november 2022, nr. 2022-0000185147, tot verlening van een tegemoetkoming aan werkenden en voormalig werkenden die lijden aan een beroepsziekte als gevolg van blootstelling aan gevaarlijke stoffen bij het verrichten van arbeid (Regeling tegemoetkoming stoffengerelateerde beroepsziekten)

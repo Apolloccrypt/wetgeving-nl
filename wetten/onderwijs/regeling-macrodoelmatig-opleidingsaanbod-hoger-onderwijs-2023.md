@@ -9,7 +9,7 @@ laatste_update: 2023-04-29
 status: geldig
 toestand: 2023-04-29
 bron: "https://wetten.overheid.nl/BWBR0048105"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 14 april 2023, nr. HO&S/35600834, houdende nadere regels inzake de macrodoelmatigheid van het opleidingsaanbod in het hoger onderwijs (Regeling macrodoelmatig opleidingsaanbod hoger onderwijs 2023)

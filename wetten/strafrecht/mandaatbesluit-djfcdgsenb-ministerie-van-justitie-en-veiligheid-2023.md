@@ -9,7 +9,7 @@ laatste_update: 2024-06-29
 status: geldig
 toestand: 2024-06-29
 bron: "https://wetten.overheid.nl/BWBR0048076"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de directeur Jeugd, Familie en aanpak Criminaliteitsfenomenen van het directoraat-generaal Straffen en Beschermen van het Ministerie van Justitie en Veiligheid van 11 april 2023, nr. 4502825, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan de onder de directeur ressorterende functionarissen (Mandaatbesluit DJFC/DGSenB Ministerie van Justitie en Veiligheid 2023)

@@ -9,7 +9,7 @@ laatste_update: 2023-05-15
 status: geldig
 toestand: 2023-05-15
 bron: "https://wetten.overheid.nl/BWBR0048155"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister van Financiën van 8 mei 2023, 2023-0000109118, directie Financiële Markten, houdende regels ten behoeve van de betaalbaarstelling van schadeloosstelling aan rechthebbenden in verband met de nationalisatie van SNS Reaal N.V. en SNS Bank N.V. (Regeling uitbetaling schadeloosstelling onteigening SNS REAAL)

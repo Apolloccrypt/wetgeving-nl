@@ -8,7 +8,7 @@ laatste_update: 2023-02-18
 status: geldig
 toestand: 2023-02-18
 bron: "https://wetten.overheid.nl/BWBR0047877"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit opheffen beperking openbaarheid archiefbescheiden, inventarisnummer 25357 Code-archief Ministerie van Buitenlandse Zaken, 1965–1974, nummer toegang 2.05.313

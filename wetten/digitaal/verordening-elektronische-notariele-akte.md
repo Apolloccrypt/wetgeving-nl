@@ -8,7 +8,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0047875"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Verordening elektronische notariële akte

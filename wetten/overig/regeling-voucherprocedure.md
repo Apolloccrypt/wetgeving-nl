@@ -8,7 +8,7 @@ laatste_update: 2022-12-01
 status: geldig
 toestand: 2022-12-01
 bron: "https://wetten.overheid.nl/BWBR0047587"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling Voucherprocedure

@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0047683"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Beleidsregel van de Minister van Landbouw, Natuur en Voedselkwaliteit van 19 december 2022, nr. WJZ/ 22259319, houdende beleidsregels omtrent het verlagen van subsidie verleend voor plattelandsinterventies en sectorale interventies in het kader van Verordening (EU) 2021/2115 (Beleidsregel verlagen subsidie GLB)

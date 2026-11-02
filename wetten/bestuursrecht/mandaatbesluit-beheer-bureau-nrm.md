@@ -9,7 +9,7 @@ laatste_update: 2023-05-25
 status: geldig
 toestand: 2023-05-25
 bron: "https://wetten.overheid.nl/BWBR0048177"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 8 mei 2023 (kenmerk 4607222/23/DP&O), houdende verlening van mandaat, volmacht en machtiging aan de Nationaal rapporteur mensenhandel en seksueel geweld tegen kinderen ten aanzien van de aangelegenheden die het beheer van het bureau van de Nationaal rapporteur mensenhandel en seksueel geweld tegen kinderen (Mandaatregeling beheer bureau NRM) betreffen

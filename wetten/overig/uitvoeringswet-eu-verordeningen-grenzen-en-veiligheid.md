@@ -9,7 +9,7 @@ laatste_update: 2026-06-12
 status: geldig
 toestand: 2026-06-12
 bron: "https://wetten.overheid.nl/BWBR0048050"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Wet van 29 maart 2023, houdende regels ter uitvoering van EU-verordeningen op het terrein van grenzen en veiligheid (Uitvoeringswet EU-verordeningen grenzen en veiligheid)

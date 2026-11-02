@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0047707"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Bijstellingsregeling belastingen van rechtsverkeer, accijns, belasting van personenauto’s en motorrijwielen, motorrijtuigenbelasting, belastingen op milieugrondslag en de Provinciewet 2023 (Bijstellingsregeling indirecte belastingen en de Provinciewet 2023)

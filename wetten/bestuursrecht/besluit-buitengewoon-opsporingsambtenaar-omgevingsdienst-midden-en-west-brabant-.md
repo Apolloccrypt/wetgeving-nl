@@ -9,7 +9,7 @@ laatste_update: 2023-04-04
 status: geldig
 toestand: 2023-04-04
 bron: "https://wetten.overheid.nl/BWBR0047962"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 7 maart 2023 nr. BOACAT2023/009, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Omgevingsdienst Midden- en West-Brabant

@@ -9,7 +9,7 @@ laatste_update: 2023-02-28
 status: geldig
 toestand: 2023-02-28
 bron: "https://wetten.overheid.nl/BWBR0047917"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister voor Armoedebeleid, Participatie en Pensioenen van 17 februari 2023, nr. 2023-0000070265, tot instelling van de Commissie sociaal minimum Caribisch Nederland (Instellingsbesluit Commissie sociaal minimum Caribisch Nederland)

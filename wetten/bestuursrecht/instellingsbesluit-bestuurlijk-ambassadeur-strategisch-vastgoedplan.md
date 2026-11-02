@@ -9,7 +9,7 @@ laatste_update: 2023-04-25
 status: geldig
 toestand: 2023-04-25
 bron: "https://wetten.overheid.nl/BWBR0048097"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Instelling van een bestuurlijk ambassadeur uitwerking Strategisch Vastgoedplan bij het Ministerie van Defensie (Instellingsbesluit bestuurlijk ambassadeur Strategisch Vastgoedplan)

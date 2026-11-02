@@ -9,7 +9,7 @@ laatste_update: 2023-01-20
 status: geldig
 toestand: 2023-01-20
 bron: "https://wetten.overheid.nl/BWBR0047789"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van het Fonds voor Cultuurparticipatie, zoals vastgesteld door de directeur-bestuurder op 1 september 2022, strekkende tot bekendmaking van de wijze waarop bezwaarschriften, klachten alsook verzoeken in het kader van de Wet open overheid en de Algemene verordening gegevensbescherming kunnen worden ingediend

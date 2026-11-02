@@ -9,7 +9,7 @@ laatste_update: 2022-12-29
 status: geldig
 toestand: 2022-12-29
 bron: "https://wetten.overheid.nl/BWBR0047688"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 16 december 2022, nr. Min-BuZa.2022.14731-25, houdende beleidsregels voor de verstrekking en het gebruik van diplomatieke en dienstpaspoorten (Beleidsregels diplomatieke en dienstpaspoorten)

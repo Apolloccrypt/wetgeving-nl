@@ -9,7 +9,7 @@ laatste_update: 2023-02-11
 status: geldig
 toestand: 2023-02-11
 bron: "https://wetten.overheid.nl/BWBR0047866"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 2 februari 2023, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordiging in Bosnië-Herzegovina, Ambassade Sarajevo (1994–2013), Besluit Beperking Openbaarheid, Sarajevo (1994–2013)

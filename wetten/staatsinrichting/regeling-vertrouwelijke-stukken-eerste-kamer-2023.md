@@ -8,7 +8,7 @@ laatste_update: 2023-04-05
 status: geldig
 toestand: 2023-04-05
 bron: "https://wetten.overheid.nl/BWBR0048045"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling vertrouwelijke stukken Eerste Kamer 2023

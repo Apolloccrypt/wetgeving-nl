@@ -9,7 +9,7 @@ laatste_update: 2026-04-30
 status: geldig
 toestand: 2026-04-30
 bron: "https://wetten.overheid.nl/BWBR0048085"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 17 april 2023, 2023-000083586, houdende aanwijzing van standaarden voor publicatie van besluiten en andere rechtsfiguren op grond van de Omgevingswet (Regeling standaarden publicaties Omgevingswet)

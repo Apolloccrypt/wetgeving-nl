@@ -9,7 +9,7 @@ laatste_update: 2023-05-02
 status: geldig
 toestand: 2023-05-02
 bron: "https://wetten.overheid.nl/BWBR0048117"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Regeling Informatiebeheer Sociale Verzekeringsbank (SVB) 2023

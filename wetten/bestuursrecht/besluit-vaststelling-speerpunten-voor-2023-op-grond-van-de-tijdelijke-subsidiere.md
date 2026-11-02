@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0047592"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Waterstaat, van 2 december 2022, nr. IENW/BSK–2022/276234, houdende vaststelling van de speerpunten voor het kalenderjaar 2023 en de subsidieplafonds voor het kalenderjaar 2023 als bedoeld in de Tijdelijke subsidieregeling versterking omgevingsveiligheid industriële activiteiten 2022–2027

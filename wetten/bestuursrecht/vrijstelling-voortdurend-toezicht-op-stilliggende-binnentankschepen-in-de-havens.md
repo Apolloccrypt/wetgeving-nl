@@ -8,7 +8,7 @@ laatste_update: 2021-04-05
 status: geldig
 toestand: 2021-04-05
 bron: "https://wetten.overheid.nl/BWBR0047625"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Vrijstelling voortdurend toezicht op stilliggende binnentankschepen in de havens van Rotterdam 2021

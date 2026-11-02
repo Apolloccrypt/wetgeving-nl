@@ -9,7 +9,7 @@ laatste_update: 2023-01-24
 status: geldig
 toestand: 2023-01-24
 bron: "https://wetten.overheid.nl/BWBR0047790"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 20 december 2022 tot geheimverklaring van de opdracht(en) in het kader van het detecteren en lokaliseren van niet toegestane communicatiemiddelen ten behoeve van de Dienst Justitiële Inrichtingen

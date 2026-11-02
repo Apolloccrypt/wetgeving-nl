@@ -9,7 +9,7 @@ laatste_update: 2023-02-25
 status: geldig
 toestand: 2023-02-25
 bron: "https://wetten.overheid.nl/BWBR0047914"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 21 februari 2023, nr. 35628560, houdende regels voor de subsidieverstrekking aan kandidaten in het kader van het Europees Universitair Instituut (Subsidieregeling kandidaten Europees Universitair Instituut)

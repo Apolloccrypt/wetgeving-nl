@@ -9,7 +9,7 @@ laatste_update: 2022-12-03
 status: geldig
 toestand: 2022-12-03
 bron: "https://wetten.overheid.nl/BWBR0047560"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 22 november 2022, nr. 4298431, houdende nadere regels met betrekking tot de behandeling van klachten over gedragingen van ambtenaren van politie van het politiekorps van Bonaire, Sint Eustatius en Saba alsmede over gedragingen van buitengewoon agenten van politie en over gedragingen van het personeel van het brandweerkorps van Bonaire, Sint Eustatius en Saba (Klachtenregeling politie, buitengewone agenten van politie en brandweer BES)

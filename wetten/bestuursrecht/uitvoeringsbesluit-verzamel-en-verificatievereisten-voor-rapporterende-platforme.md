@@ -9,7 +9,7 @@ laatste_update: 2025-12-12
 status: geldig
 toestand: 2025-12-12
 bron: "https://wetten.overheid.nl/BWBR0047697"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van 21 december 2022, houdende verzamel- en verificatievereisten voor rapporterende platformexploitanten met het oog op de automatische uitwisseling van inlichtingen ten aanzien van de digitale platformeconomie (Uitvoeringsbesluit verzamel- en verificatievereisten voor rapporterende platformexploitanten)

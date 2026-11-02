@@ -8,7 +8,7 @@ laatste_update: 2023-05-11
 status: geldig
 toestand: 2023-05-11
 bron: "https://wetten.overheid.nl/BWBR0048153"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Protocol onderzoek dossiers verzetsdeelnemers en oorlogsgetroffenen

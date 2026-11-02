@@ -9,7 +9,7 @@ laatste_update: 2025-03-01
 status: geldig
 toestand: 2025-03-01
 bron: "https://wetten.overheid.nl/BWBR0047951"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van 6 maart 2023 tot vaststelling van tijdelijke regels betreffende de opzet, inhoud en evaluatie van experimenten in de rechtspleging en het tijdstip van inwerkingtreding van Tijdelijke Experimentenwet rechtspleging (Tijdelijk besluit experimenten rechtspleging)

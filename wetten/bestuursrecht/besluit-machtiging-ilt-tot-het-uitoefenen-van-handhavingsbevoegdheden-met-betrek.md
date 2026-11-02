@@ -9,7 +9,7 @@ laatste_update: 2023-06-01
 status: geldig
 toestand: 2023-06-01
 bron: "https://wetten.overheid.nl/BWBR0048152"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 25 april 2023, 2023-0000229338, tot machtiging van de ILT tot het uitoefenen van handhavingsbevoegdheden met betrekking tot de detacheringsverklaring

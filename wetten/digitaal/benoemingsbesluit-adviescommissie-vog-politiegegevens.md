@@ -9,7 +9,7 @@ laatste_update: 2025-02-01
 status: geldig
 toestand: 2025-02-01
 bron: "https://wetten.overheid.nl/BWBR0047624"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 12 december 2022, nr. 4369109, tot benoeming van de voorzitter en de overige leden van de Adviescommissie VOG-Politiegegevens en houdende bepalingen inzake andere aangelegenheden die de adviescommissie aangaan (Benoemingsbesluit Adviescommissie VOG-Politiegegevens)

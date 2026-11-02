@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0048057"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Wet van 5 april 2023 tot wijziging van de Wet op de omzetbelasting 1968 (Wet implementatie Richtlijn betalingsdienstaanbieders)

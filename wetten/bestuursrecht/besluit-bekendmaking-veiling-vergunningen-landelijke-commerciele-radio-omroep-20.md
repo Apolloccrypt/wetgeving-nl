@@ -9,7 +9,7 @@ laatste_update: 2023-03-01
 status: geldig
 toestand: 2023-03-01
 bron: "https://wetten.overheid.nl/BWBR0047936"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat van 24 februari 2023, nr. DGED/DE/22544466, handelende in overeenstemming met de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, inzake de keuze voor het instrument veiling voor de uitgifte van de landelijke commerciële FM-vergunningen en de landelijke DAB-vergunningen in frequentieblok 11C (Besluit bekendmaking veiling vergunningen landelijke commerciële radio-omroep 2023)

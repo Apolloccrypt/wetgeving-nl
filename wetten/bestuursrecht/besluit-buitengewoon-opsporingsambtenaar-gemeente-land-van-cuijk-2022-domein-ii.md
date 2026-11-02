@@ -9,7 +9,7 @@ laatste_update: 2022-12-28
 status: geldig
 toestand: 2022-12-28
 bron: "https://wetten.overheid.nl/BWBR0047676"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 19 december 2022 nr. BOACAT2022/082, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Land van Cuijk, domein II, Milieu, welzijn en infrastructuur

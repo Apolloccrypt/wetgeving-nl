@@ -9,7 +9,7 @@ laatste_update: 2023-04-26
 status: geldig
 toestand: 2023-04-26
 bron: "https://wetten.overheid.nl/BWBR0048101"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Beleidsregel van de directeur-generaal van de statistiek van 17 april 2023, nr. CSB-2023-056, met betrekking tot het publiceren op instellingsniveau van statistisch onderzoek op gegevens van het CBS op grond van artikel 41 Wet CBS (Beleidsregel publiceren op instellingsniveau art 41 Wet CBS)

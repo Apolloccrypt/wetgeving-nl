@@ -9,7 +9,7 @@ laatste_update: 2024-03-14
 status: geldig
 toestand: 2024-03-14
 bron: "https://wetten.overheid.nl/BWBR0048031"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de directeur-generaal Landelijk Gebied en Stikstof van het Ministerie van Landbouw, Natuur en Voedselkwaliteit van 21 maart 2023, nr. DGLGS/26715606, tot verlening van ondermandaat, volmacht en machtiging voor het directoraat-generaal Landelijk Gebied en Stikstof van het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2023 (Besluit ondermandaat, volmacht en machtiging voor het directoraat Landelijk Gebied en Stikstof van het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2023)

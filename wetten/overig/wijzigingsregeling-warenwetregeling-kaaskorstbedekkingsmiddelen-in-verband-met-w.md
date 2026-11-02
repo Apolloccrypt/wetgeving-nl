@@ -9,7 +9,7 @@ laatste_update: 2023-04-01
 status: geldig
 toestand: 2023-04-01
 bron: "https://wetten.overheid.nl/BWBR0047615"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 6 december 2022, 3460737-1038951-VGP, houdende wijziging van de Warenwetregeling Kaaskorstbedekkingsmiddelen in verband met wijzigingen in toegestane kleurstoffen

@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0048184"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat van 18 mei 2023, nr. WJZ / 26854426, houdende mandaat en machtiging voor het Centraal Bureau Rijvaardigheidsbewijzen inzake uitvoering van de Examenregeling frequentiegebruik 2008 (Besluit mandaat en machtiging EZK voor CBR inzake uitvoering Examenregeling frequentiegebruik 2008)

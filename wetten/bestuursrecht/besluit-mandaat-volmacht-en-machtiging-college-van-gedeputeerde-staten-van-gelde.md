@@ -9,7 +9,7 @@ laatste_update: 2022-12-21
 status: geldig
 toestand: 2022-12-21
 bron: "https://wetten.overheid.nl/BWBR0047653"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat van 17 december 2022, nr. WJZ/22233872, houdende regels inzake de verlening van mandaat, volmacht en machtiging aan het college van gedeputeerde staten van Gelderland betreffende het verstrekken van subsidies ten laste van de Rijkscofinanciering op grond van de Regeling Europese EZK- en LNV-subsidies 2021 (Besluit mandaat, volmacht en machtiging college van gedeputeerde staten van Gelderland inzake subsidieverstrekking Rijkscofinanciering Regeling Europese EZK- en LNV-subsidies 2021)

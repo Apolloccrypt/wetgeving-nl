@@ -9,7 +9,7 @@ laatste_update: 2023-02-02
 status: geldig
 toestand: 2023-02-02
 bron: "https://wetten.overheid.nl/BWBR0047769"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van 16 december 2022 tot vaststelling van de bestanddelen van de beeldenaar van de munten van vijf en tien euro met als thema Willemstad die in 2023 worden uitgegeven in de serie UNESCO Werelderfgoed

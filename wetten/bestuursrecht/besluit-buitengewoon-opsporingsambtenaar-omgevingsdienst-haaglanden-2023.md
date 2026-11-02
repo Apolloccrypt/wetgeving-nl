@@ -9,7 +9,7 @@ laatste_update: 2023-06-07
 status: geldig
 toestand: 2023-06-07
 bron: "https://wetten.overheid.nl/BWBR0047887"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 13 februari 2023 nr. BOACAT2023/004, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Omgevingsdienst Haaglanden

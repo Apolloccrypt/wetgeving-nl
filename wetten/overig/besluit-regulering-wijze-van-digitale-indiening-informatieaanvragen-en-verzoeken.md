@@ -9,7 +9,7 @@ laatste_update: 2022-12-20
 status: geldig
 toestand: 2022-12-20
 bron: "https://wetten.overheid.nl/BWBR0047652"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van de directie van het Centraal Bureau Rijvaardigheidsbewijzen (CBR) te Rijswijk tot regulering van de wijze van digitale indiening van informatieaanvragen en verzoeken in het kader van de Wet open overheid

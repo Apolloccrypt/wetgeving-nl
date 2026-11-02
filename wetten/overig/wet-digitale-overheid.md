@@ -9,7 +9,7 @@ laatste_update: 2025-11-11
 status: geldig
 toestand: 2025-11-11
 bron: "https://wetten.overheid.nl/BWBR0048156"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Wet van 24 maart 2023 tot algemene regels inzake het elektronisch verkeer in het publieke domein en inzake de generieke digitale infrastructuur (Wet digitale overheid)

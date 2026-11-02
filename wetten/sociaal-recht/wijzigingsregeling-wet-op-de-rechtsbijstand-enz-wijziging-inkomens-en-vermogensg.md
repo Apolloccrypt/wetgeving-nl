@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0047651"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van 12 december 2022, nr. 4293804, van de Minister voor Rechtsbescherming houdende de wijziging van de inkomens- en vermogensgrenzen, in de Wet op de rechtsbijstand en het Besluit eigen bijdrage rechtsbijstand, eigen bijdragen en basisbedragen, bedoeld in het Besluit eigen bijdrage rechtsbijstand, het Besluit vergoedingen rechtsbijstand en het Besluit toevoeging mediation, en vaststelling van het normbedrag en het bedrag van het voorschot voor advocaten als bedoeld in het Besluit vergoedingen rechtsbijstand 2000

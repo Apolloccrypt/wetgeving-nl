@@ -9,7 +9,7 @@ laatste_update: 2023-07-01
 status: geldig
 toestand: 2023-07-01
 bron: "https://wetten.overheid.nl/BWBR0048060"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Besluit van 5 april 2023 tot wijziging van het Besluit werving, reclame en verslavingspreventie kansspelen in verband met de inperking van wervings- en reclameactiviteiten voor kansspelen op afstand (Besluit ongerichte reclame kansspelen op afstand)

@@ -9,7 +9,7 @@ laatste_update: 2023-05-15
 status: geldig
 toestand: 2023-05-15
 bron: "https://wetten.overheid.nl/BWBR0048165"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Vrijstelling op grond van artikel 46, eerste lid, van de Wet gewasbeschermingsmiddelen en biociden inzake de biocide Vectobac WG (Vrijstelling Vectobac WG exotische muggen 2023)

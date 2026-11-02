@@ -9,7 +9,7 @@ laatste_update: 2024-05-02
 status: geldig
 toestand: 2024-05-02
 bron: "https://wetten.overheid.nl/BWBR0048143"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 26 april 2023, nr. 37766481, houdende regels voor de verstrekking van aanvullende bekostiging voor het bieden van mogelijkheden voor loopbaanoriëntatie en -begeleiding (Tijdelijke regeling aanvullende bekostiging LOB MBO 2023)

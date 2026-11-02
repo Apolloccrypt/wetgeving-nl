@@ -9,7 +9,7 @@ laatste_update: 2022-12-07
 status: geldig
 toestand: 2022-12-07
 bron: "https://wetten.overheid.nl/BWBR0047581"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Wet op de dividendbelasting 1965, Wet bronbelasting 2021. Uitleg hybride-entiteitenbepalingen (Beleidsbesluit hybride-entiteitenbepalingen)

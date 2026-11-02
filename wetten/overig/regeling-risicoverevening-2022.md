@@ -9,7 +9,7 @@ laatste_update: 2022-11-26
 status: geldig
 toestand: 2022-11-26
 bron: "https://wetten.overheid.nl/BWBR0047518"
-opgehaald: 2026-09-03
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 18 november 2022, kenmerk 3465547–1039405–Z, houdende bepalingen omtrent de in de Zorgverzekeringswet bedoelde vereveningsbijdrage voor het jaar 2022 (Regeling risicoverevening 2022)

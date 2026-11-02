@@ -9,7 +9,7 @@ laatste_update: 2024-05-04
 status: geldig
 toestand: 2024-05-04
 bron: "https://wetten.overheid.nl/BWBR0048092"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-02
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 10 april 2023, nr. IENW/BSK-2023/86430, houdende vaststelling van tijdelijke regels voor het verlenen van een specifieke uitkering voor de aanpak van bodemopgaven voor het jaar 2023 (Tijdelijke regeling specifieke uitkering bodem 2023)
