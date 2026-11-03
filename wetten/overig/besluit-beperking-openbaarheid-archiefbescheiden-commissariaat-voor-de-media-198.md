@@ -8,7 +8,7 @@ laatste_update: 2023-06-03
 status: geldig
 toestand: 2023-06-03
 bron: "https://wetten.overheid.nl/BWBR0048226"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit beperking openbaarheid archiefbescheiden Commissariaat voor de Media (1988–2008)

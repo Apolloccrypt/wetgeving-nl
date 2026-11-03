@@ -9,7 +9,7 @@ laatste_update: 2023-11-18
 status: geldig
 toestand: 2023-11-18
 bron: "https://wetten.overheid.nl/BWBR0048908"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Minister voor Natuur en Stikstof van 13 november 2023, nr. WJZ / 37587654, houdende verlening van mandaat en machtiging aan de Stichting Certificering SNL (Besluit mandaat en machtiging LNV voor de Stichting Certificering SNL)

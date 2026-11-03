@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0048843"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 27 oktober 2023, nr. 2023-0000520955, tot aanwijzing van de instelling voor de melding van beroepsziekten.

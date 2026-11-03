@@ -8,7 +8,7 @@ laatste_update: 2026-03-17
 status: geldig
 toestand: 2026-03-17
 bron: "https://wetten.overheid.nl/BWBR0048389"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling voor muziekhubs op het gebied van pop, hiphop en dance

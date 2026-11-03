@@ -8,7 +8,7 @@ laatste_update: 2023-11-10
 status: geldig
 toestand: 2023-11-10
 bron: "https://wetten.overheid.nl/BWBR0048863"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-03
 ---
 
 # Besluit ondervolmacht personele aangelegenheden DGABD

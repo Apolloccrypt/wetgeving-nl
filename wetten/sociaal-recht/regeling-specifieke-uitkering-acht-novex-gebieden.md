@@ -9,7 +9,7 @@ laatste_update: 2024-10-19
 status: geldig
 toestand: 2024-10-19
 bron: "https://wetten.overheid.nl/BWBR0048864"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 2 november 2023 houdende regels voor het verlenen van een eenmalige specifieke uitkering aan de gemeenten Amsterdam en Utrecht en de provincies Gelderland, Groningen, Noord-Brabant, Noord-Holland en Zuid-Holland ten behoeve van een kwalitatief hoogwaardige en duurzame woon- en leefomgeving in acht NOVEX-gebieden (Regeling specifieke uitkering acht NOVEX-gebieden)

@@ -9,7 +9,7 @@ laatste_update: 2024-09-19
 status: geldig
 toestand: 2024-09-19
 bron: "https://wetten.overheid.nl/BWBR0048594"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 21 augustus 2023, nr. VO/40200768, houdende regels voor de subsidieverstrekking voor het uitvoeren van projecten van het programma Impuls open Leermateriaal (Subsidieregeling Impuls open leermateriaal)

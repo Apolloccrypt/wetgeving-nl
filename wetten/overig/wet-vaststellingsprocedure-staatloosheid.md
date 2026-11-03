@@ -9,7 +9,7 @@ laatste_update: 2023-10-01
 status: geldig
 toestand: 2023-10-01
 bron: "https://wetten.overheid.nl/BWBR0048458"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Wet van 7 juni 2023, houdende regels met betrekking tot de vaststelling van staatloosheid (Wet vaststellingsprocedure staatloosheid)

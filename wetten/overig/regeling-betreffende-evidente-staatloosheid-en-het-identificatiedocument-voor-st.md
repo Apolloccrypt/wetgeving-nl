@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0048651"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Staatssecretaris van Justitie en Veiligheid van 20 september 2023, nummer 4880013, houdende nadere regels met betrekking tot evidente staatloosheid en het identificatiedocument voor staatlozen (Regeling betreffende evidente staatloosheid en het identificatiedocument voor staatlozen)

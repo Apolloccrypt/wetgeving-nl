@@ -9,7 +9,7 @@ laatste_update: 2024-10-23
 status: geldig
 toestand: 2024-10-23
 bron: "https://wetten.overheid.nl/BWBR0048761"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Minister voor Primair en Voortgezet Onderwijs van 9 oktober 2023, nr. 40808959, houdende instelling van de beoordelingscommissie voor het Impuls open leermateriaal programma voor de periode 2023 tot en met 2027 (Instellingsbesluit beoordelingscommissie Impuls open leermateriaal 2023–2027)

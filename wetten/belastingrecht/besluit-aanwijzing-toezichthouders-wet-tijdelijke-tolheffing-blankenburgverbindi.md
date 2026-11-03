@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0048565"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat, van 22 augustus 2023, nr. IENW/BSK-2023/219150, houdende aanwijzing van de personen belast met het toezicht, bedoeld in artikel 15, eerste lid, Wet tijdelijke tolheffing Blankenburgverbinding en ViA15 (Besluit aanwijzing toezichthouders Wet tijdelijke tolheffing Blankenburgverbinding en ViA15)

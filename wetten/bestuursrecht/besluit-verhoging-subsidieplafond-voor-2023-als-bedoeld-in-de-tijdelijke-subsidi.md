@@ -9,7 +9,7 @@ laatste_update: 2023-06-15
 status: geldig
 toestand: 2023-06-15
 bron: "https://wetten.overheid.nl/BWBR0048274"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Waterstaat, van 12 juni 2023, nr. IENW/BSK-2023/134700, houdende verhoging van het subsidieplafond voor het kalenderjaar 2023 als bedoeld in de Tijdelijke subsidieregeling versterking omgevingsveiligheid industriële activiteiten 2022–2027

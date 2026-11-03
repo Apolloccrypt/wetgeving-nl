@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0048252"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Wet van 10 mei 2023 tot wijziging van de Algemene wet bestuursrecht in verband met de herziening van afdeling 2.3 van die wet (Wet modernisering elektronisch bestuurlijk verkeer)

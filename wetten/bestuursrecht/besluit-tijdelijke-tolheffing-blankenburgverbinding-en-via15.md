@@ -9,7 +9,7 @@ laatste_update: 2025-09-17
 status: geldig
 toestand: 2025-09-17
 bron: "https://wetten.overheid.nl/BWBR0048667"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van 19 september 2023, houdende regels ter uitvoering van de Wet tijdelijke tolheffing Blankenburgverbinding en ViA15 (Besluit tijdelijke tolheffing Blankenburgverbinding en ViA15)

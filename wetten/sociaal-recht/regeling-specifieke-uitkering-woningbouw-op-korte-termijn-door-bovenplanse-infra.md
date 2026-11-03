@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0048724"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 29 september 2023, nr. IENW/BSK-2023/271099, houdende regels voor verstrekking van specifieke uitkeringen voor bovenplanse infrastructurele voorzieningen om op korte termijn grootschalige woningbouwlocaties te realiseren (Regeling specifieke uitkering woningbouw op korte termijn door bovenplanse infrastructuur)

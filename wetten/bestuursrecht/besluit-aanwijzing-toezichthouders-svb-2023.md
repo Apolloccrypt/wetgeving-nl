@@ -9,7 +9,7 @@ laatste_update: 2023-06-17
 status: geldig
 toestand: 2023-06-17
 bron: "https://wetten.overheid.nl/BWBR0048268"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Raad van bestuur van de Sociale verzekeringsbank van 22 mei 2023, houdende de aanwijzing van toezichthouders als bedoeld in artikel 55a van de Wet structuur uitvoeringsorganisatie werk en inkomen en artikel 5:11 van de Algemene wet bestuursrecht (Besluit aanwijzing toezichthouders SVB 2023)

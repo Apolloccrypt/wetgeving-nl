@@ -9,7 +9,7 @@ laatste_update: 2023-09-29
 status: geldig
 toestand: 2023-09-29
 bron: "https://wetten.overheid.nl/BWBR0048659"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van het bestuur van de Raad voor Rechtsbijstand tot vaststelling van het reglement van de Adviescommissie extra uren in strafzaken

@@ -9,7 +9,7 @@ laatste_update: 2025-05-03
 status: geldig
 toestand: 2025-05-03
 bron: "https://wetten.overheid.nl/BWBR0048684"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister voor Rechtsbescherming van 15 mei 2023, nr. 4596063, houdende vaststelling van de schadeloosstelling van de leden van de commissie schadefonds geweldsmisdrijven (Regeling schadeloosstelling leden commissie schadefonds geweldsmisdrijven)

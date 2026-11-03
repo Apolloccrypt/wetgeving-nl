@@ -9,7 +9,7 @@ laatste_update: 2023-11-01
 status: geldig
 toestand: 2023-11-01
 bron: "https://wetten.overheid.nl/BWBR0048753"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 6 oktober 2023, nr. 4928900, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Stichting Landelijke Inspectiedienst Dierenwelzijn 2023

@@ -8,7 +8,7 @@ laatste_update: 2023-08-15
 status: geldig
 toestand: 2023-08-15
 bron: "https://wetten.overheid.nl/BWBR0048529"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Aanwijzing procesafspraken in strafzaken

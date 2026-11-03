@@ -9,7 +9,7 @@ laatste_update: 2023-09-12
 status: geldig
 toestand: 2023-09-12
 bron: "https://wetten.overheid.nl/BWBR0048607"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van 4 september 2023 tot wijziging van het Besluit uitvoering EU-verordeningen financiële markten in verband met de uitvoering van Verordening (EU) 2021/1230 betreffende grensoverschrijdende betalingen in de Unie (codificatie) (Uitvoeringsbesluit grensoverschrijdende betalingen codificatie)

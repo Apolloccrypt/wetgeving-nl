@@ -9,7 +9,7 @@ laatste_update: 2023-09-06
 status: geldig
 toestand: 2023-09-06
 bron: "https://wetten.overheid.nl/BWBR0048602"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 22 augustus 2023, 2023-0000461719, houdende vaststelling van het Controleprotocol Wet normering topinkomens 2023 (Regeling Controleprotocol WNT 2023)

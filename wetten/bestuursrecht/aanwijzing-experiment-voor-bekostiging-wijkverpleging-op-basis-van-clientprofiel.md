@@ -9,7 +9,7 @@ laatste_update: 2023-07-25
 status: geldig
 toestand: 2023-07-25
 bron: "https://wetten.overheid.nl/BWBR0048443"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Aanwijzing van de Minister voor Langdurige Zorg en Sport van 17 juli 2023, kenmerk 3613517-1050013-PZO, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake het experiment voor bekostiging wijkverpleging op basis van cliëntprofielen volgens het Draagkracht Draaglast model

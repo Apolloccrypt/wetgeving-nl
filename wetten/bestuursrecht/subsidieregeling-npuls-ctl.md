@@ -9,7 +9,7 @@ laatste_update: 2026-07-15
 status: geldig
 toestand: 2026-07-15
 bron: "https://wetten.overheid.nl/BWBR0048587"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 24 augustus 2023, nr. 40194623, houdende regels voor subsidieverstrekking in het kader van het programma Npuls ten behoeve van de inrichting en de verdere ontwikkeling van een Center for Teaching and Learning voor de periode 2023 tot en met 2026 (Subsidieregeling Npuls CTL)

@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0048880"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 8 november 2023 nr. BOACAT2023/077, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de divisie Havenmeester van het Havenbedrijf Rotterdam N.V.

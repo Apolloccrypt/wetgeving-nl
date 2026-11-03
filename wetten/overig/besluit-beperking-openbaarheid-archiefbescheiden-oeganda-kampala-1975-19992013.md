@@ -9,7 +9,7 @@ laatste_update: 2023-06-17
 status: geldig
 toestand: 2023-06-17
 bron: "https://wetten.overheid.nl/BWBR0048277"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 9 juni 2023, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordiging in de Oeganda, Kampala (1975) 1999–2013, Besluit Beperking Openbaarheid, Kampala (1975) 1999–2013

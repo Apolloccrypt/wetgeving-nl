@@ -9,7 +9,7 @@ laatste_update: 2023-10-24
 status: geldig
 toestand: 2023-10-24
 bron: "https://wetten.overheid.nl/BWBR0048772"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Aanwijzing van de Minister voor Langdurige Zorg en Sport van 11 oktober 2023, kenmerk 3702634-1054857-PZO, inzake het terugdraaien van de verwerking van coalitieakkoordmaatregelen over het kwaliteitskader verpleeghuiszorg en het meerjarig contracteren voor het jaar 2024 in de Wlz

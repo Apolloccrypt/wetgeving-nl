@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0048552"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Wet van 10 juli 2023 tot wijziging van de Wet op de omzetbelasting 1968 in verband met de aanpassing van de kleineondernemersregeling (Wet implementatie Richtlijn kleineondernemersregeling)

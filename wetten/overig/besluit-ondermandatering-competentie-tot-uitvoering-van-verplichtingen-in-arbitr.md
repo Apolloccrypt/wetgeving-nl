@@ -9,7 +9,7 @@ laatste_update: 2023-06-15
 status: geldig
 toestand: 2023-06-15
 bron: "https://wetten.overheid.nl/BWBR0048265"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de directeur Verbruiksbelastingen, Douane en Internationale aangelegenheden van 31 mei 2023, Nr. 2023-0000122673, houdende ondermandatering van de competentie tot uitvoering van verplichtingen in arbitrageprocedures

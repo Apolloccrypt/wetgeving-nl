@@ -9,7 +9,7 @@ laatste_update: 2023-09-29
 status: geldig
 toestand: 2023-09-29
 bron: "https://wetten.overheid.nl/BWBR0048652"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Staatssecretaris van Justitie en Veiligheid van 8 september 2023, nr. 4879916, houdende een eenmalige specifieke uitkering voor gemeenten in verband met het treffen van maatregelen ter vermindering van overlast en criminaliteit veroorzaakt door asielzoekers in 2023 en 2024

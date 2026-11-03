@@ -9,7 +9,7 @@ laatste_update: 2023-07-20
 status: geldig
 toestand: 2023-07-20
 bron: "https://wetten.overheid.nl/BWBR0048422"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 7 juli 2023, nr. WJZ/39417978, houdende vaststelling van een nieuw handboek financiële verantwoording voor het Stimuleringsfonds voor de journalistiek (Regeling financiële verantwoording Stimuleringsfonds voor de journalistiek 2023)

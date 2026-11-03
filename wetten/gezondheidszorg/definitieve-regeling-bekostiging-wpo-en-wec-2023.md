@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0048709"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister voor Primair- en Voortgezet Onderwijs van 19 september 2023, nr. PO/FenV/40638986, houdende aanpassing van de bedragen voor bekostiging primair onderwijs voor het kalenderjaar 2023 en het vaststellen van de bedragen voor ondersteuning van leerlingen in het primair en voortgezet onderwijs kalenderjaar 2023 (Definitieve regeling bekostiging WPO en WEC 2023)

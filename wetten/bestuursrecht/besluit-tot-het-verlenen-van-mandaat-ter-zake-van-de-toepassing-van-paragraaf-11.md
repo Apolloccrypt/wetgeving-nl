@@ -8,7 +8,7 @@ laatste_update: 2023-09-21
 status: geldig
 toestand: 2023-09-21
 bron: "https://wetten.overheid.nl/BWBR0048629"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit tot het verlenen van mandaat ter zake van de toepassing van paragraaf 11c van het Sociaal Beleidskader Defensie 2012–2016 aan de Commandant Divisie Personeel en Organisatie Defensie

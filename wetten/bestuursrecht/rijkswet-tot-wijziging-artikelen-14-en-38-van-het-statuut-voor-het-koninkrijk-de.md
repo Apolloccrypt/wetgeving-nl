@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0048875"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-03
 ---
 
 # Rijkswet van 21 oktober 2023 tot wijziging van de artikelen 14 en 38 van het Statuut voor het Koninkrijk der Nederlanden (beperken van de mogelijkheid een algemene maatregel van rijksbestuur uit te vaardigen zonder wettelijke grondslag daartoe)

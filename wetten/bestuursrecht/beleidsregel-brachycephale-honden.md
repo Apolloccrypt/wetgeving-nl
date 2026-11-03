@@ -9,7 +9,7 @@ laatste_update: 2023-08-25
 status: geldig
 toestand: 2023-08-25
 bron: "https://wetten.overheid.nl/BWBR0048566"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Beleidsregel van de Minister van Landbouw, Natuur en Voedselkwaliteit van 17 augustus 2023, nr. WJZ/ 19230636, houdende regels over de toepassing van artikel 3.4, eerste en tweede lid, van het Besluit houders van dieren op honden (Beleidsregel brachycephale honden)

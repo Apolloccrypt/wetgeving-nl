@@ -8,7 +8,7 @@ laatste_update: 2026-01-22
 status: geldig
 toestand: 2026-01-22
 bron: "https://wetten.overheid.nl/BWBR0048519"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Subsidieregeling rechtsbijstand en aanverwante kosten Tijdelijke wet Groningen

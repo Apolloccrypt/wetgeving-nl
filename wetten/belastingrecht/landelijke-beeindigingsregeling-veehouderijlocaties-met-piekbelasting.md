@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0048262"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister voor Natuur en Stikstof van 5 juni 2023, nr. WJZ/ 27312934, houdende regels voor de verstrekking van subsidie voor het sluiten van veehouderijlocaties met piekbelasting op natuurgebieden (Landelijke beëindigingsregeling veehouderijlocaties met piekbelasting)

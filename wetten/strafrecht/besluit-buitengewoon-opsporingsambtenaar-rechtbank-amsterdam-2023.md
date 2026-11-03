@@ -9,7 +9,7 @@ laatste_update: 2023-10-01
 status: geldig
 toestand: 2023-10-01
 bron: "https://wetten.overheid.nl/BWBR0048472"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 18 juli 2023 nr. BOACAT2023/043, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij het team Beveiliging, Bewaking en Vervoer (BB&V) van de rechtbank Amsterdam

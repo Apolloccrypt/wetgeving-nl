@@ -8,7 +8,7 @@ laatste_update: 2023-07-23
 status: geldig
 toestand: 2023-07-23
 bron: "https://wetten.overheid.nl/BWBR0048430"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit vaststelling selectielijst KB, periode vanaf 1 januari 2015

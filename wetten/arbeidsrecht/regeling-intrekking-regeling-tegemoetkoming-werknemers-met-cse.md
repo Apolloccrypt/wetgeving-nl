@@ -9,7 +9,7 @@ laatste_update: 2023-10-07
 status: geldig
 toestand: 2023-10-07
 bron: "https://wetten.overheid.nl/BWBR0048716"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 2 oktober 2023, nr. 2023-0000520102, houdende intrekking van de Regeling tegemoetkoming werknemers met CSE

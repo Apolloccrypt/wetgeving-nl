@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0048877"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 25 oktober 2023, nr. MBO/41901226, houdende de vaststelling van de subsidieplafonds van de Regeling regionaal investeringsfonds mbo 2024–2027 voor het kalenderjaar 2024

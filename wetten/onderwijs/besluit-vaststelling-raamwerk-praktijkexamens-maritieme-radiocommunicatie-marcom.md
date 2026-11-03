@@ -8,7 +8,7 @@ laatste_update: 2023-07-01
 status: geldig
 toestand: 2023-07-01
 bron: "https://wetten.overheid.nl/BWBR0048254"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit vaststelling Raamwerk praktijkexamens Maritieme radiocommunicatie (Marcom-B & Marcom-A) CBR

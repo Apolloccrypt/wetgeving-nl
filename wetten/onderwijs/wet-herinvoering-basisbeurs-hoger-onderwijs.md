@@ -9,7 +9,7 @@ laatste_update: 2024-07-18
 status: geldig
 toestand: 2024-07-18
 bron: "https://wetten.overheid.nl/BWBR0048256"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Wet van 6 juni 2023, houdende wijziging van onder meer de Wet studiefinanciering 2000 in verband met de herinvoering van de basisbeurs in het hoger onderwijs, de verstrekking van een tegemoetkoming aan studenten die onder het studievoorschotstelsel hebben gestudeerd en de verruiming van de 1-februariregeling voor ho-studenten die zijn doorgestroomd vanuit het mbo (Wet herinvoering basisbeurs hoger onderwijs)

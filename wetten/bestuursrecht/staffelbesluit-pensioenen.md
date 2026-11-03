@@ -8,7 +8,7 @@ laatste_update: 2024-06-28
 status: geldig
 toestand: 2024-06-28
 bron: "https://wetten.overheid.nl/BWBR0048364"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Staffelbesluit pensioenen

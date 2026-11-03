@@ -9,7 +9,7 @@ laatste_update: 2023-09-30
 status: geldig
 toestand: 2023-09-30
 bron: "https://wetten.overheid.nl/BWBR0048660"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 7 september 2023, nr. 2023-0000024708 tot het verlenen van volmacht en machtiging ter uitvoering van het Afsprakenstelsel Elektronische Toegangsdiensten

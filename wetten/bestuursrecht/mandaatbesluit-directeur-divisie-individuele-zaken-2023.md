@@ -9,7 +9,7 @@ laatste_update: 2023-10-07
 status: geldig
 toestand: 2023-10-07
 bron: "https://wetten.overheid.nl/BWBR0048691"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de directeur Divisie Individuele Zaken van 26 september 2023, nr. 4924760, houdende verlening van ondermandaat, volmacht en machtiging aan de onder de directeur Divisie Individuele Zaken ressorterende ambtenaren (Mandaatbesluit directeur Divisie Individuele Zaken 2023)

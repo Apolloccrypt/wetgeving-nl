@@ -9,7 +9,7 @@ laatste_update: 2023-07-01
 status: geldig
 toestand: 2023-07-01
 bron: "https://wetten.overheid.nl/BWBR0048251"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister voor Volkshuisvesting en Ruimtelijke Ordening van 1 juni 2023, nr. 2023-0000309544 houdende regels voor het verlenen van eenmalige specifieke uitkeringen aan gemeenten ten behoeve van de versnelde huisvesting en begeleiding van grote gezinnen vergunninghouders (Regeling specifieke uitkering huisvesting grote gezinnen vergunninghouders)

@@ -9,7 +9,7 @@ laatste_update: 2023-08-01
 status: geldig
 toestand: 2023-08-01
 bron: "https://wetten.overheid.nl/BWBR0048400"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Wet van 7 juni 2023 tot wijziging van een aantal onderwijswetten in verband met onder andere de uitbreiding van het bestuurlijk handhavingsinstrumentarium (Wet uitbreiding bestuurlijk instrumentarium onderwijs)

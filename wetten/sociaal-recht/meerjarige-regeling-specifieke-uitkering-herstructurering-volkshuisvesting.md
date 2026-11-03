@@ -9,7 +9,7 @@ laatste_update: 2024-12-05
 status: geldig
 toestand: 2024-12-05
 bron: "https://wetten.overheid.nl/BWBR0048319"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister voor Volkshuisvesting en Ruimtelijke Ordening van 19 juni 2023, nr. 2023-0000024188, houdende regels met betrekking tot de verstrekking van specifieke uitkeringen aan gemeenten in het belang van de verbetering van de leefbaarheid in kwetsbare gebieden (Meerjarige regeling specifieke uitkering herstructurering volkshuisvesting)

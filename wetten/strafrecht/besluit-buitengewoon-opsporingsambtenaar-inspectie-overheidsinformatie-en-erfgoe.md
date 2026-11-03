@@ -9,7 +9,7 @@ laatste_update: 2023-12-20
 status: geldig
 toestand: 2023-12-20
 bron: "https://wetten.overheid.nl/BWBR0048484"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 21 juli 2023 nr. BOACAT2023/042, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Inspectie Overheidsinformatie en Erfgoed

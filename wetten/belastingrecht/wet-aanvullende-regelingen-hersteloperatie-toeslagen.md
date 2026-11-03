@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0048413"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Wet van 12 juli 2023 tot wijziging van de Wet hersteloperatie toeslagen houdende aanvullende maatregelen voor kinderen, ex-partners van gedupeerde aanvragers kinderopvangtoeslag, nabestaanden van overleden gedupeerde aanvragers kinderopvangtoeslag en overleden kinderen (Wet aanvullende regelingen hersteloperatie toeslagen)

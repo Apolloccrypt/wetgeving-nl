@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-11-01
 toestand: 2001-11-02
 bron: "https://wetten.overheid.nl/BWBV0001980"
-opgehaald: 2026-11-02
+opgehaald: 2026-11-03
 ---
 
 # Verdrag inzake samenwerking tussen het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika betreffende toegang tot en gebruik van faciliteiten in de Nederlandse Antillen en Aruba voor drugsbestrijding vanuit de lucht

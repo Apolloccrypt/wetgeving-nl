@@ -9,7 +9,7 @@ laatste_update: 2023-09-01
 status: geldig
 toestand: 2023-09-01
 bron: "https://wetten.overheid.nl/BWBR0048469"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Ministerie van Landbouw, Natuur en Voedselkwaliteit van 22 juni 2023, kenmerk EZK_MO /27705165, tot instelling Personeelsraadgever LNV (Besluit instelling personeelsraadgever LNV)

@@ -9,7 +9,7 @@ laatste_update: 2023-07-01
 status: geldig
 toestand: 2023-07-01
 bron: "https://wetten.overheid.nl/BWBR0048234"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van 30 mei 2023, houdende wijziging van het Besluit beheer autobanden en het Besluit beheer autowrakken en intrekking van het Besluit beheer batterijen en accu’s 2008 in verband met het per 1 januari 2023 van toepassing zijn van algemene regels ten aanzien van de regeling voor uitgebreide producentenverantwoordelijkheid voor autobanden, autowrakken en batterijen en accu’s op grond van het Besluit regeling voor uitgebreide producentenverantwoordelijkheid, en wijziging van het Besluit beheer verpakkingen 2014 (Verzamelbesluit wijziging bestaande UPV’s)

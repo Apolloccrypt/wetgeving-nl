@@ -9,7 +9,7 @@ laatste_update: 2023-06-20
 status: geldig
 toestand: 2023-06-20
 bron: "https://wetten.overheid.nl/BWBR0048292"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 9 juni 2023, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordiging in Soedan, Ambassade Khartoem, Besluit Beperking Openbaarheid Khartoem (1956) 1974–2013 (2014)

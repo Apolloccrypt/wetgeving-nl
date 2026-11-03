@@ -9,7 +9,7 @@ laatste_update: 2023-11-15
 status: geldig
 toestand: 2023-11-15
 bron: "https://wetten.overheid.nl/BWBR0048489"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Wet van 15 maart 2023, houdende tijdelijke wijziging van Boek 2 van het Burgerlijk Wetboek, de Faillissementswet en de Wet op de economische delicten in verband met het vergroten van transparantie bij de ontbinding van rechtspersonen zonder baten en de invoering in dat kader van de mogelijkheid van een civielrechtelijk bestuursverbod (Tijdelijke wet transparantie turboliquidatie)

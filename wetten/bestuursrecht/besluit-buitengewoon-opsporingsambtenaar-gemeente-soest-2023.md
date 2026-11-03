@@ -9,7 +9,7 @@ laatste_update: 2023-10-22
 status: geldig
 toestand: 2023-10-22
 bron: "https://wetten.overheid.nl/BWBR0048481"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 27 juni 2023 nr. BOACAT2023/041, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Soest

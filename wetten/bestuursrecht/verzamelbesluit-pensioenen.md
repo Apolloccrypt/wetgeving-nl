@@ -8,7 +8,7 @@ laatste_update: 2025-02-27
 status: geldig
 toestand: 2025-02-27
 bron: "https://wetten.overheid.nl/BWBR0048382"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Verzamelbesluit pensioenen

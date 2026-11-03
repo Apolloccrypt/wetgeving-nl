@@ -9,7 +9,7 @@ laatste_update: 2023-09-22
 status: geldig
 toestand: 2023-09-22
 bron: "https://wetten.overheid.nl/BWBR0048634"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 22 september 2023 nr 2023-0000579875 tot openstelling en vaststelling uitkeringsplafond aanvraagtijdvak van de zesde tranche van de Woningbouwimpuls

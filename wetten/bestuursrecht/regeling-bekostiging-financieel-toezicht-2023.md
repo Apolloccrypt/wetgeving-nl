@@ -9,7 +9,7 @@ laatste_update: 2025-12-03
 status: geldig
 toestand: 2025-12-03
 bron: "https://wetten.overheid.nl/BWBR0048249"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister van Financiën en de Minister voor Armoedebeleid, Participatie en Pensioenen van 31 mei 2023 kenmerk 2023-0000112901, directie Financiële Markten, tot vaststelling van de bandbreedtes en tarieven, bedoeld in artikel 9, eerste lid, van het Besluit bekostiging financieel toezicht 2019, voor het jaar 2023, en tot herstel van de normbedragen en woonlasten in de Regeling financiële markten BES 2012 (Regeling bekostiging financieel toezicht 2023)

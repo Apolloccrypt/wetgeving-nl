@@ -8,7 +8,7 @@ laatste_update: 2023-09-01
 status: geldig
 toestand: 2023-09-01
 bron: "https://wetten.overheid.nl/BWBR0048568"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Richtlijn voor strafvordering 138aa Sr (uithalers)

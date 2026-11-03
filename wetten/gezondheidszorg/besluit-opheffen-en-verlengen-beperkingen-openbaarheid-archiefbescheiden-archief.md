@@ -9,7 +9,7 @@ laatste_update: 2023-09-30
 status: geldig
 toestand: 2023-09-30
 bron: "https://wetten.overheid.nl/BWBR0048661"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit tot het opheffen en verlengen van beperkingen aan de openbaarheid van archiefbescheiden geborgen in het archief van het Centraal Medisch Tuchtcollege, 1931–1975 (2.09.21)

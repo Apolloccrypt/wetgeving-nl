@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0048236"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de directeur-generaal Natuur en Visserij van het Ministerie van Landbouw, Natuur en Voedselkwaliteit van 17 april 2023, nr. 27629288, houdende verlening van ondermandaat, volmacht en machtiging voor het directoraat-generaal Natuur en Visserij van het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2023 (Besluit ondermandaat, volmacht en machtiging voor het directoraat-generaal Natuur en Visserij van het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2023)

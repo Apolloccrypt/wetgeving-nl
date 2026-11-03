@@ -8,7 +8,7 @@ laatste_update: 2026-08-26
 status: geldig
 toestand: 2026-08-26
 bron: "https://wetten.overheid.nl/BWBR0039974"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-03
 ---
 
 # Inkomstenregeling militairen

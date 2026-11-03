@@ -8,7 +8,7 @@ laatste_update: 2023-06-08
 status: geldig
 toestand: 2023-06-08
 bron: "https://wetten.overheid.nl/BWBR0048245"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit terugbetaling looninkomsten

@@ -8,7 +8,7 @@ laatste_update: 2023-07-01
 status: geldig
 toestand: 2023-07-01
 bron: "https://wetten.overheid.nl/BWBR0048403"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Klachtenregeling voor het Centraal bureau voor de statistiek 2023

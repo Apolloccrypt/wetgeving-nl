@@ -9,7 +9,7 @@ laatste_update: 2023-09-05
 status: geldig
 toestand: 2023-09-05
 bron: "https://wetten.overheid.nl/BWBR0048600"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap en de Minister voor Primair en Voortgezet Onderwijs van 30 augustus 2023, nr. 39090731 houdende regels over het verstrekken van subsidie aan de voorlopers van de onderwijsregio’s (Subsidie voorlopers onderwijsregio’s)

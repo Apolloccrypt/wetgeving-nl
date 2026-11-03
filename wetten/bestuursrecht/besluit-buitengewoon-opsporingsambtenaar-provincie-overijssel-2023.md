@@ -9,7 +9,7 @@ laatste_update: 2023-10-17
 status: geldig
 toestand: 2023-10-17
 bron: "https://wetten.overheid.nl/BWBR0048678"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 25 september 2023 nr. BOACAT2023/062, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de provincie Overijssel

@@ -9,7 +9,7 @@ laatste_update: 2024-02-24
 status: geldig
 toestand: 2024-02-24
 bron: "https://wetten.overheid.nl/BWBR0048360"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 3 juli 2023, nr. 37417750, houdende regels voor de subsidiëring van een verrijkte schooldag voor leerlingen in het primair onderwijs, voortgezet onderwijs, speciaal onderwijs en voortgezet speciaal onderwijs 2023–2025 (Subsidieregeling School en omgeving 2023–2025)

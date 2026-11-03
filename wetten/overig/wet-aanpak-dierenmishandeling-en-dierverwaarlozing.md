@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0048434"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Wet van 3 juni 2023 tot wijziging van het Wetboek van Strafrecht, het Wetboek van Strafvordering en de Wet dieren met het oog op de versterking en aanvulling van het instrumentarium ten behoeve van de opsporing, vervolging en bestuursrechtelijke sanctionering van dierenmishandeling, dierverwaarlozing en overtreding van bepalingen inzake dierenwelzijn, dierengezondheid en het aanhitsen van dieren (Wet aanpak dierenmishandeling en dierverwaarlozing)

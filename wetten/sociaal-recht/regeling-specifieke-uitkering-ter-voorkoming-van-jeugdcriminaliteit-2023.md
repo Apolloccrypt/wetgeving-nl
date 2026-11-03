@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-05-31
 toestand: 2023-07-08
 bron: "https://wetten.overheid.nl/BWBR0048376"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid en de Minister voor Rechtsbescherming van 4 juli 2023, nr. 4605733, houdende regels met betrekking tot het verstrekken van een eenmalige specifieke uitkering ter voorkoming van jeugdcriminaliteit (Regeling specifieke uitkering ter voorkoming van jeugdcriminaliteit 2023)

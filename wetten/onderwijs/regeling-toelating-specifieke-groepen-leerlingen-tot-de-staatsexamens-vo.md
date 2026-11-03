@@ -9,7 +9,7 @@ laatste_update: 2023-09-30
 status: geldig
 toestand: 2023-09-30
 bron: "https://wetten.overheid.nl/BWBR0048662"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van het College voor toetsen en examens van 25 september 2023, CvTE- 23.00980, houdende regels inzake toepassing van de hardheidsclausule ten behoeve van deelname aan het staatsexamen voor specifieke groepen leerlingen (Regeling toelating specifieke groepen leerlingen tot de staatsexamens vo)

@@ -9,7 +9,7 @@ laatste_update: 2023-10-01
 status: geldig
 toestand: 2023-10-01
 bron: "https://wetten.overheid.nl/BWBR0048655"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van 15 september 2023, houdende aanpassing van algemene maatregelen van bestuur in verband met de technische eenmaking van enkele artikelen in enige algemene maatregelen van bestuur (Besluit technische eenmaking Burgerlijke Rechtsvordering)

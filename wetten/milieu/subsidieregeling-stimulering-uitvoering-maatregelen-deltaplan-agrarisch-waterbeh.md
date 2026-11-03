@@ -9,7 +9,7 @@ laatste_update: 2025-07-25
 status: geldig
 toestand: 2025-07-25
 bron: "https://wetten.overheid.nl/BWBR0048372"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat van 22 juni 2023 nr. IENW/BSK-2023/168582, houdende vaststelling van regels voor subsidie ter stimulering van de uitvoering van maatregelen van het Deltaplan Agrarisch Waterbeheer (Subsidieregeling stimulering uitvoering maatregelen Deltaplan Agrarisch Waterbeheer)

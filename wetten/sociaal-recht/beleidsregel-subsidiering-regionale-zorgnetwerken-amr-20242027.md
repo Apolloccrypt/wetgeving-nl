@@ -9,7 +9,7 @@ laatste_update: 2023-07-18
 status: geldig
 toestand: 2023-07-18
 bron: "https://wetten.overheid.nl/BWBR0048402"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 7 juli 2023, kenmerk 3628006-1050435-CZ, houdende subsidiëring van regionale zorgnetwerken voor het verrichten van activiteiten op het gebied van antimicrobiële resistentie 2024-2027 (Beleidsregel subsidiëring regionale zorgnetwerken antimicrobiële resistentie)

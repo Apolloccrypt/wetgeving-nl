@@ -9,7 +9,7 @@ laatste_update: 2026-06-11
 status: geldig
 toestand: 2026-06-11
 bron: "https://wetten.overheid.nl/BWBR0048549"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat van 7 augustus 2023, nr. WJZ/ 33562140, tot vaststelling van algemene richtlijnen die houders van concessies die zijn verleend op grond van de Wet telecommunicatievoorzieningen BES gehouden zijn op te volgen (Besluit algemene richtlijnen houders van een concessie Wet telecommunicatievoorzieningen BES)

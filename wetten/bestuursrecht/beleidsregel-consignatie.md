@@ -9,7 +9,7 @@ laatste_update: 2023-07-01
 status: geldig
 toestand: 2023-07-01
 bron: "https://wetten.overheid.nl/BWBR0048227"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Beleidsregel van de Minister van Financiën van 24 mei 2023, kenmerk DJZ 120433, over de uitleg van enkele begrippen uit de Wet op de consignatie van gelden (Beleidsregel consignatie)

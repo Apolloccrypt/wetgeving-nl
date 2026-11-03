@@ -8,7 +8,7 @@ laatste_update: 2023-11-01
 status: geldig
 toestand: 2023-11-01
 bron: "https://wetten.overheid.nl/BWBR0048869"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-03
 ---
 
 # Reglement hoorcommissie bezwaarzaken met externe voorzitter 2023

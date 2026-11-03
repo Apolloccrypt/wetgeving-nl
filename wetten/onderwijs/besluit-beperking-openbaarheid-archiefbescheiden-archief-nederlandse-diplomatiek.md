@@ -9,7 +9,7 @@ laatste_update: 2023-07-07
 status: geldig
 toestand: 2023-07-07
 bron: "https://wetten.overheid.nl/BWBR0048358"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 28 juni 2023, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordigingen in Vietnam, Ambassade Hanoi en CG Ho Chi Minhstad (1963) 1975–2013, Doc-Direkt (1963) 1975–2013, Besluit Beperking Openbaarheid, Ambassade Hanoi en CG Ho Chi Minhstad (1963) 1975–2013

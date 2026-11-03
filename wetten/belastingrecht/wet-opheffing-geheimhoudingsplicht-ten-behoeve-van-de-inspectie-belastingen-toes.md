@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0048625"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Wet van 25 augustus 2023 tot wijziging van de Algemene wet inkomensafhankelijke regelingen en de Algemene douanewet ter opheffing van de geheimhoudingsplicht in verband met het verstrekken van gegevens aan de inspectie belastingen, toeslagen en douane (Wet opheffing geheimhoudingsplicht ten behoeve van de inspectie belastingen, toeslagen en douane)

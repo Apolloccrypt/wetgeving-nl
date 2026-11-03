@@ -9,7 +9,7 @@ laatste_update: 2023-10-25
 status: geldig
 toestand: 2023-10-25
 bron: "https://wetten.overheid.nl/BWBR0048771"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Minister voor Langdurige Zorg en Sport van 10 oktober 2023, kenmerk 3698854-1053525-DMO, houdende verlening van mandaat, volmacht en machtiging aan de Rijksdienst voor Ondernemend Nederland in verband met de subsidieverstrekking inzake de Stimuleringsregeling zorggeschikte woningen (Besluit mandaat, volmacht en machtiging RVO inzake de Stimuleringsregeling zorggeschikte woningen)

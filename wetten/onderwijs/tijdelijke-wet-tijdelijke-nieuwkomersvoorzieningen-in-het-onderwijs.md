@@ -9,7 +9,7 @@ laatste_update: 2023-10-11
 status: geldig
 toestand: 2023-10-11
 bron: "https://wetten.overheid.nl/BWBR0048720"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Wet van 4 oktober 2023 tot wijziging van de Wet op het primair onderwijs en Wet voortgezet onderwijs 2020 in verband met de tijdelijke inrichting van tijdelijke nieuwkomersvoorzieningen voor leerplichtige nieuwkomers en het versterken van de regierol van gemeentebesturen bij het aanbod van nieuwkomersonderwijs (Tijdelijke wet tijdelijke nieuwkomersvoorzieningen in het onderwijs)

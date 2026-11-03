@@ -9,7 +9,7 @@ laatste_update: 2023-11-11
 status: geldig
 toestand: 2023-11-11
 bron: "https://wetten.overheid.nl/BWBR0048882"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Voorzitter, het College van Voorzitter en Ondervoorzitters en de Griffier van de Eerste Kamer der Staten-Generaal van 31 oktober 2023, kenmerk 17389U, houdende Mandaat, Volmacht en Machtiging ambtelijke organisatie Eerste Kamer der Staten-Generaal 2023 (M&V-Besluit Eerste Kamer 2023)

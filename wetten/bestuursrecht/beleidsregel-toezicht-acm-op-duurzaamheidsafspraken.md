@@ -8,7 +8,7 @@ laatste_update: 2023-10-06
 status: geldig
 toestand: 2023-10-06
 bron: "https://wetten.overheid.nl/BWBR0048693"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Beleidsregel Toezicht ACM op duurzaamheidsafspraken

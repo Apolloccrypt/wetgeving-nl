@@ -9,7 +9,7 @@ laatste_update: 2023-06-01
 status: geldig
 toestand: 2023-06-01
 bron: "https://wetten.overheid.nl/BWBR0048194"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 15 mei 2023, nr. IENW/BSK-2023/132812, houdende vaststelling van regels in verband met de erkenning van EU-beroepskwalificaties voor verkeersveiligheidsauditors en bijzondere verkeersveiligheidsinspecteurs (Regeling erkenning EU-beroepskwalificaties verkeersveiligheidsauditors en bijzondere verkeersveiligheidsinspecteurs)

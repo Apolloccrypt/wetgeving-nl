@@ -9,7 +9,7 @@ laatste_update: 2023-10-11
 status: geldig
 toestand: 2023-10-11
 bron: "https://wetten.overheid.nl/BWBR0048729"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van 6 oktober 2023 tot wijziging van het Inrichtingsbesluit WPO, het Uitvoeringsbesluit WVO 2020 en het Besluit register onderwijsdeelnemers in verband met de tijdelijke inrichting van tijdelijke nieuwkomersvoorzieningen voor leerplichtige nieuwkomers (Tijdelijk besluit tijdelijke nieuwkomersvoorzieningen in het onderwijs)

@@ -8,7 +8,7 @@ laatste_update: 2023-08-18
 status: geldig
 toestand: 2023-08-18
 bron: "https://wetten.overheid.nl/BWBR0048560"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit middeling

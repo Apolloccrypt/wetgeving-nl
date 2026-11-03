@@ -9,7 +9,7 @@ laatste_update: 2026-05-13
 status: geldig
 toestand: 2026-05-13
 bron: "https://wetten.overheid.nl/BWBR0048611"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister voor Langdurige Zorg en Sport van 6 september 2023, kenmerk 3663019-1052552-DMO, houdende regels voor de subsidiëring van de onrendabele top bij realisatie van zorggeschikte woningen binnen geclusterde woonvormen (Stimuleringsregeling zorggeschikte woningen)

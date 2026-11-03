@@ -8,7 +8,7 @@ laatste_update: 2023-05-09
 status: geldig
 toestand: 2023-05-09
 bron: "https://wetten.overheid.nl/BWBR0048423"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Ondermandaatbesluit tenuitvoerlegging strafrechtelijke en administratiefrechtelijke beslissingen CJIB oktober 2022

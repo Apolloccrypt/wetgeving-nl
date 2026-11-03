@@ -8,7 +8,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0048689"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling medisch-specialistische zorg

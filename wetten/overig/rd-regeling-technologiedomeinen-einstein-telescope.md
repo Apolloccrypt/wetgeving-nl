@@ -9,7 +9,7 @@ laatste_update: 2024-10-26
 status: geldig
 toestand: 2024-10-26
 bron: "https://wetten.overheid.nl/BWBR0048766"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 10 oktober 2023, nr. 41107325, houdende regels voor de subsidieverstrekking voor technologiedomeinen voor de Einstein Telescope (R&D regeling technologiedomeinen Einstein Telescope)

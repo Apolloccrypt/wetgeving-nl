@@ -9,7 +9,7 @@ laatste_update: 2023-11-01
 status: geldig
 toestand: 2023-11-01
 bron: "https://wetten.overheid.nl/BWBR0048809"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de directeur-generaal Luchtvaart en Maritieme Zaken, van 11 oktober 2023, nr. IENW/BSK-2023/291378, tot verlening van ondermandaat, volmacht en machtiging (Ondermandaatbesluit directoraat-generaal Luchtvaart en Maritieme Zaken 2023)

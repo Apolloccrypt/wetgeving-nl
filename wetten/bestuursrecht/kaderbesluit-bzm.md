@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-06-30
 toestand: 2023-10-01
 bron: "https://wetten.overheid.nl/BWBR0048584"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Kaderbesluit bzm

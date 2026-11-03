@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0048633"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van 12 september 2023, houdende wijzigingen van ondergeschikte betekenis in de algemene maatregelen van bestuur op het terrein van het wettelijke stelsel van de Omgevingswet (Verzamelbesluit Omgevingswet 2023)

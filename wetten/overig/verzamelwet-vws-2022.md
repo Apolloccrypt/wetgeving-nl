@@ -9,7 +9,7 @@ laatste_update: 2024-07-01
 status: geldig
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0048617"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Wet van 25 augustus 2023 tot wijziging van een aantal wetten op het terrein van het Ministerie van Volksgezondheid, Welzijn en Sport (Verzamelwet VWS 2022)

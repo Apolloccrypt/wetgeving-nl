@@ -9,7 +9,7 @@ laatste_update: 2025-07-10
 status: geldig
 toestand: 2025-07-10
 bron: "https://wetten.overheid.nl/BWBR0048384"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister voor Onderwijs, Cultuur en Wetenschap van 3 juli 2023 nr. 38037878, houdende regels voor de subsidieverstrekking aan samenwerkingsverbanden voor onderwijscoalities tijdens de af- en ombouw van de gesloten jeugdhulp (Subsidieregeling onderwijscoalities af- en ombouw gesloten jeugdhulp)

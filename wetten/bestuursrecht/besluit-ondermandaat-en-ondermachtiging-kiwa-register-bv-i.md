@@ -9,7 +9,7 @@ laatste_update: 2025-10-16
 status: geldig
 toestand: 2025-10-16
 bron: "https://wetten.overheid.nl/BWBR0048398"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de voorzitter van de directie van KIWA N.V., houdende verlening van ondermandaat en ondermachtiging KIWA Register B.V. (Besluit Ondermandaat en ondermachtiging Kiwa Register B.V. (I))

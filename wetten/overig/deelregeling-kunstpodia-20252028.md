@@ -8,7 +8,7 @@ laatste_update: 2023-07-21
 status: geldig
 toestand: 2023-07-21
 bron: "https://wetten.overheid.nl/BWBR0048428"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Deelregeling Kunstpodia 2025–2028

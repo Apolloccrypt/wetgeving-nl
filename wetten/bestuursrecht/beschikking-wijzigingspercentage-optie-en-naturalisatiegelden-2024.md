@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0048541"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Beschikking wijzigingspercentage optie- en naturalisatiegelden 2024 van 6 augustus 2023, nummer 2023/1

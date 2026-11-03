@@ -9,7 +9,7 @@ laatste_update: 2023-08-31
 status: geldig
 toestand: 2023-08-31
 bron: "https://wetten.overheid.nl/BWBR0048581"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit UWV Onderzoekssubsidie ‘Niet-uitkeringsgerechtigden met een arbeidsbeperking’

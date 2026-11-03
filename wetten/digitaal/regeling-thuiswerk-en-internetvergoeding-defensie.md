@@ -8,7 +8,7 @@ laatste_update: 2026-03-07
 status: geldig
 toestand: 2026-03-07
 bron: "https://wetten.overheid.nl/BWBR0048665"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling thuiswerk- en internetvergoeding defensie

@@ -9,7 +9,7 @@ laatste_update: 2023-07-15
 status: geldig
 toestand: 2023-07-15
 bron: "https://wetten.overheid.nl/BWBR0048395"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister voor Natuur en Stikstof van 4 juli 2023, nr. WJZ/33366590, houdende aanwijzing van de territoriale wateren en de exclusieve economische zone rond Bonaire, Sint Eustatius en Saba als natuurpark voor zeezoogdieren, haaien en roggen (Regeling aanwijzing Yarari-reservaat als natuurpark)

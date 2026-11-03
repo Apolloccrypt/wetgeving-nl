@@ -9,7 +9,7 @@ laatste_update: 2023-07-15
 status: geldig
 toestand: 2023-07-15
 bron: "https://wetten.overheid.nl/BWBR0048396"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van 10 juli 2023, houdende regels ter uitvoering van de Wet grondslagen natuurbeheer- en bescherming BES, alsmede houdende wijziging van het Visserijbesluit BES in verband met het uitbreiden van verboden vistuigen en vistechnieken, redactionele verbeteringen en technische wijzigingen (Uitvoeringsbesluit Wgnb BES)

@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0048295"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap en de Minister voor Primair en Voortgezet Onderwijs van 12 juni 2023, nr. 38118126 houdende regels voor de subsidieverstrekking voor het versterken van de aansluiting in de beroepsonderwijskolom (Subsidieregeling versterking aansluiting beroepsonderwijskolom)

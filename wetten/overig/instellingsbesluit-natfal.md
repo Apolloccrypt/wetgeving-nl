@@ -9,7 +9,7 @@ laatste_update: 2023-09-26
 status: geldig
 toestand: 2023-09-26
 bron: "https://wetten.overheid.nl/BWBR0048637"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat van 23 augustus 2023, nr. IENW/BSK-2023/223471 Hoofddirectie Bestuurlijke en Juridische Zaken, van 11 september 2023, houdende instelling van de NATFAL (Instellingsbesluit NATFAL)

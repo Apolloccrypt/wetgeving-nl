@@ -9,7 +9,7 @@ laatste_update: 2025-05-28
 status: geldig
 toestand: 2025-05-28
 bron: "https://wetten.overheid.nl/BWBR0048571"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 23 augustus 2023, nr. IENW/BSK-2023/187607, houdende regels over een specifieke uitkering in verband met de voortzetting van de Regionale Aanpak Laadinfrastructuur voor de jaren 2023 tot en met 2030 (Regeling specifieke uitkering Regionale Aanpak Laadinfrastructuur 2023 – 2030)

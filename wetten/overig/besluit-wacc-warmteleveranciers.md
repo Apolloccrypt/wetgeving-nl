@@ -8,7 +8,7 @@ laatste_update: 2023-08-25
 status: geldig
 toestand: 2023-08-25
 bron: "https://wetten.overheid.nl/BWBR0048574"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit WACC warmteleveranciers

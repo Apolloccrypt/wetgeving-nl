@@ -9,7 +9,7 @@ laatste_update: 2023-11-10
 status: geldig
 toestand: 2023-11-10
 bron: "https://wetten.overheid.nl/BWBR0048872"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-03
 ---
 
 # Aanwijzing van de Minister voor Langdurige Zorg en Sport van 1 november 2023, kenmerk 3709686-1054932-PZO, op grond van artikel 7 van de Wet marktordening gezondheidzorg, inzake de vaststelling van een tijdelijke prestatie cliëntgebonden coördinatie activiteiten Ketenveldnorm levensloopfunctie ggz/fz

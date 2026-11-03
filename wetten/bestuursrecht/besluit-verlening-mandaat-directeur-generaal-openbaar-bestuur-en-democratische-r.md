@@ -8,7 +8,7 @@ laatste_update: 2023-10-07
 status: geldig
 toestand: 2023-10-07
 bron: "https://wetten.overheid.nl/BWBR0048710"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit verlening mandaat Directeur-generaal Openbaar bestuur en democratische rechtstaat

@@ -8,7 +8,7 @@ laatste_update: 2023-07-28
 status: geldig
 toestand: 2023-07-28
 bron: "https://wetten.overheid.nl/BWBR0048457"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Vaststelling selectielijst e-mailbewaring gemeentelijke en intergemeentelijke organen 2024 vanaf 1 januari 2024

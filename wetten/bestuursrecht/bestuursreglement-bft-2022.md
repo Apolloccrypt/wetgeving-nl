@@ -9,7 +9,7 @@ laatste_update: 2023-11-10
 status: geldig
 toestand: 2023-11-10
 bron: "https://wetten.overheid.nl/BWBR0048846"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Bestuursreglement Bureau Financieel Toezicht

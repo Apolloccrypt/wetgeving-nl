@@ -8,7 +8,7 @@ laatste_update: 2023-10-05
 status: geldig
 toestand: 2023-10-05
 bron: "https://wetten.overheid.nl/BWBR0048688"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit beperkingen openbaarheid notulen en bescheiden ministerraad 1998

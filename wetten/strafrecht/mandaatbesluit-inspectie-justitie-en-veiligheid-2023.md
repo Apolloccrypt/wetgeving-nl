@@ -9,7 +9,7 @@ laatste_update: 2024-06-28
 status: geldig
 toestand: 2024-06-28
 bron: "https://wetten.overheid.nl/BWBR0048431"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de inspecteur-generaal van de Inspectie Justitie en Veiligheid van het Ministerie van Justitie en Veiligheid van 11 juli 2023, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan onder de inspecteur-generaal ressorterende ambtenaren (Mandaatbesluit Inspectie Justitie en Veiligheid 2023)

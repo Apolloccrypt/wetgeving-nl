@@ -9,7 +9,7 @@ laatste_update: 2023-07-01
 status: geldig
 toestand: 2023-07-01
 bron: "https://wetten.overheid.nl/BWBR0048281"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister voor Volkshuisvesting en Ruimtelijke Ordening, van 12 juni 2023, nr. 2023-0000336688, houdende vaststelling van nadere regels inzake schriftelijk verstrekken van informatie aan de huurders over de rechten en plichten van de huurder ten aanzien van het gehuurde (Regeling goed verhuurderschap)

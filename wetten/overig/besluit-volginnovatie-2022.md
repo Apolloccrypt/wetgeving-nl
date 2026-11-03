@@ -9,7 +9,7 @@ laatste_update: 2023-10-31
 status: geldig
 toestand: 2023-10-31
 bron: "https://wetten.overheid.nl/BWBR0048805"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat van 12 oktober 2023 inzake volginnovatie 2022

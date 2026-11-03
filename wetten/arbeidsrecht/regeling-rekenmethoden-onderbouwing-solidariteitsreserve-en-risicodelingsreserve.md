@@ -9,7 +9,7 @@ laatste_update: 2023-07-01
 status: geldig
 toestand: 2023-07-01
 bron: "https://wetten.overheid.nl/BWBR0048347"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van De Nederlandsche Bank N.V. van 23 juni 2023, ter uitvoering van artikel 1h, negende lid, Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling, houdende regels met betrekking tot rekenmethoden ter onderbouwing van de inrichting van de solidariteitsreserve en de risicodelingsreserve (Regeling rekenmethoden onderbouwing solidariteitsreserve en risicodelingsreserve pensioenuitvoerders)

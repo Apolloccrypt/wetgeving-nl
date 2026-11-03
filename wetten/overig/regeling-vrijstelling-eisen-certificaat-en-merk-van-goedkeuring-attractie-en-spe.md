@@ -9,7 +9,7 @@ laatste_update: 2023-11-15
 status: geldig
 toestand: 2023-11-15
 bron: "https://wetten.overheid.nl/BWBR0048878"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 6 november 2023, kenmerk 3707195-1055377-WJZ, houdende vrijstelling van bepaalde eisen ten aanzien van het certificaat en merk van goedkeuring voor attractie- en speeltoestellen (Regeling vrijstelling eisen certificaat en merk van goedkeuring attractie- en speeltoestellen)

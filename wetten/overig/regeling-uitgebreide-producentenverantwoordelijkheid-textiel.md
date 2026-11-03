@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0048299"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 15 juni 2023, nr. IENW/BSK-2023/158985, houdende vaststelling van nadere regels in verband met de uitvoering van het Besluit uitgebreide producentenverantwoordelijkheid textiel (Regeling uitgebreide producentenverantwoordelijkheid textiel)

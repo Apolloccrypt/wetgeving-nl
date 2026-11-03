@@ -9,7 +9,7 @@ laatste_update: 2023-10-01
 status: geldig
 toestand: 2023-10-01
 bron: "https://wetten.overheid.nl/BWBR0048479"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Wet van 7 juni 2023 tot wijziging van de Rijkswet op het Nederlanderschap en de Paspoortwet alsmede intrekking van voorbehouden bij het Verdrag betreffende de status van staatlozen in verband met de vaststelling van staatloosheid

@@ -9,7 +9,7 @@ laatste_update: 2026-07-08
 status: geldig
 toestand: 2026-07-08
 bron: "https://wetten.overheid.nl/BWBR0048658"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 21 september 2023, nr. IENW/BSK-276554, houdende vaststelling van regels inzake geluidwerende voorzieningen aan woningen binnen de geluidcontour voor de luchthaven Schiphol (Regeling gevelisolatie Schiphol 2023)

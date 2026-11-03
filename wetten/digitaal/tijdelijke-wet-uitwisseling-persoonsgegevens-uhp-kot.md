@@ -9,7 +9,7 @@ laatste_update: 2023-07-01
 status: geldig
 toestand: 2023-07-01
 bron: "https://wetten.overheid.nl/BWBR0048336"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Wet van 3 juni 2023, houdende regels aangaande een tijdelijke uitwisseling van persoonsgegevens ter identificering van de ouders die gedupeerd zijn als gevolg van problemen bij de uitvoering van de kinderopvangtoeslag en geconfronteerd zijn met uithuisplaatsing van kinderen (Tijdelijke wet uitwisseling persoonsgegevens UHP KOT)

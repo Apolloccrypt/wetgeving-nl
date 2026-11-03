@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0048195"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de plaatsvervangend secretaris-generaal van het Ministerie van Landbouw, Natuur en Voedselkwaliteit van 16 mei 2023, nr. WJZ / 26882847, houdende verlening van ondermandaat, volmacht en machtiging aan de secretaris-directeur van de RDA (Besluit ondermandaat, volmacht en machtiging voor de secretaris-directeur RDA)

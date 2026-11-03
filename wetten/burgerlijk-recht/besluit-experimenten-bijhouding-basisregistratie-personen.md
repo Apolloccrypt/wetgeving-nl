@@ -9,7 +9,7 @@ laatste_update: 2023-10-01
 status: geldig
 toestand: 2023-10-01
 bron: "https://wetten.overheid.nl/BWBR0048654"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van 15 september 2023, houdende regels waarmee tijdelijk wordt afgeweken van de Wet basisregistratie personen in het kader van een experiment met uitbreiding van de bijhouding van gegevens over niet-ingezetenen in de basisregistratie personen, alsmede van een experiment met het informeren van ingeschrevenen op het woonadres over de inschrijvingen op dat adres (Besluit experimenten bijhouding basisregistratie personen)

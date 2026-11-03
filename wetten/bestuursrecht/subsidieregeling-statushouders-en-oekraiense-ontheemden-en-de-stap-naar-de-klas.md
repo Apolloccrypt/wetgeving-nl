@@ -9,7 +9,7 @@ laatste_update: 2025-09-26
 status: geldig
 toestand: 2025-09-26
 bron: "https://wetten.overheid.nl/BWBR0048409"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 22 juni 2023, nr. VO/1410371, houdende regels voor subsidieverstrekking voor Statushouders en de stap naar de klas (Subsidieregeling Statushouders en de stap naar de klas)

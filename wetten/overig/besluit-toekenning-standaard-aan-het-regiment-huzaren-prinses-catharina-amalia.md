@@ -9,7 +9,7 @@ laatste_update: 2023-11-09
 status: geldig
 toestand: 2023-11-09
 bron: "https://wetten.overheid.nl/BWBR0048859"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-03
 ---
 
 # Besluit van 16 oktober 2023, houdende de toekenning van een standaard aan het Regiment Huzaren Prinses Catharina-Amalia

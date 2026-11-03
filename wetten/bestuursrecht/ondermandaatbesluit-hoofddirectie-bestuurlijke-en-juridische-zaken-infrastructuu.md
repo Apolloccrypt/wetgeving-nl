@@ -9,7 +9,7 @@ laatste_update: 2023-11-08
 status: geldig
 toestand: 2023-11-08
 bron: "https://wetten.overheid.nl/BWBR0048853"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de hoofddirecteur Bestuurlijke en Juridische Zaken, van 23 oktober 2023, nr. IENW/BSK-2023/310971, tot verlening van ondermandaat, volmacht en machtiging (Ondermandaatbesluit hoofddirectie Bestuurlijke en Juridische Zaken Infrastructuur en Waterstaat 2023)

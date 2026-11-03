@@ -8,7 +8,7 @@ laatste_update: 2023-10-10
 status: geldig
 toestand: 2023-10-10
 bron: "https://wetten.overheid.nl/BWBR0048711"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit vervanging archiefbescheiden ZonMw 2023

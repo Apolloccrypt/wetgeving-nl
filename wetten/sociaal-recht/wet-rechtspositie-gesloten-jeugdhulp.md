@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0048243"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Wet van 17 mei 2023 tot wijziging van de Jeugdwet in verband met het versterken van de rechtspositie van jeugdigen die worden opgenomen in een gesloten accommodatie (Wet rechtspositie gesloten jeugdhulp)

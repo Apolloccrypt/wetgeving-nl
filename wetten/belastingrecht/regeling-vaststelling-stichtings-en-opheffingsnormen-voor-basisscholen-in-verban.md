@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0048816"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 23 oktober 2023, nr. POR/202309/000002, houdende vaststelling van een aantal stichtings- en opheffingsnormen voor basisscholen in verband met wijzigingen van de gemeentelijke indeling en grenscorrecties met ingang van 1 januari 2023

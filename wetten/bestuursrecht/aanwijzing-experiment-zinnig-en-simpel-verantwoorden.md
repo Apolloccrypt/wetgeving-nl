@@ -9,7 +9,7 @@ laatste_update: 2023-11-13
 status: geldig
 toestand: 2023-11-13
 bron: "https://wetten.overheid.nl/BWBR0048871"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-03
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 3 november 2023, kenmerk 3712418-1055833-PZo, inzake het experiment zinnig en simpel verantwoorden in de langdurige zorg

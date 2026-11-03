@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0048601"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Wet van 25 augustus 2023, houdende bepalingen over gegevensuitwisseling ter bevordering van samenwerking binnen het zorgdomein en van doelmatige en rechtmatige zorg, maatschappelijke ondersteuning en jeugdhulp (Wet bevorderen samenwerking en rechtmatige zorg)

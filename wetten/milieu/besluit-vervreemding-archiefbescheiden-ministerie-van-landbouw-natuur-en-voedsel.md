@@ -9,7 +9,7 @@ laatste_update: 2023-06-16
 status: geldig
 toestand: 2023-06-16
 bron: "https://wetten.overheid.nl/BWBR0048273"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van 30 juni 2022, nr. PSG-DB/22287945, tot vervreemding archiefbescheiden van het Ministerie van Landbouw, Natuur en Voedselkwaliteit aan het Ministerie van Binnenlandse Zaken – 18593

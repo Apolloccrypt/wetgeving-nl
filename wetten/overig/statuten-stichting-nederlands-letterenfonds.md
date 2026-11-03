@@ -8,7 +8,7 @@ laatste_update: 2023-07-04
 status: geldig
 toestand: 2023-07-04
 bron: "https://wetten.overheid.nl/BWBR0048363"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Statuten Stichting Nederlands Letterenfonds

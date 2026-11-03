@@ -9,7 +9,7 @@ laatste_update: 2023-07-19
 status: geldig
 toestand: 2023-07-19
 bron: "https://wetten.overheid.nl/BWBR0048418"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 14 juli 2023, nr 4718153, houdende de instelling van de regeringscommissaris nieuw Wetboek van Strafvordering (Instellingsbesluit regeringscommissaris nieuw Wetboek van Strafvordering)

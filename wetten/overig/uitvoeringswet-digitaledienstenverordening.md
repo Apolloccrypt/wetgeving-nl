@@ -9,7 +9,7 @@ laatste_update: 2026-11-01
 status: geldig
 toestand: 2026-11-01
 bron: "https://wetten.overheid.nl/BWBR0050739"
-opgehaald: 2026-11-02
+opgehaald: 2026-11-03
 ---
 
 # Wet van 29 januari 2025 tot uitvoering van verordening (EU) 2022/2065 van het Europees Parlement en de Raad van 19 oktober 2022 betreffende een eengemaakte markt voor digitale diensten en tot wijziging van Richtlijn 2000/31/EG (Uitvoeringswet digitaledienstenverordening)

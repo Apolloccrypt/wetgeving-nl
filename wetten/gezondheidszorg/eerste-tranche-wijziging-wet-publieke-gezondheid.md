@@ -9,7 +9,7 @@ laatste_update: 2023-06-20
 status: geldig
 toestand: 2023-06-20
 bron: "https://wetten.overheid.nl/BWBR0048244"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Wet van 24 mei 2023 tot wijziging van de Wet publieke gezondheid in verband met de bestrijding van een epidemie van infectieziekten behorend tot groep A1, of een directe dreiging daarvan

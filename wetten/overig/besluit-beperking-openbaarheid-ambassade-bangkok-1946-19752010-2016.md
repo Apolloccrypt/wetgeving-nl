@@ -9,7 +9,7 @@ laatste_update: 2023-06-20
 status: geldig
 toestand: 2023-06-20
 bron: "https://wetten.overheid.nl/BWBR0048288"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 9 juni 2023 houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordigingen in Thailand, Ambassade Bangkok, (1946) 1975–2010 (2016), (Besluit Beperking Openbaarheid Ambassade Bangkok (1946) 1975–2010 (2016)

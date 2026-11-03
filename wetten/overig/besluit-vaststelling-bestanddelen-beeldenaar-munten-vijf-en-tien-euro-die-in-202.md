@@ -9,7 +9,7 @@ laatste_update: 2023-09-27
 status: geldig
 toestand: 2023-09-27
 bron: "https://wetten.overheid.nl/BWBR0048609"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van 25 augustus 2023 tot vaststelling van de bestanddelen van de beeldenaar van de munten van vijf en tien euro die in 2023 worden uitgegeven ter gelegenheid van de vijftigjarige erkenning van het COC

@@ -9,7 +9,7 @@ laatste_update: 2023-06-01
 status: geldig
 toestand: 2023-06-01
 bron: "https://wetten.overheid.nl/BWBR0048210"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat en de Minister van Justitie en Veiligheid van 17 mei 2023, nr. WJZ/ 22390627, houdende voorschriften met betrekking tot de melding van een verwervingsactiviteit (Regeling veiligheidstoets investeringen, fusies en overnames)

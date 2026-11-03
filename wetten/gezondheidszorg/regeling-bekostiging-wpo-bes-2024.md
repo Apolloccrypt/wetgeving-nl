@@ -9,7 +9,7 @@ laatste_update: 2024-07-06
 status: geldig
 toestand: 2024-07-06
 bron: "https://wetten.overheid.nl/BWBR0048797"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 16 oktober 2023, nr. PO/F&V/41112635, houdende regels voor de bekostiging van het primair onderwijs in Caribisch Nederland voor het kalenderjaar 2024

@@ -9,7 +9,7 @@ laatste_update: 2025-11-28
 status: geldig
 toestand: 2025-11-28
 bron: "https://wetten.overheid.nl/BWBR0048897"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 14 november 2023, nr. 2023– 2023-0000600837, houdende regels met betrekking tot het verlenen van een specifieke uitkering ten behoeve van het realiseren van gebiedsmaatregelen (Tijdelijke regeling specifieke uitkering gebiedsbudget)

@@ -9,7 +9,7 @@ laatste_update: 2023-08-15
 status: geldig
 toestand: 2023-08-15
 bron: "https://wetten.overheid.nl/BWBR0048448"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 10 juli 2023 nr. BOACAT2023/038, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Koninklijke Marechaussee bewaken en beveiligen

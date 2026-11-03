@@ -9,7 +9,7 @@ laatste_update: 2023-09-09
 status: geldig
 toestand: 2023-09-09
 bron: "https://wetten.overheid.nl/BWBR0048604"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister voor Klimaat en Energie van 31 augustus 2023, nr. WJZ/34404290, houdende tijdelijke regels betreffende subsidie voor aanbestedende diensten en speciale-sectorbedrijven ter tegemoetkoming van gestegen energiekosten door opzegging contract SEFE Energy Ltd. (Regeling ter tegemoetkoming van gestegen energiekosten door opzegging contract SEFE Energy Ltd.)

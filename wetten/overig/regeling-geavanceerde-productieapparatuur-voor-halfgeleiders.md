@@ -9,7 +9,7 @@ laatste_update: 2025-11-25
 status: geldig
 toestand: 2025-11-25
 bron: "https://wetten.overheid.nl/BWBR0048439"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 23 juni 2023, nr. MinBuza.2023.15246-27 houdende invoering van een vergunningplicht voor de uitvoer van geavanceerde productieapparatuur voor halfgeleiders die niet zijn genoemd in bijlage I van Verordening 2021/821 (Regeling geavanceerde productieapparatuur voor halfgeleiders)

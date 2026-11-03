@@ -9,7 +9,7 @@ laatste_update: 2023-10-11
 status: geldig
 toestand: 2023-10-11
 bron: "https://wetten.overheid.nl/BWBR0048715"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Beleidsregel van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 27 september 2023, kenmerk 2023-0000037360, over het voeren van verweer in procedures bij de Afdeling bestuursrechtspraak van de Raad van State waarin verzocht wordt om vergoeding van immateriële schade wegens overschrijding van de redelijke termijn door de Afdeling bestuursrechtspraak van de Raad van State

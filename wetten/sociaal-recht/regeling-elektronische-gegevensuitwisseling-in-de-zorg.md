@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0048783"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 5 oktober 2023, kenmerk 3697736-1053813-DICIO, houdende regels met betrekking tot de uitvoering van de Wet elektronische gegevensuitwisseling in de zorg (Regeling elektronische gegevensuitwisseling in de zorg)

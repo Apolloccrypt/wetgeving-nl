@@ -9,7 +9,7 @@ laatste_update: 2025-12-19
 status: geldig
 toestand: 2025-12-19
 bron: "https://wetten.overheid.nl/BWBR0048808"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Waterstaat, van 17 oktober 2023, nr. IENW/BSK-2023/288283, houdende de instelling van de Expertgroep Gezondheid IJmond

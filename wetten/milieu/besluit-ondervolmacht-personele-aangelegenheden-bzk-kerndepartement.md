@@ -8,7 +8,7 @@ laatste_update: 2023-10-06
 status: geldig
 toestand: 2023-10-06
 bron: "https://wetten.overheid.nl/BWBR0048700"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit ondervolmacht personele aangelegenheden BZK Kerndepartement

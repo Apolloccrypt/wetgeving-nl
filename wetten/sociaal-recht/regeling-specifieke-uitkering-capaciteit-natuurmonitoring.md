@@ -9,7 +9,7 @@ laatste_update: 2023-10-12
 status: geldig
 toestand: 2023-10-12
 bron: "https://wetten.overheid.nl/BWBR0048727"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister voor Natuur en Stikstof van 5 oktober 2023, nr. WJZ/ 37236159, houdende regels voor het verstrekken van specifieke uitkeringen aan provincies in verband met de inzet van capaciteit op natuurmonitoring (Regeling specifieke uitkering capaciteit natuurmonitoring)

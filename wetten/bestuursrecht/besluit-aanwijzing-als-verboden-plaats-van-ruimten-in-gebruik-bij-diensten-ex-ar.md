@@ -9,7 +9,7 @@ laatste_update: 2023-10-11
 status: geldig
 toestand: 2023-10-11
 bron: "https://wetten.overheid.nl/BWBR0048719"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van 25 augustus 2023, nr. 2023001723, houdende de aanwijzing als verboden plaats van ruimten die in gebruik zijn bij diensten die op grond van artikel 91 van de Wet op de inlichtingen- en veiligheidsdiensten 2017 werkzaamheden verrichten

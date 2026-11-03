@@ -8,7 +8,7 @@ laatste_update: 2023-06-16
 status: geldig
 toestand: 2023-06-16
 bron: "https://wetten.overheid.nl/BWBR0048270"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit vaststelling selectielijst Stichting donorgegevens kunstmatige bevruchting vanaf 23 juli 2003

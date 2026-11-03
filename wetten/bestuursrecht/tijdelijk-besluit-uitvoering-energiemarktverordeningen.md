@@ -9,7 +9,7 @@ laatste_update: 2023-10-24
 status: geldig
 toestand: 2023-10-24
 bron: "https://wetten.overheid.nl/BWBR0048768"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van 28 september 2023 ter uitvoering van Verordening (EU) nr. 2022/2576 inzake de bevordering van solidariteit via een betere coördinatie van de aankoop van gas, betrouwbare prijsbenchmarks en de uitwisseling van gas over de grenzen heen en Verordening (EU) nr. 2022/2578 tot vaststelling van een marktcorrectiemechanisme (Tijdelijk besluit uitvoering energiemarktverordeningen)

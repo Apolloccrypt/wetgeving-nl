@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0048828"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 31 oktober 2023, nr. IENW/BSK-2023/294008 houdende vaststelling van regels omtrent de beveiliging van havens (Havenbeveiligingsregeling)

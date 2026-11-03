@@ -8,7 +8,7 @@ laatste_update: 2023-09-26
 status: geldig
 toestand: 2023-09-26
 bron: "https://wetten.overheid.nl/BWBR0048641"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Bestuursreglement van de Lcsh

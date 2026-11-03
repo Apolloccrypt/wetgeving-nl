@@ -9,7 +9,7 @@ laatste_update: 2023-06-17
 status: geldig
 toestand: 2023-06-17
 bron: "https://wetten.overheid.nl/BWBR0048278"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de directeur van het Nationaal Cyber Security Centrum (NCSC) van het Ministerie van Justitie en Veiligheid van 6 juni 2023, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan de onder de directeur ressorterende ambtenaren (Mandaatbesluit NCSC 2023 Ministerie van Justitie en Veiligheid)

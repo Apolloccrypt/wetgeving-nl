@@ -9,7 +9,7 @@ laatste_update: 2023-10-07
 status: geldig
 toestand: 2023-10-07
 bron: "https://wetten.overheid.nl/BWBR0048714"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister voor Armoedebeleid, Participatie en Pensioenen van 28 september 2023, nr. 2023-0000527818, houdende regels betreffende de eenmalige tegemoetkoming voor energiekosten studenten

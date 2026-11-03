@@ -8,7 +8,7 @@ laatste_update: 2023-11-02
 status: geldig
 toestand: 2023-11-02
 bron: "https://wetten.overheid.nl/BWBR0048836"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Beleidskader Beperkt Beveiligde Afdeling van het Gevangeniswezen

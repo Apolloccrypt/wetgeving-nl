@@ -9,7 +9,7 @@ laatste_update: 2024-09-11
 status: geldig
 toestand: 2024-09-11
 bron: "https://wetten.overheid.nl/BWBR0048436"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Minister voor Klimaat en Energie en de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 18 juli 2023, nr. 2023-0000029558, houdende instelling van het Burgerforum klimaat- en energiebeleid (Instellingsbesluit Burgerforum klimaat- en energiebeleid)

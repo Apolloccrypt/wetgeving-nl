@@ -9,7 +9,7 @@ laatste_update: 2023-11-16
 status: geldig
 toestand: 2023-11-16
 bron: "https://wetten.overheid.nl/BWBR0048893"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-03
 ---
 
 # Wet van 8 november 2023 tot wijziging van de Wet rechtspositie rechterlijke ambtenaren, de Tweede Verzamelspoedwet COVID-19 en enkele andere wetten in verband met het treffen van een tijdelijke voorziening voor het benoemen van rechters-plaatsvervangers in hun eenenzeventigste levensjaar

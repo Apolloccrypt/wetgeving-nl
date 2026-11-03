@@ -9,7 +9,7 @@ laatste_update: 2023-09-13
 status: geldig
 toestand: 2023-09-13
 bron: "https://wetten.overheid.nl/BWBR0048606"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 5 september 2023 nr. BOACAT2023/057, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Westerkwartier

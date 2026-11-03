@@ -9,7 +9,7 @@ laatste_update: 2023-11-21
 status: geldig
 toestand: 2023-11-21
 bron: "https://wetten.overheid.nl/BWBR0048558"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 8 augustus 2023 nr. BOACAT2023/053, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de provincie Zuid-Holland

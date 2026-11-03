@@ -9,7 +9,7 @@ laatste_update: 2023-06-06
 status: geldig
 toestand: 2023-06-06
 bron: "https://wetten.overheid.nl/BWBR0048228"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 25 mei 2023 nr. BOACAT2023/029, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Capelle aan den IJssel

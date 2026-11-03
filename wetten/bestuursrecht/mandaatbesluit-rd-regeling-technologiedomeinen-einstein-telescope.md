@@ -9,7 +9,7 @@ laatste_update: 2023-10-24
 status: geldig
 toestand: 2023-10-24
 bron: "https://wetten.overheid.nl/BWBR0048765"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 10 oktober 2023, nr. 41104475, houdende de verlening van mandaat, volmacht en machtiging aan het Limburgs Instituut voor Ontwikkeling en Financiering N.V. (LIOF) voor de uitvoering van de R&D-Regeling technologiedomeinen Einstein Telescope (Mandaatbesluit R&D-regeling technologiedomeinen Einstein Telescope)

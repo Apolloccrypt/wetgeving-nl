@@ -9,7 +9,7 @@ laatste_update: 2023-07-19
 status: geldig
 toestand: 2023-07-19
 bron: "https://wetten.overheid.nl/BWBR0048415"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de directeur-generaal van Rijkswaterstaat van 22 juni 2023 met kenmerk RWS-2023/20854 houdende verlening van mandaat, volmacht en machtiging aan de hoofdingenieur-directeur Rijkswaterstaat Oost-Nederland en de directeur Netwerkmanagement van Rijkswaterstaat Zee en Delta voor het uitoefenen van bevoegdheden in de Hertogin Hedwigepolder

@@ -9,7 +9,7 @@ laatste_update: 2023-11-15
 status: geldig
 toestand: 2023-11-15
 bron: "https://wetten.overheid.nl/BWBR0048884"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 13 november 2023, houdende vaststelling van het subsidieplafond en de aanvraagperiode van de meerjarige stimuleringsregeling flex- en transformatiewoningen

@@ -9,7 +9,7 @@ laatste_update: 2023-10-17
 status: geldig
 toestand: 2023-10-17
 bron: "https://wetten.overheid.nl/BWBR0048740"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Deelregeling van het bestuur van het Fonds Podiumkunsten van 11 oktober 2023, houdende meerjarige festivalsubsidies Fonds Podiumkunsten 2025-2028

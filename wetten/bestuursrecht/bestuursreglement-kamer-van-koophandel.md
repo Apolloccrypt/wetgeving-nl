@@ -9,7 +9,7 @@ laatste_update: 2023-11-04
 status: geldig
 toestand: 2023-11-04
 bron: "https://wetten.overheid.nl/BWBR0048834"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Kamer van Koophandel van 6 april 2023 tot vaststelling van een Bestuursreglement en Gedragscode voor de Kamer van Koophandel

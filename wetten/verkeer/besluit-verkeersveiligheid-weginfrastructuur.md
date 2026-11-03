@@ -9,7 +9,7 @@ laatste_update: 2023-06-01
 status: geldig
 toestand: 2023-06-01
 bron: "https://wetten.overheid.nl/BWBR0048193"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van 24 mei 2023 ter implementatie van richtlijn 2008/96/EG van het Europees Parlement en de Raad van de Europese Unie van 19 november 2008 betreffende het beheer van de verkeersveiligheid van weginfrastructuur (PbEU 2008, L 319) alsmede richtlijn (EU) 2019/1936 van het Europees Parlement en de Raad van de Europese Unie van 23 oktober 2019 tot wijziging van richtlijn 2008/96/EG betreffende het beheer van de verkeersveiligheid van weginfrastructuur (PbEU 2019, L 305) (Besluit verkeersveiligheid weginfrastructuur)

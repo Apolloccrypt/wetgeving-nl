@@ -9,7 +9,7 @@ laatste_update: 2023-07-01
 status: geldig
 toestand: 2023-07-01
 bron: "https://wetten.overheid.nl/BWBR0048337"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van 29 juni 2023 tot wijziging van het Reglement verkeersregels en verkeerstekens 1990 in verband met de tijdelijke voorwaarden en overgangsbepalingen van nul-emissiezones (Tijdelijk besluit nul-emissiezones)

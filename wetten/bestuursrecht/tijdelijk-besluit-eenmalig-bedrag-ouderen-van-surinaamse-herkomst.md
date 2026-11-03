@@ -9,7 +9,7 @@ laatste_update: 2024-06-01
 status: geldig
 toestand: 2024-06-01
 bron: "https://wetten.overheid.nl/BWBR0048840"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van 6 oktober 2023, houdende de toekenning van een eenmalig bedrag aan ouderen van Surinaamse herkomst (Tijdelijk besluit eenmalig bedrag ouderen van Surinaamse herkomst)

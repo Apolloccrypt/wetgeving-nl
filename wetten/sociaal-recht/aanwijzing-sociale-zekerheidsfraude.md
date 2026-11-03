@@ -8,7 +8,7 @@ laatste_update: 2023-10-01
 status: geldig
 toestand: 2023-10-01
 bron: "https://wetten.overheid.nl/BWBR0048643"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Aanwijzing Sociale Zekerheidsfraude

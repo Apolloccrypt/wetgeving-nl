@@ -9,7 +9,7 @@ laatste_update: 2023-10-03
 status: geldig
 toestand: 2023-10-03
 bron: "https://wetten.overheid.nl/BWBR0048692"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Beleidsregel van de Minister van Infrastructuur en Waterstaat, van 25 september 2023, nr. IENW/BSK-2023/266714, houdende vaststelling van regels wat betreft de compensatie van eigenaren en gebruikers van bijzondere bromfietsen van het merk Stint voor schade die samenhangt met de schorsing en intrekking van de aanwijzing van dit voertuig (Beleidsregel compensatie eigenaren en gebruikers Stint)

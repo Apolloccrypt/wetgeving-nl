@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0048348"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van De Nederlandsche Bank N.V. (DNB) van 23 juni 2023 houdende regels met betrekking tot het melden van een interne collectieve waardeoverdracht bij transitie als bedoeld in artikel 150m van de Pensioenwet en artikel 145l van de Wet verplichte beroepspensioenregeling (Regeling melden interne collectieve waardeoverdracht pensioenfondsen bij transitie)

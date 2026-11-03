@@ -9,7 +9,7 @@ laatste_update: 2025-04-01
 status: geldig
 toestand: 2025-04-01
 bron: "https://wetten.overheid.nl/BWBR0048615"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Wet van 25 augustus 2023 tot wijziging van de Wet donorgegevens kunstmatige bevruchting in verband met de tweede evaluatie van de wet, het actieplan ter ondersteuning van donorkinderen en de omvorming van de Stichting donorgegevens kunstmatige bevruchting tot publiekrechtelijk zelfstandig bestuursorgaan

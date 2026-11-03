@@ -8,7 +8,7 @@ laatste_update: 2023-10-25
 status: geldig
 toestand: 2023-10-25
 bron: "https://wetten.overheid.nl/BWBR0048776"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit beperking openbaarheid archief Directie Verzetsdeelnemers, Vervolgden en Burgeroorlogsgetroffenen en Projectbureau Tegoeden Tweede Wereldoorlog Ministerie van Volksgezondheid, Welzijn en Sport en taakvoorgangers, 1946-2004 (2010)

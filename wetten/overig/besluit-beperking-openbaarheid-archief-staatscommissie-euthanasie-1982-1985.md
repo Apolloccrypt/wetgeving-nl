@@ -8,7 +8,7 @@ laatste_update: 2023-09-28
 status: geldig
 toestand: 2023-09-28
 bron: "https://wetten.overheid.nl/BWBR0048701"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit beperking openbaarheid archief Staatscommissie Euthanasie, 1982-1985

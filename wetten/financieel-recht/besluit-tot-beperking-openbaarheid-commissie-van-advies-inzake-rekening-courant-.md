@@ -9,7 +9,7 @@ laatste_update: 2023-06-16
 status: geldig
 toestand: 2023-06-16
 bron: "https://wetten.overheid.nl/BWBR0048276"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van 8 juni 2023 tot beperking openbaarheid – Commissie van Advies inzake Rekening-courant, Giro en Clearing, De Nederlandsche Bank

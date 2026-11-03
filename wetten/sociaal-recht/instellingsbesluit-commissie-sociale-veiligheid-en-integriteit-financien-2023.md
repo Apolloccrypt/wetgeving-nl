@@ -9,7 +9,7 @@ laatste_update: 2025-12-25
 status: geldig
 toestand: 2025-12-25
 bron: "https://wetten.overheid.nl/BWBR0048417"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Minister van Financiën van 23 juni 2023, houdende instelling van de Commissie sociale veiligheid en integriteit Financiën (Instellingsbesluit Commissie sociale veiligheid en integriteit Financiën 2023)

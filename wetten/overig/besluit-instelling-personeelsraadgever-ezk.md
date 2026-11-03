@@ -9,7 +9,7 @@ laatste_update: 2023-09-01
 status: geldig
 toestand: 2023-09-01
 bron: "https://wetten.overheid.nl/BWBR0048470"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat van 22 juni 2023, kenmerk EZK_MO/27702569, tot instelling Personeelsraadgever EZK (Besluit instelling personeelsraadgever EZK)

@@ -9,7 +9,7 @@ laatste_update: 2023-09-19
 status: geldig
 toestand: 2023-09-19
 bron: "https://wetten.overheid.nl/BWBR0048627"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Order of the Minister for Foreign Trade and Development Cooperation of 7 September 2023, no.MinBuza.2023.18814-20, laying down administrative rules and a ceiling for grants awarded under the Ministry of Foreign Affairs Grant Regulations 2006 (Orange Corners Innovation Fund Grant Programme 2024–2030)

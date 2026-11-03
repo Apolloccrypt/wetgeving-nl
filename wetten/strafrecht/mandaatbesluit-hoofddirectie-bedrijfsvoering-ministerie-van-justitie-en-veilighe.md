@@ -9,7 +9,7 @@ laatste_update: 2024-03-13
 status: geldig
 toestand: 2024-03-13
 bron: "https://wetten.overheid.nl/BWBR0048315"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de hoofddirecteur bedrijfsvoering van 12 juni 2023 (kenmerk 4657710/23/DP&O), verlening van ondermandaat en het doorgeven van volmacht en machtiging aan onder de hoofddirecteur bedrijfsvoering ressorterende ambtenaren (Mandaatbesluit Hoofddirectie Bedrijfsvoering Ministerie van Justitie en Veiligheid 2022)

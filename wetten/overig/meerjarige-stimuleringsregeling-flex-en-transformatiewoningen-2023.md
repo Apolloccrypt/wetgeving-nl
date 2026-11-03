@@ -9,7 +9,7 @@ laatste_update: 2025-12-11
 status: geldig
 toestand: 2025-12-11
 bron: "https://wetten.overheid.nl/BWBR0048657"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 28 september 2023, nr. 2023-0000542827, houdende regels voor het verstrekken van een eenmalige specifieke uitkering aan gemeenten of provincies ter stimulering van het realiseren van flex- en transformatiewoningen (Meerjarige stimuleringsregeling flex- en transformatiewoningen 2023)

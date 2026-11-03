@@ -8,7 +8,7 @@ laatste_update: 2024-07-26
 status: geldig
 toestand: 2024-07-26
 bron: "https://wetten.overheid.nl/BWBR0048325"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit heffing omzetbelasting bij leasing

@@ -9,7 +9,7 @@ laatste_update: 2023-06-16
 status: geldig
 toestand: 2023-06-16
 bron: "https://wetten.overheid.nl/BWBR0048285"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Circulaire Aanpassing plafond aantal DB'ers waterschap met terugwerkende kracht, d.d. 7 juni 2023, kenmerk 2023-0000339669

@@ -9,7 +9,7 @@ laatste_update: 2026-01-22
 status: geldig
 toestand: 2026-01-22
 bron: "https://wetten.overheid.nl/BWBR0048350"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 29 juni 2023, nr. WJZ/ 27870366, houdende regels ter uitvoering van de Tijdelijke wet Groningen en het Besluit Tijdelijke wet Groningen (Regeling Tijdelijke wet Groningen)

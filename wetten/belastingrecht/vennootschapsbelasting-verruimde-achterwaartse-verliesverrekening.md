@@ -8,7 +8,7 @@ laatste_update: 2023-06-01
 status: geldig
 toestand: 2023-06-01
 bron: "https://wetten.overheid.nl/BWBR0048203"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Vennootschapsbelasting, verruimde achterwaartse verliesverrekening

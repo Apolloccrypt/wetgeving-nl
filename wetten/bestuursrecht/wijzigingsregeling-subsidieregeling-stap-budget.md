@@ -9,7 +9,7 @@ laatste_update: 2023-09-04
 status: geldig
 toestand: 2023-09-04
 bron: "https://wetten.overheid.nl/BWBR0048478"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 14 juli 2023, nr. 2023-0000425610, tot wijziging van de Subsidieregeling STAP-budget in verband met het beperken van de subsidiabele scholing tot OCW-erkende scholing, de openstelling van twee nieuwe aanvraagtijdvakken en enige andere wijzigingen

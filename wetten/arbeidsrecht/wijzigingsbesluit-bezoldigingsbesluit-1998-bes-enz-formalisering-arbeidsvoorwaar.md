@@ -9,7 +9,7 @@ laatste_update: 2023-07-07
 status: geldig
 toestand: 2023-07-07
 bron: "https://wetten.overheid.nl/BWBR0048367"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van 23 juni 2023, houdende wijziging van het Bezoldigingsbesluit 1998 BES, het Rechtspositiebesluit ambtenaren BES, het Besluit vakantie en vrijstelling van dienst ambtenaren BES, het Besluit rechtspositie korps politie BES en het Dienst- en werktijdenbesluit brandweerkorps BES (formalisering arbeidsvoorwaardenovereenkomst Rijksambtenaren BES 2021–2023)

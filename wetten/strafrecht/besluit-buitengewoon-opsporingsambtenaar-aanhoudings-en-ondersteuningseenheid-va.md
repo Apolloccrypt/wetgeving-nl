@@ -9,7 +9,7 @@ laatste_update: 2024-07-18
 status: geldig
 toestand: 2024-07-18
 bron: "https://wetten.overheid.nl/BWBR0048913"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 13 november 2023 nr. BOACAT2023/074, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Aanhoudings- en ondersteuningseenheid van de Eenheid Landelijke Opsporing en Interventies

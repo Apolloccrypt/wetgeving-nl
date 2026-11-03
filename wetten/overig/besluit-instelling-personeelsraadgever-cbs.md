@@ -9,7 +9,7 @@ laatste_update: 2023-09-20
 status: geldig
 toestand: 2023-09-20
 bron: "https://wetten.overheid.nl/BWBR0048628"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de directeur-generaal van de statistiek van 29 juni 2023 kenmerk CSB-2023-099, houdende instelling Personeelsraadgever CBS

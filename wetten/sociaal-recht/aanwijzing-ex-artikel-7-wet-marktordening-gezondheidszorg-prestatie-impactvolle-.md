@@ -9,7 +9,7 @@ laatste_update: 2025-10-11
 status: geldig
 toestand: 2025-10-11
 bron: "https://wetten.overheid.nl/BWBR0048769"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 9 oktober 2023, kenmerk 3696063-1053658-PZo, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake de prestatie impactvolle transformaties

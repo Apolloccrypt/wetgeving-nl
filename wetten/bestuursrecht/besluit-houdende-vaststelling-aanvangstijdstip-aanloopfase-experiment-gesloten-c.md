@@ -9,7 +9,7 @@ laatste_update: 2023-12-15
 status: geldig
 toestand: 2023-12-15
 bron: "https://wetten.overheid.nl/BWBR0048732"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport en de Minister van Justitie en Veiligheid van 3 oktober 2023, kenmerk 3699503-1054522-WJZ, houdende vaststelling van het aanvangstijdstip van de aanloopfase van het experiment gesloten coffeeshopketen in de gemeenten Breda en Tilburg

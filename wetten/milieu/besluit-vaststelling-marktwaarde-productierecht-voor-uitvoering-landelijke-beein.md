@@ -9,7 +9,7 @@ laatste_update: 2023-07-04
 status: geldig
 toestand: 2023-07-04
 bron: "https://wetten.overheid.nl/BWBR0048353"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Minister voor Natuur en Stikstof van 30 juni 2023, nr. WJZ/ 33366783, tot vaststelling van de marktwaarde van productierecht voor de uitvoering van de Landelijke beëindigingsregeling veehouderijlocaties voor stikstofreductie

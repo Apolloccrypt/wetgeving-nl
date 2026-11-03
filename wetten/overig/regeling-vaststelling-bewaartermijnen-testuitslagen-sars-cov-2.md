@@ -9,7 +9,7 @@ laatste_update: 2023-07-01
 status: geldig
 toestand: 2023-07-01
 bron: "https://wetten.overheid.nl/BWBR0048341"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 22 juni 2023, kenmerk 3616715-1050039-PDCIC houdende het vaststellen van bewaartermijnen voor testuitslagen van een testuitslag waaruit blijkt of een persoon op het moment van afname van de test was geïnfecteerd met het virus SARS-CoV-2

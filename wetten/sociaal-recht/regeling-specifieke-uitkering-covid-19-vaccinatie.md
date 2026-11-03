@@ -9,7 +9,7 @@ laatste_update: 2026-07-08
 status: geldig
 toestand: 2026-07-08
 bron: "https://wetten.overheid.nl/BWBR0048308"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 13 juni 2023, kenmerk 3608755-1047372-PDCV, houdende het verstrekken van een specifieke uitkering aan GGD’en voor het in stand houden van een infrastructuur ten behoeve van de basiscapaciteit COVID-19-vaccinatie en het toedienen van COVID-19-vaccinaties

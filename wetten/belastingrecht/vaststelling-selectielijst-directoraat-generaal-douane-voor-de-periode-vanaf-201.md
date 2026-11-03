@@ -8,7 +8,7 @@ laatste_update: 2023-11-04
 status: geldig
 toestand: 2023-11-04
 bron: "https://wetten.overheid.nl/BWBR0048827"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Vaststelling selectielijst directoraat-generaal Douane voor de periode vanaf (2013) 2023

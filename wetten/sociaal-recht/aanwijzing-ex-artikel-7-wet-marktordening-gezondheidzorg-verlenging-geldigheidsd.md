@@ -9,7 +9,7 @@ laatste_update: 2023-11-10
 status: geldig
 toestand: 2023-11-10
 bron: "https://wetten.overheid.nl/BWBR0048866"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-03
 ---
 
 # Aanwijzing van de Minister voor Langdurige Zorg en Sport van 1 november 2023, kenmerk 3703138-1054933-PZO, op grond van artikel 7 van de Wet marktordening gezondheidzorg, inzake de verlenging van de geldigheidsduur van de transitieprestatie in de geneeskundige geestelijke gezondheidszorg en de forensische zorg tot en met 2025

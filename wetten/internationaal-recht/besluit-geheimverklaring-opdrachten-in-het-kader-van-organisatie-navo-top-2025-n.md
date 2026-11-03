@@ -9,7 +9,7 @@ laatste_update: 2023-10-13
 status: geldig
 toestand: 2023-10-13
 bron: "https://wetten.overheid.nl/BWBR0048728"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 4 oktober 2023, nr. Min-Buza.2023.19915-24, tot geheimverklaring van opdrachten in het kader van de organisatie van de NAVO-top in 2025 in Nederland

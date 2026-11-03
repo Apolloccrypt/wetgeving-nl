@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0048855"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Wet van 16 oktober 2023, houdende wetstechnische wijzigingen en andere wijzigingen van ondergeschikte aard in de Omgevingswet en enkele wetten die daarmee verband houden (Verzamelwet Omgevingswet 2023)

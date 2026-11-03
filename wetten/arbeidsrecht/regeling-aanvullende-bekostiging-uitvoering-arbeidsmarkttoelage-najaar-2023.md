@@ -9,7 +9,7 @@ laatste_update: 2023-08-01
 status: geldig
 toestand: 2023-08-01
 bron: "https://wetten.overheid.nl/BWBR0048435"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 13 juni 2023, nr. 38742056, tot het verstrekken van aanvullende bekostiging voor het primair en voortgezet onderwijs voor de uitvoering van een arbeidsmarkttoelage voor het najaar van 2023 (Regeling aanvullende bekostiging uitvoering arbeidsmarkttoelage najaar 2023)

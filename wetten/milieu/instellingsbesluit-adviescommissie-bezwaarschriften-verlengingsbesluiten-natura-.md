@@ -8,7 +8,7 @@ laatste_update: 2023-06-13
 status: geldig
 toestand: 2023-06-13
 bron: "https://wetten.overheid.nl/BWBR0048260"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # instellingsbesluit adviescommissie bezwaarschriften verlengingsbesluiten Natura 2000-beheerplannen Deltawateren, Waddenzee en Noordzeekustzone

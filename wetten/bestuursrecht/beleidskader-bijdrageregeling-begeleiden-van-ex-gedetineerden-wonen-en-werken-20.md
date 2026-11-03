@@ -9,7 +9,7 @@ laatste_update: 2023-10-12
 status: geldig
 toestand: 2023-10-12
 bron: "https://wetten.overheid.nl/BWBR0048752"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Beleidskader van de Minister voor Rechtsbescherming van 12 oktober 2023, houdende bijdrageregeling begeleiden van ex-gedetineerden voor wonen en werken 2024

@@ -9,7 +9,7 @@ laatste_update: 2026-07-03
 status: geldig
 toestand: 2026-07-03
 bron: "https://wetten.overheid.nl/BWBR0048542"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister voor Langdurige Zorg en Sport van 3 augustus 2023, kenmerk 3638565-1051255-PZo, houdende regels voor het subsidiëren van patiënten- en gehandicaptenorganisaties 2024–2028 (Subsidieregeling pg-organisaties 2024–2028)

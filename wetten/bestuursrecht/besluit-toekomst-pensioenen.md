@@ -9,7 +9,7 @@ laatste_update: 2023-07-01
 status: geldig
 toestand: 2023-07-01
 bron: "https://wetten.overheid.nl/BWBR0048343"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van 22 juni 2023 tot wijziging van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling en enige andere besluiten in verband met de Wet toekomst pensioenen (Besluit toekomst pensioenen)

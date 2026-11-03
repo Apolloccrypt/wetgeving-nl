@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0048328"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Wet van 3 juni 2023 tot wijziging van de Pensioenwet, de Wet inkomstenbelasting 2001 en enige andere wetten in verband met herziening van het pensioenstelsel, standaardisering van het nabestaandenpensioen, aanpassing van de fiscale behandeling van pensioen en enige andere wijzigingen ten aanzien van pensioen (Wet toekomst pensioenen)

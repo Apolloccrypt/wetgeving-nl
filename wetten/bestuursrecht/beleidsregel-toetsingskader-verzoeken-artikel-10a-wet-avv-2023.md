@@ -9,7 +9,7 @@ laatste_update: 2023-07-15
 status: geldig
 toestand: 2023-07-15
 bron: "https://wetten.overheid.nl/BWBR0048393"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 7 juli 2023, nr. 2023-0000394473, tot vaststelling van het toetsingskader voor verzoeken in het kader van artikel 10a van de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten (Beleidsregel toetsingskader verzoeken artikel 10a Wet Avv 2023)

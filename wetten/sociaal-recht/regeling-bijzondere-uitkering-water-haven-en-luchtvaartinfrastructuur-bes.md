@@ -9,7 +9,7 @@ laatste_update: 2024-06-26
 status: geldig
 toestand: 2024-06-26
 bron: "https://wetten.overheid.nl/BWBR0048694"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 2 oktober 2023, nr. IENW/BSK-2023/269257, houdende regels voor het verstrekken van een bijzondere uitkering ten behoeve van verbetering van water-, haven- en luchtvaartinfrastructuur (Regeling bijzondere uitkering water-, haven- en luchtvaartinfrastructuur BES)

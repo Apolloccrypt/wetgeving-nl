@@ -9,7 +9,7 @@ laatste_update: 2023-09-08
 status: geldig
 toestand: 2023-09-08
 bron: "https://wetten.overheid.nl/BWBR0048603"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Aanwijzing van de Minister voor Langdurige Zorg en Sport, van 30 augustus 2023, kenmerk 3636527-1051016-PZO, op grond van artikel 7 van de Wet marktordening gezondheidzorg, inzake de vaststelling van een prestatie consultatiefunctie ggz met een vrij tarief in de geneeskundige geestelijke gezondheidszorg

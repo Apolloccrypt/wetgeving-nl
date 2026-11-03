@@ -9,7 +9,7 @@ laatste_update: 2025-12-01
 status: geldig
 toestand: 2025-12-01
 bron: "https://wetten.overheid.nl/BWBR0048576"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van De Nederlandsche Bank N.V. van 21 augustus 2023 tot erkenning van de sinds 31 december 2022 van toepassing zijnde macroprudentiële maatregel van het Ministerie van Financiën van Noorwegen inhoudende een systeemrisicobufferpercentage van 4,5% (Besluit erkenning 4,5% systeemrisicobuffer Noorwegen 2023)

@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0048639"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Wet van 25 augustus 2023 tot wijziging van de Wet op het financieel toezicht, de Algemene wet bestuursrecht en de Faillissementswet in verband met de rechtsbescherming bij de afwikkeling van verzekeraars en enige andere verbeteringen in het kader voor herstel en afwikkeling van verzekeraars (Wijzigingswet herstel en afwikkeling van verzekeraars)

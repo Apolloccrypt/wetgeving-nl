@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0048800"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Beschikking van de Minister voor Rechtsbescherming van 20 oktober 2023, nr. 4962664, Directie Wetgeving en Juridische Zaken, tot vaststelling van het percentage waarmee de bedragen voor levensonderhoud met ingang van 1 januari 2024 worden verhoogd (Beschikking wijzigingspercentage levensonderhoud 2024)

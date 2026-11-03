@@ -9,7 +9,7 @@ laatste_update: 2024-10-04
 status: geldig
 toestand: 2024-10-04
 bron: "https://wetten.overheid.nl/BWBR0048597"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap en de Minister voor Primair en Voortgezet Onderwijs van 30 augustus 2023, nr. 39778488, houdende regels voor het verstrekken van subsidie aan onderwijsregio’s (Subsidieregeling Onderwijsregio’s)

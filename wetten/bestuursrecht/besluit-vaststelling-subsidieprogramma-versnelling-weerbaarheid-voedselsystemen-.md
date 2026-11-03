@@ -9,7 +9,7 @@ laatste_update: 2023-07-11
 status: geldig
 toestand: 2023-07-11
 bron: "https://wetten.overheid.nl/BWBR0048380"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 25 juni 2023, Min-BuZa.2023.15455-30, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieprogramma Versnelling Weerbaarheid Voedselsystemen Afrika)

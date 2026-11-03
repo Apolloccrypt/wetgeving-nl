@@ -9,7 +9,7 @@ laatste_update: 2023-10-31
 status: geldig
 toestand: 2023-10-31
 bron: "https://wetten.overheid.nl/BWBR0048798"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid d.d. 17-10-2023, kenmerk 3177126, houdende beperking van de openbaarheid van het archief van de C-dossiers van het Ministerie van Justitie, (1856) 1953-2005 (2012)

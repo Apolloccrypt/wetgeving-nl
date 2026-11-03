@@ -9,7 +9,7 @@ laatste_update: 2023-09-02
 status: geldig
 toestand: 2023-09-02
 bron: "https://wetten.overheid.nl/BWBR0048595"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 14 juli 2023, nr. 2023-0000417918, houdende regels voor de subsidiëring van de waterschappen ter tegemoetkoming in de kosten voor de uitvoering van de Wet open overheid (Subsidieregeling uitvoeringskosten waterschappen Wet open overheid)

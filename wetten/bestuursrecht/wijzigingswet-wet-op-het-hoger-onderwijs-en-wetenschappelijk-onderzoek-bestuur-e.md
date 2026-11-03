@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0048486"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Wet van 7 juni 2023, houdende wijziging van de Wet op het hoger onderwijs en wetenschappelijk onderzoek in verband met enkele wijzigingen inzake het bestuur en de inrichting van academische ziekenhuizen

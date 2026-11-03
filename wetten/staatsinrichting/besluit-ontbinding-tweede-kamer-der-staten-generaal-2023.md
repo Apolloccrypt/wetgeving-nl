@@ -9,7 +9,7 @@ laatste_update: 2023-09-18
 status: geldig
 toestand: 2023-09-18
 bron: "https://wetten.overheid.nl/BWBR0048624"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van 8 september 2023, houdende de ontbinding van de Tweede Kamer der Staten-Generaal

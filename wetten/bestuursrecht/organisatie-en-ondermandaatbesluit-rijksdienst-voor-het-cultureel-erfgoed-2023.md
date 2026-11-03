@@ -9,7 +9,7 @@ laatste_update: 2023-11-01
 status: geldig
 toestand: 2023-11-01
 bron: "https://wetten.overheid.nl/BWBR0048807"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de algemeen directeur van de Rijksdienst voor het Cultureel Erfgoed van 10 oktober 2023, nr. RCE/42145325, houdende de vaststelling van het Organisatie- en ondermandaatbesluit Rijksdienst voor het Cultureel Erfgoed 2023 (Organisatie- en ondermandaatbesluit Rijksdienst voor het Cultureel Erfgoed 2023)

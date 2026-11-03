@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0048323"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Aanwijzing van de Minister voor Langdurige Zorg en Sport van 14 juni 2023, kenmerk 3604293-1049249-PZO, inzake de verwerking van taakstellingen uit het coalitieakkoord voor het jaar 2024 en verder voor bepaalde vormen van zorg zoals vergoed vanuit de Wlz

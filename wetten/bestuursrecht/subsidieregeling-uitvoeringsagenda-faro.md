@@ -9,7 +9,7 @@ laatste_update: 2025-11-25
 status: geldig
 toestand: 2025-11-25
 bron: "https://wetten.overheid.nl/BWBR0048419"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 7 juli 2023, nr. WJZ/39385155, houdende regeling voor subsidieverstrekking ter implementatie van de Uitvoeringsagenda Faro (Subsidieregeling Uitvoeringsagenda Faro)

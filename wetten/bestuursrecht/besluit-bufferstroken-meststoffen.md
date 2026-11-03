@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0048762"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van 5 oktober 2023 tot wijziging van het Besluit activiteiten leefomgeving en het Uitvoeringsbesluit Meststoffenwet in verband met het aanhouden van bufferstroken ter uitvoering van het Uitvoeringsbesluit (EU) 2022/2069 van de Commissie van 30 september 2022 tot verlening van een door Nederland gevraagde derogatie op grond van Richtlijn 91/676/EEG van de Raad inzake de bescherming van water tegen verontreiniging door nitraten uit agrarische bronnen (PbEU 2022, L 277) (Besluit bufferstroken meststoffen)

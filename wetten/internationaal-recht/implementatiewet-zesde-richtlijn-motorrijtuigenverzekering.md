@@ -9,7 +9,7 @@ laatste_update: 2024-07-10
 status: geldig
 toestand: 2024-07-10
 bron: "https://wetten.overheid.nl/BWBR0048683"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Wet van 25 augustus 2023 tot wijziging van de Wet aansprakelijkheidsverzekering motorrijtuigen en de Wet op het financieel toezicht in verband met de implementatie van Richtlijn (EU) 2021/2118 tot wijziging van Richtlijn 2009/103/EG betreffende de verzekering tegen de wettelijke aansprakelijkheid waartoe de deelneming aan het verkeer van motorrijtuigen aanleiding kan geven en de controle op de verzekering tegen deze aansprakelijkheid (PbEU 2021, L 430) (Implementatiewet zesde richtlijn motorrijtuigenverzekering)

@@ -9,7 +9,7 @@ laatste_update: 2024-02-27
 status: geldig
 toestand: 2024-02-27
 bron: "https://wetten.overheid.nl/BWBR0048311"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de plaatsvervangend secretaris-generaal van 14 juni 2023 (kenmerk 4657751/23/DP&O), verlening van ondermandaat en het doorgeven van volmacht en machtiging aan onder de plaatsvervangend secretaris-generaal ressorterende ambtenaren (Mandaatbesluit SG-cluster Ministerie van Justitie en Veiligheid 2022)

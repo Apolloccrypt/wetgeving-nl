@@ -9,7 +9,7 @@ laatste_update: 2026-04-10
 status: geldig
 toestand: 2026-04-10
 bron: "https://wetten.overheid.nl/BWBR0048327"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister voor Armoedebeleid, Participatie en Pensioenen van 19 juni 2023, 2022-0000127186, ter uitwerking van bepalingen uit het Vrijstellings- en boetebesluit Wet Bpf 2000 (Regeling vrijstellingen Wet Bpf2000)

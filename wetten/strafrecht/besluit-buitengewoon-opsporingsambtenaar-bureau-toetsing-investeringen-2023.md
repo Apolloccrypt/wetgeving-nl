@@ -9,7 +9,7 @@ laatste_update: 2023-11-02
 status: geldig
 toestand: 2023-11-02
 bron: "https://wetten.overheid.nl/BWBR0048821"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 25 oktober 2023 nr. BOACAT2023/069, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij het Ministerie van Economische Zaken en Klimaat, Bureau Toetsing Investeringen

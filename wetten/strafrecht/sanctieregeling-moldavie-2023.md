@@ -9,7 +9,7 @@ laatste_update: 2023-05-31
 status: geldig
 toestand: 2023-05-31
 bron: "https://wetten.overheid.nl/BWBR0048197"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 19 mei 2023, nr. MinBuZa.2023.15431-18, houdende beperkende maatregelen in verband met acties die de situatie in de Republiek Moldavië destabiliseren (Sanctieregeling Moldavië 2023)

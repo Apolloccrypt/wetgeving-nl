@@ -9,7 +9,7 @@ laatste_update: 2023-07-20
 status: geldig
 toestand: 2023-07-20
 bron: "https://wetten.overheid.nl/BWBR0048426"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap Staatssecretaris van 7 juli 2023, nr. WJZ/39418351, houdende vaststelling van een nieuw financieel handboek voor het Commissariaat voor de Media (Regeling financiële verantwoording Commissariaat voor de Media 2023)

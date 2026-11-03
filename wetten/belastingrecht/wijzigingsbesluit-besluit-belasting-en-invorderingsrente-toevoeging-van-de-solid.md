@@ -9,7 +9,7 @@ laatste_update: 2023-09-01
 status: geldig
 toestand: 2023-09-01
 bron: "https://wetten.overheid.nl/BWBR0048590"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van 29 augustus 2023 tot wijziging van het Besluit belasting- en invorderingsrente met het oog op toevoeging van de solidariteitsbijdrage en aanpassing van het rentepercentage voor de vennootschapsbelasting, de solidariteitsbijdrage en de bronbelasting

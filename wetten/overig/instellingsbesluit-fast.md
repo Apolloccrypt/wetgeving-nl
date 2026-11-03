@@ -9,7 +9,7 @@ laatste_update: 2023-10-02
 status: geldig
 toestand: 2023-10-02
 bron: "https://wetten.overheid.nl/BWBR0048842"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van het bestuur van ZonMw tot instelling van Bijzondere Programmacommissie FAST (Centre for Future Affordable SustainableTherapy development)

@@ -9,7 +9,7 @@ laatste_update: 2023-06-30
 status: geldig
 toestand: 2023-06-30
 bron: "https://wetten.overheid.nl/BWBR0048333"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Aanwijzing van de Minister voor Langdurige Zorg en Sport van 23 juni 2023, kenmerk 3599781-1048828-PZo, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake de aanwijzing voor de tijdsinzet van diverse functionarissen betrokken bij het stappenplan op grond van de Wet zorg en dwang

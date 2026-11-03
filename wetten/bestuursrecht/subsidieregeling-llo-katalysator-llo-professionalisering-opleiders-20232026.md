@@ -9,7 +9,7 @@ laatste_update: 2025-11-19
 status: geldig
 toestand: 2025-11-19
 bron: "https://wetten.overheid.nl/BWBR0048369"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 27 juni 2023, nr. 1409103, houdende regels voor de subsidieverstrekking ten behoeve van het Leven Lang Ontwikkelen-Katalysator programma voor Bouwsteen 3 (Subsidieregeling LLO-professionalisering opleiders 2023–2026)

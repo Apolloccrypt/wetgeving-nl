@@ -9,7 +9,7 @@ laatste_update: 2023-07-19
 status: geldig
 toestand: 2023-07-19
 bron: "https://wetten.overheid.nl/BWBR0048414"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 12 juni 2023, nr. MINBUZA-2023.798181, tot vaststelling van beheersregels voor het informatiemanagement van het Ministerie van Buitenlandse Zaken (Beheersregeling informatiemanagement BZ 2023)

@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0048664"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister voor Klimaat en Energie van 26 september 2023, nr. WJZ/ 36713828, houdende regels over de subsidiëring van de realisatie en exploitatie van productie-installaties voor waterstof (Subsidieregeling opschaling volledig hernieuwbare waterstofproductie via elektrolyse)

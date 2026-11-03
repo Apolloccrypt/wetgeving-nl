@@ -9,7 +9,7 @@ laatste_update: 2023-06-01
 status: geldig
 toestand: 2023-06-01
 bron: "https://wetten.overheid.nl/BWBR0048201"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van 4 mei 2023 tot het nader bepalen van het toepassingsbereik van de Wet veiligheidstoets investeringen, fusies en overnames op het gebied van sensitieve technologie (Besluit toepassingsbereik sensitieve technologie)

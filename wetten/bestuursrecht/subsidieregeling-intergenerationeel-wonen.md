@@ -9,7 +9,7 @@ laatste_update: 2024-11-16
 status: geldig
 toestand: 2024-11-16
 bron: "https://wetten.overheid.nl/BWBR0048391"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister voor Langdurige Zorg en Sport van 7 juli 2023, kenmerk 3633224-1050445-DMO, houdende regels voor de verstrekking van subsidie voor woonruimte waar jongeren betaalbaar kunnen samenleven met ouderen en de begeleiding daarbij (Subsidieregeling intergenerationeel wonen)

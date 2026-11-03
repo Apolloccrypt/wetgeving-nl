@@ -9,7 +9,7 @@ laatste_update: 2023-07-01
 status: geldig
 toestand: 2023-07-01
 bron: "https://wetten.overheid.nl/BWBR0048225"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van 11 mei 2023, houdende aanwijzing van de open informatieveiligheidsstandaarden HTTPS en HSTS voor websites en webapplicaties van bestuursorganen (Besluit beveiligde verbinding met overheidswebsites en -webapplicaties)

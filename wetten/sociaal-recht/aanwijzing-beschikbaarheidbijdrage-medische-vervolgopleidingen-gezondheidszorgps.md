@@ -9,7 +9,7 @@ laatste_update: 2023-06-30
 status: geldig
 toestand: 2023-06-30
 bron: "https://wetten.overheid.nl/BWBR0048330"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 23 juni 2023, kenmerk 3611583-1049617-PZo, inzake de beschikbaarheidbijdrage (medische) vervolgopleidingen tot gezondheidszorgpsycholoog en psychotherapeut

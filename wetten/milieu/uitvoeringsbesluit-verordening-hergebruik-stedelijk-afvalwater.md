@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0048283"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van 9 juni 2023 ter uitvoering van Verordening (EU) nr. 2020/741 van het Europees Parlement en de Raad van 25 mei 2020 inzake minimumeisen voor hergebruik van water (PbEU 2020, L 177) (Uitvoeringsbesluit verordening hergebruik stedelijk afvalwater)

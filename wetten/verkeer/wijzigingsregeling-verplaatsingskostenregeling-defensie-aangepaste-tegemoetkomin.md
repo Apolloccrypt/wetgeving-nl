@@ -8,7 +8,7 @@ laatste_update: 2023-10-03
 status: geldig
 toestand: 2023-10-03
 bron: "https://wetten.overheid.nl/BWBR0048676"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Wijzigingsregeling Verplaatsingskostenregeling defensie (aangepaste tegemoetkoming woon-werkverkeer en de eigen bijdrage van een verstrekt openbaar vervoerbewijs)

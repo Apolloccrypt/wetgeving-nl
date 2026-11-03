@@ -9,7 +9,7 @@ laatste_update: 2023-10-19
 status: geldig
 toestand: 2023-10-19
 bron: "https://wetten.overheid.nl/BWBR0048754"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit ingevolge artikel 18, tweede lid, Wet politiegegevens van de Minister van Justitie en Veiligheid, kenmerk 4858192 van 3 oktober 2023 houdende toestemming aan de korpschef tot het verstrekken van politiegegevens aan journalisten en publicisten voor journalistieke doeleinden (Wpg-machtigingsbesluit persalarmering)

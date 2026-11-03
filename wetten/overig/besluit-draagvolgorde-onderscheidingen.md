@@ -9,7 +9,7 @@ laatste_update: 2023-11-15
 status: geldig
 toestand: 2023-11-15
 bron: "https://wetten.overheid.nl/BWBR0048879"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 30 oktober 2023, nr. 2023-0000645507 houdende vaststelling van het Besluit draagvolgorde onderscheidingen

@@ -9,7 +9,7 @@ laatste_update: 2025-10-18
 status: geldig
 toestand: 2025-10-18
 bron: "https://wetten.overheid.nl/BWBR0048411"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister voor Langdurige Zorg en Sport van 7 juli 2023, kenmerk 3634246-1050406-DMO, houdende een specifieke uitkering voor IZA-doelen 2023–2026 (Regeling specifieke uitkering IZA-doelen 2023–2026)

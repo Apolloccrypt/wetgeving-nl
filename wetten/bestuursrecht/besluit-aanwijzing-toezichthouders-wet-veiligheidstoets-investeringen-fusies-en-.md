@@ -9,7 +9,7 @@ laatste_update: 2023-06-01
 status: geldig
 toestand: 2023-06-01
 bron: "https://wetten.overheid.nl/BWBR0048199"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat van 17 mei 2023, nr. WJZ/ 27099636, houdende aanwijzing toezichthouders Wet veiligheidstoets investeringen, fusies en overnames en de Uitvoeringswet screeningsverordening buitenlandse directe investeringen

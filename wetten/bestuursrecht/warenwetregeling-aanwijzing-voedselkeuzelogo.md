@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0048910"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 15 november 2023, 3719196-1056311-VGP, houdende de aanwijzing van Nutri-Score als voedselkeuzelogo en van de gebruiksvoorwaarden ervan (Warenwetregeling aanwijzing voedselkeuzelogo)

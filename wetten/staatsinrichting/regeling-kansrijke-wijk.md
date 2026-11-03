@@ -9,7 +9,7 @@ laatste_update: 2023-10-01
 status: geldig
 toestand: 2023-10-01
 bron: "https://wetten.overheid.nl/BWBR0048340"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister voor Volkshuisvesting en Ruimtelijke Ordening van 26 juni 2023, nr. 2023-0000366768, houdende regels met betrekking tot het verstrekken van een specifieke uitkering ten behoeve van het uitvoeren van het Nationaal Programma Leefbaarheid en Veiligheid (Regeling kansrijke wijk)

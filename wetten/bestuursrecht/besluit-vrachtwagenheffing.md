@@ -9,7 +9,7 @@ laatste_update: 2026-03-01
 status: geldig
 toestand: 2026-03-01
 bron: "https://wetten.overheid.nl/BWBR0048668"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van 19 september 2023 houdende regels ter uitvoering van de Wet vrachtwagenheffing (Besluit vrachtwagenheffing)

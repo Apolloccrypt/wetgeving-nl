@@ -9,7 +9,7 @@ laatste_update: 2026-11-01
 status: geldig
 toestand: 2026-11-01
 bron: "https://wetten.overheid.nl/BWBR0048028"
-opgehaald: 2026-11-02
+opgehaald: 2026-11-03
 ---
 
 # Wet van 24 maart 2023, houdende regels ter bevordering van goed verhuurderschap en het voorkomen en tegengaan van ongewenste verhuurpraktijken (Wet goed verhuurderschap)

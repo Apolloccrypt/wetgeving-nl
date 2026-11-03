@@ -9,7 +9,7 @@ laatste_update: 2023-08-16
 status: geldig
 toestand: 2023-08-16
 bron: "https://wetten.overheid.nl/BWBR0048551"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid d.d. 6 juli 2023, kenmerk 4236958, houdende beperking van de openbaarheid van het archief van de A-dossiers 1988–2005

@@ -9,7 +9,7 @@ laatste_update: 2025-12-23
 status: geldig
 toestand: 2025-12-23
 bron: "https://wetten.overheid.nl/BWBR0048586"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister voor Armoedebeleid, Participatie en Pensioenen van 18 augustus 2023, nr.2023-0000495330 houdende regels over het verstrekken van subsidies voor inbedding van financiële educatie op mbo-instellingen ter preventie van geldzorgen (Subsidieregeling financiële educatie voor mbo-instellingen)

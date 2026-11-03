@@ -9,7 +9,7 @@ laatste_update: 2023-11-08
 status: geldig
 toestand: 2023-11-08
 bron: "https://wetten.overheid.nl/BWBR0048852"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 26 oktober 2023, kenmerk 3709946-1055637-MEVA, houdende instelling van de bestuurlijke aanjager Green Deal Duurzame Zorg

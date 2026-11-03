@@ -9,7 +9,7 @@ laatste_update: 2024-06-28
 status: geldig
 toestand: 2024-06-28
 bron: "https://wetten.overheid.nl/BWBR0048373"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap 27 juni 2023, nr. 1409103, houdende instelling van de beoordelingscommissie voor het Leven Lang Ontwikkelen-Katalysator programma voor Bouwsteen 3 voor de periode 2023 tot en met 2026

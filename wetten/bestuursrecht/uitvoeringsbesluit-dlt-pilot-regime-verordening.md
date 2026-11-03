@@ -9,7 +9,7 @@ laatste_update: 2023-07-07
 status: geldig
 toestand: 2023-07-07
 bron: "https://wetten.overheid.nl/BWBR0048361"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van 19 juni 2023 tot wijziging van het Besluit uitvoering EU-verordeningen financiële markten ter uitvoering van Verordening 2022/858 betreffende een proefregeling voor marktinfrastructuren op basis van distributed ledger-technologie (Uitvoeringsbesluit DLT pilot regime verordening)

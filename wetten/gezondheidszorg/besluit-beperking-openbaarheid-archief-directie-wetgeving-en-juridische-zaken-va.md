@@ -9,7 +9,7 @@ laatste_update: 2023-10-25
 status: geldig
 toestand: 2023-10-25
 bron: "https://wetten.overheid.nl/BWBR0048773"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 10 oktober 2023, houdende beperking openbaarheid archiefbescheiden van de Directie Wetgeving en Juridische Zaken van het Ministerie van Volksgezondheid, Welzijn en Sport over de periode (1953) 1982–2006 (2009)

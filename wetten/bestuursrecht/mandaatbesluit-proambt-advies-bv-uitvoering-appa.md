@@ -9,7 +9,7 @@ laatste_update: 2023-12-01
 status: geldig
 toestand: 2023-12-01
 bron: "https://wetten.overheid.nl/BWBR0048839"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 24 oktober 2023, nr. 2023-0000038103, houdende mandaat, volmacht en machtiging PROambt Advies b.v.

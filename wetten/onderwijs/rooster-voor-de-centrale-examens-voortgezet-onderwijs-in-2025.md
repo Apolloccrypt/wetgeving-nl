@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-07-10
 toestand: 2025-02-13
 bron: "https://wetten.overheid.nl/BWBR0048485"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van het College voor toetsen en examens van 26 juni 2023, met nummer CvTE-23 23.00859, houdende het vaststellen van het tijdstip van de toetsen van de centrale examens voor 2025 (Rooster voor de centrale examens voortgezet onderwijs in 2025)

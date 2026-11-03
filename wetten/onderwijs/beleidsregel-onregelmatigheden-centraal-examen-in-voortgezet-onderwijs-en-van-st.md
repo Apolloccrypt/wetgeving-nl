@@ -9,7 +9,7 @@ laatste_update: 2023-10-18
 status: geldig
 toestand: 2023-10-18
 bron: "https://wetten.overheid.nl/BWBR0048744"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Beleidsregel van de Inspecteur-generaal van het onderwijs van 21 september 2023, nr. 41801739, houdende regels met betrekking tot het niet op regelmatige wijze afnemen van het centraal examen in het voortgezet onderwijs en van het staatsexamen (Beleidsregel onregelmatigheden centraal examen in voortgezet onderwijs en van staatsexamen 2023)

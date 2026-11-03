@@ -9,7 +9,7 @@ laatste_update: 2023-11-16
 status: geldig
 toestand: 2023-11-16
 bron: "https://wetten.overheid.nl/BWBR0048891"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-03
 ---
 
 # Wet Bronbelasting 2021, universele Nederlandse uitvoeringsvoorschriften conditionele bronbelasting op dividenden

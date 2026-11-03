@@ -8,7 +8,7 @@ laatste_update: 2023-07-17
 status: geldig
 toestand: 2023-07-17
 bron: "https://wetten.overheid.nl/BWBR0048407"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Nadere voorschriften inzake de werkwijze van het bestuur

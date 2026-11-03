@@ -9,7 +9,7 @@ laatste_update: 2023-11-17
 status: geldig
 toestand: 2023-11-17
 bron: "https://wetten.overheid.nl/BWBR0048899"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-03
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 8 november 2023, nr. 2023-0000541597, tot tijdelijke vrijstelling van bepaalde duikers, duikploegleiders en duikmedisch begeleiders van certificatieverplichtingen in het Arbeidsomstandighedenbesluit

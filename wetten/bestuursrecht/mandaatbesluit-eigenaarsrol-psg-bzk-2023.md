@@ -8,7 +8,7 @@ laatste_update: 2023-09-02
 status: geldig
 toestand: 2023-09-02
 bron: "https://wetten.overheid.nl/BWBR0048599"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Mandaatbesluit eigenaarsrol pSG BZK 2023

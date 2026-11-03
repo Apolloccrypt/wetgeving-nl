@@ -9,7 +9,7 @@ laatste_update: 2023-10-01
 status: geldig
 toestand: 2023-10-01
 bron: "https://wetten.overheid.nl/BWBR0048471"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van 10 juli 2023, houdende nadere regels met betrekking tot de vaststelling van staatloosheid in evidente gevallen (Besluit evidente staatloosheid)

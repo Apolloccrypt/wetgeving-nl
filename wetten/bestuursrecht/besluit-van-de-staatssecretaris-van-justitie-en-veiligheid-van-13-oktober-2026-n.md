@@ -9,7 +9,7 @@ laatste_update: 2026-11-02
 status: geldig
 toestand: 2026-11-02
 bron: "https://wetten.overheid.nl/BWBR0053229"
-opgehaald: 2026-11-02
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 13 oktober 2026 nr. BOACAT2026/070, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Amsterdam, afdeling Amsterdamse Bos

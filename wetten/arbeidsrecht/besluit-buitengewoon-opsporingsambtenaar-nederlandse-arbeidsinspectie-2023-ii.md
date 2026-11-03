@@ -9,7 +9,7 @@ laatste_update: 2023-09-01
 status: geldig
 toestand: 2023-09-01
 bron: "https://wetten.overheid.nl/BWBR0048517"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 1 augustus 2023 nr. BOACAT2023/048, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Nederlandse Arbeidsinspectie

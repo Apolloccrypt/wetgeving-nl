@@ -9,7 +9,7 @@ laatste_update: 2023-06-22
 status: geldig
 toestand: 2023-06-22
 bron: "https://wetten.overheid.nl/BWBR0048300"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 14 juni 2023, kenmerk 3610431-1048165-PZo, inzake de uitbreiding van de beschikbaarheidbijdrage acute zorg met de functies inzicht in capaciteit en patiëntenspreiding

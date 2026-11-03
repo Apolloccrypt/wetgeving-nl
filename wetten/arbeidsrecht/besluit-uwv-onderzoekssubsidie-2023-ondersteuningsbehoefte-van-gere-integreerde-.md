@@ -8,7 +8,7 @@ laatste_update: 2023-07-15
 status: geldig
 toestand: 2023-07-15
 bron: "https://wetten.overheid.nl/BWBR0048390"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit UWV Onderzoekssubsidie 2023 ’Ondersteuningsbehoefte van gere-integreerde werkenden met een arbeidsbeperking om (hernieuwde) uitval te voorkomen’

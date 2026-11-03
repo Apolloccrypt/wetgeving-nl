@@ -9,7 +9,7 @@ laatste_update: 2023-11-01
 status: geldig
 toestand: 2023-11-01
 bron: "https://wetten.overheid.nl/BWBR0048806"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 23 oktober 2023 nr. BOACAT2023/068, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Werkorganisatie BUCH

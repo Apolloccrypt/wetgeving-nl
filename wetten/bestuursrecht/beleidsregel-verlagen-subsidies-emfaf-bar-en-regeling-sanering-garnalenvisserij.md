@@ -9,7 +9,7 @@ laatste_update: 2025-10-01
 status: geldig
 toestand: 2025-10-01
 bron: "https://wetten.overheid.nl/BWBR0048388"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Beleidsregel van de Minister van Landbouw, Natuur en Voedselkwaliteit van 6 juli 2023, nr. WJZ/ 22508124, houdende regels over het verlagen van subsidie in het kader van Verordening (EU) 2021/1139 en Verordening (EU) 2021/1755 (Beleidsregel verlagen subsidies EMFAF en BAR visserij)

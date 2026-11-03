@@ -9,7 +9,7 @@ laatste_update: 2023-10-01
 status: geldig
 toestand: 2023-10-01
 bron: "https://wetten.overheid.nl/BWBR0048669"
-opgehaald: 2026-09-04
+opgehaald: 2026-11-03
 ---
 
 # Regeling aanlevering informatie productiedata medisch-specialistische zorg – TH/NR-029
