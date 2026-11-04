@@ -9,7 +9,7 @@ laatste_update: 2024-04-01
 status: geldig
 toestand: 2024-04-01
 bron: "https://wetten.overheid.nl/BWBR0049276"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van 20 december 2023, houdende regels met betrekking tot inrichtingen- en activiteiten, milieueffectrapportage en de kwaliteit van toezicht en handhaving, ter bescherming van de fysieke leefomgeving op Bonaire, Sint Eustatius en Saba (Inrichtingen- en activiteitenbesluit BES)

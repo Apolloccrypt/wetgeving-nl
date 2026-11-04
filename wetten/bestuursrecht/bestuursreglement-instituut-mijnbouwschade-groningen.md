@@ -9,7 +9,7 @@ laatste_update: 2024-01-19
 status: geldig
 toestand: 2024-01-19
 bron: "https://wetten.overheid.nl/BWBR0049273"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van het Instituut Mijnbouwschade Groningen tot vaststelling van een bestuursreglement

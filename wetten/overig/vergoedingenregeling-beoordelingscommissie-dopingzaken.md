@@ -9,7 +9,7 @@ laatste_update: 2023-11-29
 status: geldig
 toestand: 2023-11-29
 bron: "https://wetten.overheid.nl/BWBR0048954"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister voor Langdurige Zorg en Sport van 20 november 2023, kenmerk 3705603-1055185-S, houdende regels met betrekking tot de vergoedingen van de leden van de Beoordelingscommissie dopingzaken, genoemd in artikel 14, eerste lid, van de Wet uitvoering antidopingbeleid

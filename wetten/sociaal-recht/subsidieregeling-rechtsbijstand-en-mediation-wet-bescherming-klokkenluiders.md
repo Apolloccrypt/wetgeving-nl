@@ -9,7 +9,7 @@ laatste_update: 2024-08-01
 status: geldig
 toestand: 2024-08-01
 bron: "https://wetten.overheid.nl/BWBR0049293"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Subsidieregeling van het bestuur van de Raad voor Rechtsbijstand tot het verstrekken van subsidie voor rechtsbijstand en mediation ten behoeve van bescherming bij een melding van een vermoeden van een misstand als bedoeld in de Wet bescherming klokkenluiders (Subsidieregeling rechtsbijstand en mediation Wet bescherming klokkenluiders)

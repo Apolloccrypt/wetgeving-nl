@@ -9,7 +9,7 @@ laatste_update: 2024-02-01
 status: geldig
 toestand: 2024-02-01
 bron: "https://wetten.overheid.nl/BWBR0049314"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid en de Minister voor Rechtsbescherming van 31 januari 2024, nr. 3337747, tot vaststelling van formulieren voor het verstrekken van gegevens en bescheiden alsmede voor de bevindingen van het eigen onderzoek op grond van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur (Regeling Bibob-formulieren 2024)

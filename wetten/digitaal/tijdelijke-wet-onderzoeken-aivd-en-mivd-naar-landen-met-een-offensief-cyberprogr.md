@@ -9,7 +9,7 @@ laatste_update: 2024-07-01
 status: geldig
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0049562"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-04
 ---
 
 # Wet van 13 maart 2024, houdende tijdelijke regels inzake specifieke wettelijke voorzieningen voor het uitvoeren van onderzoeken door de Algemene Inlichtingen- en Veiligheidsdienst en de Militaire Inlichtingen- en Veiligheidsdienst naar landen met een offensief cyberprogramma tegen Nederland of Nederlandse belangen alsmede voorzieningen inzake de mogelijkheid tot vaststelling van een nieuwe eindtermijn voor gebruik door de diensten van in het kader van hun taakuitvoering met bijzondere bevoegdheden verworven bulkdatasets en de invoering van een bindende toets ex ante van verleende toestemmingen voor de real time interceptie van verkeers-en locatiegegevens (Tijdelijke wet onderzoeken AIVD en MIVD naar landen met een offensief cyberprogramma, bulkdatasets en overige specifieke voorzieningen)

@@ -9,7 +9,7 @@ laatste_update: 2026-06-25
 status: geldig
 toestand: 2026-06-25
 bron: "https://wetten.overheid.nl/BWBR0049024"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 4 december 2023, nr. IENW/BSK-2023/360435, tot verstrekking van subsidie voor de elektrificatie van binnenvaartschepen voor de kalenderjaren 2023 tot en met 2027 (Tijdelijke subsidieregeling elektrificatie binnenvaartschepen 2023–2027)

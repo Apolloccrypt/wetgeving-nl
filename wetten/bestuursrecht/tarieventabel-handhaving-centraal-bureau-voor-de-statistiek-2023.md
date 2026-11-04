@@ -8,7 +8,7 @@ laatste_update: 2023-04-04
 status: geldig
 toestand: 2023-04-04
 bron: "https://wetten.overheid.nl/BWBR0049556"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-04
 ---
 
 # Tarieventabel Handhaving Centraal Bureau voor de Statistiek 2023

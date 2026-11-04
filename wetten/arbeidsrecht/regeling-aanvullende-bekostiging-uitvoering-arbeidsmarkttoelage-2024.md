@@ -9,7 +9,7 @@ laatste_update: 2024-08-24
 status: geldig
 toestand: 2024-08-24
 bron: "https://wetten.overheid.nl/BWBR0049210"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 6 december 2023, nr. 42834437, tot het verstrekken van aanvullende bekostiging voor het primair en voortgezet onderwijs voor de uitvoering van een arbeidsmarkttoelage voor 2024 (Regeling aanvullende bekostiging uitvoering arbeidsmarkttoelage 2024)

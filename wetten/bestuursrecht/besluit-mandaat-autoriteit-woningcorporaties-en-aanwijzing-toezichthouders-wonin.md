@@ -9,7 +9,7 @@ laatste_update: 2024-03-07
 status: geldig
 toestand: 2024-03-07
 bron: "https://wetten.overheid.nl/BWBR0049441"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 5 maart 2024, nr. 2024-0000058892 tot verlening van mandaat, volmacht en machtiging aan de inspecteur-generaal Leefomgeving en Transport ten behoeve van de Autoriteit woningcorporaties, de handhaving van de Woningwet wat betreft het toezicht op toegelaten instellingen en de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector, alsmede de aanwijzing van ambtenaren van de Inspectie Leefomgeving en Transport als toezichthouders op de naleving van de Woningwet en de naleving van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector en tot wijziging van enkele andere besluiten (Besluit mandaat Autoriteit woningcorporaties en aanwijzing toezichthouders Woningwet en WNT)

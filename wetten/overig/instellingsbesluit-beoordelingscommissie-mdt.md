@@ -9,7 +9,7 @@ laatste_update: 2023-12-07
 status: geldig
 toestand: 2023-12-07
 bron: "https://wetten.overheid.nl/BWBR0048996"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister voor Primair en Voortgezet Onderwijs van 22 november 2023, nr. MDT/42350254, houdende instelling van de beoordelingscommissie Maatschappelijke diensttijd (MDT) (Instellingsbesluit beoordelingscommissie MDT)

@@ -9,7 +9,7 @@ laatste_update: 2024-03-20
 status: geldig
 toestand: 2024-03-20
 bron: "https://wetten.overheid.nl/BWBR0049475"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 1 maart 2024, nr. WJZ / 45247079, houdende verlening van volmacht en machtiging aan de Raad voor plantenrassen (Besluit volmacht en machtiging LNV voor de Raad voor plantenrassen)

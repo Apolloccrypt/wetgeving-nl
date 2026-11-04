@@ -9,7 +9,7 @@ laatste_update: 2023-11-23
 status: geldig
 toestand: 2023-11-23
 bron: "https://wetten.overheid.nl/BWBR0048932"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling Cultuureducatie met Kwaliteit 2025–2028

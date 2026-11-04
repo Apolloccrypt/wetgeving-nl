@@ -9,7 +9,7 @@ laatste_update: 2025-09-01
 status: geldig
 toestand: 2025-09-01
 bron: "https://wetten.overheid.nl/BWBR0049399"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 14 februari 2024, nr. IB/38530442, houdende regels voor het verstrekken van subsidie ter ondersteuning van onderwijsmobiliteit binnen het Koninkrijk der Nederlanden (Subsidieregeling Koninkrijksbeurzenprogramma)

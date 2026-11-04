@@ -9,7 +9,7 @@ laatste_update: 2025-04-01
 status: geldig
 toestand: 2025-04-01
 bron: "https://wetten.overheid.nl/BWBR0049353"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 6 februari 2024, nr. MinBuZa.2024.20449-9, houdende beperkende maatregelen ten aanzien van Hamas en de Palestijnse Islamitische Jihad (Sanctieregeling Hamas en PIJ 2024)

@@ -9,7 +9,7 @@ laatste_update: 2025-07-03
 status: geldig
 toestand: 2025-07-03
 bron: "https://wetten.overheid.nl/BWBR0049186"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 21 december 2023, tot aanwijzing van toezichthouders die zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens de Omgevingswet (Besluit aanwijzing toezichthouders Omgevingswet)

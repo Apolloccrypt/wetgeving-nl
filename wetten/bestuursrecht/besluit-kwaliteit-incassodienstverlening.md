@@ -9,7 +9,7 @@ laatste_update: 2024-10-01
 status: geldig
 toestand: 2024-10-01
 bron: "https://wetten.overheid.nl/BWBR0049422"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van 20 februari 2024, houdende nadere eisen met betrekking tot de kwaliteit van incassodienstverlening, de hoogte van het tarief van de registratie, een aanpassing van het Besluit vergoeding voor buitengerechtelijke incassokosten, alsmede de vaststelling van het tijdstip van inwerkingtreding van de Wet kwaliteit incassodienstverlening (Besluit kwaliteit incassodienstverlening)

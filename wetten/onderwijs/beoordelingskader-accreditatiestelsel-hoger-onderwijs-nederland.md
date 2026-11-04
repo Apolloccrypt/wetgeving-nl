@@ -8,7 +8,7 @@ laatste_update: 2024-03-04
 status: geldig
 toestand: 2024-03-04
 bron: "https://wetten.overheid.nl/BWBR0049436"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Beoordelingskader accreditatiestelsel hoger onderwijs Nederland

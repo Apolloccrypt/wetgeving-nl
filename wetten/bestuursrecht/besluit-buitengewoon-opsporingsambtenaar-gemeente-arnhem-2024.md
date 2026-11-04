@@ -9,7 +9,7 @@ laatste_update: 2024-06-06
 status: geldig
 toestand: 2024-06-06
 bron: "https://wetten.overheid.nl/BWBR0049570"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 10 april 2024 nr. BOACAT2024/035, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Arnhem

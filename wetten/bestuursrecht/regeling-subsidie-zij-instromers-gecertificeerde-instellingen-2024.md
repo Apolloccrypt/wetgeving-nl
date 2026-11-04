@@ -9,7 +9,7 @@ laatste_update: 2024-03-30
 status: geldig
 toestand: 2024-03-30
 bron: "https://wetten.overheid.nl/BWBR0049512"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Minister voor Rechtsbescherming van 27 maart 2024, nr. 5278276, houdende regels inzake subsidie om gecertificeerde instellingen te ondersteunen bij het inzetten van zij-instromers (Regeling subsidie zij-instromers gecertificeerde instellingen 2024)

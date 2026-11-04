@@ -9,7 +9,7 @@ laatste_update: 2024-07-01
 status: geldig
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0049372"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat van 2 februari 2024, nr. WJZ/ 43374524, tot vaststelling van de aanvraag- en veilingprocedure voor vergunningen voor frequentieruimte in de 3,5 GHz-band ten behoeve van mobiele communicatietoepassingen en tot wijziging van de Capregeling frequenties mobiele communicatie 2020 en de Regeling vergoedingen Rijksinspectie Digitale Infrastructuur 2024 (Regeling aanvraag- en veilingprocedure vergunningen 3,5 GHz-band 2024)

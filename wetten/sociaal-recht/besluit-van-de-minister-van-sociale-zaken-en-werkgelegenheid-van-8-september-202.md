@@ -9,7 +9,7 @@ laatste_update: 2026-11-01
 status: geldig
 toestand: 2026-11-01
 bron: "https://wetten.overheid.nl/BWBR0053097"
-opgehaald: 2026-11-03
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 8 september 2026, nr. 2026-0000250516, tot vaststelling van het Standaardmodel Keuze Variabel-vast pensioen voor 2026

@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-04-22
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0049355"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van het hoofd van de Afdeling Analyse Nationale Veiligheid van de Nationaal Coördinator Terrorismebestrijding en Veiligheid van het Ministerie van Justitie en Veiligheid van 25 januari 2024, nr. 5164881, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan het plaatsvervangend hoofd van die afdeling (Mandaatbesluit Analyse Nationale Veiligheid NCTV 2023)

@@ -9,7 +9,7 @@ laatste_update: 2024-12-11
 status: geldig
 toestand: 2024-12-11
 bron: "https://wetten.overheid.nl/BWBR0049033"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 8 december 2023, nr. 2023-0000735552 houdende regels met betrekking tot het verstrekken van een specifieke uitkering ten behoeve van de financiering van soortenmanagementplannen die het voorkomen van vertraging van verduurzaming door isolatie als doel hebben

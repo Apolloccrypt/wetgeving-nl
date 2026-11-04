@@ -9,7 +9,7 @@ laatste_update: 2024-02-24
 status: geldig
 toestand: 2024-02-24
 bron: "https://wetten.overheid.nl/BWBR0049397"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 13 februari 2024, kenmerk 4644372, inzake het strategisch kader informatiebeveiliging voor de meldkamervoorzieningen die door de hoofdgebruikers worden gebruikt bij de uitvoering van hun meldkamerfunctie en worden beheerd door de beheerder (Strategisch kader informatiebeveiliging meldkamervoorzieningen)

@@ -9,7 +9,7 @@ laatste_update: 2024-07-04
 status: geldig
 toestand: 2024-07-04
 bron: "https://wetten.overheid.nl/BWBR0049211"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Staatssecretaris van Financiën van 15 december 2023, nr. 2023-281498, houdende de instelling van een begeleidingscommissie risicoclassificatiemodel toeslagen 2024 (Instellingsbesluit begeleidingscommissie risicoclassificatiemodel toeslagen 2024)

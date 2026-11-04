@@ -9,7 +9,7 @@ laatste_update: 2024-02-15
 status: geldig
 toestand: 2024-02-15
 bron: "https://wetten.overheid.nl/BWBR0049365"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van het College voor Toetsen en Examens van 5 februari 2024 nummer CvTE-24.00430, houdende vaststelling van toegestane hulpmiddelen bij centrale examinering in het mbo (Regeling toegestane hulpmiddelen bij centrale examinering mbo)

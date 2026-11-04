@@ -9,7 +9,7 @@ laatste_update: 2024-02-24
 status: geldig
 toestand: 2024-02-24
 bron: "https://wetten.overheid.nl/BWBR0049401"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 14 februari 2024, nr. 1478552, houdende instelling van de Adviescommissie SEA

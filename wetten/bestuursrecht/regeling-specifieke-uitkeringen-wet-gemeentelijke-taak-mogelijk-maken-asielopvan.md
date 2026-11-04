@@ -9,7 +9,7 @@ laatste_update: 2024-05-15
 status: geldig
 toestand: 2024-05-15
 bron: "https://wetten.overheid.nl/BWBR0049320"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Staatssecretaris van Justitie en Veiligheid van 29 januari 2024, nummer 5190221, houdende specifieke uitkeringen voor gemeenten en provincies die het mogelijk maken asielzoekers op te vangen (Regeling specifieke uitkeringen Wet gemeentelijke taak mogelijk maken asielopvangvoorzieningen)

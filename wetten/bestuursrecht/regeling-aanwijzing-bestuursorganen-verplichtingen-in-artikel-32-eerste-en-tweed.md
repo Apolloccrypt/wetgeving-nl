@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0049058"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat van 30 november 2023, nr. WJZ/ 38868851, tot aanwijzing van bestuursorganen waarvoor de in artikel 32, eerste en tweede lid, van de Handelsregisterwet 2007 bedoelde verplichtingen uitsluitend gelden

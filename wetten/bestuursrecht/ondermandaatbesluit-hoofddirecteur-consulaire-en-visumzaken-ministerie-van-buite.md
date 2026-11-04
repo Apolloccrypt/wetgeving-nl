@@ -9,7 +9,7 @@ laatste_update: 2024-02-28
 status: geldig
 toestand: 2024-02-28
 bron: "https://wetten.overheid.nl/BWBR0049402"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Ondermandaatbesluit van de hoofddirecteur Consulaire en Visumzaken van het Ministerie van Buitenlandse Zaken van 30 november 2023, nr. Min-BuZa.2023.20222-33

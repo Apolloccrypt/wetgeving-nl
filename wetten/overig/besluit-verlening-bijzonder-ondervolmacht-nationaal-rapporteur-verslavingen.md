@@ -9,7 +9,7 @@ laatste_update: 2024-01-04
 status: geldig
 toestand: 2024-01-04
 bron: "https://wetten.overheid.nl/BWBR0049190"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Secretaris-Generaal van het Ministerie van Volksgezondheid, Welzijn en Sport van 21 december 2023, kenmerk 3726654-1057154-VGP, houdende verlening van bijzonder ondervolmacht aan de Nationaal Rapporteur Verslavingen (Besluit bijzonder ondervolmacht Nationaal Rapporteur Verslavingen)

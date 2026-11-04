@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0049005"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 20 november 2023, kenmerk 3704792-1055150-Z, houdende Regeling vaststelling van de standaardpremie en bestuursrechtelijke premies voor 2024

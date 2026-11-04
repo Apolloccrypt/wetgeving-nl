@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0049074"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 30 november 2023, kenmerk 3726212-1056819-J, houdende regels inzake de verstrekking van een specifieke uitkering in verband met de compensatie van gemeenten na wijziging van het begrip woonplaatsbeginsel in de Jeugdwet (Regeling specifieke uitkering niet beoogde kosten jeugdzorg vanwege verblijf in gemeente)

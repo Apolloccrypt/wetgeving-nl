@@ -9,7 +9,7 @@ laatste_update: 2023-12-02
 status: geldig
 toestand: 2023-12-02
 bron: "https://wetten.overheid.nl/BWBR0048986"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid d.d. 23 november 2023, kenmerk 4327978, houdende beperking van de openbaarheid van de Depotarchieven periode 1945–2007 van het Ministerie van Justitie

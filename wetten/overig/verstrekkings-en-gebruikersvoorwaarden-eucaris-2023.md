@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0049083"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Verstrekkings- en gebruikersvoorwaarden voor nationale aanvragers en ontvangers van informatie via het Europees voertuig- en rijbewijs-informatiesysteem (EUCARIS) 2023

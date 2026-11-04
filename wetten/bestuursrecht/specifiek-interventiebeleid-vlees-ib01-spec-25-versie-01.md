@@ -9,7 +9,7 @@ laatste_update: 2024-03-02
 status: geldig
 toestand: 2024-03-02
 bron: "https://wetten.overheid.nl/BWBR0049435"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister van Landbouw, Natuur en Voedselkwaliteit van 22 februari 2024 tot vaststelling van het Specifiek interventiebeleid vlees (IB01-SPEC 25, versie 01) en tot intrekking van het Specifiek interventiebeleid NVWA vleesketen (IB03-SPEC 81, versie 01)

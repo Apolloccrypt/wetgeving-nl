@@ -9,7 +9,7 @@ laatste_update: 2024-02-13
 status: geldig
 toestand: 2024-02-13
 bron: "https://wetten.overheid.nl/BWBR0049345"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 1 februari 2024, kenmerk 3762073-1060853-WJZ, houdende vaststelling van de rekenfactor ingevolge de Wet buitengewoon pensioen 1940–1945 en de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers voor het jaar 2023

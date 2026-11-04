@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0049048"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Wet van 8 november 2023 tot wijziging van enkele wetten van het Ministerie van Sociale Zaken en Werkgelegenheid (Verzamelwet SZW 2024)

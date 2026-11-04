@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0049121"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Wet van 13 december 2023 tot wijziging van de Huisvestingswet 2014 naar aanleiding van de evaluatie van de herziene Huisvestingswet 2014

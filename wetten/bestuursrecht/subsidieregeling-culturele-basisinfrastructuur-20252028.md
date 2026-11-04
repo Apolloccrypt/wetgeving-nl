@@ -9,7 +9,7 @@ laatste_update: 2023-11-29
 status: geldig
 toestand: 2023-11-29
 bron: "https://wetten.overheid.nl/BWBR0048968"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 20 november 2023, nr. WJZ/42300229, houdende wijziging van de Regeling op het specifiek cultuurbeleid in verband met het vaststellen van de criteria voor vierjaarlijkse subsidiëring in de periode 2025–2028, alsmede enkele aanpassingen van technische aard (Subsidieregeling culturele basisinfrastructuur 2025–2028)

@@ -9,7 +9,7 @@ laatste_update: 2024-10-12
 status: geldig
 toestand: 2024-10-12
 bron: "https://wetten.overheid.nl/BWBR0048941"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit van 14 november 2023, nr. TRCVWA/2023/4938, houdende het verlenen van ondermandaat en machtiging aan functionarissen van de Nederlandse Voedsel- en Warenautoriteit voor het werkterrein van het Ministerie van Volksgezondheid, Welzijn en Sport (Besluit ondermandaat en machtiging aan functionarissen van de NVWA voor het werkterrein van VWS 2023)

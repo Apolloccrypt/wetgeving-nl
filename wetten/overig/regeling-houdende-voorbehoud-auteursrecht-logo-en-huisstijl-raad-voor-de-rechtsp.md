@@ -9,7 +9,7 @@ laatste_update: 2024-02-23
 status: geldig
 toestand: 2024-02-23
 bron: "https://wetten.overheid.nl/BWBR0049388"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Minister voor Rechtsbescherming van 5 februari, nr. 5128033 houdende voorbehoud auteursrecht logo en huisstijl van de Raad voor de Rechtspraak

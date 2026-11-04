@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0048966"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 7 november 2023, kenmerk 3716540-1056129-GMT, houdende erkenning van de universitaire opleiding psychologie in combinatie met enkele specifieke opleidingen als gelijkwaardig aan de universitaire opleiding geneeskunde of biologie, in verband met de benoeming van een persoon als bedoeld in artikel 3, tweede lid, van de Regeling voorschriften bloedvoorziening

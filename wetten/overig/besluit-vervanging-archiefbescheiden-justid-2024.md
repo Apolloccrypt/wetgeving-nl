@@ -9,7 +9,7 @@ laatste_update: 2024-04-04
 status: geldig
 toestand: 2024-04-04
 bron: "https://wetten.overheid.nl/BWBR0049533"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Directeur Informatiehuishouding van de Justitiële Informatiedienst van het Ministerie van Justitie en Veiligheid van 13 maart 2024, met DigiJust-kenmerk 5281792 inzake de digitale vervanging van papieren archiefbescheiden zoals aangeduid in bijlage 1 bij dit besluit (Besluit Vervanging Archiefbescheiden Justid 2024)

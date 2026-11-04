@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0049110"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 6 december 2023, nr. IENW/BSK-239694, tot wijziging van de bijlagen III en IV bij het Reken- en meetvoorschrift geluid 2012 en de bijlagen IVe en IVf bij de Omgevingsregeling vanwege de aanpassing van rekenregels voor het afschermend effect langs wegen, de indeling van een nieuw type trein in een bestaande treincategorie, herstel van onjuistheden en overige technische wijzigingen

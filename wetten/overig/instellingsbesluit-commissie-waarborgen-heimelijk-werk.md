@@ -9,7 +9,7 @@ laatste_update: 2024-03-06
 status: geldig
 toestand: 2024-03-06
 bron: "https://wetten.overheid.nl/BWBR0049437"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid 11 januari 2024, kenmerk 5124894, houdende instelling van de Commissie Monitoring Waarborgen Heimelijk Werk (Instellingsbesluit Commissie Monitoring Waarborgen Heimelijk Werk)

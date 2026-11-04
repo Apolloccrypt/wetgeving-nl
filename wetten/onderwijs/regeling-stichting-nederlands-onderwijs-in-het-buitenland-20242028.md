@@ -9,7 +9,7 @@ laatste_update: 2023-12-01
 status: geldig
 toestand: 2023-12-01
 bron: "https://wetten.overheid.nl/BWBR0048981"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 16 november 2023, nr. PO/42234368, houdende regels met betrekking tot subsidieverstrekking aan de Stichting Nederlands Onderwijs in het Buitenland voor de jaren 2024 tot en met 2028 (Regeling Stichting Nederlands Onderwijs in het Buitenland 2024–2028)

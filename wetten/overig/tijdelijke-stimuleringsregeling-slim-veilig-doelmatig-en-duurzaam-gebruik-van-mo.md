@@ -9,7 +9,7 @@ laatste_update: 2023-11-25
 status: geldig
 toestand: 2023-11-25
 bron: "https://wetten.overheid.nl/BWBR0048944"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 16 november 2023, nr. IENW/BSK-2023/60021, houdende regels voor toekenning van specifieke uitkeringen in verband met specifieke afspraken voor slim, veilig, doelmatig en duurzaam gebruik van infrastructuur (Tijdelijke stimuleringsregeling slim, veilig, doelmatig en duurzaam gebruik van mobiliteitsinfrastructuur 2023–2027)

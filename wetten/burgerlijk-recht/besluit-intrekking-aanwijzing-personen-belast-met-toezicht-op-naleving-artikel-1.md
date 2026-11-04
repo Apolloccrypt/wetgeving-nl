@@ -9,7 +9,7 @@ laatste_update: 2024-02-17
 status: geldig
 toestand: 2024-02-17
 bron: "https://wetten.overheid.nl/BWBR0049376"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 8 februari 2024, nr. HO&S/1489853, houdende de intrekking van een aanwijzing van personen belast met toezicht op de naleving van artikel 1.5 van de Wet studiefinanciering 2000

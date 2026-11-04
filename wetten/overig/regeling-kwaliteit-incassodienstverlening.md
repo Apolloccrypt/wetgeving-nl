@@ -9,7 +9,7 @@ laatste_update: 2024-04-01
 status: geldig
 toestand: 2024-04-01
 bron: "https://wetten.overheid.nl/BWBR0049507"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Minister voor Rechtsbescherming van 23 maart, nr. 5207106 houdende nadere regels ter zake van enkele kwaliteitseisen voor incassodienstverleners (Regeling kwaliteit incassodienstverlening)

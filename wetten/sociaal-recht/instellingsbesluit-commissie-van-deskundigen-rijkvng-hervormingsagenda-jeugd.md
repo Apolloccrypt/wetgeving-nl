@@ -9,7 +9,7 @@ laatste_update: 2024-04-03
 status: geldig
 toestand: 2024-04-03
 bron: "https://wetten.overheid.nl/BWBR0049523"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 22 maart 2024, kenmerk, 3793684 – 1063413-J houdende instelling van de Commissie van Deskundigen ten behoeve van de uitvoering van de Hervormingsagenda Jeugd (Instellingsbesluit Commissie van Deskundigen Rijk|VNG Hervormingsagenda Jeugd)

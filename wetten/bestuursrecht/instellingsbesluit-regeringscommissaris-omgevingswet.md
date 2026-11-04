@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0048940"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 14 november 2023, nr. 2023-0000653070 tot instelling van de regeringscommissaris Omgevingswet (Instellingsbesluit regeringscommissaris Omgevingswet)

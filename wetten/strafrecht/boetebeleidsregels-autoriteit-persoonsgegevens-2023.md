@@ -9,7 +9,7 @@ laatste_update: 2023-12-12
 status: geldig
 toestand: 2023-12-12
 bron: "https://wetten.overheid.nl/BWBR0049034"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Beleidsregels van de Autoriteit Persoonsgegevens van 6 juni 2023 met betrekking tot het bepalen van de hoogte van bestuurlijke boetes (Boetebeleidsregels Autoriteit Persoonsgegevens 2023)

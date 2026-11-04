@@ -9,7 +9,7 @@ laatste_update: 2024-03-15
 status: geldig
 toestand: 2024-03-15
 bron: "https://wetten.overheid.nl/BWBR0049460"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat van 9 maart 2024, nr. WJZ/ 40938380, houdende regels voor het aanvragen van een verlenging van de vergunning voor Public Access Mobile Radio in de 450 – 470 MHz-band (Regeling aanvraag gedeeltelijke verlenging PAMR-vergunning 2024)

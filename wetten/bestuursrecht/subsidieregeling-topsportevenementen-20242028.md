@@ -9,7 +9,7 @@ laatste_update: 2025-08-16
 status: geldig
 toestand: 2025-08-16
 bron: "https://wetten.overheid.nl/BWBR0049525"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 25 maart 2024, kenmerk 3789648-1063016-S, houdende regels voor de subsidiëring van topsportevenementen 2024–2028 (Subsidieregeling topsportevenementen 2024–2028)

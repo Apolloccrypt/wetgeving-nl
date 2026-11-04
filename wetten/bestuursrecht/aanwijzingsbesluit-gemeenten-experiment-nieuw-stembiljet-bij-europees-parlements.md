@@ -8,7 +8,7 @@ laatste_update: 2024-05-01
 status: geldig
 toestand: 2024-05-01
 bron: "https://wetten.overheid.nl/BWBR0049447"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Aanwijzingsbesluit gemeenten experiment nieuw stembiljet bij Europees Parlementsverkiezing

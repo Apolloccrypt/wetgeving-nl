@@ -8,7 +8,7 @@ laatste_update: 2023-11-23
 status: geldig
 toestand: 2023-11-23
 bron: "https://wetten.overheid.nl/BWBR0048937"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Meerjarenregeling Co-creatie 2025 – 2028 Fonds voor Cultuurparticipatie

@@ -9,7 +9,7 @@ laatste_update: 2024-02-16
 status: geldig
 toestand: 2024-02-16
 bron: "https://wetten.overheid.nl/BWBR0049374"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister voor Armoedebeleid, Participatie en Pensioenen van 7 februari 2024, nr. 2023-0000595935, houdende de aanwijzing van Kifid, Stichting Klachteninstituut Financiële Dienstverlening als instantie tot buitengerechtelijke geschillenbeslechting in de zin van de Pensioenwet en de Wet verplichte beroepspensioenregeling (Aanwijzingsbesluit Kifid, Stichting Klachteninstituut Financiële Dienstverlening)

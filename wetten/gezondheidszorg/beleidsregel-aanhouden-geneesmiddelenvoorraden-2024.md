@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0049065"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 16 november 2023, kenmerk 3721750-1056382-GMT, inzake vaststellen beleidsregels met betrekking tot het aanhouden van voorraden van geneesmiddelen 2024

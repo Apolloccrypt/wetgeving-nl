@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0049197"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Wet van 16 oktober 2023 tot wijziging van de Wet op de omzetbelasting 1968 in verband met een aanpassing van de aanvullende regeling voor antiek, kunst- en verzamelvoorwerpen, en in verband met aanpassingen van de bepalingen inzake plaats van dienst voor de heffing van omzetbelasting bij bepaalde diensten die virtueel aan een afnemer worden verricht

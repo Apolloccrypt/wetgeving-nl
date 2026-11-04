@@ -9,7 +9,7 @@ laatste_update: 2024-07-01
 status: geldig
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0049499"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van 11 maart 2024 tot wijziging van het Besluit Jeugdwet en het Uitvoeringsbesluit Wmo 2015, houdende regels ter bevordering van een goede verhouding tussen de prijs en de kwaliteit van door gemeenten te bekostigen preventie, jeugdhulp, kinderbeschermingsmaatregelen en jeugdreclassering, alsmede enige technische wijzigingen

@@ -9,7 +9,7 @@ laatste_update: 2024-01-10
 status: geldig
 toestand: 2024-01-10
 bron: "https://wetten.overheid.nl/BWBR0049014"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van 13 november 2023, nr. 2023002190 tot wijziging van het Besluit uitvoering EU-verordeningen financiële markten in verband met de uitvoering van de Verordening (EU) 2023/606 betreffende Europese langetermijnbeleggingsinstellingen (Uitvoeringsbesluit wijzigingsverordening Europese langetermijnbeleggingsinstellingen)

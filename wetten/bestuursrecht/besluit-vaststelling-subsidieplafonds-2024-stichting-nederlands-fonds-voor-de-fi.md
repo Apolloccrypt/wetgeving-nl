@@ -8,7 +8,7 @@ laatste_update: 2024-09-16
 status: geldig
 toestand: 2024-09-16
 bron: "https://wetten.overheid.nl/BWBR0049146"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit vaststelling Subsidieplafonds 2024 Stichting Nederlands Fonds voor de Film

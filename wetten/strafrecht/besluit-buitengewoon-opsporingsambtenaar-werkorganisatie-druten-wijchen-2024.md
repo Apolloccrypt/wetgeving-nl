@@ -9,7 +9,7 @@ laatste_update: 2024-08-06
 status: geldig
 toestand: 2024-08-06
 bron: "https://wetten.overheid.nl/BWBR0049383"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 12 februari 2024 nr. BOACAT2024/012, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Werkorganisatie Druten Wijchen

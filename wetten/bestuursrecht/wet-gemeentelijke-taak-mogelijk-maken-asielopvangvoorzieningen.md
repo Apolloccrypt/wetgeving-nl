@@ -9,7 +9,7 @@ laatste_update: 2024-01-31
 status: geldig
 toestand: 2024-01-31
 bron: "https://wetten.overheid.nl/BWBR0049307"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Wet van 24 januari 2024, houdende regels inzake een wettelijke taak van gemeenten om opvangvoorzieningen voor asielzoekers mogelijk te maken (Wet gemeentelijke taak mogelijk maken asielopvangvoorzieningen)

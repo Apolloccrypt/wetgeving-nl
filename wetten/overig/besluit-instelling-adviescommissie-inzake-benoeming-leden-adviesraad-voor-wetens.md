@@ -9,7 +9,7 @@ laatste_update: 2024-09-12
 status: geldig
 toestand: 2024-09-12
 bron: "https://wetten.overheid.nl/BWBR0048994"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 26 juni 2023, nr. OWB/39165914, houdende de instelling van een adviescommissie inzake de benoeming van leden van de Adviesraad voor wetenschap, technologie en innovatie

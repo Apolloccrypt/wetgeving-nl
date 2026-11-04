@@ -9,7 +9,7 @@ laatste_update: 2023-12-05
 status: geldig
 toestand: 2023-12-05
 bron: "https://wetten.overheid.nl/BWBR0048999"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Reglement van de Koninklijke Bibliotheek van 1 januari 2024, houdende regels voor de subsidiëring van de activiteiten genoemd in artikel 9 van de Wet stelsel openbare bibliotheekvoorzieningen (hierna: wet)

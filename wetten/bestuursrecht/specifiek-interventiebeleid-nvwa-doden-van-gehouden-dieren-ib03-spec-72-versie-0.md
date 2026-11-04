@@ -9,7 +9,7 @@ laatste_update: 2024-01-13
 status: geldig
 toestand: 2024-01-13
 bron: "https://wetten.overheid.nl/BWBR0049257"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister van Landbouw, Natuur en Voedselkwaliteit van 19 december 2023 tot vaststelling van het Specifiek interventiebeleid NVWA doden van gehouden dieren (IB03-SPEC 72, versie 06)

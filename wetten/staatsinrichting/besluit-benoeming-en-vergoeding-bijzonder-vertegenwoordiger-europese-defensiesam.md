@@ -9,7 +9,7 @@ laatste_update: 2023-12-30
 status: geldig
 toestand: 2023-12-30
 bron: "https://wetten.overheid.nl/BWBR0049185"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat houdende benoeming en vergoeding van de Bijzonder Vertegenwoordiger Europese Defensiesamenwerking 2023/2027

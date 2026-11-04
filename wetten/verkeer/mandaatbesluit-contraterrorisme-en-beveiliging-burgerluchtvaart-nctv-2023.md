@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-04-21
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0049335"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de directeur Contraterrorisme en Beveiliging Burgerluchtvaart van de Nationaal Coördinator Terrorismebestrijding en Veiligheid van het Ministerie van Justitie en Veiligheid van 25 januari 2024, nr. 5164823, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan de onder de directeur ressorterende ambtenaren (Mandaatbesluit Contraterrorisme en Beveiliging Burgerluchtvaart NCTV 2023)

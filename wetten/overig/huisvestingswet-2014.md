@@ -9,7 +9,7 @@ laatste_update: 2026-11-01
 status: geldig
 toestand: 2026-11-01
 bron: "https://wetten.overheid.nl/BWBR0035303"
-opgehaald: 2026-11-03
+opgehaald: 2026-11-04
 ---
 
 # Wet van 4 juni 2014, houdende nieuwe regels met betrekking tot de verdeling van woonruimte en de samenstelling van de woonruimtevoorraad (Huisvestingswet 2014)

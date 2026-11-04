@@ -9,7 +9,7 @@ laatste_update: 2024-04-11
 status: geldig
 toestand: 2024-04-11
 bron: "https://wetten.overheid.nl/BWBR0049548"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Beleidsregels van de Minister voor Rechtsbescherming van 8 april 2024, nr. 5344369, over de toepassing van artikel 7, eerste lid, aanhef en onderdeel a, van de Wet kwaliteit incassodienstverlening (Beleidsregels Wet kwaliteit incassodienstverlening)

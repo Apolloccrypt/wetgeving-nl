@@ -9,7 +9,7 @@ laatste_update: 2026-07-11
 status: geldig
 toestand: 2026-07-11
 bron: "https://wetten.overheid.nl/BWBR0048957"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Minister voor Natuur en Stikstof van 23 november 2023, nr. WJZ/ 33440152, houdende regels voor het verstrekken van specifieke uitkeringen in verband met de uitvoering van de aanpak piekbelasting (Regeling uitvoering aanpak piekbelasting)

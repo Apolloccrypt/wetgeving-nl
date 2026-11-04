@@ -8,7 +8,7 @@ laatste_update: 2023-12-19
 status: geldig
 toestand: 2023-12-19
 bron: "https://wetten.overheid.nl/BWBR0049068"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling constanten regressieformules en waarden voor de gemiddelde CO2-uitstoot voor benzine- en dieselauto's 2024 en 2025

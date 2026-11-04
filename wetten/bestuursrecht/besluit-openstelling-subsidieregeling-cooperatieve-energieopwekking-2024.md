@@ -9,7 +9,7 @@ laatste_update: 2024-04-02
 status: geldig
 toestand: 2024-04-02
 bron: "https://wetten.overheid.nl/BWBR0049501"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister voor Klimaat en Energie van 18 maart 2024, nr. WJZ/ 45338525, tot openstelling van de Subsidieregeling coöperatieve energieopwekking 2024 (Besluit openstelling Subsidieregeling coöperatieve energieopwekking 2024)

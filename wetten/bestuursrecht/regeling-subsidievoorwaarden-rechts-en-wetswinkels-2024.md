@@ -8,7 +8,7 @@ laatste_update: 2024-04-16
 status: geldig
 toestand: 2024-04-16
 bron: "https://wetten.overheid.nl/BWBR0049567"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-04
 ---
 
 # Regeling subsidievoorwaarden rechts- en wetswinkels 2024

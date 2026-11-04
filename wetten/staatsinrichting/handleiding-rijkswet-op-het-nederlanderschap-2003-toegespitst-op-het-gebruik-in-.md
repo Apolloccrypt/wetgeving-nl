@@ -9,7 +9,7 @@ laatste_update: 2026-11-01
 status: geldig
 toestand: 2026-11-01
 bron: "https://wetten.overheid.nl/BWBR0028778"
-opgehaald: 2026-11-03
+opgehaald: 2026-11-04
 ---
 
 # Handleiding voor de toepassing van de Rijkswet op het Nederlanderschap toegespitst op het gebruik in de openbare lichamen Bonaire, Sint Eustatius en Saba

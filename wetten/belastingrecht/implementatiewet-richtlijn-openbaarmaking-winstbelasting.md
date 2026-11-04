@@ -9,7 +9,7 @@ laatste_update: 2023-12-30
 status: geldig
 toestand: 2023-12-30
 bron: "https://wetten.overheid.nl/BWBR0049136"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Wet van 6 december 2023 tot wijziging van Boek 2 van het Burgerlijk wetboek tot implementatie van Richtlijn (EU) 2021/2101 van het Europees Parlement en de Raad van 24 november 2021 tot wijziging van Richtlijn 2013/34/EU wat betreft de openbaarmaking van informatie over de winstbelasting door bepaalde ondernemingen en bijkantoren (Implementatiewet Richtlijn openbaarmaking winstbelasting)

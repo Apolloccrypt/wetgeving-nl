@@ -9,7 +9,7 @@ laatste_update: 2024-04-04
 status: geldig
 toestand: 2024-04-04
 bron: "https://wetten.overheid.nl/BWBR0049485"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister van Landbouw, Natuur en Voedselkwaliteit van 12 maart 2024 tot vaststelling van het Specifiek interventiebeleid Nagoya protocol (IB03-SPEC 06, versie 01)

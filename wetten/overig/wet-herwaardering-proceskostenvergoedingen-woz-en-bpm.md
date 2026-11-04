@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0049132"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Wet van 20 december 2023 tot wijziging van de Wet waardering onroerende zaken en de Wet op de belasting van personenauto's en motorrijwielen 1992 in verband met het herwaarderen van de proceskostenvergoeding en vergoeding van immateriële schade wegens overschrijding van de redelijke termijn (Wet herwaardering proceskostenvergoedingen WOZ en bpm)

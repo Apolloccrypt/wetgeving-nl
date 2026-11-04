@@ -9,7 +9,7 @@ laatste_update: 2024-02-14
 status: geldig
 toestand: 2024-02-14
 bron: "https://wetten.overheid.nl/BWBR0049349"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 22 januari 2024, ZK-0000047490, inhoudende openbaarmaking van de subsidiegegevens Gemeenschappelijk landbouwbeleid over het EU-boekjaar 2023

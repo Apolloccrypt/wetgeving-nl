@@ -9,7 +9,7 @@ laatste_update: 2025-04-01
 status: geldig
 toestand: 2025-04-01
 bron: "https://wetten.overheid.nl/BWBR0049361"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 4 februari 2024, nr.MinBuZa.2024.20440-34, houdende beperkende maatregelen ten aanzien van Guatemala (Sanctieregeling Guatemala 2024)

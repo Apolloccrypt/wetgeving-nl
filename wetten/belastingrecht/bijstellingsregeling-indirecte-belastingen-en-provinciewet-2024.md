@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0049188"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Bijstellingsregeling belastingen van rechtsverkeer, accijns, belasting van personenauto’s en motorrijwielen, motorrijtuigenbelasting, belastingen op milieugrondslag en de Provinciewet 2024 (Bijstellingsregeling indirecte belastingen en de Provinciewet 2024)

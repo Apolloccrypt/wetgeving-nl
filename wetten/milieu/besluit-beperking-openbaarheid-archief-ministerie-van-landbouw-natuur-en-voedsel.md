@@ -9,7 +9,7 @@ laatste_update: 2024-03-05
 status: geldig
 toestand: 2024-03-05
 bron: "https://wetten.overheid.nl/BWBR0049423"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit beperking openbaarheid van het archief van het Kabinet van de MinisterMinisterie van Landbouw, Natuur en Voedselkwaliteit 1901 – 1993 d.d. 20 februari 2024

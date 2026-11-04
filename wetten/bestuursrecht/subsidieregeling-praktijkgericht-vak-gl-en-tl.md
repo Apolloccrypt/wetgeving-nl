@@ -9,7 +9,7 @@ laatste_update: 2026-10-24
 status: geldig
 toestand: 2026-10-24
 bron: "https://wetten.overheid.nl/BWBR0049480"
-opgehaald: 2026-11-03
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 12 maart 2024, nr. 1502027, houdende regels voor subsidieverstrekking ter ondersteuning van het invoeren van het praktijkgerichte vak in de gemengde leerweg en theoretische leerweg van het vmbo (Subsidieregeling praktijkgericht vak gl en tl)

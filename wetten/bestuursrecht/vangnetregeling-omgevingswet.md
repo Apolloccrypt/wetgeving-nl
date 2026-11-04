@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0049064"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 1 december 2023, nr. 2023-0000712297, houdende regels die de Invoeringswet Omgevingswet en de vier aanvullingswetten van de Omgevingswet aanvullen voor een goede invoering van de Omgevingswet (Vangnetregeling Omgevingswet)

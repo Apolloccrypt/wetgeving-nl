@@ -9,7 +9,7 @@ laatste_update: 2024-06-24
 status: geldig
 toestand: 2024-06-24
 bron: "https://wetten.overheid.nl/BWBR0049513"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 25 maart 2024 nr. BOACAT2024/023, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Rijksrecherche

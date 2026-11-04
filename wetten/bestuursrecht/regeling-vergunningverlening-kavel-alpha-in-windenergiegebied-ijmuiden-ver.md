@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0049179"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Minister voor Klimaat en Energie van 12 december 2023, nr. WJZ/ 41336172, houdende regels inzake de vergunningverlening kavel Alpha in windenergiegebied IJmuiden Ver (Regeling vergunningverlening kavel Alpha in windenergiegebied IJmuiden Ver)

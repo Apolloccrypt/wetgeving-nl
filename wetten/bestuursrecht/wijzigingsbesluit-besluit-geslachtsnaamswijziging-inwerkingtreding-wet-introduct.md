@@ -9,7 +9,7 @@ laatste_update: 2024-10-01
 status: geldig
 toestand: 2024-10-01
 bron: "https://wetten.overheid.nl/BWBR0049506"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van 25 maart 2024 tot wijziging van het Besluit geslachtsnaamswijziging in verband met de inwerkingtreding van de Wet introductie gecombineerde geslachtsnaam

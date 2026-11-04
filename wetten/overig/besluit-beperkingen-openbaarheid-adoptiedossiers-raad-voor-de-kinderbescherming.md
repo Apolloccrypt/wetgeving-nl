@@ -9,7 +9,7 @@ laatste_update: 2023-12-01
 status: geldig
 toestand: 2023-12-01
 bron: "https://wetten.overheid.nl/BWBR0048982"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Beperkingen aan de openbaarheid van de Adoptiedossiers van de Raad voor de Kinderbescherming

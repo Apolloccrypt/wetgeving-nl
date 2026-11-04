@@ -8,7 +8,7 @@ laatste_update: 2024-02-20
 status: geldig
 toestand: 2024-02-20
 bron: "https://wetten.overheid.nl/BWBR0049395"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling tot vaststelling van het Controle en verantwoordingsprotocol 2023 Centraal Orgaan opvang asielzoekers

@@ -9,7 +9,7 @@ laatste_update: 2026-01-28
 status: geldig
 toestand: 2026-01-28
 bron: "https://wetten.overheid.nl/BWBR0049558"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 4 april 2024, nr. OVO/44663863, houdende regels voor de subsidieverstrekking aan prioriteitsscholen voor het verbeteren van de basisvaardigheden met bewezen effectieve interventies (Subsidieregeling verbetering basisvaardigheden voor prioriteitsscholen 2024)

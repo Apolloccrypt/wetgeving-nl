@@ -5,11 +5,11 @@ identifier: "BWBR0048808"
 categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
 publicatiedatum: 2023-11-01
-laatste_update: 2025-12-19
+laatste_update: 2026-11-01
 status: geldig
-toestand: 2025-12-19
+toestand: 2026-11-01
 bron: "https://wetten.overheid.nl/BWBR0048808"
-opgehaald: 2026-11-03
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Waterstaat, van 17 oktober 2023, nr. IENW/BSK-2023/288283, houdende de instelling van de Expertgroep Gezondheid IJmond
@@ -18,7 +18,7 @@ opgehaald: 2026-11-03
 
 In dit besluit wordt verstaan onder:
 
-- a. *Expertgroep:* Expertgroep Gezondheid IJmond, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048808&artikel=2&z=2025-12-19&g=2025-12-19);
+- a. *Expertgroep:* Expertgroep Gezondheid IJmond, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048808&artikel=2&z=2026-11-01&g=2026-11-01);
 
 - b. *Groenstaalplan:* de complete set aan plannen van het bedrijf Tata Steel om schoon en duurzaam staal te gaan produceren;
 
@@ -108,7 +108,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 8. (Leden)
 
-1. Vanaf 1 november 2023, de datum van inwerkingtreding van dit besluit, worden voor een periode van twee jaar tot lid van de expertgroep benoemd:
+Vanaf 1 november 2026 worden, op grond van [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048808&artikel=4&z=2026-11-01&g=2026-11-01), voor een periode van een jaar tot lid van de expertgroep benoemd:
 
 - a. De heer prof. dr. M. Levi te Amsterdam, tevens voorzitter;
 
@@ -118,41 +118,17 @@ In dit besluit wordt verstaan onder:
 
 - d. De heer dr. ir. G. Hoek, te Utrecht;
 
-- e. Mevrouw dr. I.M. de Kleer, te Rotterdam;
+- e. Mevrouw mr. drs. N.U.N. Kien, te Rotterdam;
 
-- f. Mevrouw mr. drs. N.U.N. Kien, te Rotterdam;
+- f. Mevrouw dr. I.M. de Kleer, te Rotterdam;
 
-- g. Mevrouw dr. I.A. Kreis, te London, VK;
+- g. Mevrouw dr. I.A. Kreis, te London, Verenigd Koninkrijk;
 
 - h. De heer prof. dr. M.C. Krol, te Soest;
 
-- i. Mevrouw prof. dr. E.G. Smit, te Hilversum.
+- i. De heer prof. dr. J.O. Mierau, te Groningen;
 
-2. Op grond van [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048808&artikel=3&z=2025-12-19&g=2025-12-19), wordt als lid van de expertgroep benoemd:
-
-- a. voor de periode 1 november 2023 – 2 maart 2025 mevrouw prof. dr. K. Stronks, te Abcoude;
-
-- b. voor de periode 3 maart 2025 – 1 november 2025 de heer prof. dr. J.O. Mierau, te Groningen.
-
-3. Vanaf 1 november 2025 worden, op grond van [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048808&artikel=4&z=2025-12-19&g=2025-12-19), voor een periode van een jaar tot lid van de expertgroep benoemd:
-
-- a. De heer prof. dr. M. Levi te Amsterdam, tevens voorzitter;
-
-- b. De heer prof. dr. ir. H. E. A. van den Akker, te Culemborg;
-
-- c. De heer prof. dr. J. de Boer, te Velsen-Zuid;
-
-- d. De heer dr. ir. G. Hoek, te Utrecht;
-
-- e. Mevrouw dr. I.M. de Kleer, te Rotterdam;
-
-- f. Mevrouw mr. drs. N.U.N. Kien, te Rotterdam;
-
-- g. Mevrouw dr. I.A. Kreis, te London, VK;
-
-- h. Mevrouw prof. dr. E.G. Smit, te Hilversum;
-
-- i. De heer prof. dr. J.O. Mierau, te Groningen.
+- j. Mevrouw prof. dr. E.G. Smit, te Hilversum.
 
 ##### Artikel 9. (Kosten van de expertgroep)
 

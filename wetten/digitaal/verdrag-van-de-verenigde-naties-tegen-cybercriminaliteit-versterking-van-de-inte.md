@@ -7,7 +7,7 @@ laatste_update: 2024-12-24
 status: geldig
 toestand: 2024-12-24
 bron: "https://wetten.overheid.nl/BWBV0007182"
-opgehaald: 2026-10-26
+opgehaald: 2026-11-04
 ---
 
 # Verdrag van de Verenigde Naties tegen cybercriminaliteit; Versterking van de internationale samenwerking voor de bestrijding van bepaalde strafbare feiten die worden gepleegd door middel van informatie- en communicatietechnologiesystemen en voor het delen van bewijs in elektronische vorm met betrekking tot ernstige strafbare feiten
@@ -712,15 +712,13 @@ States Parties may, taking into consideration the rights of sentenced persons, c
 
 32. States Parties shall consider, as may be necessary, the possibility of concluding bilateral or multilateral agreements or arrangements that would serve the purposes of, give practical effect to or enhance the provisions of this article.
 
-##### Article 41
+##### Article 41. 24/7 network
 
-1. 24/7 network
+1. Each State Party shall designate a point of contact available 24 hours a day, 7 days a week, in order to ensure the provision of immediate assistance for the purpose of specific criminal investigations, prosecutions or judicial proceedings concerning offences established in accordance with this Convention, or for the collection, obtaining and preservation of evidence in electronic form for the purposes of paragraph 3 of this article and in relation to the offences established in accordance with this Convention, as well as to serious crime.
 
-2. Each State Party shall designate a point of contact available 24 hours a day, 7 days a week, in order to ensure the provision of immediate assistance for the purpose of specific criminal investigations, prosecutions or judicial proceedings concerning offences established in accordance with this Convention, or for the collection, obtaining and preservation of evidence in electronic form for the purposes of paragraph 3 of this article and in relation to the offences established in accordance with this Convention, as well as to serious crime.
+2. The Secretary-General of the United Nations shall be notified of such point of contact and keep an updated register of points of contact designated for the purposes of this article and shall annually circulate to the States Parties the updated list of contact points.
 
-3. The Secretary-General of the United Nations shall be notified of such point of contact and keep an updated register of points of contact designated for the purposes of this article and shall annually circulate to the States Parties the updated list of contact points.
-
-4. Such assistance shall include facilitating or, if permitted by the domestic law and practice of the requested State Party, directly carrying out the following measures:
+3. Such assistance shall include facilitating or, if permitted by the domestic law and practice of the requested State Party, directly carrying out the following measures:
 
 - a) The provision of technical advice;
 
@@ -732,11 +730,11 @@ States Parties may, taking into consideration the rights of sentenced persons, c
 
 - e) The provision of electronic data to avert an emergency.
 
-5. A State Party’s point of contact shall have the capacity to carry out communications with the point of contact of another State Party on an expedited basis. If the point of contact designated by a State Party is not part of that State Party’s authority or authorities responsible for mutual legal assistance or extradition, the point of contact shall ensure that it is able to coordinate with that authority or those authorities on an expedited basis.
+4. A State Party’s point of contact shall have the capacity to carry out communications with the point of contact of another State Party on an expedited basis. If the point of contact designated by a State Party is not part of that State Party’s authority or authorities responsible for mutual legal assistance or extradition, the point of contact shall ensure that it is able to coordinate with that authority or those authorities on an expedited basis.
 
-6. Each State Party shall ensure that trained and equipped personnel are available to ensure the operation of the 24/7 network.
+5. Each State Party shall ensure that trained and equipped personnel are available to ensure the operation of the 24/7 network.
 
-7. States Parties may also use and strengthen existing authorized networks of points of contact, where applicable, and within the limits of their domestic laws, including the 24/7 networks for computer-related crime of the International Criminal Police Organization for prompt police-to-police cooperation and other methods of information exchange cooperation.
+6. States Parties may also use and strengthen existing authorized networks of points of contact, where applicable, and within the limits of their domestic laws, including the 24/7 networks for computer-related crime of the International Criminal Police Organization for prompt police-to-police cooperation and other methods of information exchange cooperation.
 
 ##### Article 42. International cooperation for the purpose of expedited preservation of stored electronic data
 

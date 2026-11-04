@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0049116"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Beleidsregel van de inspecteur-generaal Leefomgeving en Transport van 16 november 2023, nr. ILT-2023/56743, houdende vaststelling van beleid inzake de handhavingsstrategie Omgevingsrecht van de Inspectie Leefomgeving en Transport (Beleidsregel Handhavingsstrategie Omgevingsrecht Inspectie Leefomgeving en Transport)

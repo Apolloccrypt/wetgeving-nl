@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0049123"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van 20 december 2023, nr. IENW/BSK-2023/377178, tot vaststelling van de Beleidsregel nadeelcompensatie verleggen kabels en leidingen vanwege rijkswaterstaatswerken, rijkswegen en hoofdspoorwegen 2024

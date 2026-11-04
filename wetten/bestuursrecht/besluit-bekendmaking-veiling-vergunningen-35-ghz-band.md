@@ -9,7 +9,7 @@ laatste_update: 2024-02-15
 status: geldig
 toestand: 2024-02-15
 bron: "https://wetten.overheid.nl/BWBR0049386"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat van 2 februari 2024, nr. DG ED/DE 44619100, inzake de keuze voor het instrument veiling van vergunningen voor mobiele communicatie in de 3,5 GHz-band en de vaststelling van de te veilen vergunningen

@@ -9,7 +9,7 @@ laatste_update: 2024-02-24
 status: geldig
 toestand: 2024-02-24
 bron: "https://wetten.overheid.nl/BWBR0049406"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap, van 17 januari 2024, nr. 37495418, houdende vaststelling van het onderwijsaccountantsprotocol voor de sectoren PO, VO en MBO in Caribisch Nederland (Regeling onderwijsaccountantsprotocol OCW BES 2023)

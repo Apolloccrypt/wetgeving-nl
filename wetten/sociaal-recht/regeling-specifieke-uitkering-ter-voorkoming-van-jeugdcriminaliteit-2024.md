@@ -9,7 +9,7 @@ laatste_update: 2025-12-24
 status: geldig
 toestand: 2025-12-24
 bron: "https://wetten.overheid.nl/BWBR0049549"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid en de Minister voor Rechtsbescherming van 3 april 2024, nr. 5178141, houdende regels met betrekking tot het verstrekken van een eenmalige specifieke uitkering ter voorkoming van jeugdcriminaliteit in specifieke gebieden met relatief ernstige problematiek (Regeling specifieke uitkering ter voorkoming van jeugdcriminaliteit 2024)

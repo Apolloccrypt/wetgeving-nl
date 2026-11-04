@@ -9,7 +9,7 @@ laatste_update: 2024-04-01
 status: geldig
 toestand: 2024-04-01
 bron: "https://wetten.overheid.nl/BWBR0049263"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van 12 december 2023, tot regeling van de bestuurlijke boete Visserijwet 1963 (Besluit bestuurlijke boete Visserijwet 1963)

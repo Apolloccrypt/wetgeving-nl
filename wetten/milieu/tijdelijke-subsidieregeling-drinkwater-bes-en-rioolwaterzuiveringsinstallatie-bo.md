@@ -1,15 +1,15 @@
 ---
 title: "Regeling van de Minister van Infrastructuur en Waterstaat van 5 maart 2018, nr. IENW/BSK-2018/43439, houdende regels inzake het verstrekken van subsidie voor het transport van drinkwater of ander water op Bonaire, Sint Eustatius en Saba en voor de exploitatie van de RWZI op Bonaire over de kalenderjaren 2018 tot en met 2022 (Tijdelijke subsidieregeling drinkwater BES en rioolwaterzuiveringsinstallatie Bonaire 2018–2022)"
-citeertitel: "Tijdelijke subsidieregeling drinkwater BES en rioolwaterzuiveringsinstallatie Bonaire 2022 tot en met 2026"
+citeertitel: "Tijdelijke subsidieregeling drinkwater BES en rioolwaterzuiveringsinstallatie Bonaire 2026 tot en met 2030"
 identifier: "BWBR0040698"
 categorie: "Milieu"
 soort: "ministeriele-regeling-BES"
 publicatiedatum: 2023-11-17
-laatste_update: 2025-12-11
+laatste_update: 2026-10-28
 status: geldig
-toestand: 2025-12-11
+toestand: 2026-10-28
 bron: "https://wetten.overheid.nl/BWBR0040698"
-opgehaald: 2026-10-25
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat van 5 maart 2018, nr. IENW/BSK-2018/43439, houdende regels inzake het verstrekken van subsidie voor het transport van drinkwater of ander water op Bonaire, Sint Eustatius en Saba en voor de exploitatie van de RWZI op Bonaire over de kalenderjaren 2018 tot en met 2022 (Tijdelijke subsidieregeling drinkwater BES en rioolwaterzuiveringsinstallatie Bonaire 2018–2022)
@@ -28,59 +28,50 @@ In deze regeling en daarop gebaseerde besluiten wordt verstaan onder:
 
 ##### Artikel 2. (subsidieverlening)
 
-1. Aan de subsidieontvanger kan op aanvraag over een of meer van de kalenderjaren 2022 tot en met 2026 subsidie worden verleend met als doel het geheel of gedeeltelijk dekken:
+1. Aan de subsidieontvanger kan op aanvraag over een of meer van de kalenderjaren 2026 tot en met 2030 subsidie worden verleend met als doel het geheel of gedeeltelijk dekken:
 
 - a. van de kosten over de genoemde kalenderjaren die worden verdisconteerd in het vaste gebruikstarief of het wegtransporttarief voor drinkwater of, voor Saba, het reverse osmosis water, teneinde deze tarieven die in rekening worden gebracht bij afnemers, te verlagen;
 
-- b. met ingang van het kalenderjaar 2022, van de prijs van het door of vanwege het eilandsbestuur van Saba gebottelde drinkwater, teneinde de prijs van drinkwater voor afnemers te verlagen;
+- b. van de prijs van het door of vanwege het eilandsbestuur van Saba gebottelde drinkwater, teneinde de prijs van drinkwater voor afnemers te verlagen;
 
 - c. van de kosten over de genoemde kalenderjaren van investeringen in de infrastructuur voor de productie en distributie van drinkwater met het oog op de kwaliteit en continuïteit van de openbare drinkwatervoorziening.
 
-2. Aan het Water- en Energiebedrijf Bonaire NV kan op aanvraag over een of meer van de kalenderjaren 2022 tot en met 2026 subsidie worden verleend met als doel het dekken van de exploitatietekorten van de RWZI over de genoemde kalenderjaren.
+2. Aan het Water- en Energiebedrijf Bonaire NV kan op aanvraag over een of meer van de kalenderjaren 2026 tot en met 2030 subsidie worden verleend met als doel het dekken van een deel van de exploitatietekorten van de RWZI over de genoemde kalenderjaren.
 
 3. De subsidie, bedoeld in het eerste of tweede lid, wordt verleend onder de voorwaarde dat daarvoor voldoende middelen beschikbaar zijn op de begroting van het Ministerie van Infrastructuur en Waterstaat.
 
+4. De subsidie, bedoeld in het tweede lid, kan worden verleend onder de voorwaarde dat met ingang van een daarbij vast te stellen datum een afvalwaterheffing wordt ingevoerd ter bestrijding van de kosten die voor het openbaar lichaam verbonden zijn aan het beheer van afvalwater, bedoeld in [artikel 57a van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=57a).
+
 ##### Artikel 3. (subsidiebedragen)
 
-De subsidie, bedoeld in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=2&z=2025-12-11&g=2025-12-11), bedraagt ten hoogste het bedrag in EUR volgens de onderstaande tabel, inclusief eventueel verschuldigde BTW:
+De subsidie, bedoeld in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=2&z=2026-10-28&g=2026-10-28), bedraagt ten hoogste het bedrag in EUR volgens de onderstaande tabel, inclusief eventueel verschuldigde BTW:
 
-| Omschrijving / kalenderjaar | 2022 | 2023 | 2024 | 2025 | 2026 |
+| Omschrijving / kalenderjaar | 2026 | 2027 | 2028 | 2029 | 2030 |
 | --- | --- | --- | --- | --- | --- |
 | 1. BONAIRE |  |  |  |  |  |
-| 1a. Vast gebruikstarief drinkwater of kosten wegtransport drinkwater Bonaire | 925 450 | 925 450 | 925 | 925 | 925 |
-| 3.275 | 3.751 | 4.358 | 4.482 | 4.485 |  |
-| Koopkracht pakket |  |  | 743,536 | 729,035 | 577,013 |
-| Subtotaal 1a | 4.650 | 5.126 | 6.026,536 | 6.136,035 | 5.987,013 |
-|  |  |  |  |  |  |
-| 1b. Investeringen drinkwater Bonaire | 450 | 450 |  |  |  |
-| Subtotaal 1b | 450 | 450 |  |  |  |
-|  |  |  |  |  |  |
-| 1c. Exploitatiekosten RWZI Bonaire | 1.000 500 500 | 1.000 500 | 1.000 500 | 1.000 | 1.000 |
-| Subtotaal 1c | 2.000 | 1.500 | 1.500 | 1.000 | 1.000 |
-|  |  |  |  |  |  |
-| TOTAAL BONAIRE: | 7.100 | 7.076 | 7.526,536 | 7.136,035 | 6.987,013 |
+| 1a. Vast gebruikstarief drinkwater of kosten wegtransport drinkwater Bonaire | 6.611 | 7.087 |  |  |  |
+| Subtotaal 1a | 6.611 | 7.087 |  |  |  |
+| 1b. Investeringen drinkwater Bonaire |  | 8.000 |  |  |  |
+| Subtotaal 1b |  | 8.000 |  |  |  |
+| 1c. Exploitatiekosten RWZI Bonaire | 1.000 | 1.000 |  |  |  |
+| Subtotaal 1c | 1.000 | 1.000 |  |  |  |
+| TOTAAL BONAIRE: | 7.611 | 16.087 |  |  |  |
 |  |  |  |  |  |  |
 | 2. SABA |  |  |  |  |  |
-| 2a. Wegtransport drinkwater of wegtransport reverse osmosis water Saba | 100 | 100 168 | 100 168 | 100 168 | 100 168 |
-| Koopkracht pakket |  |  | 362,482 | 372,779 | 257,144 |
-| Subtotaal 2a | 100 | 268 | 630,482 | 640,779 | 525,144 |
-|  |  |  |  |  |  |
-| 2b. Investeringen drinkwater Saba | 1.000 |  |  |  |  |
-| Subtotaal 2b | 1.000 |  |  |  |  |
-|  |  |  |  |  |  |
-| TOTAAL SABA: | 1.100 | 268 | 630,482 | 640,779 | 525,144 |
+| 2a. Wegtransport drinkwater of wegtransport reverse osmosis water Saba | 862,144 | 864 |  |  |  |
+| Subtotaal 2a | 862,144 | 864 |  |  |  |
+| 2b. Investeringen drinkwater Saba |  |  |  |  |  |
+| Subtotaal 2b |  |  |  |  |  |
+| TOTAAL SABA: | 862,144 | 864 |  |  |  |
 |  |  |  |  |  |  |
 | 3. SINT EUSTATIUS |  |  |  |  |  |
-| 3a. Vast gebruikstarief drinkwater of kosten wegtransport reverse osmosis water Sint Eustatius | 193 889 | 193 865 | 193 891 | 193 917 | 193 943 |
-| Koopkracht pakket |  |  | 93,981 |  | 145,982 |
-| Subtotaal 3a | 1.082 | 1.058 | 1.177,981 | 1.110 | 1.281,982 |
+| 3a. Vast gebruikstarief drinkwater of kosten wegtransport reverse osmosis water Sint Eustatius | 1.281,982 | 1.662 |  |  |  |
+| Subtotaal 3a | 1.281,982 | 1.662 |  |  |  |
+| 3b. Investeringen drinkwater Sint Eustatius Extra investering drinkwater Sint Eustatius | 275 | 1.700 |  |  |  |
+| Subtotaal 3b |  | 1.700 |  |  |  |
+| TOTAAL SINT EUSTATIUS | 1.556,982 | 3.362 |  |  |  |
 |  |  |  |  |  |  |
-| 3b. Investeringen drinkwater Sint Eustatius Extra investering drinkwater Sint Eustatius | 1.500 | 1.500 2.045 |  | 1.000 |  |
-| Subtotaal 3b | 1.500 | 3.545 |  | 1.000 |  |
-|  |  |  |  |  |  |
-| TOTAAL SINT EUSTATIUS | 2.582 | 4.603 | 1.177,981 | 2.110 | 1.281,982 |
-|  |  |  |  |  |  |
-| TOTALEN 1,2,3 | 10.782 | 11.947 | 9.334,999 | 9.886,814 | 8.794,139 |
+| TOTALEN 1,2,3 | 10.030,126 | 20.313 |  |  |  |
 
 ##### Artikel 4. (aanvraag)
 
@@ -88,7 +79,7 @@ De subsidie, bedoeld in [artikel 2, eerste en tweede lid](https://wetten.overhei
 
 2. De aanvraag bevat de volgende gegevens en bescheiden:
 
-- a. een projectplan of plan van aanpak met betrekking tot de wijze waarop de subsidie over het jaar of de jaren waarvoor deze wordt aangevraagd bijdraagt aan het doel van de subsidieverlening, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=2&z=2025-12-11&g=2025-12-11), met een beschrijving van de prestaties die met de subsidie worden bekostigd;
+- a. een projectplan of plan van aanpak met betrekking tot de wijze waarop de subsidie over het jaar of de jaren waarvoor deze wordt aangevraagd bijdraagt aan het doel van de subsidieverlening, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=2&z=2026-10-28&g=2026-10-28), met een beschrijving van de prestaties die met de subsidie worden bekostigd;
 
 - b. het benodigde subsidiebedrag in euro’s met een gespecificeerde begroting over het desbetreffende jaar of de desbetreffende jaren die een goed inzicht geeft in de kosten van de te subsidiëren activiteit en het effect van de subsidie erop, waaronder een liquiditeitsoverzicht waaruit de benodigde subsidie blijkt;
 
@@ -108,11 +99,11 @@ De subsidie, bedoeld in [artikel 2, eerste en tweede lid](https://wetten.overhei
 
 5. Indien door een ander bestuursorgaan voor dezelfde activiteiten subsidie wordt verstrekt, doet de subsidieontvanger daarvan onverwijld mededeling aan de minister.
 
-6. De subsidieontvanger verleent op verzoek van de minister alle medewerking aan een door de minister ingesteld evaluatieonderzoek, bedoeld om te beoordelen in welke mate de subsidieontvanger bij het uitoefenen van de gesubsidieerde activiteiten een bijdrage heeft geleverd aan het doel van de subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=2&z=2025-12-11&g=2025-12-11).
+6. De subsidieontvanger verleent op verzoek van de minister alle medewerking aan een door de minister ingesteld evaluatieonderzoek, bedoeld om te beoordelen in welke mate de subsidieontvanger bij het uitoefenen van de gesubsidieerde activiteiten een bijdrage heeft geleverd aan het doel van de subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=2&z=2026-10-28&g=2026-10-28).
 
 ##### Artikel 5a. (afwijking)
 
-1. In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=5&z=2025-12-11&g=2025-12-11), kan de minister in het belang van de doelmatigheid of continuïteit van de openbare drinkwatervoorziening of de RWZI en op verzoek van de subsidieontvanger toestemming verlenen:
+1. In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=5&z=2026-10-28&g=2026-10-28), kan de minister in het belang van de doelmatigheid of continuïteit van de openbare drinkwatervoorziening of de RWZI en op verzoek van de subsidieontvanger toestemming verlenen:
 
 - a. tot verlenging van de in dat lid bedoelde termijn of tijdvak tot een daarbij genoemde datum tot welke de subsidie kan worden aangewend;
 
@@ -166,18 +157,18 @@ Het subsidiebedrag wordt binnen zes weken na de bekendmaking van de subsidievast
 
 ##### Artikel 9. (voorschotten)
 
-Aan de subsidieontvanger kunnen voorschotten worden verleend van ten hoogste 100 procent van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=3&z=2025-12-11&g=2025-12-11) genoemde subsidiebedragen.
+Aan de subsidieontvanger kunnen voorschotten worden verleend van ten hoogste 100 procent van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=3&z=2026-10-28&g=2026-10-28) genoemde subsidiebedragen.
 
 ##### Artikel 10. (onverschuldigde betaling)
 
-Indien na de intrekking, wijziging of vaststelling van de subsidie als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=6&z=2025-12-11&g=2025-12-11) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=7&z=2025-12-11&g=2025-12-11) sprake is van onverschuldigd betaalde subsidiebedragen kunnen deze door de minister worden teruggevorderd.
+Indien na de intrekking, wijziging of vaststelling van de subsidie als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=6&z=2026-10-28&g=2026-10-28) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=7&z=2026-10-28&g=2026-10-28) sprake is van onverschuldigd betaalde subsidiebedragen kunnen deze door de minister worden teruggevorderd.
 
 ##### Artikel 11. (inwerkingtreding)
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2018.
 
-2. Deze regeling vervalt met ingang van 1 januari 2028, met dien verstande dat zij van toepassing blijft op de krachtens deze regeling verstrekte subsidies.
+2. Deze regeling vervalt met ingang van 1 januari 2032, met dien verstande dat zij van toepassing blijft op de krachtens deze regeling verstrekte subsidies.
 
 ##### Artikel 12. (citeertitel)
 
-Deze regeling wordt aangehaald als: Tijdelijke subsidieregeling drinkwater BES en rioolwaterzuiveringsinstallatie Bonaire 2022 tot en met 2026.
+Deze regeling wordt aangehaald als: Tijdelijke subsidieregeling drinkwater BES en rioolwaterzuiveringsinstallatie Bonaire 2026 tot en met 2030.

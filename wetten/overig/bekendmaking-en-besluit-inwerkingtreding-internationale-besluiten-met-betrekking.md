@@ -9,7 +9,7 @@ laatste_update: 2024-01-17
 status: geldig
 toestand: 2024-01-17
 bron: "https://wetten.overheid.nl/BWBR0049270"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Bekendmaking en besluit tot inwerkingtreding van de Minister van Infrastructuur en Waterstaat, van 17 november 2023 nr. IENW/BSK-2023/338267, van internationale besluiten met betrekking tot de veiligheid van zeeschepen

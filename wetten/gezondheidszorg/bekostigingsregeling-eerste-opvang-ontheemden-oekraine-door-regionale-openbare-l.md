@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0049203"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Staatssecretaris van Justitie en Veiligheid van 21 december 2023, nr. 5111654, houdende een specifieke uitkering voor regionale openbare lichamen, provincies of gemeenten in verband met de bekostiging van acute opvang aan ontheemden uit Oekraïne vanwege de oorlogssituatie in Oekraïne (Bekostigingsregeling eerste opvang ontheemden Oekraïne door Regionale openbare lichamen)

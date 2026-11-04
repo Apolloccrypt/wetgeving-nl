@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0049051"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Minister van Financiën van 20 november 2023, 2024-0000257460, directie Financiële Markten, tot vaststelling van de bijdragen gemoedsbezwaarden 2024

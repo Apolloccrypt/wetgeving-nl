@@ -9,7 +9,7 @@ laatste_update: 2025-12-23
 status: geldig
 toestand: 2025-12-23
 bron: "https://wetten.overheid.nl/BWBR0049474"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Minister voor Medische Zorg van 11 maart 2024, kenmerk 3778259-1062120-PG, houdende het verstrekken van een specifieke uitkering ten behoeve van aanvullende seksuele gezondheidszorg (Regeling specifieke uitkering aanvullende seksuele gezondheidszorg)

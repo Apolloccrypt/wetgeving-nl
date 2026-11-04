@@ -9,7 +9,7 @@ laatste_update: 2024-04-17
 status: geldig
 toestand: 2024-04-17
 bron: "https://wetten.overheid.nl/BWBR0049566"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister voor Medische Zorg van 8 april 2024, kenmerk 3792882-1063275-VGP, houdende verlening van mandaat, volmacht en machtiging aan de algemeen directeur van het Centraal Justitieel Incassobureau voor inning en incasso van boetebeschikkingen opgelegd door de NVWA (Mandaatbesluit VWS ten behoeve van NVWA-werkzaamheden aan het CJIB)

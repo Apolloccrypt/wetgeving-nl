@@ -8,7 +8,7 @@ laatste_update: 2023-12-09
 status: geldig
 toestand: 2023-12-09
 bron: "https://wetten.overheid.nl/BWBR0049041"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Vennootschapsbelasting. Geautomatiseerde berekening voorkoming dubbele belasting; toelichting op gehanteerde uitgangspunten (Syllabus AEB)

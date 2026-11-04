@@ -9,7 +9,7 @@ laatste_update: 2025-02-12
 status: geldig
 toestand: 2025-02-12
 bron: "https://wetten.overheid.nl/BWBR0049412"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Wet van 14 februari 2024 houdende regels omtrent de instelling van een adviescollege voor de algehele verbetering en beheersing van ICT-projecten en informatiesystemen bij de centrale overheid (Wet Adviescollege ICT-toetsing)

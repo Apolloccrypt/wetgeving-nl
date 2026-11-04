@@ -8,7 +8,7 @@ laatste_update: 2023-12-29
 status: geldig
 toestand: 2023-12-29
 bron: "https://wetten.overheid.nl/BWBR0049105"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Reglement voor de gebruikersraad Kadaster 2023

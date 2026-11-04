@@ -9,7 +9,7 @@ laatste_update: 2023-12-01
 status: geldig
 toestand: 2023-12-01
 bron: "https://wetten.overheid.nl/BWBR0048978"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit inzake de termijn van beperking van de openbaarheid van de naar de rijksarchiefbewaarplaats over te brengen dossiers van het archief adoptiedossiers van de raad voor de kinderbescherming, geboortejaren tot en met 1969 (nummer toegang 2.09.163)

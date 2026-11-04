@@ -8,7 +8,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0049166"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Richtlijn voor strafvordering dierenmishandeling, dierendoding, dierenverwaarlozing, bijtincidenten en overtreding houdverbod dieren

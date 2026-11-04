@@ -9,7 +9,7 @@ laatste_update: 2023-12-07
 status: geldig
 toestand: 2023-12-07
 bron: "https://wetten.overheid.nl/BWBR0049006"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 30 november 2023, nr. 2023-0000652636, houdende regels met betrekking tot de verstrekking van een specifieke uitkering aan gemeenten en openbare lichamen ter stimulering van woningbouwprojecten (Regeling specifieke uitkering startbouwimpuls)

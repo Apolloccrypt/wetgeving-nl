@@ -9,7 +9,7 @@ laatste_update: 2023-12-16
 status: geldig
 toestand: 2023-12-16
 bron: "https://wetten.overheid.nl/BWBR0049049"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Vaststelling selectielijst van het Ministerie van Buitenlandse Zaken voor de periode vanaf 2015

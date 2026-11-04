@@ -9,7 +9,7 @@ laatste_update: 2024-03-01
 status: geldig
 toestand: 2024-03-01
 bron: "https://wetten.overheid.nl/BWBR0049304"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 11 januari 2024, nr. 5125931, houdende algemene aanwijzingen inzake de afgifte van tijdelijke certificaten aan jeugdbeschermings- en jeugdreclasseringsinstellingen (Algemene aanwijzingen tijdelijk certificaat jeugdbescherming en jeugdreclassering 2024)

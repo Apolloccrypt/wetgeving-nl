@@ -5,11 +5,11 @@ identifier: "BWBR0037770"
 categorie: "Verkeer"
 soort: "wet"
 publicatiedatum: 2016-11-01
-laatste_update: 2018-07-01
+laatste_update: 2026-11-01
 status: geldig
-toestand: 2018-07-01
+toestand: 2026-11-01
 bron: "https://wetten.overheid.nl/BWBR0037770"
-opgehaald: 2026-10-22
+opgehaald: 2026-11-04
 ---
 
 # Wet van 9 maart 2016 tot wijziging van de Wet luchtvaart in verband met de invoering van een nieuw normen- en handhavingstelsel voor de luchthaven Schiphol en enige andere wijzigingen
@@ -22,11 +22,11 @@ opgehaald: 2026-10-22
 
 *Wijzigt de Luchtvaartwet.*
 
-*Dit onderdeel is nog niet inwerking getreden*
-
 ##### Artikel III
 
-*Dit onderdeel is nog niet inwerking getreden*
+1. Onze Minister van Infrastructuur en Milieu zendt binnen 5 jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van [artikel I, onderdelen E tot en met J](https://wetten.overheid.nl/jci1.3:c:BWBR0037770&artikel=I&z=2026-11-01&g=2026-11-01), van deze wet in de praktijk.
+
+2. *Dit lid is nog niet in werking getreden.*
 
 ##### Artikel IV
 
@@ -36,4 +36,4 @@ opgehaald: 2026-10-22
 
 ##### Artikel V
 
-*Dit onderdeel is nog niet inwerking getreden*
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.

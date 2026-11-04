@@ -9,7 +9,7 @@ laatste_update: 2025-04-01
 status: geldig
 toestand: 2025-04-01
 bron: "https://wetten.overheid.nl/BWBR0049269"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 27 december 2023, nr.MinBuZa.2023.20266-27, houdende beperkende maatregelen ten aanzien van Niger (Sanctieregeling Niger 2023)

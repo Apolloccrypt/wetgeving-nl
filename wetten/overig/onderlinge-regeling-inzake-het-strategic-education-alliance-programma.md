@@ -8,7 +8,7 @@ laatste_update: 2023-11-07
 status: geldig
 toestand: 2023-11-07
 bron: "https://wetten.overheid.nl/BWBR0048989"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Onderlinge regeling inzake het Strategic Education Alliance-programma

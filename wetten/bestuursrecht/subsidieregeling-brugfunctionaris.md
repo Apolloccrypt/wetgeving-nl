@@ -9,7 +9,7 @@ laatste_update: 2024-05-07
 status: geldig
 toestand: 2024-05-07
 bron: "https://wetten.overheid.nl/BWBR0049052"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs, van 22 november 2023, nr. KO/ 42384046, houdende regels voor het verstrekken van subsidie voor het inzetten van een brugfunctie (Subsidieregeling brugfunctionaris)

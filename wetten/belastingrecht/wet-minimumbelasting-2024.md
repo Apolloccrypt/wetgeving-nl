@@ -9,7 +9,7 @@ laatste_update: 2026-04-11
 status: geldig
 toestand: 2026-04-11
 bron: "https://wetten.overheid.nl/BWBR0049111"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Wet van 20 december 2023 tot invoering van een minimumbelasting en wijziging van de Algemene wet inzake rijksbelastingen en de Invorderingswet 1990 in verband met de implementatie van Richtlijn (EU) 2022/2523 van de Raad van 14 december 2022 tot waarborging van een mondiaal minimumniveau van belastingheffing voor groepen van multinationale ondernemingen en omvangrijke binnenlandse groepen in de Unie (PbEU 2022, L 328/1) (Wet minimumbelasting 2024)

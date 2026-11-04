@@ -9,7 +9,7 @@ laatste_update: 2025-12-24
 status: geldig
 toestand: 2025-12-24
 bron: "https://wetten.overheid.nl/BWBR0049295"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 17 januari 2024 nr. BOACAT2023/089, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Dienst Vervoer & Ondersteuning

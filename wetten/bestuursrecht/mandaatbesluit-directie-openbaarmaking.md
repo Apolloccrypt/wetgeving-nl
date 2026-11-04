@@ -9,7 +9,7 @@ laatste_update: 2024-04-11
 status: geldig
 toestand: 2024-04-11
 bron: "https://wetten.overheid.nl/BWBR0049547"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de directeur van de directie Openbaarmaking van het Ministerie van Justitie en Veiligheid van 25 maart 2024, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan het hoofd van de afdeling Passieve openbaarmaking van de directie Openbaarmaking voor het in behandeling nemen en besluiten op verzoeken op grond van de Wet open overheid (Mandaatbesluit directie Openbaarmaking)

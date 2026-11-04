@@ -8,7 +8,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0049565"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-04
 ---
 
 # Besluit bevorderen samenwerking en rechtmatige zorg

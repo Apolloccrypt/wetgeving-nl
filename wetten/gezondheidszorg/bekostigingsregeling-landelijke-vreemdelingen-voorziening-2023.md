@@ -9,7 +9,7 @@ laatste_update: 2023-11-28
 status: geldig
 toestand: 2023-11-28
 bron: "https://wetten.overheid.nl/BWBR0048950"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Staatssecretaris van Justitie en Veiligheid van 16 november 2023, nr. 5013572, houdende een eenmalige specifieke uitkering voor de gemeenten met een Landelijke Vreemdelingen Voorziening in verband met de bekostiging ervan in 2023

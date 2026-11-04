@@ -9,7 +9,7 @@ laatste_update: 2025-03-01
 status: geldig
 toestand: 2025-03-01
 bron: "https://wetten.overheid.nl/BWBR0049053"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 9 december 2023 (kenmerk 4868672/23/DP&O), houdende verlening van mandaat, volmacht en machtiging aan de voorzitter van de Autoriteit online Terroristisch en Kinderpornografisch Materiaal ten aanzien van de aangelegenheden die het beheer van het bureau van de Autoriteit online Terroristisch en Kinderpornografisch materiaal betreffen (Mandaatregeling beheer bureau ATKM)

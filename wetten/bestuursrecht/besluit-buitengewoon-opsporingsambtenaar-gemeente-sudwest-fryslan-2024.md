@@ -9,7 +9,7 @@ laatste_update: 2026-04-02
 status: geldig
 toestand: 2026-04-02
 bron: "https://wetten.overheid.nl/BWBR0049541"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 2 april 2024 nr. BOACAT2024/015, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Súdwest-Fryslân

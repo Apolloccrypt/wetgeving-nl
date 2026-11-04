@@ -9,7 +9,7 @@ laatste_update: 2023-12-20
 status: geldig
 toestand: 2023-12-20
 bron: "https://wetten.overheid.nl/BWBR0048921"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 15 november 2023 nr. BOACAT2023/081, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij het Servicecentrum MER in domein I

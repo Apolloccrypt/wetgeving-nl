@@ -9,7 +9,7 @@ laatste_update: 2024-02-16
 status: geldig
 toestand: 2024-02-16
 bron: "https://wetten.overheid.nl/BWBR0049373"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat van 11 februari 2024, nr. WJZ/ 44685037, houdende uitwerking van de voorwaarden voor schorsing en ontslag van leden van de Autoriteit Consument en Markt (Regeling uitwerking voorwaarden schorsing en ontslag leden ACM)

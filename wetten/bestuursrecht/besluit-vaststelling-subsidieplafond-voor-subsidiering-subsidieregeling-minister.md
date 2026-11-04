@@ -9,7 +9,7 @@ laatste_update: 2024-11-08
 status: geldig
 toestand: 2024-11-08
 bron: "https://wetten.overheid.nl/BWBR0049073"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 28 november 2023, nr. MinBuZa.2023. 20203-7, tot vaststelling van een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Derde openstelling Subsidieprogramma Support International Business 2022-2026)

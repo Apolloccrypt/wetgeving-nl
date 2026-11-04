@@ -9,7 +9,7 @@ laatste_update: 2026-01-10
 status: geldig
 toestand: 2026-01-10
 bron: "https://wetten.overheid.nl/BWBR0049455"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 29 februari 2024, nr. WJZ/ 34550459, houdende regels voor de oplegging van bestuurlijke boeten krachtens de Visserijwet 1963 (Regeling bestuurlijke boete Visserijwet 1963)

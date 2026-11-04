@@ -9,7 +9,7 @@ laatste_update: 2025-01-23
 status: geldig
 toestand: 2025-01-23
 bron: "https://wetten.overheid.nl/BWBR0049095"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 17 december 2023, nr. WJZ/ 41128257, tot vergoeding van kosten van maatregelen voor aardbevingsbestendige industrie in Groningen 2023 (Beleidsregel vergoeding kosten aardbevingsbestendige industrie Groningen 2023)

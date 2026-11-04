@@ -5,11 +5,11 @@ identifier: "BWBR0014330"
 categorie: "Verkeer"
 soort: "AMvB"
 publicatiedatum: 2010-02-22
-laatste_update: 2025-11-01
+laatste_update: 2026-11-01
 status: geldig
-toestand: 2025-11-01
+toestand: 2026-11-01
 bron: "https://wetten.overheid.nl/BWBR0014330"
-opgehaald: 2026-10-04
+opgehaald: 2026-11-04
 ---
 
 # Besluit van 26 november 2002 tot vaststelling van een luchthavenverkeerbesluit voor de luchthaven Schiphol (Luchthavenverkeerbesluit Schiphol)
@@ -20,63 +20,110 @@ opgehaald: 2026-10-04
 
 In dit besluit wordt verstaan onder:
 
-- a. *gebruiksjaar*: de periode van een jaar die loopt van 1 november tot en met 31 oktober;
+- *airborne-return:* terugkeren van een vliegtuig naar de luchthaven van vertrek nadat het al is opgestegen;
 
-- b. *vliegtuig*: het begrip zoals dat is bepaald in [artikel 1, onderdeel ak, van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=1), met uitzondering van draagschroefvliegtuigen;
+- *aircraft-on-ground-situatie:* situatie waarbij een vliegtuig door een technisch probleem een vlucht niet kan uitvoeren en aan de grond moet blijven tot het gerepareerd is;
 
-- c. *straalvliegtuig*: een vliegtuig waarbij de voortstuwing direct door ten minste één straalmotor wordt verzorgd;
+- *CTR Schiphol:* op grond van [artikel 5 van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=5) als plaatselijk luchtverkeersleidingsgebied aangewezen gedeelten van het luchtruim rond luchthaven Schiphol;
 
-- d. *vliegtuigbeweging*: de aankomst of het vertrek van een vliegtuig op of van de luchthaven;
+- *eindnadering:* moment waarop het vliegtuig op de verlengde aslijn van de landingsbaan het daalpad van ten minste 3 graden onderschept om te komen tot de voorgenomen landing;
 
-- e. *taxiën*: het begrip zoals dat is bepaald in [artikel 1, onderdeel af, van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=1).
+- *ferryvlucht:* vlucht zonder passagier of vracht;
 
-- f. *vlieghoogte en vliegniveau*: de begrippen zoals deze zijn bepaald in [artikel 1, onderdelen ai en aj, van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=1), met dien verstande dat:
+- *gebruiksjaar:* periode die loopt van 1 november van een jaar tot en met 31 oktober van het volgende jaar;
 
-   - 1° een vlieghoogte die is uitgedrukt in voeten altijd bepaald wordt ten opzichte van het gemiddeld zeeniveau;
+- *general aviation:* vluchten niet zijnde handelsverkeer of maatschappelijk verkeer, met inbegrip van meetvluchten ten behoeve van de controle van de werking van het Instrument Landing System en testvluchten;
 
-   - 2° een vlieghoogte niet van toepassing is in het luchtruim boven de Nederlandse territoriale zee en boven de Noordzee buiten de territoriale zee;
+- *groot onderhoud:* gepland onderhoud of geplande werkzaamheden ten aanzien van een baan ten gevolge waarvan het normale gebruik van de luchthaven ernstig wordt belemmerd in die zin dat een of meer start- of landingsbanen of rijbanen gedurende een aaneengesloten periode van langer dan 72 uur niet of verminderd inzetbaar zijn, met uitzondering van het jaarlijks regulier onderhoud;
 
-- g. *Schiphol TMA en Schiphol CTR*: de begrippen zoals deze zijn bepaald op grond van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=2) en [5 van de Regeling luchtverkeersdienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=5);
+- *handelsverkeer:* vluchten van luchtvaartmaatschappijen die open staan voor individuele boekingen voor passagiers, vracht of post, zijnde
 
-- h. *exploitatiebeperkingen:* met de geluidssituatie samenhangende maatregelen waarbij de toegang van civiele subsonische straalvliegtuigen tot een luchthaven wordt beperkt of teruggebracht en welke onder meer gericht kunnen zijn op de uitdienstneming van marginaal conforme vliegtuigen op de luchthaven;
+   - a. geregelde vluchten, zijnde lijnvluchten of commerciële vluchten uitgevoerd op een vaste route volgens een gepubliceerde dienstregeling; en
 
-- i. *partiële exploitatiebeperkingen*: exploitatiebeperkingen die het gebruik van civiele subsonische straalvliegtuigen in bepaalde tijdsperiodes beperken;
+   - b. niet-geregelde vluchten, zijnde chartervluchten in het passagiers- en vrachtvervoer of andere commerciële vluchten dan bedoeld onder a, met inbegrip van:
 
-- j. *ICAO Bijlage 16*: de op grond van het op 7 december 1944, te Chicago gesloten Verdrag inzake de Burgerluchtvaart (Trb.1973, 109) door de Internationale Burgerluchtvaartorganisatie vastgestelde Annex 16 (Environmental Protection) , boekdeel I, deel II, Hoofdstuk 3, derde uitgave (juli 1993);
+      - 1°. positievluchten als onderdeel van een geplande vluchtuitvoering;
 
-- k. *EPNdB*: de eenheid van effectief waargenomen geluid zoals gedefinieerd in ICAO Bijlage 16;
+      - 2°. recoveryvluchten;
 
-- l. *civiele subsonische vliegtuigen*: civiele subsonische straalvliegtuigen met een gecertificeerde maximum-startmassa van 34.000 kg of meer of met een gecertificeerde maximumcapaciteit voor het betrokken vliegtuigtype van meer dan 19 stoelen, de uitsluitend voor de bemanning bestemde stoelen niet meegerekend;
+      - 3°. vluchten als gevolg van een splitsing van de oorspronkelijke vlucht in twee of meerdere vluchten; en
 
-- m. *marginaal conforme vliegtuigen*: civiele subsonische straalvliegtuigen die voldoen aan de geluidsnormen, zoals vastgesteld in ICAO Bijlage 16, met een cumulatieve marge van niet meer dan 5 EPNdB, waarbij de cumulatieve marge de in EPNdB uitgedrukte waarde is die wordt verkregen door het bij elkaar optellen van de individuele marges, zijnde de verschillen tussen het gecertificeerde geluidsniveau en het maximaal toegestane geluidsniveau, op elk van de drie referentiegeluidsmeetpunten zoals omschreven in ICAO Bijlage 16;
+      - 4°. vluchten die zijn uitgeweken vanwege voorziene openingstijden op de oorspronkelijke luchthaven van bestemming;
 
-- n. *handelsverkeer:* verkeersvluchten van luchtvaartmaatschappijen die open staan voor individuele boekingen voor passagiers, vracht of post, en die betreffen: geregelde vluchten, zijnde lijnvluchten of commerciële vluchten uitgevoerd op een vaste route volgens een gepubliceerde dienstregeling, en niet-geregelde vluchten, zijnde chartervluchten in het passagiers- en vrachtvervoer of commerciële vluchten met een ongeregeld karakter.
+- *handhavingspunt:* punt bedoeld in [artikel 8.17, vijfde lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.17);
+
+- *humanitaire vluchten:* uitsluitend voor humanitaire doeleinden uitgevoerde vluchten die bedoeld zijn om hulpverleningspersoneel en hulpgoederen zoals voedsel, kleding, onderdak, medische en andere goederen tijdens of na een noodsituatie of ramp te vervoeren of om personen uit een plaats waar hun leven of gezondheid door die noodsituatie of ramp wordt bedreigd te evacueren naar een toevluchtsoord in dezelfde staat of een andere staat die bereid is dergelijke personen op te vangen, waarbij de aard van de vlucht wordt vermeld in het vliegplan van de desbetreffende vlucht;
+
+- *jaarlijks regulier onderhoud:* gepland onderhoud of geplande werkzaamheden aan een of meer start- of landingsbanen of rijbanen, bestaande uit:
+
+   - a. maximaal eenmaal per gebruiksjaar per baan;
+
+   - b. gedurende een periode van maximaal zeven dagen, welke periode kan worden onderbroken gedurende een weekend of op een feestdag;
+
+- *landing:* moment waarop een luchtvaartuig contact met de grond maakt;
+
+- *Lden:* geluidsbelasting van luchtvaartuigen uitgedrukt in Lden dB(A);
+
+- *maatschappelijk verkeer:* vluchten uitgevoerd met een staatsluchtvaartuig, met inbegrip van militaire, douane, politie- en kustwachtluchtvaartuigen, alsmede humanitaire vluchten;
+
+- *positievlucht:* vlucht zonder lading van passagiers, vracht of post van een luchthaven om vanaf de volgende luchthaven een vlucht met lading uit te voeren;
+
+- *recoveryvlucht:* vlucht buiten het reguliere operationele schema van een luchtvaartmaatschappij die wordt uitgevoerd om gestrande passagiers van een andere luchthaven op te halen;
+
+- *start:* moment waarop een luchtvaartuig contact met de grond verbreekt;
+
+- *straalvliegtuig:* vliegtuig waarbij de voortstuwing direct door ten minste één straalmotor wordt verzorgd;
+
+- *TMA Schiphol:* de gebieden, aangeduid als Schiphol TMA 1 tot en met Schiphol TMA 8;
+
+- *vlieghoogte:* hoogte van een zich in de lucht bevindend luchtvaartuig uitgedrukt in hoogte boven het aardoppervlak of hoogte boven gemiddeld zeeniveau of vliegniveau;
+
+- *vliegtuig:* gemotoriseerd luchtvaartuig met vaste vleugels, zwaarder dan lucht, dat hoofdzakelijk in de lucht kan worden gehouden door aerodynamische reactiekrachten op zijn vleugels;
+
+- *vliegtuigbeweging:* aankomst of vertrek van een vliegtuig op of van de luchthaven;
+
+- *wet:*
+ [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555);
+
+- *vlucht:* aankomst of vertrek van een luchtvaartuig op of van een luchthaven;
+
+- *zich ontwikkelende geluidsbelasting:* aan het eind van het gebruiksjaar verwachte geluidsbelasting uitgedrukt in Lden of Lnight en in percentage gebruiksruimte in een handhavingspunt, bepaald op een eerder moment dan het einde van het gebruiksjaar en berekend aan de hand van het feitelijke gebruik van de luchthaven in de verstreken periode van het gebruiksjaar, gevoegd bij het verwachte gebruik van de luchthaven in de resterende periode van dat gebruiksjaar gebaseerd op de gebruiksprognose van dat gebruiksjaar.
 
 ### Hoofdstuk 2. De luchtverkeerwegen
 
 ##### Artikel 2.1
 
-De luchtverkeerwegen zijn de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=1&z=2025-11-01&g=2025-11-01) bij dit besluit als zodanig afgebakende delen van het luchtruim.
+De luchtverkeerwegen zijn de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=1&z=2026-11-01&g=2026-11-01) bij dit besluit als zodanig afgebakende delen van het luchtruim.
 
 ### Hoofdstuk 3. De regels
 
 #### § 3.1. Het gebruik van het luchtruim en de beschikbaarheid van de banen
 
+##### Artikel 3.1.0
+
+In deze paragraaf:
+
+- a. wordt een vlieghoogte die is uitgedrukt in voeten altijd bepaald ten opzichte van het zeeniveau;
+
+- b. is een vlieghoogte niet van toepassing in het luchtruim boven de Nederlandse territoriale zee en boven de Noordzee buiten de territoriale zee.
+
 ##### Artikel 3.1.1
 
-1. Bij het vertrek van een straalvliegtuig van de luchthaven draagt de gezagvoerder er zorg voor dat het vliegtuig blijft binnen één van de luchtverkeerwegen die voor het desbetreffende tijdvak, voor een vertrek van de desbetreffende baan, zijn aangewezen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=1&z=2025-11-01&g=2025-11-01) bij dit besluit.
+1. Bij het vertrek van een straalvliegtuig van de luchthaven draagt de gezagvoerder er zorg voor dat het vliegtuig blijft binnen één van de luchtverkeerwegen die voor het desbetreffende tijdvak, voor een vertrek van de desbetreffende baan, zijn aangewezen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=1&z=2026-11-01&g=2026-11-01) bij dit besluit.
 
 2. Bij het vertrek van een straalvliegtuig van de luchthaven en na het verlaten van de Schiphol TMA draagt de gezagvoerder er zorg voor dat de vlieghoogte van het vliegtuig blijft op of boven vliegniveau 60.
 
-3. Het eerste en tweede lid zijn niet van toepassing bij het vertrek van een straalvliegtuig van de luchthaven met als bestemming de luchthaven Lelystad, Valkenburg of Rotterdam.
+3. Het eerste en tweede lid zijn niet van toepassing bij het vertrek van een straalvliegtuig van de luchthaven met als bestemming de luchthaven Lelystad, Eindhoven of Rotterdam.
 
 4. De gezagvoerder kan afwijken van het eerste lid op grond van de gegeven luchtverkeersleiding.
 
+5. Bij het vertrek van een straalvliegtuig van de luchthaven draagt de gezagvoerder er zorg voor dat de vlieghoogte van het vliegtuig vanaf de grens van de Schiphol CTR op of boven 1.500 voet blijft.
+
 ##### Artikel 3.1.2
 
-1. Bij de nadering van een straalvliegtuig van de luchthaven draagt de gezagvoerder er zorg voor dat het vliegtuig blijft binnen één van de luchtverkeerwegen voor zover voor het desbetreffende tijdvak, voor een nadering van de desbetreffende baan luchtverkeerwegen zijn aangewezen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=1&z=2025-11-01&g=2025-11-01) bij dit besluit.
+1. Bij de nadering van een straalvliegtuig van de luchthaven draagt de gezagvoerder er zorg voor dat het vliegtuig blijft binnen één van de luchtverkeerwegen voor zover voor het desbetreffende tijdvak, voor een nadering van de desbetreffende baan luchtverkeerwegen zijn aangewezen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=1&z=2026-11-01&g=2026-11-01) bij dit besluit.
 
-2. Het eerste lid is niet van toepassing bij de nadering van de luchthaven van een straalvliegtuig dat afkomstig is van de luchthaven Lelystad, Valkenburg of Rotterdam.
+2. Het eerste lid is niet van toepassing bij de nadering van de luchthaven van een straalvliegtuig dat afkomstig is van de luchthaven Lelystad, Eindhoven of Rotterdam.
 
 3. Bij de nadering van een straalvliegtuig van de luchthaven buiten de in het eerste lid bedoelde gevallen, draagt de gezagvoerder er zorg voor dat de vlieghoogte van het vliegtuig blijft op of boven de in de navolgende tabel beschreven waarden.
 
@@ -94,7 +141,7 @@ De luchtverkeerwegen zijn de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:
 
 ##### Artikel 3.1.3
 
-1. De LVNL geeft luchtverkeersleiding die ertoe strekt dat het straalvliegtuig blijft binnen een luchtverkeerweg dan wel op of boven een hoogte als bedoeld in de [artikelen 3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=3&paragraaf=3.1&artikel=3.1.1&z=2025-11-01&g=2025-11-01) en [3.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=3&paragraaf=3.1&artikel=3.1.2&z=2025-11-01&g=2025-11-01).
+1. De LVNL geeft luchtverkeersleiding die ertoe strekt dat het straalvliegtuig blijft binnen een luchtverkeerweg dan wel op of boven een hoogte als bedoeld in de [artikelen 3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=3&paragraaf=3.1&artikel=3.1.1&z=2026-11-01&g=2026-11-01) en [3.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=3&paragraaf=3.1&artikel=3.1.2&z=2026-11-01&g=2026-11-01).
 
 2. De LVNL kan indien dit naar haar oordeel noodzakelijk is in verband met een veilige en doelmatige afwikkeling van het luchthavenluchtverkeer, luchtverkeersleiding geven die leidt tot afwijking van het eerste lid.
 
@@ -106,7 +153,7 @@ De luchtverkeerwegen zijn de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:
 | --- | --- | --- | --- | --- |
 | Horizontaal | Vertrek | Vlieghoogte 0 tot 3000 voet | Van 6 tot 23 uur | 3,00% |
 | Vlieghoogte 0 tot vliegniveau 90 | Van 23 tot 6 uur | 0,05% |  |  |
-| Nadering |  | Van 23 tot 6 uur | 0,05% |  |
+| Nadering | Vlieghoogte 0 tot vliegniveau 70 | Van 23 tot 6 uur | 0,05% |  |
 | Verticaal | Vertrek | Van grens Schiphol CTR tot grens Schiphol TMA | Gehele etmaal | 0,05% |
 | Vanaf grens Schiphol TMA | 10,00% |  |  |  |
 | Nadering | Tot grens Schiphol TMA | Van 6 tot 23 uur | 5,00% |  |
@@ -114,7 +161,7 @@ De luchtverkeerwegen zijn de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:
 | Van grens SchipholTMA tot eindnadering | Van 6 tot 23 uur | 15,00% |  |  |
 | Van 23 tot 6 uur | 0,05% |  |  |  |
 
-4. De LVNL kan met het oog op de beperking van de geluidbelasting tussen 22.15 uur en 23.00 uur en tussen 6.00 uur en 6.45 uur luchtverkeersleiding geven die ertoe strekt dat het straalvliegtuig blijft binnen een luchtverkeerweg als bedoeld in [artikel 3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=3&paragraaf=3.1&artikel=3.1.1&z=2025-11-01&g=2025-11-01) die voor het tijdvak van 23.00 uur tot 6.00 uur is aangewezen.
+4. De LVNL kan met het oog op de beperking van de geluidbelasting tussen 22.15 uur en 23.00 uur en tussen 6.00 uur en 6.45 uur luchtverkeersleiding geven die ertoe strekt dat het straalvliegtuig blijft binnen een luchtverkeerweg als bedoeld in [artikel 3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=3&paragraaf=3.1&artikel=3.1.1&z=2026-11-01&g=2026-11-01) die voor het tijdvak van 23.00 uur tot 6.00 uur is aangewezen.
 
 ##### Artikel 3.1.4
 
@@ -122,11 +169,11 @@ De exploitant van de luchthaven draagt zorg voor de beschikbaarstelling van het 
 
 ##### Artikel 3.1.5
 
-1. De gezagvoerder draagt er zorg voor dat het vliegtuig gebruik maakt van het banenstelsel met inachtneming van het vierde tot en met zesde lid.
+1. De gezagvoerder draagt er zorg voor dat het vliegtuig gebruik maakt van het banenstelsel met inachtneming van het vierde tot en met zevende lid.
 
 2. De gezagvoerder kan afwijken van het eerste lid op grond van de gegeven luchtverkeersleiding.
 
-3. De LVNL geeft luchtverkeersleiding die ertoe strekt dat het vliegtuig gebruik maakt van het banenstelsel met inachtneming van het vierde tot en met zesde lid.
+3. De LVNL geeft luchtverkeersleiding die ertoe strekt dat het vliegtuig gebruik maakt van het banenstelsel met inachtneming van het vierde tot en met zevende lid.
 
 4. Het gebruik van het banenstelsel is gebonden aan de beperkingen die zijn beschreven in de navolgende tabel.
 
@@ -144,29 +191,103 @@ De exploitant van de luchthaven draagt zorg voor de beschikbaarstelling van het 
 
 5. Van de beperkingen kan afgeweken worden bij landingen op de Zwanenburgbaan, de Aalsmeerbaan, de Buitenveldertbaan of de Kaagbaan, voor zover geen van de andere banen beschikbaar of bruikbaar is.
 
-6. Van de beperkingen kan afgeweken worden voor zover dit noodzakelijk is in verband met reddingsacties of hulpverlening.
+6. Van de beperking voor starts vanaf baan 36R (Aalsmeerbaan) en landingen op baan 18L (Aalsmeerbaan) kan worden afgeweken voor maximaal 50 starts en landingen per gebruiksjaar van VFR-verkeer als bedoeld in het [Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899) voor zover het betreft luchtvaartuigen conform tabel I-4-1-1 ICAO, Doc 8168, Vol II, naderingssnelheid-categorie APP A en B.
 
-#### § 3.2. Regels ter beperking van de uitstoot van stikstofoxiden en stoffen die geurhinder veroorzaken
+7. Van de beperkingen kan afgeweken worden voor zover dit noodzakelijk is in verband met reddingsacties of hulpverlening.
+
+##### Artikel 3.1.5a
+
+1. Gedurende de periode waarin de Kaagbaan vanwege jaarlijks regulier onderhoud niet of verminderd inzetbaar is, is [artikel 3.1.5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=3&paragraaf=3.1&artikel=3.1.5&z=2026-11-01&g=2026-11-01), niet van toepassing in de periode van 23.00 uur tot 6.00 uur voor:
+
+- a. landingen op baan 22 (Oostbaan richting het zuidwesten) voor zover geen van de andere banen beschikbaar of bruikbaar is;
+
+- b. starts vanaf baan 09 (Buitenveldertbaan richting het oosten);
+
+- c. starts vanaf baan 27 (Buitenveldertbaan richting het westen).
+
+2. Gedurende de periode waarin de Polderbaan vanwege jaarlijks regulier onderhoud niet of verminderd inzetbaar is:
+
+- a. is [artikel 3.1.5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=3&paragraaf=3.1&artikel=3.1.5&z=2026-11-01&g=2026-11-01), niet van toepassing in de periode van 23.00 uur tot 6.00 uur voor starts vanaf baan 36C (Zwanenburgbaan richting het noorden);
+
+- b. zijn de [artikelen 3.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=3&paragraaf=3.1&artikel=3.1.1&z=2026-11-01&g=2026-11-01), [3.1.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=3&paragraaf=3.1&artikel=3.1.3&z=2026-11-01&g=2026-11-01), en de maximale percentages voor afwijkingen in de tabel van [artikel 3.1.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=3&paragraaf=3.1&artikel=3.1.3&z=2026-11-01&g=2026-11-01), niet van toepassing in de periode van 23.00 uur tot 6.00 uur met betrekking tot de luchtverkeerwegen die voor vertrekkend verkeer vanaf baan 36C (Zwanenburgbaan richting het noorden) zijn aangewezen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=1&z=2026-11-01&g=2026-11-01) bij dit besluit.
+
+3. Gedurende de periode waarin de Zwanenburgbaan vanwege jaarlijks regulier onderhoud niet of verminderd inzetbaar is, is [artikel 3.1.5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=3&paragraaf=3.1&artikel=3.1.5&z=2026-11-01&g=2026-11-01), niet van toepassing in de periode van 23.00 uur tot 6.00 uur voor starts vanaf baan 18L (Aalsmeerbaan richting het zuiden).
+
+4. Gedurende de periode waarin de Buitenveldertbaan vanwege jaarlijks regulier onderhoud niet of verminderd inzetbaar is, is [artikel 3.1.5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=3&paragraaf=3.1&artikel=3.1.5&z=2026-11-01&g=2026-11-01), niet van toepassing in de periode van 23.00 uur tot 6.00 uur voor landingen op baan 22 (Oostbaan richting het zuidwesten) voor zover geen van de andere banen beschikbaar of bruikbaar is.
+
+##### Artikel 3.1.5b
+
+1. Uiterlijk 9 maanden voor de aanvang van het gebruiksjaar waarin groot onderhoud plaatsvindt, kan de exploitant van de luchthaven Onze Minister verzoeken tot het opstellen van een regeling op grond van [artikel 8.23, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.23).
+
+2. Aan dit verzoek voegt de exploitant een informatiedocument toe met een overzicht van de gevallen waarin een of meer start- of landingsbanen of rijbanen niet beschikbaar zullen worden gesteld vanwege groot onderhoud voor het komende gebruiksjaar. De exploitant van de luchthaven motiveert in dit informatiedocument ten aanzien van het groot onderhoud:
+
+- a. de noodzaak;
+
+- b. de planning en de periode van het gebruiksjaar dat het onderhoud zal plaatsvinden;
+
+- c. de duur;
+
+- d. de noodzaak van het afwijkend baangebruik;
+
+- e. de verhouding van het afwijkend baangebruik tot de baanpreferentietabellen en de andere regels in dit besluit en of daarvan vrijstellingen nodig zijn;
+
+- f. een inschatting van de gevolgen van het baangebruik, waarbij ten minste de kwalitatieve effecten worden beschreven;
+
+- g. een kwalitatieve inschatting van de hinder voor de omgeving, welke maatregelen door de exploitant genomen worden om de hinder te beperken en welke impact die maatregelen hebben;
+
+- h. de visie van betrokkenen over de onderhoudsplannen, het afwijkend baangebruik en de maatregelen die door de exploitant worden genomen om de hinder te beperken, en de wijze waarop betrokkenen worden geïnformeerd over de uitvoering van het onderhoudswerk.
+
+3. Onze Minister kan de exploitant met betrekking tot het informatiedocument aanvullende informatie vragen met het oog op een voor te bereiden regeling op grond van [artikel 8.23, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.23).
+
+4. Onze Minister deelt op basis van de op grond van het tweede en derde lid verstrekte informatie, de exploitant zijn voorlopige voornemen mede met betrekking tot het wel, niet of deels verlenen van de gevraagde vrijstellingen en onder welke voorwaarden.
+
+5. Uiterlijk een maand na het publiceren door de exploitant van de gebruiksprognose, bedoeld in [artikel 8.17a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.17a), over het gebruiksjaar waarin groot onderhoud plaatsvindt, verstrekt de exploitant Onze Minister een aangevuld informatiedocument. De exploitant motiveert in dit informatiedocument:
+
+- a. de geactualiseerde informatie bedoeld in het tweede lid, onder a tot en met h;
+
+- b. de gevolgen van het baangebruik in de vorm van gebruikspercentages en de omvang van de toename van het aantal ernstig gehinderden en slaapverstoorden vanwege de onderhoudswerkzaamheden;
+
+- c. het effect op de grenswaarden in de handhavingspunten en de regels in dit besluit, of vervangende grenswaarden in de handhavingspunten respectievelijk vrijstelling van een of meer regels nodig zijn en welk vrijstellingen dat zijn;
+
+- d. een reactie op het voorlopige voornemen bedoeld in het vierde lid.
+
+6. In afwijking van het eerste lid kan de exploitant van de luchthaven in het eerste en tweede gebruiksjaar na inwerkingtreding van dit besluit Onze Minister uiterlijk in april verzoeken tot het opstellen van een regeling op grond van [artikel 8.23, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.23).
+
+##### Artikel 3.1.6
+
+1. Het luchthavenluchtverkeer wordt afgehandeld met toepassing van de regels voor het preferentieel baangebruik door handelsverkeer, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=4&z=2026-11-01&g=2026-11-01) bij dit besluit.
+
+2. Van het eerste lid kan worden afgeweken indien gedurende het gebruiksjaar de zich ontwikkelende geluidsbelasting hoger is dan de grenswaarden voor geluidsbelasting bedoeld in de [artikelen 4.2.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4&paragraaf=4.2&artikel=4.2.1&z=2026-11-01&g=2026-11-01), en [4.2.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4&paragraaf=4.2&artikel=4.2.2&z=2026-11-01&g=2026-11-01).
+
+3. In afwijking van het eerste lid wordt in het geval dat een baan niet beschikbaar is gesteld vanwege groot onderhoud aan een baan of een bijzonder voorval als bedoeld in [artikel 8.23, eerste respectievelijk vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.23), in de in artikel 8.23, eerste respectievelijk vijfde lid, van de wet bedoelde ministeriële regeling bepaald welke baanpreferentietabellen tijdens de periode van en volgend op het groot onderhoud of het bijzonder voorval worden gehanteerd in afwijking van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=4&z=2026-11-01&g=2026-11-01), regel 1, punten 2 en 3, bij dit besluit.
+
+#### § 3.2. Regels ter beperking van de uitstoot van stoffen die lokale luchtverontreiniging of geurhinder veroorzaken
 
 ##### Artikel 3.2.1
 
-1. Na de landing van een driemotorig of een viermotorig straalvliegtuig op de luchthaven draagt de gezagvoerder er zorg voor dat het vliegtuig met één uitgeschakelde motor van de landingsbaan naar de afhandelingsplaats taxiet.
+1. Voor de start en na de landing van een vliegtuig op de luchthaven draagt de gezagvoerder er zorg voor dat het vliegtuig met het minimaal noodzakelijke aantal motoren naar de startbaan taxiet voor vertrek of naar de afhandelingsplaats taxiet voor aankomst.
 
 2. De gezagvoerder kan afwijken van het eerste lid indien naleving van dat lid naar het oordeel van de gezagvoerder onveilig is of aan de normale operatie van het vliegtuig in de weg staat.
 
 ##### Artikel 3.2.2
 
-1. De exploitant van de luchthaven draagt er zorg voor dat, met ingang van de in onderdeel a tot en met d bedoelde data, het daarbij bepaalde aantal afhandelingsplaatsen op de pieren, bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=4&z=2025-11-01&g=2025-11-01) bij dit besluit, is voorzien van een vaste stroomaansluiting en van een voorziening voor preconditioned air, beide van voldoende kwaliteit, ter vervanging van de in het vliegtuig aanwezige Auxiliary Power Unit:
+1. De exploitant van de luchthaven draagt er zorg voor dat de elektriciteitsvoorziening voor stilstaande vliegtuigen die worden ingezet ten behoeve van handelsverkeer op de afhandelingsplaatsen aanwezig, van voldoende kwaliteit en operationeel is.
 
-- a. 1 januari 2011 in totaal tenminste 15;
+2. De exploitant van de luchthaven draagt er zorg voor dat de volgende afhandelingsplaatsen, voor zover aangegeven uiterlijk op de daarbij genoemde datum, beschikken over een operationele infrastructuur en voorzieningen van voldoende kwaliteit voor de toevoer van geconditioneerde lucht aan stilstaande vliegtuigen die worden ingezet ten behoeve van handelsverkeer:
 
-- b. 1 januari 2012 in totaal tenminste 30;
+- a. de afhandelingsplaatsen aan de gate;
 
-- c. 1 januari 2013 in totaal tenminste 45;
+- b. de afhandelingsplaatsen op de C-pier, uiterlijk op 1 januari 2031; en
 
-- d. 1 januari 2014 in totaal tenminste 61.
+- c. de afhandelingsplaatsen op de H-pier;
 
-2. Bij de afhandeling van een vliegtuig aan de afhandelingsplaats draagt de gezagvoerder er zorg voor dat, voor de stroomvoorziening en airconditioning, geen gebruik gemaakt wordt van de in het vliegtuig aanwezige Auxiliary Power Unit of van een Ground Power Unit voor zover vervangende voorzieningen beschikbaar zijn.
+- d. de buitenstandplaatsen, met uitzondering van de standplaatsen die enkel worden gebruikt voor verkeersvluchten van luchtvaartmaatschappijen die open staan voor post of vracht, uiterlijk op 1 januari 2031, of als dat vanwege constructieve belemmeringen technisch niet haalbaar is uiterlijk op 1 januari 2040.
+
+3. De exploitant van de luchthaven draagt er zorg voor dat de elektriciteit voor de elektriciteitsvoorziening en voor de toevoer van geconditioneerde lucht uiterlijk 1 januari 2030 afkomstig is van het elektriciteitsnet of ter plaatse wordt opgewekt zonder dat daarbij gebruik wordt gemaakt van fossiele brandstoffen.
+
+4. Bij de afhandeling van een vliegtuig aan de afhandelingsplaats draagt de gezagvoerder er zorg voor dat er geen gebruik gemaakt wordt van de in het vliegtuig aanwezige Auxiliary Power Unit, voor zover de infrastructuur en voorzieningen voor de elektriciteitsvoorziening en de toevoer van geconditioneerde lucht beschikbaar en operationeel zijn.
+
+5. De gezagvoerder kan afwijken van het vierde lid indien naleving van dat lid om technische redenen of veiligheidsredenen geen doorgang kan vinden.
 
 ### Hoofdstuk 4. De grenswaarden
 
@@ -176,15 +297,11 @@ De exploitant van de luchthaven draagt zorg voor de beschikbaarstelling van het 
 
 1. Het totale risicogewicht van het luchthavenluchtverkeer bedraagt per gebruiksjaar niet meer dan 9,724 ton.
 
-2. Het totale risicogewicht is het product van:
-
-- a. de gemiddelde ongevalskans per vliegtuigbeweging per gebruiksjaar en
-
-- b. het gesommeerde maximum startgewicht van de vliegtuigbewegingen in het gebruiksjaar.
+2. Het totale risicogewicht van het luchthavenluchtverkeer wordt berekend overeenkomstig de bij ministeriële regeling op grond van [artikel 8.27, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.27) te stellen regels.
 
 ##### Artikel 4.1.2
 
-De gemiddelde ongevalskans per vliegtuigbeweging per gebruiksjaar en het maximum startgewicht per vliegtuigbeweging worden bepaald overeenkomstig het rapport van het Nationaal Lucht- en Ruimtevaartlaboratorium NLR-CR-2001-399.
+De gemiddelde ongevalskans per vlucht per gebruiksjaar en het maximum startgewicht per vlucht worden bepaald overeenkomstig de bij ministeriële regeling op grond van [artikel 8.27, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.27) te stellen regels.
 
 #### § 4.2. Grenswaarden voor de geluidbelasting
 
@@ -192,194 +309,153 @@ De gemiddelde ongevalskans per vliegtuigbeweging per gebruiksjaar en het maximum
 
 1. De Lden wordt gebruikt als indicator voor de geluidbelasting gedurende het gehele etmaal ten gevolge van het luchthavenluchtverkeer. De geluidbelasting wordt berekend over een gebruiksjaar.
 
-2. Het totale volume van de geluidbelasting bedraagt niet meer dan 63,46 dB(A).
+2. Het totale volume geluid van het luchthavenluchtverkeer, met uitzondering van het maatschappelijk verkeer, bedraagt niet meer dan 60,59 dB(A).
 
-3. De geluidbelasting in een punt dat is aangewezen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=2&z=2025-11-01&g=2025-11-01) bij dit besluit bedraagt niet meer dan de bij dat punt aangegeven waarde.
+3. De geluidsbelasting van het luchthavenluchtverkeer, met uitzondering van het maatschappelijk verkeer, in een punt dat is aangewezen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=2&z=2026-11-01&g=2026-11-01) bij dit besluit bedraagt niet meer dan de bij dat punt aangegeven waarde.
 
-4. Indien in een gebruiksjaar de geluidbelasting in een punt meer bedraagt dan de in het derde lid bedoelde waarde, wordt een nieuwe waarde berekend op basis van de meteorologische omstandigheden zoals die zich in het gebruiksjaar hebben voorgedaan. In dat geval treedt voor dat gebruiksjaar voor de in het derde lid bedoelde waarde in de plaats de laagste van de volgende waarden:
+4. Indien gedurende een gebruiksjaar de zich ontwikkelende geluidsbelasting in een of meerdere handhavingspunten hoger is dan de in het derde lid bedoelde grenswaarde, stelt de exploitant in samenspraak met LVNL en de luchtvaartmaatschappijen die van de luchthaven gebruik maken binnen vier weken na het einde van de maand waarin deze zich ontwikkelende geluidsbelasting door de exploitant is vastgesteld, een beheersplan op met maatregelen waarmee overschrijding van de grenswaarde aan het einde van het gebruiksjaar wordt voorkomen. In het beheersplan wordt tevens aangegeven of en op welke wijze toepassing is of zal worden gegeven aan [artikel 3.1.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=3&paragraaf=3.1&artikel=3.1.6&z=2026-11-01&g=2026-11-01).
 
-- a. de berekende nieuwe waarde;
+5. De exploitant, LVNL en de luchtvaartmaatschappijen voeren de maatregelen in het beheersplan uit.
 
-- b. de waarde die bij het punt in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=2&z=2025-11-01&g=2025-11-01) bij dit besluit tussen haken is vermeld.
+6. De inspecteur-generaal kan aanvullende eisen stellen aan de inhoud van het beheersplan.
+
+7. De inspecteur-generaal publiceert het beheersplan bij het verslag bedoeld in [artikel 8.29, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.29), en gaat in dat verslag in op de uitvoering van het beheersplan.
 
 ##### Artikel 4.2.2
 
 1. De Lnight wordt gebruikt als indicator voor de geluidbelasting gedurende de periode van 23 uur tot 7 uur ten gevolge van het luchthavenluchtverkeer. De geluidbelasting wordt berekend over een gebruiksjaar.
 
-2. Het totale volume van de geluidbelasting bedraagt niet meer dan 54,44 dB(A).
+2. Het totale volume geluid van het luchthavenluchtverkeer, met uitzondering van het maatschappelijk verkeer, bedraagt niet meer dan 50,23 dB(A).
 
-3. De geluidbelasting in een punt dat is aangewezen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=3&z=2025-11-01&g=2025-11-01) bij dit besluit bedraagt niet meer dan de bij dat punt aangegeven waarde.
+3. De geluidsbelasting van het luchthavenluchtverkeer, met uitzondering van het maatschappelijk verkeer, in een punt dat is aangewezen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=3&z=2026-11-01&g=2026-11-01) bij dit besluit bedraagt niet meer dan de bij dat punt aangegeven waarde.
 
-4. Indien in een gebruiksjaar de geluidbelasting in een punt meer bedraagt dan de in het derde lid bedoelde waarde, wordt een nieuwe waarde berekend op basis van de meteorologische omstandigheden zoals die zich in het gebruiksjaar hebben voorgedaan. In dat geval treedt voor dat gebruiksjaar voor de in het derde lid bedoelde waarde in de plaats de laagste van de volgende waarden:
+4. Indien gedurende een gebruiksjaar de zich ontwikkelende geluidsbelasting hoger is dan de in het derde lid bedoelde grenswaarde, stelt de exploitant in samenspraak met LVNL en de luchtvaartmaatschappijen die van de luchthaven gebruik maken binnen vier weken na het einde van de maand waarin deze zich ontwikkelende geluidsbelasting door de exploitant is vastgesteld een beheersplan op met maatregelen waarmee overschrijding van de grenswaarde aan het einde van het gebruiksjaar wordt voorkomen. In het beheersplan wordt tevens aangegeven of en op welke wijze toepassing is of zal worden gegeven aan [artikel 3.1.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=3&paragraaf=3.1&artikel=3.1.6&z=2026-11-01&g=2026-11-01).
 
-- a. de berekende nieuwe waarde;
+5. De exploitant, LVNL en de luchtvaartmaatschappijen voeren de maatregelen in het beheersplan uit.
 
-- b. de waarde die bij het punt in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=3&z=2025-11-01&g=2025-11-01) bij dit besluit tussen haken is vermeld.
+6. De inspecteur-generaal kan aanvullende eisen stellen aan de inhoud van het beheersplan.
+
+7. De inspecteur-generaal publiceert het beheersplan bij het verslag, bedoeld in [artikel 8.29, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.29) en gaat in dat verslag in op de uitvoering van het beheersplan.
 
 ##### Artikel 4.2.3
 
-1. De geluidbelasting uitgedrukt in Lden of Lnight, wordt bepaald overeenkomstig de definitie van deze begrippen in bijlage I van Richtlijn nr. 2002/49/EG van het Europees Parlement en de Raad van 25 juni 2002 inzake de evaluatie en de beheersing van omgevingslawaai (Pb L 189 van 18 juli 2002).
-
-2. De in de [artikelen 4.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4&paragraaf=4.2&artikel=4.2.1&z=2025-11-01&g=2025-11-01) en [4.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4&paragraaf=4.2&artikel=4.2.2&z=2025-11-01&g=2025-11-01) bedoelde geluidbelastingen worden bepaald overeenkomstig het rapport van het Nationaal Lucht- en Ruimtevaartlaboratorium NLR-CR-2001-372.
-
-3. De in de [artikelen 4.2.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4&paragraaf=4.2&artikel=4.2.1&z=2025-11-01&g=2025-11-01), en [4.2.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4&paragraaf=4.2&artikel=4.2.2&z=2025-11-01&g=2025-11-01), bedoelde nieuwe waarden worden berekend overeenkomstig de rapporten van het Nationaal Lucht- en Ruimtevaartlaboratorium NLR-CR-2003-539 en aanvulling NLR-CR-065, met dien verstande dat een herberekening plaatsvindt overeenkomstig hoofdstuk 9 van het rapport, bedoeld in het tweede lid.
+De geluidsbelasting uitgedrukt in Lden of Lnight, wordt bepaald overeenkomstig de bij ministeriële regeling op grond van [artikel 8.27, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.27) te stellen regels.
 
 ##### Artikel 4.2.3a
 
 Op de luchthaven Schiphol vinden per gebruiksjaar maximaal 478.000 vliegtuigbewegingen met handelsverkeer plaats. Van dit aantal vinden maximaal 27.000 vliegtuigbewegingen plaats in de periode van 23.00 uur tot 7.00 uur.
 
+##### Artikel 4.2.3b
+
+In afwijking van de [artikelen 4.2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4&paragraaf=4.2&artikel=4.2.1&z=2026-11-01&g=2026-11-01), [4.2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4&paragraaf=4.2&artikel=4.2.2&z=2026-11-01&g=2026-11-01), en [4.2.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4&paragraaf=4.2&artikel=4.2.3a&z=2026-11-01&g=2026-11-01), bedraagt in de gebruiksjaren vanaf het bij koninklijk besluit voor de inwerkingtreding van dit artikel bepaalde tijdstip het totale volume geluid niet meer dan het totale volume dat in de volgende tabel voor die gebruiksjaren is aangegeven en vindt in die gebruiksjaren maximaal het in die tabel aangegeven aantal vliegtuigbewegingen met handelsverkeer plaats.
+
+| Stap nr. | Gebruiksjaar | Totale volume geluid Lden in db(A) (artikel 4.2.1, tweede lid) | Totale volume geluid Lnight in db(A) (artikel 4.2.2, tweede lid) | Maximum aantal vliegtuigbewegingen handelsverkeer (artikel 4.2.3a) |
+| --- | --- | --- | --- | --- |
+| 1. | eerste | 60,22 | 50,23 | 481.000 |
+| 2. | tweede | 60,15 | 50,23 | 491.100 |
+| 3. | derde en daaropvolgende gebruiksjaren | 60,10 | 50,23 | 500.000 |
+
+##### Artikel 4.2.3c
+
+1. Op de luchthaven Schiphol vinden per gebruiksjaar maximaal 16.624 bewegingen met general aviation plaats.
+
+2. Op de luchthaven Schiphol vinden per gebruiksjaar maximaal 7.000 bewegingen met maatschappelijk verkeer plaats.
+
+3. Het maximum aantal vliegtuigbewegingen genoemd in het eerste lid, is niet van toepassing op de volgende vluchten:
+
+- a. aflevervlucht vanaf de fabrikant;
+
+- b. airborne-return-vlucht of vlucht vertrekkend na een airborne-return;
+
+- c. ferryvlucht;
+
+- d. positievlucht om gestrande passagiers op te halen;
+
+- e. vlucht, omgeleid vanwege onvoorziene weersomstandigheden of onvoorziene beperkingen op de oorspronkelijke luchthaven van bestemming;
+
+- f. vlucht, vertrekkend na een noodlanding gemaakt te hebben;
+
+- g. vlucht vanwege een aircraft-on-ground-situatie;
+
+- h. noodlandingen;
+
+- i. technische tussenlanding voor het bijtanken van brandstof of een wisseling van het boordpersoneel.
+
 #### § 4.3. Grenswaarden voor de uitstoot van stoffen die lokale luchtverontreiniging veroorzaken
 
 ##### Artikel 4.3.1
 
-1. De uitstoot ten gevolge van het luchthavenluchtverkeer bedraagt per gecorrigeerde vliegtuigbeweging per gebruiksjaar niet meer dan de in de navolgende tabel in gram per ton vermelde waarden.
+De uitstoot van een stof ten gevolge van het luchthavenluchtverkeer bedraagt per gebruiksjaar niet meer dan de in de navolgende tabel in gram per ton maximum startgewicht vermelde waarden.
 
-| Stof | Eerste en tweede gebruiksjaar | Vanaf het derde tot en met het zevende gebruiksjaar | Vanaf het achtste gebruiksjaar |
-| --- | --- | --- | --- |
-| CO | 73,1 | 58,1 | 55,0 |
-| NOx | 74,6 | 74,6 | 74,6 |
-| VOS | 15,6 | 9,9 | 8,4 |
-| SO2 | 2,1 | 2,1 | 2,1 |
-| PM10 | 2,5 | 2,5 | 2,5 |
-
-2. Het aantal gecorrigeerde vliegtuigbewegingen is gelijk aan het gesommeerde maximum startgewicht van de vliegtuigbewegingen in het gebruiksjaar.
-
-3. Indien op grond van het eerste lid voor een stof in enig gebruiksjaar een maximum voor de uitstoot als gevolg van alle vliegtuigbewegingen tezamen geldt dat lager is dan de hoeveelheid van die stof die in het voorgaande gebruiksjaar als gevolg van alle vliegtuigbewegingen tezamen mocht worden uitgestoten, treedt deze hoeveelheid in de plaats van dat maximum.
+| Stof | g/ton startgewicht |
+| --- | --- |
+| CO | 56,1 |
+| NOx | 72,6 |
+| VOS | 9,2 |
+| SO2 | 5,7 |
+| PM10 | 0,4 |
 
 ##### Artikel 4.3.2
 
-De uitstoot wordt bepaald overeenkomstig de emissieberekeningsmethodiek zoals beschreven in het rapport van het TNO-MEP – R2003/313. Het maximum startgewicht wordt bepaald overeenkomstig het in [artikel 4.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4&paragraaf=4.1&artikel=4.1.2&z=2025-11-01&g=2025-11-01) genoemde rapport.
+De uitstoot in gram per ton maximum startgewicht wordt bepaald overeenkomstig de bij ministeriële regeling op grond van [artikel 8.27, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.27) te stellen regels.
 
-### Hoofdstuk 4A. Regels en procedures met betrekking tot de invoering van geluidgerelateerde exploitatiebeperkingen
+### Hoofdstuk 4A. Gebruiksprognose en evaluatie
 
 ##### Artikel 4A.1
 
-De exploitant van de luchthaven en de inspecteur-generaal nemen bij het toepassen van exploitatiebeperkingen de voorschriften uit de [artikelen 4A.2 tot en met 4A.7](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4A&artikel=4A.2&z=2025-11-01&g=2025-11-01) in acht.
+De gebruiksprognose, bedoeld in [artikel 8.17a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.17a), bevat in ieder geval:
+
+- a. een beschrijving van het gebruik van de luchthaven, met inbegrip van het baanonderhoud, en hierdoor veroorzaakte milieueffecten in het komende gebruiksjaar;
+
+- b. een prognose van het verkeersaanbod en de verkeersafhandeling voor het komende gebruiksjaar;
+
+- c. een prognose van de lokale geluidseffecten berekend overeenkomstig de [artikelen 4.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4&paragraaf=4.2&artikel=4.2.1&z=2026-11-01&g=2026-11-01) en [4.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4&paragraaf=4.2&artikel=4.2.2&z=2026-11-01&g=2026-11-01) voor het komende gebruiksjaar;
+
+- d. een prognose van het te verwachten totale volume geluid in dB(A) gebaseerd op de prognose van het verkeersaanbod en de verkeersafhandeling voor het komende gebruiksjaar;
+
+- e. een prognose van de lokale geluidseffecten vertaald naar de criteria voor gelijkwaardige bescherming;
+
+- f. een beschrijving van de wijze waarop de partijen bedoeld in [artikel 8.18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.18), gezamenlijk voornemens zijn het verkeer af te handelen op het banenstelsel binnen de grenswaarden en regels opgenomen in dit besluit, waarbij ook wordt ingegaan op de impact van het baanonderhoud hierop;
+
+- g. de verwachte ontwikkeling in het verkeersaanbod en de verkeersafhandeling voor de komende drie jaar;
+
+- h. een beschrijving van de leerpunten uit de evaluatie, bedoeld in [artikel 8.17b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.17b), van het vorige gebruiksjaar en van de maatregelen ter verbetering die uit de evaluatie voortvloeien voor het komende gebruiksjaar.
 
 ##### Artikel 4A.2
 
-1. De exploitatiebeperkingen worden vastgelegd op basis van het geluidsniveau van het vliegtuig zoals vastgesteld volgens de certificeringsprocedure van ICAO Bijlage 16.
+1. De evaluatie, bedoeld in [artikel 8.17b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.17b), bevat in ieder geval:
 
-2. De exploitatiebeperkingen mogen niet restrictiever zijn dan noodzakelijk om de voor de luchthaven vastgestelde grenswaarden voor de geluidbelasting te halen.
+- a. een vergelijking van het gerealiseerde verkeersaanbod en de gerealiseerde verkeersafhandeling met het verkeersaanbod en de verkeersafhandeling in de gebruiksprognose, met inbegrip van het baanonderhoud;
 
-3. Bij het overwegen van exploitatiebeperkingen wordt rekening gehouden met de verwachte kosten en baten van de ter beschikking staande maatregelen en met de specifieke kenmerken van de luchthaven Schiphol.
+- b. een vergelijking van het gerealiseerde totale volume geluid met het totale volume geluid in de gebruiksprognose;
 
-##### Artikel 4A.3
+- c. een vergelijking van de werkelijk opgetreden lokale geluidseffecten met de lokale geluidseffecten in de gebruiksprognose;
 
-1. Bij de besluitvorming over het opleggen van exploitatiebeperkingen wordt rekening gehouden met de in de Bijlage II van richtlijn nr. 2002/30/EG van het Europees Parlement en de Raad van de Europese Unie van 26 maart 2002 betreffende de vaststelling van regels en procedures met betrekking tot de invoering van geluidgerelateerde exploitatiebeperkingen op luchthavens in de Gemeenschap (PbEG L85) gespecificeerde informatie, voor zover dat voor de betrokken exploitatiebeperkingen en de kenmerken van de luchthaven passend en mogelijk is.
+- d. een vergelijking van het gerealiseerde gebruik van de luchthaven met de beschrijving van het gebruik in de gebruiksprognose, met inbegrip van het baanonderhoud;
 
-2. Aan het eerste lid is in elk geval voldaan indien sprake is van een luchthavenproject dat is onderworpen aan een milieueffectbeoordeling als bedoeld in het [Besluit milieueffectrapportage](https://wetten.overheid.nl/jci1.3:c:BWBR0006788), mits daarbij zoveel mogelijk rekening is gehouden met de specifieke informatie, bedoeld in het eerste lid.
+- e. een redelijke verklaring van de oorzaken van de verschillen tussen de realisatie in een gebruiksjaar met de gebruiksprognose voor dat gebruiksjaar;
 
-##### Artikel 4A.4
+- f. een beschrijving van de wijze waarop de partijen bedoeld in [artikel 8.18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.18), gezamenlijk het verkeer hebben afgehandeld op het banenstelsel binnen de grenswaarden en regels opgenomen in dit besluit, waarbij ook wordt ingegaan op het baanonderhoud;
 
-1. Indien na de toepassing van [artikel 4A.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4A&artikel=4A.3&z=2025-11-01&g=2025-11-01), blijkt dat op de uitdienstneming van marginaal conforme vliegtuigen gerichte exploitatiebeperkingen moeten worden ingevoerd, gelden in plaats van de procedure van artikel 9 van Verordening (EEG) nr. 2408/92 van de Raad van 23 juli 1992 betreffende de toegang van communautaire luchtvaartmaatschappijen tot intracommunautaire luchtroutes (PbEG L240), de volgende regels ten aanzien van de luchthaven:
+- g. een aanduiding van mogelijke oorzaken in geval van een overschrijding in het gebruiksjaar van een in de [artikelen 4.2.1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4&paragraaf=4.2&artikel=4.2.1&z=2026-11-01&g=2026-11-01), en [4.2.2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4&paragraaf=4.2&artikel=4.2.2&z=2026-11-01&g=2026-11-01), bedoelde grenswaarde.
 
-- a. gedurende zes maanden na het besluit tot invoering van de exploitatiebeperking worden op de luchthaven geen door marginaal conforme vliegtuigen te verrichten diensten toegestaan, boven die welke in de overeenkomstige periode van het vorige jaar werden verricht;
-
-- b. minimaal zes maanden daarna kan van elke exploitant van luchtvaartuigen worden verlangd dat hij het aantal vliegbewegingen met marginaal conforme vliegtuigen uit zijn vloot vermindert in een jaarlijks tempo van maximaal 20% van het aanvankelijke totale aantal van deze vliegbewegingen.
-
-2. Voor tot de in het eerste lid bedoelde uitdienstneming wordt besloten, wordt eerst de toepassing van partiële exploitatiebeperkingen overwogen.
-
-##### Artikel 4A.5
-
-[Artikel 4A.3](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4A&artikel=4A.3&z=2025-11-01&g=2025-11-01) is niet van toepassing op:
-
-- a. exploitatiebeperkingen waartoe reeds was besloten vóór of op 28 maart 2002;
-
-- b. niet-wezenlijke technische wijzigingen in partiële exploitatiebeperkingen die geen significant kosteneffect hebben voor de luchtvaartondernemingen op de luchthaven en na 28 maart 2002 zijn aangebracht.
-
-##### Artikel 4A.6
-
-[Artikel 4A.4](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4A&artikel=4A.4&z=2025-11-01&g=2025-11-01) is tot en met 27 maart 2012 niet van toepassing op marginaal conforme vliegtuigen die zijn ingeschreven in ontwikkelingslanden mits het vliegtuigen betreft:
-
-- a. waaraan een geluidscertificering is verleend op grond van de normen van ICAO Bijlage 16;
-
-- b. die tussen 1 januari 1996 en 31 december 2001 op de luchthaven vlogen, en
-
-- c. die gedurende de in onderdeel b bedoelde periode voorkwamen in het register van het betrokken ontwikkelingsland en bij voortduring door een in dat land gevestigde natuurlijke of rechtspersoon worden geëxploiteerd.
-
-##### Artikel 4A.7
-
-1. De exploitant van de luchthaven en de inspecteur-generaal leggen een ontwerpmaatregel tot invoering van een exploitatiebeperking gedurende zes weken ter inzage. Voorafgaand aan de terinzagelegging wordt in één of meer dag-, nieuws- of huis-aan-huis-bladen of op een andere geschikte wijze kennis gegeven van de ontwerpmaatregel. Belanghebbenden kunnen gedurende de termijn waarbinnen de ontwerpmaatregel ter inzage ligt naar keuze schriftelijk of mondeling hun zienswijze over deze maatregel naar voren brengen.
-
-2. De exploitant van de luchthaven en de inspecteur-generaal dragen er zorg voor dat alle belanghebbenden openbaar en gemotiveerd in kennis worden gesteld van nieuwe exploitatiebeperkingen:
-
-- a. zes maanden voor de inwerkingtreding van de in [artikel 4A.4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4A&artikel=4A.4&z=2025-11-01&g=2025-11-01), bedoelde maatregelen;
-
-- b. één jaar voor de inwerkingtreding van de in [artikel 4A.4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4A&artikel=4A.4&z=2025-11-01&g=2025-11-01), bedoelde maatregelen;
-
-- c. twee maanden voor de conferentie waarop het dienstrooster voor de desbetreffende periode wordt vastgesteld.
-
-3. De exploitant van de luchthaven stelt de inspecteur-generaal onverwijld in kennis van elke nieuwe exploitatiebeperking.
-
-##### Artikel 4A.8
-
-Onze Minister van Verkeer en Waterstaat kan vrijstelling verlenen voor afzonderlijke operaties met marginaal conforme vliegtuigen die op grond van de bepalingen van dit hoofdstuk niet mogelijk zijn, mits de vrijstelling is beperkt tot:
-
-- a. vliegtuigen waarvan de afzonderlijke operaties dermate uitzonderlijk zijn dat het onredelijk zou zijn een tijdelijke vrijstelling niet te verlenen;
-
-- b. vliegtuigen die niet-commerciële vluchten verrichten met het oog op wijzigings-, reparatie- of onderhoudswerkzaamheden.
-
-##### Artikel 4A.9
-
-De [artikelen 4A.2 tot en met 4A.7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4A&artikel=4A.2&z=2025-11-01&g=2025-11-01), zijn van overeenkomstige toepassing op Onze Minister van Verkeer en Waterstaat, voor zover deze ter uitvoering van [artikel 11.15 Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=11.15) exploitatiebeperkingen toepast.
+2. De evaluatie wordt elk gebruiksjaar uiterlijk vier maanden na de publicatie van het verslag van de inspecteur-generaal bedoeld in [artikel 8.29, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.29), gepubliceerd.
 
 ### Hoofdstuk 5. Overgangsbepaling
 
 ##### Artikel 5.1
 
-Bij de toepassing van [artikel 4.3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4&paragraaf=4.3&artikel=4.3.1&z=2025-11-01&g=2025-11-01), in het eerste gebruiksjaar wordt de in dat lid bedoelde hoeveelheid gevonden door deze te bepalen alsof de in de eerste kolom van de tabel bij het eerste lid van dat artikel genoemde grenswaarden in het jaar voorafgaande aan het eerste gebruiksjaar van toepassing waren.
+*Vervallen*
 
 ##### Artikel 5.2
 
-1. Dit artikel is van toepassing in het geval dat de inwerkingtreding van dit besluit niet samenvalt met het begin van een gebruiksjaar.
-
-2. Als eerste gebruiksjaar geldt het tijdvak vanaf de inwerkingtreding van dit besluit tot 1 november daarop volgend.
-
-3. De grenswaarde voor het externe-veiligheidsrisico in het eerste gebruiksjaar wordt gevonden door:
-
-- a. voor iedere dag in het eerste gebruiksjaar de waarde te nemen die voortvloeit uit de na dit artikel opgenomen tabel;
-
-- b. deze waarden bij elkaar op te tellen;
-
-- c. de in [artikel 4.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4&paragraaf=4.1&artikel=4.1.1&z=2025-11-01&g=2025-11-01) genoemde grenswaarde met deze som te vermenigvuldigen.
-
-4. De grenswaarden voor de geluidbelasting in het eerste gebruiksjaar worden gevonden door:
-
-- a. voor iedere dag in het eerste gebruiksjaar de waarde te nemen die voortvloeit uit de na dit artikel opgenomen tabel;
-
-- b. deze waarden bij elkaar op te tellen;
-
-- c. van deze som de logaritme te nemen en die te vermenigvuldigen met – 10;
-
-- d. de in de [artikelen 4.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4&paragraaf=4.2&artikel=4.2.1&z=2025-11-01&g=2025-11-01) en [4.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4&paragraaf=4.2&artikel=4.2.2&z=2025-11-01&g=2025-11-01) bedoelde grenswaarden te verminderen met dat produkt.
-
-5. Bij de toepassing van [artikel 4.3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4&paragraaf=4.3&artikel=4.3.1&z=2025-11-01&g=2025-11-01), in het eerste gebruiksjaar wordt de in dat lid bedoelde hoeveelheid gevonden door deze te bepalen alsof de in de eerste kolom van de tabel bij het eerste lid van dat artikel genoemde grenswaarden in het jaar voorafgaande aan het eerste gebruiksjaar van toepassing waren en vervolgens:
-
-- a. voor iedere dag in het eerste gebruiksjaar de waarde te nemen die voortvloeit uit de na dit artikel opgenomen tabel;
-
-- b. deze waarden bij elkaar op te tellen;
-
-- c. de bepaalde hoeveelheid met deze som te vermenigvuldigen.
-
-6. Bij de toepassing van [artikel 4.3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4&paragraaf=4.3&artikel=4.3.1&z=2025-11-01&g=2025-11-01), in het tweede gebruiksjaar wordt de in dat lid bedoelde hoeveelheid gevonden door deze te bepalen alsof de in de eerste kolom van de tabel bij het eerste lid van dat artikel genoemde grenswaarden in het jaar voorafgaande aan het tweede gebruiksjaar van toepassing waren.
-
-*Dagwaarden eerste gebruiksjaar*
-
-| Dagen in de maand | jan | feb | mrt | apr | mei | jun | jul | aug | sep | okt | nov | dec |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Waarde (in duizendsten) | Totale risicogewichten L den en uitstoot van stoffen | 2,53 | 2,65 | 2,66 | 2,73 | 2,85 | 2,87 | 2,93 | 2,91 | 2,90 | 2,85 | 2,60 | 2,45 |
-| L night | 1,95 | 2,08 | 2,04 | 2,62 | 3,17 | 3,23 | 3,56 | 3,63 | 3,39 | 3,19 | 2,02 | 2,01 |  |
+*Vervallen*
 
 ### Hoofdstuk 6. Slotbepalingen
 
 ##### Artikel 6.1
 
-1. Uiterlijk drie jaar na de inwerkingtreding van dit besluit wordt door Onze Minister van Verkeer en Waterstaat een milieueffectrapport opgesteld.
-
-2. Het rapport is gericht op een vergelijking van het beschermingsniveau, zoals dat wordt geboden door dit besluit, met het beschermingsniveau zoals dat voor de inwerkingtreding van artikel VI van de wet van 27 juni 2002 houdende wijziging van de Wet luchtvaart inzake de inrichting en het gebruik van de luchthaven Schiphol (Stb. 374) ten aanzien van het vijfbanenstelsel is beschreven in de PKB Schiphol en Omgeving. [Artikel IX van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013815&artikel=IX) wordt hierbij in acht genomen.
-
-3. Voor zover uit het rapport blijkt dat bij de vaststelling van dit besluit het bepaalde in de [artikelen X tot en met XIII van de wet van 27 juni 2002 houdende wijziging van de Wet luchtvaart inzake de inrichting en het gebruik van de luchthaven Schiphol (Stb. 374)](https://wetten.overheid.nl/jci1.3:c:BWBR0013815&artikel=X) niet in acht is genomen, bevordert Onze Minister van Verkeer en Waterstaat in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer dat zulks alsnog geschiedt.
+*Vervallen*
 
 ##### Artikel 6.2
 

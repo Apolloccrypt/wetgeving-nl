@@ -9,7 +9,7 @@ laatste_update: 2024-03-12
 status: geldig
 toestand: 2024-03-12
 bron: "https://wetten.overheid.nl/BWBR0049445"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # ANVS-Beleidsregel inzake het toezicht op transparante, objectieve en niet-discriminerende vaststelling van tarieven voor de opslag en het beheer van radioactieve afvalstoffen en verbruikte splijtstoffen (Beleidsregel toezicht COVRA-tarieven)

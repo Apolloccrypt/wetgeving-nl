@@ -9,7 +9,7 @@ laatste_update: 2023-12-15
 status: geldig
 toestand: 2023-12-15
 bron: "https://wetten.overheid.nl/BWBR0049060"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 4 december 2023 betreffende de digitale vervanging van archiefbescheiden van Justis/COVOG van het Ministerie van Justitie en Veiligheid (Besluit digitale vervanging archiefbescheiden Justis/COVOG Justitie en Veiligheid 2023)

@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-06-30
 toestand: 2024-01-19
 bron: "https://wetten.overheid.nl/BWBR0049277"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister voor Primair en Voortgezet Onderwijs van 22 december 2023 nr. 43333381, houdende instelling van de programmaraad Ontwikkelkracht voor de periode 2023 tot en met 2025 (Instellingsbesluit programmaraad Ontwikkelkracht 2023–2025)

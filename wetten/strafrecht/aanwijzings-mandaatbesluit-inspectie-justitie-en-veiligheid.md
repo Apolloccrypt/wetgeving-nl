@@ -9,7 +9,7 @@ laatste_update: 2024-04-01
 status: geldig
 toestand: 2024-04-01
 bron: "https://wetten.overheid.nl/BWBR0049508"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 23 maart 2024, nr. 5226043, houdende aanwijzing van toezichthoudende ambtenaren bij de Inspectie Justitie en Veiligheid op de naleving van de Wet kwaliteit incassodienstverlening en verlening van mandaat aan de Inspecteur-Generaal van de Inspectie Justitie en Veiligheid voor de handhaving van die wet (Aanwijzings-mandaatbesluit Inspectie Justitie en Veiligheid)

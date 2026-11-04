@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0049559"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 2 april 2024, kenmerk 3793275-1063349-S, houdende regels voor de subsidiëring van gemeentelijke uitgaven aan sport voor de jaren 2024 tot en met 2025 (Regeling specifieke uitkering stimulering sport 2024–2025)

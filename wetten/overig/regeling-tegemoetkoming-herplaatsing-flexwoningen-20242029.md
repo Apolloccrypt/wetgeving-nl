@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0049080"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 7 december 2023, houdende de aanwijzing van de DAEB flexwoningen en regels over het verlenen van subsidie in de vorm van een garantie en het vaststellen van subsidie aan investeerders bij herplaatsing van flexwoningen (Regeling tegemoetkoming herplaatsing flexwoningen 2024–2029)

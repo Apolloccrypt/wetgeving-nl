@@ -9,7 +9,7 @@ laatste_update: 2023-12-20
 status: geldig
 toestand: 2023-12-20
 bron: "https://wetten.overheid.nl/BWBR0049081"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de directeur-generaal Belastingdienst namens de Minister van Sociale Zaken en Werkgelegenheid van 7 november 2023, nr. 2023-23527 houdende ondermandaat, volmacht en machtiging betreffende de uitvoering van de Regeling tijdelijke tegemoetkoming rijnvarenden (Besluit ondermandaat, volmacht en machtiging betreffende de uitvoering van de Regeling tijdelijke tegemoetkoming rijnvarenden)

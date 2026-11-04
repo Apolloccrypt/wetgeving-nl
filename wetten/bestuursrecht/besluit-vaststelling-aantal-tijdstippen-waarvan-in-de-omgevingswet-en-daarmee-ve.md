@@ -9,7 +9,7 @@ laatste_update: 2023-09-01
 status: geldig
 toestand: 2023-09-01
 bron: "https://wetten.overheid.nl/BWBR0049301"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van 10 juli 2023 tot vaststelling van een aantal tijdstippen waarvan in de Omgevingswet en daarmee verband houdende wet- en regelgeving is aangegeven dat deze bij koninklijk besluit worden bepaald en tot vaststelling van het tijdstip van inwerkingtreding van artikel 2.8, onderdeel B, van de Invoeringswet Omgevingswet

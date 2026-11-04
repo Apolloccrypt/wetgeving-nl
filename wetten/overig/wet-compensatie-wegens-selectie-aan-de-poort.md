@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0049128"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Wet van 20 december 2023, houdende regels ten behoeve van de compensatie voor burgers wegens de selectie van de aangifte inkomstenbelasting en premie volksverzekeringen waarvan niet aannemelijk is dat die selectie heeft plaatsgevonden op fiscale gronden (Wet compensatie wegens selectie aan de poort)

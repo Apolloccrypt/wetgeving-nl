@@ -9,7 +9,7 @@ laatste_update: 2024-05-15
 status: geldig
 toestand: 2024-05-15
 bron: "https://wetten.overheid.nl/BWBR0049472"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat van 9 maart 2024, nr. WJZ/ 38214153, tot vaststelling van het besluit mandaat algemeen directeur CJIB ten behoeve van RDI

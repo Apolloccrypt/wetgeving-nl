@@ -9,7 +9,7 @@ laatste_update: 2023-12-14
 status: geldig
 toestand: 2023-12-14
 bron: "https://wetten.overheid.nl/BWBR0049047"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Afwijkend besluit ten aanzien van de diensttijdeis voor deelname aan operatie Forensische opsporing ICC

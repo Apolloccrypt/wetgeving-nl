@@ -5,18 +5,18 @@ identifier: "BWBR0051057"
 categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
 publicatiedatum: 2025-08-01
-laatste_update: 2025-12-10
+laatste_update: 2026-10-27
 status: geldig
-toestand: 2025-12-10
+toestand: 2026-10-27
 bron: "https://wetten.overheid.nl/BWBR0051057"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 20 mei 2025 nr. BOACAT2025/128, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de afdeling Handhaving, veiligheidsdomein, van de gemeente Leeuwarden
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051057&artikel=2&z=2025-12-10&g=2025-12-10).
+In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051057&artikel=2&z=2026-10-27&g=2026-10-27).
 
 ##### Artikel 2
 
@@ -32,13 +32,9 @@ De personen, werkzaam in de functie van
 
 - • Medewerker Handhaving IV – Junior Integraal Handhaver;
 
-- • Stagiair Handhaving
-
 - • Projectleider III – Projectleider Ondermijning
 
 - • Handhaver II – Specialist Ondermijning
-
-in dienst van gemeente Leeuwarden, zijn aangewezen als buitengewoon opsporingsambtenaar.
 
 ##### Artikel 3
 
@@ -64,23 +60,21 @@ Op grond van dit besluit kunnen maximaal 80 personen als buitengewoon opsporings
 
 De buitengewoon opsporingsambtenaar kan de in [artikel 7, lid 1 van de politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7), artikel 7, lid 3 van de politiewet 2012, artikel 7, lid 4 van de politiewet 2012 (vervoersfouillering) omschreven bevoegdheden uitoefenen met gebruikmaking van het vrijheidsbeperkend middel handboeien en het geweldsmiddel korte wapenstok.
 
-De gebruikmaking van het geweldsmiddel korte wapenstok wordt toegekend tot 6 november 2026.
-
 ##### Artikel 7
 
 1. De gemeente Leeuwarden brengt jaarlijks, voor 1 april, verslag uit over:
 
-- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051057&artikel=2&z=2025-12-10&g=2025-12-10) genoemde functie;
+- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051057&artikel=2&z=2026-10-27&g=2026-10-27) genoemde functie;
 
 - b. de door die buitengewoon opsporingsambtenaren verrichte activiteiten;
 
 - c. de stand van zaken met betrekking tot de opleiding van die buitengewoon opsporingsambtenaren, waarbij in ieder geval wordt aangegeven hoeveel personen in het verslagjaar zijn aangemeld voor het door de Minister van Justitie en Veiligheid goedgekeurde examen en hoeveel personen in dat jaar voor dat examen zijn geslaagd.
 
-2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051057&artikel=5&z=2025-12-10&g=2025-12-10) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid, Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
+2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051057&artikel=5&z=2026-10-27&g=2026-10-27) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid, Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
 
 ##### Artikel 8
 
-De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden, afgegeven mede op basis van het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0051057&artikel=9&z=2025-12-10&g=2025-12-10) genoemde besluit, worden geacht mede te zijn afgegeven op basis van dit besluit.
+De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden, afgegeven mede op basis van het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0051057&artikel=9&z=2026-10-27&g=2026-10-27) genoemde besluit, worden geacht mede te zijn afgegeven op basis van dit besluit.
 
 Dit artikel brengt geen wijziging in de resterende looptijd van de afgegeven aktes.
 

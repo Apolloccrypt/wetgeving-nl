@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0049114"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister voor Armoedebeleid, Participatie en Pensioenen van 7 december 2023, nr. 2023-0000579722, houdende de instelling van de regeringscommissaris transitie pensioenen (instellingsbesluit regeringscommissaris transitie pensioenen)

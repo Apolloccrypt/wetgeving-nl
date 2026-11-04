@@ -9,7 +9,7 @@ laatste_update: 2024-04-11
 status: geldig
 toestand: 2024-04-11
 bron: "https://wetten.overheid.nl/BWBR0049555"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 3 april 2024, nr. WJZ/ 45933277, houdende aanwijzing van de Nederlandse Voedsel- en Warenautoriteit als bevoegde autoriteit in de zin van artikel 2c van de Wet bescherming klokkenluiders (Aanwijzingsbesluit NVWA als bevoegde autoriteit in de zin van artikel 2c van de Wet bescherming klokkenluiders)

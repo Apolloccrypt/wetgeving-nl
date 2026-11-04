@@ -9,7 +9,7 @@ laatste_update: 2024-03-27
 status: geldig
 toestand: 2024-03-27
 bron: "https://wetten.overheid.nl/BWBR0049503"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 25 maart 2024, nr. WJZ/ 45934614, houdende vaststelling van definitieve tarieven GLB 2023

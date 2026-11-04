@@ -9,7 +9,7 @@ laatste_update: 2024-01-04
 status: geldig
 toestand: 2024-01-04
 bron: "https://wetten.overheid.nl/BWBR0049191"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Wijzigingsregeling Regeling wapens en munitiekrijgsmachtpersoneel 1997 (2024)

@@ -4,11 +4,11 @@ identifier: "BWBR0012288"
 categorie: "Overig"
 soort: "circulaire"
 publicatiedatum: 2026-06-12
-laatste_update: 2026-10-01
+laatste_update: 2026-10-28
 status: geldig
-toestand: 2026-10-01
+toestand: 2026-10-28
 bron: "https://wetten.overheid.nl/BWBR0012288"
-opgehaald: 2026-10-12
+opgehaald: 2026-11-04
 ---
 
 # Vreemdelingencirculaire 2000 (C)
@@ -861,7 +861,7 @@ De vreemdeling, en indien van toepassing, diens gelijktijdig voor hervestiging g
 
 ### 7.4. Intrekking verblijfsvergunning asiel
 
-De intrekkingsgronden van de artikelen 14 en 19 Kwalificatieverordening zijn ook van toepassing op een vreemdeling die in het kader van hervestiging een verblijfsvergunning asiel voor Nederland heeft ontvangen. Indien de omstandigheid zich voordoet als bedoeld in artikel 11, eerste lid en artikel 16, derde lid van de Kwalificatieverordening trekt de IND de verblijfsvergunning asiel niet in of wijst de aanvraag om verlenging van de verblijfstitel niet af van een hervestigde vreemdeling, als de verleningsgrond is komen te vervallen vanwege een wijziging in de algemene situatie in het land van herkomst of het land waar hij zijn gewone verblijfplaats had.
+De intrekkingsgronden van de artikelen 14 en 19 Kwalificatieverordening zijn ook van toepassing op een vreemdeling die in het kader van hervestiging een verblijfsvergunning asiel voor Nederland heeft ontvangen. Indien de omstandigheid zich voordoet als bedoeld in artikel 11, eerste lid en artikel 16, derde lid van de Kwalificatieverordening trekt de IND de verblijfsvergunning asiel niet in of wijst de aanvraag om verlenging van de verblijfstitel niet af van een hervestigde vreemdeling, als de verleningsgrond is komen te vervallen vanwege een wijziging in de algemene situatie in het land van herkomst of het land waar hij zijn voormalig gewone verblijfplaats had.
 
 ### 7.5. Vrijwillige terugkeer land van herkomst
 
@@ -897,7 +897,7 @@ Binnen het land van herkomst, stelt de IND vast wat de normale woon- en verblijf
 
 Als geen enkel land de vreemdeling als onderdaan erkent, merkt de IND de vreemdeling aan als staatloze vreemdeling (zie ook artikel 3, onder 15, Procedureverordening).
 
-De IND merkt het land of de landen waar de staatloze vreemdeling voor zijn komst naar Nederland zijn gebruikelijke verblijfplaats (‘country of former habitual residence’) had, aan als land of landen van herkomst van de staatloze vreemdeling. De IND bepaalt de gebruikelijke verblijfplaats van de staatloze vreemdeling, in ieder geval op basis van:
+De IND merkt het land of de landen waar de staatloze vreemdeling voor zijn komst naar Nederland zijn voormalig gewone verblijfplaats (‘country of former habitual residence’) had, aan als land of landen van herkomst van de staatloze vreemdeling. De IND bepaalt de voormalig gewone verblijfplaats van de staatloze vreemdeling, in ieder geval op basis van:
 
 - • de aard van het verblijf van de staatloze vreemdeling in het land;
 
@@ -2313,7 +2313,7 @@ Bij de aanwijzing op zowel het niveau van de Unie als nationaal niveau van een d
 
 Het begrip veilig land van herkomst mag worden toegepast indien;
 
-- • de vreemdeling de nationaliteit van dat land heeft of staatloos is en voorheen in dat land zijn of haar gewone verblijfplaats had;
+- • de vreemdeling de nationaliteit van dat land heeft of staatloos is en voorheen in dat land zijn of haar voormalig gewone verblijfplaats had;
 
 - • de vreemdeling niet tot een categorie personen behoort waarvoor een uitzondering is gemaakt bij de aanwijzing van het derde land als veilig land van herkomst;
 
@@ -2989,7 +2989,7 @@ De IND wijst de asielaanvraag op deze grond niet af als kennelijk ongegrond in h
 
 Het gaat in artikel 42, eerste lid, onder j, Procedureverordening om de situatie dat:
 
-- • De vreemdeling de nationaliteit heeft van, of in het geval van een staatloze zijn gewone verblijfplaats had in een derde land waarvoor volgens de meest recente beschikbare jaargemiddelden van Eurostat voor de gehele Unie, de beslissingsautoriteit in 20% of minder van de gevallen internationale bescherming heeft verleend. Dit percentage is een afspiegeling van de gemiddelde aantallen van verleende internationale bescherming van alle lidstaten.
+- • De vreemdeling de nationaliteit heeft van, of in het geval van een staatloze zijn voormalig gewone verblijfplaats had in een derde land waarvoor volgens de meest recente beschikbare jaargemiddelden van Eurostat voor de gehele Unie, de beslissingsautoriteit in 20% of minder van de gevallen internationale bescherming heeft verleend. Dit percentage is een afspiegeling van de gemiddelde aantallen van verleende internationale bescherming van alle lidstaten.
 
 - • De IND werpt dit de vreemdeling niet tegen in het geval de IND oordeelt dat zich sinds de publicatie van de betreffende Eurostat-gegevens in het betrokken derde land een belangrijke wijziging heeft voorgedaan.
 
@@ -4645,7 +4645,7 @@ De IND neemt in ieder geval voor de volgende categorieën aan dat het niet mogel
 
 - • meisjes en vrouwen die vrezen het slachtoffer te worden van seksueel geweld.
 
-Verder neemt de IND aan dat de vreemdeling die, voorafgaande aan het vertrek uit Ethiopië, zijn normale woon- of verblijfplaats buiten Addis Abeba had, geen bescherming van de autoriteiten en/of internationale organisaties kan verkrijgen. Dit is mogelijk alleen anders als uit individuele omstandigheden blijkt dat het voor de vreemdeling wel mogelijk is om de bescherming van de autoriteiten te verkrijgen en de actor van vervolging niet de overheid zelf is.
+Verder neemt de IND aan dat de vreemdeling die, voorafgaande aan het vertrek uit Ethiopië, zijn voormalig gewone verblijfplaats buiten Addis Abeba had, geen bescherming van de autoriteiten en/of internationale organisaties kan verkrijgen. Dit is mogelijk alleen anders als uit individuele omstandigheden blijkt dat het voor de vreemdeling wel mogelijk is om de bescherming van de autoriteiten te verkrijgen en de actor van vervolging niet de overheid zelf is.
 
 ### 14.5.2. Binnenlands beschermingsalternatief in de zin van paragraaf C3/3.4.2 Vc (artikel 8 Kwalificatieverordening)
 
@@ -5187,11 +5187,11 @@ Er geldt een vertrekmoratorium in de zin van [artikel 45, vierde lid, Vw](https:
 
 Terugkeer naar Libanon
 
-De IND neemt voor niet-Libanese Palestijnen, die voorafgaand aan hun komst naar Nederland Libanon als land van gebruikelijke verblijfplaats hadden, aan dat zij bij terugkeer naar Libanon een reëel risico op uitzetting lopen en beoordeelt op basis van de individuele omstandigheden of een dergelijke uitzetting leidt tot (indirect) refoulement.
+De IND neemt voor niet-Libanese Palestijnen, die voorafgaand aan hun komst naar Nederland Libanon als land van voormalig gewone verblijfplaats hadden, aan dat zij bij terugkeer naar Libanon een reëel risico op uitzetting lopen en beoordeelt op basis van de individuele omstandigheden of een dergelijke uitzetting leidt tot (indirect) refoulement.
 
 De IND verleent aan de volgende categorieën een verblijfsvergunning asiel:
 
-- • Niet-Libanese Palestijnen uit Libanon waarvan aannemelijk is dat zij zullen worden uitgezet naar een tweede/eerdere land van gebruikelijke verblijfplaats waarvoor geldt dat zij aldaar een gegronde vrees voor vervolging of ernstige schade hebben.
+- • Niet-Libanese Palestijnen uit Libanon waarvan aannemelijk is dat zij zullen worden uitgezet naar een tweede/eerdere land van voormalig gewone verblijfplaats waarvoor geldt dat zij aldaar een gegronde vrees voor vervolging of ernstige schade hebben.
 
 ### 22. Het asielbeleid ten aanzien van Libië
 

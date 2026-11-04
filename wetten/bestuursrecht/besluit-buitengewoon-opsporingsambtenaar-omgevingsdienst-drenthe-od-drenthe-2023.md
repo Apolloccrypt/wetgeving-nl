@@ -9,7 +9,7 @@ laatste_update: 2025-12-23
 status: geldig
 toestand: 2025-12-23
 bron: "https://wetten.overheid.nl/BWBR0049199"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 21 december 2023 nr. BOACAT2023/087, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Regionale Uitvoeringsdienst Drenthe

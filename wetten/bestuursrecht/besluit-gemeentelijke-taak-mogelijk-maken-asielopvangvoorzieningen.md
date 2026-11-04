@@ -9,7 +9,7 @@ laatste_update: 2024-03-30
 status: geldig
 toestand: 2024-03-30
 bron: "https://wetten.overheid.nl/BWBR0049310"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van 26 januari 2024, houdende regels inzake de uitvoering van de Wet gemeentelijke taak mogelijk maken asielopvangvoorzieningen alsmede vaststelling van het tijdstip van inwerkingtreding van de wet gemeentelijke taak mogelijk maken asielopvangvoorzieningen (Besluit gemeentelijke taak mogelijk maken asielopvangvoorzieningen)

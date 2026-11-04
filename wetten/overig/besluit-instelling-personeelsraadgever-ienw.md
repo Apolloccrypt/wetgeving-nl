@@ -9,7 +9,7 @@ laatste_update: 2024-04-10
 status: geldig
 toestand: 2024-04-10
 bron: "https://wetten.overheid.nl/BWBR0049552"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat van 29 maart 2024, kenmerk, tot instelling van een onafhankelijke Personeelsraadgever IenW (Besluit instelling personeelsraadgever IenW)

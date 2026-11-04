@@ -9,7 +9,7 @@ laatste_update: 2026-01-14
 status: geldig
 toestand: 2026-01-14
 bron: "https://wetten.overheid.nl/BWBR0049519"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Beleidsregel van de Staatssecretaris van Economische Zaken en Klimaat van 27 maart 2024, over daadwerkelijk herstel van schade en het aanbieden van een vaste vergoeding en een aanvullende vaste vergoeding (Beleidsregel schadeafhandeling Tijdelijke wet Groningen)

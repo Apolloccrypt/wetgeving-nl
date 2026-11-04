@@ -9,7 +9,7 @@ laatste_update: 2023-12-02
 status: geldig
 toestand: 2023-12-02
 bron: "https://wetten.overheid.nl/BWBR0048988"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Nationaal Rapporteur Mensenhandel en Seksueel Geweld tegen Kinderen van 23 november 2023, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan de directeur van het bureau van de Nationaal Rapporteur Mensenhandel en Seksueel Geweld tegen Kinderen (Mandaatbesluit directeur bureau Nationaal Rapporteur)

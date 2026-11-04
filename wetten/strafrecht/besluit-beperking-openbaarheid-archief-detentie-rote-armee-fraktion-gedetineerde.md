@@ -9,7 +9,7 @@ laatste_update: 2024-03-26
 status: geldig
 toestand: 2024-03-26
 bron: "https://wetten.overheid.nl/BWBR0049488"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid d.d. 14 maart 2024, kenmerk 5051974, houdende beperking van de openbaarheid op het archiefbestand van het Ministerie van Justitie betreffende de detentie van de Rote Armee Fraktion gedetineerden, (1975) 1977–1978 (1979)

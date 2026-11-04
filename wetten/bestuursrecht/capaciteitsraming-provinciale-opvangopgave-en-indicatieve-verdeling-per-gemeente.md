@@ -8,7 +8,7 @@ laatste_update: 2024-01-31
 status: geldig
 toestand: 2024-01-31
 bron: "https://wetten.overheid.nl/BWBR0049312"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Capaciteitsraming, provinciale opvangopgave en indicatieve verdeling per gemeente 2024

@@ -9,7 +9,7 @@ laatste_update: 2025-04-25
 status: geldig
 toestand: 2025-04-25
 bron: "https://wetten.overheid.nl/BWBR0049554"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 4 april 2024, nr. OVO/44668746, houdende regels voor de subsidieverstrekking aan scholen voor het verbeteren van de basisvaardigheden met bewezen effectieve interventies (Subsidieregeling verbetering basisvaardigheden voor scholen 2024)

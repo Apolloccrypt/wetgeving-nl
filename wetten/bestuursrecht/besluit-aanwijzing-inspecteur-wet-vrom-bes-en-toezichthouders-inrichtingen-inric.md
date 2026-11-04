@@ -9,7 +9,7 @@ laatste_update: 2024-04-01
 status: geldig
 toestand: 2024-04-01
 bron: "https://wetten.overheid.nl/BWBR0049282"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Waterstaat, van 19 december 2023, nr. IENW/BSK-2023/363295, houdende aanwijzing van de inspecteur Wet volkshuisvesting, ruimtelijke ordening en milieubeheer BES en van toezichthouders inrichtingen Inrichtingen- en activiteitenbesluit BES en intrekking van het Besluit aanwijzing toezichthouders grote inrichtingen milieubeheer BES (Besluit aanwijzing inspecteur Wet Vrom BES en toezichthouders inrichtingen Inrichtingen- en activiteitenbesluit BES)

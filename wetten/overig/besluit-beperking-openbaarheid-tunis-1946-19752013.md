@@ -9,7 +9,7 @@ laatste_update: 2024-03-09
 status: geldig
 toestand: 2024-03-09
 bron: "https://wetten.overheid.nl/BWBR0049446"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 22 februari 2024, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordiging in Tunesië, Ambassade Tunis (1946) 1975–2013, Besluit Beperking Openbaarheid, Tunis (1946) 1975–2013

@@ -9,7 +9,7 @@ laatste_update: 2024-02-24
 status: geldig
 toestand: 2024-02-24
 bron: "https://wetten.overheid.nl/BWBR0049396"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 15 februari 2024, houdende regels voor de toekenning van een specifieke uitkering aan gemeenten en provincies ten behoeve van innovatie in de digitale dienstverlening (Regeling specifieke uitkering verbetering digitale dienstverlening)

@@ -9,7 +9,7 @@ laatste_update: 2026-06-06
 status: geldig
 toestand: 2026-06-06
 bron: "https://wetten.overheid.nl/BWBR0049325"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 18 januari 2024 nr. 43197358, houdende de vaststelling van een nieuwe Regeling onderwijskansen voortgezet onderwijs ter vervanging van de Regeling leerplusarrangement vo (Regeling onderwijskansen voortgezet onderwijs)

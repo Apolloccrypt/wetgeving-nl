@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0049004"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 20 november 2023, kenmerk 3720554-1056460-PG, houdende vaststelling modelformulieren bedoeld in het Besluit afbreking zwangerschap

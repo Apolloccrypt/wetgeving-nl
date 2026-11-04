@@ -9,7 +9,7 @@ laatste_update: 2024-03-16
 status: geldig
 toestand: 2024-03-16
 bron: "https://wetten.overheid.nl/BWBR0049464"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid d.d. 7 maart 2024, kenmerk 2979693, houdende beperking van de openbaarheid van de aanvulling op het archief van de Hoofdafdeling Privaatrecht, huwelijksdispensaties 1950–1999

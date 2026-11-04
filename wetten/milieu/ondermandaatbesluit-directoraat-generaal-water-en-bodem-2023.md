@@ -9,7 +9,7 @@ laatste_update: 2024-01-20
 status: geldig
 toestand: 2024-01-20
 bron: "https://wetten.overheid.nl/BWBR0049279"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de directeur-generaal Water en Bodem, van 13 november 2023, nr. IENW/BSK-2023/311019, tot verlening van ondermandaat, volmacht en machtiging (Ondermandaatbesluit directoraat-generaal Water en Bodem 2023)

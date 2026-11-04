@@ -9,7 +9,7 @@ laatste_update: 2024-01-13
 status: geldig
 toestand: 2024-01-13
 bron: "https://wetten.overheid.nl/BWBR0049215"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Beleidsregel van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit, namens de Minister van Landbouw, Natuur en Voedselkwaliteit, de Minister en Staatssecretaris van Volksgezondheid, Welzijn en Sport, de Minister van Economische Zaken en Klimaat, de Minister voor Natuur en Stikstof, de Minister van Infrastructuur en Waterstaat en de Minister van Justitie en Veiligheid van 19 december 2023, nr. NVWA/2023/5424, tot vaststelling van het algemene toezichts- en interventiekader voor de Nederlandse Voedsel- en Warenautoriteit (Algemeen interventiebeleid NVWA 2024)

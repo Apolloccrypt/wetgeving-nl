@@ -9,7 +9,7 @@ laatste_update: 2023-12-05
 status: geldig
 toestand: 2023-12-05
 bron: "https://wetten.overheid.nl/BWBR0048992"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de directeur Planbureau voor de Leefomgeving, van 15 november 2023, nr. IENW/BSK-2023/344959, tot verlening van ondermandaat, volmacht en machtiging (Ondermandaatbesluit directie Planbureau voor de Leefomgeving 2023)

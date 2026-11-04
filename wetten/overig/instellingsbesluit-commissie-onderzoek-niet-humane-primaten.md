@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-06-30
 toestand: 2025-04-10
 bron: "https://wetten.overheid.nl/BWBR0049327"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 5 december 2023, nr. OWB/42696432 houdende instelling van de Commissie die onderzoek gaat doen naar de mogelijkheden voor verlaging van het aantal proeven op niet-humane primaten (Instellingsbesluit Commissie onderzoek niet-humane primaten)

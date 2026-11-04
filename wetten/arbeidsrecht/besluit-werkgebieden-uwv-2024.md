@@ -8,7 +8,7 @@ laatste_update: 2024-01-05
 status: geldig
 toestand: 2024-01-05
 bron: "https://wetten.overheid.nl/BWBR0049194"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit werkgebieden UWV 2024

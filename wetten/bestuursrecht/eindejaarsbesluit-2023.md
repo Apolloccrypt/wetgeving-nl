@@ -9,7 +9,7 @@ laatste_update: 2024-02-21
 status: geldig
 toestand: 2024-02-21
 bron: "https://wetten.overheid.nl/BWBR0049134"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van 20 december 2023 tot wijziging van enige uitvoeringsbesluiten op het gebied van de belastingen en enige andere besluiten (Eindejaarsbesluit 2023)

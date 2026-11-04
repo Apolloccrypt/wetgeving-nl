@@ -9,7 +9,7 @@ laatste_update: 2024-04-17
 status: geldig
 toestand: 2024-04-17
 bron: "https://wetten.overheid.nl/BWBR0049563"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Secretaris-Generaal van het Ministerie van Buitenlandse Zaken van 4 april 2024, Min-BuZa.2024.20688-10, tot doorverlening van volmacht en machtiging aan de Directeur Huisvesting en Facilitaire Zaken (DHF) met betrekking tot onroerende zaken buiten Nederland

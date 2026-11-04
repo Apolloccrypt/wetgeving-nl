@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0049130"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Wet van 20 december 2023 tot wijziging van de Wet op de vennootschapsbelasting 1969 en enige andere wetten tot codificatie en aanvulling van het fiscale kwalificatiebeleid inzake buitenlandse rechtsvormen en tot afschaffing van de zelfstandige belastingplicht van de open commanditaire vennootschap (Wet fiscaal kwalificatiebeleid rechtsvormen)

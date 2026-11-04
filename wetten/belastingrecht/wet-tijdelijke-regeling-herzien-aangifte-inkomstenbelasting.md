@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0049133"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Wet van 20 december 2023 tot wijziging van de Wet inkomstenbelasting 2001 met betrekking tot de bijzondere regels voor ambtshalve verminderingen (Wet tijdelijke regeling herzien aangifte inkomstenbelasting)

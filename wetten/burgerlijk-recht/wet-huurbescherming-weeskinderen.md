@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0049125"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Wet van 15 december 2023 tot wijziging van Boek 7 van het Burgerlijk Wetboek en de Woningwet in verband met het bieden van huurbescherming aan weeskinderen (Wet huurbescherming weeskinderen)

@@ -9,7 +9,7 @@ laatste_update: 2024-02-13
 status: geldig
 toestand: 2024-02-13
 bron: "https://wetten.overheid.nl/BWBR0049352"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de directeur-generaal Mobiliteit, van 15 november 2023, nr. IENW/BSK-2023/310995, tot verlening van ondermandaat, volmacht en machtiging (Ondermandaatbesluit directoraat-generaal Mobiliteit 2023)

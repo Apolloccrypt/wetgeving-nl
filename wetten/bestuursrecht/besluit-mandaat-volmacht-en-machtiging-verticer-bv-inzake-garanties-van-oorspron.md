@@ -9,7 +9,7 @@ laatste_update: 2026-07-08
 status: geldig
 toestand: 2026-07-08
 bron: "https://wetten.overheid.nl/BWBR0049207"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister voor Klimaat en Energie van 21 december 2023, nr. WJZ/ 38213682, houdende verlening van mandaat, volmacht en machtiging VertiCer B.V. voor het afgeven van garanties van oorsprong (Besluit mandaat, volmacht en machtiging VertiCer B.V. inzake garanties van oorsprong en certificaten van oorsprong 2023)

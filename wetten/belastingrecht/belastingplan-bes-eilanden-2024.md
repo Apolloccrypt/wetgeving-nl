@@ -9,7 +9,7 @@ laatste_update: 2024-12-31
 status: geldig
 toestand: 2024-12-31
 bron: "https://wetten.overheid.nl/BWBR0049119"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Wet van 20 december 2023 tot wijziging van enkele belastingwetten en enige andere wetten (Belastingplan BES eilanden 2024)

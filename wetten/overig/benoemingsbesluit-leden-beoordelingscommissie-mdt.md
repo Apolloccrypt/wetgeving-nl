@@ -9,7 +9,7 @@ laatste_update: 2025-10-16
 status: geldig
 toestand: 2025-10-16
 bron: "https://wetten.overheid.nl/BWBR0049026"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister voor Primair en Voortgezet Onderwijs van 22 november 2023, nr. MDT/38992918, houdende benoeming van de leden van de beoordelingscommissie MDT (Benoemingsbesluit leden beoordelingscommissie MDT)

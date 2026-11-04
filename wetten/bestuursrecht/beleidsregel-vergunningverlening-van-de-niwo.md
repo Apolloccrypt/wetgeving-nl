@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0049164"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Beleidsregel van de Nationale en Internationale Wegvervoer Organisatie (NIWO) inzake toepassing van de Wet wegvervoer goederen, Verordening (EG) nr. 1071/2009 en Verordening (EG) nr. 1072/2009 ten aanzien van vergunningverlening (Beleidsregel vergunningverlening van de NIWO)

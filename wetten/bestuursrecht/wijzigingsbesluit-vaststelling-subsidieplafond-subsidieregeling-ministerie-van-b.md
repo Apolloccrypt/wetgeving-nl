@@ -9,7 +9,7 @@ laatste_update: 2023-11-28
 status: geldig
 toestand: 2023-11-28
 bron: "https://wetten.overheid.nl/BWBR0048961"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 15 november 2023, MINBUZA-2023.20128-7, tot wijziging van het Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 8 januari 2019, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieprogramma DHI 2019–2023) en tot vaststelling van een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Zesde openstelling, wijziging beleidsregels en wijziging aanduiding Subsidieprogramma DHI)

@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0048980"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 20 november 2023, kenmerk 3721016-1056531-MEVA houdende de wettelijke erkenning van de specialistentitel Spoedeisende Hulp arts (SEH-arts) en instemming met het besluit van het College Geneeskundig Specialismen (CGS) op 11 oktober 2023 tot vaststelling van het Besluit spoedeisende geneeskunde

@@ -9,7 +9,7 @@ laatste_update: 2023-11-25
 status: geldig
 toestand: 2023-11-25
 bron: "https://wetten.overheid.nl/BWBR0048949"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 10 november 2023, nr. 2023/KCPN/0357, strekkende tot aanwijzing van buitengewoon agenten van politie bij de Kustwacht

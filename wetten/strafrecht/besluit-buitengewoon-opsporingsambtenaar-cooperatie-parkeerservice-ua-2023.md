@@ -9,7 +9,7 @@ laatste_update: 2024-04-30
 status: geldig
 toestand: 2024-04-30
 bron: "https://wetten.overheid.nl/BWBR0049292"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 4 januari 2024 nr. BOACAT2023/067, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Coöperatie ParkeerService UA

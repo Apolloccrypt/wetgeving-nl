@@ -9,7 +9,7 @@ laatste_update: 2024-04-04
 status: geldig
 toestand: 2024-04-04
 bron: "https://wetten.overheid.nl/BWBR0049484"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister voor Natuur en Stikstof van 12 maart 2024 tot vaststelling van het Specifiek interventiebeleid natuurwetgeving (IB03-SPEC 08, versie 05)

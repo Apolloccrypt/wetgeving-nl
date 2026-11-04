@@ -9,7 +9,7 @@ laatste_update: 2024-02-07
 status: geldig
 toestand: 2024-02-07
 bron: "https://wetten.overheid.nl/BWBR0049330"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 29 januari 2024, nr. 2024-0000013768, houdende de inrichting van de Rijksschoonmaakorganisatie alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur van de Rijksschoonmaakorganisatie (Organisatie-, Mandaat- en Volmachtbesluit RSO)

@@ -9,7 +9,7 @@ laatste_update: 2025-11-29
 status: geldig
 toestand: 2025-11-29
 bron: "https://wetten.overheid.nl/BWBR0049398"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 16 februari 2024, nr. Min-BuZa.2024.20391-9, houdende het opnieuw vaststellen van beleidsregels voor het verstrekken van subsidie in het kader van onderdeel 1 van het Dutch Trade and Investment Fund (Dtif herpublicatie)

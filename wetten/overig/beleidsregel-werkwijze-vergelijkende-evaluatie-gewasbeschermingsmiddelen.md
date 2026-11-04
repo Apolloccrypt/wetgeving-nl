@@ -9,7 +9,7 @@ laatste_update: 2024-06-27
 status: geldig
 toestand: 2024-06-27
 bron: "https://wetten.overheid.nl/BWBR0049107"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Beleidsregel van het College voor de toelating van gewasbeschermingsmiddelen en biociden van 1 januari 2024, houdende de werkwijze voor de vergelijkende evaluatie gewasbeschermingsmiddelen

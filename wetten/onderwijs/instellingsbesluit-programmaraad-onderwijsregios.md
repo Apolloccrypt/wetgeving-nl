@@ -9,7 +9,7 @@ laatste_update: 2026-01-06
 status: geldig
 toestand: 2026-01-06
 bron: "https://wetten.overheid.nl/BWBR0049534"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 4 maart 2024, nr. 1502262, houdende instelling van een Programmaraad Onderwijsregio’s (Instellingsbesluit Programmaraad Onderwijsregio’s)

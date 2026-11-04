@@ -9,7 +9,7 @@ laatste_update: 2023-12-30
 status: geldig
 toestand: 2023-12-30
 bron: "https://wetten.overheid.nl/BWBR0049137"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Beleidsregel van de Minister voor Klimaat en Energie van 12 december 2023, nr. WJZ/ 37829962, houdende beleidsregels inzake de wijziging van de vergunningen windenergie op zee voor de kavels Alpha en Beta in windenergiegebied IJmuiden Ver (Beleidsregel wijziging van de vergunningen windenergie op zee voor kavels Alpha en Beta in windenergiegebied IJmuiden Ver)

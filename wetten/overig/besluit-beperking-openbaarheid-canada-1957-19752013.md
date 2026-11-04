@@ -9,7 +9,7 @@ laatste_update: 2024-01-27
 status: geldig
 toestand: 2024-01-27
 bron: "https://wetten.overheid.nl/BWBR0049300"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 18 januari 2024, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordiging in Canada, ambassade Ottawa, Besluit Beperking Openbaarheid Canada (1957) 1975–2013

@@ -9,7 +9,7 @@ laatste_update: 2026-07-16
 status: geldig
 toestand: 2026-07-16
 bron: "https://wetten.overheid.nl/BWBR0048993"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Minister voor Langdurige Zorg en Sport van 20 november 2023, kenmerk 3721349-1056574-S, houdende regels voor de subsidiëring van de bouw, de verbouwing en het onderhoud van sportaccommodaties, de aanschaf of het onderhoud van sportmaterialen en activiteiten die bijdragen aan verduurzaming en het verbeteren van de toegankelijkheid van sportaccommodaties (Subsidieregeling BOSA)

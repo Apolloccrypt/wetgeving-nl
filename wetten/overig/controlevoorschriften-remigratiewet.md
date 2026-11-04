@@ -9,7 +9,7 @@ laatste_update: 2024-03-14
 status: geldig
 toestand: 2024-03-14
 bron: "https://wetten.overheid.nl/BWBR0049453"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Sociale verzekeringsbank van 5 februari 2024, houdende controlevoorschriften als bedoeld in artikel 8g, eerste lid, van de Remigratiewet (Controlevoorschriften Remigratiewet 2024)

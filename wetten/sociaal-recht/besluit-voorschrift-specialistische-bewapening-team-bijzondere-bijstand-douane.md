@@ -9,7 +9,7 @@ laatste_update: 2023-12-16
 status: geldig
 toestand: 2023-12-16
 bron: "https://wetten.overheid.nl/BWBR0049067"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 5 december 2023, kenmerk 5059377, houdende regels over de bewapening van de buitengewoon opsporingsambtenaren van het Team Bijzondere Bijstand Douane met een semi-automatisch schoudervuurwapen bij het afschermen en beveiligen van 'hoog-risico' drugsvondsten (Besluit voorschrift specialistische bewapening Team Bijzondere Bijstand Douane)

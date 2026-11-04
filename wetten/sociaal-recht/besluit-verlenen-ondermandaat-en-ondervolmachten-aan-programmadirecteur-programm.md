@@ -9,7 +9,7 @@ laatste_update: 2024-02-24
 status: geldig
 toestand: 2024-02-24
 bron: "https://wetten.overheid.nl/BWBR0049390"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Secretaris-Generaal van het Ministerie van Volksgezondheid, Welzijn en Sport van 12 februari 2024, kenmerk 3768438-1060323-OBP, houdende het verlenen van ondermandaat en ondervolmachten aan de programmadirecteur van het programma Integraal Zorgakkoord

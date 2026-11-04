@@ -9,7 +9,7 @@ laatste_update: 2024-04-25
 status: geldig
 toestand: 2024-04-25
 bron: "https://wetten.overheid.nl/BWBR0049550"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van 27 maart 2024 tot vaststelling van de bestanddelen van de beeldenaar van de munten van vijf en tien euro die in 2024 worden uitgegeven ter gelegenheid van het 200-jarig bestaan van de KNRM

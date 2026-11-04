@@ -9,7 +9,7 @@ laatste_update: 2023-12-23
 status: geldig
 toestand: 2023-12-23
 bron: "https://wetten.overheid.nl/BWBR0049093"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat van 28 november 2023, met kenmerk RWS-2023/47216, houdende vaststelling van de Beleidsregel Toepassen en verspreiden baggerspecie op de Noordzee in verband met de inwerkingtreding van de Omgevingswet (Beleidsregel Toepassen en verspreiden baggerspecie op de Noordzee), Rijkswaterstaat

@@ -9,7 +9,7 @@ laatste_update: 2024-02-27
 status: geldig
 toestand: 2024-02-27
 bron: "https://wetten.overheid.nl/BWBR0049438"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Beleidsregel van de Minister voor Primair en Voortgezet Onderwijs van 27 februari 2024 houdende voorwaarden en beperkingen bij de beoordeling of personen die in het bezit zijn van een buiten de Europese Economische Ruimte behaald bewijsstuk bevoegd kunnen zijn om onderwijs te geven op een school voor voortgezet onderwijs (Beleidsregel beoordeling van niet in de Europese Economische Ruimte behaalde bewijsstukken in het voortgezet onderwijs).

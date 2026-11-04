@@ -9,7 +9,7 @@ laatste_update: 2026-06-04
 status: geldig
 toestand: 2026-06-04
 bron: "https://wetten.overheid.nl/BWBR0049266"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Wet van 11 december 2023 tot wijziging van Boek 7 van het Burgerlijk Wetboek en de Overgangswet nieuw Burgerlijk Wetboek in verband met het afschaffen van tijdelijke huurcontracten (Wet vaste huurcontracten)

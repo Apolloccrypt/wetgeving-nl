@@ -9,7 +9,7 @@ laatste_update: 2024-12-19
 status: geldig
 toestand: 2024-12-19
 bron: "https://wetten.overheid.nl/BWBR0049486"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 15 maart 2024 nr. BOACAT2024/018, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Apeldoorn.

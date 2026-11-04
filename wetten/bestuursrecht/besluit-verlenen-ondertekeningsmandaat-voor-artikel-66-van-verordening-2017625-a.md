@@ -9,7 +9,7 @@ laatste_update: 2023-12-05
 status: geldig
 toestand: 2023-12-05
 bron: "https://wetten.overheid.nl/BWBR0048990"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit van 20 november 2023, kenmerk TRCNVWA/2023/5345, houdende het verlenen van ondertekeningsmandaat voor artikel 66 van Verordening (EU) nr. 2017/625 aan functionarissen van de keuringsdiensten (Besluit verlenen ondertekeningsmandaat voor artikel 66 van verordening 2017/625 aan de keuringsdiensten 2023)

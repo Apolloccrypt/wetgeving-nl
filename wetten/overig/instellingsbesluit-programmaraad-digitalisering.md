@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-06-30
 toestand: 2024-04-18
 bron: "https://wetten.overheid.nl/BWBR0049274"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister voor Primair en Voortgezet Onderwijs van 22 december 2023 nr. 43324058, houdende instelling van de programmaraad Digitalisering voor de periode 2023 tot en met 2025 (Instellingsbesluit programmaraad Digitalisering 2023–2025)

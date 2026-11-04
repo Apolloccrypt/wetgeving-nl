@@ -9,7 +9,7 @@ laatste_update: 2024-11-30
 status: geldig
 toestand: 2024-11-30
 bron: "https://wetten.overheid.nl/BWBR0049289"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 16 januari 2024, houdende regels voor het verstrekken van een eenmalige specifieke uitkering aan de provincies van Nederland ter ontzorging van kleine en micro mkb-ondernemingen bij de verduurzaming van het gebouw, bedrijfsproces of bedrijventerrein (Regeling specifieke uitkering ontzorgingsprogramma verduurzaming kleine en micro mkb-ondernemingen en bedrijventerreinen)

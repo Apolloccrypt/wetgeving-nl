@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0049131"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Wet van 20 december 2023 tot wijziging van de Wet op de vennootschapsbelasting 1969 en enige andere wetten tot aanpassing van de regelingen voor het fonds voor gemene rekening en de vrijgestelde beleggingsinstelling (Wet aanpassing fonds voor gemene rekening en vrijgestelde beleggingsinstelling)

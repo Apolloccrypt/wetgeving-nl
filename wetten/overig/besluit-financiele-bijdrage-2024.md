@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0049124"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van het college van afgevaardigden van 20 december 2023 tot vaststelling van de hoogte van de financiële bijdrage (Besluit financiële bijdrage 2024)

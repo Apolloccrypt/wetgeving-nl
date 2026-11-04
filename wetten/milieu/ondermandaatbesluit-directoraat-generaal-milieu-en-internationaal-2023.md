@@ -9,7 +9,7 @@ laatste_update: 2024-01-20
 status: geldig
 toestand: 2024-01-20
 bron: "https://wetten.overheid.nl/BWBR0049283"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de directeur-generaal Milieu en Internationaal, van 13 november 2023, nr. IENW/BSK-2023/311445, tot verlening van ondermandaat, volmacht en machtiging (Ondermandaatbesluit directoraat-generaal Milieu en Internationaal 2023)

@@ -9,7 +9,7 @@ laatste_update: 2024-07-01
 status: geldig
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0049368"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van 28 november 2023 tot wijziging van het Besluit activiteiten leefomgeving en het Omgevingsbesluit in verband met het beperken van emissies van kooldioxide door werkgebonden personenmobiliteit

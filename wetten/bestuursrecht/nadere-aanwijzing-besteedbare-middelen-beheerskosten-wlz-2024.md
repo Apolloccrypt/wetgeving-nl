@@ -9,7 +9,7 @@ laatste_update: 2024-02-14
 status: geldig
 toestand: 2024-02-14
 bron: "https://wetten.overheid.nl/BWBR0049358"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 5 februari 2024, kenmerk 3759989-1060734-Z, houdende vaststelling van een nadere aanwijzing voor de besteedbare middelen ter dekking van de beheerskosten Wlz 2024 (Nadere aanwijzing besteedbare middelen beheerskosten Wlz 2024)

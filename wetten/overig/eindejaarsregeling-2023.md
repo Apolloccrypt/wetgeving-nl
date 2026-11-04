@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0049183"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Staatssecretaris van Financiën van 15 december 2023 tot wijziging van onder meer enige uitvoeringsregelingen op het gebied van belastingen en toeslagen (Eindejaarsregeling 2023)

@@ -9,7 +9,7 @@ laatste_update: 2023-12-08
 status: geldig
 toestand: 2023-12-08
 bron: "https://wetten.overheid.nl/BWBR0049025"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Tijdelijke subsidieregels samenwerking Belastingdienst, de Dienst Toeslagen en de Koninklijke Bibliotheek 2024–2027 (Digitale Inclusie)

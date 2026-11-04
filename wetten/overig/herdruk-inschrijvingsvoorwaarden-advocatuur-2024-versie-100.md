@@ -8,7 +8,7 @@ laatste_update: 2023-12-20
 status: geldig
 toestand: 2023-12-20
 bron: "https://wetten.overheid.nl/BWBR0049085"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # HERDRUK Inschrijvingsvoorwaarden advocatuur 2024, versie 1.00

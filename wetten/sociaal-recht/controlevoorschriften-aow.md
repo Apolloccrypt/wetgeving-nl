@@ -9,7 +9,7 @@ laatste_update: 2023-11-24
 status: geldig
 toestand: 2023-11-24
 bron: "https://wetten.overheid.nl/BWBR0048938"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Sociale verzekeringsbank van 13 november 2023 houdende controlevoorschriften als bedoeld in artikel 15, eerste lid, van de Algemene ouderdomswet (Controlevoorschriften AOW)

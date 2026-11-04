@@ -9,7 +9,7 @@ laatste_update: 2024-02-18
 status: geldig
 toestand: 2024-02-18
 bron: "https://wetten.overheid.nl/BWBR0049281"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 12 januari 2024 nr. BOACAT2023/088, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Regionale Uitvoeringsdienst Zeeland

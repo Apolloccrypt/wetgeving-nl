@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0049063"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van 8 december 2023 tot wijziging van het Besluit vergoeding bewindvoerder schuldsanering in verband met de invoering van de Wet van 10 februari 2023 tot wijziging van de Faillissementswet ter verbetering van de doorstroom van de gemeentelijke schuldhulpverlening naar de wettelijke schuldsaneringsregeling natuurlijke personen (Stb. 2023, 87) (Besluit wijziging vergoeding bewindvoerder schuldsanering)

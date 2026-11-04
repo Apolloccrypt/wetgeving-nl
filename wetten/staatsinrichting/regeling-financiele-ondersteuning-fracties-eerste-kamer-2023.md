@@ -8,7 +8,7 @@ laatste_update: 2026-07-08
 status: geldig
 toestand: 2026-07-08
 bron: "https://wetten.overheid.nl/BWBR0049016"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling financiële ondersteuning fracties Eerste Kamer 2023

@@ -9,7 +9,7 @@ laatste_update: 2024-02-13
 status: geldig
 toestand: 2024-02-13
 bron: "https://wetten.overheid.nl/BWBR0049351"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Algemeen Directeur van het CIBG van 30 januari 2024, nr. CIBG 24-06549, houdende verlening van ondervolmacht aan de directeuren en hoofden van enkele afdelingen van het CIBG

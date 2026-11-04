@@ -9,7 +9,7 @@ laatste_update: 2024-07-01
 status: geldig
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0049526"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Minister voor Armoedebeleid, Participatie en Pensioenen van 26 maart 2024, 2024-0000077334, tot wijziging van het Besluit onderstand BES, de Wet algemene ouderdomsverzekering BES, de Wet algemene weduwen- en wezenverzekering BES, de Wet minimumlonen BES, de Wet ongevallenverzekering BES en de Wet ziekteverzekering BES in verband met de beleidsmatige vaststelling van bedragen voor Caribisch Nederland

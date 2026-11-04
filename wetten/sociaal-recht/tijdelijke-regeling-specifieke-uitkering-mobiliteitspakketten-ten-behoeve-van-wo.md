@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0049400"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 13 februari 2024, nr. IENW/BSK-2024/49004, houdende regels voor verstrekking van specifieke uitkeringen voor mobiliteitsmaatregelen (Tijdelijke regeling specifieke uitkering mobiliteitspakketten ten behoeve van woningbouw)

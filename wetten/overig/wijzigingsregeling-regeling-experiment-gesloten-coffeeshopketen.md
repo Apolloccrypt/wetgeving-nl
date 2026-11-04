@@ -9,7 +9,7 @@ laatste_update: 2023-12-16
 status: geldig
 toestand: 2023-12-16
 bron: "https://wetten.overheid.nl/BWBR0049066"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport en de Minister van Justitie en Veiligheid van 11 december 2023, kenmerk 3720763-1056503-VGP, houdende wijziging van de Regeling experiment gesloten coffeeshopketen in verband met de aanpassing en verduidelijking van enkele eisen voor aangewezen telers, alsmede enkele technische aanpassingen

@@ -9,7 +9,7 @@ laatste_update: 2024-08-28
 status: geldig
 toestand: 2024-08-28
 bron: "https://wetten.overheid.nl/BWBR0049315"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 23 januari 2024 nr. BOACAT2024/007, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Coevorden

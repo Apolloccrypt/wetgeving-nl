@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0049030"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Wet van 25 oktober 2023 tot wijziging van de Gemeentewet, de Wet openbare lichamen Bonaire, Sint Eustatius en Saba en enkele andere wetten in verband met uitbreiding van de sluitingsbevoegdheid van de burgemeester en de gezaghebber ter handhaving van de openbare orde en om enkele omissies te herstellen

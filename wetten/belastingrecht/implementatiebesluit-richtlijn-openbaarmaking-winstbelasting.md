@@ -9,7 +9,7 @@ laatste_update: 2024-06-22
 status: geldig
 toestand: 2024-06-22
 bron: "https://wetten.overheid.nl/BWBR0049420"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van 14 februari 2024, houdende regels ter implementatie van Richtlijn (EU) 2021/2101 van het Europees Parlement en van de Raad van 24 november 2021 tot wijziging van Richtlijn 2013/34/EU wat betreft de openbaarmaking van informatie over de winstbelasting door bepaalde ondernemingen en bijkantoren (PbEU 2021, L 429) (Implementatiebesluit Richtlijn openbaarmaking winstbelasting)

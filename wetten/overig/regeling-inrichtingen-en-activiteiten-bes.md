@@ -9,7 +9,7 @@ laatste_update: 2024-04-01
 status: geldig
 toestand: 2024-04-01
 bron: "https://wetten.overheid.nl/BWBR0049285"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 15 december 2023, nr IENW/BSK-2023/363174, houdende vaststelling algemene regels voor inrichtingen en activiteiten (Regeling inrichtingen- en activiteiten BES)

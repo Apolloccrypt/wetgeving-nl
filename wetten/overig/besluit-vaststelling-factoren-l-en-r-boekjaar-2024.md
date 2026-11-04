@@ -9,7 +9,7 @@ laatste_update: 2024-01-05
 status: geldig
 toestand: 2024-01-05
 bron: "https://wetten.overheid.nl/BWBR0049195"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit tot vaststelling van de factoren L en r voor het boekjaar 2024

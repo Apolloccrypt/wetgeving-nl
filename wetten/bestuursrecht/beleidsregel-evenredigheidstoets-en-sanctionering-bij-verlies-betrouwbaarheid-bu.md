@@ -9,7 +9,7 @@ laatste_update: 2024-01-13
 status: geldig
 toestand: 2024-01-13
 bron: "https://wetten.overheid.nl/BWBR0049260"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Beleidsregel van de Staatssecretaris van Infrastructuur en Waterstaat, van 27 december 2023, nr. ILT-2023/58667, inzake de toepassing van regels van Verordening 1071/2009/EG en Verordening (EU) 2016/403, de Wet personenvervoer 2000 en het Besluit personenvervoer 2000 houdende bepalingen in verband met de uitvoering van de evenredigheidstoets en het sanctioneren van de vervoerder en de vervoersmanager verlies van betrouwbaarheid in het busvervoer (Beleidsregel evenredigheidstoets en sanctionering bij verlies betrouwbaarheid busvervoer 2024)

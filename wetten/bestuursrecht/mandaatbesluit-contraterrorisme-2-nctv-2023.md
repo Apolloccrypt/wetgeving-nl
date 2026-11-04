@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-04-22
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0049356"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van het hoofd van de Afdeling Contraterrorisme 1 van de Nationaal Coördinator Terrorismebestrijding en Veiligheid van het Ministerie van Justitie en Veiligheid van 25 januari 2024, nr. 5164835, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan het plaatsvervangend hoofd van Afdeling Contraterrorisme 2 (Mandaatbesluit Contraterrorisme 2 NCTV 2023)

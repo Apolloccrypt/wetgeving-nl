@@ -8,7 +8,7 @@ laatste_update: 2024-03-09
 status: geldig
 toestand: 2024-03-09
 bron: "https://wetten.overheid.nl/BWBR0049454"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Vennootschapsbelasting, verliesverrekening, toepassing artikel 20a van de Wet op de vennootschapsbelasting 1969

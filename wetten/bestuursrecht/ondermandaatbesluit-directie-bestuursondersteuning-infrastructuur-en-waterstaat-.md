@@ -9,7 +9,7 @@ laatste_update: 2023-11-25
 status: geldig
 toestand: 2023-11-25
 bron: "https://wetten.overheid.nl/BWBR0048942"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de directeur Bestuursondersteuning van het Ministerie van Verkeer en Waterstaat, van 14 november 2023, nr. IENW/BSK-2023/311023, tot verlening van ondermandaat, volmacht en machtiging (Ondermandaatbesluit directie Bestuursondersteuning Infrastructuur en Waterstaat 2023)

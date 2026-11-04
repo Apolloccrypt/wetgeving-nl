@@ -9,7 +9,7 @@ laatste_update: 2023-12-16
 status: geldig
 toestand: 2023-12-16
 bron: "https://wetten.overheid.nl/BWBR0049070"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van 28 november 2023, houdende regels ter uitvoering van Verordening (EU) nr. 2019/881 (Uitvoeringsbesluit cyberbeveiligingsverordening)

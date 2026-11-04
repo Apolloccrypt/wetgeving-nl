@@ -9,7 +9,7 @@ laatste_update: 2024-07-01
 status: geldig
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0049481"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van 14 februari 2024 tot vaststelling van een beperkingengebied voor de buitenlandse burgerluchthaven Weeze en de in dat gebied geldende regels en wijzigingen Besluit activiteiten leefomgeving en Omgevingsbesluit (Besluit beperkingengebied Weeze en wijzigingen Besluit activiteiten leefomgeving en Omgevingsbesluit)

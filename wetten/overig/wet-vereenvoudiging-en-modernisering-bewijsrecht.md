@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0049493"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Wet van 6 maart 2024 tot wijziging van het Wetboek van Burgerlijke Rechtsvordering en enige andere wetten in verband met de vereenvoudiging en modernisering van het bewijsrecht (Wet vereenvoudiging en modernisering bewijsrecht)

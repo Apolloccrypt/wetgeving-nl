@@ -9,7 +9,7 @@ laatste_update: 2023-12-01
 status: geldig
 toestand: 2023-12-01
 bron: "https://wetten.overheid.nl/BWBR0048985"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 29 november 2023, nr. WJZ/40654844, houdende vaststelling van voorlopige tarieven GLB 2023

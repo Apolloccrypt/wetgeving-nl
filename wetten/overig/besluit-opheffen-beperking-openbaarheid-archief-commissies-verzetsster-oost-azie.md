@@ -9,7 +9,7 @@ laatste_update: 2023-11-22
 status: geldig
 toestand: 2023-11-22
 bron: "https://wetten.overheid.nl/BWBR0048926"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap houdende het opheffen van de beperking aan de openbaarheid van het archief van de commissies ‘Verzetsster Oost-Azië 1942–1945’, (1946) 1949–1957 (toegangsnummer 2.05.231)

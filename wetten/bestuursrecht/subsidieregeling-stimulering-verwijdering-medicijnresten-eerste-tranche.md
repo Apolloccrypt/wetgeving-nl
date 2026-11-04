@@ -9,7 +9,7 @@ laatste_update: 2025-12-31
 status: geldig
 toestand: 2025-12-31
 bron: "https://wetten.overheid.nl/BWBR0048998"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 21 november 2023 IENW/BSK-2023/341953, houdende vaststelling van tijdelijke regels ter stimulering van aanvullende zuiveringstechnieken bij rioolwaterzuiveringsinstallaties (Subsidieregeling stimulering verwijdering medicijnresten eerste tranche)

@@ -9,7 +9,7 @@ laatste_update: 2024-03-27
 status: geldig
 toestand: 2024-03-27
 bron: "https://wetten.overheid.nl/BWBR0049500"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister voor Natuur en Stikstof van 18 maart 2024, nr. WJZ/44740575, houdende aanwijzing van de directeur Bureau beheer landbouwgronden (Besluit aanwijzing directeur Bureau beheer landbouwgronden 2024)

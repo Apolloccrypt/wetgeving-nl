@@ -9,7 +9,7 @@ laatste_update: 2024-03-20
 status: geldig
 toestand: 2024-03-20
 bron: "https://wetten.overheid.nl/BWBR0049163"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluiten van de Minister van Infrastructuur en Waterstaat, de Minister voor Natuur en Stikstof, en de Minister voor Klimaat en Energie, van 20 december 2023, nr. IENW/BSK-2023/333572, houdende aanwijzing van toezichthoudende ambtenaren ter vervanging van het Besluit aanwijzing ambtenaren VROM-regelgeving, (Besluit aanwijzing toezichthouders fysieke leefomgeving)

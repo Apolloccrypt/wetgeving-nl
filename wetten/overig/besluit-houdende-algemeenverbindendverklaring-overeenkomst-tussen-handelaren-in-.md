@@ -9,7 +9,7 @@ laatste_update: 2024-03-02
 status: geldig
 toestand: 2024-03-02
 bron: "https://wetten.overheid.nl/BWBR0049421"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 27 februari 2024, nr. WJZ/44543078, houdende de algemeenverbindendverklaring van een overeenkomst tussen handelaren in gewasbeschermingsmiddelen

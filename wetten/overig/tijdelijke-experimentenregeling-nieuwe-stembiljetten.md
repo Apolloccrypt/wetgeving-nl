@@ -9,7 +9,7 @@ laatste_update: 2025-10-01
 status: geldig
 toestand: 2025-10-01
 bron: "https://wetten.overheid.nl/BWBR0049303"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 22 januari 2024, houdende nadere tijdelijke regels voor experimenten met nieuwe stembiljetten (Tijdelijke experimentenregeling nieuwe stembiljetten)

@@ -9,7 +9,7 @@ laatste_update: 2024-01-27
 status: geldig
 toestand: 2024-01-27
 bron: "https://wetten.overheid.nl/BWBR0049299"
-opgehaald: 2026-09-05
+opgehaald: 2026-11-04
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Waterstaat, van 19 januari 2024, nr. IENW/BSK-2023/352920, tot wijziging van de samenstelling van de raad van toezicht van het KNMI
