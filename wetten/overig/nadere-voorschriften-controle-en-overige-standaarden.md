@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0049711"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Nadere voorschriften controle- en overige standaarden

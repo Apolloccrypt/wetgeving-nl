@@ -8,7 +8,7 @@ laatste_update: 2026-03-07
 status: geldig
 toestand: 2026-03-07
 bron: "https://wetten.overheid.nl/BWBR0049684"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit vaststelling personele ondermandaten Logius

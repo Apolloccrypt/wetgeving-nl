@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-04-30
 toestand: 2024-09-01
 bron: "https://wetten.overheid.nl/BWBR0050117"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister van Volksgezondheid, Welzijn en Sport en de Minister van Justitie en Veiligheid van 28 juni 2024 tot vaststelling van het Specifiek interventiebeleid NVWA experiment gesloten coffeeshopketen (IB03-SPEC 30, versie 04)

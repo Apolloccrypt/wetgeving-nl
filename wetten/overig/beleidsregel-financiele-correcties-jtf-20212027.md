@@ -9,7 +9,7 @@ laatste_update: 2024-06-12
 status: geldig
 toestand: 2024-06-12
 bron: "https://wetten.overheid.nl/BWBR0049797"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 3 juni 2024, nr. 2024-0000074656, tot vaststelling van de Beleidsregel financiële correcties JTF 2021–2027

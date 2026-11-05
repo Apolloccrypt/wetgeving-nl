@@ -9,7 +9,7 @@ laatste_update: 2024-11-07
 status: geldig
 toestand: 2024-11-07
 bron: "https://wetten.overheid.nl/BWBR0050205"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 11 september 2024 nr. BOACAT2024/104, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Dienst Stadsbeheer van de gemeente Den Haag

@@ -9,7 +9,7 @@ laatste_update: 2024-05-29
 status: geldig
 toestand: 2024-05-29
 bron: "https://wetten.overheid.nl/BWBR0049734"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 15 mei 2024, nr. O&B/39907799, houdende beperking van de openbaarheid van het archief van het Algemeen Rijksarchief van het Ministerie van Onderwijs, Cultuur en Wetenschap over de periode (1991) 1994–2002

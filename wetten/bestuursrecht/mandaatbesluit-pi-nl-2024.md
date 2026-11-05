@@ -9,7 +9,7 @@ laatste_update: 2024-08-23
 status: geldig
 toestand: 2024-08-23
 bron: "https://wetten.overheid.nl/BWBR0050159"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de directeur Contraterrorisme en Beveiliging Burgerluchtvaart van de Nationaal Coördinator Terrorismebestrijding en Veiligheid van het Ministerie van Justitie en Veiligheid van 14 augustus 2024, nr. 5691214, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan het hoofd van de Passagiersinformatie-eenheid Nederland inzake de behandeling van de rechten van betrokkene (Mandaatbesluit PI-NL 2024)

@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0049846"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van 14 juni 2024, houdende aanwijzing van de strafbare feiten als bedoeld in artikel 77e, eerste lid, van het Wetboek van Strafrecht (Besluit aanwijzing Halt-feiten 2024)

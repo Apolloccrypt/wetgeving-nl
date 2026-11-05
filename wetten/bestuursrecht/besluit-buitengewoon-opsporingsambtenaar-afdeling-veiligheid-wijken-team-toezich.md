@@ -9,7 +9,7 @@ laatste_update: 2024-07-24
 status: geldig
 toestand: 2024-07-24
 bron: "https://wetten.overheid.nl/BWBR0050054"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 15 juli 2024 nr. BOACAT2024/088, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Afdeling Veiligheid & Wijken, team Toezicht Sociaal Domein (voorheen Fraudebestrijding) van de gemeente Tilburg

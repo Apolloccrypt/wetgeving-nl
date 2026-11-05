@@ -9,7 +9,7 @@ laatste_update: 2024-07-01
 status: geldig
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0049886"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de Minister voor Medische Zorg van 25 juni 2024, kenmerk 3859917-1067850-Z, wijziging van de Regeling zorgverzekering om de voorwaardelijke toelating van paramedische herstelzorg na COVID-19 per 1 juli 2024 te beëindigen

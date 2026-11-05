@@ -9,7 +9,7 @@ laatste_update: 2024-06-13
 status: geldig
 toestand: 2024-06-13
 bron: "https://wetten.overheid.nl/BWBR0049795"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 5 juni 2024, nr. 46087565 houdende regels voor het verstrekken van subsidie aan initiatieven in het kader van digitaal afstandsonderwijs 2024 (Subsidieregeling digitale school 2024)

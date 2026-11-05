@@ -9,7 +9,7 @@ laatste_update: 2014-10-01
 status: geldig
 toestand: 2014-10-01
 bron: "https://wetten.overheid.nl/BWBR0003707"
-opgehaald: 2026-09-26
+opgehaald: 2026-11-05
 ---
 
 # Beperking geluidhinder militaire luchtvaart
@@ -34,7 +34,7 @@ Met betrekking tot het uitvoeren van vluchten met militaire luchtvaartuigen binn
 
 - f.
 
-   - 1°. Militaire luchtvaartuigen mogen na 22.00 uur plaatselijke tijd geen oefendoorstarts uitvoeren, met uitzondering van de militaire luchthaven Deelen waar militaire helikopters van 1 oktober tot 1 mei tot 22.30 uur plaatselijke tijd en van 1 mei tot 1 oktober tot 23.30 uur plaatselijke tijd oefendoorstarts mogen uitvoeren.
+   - 1°. Militaire luchtvaartuigen mogen na 22.00 uur plaatselijke tijd geen oefendoorstarts uitvoeren, met uitzondering van de militaire luchthaven Deelen waar militaire helikopters van 1 oktober tot 1 mei tot 22.30 uur plaatselijke tijd en van 1 mei tot 1 oktober tot 23.30 uur plaatselijke tijd oefendoorstarts mogen uitvoeren.
 
    - 2°. Militaire luchtvaartuigen, belast met de SAR-taak, mogen na middernacht plaatselijke tijd geen oefendoorstarts uitvoeren.
 
@@ -78,7 +78,7 @@ Bij het uitvoeren van vluchten dient ernaar te worden gestreefd vermijdbare gelu
 
 ##### Artikel 5
 
-1. De Minister van Defensie kan ten behoeve van nationale of internationale oefeningen ontheffing verlenen van [artikel 1, onderdeel e, onder 1e, en onderdeel f, onder 1e](https://wetten.overheid.nl/jci1.3:c:BWBR0003707&artikel=1&z=2014-10-01&g=2014-10-01).
+1. De Minister van Defensie kan ten behoeve van nationale of internationale oefeningen ontheffing verlenen van [artikel 1, onderdeel e, onder 1e, en onderdeel f, onder 1e](https://wetten.overheid.nl/jci1.3:c:BWBR0003707&artikel=1&z=2014-10-01&g=2014-10-01).
 
 2. Aan de ontheffing kunnen voorschriften worden verbonden.
 

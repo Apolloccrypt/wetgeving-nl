@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0049655"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 25 april 2024, nr. IENW/BSK-2024/125958, houdende vaststelling van regels ter uitvoering van de Wet vrachtwagenheffing (Regeling vrachtwagenheffing)

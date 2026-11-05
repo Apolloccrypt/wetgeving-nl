@@ -8,7 +8,7 @@ laatste_update: 2024-04-01
 status: geldig
 toestand: 2024-04-01
 bron: "https://wetten.overheid.nl/BWBR0049574"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Tijdelijke subsidieregels Certificering Taalhuizen Koninklijke Bibliotheek 2024–2027

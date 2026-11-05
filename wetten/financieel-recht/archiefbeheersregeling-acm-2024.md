@@ -9,7 +9,7 @@ laatste_update: 2024-05-24
 status: geldig
 toestand: 2024-05-24
 bron: "https://wetten.overheid.nl/BWBR0049724"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Autoriteit Consument en Markt (hierna: ACM) van 7 mei 2024, ACM/24/189053, tot vaststelling van archiefbeheersregels (Archiefbeheersregeling ACM 2024)

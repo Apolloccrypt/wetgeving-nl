@@ -9,7 +9,7 @@ laatste_update: 2024-06-04
 status: geldig
 toestand: 2024-06-04
 bron: "https://wetten.overheid.nl/BWBR0049754"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 27 mei 2024, kenmerk 3837852-1066539-PZO, inzake uitvoering van het amendement Dobbe in verband met de herijking van de nhc/nic binnen de Wlz

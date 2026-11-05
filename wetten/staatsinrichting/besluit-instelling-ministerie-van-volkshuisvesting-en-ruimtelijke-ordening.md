@@ -9,7 +9,7 @@ laatste_update: 2024-07-06
 status: geldig
 toestand: 2024-07-06
 bron: "https://wetten.overheid.nl/BWBR0049936"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van 2 juli 2024, nr. 2024001706, houdende instelling van een Ministerie van Volkshuisvesting en Ruimtelijke Ordening

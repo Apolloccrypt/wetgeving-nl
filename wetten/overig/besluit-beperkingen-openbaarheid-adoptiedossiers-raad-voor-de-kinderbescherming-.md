@@ -8,7 +8,7 @@ laatste_update: 2024-06-22
 status: geldig
 toestand: 2024-06-22
 bron: "https://wetten.overheid.nl/BWBR0049843"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit beperkingen openbaarheid adoptiedossiers Raad voor de Kinderbescherming (aanvulling 2024)

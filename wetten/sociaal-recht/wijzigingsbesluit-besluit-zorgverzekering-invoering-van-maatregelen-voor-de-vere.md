@@ -9,7 +9,7 @@ laatste_update: 2024-09-14
 status: geldig
 toestand: 2024-09-14
 bron: "https://wetten.overheid.nl/BWBR0050201"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van 9 september 2024, houdende wijziging van het Besluit zorgverzekering in verband met de invoering van maatregelen voor de vereveningsjaren 2023 en 2024

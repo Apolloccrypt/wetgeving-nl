@@ -9,7 +9,7 @@ laatste_update: 2025-03-04
 status: geldig
 toestand: 2025-03-04
 bron: "https://wetten.overheid.nl/BWBR0049791"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 4 juni 2024 nr. BOACAT2024/054, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij NS Groep N.V., Veiligheid en Service

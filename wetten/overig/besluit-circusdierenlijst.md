@@ -9,7 +9,7 @@ laatste_update: 2025-06-21
 status: geldig
 toestand: 2025-06-21
 bron: "https://wetten.overheid.nl/BWBR0049730"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 22 mei 2024, nr. WJZ/52423575, tot aanwijzing van circusdieren (Besluit circusdierenlijst)

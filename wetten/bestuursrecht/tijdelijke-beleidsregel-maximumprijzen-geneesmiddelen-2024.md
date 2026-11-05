@@ -9,7 +9,7 @@ laatste_update: 2024-07-01
 status: geldig
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0049717"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Beleidsregel van de Minister voor Medische Zorg van 14 mei 2024, kenmerk 3827699-1065264-GMT, over de tijdelijke toepassing van artikel 3, tweede lid, Wet geneesmiddelenprijzen in verband met de beschikbaarheid van geneesmiddelen (Tijdelijke beleidsregel maximumprijzen geneesmiddelen 2024)

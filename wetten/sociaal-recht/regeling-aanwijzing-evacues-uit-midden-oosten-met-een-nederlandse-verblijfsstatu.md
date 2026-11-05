@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-06-19
 toestand: 2024-06-20
 bron: "https://wetten.overheid.nl/BWBR0049827"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 17 juni 2024, nr. 2024-0000015643, tot aanwijzing van evacués uit het Midden-Oosten met een Nederlandse verblijfsstatus als groep wier huisvesting bijzondere zorg van rijkswege behoeft

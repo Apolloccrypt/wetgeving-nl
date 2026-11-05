@@ -9,7 +9,7 @@ laatste_update: 2026-02-26
 status: geldig
 toestand: 2026-02-26
 bron: "https://wetten.overheid.nl/BWBR0049641"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 22 april 2024 nr. OWB/44324005, houdende regels voor de subsidieverstrekking voor proof of principle-projecten en proof of concept-projecten in het kader van het Biotech Booster programma (Subsidieregeling Biotech Booster)

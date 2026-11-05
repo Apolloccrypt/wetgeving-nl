@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-04-29
 toestand: 2024-04-18
 bron: "https://wetten.overheid.nl/BWBR0049576"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat van 13 april 2024, nr. WJZ/ 52559000, tot voorlopige aanwijzing van de ambtenaren van de Autoriteit Consument en Markt als functionarissen belast met het verlenen van bijstand bij een inspectie in het kader van Verordening (EU) 2022/2560 van het Europees Parlement en de Raad van 14 december 2022 betreffende buitenlandse subsidies die de interne markt verstoren (Besluit voorlopige aanwijzing ambtenaren ACM als functionarissen belast met het verlenen van bijstand bij een inspectie op grond van de verordening buitenlandse subsidies)

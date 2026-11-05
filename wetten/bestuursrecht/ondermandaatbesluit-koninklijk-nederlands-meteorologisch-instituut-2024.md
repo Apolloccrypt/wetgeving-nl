@@ -9,7 +9,7 @@ laatste_update: 2024-05-30
 status: geldig
 toestand: 2024-05-30
 bron: "https://wetten.overheid.nl/BWBR0049748"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de hoofddirecteur Koninklijk Nederlands Meteorologisch Instituut, van 20 mei 2024, nr. KNMI-2024/2457, tot verlening van ondermandaat, volmacht en machtiging (Ondermandaatbesluit Koninklijk Nederlands Meteorologisch Instituut 2024)

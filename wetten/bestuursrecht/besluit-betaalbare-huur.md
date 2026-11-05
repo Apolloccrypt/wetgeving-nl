@@ -9,7 +9,7 @@ laatste_update: 2024-07-01
 status: geldig
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0049892"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit 26 juni 2024 tot wijziging van het Besluit huurprijzen woonruimte en het Besluit kwaliteit leefomgeving (Besluit betaalbare huur)

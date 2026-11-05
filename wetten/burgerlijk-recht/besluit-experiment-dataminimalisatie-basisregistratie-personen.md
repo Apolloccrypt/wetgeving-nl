@@ -9,7 +9,7 @@ laatste_update: 2024-04-22
 status: geldig
 toestand: 2024-04-22
 bron: "https://wetten.overheid.nl/BWBR0049596"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van 11 april 2024, houdende regels waarmee tijdelijk wordt afgeweken van de Wet basisregistratie personen in het kader van een experiment met beperking van de verstrekking van gegevens uit de basisregistratie personen (Besluit experiment dataminimalisatie basisregistratie personen)

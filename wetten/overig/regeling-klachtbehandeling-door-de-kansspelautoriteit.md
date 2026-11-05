@@ -9,7 +9,7 @@ laatste_update: 2024-07-09
 status: geldig
 toestand: 2024-07-09
 bron: "https://wetten.overheid.nl/BWBR0049939"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de raad van bestuur van de Kansspelautoriteit van 25 juni 2024, kenmerk 01.320.502, voor de behandeling van klaagschriften (Regeling klachtbehandeling door de Kansspelautoriteit)

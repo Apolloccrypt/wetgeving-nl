@@ -9,7 +9,7 @@ laatste_update: 2026-02-26
 status: geldig
 toestand: 2026-02-26
 bron: "https://wetten.overheid.nl/BWBR0050141"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de directeur-generaal Herstelbeleid van het programmadirectoraat-generaal Herstel van 30 juli 2024 (2024-395917) houdende het verlenen van ondermandaat en ondermachtiging aan de programmadirecteur Schulden, de vaktechnisch coördinatoren en de medewerkers bezwaar en beroep voor bezwaar- en (hoger) beroepsprocedures ter zake van de schuldenaanpak en ondersteuning van ouders in het buitenland in het kader van de Wet hersteloperatie toeslagen (Ondermandaatbesluit bezwaar- en (hoger) beroepsprocedures van de directeur-generaal Herstelbeleid inzake de schuldenaanpak en ondersteuning van ouders in het buitenland)

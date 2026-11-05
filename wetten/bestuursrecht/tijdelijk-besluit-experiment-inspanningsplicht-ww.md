@@ -9,7 +9,7 @@ laatste_update: 2024-06-01
 status: geldig
 toestand: 2024-06-01
 bron: "https://wetten.overheid.nl/BWBR0049720"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van 16 mei 2024 tot vaststelling van regels voor een experiment met de inspanningsplicht in de WW (Tijdelijk besluit experiment inspanningsplicht WW)

@@ -8,7 +8,7 @@ laatste_update: 2024-08-20
 status: geldig
 toestand: 2024-08-20
 bron: "https://wetten.overheid.nl/BWBR0050147"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Reglement Programmaraad Kenniscentrum Stelsel Gesubsidieerde Rechtsbijstand

@@ -9,7 +9,7 @@ laatste_update: 2025-11-26
 status: geldig
 toestand: 2025-11-26
 bron: "https://wetten.overheid.nl/BWBR0049688"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van 3 mei 2024, houdende regels inzake de toegankelijkheid van producten in verband met de implementatie van Richtlijn (EU) 2019/882 van het Europees Parlement en de Raad van 17 april 2019 inzake toegankelijkheidsvoorschriften voor producten en diensten (PbEU 2019, L 151) (Warenwetbesluit toegankelijkheidsvoorschriften 2024)

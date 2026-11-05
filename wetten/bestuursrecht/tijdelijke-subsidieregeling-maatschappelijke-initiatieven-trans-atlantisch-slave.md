@@ -9,7 +9,7 @@ laatste_update: 2025-11-01
 status: geldig
 toestand: 2025-11-01
 bron: "https://wetten.overheid.nl/BWBR0049977"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Tijdelijke regeling van de Staatssecretaris Koninkrijksrelaties en Digitalisering van 14 juni 2024 nr. 2024-0000349322, houdende subsidie maatschappelijke initiatieven trans-Atlantisch slavernijverleden voor het Caribisch deel van het Koninkrijk

@@ -9,7 +9,7 @@ laatste_update: 2024-08-16
 status: geldig
 toestand: 2024-08-16
 bron: "https://wetten.overheid.nl/BWBR0050139"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de directeur-generaal Herstelbeleid van het Ministerie van Financiën van 30 juli 2024 (2024-395919) houdende verlening van ondermandaat, volmacht en machtiging aan de Stichting Sociale Banken Nederland en de kredietbanken in het kader van schulden en herstel (Besluit ondermandaat, volmacht en machtiging voor SBN en de kredietbanken van de directeur-generaal Herstelbeleid in het kader van schulden en herstel toeslagen 2024)

@@ -9,7 +9,7 @@ laatste_update: 2026-02-18
 status: geldig
 toestand: 2026-02-18
 bron: "https://wetten.overheid.nl/BWBR0050200"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 4 september 2024, nr. KO/1510789, houdende regels voor de subsidieverstrekking aan scholen voor praktijkonderwijs voor het vergoeden van reiskosten aan leerlingen die entreeonderwijs volgen (Subsidieregeling tegemoetkoming reiskosten entreeleerlingen praktijkonderwijs)

@@ -9,7 +9,7 @@ laatste_update: 2024-07-24
 status: geldig
 toestand: 2024-07-24
 bron: "https://wetten.overheid.nl/BWBR0050053"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van 1 juli 2024, houdende instelling van de medaille voor hulpverlening en bijstand bij crises, rampen of grootschalige incidenten

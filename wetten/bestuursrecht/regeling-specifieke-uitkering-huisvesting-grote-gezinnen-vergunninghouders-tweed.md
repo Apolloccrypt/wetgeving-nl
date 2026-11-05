@@ -9,7 +9,7 @@ laatste_update: 2025-10-16
 status: geldig
 toestand: 2025-10-16
 bron: "https://wetten.overheid.nl/BWBR0049739"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 27 mei 2024, houdende regels voor het verlenen van een specifieke uitkering aan gemeenten ten behoeve van de versnelde huisvesting en begeleiding van grote gezinnen vergunninghouders (Regeling specifieke uitkering huisvesting grote gezinnen vergunninghouders tweede tranche)

@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-06-30
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0049830"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat van 17 juni 2024, nr. IENW/BSK-2024/166052, houdende tijdelijke aanwijzing van het Team Bijzondere Bijstand van de Douane als hulpverleningsdienst als bedoeld in artikel 29 van het Reglement verkeersregels en verkeerstekens 1990

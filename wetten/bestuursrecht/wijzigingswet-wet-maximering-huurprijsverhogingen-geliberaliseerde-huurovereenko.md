@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0049633"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Wet van 24 april 2024 tot wijziging van de Wet maximering huurprijsverhogingen geliberaliseerde huurovereenkomsten, van Boek 7 van het Burgerlijk Wetboek, van de Uitvoeringswet huurprijzen woonruimte en van de Wet goed verhuurderschap (verlenging, wijziging en handhaving van de maximering en verkorting van de verjaringstermijn voor huurverhogingen)

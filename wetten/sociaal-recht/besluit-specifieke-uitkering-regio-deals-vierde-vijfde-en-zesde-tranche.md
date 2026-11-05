@@ -9,7 +9,7 @@ laatste_update: 2024-07-20
 status: geldig
 toestand: 2024-07-20
 bron: "https://wetten.overheid.nl/BWBR0050035"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van 5 juli 2024, houdende regels voor het verstrekken van een specifieke uitkering of bijzondere uitkering ten behoeve van de uitvoeringsactiviteiten van Regio Deals, vijfde en zesde tranche (Besluit specifieke uitkering Regio Deals vierde, vijfde en zesde tranche)

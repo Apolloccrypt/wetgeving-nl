@@ -9,7 +9,7 @@ laatste_update: 2024-06-04
 status: geldig
 toestand: 2024-06-04
 bron: "https://wetten.overheid.nl/BWBR0049758"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Tijdelijke regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 24 mei 2024, nr. IENW/BSK-2024/144768, houdende vaststelling van regels voor de subsidiëring van activiteiten ter voorbereiding op de omschakeling naar de verwerking van circulaire plastics (Tijdelijke subsidieregeling omschakeling naar verwerking circulaire plastics)

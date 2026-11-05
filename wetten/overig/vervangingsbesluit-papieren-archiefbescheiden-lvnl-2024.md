@@ -9,7 +9,7 @@ laatste_update: 2024-09-18
 status: geldig
 toestand: 2024-09-18
 bron: "https://wetten.overheid.nl/BWBR0050206"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van het bestuur van Luchtverkeersleiding Nederland houdende de (wijze van) vervanging van papieren archiefbescheiden (Vervangingsbesluit papieren archiefbescheiden LVNL 2024)

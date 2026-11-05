@@ -9,7 +9,7 @@ laatste_update: 2024-08-09
 status: geldig
 toestand: 2024-08-09
 bron: "https://wetten.overheid.nl/BWBR0049719"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 14 mei 2024 nr. BOACAT2024/040, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de afdeling Onderwijs en Leerplicht, gemeente Amsterdam

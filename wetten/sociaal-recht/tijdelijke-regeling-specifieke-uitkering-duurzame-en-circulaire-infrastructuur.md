@@ -9,7 +9,7 @@ laatste_update: 2024-06-11
 status: geldig
 toestand: 2024-06-11
 bron: "https://wetten.overheid.nl/BWBR0049785"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 3 juni 2024, nr. IENW/BSK-2024/151875, houdende regels voor het verstrekken van een specifieke uitkering ter stimulering van circulaire en CO2-reducerende maatregelen in de grond-, weg- en waterbouw (Tijdelijke regeling specifieke uitkering duurzame en circulaire infrastructuur)

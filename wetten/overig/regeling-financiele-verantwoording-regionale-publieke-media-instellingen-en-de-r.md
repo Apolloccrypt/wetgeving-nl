@@ -9,7 +9,7 @@ laatste_update: 2024-06-04
 status: geldig
 toestand: 2024-06-04
 bron: "https://wetten.overheid.nl/BWBR0049773"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 24 mei 2024, nr. WJZ/44448983 (26116), houdende de vaststelling van een nieuw financieel handboek voor de regionale publieke media-instellingen en de RPO (Regeling financiële verantwoording regionale publieke media-instellingen en de RPO 2024)

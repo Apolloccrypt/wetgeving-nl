@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0050080"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de directeur Strafrechtketen van het directoraat-generaal Rechtspleging en Rechtshandhaving van het Ministerie van Justitie en Veiligheid van 24 juli mei 2024, nr. 5435793 houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan het hoofd van de onder de directie ressorterende afdeling (Mandaatbesluit DSK Justitie en Veiligheid 2024)

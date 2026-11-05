@@ -9,7 +9,7 @@ laatste_update: 2024-07-13
 status: geldig
 toestand: 2024-07-13
 bron: "https://wetten.overheid.nl/BWBR0049972"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 27 juni 2024, nr. 5501218, tot vaststelling van regels omtrent de toepassing van artikel 38 van het Besluit bezoldiging politie in geval van een beroepsziekte of een dienstongeval

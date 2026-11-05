@@ -9,7 +9,7 @@ laatste_update: 2024-08-20
 status: geldig
 toestand: 2024-08-20
 bron: "https://wetten.overheid.nl/BWBR0050155"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister van Klimaat en Groene Groei van 10 augustus 2024, nr. WJZ/ 63119461, tot vaststelling van het voorlopig correctiebedrag Subsidieregeling opschaling volledig hernieuwbare waterstofproductie via elektrolyse voor 2024

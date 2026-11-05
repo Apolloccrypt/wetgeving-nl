@@ -9,7 +9,7 @@ laatste_update: 2024-07-18
 status: geldig
 toestand: 2024-07-18
 bron: "https://wetten.overheid.nl/BWBR0050003"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 9 juli 2024 nr. BOACAT2024/063, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Heerenveen

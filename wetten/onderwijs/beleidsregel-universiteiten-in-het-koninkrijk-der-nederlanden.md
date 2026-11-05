@@ -9,7 +9,7 @@ laatste_update: 2024-08-31
 status: geldig
 toestand: 2024-08-31
 bron: "https://wetten.overheid.nl/BWBR0050167"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Beleidsregel van de raad van bestuur van de Nederlandse organisatie voor wetenschappelijk onderzoek van 21 februari 2024 betreffende het aanwijzen van organisaties in het Koninkrijk der Nederlanden ten behoeve van de uitvoering van artikel 1.1, eerste lid, aanhef en onder a, van de NWO Subsidieregeling (Beleidsregel Universiteiten in het Koninkrijk der Nederlanden), Nederlandse Organisatie voor Wetenschappelijk Onderzoek

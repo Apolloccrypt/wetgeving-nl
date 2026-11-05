@@ -9,7 +9,7 @@ laatste_update: 2024-06-20
 status: geldig
 toestand: 2024-06-20
 bron: "https://wetten.overheid.nl/BWBR0049838"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat van 7 juni 2024, nr. DGED/DE/45732471 handelend in overeenstemming met de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, inzake de keuze voor het instrument veiling voor de uitgifte van vergunningen voor commerciële digitale radio-omroep in DAB-laag 6 (Besluit bekendmaking veiling DAB-laag 6)

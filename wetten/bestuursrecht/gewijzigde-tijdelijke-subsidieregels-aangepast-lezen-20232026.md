@@ -8,7 +8,7 @@ laatste_update: 2024-07-05
 status: geldig
 toestand: 2024-07-05
 bron: "https://wetten.overheid.nl/BWBR0049915"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Gewijzigde tijdelijke subsidieregels Aangepast Lezen 2023–2026

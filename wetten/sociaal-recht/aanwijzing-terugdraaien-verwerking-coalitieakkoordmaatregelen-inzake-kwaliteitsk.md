@@ -9,7 +9,7 @@ laatste_update: 2024-06-21
 status: geldig
 toestand: 2024-06-21
 bron: "https://wetten.overheid.nl/BWBR0049845"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 13 juni 2024, kenmerk 3843749-1067232-PZO, inzake het terugdraaien van de verwerking van coalitieakkoordmaatregelen inzake het kwaliteitskader verpleeghuiszorg en het meerjarig contracteren voor het jaar 2025 binnen de Wet langdurige zorg

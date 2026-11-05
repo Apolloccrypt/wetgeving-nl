@@ -9,7 +9,7 @@ laatste_update: 2024-07-19
 status: geldig
 toestand: 2024-07-19
 bron: "https://wetten.overheid.nl/BWBR0050034"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Inkomstenbelasting. Kapitaalverzekering eigen woning, spaarrekening eigen woning, beleggingsrecht eigen woning en vóór 2001 bestaande kapitaalverzekeringen in box 3 (Verzamelbesluit kapitaalverzekeringen, SEW en BEW)

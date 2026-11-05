@@ -9,7 +9,7 @@ laatste_update: 2024-09-07
 status: geldig
 toestand: 2024-09-07
 bron: "https://wetten.overheid.nl/BWBR0050193"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de concerndirecteur Mens en Organisatie van het Ministerie van Infrastructuur en Waterstaat, van 5 augustus 2024, nr. IENW/BSK-2024/185405, tot verlening van ondermandaat, volmacht en machtiging aan de directeur Integriteit (Besluit ondermandaat directeur Integriteit Infrastructuur en Waterstaat)

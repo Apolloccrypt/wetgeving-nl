@@ -9,7 +9,7 @@ laatste_update: 2024-05-29
 status: geldig
 toestand: 2024-05-29
 bron: "https://wetten.overheid.nl/BWBR0049735"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Autoriteit Consument en Markt van 11 januari 2024, tot vaststelling van het Bestuursreglement ACM 2024

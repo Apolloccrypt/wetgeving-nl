@@ -9,7 +9,7 @@ laatste_update: 2025-07-02
 status: geldig
 toestand: 2025-07-02
 bron: "https://wetten.overheid.nl/BWBR0049592"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 16 april 2024 nr. BOACAT2024/036, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Vijfheerenlanden

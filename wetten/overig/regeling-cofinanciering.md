@@ -8,7 +8,7 @@ laatste_update: 2024-08-31
 status: geldig
 toestand: 2024-08-31
 bron: "https://wetten.overheid.nl/BWBR0050177"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling Cofinanciering

@@ -9,7 +9,7 @@ laatste_update: 2024-06-06
 status: geldig
 toestand: 2024-06-06
 bron: "https://wetten.overheid.nl/BWBR0049764"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Griffier van de Tweede Kamer der Staten-Generaal, houdende regels inzake het verlenen van mandaat en machtiging betreffende de uitvoering van de Wet open overheid en de Wet hergebruik van overheidsinformatie (Mandaatbesluit Woo en Who Tweede Kamer)

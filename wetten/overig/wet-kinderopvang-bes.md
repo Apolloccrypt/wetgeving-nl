@@ -9,7 +9,7 @@ laatste_update: 2026-04-01
 status: geldig
 toestand: 2026-04-01
 bron: "https://wetten.overheid.nl/BWBR0049771"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Wet van 22 mei 2024, houdende regels ten behoeve van de kinderopvang op Bonaire, Sint Eustatius en Saba (Wet kinderopvang BES)

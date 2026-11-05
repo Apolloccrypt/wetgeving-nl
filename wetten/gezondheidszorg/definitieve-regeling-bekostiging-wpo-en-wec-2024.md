@@ -9,7 +9,7 @@ laatste_update: 2024-08-01
 status: geldig
 toestand: 2024-08-01
 bron: "https://wetten.overheid.nl/BWBR0049931"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de Minister voor Primair- en Voortgezet Onderwijs van 21 juni 2024, nr. PO/FenV/46649158, houdende aanpassing van de bedragen voor bekostiging primair onderwijs voor het kalenderjaar 2024 en het vaststellen van de bedragen voor ondersteuning van leerlingen in het primair en voortgezet onderwijs kalenderjaar 2024 (Definitieve regeling bekostiging WPO en WEC 2024)

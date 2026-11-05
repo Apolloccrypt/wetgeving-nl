@@ -8,7 +8,7 @@ laatste_update: 2024-07-12
 status: geldig
 toestand: 2024-07-12
 bron: "https://wetten.overheid.nl/BWBR0049963"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling Geestelijk Verzorgers Defensie

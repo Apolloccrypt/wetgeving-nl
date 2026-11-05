@@ -9,7 +9,7 @@ laatste_update: 2025-03-01
 status: geldig
 toestand: 2025-03-01
 bron: "https://wetten.overheid.nl/BWBR0049769"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Wet van 22 mei 2024 tot wijziging van de Wet publieke gezondheid vanwege de invoering van een vergunningplicht en een meldplicht ter zake van het verrichten van handelingen met poliovirus en enkele andere wijzigingen

@@ -9,7 +9,7 @@ laatste_update: 2024-09-19
 status: geldig
 toestand: 2024-09-19
 bron: "https://wetten.overheid.nl/BWBR0050149"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 14 augustus 2024 nr. BOACAT2024/094, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de regionale eenheid Oost-Nederland

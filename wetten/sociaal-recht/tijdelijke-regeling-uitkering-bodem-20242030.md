@@ -9,7 +9,7 @@ laatste_update: 2025-11-28
 status: geldig
 toestand: 2025-11-28
 bron: "https://wetten.overheid.nl/BWBR0049658"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 2 mei 2024, nr. IENW/BSK-2024/133084, houdende vaststelling van de tijdelijke regels inzake uitkeringen voor bodemsaneringen voor de periode 2024 tot en met 2030 (Tijdelijke regeling uitkering bodem 2024–2030)

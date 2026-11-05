@@ -9,7 +9,7 @@ laatste_update: 2024-07-01
 status: geldig
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0049844"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van 14 juni 2024, houdende regels met betrekking tot de grondslag van het verplicht elektronisch procederen in civiele zaken (Besluit grondslag verplicht elektronisch procederen in civiele zaken);

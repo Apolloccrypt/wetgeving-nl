@@ -9,7 +9,7 @@ laatste_update: 2025-07-22
 status: geldig
 toestand: 2025-07-22
 bron: "https://wetten.overheid.nl/BWBR0049787"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 3 juni 2024 nr. BOACAT2024/055, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente IJsselstein

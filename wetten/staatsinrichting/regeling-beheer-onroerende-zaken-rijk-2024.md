@@ -9,7 +9,7 @@ laatste_update: 2025-11-12
 status: geldig
 toestand: 2025-11-12
 bron: "https://wetten.overheid.nl/BWBR0049701"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 13 mei 2024, nr. 2024-0000249690, houdende bepalingen omtrent het materieelbeheer en privaatrechtelijk beheer van onroerende zaken van het Rijk (Regeling beheer onroerende zaken Rijk 2024)

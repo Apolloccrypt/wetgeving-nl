@@ -9,7 +9,7 @@ laatste_update: 2024-05-07
 status: geldig
 toestand: 2024-05-07
 bron: "https://wetten.overheid.nl/BWBR0049671"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat van 16 april 2024, nr. IENW/BSK-2024/117441, houdende verlening van mandaat, volmacht en machtiging aan de algemeen directeur van het Centraal Justitieel Incassobureau voor de uitvoering van enkele artikelen van de Wet vrachtwagenheffing (Besluit mandaat, volmacht en machtiging CJIB voor de uitvoering van de Wet vrachtwagenheffing)

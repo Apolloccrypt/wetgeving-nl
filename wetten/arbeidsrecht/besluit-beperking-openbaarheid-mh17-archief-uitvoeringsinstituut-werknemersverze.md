@@ -8,7 +8,7 @@ laatste_update: 2024-04-26
 status: geldig
 toestand: 2024-04-26
 bron: "https://wetten.overheid.nl/BWBR0049607"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit beperking openbaarheid MH17-archief Uitvoeringsinstituut Werknemersverzekeringen

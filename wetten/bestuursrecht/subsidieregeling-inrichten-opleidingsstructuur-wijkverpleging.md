@@ -9,7 +9,7 @@ laatste_update: 2024-09-04
 status: geldig
 toestand: 2024-09-04
 bron: "https://wetten.overheid.nl/BWBR0050178"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 26 augustus 2024, kenmerk 3960009-1070155-MEVA, houdende regels voor de verstrekking van subsidie ter ondersteuning van samenwerkingsverbanden bij het inrichten van een vernieuwde opleidingsstructuur (Subsidieregeling Inrichten Opleidingsstructuur Wijkverpleging)

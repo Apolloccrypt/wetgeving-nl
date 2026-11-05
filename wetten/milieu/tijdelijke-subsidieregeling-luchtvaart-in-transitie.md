@@ -9,7 +9,7 @@ laatste_update: 2026-03-24
 status: geldig
 toestand: 2026-03-24
 bron: "https://wetten.overheid.nl/BWBR0049662"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 22 april 2024, nr. IENW/BSK-2024/124323, houdende vaststelling van de Tijdelijke subsidieregeling Luchtvaart in Transitie

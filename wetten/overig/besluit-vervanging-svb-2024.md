@@ -8,7 +8,7 @@ laatste_update: 2024-06-07
 status: geldig
 toestand: 2024-06-07
 bron: "https://wetten.overheid.nl/BWBR0049775"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit Vervanging SVB 2024

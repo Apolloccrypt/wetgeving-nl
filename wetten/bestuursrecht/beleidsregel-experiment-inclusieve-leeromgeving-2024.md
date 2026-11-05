@@ -9,7 +9,7 @@ laatste_update: 2024-06-22
 status: geldig
 toestand: 2024-06-22
 bron: "https://wetten.overheid.nl/BWBR0049848"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Beleidsregel van de Minister voor Primair en Voortgezet Onderwijs van 12 juni 2024 nr. KO/ 44700691, houdende regels voor een experiment gericht op de inclusie van leerlingen middels integratie van het gespecialiseerd onderwijs in het regulier onderwijs (Beleidsregel experiment inclusieve leeromgeving 2024)

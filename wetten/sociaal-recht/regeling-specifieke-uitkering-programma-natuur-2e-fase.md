@@ -9,7 +9,7 @@ laatste_update: 2024-06-27
 status: geldig
 toestand: 2024-06-27
 bron: "https://wetten.overheid.nl/BWBR0049864"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de Minister voor Natuur en Stikstof van 24 juni 2024, nr. WJZ/ 59263981, houdende regels voor het verstrekken van eenmalige specifieke uitkeringen in verband met de uitvoering van het Uitvoeringsprogramma Natuur (Regeling specifieke uitkering Programma Natuur 2e fase)

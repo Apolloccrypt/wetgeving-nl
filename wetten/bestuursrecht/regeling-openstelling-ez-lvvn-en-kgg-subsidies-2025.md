@@ -5,11 +5,11 @@ identifier: "BWBR0050592"
 categorie: "Milieu"
 soort: "ministeriele-regeling"
 publicatiedatum: 2025-01-01
-laatste_update: 2026-08-20
+laatste_update: 2026-10-29
 status: geldig
-toestand: 2026-08-20
+toestand: 2026-10-29
 bron: "https://wetten.overheid.nl/BWBR0050592"
-opgehaald: 2026-10-23
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de Minister van Economische Zaken, de Minister van Landbouw, Visserij, Voedselkwaliteit en Natuur en de Minister van Klimaat en Groene Groei van 18 december 2024, nr. WJZ/ 95850148 tot vaststelling van de subsidieplafonds en termijnen van openstelling van subsidie-instrumenten op hun respectievelijke beleidsterreinen (Regeling openstelling EZK- en LNV-subsidies 2025)
@@ -39,16 +39,16 @@ opgehaald: 2026-10-23
 | Titel 2.26: Sanering garnalenvisserij | artikel 2.26.2, eerste lid | Garnalenvissers |  | 03-11-2025 t/m 02-02-2026 | € 40.000.000 |
 | Titel 2.28: Hygiënisatie- en drooginstallaties | 2.28.2, eerste lid, onder a | Intermediaire onderneming | Inrichting van een hygiënisatieinstallatie | 1-12-2025 t/m 27-02-2026 | 3.750.000 |
 |  | 2.28.2, eerste lid, onder b | Intermediaire onderneming | Inrichting van een drooginstallatie | 1-12-2025 t/m 27-02-2026 | 3.750.000 |
-| Titel 3.2: PPS-Innovatie | 3.2.2 | Stichting TKI Agri&Food |  | 07-11-2025 t/m 31-12-2025 | € 11.447.336 |
+| Titel 3.2: PPS-Innovatie | 3.2.2 | Stichting TKI Agri&Food |  | 07-11-2025 t/m 31-12-2025 | € 11.898.510 |
 | Titel 3.2: PPS-Innovatie | 3.2.2 | Stichting TKI CLICKNL |  | 07-11-2025 t/m 31-12-2025 | € 3.855.334 |
-| Titel 3.2: PPS-Innovatie | 3.2.2 | Stichting TKI Deltatechnologie |  | 07-11-2025 t/m 31-12-2025 | € 4.899.467 |
-| Titel 3.2: PPS-Innovatie | 3.2.2 | Stichting TKI Energie |  | 07-11-2025 t/m 31-12-2025 | € 17.343.105 |
-| Titel 3.2: PPS-Innovatie | 3.2.2 | Stichting TKI Groene Chemie & Circulariteit |  | 07-11-2025 t/m 31-12-2025 | € 11.857.825 |
-| Titel 3.2: PPS-Innovatie | 3.2.2 | Stichting TKI HTSM |  | 07-11-2025 t/m 31-12-2025 | € 42.849.800 |
+| Titel 3.2: PPS-Innovatie | 3.2.2 | Stichting TKI Deltatechnologie |  | 07-11-2025 t/m 31-12-2025 | € 5.065.358 |
+| Titel 3.2: PPS-Innovatie | 3.2.2 | Stichting TKI Energie |  | 07-11-2025 t/m 31-12-2025 | € 17.576.863 |
+| Titel 3.2: PPS-Innovatie | 3.2.2 | Stichting TKI Groene Chemie & Circulariteit |  | 07-11-2025 t/m 31-12-2025 | € 11.870.749 |
+| Titel 3.2: PPS-Innovatie | 3.2.2 | Stichting TKI HTSM |  | 07-11-2025 t/m 31-12-2025 | € 43.254.482 |
 | Titel 3.2: PPS-Innovatie | 3.2.2 | Stichting TKI ICT |  | 07-11-2025 t/m 31-12-2025 | € 6.010.461 |
-| Titel 3.2: PPS-Innovatie | 3.2.2 | Stichting Life Sciences Health – TKI |  | 07-11-2025 t/m 31-12-2025 | € 59.259.488 |
+| Titel 3.2: PPS-Innovatie | 3.2.2 | Stichting Life Sciences Health – TKI |  | 07-11-2025 t/m 31-12-2025 | € 61.759.488 |
 | Titel 3.2: PPS-Innovatie | 3.2.2 | Stichting TKI Logistiek |  | 07-11-2025 t/m 31-12-2025 | € 1.793.993 |
-| Titel 3.2: PPS-Innovatie | 3.2.2 | Stichting TKI Maritiem |  | 07-11-2025 t/m 31-12-2025 | € 1.781.743 |
+| Titel 3.2: PPS-Innovatie | 3.2.2 | Stichting TKI Maritiem |  | 07-11-2025 t/m 31-12-2025 | € 1.842.798 |
 | Titel 3.2: PPS-Innovatie | 3.2.2 | Stichting TKI Tuinbouw en Uitgangsmaterialen |  | 07-11-2025 t/m 31-12-2025 | € 8.365.081 |
 | Titel 3.2: PPS-Innovatie | 3.2.2 | Topconsortium for Knowledge and Innovation Water technology |  | 07-11-2025 t/m 31-12-2025 | € 6.360.595 |
 | Titel 3.4: MKB-innovatiestimulering topsectoren | 3.4.20 | MIT-R&D-samenwerkingsprojecten | 7.a. Digital Technologies: Artificiële Intelligentie (AI) | 08-04-2025 t/m 27-05-2025 | € 3.550.000 |

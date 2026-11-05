@@ -9,7 +9,7 @@ laatste_update: 2024-07-01
 status: geldig
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0049784"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 21 mei 2024, nr. 2024-0000281496, houdende vaststelling van het Controleprotocol Wet normering topinkomens 2024 (Regeling Controleprotocol WNT 2024)

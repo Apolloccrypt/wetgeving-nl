@@ -9,7 +9,7 @@ laatste_update: 2024-05-09
 status: geldig
 toestand: 2024-05-09
 bron: "https://wetten.overheid.nl/BWBR0049683"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 1 mei 2024 nr. BOACAT2024/041, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Noardeast-Fryslân

@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0049670"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Wet van 18 april 2024 tot wijziging van wetten op met name het terrein van onderwijs, cultuur en wetenschap in verband met het repareren van wetstechnische en redactionele vergissingen en verschrijvingen (Reparatiewet OCW 2024)

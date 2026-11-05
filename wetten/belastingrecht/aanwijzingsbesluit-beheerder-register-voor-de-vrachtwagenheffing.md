@@ -9,7 +9,7 @@ laatste_update: 2024-07-01
 status: geldig
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0049674"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat van 16 april 2024, nr. IENW/BSK-2024/117424, houdende aanwijzing van de beheerder van het register voor de vrachtwagenheffing, als bedoeld in artikel 24, tweede lid, van de Wet vrachtwagenheffing (Aanwijzingsbesluit beheerder register voor de vrachtwagenheffing)

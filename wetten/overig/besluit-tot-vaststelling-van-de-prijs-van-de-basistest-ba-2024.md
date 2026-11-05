@@ -9,7 +9,7 @@ laatste_update: 2024-05-22
 status: geldig
 toestand: 2024-05-22
 bron: "https://wetten.overheid.nl/BWBR0049715"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de algemene raad van de Nederlandse orde van advocaten van 8 april 2024 tot vaststelling van de prijs van de basistest voor de beroepsopleiding advocaten (Besluit tot vaststelling van de prijs van de basistest BA 2024)

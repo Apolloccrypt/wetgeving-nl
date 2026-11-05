@@ -9,7 +9,7 @@ laatste_update: 2026-10-30
 status: geldig
 toestand: 2026-10-30
 bron: "https://wetten.overheid.nl/BWBR0053256"
-opgehaald: 2026-11-04
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 22 oktober 2026, nr. BOACAT2026/067, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij regionale eenheid Den Haag/stagiair

@@ -9,7 +9,7 @@ laatste_update: 2024-07-06
 status: geldig
 toestand: 2024-07-06
 bron: "https://wetten.overheid.nl/BWBR0049940"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van 14 juni 2024, nr. 2024000297, houdende vaststelling en inwerkingtreding van de Selectielijst van de Tweede Kamer der Staten-Generaal vanaf 5 mei 1945

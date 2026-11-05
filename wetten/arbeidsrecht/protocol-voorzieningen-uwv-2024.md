@@ -8,7 +8,7 @@ laatste_update: 2024-04-19
 status: geldig
 toestand: 2024-04-19
 bron: "https://wetten.overheid.nl/BWBR0049587"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Protocol Voorzieningen UWV 2024

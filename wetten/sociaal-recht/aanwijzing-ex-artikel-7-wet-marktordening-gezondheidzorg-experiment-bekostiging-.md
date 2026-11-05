@@ -9,7 +9,7 @@ laatste_update: 2024-04-29
 status: geldig
 toestand: 2024-04-29
 bron: "https://wetten.overheid.nl/BWBR0049629"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Aanwijzing van de Minister voor Medische Zorg van 19 april 2024, kenmerk 3805336-1064180-PZO, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake het experiment bekostiging van patiëntengroepsgebonden afstemming van zorg en ondersteuning voor specifieke categorieën verzekerden

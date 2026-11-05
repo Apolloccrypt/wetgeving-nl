@@ -9,7 +9,7 @@ laatste_update: 2024-07-10
 status: geldig
 toestand: 2024-07-10
 bron: "https://wetten.overheid.nl/BWBR0049945"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Staatssecretaris van Financiën – Toeslagen en Douane, van 27 juni 2024, nr. 2024-362315, houdende beleidsregels over procesrechtelijke aspecten van de uitvoering van de hersteloperatie toeslagen (Beleid procesrecht herstel toeslagen)

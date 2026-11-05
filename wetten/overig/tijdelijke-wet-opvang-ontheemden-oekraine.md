@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0049876"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Wet van 19 juni 2024 tot tijdelijke regels over de opvang van ontheemden uit Oekraïne (Tijdelijke wet opvang ontheemden Oekraïne)

@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-04-17
 toestand: 2024-04-18
 bron: "https://wetten.overheid.nl/BWBR0049579"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 10 april 2024 nr. BOACAT2024/034, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Lelystad

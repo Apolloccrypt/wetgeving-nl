@@ -8,7 +8,7 @@ laatste_update: 2024-05-01
 status: geldig
 toestand: 2024-05-01
 bron: "https://wetten.overheid.nl/BWBR0049591"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Beleidsregel bestuurlijke boete Wmg 2024

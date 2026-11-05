@@ -9,7 +9,7 @@ laatste_update: 2025-01-18
 status: geldig
 toestand: 2025-01-18
 bron: "https://wetten.overheid.nl/BWBR0050190"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur van 4 september 2024, nr. WJZ/86218195, houdende regels over het verstrekken van een specifieke uitkering aan provincies ten behoeve van PAS-melders (Regeling provinciale maatregelen PAS-melders 2024)

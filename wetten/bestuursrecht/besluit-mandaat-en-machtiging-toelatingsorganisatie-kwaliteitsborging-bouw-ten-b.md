@@ -9,7 +9,7 @@ laatste_update: 2024-05-17
 status: geldig
 toestand: 2024-05-17
 bron: "https://wetten.overheid.nl/BWBR0049702"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 7 mei 2024, nr. 2024-0000233924, tot verlening van mandaat en machtiging aan de Toelatingsorganisatie Kwaliteitsborging Bouw ten behoeve van de uitvoering van de wettelijke taken certificering werkzaamheden aan gasverbrandingsinstallaties (CO-stelsel) en tot verlening van volmacht om toe te zien op het gebruik van het beeldmerk ‘CO-VRIJ’

@@ -9,7 +9,7 @@ laatste_update: 2024-05-02
 status: geldig
 toestand: 2024-05-02
 bron: "https://wetten.overheid.nl/BWBR0049644"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de raad van bestuur van de Kansspelautoriteit van 23 april 2024, kenmerk 01.314.617, tot instelling van een (interne) adviescommissie voor de behandeling van bezwaarschriften (Besluit Adviescommissie bezwaarschriften Kansspelautoriteit 2024)

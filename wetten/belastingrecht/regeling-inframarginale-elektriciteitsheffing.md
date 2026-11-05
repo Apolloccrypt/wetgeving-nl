@@ -9,7 +9,7 @@ laatste_update: 2024-07-25
 status: geldig
 toestand: 2024-07-25
 bron: "https://wetten.overheid.nl/BWBR0050062"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de Minister van Klimaat en Groene Groei en de Staatssecretaris van Financiën van 14 juli 2024, nr. WJZ/ 34586198, houdende nadere regels voor de berekening van marktinkomsten uit de productie van elektriciteit ten behoeve van de Tijdelijke wet inframarginale elektriciteitsheffing en aanvulling van de Regeling elektronisch berichtenverkeer Belastingdienst (Regeling inframarginale elektriciteitsheffing)

@@ -9,7 +9,7 @@ laatste_update: 2024-07-03
 status: geldig
 toestand: 2024-07-03
 bron: "https://wetten.overheid.nl/BWBR0049912"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de Minister voor Armoedebeleid, Participatie en Pensioenen van 24 juni 2024, nr. 2024-0000164084 tot het verlenen van mandaat, volmacht en machtiging aan de voorzitter van de Raad van bestuur van de Sociale verzekeringsbank ter uitvoering van het Besluit van 6 oktober 2023, houdende de toekenning van een eenmalig bedrag aan ouderen van Surinaamse herkomst (Tijdelijk besluit eenmalig bedrag ouderen van Surinaamse herkomst, Stb. 2023, 386)

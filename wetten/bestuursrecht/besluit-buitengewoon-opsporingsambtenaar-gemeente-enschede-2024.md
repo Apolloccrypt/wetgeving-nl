@@ -9,7 +9,7 @@ laatste_update: 2025-02-01
 status: geldig
 toestand: 2025-02-01
 bron: "https://wetten.overheid.nl/BWBR0050195"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Staatsecretaris van Justitie en Veiligheid, van 4 september 2024 nr. BOACAT2024/102, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Enschede

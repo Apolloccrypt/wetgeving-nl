@@ -4,11 +4,11 @@ identifier: "BWBV0006367"
 categorie: "Overig"
 soort: "verdrag"
 publicatiedatum: 2018-12-18
-laatste_update: 2024-01-01
+laatste_update: 2026-07-01
 status: geldig
-toestand: 2024-01-01
+toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBV0006367"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-05
 ---
 
 # Akte van Genève bij de Overeenkomst van 's-Gravenhage betreffende de internationale inschrijving van tekeningen of modellen van nijverheid

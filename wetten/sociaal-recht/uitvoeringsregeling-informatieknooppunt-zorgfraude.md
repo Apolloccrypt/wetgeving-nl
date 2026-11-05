@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0049849"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 13 juni 2024, kenmerk 3847849-1067214-PZO, houdende nadere regels ter uitvoering van de Wet bevorderen samenwerking en rechtmatige zorg en het Besluit bevorderen samenwerking en rechtmatige zorg in verband met het Informatieknooppunt zorgfraude (Uitvoeringsregeling Informatieknooppunt zorgfraude)

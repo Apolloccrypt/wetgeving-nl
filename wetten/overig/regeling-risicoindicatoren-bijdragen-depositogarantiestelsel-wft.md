@@ -9,7 +9,7 @@ laatste_update: 2024-09-01
 status: geldig
 toestand: 2024-09-01
 bron: "https://wetten.overheid.nl/BWBR0050060"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van De Nederlandsche Bank N.V. van 18 juni 2024 houdende regels inzake het gebruik van de risicoindicatoren bij het berekenen van risicoscores van banken ten behoeve van het depositogarantiestelsel (Regeling risicoindicatoren bijdragen depositogarantiestelsel Wft 2024)

@@ -8,7 +8,7 @@ laatste_update: 2024-05-01
 status: geldig
 toestand: 2024-05-01
 bron: "https://wetten.overheid.nl/BWBR0049594"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Richtlijn voor strafvordering bij meerderjarige veelplegers (in het bijzonder de vordering van de ISD-maatregel bij stelselmatige daders)

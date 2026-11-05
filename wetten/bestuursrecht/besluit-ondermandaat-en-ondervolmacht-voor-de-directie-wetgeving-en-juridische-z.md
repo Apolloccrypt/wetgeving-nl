@@ -9,7 +9,7 @@ laatste_update: 2024-07-11
 status: geldig
 toestand: 2024-07-11
 bron: "https://wetten.overheid.nl/BWBR0049959"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de directeur Wetgeving en Juridische Zaken van het Ministerie van Volksgezondheid, Welzijn en Sport van 8 juli 2024, kenmerk 3872779-1068217-WJZ houdende de verlening van algemeen en bijzonder ondermandaat en algemene en bijzondere ondervolmacht voor de directie Wetgeving en Juridische Zaken van het Ministerie van Volksgezondheid, Welzijn en Sport (Besluit ondermandaat en ondervolmacht voor de directie Wetgeving en Juridische Zaken van VWS)

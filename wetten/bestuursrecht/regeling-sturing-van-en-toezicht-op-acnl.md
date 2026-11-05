@@ -9,7 +9,7 @@ laatste_update: 2024-10-01
 status: geldig
 toestand: 2024-10-01
 bron: "https://wetten.overheid.nl/BWBR0049883"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat van 13 juni 2024, IENW/BSK-2024/98337, houdende vaststelling regels in verband met de sturing van en het toezicht op Airport Coordination Netherlands (Regeling sturing van en toezicht op ACNL)

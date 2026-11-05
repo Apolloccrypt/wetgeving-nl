@@ -9,7 +9,7 @@ laatste_update: 2024-08-01
 status: geldig
 toestand: 2024-08-01
 bron: "https://wetten.overheid.nl/BWBR0050079"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de directeur Rechtshandhaving en Criminaliteitsbestrijding van het directoraat-generaal Rechtspleging en Rechtshandhaving van het Ministerie van Justitie en Veiligheid van 29 mei 2024, nr. 5435808 houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan de hoofden van de onder de directie ressorterende afdelingen (Mandaatbesluit DRC Justitie en Veiligheid 2024)

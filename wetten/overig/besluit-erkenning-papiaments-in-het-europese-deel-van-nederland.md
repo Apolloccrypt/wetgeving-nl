@@ -9,7 +9,7 @@ laatste_update: 2024-07-03
 status: geldig
 toestand: 2024-07-03
 bron: "https://wetten.overheid.nl/BWBR0049908"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 10 juni 2024, nr. 2024-0000344837, tot erkenning van het Papiaments in het Europese deel van Nederland onder deel II van het Europees Handvest voor regionale talen of talen van minderheden

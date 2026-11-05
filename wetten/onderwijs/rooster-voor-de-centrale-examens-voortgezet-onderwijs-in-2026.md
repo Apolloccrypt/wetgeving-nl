@@ -9,7 +9,7 @@ laatste_update: 2026-03-14
 status: geldig
 toestand: 2026-03-14
 bron: "https://wetten.overheid.nl/BWBR0049954"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van het College voor toetsen en examens van 24 juni 2024, met nummer CvTE-24.00932 houdende het vaststellen van het tijdstip van de toetsen van de centrale examens voor 2026 (Rooster voor de centrale examens voortgezet onderwijs in 2026)

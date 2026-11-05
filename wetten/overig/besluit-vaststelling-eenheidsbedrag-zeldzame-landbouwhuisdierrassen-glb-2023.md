@@ -9,7 +9,7 @@ laatste_update: 2024-04-30
 status: geldig
 toestand: 2024-04-30
 bron: "https://wetten.overheid.nl/BWBR0049638"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 29 april 2024, nr. WJZ/52595041, houdende vaststelling van het eenheidsbedrag voor zeldzame landbouwhuisdierrassen GLB 2023

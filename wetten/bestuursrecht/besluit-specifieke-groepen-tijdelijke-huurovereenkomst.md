@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0049798"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van 5 juni 2024, houdende aanwijzing van groepen woningzoekenden met wie een huurovereenkomst voor bepaalde tijd kan worden aangegaan (Besluit specifieke groepen tijdelijke huurovereenkomst)

@@ -9,7 +9,7 @@ laatste_update: 2024-07-05
 status: geldig
 toestand: 2024-07-05
 bron: "https://wetten.overheid.nl/BWBR0049922"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de bewaarder van het kadaster en de openbare registers, houdende vaststelling beleidsregels voor teboekstelling van privéschepen en luchtvaartuigen in de openbare registers als bedoeld in artikel 16 van Boek 3 van het Burgerlijk Wetboek BES (Beleidsregels teboekstelling privéschepen en luchtvaartuigen BES)

@@ -8,7 +8,7 @@ laatste_update: 2024-05-11
 status: geldig
 toestand: 2024-05-11
 bron: "https://wetten.overheid.nl/BWBR0049691"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Onderlinge regeling Tula-studiebeurs

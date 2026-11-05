@@ -9,7 +9,7 @@ laatste_update: 2024-07-16
 status: geldig
 toestand: 2024-07-16
 bron: "https://wetten.overheid.nl/BWBR0049985"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van 4 juli 2024 tot wijziging van het Besluit EU-verordeningen Wft ter uitvoering van Verordening (EU) 2023/2845 (Uitvoeringsbesluit wijziging verordening centrale effectenbewaarinstellingen)

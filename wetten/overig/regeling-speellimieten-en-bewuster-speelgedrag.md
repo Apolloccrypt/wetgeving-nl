@@ -9,7 +9,7 @@ laatste_update: 2024-10-01
 status: geldig
 toestand: 2024-10-01
 bron: "https://wetten.overheid.nl/BWBR0049839"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de Minister voor Rechtsbescherming van 12 juni 2024, nr. 5531723, tot wijziging van de Regeling kansspelen op afstand en de Regeling werving, reclame en verslavingspreventie kansspelen inzake speellimieten en aanvullende maatregelen ten behoeve van bewuster speelgedrag (Regeling speellimieten en bewuster speelgedrag)

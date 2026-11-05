@@ -9,7 +9,7 @@ laatste_update: 2024-08-29
 status: geldig
 toestand: 2024-08-29
 bron: "https://wetten.overheid.nl/BWBR0050163"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van het MT-lid Juridische en Internationale Zaken van de directie Advies, Regie en Centrale autoriteit van het directoraat-generaal Straffen en Beschermen van het Ministerie van Justitie en Veiligheid van 20 augustus 2024, kenmerk nr. 5609434, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan de onder het MT-lid ressorterende functionarissen (Mandaatbesluit JIZ/DARC/DGSenB Ministerie van Justitie en Veiligheid 2024)

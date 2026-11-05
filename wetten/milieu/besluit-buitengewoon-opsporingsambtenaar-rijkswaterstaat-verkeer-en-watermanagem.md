@@ -9,7 +9,7 @@ laatste_update: 2024-12-18
 status: geldig
 toestand: 2024-12-18
 bron: "https://wetten.overheid.nl/BWBR0049958"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 24 juni 2024 nr. BOACAT2024/060, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Rijkswaterstaat Verkeer en Watermanagement

@@ -9,7 +9,7 @@ laatste_update: 2024-08-31
 status: geldig
 toestand: 2024-08-31
 bron: "https://wetten.overheid.nl/BWBR0050174"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van het hoofd van de Passagiersinformatie-eenheid Nederland van 20 augustus 2024, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan het plaatsvervangend hoofd van de Passagiersinformatie-eenheid Nederland inzake de behandeling van de rechten van betrokkene (Mandaatbesluit hoofd PI-NL 2024)

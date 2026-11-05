@@ -9,7 +9,7 @@ laatste_update: 2024-07-01
 status: geldig
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0049906"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Beleidsregel van de voorzitter van de Autoriteit online Terroristisch en Kinderpornografisch Materiaal (ATKM) van 1 juli over de bewaartermijn van persoonsgegevens kinderpornografisch materiaal (Beleidsregel bewaartermijn persoonsgegevens kinderpornografisch materiaal ATKM 2024)

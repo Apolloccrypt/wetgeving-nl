@@ -9,7 +9,7 @@ laatste_update: 2025-09-24
 status: geldig
 toestand: 2025-09-24
 bron: "https://wetten.overheid.nl/BWBR0049747"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 29 mei 2024, nr. 5458273, tot aanwijzing van aanvullende documenten waarmee ten behoeve van de uitoefening van het kiesrecht in Bonaire, Sint Eustatius en Saba de identiteit kan worden vastgesteld (Regeling aanwijzing documenten vaststellen identiteit Kieswet BES 2024)

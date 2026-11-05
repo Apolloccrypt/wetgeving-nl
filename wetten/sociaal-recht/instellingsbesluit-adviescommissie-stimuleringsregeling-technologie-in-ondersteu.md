@@ -9,7 +9,7 @@ laatste_update: 2024-11-30
 status: geldig
 toestand: 2024-11-30
 bron: "https://wetten.overheid.nl/BWBR0049888"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 24 juni 2024, kenmerk 3861814-1067971-MEVA, houdende de instelling van een adviescommissie voor de uitvoering van de Stimuleringsregeling Technologie in Ondersteuning en Zorg (Instellingsbesluit adviescommissie Stimuleringsregeling Technologie in Ondersteuning en Zorg)

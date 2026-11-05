@@ -9,7 +9,7 @@ laatste_update: 2024-08-07
 status: geldig
 toestand: 2024-08-07
 bron: "https://wetten.overheid.nl/BWBR0050101"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van het hoofd van de afdeling Internationale aangelegenheden en Rechtshulp in Strafzaken van de directie Juridische en Operationele Aangelegenheden van het directoraat-generaal Rechtspleging en Rechtshandhaving van het Ministerie van Justitie en Veiligheid van 30 juli 2024, nr. 5521125, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan bepaalde medewerkers van de afdeling Internationale aangelegenheden Rechtshulp in Strafzaken (Mandaatbesluit AIRS Justitie en Veiligheid 2024)

@@ -9,7 +9,7 @@ laatste_update: 2024-07-25
 status: geldig
 toestand: 2024-07-25
 bron: "https://wetten.overheid.nl/BWBR0050059"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Tijdelijke wet van 17 juli 2024 inzake invoering van een belasting op marktinkomsten van inframarginale elektriciteitsproductie overeenkomstig verordening (EU) 2022/1854 van de Raad van 6 oktober 2022 betreffende een noodinterventie in verband met de hoge energieprijzen (PbEU 2022, L 261 I) (Tijdelijke wet inframarginale elektriciteitsheffing)

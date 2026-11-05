@@ -9,7 +9,7 @@ laatste_update: 2024-07-23
 status: geldig
 toestand: 2024-07-23
 bron: "https://wetten.overheid.nl/BWBR0050049"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur 18 juli 2024, nr. WJZ/ 63453190, houdende een verbod op het binnenbrengen van bepaalde dieren en producten op Bonaire ter wering van mond- en klauwzeer (Regeling verbod in- en doorvoer dieren en producten MKZ Bonaire)

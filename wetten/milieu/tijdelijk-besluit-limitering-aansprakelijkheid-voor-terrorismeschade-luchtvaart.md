@@ -9,7 +9,7 @@ laatste_update: 2024-07-23
 status: geldig
 toestand: 2024-07-23
 bron: "https://wetten.overheid.nl/BWBR0049743"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van 21 mei 2024, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 110 van Boek 6 van het Burgerlijk Wetboek (Tijdelijk besluit limitering aansprakelijkheid voor terrorismeschade luchtvaart)

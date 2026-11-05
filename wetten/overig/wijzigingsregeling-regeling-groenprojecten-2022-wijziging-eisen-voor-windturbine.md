@@ -9,7 +9,7 @@ laatste_update: 2024-05-01
 status: geldig
 toestand: 2024-05-01
 bron: "https://wetten.overheid.nl/BWBR0049637"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, handelende in overeenstemming met en de Staatsecretaris van Financiën – Fiscaliteit en Belastingdienst, van 26 april 2024, nr. IENW/BSK-2024/97948, tot wijziging van de Regeling groenprojecten 2022 in verband met een wijziging van de eisen voor windturbines, fotovoltaïsche panelen en warmte-opwekkers

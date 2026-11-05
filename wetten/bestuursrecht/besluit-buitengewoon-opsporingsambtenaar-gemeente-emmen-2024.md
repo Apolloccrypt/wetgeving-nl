@@ -9,7 +9,7 @@ laatste_update: 2026-05-08
 status: geldig
 toestand: 2026-05-08
 bron: "https://wetten.overheid.nl/BWBR0049700"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 7 mei 2024 nr. BOACAT2024/037, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Emmen

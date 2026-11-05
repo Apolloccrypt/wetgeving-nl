@@ -9,7 +9,7 @@ laatste_update: 2026-06-03
 status: geldig
 toestand: 2026-06-03
 bron: "https://wetten.overheid.nl/BWBR0049842"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat van 17 juni 2024, nr. IENW/BSK-2024/160167, houdende vaststelling van de Tijdelijke subsidieregeling zero-emissie mobiliteit

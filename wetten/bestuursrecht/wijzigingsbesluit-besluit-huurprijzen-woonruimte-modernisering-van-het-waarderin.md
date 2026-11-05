@@ -9,7 +9,7 @@ laatste_update: 2024-07-01
 status: geldig
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0049904"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit 26 juni 2024 tot wijziging van het Besluit huurprijzen woonruimte (modernisering van het waarderingsstelsel voor onzelfstandige woonruimte)

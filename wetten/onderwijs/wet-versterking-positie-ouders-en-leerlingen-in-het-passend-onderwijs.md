@@ -9,7 +9,7 @@ laatste_update: 2025-08-01
 status: geldig
 toestand: 2025-08-01
 bron: "https://wetten.overheid.nl/BWBR0049824"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Wet van 22 mei 2024 tot wijziging van de Wet op het primair onderwijs, de Wet primair onderwijs BES, de Wet voortgezet onderwijs 2020, de Wet op de expertisecentra en de Wet medezeggenschap op scholen in verband met het versterken van de positie van leerlingen die extra ondersteuning behoeven en hun ouders (Wet versterking positie ouders en leerlingen in het passend onderwijs)

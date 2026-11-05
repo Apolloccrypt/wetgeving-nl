@@ -9,7 +9,7 @@ laatste_update: 2024-06-05
 status: geldig
 toestand: 2024-06-05
 bron: "https://wetten.overheid.nl/BWBR0049759"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 21 mei 2024, nr. E&K/45886423, houdende instelling van een Commissie ter beoordeling van de beschermwaardigheid van cultuurgoederen (Instellingsbesluit Commissie Beschermde Cultuurgoederen)

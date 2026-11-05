@@ -8,7 +8,7 @@ laatste_update: 2024-07-23
 status: geldig
 toestand: 2024-07-23
 bron: "https://wetten.overheid.nl/BWBR0050048"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Pilotregeling Leesbevordering Nederlands Letterenfonds

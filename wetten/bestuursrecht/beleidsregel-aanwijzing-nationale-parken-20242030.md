@@ -9,7 +9,7 @@ laatste_update: 2024-05-23
 status: geldig
 toestand: 2024-05-23
 bron: "https://wetten.overheid.nl/BWBR0049721"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Beleidsregel van de Minister voor Natuur en Stikstof van 21 mei 2024, nr. WJZ/52780336 tot nader specificeren van de eisen die worden gesteld aan de aanwijzing van nationale parken (Beleidsregel aanwijzing nationale parken)

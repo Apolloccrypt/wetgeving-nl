@@ -9,7 +9,7 @@ laatste_update: 2026-10-28
 status: geldig
 toestand: 2026-10-28
 bron: "https://wetten.overheid.nl/BWBR0040698"
-opgehaald: 2026-11-04
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat van 5 maart 2018, nr. IENW/BSK-2018/43439, houdende regels inzake het verstrekken van subsidie voor het transport van drinkwater of ander water op Bonaire, Sint Eustatius en Saba en voor de exploitatie van de RWZI op Bonaire over de kalenderjaren 2018 tot en met 2022 (Tijdelijke subsidieregeling drinkwater BES en rioolwaterzuiveringsinstallatie Bonaire 2018–2022)

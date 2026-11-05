@@ -8,7 +8,7 @@ laatste_update: 2024-05-04
 status: geldig
 toestand: 2024-05-04
 bron: "https://wetten.overheid.nl/BWBR0049656"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling volmacht personele aangelegenheden CBR 2024

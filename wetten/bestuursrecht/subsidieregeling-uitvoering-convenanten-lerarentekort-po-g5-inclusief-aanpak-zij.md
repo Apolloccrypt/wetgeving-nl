@@ -9,7 +9,7 @@ laatste_update: 2024-07-12
 status: geldig
 toestand: 2024-07-12
 bron: "https://wetten.overheid.nl/BWBR0049973"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 14 juni 2024, nr. PO/44103786, houdende regels voor de subsidieverstrekking voor de uitvoering van de convenanten voor de aanpak van het lerarentekort in het primair onderwijs, inclusief de integrale aanpak van zij-instroom in het primair onderwijs, in de gemeenten Amsterdam, Rotterdam, Den Haag, Utrecht en Almere (Subsidieregeling uitvoering convenanten lerarentekort PO G5 inclusief aanpak zij-instroom PO G5)

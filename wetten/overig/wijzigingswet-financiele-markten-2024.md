@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0050180"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Wet van 17 juli 2024 tot wijziging van de Wet op het financieel toezicht, de Wet toezicht trustkantoren 2018 en enige andere wetten op het terrein van de financiële markten (Wijzigingswet financiële markten 2024)

@@ -9,7 +9,7 @@ laatste_update: 2026-04-29
 status: geldig
 toestand: 2026-04-29
 bron: "https://wetten.overheid.nl/BWBR0049741"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 22 mei 2024 nr. BOACAT2024/049, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Nederlandse Kustwacht

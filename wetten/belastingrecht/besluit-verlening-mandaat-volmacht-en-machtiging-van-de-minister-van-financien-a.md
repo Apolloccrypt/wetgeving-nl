@@ -9,7 +9,7 @@ laatste_update: 2024-07-25
 status: geldig
 toestand: 2024-07-25
 bron: "https://wetten.overheid.nl/BWBR0050061"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister van Financiën van 12 juni 2024 (2024-337478) houdende de verlening van mandaat, volmacht en machtiging aan de directeur-generaal Herstelbeleid in het kader van de hersteloperatie toeslagen (Besluit verlening mandaat, volmacht en machtiging van de Minister van Financiën aan de directeur-generaal Herstelbeleid in het kader van de hersteloperatie toeslagen)

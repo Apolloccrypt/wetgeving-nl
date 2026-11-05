@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0049943"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Wet van 5 juni 2024 tot wijziging van de Gemeentewet, de Provinciewet, de Waterschapswet en de Wet openbare lichamen Bonaire, Sint Eustatius en Saba in verband met de participatieverordening en het uitdaagrecht van inwoners en maatschappelijke partijen (Wet versterking participatie op decentraal niveau)

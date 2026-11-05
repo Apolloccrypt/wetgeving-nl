@@ -9,7 +9,7 @@ laatste_update: 2024-06-01
 status: geldig
 toestand: 2024-06-01
 bron: "https://wetten.overheid.nl/BWBR0049728"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 16 mei 2024, kenmerk 5414074, houdende aanwijzing van functionarissen en ambtenaren van de Dienst Vervoer en Ondersteuning voor de uitvoering van de dienst bij de gerechten en het transport van personen die rechtens van hun vrijheid zijn beroofd (Aanwijzingsbesluit ambtenaren Dienst Vervoer en Ondersteuning)

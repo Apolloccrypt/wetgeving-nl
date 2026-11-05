@@ -9,7 +9,7 @@ laatste_update: 2024-04-17
 status: geldig
 toestand: 2024-04-17
 bron: "https://wetten.overheid.nl/BWBR0049575"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van 9 april 2024 tot wijziging van het Besluit inburgering 2021, het Besluit uitvoering Wet arbeid vreemdelingen 2022 en het Vreemdelingenbesluit 2000 in verband met de afschaffing van de verblijfsgrond voor vermogende vreemdelingen en andere aanpassingen die voortvloeien uit ontwikkelingen in de uitvoeringspraktijk en jurisprudentie alsmede van herstel van onduidelijkheden van de implementatie van EU-richtlijnen

@@ -9,7 +9,7 @@ laatste_update: 2024-06-27
 status: geldig
 toestand: 2024-06-27
 bron: "https://wetten.overheid.nl/BWBR0049868"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat, van 10 juni 2024, nr. IENW/BSK-2024/168186, houdende verlening van mandaat en machtiging aan de bestuursvoorzitter van de stichting Connekt voor de uitvoering van de Subsidieregeling stimulering modal shift van weg naar water of van weg naar spoor 2023–2026 (Mandaatbesluit Connekt 2024)

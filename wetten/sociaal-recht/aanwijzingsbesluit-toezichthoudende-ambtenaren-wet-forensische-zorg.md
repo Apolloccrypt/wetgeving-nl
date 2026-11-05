@@ -9,7 +9,7 @@ laatste_update: 2024-07-06
 status: geldig
 toestand: 2024-07-06
 bron: "https://wetten.overheid.nl/BWBR0049933"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 26 juni 2024, nr. 5551271, houdende aanwijzing van toezichthoudende ambtenaren bij de Inspectie Justitie en Veiligheid (Aanwijzingsbesluit toezichthoudende ambtenaren Wet forensische zorg)

@@ -8,7 +8,7 @@ laatste_update: 2024-06-04
 status: geldig
 toestand: 2024-06-04
 bron: "https://wetten.overheid.nl/BWBR0049751"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Reglement Raad van Advies Raad voor Rechtsbijstand 2024

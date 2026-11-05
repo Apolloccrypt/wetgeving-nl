@@ -9,7 +9,7 @@ laatste_update: 2025-04-01
 status: geldig
 toestand: 2025-04-01
 bron: "https://wetten.overheid.nl/BWBR0050133"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 19 juli 2024, nr. BZ2403605, houdende beperkende maatregelen ten aanzien van de Russische Federatie (Sanctieregeling binnenlandse repressie Russische Federatie 2024)

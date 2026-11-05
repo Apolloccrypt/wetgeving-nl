@@ -8,7 +8,7 @@ laatste_update: 2024-09-10
 status: geldig
 toestand: 2024-09-10
 bron: "https://wetten.overheid.nl/BWBR0050198"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Inspectiekader KB-stelsel

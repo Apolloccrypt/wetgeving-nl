@@ -9,7 +9,7 @@ laatste_update: 2024-12-14
 status: geldig
 toestand: 2024-12-14
 bron: "https://wetten.overheid.nl/BWBR0050102"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de secretaris-generaal van het Ministerie van Financiën 11 januari 2022 (2021-261153) houdende de instelling van het tijdelijke programmadirectoraat-generaal Herstel en het verlenen van mandaat, volmacht en machtiging aan de directeuren-generaal van het tijdelijke programmadirectoraat-generaal Herstel

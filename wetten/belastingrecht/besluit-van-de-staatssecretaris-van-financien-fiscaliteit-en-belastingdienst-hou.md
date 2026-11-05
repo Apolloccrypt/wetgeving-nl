@@ -9,7 +9,7 @@ laatste_update: 2024-06-14
 status: geldig
 toestand: 2024-06-14
 bron: "https://wetten.overheid.nl/BWBR0049801"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Staatssecretaris van Financiën – Fiscaliteit en Belastingdienst van 24 mei 2024 (2024-286732) houdende de verlening van mandaat, volmacht en machtiging op grond van de Wet politiegegevens aan de directeur-generaal Belastingdienst (Besluit van de Staatssecretaris van Financiën – Fiscaliteit en Belastingdienst houdende de verlening van mandaat, volmacht en machtiging op grond van de Wet politiegegevens aan de directeur-generaal Belastingdienst)

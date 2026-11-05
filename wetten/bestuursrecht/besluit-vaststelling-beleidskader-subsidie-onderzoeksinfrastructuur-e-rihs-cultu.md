@@ -9,7 +9,7 @@ laatste_update: 2026-07-09
 status: geldig
 toestand: 2026-07-09
 bron: "https://wetten.overheid.nl/BWBR0049953"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 28 juni 2024, nr. WJZ/46649123, houdende vaststelling van beleidsregels inzake subsidiëring ter stimulering van de onderzoeksinfrastructuur voor E-RIHS voor cultuurgoederen in Nederland (Besluit vaststelling Beleidskader subsidie onderzoeksinfrastructuur E-RIHS cultuurgoederen)

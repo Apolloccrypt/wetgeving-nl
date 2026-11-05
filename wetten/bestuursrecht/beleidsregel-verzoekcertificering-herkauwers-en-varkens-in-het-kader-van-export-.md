@@ -9,7 +9,7 @@ laatste_update: 2024-05-02
 status: geldig
 toestand: 2024-05-02
 bron: "https://wetten.overheid.nl/BWBR0049646"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Beleidsregel van de Inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister van Landbouw, Natuur en Voedselkwaliteit van 17 april 2024, over de verzoekcertificering van herkauwers en varkens in het kader van export naar derde landen

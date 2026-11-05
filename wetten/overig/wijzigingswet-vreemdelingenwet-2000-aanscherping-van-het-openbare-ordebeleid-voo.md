@@ -9,7 +9,7 @@ laatste_update: 2024-07-25
 status: geldig
 toestand: 2024-07-25
 bron: "https://wetten.overheid.nl/BWBR0050057"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Wet van 17 juli 2024 tot wijziging van de Vreemdelingenwet 2000 in verband met aanscherping van het openbare ordebeleid voor criminele vreemdelingen

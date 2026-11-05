@@ -8,7 +8,7 @@ laatste_update: 2024-07-27
 status: geldig
 toestand: 2024-07-27
 bron: "https://wetten.overheid.nl/BWBR0050070"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit beperking openbaarheid archief Centraal Planbureau van het Ministerie van Economische Zaken, (1945) 1990–1995 (1996) Inventaris CPB

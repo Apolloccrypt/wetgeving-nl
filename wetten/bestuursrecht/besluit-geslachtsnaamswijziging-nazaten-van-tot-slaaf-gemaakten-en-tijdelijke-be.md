@@ -9,7 +9,7 @@ laatste_update: 2024-07-01
 status: geldig
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0049707"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van 3 mei 2024 tot wijziging van het Besluit geslachtsnaamswijziging en de Regelen betreffende verzoeken tot naamswijziging en tot naamsvaststelling in verband met de tijdelijk kosteloze wijziging van geslachtsnamen van nazaten van tot slaaf gemaakten (Besluit geslachtsnaamswijziging nazaten van tot slaaf gemaakten en tijdelijke bekostiging)

@@ -9,7 +9,7 @@ laatste_update: 2024-06-22
 status: geldig
 toestand: 2024-06-22
 bron: "https://wetten.overheid.nl/BWBR0049847"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat van 17 juni 2024, nr. IENW/BSK-2024/137136, houdende vaststelling van de Beleidsregels Regeling gevelisolatie Schiphol 2023

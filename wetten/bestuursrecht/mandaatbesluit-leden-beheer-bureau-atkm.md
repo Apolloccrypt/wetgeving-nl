@@ -9,7 +9,7 @@ laatste_update: 2024-04-26
 status: geldig
 toestand: 2024-04-26
 bron: "https://wetten.overheid.nl/BWBR0049609"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de voorzitter van de Autoriteit online Terroristisch en Kinderpornografisch Materiaal van 18 april 2024, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan de leden van de Autoriteit online Terroristisch en Kinderpornografisch Materiaal ten aanzien van de aangelegenheden die het beheer van het bureau van de Autoriteit online Terroristisch en Kinderpornografisch Materiaal betreffen (Mandaatbesluit leden beheer bureau ATKM)

@@ -8,7 +8,7 @@ laatste_update: 2024-05-05
 status: geldig
 toestand: 2024-05-05
 bron: "https://wetten.overheid.nl/BWBR0049660"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit vaststelling selectielijst Koninklijke Nederlandsche Maatschappij tot bevordering der Geneeskunst

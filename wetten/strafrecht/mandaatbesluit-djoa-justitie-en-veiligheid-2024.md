@@ -9,7 +9,7 @@ laatste_update: 2024-08-07
 status: geldig
 toestand: 2024-08-07
 bron: "https://wetten.overheid.nl/BWBR0050098"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de directeur Juridische en Operationele Aangelegenheden van het directoraat-generaal Rechtspleging en Rechtshandhaving van het Ministerie van Justitie en Veiligheid van 30 juli 2024, nr. 5521133, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan de hoofden van de onder de directie ressorterende afdelingen (Mandaatbesluit DJOA Justitie en Veiligheid 2024)

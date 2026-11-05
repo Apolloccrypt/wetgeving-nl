@@ -8,7 +8,7 @@ laatste_update: 2024-09-13
 status: geldig
 toestand: 2024-09-13
 bron: "https://wetten.overheid.nl/BWBR0050199"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Beleidsregel uitgifte van abonnee-informatienummers 2024

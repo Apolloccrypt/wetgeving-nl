@@ -9,7 +9,7 @@ laatste_update: 2024-06-18
 status: geldig
 toestand: 2024-06-18
 bron: "https://wetten.overheid.nl/BWBR0049810"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid d.d. 2 mei 2024, kenmerk 5283140, houdende beperking van de openbaarheid van de Politiearchieven en restbestanden 1915–1975 (1977) van het Ministerie van Justitie

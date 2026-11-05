@@ -9,7 +9,7 @@ laatste_update: 2024-07-05
 status: geldig
 toestand: 2024-07-05
 bron: "https://wetten.overheid.nl/BWBR0049926"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit tot verlening van mandaat, volmacht en machtiging in cassatiezaken Douane (Besluit mandaatverlening, volmacht en machtiging in cassatiezaken Douane), d.d. 6 maart 2024 (DLK/HHB/2024/001)

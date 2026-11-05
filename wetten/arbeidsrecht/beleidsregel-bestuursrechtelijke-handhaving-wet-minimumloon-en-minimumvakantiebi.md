@@ -9,7 +9,7 @@ laatste_update: 2024-09-07
 status: geldig
 toestand: 2024-09-07
 bron: "https://wetten.overheid.nl/BWBR0050187"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 29 augustus 2024, nr. 2024-0000183525, tot vaststelling van de beleidsregel in het kader van bestuursrechtelijke handhaving van de Wet minimumloon en minimumvakantiebijslag (Beleidsregel bestuursrechtelijke handhaving Wet minimumloon en minimumvakantiebijslag 2024)

@@ -9,7 +9,7 @@ laatste_update: 2024-05-08
 status: geldig
 toestand: 2024-05-08
 bron: "https://wetten.overheid.nl/BWBR0049679"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Machtiging van de Minister van Economische Zaken en Klimaat van 26 april 2024, nr. WJZ/ 52313175, aan de directeur van het Nationaal Cyber Security Centrum van het Ministerie van Justitie en Veiligheid voor het verrichten van feitelijke handelingen namens het CSIRT voor digitale diensten (Machtiging directeur NCSC voor het verrichten van feitelijke handelingen die verband houden met een aantal taken van het CSIRT voor digitale diensten)

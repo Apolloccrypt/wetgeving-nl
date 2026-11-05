@@ -9,7 +9,7 @@ laatste_update: 2024-06-20
 status: geldig
 toestand: 2024-06-20
 bron: "https://wetten.overheid.nl/BWBR0049835"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat van 7 juni 2024, nr. WJZ/ 46102628, tot vaststelling van regels met betrekking tot de aanvraag en veiling van vergunningen voor digitale radio-omroep DAB in laag 6 (Regeling aanvraag- en veilingprocedure digitale radio-omroep DAB laag 6)

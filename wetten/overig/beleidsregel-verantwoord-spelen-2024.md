@@ -9,7 +9,7 @@ laatste_update: 2024-10-01
 status: geldig
 toestand: 2024-10-01
 bron: "https://wetten.overheid.nl/BWBR0049768"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Beleidsregel van de raad van bestuur van de Kansspelautoriteit van 23 mei 2024 over verantwoord spelen (Beleidsregel verantwoord spelen 2024)

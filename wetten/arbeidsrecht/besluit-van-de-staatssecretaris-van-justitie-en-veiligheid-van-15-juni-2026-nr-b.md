@@ -9,7 +9,7 @@ laatste_update: 2026-11-01
 status: geldig
 toestand: 2026-11-01
 bron: "https://wetten.overheid.nl/BWBR0052721"
-opgehaald: 2026-11-04
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 15 juni 2026 nr. BOACAT2026/040, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Uitvoeringsinstituut Werknemersverzekeringen (UWV)

@@ -9,7 +9,7 @@ laatste_update: 2024-07-20
 status: geldig
 toestand: 2024-07-20
 bron: "https://wetten.overheid.nl/BWBR0050037"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid d.d. 4 juli 2024, kenmerk 5421000, houdende beperking van de openbaarheid van het archief Gerechtsdeurwaarders 1923–1967 van het Ministerie van Justitie

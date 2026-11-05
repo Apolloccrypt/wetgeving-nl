@@ -9,7 +9,7 @@ laatste_update: 2026-07-10
 status: geldig
 toestand: 2026-07-10
 bron: "https://wetten.overheid.nl/BWBR0050165"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de Staatssecretaris van Justitie en Veiligheid van 14 augustus 2024, nr. 5556841, houdende aanwijzing niet-coöperatieve of coöperatieve rechtsgebieden voor belastingdoeleinden

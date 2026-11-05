@@ -8,7 +8,7 @@ laatste_update: 2026-06-26
 status: geldig
 toestand: 2026-06-26
 bron: "https://wetten.overheid.nl/BWBR0049794"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Vennootschapsbelasting, dividendbelasting; fiscale beleggingsinstelling; toepassing artikel 28 van de Wet op de vennootschapsbelasting 1969

@@ -9,7 +9,7 @@ laatste_update: 2024-05-04
 status: geldig
 toestand: 2024-05-04
 bron: "https://wetten.overheid.nl/BWBR0049676"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de inspecteur-generaal van het onderwijs van 2 april 2024, nr. 44240684, houdende de verlening van ondermandaat aan de directeur toezicht middelbaar beroepsonderwijs en hoger onderwijs van de inspectie van het onderwijs voor waarschuwingsbesluiten educatieopleidingen

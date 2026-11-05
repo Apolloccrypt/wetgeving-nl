@@ -8,7 +8,7 @@ laatste_update: 2024-04-24
 status: geldig
 toestand: 2024-04-24
 bron: "https://wetten.overheid.nl/BWBR0049605"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Circulaire uitreisverbod personen ex Tijdelijke wet bestuurlijke maatregelen terrorismebestrijding

@@ -9,7 +9,7 @@ laatste_update: 2024-09-07
 status: geldig
 toestand: 2024-09-07
 bron: "https://wetten.overheid.nl/BWBR0050188"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de directeur Advisering en Ondersteuning van het directoraat-generaal Rechtspleging en Rechtshandhaving van het Ministerie van Justitie en Veiligheid van 19 augustus 2024, nr. 5435843 houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan het hoofd van de onder de directie ressorterende afdeling (Mandaatbesluit DAO Justitie en Veiligheid 2024)

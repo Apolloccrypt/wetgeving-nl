@@ -9,7 +9,7 @@ laatste_update: 2024-05-03
 status: geldig
 toestand: 2024-05-03
 bron: "https://wetten.overheid.nl/BWBR0049649"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Waterstaat van 24 april 2024, nr IENW/BSK-2024/93989, houdende regels inzake de verlening van mandaat, volmacht en machtiging aan ProRail B.V. voor de uitvoering van bevoegdheden op grond van de Spoorwegwet en de Omgevingswet (Besluit mandaat, volmacht en machtiging ProRail 2024)

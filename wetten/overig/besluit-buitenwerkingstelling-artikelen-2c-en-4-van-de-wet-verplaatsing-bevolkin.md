@@ -9,7 +9,7 @@ laatste_update: 2024-06-27
 status: geldig
 toestand: 2024-06-27
 bron: "https://wetten.overheid.nl/BWBR0049875"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van 21 juni 2024, houdende buitenwerkingstelling van de artikelen 2c en 4 van de Wet verplaatsing bevolking

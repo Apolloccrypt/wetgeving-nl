@@ -8,7 +8,7 @@ laatste_update: 2024-08-20
 status: geldig
 toestand: 2024-08-20
 bron: "https://wetten.overheid.nl/BWBR0050146"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit vaststelling samenstelling Programmaraad Kenniscentrum Stelsel Gesubsidieerde Rechtsbijstand

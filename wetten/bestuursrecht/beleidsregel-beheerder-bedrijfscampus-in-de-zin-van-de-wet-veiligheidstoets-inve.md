@@ -9,7 +9,7 @@ laatste_update: 2024-06-19
 status: geldig
 toestand: 2024-06-19
 bron: "https://wetten.overheid.nl/BWBR0049823"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Beleidsregel van de Minister van Economische Zaken en Klimaat van 7 juni 2024, nr. WJZ/ 41089308, tot uitleg van de begripsomschrijving van beheerder van een bedrijfscampus als bedoeld in artikel 1 van de Wet veiligheidstoets investeringen, fusies en overnames (Beleidsregel beheerder bedrijfscampus in de zin van de Wet veiligheidstoets investeringen, fusies en overnames)

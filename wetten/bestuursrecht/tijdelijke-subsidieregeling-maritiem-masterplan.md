@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0049626"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 22 april 2024, nr. IENW/BSK-2024/122680, houdende vaststelling van tijdelijke regels ter stimulering van demonstraties Maritiem Masterplan (Tijdelijke subsidieregeling Maritiem Masterplan)

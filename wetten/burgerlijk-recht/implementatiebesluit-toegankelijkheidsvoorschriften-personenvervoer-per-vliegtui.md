@@ -9,7 +9,7 @@ laatste_update: 2025-06-28
 status: geldig
 toestand: 2025-06-28
 bron: "https://wetten.overheid.nl/BWBR0049746"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van 21 mei 2024, houdende regels betreffende toegankelijkheidsvoorschriften voor het personenvervoer per vliegtuig en over water ter implementatie van richtlijn (EU) 2019/882 van het Europees Parlement en de Raad van 17 april 2019 betreffende de toegankelijkheidsvoorschriften voor producten en diensten (Implementatiebesluit toegankelijkheidsvoorschriften personenvervoer per vliegtuig en over water)

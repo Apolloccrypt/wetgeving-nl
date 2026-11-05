@@ -9,7 +9,7 @@ laatste_update: 2024-07-20
 status: geldig
 toestand: 2024-07-20
 bron: "https://wetten.overheid.nl/BWBR0050038"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van 26 juni 2024, no. 2024001553, houdende het sluiten van de aanvraagtermijn voor de Inhuldigingsmedaille en de Herinneringsmedaille voor het bezoek aan het Caribisch deel van het Koninkrijk 2013

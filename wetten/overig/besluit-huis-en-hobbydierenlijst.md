@@ -9,7 +9,7 @@ laatste_update: 2025-06-21
 status: geldig
 toestand: 2025-06-21
 bron: "https://wetten.overheid.nl/BWBR0049611"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 17 april 2024, nr. WJZ/ 52639951, tot aanwijzing van diersoorten die gehouden mogen worden (Besluit huis- en hobbydierenlijst)

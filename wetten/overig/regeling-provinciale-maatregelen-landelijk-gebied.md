@@ -9,7 +9,7 @@ laatste_update: 2025-04-12
 status: geldig
 toestand: 2025-04-12
 bron: "https://wetten.overheid.nl/BWBR0049793"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de Minister voor Natuur en Stikstof van 7 juni 2024, nr. WJZ/ 58032956, houdende regels voor het verstrekken van specifieke uitkeringen aan provincies voor de gebiedsgerichte aanpak voor natuur, stikstof, water en klimaat (Regeling provinciale maatregelen landelijk gebied)

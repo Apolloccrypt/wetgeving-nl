@@ -9,7 +9,7 @@ laatste_update: 2024-05-29
 status: geldig
 toestand: 2024-05-29
 bron: "https://wetten.overheid.nl/BWBR0049733"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 15 mei 2024, nr O&B/42070906, houdende beperking van de openbaarheid van het archief van de Directie Onderzoek en Wetenschapsbeleid en taakvoorgangers van het Ministerie van Onderwijs, Cultuur en Wetenschap over de periode 1962–1997

@@ -8,7 +8,7 @@ laatste_update: 2025-11-26
 status: geldig
 toestand: 2025-11-26
 bron: "https://wetten.overheid.nl/BWBR0049964"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling Makers buiten het boek

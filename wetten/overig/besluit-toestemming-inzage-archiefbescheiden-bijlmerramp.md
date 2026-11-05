@@ -9,7 +9,7 @@ laatste_update: 2024-12-15
 status: geldig
 toestand: 2024-12-15
 bron: "https://wetten.overheid.nl/BWBR0050185"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat van 28 augustus 2024, nr. IENW/BSK-2024/227830, inzake toestemming tot inzage in archiefbescheiden met betrekking tot onderzoek naar het luchtvaartongeval dat op 4 oktober 1992 in de Bijlmermeer plaatsvond, zoals bij het Nationaal Archief geborgen in de archieven van de Raad voor de Luchtvaart en het Bureau Vooronderzoek Ongevallen en Incidenten van de Rijksluchtvaartdienst, 1924–1998 (2000), nummer toegang 2.16.107 (Besluit toestemming inzage archiefbescheiden Bijlmerramp)

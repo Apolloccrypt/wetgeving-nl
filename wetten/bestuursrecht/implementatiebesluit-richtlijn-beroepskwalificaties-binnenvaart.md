@@ -9,7 +9,7 @@ laatste_update: 2025-06-01
 status: geldig
 toestand: 2025-06-01
 bron: "https://wetten.overheid.nl/BWBR0049623"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van 18 april 2024 tot wijziging van het Binnenvaartbesluit ter implementatie van Richtlijn 2017/2397 van het Europees Parlement en de Raad betreffende de erkenning van beroepskwalificaties in de binnenvaart en tot intrekking van de richtlijnen 91/672/EEG en 96/50/EG van de Raad (Implementatiebesluit richtlijn beroepskwalificaties binnenvaart)

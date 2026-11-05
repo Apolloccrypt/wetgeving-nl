@@ -9,7 +9,7 @@ laatste_update: 2024-07-08
 status: geldig
 toestand: 2024-07-08
 bron: "https://wetten.overheid.nl/BWBR0049938"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Aanwijzing van de Minister voor Medische Zorg van het Ministerie van Volksgezondheid, Welzijn en Sport, 28 juni 2024, kenmerk 3861777-1067529-PZo, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake de modulaire bekostiging van ziekenhuisopleidingen via de beschikbaarheidbijdrage

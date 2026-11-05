@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0049816"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat, van 4 juni 2024, nr. IENW/BSK-2024/156904, houdende aanwijzing van DAEB-activiteiten Dienst Wegverkeer (RDW)

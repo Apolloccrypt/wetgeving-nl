@@ -9,7 +9,7 @@ laatste_update: 2024-05-09
 status: geldig
 toestand: 2024-05-09
 bron: "https://wetten.overheid.nl/BWBR0049680"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 18 april 2024, nr. HO&S/1532615, inzake migrerend werknemerschap en studiefinanciering (Beleidsregel migrerend werknemerschap en studiefinanciering)

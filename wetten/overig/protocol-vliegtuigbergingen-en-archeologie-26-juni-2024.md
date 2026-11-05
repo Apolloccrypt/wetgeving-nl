@@ -8,7 +8,7 @@ laatste_update: 2024-07-11
 status: geldig
 toestand: 2024-07-11
 bron: "https://wetten.overheid.nl/BWBR0049971"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Protocol Vliegtuigbergingen en Archeologie, 26 juni 2024

@@ -9,7 +9,7 @@ laatste_update: 2024-10-01
 status: geldig
 toestand: 2024-10-01
 bron: "https://wetten.overheid.nl/BWBR0049976"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van 5 juli 2024 tot wijziging van het Vuurwerkbesluit in verband met implementatie van de Benelux-beschikking betreffende de invoering van een pyro-pass en enkele andere wijzigingen

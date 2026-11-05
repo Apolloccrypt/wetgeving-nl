@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0049951"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van het College voor toetsen en examens van 24 juni 2024, nummer CvTE24.00909, houdende vaststelling van de syllabi voor de centrale examens in het vwo, havo en vmbo ten behoeve van het examenjaar 2026, nadere vaststelling van enkele eerder vastgestelde syllabi ten behoeve van het examenjaar 2025, tevens preliminaire vaststelling van één syllabus ten behoeve van het examenjaar 2027 (Regeling syllabi centrale examens vo 2026)

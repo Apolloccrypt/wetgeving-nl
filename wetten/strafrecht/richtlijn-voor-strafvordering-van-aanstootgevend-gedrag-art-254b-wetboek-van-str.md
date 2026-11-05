@@ -8,7 +8,7 @@ laatste_update: 2024-07-01
 status: geldig
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0049867"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Richtlijn voor strafvordering van aanstootgevend gedrag (art. 254b Wetboek van Strafrecht)

@@ -9,7 +9,7 @@ laatste_update: 2024-07-02
 status: geldig
 toestand: 2024-07-02
 bron: "https://wetten.overheid.nl/BWBR0049899"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Beleidsregel van de Staatssecretaris van Justitie en Veiligheid van 25 juni 2024, nummer 5568376, over het nemen van verdeelbesluiten in het kader van artikel 5 van de Wet gemeentelijke taak mogelijk maken asielopvangvoorzieningen (Beleidsregel verdeelbesluiten)

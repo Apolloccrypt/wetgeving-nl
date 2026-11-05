@@ -9,7 +9,7 @@ laatste_update: 2025-09-24
 status: geldig
 toestand: 2025-09-24
 bron: "https://wetten.overheid.nl/BWBR0049757"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 29 mei, nr. 5458274, tot aanwijzing van aanvullende documenten waarmee ten behoeve van de uitoefening van het kiesrecht de identiteit kan worden vastgesteld (Regeling aanwijzing documenten vaststellen identiteit Kieswet 2024)

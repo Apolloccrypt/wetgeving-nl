@@ -9,7 +9,7 @@ laatste_update: 2024-09-04
 status: geldig
 toestand: 2024-09-04
 bron: "https://wetten.overheid.nl/BWBR0049729"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van het Stimuleringsfonds voor de Journalistiek van 15 mei 2024, nr. LO2425, tot vaststelling van een subsidieregeling professionalisering Lokale Publieke Media-instellingen 2024–2025

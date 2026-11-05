@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0050069"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de directeur-generaal Rechtspleging en Rechtshandhaving van het Ministerie van Justitie en Veiligheid van 18 juli 2024 nr. 5607789 houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan onder de directeur-generaal ressorterende functionarissen (Mandaatbesluit DGRR Ministerie van Justitie en Veiligheid 2024)

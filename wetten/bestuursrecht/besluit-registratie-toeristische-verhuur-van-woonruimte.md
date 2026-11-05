@@ -9,7 +9,7 @@ laatste_update: 2026-11-01
 status: geldig
 toestand: 2026-11-01
 bron: "https://wetten.overheid.nl/BWBR0044586"
-opgehaald: 2026-11-04
+opgehaald: 2026-11-05
 ---
 
 # Besluit van 22 december 2020, houdende regels inzake de registratie van de toeristische verhuur van woonruimte

@@ -9,7 +9,7 @@ laatste_update: 2024-07-07
 status: geldig
 toestand: 2024-07-07
 bron: "https://wetten.overheid.nl/BWBR0049675"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 29 april 2024 BOACAT2024/038, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Recreatie Noord-Holland N.V.

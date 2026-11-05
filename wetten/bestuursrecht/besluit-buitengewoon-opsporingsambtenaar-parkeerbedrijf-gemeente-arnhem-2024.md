@@ -9,7 +9,7 @@ laatste_update: 2024-12-01
 status: geldig
 toestand: 2024-12-01
 bron: "https://wetten.overheid.nl/BWBR0050134"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 7 augustus 2024 nr. BOACAT2024/089, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Parkeerbedrijf gemeente Arnhem

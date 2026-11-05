@@ -9,7 +9,7 @@ laatste_update: 2024-05-01
 status: geldig
 toestand: 2024-05-01
 bron: "https://wetten.overheid.nl/BWBR0049685"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Beleidsregel van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 01-05-2024, nr. ILT-2024/17398 houdende regels tot vaststelling van boetebedragen voor overtredingen van artikel 120 van de Woningwet en artikel 6.27, eerste, tweede en vierde lid van het Besluit bouwwerken leefomgeving (Beleidsregel boeteoplegging verkoop en oplevering utiliteitsgebouwen zonder geldig energielabel 2024)

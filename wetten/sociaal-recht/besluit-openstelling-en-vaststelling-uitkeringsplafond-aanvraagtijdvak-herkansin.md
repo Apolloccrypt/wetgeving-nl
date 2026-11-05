@@ -9,7 +9,7 @@ laatste_update: 2024-04-25
 status: geldig
 toestand: 2024-04-25
 bron: "https://wetten.overheid.nl/BWBR0049631"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 25 april 2024 nr. 2024-0000248729 tot openstelling en vaststelling uitkeringsplafond aanvraagtijdvak voor de herkansing van de zesde tranche van de Woningbouwimpuls

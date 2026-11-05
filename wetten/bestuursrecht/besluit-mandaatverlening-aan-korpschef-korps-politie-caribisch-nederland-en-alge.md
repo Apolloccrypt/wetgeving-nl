@@ -9,7 +9,7 @@ laatste_update: 2024-07-02
 status: geldig
 toestand: 2024-07-02
 bron: "https://wetten.overheid.nl/BWBR0049910"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de directeur-generaal Politie en Veiligheidsregio’s van het Ministerie van Justitie en Veiligheid van 24 juni 2024 met kenmerk 4958432 houdende verlening van ondermandaat, volmacht en machtiging aan de korpschef van het politiekorps van Bonaire, Sint Eustatius en Saba en aan de algemeen commandant van het brandweerkorps van Bonaire, Sint Eustatius en Saba (Besluit mandaatverlening aan korpschef Korps Politie Caribisch Nederland en algemeen commandant Brandweerkorps Caribisch Nederland 2024)

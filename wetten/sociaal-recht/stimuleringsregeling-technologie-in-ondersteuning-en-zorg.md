@@ -9,7 +9,7 @@ laatste_update: 2025-07-12
 status: geldig
 toestand: 2025-07-12
 bron: "https://wetten.overheid.nl/BWBR0049581"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 9 april 2024, kenmerk 3796593-1063655-DMO, houdende stimulering van activiteiten ten behoeve van het implementeren en opschalen van digitale en hybride processen in zorg en ondersteuning (Stimuleringsregeling Technologie in Ondersteuning en Zorg)

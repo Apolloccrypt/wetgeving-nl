@@ -9,7 +9,7 @@ laatste_update: 2025-07-10
 status: geldig
 toestand: 2025-07-10
 bron: "https://wetten.overheid.nl/BWBR0049666"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van 8 april 2024, 2024000767, houdende instelling en benoeming van Adviescollege huis- en hobbydierenlijst (Besluit instelling en benoeming Adviescollege huis- en hobbydierenlijst 2023)

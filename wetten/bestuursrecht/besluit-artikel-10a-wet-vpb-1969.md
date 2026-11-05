@@ -8,7 +8,7 @@ laatste_update: 2024-06-15
 status: geldig
 toestand: 2024-06-15
 bron: "https://wetten.overheid.nl/BWBR0049814"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit artikel 10a Wet Vpb 1969

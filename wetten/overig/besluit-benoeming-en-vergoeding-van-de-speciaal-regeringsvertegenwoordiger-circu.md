@@ -9,7 +9,7 @@ laatste_update: 2024-06-04
 status: geldig
 toestand: 2024-06-04
 bron: "https://wetten.overheid.nl/BWBR0049774"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Waterstaat van 24 mei 2024, nr. IENW/BSK-2024/151785, houdende benoeming en vergoeding van de Speciaal Regeringsvertegenwoordiger Circulaire Economie

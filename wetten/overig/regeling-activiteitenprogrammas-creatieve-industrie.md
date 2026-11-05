@@ -9,7 +9,7 @@ laatste_update: 2024-07-10
 status: geldig
 toestand: 2024-07-10
 bron: "https://wetten.overheid.nl/BWBR0049941"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling activiteitenprogramma’s creatieve industrie

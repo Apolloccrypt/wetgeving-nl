@@ -8,7 +8,7 @@ laatste_update: 2024-08-13
 status: geldig
 toestand: 2024-08-13
 bron: "https://wetten.overheid.nl/BWBR0050127"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Handhavingskader CO-stelsel, Toelatingsorganisatie Kwaliteitsborging Bouw

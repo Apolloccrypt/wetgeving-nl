@@ -9,7 +9,7 @@ laatste_update: 2024-05-04
 status: geldig
 toestand: 2024-05-04
 bron: "https://wetten.overheid.nl/BWBR0049667"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 29 februari 2024, nr. MBO/44154614, houdende de verlening van mandaat aan de Inspectie van het Onderwijs voor waarschuwingsbesluiten educatieopleidingen

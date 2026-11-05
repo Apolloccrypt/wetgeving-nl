@@ -9,7 +9,7 @@ laatste_update: 2024-06-24
 status: geldig
 toestand: 2024-06-24
 bron: "https://wetten.overheid.nl/BWBR0049750"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 27 mei 2024 nr. BOACAT2024/052, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Unie van Waterschappen

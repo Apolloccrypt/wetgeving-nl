@@ -9,7 +9,7 @@ laatste_update: 2024-07-03
 status: geldig
 toestand: 2024-07-03
 bron: "https://wetten.overheid.nl/BWBR0049911"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de Staatssecretaris van Justitie en Veiligheid van 24 juni 2024, nr. 5477829, houdende een eenmalige specifieke uitkering voor de gemeenten met een Landelijke Vreemdelingen Voorziening in verband met de bekostiging

@@ -9,7 +9,7 @@ laatste_update: 2025-10-11
 status: geldig
 toestand: 2025-10-11
 bron: "https://wetten.overheid.nl/BWBR0050154"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 13 augustus 2024, kenmerk 3871925-1068062-PZo, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake de prestatie impactvolle transformaties binnen de Wet langdurige zorg

@@ -9,7 +9,7 @@ laatste_update: 2024-10-01
 status: geldig
 toestand: 2024-10-01
 bron: "https://wetten.overheid.nl/BWBR0050000"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 1 juli 2024, nr. IENW/BSK-2023/166587, houdende vaststelling van regels omtrent de pyro-pass (Regeling pyro-pass)

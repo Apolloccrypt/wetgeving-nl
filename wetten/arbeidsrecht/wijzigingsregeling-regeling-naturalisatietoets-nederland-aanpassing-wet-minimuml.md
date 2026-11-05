@@ -9,7 +9,7 @@ laatste_update: 2024-05-17
 status: geldig
 toestand: 2024-05-17
 bron: "https://wetten.overheid.nl/BWBR0049705"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de Staatssecretaris van Justitie en Veiligheid van 8 april 2024, nummer 5335029, tot wijziging van de Regeling naturalisatietoets Nederland in verband met de aanpassing van de Wet minimumloon en minimumvakantiebijslag

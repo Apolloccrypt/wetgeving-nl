@@ -9,7 +9,7 @@ laatste_update: 2024-07-30
 status: geldig
 toestand: 2024-07-30
 bron: "https://wetten.overheid.nl/BWBR0050077"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 21 juni 2024, nr. IENW/BSK-2024/172644, tot wijziging van de Regeling burgerluchthavens in verband met de implementatie van Doc 29 (voor vliegtuigen) en NORAH (voor helikopters) als nieuwe rekenmethodes voor geluidbelasting rondom regionale luchthavens

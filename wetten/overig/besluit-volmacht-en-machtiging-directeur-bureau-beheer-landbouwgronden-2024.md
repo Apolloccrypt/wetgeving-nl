@@ -9,7 +9,7 @@ laatste_update: 2024-06-26
 status: geldig
 toestand: 2024-06-26
 bron: "https://wetten.overheid.nl/BWBR0049865"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de directeur van het Bureau beheer landbouwgronden van 12 mei 2024, DGRTLG/ 52716928, houdende verlening van volmacht en machtiging Bureau beheer landbouwgronden 2024 (Besluit volmacht en machtiging directeur Bureau beheer landbouwgronden 2024)

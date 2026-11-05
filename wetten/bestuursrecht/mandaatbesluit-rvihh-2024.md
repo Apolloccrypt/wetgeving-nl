@@ -8,7 +8,7 @@ laatste_update: 2024-12-25
 status: geldig
 toestand: 2024-12-25
 bron: "https://wetten.overheid.nl/BWBR0050191"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Mandaatbesluit RvIHH 2024

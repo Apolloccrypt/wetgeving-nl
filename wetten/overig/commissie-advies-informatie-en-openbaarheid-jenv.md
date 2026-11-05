@@ -9,7 +9,7 @@ laatste_update: 2024-06-06
 status: geldig
 toestand: 2024-06-06
 bron: "https://wetten.overheid.nl/BWBR0049763"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 11 maart 2024, nr. 5192965/24/DI&I, houdende de herbenoeming en naamswijziging van de Commissie advies Informatie en Openbaarheid van het Ministerie van Justitie en Veiligheid (voorheen: Commissie advies informatiehuishouding JenV)

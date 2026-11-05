@@ -9,7 +9,7 @@ laatste_update: 2024-08-01
 status: geldig
 toestand: 2024-08-01
 bron: "https://wetten.overheid.nl/BWBR0050075"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van het College voor toetsen en examens van 23 juli 2024, nummer CvTE-24.01024, houdende vaststelling van regels voor een aangepaste wijze of vorm van examineren bij studenten met een handicap of chronisch ziekte bij centrale examens in het mbo (Regeling aangepaste wijze of vorm van examineren centrale examens mbo 2024)

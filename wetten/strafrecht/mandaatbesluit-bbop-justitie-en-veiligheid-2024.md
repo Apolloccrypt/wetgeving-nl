@@ -9,7 +9,7 @@ laatste_update: 2024-08-07
 status: geldig
 toestand: 2024-08-07
 bron: "https://wetten.overheid.nl/BWBR0050100"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van het hoofd van de afdeling Benoemingen, Burgercorrespondentie, Ondersteuning en Parlementaire zaken van het directoraat-generaal Rechtspleging en Rechtshandhaving van het Ministerie van Justitie en Veiligheid, van 30 juli 2024 nr. 5521129 houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan onder het hoofd ressorterende ambtenaren (Mandaatbesluit BBOP Justitie en Veiligheid 2024)

@@ -9,7 +9,7 @@ laatste_update: 2025-06-28
 status: geldig
 toestand: 2025-06-28
 bron: "https://wetten.overheid.nl/BWBR0049778"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van 17 mei 2024, houdende regels betreffende toegankelijkheidsvoorschriften voor e- boekdiensten ter implementatie van Richtlijn (EU) 2019/882 van de Europese Commissie en de Raad van 17 april 2019 inzake toegankelijkheidsvoorschriften voor producten en diensten (PbEU, 2019, L 151) (Implementatiebesluit toegankelijkheidsvoorschriften e-boekdiensten)

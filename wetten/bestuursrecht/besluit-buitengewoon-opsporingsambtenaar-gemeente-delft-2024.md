@@ -9,7 +9,7 @@ laatste_update: 2024-06-05
 status: geldig
 toestand: 2024-06-05
 bron: "https://wetten.overheid.nl/BWBR0049776"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 4 juni 2024 nr. BOACAT2024/056, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Delft, Dienst Justis

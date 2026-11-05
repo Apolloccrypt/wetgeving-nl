@@ -9,7 +9,7 @@ laatste_update: 2024-05-02
 status: geldig
 toestand: 2024-05-02
 bron: "https://wetten.overheid.nl/BWBR0049645"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister voor Klimaat en Energie van 23 april 2024, nr. WJZ/ 46033521, tot vaststelling van de definitieve correctiebedragen Subsidieregeling coöperatieve energieopwekking voor 2023 (Besluit vaststelling definitieve correctiebedragen voor 2023 bij de Subsidieregeling coöperatieve energieopwekking)

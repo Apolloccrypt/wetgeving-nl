@@ -9,7 +9,7 @@ laatste_update: 2024-06-29
 status: geldig
 toestand: 2024-06-29
 bron: "https://wetten.overheid.nl/BWBR0049878"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 26 juni 2024, nr. 2024-0000415294, tot wijziging van de Meerjarige regeling specifieke uitkeringen aandachtsgroepen

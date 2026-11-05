@@ -8,7 +8,7 @@ laatste_update: 2024-09-17
 status: geldig
 toestand: 2024-09-17
 bron: "https://wetten.overheid.nl/BWBR0050202"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit beperking openbaarheid restarchief Centraal Bureau van Bijstand

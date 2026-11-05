@@ -8,7 +8,7 @@ laatste_update: 2025-01-03
 status: geldig
 toestand: 2025-01-03
 bron: "https://wetten.overheid.nl/BWBR0050181"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit tekenbevoegdheid vertrouwensfuncties en veiligheidsonderzoeken AIVD 2024

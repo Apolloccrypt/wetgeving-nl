@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0050156"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de Minister van Klimaat en Groene Groei van 10 augustus 2024, nr. WJZ/ 63120441, houdende de subsidiëring van de realisatie en exploitatie van grootschalige productie -installaties voor waterstof (Subsidieregeling grootschalige productie volledig hernieuwbare waterstof via elektrolyse)

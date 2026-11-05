@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0050058"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Wet van 26 juni 2024 tot vaststelling van regels voor het Nederlands kwalificatieraamwerk voor een leven lang leren (Wet NLQF)

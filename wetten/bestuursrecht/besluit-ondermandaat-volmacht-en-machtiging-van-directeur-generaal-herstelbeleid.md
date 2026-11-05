@@ -9,7 +9,7 @@ laatste_update: 2024-08-16
 status: geldig
 toestand: 2024-08-16
 bron: "https://wetten.overheid.nl/BWBR0050136"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de directeur-generaal Herstelbeleid van 30 juli 2024 (2024-395918) houdende verlening van ondermandaat, volmacht en machtiging aan Radar in het kader van de ondersteuning van ouders in het buitenland (Besluit ondermandaat, volmacht en machtiging van directeur-generaal Herstelbeleid aan Radar voor ondersteuning ouders in het buitenland)

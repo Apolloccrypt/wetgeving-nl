@@ -9,7 +9,7 @@ laatste_update: 2024-07-24
 status: geldig
 toestand: 2024-07-24
 bron: "https://wetten.overheid.nl/BWBR0050055"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 16 juli 2024 nr. BOACAT2024/087, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Moerdijk

@@ -8,7 +8,7 @@ laatste_update: 2024-05-30
 status: geldig
 toestand: 2024-05-30
 bron: "https://wetten.overheid.nl/BWBR0049745"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Overdrachtsbelasting, intrekking ruime uitleg netvrijstelling

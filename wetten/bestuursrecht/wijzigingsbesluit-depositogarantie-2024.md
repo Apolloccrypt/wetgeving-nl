@@ -9,7 +9,7 @@ laatste_update: 2024-09-01
 status: geldig
 toestand: 2024-09-01
 bron: "https://wetten.overheid.nl/BWBR0049944"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van 20 juni 2024 tot wijziging van het Besluit bijzondere prudentiële maatregelen, beleggerscompensatie en depositogarantie Wft in verband met aanpassingen aan de regels ten aanzien van het depositogarantiestelsel (Wijzigingsbesluit depositogarantie 2024)

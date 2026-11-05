@@ -8,7 +8,7 @@ laatste_update: 2024-07-16
 status: geldig
 toestand: 2024-07-16
 bron: "https://wetten.overheid.nl/BWBR0049981"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling literaire tijdschriften 2025–2028

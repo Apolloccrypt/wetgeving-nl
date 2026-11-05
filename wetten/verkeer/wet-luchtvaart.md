@@ -9,7 +9,7 @@ laatste_update: 2026-11-01
 status: geldig
 toestand: 2026-11-01
 bron: "https://wetten.overheid.nl/BWBR0005555"
-opgehaald: 2026-11-04
+opgehaald: 2026-11-05
 ---
 
 # Wet van 18 juni 1992, houdende algemene regeling met betrekking tot het luchtverkeer

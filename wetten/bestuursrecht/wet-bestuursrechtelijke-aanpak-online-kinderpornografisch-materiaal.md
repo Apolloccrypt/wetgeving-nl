@@ -9,7 +9,7 @@ laatste_update: 2026-04-25
 status: geldig
 toestand: 2026-04-25
 bron: "https://wetten.overheid.nl/BWBR0049813"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Wet van 5 juni 2024, houdende regels over een bestuursrechtelijke aanpak van online kinderpornografisch materiaal (Wet bestuursrechtelijke aanpak online kinderpornografisch materiaal)

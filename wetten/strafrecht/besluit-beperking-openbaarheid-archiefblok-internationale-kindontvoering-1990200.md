@@ -9,7 +9,7 @@ laatste_update: 2024-07-19
 status: geldig
 toestand: 2024-07-19
 bron: "https://wetten.overheid.nl/BWBR0050019"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid d.d. 2 mei 2024, kenmerk 4998413, houdende beperking van de openbaarheid van het archiefblok Internationale Kindontvoering 1990–2005 van het Ministerie van Justitie

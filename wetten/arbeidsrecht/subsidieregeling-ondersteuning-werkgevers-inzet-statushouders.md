@@ -9,7 +9,7 @@ laatste_update: 2026-03-06
 status: geldig
 toestand: 2026-03-06
 bron: "https://wetten.overheid.nl/BWBR0049897"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 12 juni 2024, nr. 2024-0000158938, houdende regels voor subsidieverstrekking voor statushouders ter bevordering van duurzame participatie op de arbeidsmarkt (Subsidieregeling ondersteuning werkgevers inzet statushouders)

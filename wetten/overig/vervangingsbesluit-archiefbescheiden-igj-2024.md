@@ -9,7 +9,7 @@ laatste_update: 2024-08-10
 status: geldig
 toestand: 2024-08-10
 bron: "https://wetten.overheid.nl/BWBR0050123"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Inspecteur-Generaal van de Inspectie Gezondheidszorg en Jeugd van 11 juni 2024, houdende doorlopende vervanging te bewaren en vernietigen archiefbescheiden Inspectie Gezondheidzorg en Jeugd 2024 (Vervangingsbesluit archiefbescheiden IGJ 2024)

@@ -9,7 +9,7 @@ laatste_update: 2025-07-29
 status: geldig
 toestand: 2025-07-29
 bron: "https://wetten.overheid.nl/BWBR0049732"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat, van 7 mei 2024, kenmerk DGBI 53135835, houdende de instelling, benoeming en vergoeding van de speciaal gezant nationaal versterkingsplan van microchip-talent

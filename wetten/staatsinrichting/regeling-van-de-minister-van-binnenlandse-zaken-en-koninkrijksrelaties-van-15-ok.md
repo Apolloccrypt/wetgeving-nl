@@ -9,7 +9,7 @@ laatste_update: 2026-11-01
 status: geldig
 toestand: 2026-11-01
 bron: "https://wetten.overheid.nl/BWBR0053240"
-opgehaald: 2026-11-04
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 15 oktober 2026, houdende een tijdelijke aanvullende subsidie voor politieke partijen (Tijdelijke subsidieregeling aanvullende partijfinanciering 2026)

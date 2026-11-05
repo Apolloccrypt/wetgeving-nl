@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0049799"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 4 juni 2024, nr. IENW/BSK-2024/124376, houdende vaststelling van regels met betrekking tot de vergunning van modelluchtvaartuigclubs of -verenigingen als bedoeld in artikel 16 van uitvoeringsverordening (EU) nr. 2019/947 van de Commissie van 24 mei 2019 inzake de regels en procedures voor de exploitatie van onbemande luchtvaartuigen (PbEU 2019, L 152) (Regeling modelluchtvaartuigclubs of -verenigingen)

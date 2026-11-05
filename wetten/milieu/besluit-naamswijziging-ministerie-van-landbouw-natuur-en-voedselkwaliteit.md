@@ -9,7 +9,7 @@ laatste_update: 2024-07-04
 status: geldig
 toestand: 2024-07-04
 bron: "https://wetten.overheid.nl/BWBR0049932"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van 2 juli 2024, nr. 2024001704, houdende naamswijziging van het Ministerie van Landbouw, Natuur en Voedselkwaliteit

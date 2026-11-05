@@ -9,7 +9,7 @@ laatste_update: 2024-08-16
 status: geldig
 toestand: 2024-08-16
 bron: "https://wetten.overheid.nl/BWBR0049704"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 8 mei 2024 nr. BOACAT2024/047, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Maashorst

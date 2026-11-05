@@ -9,7 +9,7 @@ laatste_update: 2024-07-01
 status: geldig
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0049744"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 17 mei 2024, nr. 5265450 houdende instelling van het Nationaal Platform Criminaliteitsbeheersing (Instellingbesluit Nationaal Platform Criminaliteitsbeheersing 2024)

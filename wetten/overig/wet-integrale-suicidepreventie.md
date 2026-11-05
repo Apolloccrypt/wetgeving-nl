@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0049955"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Wet van 21 juni 2024, houdende voorstel van wet van de leden Bikker, Westerveld, Krul, Diederik van Dijk, Dobbe, Kostić, Van der Plas en Joseph tot wijziging van de Wet publieke gezondheid ter bevordering en verankering van integrale suïcidepreventie (Wet integrale suïcidepreventie)

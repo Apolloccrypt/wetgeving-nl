@@ -8,7 +8,7 @@ laatste_update: 2024-07-19
 status: geldig
 toestand: 2024-07-19
 bron: "https://wetten.overheid.nl/BWBR0050042"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # COA klachtenregeling voor de htl

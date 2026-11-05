@@ -9,7 +9,7 @@ laatste_update: 2024-06-19
 status: geldig
 toestand: 2024-06-19
 bron: "https://wetten.overheid.nl/BWBR0049817"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Wet van 5 juni 2024 tot wijziging van de Wet hergebruik van overheidsinformatie en enkele andere wetten in verband met de implementatie van richtlijn nr. 2019/1024/EU van het Europees Parlement en de Raad van 20 juni 2019 inzake open data en het hergebruik van overheidsinformatie (Wet implementatie Open data richtlijn)

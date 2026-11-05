@@ -9,7 +9,7 @@ laatste_update: 2024-06-19
 status: geldig
 toestand: 2024-06-19
 bron: "https://wetten.overheid.nl/BWBR0049815"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 5 september 2022, kenmerk 3424323-1033616-GMT, houdende verlening van mandaat, volmacht en machtiging aan de Rijksdienst voor Ondernemend Nederland in verband met de subsidieverstrekking inzake subsidiëring van activiteiten die binnen de reikwijdte van Important Projects of Common European Interest op het gebied van Health vallen (Mandaatbesluit Rijksdienst voor Ondernemend Nederland inzake de Subsidieregeling IPCEI Health)

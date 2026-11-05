@@ -9,7 +9,7 @@ laatste_update: 2024-12-11
 status: geldig
 toestand: 2024-12-11
 bron: "https://wetten.overheid.nl/BWBR0050126"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 5 augustus 2024 nr. BOACAT2024/092, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij EBS Public Transportation BV

@@ -8,7 +8,7 @@ laatste_update: 2024-06-08
 status: geldig
 toestand: 2024-06-08
 bron: "https://wetten.overheid.nl/BWBR0049796"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Protocol accountantsonderzoek financieel verslag Wlz-uitvoerders 2024

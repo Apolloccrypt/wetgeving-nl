@@ -9,7 +9,7 @@ laatste_update: 2024-09-01
 status: geldig
 toestand: 2024-09-01
 bron: "https://wetten.overheid.nl/BWBR0049967"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 5 juni 2024, nr. 5462324, houdende bekendmaking van een beleidsregel voor het verstrekken van een eenmalige financiële bijdrage aan gedupeerden in financiële nood (Beleidsregel financiële nood als gevolg van de wateroverlast in juli 2021)

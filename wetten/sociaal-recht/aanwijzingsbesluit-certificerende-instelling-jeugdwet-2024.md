@@ -9,7 +9,7 @@ laatste_update: 2025-10-01
 status: geldig
 toestand: 2025-10-01
 bron: "https://wetten.overheid.nl/BWBR0050093"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 16 juli 2024, nr. 5601053, tot aanwijzing van het Keurmerkinstituut B.V. als certificerende instelling, bedoeld in artikel 3.4, eerste lid, van de Jeugdwet (Aanwijzingsbesluit certificerende instelling Jeugdwet 2024)

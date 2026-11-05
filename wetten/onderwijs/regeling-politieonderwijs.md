@@ -9,7 +9,7 @@ laatste_update: 2026-05-30
 status: geldig
 toestand: 2026-05-30
 bron: "https://wetten.overheid.nl/BWBR0049610"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 29 februari 2024, nr. 5202197, houdende de vaststelling van de kwalificatiestructuur en de aanwijzing van politieopleidingen en overige opleidingen (Regeling politieonderwijs)

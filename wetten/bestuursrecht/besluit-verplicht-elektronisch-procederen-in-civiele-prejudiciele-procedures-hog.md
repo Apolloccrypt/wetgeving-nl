@@ -9,7 +9,7 @@ laatste_update: 2024-05-01
 status: geldig
 toestand: 2024-05-01
 bron: "https://wetten.overheid.nl/BWBR0049597"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van 11 april 2024, houdende regels met betrekking tot het verplicht elektronisch doen van verzoeken en mededelingen en de indiening en de verzending van processtukken in civiele prejudiciële procedures bij de Hoge Raad (Besluit verplicht elektronisch procederen in civiele prejudiciële procedures Hoge Raad)

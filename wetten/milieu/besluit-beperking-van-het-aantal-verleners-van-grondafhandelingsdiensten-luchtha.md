@@ -9,7 +9,7 @@ laatste_update: 2024-05-11
 status: geldig
 toestand: 2024-05-11
 bron: "https://wetten.overheid.nl/BWBR0049695"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat, van 30 april 2024, nr. IENW/BSK-2024/69679, houdende beperking van het aantal verleners van grondafhandelingsdiensten op de luchthaven Schiphol

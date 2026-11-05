@@ -9,7 +9,7 @@ laatste_update: 2024-08-07
 status: geldig
 toestand: 2024-08-07
 bron: "https://wetten.overheid.nl/BWBR0050099"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van het hoofd van de afdeling Juridische, Bestuurlijke en Operationele Zaken van de directie Juridische en Operationele Aangelegenheden van het directoraat-generaal Rechtspleging en Rechtshandhaving van het Ministerie van Justitie en Veiligheid, van 30 juli 2024, nr. 55221136, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan in dit besluit genoemde medewerkers onder het hoofd ressorterende ambtenaren (Mandaatbesluit JBOZ Justitie en Veiligheid 2024)

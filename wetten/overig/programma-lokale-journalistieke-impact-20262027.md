@@ -9,7 +9,7 @@ laatste_update: 2026-11-01
 status: geldig
 toestand: 2026-11-01
 bron: "https://wetten.overheid.nl/BWBR0052275"
-opgehaald: 2026-11-04
+opgehaald: 2026-11-05
 ---
 
 # Besluit van het Stimuleringsfonds voor de Journalistiek van 10 december 2025, nr. PLJ2627, tot vaststelling van een subsidieregeling Lokale Journalistieke Impact 2026–2027

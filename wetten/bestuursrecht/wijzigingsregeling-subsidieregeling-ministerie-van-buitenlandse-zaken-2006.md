@@ -9,7 +9,7 @@ laatste_update: 2024-07-11
 status: geldig
 toestand: 2024-07-11
 bron: "https://wetten.overheid.nl/BWBR0049956"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken en de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 1 juli 2024, BZ2402185, tot wijziging van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006

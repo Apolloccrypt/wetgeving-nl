@@ -9,7 +9,7 @@ laatste_update: 2024-05-02
 status: geldig
 toestand: 2024-05-02
 bron: "https://wetten.overheid.nl/BWBR0049643"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 22 april 2024, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordiging in Eritrea, Ambassade Asmara 1994–2011, Besluit Beperking Openbaarheid, Asmara 1994–2011

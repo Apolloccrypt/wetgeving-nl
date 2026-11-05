@@ -8,7 +8,7 @@ laatste_update: 2024-05-08
 status: geldig
 toestand: 2024-05-08
 bron: "https://wetten.overheid.nl/BWBR0049708"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Circulaire Toepassing van staalslak en hoogovenslak(zand) als bouwstof in een werk

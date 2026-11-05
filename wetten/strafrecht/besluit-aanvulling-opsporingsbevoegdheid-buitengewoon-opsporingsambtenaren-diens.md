@@ -9,7 +9,7 @@ laatste_update: 2024-06-13
 status: geldig
 toestand: 2024-06-13
 bron: "https://wetten.overheid.nl/BWBR0049800"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 27 mei 2024 nr. 5464217, strekkende tot aanvulling van de opsporingsbevoegdheid van buitengewoon opsporingsambtenaren bij Dienst Vervoer & Ondersteuning

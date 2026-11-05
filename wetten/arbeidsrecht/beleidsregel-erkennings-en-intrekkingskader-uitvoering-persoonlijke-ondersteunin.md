@@ -8,7 +8,7 @@ laatste_update: 2024-07-20
 status: geldig
 toestand: 2024-07-20
 bron: "https://wetten.overheid.nl/BWBR0050043"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Beleidsregel Erkennings- en intrekkingskader uitvoering persoonlijke ondersteuning UWV 2024

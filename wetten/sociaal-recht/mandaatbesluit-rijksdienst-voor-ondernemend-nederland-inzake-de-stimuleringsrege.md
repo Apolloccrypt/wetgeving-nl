@@ -9,7 +9,7 @@ laatste_update: 2024-04-19
 status: geldig
 toestand: 2024-04-19
 bron: "https://wetten.overheid.nl/BWBR0049580"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 9 april 2024, kenmerk 3796538-1063655-DMO, houdende verlening van mandaat, volmacht en machtiging aan de Rijksdienst voor Ondernemend Nederland in verband met de subsidieverstrekking inzake de Stimuleringsregeling Technologie in Ondersteuning en Zorg (Mandaatbesluit Rijksdienst voor Ondernemend Nederland inzake de Stimuleringsregeling Technologie in Ondersteuning en Zorg)

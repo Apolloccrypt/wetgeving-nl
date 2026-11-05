@@ -9,7 +9,7 @@ laatste_update: 2024-07-04
 status: geldig
 toestand: 2024-07-04
 bron: "https://wetten.overheid.nl/BWBR0049909"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de directeur Strategie, Kennis en Innovatie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit van datum 21 juni 2024, nr. ZK-0000067109, houdende verlening van ondermandaat, volmacht en machtiging voor de directie Strategie, Kennis en Innovatie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2024 (Besluit ondermandaat, volmacht en machtiging voor de directie Strategie, Kennis en Innovatie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2024)

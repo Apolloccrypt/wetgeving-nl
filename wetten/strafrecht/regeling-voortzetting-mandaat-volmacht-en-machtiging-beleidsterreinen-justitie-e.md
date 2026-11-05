@@ -9,7 +9,7 @@ laatste_update: 2024-07-13
 status: geldig
 toestand: 2024-07-13
 bron: "https://wetten.overheid.nl/BWBR0049965"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid en van de Minister van Asiel en Migratie van 2 juli 2024 tot het treffen van een voorziening inzake mandaat, volmacht en machtiging in verband met de instelling van het Ministerie van Asiel en Migratie en benoeming van de bewindspersonen bij het Ministerie van Justitie en Veiligheid en het Ministerie van Asiel en Migratie (Regeling voortzetting mandaat, volmacht en machtiging beleidsterreinen Justitie en Veiligheid en Asiel en Migratie)

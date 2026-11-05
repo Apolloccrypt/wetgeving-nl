@@ -9,7 +9,7 @@ laatste_update: 2024-04-23
 status: geldig
 toestand: 2024-04-23
 bron: "https://wetten.overheid.nl/BWBR0049601"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister voor Medische Zorg en de Minister van Justitie en Veiligheid van 16 april 2024, kenmerk 3793320-1063387-WJZ, houdende vaststelling van het aanvangstijdstip van de overgangsfase van het experiment gesloten coffeeshopketen

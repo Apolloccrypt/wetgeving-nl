@@ -9,7 +9,7 @@ laatste_update: 2024-06-14
 status: geldig
 toestand: 2024-06-14
 bron: "https://wetten.overheid.nl/BWBR0049803"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Beleidsregel van de Minister van Sociale Zaken en Werkgelegenheid van 5 juni 2024, nr. 2024-0000154060, over het gebruik van een werkgeversrapportage bij een onderzoek naar een meldingsplichtig arbeidsongeval in het kader van de bestuursrechtelijke handhaving van de Arbeidsomstandighedenwetgeving (Beleidsregel werkgeversrapportage onderzoek meldingsplichtige arbeidsongevallen)

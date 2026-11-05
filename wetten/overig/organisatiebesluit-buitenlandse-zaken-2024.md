@@ -9,7 +9,7 @@ laatste_update: 2024-08-22
 status: geldig
 toestand: 2024-08-22
 bron: "https://wetten.overheid.nl/BWBR0050160"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 13 augustus 2024, met kenmerk nr.BZ2402895, tot vaststelling van de organisatie van het Ministerie van Buitenlandse Zaken (Organisatiebesluit Buitenlandse Zaken 2024)

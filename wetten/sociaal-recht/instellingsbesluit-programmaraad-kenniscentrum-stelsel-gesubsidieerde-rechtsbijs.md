@@ -9,7 +9,7 @@ laatste_update: 2024-08-20
 status: geldig
 toestand: 2024-08-20
 bron: "https://wetten.overheid.nl/BWBR0050150"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van het bestuur van de Raad voor Rechtsbijstand tot instelling van een Programmaraad voor het Kenniscentrum Stelsel Gesubsidieerde Rechtsbijstand

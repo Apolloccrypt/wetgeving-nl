@@ -9,7 +9,7 @@ laatste_update: 2024-07-01
 status: geldig
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0049893"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 24 juni 2024, nr. 2024-0000351807, tot verlenging van artikel 6t van het Besluit uitvoering Crisis- en herstelwet tot en met 31 december 2029

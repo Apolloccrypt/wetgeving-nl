@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-06-29
 toestand: 2024-05-07
 bron: "https://wetten.overheid.nl/BWBR0049672"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit houdende verlening van mandaat en machtiging in het kader van beperkingengebieden militaire luchthavens en radarverstoringsgebieden 2024 (Mandaat- en machtigingsbesluit beperkingengebieden militaire luchthavens en radarverstoringsgebieden 2024)

@@ -9,7 +9,7 @@ laatste_update: 2024-06-11
 status: geldig
 toestand: 2024-06-11
 bron: "https://wetten.overheid.nl/BWBR0049782"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Besluit van 16 mei 2024, houdende de instelling van de staatscommissie demografische ontwikkelingen ten behoeve van de advisering over de demografische ontwikkelingen op Caribisch Nederland 2050 (Instellingsbesluit staatscommissie demografische ontwikkelingen Caribisch Nederland 2050)

@@ -9,7 +9,7 @@ laatste_update: 2024-07-01
 status: geldig
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0049874"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Beleidsregel van het bestuur van de Nederlandse Emissieautoriteit van 23 mei 2024 tot de vaststelling van regels voor de hoogte van een bestuurlijke boete

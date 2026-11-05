@@ -8,7 +8,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0050008"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Regeling macrobeheersinstrument multidisciplinaire zorg 2025

@@ -9,7 +9,7 @@ laatste_update: 2024-08-01
 status: geldig
 toestand: 2024-08-01
 bron: "https://wetten.overheid.nl/BWBR0049603"
-opgehaald: 2026-09-06
+opgehaald: 2026-11-05
 ---
 
 # Beleidsregel van de Minister voor Primair en Voortgezet Onderwijs van 12 april 2024, nr. KO/21697498 tot vaststelling van regels omtrent experimenteren met sectoroverstijgende teambevoegdheden voor 10-14-onderwijs (Beleidsregel vervolg experiment teambevoegdheid 10-14-onderwijs 2024)
