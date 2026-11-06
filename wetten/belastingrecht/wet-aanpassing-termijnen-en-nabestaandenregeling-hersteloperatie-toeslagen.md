@@ -9,7 +9,7 @@ laatste_update: 2024-12-14
 status: geldig
 toestand: 2024-12-14
 bron: "https://wetten.overheid.nl/BWBR0050567"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Wet van 11 december 2024 tot wijziging van de Wet hersteloperatie toeslagen en van de Wet aanvullende regelingen hersteloperatie toeslagen, houdende aanpassingen in de hersteloperatie toeslagen van bepaalde termijnen, van de peildatum voor brede ondersteuning voor gedupeerden in het buitenland en van de nabestaandenregeling (Wet aanpassing termijnen en nabestaandenregeling hersteloperatie toeslagen)

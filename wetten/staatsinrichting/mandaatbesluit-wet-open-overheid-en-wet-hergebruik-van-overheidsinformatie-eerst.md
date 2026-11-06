@@ -9,7 +9,7 @@ laatste_update: 2025-01-10
 status: geldig
 toestand: 2025-01-10
 bron: "https://wetten.overheid.nl/BWBR0050661"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van het College van Voorzitter en Ondervoorzitters en de Griffier van de Eerste Kamer der Staten-Generaal van 22 oktober 2024, nr. 175977U, houdende regels inzake het verlenen van mandaat en machtiging betreffende de uitvoering van de Wet open overheid en de Wet hergebruik van overheidsinformatie (Mandaatbesluit Wet open overheid en Wet hergebruik van overheidsinformatie Eerste Kamer 2024)

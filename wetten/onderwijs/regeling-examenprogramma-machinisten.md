@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0050604"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 19 december 2024, nr. IENW/BSK-2024/323975, tot vaststelling van het examenprogramma voor machinisten (Regeling examenprogramma machinisten)

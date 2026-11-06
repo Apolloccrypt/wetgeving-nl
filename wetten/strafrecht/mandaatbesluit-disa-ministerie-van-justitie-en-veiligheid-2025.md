@@ -9,7 +9,7 @@ laatste_update: 2025-01-08
 status: geldig
 toestand: 2025-01-08
 bron: "https://wetten.overheid.nl/BWBR0050655"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de directeur van de Dienst Identificatie en Screening Asielzoekers van het Ministerie van Justitie en Veiligheid van 1 januari 2025, nummer 5968335, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan onder de directeur ressorterende functionarissen (Mandaatbesluit DISA Ministerie van Justitie en Veiligheid 2025)

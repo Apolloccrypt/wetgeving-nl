@@ -9,7 +9,7 @@ laatste_update: 2025-08-01
 status: geldig
 toestand: 2025-08-01
 bron: "https://wetten.overheid.nl/BWBR0050775"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling van het College voor toetsen en examens van 3 februari 2025, Cvte-25.00469, houdende vaststelling van de toetswijzer voor de doorstroomtoets in het primair onderwijs op Bonaire (Regeling toetswijzer doorstroomtoets PO Bonaire)

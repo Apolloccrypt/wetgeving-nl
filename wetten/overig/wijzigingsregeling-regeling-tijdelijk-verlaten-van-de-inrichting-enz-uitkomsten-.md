@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0050499"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling van de Staatssecretaris van Justitie en Veiligheid van 14 november 2024, kenmerk 5890676, houdende wijziging van de Regeling tijdelijk verlaten van de inrichting en van de Regeling selectie, plaatsing en overplaatsing van gedetineerden in verband met de uitkomsten van de invoeringstoets van de Wet straffen en beschermen

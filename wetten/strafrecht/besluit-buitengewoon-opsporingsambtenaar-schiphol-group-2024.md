@@ -9,7 +9,7 @@ laatste_update: 2024-11-23
 status: geldig
 toestand: 2024-11-23
 bron: "https://wetten.overheid.nl/BWBR0050429"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 13 november 2024 nr. BOACAT2024/115, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Schiphol Group

@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0050659"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van 19 december 2024, houdende regels met betrekking tot het verplicht elektronisch indienen van verzoeken en mededelingen in zaken betreffende curatele, beschermingsbewind en mentorschap voor professionele wettelijke vertegenwoordigers (Besluit verplicht elektronisch communiceren professionele wettelijke vertegenwoordigers)

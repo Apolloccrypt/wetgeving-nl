@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0050303"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van 2 oktober 2024, houdende de aanwijzing van het Nationaal coördinatiepunt NLQF, de vaststelling van de kwalificatieniveaus van het NLQF alsmede de wijze waarop deze corresponderen met de kwalificatieniveaus van het EQF en het stellen van regels over de vaststelling van het NLQF-niveau van non-formele opleidingen en over het NLQF-register (Besluit NLQF)

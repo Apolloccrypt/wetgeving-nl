@@ -9,7 +9,7 @@ laatste_update: 2025-02-15
 status: geldig
 toestand: 2025-02-15
 bron: "https://wetten.overheid.nl/BWBR0050778"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 7 februari 2025, nr. 50178858 houdende regels voor de subsidieverstrekking voor het bieden van ondersteuning aan jeugdigen die thuiszitten of daar risico op lopen (Subsidieregeling ondersteuning en preventie thuiszittende jeugdigen)

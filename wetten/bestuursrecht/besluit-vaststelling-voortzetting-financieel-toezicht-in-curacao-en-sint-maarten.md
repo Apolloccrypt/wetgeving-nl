@@ -9,7 +9,7 @@ laatste_update: 2024-10-30
 status: geldig
 toestand: 2024-10-30
 bron: "https://wetten.overheid.nl/BWBR0050339"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van 9 oktober 2024, nr. 2024002245 houdende de vaststelling tot voortzetting van het financieel toezicht in Curaçao en Sint Maarten

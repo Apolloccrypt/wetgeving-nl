@@ -9,7 +9,7 @@ laatste_update: 2024-10-30
 status: geldig
 toestand: 2024-10-30
 bron: "https://wetten.overheid.nl/BWBR0050344"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Raad van bestuur van de Sociale verzekeringsbank van 10 oktober 2024, houdende de bekendmaking van de Beleidsregels aansprakelijkheidsverzekering en rechtsbijstandverzekering PGB (Besluit Beleidsregels aansprakelijkheidsverzekering en rechtsbijstandverzekering PGB)

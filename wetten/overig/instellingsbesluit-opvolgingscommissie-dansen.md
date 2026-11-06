@@ -9,7 +9,7 @@ laatste_update: 2024-10-23
 status: geldig
 toestand: 2024-10-23
 bron: "https://wetten.overheid.nl/BWBR0050307"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 26 september 2024, nr. 2024-48050080, houdende de instelling van de Opvolgingscommissie Dansen (Instellingsbesluit Opvolgingscommissie Dansen)

@@ -9,7 +9,7 @@ laatste_update: 2025-02-05
 status: geldig
 toestand: 2025-02-05
 bron: "https://wetten.overheid.nl/BWBR0050736"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling van het Commissariaat voor de Media van 4 februari 2025 over ontheffing van de investeringsverplichting voor aanbieders van commerciële mediadiensten op aanvraag (Regeling ontheffing investeringsverplichting commerciële mediadiensten op aanvraag 2025)

@@ -9,7 +9,7 @@ laatste_update: 2024-10-23
 status: geldig
 toestand: 2024-10-23
 bron: "https://wetten.overheid.nl/BWBR0050306"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 26 september 2024, nr. 2024-48056382, houdende instelling van de Ethische Commissie Dansen (Instellingsbesluit Ethische Commissie Dansen)

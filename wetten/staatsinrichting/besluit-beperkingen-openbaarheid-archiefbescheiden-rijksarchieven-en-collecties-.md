@@ -8,7 +8,7 @@ laatste_update: 2024-11-21
 status: geldig
 toestand: 2024-11-21
 bron: "https://wetten.overheid.nl/BWBR0050441"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit beperkingen openbaarheid archiefbescheiden rijksarchieven en collecties NIOD Instituut voor Oorlogs-, Holocaust- en Genocidestudies

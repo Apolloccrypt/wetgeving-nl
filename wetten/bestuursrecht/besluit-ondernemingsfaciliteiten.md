@@ -8,7 +8,7 @@ laatste_update: 2026-06-10
 status: geldig
 toestand: 2026-06-10
 bron: "https://wetten.overheid.nl/BWBR0050370"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit Ondernemingsfaciliteiten

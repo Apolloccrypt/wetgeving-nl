@@ -9,7 +9,7 @@ laatste_update: 2025-01-17
 status: geldig
 toestand: 2025-01-17
 bron: "https://wetten.overheid.nl/BWBR0050670"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van 25 november 2024 tot wijziging van het Besluit EU-verordeningen Wft en enkele andere besluiten in verband met Verordening (EU) 2022/2554 en Richtlijn (EU) 2022/2556 betreffende digitale operationele weerbaarheid voor de financiële sector (Uitvoeringsbesluit verordening digitale operationele weerbaarheid)

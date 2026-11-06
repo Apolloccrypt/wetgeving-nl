@@ -8,7 +8,7 @@ laatste_update: 2024-10-01
 status: geldig
 toestand: 2024-10-01
 bron: "https://wetten.overheid.nl/BWBR0050261"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit mandaat, volmacht en machtiging ambtelijke organisatie Tweede Kamer der Staten-Generaal 2024

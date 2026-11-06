@@ -9,7 +9,7 @@ laatste_update: 2025-11-04
 status: geldig
 toestand: 2025-11-04
 bron: "https://wetten.overheid.nl/BWBR0050428"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling van de Staatssecretaris van Justitie en Veiligheid van 12 november 2024, nr. 5869441, houdende regels inzake subsidie voor het beproeven en doorontwikkelen van de werkwijze Toekomstscenario kind- en gezinsbescherming (Regeling subsidie proeftuinen Toekomstscenario Kind- en Gezinsbescherming)

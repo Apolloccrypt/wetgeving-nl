@@ -9,7 +9,7 @@ laatste_update: 2024-11-08
 status: geldig
 toestand: 2024-11-08
 bron: "https://wetten.overheid.nl/BWBR0050295"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Wet van 30 september 2024, houdende invoering publiek toezicht en handhaving van de verordening 2019/1150 van het Europees Parlement en de Raad ter bevordering van billijkheid en transparantie voor zakelijke gebruikers van onlinetussenhandelsdiensten (Wet publiek toezicht en handhaving verordening bevordering billijkheid en transparantie voor zakelijke gebruikers van onlinetussenhandelsdiensten)

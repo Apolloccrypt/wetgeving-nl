@@ -9,7 +9,7 @@ laatste_update: 2025-01-22
 status: geldig
 toestand: 2025-01-22
 bron: "https://wetten.overheid.nl/BWBR0050692"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de voorzitter van de Commissie aanvullende schadevergoeding werkelijke schade, van 9 januari 2025, kenmerk 2024-0000582938, houdende verlening van ondermandaat aan de operationeel directeur van de Commissie aanvullende schadevergoeding werkelijke schade (Besluit ondermandaat operationeel directeur CWS)

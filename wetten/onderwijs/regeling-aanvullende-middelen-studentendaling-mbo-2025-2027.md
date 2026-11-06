@@ -9,7 +9,7 @@ laatste_update: 2024-12-20
 status: geldig
 toestand: 2024-12-20
 bron: "https://wetten.overheid.nl/BWBR0050571"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 9 december 2024, nr. MBO 49374503, houdende regels voor de verstrekking van aanvullende middelen voor studentendaling in het beroepsonderwijs (Regeling aanvullende middelen studentendaling MBO 2025 – 2027)

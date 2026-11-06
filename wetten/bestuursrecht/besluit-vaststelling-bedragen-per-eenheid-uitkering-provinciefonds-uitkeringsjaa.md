@@ -9,7 +9,7 @@ laatste_update: 2025-02-20
 status: geldig
 toestand: 2025-02-20
 bron: "https://wetten.overheid.nl/BWBR0050787"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Staatssecretaris van Financiën – Fiscaliteit en Belastingdienst van 21 november 2024, nr. 2024-0000691703, tot vaststelling van de bedragen per eenheid voor de algemene uitkering uit het provinciefonds voor het uitkeringsjaar 2021

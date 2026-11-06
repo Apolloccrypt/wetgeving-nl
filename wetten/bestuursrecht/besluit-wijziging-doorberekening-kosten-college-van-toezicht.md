@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0050209"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van 9 september 2024 tot wijziging van een aantal bepalingen in het Besluit doorberekening kosten College van Toezicht in verband met enkele aanpassingen in de systematiek op basis waarvan de kosten van het College van Toezicht Auteursrechten over de collectieve beheersorganisaties en onafhankelijke beheersorganisaties worden verdeeld (Besluit wijziging doorberekening kosten College van Toezicht)

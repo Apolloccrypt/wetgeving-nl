@@ -8,7 +8,7 @@ laatste_update: 2024-10-08
 status: geldig
 toestand: 2024-10-08
 bron: "https://wetten.overheid.nl/BWBR0050273"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit vaststelling personele ondermandaten Rijksorganisatie voor Ontwikkeling, Digitalisering en Innovatie

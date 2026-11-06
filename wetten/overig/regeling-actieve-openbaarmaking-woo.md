@@ -9,7 +9,7 @@ laatste_update: 2024-11-01
 status: geldig
 toestand: 2024-11-01
 bron: "https://wetten.overheid.nl/BWBR0050243"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 26 september 2024, nr. 2024-0000762165, houdende nadere regels over de wijze van actieve openbaarmaking van informatiecategorieën in de Wet open overheid (Regeling actieve openbaarmaking Woo)

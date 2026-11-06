@@ -8,7 +8,7 @@ laatste_update: 2024-12-09
 status: geldig
 toestand: 2024-12-09
 bron: "https://wetten.overheid.nl/BWBR0050528"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Model Jaarverslaggeving CAK Bestuurlijke verantwoording 2024

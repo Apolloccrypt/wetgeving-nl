@@ -9,7 +9,7 @@ laatste_update: 2024-10-26
 status: geldig
 toestand: 2024-10-26
 bron: "https://wetten.overheid.nl/BWBR0050329"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van 10 oktober 2024, nr. 2024002233 houdende de aanwijzing als verboden plaats van ruimtes die in gebruik zijn bij de AIVD

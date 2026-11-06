@@ -9,7 +9,7 @@ laatste_update: 2025-04-01
 status: geldig
 toestand: 2025-04-01
 bron: "https://wetten.overheid.nl/BWBR0050633"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling van de Staatssecretaris van Financiën van 19 december 2024 tot wijziging van onder meer enige uitvoeringsregelingen op het gebied van belastingen en toeslagen (Eindejaarsregeling 2024)

@@ -9,7 +9,7 @@ laatste_update: 2024-10-01
 status: geldig
 toestand: 2024-10-01
 bron: "https://wetten.overheid.nl/BWBR0050235"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 23 september 2024 nr. BOACAT2024/105, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Amersfoort

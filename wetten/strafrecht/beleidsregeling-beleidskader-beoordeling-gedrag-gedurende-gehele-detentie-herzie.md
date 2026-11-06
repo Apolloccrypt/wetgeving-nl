@@ -9,7 +9,7 @@ laatste_update: 2024-11-29
 status: geldig
 toestand: 2024-11-29
 bron: "https://wetten.overheid.nl/BWBR0050480"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Beleidsregeling van de Staatssecretaris van Justitie en Veiligheid van 21 november 2024, kenmerk 5942760, inzake Beleidskader beoordeling gedrag gedurende gehele detentie (herziene versie)

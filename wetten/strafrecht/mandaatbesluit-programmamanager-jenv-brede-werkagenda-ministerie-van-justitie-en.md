@@ -9,7 +9,7 @@ laatste_update: 2024-12-24
 status: geldig
 toestand: 2024-12-24
 bron: "https://wetten.overheid.nl/BWBR0050578"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de secretaris-generaal van het Ministerie van Justitie en Veiligheid van 16 december 2024, nr. 5945938, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan de programmamanager van het Programma de JenV-brede Werkagenda

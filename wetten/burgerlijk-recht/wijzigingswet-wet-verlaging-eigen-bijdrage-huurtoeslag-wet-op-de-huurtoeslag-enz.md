@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0050593"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Wet van 18 december 2024 tot wijziging van de Wet verlaging eigen bijdrage huurtoeslag, de Wet op de huurtoeslag en enkele andere wetten ter verbetering van de koopkracht en vereenvoudiging van de regeling

@@ -9,7 +9,7 @@ laatste_update: 2026-04-22
 status: geldig
 toestand: 2026-04-22
 bron: "https://wetten.overheid.nl/BWBR0050384"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de directeur Nationale Crisisbeheersing van de Nationaal Coördinator Terrorismebestrijding en Veiligheid van het Ministerie van Justitie en Veiligheid van 28 oktober 2024, nr. 5841768, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan de onder de directeur ressorterende ambtenaren (Mandaatbesluit Nationale Crisisbeheersing NCTV 2024)

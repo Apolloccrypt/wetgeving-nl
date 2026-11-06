@@ -9,7 +9,7 @@ laatste_update: 2025-02-12
 status: geldig
 toestand: 2025-02-12
 bron: "https://wetten.overheid.nl/BWBR0050554"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Wet van 23 oktober 2024 tot herstel van wetstechnische gebreken en leemten alsmede aanbrenging van andere wijzigingen van ondergeschikte aard in diverse wetsbepalingen hoofdzakelijk op het terrein van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (Verzamelwet BZK 20XX)

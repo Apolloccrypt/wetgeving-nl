@@ -9,7 +9,7 @@ laatste_update: 2026-10-28
 status: geldig
 toestand: 2026-10-28
 bron: "https://wetten.overheid.nl/BWBR0053252"
-opgehaald: 2026-11-05
+opgehaald: 2026-11-06
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat van 26 oktober 2026, nr. IENW/BSK-2026/189903 tot wijziging van de Tijdelijke subsidieregeling drinkwater BES en rioolwaterzuiveringsinstallatie Bonaire 2022 tot en met 2026 (verlenging looptijd tot en met 2030, aanvulling subsidie 2026 en subsidiebedragen 2027) [KetenID WGK028850]

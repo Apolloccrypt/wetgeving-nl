@@ -9,7 +9,7 @@ laatste_update: 2024-12-21
 status: geldig
 toestand: 2024-12-21
 bron: "https://wetten.overheid.nl/BWBR0050595"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 10 december 2024, nr. 2024-0000926611, tot verlenging en wijziging van de SLIM-regeling naar aanleiding van de evaluatie van deze regeling

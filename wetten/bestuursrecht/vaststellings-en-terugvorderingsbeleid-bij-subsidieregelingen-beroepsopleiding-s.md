@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-07-03
 toestand: 2024-11-06
 bron: "https://wetten.overheid.nl/BWBR0050368"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Vaststellings- en terugvorderingsbeleid bij Subsidieregelingen beroepsopleiding sociaal advocaten

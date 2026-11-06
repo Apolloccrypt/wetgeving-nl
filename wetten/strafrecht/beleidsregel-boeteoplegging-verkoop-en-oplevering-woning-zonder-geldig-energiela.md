@@ -9,7 +9,7 @@ laatste_update: 2024-11-22
 status: geldig
 toestand: 2024-11-22
 bron: "https://wetten.overheid.nl/BWBR0050442"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Beleidsregel van de Minister van Volkshuisvesting en Ruimtelijke Ordening van 22 oktober 2024, nr. ILT-2024/44393, houdende regels tot vaststelling van boetebedragen voor overtredingen van artikel 120 van de Woningwet en artikel 6.27, eerste, tweede en vierde lid van het Besluit bouwwerken leefomgeving (Beleidsregel boeteoplegging verkoop en oplevering woning zonder geldig energielabel 2024-2)

@@ -8,7 +8,7 @@ laatste_update: 2025-02-13
 status: geldig
 toestand: 2025-02-13
 bron: "https://wetten.overheid.nl/BWBR0050771"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit subsidieplafond 2025 Tijdelijke subsidieregels samenwerking Belastingdienst, de Dienst Toeslagen en de Koninklijke Bibliotheek 2024–2027

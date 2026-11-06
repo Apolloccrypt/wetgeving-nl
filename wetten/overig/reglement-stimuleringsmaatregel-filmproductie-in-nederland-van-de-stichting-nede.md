@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-06-30
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0050650"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Reglement Stimuleringsmaatregel Filmproductie in Nederland van de Stichting Nederlands Fonds voor de Film

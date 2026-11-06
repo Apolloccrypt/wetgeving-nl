@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-04-21
 toestand: 2024-12-01
 bron: "https://wetten.overheid.nl/BWBR0050469"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Minister van Financiën van 16 november 2024 (2024-515548) houdende verlening van mandaat op het terrein van het tijdelijke programmadirectoraat-generaal Herstel betreffende de uitvoering van de Wet open overheid (Besluit mandaat tijdelijke programmadirectoraat-generaal Herstel uitvoering Wet open overheid)

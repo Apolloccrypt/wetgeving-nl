@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0050561"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 3 december 2024, nr. MBO/49264021, houdende regels voor de subsidieverstrekking aan het Nationaal coördinatiepunt NLQF (Regeling subsidieverstrekking Nationaal coördinatiepunt NLQF)

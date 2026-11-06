@@ -8,7 +8,7 @@ laatste_update: 2024-12-27
 status: geldig
 toestand: 2024-12-27
 bron: "https://wetten.overheid.nl/BWBR0050500"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Specifiek interventiebeleid NVWA algemene productveiligheid (IB03-SPEC 45, versie 08)

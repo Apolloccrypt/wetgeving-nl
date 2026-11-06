@@ -9,7 +9,7 @@ laatste_update: 2025-01-15
 status: geldig
 toestand: 2025-01-15
 bron: "https://wetten.overheid.nl/BWBR0050673"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van 13 januari 2025 tot wijziging van het Besluit EU-verordeningen Wft ter uitvoering van Verordening (EU) 2024/1623 betreffende kapitaalvereisten voor banken (Uitvoeringsbesluit verordening kapitaalvereisten 2025)

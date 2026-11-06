@@ -9,7 +9,7 @@ laatste_update: 2024-11-28
 status: geldig
 toestand: 2024-11-28
 bron: "https://wetten.overheid.nl/BWBR0050474"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Minister van Volkshuisvesting en Ruimtelijke Ordening van 21 november 2024, nr. 2024-0000848275, tot verlenging van artikel 7af van het Besluit uitvoering Crisis- en herstelwet tot en met 31 december 2029

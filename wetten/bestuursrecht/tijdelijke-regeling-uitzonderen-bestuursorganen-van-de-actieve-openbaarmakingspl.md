@@ -9,7 +9,7 @@ laatste_update: 2024-11-01
 status: geldig
 toestand: 2024-11-01
 bron: "https://wetten.overheid.nl/BWBR0050239"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 26 september 2024, nr. 2024-0000762167, houdende het tijdelijk uitzonderen van bepaalde bestuursorganen van de actieve openbaarmakingsplicht in de Wet open overheid (Tijdelijke regeling uitzonderen bestuursorganen van de actieve openbaarmakingsplicht Woo)

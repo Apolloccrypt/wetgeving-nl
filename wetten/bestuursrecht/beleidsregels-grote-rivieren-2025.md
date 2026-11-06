@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0050726"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Beleidsregel van de Minister van Infrastructuur en Waterstaat van 30 januari 2025, nr. IENW/BSK-2025/15528, tot vaststelling van de Beleidsregels grote rivieren 2025

@@ -9,7 +9,7 @@ laatste_update: 2025-03-26
 status: geldig
 toestand: 2025-03-26
 bron: "https://wetten.overheid.nl/BWBR0050686"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 13 januari 2025, nr. BOACAT2024/126, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Regionaal Bureau Leerplicht Brabant Noordoost

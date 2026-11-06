@@ -8,7 +8,7 @@ laatste_update: 2024-11-16
 status: geldig
 toestand: 2024-11-16
 bron: "https://wetten.overheid.nl/BWBR0050418"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Inkomstenbelasting, vennootschapsbelasting, winst uit zeescheepvaart, afschrijving op zeeschepen, samenwerkingsverbanden in zeescheepvaartondernemingen en forfaitaire winstvaststelling

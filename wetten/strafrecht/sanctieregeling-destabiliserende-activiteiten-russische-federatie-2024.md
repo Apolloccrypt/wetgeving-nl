@@ -9,7 +9,7 @@ laatste_update: 2026-06-30
 status: geldig
 toestand: 2026-06-30
 bron: "https://wetten.overheid.nl/BWBR0050553"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 11 december 2024, nr. BZ2410228, houdende beperkende maatregelen naar aanleiding van destabiliserende activiteiten door de Russische Federatie (Sanctieregeling destabiliserende activiteiten Russische Federatie 2024)

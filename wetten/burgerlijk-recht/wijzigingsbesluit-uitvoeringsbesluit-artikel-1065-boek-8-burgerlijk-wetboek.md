@@ -9,7 +9,7 @@ laatste_update: 2025-03-01
 status: geldig
 toestand: 2025-03-01
 bron: "https://wetten.overheid.nl/BWBR0050800"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van 18 februari 2025 tot wijziging van het Besluit van 29 november 1996 ter uitvoering van artikel 1065 van Boek 8 van het Burgerlijk Wetboek (Stb. 1996, 587) (KetenID WGK027146)

@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0050515"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van 25 november 2024 tot wijziging van het Besluit bouwwerken leefomgeving in verband met de uitbreiding van de verplichting van CO2-meters in scholen, wijziging van de regels voor droge blusleidingen en toegankelijkheidseisen van gebouwen en verduidelijking van de regels voor vergunningplichtige gevallen bouwactiviteit en vergunningvrije gevallen omgevingsplanactiviteit (Verzamelbesluit Besluit bouwwerken leefomgeving 2024)

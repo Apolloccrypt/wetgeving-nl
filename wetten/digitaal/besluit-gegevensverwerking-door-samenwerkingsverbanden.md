@@ -9,7 +9,7 @@ laatste_update: 2025-03-01
 status: geldig
 toestand: 2025-03-01
 bron: "https://wetten.overheid.nl/BWBR0050665"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van 29 november 2024 tot uitvoering van de Wet gegevensverwerking door samenwerkingsverbanden (Besluit gegevensverwerking door samenwerkingsverbanden) en tot vaststelling van het tijdstip van inwerkingtreding van die wet en van de Wet van 26 juni 2024 tot wijziging van de Wet gegevensverwerking door samenwerkingsverbanden in verband met het waarborgen van de parlementaire betrokkenheid bij de aanwijzing van andere samenwerkingsverbanden (Stb. 2024, 254)

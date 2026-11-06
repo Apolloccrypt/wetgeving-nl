@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-07-07
 toestand: 2025-01-30
 bron: "https://wetten.overheid.nl/BWBR0050716"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Boetebeleid RDI

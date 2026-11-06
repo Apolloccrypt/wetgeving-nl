@@ -9,7 +9,7 @@ laatste_update: 2025-06-28
 status: geldig
 toestand: 2025-06-28
 bron: "https://wetten.overheid.nl/BWBR0050223"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van 12 september 2024, houdende regels over toegankelijkheid van elektronische communicatiediensten in verband met de implementatie van Richtlijn (EU) 2019/882 van de Europese Commissie en de Raad van 17 april 2019 inzake toegankelijkheidsvoorschriften voor producten en diensten (PbEU 2019, L 151) (Implementatiebesluit toegankelijkheidsvoorschriften elektronische communicatiediensten)

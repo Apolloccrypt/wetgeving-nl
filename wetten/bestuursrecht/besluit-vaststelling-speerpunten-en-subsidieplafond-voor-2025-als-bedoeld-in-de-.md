@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0050549"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Waterstaat, van 5 december 2024, nr. IENW/BSK-2024/330488, houdende vaststelling van de speerpunten en het subsidieplafond voor het kalenderjaar 2025 als bedoeld in de Tijdelijke subsidieregeling versterking omgevingsveiligheid industriële activiteiten 2022–2027

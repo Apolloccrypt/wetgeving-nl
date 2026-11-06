@@ -8,7 +8,7 @@ laatste_update: 2024-11-14
 status: geldig
 toestand: 2024-11-14
 bron: "https://wetten.overheid.nl/BWBR0050393"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Tijdelijk besluit mandaat, volmacht en machtiging herstel schade en versterking Groningen II

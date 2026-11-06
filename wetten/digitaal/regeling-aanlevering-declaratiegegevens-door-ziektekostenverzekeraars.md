@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-04-29
 toestand: 2024-10-11
 bron: "https://wetten.overheid.nl/BWBR0050285"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling aanlevering declaratiegegevens door ziektekostenverzekeraars

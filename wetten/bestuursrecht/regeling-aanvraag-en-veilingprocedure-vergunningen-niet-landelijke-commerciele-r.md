@@ -9,7 +9,7 @@ laatste_update: 2024-11-26
 status: geldig
 toestand: 2024-11-26
 bron: "https://wetten.overheid.nl/BWBR0050462"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling van de Minister van Economische Zaken van 9 november 2024, nr. WJZ/ 86535155, tot vaststelling van regels met betrekking tot de aanvraag en veiling van vergunningen voor niet-landelijke commerciële radio-omroep (Regeling aanvraag- en veilingprocedure vergunningen niet-landelijke commerciële radio-omroep 2024)

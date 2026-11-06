@@ -9,7 +9,7 @@ laatste_update: 2025-02-01
 status: geldig
 toestand: 2025-02-01
 bron: "https://wetten.overheid.nl/BWBR0050708"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 20 januari 2025, nr. 2024-0000941636, tot vaststelling van de Beleidsregel boeteoplegging Wet arbeid vreemdelingen 2025 (Beleidsregel boeteoplegging Wet arbeid vreemdelingen 2025)

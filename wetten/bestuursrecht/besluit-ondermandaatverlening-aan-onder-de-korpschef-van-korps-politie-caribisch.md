@@ -9,7 +9,7 @@ laatste_update: 2025-02-01
 status: geldig
 toestand: 2025-02-01
 bron: "https://wetten.overheid.nl/BWBR0050732"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de korpschef van het politiekorps van Bonaire, Sint Eustatius en Saba van 20 januari 2025 met kenmerk 6099732 houdende verlening van ondermandaat en volmacht aan onder hem ressorterende functionarissen. (Besluit ondermandaatverlening aan onder de korpschef van Korps Politie Caribisch Nederland ressorterende functionarissen 2025)

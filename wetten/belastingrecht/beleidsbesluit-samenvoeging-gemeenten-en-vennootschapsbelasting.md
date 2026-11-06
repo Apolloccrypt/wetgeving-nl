@@ -8,7 +8,7 @@ laatste_update: 2024-09-21
 status: geldig
 toestand: 2024-09-21
 bron: "https://wetten.overheid.nl/BWBR0050219"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Beleidsbesluit samenvoeging gemeenten en vennootschapsbelasting

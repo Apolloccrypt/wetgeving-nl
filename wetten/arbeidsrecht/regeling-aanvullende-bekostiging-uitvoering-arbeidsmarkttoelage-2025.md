@@ -9,7 +9,7 @@ laatste_update: 2025-09-03
 status: geldig
 toestand: 2025-09-03
 bron: "https://wetten.overheid.nl/BWBR0050760"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 29 januari 2025, nr. 50067438, tot het verstrekken van aanvullende bekostiging voor het primair en voortgezet onderwijs voor de uitvoering van een arbeidsmarkttoelage voor 2025 (Regeling aanvullende bekostiging uitvoering arbeidsmarkttoelage 2025)

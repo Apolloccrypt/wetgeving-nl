@@ -9,7 +9,7 @@ laatste_update: 2025-02-04
 status: geldig
 toestand: 2025-02-04
 bron: "https://wetten.overheid.nl/BWBR0050660"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Wet van 11 december 2024 tot wijziging van de Wet op het financieel toezicht en de Wet op de economische delicten ter uitvoering van Verordening (EU) 2023/1114 betreffende cryptoactivamarkten (Uitvoeringswet verordening cryptoactiva)

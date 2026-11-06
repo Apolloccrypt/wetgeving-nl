@@ -9,7 +9,7 @@ laatste_update: 2024-10-23
 status: geldig
 toestand: 2024-10-23
 bron: "https://wetten.overheid.nl/BWBR0050319"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Minister van Economische Zaken van 18 oktober 2024, nr. WJZ/ 87149287, houdende aanwijzing nationaal bevoegde instantie en nationaal centraal contactpunt in het kader van de chipverordening

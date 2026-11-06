@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0050402"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van 9 november 2024 tot wijziging van het Besluit algemene rechtspositie politie, Besluit bezoldiging politie en enige andere besluiten ter formalisering van het Arbeidsvoorwaardenakkoord sector politie 2024–2025 en enkele aanvullende wijzigingen

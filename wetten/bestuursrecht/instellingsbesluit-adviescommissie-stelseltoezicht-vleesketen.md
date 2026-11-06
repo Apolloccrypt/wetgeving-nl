@@ -9,7 +9,7 @@ laatste_update: 2026-06-10
 status: geldig
 toestand: 2026-06-10
 bron: "https://wetten.overheid.nl/BWBR0050502"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur van 29 november 2024, nr. WJZ/ 89741558, houdende instelling van de Adviescommissie Stelseltoezicht Vleesketen

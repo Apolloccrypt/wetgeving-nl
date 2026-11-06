@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0050791"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Wet van 10 februari 2025 tot wijziging van enkele wetten van het Ministerie van Sociale Zaken en Werkgelegenheid geldend voor Caribisch Nederland, met het oogmerk de rechten en verplichtingen van werkenden en ingezetenen in Caribisch Nederland te verduidelijken en te verbeteren (Wijzigingswet SZW-wetten BES 2024)

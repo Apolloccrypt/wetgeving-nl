@@ -9,7 +9,7 @@ laatste_update: 2026-08-15
 status: geldig
 toestand: 2026-08-15
 bron: "https://wetten.overheid.nl/BWBR0050667"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat van 8 januari 2025, nr. IENW/BSK-246458, houdende tijdelijke regels voor toekenning van rijksbijdragen voor verkeersveiligheidsmaatregelen voor de periode van 1 januari 2025 tot 1 januari 2030 (Regeling stimulering verkeersveiligheidsmaatregelen 2025–2030)

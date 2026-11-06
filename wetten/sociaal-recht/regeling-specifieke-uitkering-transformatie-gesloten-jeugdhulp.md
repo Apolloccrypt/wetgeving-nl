@@ -9,7 +9,7 @@ laatste_update: 2024-11-21
 status: geldig
 toestand: 2024-11-21
 bron: "https://wetten.overheid.nl/BWBR0050438"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 11 november 2024, kenmerk 3999529-1074590-J houdende regels met betrekking tot het verstrekken van een specifieke uitkering voor de transformatie gesloten jeugdhulp

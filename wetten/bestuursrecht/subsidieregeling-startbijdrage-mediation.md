@@ -9,7 +9,7 @@ laatste_update: 2026-02-18
 status: geldig
 toestand: 2026-02-18
 bron: "https://wetten.overheid.nl/BWBR0050521"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Subsidieregeling van de Raad voor Rechtsbijstand van 11 november 2024 tot vaststelling van een subsidie aan niet-toegevoegde partijen die door de rechtspraak verwezen zijn naar een mediator (Subsidieregeling startbijdrage mediation)

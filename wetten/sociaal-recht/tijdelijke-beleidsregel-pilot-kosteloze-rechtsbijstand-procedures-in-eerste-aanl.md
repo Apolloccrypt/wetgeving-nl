@@ -8,7 +8,7 @@ laatste_update: 2024-11-28
 status: geldig
 toestand: 2024-11-28
 bron: "https://wetten.overheid.nl/BWBR0050471"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Tijdelijke beleidsregel pilot kosteloze rechtsbijstand procedures in eerste aanleg met betrekking tot (spoed)uithuisplaatsing ex artikel 1:265b BW en gezagsbeëindiging ex de artikelen 1:266 juncto 1:267 BW

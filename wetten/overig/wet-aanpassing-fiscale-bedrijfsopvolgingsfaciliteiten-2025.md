@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0050614"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Wet van 18 december 2024 tot wijziging van de Wet inkomstenbelasting 2001, de Successiewet 1956 en enkele andere wetten in verband met aanpassingen in een aantal fiscale bedrijfsopvolgingsfaciliteiten (Wet aanpassing fiscale bedrijfsopvolgingsfaciliteiten 2025)

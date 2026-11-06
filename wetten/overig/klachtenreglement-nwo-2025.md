@@ -8,7 +8,7 @@ laatste_update: 2025-02-01
 status: geldig
 toestand: 2025-02-01
 bron: "https://wetten.overheid.nl/BWBR0050728"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Klachtenreglement NWO 2025

@@ -9,7 +9,7 @@ laatste_update: 2024-12-12
 status: geldig
 toestand: 2024-12-12
 bron: "https://wetten.overheid.nl/BWBR0050505"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister van Volksgezondheid, Welzijn en Sport van 25 oktober 2024 tot vaststelling van het Specifiek interventiebeleid NVWA chemische stoffen in eet- en drinkwaren (IB03-SPEC 43, versie 06)

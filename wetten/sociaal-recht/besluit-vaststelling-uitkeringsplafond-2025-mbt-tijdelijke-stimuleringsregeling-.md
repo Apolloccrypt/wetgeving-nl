@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0050636"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat, van 4 december 2024, nr. IENW/BSK-, houdende vaststelling van het uitkeringsplafond voor het kalenderjaar 2025 met betrekking tot de Tijdelijke stimuleringsregeling slim, veilig, doelmatig en duurzaam gebruik van mobiliteitsinfrastructuur 2023–2027

@@ -9,7 +9,7 @@ laatste_update: 2024-10-27
 status: geldig
 toestand: 2024-10-27
 bron: "https://wetten.overheid.nl/BWBR0050260"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van 13 september 2024 tot vaststelling van de bestanddelen van de beeldenaar van de munten van vijf en tien euro die in 2024 worden uitgegeven ter gelegenheid van het 750-jarig bestaan van Amsterdam

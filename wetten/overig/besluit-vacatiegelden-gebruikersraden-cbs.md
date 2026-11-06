@@ -8,7 +8,7 @@ laatste_update: 2024-11-30
 status: geldig
 toestand: 2024-11-30
 bron: "https://wetten.overheid.nl/BWBR0050484"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit vacatiegelden gebruikersraden CBS

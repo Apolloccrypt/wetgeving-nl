@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0050740"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Wet van 29 januari 2025, houdende regels omtrent gegevensverwerking in de persoonsgerichte aanpak van radicalisering en terroristische activiteiten

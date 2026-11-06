@@ -9,7 +9,7 @@ laatste_update: 2024-11-26
 status: geldig
 toestand: 2024-11-26
 bron: "https://wetten.overheid.nl/BWBR0050453"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de algemene raad van 4 november 2024 tot vaststelling van een subsidieplafond (Besluit subsidieplafond 2025)

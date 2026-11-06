@@ -9,7 +9,7 @@ laatste_update: 2024-10-09
 status: geldig
 toestand: 2024-10-09
 bron: "https://wetten.overheid.nl/BWBR0050268"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling van het bestuur van de Kansspelautoriteit van 3 september 2024, houdende de beheersregels voor documentaire informatie (Beheerregeling DI Ksa 2024)

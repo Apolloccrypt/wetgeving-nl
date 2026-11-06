@@ -9,7 +9,7 @@ laatste_update: 2025-03-01
 status: geldig
 toestand: 2025-03-01
 bron: "https://wetten.overheid.nl/BWBR0050796"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 14 februari 2025, kenmerk 4061635-1078970-WJZ, houdende wijziging van de Regeling publieke gezondheid vanwege de invoering van een vergunningplicht en een meldplicht ter zake van het verrichten van handelingen met poliovirus (KetenID WGK027497)

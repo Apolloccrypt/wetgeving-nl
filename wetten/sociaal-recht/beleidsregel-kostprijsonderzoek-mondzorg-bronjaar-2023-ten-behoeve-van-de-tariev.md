@@ -8,7 +8,7 @@ laatste_update: 2024-10-12
 status: geldig
 toestand: 2024-10-12
 bron: "https://wetten.overheid.nl/BWBR0050287"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Beleidsregel kostprijsonderzoek mondzorg (bronjaar 2023), ten behoeve van de tarieven tandheelkundige- en orthodontische zorg 2026

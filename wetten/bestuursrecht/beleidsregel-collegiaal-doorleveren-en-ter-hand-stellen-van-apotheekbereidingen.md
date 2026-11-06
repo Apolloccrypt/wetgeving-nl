@@ -9,7 +9,7 @@ laatste_update: 2025-02-01
 status: geldig
 toestand: 2025-02-01
 bron: "https://wetten.overheid.nl/BWBR0050656"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 28 november 2024, kenmerk 4013782-1075740-GMT, houdende het niet handhavend optreden tegen het collegiaal doorleveren en ter hand stellen van apotheekbereidingen (Beleidsregel collegiaal doorleveren en ter hand stellen van apotheekbereidingen)

@@ -8,7 +8,7 @@ laatste_update: 2024-10-17
 status: geldig
 toestand: 2024-10-17
 bron: "https://wetten.overheid.nl/BWBR0050300"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Inkomstenbelasting. Eigenwoningregeling; bijleenregeling

@@ -9,7 +9,7 @@ laatste_update: 2026-10-26
 status: geldig
 toestand: 2026-10-26
 bron: "https://wetten.overheid.nl/BWBR0053245"
-opgehaald: 2026-11-05
+opgehaald: 2026-11-06
 ---
 
 # Regeling van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur van 26 oktober 2026, nr. WJZ/108753673, houdende specifieke maatregelen in de beschermings- en de bewakingszone in verband met de bestrijding van hoogpathogene aviaire influenza in Lutjegast (Regeling maatregelen beschermings- en bewakingszone hoogpathogene vogelgriep Lutjegast 2026)

@@ -8,7 +8,7 @@ laatste_update: 2024-12-10
 status: geldig
 toestand: 2024-12-10
 bron: "https://wetten.overheid.nl/BWBR0050527"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling uitvoeringsverslag en financieel verslag Wlz-uitvoerder

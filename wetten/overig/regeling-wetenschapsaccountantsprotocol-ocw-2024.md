@@ -9,7 +9,7 @@ laatste_update: 2024-11-14
 status: geldig
 toestand: 2024-11-14
 bron: "https://wetten.overheid.nl/BWBR0050407"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap, van 3 november 2024, nr. 48150937, houdende vaststelling van het wetenschapsaccountantsprotocol voor de Nederlandse organisatie voor wetenschappelijk onderzoek, de Koninklijke Nederlandse Akademie van Wetenschappen, de Koninklijke Bibliotheek en het Biomedical Primate Research Centre (Regeling wetenschapsaccountantsprotocol OCW 2024)

@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0050308"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van 10 oktober 2024, houdende vaststelling van het te heffen recht voor de behandeling van nadeelcompensatieaanvragen door bestuursorganen van de centrale overheid (Besluit vaststelling recht nadeelcompensatie bestuursorganen centrale overheid)

@@ -9,7 +9,7 @@ laatste_update: 2025-01-30
 status: geldig
 toestand: 2025-01-30
 bron: "https://wetten.overheid.nl/BWBR0050723"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Raad van bestuur van de Sociale verzekeringsbank van 16 januari 2025, houdende de bekendmaking van de Beleidsregels transitievergoeding PGB (Besluit Beleidsregels transitievergoeding PGB)

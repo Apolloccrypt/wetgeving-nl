@@ -9,7 +9,7 @@ laatste_update: 2024-11-26
 status: geldig
 toestand: 2024-11-26
 bron: "https://wetten.overheid.nl/BWBR0050459"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Minister van Economische Zaken van 9 november 2024, nr. DGED/DE, 53066414, handelende in overeenstemming met de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, inzake de keuze voor het instrument veiling voor de uitgifte van niet-landelijke commerciële FM-vergunningen en de niet-landelijke commerciële DAB-vergunningen (Besluit bekendmaking veiling vergunningen niet-landelijke commerciële radio-omroep 2024)

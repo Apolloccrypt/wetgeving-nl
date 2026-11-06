@@ -8,7 +8,7 @@ laatste_update: 2024-12-07
 status: geldig
 toestand: 2024-12-07
 bron: "https://wetten.overheid.nl/BWBR0050524"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit fiscale behandeling van aandelenoptierechten in grensoverschrijdende situaties

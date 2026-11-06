@@ -9,7 +9,7 @@ laatste_update: 2024-12-11
 status: geldig
 toestand: 2024-12-11
 bron: "https://wetten.overheid.nl/BWBR0050542"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Wet van 20 november 2024 tot wijziging van de Wet kinderopvang om aanspraak op kinderopvangtoeslag mogelijk te maken voor Oekraïense ontheemden gelet op het Uitvoeringsbesluit van de Raad tot vaststelling van het bestaan van een massale toestroom van ontheemden uit Oekraïne in de zin van artikel 5 van Richtlijn 2001/55/EG van de Raad van 20 juli 2001 en tot invoering van tijdelijke bescherming naar aanleiding daarvan en daarnaast ouders met een partner buiten de Europese Unie, de Europese Economische Ruimte of Zwitserland ook aanspraak op kinderopvangtoeslag te geven

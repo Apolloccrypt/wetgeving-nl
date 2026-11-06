@@ -9,7 +9,7 @@ laatste_update: 2025-12-12
 status: geldig
 toestand: 2025-12-12
 bron: "https://wetten.overheid.nl/BWBR0050400"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van 9 november 2024, houdende Besluit vergelijking buitenlandse rechtsvormen

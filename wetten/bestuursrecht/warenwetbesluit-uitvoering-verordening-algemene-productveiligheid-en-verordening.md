@@ -9,7 +9,7 @@ laatste_update: 2025-05-09
 status: geldig
 toestand: 2025-05-09
 bron: "https://wetten.overheid.nl/BWBR0050525"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van 2 december 2024, houdende de vaststelling van regels in verband met de uitvoering van Verordening (EU) 2023/988 inzake algemene productveiligheid en Verordening (EG) 765/2008 inzake accreditatie (Warenwetbesluit uitvoering verordening algemene productveiligheid en verordening inzake accreditatie)

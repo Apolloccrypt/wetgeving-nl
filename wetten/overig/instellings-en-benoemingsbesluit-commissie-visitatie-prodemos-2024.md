@@ -9,7 +9,7 @@ laatste_update: 2024-11-20
 status: geldig
 toestand: 2024-11-20
 bron: "https://wetten.overheid.nl/BWBR0050430"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 30 oktober 2024, nr. 2024-0000033133, tot instelling en benoeming van een commissie voor de visitatie van ProDemos 2024

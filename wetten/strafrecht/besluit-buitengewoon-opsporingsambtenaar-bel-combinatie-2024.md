@@ -9,7 +9,7 @@ laatste_update: 2024-12-25
 status: geldig
 toestand: 2024-12-25
 bron: "https://wetten.overheid.nl/BWBR0050579"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 17 december 2024 nr. BOACAT2024/122 strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de BEL Combinatie

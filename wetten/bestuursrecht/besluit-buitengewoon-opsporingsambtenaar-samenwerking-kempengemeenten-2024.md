@@ -9,7 +9,7 @@ laatste_update: 2024-11-06
 status: geldig
 toestand: 2024-11-06
 bron: "https://wetten.overheid.nl/BWBR0050366"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 29 oktober 2024 nr. BOACAT2024/111, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Samenwerking Kempengemeenten

@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0050327"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 17 oktober 2024, nr. MBO/46958859, houdende de vaststelling van de niveaubeschrijvingen per NLQF-niveau, de NLQF-niveaus van formele opleidingen en van de leges voor inschaling van non-formele opleidingen (Regeling NLQF)

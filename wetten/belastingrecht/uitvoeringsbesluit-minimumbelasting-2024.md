@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0050584"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van 11 december 2024, houdende regels ter uitvoering van de Wet minimumbelasting 2024 (Uitvoeringsbesluit minimumbelasting 2024)

@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0050401"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van 9 november 2024, houdende regels over maatschappelijke ondersteuning en de bestrijding van huiselijk geweld en kindermishandeling op Bonaire, Sint Eustatius en Saba (Besluit maatschappelijke ondersteuning en bestrijding huiselijk geweld en kindermishandeling BES)

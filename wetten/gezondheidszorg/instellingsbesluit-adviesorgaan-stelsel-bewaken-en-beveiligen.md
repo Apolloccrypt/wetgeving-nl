@@ -9,7 +9,7 @@ laatste_update: 2026-01-06
 status: geldig
 toestand: 2026-01-06
 bron: "https://wetten.overheid.nl/BWBR0050494"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Minister Justitie en Veiligheid van 25 oktober 2024, nr. 5849256, houdende instelling van het adviesorgaan Stelsel bewaken en beveiligen

@@ -9,7 +9,7 @@ laatste_update: 2024-12-17
 status: geldig
 toestand: 2024-12-17
 bron: "https://wetten.overheid.nl/BWBR0050566"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van Dienst Toeslagen, vertegenwoordigd door de directeur-generaal Toeslagen van 6 december 2024, nr. 2024-544716, houdende vaststelling van het Besluit mandaatverlening, volmacht en machtiging Dienst Toeslagen 2024 (Besluit mandaatverlening, volmacht en machtiging Dienst Toeslagen 2024)

@@ -9,7 +9,7 @@ laatste_update: 2025-02-25
 status: geldig
 toestand: 2025-02-25
 bron: "https://wetten.overheid.nl/BWBR0050797"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat van 18 februari 2025, nr. IENW/BSK-2025/44009, houdende vaststelling van het eerste aanvraagtijdvak van 2025 en het daarbij behorende plafond voor rijksbijdragen als bedoeld in de Regeling stimulering verkeersveiligheidsmaatregelen 2025–2030

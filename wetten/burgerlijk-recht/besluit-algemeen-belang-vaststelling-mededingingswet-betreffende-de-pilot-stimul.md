@@ -9,7 +9,7 @@ laatste_update: 2024-12-10
 status: geldig
 toestand: 2024-12-10
 bron: "https://wetten.overheid.nl/BWBR0050516"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur d.d. 29 november 2024, nr. 89968218, houdende algemeen belang besluit pilot stimulering vezelteelten

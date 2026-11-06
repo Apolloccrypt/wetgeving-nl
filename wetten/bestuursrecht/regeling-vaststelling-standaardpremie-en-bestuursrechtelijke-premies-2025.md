@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0050536"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 19 november 2024, kenmerk 3973534-1072564-Z, houdende vaststelling van de standaardpremie en de bestuursrechtelijke premies voor 2025 (Regeling vaststelling standaardpremie en bestuursrechtelijke premies 2025)

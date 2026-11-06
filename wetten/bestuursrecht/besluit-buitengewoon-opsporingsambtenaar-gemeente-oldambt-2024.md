@@ -9,7 +9,7 @@ laatste_update: 2024-11-05
 status: geldig
 toestand: 2024-11-05
 bron: "https://wetten.overheid.nl/BWBR0050358"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 28 oktober 2024 nr. BOACAT2024/112, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Oldambt

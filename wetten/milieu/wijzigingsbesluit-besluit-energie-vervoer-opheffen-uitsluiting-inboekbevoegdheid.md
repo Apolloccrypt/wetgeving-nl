@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0050580"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van 18 december 2024 tot wijziging van het Besluit energie vervoer in verband met het opheffen van de uitsluiting van de inboekbevoegdheid van geleverde biobrandstoffen en hernieuwbare brandstoffen aan luchtvaart en zeevaart en in verband met het wijzigen van de spaarpercentages van hernieuwbare brandstofeenheden vanwege de toekomstige overgang naar een aangepast systeem hernieuwbare energie vervoer, alsmede enkele technische wijzigingen op het gebied van het inboeken van geleverde hernieuwbare brandstoffen en elektriciteit

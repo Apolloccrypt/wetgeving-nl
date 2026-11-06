@@ -9,7 +9,7 @@ laatste_update: 2025-02-22
 status: geldig
 toestand: 2025-02-22
 bron: "https://wetten.overheid.nl/BWBR0050704"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur. van 10 januari 2025 tot vaststelling van het Specifiek interventiebeleid NVWA diervoeder (IB03-SPEC 35, versie 06)

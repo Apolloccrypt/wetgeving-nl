@@ -9,7 +9,7 @@ laatste_update: 2024-11-08
 status: geldig
 toestand: 2024-11-08
 bron: "https://wetten.overheid.nl/BWBR0050375"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van 27 augustus 2024, houdende regels met betrekking tot benoeming, schorsing en het ontslag van tot het secretariaat van de toetsingscommissie inzet bevoegdheden horende personen

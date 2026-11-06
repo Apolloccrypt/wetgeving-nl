@@ -9,7 +9,7 @@ laatste_update: 2024-10-01
 status: geldig
 toestand: 2024-10-01
 bron: "https://wetten.overheid.nl/BWBR0050242"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap, van 9 september 2024, nr. MBO/46959232, tot intrekking van de Beleidsregel van de Inspecteur-generaal van het onderwijs, van 25 april 2016, nr. IvHO 482652, houdende invoering van het Onderzoekskader 2016 voor het toezicht op de Samenwerkingsorganisatie Beroepsonderwijs Bedrijfsleven (Stcrt. 2016, 36453) onder vaststelling van de beleidsregel houdende het Onderzoekskader 2023 voor het toezicht op de Samenwerkingsorganisatie Beroepsonderwijs Bedrijfsleven (Beleidsregel onderzoekskader SBB 2024)

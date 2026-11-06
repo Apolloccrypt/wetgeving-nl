@@ -8,7 +8,7 @@ laatste_update: 2024-11-08
 status: geldig
 toestand: 2024-11-08
 bron: "https://wetten.overheid.nl/BWBR0050378"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit Vervanging Archiefbescheiden DNB 2024

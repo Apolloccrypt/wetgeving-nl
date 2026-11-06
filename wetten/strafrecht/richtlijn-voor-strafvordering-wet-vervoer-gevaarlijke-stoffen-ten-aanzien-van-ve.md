@@ -8,7 +8,7 @@ laatste_update: 2024-11-01
 status: geldig
 toestand: 2024-11-01
 bron: "https://wetten.overheid.nl/BWBR0050351"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Richtlijn voor strafvordering Wet vervoer gevaarlijke stoffen ten aanzien van vervoer over de weg

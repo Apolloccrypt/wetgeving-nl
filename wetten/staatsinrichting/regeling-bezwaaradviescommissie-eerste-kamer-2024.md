@@ -9,7 +9,7 @@ laatste_update: 2025-01-11
 status: geldig
 toestand: 2025-01-11
 bron: "https://wetten.overheid.nl/BWBR0050663"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van het College van Voorzitter en Ondervoorzitters van 22 oktober 2024 nr. 175988U houdende regels inzake een bezwaaradviescommissie (Regeling bezwaaradviescommissie Eerste Kamer 2024)

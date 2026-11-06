@@ -9,7 +9,7 @@ laatste_update: 2025-11-07
 status: geldig
 toestand: 2025-11-07
 bron: "https://wetten.overheid.nl/BWBR0050437"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling van de Minister van Klimaat en Groene Groei van 18 november 2024, nr. WJZ/ 89799993, houdende regels voor het verstrekken van specifieke uitkeringen in verband met de gebiedsinvesteringen Net op Zee (Regeling specifieke uitkeringen gebiedsinvesteringen Net op Zee)

@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0050286"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van het dagelijks bestuur van de Sociaal-economische Raad van 18 april 2024 tot instelling van de Bedrijfscommissie voor de marktsector

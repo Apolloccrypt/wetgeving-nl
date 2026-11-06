@@ -8,7 +8,7 @@ laatste_update: 2025-02-18
 status: geldig
 toestand: 2025-02-18
 bron: "https://wetten.overheid.nl/BWBR0050780"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling Cultuureducatie in het mbo 2025–2028

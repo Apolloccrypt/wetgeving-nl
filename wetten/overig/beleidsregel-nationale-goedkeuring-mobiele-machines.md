@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-06-30
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0050646"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Beleidsregel van de directie van de Dienst Wegverkeer van 1 januari 2025 betreffende de verlening van nationale typegoedkeuring en individuele goedkeuring van mobiele machines (Beleidsregel nationale goedkeuring mobiele machines)

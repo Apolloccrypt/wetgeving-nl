@@ -9,7 +9,7 @@ laatste_update: 2026-01-31
 status: geldig
 toestand: 2026-01-31
 bron: "https://wetten.overheid.nl/BWBR0050288"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Verordening van de Sociaal-Economische Raad van 26 september 2024 houdende regels voor de samenstelling en de werkwijze van bedrijfscommissies (Verordening op de bedrijfscommissies 2024)

@@ -9,7 +9,7 @@ laatste_update: 2024-11-06
 status: geldig
 toestand: 2024-11-06
 bron: "https://wetten.overheid.nl/BWBR0050367"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Beleidsregel van het College voor de toelating van gewasbeschermingsmiddelen en biociden van 23 oktober 2024 inzake de toepassing van artikel 44 van Verordening (EG) nr. 1107/2009 in het kader van werkzame stoffen en metabolieten uit gewasbeschermingsmiddelen die het toelatingscriterium voor oppervlaktewater structureel overschrijden (Beleidsregel toepassing artikel 44 Verordening (EG) nr. 1107/2009 bij structurele overschrijdingen van het toelatingscriterium in oppervlaktewater Ctgb 2024)

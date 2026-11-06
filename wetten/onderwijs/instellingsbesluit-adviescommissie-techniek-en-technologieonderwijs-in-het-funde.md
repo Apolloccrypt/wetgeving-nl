@@ -9,7 +9,7 @@ laatste_update: 2026-07-11
 status: geldig
 toestand: 2026-07-11
 bron: "https://wetten.overheid.nl/BWBR0050217"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 11 september 2024, nr. OVO/42902029, houdende instelling van de adviescommissie techniek- en technologieonderwijs in het funderend onderwijs voor de periode 2024 tot en met 2030 (Instellingsbesluit adviescommissie techniek- en technologieonderwijs 2024–2030)

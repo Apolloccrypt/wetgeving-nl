@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0050495"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Wet van 20 november 2024 tot wijziging van de Meststoffenwet in verband met de voorwaarden over de maximale mestproductie in de derogatiebeschikking 2022–2025 (Wet wijziging Meststoffenwet in verband met de maximale mestproductie)

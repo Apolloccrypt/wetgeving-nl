@@ -9,7 +9,7 @@ laatste_update: 2024-10-25
 status: geldig
 toestand: 2024-10-25
 bron: "https://wetten.overheid.nl/BWBR0050326"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 16 oktober 2024, kenmerk 3968506-1071223-PZo, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake de wijziging van het experiment voor bekostiging wijkverpleging op basis van cliëntprofielen volgens het Draagkracht Draaglast model

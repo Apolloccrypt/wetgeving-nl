@@ -9,7 +9,7 @@ laatste_update: 2025-02-12
 status: geldig
 toestand: 2025-02-12
 bron: "https://wetten.overheid.nl/BWBR0050766"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling van de Minister van Financiën van 7 februari 2025 (2025-0000001587), houdende regels inzake de taakuitoefening en bevoegdheden van de belangenbehartiger voor belastingplichtigen, belastingschuldigen als bedoeld in de Invorderingswet 1990 en belanghebbenden als bedoeld in de Algemene wet inkomensafhankelijke regelingen (Regeling taakuitoefening en bevoegdheden BBT)

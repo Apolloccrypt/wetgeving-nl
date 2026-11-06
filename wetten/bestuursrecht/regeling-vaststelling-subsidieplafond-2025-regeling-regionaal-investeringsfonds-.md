@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0050611"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 4 november 2024, nr. MBO/48828913, houdende vaststelling van het subsidieplafond voor het kalenderjaar 2025 van de Regeling regionaal investeringsfonds mbo 2024–2027, alsmede wijziging van deze regeling in verband met het wijzigen van het maximaal beschikbare budget en wijziging van het Instellingsbesluit Tijdelijke adviescommissie regionaal investeringsfonds mbo in verband met de gewijzigde samenstelling van de adviescommissie

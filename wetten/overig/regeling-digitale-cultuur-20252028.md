@@ -8,7 +8,7 @@ laatste_update: 2026-02-01
 status: geldig
 toestand: 2026-02-01
 bron: "https://wetten.overheid.nl/BWBR0050559"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling Digitale cultuur 2025–2028

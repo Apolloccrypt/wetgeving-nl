@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0050362"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling van De Minister van Volksgezondheid, Welzijn en Sport van 28 oktober 2024, kenmerk 3964007-1070580-Z, houdende wijziging van de Regeling zorgverzekering in verband met het vaststellen van de woonlandfactoren voor het jaar 2025 ten behoeve van de gedifferentieerde berekening van de bijdrage voor verdragsgerechtigden

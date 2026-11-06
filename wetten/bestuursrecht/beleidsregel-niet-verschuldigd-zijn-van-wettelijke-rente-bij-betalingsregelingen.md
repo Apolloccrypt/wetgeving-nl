@@ -9,7 +9,7 @@ laatste_update: 2024-10-03
 status: geldig
 toestand: 2024-10-03
 bron: "https://wetten.overheid.nl/BWBR0050248"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 16 september 2024, nr. 47647868 over het niet verschuldigd zijn van wettelijke rente bij betalingsregelingen uit hoofde van OCW-regelgeving

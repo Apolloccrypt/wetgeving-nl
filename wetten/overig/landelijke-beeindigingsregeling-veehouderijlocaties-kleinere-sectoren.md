@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0050282"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur van 8 oktober 2024, nr. WJZ/ 43866467, houdende regels voor de verstrekking van subsidie voor het sluiten van veehouderijlocaties met diersoorten behorend tot kleinere sectoren voor de reductie van stikstofdepositie op natuurgebieden (Landelijke beëindigingsregeling veehouderijlocaties kleinere sectoren)

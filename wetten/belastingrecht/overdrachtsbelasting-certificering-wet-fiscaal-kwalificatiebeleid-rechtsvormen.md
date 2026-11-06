@@ -8,7 +8,7 @@ laatste_update: 2024-11-15
 status: geldig
 toestand: 2024-11-15
 bron: "https://wetten.overheid.nl/BWBR0050408"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Overdrachtsbelasting, certificering Wet fiscaal kwalificatiebeleid rechtsvormen

@@ -9,7 +9,7 @@ laatste_update: 2024-12-17
 status: geldig
 toestand: 2024-12-17
 bron: "https://wetten.overheid.nl/BWBR0050564"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 13 december 2024, kenmerk 4023209-1076325-WJZ, houdende de aanwijzing van toezichthoudende ambtenaren op de naleving van het Warenwetbesluit uitvoering verordening algemene productveiligheid en verordening inzake accreditatie op het terrein van Economische Zaken (Besluit aanwijzing toezichthouders algemene productveiligheid op het terrein van Economische Zaken)

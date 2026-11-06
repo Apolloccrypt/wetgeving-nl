@@ -9,7 +9,7 @@ laatste_update: 2024-12-16
 status: geldig
 toestand: 2024-12-16
 bron: "https://wetten.overheid.nl/BWBR0050487"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Staatssecretaris van 25 november 2024 van Justitie en Veiligheid van nr. BOACAT2024/116, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Dienst Gezondheid & Jeugd Zuid-Holland-Zuid

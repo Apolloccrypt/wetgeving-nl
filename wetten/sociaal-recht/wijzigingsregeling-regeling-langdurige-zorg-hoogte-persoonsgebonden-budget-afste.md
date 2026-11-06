@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0050541"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 29 november 2024, kenmerk 4007531-1074376-LZ, houdende wijziging van de Regeling langdurige zorg om de hoogte van het persoonsgebonden budget af te stemmen op een passende zorginzet

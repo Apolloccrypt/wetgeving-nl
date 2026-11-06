@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0050294"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Wet van 30 september 2024 tot wijziging van de Wet op het hoger onderwijs en wetenschappelijk onderzoek houdende de verankering van eenheden van leeruitkomsten in die wet (Wet leeruitkomsten hoger onderwijs)

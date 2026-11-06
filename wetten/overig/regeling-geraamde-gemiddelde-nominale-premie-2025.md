@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0050321"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 14 oktober 2024, kenmerk 3975178-1072732-Z, houdende Regeling geraamde gemiddelde nominale premie 2025

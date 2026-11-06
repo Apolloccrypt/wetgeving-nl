@@ -9,7 +9,7 @@ laatste_update: 2025-03-18
 status: geldig
 toestand: 2025-03-18
 bron: "https://wetten.overheid.nl/BWBR0050784"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Wet van 29 januari 2025 tot wijziging van de Wet op het financieel toezicht ter uitvoering van Verordening (EU) 2023/2631 betreffende Europese groene obligaties en optionele openbaarmakingen voor obligaties die als ecologisch duurzame obligaties op de markt worden gebracht en voor aan duurzaamheid gekoppelde obligaties (Uitvoeringswet verordening Europese groene obligaties)

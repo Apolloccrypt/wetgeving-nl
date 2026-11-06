@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-11-02
 toestand: 2022-04-22
 bron: "https://wetten.overheid.nl/BWBR0045691"
-opgehaald: 2026-11-05
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 28 september 2021 nr. BOACAT2021/041, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Groningen in het domein I, Openbare Ruimte

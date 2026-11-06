@@ -9,7 +9,7 @@ laatste_update: 2025-02-01
 status: geldig
 toestand: 2025-02-01
 bron: "https://wetten.overheid.nl/BWBR0050669"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 19 december 2024, nr. 2024-0000039826, houdende aanwijzing van Stichting Nederlands Duikcentrum Registratie Instelling (hierna: NDC-RI) als verwerker als bedoeld in artikel 28 van de Algemene verordening gegevensbescherming en verlening van mandaat, volmacht en machtiging aan NDC-RI ter uitvoering van het beheer van het Register Civiele Duikarbeid

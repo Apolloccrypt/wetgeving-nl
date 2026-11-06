@@ -9,7 +9,7 @@ laatste_update: 2024-10-08
 status: geldig
 toestand: 2024-10-08
 bron: "https://wetten.overheid.nl/BWBR0050265"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 3 oktober 2024, nummer 5645710, houdende een subsidie voor de uitbreiding van capaciteit van buitengewoon opsporingsambtenaren en buitengewoon agent van politie van wie de werkzaamheden in hoofdzaak gericht zijn op handhaving en toezicht van onder andere natuurwetgeving voor de jaren 2024 tot en met 2026 (Regeling Subsidie uitbreiding capaciteit groene boa en bavpol 2024–2026)

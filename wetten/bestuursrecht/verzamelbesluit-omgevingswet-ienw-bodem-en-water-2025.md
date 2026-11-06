@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0050376"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van 4 november 2024 tot wijziging van het Besluit activiteiten leefomgeving, het Omgevingsbesluit, het Invoeringsbesluit Omgevingswet en het Besluit bodemkwaliteit (Verzamelbesluit Omgevingswet IENW bodem en water 2025)

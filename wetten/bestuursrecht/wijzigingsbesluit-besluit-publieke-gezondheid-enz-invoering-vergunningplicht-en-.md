@@ -9,7 +9,7 @@ laatste_update: 2025-10-25
 status: geldig
 toestand: 2025-10-25
 bron: "https://wetten.overheid.nl/BWBR0050725"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van 27 januari 2025, houdende wijziging van het Besluit publieke gezondheid vanwege de invoering van een vergunningplicht en een meldplicht ter zake van het verrichten van handelingen met poliovirus

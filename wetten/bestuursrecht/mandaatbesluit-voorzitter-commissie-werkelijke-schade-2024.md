@@ -9,7 +9,7 @@ laatste_update: 2025-01-22
 status: geldig
 toestand: 2025-01-22
 bron: "https://wetten.overheid.nl/BWBR0050690"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de secretaris-generaal van het Ministerie van Financiën van 6 januari 2025, kenmerk 2024-0000582936, houdende verlening van ondermandaat aan de voorzitter van de Commissie Werkelijke Schade inzake budget en personeel (Mandaatbesluit voorzitter Commissie Werkelijke Schade 2024)

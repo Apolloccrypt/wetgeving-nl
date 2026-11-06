@@ -9,7 +9,7 @@ laatste_update: 2024-12-01
 status: geldig
 toestand: 2024-12-01
 bron: "https://wetten.overheid.nl/BWBR0050320"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 10 oktober 2024, kenmerk 3973517-1072562-PZO, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake het bekostigingsexperiment fysio- en oefentherapie bij COPD

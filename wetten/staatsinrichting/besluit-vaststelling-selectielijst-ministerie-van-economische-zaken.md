@@ -8,7 +8,7 @@ laatste_update: 2025-02-13
 status: geldig
 toestand: 2025-02-13
 bron: "https://wetten.overheid.nl/BWBR0050758"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit vaststelling selectielijst Ministerie van Economische Zaken

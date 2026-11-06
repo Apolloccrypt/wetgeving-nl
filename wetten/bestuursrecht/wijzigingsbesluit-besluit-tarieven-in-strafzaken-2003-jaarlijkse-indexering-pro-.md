@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0050526"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van 28 november 2024 tot wijziging van het Besluit tarieven in strafzaken 2003 in verband met de jaarlijkse indexering van de vergoedingen voor Pro Justitia rapporteurs en het minimumtarief voor tolken 2025

@@ -9,7 +9,7 @@ laatste_update: 2025-04-01
 status: geldig
 toestand: 2025-04-01
 bron: "https://wetten.overheid.nl/BWBR0050377"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van 4 november 2024 tot wijziging van het Besluit algemene rechtspositie politie, het Besluit bezoldiging politie en enkele andere besluiten in verband met herziening van het stelsel voor beroepsziekten, beroepsincidenten en dienstongevallen en enkele wetstechnische aanpassingen (Besluit beroepsgerelateerde gezondheidsklachten politie)

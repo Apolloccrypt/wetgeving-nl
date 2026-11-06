@@ -9,7 +9,7 @@ laatste_update: 2024-11-16
 status: geldig
 toestand: 2024-11-16
 bron: "https://wetten.overheid.nl/BWBR0050420"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Beleidsregel van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur 8 november 2024, nr. WJZ/89748388 houdende vaststelling van regels voor het verlenen van een ontheffing van de stikstofgebruiksnomen voor dierlijke mest voor het onderzoek Reinventing circular dairy farming (Beleidsregel Onderzoeksontheffing Reinventing circular dairy farming)

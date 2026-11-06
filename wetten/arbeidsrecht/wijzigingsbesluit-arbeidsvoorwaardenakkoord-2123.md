@@ -9,7 +9,7 @@ laatste_update: 2025-01-17
 status: geldig
 toestand: 2025-01-17
 bron: "https://wetten.overheid.nl/BWBR0050691"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van 14 november 2024 tot vaststelling van een eenmalige uitkering in juli 2022 en een bijzondere beloning in maart 2023 en tot wijziging van enige besluiten in het kader van hoofdstuk 1 van het arbeidsvoorwaardenakkoord voor de sector Defensie over de periode 1 januari 2021 tot en met 31 december 2023 en een aantal andere wijzigingen (Wijzigingsbesluit arbeidsvoorwaardenakkoord 21–23)

@@ -9,7 +9,7 @@ laatste_update: 2025-10-02
 status: geldig
 toestand: 2025-10-02
 bron: "https://wetten.overheid.nl/BWBR0050340"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 28 oktober 2024, nr. IENW/BSK-2024/294197, houdende vaststelling van tijdelijke regels voor het verlenen van subsidie voor de realisering van walstroomvoorzieningen voor zeeschepen 2024–2027 (Tijdelijke subsidieregeling walstroom zeeschepen 2024–2027)

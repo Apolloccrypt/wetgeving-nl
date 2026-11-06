@@ -9,7 +9,7 @@ laatste_update: 2024-11-12
 status: geldig
 toestand: 2024-11-12
 bron: "https://wetten.overheid.nl/BWBR0050391"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur, nr. WJZ/87130177 tot vaststelling van voorlopige tarieven GLB 2024 en tarief zeldzame landbouwhuisdierrassen GLB 2024

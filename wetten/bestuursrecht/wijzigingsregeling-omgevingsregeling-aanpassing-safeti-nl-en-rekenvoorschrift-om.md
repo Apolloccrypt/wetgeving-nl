@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0050587"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat van nr. IENW/BSK-2024/215440, tot wijziging van de Omgevingsregeling (aanpassing Safeti-NL en Rekenvoorschrift omgevingsveiligheid)

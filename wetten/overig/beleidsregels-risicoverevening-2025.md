@@ -9,7 +9,7 @@ laatste_update: 2026-01-20
 status: geldig
 toestand: 2026-01-20
 bron: "https://wetten.overheid.nl/BWBR0050435"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Beleidsregels van de Raad van Bestuur van Zorginstituut Nederland van 8 oktober 2024, kenmerk 2024021132, voor de toekenning en vaststelling van de vereveningsbijdrage aan zorgverzekeraars 2025 (Beleidsregels Risicoverevening 2025)

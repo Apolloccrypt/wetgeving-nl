@@ -9,7 +9,7 @@ laatste_update: 2025-03-08
 status: geldig
 toestand: 2025-03-08
 bron: "https://wetten.overheid.nl/BWBR0050710"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Wet van 15 januari 2025, houdende Uitvoering van verordening (EU) 2022/1925 van het Europees Parlement en de Raad van 14 september 2022 over betwistbare en eerlijke markten in de digitale sector, en tot wijziging van Richtlijnen (EU) 2019/1937 en (EU) 2020/1828 (Uitvoeringswet digitalemarktenverordening)

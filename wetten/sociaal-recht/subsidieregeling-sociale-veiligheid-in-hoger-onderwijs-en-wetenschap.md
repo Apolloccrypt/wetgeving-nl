@@ -9,7 +9,7 @@ laatste_update: 2026-01-31
 status: geldig
 toestand: 2026-01-31
 bron: "https://wetten.overheid.nl/BWBR0050805"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap, van 20 februari 2025, nr. OWB/49374826 houdende regels voor subsidieverstrekking voor het versterken van sociale veiligheid in het hoger onderwijs en de wetenschap (Subsidieregeling sociale veiligheid in hoger onderwijs en wetenschap)

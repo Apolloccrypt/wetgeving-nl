@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-04-21
 toestand: 2025-03-01
 bron: "https://wetten.overheid.nl/BWBR0050385"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de directeur Bewaken en Beveiligen van de Nationaal Coördinator Terrorismebestrijding en Veiligheid van het Ministerie van Justitie en Veiligheid van 28 oktober 2024, nr. 5841772, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan de onder de directeur ressorterende ambtenaren (Mandaatbesluit Bewaken en Beveiligen NCTV 2024)

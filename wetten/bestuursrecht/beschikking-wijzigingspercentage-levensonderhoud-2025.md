@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0050325"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Beschikking van de Staatssecretaris van Justitie en Veiligheid, T.H.D. Struycken, van 16 oktober 2024, nr. 5832964, Directie Wetgeving en Juridische Zaken, tot vaststelling van het percentage waarmee de bedragen voor levensonderhoud met ingang van 1 januari 2025 worden verhoogd (Beschikking wijzigingspercentage levensonderhoud 2025)

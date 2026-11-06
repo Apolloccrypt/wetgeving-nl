@@ -9,7 +9,7 @@ laatste_update: 2026-10-27
 status: geldig
 toestand: 2026-10-27
 bron: "https://wetten.overheid.nl/BWBR0051057"
-opgehaald: 2026-11-05
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 20 mei 2025 nr. BOACAT2025/128, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de afdeling Handhaving, veiligheidsdomein, van de gemeente Leeuwarden

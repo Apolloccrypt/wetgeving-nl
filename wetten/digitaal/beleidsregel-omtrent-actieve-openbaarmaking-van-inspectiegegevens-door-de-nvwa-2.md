@@ -9,7 +9,7 @@ laatste_update: 2024-10-30
 status: geldig
 toestand: 2024-10-30
 bron: "https://wetten.overheid.nl/BWBR0050345"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Beleidsregel van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit van 21 oktober 2024, NVWA/2024/010073916, over het actief openbaar maken van inspectiegegevens van bedrijven en producten (Beleidsregel omtrent actieve openbaarmaking van inspectiegegevens door de NVWA 2024)

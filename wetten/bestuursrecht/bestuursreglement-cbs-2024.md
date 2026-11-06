@@ -8,7 +8,7 @@ laatste_update: 2024-10-22
 status: geldig
 toestand: 2024-10-22
 bron: "https://wetten.overheid.nl/BWBR0050315"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Bestuursreglement CBS 2024

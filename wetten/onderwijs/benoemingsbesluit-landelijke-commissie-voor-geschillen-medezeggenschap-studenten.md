@@ -9,7 +9,7 @@ laatste_update: 2024-12-04
 status: geldig
 toestand: 2024-12-04
 bron: "https://wetten.overheid.nl/BWBR0050501"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 11 november 2024, nr. MBO/nr. 48864321, houdende benoeming van de voorzitter en een plaatsvervangend lid van de Landelijke Commissie voor Geschillen medezeggenschap studenten en ouders MBO 2024–2027 (Benoemingsbesluit Landelijke Commissie voor Geschillen medezeggenschap studenten en ouders MBO 2024–2027)

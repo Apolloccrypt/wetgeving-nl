@@ -9,7 +9,7 @@ laatste_update: 2024-10-30
 status: geldig
 toestand: 2024-10-30
 bron: "https://wetten.overheid.nl/BWBR0050336"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Minister van Financiën van 26 augustus 2024, nr. 2024-423557, houdende aanwijzing van een waarnemend directeur-generaal Herstelbeleid van het Ministerie van Financiën

@@ -5,11 +5,11 @@ identifier: "BWBR0026204"
 categorie: "Bestuursrecht"
 soort: "AMvB"
 publicatiedatum: 2009-08-01
-laatste_update: 2026-10-16
+laatste_update: 2026-10-30
 status: geldig
-toestand: 2026-10-16
+toestand: 2026-10-30
 bron: "https://wetten.overheid.nl/BWBR0026204"
-opgehaald: 2026-10-24
+opgehaald: 2026-11-06
 ---
 
 # Besluit van 11 juni 2009, houdende regels voor het vaststellen van de op grond van de Wet op het financieel toezicht en enige andere wetten op te leggen bestuurlijke boetes (Besluit bestuurlijke boetes financiële sector)
@@ -52,23 +52,23 @@ Dit besluit berust mede op de [artikelen 1:81, derde lid](https://wetten.overhei
 
 1. De toezichthouder stelt een bestuurlijke boete in de tweede of derde categorie vast op het basisbedrag.
 
-2. De toezichthouder verlaagt of verhoogt het basisbedrag met ten hoogste 50 procent indien de ernst of duur van de overtreding, mede gelet op de omstandigheden genoemd in [artikel 1b, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=1b&z=2026-10-16&g=2026-10-16), een dergelijke verlaging of verhoging rechtvaardigen.
+2. De toezichthouder verlaagt of verhoogt het basisbedrag met ten hoogste 50 procent indien de ernst of duur van de overtreding, mede gelet op de omstandigheden genoemd in [artikel 1b, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=1b&z=2026-10-30&g=2026-10-30), een dergelijke verlaging of verhoging rechtvaardigen.
 
-3. De toezichthouder verlaagt of verhoogt het basisbedrag met ten hoogste 50 procent indien de verwijtbaarheid, mede gelet op de omstandigheden genoemd in [artikel 1b, onderdelen e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=1b&z=2026-10-16&g=2026-10-16), een dergelijke verlaging of verhoging rechtvaardigen.
+3. De toezichthouder verlaagt of verhoogt het basisbedrag met ten hoogste 50 procent indien de verwijtbaarheid, mede gelet op de omstandigheden genoemd in [artikel 1b, onderdelen e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=1b&z=2026-10-30&g=2026-10-30), een dergelijke verlaging of verhoging rechtvaardigen.
 
 ##### Artikel 3
 
-De door de toezichthouder met toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2026-10-16&g=2026-10-16) vast te stellen bestuurlijke boete wordt verdubbeld indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding.
+De door de toezichthouder met toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2026-10-30&g=2026-10-30) vast te stellen bestuurlijke boete wordt verdubbeld indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding.
 
 ##### Artikel 3a
 
-De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2026-10-16&g=2026-10-16) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=3&z=2026-10-16&g=2026-10-16) zijn niet van toepassing indien de toezichthouder een boete oplegt ter zake van een overtreding waarvoor ingevolge [artikel 1:82 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:82) geldt dat de boete ten hoogste een percentage bedraagt van de netto-omzet van de overtreder in het boekjaar voorafgaande aan de beschikking waarmee de bestuurlijke boete wordt opgelegd.
+De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2026-10-30&g=2026-10-30) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=3&z=2026-10-30&g=2026-10-30) zijn niet van toepassing indien de toezichthouder een boete oplegt ter zake van een overtreding waarvoor ingevolge [artikel 1:82 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:82) geldt dat de boete ten hoogste een percentage bedraagt van de netto-omzet van de overtreder in het boekjaar voorafgaande aan de beschikking waarmee de bestuurlijke boete wordt opgelegd.
 
 ##### Artikel 4
 
 1. De toezichthouder houdt bij het vaststellen van een bestuurlijke boete rekening met de draagkracht van de overtreder.
 
-2. De toezichthouder kan op basis van het eerste lid of de omstandigheden genoemd in [artikel 1b, onderdelen g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=1b&z=2026-10-16&g=2026-10-16), de op te leggen bestuurlijke boete verlagen met maximaal 100 procent.
+2. De toezichthouder kan op basis van het eerste lid of de omstandigheden genoemd in [artikel 1b, onderdelen g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=1b&z=2026-10-30&g=2026-10-30), de op te leggen bestuurlijke boete verlagen met maximaal 100 procent.
 
 ##### Artikel 4a
 
@@ -788,6 +788,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 5:25e | 3 (€ 10.000.000) |  |
 | 5:25h, eerste en tweede lid | 3 (€ 10.000.000) |  |
 | 5:25m, eerste, tweede, vijfde, zesde en zevende lid | 2 |  |
+| 5:25m, tiende lid | 1 |  |
 | 5:25p, eerste tot en met vijfde lid | 1 |  |
 | 5:25q | 2 |  |
 | 5:25v, derde lid | 2 |  |
@@ -820,12 +821,16 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 5:32l, eerste tot en met het derde lid | 2 |  |
 | 5:32m | 2 |  |
 | 5:34 | 2 | P |
+| 5:34, derde lid | 1 |  |
 | 5:35 | 2 | P |
+| 5:35, vijfde lid | 1 |  |
 | 5:36 | 3 |  |
 | 5:38, eerste en tweede lid | 3 (€ 10.000.000) |  |
 | 5:38, derde lid | 3 (€ 10.000.000) |  |
+| 5:38, zesde lid | 1 |  |
 | 5:39, eerste lid | 3 (€ 10.000.000) |  |
 | 5:39, tweede lid | 3 (€ 10.000.000) |  |
+| 5:39, vijfde lid | 1 |  |
 | 5:40 | 2 | P |
 | 5:41, eerste en tweede lid | 3 (€ 10.000.000) |  |
 | 5:42 | 2 | P |
@@ -1198,7 +1203,6 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 77d, eerste lid | 2 |  |
 | 78, eerste en derde lid | 2 |  |
 | 79, eerste tot en met vierde, zesde en achtste lid | 2 |  |
-| 80.0a, eerste tot en met derde lid | 2 |  |
 | 80a | 2 |  |
 | 80e, eerste lid | 2 |  |
 | 80f, eerste, tweede, vierde en vijfde lid | 2 |  |

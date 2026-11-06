@@ -8,7 +8,7 @@ laatste_update: 2024-12-13
 status: geldig
 toestand: 2024-12-13
 bron: "https://wetten.overheid.nl/BWBR0050551"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Circulaire uniformering aanvraag- en uitgifteproces niet-ingezetenen

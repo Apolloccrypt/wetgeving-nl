@@ -8,7 +8,7 @@ laatste_update: 2025-02-21
 status: geldig
 toestand: 2025-02-21
 bron: "https://wetten.overheid.nl/BWBR0050801"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Standaarden voor Kwaliteitsmanagement 2025

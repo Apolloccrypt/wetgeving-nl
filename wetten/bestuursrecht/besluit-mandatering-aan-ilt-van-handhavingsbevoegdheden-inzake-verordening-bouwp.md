@@ -9,7 +9,7 @@ laatste_update: 2026-07-09
 status: geldig
 toestand: 2026-07-09
 bron: "https://wetten.overheid.nl/BWBR0050328"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Minister van Volkshuisvesting en Ruimtelijke Ordening van 16 oktober 2024, nr. 2024/10271, houdende regels inzake het verlenen van mandaat, volmacht en machtiging aan de inspecteur-generaal Leefomgeving en Transport inzake de handhaving van de verordening bouwproducten, verordening markttoezicht en de richtlijn energieprestatie van gebouwen en aanwijzing van ambtenaren van de Inspectie Leefomgeving en Transport als toezichthouders op de naleving van de verordening bouwproducten en verordening (EU) 2019/1020 (Besluit mandatering aan ILT van handhavingsbevoegdheden inzake verordening bouwproducten, verordening markttoezicht en richtlijn energieprestatie gebouwen en aanwijzing toezichthouders Woningwet)

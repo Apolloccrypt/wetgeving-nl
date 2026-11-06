@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-04-30
 toestand: 2025-07-22
 bron: "https://wetten.overheid.nl/BWBR0050754"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 4 februari 2025, nr. 6074718, houdende instelling van de Adviescommissie Centraal Mediatorsregister (Instellingsbesluit Adviescommissie Centraal Mediatorsregister)

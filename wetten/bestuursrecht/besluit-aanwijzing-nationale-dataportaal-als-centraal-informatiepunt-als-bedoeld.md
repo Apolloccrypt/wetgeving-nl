@@ -9,7 +9,7 @@ laatste_update: 2025-02-06
 status: geldig
 toestand: 2025-02-06
 bron: "https://wetten.overheid.nl/BWBR0050748"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 8 januari 2025, nr. 2024-0000798430 tot aanwijzing van het Nationale Dataportaal als centraal informatiepunt als bedoeld in de Datagovernanceverordening

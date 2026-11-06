@@ -9,7 +9,7 @@ laatste_update: 2024-11-21
 status: geldig
 toestand: 2024-11-21
 bron: "https://wetten.overheid.nl/BWBR0050443"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit tot het stellen van beperkingen aan de openbaarheid van archiefbescheiden geborgen in de archieven Stichting Toezicht Politieke Delinquenten (2.09.42.01), Hoge Commissariaat van Nederland in Indonesië (2.05.189), Hoofdafdeling Staats- en Strafrecht (2.09.159), Zuivering Ambtenaren (2.04.67) en M.H. Gelinck (2.21.281.40)

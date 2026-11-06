@@ -9,7 +9,7 @@ laatste_update: 2026-10-28
 status: geldig
 toestand: 2026-10-28
 bron: "https://wetten.overheid.nl/BWBR0053242"
-opgehaald: 2026-11-05
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 15 oktober 2026 houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordiging in Libië, 1975–2013

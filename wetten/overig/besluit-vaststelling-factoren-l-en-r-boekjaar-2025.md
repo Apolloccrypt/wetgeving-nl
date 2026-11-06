@@ -8,7 +8,7 @@ laatste_update: 2025-01-03
 status: geldig
 toestand: 2025-01-03
 bron: "https://wetten.overheid.nl/BWBR0050651"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit vaststelling factoren L en r boekjaar 2025

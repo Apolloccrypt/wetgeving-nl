@@ -9,7 +9,7 @@ laatste_update: 2025-01-30
 status: geldig
 toestand: 2025-01-30
 bron: "https://wetten.overheid.nl/BWBR0050721"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Wet van 18 december 2024 tot wijziging van enkele wetten ter uitvoering van de beëindiging van de salderingsregeling voor elektriciteit en enkele technische wijzigingen

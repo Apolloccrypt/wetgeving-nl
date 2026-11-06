@@ -9,7 +9,7 @@ laatste_update: 2024-12-05
 status: geldig
 toestand: 2024-12-05
 bron: "https://wetten.overheid.nl/BWBR0050497"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 26 november 2024, nr. 2024-0000919760, houdende de aanwijzing van de Functionaris voor gegevensbescherming voor de AVG, van de plaatsvervangend Functionaris voor gegevensbescherming voor de AVG en de Wpg, en van de Functionaris voor gegevensbescherming voor de Wpg bij het Ministerie van Sociale Zaken en Werkgelegenheid

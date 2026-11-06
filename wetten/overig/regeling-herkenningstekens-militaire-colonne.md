@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0050424"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat van 12 november 2024, nr. IENW/BSK-2024/253742, tot vaststelling van regels over herkenningstekens van militaire colonnes en tot intrekking van het Besluit herkenningstekens militaire kolonne (Regeling herkenningstekens militaire colonne)

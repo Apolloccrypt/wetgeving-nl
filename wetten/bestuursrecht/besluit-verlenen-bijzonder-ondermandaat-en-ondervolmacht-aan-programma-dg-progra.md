@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0050608"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Secretaris-Generaal van het Ministerie van Volksgezondheid, Welzijn en Sport van 20 december 2024, kenmerk 4016475-1075953-OBP, houdende het verlenen van bijzonder ondermandaat en ondervolmacht aan de programma DG van het programma Goed Verbonden

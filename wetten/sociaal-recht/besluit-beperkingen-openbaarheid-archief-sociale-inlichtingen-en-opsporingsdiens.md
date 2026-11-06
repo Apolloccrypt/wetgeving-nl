@@ -9,7 +9,7 @@ laatste_update: 2025-03-04
 status: geldig
 toestand: 2025-03-04
 bron: "https://wetten.overheid.nl/BWBR0050818"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 21 februari 2025, nr. 2025-0000028015, houdende beperkingen aan de openbaarheid van het archief van de Sociale Inlichtingen- en Opsporingsdienst (SIOD), 2002–2012

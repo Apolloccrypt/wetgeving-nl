@@ -9,7 +9,7 @@ laatste_update: 2024-09-20
 status: geldig
 toestand: 2024-09-20
 bron: "https://wetten.overheid.nl/BWBR0050213"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van het Stimuleringsfonds voor de Journalistiek van 1 augustus 2024, nr. OJ2425RO, tot vaststelling van een subsidieregeling Ruimte voor Onderzoeksjournalistiek 2024–2025

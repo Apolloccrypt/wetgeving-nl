@@ -9,7 +9,7 @@ laatste_update: 2025-10-25
 status: geldig
 toestand: 2025-10-25
 bron: "https://wetten.overheid.nl/BWBR0050458"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap en van de Minister van Onderwijs, Cultuur en Wetenschap van 19 november 2024, nr. OVO/49012382, houdende regels voor de subsidieverstrekking voor technologieonderwijs in het primair en voortgezet onderwijs (Subsidieregeling Techkwadraat 2025–2028)

@@ -9,7 +9,7 @@ laatste_update: 2024-10-17
 status: geldig
 toestand: 2024-10-17
 bron: "https://wetten.overheid.nl/BWBR0050302"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Beleidsregel van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur van 2 oktober 2024, nr. WJZ/ 86864848, tot nader specificeren van de eisen die worden gesteld aan gedragscodes soortenbescherming en houtopstanden bij aanwijzing in de Omgevingsregeling (Beleidsregel aanwijzing gedragscodes soortenbescherming en houtopstanden)

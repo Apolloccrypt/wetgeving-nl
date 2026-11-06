@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0050591"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Wet van 18 december 2024 tot wijziging van enkele belastingwetten en enige andere wetten die betrekking hebben op de BES-eilanden (Belastingplan BES-eilanden 2025)

@@ -9,7 +9,7 @@ laatste_update: 2024-11-19
 status: geldig
 toestand: 2024-11-19
 bron: "https://wetten.overheid.nl/BWBR0050415"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Wet van 23 oktober 2024, houdende uitvoering van verordening (EU) 2022/868 van het Europees Parlement en de Raad van 30 mei 2022 betreffende Europese datagovernance en tot wijziging van Verordening (EU) 2018/1724 (Uitvoeringswet datagovernanceverordening)

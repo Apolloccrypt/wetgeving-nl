@@ -9,7 +9,7 @@ laatste_update: 2025-02-05
 status: geldig
 toestand: 2025-02-05
 bron: "https://wetten.overheid.nl/BWBR0050746"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Minister van Klimaat en Groene Groei van 2 februari 2025, nr. WJZ/ 95707469, tot vaststelling van de voorlopige correctiebedragen voor 2025 voor de Subsidieregeling opschaling volledig hernieuwbare waterstofproductie via elektrolyse en de Subsidieregeling grootschalige productie volledig hernieuwbare waterstof via elektrolyse

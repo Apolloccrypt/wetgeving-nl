@@ -8,7 +8,7 @@ laatste_update: 2024-11-15
 status: geldig
 toestand: 2024-11-15
 bron: "https://wetten.overheid.nl/BWBR0050419"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling Informatiebeheer Commissariaat voor de Media 2024

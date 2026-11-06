@@ -9,7 +9,7 @@ laatste_update: 2025-01-31
 status: geldig
 toestand: 2025-01-31
 bron: "https://wetten.overheid.nl/BWBR0050724"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat van 28 januari 2025, nr. IENW/BSK-2025/3702, tot wijziging van de Tijdelijke subsidieregeling zero-emissie mobiliteit in verband met subsidie emissieloze touringcars en tot intrekking van de Tijdelijke subsidieregeling aanschaf emissieloze touringcars

@@ -9,7 +9,7 @@ laatste_update: 2024-12-21
 status: geldig
 toestand: 2024-12-21
 bron: "https://wetten.overheid.nl/BWBR0050581"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de algemeen commandant van het brandweerkorps van Bonaire, Sint Eustatius en Saba van 10 december 2024 met kenmerk 5993990 houdende verlening van ondermandaat en volmacht aan onder hem ressorterende functionarissen (Besluit ondermandaatverlening aan onder de algemeen commandant van het Brandweerkorps Caribisch Nederland ressorterende functionarissen 2024)

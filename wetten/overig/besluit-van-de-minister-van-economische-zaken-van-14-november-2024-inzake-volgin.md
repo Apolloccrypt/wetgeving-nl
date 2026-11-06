@@ -8,7 +8,7 @@ laatste_update: 2024-11-27
 status: geldig
 toestand: 2024-11-27
 bron: "https://wetten.overheid.nl/BWBR0050466"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Minister van Economische Zaken van 14 november 2024 inzake volginnovatie 2023

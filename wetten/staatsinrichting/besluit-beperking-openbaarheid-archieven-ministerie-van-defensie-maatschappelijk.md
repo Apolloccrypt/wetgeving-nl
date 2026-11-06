@@ -9,7 +9,7 @@ laatste_update: 2025-02-15
 status: geldig
 toestand: 2025-02-15
 bron: "https://wetten.overheid.nl/BWBR0050776"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van het Ministerie van Defensie houdende de beperking aan de openbaarheid van de archieven van het Ministerie van Defensie, Maatschappelijke Dienst Defensie (MDD), (1974) 1988–2004 (2006) bij overbrenging naar een archiefbewaarplaats.

@@ -9,7 +9,7 @@ laatste_update: 2024-11-27
 status: geldig
 toestand: 2024-11-27
 bron: "https://wetten.overheid.nl/BWBR0050461"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 18 november 2024, kenmerk 3972579-1071339-Z, houdende vaststelling van een tweede nadere aanwijzing voor de besteedbare middelen ter dekking van de beheerskosten Wlz 2024 (Tweede nadere aanwijzing besteedbare middelen beheerskosten Wlz 2024)

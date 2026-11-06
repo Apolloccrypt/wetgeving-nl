@@ -9,7 +9,7 @@ laatste_update: 2025-02-12
 status: geldig
 toestand: 2025-02-12
 bron: "https://wetten.overheid.nl/BWBR0050672"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 26 november 2024 nr. BOACAT2024/119, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Goeree-Overflakkee

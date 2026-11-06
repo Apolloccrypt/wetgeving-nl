@@ -9,7 +9,7 @@ laatste_update: 2024-11-27
 status: geldig
 toestand: 2024-11-27
 bron: "https://wetten.overheid.nl/BWBR0050465"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur van 22 november 2024, nr. WJZ/89410470, houdende specifieke uitkeringen aan provincies ten behoeve van de beëindiging van veehouderijlocaties ter ondersteuning van de gebiedsgerichte aanpak voor natuur, stikstof, water en klimaat (Regeling provinciale gebiedsgerichte beëindiging veehouderijlocaties)

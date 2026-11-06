@@ -9,7 +9,7 @@ laatste_update: 2024-11-13
 status: geldig
 toestand: 2024-11-13
 bron: "https://wetten.overheid.nl/BWBR0050392"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 5 november 2024 nr. BOACAT2024/110, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Heusden

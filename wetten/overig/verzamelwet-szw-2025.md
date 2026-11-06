@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0050570"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Wet van 11 december 2024, houdende wijziging van enkele wetten van met name het Ministerie van Sociale Zaken en Werkgelegenheid in verband met verscheidene technische en kleine beleidsmatige wijzigingen (Verzamelwet SZW 2025)

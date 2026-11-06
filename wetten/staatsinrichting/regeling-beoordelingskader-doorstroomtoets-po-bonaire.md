@@ -9,7 +9,7 @@ laatste_update: 2026-01-07
 status: geldig
 toestand: 2026-01-07
 bron: "https://wetten.overheid.nl/BWBR0050815"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling van het College voor toetsen en examens van 3 februari 2025, CvTE-25.00473, houdende vaststelling van het beoordelingskader voor de doorstroomtoets in het primair onderwijs voor het openbaar lichaam Bonaire (Regeling beoordelingskader doorstroomtoets PO Bonaire)

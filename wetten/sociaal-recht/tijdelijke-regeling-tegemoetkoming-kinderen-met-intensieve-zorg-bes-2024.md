@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-06-30
 toestand: 2025-09-18
 bron: "https://wetten.overheid.nl/BWBR0050230"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 18 september 2024, nr. 2024-0000412659, tot vaststelling van de tijdelijke regeling tegemoetkoming kinderen met intensieve zorg BES 2024 (Tijdelijke regeling tegemoetkoming kinderen met intensieve zorg BES 2024)

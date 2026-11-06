@@ -8,7 +8,7 @@ laatste_update: 2024-12-19
 status: geldig
 toestand: 2024-12-19
 bron: "https://wetten.overheid.nl/BWBR0050568"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Uitvoeringsvoorschriften bronbelasting op interest en royalty’s

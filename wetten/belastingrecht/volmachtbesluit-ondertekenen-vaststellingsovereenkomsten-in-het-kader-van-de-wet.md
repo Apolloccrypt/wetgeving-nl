@@ -9,7 +9,7 @@ laatste_update: 2025-09-06
 status: geldig
 toestand: 2025-09-06
 bron: "https://wetten.overheid.nl/BWBR0050719"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de directeur-generaal Toeslagen van 14 januari 2025 [2025-7416], houdende het verlenen van volmacht aan de waarnemend directeur-generaal Herstelbeleid van het tijdelijke programmadirectoraat-generaal Herstel voor het ondertekenen van vaststellingsovereenkomsten in het kader van de Wet hersteloperatie toeslagen (Volmachtbesluit ondertekenen vaststellingsovereenkomsten in het kader van de Wet hersteloperatie toeslagen)

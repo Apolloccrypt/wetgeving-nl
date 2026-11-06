@@ -9,7 +9,7 @@ laatste_update: 2025-02-11
 status: geldig
 toestand: 2025-02-11
 bron: "https://wetten.overheid.nl/BWBR0050764"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Minister-President, Minister van Algemene Zaken van 20 december 2024 nr. 2024-0000945721, houdende instelling van de Ministeriële Commissie Taakstelling Rijksdienst

@@ -8,7 +8,7 @@ laatste_update: 2025-02-15
 status: geldig
 toestand: 2025-02-15
 bron: "https://wetten.overheid.nl/BWBR0050777"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Vennootschapsbelasting, aanwijzing bezwaarschriften tegen het in rekening gebrachte percentage belastingrente vennootschapsbelasting en enige overige middelen vanaf 1 oktober 2020 als massaal bezwaar

@@ -9,7 +9,7 @@ laatste_update: 2014-10-01
 status: geldig
 toestand: 2014-10-01
 bron: "https://wetten.overheid.nl/BWBR0003707"
-opgehaald: 2026-11-05
+opgehaald: 2026-11-06
 ---
 
 # Beperking geluidhinder militaire luchtvaart

@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0050445"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling van de Staatssecretaris Jeugd, Preventie en Sport van 14 november 2024, kenmerk 3993036-1074684-WJZ, houdende regels over maatschappelijke ondersteuning BES (Regeling maatschappelijke ondersteuning BES)

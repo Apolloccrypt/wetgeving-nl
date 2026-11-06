@@ -9,7 +9,7 @@ laatste_update: 2024-11-22
 status: geldig
 toestand: 2024-11-22
 bron: "https://wetten.overheid.nl/BWBR0050446"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 8 november 2024, nr. PO/49074818, houdende regels voor het verstrekken van aanvullende bekostiging voor onbedoelde effecten van het overgangsrecht van de vereenvoudiging van de bekostiging po voor het jaar 2025 (Regeling aanvullende bekostiging bij overgangsrecht vereenvoudiging bekostiging po 2025)

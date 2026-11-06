@@ -9,7 +9,7 @@ laatste_update: 2025-01-22
 status: geldig
 toestand: 2025-01-22
 bron: "https://wetten.overheid.nl/BWBR0050679"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Raad van bestuur van de Sociale verzekeringsbank van 3 december 2024, houdende de bekendmaking van de Beleidsregels tegemoetkoming zaakschade PGB (Besluit Beleidsregels tegemoetkoming zaakschade PGB)

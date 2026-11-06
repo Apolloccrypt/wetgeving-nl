@@ -9,7 +9,7 @@ laatste_update: 2025-03-01
 status: geldig
 toestand: 2025-03-01
 bron: "https://wetten.overheid.nl/BWBR0050812"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 20 februari 2025, nr. OPO/50466631, houdende regels voor het verstrekken van subsidie voor de aansluiting bij of de vorming van onderwijsregio’s en de stimulering van regionale samenwerking bij strategisch personeelsbeleid en de begeleiding van starters (Subsidieregeling aansluiting onderwijsregio’s en personeelsbeleid po en vo)

@@ -9,7 +9,7 @@ laatste_update: 2025-02-12
 status: geldig
 toestand: 2025-02-12
 bron: "https://wetten.overheid.nl/BWBR0050586"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Wet van 11 december 2024 tot wijziging van de Omgevingswet, de Gaswet en de Warmtewet in verband met gemeentelijke instrumenten voor de warmtetransitie in de gebouwde omgeving (Wet gemeentelijke instrumenten warmtetransitie)

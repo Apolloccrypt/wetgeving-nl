@@ -8,7 +8,7 @@ laatste_update: 2024-12-14
 status: geldig
 toestand: 2024-12-14
 bron: "https://wetten.overheid.nl/BWBR0050558"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Beleidsregel normenkader Wlz-uitvoerder

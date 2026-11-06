@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0050489"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Verordening van de Autoriteit Nucleaire Veiligheid en Stralingsbescherming van 20 november 2024 nr. ANVS-2024/9570, houdende nadere regels met betrekking tot nucleaire veiligheid, beveiliging en ontmanteling (ANVS-Verordening nucleaire drukapparatuur, beveiliging en ontmanteling)

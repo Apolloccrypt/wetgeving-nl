@@ -9,7 +9,7 @@ laatste_update: 2025-02-11
 status: geldig
 toestand: 2025-02-11
 bron: "https://wetten.overheid.nl/BWBR0050757"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit houdende vaststelling van de Aanwijzingsregeling 2024 ex. artikelen 4, tweede lid, en 49, eerste lid, onder b, van de Wet militair tuchtrecht

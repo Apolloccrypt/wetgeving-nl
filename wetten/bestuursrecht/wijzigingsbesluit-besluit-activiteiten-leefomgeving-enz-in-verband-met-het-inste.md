@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0050582"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van 5 december 2024 tot wijziging van het Besluit activiteiten leefomgeving, het Besluit kwaliteit leefomgeving en het Omgevingsbesluit in verband met het instellen van een ZZS-emissiedatabase en een ZZS-emissieregister en enkele andere kleine wijzigingen (Besluit ZZS-register)

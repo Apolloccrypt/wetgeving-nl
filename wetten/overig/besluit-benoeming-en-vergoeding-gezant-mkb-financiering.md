@@ -9,7 +9,7 @@ laatste_update: 2024-11-01
 status: geldig
 toestand: 2024-11-01
 bron: "https://wetten.overheid.nl/BWBR0050210"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Minister van Economische zaken van 30 augustus 2024, kenmerk DGBI / 76700986, houdende benoeming en vergoeding van Gezant MKB-Financiering

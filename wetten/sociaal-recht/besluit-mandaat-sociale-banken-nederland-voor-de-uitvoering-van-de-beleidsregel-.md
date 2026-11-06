@@ -8,7 +8,7 @@ laatste_update: 2024-10-26
 status: geldig
 toestand: 2024-10-26
 bron: "https://wetten.overheid.nl/BWBR0050331"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit mandaat Sociale Banken Nederland voor de uitvoering van de Beleidsregel financiële nood als gevolg van de wateroverlast in juli 2021

@@ -9,7 +9,7 @@ laatste_update: 2025-11-26
 status: geldig
 toestand: 2025-11-26
 bron: "https://wetten.overheid.nl/BWBR0050569"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 13 december 2024, nr. OVO/49358107, houdende regels voor de subsidieverstrekking ten behoeve van het uitvoeren van het Innovatieprogramma Onderwijshuisvesting (Subsidieregeling Innovatieprogramma Onderwijshuisvesting)

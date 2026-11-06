@@ -9,7 +9,7 @@ laatste_update: 2024-09-21
 status: geldig
 toestand: 2024-09-21
 bron: "https://wetten.overheid.nl/BWBR0050214"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid, van 2 september 2024 nr. BOACAT2024/101, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Dordrecht

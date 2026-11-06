@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0050297"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling van de Staatssecretaris van Justitie en Veiligheid, T.H.D. Struycken, van 11 oktober 2024, nr. 5828409, directie Wetgeving en Juridische Zaken, houdende regels tot het verplicht elektronisch doen van verzoeken en mededelingen en de indiening en verzending van processtukken in procedures inzake conservatoir beslag (Regeling verplicht elektronisch procederen inzake conservatoir beslag)

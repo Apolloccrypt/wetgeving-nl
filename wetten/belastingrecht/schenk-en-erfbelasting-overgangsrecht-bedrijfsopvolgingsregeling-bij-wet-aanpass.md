@@ -8,7 +8,7 @@ laatste_update: 2024-11-16
 status: geldig
 toestand: 2024-11-16
 bron: "https://wetten.overheid.nl/BWBR0050417"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Schenk- en erfbelasting. Overgangsrecht bedrijfsopvolgingsregeling bij Wet aanpassing fonds voor gemene rekening en vrijgestelde beleggingsinstelling

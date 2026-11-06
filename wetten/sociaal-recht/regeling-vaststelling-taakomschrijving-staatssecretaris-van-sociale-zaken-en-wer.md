@@ -9,7 +9,7 @@ laatste_update: 2025-07-19
 status: geldig
 toestand: 2025-07-19
 bron: "https://wetten.overheid.nl/BWBR0050216"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 12 september 2024, nr. 2024-0000214116, tot vaststelling van de taakomschrijving van de Staatssecretaris van Sociale Zaken en Werkgelegenheid

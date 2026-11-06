@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0050640"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Algemeen Directeur van het Centraal Justitieel Incassobureau van het Ministerie van Justitie en Veiligheid, houdende verlening van ondermandaat, alsmede het doorgeven van volmacht en machtiging aan onder hem ressorterende functionarissen

@@ -9,7 +9,7 @@ laatste_update: 2024-11-30
 status: geldig
 toestand: 2024-11-30
 bron: "https://wetten.overheid.nl/BWBR0050481"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling van de Minister van Volkshuisvesting en Ruimtelijke Ordening van 25 november 2024, nr. 2024-0000039225, houdende regels met betrekking tot het verstrekken van een specifieke uitkering ten behoeve van de financiering van capaciteitsondersteuning voor het voorkomen van vertragingen in de voorfase van de woningbouw (Regeling specifieke uitkering flexibele inzet ondersteuning woningbouw (derde tranche))

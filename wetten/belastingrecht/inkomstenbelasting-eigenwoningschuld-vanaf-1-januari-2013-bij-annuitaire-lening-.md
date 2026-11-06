@@ -8,7 +8,7 @@ laatste_update: 2025-01-29
 status: geldig
 toestand: 2025-01-29
 bron: "https://wetten.overheid.nl/BWBR0050717"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Inkomstenbelasting, eigenwoningschuld vanaf 1 januari 2013; bij annuïtaire lening is overeengekomen contractuele rente hoger dan marktconforme rente

@@ -9,7 +9,7 @@ laatste_update: 2024-12-31
 status: geldig
 toestand: 2024-12-31
 bron: "https://wetten.overheid.nl/BWBR0050589"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van 13 december 2024, teneinde de vaststelling van het cameraplan voor 2025, vereist op grond van artikel 29a van het Uitvoeringsbesluit motorrijtuigenbelasting 1994

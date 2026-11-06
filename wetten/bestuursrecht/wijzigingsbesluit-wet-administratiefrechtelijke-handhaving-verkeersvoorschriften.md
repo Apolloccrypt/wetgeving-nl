@@ -9,7 +9,7 @@ laatste_update: 2025-02-01
 status: geldig
 toestand: 2025-02-01
 bron: "https://wetten.overheid.nl/BWBR0050674"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van 18 december 2024 tot wijziging van de bijlage, bedoeld in artikel 2, eerste lid, van de Wet administratiefrechtelijke handhaving verkeersvoorschriften en de bijlagen bij het Besluit OM-afdoening in verband met onder meer de jaarlijkse indexering van de tarieven

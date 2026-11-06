@@ -9,7 +9,7 @@ laatste_update: 2025-10-11
 status: geldig
 toestand: 2025-10-11
 bron: "https://wetten.overheid.nl/BWBR0050773"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling ter uitvoering van artikel 6, tweede lid van de Tijdelijke subsidieregels samenwerking Belastingdienst, de Dienst Toeslagen en de Koninklijke Bibliotheek 2024–2027 (Digitale Inclusie)

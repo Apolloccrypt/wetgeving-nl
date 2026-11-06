@@ -9,7 +9,7 @@ laatste_update: 2024-11-06
 status: geldig
 toestand: 2024-11-06
 bron: "https://wetten.overheid.nl/BWBR0050373"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit tot verlening van mandaat inzake procesvertegenwoordiging behandeling bezwaarprocedure ex artikel 51ca Wetboek van Strafvordering (Sv) door de algemeen directeur van het Centraal Justitieel Incassobureau (CJIB) aan de onder hem ressorterende functionarissen

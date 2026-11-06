@@ -9,7 +9,7 @@ laatste_update: 2026-01-27
 status: geldig
 toestand: 2026-01-27
 bron: "https://wetten.overheid.nl/BWBR0050338"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van 18 oktober 2024 van de Autoriteit Nucleaire Veiligheid en Stralingsbescherming, nr. ANVS-2024/9573, inhoudende de organisatie en de verlening van mandaat, ondermandaat, volmacht en machtiging aan leden, directeuren, teamleiders en inspecteurs van de ANVS (Besluit organisatie en mandaat Autoriteit Nucleaire Veiligheid en Stralingsbescherming)

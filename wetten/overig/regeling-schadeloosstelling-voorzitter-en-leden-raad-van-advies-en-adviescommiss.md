@@ -9,7 +9,7 @@ laatste_update: 2024-12-07
 status: geldig
 toestand: 2024-12-07
 bron: "https://wetten.overheid.nl/BWBR0050504"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de directeur-generaal van de statistiek van 19 november 2024 tot vaststelling van het bedrag van de schadeloosstelling ten behoeve van de leden van de raad van advies en van zijn adviescommissies (Regeling schadeloosstelling voorzitter en leden Raad van advies en adviescommissies CBS)

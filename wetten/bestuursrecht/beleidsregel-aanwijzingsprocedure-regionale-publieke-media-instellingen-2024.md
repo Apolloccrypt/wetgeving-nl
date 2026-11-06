@@ -9,7 +9,7 @@ laatste_update: 2024-10-10
 status: geldig
 toestand: 2024-10-10
 bron: "https://wetten.overheid.nl/BWBR0050271"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Beleidsregel van het Commissariaat voor de Media over de procedure tot aanwijzing van regionale publieke media-instellingen (Beleidsregel aanwijzingsprocedure regionale publieke media-instellingen 2024)

@@ -9,7 +9,7 @@ laatste_update: 2024-11-15
 status: geldig
 toestand: 2024-11-15
 bron: "https://wetten.overheid.nl/BWBR0050411"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 6 november 2024 nr. BOACAT2024/114, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente ’s-Hertogenbosch

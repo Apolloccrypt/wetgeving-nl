@@ -9,7 +9,7 @@ laatste_update: 2025-02-25
 status: geldig
 toestand: 2025-02-25
 bron: "https://wetten.overheid.nl/BWBR0050795"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Minister van Klimaat en Groene Groei van 16 febuari 2025, nr. WJZ/ 89776028 tot openstelling van de Subsidieregeling coöperatieve energieopwekking 2025 (Besluit openstelling Subsidieregeling coöperatieve energieopwekking 2025)

@@ -9,7 +9,7 @@ laatste_update: 2025-02-20
 status: geldig
 toestand: 2025-02-20
 bron: "https://wetten.overheid.nl/BWBR0050783"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Beleidsregel van de Minister van Infrastructuur en Waterstaat, kenmerk nr. ILT-2025/3336, over de toepassing van artikel 18 van de Wet pleziervaartuigen 2016 (Beleidsregel bestuurlijke boete Wet pleziervaartuigen 2016)

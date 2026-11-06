@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0050560"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 9 december 2024, nr. 2024-0000016490 houdende vaststelling van beleidsregels inzake de toepassing van de Wet normering topinkomens met ingang van 1 januari 2025 (Beleidsregels WNT 2025)

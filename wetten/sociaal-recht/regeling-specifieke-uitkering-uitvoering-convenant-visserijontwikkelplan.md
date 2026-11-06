@@ -9,7 +9,7 @@ laatste_update: 2024-12-07
 status: geldig
 toestand: 2024-12-07
 bron: "https://wetten.overheid.nl/BWBR0050522"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Regeling van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur van 2 december 2024, nr. WJZ/ 79741882, houdende regels voor het verstrekken van specifieke uitkeringen voor de uitvoering van de convenanten visserijontwikkelplan (Regeling specifieke uitkering uitvoering convenant visserijontwikkelplan)

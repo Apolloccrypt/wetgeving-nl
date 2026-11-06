@@ -9,7 +9,7 @@ laatste_update: 2024-10-01
 status: geldig
 toestand: 2024-10-01
 bron: "https://wetten.overheid.nl/BWBR0050207"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit van 16 september 2024, IENW/BSK-2024/220597 tot vaststelling van de Beleidsregel vergunningverlening waterkrachtcentrales in rijkswateren 2024

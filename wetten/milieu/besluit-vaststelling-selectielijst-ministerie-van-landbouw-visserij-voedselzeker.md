@@ -8,7 +8,7 @@ laatste_update: 2025-06-12
 status: geldig
 toestand: 2025-06-12
 bron: "https://wetten.overheid.nl/BWBR0050759"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-06
 ---
 
 # Besluit vaststelling selectielijst Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur vanaf 1 januari 2024
