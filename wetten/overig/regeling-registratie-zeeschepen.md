@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0051039"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 22 april 2025, nr. IENW/BSK-2025/19526, houdende regels omtrent de aanvraag van inschrijving in het vlagregister van zeeschepen en tot aanwijzing van toezichthoudende ambtenaren (Regeling registratie zeeschepen)

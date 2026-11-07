@@ -9,7 +9,7 @@ laatste_update: 2025-07-10
 status: geldig
 toestand: 2025-07-10
 bron: "https://wetten.overheid.nl/BWBR0051209"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van de Minister van Volkshuisvesting en Ruimtelijke Ordening van 5 juli 2025, nr. 2025-0000394063, houdende regels met betrekking tot verstrekking van een specifieke uitkering aan gemeenten in de Metropoolregio Eindhoven ten behoeve van het versnellen van de bouw van betaalbare woningen in een kwalitatief goede leefomgeving (Regeling specifieke uitkering woningbouwversnelling Metropoolregio Eindhoven)

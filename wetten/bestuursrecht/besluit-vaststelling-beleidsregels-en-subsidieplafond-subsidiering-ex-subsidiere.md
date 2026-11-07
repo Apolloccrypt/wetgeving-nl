@@ -9,7 +9,7 @@ laatste_update: 2026-02-24
 status: geldig
 toestand: 2026-02-24
 bron: "https://wetten.overheid.nl/BWBR0051272"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 10 juli 2025, nr. BZ2517990 tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieprogramma Impact Clusters 2025–2028)

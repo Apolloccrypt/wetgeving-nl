@@ -8,7 +8,7 @@ laatste_update: 2025-03-05
 status: geldig
 toestand: 2025-03-05
 bron: "https://wetten.overheid.nl/BWBR0050822"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-07
 ---
 
 # Reglement Bestuur Raad voor Rechtsbijstand 2025

@@ -9,7 +9,7 @@ laatste_update: 2025-09-13
 status: geldig
 toestand: 2025-09-13
 bron: "https://wetten.overheid.nl/BWBR0051032"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 9 mei 2025 nr. BOACAT2025/127, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Havenbedrijf Amsterdam N.V.

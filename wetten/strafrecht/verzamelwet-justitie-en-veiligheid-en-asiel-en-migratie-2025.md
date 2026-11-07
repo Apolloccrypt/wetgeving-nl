@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0051035"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Wet van 23 april 2025 tot wijziging van enkele wetten op het gebied van Justitie en Veiligheid en op het gebied van Asiel en Migratie in verband met aanpassingen van overwegend technische aard (Verzamelwet Justitie en Veiligheid en Asiel en Migratie 2025)

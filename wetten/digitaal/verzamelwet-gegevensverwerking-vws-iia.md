@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0050917"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Wet van 21 maart 2025 tot wijzigingen van een aantal wetten op het terrein van het Ministerie van Volksgezondheid, Welzijn en Sport om de grondslagen voor gegevensverwerking te verstevigen en enkele andere wijzigingen (Verzamelwet gegevensverwerking VWS II.a)

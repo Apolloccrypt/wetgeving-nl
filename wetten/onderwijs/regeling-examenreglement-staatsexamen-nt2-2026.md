@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051202"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van het College voor toetsen en examens van 23 juni 2025, nr. CvTE-25.00953, houdende vaststelling van het examenreglement Staatsexamen Nederlands als tweede taal 2026 (Regeling examenreglement Staatsexamen Nt2 2026)

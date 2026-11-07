@@ -9,7 +9,7 @@ laatste_update: 2025-04-01
 status: geldig
 toestand: 2025-04-01
 bron: "https://wetten.overheid.nl/BWBR0050900"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 21 maart 2025, nr. 2024-0000115427, houdende de inrichting van de programmadirectie Werk aan Uitvoering en doorverlening van vertegenwoordigingsbevoegdheden van de programmadirecteur Werk aan Uitvoering (Organisatie-, mandaat- en volmachtbesluit programmadirectie Werk aan Uitvoering 2023)

@@ -8,7 +8,7 @@ laatste_update: 2025-04-26
 status: geldig
 toestand: 2025-04-26
 bron: "https://wetten.overheid.nl/BWBR0050982"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling commissie bezwaarschriften dekens 2025

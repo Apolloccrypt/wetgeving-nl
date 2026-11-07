@@ -9,7 +9,7 @@ laatste_update: 2025-08-01
 status: geldig
 toestand: 2025-08-01
 bron: "https://wetten.overheid.nl/BWBR0051219"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 3 juli 2025, kenmerk 4148573-1084300-MEVA houdende instelling van de Chief Nursing Officer (Instellingsbesluit Chief Nursing Officer)

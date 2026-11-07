@@ -9,7 +9,7 @@ laatste_update: 2025-05-29
 status: geldig
 toestand: 2025-05-29
 bron: "https://wetten.overheid.nl/BWBR0051063"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 21 mei 2025 nr. BOACAT2025/126, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Meierijstad

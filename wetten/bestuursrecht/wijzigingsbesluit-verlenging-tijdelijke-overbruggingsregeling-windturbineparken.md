@@ -9,7 +9,7 @@ laatste_update: 2025-06-18
 status: geldig
 toestand: 2025-06-18
 bron: "https://wetten.overheid.nl/BWBR0051117"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van 6 juni 2025 tot wijziging van het Besluit activiteiten leefomgeving in verband met de verlenging van de tijdelijke overbruggingsregeling windturbineparken (Wijzigingsbesluit verlenging tijdelijke overbruggingsregeling windturbineparken) [KetenID WGK027363]

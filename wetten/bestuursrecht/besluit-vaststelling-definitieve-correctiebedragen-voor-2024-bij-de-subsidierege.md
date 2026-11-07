@@ -9,7 +9,7 @@ laatste_update: 2025-04-24
 status: geldig
 toestand: 2025-04-24
 bron: "https://wetten.overheid.nl/BWBR0050967"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Minister van Klimaat en Groene Groei van 21 april 2025, nr. WJZ/ 97454315 tot vaststelling van de definitieve correctiebedragen Subsidieregeling tot coöperatieve energieopwekking voor 2024 (Besluit vaststelling definitieve correctiebedragen voor 2024 bij de Subsidieregeling coöperatieve energieopwekking) [KetenID WGK 27592]

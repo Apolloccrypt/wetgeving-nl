@@ -9,7 +9,7 @@ laatste_update: 2026-10-27
 status: geldig
 toestand: 2026-10-27
 bron: "https://wetten.overheid.nl/BWBR0053254"
-opgehaald: 2026-11-06
+opgehaald: 2026-11-07
 ---
 
 # Regeling van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur van 27 oktober 2026, nr. WJZ/108769744, houdende specifieke maatregelen in de beschermings- en de bewakingszone in verband met de bestrijding van hoogpathogene aviaire influenza in Middelie (Regeling maatregelen beschermings- en bewakingszone hoogpathogene vogelgriep Middelie 2026)

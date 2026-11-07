@@ -9,7 +9,7 @@ laatste_update: 2025-03-27
 status: geldig
 toestand: 2025-03-27
 bron: "https://wetten.overheid.nl/BWBR0050889"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van het hoofd van het National Crisiscentrum van de Nationaal Coördinator Terrorismebestrijding en Veiligheid van het Ministerie van Justitie en Veiligheid van 12 maart 2025, nr. 6233704, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan het plaatsvervangend hoofd van dat centrum (Mandaatbesluit Nationaal Crisiscentrum NCTV 2024)

@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0050899"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van 24 maart 2025 tot uitvoering van de Wet gegevensverwerking persoonsgerichte aanpak radicalisering en terroristische activiteiten en tot vaststelling van het tijdstip van inwerkingtreding van die wet (Besluit gegevensverwerking persoonsgerichte aanpak radicalisering en terroristische activiteiten)

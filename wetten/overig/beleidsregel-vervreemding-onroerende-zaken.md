@@ -8,7 +8,7 @@ laatste_update: 2025-05-02
 status: geldig
 toestand: 2025-05-02
 bron: "https://wetten.overheid.nl/BWBR0051002"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Beleidsregel vervreemding onroerende zaken

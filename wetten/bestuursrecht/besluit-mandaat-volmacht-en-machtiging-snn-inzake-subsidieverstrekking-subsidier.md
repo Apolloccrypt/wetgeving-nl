@@ -9,7 +9,7 @@ laatste_update: 2025-06-03
 status: geldig
 toestand: 2025-06-03
 bron: "https://wetten.overheid.nl/BWBR0051075"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Minister van Volkshuisvesting en Ruimtelijke Ordening van 27 mei 2025, nr. 2025-0000340332, houdende regels inzake mandaat, volmacht en machtiging aan het dagelijks bestuur van het Samenwerkingsverband Noord-Nederland voor aangelegenheden met betrekking tot subsidieverstrekking op grond van Subsidieregeling isolatie en ventilatie gebouwen, woonboten en woonwagens provincie Groningen en de gemeenten Aa en Hunze, Noordenveld en Tynaarlo (Besluit mandaat, volmacht en machtiging SNN inzake subsidieverstrekking Subsidieregeling isolatie en ventilatie gebouwen, woonboten en woonwagens provincie Groningen en de gemeenten Aa en Hunze, Noordenveld en Tynaarlo)

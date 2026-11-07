@@ -9,7 +9,7 @@ laatste_update: 2025-06-11
 status: geldig
 toestand: 2025-06-11
 bron: "https://wetten.overheid.nl/BWBR0051093"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 23 mei 2025, nr. FEZ/50777613, houdende regels voor de subsidieverstrekking voor de pilot meer uren werken in het primair onderwijs (Subsidieregeling Meerurenmaatwerk)

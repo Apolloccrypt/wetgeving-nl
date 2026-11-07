@@ -9,7 +9,7 @@ laatste_update: 2025-05-07
 status: geldig
 toestand: 2025-05-07
 bron: "https://wetten.overheid.nl/BWBR0051005"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 25 april 2025 nr. BOACAT2025/124, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Nieuwegein

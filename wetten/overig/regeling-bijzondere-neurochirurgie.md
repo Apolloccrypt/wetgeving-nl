@@ -9,7 +9,7 @@ laatste_update: 2026-01-17
 status: geldig
 toestand: 2026-01-17
 bron: "https://wetten.overheid.nl/BWBR0051029"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 8 mei 2025, kenmerk 4103610-1081657-PZO, houdende regels ten aanzien van het verlenen van vergunningen voor bijzondere neurochirurgie (Regeling bijzondere neurochirurgie)

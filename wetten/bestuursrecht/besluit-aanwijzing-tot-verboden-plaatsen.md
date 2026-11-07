@@ -9,7 +9,7 @@ laatste_update: 2025-08-01
 status: geldig
 toestand: 2025-08-01
 bron: "https://wetten.overheid.nl/BWBR0051133"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van 18 juni 2025, nr. 2025001383, aanwijzing tot ‘verboden plaatsen’

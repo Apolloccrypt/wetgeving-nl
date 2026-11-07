@@ -9,7 +9,7 @@ laatste_update: 2025-09-27
 status: geldig
 toestand: 2025-09-27
 bron: "https://wetten.overheid.nl/BWBR0050920"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingshulp van 26 maart 2025, nr.BZ2514509, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieprogramma Trade Relations Programma 2026–2028)

@@ -9,7 +9,7 @@ laatste_update: 2025-06-27
 status: geldig
 toestand: 2025-06-27
 bron: "https://wetten.overheid.nl/BWBR0050978"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van 25 maart 2025 tot vaststelling van de bestanddelen van de beeldenaar van de munten van vijf en tien euro die in 2025 worden uitgegeven ter gelegenheid van het 100-jarig bestaan van de TT Assen

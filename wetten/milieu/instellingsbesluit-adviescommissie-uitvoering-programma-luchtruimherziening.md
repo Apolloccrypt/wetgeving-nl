@@ -9,7 +9,7 @@ laatste_update: 2025-05-15
 status: geldig
 toestand: 2025-05-15
 bron: "https://wetten.overheid.nl/BWBR0051031"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat, in overeenstemming met de Staatssecretaris van Defensie, van 17 april 2025, nr. IENW/BSK-2025/93055, tot instelling van een Adviescommissie uitvoering Programma Luchtruimherziening

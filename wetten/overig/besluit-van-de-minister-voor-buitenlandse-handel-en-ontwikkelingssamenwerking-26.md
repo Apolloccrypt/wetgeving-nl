@@ -9,7 +9,7 @@ laatste_update: 2023-02-08
 status: geldig
 toestand: 2023-02-08
 bron: "https://wetten.overheid.nl/BWBR0047856"
-opgehaald: 2026-11-06
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking 26 januari 2023, nr. MINBUZA-2023.339797, tot vaststelling van subsidieplafonds op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006, en tot wijziging van het Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 8 maart 2018, nr. minbuza-2018.385214, tot vaststelling van een subsidieplafond en beleidsregels voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 en van het Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 21 juni 2022, nr. MINBUZA-2022.504564, tot vaststelling van subsidieplafonds op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieplafonds OKP 2023 en wijziging beleidsregels OKP)

@@ -9,7 +9,7 @@ laatste_update: 2025-08-19
 status: geldig
 toestand: 2025-08-19
 bron: "https://wetten.overheid.nl/BWBR0051389"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 4 augustus 2025, kenmerk 4170354-1085601-ZJCN, houdende instelling van de adviescommissie geneesmiddelenvoorziening BES (Instellingsbesluit adviescommissie geneesmiddelenvoorziening BES)

@@ -9,7 +9,7 @@ laatste_update: 2025-08-14
 status: geldig
 toestand: 2025-08-14
 bron: "https://wetten.overheid.nl/BWBR0051383"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 11 augustus 2025, nr. IENW/BSK-2025/40904, tot wijziging van de Regeling erkende instanties vervoer gevaarlijke stoffen, de Regeling vervoer over de binnenwateren van gevaarlijke stoffen en de Regeling vervoer over land van gevaarlijke stoffen in verband met het actualiseren daarvan [KetenID WGK 27522]

@@ -9,7 +9,7 @@ laatste_update: 2025-03-21
 status: geldig
 toestand: 2025-03-21
 bron: "https://wetten.overheid.nl/BWBR0050869"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid d.d. 27 februari 2025, kenmerk 5432112, houdende beperking van de openbaarheid van het archief Adoptie Buitenlandse kinderen: Directie Justitieel Jeugdbeleid en taakvoorgangers van het Ministerie van Justitie 1971–2005 (2015)

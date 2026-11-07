@@ -9,7 +9,7 @@ laatste_update: 2025-03-26
 status: geldig
 toestand: 2025-03-26
 bron: "https://wetten.overheid.nl/BWBR0050875"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 17 maart 2025, kenmerk 4061871-1079001-Z, houdende vaststelling van een nadere aanwijzing voor de besteedbare middelen ter dekking van de beheerskosten Wlz 2025 (Nadere aanwijzing besteedbare middelen beheerskosten Wlz 2025)

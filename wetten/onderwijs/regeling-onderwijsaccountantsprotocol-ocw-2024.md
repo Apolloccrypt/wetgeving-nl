@@ -9,7 +9,7 @@ laatste_update: 2025-03-22
 status: geldig
 toestand: 2025-03-22
 bron: "https://wetten.overheid.nl/BWBR0050870"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 20 februari 2025, nr. 47871911, houdende vaststelling van het onderwijsaccountantsprotocol voor de sectoren PO, VO, MBO en HO (Regeling onderwijsaccountantsprotocol OCW 2024)

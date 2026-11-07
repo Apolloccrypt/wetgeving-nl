@@ -9,7 +9,7 @@ laatste_update: 2025-03-28
 status: geldig
 toestand: 2025-03-28
 bron: "https://wetten.overheid.nl/BWBR0050897"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van 24 maart 2025 van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Defensie, houdende regels met betrekking tot een Nationaal Bureau Industrieveiligheid (Regeling Nationaal Bureau Industrieveiligheid)

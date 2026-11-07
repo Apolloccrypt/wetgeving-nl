@@ -8,7 +8,7 @@ laatste_update: 2020-03-01
 status: geldig
 toestand: 2020-03-01
 bron: "https://wetten.overheid.nl/BWBV0006798"
-opgehaald: 2026-11-06
+opgehaald: 2026-11-07
 ---
 
 # Derde Aanvullend Protocol bij de Overeenkomst inzake economisch partnerschap, politieke coördinatie en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Verenigde Mexicaanse Staten, anderzijds, om rekening te houden met de toetreding van de Republiek Kroatië tot de Europese Unie

@@ -9,7 +9,7 @@ laatste_update: 2025-03-18
 status: geldig
 toestand: 2025-03-18
 bron: "https://wetten.overheid.nl/BWBR0050856"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van 26 februari 2025 tot wijziging van het Besluit EU-verordeningen Wft en het Besluit bestuurlijke boetes financiële sector ter uitvoering van Verordening (EU) 2023/2631 betreffende Europese groene obligaties en optionele openbaarmakingen voor obligaties die als ecologisch duurzame obligaties op de markt worden gebracht en voor aan duurzaamheid gekoppelde obligaties (Uitvoeringsbesluit verordening Europese groene obligaties)

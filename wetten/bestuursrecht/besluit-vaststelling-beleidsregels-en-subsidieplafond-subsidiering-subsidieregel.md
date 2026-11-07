@@ -9,7 +9,7 @@ laatste_update: 2025-05-17
 status: geldig
 toestand: 2025-05-17
 bron: "https://wetten.overheid.nl/BWBR0051024"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 7 mei 2025, nr. Min-Buza.2025.2515867, tot vaststelling van een subsidieplafond en beleidsregels voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Gedetineerdenbegeleiding buitenland 2026–2030)

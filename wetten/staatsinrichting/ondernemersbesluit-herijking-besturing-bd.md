@@ -8,7 +8,7 @@ laatste_update: 2025-03-20
 status: geldig
 toestand: 2025-03-20
 bron: "https://wetten.overheid.nl/BWBR0050860"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Ondernemersbesluit Herijking Besturing BD

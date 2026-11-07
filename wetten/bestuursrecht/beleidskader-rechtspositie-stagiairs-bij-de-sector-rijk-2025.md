@@ -8,7 +8,7 @@ laatste_update: 2025-04-18
 status: geldig
 toestand: 2025-04-18
 bron: "https://wetten.overheid.nl/BWBR0050962"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Beleidskader rechtspositie stagiairs bij de sector Rijk 2025

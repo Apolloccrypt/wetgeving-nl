@@ -8,7 +8,7 @@ laatste_update: 2026-03-26
 status: geldig
 toestand: 2026-03-26
 bron: "https://wetten.overheid.nl/BWBR0050932"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling Artistic & Design Research for Immersive Experiences 2025-2029

@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-05-01
 toestand: 2025-05-24
 bron: "https://wetten.overheid.nl/BWBR0051048"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de directeur-generaal Herstelbeleid van 6 februari 2025, nr. 2024-560389, houdende verlening van ondermandaat, volmacht en machtiging betreffende de uitvoering van de Wet open overheid (Besluit ondermandaat, volmacht en machtiging betreffende de uitvoering van de Wet open overheid op het terrein van het tijdelijke programmadirectoraat-generaal Herstel)

@@ -9,7 +9,7 @@ laatste_update: 2025-04-12
 status: geldig
 toestand: 2025-04-12
 bron: "https://wetten.overheid.nl/BWBR0050936"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid, van 9 april 2025, nr. 6289660, houdende de aanwijzing van Vught als overige zittingsplaats

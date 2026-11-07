@@ -9,7 +9,7 @@ laatste_update: 2025-07-29
 status: geldig
 toestand: 2025-07-29
 bron: "https://wetten.overheid.nl/BWBR0051322"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 21 juli 2025 nr. BOACAT2025/150, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de handhavingsorganisatie van de gemeente Den Haag

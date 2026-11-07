@@ -8,7 +8,7 @@ laatste_update: 2025-07-03
 status: geldig
 toestand: 2025-07-03
 bron: "https://wetten.overheid.nl/BWBR0051175"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit Vervanging archiefbescheiden Directoraat-Generaal Politie en Veiligheidsregio’s ter uitvoering van de Beleidsregel financiële nood als gevolg van de wateroverlast in juli 2021

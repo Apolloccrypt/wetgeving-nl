@@ -9,7 +9,7 @@ laatste_update: 2025-04-01
 status: geldig
 toestand: 2025-04-01
 bron: "https://wetten.overheid.nl/BWBR0050878"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van de Minister van Financiën van 2025-0000064050, directie Financiële Markten, tot vaststelling van het tarief voor de Wft-examens vanaf 1 april 2025 (Regeling tarief centrale examenbank Wft 2025)

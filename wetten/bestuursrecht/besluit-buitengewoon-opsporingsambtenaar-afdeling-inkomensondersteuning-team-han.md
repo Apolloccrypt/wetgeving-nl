@@ -9,7 +9,7 @@ laatste_update: 2025-10-24
 status: geldig
 toestand: 2025-10-24
 bron: "https://wetten.overheid.nl/BWBR0051397"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid, van 12 augustus 2025 nr. BOACAT2025/161, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Zwolle

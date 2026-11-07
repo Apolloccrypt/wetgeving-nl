@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-06-22
 toestand: 2025-08-01
 bron: "https://wetten.overheid.nl/BWBR0050913"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de kwartiermakend directeur-generaal Realisatie Groene Groei, ZK 0000094156, houdende verlening van ondermandaat, volmacht en machtiging voor het directoraat-generaal Realisatie Groene Groei in oprichting (Besluit ondermandaat, volmacht en machtiging voor het directoraat-generaal Realisatie Groene Groei in oprichting)

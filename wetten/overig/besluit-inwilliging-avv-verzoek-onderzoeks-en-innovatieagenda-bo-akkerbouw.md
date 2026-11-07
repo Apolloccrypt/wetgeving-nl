@@ -9,7 +9,7 @@ laatste_update: 2025-03-06
 status: geldig
 toestand: 2025-03-06
 bron: "https://wetten.overheid.nl/BWBR0050827"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-07
 ---
 
 # Besluit houdende inwilliging AVV-verzoek onderzoeks- en innovatieagenda BO Akkerbouw 20 april 2021 nr. 21101093

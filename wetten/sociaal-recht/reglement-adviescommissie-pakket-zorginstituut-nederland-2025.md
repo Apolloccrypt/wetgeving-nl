@@ -8,7 +8,7 @@ laatste_update: 2025-03-26
 status: geldig
 toestand: 2025-03-26
 bron: "https://wetten.overheid.nl/BWBR0050885"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Reglement Adviescommissie Pakket Zorginstituut Nederland 2025

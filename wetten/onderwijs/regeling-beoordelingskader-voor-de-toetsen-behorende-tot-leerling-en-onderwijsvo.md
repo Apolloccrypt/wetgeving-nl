@@ -9,7 +9,7 @@ laatste_update: 2025-08-01
 status: geldig
 toestand: 2025-08-01
 bron: "https://wetten.overheid.nl/BWBR0050938"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van het College voor toetsen en examens van 10 maart 2025, nummer CvTE-25.00532, houdende vaststelling van het beoordelingskader voor de toetsen behorende tot leerling- en onderwijsvolgsystemen in het primair onderwijs voor Caribisch Nederland (Regeling beoordelingskader voor de toetsen behorende tot leerling- en onderwijsvolgsystemen PO BES)

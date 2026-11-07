@@ -8,7 +8,7 @@ laatste_update: 2025-05-24
 status: geldig
 toestand: 2025-05-24
 bron: "https://wetten.overheid.nl/BWBR0051049"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Ondermandaten functionarissen Rijksvastgoedbedrijf in afwijking van artikel 7, eerste en tweede lid van het Mandaatbesluit Rijksvastgoedbedrijf 2020

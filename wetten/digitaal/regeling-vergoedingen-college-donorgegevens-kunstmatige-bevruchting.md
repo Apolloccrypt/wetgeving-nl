@@ -9,7 +9,7 @@ laatste_update: 2025-04-01
 status: geldig
 toestand: 2025-04-01
 bron: "https://wetten.overheid.nl/BWBR0050890"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 18 maart 2025, kenmerk 4073901-1080021-WJZ, houdende regels met betrekking tot de vergoedingen van de voorzitter en de leden van het bestuur van het College donorgegevens kunstmatige bevruchting

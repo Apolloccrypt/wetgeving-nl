@@ -9,7 +9,7 @@ laatste_update: 2025-07-16
 status: geldig
 toestand: 2025-07-16
 bron: "https://wetten.overheid.nl/BWBR0051239"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 7 juli 2025, nr. BOACAT2025/144, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Nissewaard

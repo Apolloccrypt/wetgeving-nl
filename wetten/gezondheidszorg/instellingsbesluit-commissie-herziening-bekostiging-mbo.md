@@ -9,7 +9,7 @@ laatste_update: 2025-12-31
 status: geldig
 toestand: 2025-12-31
 bron: "https://wetten.overheid.nl/BWBR0050914"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 20 maart 2025, nr. 1669623, houdende instelling van de Commissie herziening bekostiging mbo (Instellingsbesluit Commissie herziening bekostiging mbo)

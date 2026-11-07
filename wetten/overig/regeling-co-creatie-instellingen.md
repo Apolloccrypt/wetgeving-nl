@@ -8,7 +8,7 @@ laatste_update: 2025-03-06
 status: geldig
 toestand: 2025-03-06
 bron: "https://wetten.overheid.nl/BWBR0050824"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-07
 ---
 
 # Regeling Co-creatie Instellingen

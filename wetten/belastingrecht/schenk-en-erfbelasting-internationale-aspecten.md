@@ -8,7 +8,7 @@ laatste_update: 2025-05-16
 status: geldig
 toestand: 2025-05-16
 bron: "https://wetten.overheid.nl/BWBR0051038"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Schenk- en erfbelasting, internationale aspecten

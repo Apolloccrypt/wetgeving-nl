@@ -9,7 +9,7 @@ laatste_update: 2025-06-20
 status: geldig
 toestand: 2025-06-20
 bron: "https://wetten.overheid.nl/BWBR0051128"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 16 juni 2025, kenmerk 4130890-1083737-PZo, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake de voorbereidingen voor de beoogde invoering van budgetbekostiging voor de spoedeisende hulp

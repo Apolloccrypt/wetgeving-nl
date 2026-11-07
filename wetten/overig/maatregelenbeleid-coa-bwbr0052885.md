@@ -8,7 +8,7 @@ laatste_update: 2026-07-22
 status: geldig
 toestand: 2026-07-22
 bron: "https://wetten.overheid.nl/BWBR0052885"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-07
 ---
 
 # Maatregelenbeleid COA

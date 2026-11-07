@@ -9,7 +9,7 @@ laatste_update: 2025-03-07
 status: geldig
 toestand: 2025-03-07
 bron: "https://wetten.overheid.nl/BWBR0050835"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van 26 februari 2025 tot wijziging van het Besluit EU-verordeningen Wft in verband met de implementatie van Verordening (EU) 2024/886 betreffende instantovermakingen in euro’s (KetenID WGK026841) (Uitvoeringsbesluit verordening instantovermakingen in euro’s)

@@ -9,7 +9,7 @@ laatste_update: 2025-05-15
 status: geldig
 toestand: 2025-05-15
 bron: "https://wetten.overheid.nl/BWBR0050893"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Wet van 21 maart 2025 tot wijziging van het Wetboek van Strafrecht, het Wetboek van Strafrecht BES, het Wetboek van Strafvordering en het Wetboek van Strafvordering BES in verband met de uitbreiding van de strafbaarheid voor schadetoebrengende gedragingen ten behoeve van een buitenlandse mogendheid (uitbreiding strafbaarheid spionageactiviteiten)

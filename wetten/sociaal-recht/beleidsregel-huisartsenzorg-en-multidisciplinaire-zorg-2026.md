@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-07-14
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051261"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Beleidsregel huisartsenzorg en multidisciplinaire zorg 2026

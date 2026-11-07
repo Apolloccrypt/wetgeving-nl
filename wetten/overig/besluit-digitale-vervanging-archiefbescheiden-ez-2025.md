@@ -8,7 +8,7 @@ laatste_update: 2025-08-12
 status: geldig
 toestand: 2025-08-12
 bron: "https://wetten.overheid.nl/BWBR0051371"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit digitale vervanging archiefbescheiden EZ 2025

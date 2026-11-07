@@ -8,7 +8,7 @@ laatste_update: 2025-07-17
 status: geldig
 toestand: 2025-07-17
 bron: "https://wetten.overheid.nl/BWBR0051250"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit beperkingen openbaarheid archiefbescheiden Code-archief Ministerie van Buitenlandse Zaken, 1965–1974 (2.05.313)

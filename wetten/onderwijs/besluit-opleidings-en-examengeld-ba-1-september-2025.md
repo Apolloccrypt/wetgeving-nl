@@ -9,7 +9,7 @@ laatste_update: 2025-09-01
 status: geldig
 toestand: 2025-09-01
 bron: "https://wetten.overheid.nl/BWBR0050963"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de algemene raad van de Nederlandse orde van advocaten van 7 april 2025 tot vaststelling van de hoogte van het opleidings- en examengeld voor de beroepsopleiding advocaten (Besluit opleidings- en examengeld BA 1 september 2025)

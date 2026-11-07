@@ -9,7 +9,7 @@ laatste_update: 2026-05-28
 status: geldig
 toestand: 2026-05-28
 bron: "https://wetten.overheid.nl/BWBR0051195"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 30 juni 2025, nr. 2025-0000135813, houdende regels voor subsidieverstrekking aan werkgevers in het midden- en kleinbedrijf ter ondersteuning bij de aanschaf van inclusiviteitstechnologie (Subsidieregeling inclusiviteitstechnologie voor het mkb) [KetenID WGK026974]

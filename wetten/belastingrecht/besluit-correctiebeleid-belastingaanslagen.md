@@ -9,7 +9,7 @@ laatste_update: 2025-03-12
 status: geldig
 toestand: 2025-03-12
 bron: "https://wetten.overheid.nl/BWBR0050857"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Beleidsbesluit van de Staatssecretaris van Financiën van 5 februari 2025, nr. 2024-16277, over de correctiegrenzen die de inspecteur hanteert bij het vaststellen van belastingaanslagen (Besluit correctiebeleid belastingaanslagen)

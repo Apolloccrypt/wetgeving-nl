@@ -8,7 +8,7 @@ laatste_update: 2025-05-15
 status: geldig
 toestand: 2025-05-15
 bron: "https://wetten.overheid.nl/BWBR0051020"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit nadere voorschriften 6 mei 2025 houdende regels tot wijziging van Nadere voorschriften controle- en overige standaarden (intrekking COVID-pandemie-gerelateerde standaarden)

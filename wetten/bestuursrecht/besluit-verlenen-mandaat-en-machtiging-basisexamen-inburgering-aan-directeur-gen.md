@@ -9,7 +9,7 @@ laatste_update: 2026-05-21
 status: geldig
 toestand: 2026-05-21
 bron: "https://wetten.overheid.nl/BWBR0051399"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 15 augustus 2025, nr. 2025-0000177483, tot het verlenen van mandaat en machtiging met betrekking tot het basisexamen inburgering aan de directeur-generaal van de Immigratie- en Naturalisatiedienst van het Ministerie van Justitie en Veiligheid (Besluit verlenen mandaat en machtiging basisexamen inburgering aan directeur-generaal Immigratie- en Naturalisatiedienst)

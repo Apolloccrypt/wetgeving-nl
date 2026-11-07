@@ -8,7 +8,7 @@ laatste_update: 2025-05-08
 status: geldig
 toestand: 2025-05-08
 bron: "https://wetten.overheid.nl/BWBR0051012"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Inkomstenbelasting, aanwijzing bezwaren tegen het vanaf 1 oktober 2020 in rekening gebrachte percentage belastingrente inkomstenbelasting en enige overige middelen als massaal bezwaar

@@ -9,7 +9,7 @@ laatste_update: 2025-07-18
 status: geldig
 toestand: 2025-07-18
 bron: "https://wetten.overheid.nl/BWBR0051270"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Wet van 28 mei 2025 tot wijziging van de Wet op het financieel toezicht, Boek 7 van het Burgerlijk Wetboek en de Wet op de economische delicten ter implementatie van Richtlijn (EU) 2021/2167 van het Europees Parlement en de Raad van 24 november 2021 inzake kredietservicers en kredietkopers en tot wijziging van de Richtlijnen 2008/48/EG en 2014/17/EU (PbEU 2021, L 438) (Implementatiewet richtlijn kredietservicers en kredietkopers)

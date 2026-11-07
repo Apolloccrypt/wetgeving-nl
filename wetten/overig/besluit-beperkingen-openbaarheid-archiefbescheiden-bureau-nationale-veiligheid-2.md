@@ -8,7 +8,7 @@ laatste_update: 2025-07-17
 status: geldig
 toestand: 2025-07-17
 bron: "https://wetten.overheid.nl/BWBR0051248"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit beperkingen openbaarheid archiefbescheiden Bureau Nationale Veiligheid (2.04.80) en Oorlogsmisdadigers (2.09.106)

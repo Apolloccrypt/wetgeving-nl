@@ -9,7 +9,7 @@ laatste_update: 2025-06-04
 status: geldig
 toestand: 2025-06-04
 bron: "https://wetten.overheid.nl/BWBR0051078"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid d.d. 15 mei 2025, kenmerk 6097438, houdende beperking van de openbaarheid van het archief van de Directie Coördinatie Integratiebeleid Minderheden van het Ministerie van Justitie, 2000–2004, (1997) 2001–2002 (2004)

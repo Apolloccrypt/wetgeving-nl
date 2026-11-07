@@ -9,7 +9,7 @@ laatste_update: 2025-07-18
 status: geldig
 toestand: 2025-07-18
 bron: "https://wetten.overheid.nl/BWBR0051260"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 19 juni 2025, houdende bekendmaking van de taken waarmee de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties in het bijzonder zal zijn belast (Besluit Taakomschrijving Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties)

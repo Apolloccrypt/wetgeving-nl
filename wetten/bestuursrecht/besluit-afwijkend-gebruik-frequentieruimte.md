@@ -9,7 +9,7 @@ laatste_update: 2025-04-29
 status: geldig
 toestand: 2025-04-29
 bron: "https://wetten.overheid.nl/BWBR0050986"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van 22 april 2025, houdende vaststelling van regels over afwijkend gebruik van frequentieruimte (Besluit afwijkend gebruik frequentieruimte)

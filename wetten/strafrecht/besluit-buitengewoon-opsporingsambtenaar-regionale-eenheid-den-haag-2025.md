@@ -9,7 +9,7 @@ laatste_update: 2026-03-25
 status: geldig
 toestand: 2026-03-25
 bron: "https://wetten.overheid.nl/BWBR0050929"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 1 april 2025 nr. BOACAT2025/116, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de regionale eenheid Den Haag

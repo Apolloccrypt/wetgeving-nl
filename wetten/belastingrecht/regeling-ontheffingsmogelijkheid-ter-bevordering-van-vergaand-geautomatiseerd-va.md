@@ -9,7 +9,7 @@ laatste_update: 2025-04-16
 status: geldig
 toestand: 2025-04-16
 bron: "https://wetten.overheid.nl/BWBR0050954"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 21 maart 2025, nr. IENW/BSK-2025/59252, houdende vaststelling van regels over de ontheffingsmogelijkheid in het kader van vergaand geautomatiseerd varen op de binnenwateren (Regeling ontheffingsmogelijkheid ter bevordering van vergaand geautomatiseerd varen)

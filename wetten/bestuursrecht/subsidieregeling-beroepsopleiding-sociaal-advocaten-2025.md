@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-06-08
 toestand: 2026-05-01
 bron: "https://wetten.overheid.nl/BWBR0051159"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Subsidieregeling beroepsopleiding sociaal advocaten 2025

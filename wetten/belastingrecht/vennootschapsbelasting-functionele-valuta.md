@@ -8,7 +8,7 @@ laatste_update: 2025-04-05
 status: geldig
 toestand: 2025-04-05
 bron: "https://wetten.overheid.nl/BWBR0050922"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Vennootschapsbelasting, functionele valuta

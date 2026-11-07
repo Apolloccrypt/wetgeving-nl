@@ -9,7 +9,7 @@ laatste_update: 2025-07-23
 status: geldig
 toestand: 2025-07-23
 bron: "https://wetten.overheid.nl/BWBR0051302"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 10 juli 2025, nr. NA/52572144, houdende instelling van de Adviescommissie ethische verzoeken CABR inzake beschikbaarstelling van het gedigitaliseerde CABR (Instellingsbesluit Adviescommissie ethische verzoeken CABR)

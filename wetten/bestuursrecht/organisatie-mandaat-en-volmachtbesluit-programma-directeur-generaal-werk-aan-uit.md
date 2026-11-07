@@ -9,7 +9,7 @@ laatste_update: 2025-03-21
 status: geldig
 toestand: 2025-03-21
 bron: "https://wetten.overheid.nl/BWBR0050859"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 12 maart 2025, nr. 2025-0000025341, houdende de inrichting van het programma-directoraat-generaal Werk aan Uitvoering en doorverlening van vertegenwoordigingsbevoegdheden aan onder de programma-directeur-generaal Werk aan Uitvoering ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit programma-directeur-generaal Werk aan Uitvoering 2023)

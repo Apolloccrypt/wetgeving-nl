@@ -8,7 +8,7 @@ laatste_update: 2025-07-21
 status: geldig
 toestand: 2025-07-21
 bron: "https://wetten.overheid.nl/BWBR0051259"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Aanwijzing discriminatie

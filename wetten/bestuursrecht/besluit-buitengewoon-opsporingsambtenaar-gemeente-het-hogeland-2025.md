@@ -9,7 +9,7 @@ laatste_update: 2025-04-30
 status: geldig
 toestand: 2025-04-30
 bron: "https://wetten.overheid.nl/BWBR0050990"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 22 april 2025 nr. BOACAT2025/119, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Het Hogeland

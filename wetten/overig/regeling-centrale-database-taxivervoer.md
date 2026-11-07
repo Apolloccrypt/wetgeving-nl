@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0051129"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 3 juni 2025, nr. IENW/BSK-2025/130201, houdende regels met betrekking tot de centrale database taxivervoer (Regeling centrale database taxivervoer) [KetenID WGK026754]

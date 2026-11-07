@@ -9,7 +9,7 @@ laatste_update: 2025-07-04
 status: geldig
 toestand: 2025-07-04
 bron: "https://wetten.overheid.nl/BWBR0051176"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van 18 juni 2025, nr. 2025001354, houdende het voorzien in het beheer van het Ministerie van Asiel en Migratie en enkele andere voorzieningen

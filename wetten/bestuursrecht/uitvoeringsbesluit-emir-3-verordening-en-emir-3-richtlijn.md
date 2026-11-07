@@ -9,7 +9,7 @@ laatste_update: 2025-07-15
 status: geldig
 toestand: 2025-07-15
 bron: "https://wetten.overheid.nl/BWBR0051236"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van 3 juli 2025 tot wijziging van het Besluit EU-verordeningen Wft en het Besluit Gedragstoezicht financiële ondernemingen Wft ter uitvoering van Verordening (EU) 2024/2987 en Richtlijn (EU) 2024/2994 betreffende clearingmarkten (Uitvoeringsbesluit EMIR 3-verordening en EMIR 3-richtlijn) [KetenID WGK026839]

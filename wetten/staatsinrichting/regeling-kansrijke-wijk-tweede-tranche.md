@@ -9,7 +9,7 @@ laatste_update: 2026-07-04
 status: geldig
 toestand: 2026-07-04
 bron: "https://wetten.overheid.nl/BWBR0051138"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van de Minister van Volkshuisvesting en Ruimtelijke Ordening van 19 juni 2025, nr. 2025-0000019371, houdende regels met betrekking tot het verstrekken van een specifieke uitkering ten behoeve van het uitvoeren van het Nationaal Programma Leefbaarheid en Veiligheid (Regeling kansrijke wijk (tweede tranche))

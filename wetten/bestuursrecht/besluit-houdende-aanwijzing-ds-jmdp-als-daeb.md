@@ -9,7 +9,7 @@ laatste_update: 2025-04-09
 status: geldig
 toestand: 2025-04-09
 bron: "https://wetten.overheid.nl/BWBR0050927"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat, van 21 maart 2025, nr. IENW/BSK-2025/52801, houdende aanwijzing van het DS-JMDP als Dienst van Algemeen Economisch Belang

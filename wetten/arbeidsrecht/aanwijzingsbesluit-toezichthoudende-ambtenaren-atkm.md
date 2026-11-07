@@ -9,7 +9,7 @@ laatste_update: 2025-04-17
 status: geldig
 toestand: 2025-04-17
 bron: "https://wetten.overheid.nl/BWBR0050957"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de voorzitter van de Autoriteit online Terroristisch en Kinderpornografisch Materiaal van 5 december 2024 houdende aanwijzing van toezichthoudende ambtenaren, bedoeld in artikel 2, vierde lid, van de Uitvoeringswet verordening terroristische online-inhoud en artikel 2, derde lid, van de Wet bestuursrechtelijke aanpak online kinderpornografisch materiaal (Aanwijzingsbesluit toezichthoudende ambtenaren ATKM)

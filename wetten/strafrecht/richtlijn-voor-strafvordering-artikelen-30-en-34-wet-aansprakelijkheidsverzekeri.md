@@ -8,7 +8,7 @@ laatste_update: 2025-05-01
 status: geldig
 toestand: 2025-05-01
 bron: "https://wetten.overheid.nl/BWBR0050968"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Richtlijn voor strafvordering Artikelen 30 en 34 Wet aansprakelijkheidsverzekering motorrijtuigen (WAM)

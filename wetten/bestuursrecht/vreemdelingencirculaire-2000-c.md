@@ -8,7 +8,7 @@ laatste_update: 2026-10-28
 status: geldig
 toestand: 2026-10-28
 bron: "https://wetten.overheid.nl/BWBR0012288"
-opgehaald: 2026-11-06
+opgehaald: 2026-11-07
 ---
 
 # Vreemdelingencirculaire 2000 (C)

@@ -8,7 +8,7 @@ laatste_update: 2021-04-02
 status: geldig
 toestand: 2021-04-02
 bron: "https://wetten.overheid.nl/BWBR0050831"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit inwilliging AVV-verzoek onderzoeks- en innovatieagenda AVINED

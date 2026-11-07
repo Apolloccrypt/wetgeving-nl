@@ -9,7 +9,7 @@ laatste_update: 2026-10-28
 status: geldig
 toestand: 2026-10-28
 bron: "https://wetten.overheid.nl/BWBR0053286"
-opgehaald: 2026-11-06
+opgehaald: 2026-11-07
 ---
 
 # Regeling van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur van 28 oktober 2026, nr. WJZ/108786347, houdende specifieke maatregelen in de beschermings- en de bewakingszone in verband met de bestrijding van hoogpathogene aviaire influenza in Grootegast (Regeling maatregelen beschermings- en bewakingszone hoogpathogene vogelgriep Grootegast 2026)

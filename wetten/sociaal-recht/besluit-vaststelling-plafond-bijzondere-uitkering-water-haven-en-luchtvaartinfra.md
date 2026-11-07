@@ -9,7 +9,7 @@ laatste_update: 2025-03-12
 status: geldig
 toestand: 2025-03-12
 bron: "https://wetten.overheid.nl/BWBR0050845"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat, van 5 maart 2025, nr. IENW/BSK-2025/31098, houdende vaststelling van het plafond voor bijzondere uitkeringen 2025 op grond van de Regeling bijzondere uitkering water-, haven-, en luchtvaartinfrastructuur BES

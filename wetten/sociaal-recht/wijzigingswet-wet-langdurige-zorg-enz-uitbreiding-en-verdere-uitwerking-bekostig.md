@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051026"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Wet van 23 april 2025 tot wijziging van de Wet langdurige zorg, de Wet financiering sociale verzekeringen, de Wet marktordening gezondheidszorg en de Algemene wet bestuursrecht, in verband met de uitbreiding en verdere uitwerking van de bekostigingsmogelijkheden met middelen vanuit het Fonds langdurige zorg

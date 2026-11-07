@@ -9,7 +9,7 @@ laatste_update: 2025-04-29
 status: geldig
 toestand: 2025-04-29
 bron: "https://wetten.overheid.nl/BWBR0050988"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 8 april 2025, kenmerk 4083470-1081010-Z houdende bepalingen omtrent de in de Zorgverzekeringswet bedoelde vereveningsbijdrage voor het jaar 2023 (Regeling risicoverevening 2023)

@@ -9,7 +9,7 @@ laatste_update: 2025-06-14
 status: geldig
 toestand: 2025-06-14
 bron: "https://wetten.overheid.nl/BWBR0051106"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Beleidsregel van de Staatssecretaris van Infrastructuur en Waterstaat van 6 juni 2025, nr. IENW/BSK-2025/124351, tot vaststelling van de kostenaandelen zwerfafval per kunststofproductsoort, de bijdragen per eenheid kunststofproduct, de wegingsfactoren per overheidsorganisatie en de kosten per gebiedskenmerk als bedoeld in de artikelen 3.1 en 3.2 van de Regeling kunststofproducten voor eenmalig gebruik (Beleidsregel artikelen 3.1 en 3.2 Regeling kunststofproducten voor eenmalig gebruik)

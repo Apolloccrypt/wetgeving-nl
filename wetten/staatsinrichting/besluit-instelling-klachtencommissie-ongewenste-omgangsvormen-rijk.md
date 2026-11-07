@@ -8,7 +8,7 @@ laatste_update: 2025-06-28
 status: geldig
 toestand: 2025-06-28
 bron: "https://wetten.overheid.nl/BWBR0051145"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit instelling Klachtencommissie Ongewenste Omgangsvormen Rijk

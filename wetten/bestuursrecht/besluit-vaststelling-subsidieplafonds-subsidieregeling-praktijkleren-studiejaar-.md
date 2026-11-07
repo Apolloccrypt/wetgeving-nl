@@ -9,7 +9,7 @@ laatste_update: 2025-07-25
 status: geldig
 toestand: 2025-07-25
 bron: "https://wetten.overheid.nl/BWBR0051315"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 16 juli 2025 nr. MBO/52275347, houdende vaststelling van de subsidieplafonds voor het studiejaar 2024–2025 op grond van de Subsidieregeling praktijkleren

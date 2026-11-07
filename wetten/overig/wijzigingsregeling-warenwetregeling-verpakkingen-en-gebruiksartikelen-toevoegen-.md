@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0051122"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 12 juni 2025, kenmerk 4131373-1083806-WJZ, houdende wijziging van de Warenwetregeling verpakkingen en gebruiksartikelen in verband met het toevoegen van stoffen aan deel A van de bijlage en enkele technische wijzigingen [KetenID WGK027933]

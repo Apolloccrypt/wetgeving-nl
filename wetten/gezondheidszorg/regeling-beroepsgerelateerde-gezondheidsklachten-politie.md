@@ -9,7 +9,7 @@ laatste_update: 2026-07-15
 status: geldig
 toestand: 2026-07-15
 bron: "https://wetten.overheid.nl/BWBR0050873"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 14 maart 2025, nr. 6204920, houdende regels voor de toepassing van het Besluit van 4 november 2024 tot wijziging van het Besluit algemene rechtspositie politie, het Besluit bezoldiging politie en enkele andere besluiten in verband met herziening van het stelsel voor beroepsziekten, beroepsincidenten en dienstongevallen (Regeling beroepsgerelateerde gezondheidsklachten politie)

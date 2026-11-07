@@ -8,7 +8,7 @@ laatste_update: 2025-04-01
 status: geldig
 toestand: 2025-04-01
 bron: "https://wetten.overheid.nl/BWBR0050955"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit vaststelling Uniforme administratieve voorwaarden voor de uitvoering van werken en van technische installatiewerken 2012 (UAV 2012 (versie 2025))

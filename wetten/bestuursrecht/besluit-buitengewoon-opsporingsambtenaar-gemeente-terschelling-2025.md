@@ -9,7 +9,7 @@ laatste_update: 2026-04-09
 status: geldig
 toestand: 2026-04-09
 bron: "https://wetten.overheid.nl/BWBR0050849"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 12 maart 2025 nr. BOACAT2025/114, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Terschelling

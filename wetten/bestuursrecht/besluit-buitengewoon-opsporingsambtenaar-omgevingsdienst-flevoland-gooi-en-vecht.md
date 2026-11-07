@@ -9,7 +9,7 @@ laatste_update: 2025-08-19
 status: geldig
 toestand: 2025-08-19
 bron: "https://wetten.overheid.nl/BWBR0051386"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 8 augustus 2025 nr. BOACAT2025/159, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Omgevingsdienst Flevoland & Gooi en Vechtstreek

@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-07-08
 toestand: 2025-07-12
 bron: "https://wetten.overheid.nl/BWBR0051213"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur van 7 juli 2025, nr. WJZ/ 99080498, houdende vaststelling van de Regeling schoolfruit en -groenten 2025

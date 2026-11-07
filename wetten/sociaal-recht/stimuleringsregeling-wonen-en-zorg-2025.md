@@ -9,7 +9,7 @@ laatste_update: 2026-05-05
 status: geldig
 toestand: 2026-05-05
 bron: "https://wetten.overheid.nl/BWBR0051092"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 28 mei 2025, kenmerk 4117787-1082588-DMO, houdende regels voor het verstrekken van subsidie ter stimulering van de ontwikkeling en totstandkoming van woonzorgarrangementen (Stimuleringsregeling Wonen en Zorg 2025) [KetenID WGK027893]

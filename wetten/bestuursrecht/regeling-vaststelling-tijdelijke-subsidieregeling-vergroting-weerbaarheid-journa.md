@@ -9,7 +9,7 @@ laatste_update: 2025-06-06
 status: geldig
 toestand: 2025-06-06
 bron: "https://wetten.overheid.nl/BWBR0051087"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van het Stimuleringsfonds voor de Journalistiek van 28-5-2025, nr. WB2529, tot vaststelling van een subsidieregeling voor vergroting van weerbaarheid van journalisten 2025–2029

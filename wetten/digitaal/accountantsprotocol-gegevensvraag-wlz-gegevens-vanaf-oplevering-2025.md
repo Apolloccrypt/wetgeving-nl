@@ -8,7 +8,7 @@ laatste_update: 2025-04-26
 status: geldig
 toestand: 2025-04-26
 bron: "https://wetten.overheid.nl/BWBR0050983"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Accountantsprotocol Gegevensvraag Wlz-gegevens, vanaf oplevering 2025

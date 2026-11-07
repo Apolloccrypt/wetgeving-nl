@@ -9,7 +9,7 @@ laatste_update: 2025-03-29
 status: geldig
 toestand: 2025-03-29
 bron: "https://wetten.overheid.nl/BWBR0050901"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Minister-President, Minister van Algemene Zaken van 17 maart 2025, nr. 4446866 houdende vaststelling van de Algemene Rijksvoorwaarden voor het verstrekken van opdrachten tot het uitvoeren van diensten 2025 (ARVODI-2025)

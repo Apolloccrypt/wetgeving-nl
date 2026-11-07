@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0050864"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Wet van 6 maart 2025 tot wijziging van Boek 3 van het Burgerlijk Wetboek in verband met het opheffen van bedingen in het handelsverkeer die ertoe strekken vervreemding dan wel verpanding van geldvorderingen op naam tegen te gaan (Wet opheffing verpandingsverboden)

@@ -9,7 +9,7 @@ laatste_update: 2025-07-30
 status: geldig
 toestand: 2025-07-30
 bron: "https://wetten.overheid.nl/BWBR0051331"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 16 juli 2025, nr. 2025-0000023492, houdende een verlening van mandaat, volmacht en machtiging aan het Instituut Mijnbouwschade Groningen aangaande aangelegenheden op het gebied van de Archiefwet 1995

@@ -9,7 +9,7 @@ laatste_update: 2025-11-08
 status: geldig
 toestand: 2025-11-08
 bron: "https://wetten.overheid.nl/BWBR0051395"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 12 augustus 2025 nr. BOACAT2025/155, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Directoraat-Generaal Rijkswaterstaat

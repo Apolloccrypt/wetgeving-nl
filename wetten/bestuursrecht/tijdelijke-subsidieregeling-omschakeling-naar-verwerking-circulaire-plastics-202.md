@@ -9,7 +9,7 @@ laatste_update: 2025-03-28
 status: geldig
 toestand: 2025-03-28
 bron: "https://wetten.overheid.nl/BWBR0050898"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Tijdelijke regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 25 maart 2025, nr. IENW/BSK-2025/66061, houdende vaststelling van regels voor de subsidiëring van activiteiten ter voorbereiding op de omschakeling naar de verwerking van circulaire plastics 2025 (Tijdelijke subsidieregeling omschakeling naar verwerking circulaire plastics 2025) [KetenID WGK027569]

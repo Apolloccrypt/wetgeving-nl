@@ -9,7 +9,7 @@ laatste_update: 2025-05-10
 status: geldig
 toestand: 2025-05-10
 bron: "https://wetten.overheid.nl/BWBR0051017"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid, van 16 april 2025, nr. 5706233, houdende de implementatie van de Richtlijn (EU) 2023/977 van het Europees Parlement en de Raad van 10 mei 2023 betreffende de uitwisseling van informatie tussen de rechtshandhavingsinstanties van de lidstaten en tot intrekking van Kaderbesluit 2006/960/JBZ van de Raad (Regeling uitwisseling van informatie tussen rechtshandhavingsinstanties van de lidstaten)

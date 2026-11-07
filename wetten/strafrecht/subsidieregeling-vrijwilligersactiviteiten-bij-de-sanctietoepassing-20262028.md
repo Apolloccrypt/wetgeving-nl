@@ -9,7 +9,7 @@ laatste_update: 2025-03-19
 status: geldig
 toestand: 2025-03-19
 bron: "https://wetten.overheid.nl/BWBR0050854"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van de Staatssecretaris van Justitie en Veiligheid van 6 maart 2025, nr. 6141259, houdende vaststelling van een subsidieregeling vrijwilligersactiviteiten bij de sanctietoepassing 2026–2028

@@ -9,7 +9,7 @@ laatste_update: 2025-09-01
 status: geldig
 toestand: 2025-09-01
 bron: "https://wetten.overheid.nl/BWBR0051234"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Minister voor Volkshuisvesting en Ruimtelijke Ordening van 11 juli 2025, nr. 2025-0000020796, tot openstelling en vaststelling uitkeringsplafond aanvraagtijdvak van de zevende tranche van de Woningbouwimpuls

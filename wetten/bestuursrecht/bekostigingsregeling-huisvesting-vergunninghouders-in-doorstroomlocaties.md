@@ -9,7 +9,7 @@ laatste_update: 2025-04-09
 status: geldig
 toestand: 2025-04-09
 bron: "https://wetten.overheid.nl/BWBR0050928"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van de Asiel en Migratie van 4 april 2025, nr. 6265994, houdende een specifieke uitkering voor gemeenten in verband met de bekostiging van huisvesting van vergunninghouders in doorstroomlocaties (Bekostigingsregeling huisvesting vergunninghouders in doorstroomlocaties)

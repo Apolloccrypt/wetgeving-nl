@@ -9,7 +9,7 @@ laatste_update: 2025-10-01
 status: geldig
 toestand: 2025-10-01
 bron: "https://wetten.overheid.nl/BWBR0050852"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van het College voor toetsen en examens van 10 maart 2025, nummer CvTE- 25.00542, houdende vaststelling van het Programma van Toetsing en Afsluiting staatsexamens vo 2026 (Regeling PTA staatsexamens vo 2026)

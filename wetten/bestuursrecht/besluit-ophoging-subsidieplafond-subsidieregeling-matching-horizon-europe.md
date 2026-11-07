@@ -9,7 +9,7 @@ laatste_update: 2025-04-30
 status: geldig
 toestand: 2025-04-30
 bron: "https://wetten.overheid.nl/BWBR0050994"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 22 april 2025, nr. OWB/52002844, houdende ophoging van het subsidieplafond van de Subsidieregeling matching Horizon Europe

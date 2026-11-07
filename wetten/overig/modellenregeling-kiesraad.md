@@ -9,7 +9,7 @@ laatste_update: 2026-03-10
 status: geldig
 toestand: 2026-03-10
 bron: "https://wetten.overheid.nl/BWBR0051375"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van de Kiesraad van 31 maart 2025, nr. 966001, houdende regels ter uitvoering van de Kieswet (Modellenregeling Kiesraad)

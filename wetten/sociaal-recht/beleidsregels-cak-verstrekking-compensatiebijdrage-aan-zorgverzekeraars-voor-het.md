@@ -8,7 +8,7 @@ laatste_update: 2025-07-22
 status: geldig
 toestand: 2025-07-22
 bron: "https://wetten.overheid.nl/BWBR0051306"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Beleidsregels CAK Verstrekking compensatiebijdrage aan zorgverzekeraars voor het verzekerd houden van verzekeringsnemers met betalingsachterstanden zorgpremie 2025

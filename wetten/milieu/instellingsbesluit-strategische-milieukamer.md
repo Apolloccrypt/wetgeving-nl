@@ -9,7 +9,7 @@ laatste_update: 2025-04-16
 status: geldig
 toestand: 2025-04-16
 bron: "https://wetten.overheid.nl/BWBR0050947"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid, de Staatssecretaris van Infrastructuur en Waterstaat, en de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur van 1 april, nr. 6192727, tot instelling van de Strategische Milieukamer (Instellingsbesluit Strategische Milieukamer)

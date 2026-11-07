@@ -9,7 +9,7 @@ laatste_update: 2025-04-29
 status: geldig
 toestand: 2025-04-29
 bron: "https://wetten.overheid.nl/BWBR0050979"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van de Minister van Economische Zaken van 23 april 2025, nr. WJZ/ 98207028, tot vaststelling van voorwaarden van afwijkend gebruik frequentieruimte ter bestrijding van onbemande mobiele systemen (Vrijstellingsregeling afwijkend gebruik frequentieruimte ter bestrijding van onbemande mobiele objecten)

@@ -9,7 +9,7 @@ laatste_update: 2025-04-25
 status: geldig
 toestand: 2025-04-25
 bron: "https://wetten.overheid.nl/BWBR0050974"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat van 22 april 2025, nr. IENW/BSK-2025/75409, tot vaststelling van de subsidieplafonds en aanvraagperiode voor 2025 van de Tijdelijke subsidieregeling walstroom zeeschepen klimaat 2024–2026

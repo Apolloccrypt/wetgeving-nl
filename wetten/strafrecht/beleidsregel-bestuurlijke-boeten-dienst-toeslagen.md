@@ -9,7 +9,7 @@ laatste_update: 2025-06-20
 status: geldig
 toestand: 2025-06-20
 bron: "https://wetten.overheid.nl/BWBR0051123"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Beleidsregel van de Staatssecretaris van Financiën van 10 Juni 2025 over herziening van het boetebeleid (Beleidsregel bestuurlijke boeten Dienst Toeslagen)

@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051396"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 12 augustus 2025, kenmerk 4153667-1085452-PG, houdende vaststelling van de beleidsregels voor het subsidiëren van de Coöperatie Landelijk Bureau Prenatale Screening en de Regionale Centra voor Prenatale Screening (Besluit vaststelling beleidsregels subsidiëring Regionale Centra voor Prenatale Screening 2026–2027) [KetenID WGK027914]

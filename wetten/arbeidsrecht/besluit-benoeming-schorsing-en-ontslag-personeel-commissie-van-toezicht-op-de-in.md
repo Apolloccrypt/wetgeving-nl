@@ -9,7 +9,7 @@ laatste_update: 2025-06-13
 status: geldig
 toestand: 2025-06-13
 bron: "https://wetten.overheid.nl/BWBR0051097"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van 15 mei 2025, nr. 2025001076, houdende regels met betrekking tot benoeming, schorsing en het ontslag van tot het secretariaat van de commissie van toezicht op de inlichtingen- en veiligheidsdiensten horende personen

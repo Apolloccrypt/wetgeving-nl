@@ -9,7 +9,7 @@ laatste_update: 2025-07-05
 status: geldig
 toestand: 2025-07-05
 bron: "https://wetten.overheid.nl/BWBR0051088"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Wet van 26 mei 2025 tot wijziging van een aantal wetten op het terrein van het Ministerie van Volksgezondheid, Welzijn en Sport (Verzamelwet VWS 2024)

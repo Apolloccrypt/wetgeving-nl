@@ -8,7 +8,7 @@ laatste_update: 2025-07-14
 status: geldig
 toestand: 2025-07-14
 bron: "https://wetten.overheid.nl/BWBR0051227"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit vaststelling Subsidieplafonds 2025 Stichting Nederlands Fonds voor de Film

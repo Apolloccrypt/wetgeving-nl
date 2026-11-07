@@ -8,7 +8,7 @@ laatste_update: 2025-04-01
 status: geldig
 toestand: 2025-04-01
 bron: "https://wetten.overheid.nl/BWBR0050903"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Reglement van de Koninklijke Bibliotheek 2024

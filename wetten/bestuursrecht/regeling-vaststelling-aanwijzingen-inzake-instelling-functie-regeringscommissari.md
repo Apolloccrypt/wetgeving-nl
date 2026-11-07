@@ -9,7 +9,7 @@ laatste_update: 2025-03-21
 status: geldig
 toestand: 2025-03-21
 bron: "https://wetten.overheid.nl/BWBR0050853"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van de Minister-President, Minister van Algemene Zaken, van 13 maart 2025, nr. 4446101 houdende de vaststelling van de Aanwijzingen inzake de instelling van de functie van regeringscommissaris

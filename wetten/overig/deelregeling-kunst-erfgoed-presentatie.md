@@ -8,7 +8,7 @@ laatste_update: 2025-08-03
 status: geldig
 toestand: 2025-08-03
 bron: "https://wetten.overheid.nl/BWBR0051140"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Deelregeling Kunst Erfgoed Presentatie

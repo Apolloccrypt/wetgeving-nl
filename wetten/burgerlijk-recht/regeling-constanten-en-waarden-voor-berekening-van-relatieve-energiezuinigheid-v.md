@@ -8,7 +8,7 @@ laatste_update: 2025-05-27
 status: geldig
 toestand: 2025-05-27
 bron: "https://wetten.overheid.nl/BWBR0050883"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling constanten en waarden voor berekening van relatieve energiezuinigheid van personenauto’s voor 2026 en 2027

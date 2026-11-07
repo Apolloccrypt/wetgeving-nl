@@ -8,7 +8,7 @@ laatste_update: 2025-11-04
 status: geldig
 toestand: 2025-11-04
 bron: "https://wetten.overheid.nl/BWBR0051045"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Instellingsbesluit Commissie van onderzoek teruggevonden F-16 videobeelden Hawija (Irak)

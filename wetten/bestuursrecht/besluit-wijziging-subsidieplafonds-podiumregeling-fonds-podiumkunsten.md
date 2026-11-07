@@ -8,7 +8,7 @@ laatste_update: 2025-03-08
 status: geldig
 toestand: 2025-03-08
 bron: "https://wetten.overheid.nl/BWBR0050829"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-07
 ---
 
 # Besluit wijziging subsidieplafonds Podiumregeling Fonds Podiumkunsten

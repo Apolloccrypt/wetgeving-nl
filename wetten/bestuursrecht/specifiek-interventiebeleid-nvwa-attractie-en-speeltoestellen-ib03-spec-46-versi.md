@@ -9,7 +9,7 @@ laatste_update: 2025-05-27
 status: geldig
 toestand: 2025-05-27
 bron: "https://wetten.overheid.nl/BWBR0051052"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister van Volksgezondheid, Welzijn en Sport van 14 april 2025 vaststelling van het Specifiek interventiebeleid NVWA attractie- en speeltoestellen (IB03-SPEC 46, versie 09)

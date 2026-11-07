@@ -9,7 +9,7 @@ laatste_update: 2025-08-30
 status: geldig
 toestand: 2025-08-30
 bron: "https://wetten.overheid.nl/BWBR0050830"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Raad van Bestuur van Zorginstituut Nederland van 13 januari 2025, kenmerk 2024042056, tot vaststelling van de beleidsregels ter verdeling van de besteedbare middelen beheerskosten Wlz 2025

@@ -8,7 +8,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0050918"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling verplichte aanlevering minimale dataset (mds) medisch-specialistische zorg

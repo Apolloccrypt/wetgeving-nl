@@ -9,7 +9,7 @@ laatste_update: 2025-07-22
 status: geldig
 toestand: 2025-07-22
 bron: "https://wetten.overheid.nl/BWBR0051300"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van 1 juli 2025, nr. 2025001422 houdende gelijkstelling van 2 januari 2026, 15 mei 2026, 7 mei 2027, 28 april 2028 en 26 mei 2028 met een algemeen erkende feestdag

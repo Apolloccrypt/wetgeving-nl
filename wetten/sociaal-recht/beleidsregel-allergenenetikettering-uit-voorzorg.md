@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0050972"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 15 april 2025, kenmerk 4082034-1080983-WJZ, houdende de vaststelling van beleidsregels inzake kruisbesmetting met allergenen en etikettering uit voorzorg (Beleidsregel allergenenetikettering uit voorzorg)

@@ -9,7 +9,7 @@ laatste_update: 2025-07-15
 status: geldig
 toestand: 2025-07-15
 bron: "https://wetten.overheid.nl/BWBR0051238"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 7 juli 2025, nr. 2025-0000069509, houdende wijziging van de Subsidieregeling ESF+ 2021–2027 in verband met de openstelling van een nieuw aanvraagtijdvak voor sectoren, enige wijzigingen in de subsidieverstrekking en enige technische wijzigingen [KetenID WGK027673]

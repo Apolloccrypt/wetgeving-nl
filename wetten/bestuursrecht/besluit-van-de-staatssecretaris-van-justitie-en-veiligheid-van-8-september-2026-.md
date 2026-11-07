@@ -9,7 +9,7 @@ laatste_update: 2026-11-03
 status: geldig
 toestand: 2026-11-03
 bron: "https://wetten.overheid.nl/BWBR0053106"
-opgehaald: 2026-11-06
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 8 september 2026 nr. BOACAT2026/058, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Groningen

@@ -9,7 +9,7 @@ laatste_update: 2025-12-03
 status: geldig
 toestand: 2025-12-03
 bron: "https://wetten.overheid.nl/BWBR0051095"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van de Minister van Financiën en de Minister van Sociale Zaken en Werkgelegenheid, van kenmerk 2025-0000145875, directie Financiële Markten, tot vaststelling van de bandbreedtes en tarieven, bedoeld in artikel 9, eerste lid, van het Besluit bekostiging financieel toezicht 2019, voor het jaar 2025 (Regeling bekostiging financieel toezicht 2025)

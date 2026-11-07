@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0050960"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Wet van 15 april 2025, houdende Voorstel van wet van de leden Timmermans en Bikker tot wijziging van het Wetboek van Strafrecht in verband met de invoering van het discriminatoir aspect als strafverzwaringsgrond

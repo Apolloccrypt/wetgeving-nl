@@ -9,7 +9,7 @@ laatste_update: 2025-07-25
 status: geldig
 toestand: 2025-07-25
 bron: "https://wetten.overheid.nl/BWBR0051316"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Secretaris-Generaal van het Ministerie van Volksgezondheid, Welzijn en Sport en de Algemeen Directeur van de Dienst Uitvoering Subsidies aan Instellingen van 25 februari 2025, kenmerk 4076335-1080343-DUS-I, houdende de verlening van personele en financiële ondervolmachten aan de directeuren Uitvoering en Bedrijfsvoering en afdelingshoofden van de Dienst Uitvoering Subsidies aan Instellingen

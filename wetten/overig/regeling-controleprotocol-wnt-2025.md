@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0051144"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 18 juni 2025, nummer 2025-0000358619, houdende vaststelling van het Controleprotocol Wet normering topinkomens 2025 (Regeling Controleprotocol WNT 2025)

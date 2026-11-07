@@ -9,7 +9,7 @@ laatste_update: 2025-07-23
 status: geldig
 toestand: 2025-07-23
 bron: "https://wetten.overheid.nl/BWBR0051304"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat van 17 juli 2025, nr. IENW/BSK-174790, houdende vaststelling van regels voor subsidie ter stimulering van onderzoeksprojecten die bijdragen aan de transitie naar duurzame, concurrerende en veilige logistieke ketens en goederenvervoer, en emissiereductie door middel van bouwconcepten, emissiereductie in bouwlogistieke ketens, de inzet van emissieloze mobiele werktuigen en de ontwikkeling van digitalisering en ketenregieactiviteiten (Tijdelijke subsidieregeling onderzoek Topsector Logistiek 2025–2029) [KetenID WGK027211]

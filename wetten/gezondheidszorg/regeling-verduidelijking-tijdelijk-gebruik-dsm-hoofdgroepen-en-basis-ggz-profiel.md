@@ -9,7 +9,7 @@ laatste_update: 2025-04-03
 status: geldig
 toestand: 2025-04-03
 bron: "https://wetten.overheid.nl/BWBR0050915"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 31 maart 2025, kenmerk 4080664-1080698-Z, houdende verduidelijking van de registratie- en aanleververplichting van de DSM-hoofdgroepen en basis ggz-basisprofielen door aanbieders en zorgverzekeraars ten behoeve van de risicoverevening (Regeling verduidelijking tijdelijk gebruik DSM-hoofdgroepen en basis ggz-profielen)

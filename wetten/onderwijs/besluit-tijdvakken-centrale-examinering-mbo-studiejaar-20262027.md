@@ -9,7 +9,7 @@ laatste_update: 2025-07-03
 status: geldig
 toestand: 2025-07-03
 bron: "https://wetten.overheid.nl/BWBR0051169"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van het College voor toetsen en examens van 23 juni 2025, kenmerk CvTE25.00952, houdende vaststelling van de tijdvakken centrale examinering mbo, studiejaar 2026–2027 (Besluit tijdvakken centrale examinering mbo, studiejaar 2026–2027)

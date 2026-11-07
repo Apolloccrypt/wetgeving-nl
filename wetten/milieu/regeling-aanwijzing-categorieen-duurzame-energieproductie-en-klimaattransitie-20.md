@@ -9,7 +9,7 @@ laatste_update: 2025-10-01
 status: geldig
 toestand: 2025-10-01
 bron: "https://wetten.overheid.nl/BWBR0051266"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van de Minister van Klimaat en Groene Groei van 6 juli 2025, nr. WJZ/98374713, houdende aanwijzing categorieën van productie-installaties voor de productie van duurzame energieproductie en klimaattransitie in 2025 (Regeling aanwijzing categorieën duurzame energieproductie en klimaattransitie 2025) [KetenID WGK 27799]

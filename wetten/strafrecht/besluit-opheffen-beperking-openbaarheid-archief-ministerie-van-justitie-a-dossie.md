@@ -8,7 +8,7 @@ laatste_update: 2025-06-20
 status: geldig
 toestand: 2025-06-20
 bron: "https://wetten.overheid.nl/BWBR0051112"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit opheffen beperking openbaarheid archief Ministerie van Justitie, A-dossiers en voorlopers, (1923) 1949–1987 (2005), toegangsnummer 2.09.105

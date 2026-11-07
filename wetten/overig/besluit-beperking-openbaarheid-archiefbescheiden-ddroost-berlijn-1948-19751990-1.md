@@ -9,7 +9,7 @@ laatste_update: 2025-07-02
 status: geldig
 toestand: 2025-07-02
 bron: "https://wetten.overheid.nl/BWBR0051158"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 23 juni 2025 houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordiging in de Duitse Democratische Republiek (DDR), Oost-Berlijn (1948) 1975–1990 (1999)

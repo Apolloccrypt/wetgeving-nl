@@ -9,7 +9,7 @@ laatste_update: 2025-06-27
 status: geldig
 toestand: 2025-06-27
 bron: "https://wetten.overheid.nl/BWBR0051137"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 12 juni 2025, nr. PO/FenV/52581744, houdende aanpassing van de bedragen voor bekostiging primair onderwijs voor het kalenderjaar 2025 en het vaststellen van de bedragen voor ondersteuning van leerlingen in het primair en voortgezet onderwijs kalenderjaar 2025 (Definitieve regeling bekostiging WPO en WEC 2025)

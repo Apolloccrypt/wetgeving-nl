@@ -9,7 +9,7 @@ laatste_update: 2025-10-21
 status: geldig
 toestand: 2025-10-21
 bron: "https://wetten.overheid.nl/BWBR0051231"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Wet van 6 maart 2025, houdende wijziging van de Wet inburgering 2021 in verband met het mogelijk maken van het opstellen van een nadere voorlopige uitkering aan gemeenten voor de kosten van voorzieningen die bijdragen aan het voldoen aan de inburgeringsplicht en het creëren van een grondslag voor de specifieke uitkering onderwijsroute

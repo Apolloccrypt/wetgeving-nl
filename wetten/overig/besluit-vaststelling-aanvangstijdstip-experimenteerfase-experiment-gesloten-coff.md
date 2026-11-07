@@ -9,7 +9,7 @@ laatste_update: 2025-03-24
 status: geldig
 toestand: 2025-03-24
 bron: "https://wetten.overheid.nl/BWBR0050874"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport en de Minister van Justitie en Veiligheid van 20 maart 2025, kenmerk 4055271-1078641-WJZ, houdende vaststelling van het aanvangstijdstip van de experimenteerfase van het experiment gesloten coffeeshopketen

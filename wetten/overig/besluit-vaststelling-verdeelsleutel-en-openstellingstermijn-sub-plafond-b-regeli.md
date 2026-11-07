@@ -9,7 +9,7 @@ laatste_update: 2025-07-10
 status: geldig
 toestand: 2025-07-10
 bron: "https://wetten.overheid.nl/BWBR0051211"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur van 7 juli 2025, nr. WJZ/ 99352490, houdende vaststelling verdeelsleutel en openstellingstermijn sub-plafond b Regeling provinciale gebiedsgerichte beëindiging veehouderijlocaties

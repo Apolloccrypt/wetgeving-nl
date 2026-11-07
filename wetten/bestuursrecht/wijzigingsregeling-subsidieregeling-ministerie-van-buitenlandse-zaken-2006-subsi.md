@@ -9,7 +9,7 @@ laatste_update: 2025-07-24
 status: geldig
 toestand: 2025-07-24
 bron: "https://wetten.overheid.nl/BWBR0051310"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 14 juli 2025, nr. BZ2518248, tot wijziging van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 met betrekking tot subsidieverstrekking voor capaciteitsversterking van maatschappelijke organisaties in ontwikkelingslanden

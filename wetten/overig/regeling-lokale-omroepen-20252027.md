@@ -9,7 +9,7 @@ laatste_update: 2025-06-07
 status: geldig
 toestand: 2025-06-07
 bron: "https://wetten.overheid.nl/BWBR0051090"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van het Stimuleringsfonds voor de Journalistiek van 1 juni 2025, nr. LO2527, tot vaststelling van een subsidieregeling professionalisering Lokale Publieke Media-instellingen 2025–2027

@@ -9,7 +9,7 @@ laatste_update: 2025-04-19
 status: geldig
 toestand: 2025-04-19
 bron: "https://wetten.overheid.nl/BWBR0050961"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Beleidsregel van de Minister van Economische Zaken van 11 april 2025, nr. WJZ/ 97936920, tot nadere invulling van de verplichting, bedoeld in artikel 2, eerste lid, van de Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken (Beleidsregel zorgvuldig opdrachtgeverschap)

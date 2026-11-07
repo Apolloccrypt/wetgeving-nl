@@ -8,7 +8,7 @@ laatste_update: 2025-04-02
 status: geldig
 toestand: 2025-04-02
 bron: "https://wetten.overheid.nl/BWBR0050909"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit beperking openbaarheid IJZ Den Bosch

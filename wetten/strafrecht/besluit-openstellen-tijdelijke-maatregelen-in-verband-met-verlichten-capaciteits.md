@@ -9,7 +9,7 @@ laatste_update: 2025-07-16
 status: geldig
 toestand: 2025-07-16
 bron: "https://wetten.overheid.nl/BWBR0051246"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 8 juli 2025, kenmerk 6500732, inzake het openstellen van de tijdelijke maatregelen in verband met het verlichten van capaciteitsproblemen binnen het gevangeniswezen

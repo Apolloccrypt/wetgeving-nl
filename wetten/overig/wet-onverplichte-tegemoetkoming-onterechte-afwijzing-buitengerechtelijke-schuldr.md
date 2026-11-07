@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0051149"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Wet van 11 juni 2025, houdende regels met betrekking tot het tegemoetkomen van burgers ten aanzien van wie door de Belastingdienst en de Dienst Toeslagen ten onrechte geen medewerking aan een buitengerechtelijke schuldregeling is gegeven (Wet onverplichte tegemoetkoming onterechte afwijzing schuldregeling)

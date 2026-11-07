@@ -8,7 +8,7 @@ laatste_update: 2025-06-17
 status: geldig
 toestand: 2025-06-17
 bron: "https://wetten.overheid.nl/BWBR0051114"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit vaststelling en verhoging subsidieplafonds 2025

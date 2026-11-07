@@ -9,7 +9,7 @@ laatste_update: 2025-03-21
 status: geldig
 toestand: 2025-03-21
 bron: "https://wetten.overheid.nl/BWBR0050866"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 13 maart 2025, kenmerk 4063416-1079243-PZO, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake bekostigingsexperiment tijdelijk verblijf en ambulante geriatrische revalidatiezorg

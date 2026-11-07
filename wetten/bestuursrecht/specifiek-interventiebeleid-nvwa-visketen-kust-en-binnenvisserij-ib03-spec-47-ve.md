@@ -9,7 +9,7 @@ laatste_update: 2025-08-15
 status: geldig
 toestand: 2025-08-15
 bron: "https://wetten.overheid.nl/BWBR0051308"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur van 11 juli 2025 tot vaststelling van het Specifiek interventiebeleid NVWA visketen kust- en binnenvisserij (IB03-SPEC 47, versie 05)

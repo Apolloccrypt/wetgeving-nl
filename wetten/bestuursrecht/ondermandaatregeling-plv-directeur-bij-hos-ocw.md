@@ -9,7 +9,7 @@ laatste_update: 2025-02-20
 status: geldig
 toestand: 2025-02-20
 bron: "https://wetten.overheid.nl/BWBR0050826"
-opgehaald: 2026-09-07
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de directeur Hoger Onderwijs en Studiefinanciering (HO&S) van 11 februari 2025, nr. 50604047, houdende de vaststelling van een ondermandaatregeling t.b.v. de plaatsvervangend directeur HO&S (Ondermandaatregeling plv directeur bij HO&S OCW)

@@ -9,7 +9,7 @@ laatste_update: 2025-11-01
 status: geldig
 toestand: 2025-11-01
 bron: "https://wetten.overheid.nl/BWBR0051297"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Wet van 14 juli 2025 tot wijziging van de Penitentiaire beginselenwet in verband met aanvullende maatregelen tegen georganiseerde criminaliteit tijdens detentie

@@ -9,7 +9,7 @@ laatste_update: 2025-06-28
 status: geldig
 toestand: 2025-06-28
 bron: "https://wetten.overheid.nl/BWBR0051147"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Beleidsregel van de Minister van Sociale Zaken en Werkgelegenheid van 19 juni 2025, nr. 2025-0000136340, over het handhavings- en sanctioneringskader ten aanzien van artikel 6 van de Arbeidsomstandighedenwet

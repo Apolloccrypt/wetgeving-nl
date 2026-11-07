@@ -9,7 +9,7 @@ laatste_update: 2025-08-13
 status: geldig
 toestand: 2025-08-13
 bron: "https://wetten.overheid.nl/BWBR0051379"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van het Stimuleringsfonds voor de Journalistiek van 16 juli 2025, nr. THO002, tot vaststelling van een Thematische oproep Leiderschap en journalistieke innovatie

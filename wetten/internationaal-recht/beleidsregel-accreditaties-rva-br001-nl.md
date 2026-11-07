@@ -9,7 +9,7 @@ laatste_update: 2025-09-15
 status: geldig
 toestand: 2025-09-15
 bron: "https://wetten.overheid.nl/BWBR0051398"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Raad voor Accreditatie van 3 juli 2025 tot vaststelling van Beleidsregel Accreditaties (RvA-BR001-NL) en intrekking diverse beleidsregels

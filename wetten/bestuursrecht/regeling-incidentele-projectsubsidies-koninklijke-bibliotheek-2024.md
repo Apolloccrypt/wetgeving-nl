@@ -8,7 +8,7 @@ laatste_update: 2025-05-15
 status: geldig
 toestand: 2025-05-15
 bron: "https://wetten.overheid.nl/BWBR0051033"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling incidentele projectsubsidies Koninklijke Bibliotheek 2024

@@ -9,7 +9,7 @@ laatste_update: 2025-07-17
 status: geldig
 toestand: 2025-07-17
 bron: "https://wetten.overheid.nl/BWBR0051185"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 15 april 2025 tot vaststelling van het Specifiek interventiebeleid NVWA naleving voorschriften exotische muggen (IB03-SPEC 09, versie 03)

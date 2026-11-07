@@ -9,7 +9,7 @@ laatste_update: 2025-05-02
 status: geldig
 toestand: 2025-05-02
 bron: "https://wetten.overheid.nl/BWBR0051000"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Tijdelijke vrijstelling op grond van artikel 46, eerste lid van de Wet gewasbeschermingsmiddelen en biociden voor het gebruik van VectoBac WG voor het bestrijden van exotische muggen in binnenruimten (Vrijstelling Vectobac WG 2025)

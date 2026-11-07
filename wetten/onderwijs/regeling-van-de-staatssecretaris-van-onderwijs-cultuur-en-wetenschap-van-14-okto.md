@@ -9,7 +9,7 @@ laatste_update: 2026-11-01
 status: geldig
 toestand: 2026-11-01
 bron: "https://wetten.overheid.nl/BWBR0053269"
-opgehaald: 2026-11-06
+opgehaald: 2026-11-07
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 14 oktober 2026, nr. OPO/66118887, houdende regels voor het verstrekken van subsidies voor het versterken van de onderwijskwaliteit in Caribisch Nederland (Subsidieregeling versterken onderwijskwaliteit BES)

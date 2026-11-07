@@ -9,7 +9,7 @@ laatste_update: 2026-11-01
 status: geldig
 toestand: 2026-11-01
 bron: "https://wetten.overheid.nl/BWBR0053246"
-opgehaald: 2026-11-06
+opgehaald: 2026-11-07
 ---
 
 # Besluit van 19 oktober 2026 tot wijziging van het Luchthavenverkeerbesluit Schiphol in verband met de invoering van regels voor preferentieel baangebruik, wijziging van de handhavingspunten geluidsbelasting, de maximum aantallen vliegtuigbewegingen en enige andere wijzigingen, en van het Besluit van 21 mei 1981, houdende vaststelling van enige regels ter beperking van de geluidhinder door luchtvaartuigen (Stb. 1981, 343) [KetenID WGK026877]

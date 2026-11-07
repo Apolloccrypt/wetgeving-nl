@@ -9,7 +9,7 @@ laatste_update: 2025-04-17
 status: geldig
 toestand: 2025-04-17
 bron: "https://wetten.overheid.nl/BWBR0050956"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 8 april 2025, nr. IENW/BSK-2023/256354, houdende vaststelling van regels voor de subsidiëring van de uitvoering van activiteiten ten behoeve van de aanpassing van goederenlocomotieven aan of de ontwikkeling van goederenlocomotieven met inachtneming van ETCS systeemversie 2.0 of hoger (Tijdelijke subsidieregeling ERTMS goederenlocomotieven) [KetenID WGK025919]

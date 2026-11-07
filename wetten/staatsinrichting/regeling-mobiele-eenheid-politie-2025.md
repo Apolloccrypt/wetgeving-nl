@@ -9,7 +9,7 @@ laatste_update: 2025-04-15
 status: geldig
 toestand: 2025-04-15
 bron: "https://wetten.overheid.nl/BWBR0050942"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 4 april 2025, nr. 6267913, houdende nadere regels met betrekking tot de organisatie van de mobiele eenheid en het gezamenlijk oefenen door de mobiele eenheid (Regeling mobiele eenheid politie 2025)

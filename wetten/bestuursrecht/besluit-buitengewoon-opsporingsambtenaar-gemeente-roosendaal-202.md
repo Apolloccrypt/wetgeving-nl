@@ -9,7 +9,7 @@ laatste_update: 2025-12-31
 status: geldig
 toestand: 2025-12-31
 bron: "https://wetten.overheid.nl/BWBR0051370"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 30 juli 2025, nr. BOACAT2025/149, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Roosendaal

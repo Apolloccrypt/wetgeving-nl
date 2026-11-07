@@ -9,7 +9,7 @@ laatste_update: 2025-05-03
 status: geldig
 toestand: 2025-05-03
 bron: "https://wetten.overheid.nl/BWBR0051003"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit betreffende het opheffen van de beperkingen gesteld aan de openbaarheid van het archief van het Kabinet der Koningin: pakketarchief, 1989–2000 (nummer toegang 2.02.38)

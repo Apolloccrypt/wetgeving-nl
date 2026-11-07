@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0051042"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Beleidsregel van de Minister van Klimaat en Groene Groei van 15 mei 2025, nr. WJZ/ 97892204, houdende beleidsregels inzake de wijziging en intrekking van de vergunning windenergie op zee voor kavel I-A in windenergiegebied Nederwiek (Beleidsregel wijziging en intrekking van de vergunning windenergie op zee voor kavel I-A in windenergiegebied Nederwiek)

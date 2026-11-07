@@ -9,7 +9,7 @@ laatste_update: 2025-05-20
 status: geldig
 toestand: 2025-05-20
 bron: "https://wetten.overheid.nl/BWBR0051027"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 8 mei 2025, nr. MBO/52081367, houdende wijziging van het subsidieplafond voor het kalenderjaar 2025 van de Regeling regionaal investeringsfonds mbo 2024–2027

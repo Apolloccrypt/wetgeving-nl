@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0051021"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 8 mei 2025, kenmerk 4096321-1081488-PZO, houdende regels ten aanzien van het verlenen van vergunningen voor orgaantransplantatie (Regeling orgaantransplantatie)

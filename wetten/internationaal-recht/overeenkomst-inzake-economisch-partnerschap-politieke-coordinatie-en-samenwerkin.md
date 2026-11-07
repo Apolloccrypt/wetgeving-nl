@@ -8,7 +8,7 @@ laatste_update: 2000-10-01
 status: geldig
 toestand: 2000-10-01
 bron: "https://wetten.overheid.nl/BWBV0001400"
-opgehaald: 2026-11-06
+opgehaald: 2026-11-07
 ---
 
 # Overeenkomst inzake economisch partnerschap, politieke coördinatie en samenwerking tussen de Europese Gemeenschap en haar Lidstaten enerzijds en de Verenigde Mexicaanse Staten anderzijds

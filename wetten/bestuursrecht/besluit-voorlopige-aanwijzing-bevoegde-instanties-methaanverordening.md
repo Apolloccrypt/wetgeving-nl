@@ -9,7 +9,7 @@ laatste_update: 2025-05-16
 status: geldig
 toestand: 2025-05-16
 bron: "https://wetten.overheid.nl/BWBR0051041"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Minister van Klimaat en Groene Groei, DGKE-DE / 96724574, 14 april 2025, tot voorlopige aanwijzing van de Minister van Klimaat en Groene Groei, inspecteur-generaal der mijnen, de Omgevingsdienst Groningen, DCMR Milieudienst Rijnmond, gedeputeerde staten van Limburg, en de Nederlandse Emissieautoriteit als bevoegde instanties in de zin van Verordening (EU) 2024/1787 van het Europees Parlement en de Raad van 13 juni 2024 inzake de vermindering van methaanemissies in de energiesector en tot wijziging van Verordening (EU) 2019/942 (Besluit voorlopige aanwijzing bevoegde instanties methaanverordening)

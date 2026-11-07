@@ -8,7 +8,7 @@ laatste_update: 2025-08-06
 status: geldig
 toestand: 2025-08-06
 bron: "https://wetten.overheid.nl/BWBR0051363"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Ondermandaat-, volmacht- en machtigingsbesluit Directeur Juridische Zaken van Defensie betreffende het beslissen op bezwaarschriften 2025

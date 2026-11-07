@@ -8,7 +8,7 @@ laatste_update: 2025-06-18
 status: geldig
 toestand: 2025-06-18
 bron: "https://wetten.overheid.nl/BWBR0051104"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Instellingsbesluit Draaginsigne Militaire Oorlogs- en Dienstslachtoffers

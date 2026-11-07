@@ -9,7 +9,7 @@ laatste_update: 2025-12-30
 status: geldig
 toestand: 2025-12-30
 bron: "https://wetten.overheid.nl/BWBR0050895"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Wet van 6 maart 2025 tot wijziging van de Wet milieubeheer in verband met de invoering van een verplichting voor het bestuursorgaan tot het verstrekken van een afschrift aan de minister bij afwijking van het circulair materialenplan en tot wijziging van het begrip landelijk afvalbeheerplan in circulair materialenplan

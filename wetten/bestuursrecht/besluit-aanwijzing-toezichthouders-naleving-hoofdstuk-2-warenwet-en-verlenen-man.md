@@ -9,7 +9,7 @@ laatste_update: 2025-06-28
 status: geldig
 toestand: 2025-06-28
 bron: "https://wetten.overheid.nl/BWBR0051089"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 27 mei 2025, kenmerk 4046340-1078446, houdende aanwijzing van toezichthouders op de naleving van hoofdstuk 2 van de Warenwet en het verlenen van mandaat voor de uitvoering en handhaving van hoofdstuk 2 van de Warenwet

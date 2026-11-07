@@ -9,7 +9,7 @@ laatste_update: 2025-11-21
 status: geldig
 toestand: 2025-11-21
 bron: "https://wetten.overheid.nl/BWBR0051334"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van het Stimuleringsfonds voor de Journalistiek van 11 juni 2025, nr. ROJ2526, tot vaststelling van een subsidieregeling Ruimte voor Onderzoeksjournalistiek 2025–2026

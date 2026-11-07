@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0051040"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van 6 mei 2025, houdende aanpassing van diverse algemene maatregelen van bestuur en de intrekking van het Besluit nationaliteitstoets zeeschepen in verband met de Rijkswet nationaliteit zeeschepen (Aanpassingsbesluit Rijkswet nationaliteit zeeschepen)

@@ -9,7 +9,7 @@ laatste_update: 2025-10-04
 status: geldig
 toestand: 2025-10-04
 bron: "https://wetten.overheid.nl/BWBR0051194"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 27 juni 2025, nr. 2025-0000016894, houdende regels inzake een borgstelling door de Staat ten behoeve van krediet aan MKB-ondernemers in Aruba, Curaçao en Sint Maarten (Subsidieregeling Borgstelling MKB-kredieten Aruba, Curaçao en Sint Maarten)

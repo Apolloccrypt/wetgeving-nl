@@ -9,7 +9,7 @@ laatste_update: 2025-05-01
 status: geldig
 toestand: 2025-05-01
 bron: "https://wetten.overheid.nl/BWBR0050998"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van het Overlegorgaan Fysieke Leefomgeving van 16 april 2025, nr. IENW/BSK-2025/98887, tot het verlenen van mandaat en machtiging aan de algemeen secretaris van het Overlegorgaan Fysieke Leefomgeving tot het nemen van besluiten op verzoeken om informatie als bedoeld in de Wet open overheid (Mandaatbesluit Wet open overheid OFL)

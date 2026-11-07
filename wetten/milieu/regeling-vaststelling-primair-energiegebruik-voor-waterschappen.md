@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0050966"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat van 14 april 2025, nr. IENW/BSK-2025/72201, houdende vaststelling van regels voor het bepalen van het primaire energiegebruik voor waterschappen (Regeling vaststelling primair energiegebruik voor waterschappen) [KetenID WGK026124]

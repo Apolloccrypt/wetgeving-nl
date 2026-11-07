@@ -8,7 +8,7 @@ laatste_update: 2026-07-14
 status: geldig
 toestand: 2026-07-14
 bron: "https://wetten.overheid.nl/BWBR0051357"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Beleidsregel beschikbaarheidbijdrage op aanvraag

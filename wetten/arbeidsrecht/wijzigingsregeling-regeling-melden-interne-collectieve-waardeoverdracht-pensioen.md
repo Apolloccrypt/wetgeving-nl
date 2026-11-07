@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0051036"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van De Nederlandsche Bank N.V. (DNB) van 6 mei 2025 tot wijziging van de Regeling melden interne collectieve waardeoverdracht pensioenfondsen bij transitie

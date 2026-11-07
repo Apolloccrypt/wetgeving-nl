@@ -9,7 +9,7 @@ laatste_update: 2025-07-02
 status: geldig
 toestand: 2025-07-02
 bron: "https://wetten.overheid.nl/BWBR0051164"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Staatssecretaris van Financiën van 4 juni 2025, nr. 2025-149559, houdende instelling van een externe commissie ter begeleiding van Onderzoek hersteloperatie toeslagen (Instellingsbesluit externe begeleidingscommissie Onderzoek hersteloperatie toeslagen)

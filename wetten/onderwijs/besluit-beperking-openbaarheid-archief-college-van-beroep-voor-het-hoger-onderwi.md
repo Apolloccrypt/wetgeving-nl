@@ -9,7 +9,7 @@ laatste_update: 2025-03-28
 status: geldig
 toestand: 2025-03-28
 bron: "https://wetten.overheid.nl/BWBR0050892"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 3 maart 2025, nr. O&B/45853463, houdende beperking van de openbaarheid van het archief van het College van Beroep voor het Hoger Onderwijs van het Ministerie van Onderwijs, Cultuur en Wetenschap over de periode 1971–2011

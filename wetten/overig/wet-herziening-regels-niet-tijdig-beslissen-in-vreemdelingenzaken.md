@@ -9,7 +9,7 @@ laatste_update: 2025-04-15
 status: geldig
 toestand: 2025-04-15
 bron: "https://wetten.overheid.nl/BWBR0050946"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Wet van 2 april 2025 tot wijziging van de Vreemdelingenwet 2000 teneinde te voorzien in herziening van de regels voor niet tijdig beslissen op aanvragen op grond van de Vreemdelingenwet 2000 (Wet herziening regels niet tijdig beslissen in vreemdelingenzaken)

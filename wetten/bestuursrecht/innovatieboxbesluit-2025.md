@@ -8,7 +8,7 @@ laatste_update: 2025-07-25
 status: geldig
 toestand: 2025-07-25
 bron: "https://wetten.overheid.nl/BWBR0051317"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Innovatieboxbesluit 2025

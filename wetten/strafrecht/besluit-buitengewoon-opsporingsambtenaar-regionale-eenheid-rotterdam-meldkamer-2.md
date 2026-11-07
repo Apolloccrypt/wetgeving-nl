@@ -9,7 +9,7 @@ laatste_update: 2025-08-19
 status: geldig
 toestand: 2025-08-19
 bron: "https://wetten.overheid.nl/BWBR0051384"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 11 augustus 2025 nr. BOACAT2025/157, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij regionale eenheid Rotterdam, afdeling meldkamer

@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0051061"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 8 mei 2025, nr. IENW/BSK-2025/101742, houdende regels omtrent het gemengd afmeren van schepen die gevaarlijke stoffen vervoeren (Regeling gemengd afmeren)

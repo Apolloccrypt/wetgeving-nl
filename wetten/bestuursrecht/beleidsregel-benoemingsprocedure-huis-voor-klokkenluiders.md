@@ -9,7 +9,7 @@ laatste_update: 2025-07-30
 status: geldig
 toestand: 2025-07-30
 bron: "https://wetten.overheid.nl/BWBR0051330"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Beleidsregel van de Minister van Binnenlandse Zaken en Koninkrijksrelaties, houdende vaststelling van een benoemingsprocedure voor de voorzitter en leden van het Huis voor klokkenluiders (Beleidsregel benoemingsprocedure Huis voor klokkenluiders)

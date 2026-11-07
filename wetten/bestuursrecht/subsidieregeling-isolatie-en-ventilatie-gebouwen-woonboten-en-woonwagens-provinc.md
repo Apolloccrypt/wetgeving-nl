@@ -9,7 +9,7 @@ laatste_update: 2025-12-24
 status: geldig
 toestand: 2025-12-24
 bron: "https://wetten.overheid.nl/BWBR0051079"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van de Minister van Volkshuisvesting en Ruimtelijke Ordening van 27 mei 2025, nr. 2025-0000045420, houdende de vaststelling van subsidieregels voor isolatie en ventilatie van gebouwen, woonboten en woonwagens in de provincie Groningen en de gemeenten Aa en Hunze, Tynaarlo en Noordenveld (Subsidieregeling isolatie en ventilatie gebouwen, woonboten en woonwagens provincie Groningen en de gemeenten Aa en Hunze, Noordenveld en Tynaarlo)

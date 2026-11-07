@@ -9,7 +9,7 @@ laatste_update: 2025-06-23
 status: geldig
 toestand: 2025-06-23
 bron: "https://wetten.overheid.nl/BWBR0051125"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur van 6 juni 2025, nr. WJZ/87069873, tot instelling van de Raad van Advies organisatieontwikkeling NVWA (Instellingsbesluit Raad van Advies organisatieontwikkeling NVWA)

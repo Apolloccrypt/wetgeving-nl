@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0050855"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Wet van 10 februari 2025 tot wijziging van de Waterschapswet, de Waterwet en de Algemene wet bestuursrecht in verband met het versterken van de toepassing van het profijtbeginsel bij de watersysteemheffing, het geven van ruimte aan nieuwe ontwikkelingen en het oplossen van enkele knelpunten

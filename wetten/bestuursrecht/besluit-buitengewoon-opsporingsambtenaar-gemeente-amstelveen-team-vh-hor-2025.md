@@ -9,7 +9,7 @@ laatste_update: 2025-07-29
 status: geldig
 toestand: 2025-07-29
 bron: "https://wetten.overheid.nl/BWBR0050847"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 7 maart 2025 nr. BOACAT2025/110, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Amstelveen

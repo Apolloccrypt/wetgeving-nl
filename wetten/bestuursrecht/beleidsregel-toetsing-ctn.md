@@ -9,7 +9,7 @@ laatste_update: 2025-06-13
 status: geldig
 toestand: 2025-06-13
 bron: "https://wetten.overheid.nl/BWBR0051101"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Beleidsregel van de Staatssecretaris van Justitie en Veiligheid van 30 mei 2025, nr. 6373888, over de procedure bij en toetsing door de Commissie toegang notariaat (Beleidsregel toetsing Ctn)

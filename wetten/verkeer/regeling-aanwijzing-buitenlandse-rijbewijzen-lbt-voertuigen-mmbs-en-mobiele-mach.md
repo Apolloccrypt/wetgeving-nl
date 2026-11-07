@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0051094"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 2 juni 2025 nr. IENW/BSK-2025/121368, houdende het aangeven en omwisselen van buitenlandse rijbewijzen voor het besturen van LBT-voertuigen, MMBS en mobiele machines als bedoeld in artikel 108, tweede lid, aanhef en onderdeel b, van de Wegenverkeerswet 1994 en artikel 45, eerste lid, aanhef en onderdeel c, van het Reglement rijbewijzen (Regeling aangeven en aanwijzen om te wisselen buitenlandse rijbewijzen LBT-voertuigen, MMBS en mobiele machines) [KetenID WGK026912]

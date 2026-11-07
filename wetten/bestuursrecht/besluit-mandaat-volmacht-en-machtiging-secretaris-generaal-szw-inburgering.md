@@ -9,7 +9,7 @@ laatste_update: 2025-03-13
 status: geldig
 toestand: 2025-03-13
 bron: "https://wetten.overheid.nl/BWBR0050841"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 1 maart 2025 (kenmerk 6188823/25/DP&O), houdende verlening van mandaat, volmacht en machtiging aan de secretaris-generaal van het Ministerie van Sociale Zaken en Werkgelegenheid ten aanzien van de aangelegenheden op het terrein van inburgering

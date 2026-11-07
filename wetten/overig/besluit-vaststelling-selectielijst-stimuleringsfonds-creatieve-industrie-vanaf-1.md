@@ -8,7 +8,7 @@ laatste_update: 2025-05-10
 status: geldig
 toestand: 2025-05-10
 bron: "https://wetten.overheid.nl/BWBR0051007"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit vaststelling selectielijst Stimuleringsfonds Creatieve Industrie vanaf 1 september 2012

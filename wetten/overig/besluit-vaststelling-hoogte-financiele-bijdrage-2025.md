@@ -9,7 +9,7 @@ laatste_update: 2025-04-16
 status: geldig
 toestand: 2025-04-16
 bron: "https://wetten.overheid.nl/BWBR0050949"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van het college van afgevaardigden van 2 april 2025 tot vaststelling van de hoogte van de financiële bijdrage (Besluit vaststelling hoogte financiële bijdrage 2025)

@@ -8,7 +8,7 @@ laatste_update: 2025-07-10
 status: geldig
 toestand: 2025-07-10
 bron: "https://wetten.overheid.nl/BWBR0051199"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Geheimverklaring Beveiligingssystemen Defensie

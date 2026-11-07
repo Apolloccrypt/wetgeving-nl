@@ -9,7 +9,7 @@ laatste_update: 2025-08-01
 status: geldig
 toestand: 2025-08-01
 bron: "https://wetten.overheid.nl/BWBR0051303"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 08 juli 2025, nr. OVO/52996928, houdende regels voor de subsidieverstrekking aan DAMU-scholen voor het vergoeden van reiskosten aan DAMU-leerlingen in het voortgezet onderwijs (Subsidieregeling tegemoetkoming reiskosten DAMU-leerlingen VO 2025)

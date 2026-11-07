@@ -9,7 +9,7 @@ laatste_update: 2025-06-04
 status: geldig
 toestand: 2025-06-04
 bron: "https://wetten.overheid.nl/BWBR0051085"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van 28 mei 2025, houdende regeling van technische, personele en organisatorische maatregelen en nadere regels omtrent gegevensbeschermingsaudits ter uitvoering van de Wet coördinatie terrorismebestrijding en nationale veiligheid en wijziging van het Besluit politiegegevens, alsmede tot vaststelling van het tijdstip van inwerkingtreding van de Wet coördinatie terrorismebestrijding en nationale veiligheid (Besluit coördinatie terrorismebestrijding en nationale veiligheid)

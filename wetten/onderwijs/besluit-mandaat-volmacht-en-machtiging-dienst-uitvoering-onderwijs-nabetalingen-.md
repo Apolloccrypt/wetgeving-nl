@@ -9,7 +9,7 @@ laatste_update: 2026-06-11
 status: geldig
 toestand: 2026-06-11
 bron: "https://wetten.overheid.nl/BWBR0051275"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 10 juli 2025, nr. 2025-0000141209, tot het verlenen van mandaat, volmacht en machtiging aan de Dienst Uitvoering Onderwijs tot uitoefening van een aantal bevoegdheden op grond van de Participatiewet op het terrein van de eenmalige tegemoetkoming energiekosten 2023 voor studenten, voortvloeiend uit de herstelactie inzake controle uitwonendenbeurs

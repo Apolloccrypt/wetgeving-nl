@@ -9,7 +9,7 @@ laatste_update: 2025-05-25
 status: geldig
 toestand: 2025-05-25
 bron: "https://wetten.overheid.nl/BWBR0050981"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister van Volksgezondheid, Welzijn en Sport van 11 april 2025 tot vaststelling van het Specifiek interventiebeleid NVWA chemische stoffen in consumentenproducten (IB03-SPEC 51, versie 01)

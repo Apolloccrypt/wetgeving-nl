@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0050976"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-07
 ---
 
 # Besluit van 7 april 2025 tot wijziging van het Kentekenreglement in verband met de registratie- en kentekenplicht bijzondere bromfietsen
