@@ -9,7 +9,7 @@ laatste_update: 2025-10-27
 status: geldig
 toestand: 2025-10-27
 bron: "https://wetten.overheid.nl/BWBR0051666"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Beleidsregel van het College gerechtelijk deskundigen van 17 juni 2021 over de visitatie en erkenning van een opleiding tot gerechtelijk deskundige en een deskundigheidsbevorderingssysteem (Beleidsregel visitatie en erkenning NRGD)

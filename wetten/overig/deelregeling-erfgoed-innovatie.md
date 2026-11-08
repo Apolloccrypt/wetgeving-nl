@@ -8,7 +8,7 @@ laatste_update: 2025-11-19
 status: geldig
 toestand: 2025-11-19
 bron: "https://wetten.overheid.nl/BWBR0051769"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Deelregeling Erfgoed Innovatie

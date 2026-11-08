@@ -8,7 +8,7 @@ laatste_update: 2025-10-23
 status: geldig
 toestand: 2025-10-23
 bron: "https://wetten.overheid.nl/BWBR0051644"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit Beperking Openbaarheid archief Mondriaan Fonds

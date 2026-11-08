@@ -9,7 +9,7 @@ laatste_update: 2025-10-01
 status: geldig
 toestand: 2025-10-01
 bron: "https://wetten.overheid.nl/BWBR0051545"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Aanwijzingsbesluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 26 september 2025, nr. 2025-000504184, tot uitvoering van Verordening (EU) 2024/900 betreffende transparantie en gerichte politieke reclame (Tijdelijk Aanwijzingsbesluit uitvoering verordening transparantie en gerichte politieke reclame)

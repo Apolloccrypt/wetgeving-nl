@@ -9,7 +9,7 @@ laatste_update: 2025-11-08
 status: geldig
 toestand: 2025-11-08
 bron: "https://wetten.overheid.nl/BWBR0051720"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de directeur van de drie ketens (IH, BBK en S&E) van de directie Particulieren van 24 september 2025 houdende ondermandatering van de bevoegdheden op het terrein van Organisatie en Personeel

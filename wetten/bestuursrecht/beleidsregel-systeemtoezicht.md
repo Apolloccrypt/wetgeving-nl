@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051821"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van het college van toezicht van de Nederlandse orde van advocaten van 29 september 2025 tot vaststelling van de beleidsregel systeemtoezicht

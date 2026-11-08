@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051635"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 9 oktober 2025, nr. 2025-0000572637, houdende regels voor de verstrekking van subsidies voor activiteiten in Aruba, Curaçao of Sint Maarten die een positieve bijdrage leveren aan de lokale gemeenschap (Subsidieregeling Klein Projecten Fonds) [KetenID WGK027362]

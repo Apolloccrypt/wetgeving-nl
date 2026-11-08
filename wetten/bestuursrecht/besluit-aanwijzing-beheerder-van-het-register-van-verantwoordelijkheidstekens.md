@@ -9,7 +9,7 @@ laatste_update: 2025-08-22
 status: geldig
 toestand: 2025-08-22
 bron: "https://wetten.overheid.nl/BWBR0051409"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Minister van Economische Zaken van 17 augustus 2025, nr. WJZ/ 86617580, houdende aanwijzing beheerder van het register van verantwoordelijkheidstekens als bedoeld in artikel 10, tweede lid, van de Waarborgwet 2019 (Besluit aanwijzing beheerder van het register van verantwoordelijkheidstekens)

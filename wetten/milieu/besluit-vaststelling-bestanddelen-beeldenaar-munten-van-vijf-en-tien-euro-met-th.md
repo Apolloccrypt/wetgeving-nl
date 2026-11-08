@@ -9,7 +9,7 @@ laatste_update: 2025-10-25
 status: geldig
 toestand: 2025-10-25
 bron: "https://wetten.overheid.nl/BWBR0051649"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van 13 oktober 2025 tot vaststelling van de bestanddelen van de beeldenaar van de munten van vijf en tien euro met het thema Hollandse Waterlinies die in 2025 worden uitgegeven in de serie UNESCO Werelderfgoed

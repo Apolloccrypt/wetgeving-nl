@@ -9,7 +9,7 @@ laatste_update: 2025-11-28
 status: geldig
 toestand: 2025-11-28
 bron: "https://wetten.overheid.nl/BWBR0051864"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de directeur Organisatie, Bedrijfsvoering en Personeel van 6 november 2025, kenmerk 1085866-4170484-OBP, houdende het verlenen van ondervolmacht en ondermandaat aan het plaatsvervangend afdelingshoofd Informatievoorziening

@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051724"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 3 november 2025, kenmerk 4217351-1087768-Z, houdende wijziging van de regeling zorgverzekering in verband met het vaststellen van de woonlandfactoren voor het jaar 2026 ten behoeve van de gedifferentieerde berekening van de bijdrage voor verdragsgerechtigden [KetenID WGK028385]

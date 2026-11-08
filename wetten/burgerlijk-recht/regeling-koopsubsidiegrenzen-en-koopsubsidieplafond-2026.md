@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051842"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Regeling van de Minister van Volkshuisvesting en Ruimtelijke Ordening van 21 november 2025, nr. 2025-0000649828, houdende vaststelling van percentages, bedragen en inkomensklassen ingevolge de Wet bevordering eigenwoningbezit en wijziging van enkele bedragen in die wet (Regeling koopsubsidiegrenzen en koopsubsidieplafond 2026)

@@ -9,7 +9,7 @@ laatste_update: 2025-09-30
 status: geldig
 toestand: 2025-09-30
 bron: "https://wetten.overheid.nl/BWBR0051536"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 19 september 2025, kenmerk 4211663-1087597-WJZ, houdende mandaatverlening aan en machtiging van de Stichting Controle Orgaan Kwaliteits Zaken

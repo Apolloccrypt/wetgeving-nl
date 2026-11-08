@@ -9,7 +9,7 @@ laatste_update: 2025-08-29
 status: geldig
 toestand: 2025-08-29
 bron: "https://wetten.overheid.nl/BWBR0051416"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de directeur van de directie Shared Service Organisatie Financieel & Managementinformatie (hierna SSO F&MI) van 2 juli 2025 houdende ondermandatering van de bevoegdheden op het terrein van Organisatie en Personeel

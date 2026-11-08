@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051828"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Minister van Financiën van 17 november 2025, 2025-0000538779 tot aanwijzing van elektronische kanalen voor het indienen van berichten in de zin van artikel 2:13, tweede lid, van de Algemene wet bestuursrecht bij het kernministerie van het Ministerie van Financiën 2026 (Aanwijzingsbesluit elektronische kanalen publieke dienstverlening kernministerie van Financiën 2026)

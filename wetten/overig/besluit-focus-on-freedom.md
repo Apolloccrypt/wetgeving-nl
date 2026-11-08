@@ -9,7 +9,7 @@ laatste_update: 2025-12-13
 status: geldig
 toestand: 2025-12-13
 bron: "https://wetten.overheid.nl/BWBR0051956"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Staatssecretaris van Buitenlandse Zaken van 19 november 2025, nr. BZ2522260, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Besluit Focus on Freedom)

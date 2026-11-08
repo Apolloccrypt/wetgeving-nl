@@ -8,7 +8,7 @@ laatste_update: 2025-10-30
 status: geldig
 toestand: 2025-10-30
 bron: "https://wetten.overheid.nl/BWBR0051663"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Beleidsregel IZA-transformaties

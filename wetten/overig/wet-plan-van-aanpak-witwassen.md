@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051592"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Wet van 11 juni 2025, houdende wijziging van de Wet ter voorkoming van witwassen en financieren van terrorisme en Boek 6 van het Burgerlijk Wetboek in verband met het verbod op contante betalingen voor goederen vanaf 3.000 euro en het recht van consumenten op kleinere contante betalingen (Wet plan van aanpak witwassen)

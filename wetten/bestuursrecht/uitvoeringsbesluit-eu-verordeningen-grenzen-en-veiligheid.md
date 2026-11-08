@@ -9,7 +9,7 @@ laatste_update: 2026-06-12
 status: geldig
 toestand: 2026-06-12
 bron: "https://wetten.overheid.nl/BWBR0051701"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van 27 oktober 2025, houdende regels ter uitvoering van EU-verordeningen grenzen en veiligheid en tot wijziging van het Besluit politiegegevens en het Vreemdelingenbesluit 2000 (Uitvoeringsbesluit EU-verordeningen grenzen en veiligheid) [KetenID WGK014803]

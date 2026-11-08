@@ -9,7 +9,7 @@ laatste_update: 2025-09-11
 status: geldig
 toestand: 2025-09-11
 bron: "https://wetten.overheid.nl/BWBR0051491"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Beleidsregel van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur van 8 september 2025, nr. WJZ/ 98207351, over de beoordeling van aanvragen van certificaten voor handel binnen de Europese Unie en van aanvragen van uitvoervergunningen en wederuitvoercertificaten voor in gevangenschap geboren en gefokte tijgers en tijgerproducten (Beleidsregel certificaten EU-handel, uitvoer en wederuitvoer tijgers en tijgerproducten)

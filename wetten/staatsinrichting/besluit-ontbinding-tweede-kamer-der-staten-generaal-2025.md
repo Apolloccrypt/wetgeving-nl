@@ -9,7 +9,7 @@ laatste_update: 2025-09-05
 status: geldig
 toestand: 2025-09-05
 bron: "https://wetten.overheid.nl/BWBR0051481"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van 30 augustus 2025 houdende de ontbinding van de Tweede Kamer der Staten-Generaal

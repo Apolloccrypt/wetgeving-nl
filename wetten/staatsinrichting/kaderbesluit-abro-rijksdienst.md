@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051910"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 1 december 2025, tot vaststelling van een kader houdende de instelling en toepassing van de Algemene Beveiligingseisen voor Rijksoverheidsopdrachten (ABRO 2026) (Kaderbesluit ABRO Rijksdienst)

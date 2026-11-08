@@ -9,7 +9,7 @@ laatste_update: 2025-10-04
 status: geldig
 toestand: 2025-10-04
 bron: "https://wetten.overheid.nl/BWBR0051557"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Staatssecretaris van Buitenlandse Zaken van 21 september 2025, nr. BZ252014 tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieprogramma Oekraïne partnerfaciliteit 2025)

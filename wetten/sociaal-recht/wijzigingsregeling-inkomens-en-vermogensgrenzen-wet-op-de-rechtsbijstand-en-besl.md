@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051822"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Regeling van 14 november 2025, nr. 6825974 van de Staatssecretaris van Justitie en Veiligheid houdende de wijziging van de inkomens- en vermogensgrenzen, in de Wet op de rechtsbijstand en het Besluit eigen bijdrage rechtsbijstand, eigen bijdragen en basisbedragen, bedoeld in het Besluit eigen bijdrage rechtsbijstand, het Besluit vergoedingen rechtsbijstand en het Besluit toevoeging mediation, en vaststelling van het normbedrag en het bedrag van het voorschot voor advocaten als bedoeld in het Besluit vergoedingen rechtsbijstand 2000

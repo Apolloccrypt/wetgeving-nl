@@ -8,7 +8,7 @@ laatste_update: 2025-10-29
 status: geldig
 toestand: 2025-10-29
 bron: "https://wetten.overheid.nl/BWBR0051667"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Universele uitvoeringsvoorschriften belastingverdragen 2025, uitgezonderd het belastingverdrag met de VS

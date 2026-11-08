@@ -9,7 +9,7 @@ laatste_update: 2025-10-01
 status: geldig
 toestand: 2025-10-01
 bron: "https://wetten.overheid.nl/BWBR0051539"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Beleidsregel van het Commissariaat voor de Media over de toelaatbaarheid, herkenbaarheid en afbakening van reclame- en telewinkelboodschappen in het media-aanbod van publieke media- instellingen (Beleidsregel reclame publieke media-instellingen 2025)

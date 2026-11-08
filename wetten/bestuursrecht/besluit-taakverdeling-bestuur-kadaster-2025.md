@@ -8,7 +8,7 @@ laatste_update: 2025-11-14
 status: geldig
 toestand: 2025-11-14
 bron: "https://wetten.overheid.nl/BWBR0051805"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit taakverdeling Bestuur Kadaster 2025

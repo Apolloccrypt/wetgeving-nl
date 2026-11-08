@@ -9,7 +9,7 @@ laatste_update: 2025-11-20
 status: geldig
 toestand: 2025-11-20
 bron: "https://wetten.overheid.nl/BWBR0051782"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de inspecteur-generaal Leefomgeving en Transport van 5 november 2025, nr. ILT-2025/34978, houdende instelling van de Raad van Advies ILT (Instellingsbesluit Raad van Advies ILT) en intrekking van het Instellingsbesluit Raad van Advies ILT-IBRA van 30 september 2020, nr. ILT-2020/0930-148

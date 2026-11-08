@@ -9,7 +9,7 @@ laatste_update: 2025-12-17
 status: geldig
 toestand: 2025-12-17
 bron: "https://wetten.overheid.nl/BWBR0051957"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 8 december 2025 nr. BOACAT2025/205, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Belastingdienst

@@ -8,7 +8,7 @@ laatste_update: 2025-11-21
 status: geldig
 toestand: 2025-11-21
 bron: "https://wetten.overheid.nl/BWBR0051783"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit tot het stellen van beperkingen aan de openbaarheid van archiefbescheiden geborgen in de archieven Bureau Invordering (2.04.77), Nederlandse Vereniging voor Psychiatrie (2.19.221), Netherlands Forces Intelligence Service (2.10.37.02), regeringscommissaris voor Repatriëring (2.15.43), Commissie tot Opsporing van Oorlogsmisdadigers (2.09.61), Commissariaat van Ambonezenzorg (2.27.148) en Kabinet van de Minister-President (2.03.01)

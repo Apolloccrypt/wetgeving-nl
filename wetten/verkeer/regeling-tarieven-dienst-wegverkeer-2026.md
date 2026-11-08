@@ -8,7 +8,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0051875"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Regeling tarieven Dienst Wegverkeer 2026

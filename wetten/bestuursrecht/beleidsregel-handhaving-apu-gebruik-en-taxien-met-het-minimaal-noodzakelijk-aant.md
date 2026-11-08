@@ -9,7 +9,7 @@ laatste_update: 2025-11-05
 status: geldig
 toestand: 2025-11-05
 bron: "https://wetten.overheid.nl/BWBR0051697"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Beleidsregel van de Minister van Infrastructuur en Waterstaat, van 1 november 2025, nr. 49479, over het gebruik van APU en taxiën met het minimaal noodzakelijk aantal motoren op de luchthaven Eelde (Beleidsregel handhaving APU-gebruik en taxiën met het minimaal noodzakelijk aantal motoren op de luchthaven Eelde als bedoeld in artikel 7 en 8 van het Luchthavenbesluit)

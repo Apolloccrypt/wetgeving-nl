@@ -9,7 +9,7 @@ laatste_update: 2025-11-01
 status: geldig
 toestand: 2025-11-01
 bron: "https://wetten.overheid.nl/BWBR0051586"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Regeling van de Staatssecretaris van Justitie en Veiligheid, van 2 oktober 2025, nr. 6710149 houdende de tijdelijke aanwijzing van de (overige) zittingsplaatsen van een rechtbank als (overige) zittingsplaatsen van een andere rechtbank als bedoeld in artikel 46a van de Wet op de rechterlijke organisatie, ten behoeve van strafzaken in eerste aanleg (Tijdelijke aanwijzing rechtbank Zeeland-West-Brabant voor enkelvoudige strafzaken van de rechtbank Oost-Brabant)

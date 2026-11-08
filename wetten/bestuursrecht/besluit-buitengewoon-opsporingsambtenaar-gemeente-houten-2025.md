@@ -9,7 +9,7 @@ laatste_update: 2025-09-11
 status: geldig
 toestand: 2025-09-11
 bron: "https://wetten.overheid.nl/BWBR0051485"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 2 september 2025, kenmerk BOACAT2025/167, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Houten

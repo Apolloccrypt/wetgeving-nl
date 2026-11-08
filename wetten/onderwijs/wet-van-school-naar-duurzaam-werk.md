@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051441"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-08
 ---
 
 # Wet van 14 juli 2025 tot wijziging van de Wet educatie en beroepsonderwijs en enkele andere wetten ter bevordering van de kansengelijkheid middels verbetering van de begeleiding naar duurzame economische zelfstandigheid van jongeren met een risico op een afstand tot de arbeidsmarkt (Wet van school naar duurzaam werk)

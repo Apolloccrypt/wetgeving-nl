@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051763"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van 6 november 2025, houdende wijziging van enkele besluiten op het terrein van Justitie en Veiligheid en op het terrein van Asiel en Migratie in verband met aanpassingen van overwegend technische aard (Verzamelbesluit Justitie en Veiligheid en Asiel en Migratie 2026) [KetenID WGK026338]

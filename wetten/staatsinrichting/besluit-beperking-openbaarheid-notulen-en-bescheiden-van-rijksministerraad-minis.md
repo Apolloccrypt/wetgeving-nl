@@ -8,7 +8,7 @@ laatste_update: 2025-11-26
 status: geldig
 toestand: 2025-11-26
 bron: "https://wetten.overheid.nl/BWBR0051836"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit beperking openbaarheid notulen en bescheiden van rijksministerraad, ministerraad, onderraden en ministeriële commissies (1 januari 2000 – 1 januari 2001)

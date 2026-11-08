@@ -9,7 +9,7 @@ laatste_update: 2025-11-13
 status: geldig
 toestand: 2025-11-13
 bron: "https://wetten.overheid.nl/BWBR0051740"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap tot het stellen van beperkingen aan de openbaarheid van archiefbescheiden geborgen in het archief van het Ministerie van Justitie: Centraal Archief van de Bijzondere Rechtspleging (CABR), 1945–1952 (1983) (2.09.09)

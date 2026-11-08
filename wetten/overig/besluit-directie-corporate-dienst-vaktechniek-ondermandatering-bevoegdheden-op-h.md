@@ -9,7 +9,7 @@ laatste_update: 2025-08-30
 status: geldig
 toestand: 2025-08-30
 bron: "https://wetten.overheid.nl/BWBR0051424"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Directeur van de directie Corporate Dienst Vaktechniek van 7 juli 2025 houdende ondermandatering van de bevoegdheden op het terrein van Organisatie en Personeel

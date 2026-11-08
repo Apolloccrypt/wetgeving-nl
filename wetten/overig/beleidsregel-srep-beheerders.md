@@ -9,7 +9,7 @@ laatste_update: 2025-12-17
 status: geldig
 toestand: 2025-12-17
 bron: "https://wetten.overheid.nl/BWBR0051954"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Beleidsregel van De Nederlandsche Bank N.V. van 9 december 2025 inzake de toepassing van de SREP-richtsnoeren op beheerders van beleggingsinstellingen en beheerders van instellingen voor collectieve belegging in effecten (Beleidsregel SREP beheerders)

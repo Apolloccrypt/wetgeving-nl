@@ -8,7 +8,7 @@ laatste_update: 2025-09-18
 status: geldig
 toestand: 2025-09-18
 bron: "https://wetten.overheid.nl/BWBR0051521"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Belastingen, internationale administratieve samenwerking; aanwijzing en mandaatverlening

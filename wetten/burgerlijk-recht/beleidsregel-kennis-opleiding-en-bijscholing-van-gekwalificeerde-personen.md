@@ -9,7 +9,7 @@ laatste_update: 2025-11-27
 status: geldig
 toestand: 2025-11-27
 bron: "https://wetten.overheid.nl/BWBR0051840"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Beleidsregel van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur van 23 november 2025, nr. WJZ/ 44383631, over de benodigde kennis, opleiding en bijscholing van gekwalificeerde personen (Beleidsregel kennis, opleiding en bijscholing van gekwalificeerde personen)

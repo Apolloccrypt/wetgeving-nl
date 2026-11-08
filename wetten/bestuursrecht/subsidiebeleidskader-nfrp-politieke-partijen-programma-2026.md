@@ -9,7 +9,7 @@ laatste_update: 2026-03-14
 status: geldig
 toestand: 2026-03-14
 bron: "https://wetten.overheid.nl/BWBR0051702"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 28 oktober 2025, nr. BZ2521585, tot vaststelling van beleidsregels en een subsidieplafond op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidiebeleidskader NFRP Politieke Partijen Programma 2026)

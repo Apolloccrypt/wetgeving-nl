@@ -9,7 +9,7 @@ laatste_update: 2025-11-27
 status: geldig
 toestand: 2025-11-27
 bron: "https://wetten.overheid.nl/BWBR0051872"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Directeur-Generaal Toeslagen van 2 november 2025 [2025-347007], houdende de verlening van machtiging aan functionarissen van DG Belastingdienst en Uitvoeringsorganisatie Herstel Toeslagen voor het ondertekenen van begeleidingsbrieven bij vaststellingsovereenkomsten in het kader van de Wet hersteloperatie toeslagen (Machtigingsbesluit ondertekenen begeleidingsbrief bij vaststellingsovereenkomsten in het kader van de Wet hersteloperatie toeslagen)

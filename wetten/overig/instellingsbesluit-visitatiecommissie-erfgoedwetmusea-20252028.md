@@ -9,7 +9,7 @@ laatste_update: 2025-11-28
 status: geldig
 toestand: 2025-11-28
 bron: "https://wetten.overheid.nl/BWBR0051869"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 19 november 2025, nr. EenK/54978531, tot instelling van een commissie voor de visitaties van instellingen met een wettelijke taak op grond van artikel 2.8 van de Erfgoedwet (Instellingsbesluit visitatiecommissie Erfgoedwetmusea 2025–2028)

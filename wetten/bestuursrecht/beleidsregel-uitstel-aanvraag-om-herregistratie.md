@@ -8,7 +8,7 @@ laatste_update: 2025-10-27
 status: geldig
 toestand: 2025-10-27
 bron: "https://wetten.overheid.nl/BWBR0051660"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Beleidsregel uitstel aanvraag om herregistratie

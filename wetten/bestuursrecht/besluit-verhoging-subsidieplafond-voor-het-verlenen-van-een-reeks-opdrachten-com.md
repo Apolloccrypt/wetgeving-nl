@@ -8,7 +8,7 @@ laatste_update: 2025-11-27
 status: geldig
 toestand: 2025-11-27
 bron: "https://wetten.overheid.nl/BWBR0051851"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit verhoging subsidieplafond voor het verlenen van een reeks opdrachten compositie en libretto ex Deelregeling composities en libretto’s Fonds Podiumkunsten

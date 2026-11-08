@@ -9,7 +9,7 @@ laatste_update: 2025-11-25
 status: geldig
 toestand: 2025-11-25
 bron: "https://wetten.overheid.nl/BWBR0051814"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de algemeen directeur Mens en Organisatie van 10 november 2025 houdende ondermandatering van de bevoegdheden op het terrein van Organisatie en Personeel

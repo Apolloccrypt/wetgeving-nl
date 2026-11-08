@@ -9,7 +9,7 @@ laatste_update: 2026-02-04
 status: geldig
 toestand: 2026-02-04
 bron: "https://wetten.overheid.nl/BWBR0051679"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Wet van 1 oktober 2025 tot wijziging van de Participatiewet, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers en de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen in verband met het op onderdelen in balans brengen van deze wetten tussen bestaanszekerheid, re-integratie en handhaving (Participatiewet in balans)

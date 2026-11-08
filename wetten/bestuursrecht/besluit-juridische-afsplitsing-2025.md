@@ -8,7 +8,7 @@ laatste_update: 2025-09-25
 status: geldig
 toestand: 2025-09-25
 bron: "https://wetten.overheid.nl/BWBR0051531"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit juridische afsplitsing 2025

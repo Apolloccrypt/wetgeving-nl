@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051634"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Tijdelijke regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 17 september 2025, nr. 2025-0000558699, houdende de gefaseerde inwerkingtreding van de verplichting uit artikel 2:13, eerste lid, van de Algemene wet bestuursrecht (Tijdelijke regeling gefaseerde inwerkingtreding artikel 2:13 Awb) [KetenID: WGK027218]

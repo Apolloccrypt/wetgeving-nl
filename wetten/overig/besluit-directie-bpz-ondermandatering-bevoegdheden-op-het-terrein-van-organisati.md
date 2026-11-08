@@ -9,7 +9,7 @@ laatste_update: 2025-08-29
 status: geldig
 toestand: 2025-08-29
 bron: "https://wetten.overheid.nl/BWBR0051419"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de directeur van de directie BPZ van 30 juni 2025 houdende ondermandatering van de bevoegdheden op het terrein van Organisatie en Personeel

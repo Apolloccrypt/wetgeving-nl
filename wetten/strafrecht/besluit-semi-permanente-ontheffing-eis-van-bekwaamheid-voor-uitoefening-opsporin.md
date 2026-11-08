@@ -9,7 +9,7 @@ laatste_update: 2025-10-03
 status: geldig
 toestand: 2025-10-03
 bron: "https://wetten.overheid.nl/BWBR0051546"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 26 september 2025, nr. 6579825, houdende een semi-permanente ontheffing van de eis van bekwaamheid voor de uitoefening van de opsporingsbevoegdheid van buitengewoon opsporingsambtenaren in dienst van de politie

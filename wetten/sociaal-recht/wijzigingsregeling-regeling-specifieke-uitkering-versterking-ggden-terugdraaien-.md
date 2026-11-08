@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051843"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 18 november 2025, kenmerk 4239287-1089779-IZB, houdende wijziging van de Regeling specifieke uitkering versterking GGD’en in verband met het terugdraaien van de splitsing binnen pijler 5 en het verlengen van de looptijd van de activiteiten voor pijler 1 tot en met pijler 5 [KetenID WGK028495]

@@ -9,7 +9,7 @@ laatste_update: 2025-12-11
 status: geldig
 toestand: 2025-12-11
 bron: "https://wetten.overheid.nl/BWBR0051934"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 19 november 2025, kenmerk 54885137, houdende wijziging van de Gemeenschappelijke regeling Historisch Centrum Overijssel

@@ -9,7 +9,7 @@ laatste_update: 2025-11-19
 status: geldig
 toestand: 2025-11-19
 bron: "https://wetten.overheid.nl/BWBR0051735"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van 27 oktober 2025 tot wijziging van het Besluit prudentiële regels Wft in verband met de implementatie van Verordening (EU) 2024/886 betreffende instantovermakingen in euro’s (Implementatiebesluit verordening instantovermakingen in euro’s)

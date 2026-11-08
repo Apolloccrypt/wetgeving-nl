@@ -8,7 +8,7 @@ laatste_update: 2025-09-12
 status: geldig
 toestand: 2025-09-12
 bron: "https://wetten.overheid.nl/BWBR0051499"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Aanwijzingsbesluit ligplaatsen ‘gemengd afmeren’ Rotterdam 2025

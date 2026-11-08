@@ -9,7 +9,7 @@ laatste_update: 2025-12-10
 status: geldig
 toestand: 2025-12-10
 bron: "https://wetten.overheid.nl/BWBR0051928"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Staatssecretaris van Financiën van 4 december 2025, kenmerk 2025-0000596560, houdende instelling van een externe commissie ter begeleiding van de Periodieke Rapportage Toeslagen

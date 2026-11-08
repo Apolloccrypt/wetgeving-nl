@@ -8,7 +8,7 @@ laatste_update: 2025-11-07
 status: geldig
 toestand: 2025-11-07
 bron: "https://wetten.overheid.nl/BWBR0051715"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit beperking openbaarheid archief Directie Regionale Zaken Zuid van het Ministerie van LNV 2004 – 2011

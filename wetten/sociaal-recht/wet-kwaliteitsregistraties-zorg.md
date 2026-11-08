@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051873"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Wet van 19 november 2025 tot wijziging van de Wet kwaliteit, klachten en geschillen zorg in verband met het regelen van regie op kwaliteitsregistraties in de zorg en grondslagen om ten behoeve van die kwaliteitsregistraties bijzondere persoonsgegevens te kunnen verwerken (Wet kwaliteitsregistraties zorg)

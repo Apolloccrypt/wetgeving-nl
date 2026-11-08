@@ -9,7 +9,7 @@ laatste_update: 2025-08-30
 status: geldig
 toestand: 2025-08-30
 bron: "https://wetten.overheid.nl/BWBR0051436"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de directeur van de directie Uitvoerings- en Handhavingsbeleid van 14 juli 2025 houdende ondermandatering van de bevoegdheden op het terrein van Organisatie en Personeel

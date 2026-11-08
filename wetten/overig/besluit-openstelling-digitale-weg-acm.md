@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0051922"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Autoriteit Consument en Markt van 26 november 2025, tot openstelling van het digitaal bestuurlijk verkeer met de Autoriteit Consument en Markt (Besluit openstelling digitale weg ACM)

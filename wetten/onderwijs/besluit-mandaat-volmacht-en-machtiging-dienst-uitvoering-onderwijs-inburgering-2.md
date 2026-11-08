@@ -9,7 +9,7 @@ laatste_update: 2026-05-21
 status: geldig
 toestand: 2026-05-21
 bron: "https://wetten.overheid.nl/BWBR0051423"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 15 augustus 2025, nr 2025-0000177863, houdende verlening mandaat, volmacht en machtiging aan de Directeur-Generaal van de Dienst Uitvoering Onderwijs ten aanzien van de aangelegenheden die inburgering betreffen

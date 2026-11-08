@@ -8,7 +8,7 @@ laatste_update: 2025-10-23
 status: geldig
 toestand: 2025-10-23
 bron: "https://wetten.overheid.nl/BWBR0051642"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Projectregeling Co-creatie – Gemeenschappen

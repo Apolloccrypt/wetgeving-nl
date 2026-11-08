@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-06-25
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051627"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 7 oktober 2025, nr. PO/FenV/54400275, houdende aanpassing van de bedragen voor bekostiging primair onderwijs voor het kalenderjaar 2026 en het vaststellen van de bedragen voor ondersteuning van leerlingen in het primair en voortgezet onderwijs kalenderjaar 2026 (Regeling bekostiging WPO en WEC 2026)

@@ -9,7 +9,7 @@ laatste_update: 2025-10-21
 status: geldig
 toestand: 2025-10-21
 bron: "https://wetten.overheid.nl/BWBR0051606"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 6 oktober 2025 nr. BOACAT2025/175, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Nijkerk

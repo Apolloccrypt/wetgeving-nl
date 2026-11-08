@@ -8,7 +8,7 @@ laatste_update: 2025-11-05
 status: geldig
 toestand: 2025-11-05
 bron: "https://wetten.overheid.nl/BWBR0051693"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Inkomstenbelasting, vennootschapsbelasting; geruisloze omzetting artikel 3.65 Wet IB 2001; standaardvoorwaarden en toelichting

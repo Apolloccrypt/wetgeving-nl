@@ -9,7 +9,7 @@ laatste_update: 2025-11-05
 status: geldig
 toestand: 2025-11-05
 bron: "https://wetten.overheid.nl/BWBR0051717"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van het College van procureurs-generaal van 11 februari 2025, [PaG / 19951], houdende verlening van ondermandaat en het doorgegeven van volmacht en machtiging ten aanzien van beheeraangelegenheden aan de hoofden van de rijksrecherche (Mandaatbesluit College van procureurs-generaal, beheer rijksrecherche 2025)

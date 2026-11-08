@@ -9,7 +9,7 @@ laatste_update: 2025-11-25
 status: geldig
 toestand: 2025-11-25
 bron: "https://wetten.overheid.nl/BWBR0051818"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Regeling van de Staatssecretaris van Buitenlandse Zaken van 20 november 2025, nr. BZ2520952, houdende intrekking van de Regeling aanvullende controlemaatregelen op de Verordening producten voor tweeërlei gebruik en de wijziging van de Regeling geavanceerde productieapparatuur voor halfgeleiders

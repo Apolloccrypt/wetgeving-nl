@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051966"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van 4 december 2025 tot vaststelling van regels over de berekening en betaling van de specifieke uitkering voor de Doorstroompuntregio’s en de invulling van de loopbaanbegeleiding door onderwijsinstellingen alsmede tot wijziging van diverse besluiten in verband met onder andere de Wet van school naar duurzaam werk (Besluit van school naar duurzaam werk) [KetenID WGK026136]

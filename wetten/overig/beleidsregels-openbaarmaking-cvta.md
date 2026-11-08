@@ -9,7 +9,7 @@ laatste_update: 2025-09-11
 status: geldig
 toestand: 2025-09-11
 bron: "https://wetten.overheid.nl/BWBR0051486"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van het College van Toezicht Auteursrechten van 25 juni 2024 tot vaststelling van beleidsregels inzake openbaarmaking door het CvTA

@@ -8,7 +8,7 @@ laatste_update: 2025-09-10
 status: geldig
 toestand: 2025-09-10
 bron: "https://wetten.overheid.nl/BWBR0051484"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Reglement toekenning Nederlandse Muziekprijs

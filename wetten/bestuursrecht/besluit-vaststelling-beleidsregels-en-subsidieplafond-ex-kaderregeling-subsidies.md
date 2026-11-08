@@ -9,7 +9,7 @@ laatste_update: 2026-01-24
 status: geldig
 toestand: 2026-01-24
 bron: "https://wetten.overheid.nl/BWBR0051699"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 29 oktober 2025, nr. 2025-0000224867, tot vaststelling van beleidsregels en een subsidieplafond op grond van de Kaderregeling subsidies OCW, SZW en VWS (Het Sociaal Innovatiefonds)

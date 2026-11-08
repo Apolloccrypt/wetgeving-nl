@@ -9,7 +9,7 @@ laatste_update: 2025-11-29
 status: geldig
 toestand: 2025-11-29
 bron: "https://wetten.overheid.nl/BWBR0051877"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Staatssecretaris van Buitenlandse Zaken van 21 november 2025, nr. BZ2522326, tot vaststelling van een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 en tot wijziging van het Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 7 april 2023, Min-BuZa.2023.15230, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Vijfde openstelling en wijziging beleidsregels Subsidieprogramma Orange Corners)

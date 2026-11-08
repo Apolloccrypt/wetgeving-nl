@@ -8,7 +8,7 @@ laatste_update: 2025-12-18
 status: geldig
 toestand: 2025-12-18
 bron: "https://wetten.overheid.nl/BWBR0051967"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Regeling verlening mandaat klachtbehandeling niet-registertolken en -vertalers ingezet door de IND

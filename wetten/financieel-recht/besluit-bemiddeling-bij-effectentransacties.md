@@ -9,7 +9,7 @@ laatste_update: 2025-10-16
 status: geldig
 toestand: 2025-10-16
 bron: "https://wetten.overheid.nl/BWBR0051617"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Staatssecretaris van Financiën 10 oktober 2025, nr. 2025-16407, over bemiddeling bij effectentransacties (Besluit bemiddeling bij effectentransacties)

@@ -9,7 +9,7 @@ laatste_update: 2025-09-11
 status: geldig
 toestand: 2025-09-11
 bron: "https://wetten.overheid.nl/BWBR0051467"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de directeur Telefonie, Ondersteuning en Innovatie van de directie KI&S van 1 juli 2025 houdende ondermandatering van de bevoegdheden op het terrein van Organisatie en Personeel

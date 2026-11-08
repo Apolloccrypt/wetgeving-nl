@@ -9,7 +9,7 @@ laatste_update: 2025-09-24
 status: geldig
 toestand: 2025-09-24
 bron: "https://wetten.overheid.nl/BWBR0051519"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 15 september 2025 nr. BOACAT2025/154, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Centraal Justitieel Incasso Bureau, ten behoeve van onderzoek daadwerkelijk bestuurder

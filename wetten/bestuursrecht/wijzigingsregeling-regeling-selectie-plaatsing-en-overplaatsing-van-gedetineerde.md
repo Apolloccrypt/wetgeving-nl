@@ -9,7 +9,7 @@ laatste_update: 2025-11-01
 status: geldig
 toestand: 2025-11-01
 bron: "https://wetten.overheid.nl/BWBR0051595"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Regeling van de Staatssecretaris van Justitie en Veiligheid van 25 september 2025, nr. 5042441 houdende wijziging van de Regeling selectie, plaatsing en overplaatsing van gedetineerden en Regeling tijdelijk verlaten van de inrichting in verband met toevoeging van de afdeling voor intensief toezicht waaronder de plaatsingscriteria en de voorwaarden voor plaatsing

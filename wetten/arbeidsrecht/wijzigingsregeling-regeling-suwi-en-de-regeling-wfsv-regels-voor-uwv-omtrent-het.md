@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051506"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 11 september 2025, nr. 2025-0000169519, houdende de wijziging van de Regeling SUWI en de Regeling Wfsv in verband met regels voor UWV omtrent het hosten van CompetentNL [WKG027465]

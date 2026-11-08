@@ -9,7 +9,7 @@ laatste_update: 2024-09-17
 status: geldig
 toestand: 2024-09-17
 bron: "https://wetten.overheid.nl/BWBR0049639"
-opgehaald: 2026-11-07
+opgehaald: 2026-11-08
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 18 april 2024 met nummer 45451694, houdende wijziging van de Regeling beheer rijkscollectie en subsidiëring museale instellingen in verband met het aanpassen van de beheersubsidies op grond van artikel 7.2 van de Erfgoedwet, alsmede het aanpassen van de subsidies voor publieksactiviteiten en andere activiteiten op grond van artikel 4a van de Wet op het specifiek cultuurbeleid voor de vierjaarlijkse subsidiëring in de periode 2025–2028 alsmede wijziging van de Regeling op het specifiek cultuurbeleid in verband met het verlengen van de termijn voor het indienen van de aanvraag tot vaststelling van subsidie

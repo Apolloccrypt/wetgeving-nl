@@ -9,7 +9,7 @@ laatste_update: 2026-06-26
 status: geldig
 toestand: 2026-06-26
 bron: "https://wetten.overheid.nl/BWBR0051503"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Staatssecretaris van Buitenlandse Zaken van 8 september 2025, nr. BZ2519564 tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieprogramma verantwoord ondernemen MKB 2025–2029)

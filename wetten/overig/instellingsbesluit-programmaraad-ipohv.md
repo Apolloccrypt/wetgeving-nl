@@ -9,7 +9,7 @@ laatste_update: 2025-12-18
 status: geldig
 toestand: 2025-12-18
 bron: "https://wetten.overheid.nl/BWBR0051968"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 8 december 2025 nr. OVO/51885541, houdende instelling van de programmaraad Innovatieprogramma Onderwijshuisvesting (IPOHV) voor de periode 2025 tot en met 2039 (Instellingsbesluit programmaraad IPOHV 2025–2039)

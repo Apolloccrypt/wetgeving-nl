@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051749"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van De Staatssecretaris van Volksgezondheid, Welzijn en Sport van 4 november 2025, kenmerk 4239597-1089797-Z, houdende vaststelling van een aanwijzing voor de besteedbare middelen ter dekking van de beheerskosten Wlz 2026

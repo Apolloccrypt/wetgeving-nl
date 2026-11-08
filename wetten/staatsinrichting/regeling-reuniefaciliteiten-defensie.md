@@ -8,7 +8,7 @@ laatste_update: 2026-07-11
 status: geldig
 toestand: 2026-07-11
 bron: "https://wetten.overheid.nl/BWBR0051894"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Regeling reüniefaciliteiten Defensie

@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051908"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Staatssecretaris van Buitenlandse Zaken van 24 november 2025, nr. BZ2522031, tot aanwijzing van toezichthouders voor de Wet strategische diensten en de Wet uitvoering antiboycotverordening (Besluit aanwijzing toezichthouders buitenlandse handel)

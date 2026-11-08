@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0051547"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Regeling van de Minister van Financiën van 22 september 2025, houdende regels over het financieel beheer van het Rijk (Regeling financieel beheer van het Rijk 2026)

@@ -8,7 +8,7 @@ laatste_update: 2025-10-03
 status: geldig
 toestand: 2025-10-03
 bron: "https://wetten.overheid.nl/BWBR0051558"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Wijzigingsregeling Regeling vergoeding voor overwerk, onregelmatigheid, beschikbaarheid en bereikbaarheid

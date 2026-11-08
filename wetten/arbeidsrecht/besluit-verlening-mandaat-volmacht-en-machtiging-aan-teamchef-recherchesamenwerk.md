@@ -9,7 +9,7 @@ laatste_update: 2025-09-20
 status: geldig
 toestand: 2025-09-20
 bron: "https://wetten.overheid.nl/BWBR0051507"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, van 25 augustus 2025, nr. 2025-0000438212, houdende verlening van mandaat, volmacht en machtiging aan de teamchef van het recherchesamenwerkingsteam in het kader van de Arbeidsvoorwaarden Lokaal Personeel in Aruba, Curaçao en Sint Maarten

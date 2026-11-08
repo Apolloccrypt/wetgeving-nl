@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051509"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 10 september 2025 nr. BOACAT2025/172, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Ministerie van Financiën, Directie DFEI (i.o)

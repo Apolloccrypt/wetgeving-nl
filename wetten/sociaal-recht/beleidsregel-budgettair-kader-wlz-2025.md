@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-06-30
 toestand: 2025-10-30
 bron: "https://wetten.overheid.nl/BWBR0051672"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Beleidsregel budgettair kader Wlz 2025

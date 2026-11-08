@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051838"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 17 november 2025, kenmerk 4240017-1089849-Z, houdende Regeling vaststelling standaardpremie en bestuursrechtelijke premies 2026 [KetenID WGK028492]

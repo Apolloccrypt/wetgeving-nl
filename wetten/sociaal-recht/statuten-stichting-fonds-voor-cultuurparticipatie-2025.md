@@ -8,7 +8,7 @@ laatste_update: 2025-09-02
 status: geldig
 toestand: 2025-09-02
 bron: "https://wetten.overheid.nl/BWBR0051443"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Statuten Stichting Fonds voor Cultuurparticipatie 2025

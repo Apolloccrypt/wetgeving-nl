@@ -9,7 +9,7 @@ laatste_update: 2025-09-16
 status: geldig
 toestand: 2025-09-16
 bron: "https://wetten.overheid.nl/BWBR0051494"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de plaatsvervangend hoofddirecteur van de Concerndirectie Fiscale en Juridische Zaken van 5 september 2025 houdende ondermandatering van de bevoegdheden op het terrein van Organisatie en Personeel

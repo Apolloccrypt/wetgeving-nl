@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051860"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Regeling van De Nederlandsche Bank van 18 november 2025 houdende wijziging van de Rapportagevoorschriften betalingsbalansrapportages 2022

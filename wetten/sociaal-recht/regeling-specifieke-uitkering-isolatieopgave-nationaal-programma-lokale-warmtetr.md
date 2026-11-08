@@ -9,7 +9,7 @@ laatste_update: 2025-11-01
 status: geldig
 toestand: 2025-11-01
 bron: "https://wetten.overheid.nl/BWBR0051686"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Regeling van de Minister van Volkshuisvesting en Ruimtelijke Ordening van 30 oktober 2025, nr. 2025-0000533393, houdende regels met betrekking tot het verstrekken van een specifieke uitkering ten behoeve van de uitvoering van de isolatieopgave binnen de regionale structuur van het Nationaal Programma Lokale Warmtetransitie (Regeling specifieke uitkering isolatieopgave Nationaal Programma Lokale Warmtetransitie) [KetenID WGK 28282]

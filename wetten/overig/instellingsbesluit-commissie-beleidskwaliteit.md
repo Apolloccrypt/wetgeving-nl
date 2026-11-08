@@ -9,7 +9,7 @@ laatste_update: 2025-10-11
 status: geldig
 toestand: 2025-10-11
 bron: "https://wetten.overheid.nl/BWBR0051601"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Minister van Financiën d.d. 26 september 2025, nr. 450191, houdende instelling van de Commissie Beleidskwaliteit Ministerie van Financiën (Instellingsbesluit Commissie Beleidskwaliteit)

@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051971"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 28 november 2025, nr. 2025-0000650840, houdende regels voor de subsidiëring van beroeps- en belangenverenigingen voor het decentraal bestuur (Subsidieregeling beroeps- en belangenverenigingen decentraal bestuur 2026–2030) [KetenID WGK027546]

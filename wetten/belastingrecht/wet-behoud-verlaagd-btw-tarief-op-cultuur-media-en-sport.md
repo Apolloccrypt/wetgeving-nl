@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051729"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Wet van 29 oktober 2025 tot wijziging van het Belastingplan 2025 in verband met het behoud van het verlaagde btw-tarief op cultuur, media en sport en een beperking van de jaarlijkse indexering van een aantal bedragen die gelden voor de inkomstenbelasting of de loonbelasting door middel van het beperkt toepassen van de tabelcorrectiefactor (Wet behoud verlaagd btw-tarief op cultuur, media en sport)

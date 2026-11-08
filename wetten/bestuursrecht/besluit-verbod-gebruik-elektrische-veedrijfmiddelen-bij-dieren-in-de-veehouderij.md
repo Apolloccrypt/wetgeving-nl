@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051975"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van 10 december 2025, houdende wijziging van het Besluit houders van dieren vanwege een verbod op het gebruik van elektrische veedrijfmiddelen bij dieren in de veehouderij (Besluit verbod gebruik elektrische veedrijfmiddelen bij dieren in de veehouderij) [KetenID WGK025475]

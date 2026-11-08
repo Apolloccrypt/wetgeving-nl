@@ -9,7 +9,7 @@ laatste_update: 2025-12-13
 status: geldig
 toestand: 2025-12-13
 bron: "https://wetten.overheid.nl/BWBR0051950"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Beleidsregel Minister van Volksgezondheid, Welzijn en Sport van 4 december 2025, kenmerk 4292751-1091287-MEVA, omtrent de nadere concretisering van de vereisten die gelden om aangewezen te worden als opleidingsinstelling als bedoeld in het Besluit gezondheidszorgpsycholoog

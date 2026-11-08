@@ -9,7 +9,7 @@ laatste_update: 2025-11-07
 status: geldig
 toestand: 2025-11-07
 bron: "https://wetten.overheid.nl/BWBR0051885"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Onderlinge regeling inzake Samen Opleiden en Professionaliseren van Leraren in Opleiding in het Caribisch deel van het Koninkrijk der Nederlanden

@@ -8,7 +8,7 @@ laatste_update: 2025-11-13
 status: geldig
 toestand: 2025-11-13
 bron: "https://wetten.overheid.nl/BWBR0051747"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Subtaak- en ondermandaatbesluit NSA

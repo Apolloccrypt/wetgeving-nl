@@ -9,7 +9,7 @@ laatste_update: 2025-10-04
 status: geldig
 toestand: 2025-10-04
 bron: "https://wetten.overheid.nl/BWBR0051559"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, van 17 september 2025, nr. 2025-0000514186, houdende verlening van mandaat, volmacht en machtiging aan de directeur-generaal Rijksdienst voor Ondernemend Nederland in het kader van de Subsidieregeling Borgstelling MKB-kredieten Aruba, Curaçao en Sint Maarten

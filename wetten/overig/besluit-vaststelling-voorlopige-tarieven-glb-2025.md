@@ -9,7 +9,7 @@ laatste_update: 2025-10-17
 status: geldig
 toestand: 2025-10-17
 bron: "https://wetten.overheid.nl/BWBR0051631"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur van 16 oktober 2025, nr. WJZ/101352621, tot vaststelling van voorlopige tarieven GLB 2025

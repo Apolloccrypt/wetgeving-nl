@@ -9,7 +9,7 @@ laatste_update: 2025-12-05
 status: geldig
 toestand: 2025-12-05
 bron: "https://wetten.overheid.nl/BWBR0051895"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Beleidsregel van de Dienst Wegverkeer (RDW) inzake toepassing van regels van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur op de toetsing van erkenningen (Beleidsregel toetsing erkenningen aan de Wet Bibob)

@@ -9,7 +9,7 @@ laatste_update: 2025-10-08
 status: geldig
 toestand: 2025-10-08
 bron: "https://wetten.overheid.nl/BWBR0051570"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 30 september 2025 nr. BOACAT2025/179, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Eenheid Landelijke Expertise en Operaties of Eenheid Landelijke Opsporing en Interventies, afdeling meldkamer

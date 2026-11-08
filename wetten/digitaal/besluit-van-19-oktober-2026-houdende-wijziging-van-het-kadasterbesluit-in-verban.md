@@ -9,7 +9,7 @@ laatste_update: 2026-10-29
 status: geldig
 toestand: 2026-10-29
 bron: "https://wetten.overheid.nl/BWBR0053253"
-opgehaald: 2026-11-07
+opgehaald: 2026-11-08
 ---
 
 # Besluit van 19 oktober 2026, houdende wijziging van het Kadasterbesluit in verband met een verstrekkingsbeperking op persoonsgegevens via ontsluiting op naam en het stellen van regels voor het afschermen van persoonsgegevens [KetenID WGK026169]

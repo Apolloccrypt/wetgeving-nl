@@ -9,7 +9,7 @@ laatste_update: 2025-10-10
 status: geldig
 toestand: 2025-10-10
 bron: "https://wetten.overheid.nl/BWBR0051589"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 1 oktober 2025, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordiging in Sovjet-Unie/Rusland, ambassade Moskou (1958) 1975–2013 (2017)

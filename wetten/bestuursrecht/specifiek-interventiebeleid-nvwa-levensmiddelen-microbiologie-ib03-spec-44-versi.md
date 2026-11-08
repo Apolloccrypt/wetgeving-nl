@@ -9,7 +9,7 @@ laatste_update: 2025-12-01
 status: geldig
 toestand: 2025-12-01
 bron: "https://wetten.overheid.nl/BWBR0051803"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister van Volksgezondheid, Welzijn en Sport van 10 november 2025 tot vaststelling van het Specifiek interventiebeleid NVWA levensmiddelen microbiologie (IB03-SPEC 44, versie 10)

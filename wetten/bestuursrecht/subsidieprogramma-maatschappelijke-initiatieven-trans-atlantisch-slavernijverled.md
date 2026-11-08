@@ -9,7 +9,7 @@ laatste_update: 2026-06-30
 status: geldig
 toestand: 2026-06-30
 bron: "https://wetten.overheid.nl/BWBR0051778"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 11 november 2025, nr. BZ2521269 tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieprogramma Maatschappelijke initiatieven trans-Atlantisch slavernijverleden voor Suriname 2026–2030)

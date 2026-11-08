@@ -9,7 +9,7 @@ laatste_update: 2025-11-01
 status: geldig
 toestand: 2025-11-01
 bron: "https://wetten.overheid.nl/BWBR0051594"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Regeling van de Staatssecretaris van Justitie en Veiligheid van 25 september 2025, nr. 5460249 houdende vaststelling van het model huisregels voor de afdeling voor intensief toezicht en de extra beveiligde inrichting

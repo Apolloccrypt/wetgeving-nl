@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051582"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van 25 september 2025, houdende regels en nadere regels omtrent de kwaliteit, financiering en gegevensverwerking ten behoeve van kinderopvang in Caribisch Nederland (Besluit kinderopvang BES) [KetenID WGK013827]

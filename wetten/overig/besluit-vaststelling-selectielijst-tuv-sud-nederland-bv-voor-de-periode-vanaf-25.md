@@ -8,7 +8,7 @@ laatste_update: 2025-10-01
 status: geldig
 toestand: 2025-10-01
 bron: "https://wetten.overheid.nl/BWBR0051537"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit vaststelling selectielijst TÜV SÜD Nederland B.V. voor de periode vanaf 25 juli 2000

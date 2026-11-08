@@ -9,7 +9,7 @@ laatste_update: 2025-09-27
 status: geldig
 toestand: 2025-09-27
 bron: "https://wetten.overheid.nl/BWBR0051541"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 16 september 2025, houdende regels over de verstrekking van informatie over het beheer van de politie door de korpschef aan de Minister van Justitie en Veiligheid (Regeling verstrekking beheerinformatie politie 2025)

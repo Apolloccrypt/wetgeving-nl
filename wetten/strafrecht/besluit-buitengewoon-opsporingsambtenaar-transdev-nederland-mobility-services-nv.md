@@ -9,7 +9,7 @@ laatste_update: 2026-01-07
 status: geldig
 toestand: 2026-01-07
 bron: "https://wetten.overheid.nl/BWBR0051762"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 10 november 2025 nr. BOACAT2025/196, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Transdev Nederland Mobility Services N.V.

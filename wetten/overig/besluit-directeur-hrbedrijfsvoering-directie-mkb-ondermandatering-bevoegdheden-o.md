@@ -9,7 +9,7 @@ laatste_update: 2025-08-30
 status: geldig
 toestand: 2025-08-30
 bron: "https://wetten.overheid.nl/BWBR0051430"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Directeur HR/Bedrijfsvoering van de directie MKB van 7 augustus 2025 houdende ondermandatering van de bevoegdheden op het terrein van Organisatie en Personeel

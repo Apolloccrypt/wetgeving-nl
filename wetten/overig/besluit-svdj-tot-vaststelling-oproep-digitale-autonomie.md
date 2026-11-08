@@ -9,7 +9,7 @@ laatste_update: 2025-11-14
 status: geldig
 toestand: 2025-11-14
 bron: "https://wetten.overheid.nl/BWBR0051743"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van het Stimuleringsfonds voor de Journalistiek van 1 oktober 2025, nr. INC003, tot vaststelling van een Oproep Digitale Autonomie

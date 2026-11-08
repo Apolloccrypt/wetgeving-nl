@@ -9,7 +9,7 @@ laatste_update: 2025-09-23
 status: geldig
 toestand: 2025-09-23
 bron: "https://wetten.overheid.nl/BWBR0051517"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 1 augustus 2025, nr. MBO/ 53085098, houdende de aanwijzing van de ‘Branchecode goed bestuur in het mbo 2025’ (Regeling aanwijzing Branchecode goed bestuur in het mbo 2025)

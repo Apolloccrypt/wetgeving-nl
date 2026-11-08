@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051784"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Beleidsregel van de Minister van Volksgezondheid, Welzijn en Sport van 11 november 2025, kenmerk 4248897-1090174-GMT, over de verlening van Opiumontheffingen (Beleidsregel Opiumontheffing 2026)

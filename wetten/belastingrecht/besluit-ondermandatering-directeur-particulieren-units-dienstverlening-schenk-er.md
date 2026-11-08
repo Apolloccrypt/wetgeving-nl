@@ -9,7 +9,7 @@ laatste_update: 2025-11-08
 status: geldig
 toestand: 2025-11-08
 bron: "https://wetten.overheid.nl/BWBR0051721"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de directeur Particulieren units Dienstverlening, Schenk & Erfbelasting, OBK en programma management van de directie Particulieren van 1 september 2025 houdende ondermandatering van de bevoegdheden op het terrein van Organisatie en Personeel

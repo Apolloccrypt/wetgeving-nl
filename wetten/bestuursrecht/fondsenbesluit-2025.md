@@ -9,7 +9,7 @@ laatste_update: 2025-12-03
 status: geldig
 toestand: 2025-12-03
 bron: "https://wetten.overheid.nl/BWBR0051892"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Staatssecretaris van Financiën van 28 november 2025, nr. 2025-23416 over het fonds voor gemene rekening en een transparant fonds (Fondsenbesluit 2025)

@@ -9,7 +9,7 @@ laatste_update: 2025-10-07
 status: geldig
 toestand: 2025-10-07
 bron: "https://wetten.overheid.nl/BWBR0051568"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Staatssecretaris van Financiën van 29 september 2025, nr. 2025-23004 over de maatstaf van heffing voor de omzetbelasting (Besluit maatstaf van heffing omzetbelasting)

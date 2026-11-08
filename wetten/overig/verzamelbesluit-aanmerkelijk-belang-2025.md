@@ -9,7 +9,7 @@ laatste_update: 2025-11-12
 status: geldig
 toestand: 2025-11-12
 bron: "https://wetten.overheid.nl/BWBR0051728"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Staatssecretaris van Financiën van 3 november 2025, nr. 2025-10381 over inkomstenbelasting, aanmerkelijk belang (Verzamelbesluit aanmerkelijk belang 2025)

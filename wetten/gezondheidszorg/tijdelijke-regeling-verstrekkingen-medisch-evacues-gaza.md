@@ -9,7 +9,7 @@ laatste_update: 2025-11-06
 status: geldig
 toestand: 2025-11-06
 bron: "https://wetten.overheid.nl/BWBR0051700"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # HERDRUK Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 3 november 2025, nr. 2025-0000243803, tot het tijdelijk doen van verstrekkingen aan personen in verband met een medische evacuatie uit Gaza (Tijdelijke regeling verstrekkingen medisch evacués Gaza) [KetenID WGK028395]

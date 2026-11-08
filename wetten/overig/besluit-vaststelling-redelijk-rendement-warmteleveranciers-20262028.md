@@ -9,7 +9,7 @@ laatste_update: 2025-11-17
 status: geldig
 toestand: 2025-11-17
 bron: "https://wetten.overheid.nl/BWBR0051804"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit vaststelling redelijk rendement warmteleveranciers 2026–2028 (uitwerking van de methode van het redelijk rendement voor warmteleveranciers over de periode 2026–2028 ten behoeve van de rendementstoets warmte)

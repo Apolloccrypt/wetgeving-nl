@@ -9,7 +9,7 @@ laatste_update: 2025-09-23
 status: geldig
 toestand: 2025-09-23
 bron: "https://wetten.overheid.nl/BWBR0051526"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 28 augustus 2025, nr. 2025-0000425346, houdende regels inzake een bijzondere uitkering in verband met het bevorderen van de digitale dienstverlening door de openbare lichamen Bonaire, Sint Eustatius en Saba (Regeling bijzondere uitkering digitalisering BES) [KetenID WGK26992]

@@ -9,7 +9,7 @@ laatste_update: 2025-10-08
 status: geldig
 toestand: 2025-10-08
 bron: "https://wetten.overheid.nl/BWBR0051593"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Raad van Bestuur van het Fonds Podiumkunsten tot vaststelling van subsidieplafonds en verdeling budget over de landsdelen Deelregeling Programma- en Presentatiebijdrage Fonds Podiumkunsten

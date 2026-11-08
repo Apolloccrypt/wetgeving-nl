@@ -9,7 +9,7 @@ laatste_update: 2025-11-14
 status: geldig
 toestand: 2025-11-14
 bron: "https://wetten.overheid.nl/BWBR0051748"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 4 november 2025, kenmerk 4239603-1089799-Z, houdende vaststelling van een tweede nadere aanwijzing voor de besteedbare middelen ter dekking van de beheerskosten Wlz 2025 (Tweede nadere aanwijzing besteedbare middelen beheerskosten Wlz 2025)

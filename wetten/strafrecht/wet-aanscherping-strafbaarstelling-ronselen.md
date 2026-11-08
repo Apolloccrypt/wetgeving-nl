@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051618"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Wet van 1 oktober 2025, houdende wijziging van de Kieswet in verband met de aanscherping van de strafbaarstelling inzake het ronselen van volmachtstemmen (Wet aanscherping strafbaarstelling ronselen)

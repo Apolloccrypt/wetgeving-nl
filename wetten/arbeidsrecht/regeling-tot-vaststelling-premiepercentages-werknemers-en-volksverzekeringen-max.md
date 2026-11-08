@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051937"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 2 december 2025, nr. 2025-0000276298, houdende de vaststelling premiepercentages werknemers- en volksverzekeringen, maximumpremieloon werknemersverzekeringen en opslag kinderopvangtoeslag 2026 [KetenID WGK028361]

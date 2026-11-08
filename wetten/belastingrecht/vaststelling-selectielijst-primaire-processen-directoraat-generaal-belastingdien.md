@@ -8,7 +8,7 @@ laatste_update: 2025-09-18
 status: geldig
 toestand: 2025-09-18
 bron: "https://wetten.overheid.nl/BWBR0051489"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Vaststelling selectielijst primaire processen Directoraat-Generaal Belastingdienst vanaf (2009) 2023

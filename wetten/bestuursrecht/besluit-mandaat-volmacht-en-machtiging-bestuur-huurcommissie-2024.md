@@ -9,7 +9,7 @@ laatste_update: 2025-12-03
 status: geldig
 toestand: 2025-12-03
 bron: "https://wetten.overheid.nl/BWBR0051890"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Minister van Volkshuisvesting en Ruimtelijke Ordening, van 20 augustus 2025, nr. 2025-0000493616, houdende de verlening van mandaat, volmacht en machtiging aan het bestuur van de Huurcommissie ten aanzien van de administratieve ondersteuning van de huurcommissie (Besluit mandaat, volmacht en machtiging bestuur huurcommissie 2024)

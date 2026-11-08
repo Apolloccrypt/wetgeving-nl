@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051569"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Regeling van de Minister van Financiën van 23 september 2025, houdende regels over de begroting en de verantwoording van het Rijk voor het jaar 2026 en de door de Minister van Financiën vast te stellen bedragen (Regeling rijksbegrotingsvoorschriften 2026)

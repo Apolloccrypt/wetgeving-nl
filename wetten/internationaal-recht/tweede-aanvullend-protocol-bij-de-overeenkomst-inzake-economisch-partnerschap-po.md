@@ -8,7 +8,7 @@ laatste_update: 2008-03-01
 status: geldig
 toestand: 2008-03-01
 bron: "https://wetten.overheid.nl/BWBV0002727"
-opgehaald: 2026-11-07
+opgehaald: 2026-11-08
 ---
 
 # Tweede Aanvullend Protocol bij de Overeenkomst inzake economisch partnerschap, politieke coördinatie en samenwerking tussen de Europese Gemeenschap en haar Lidstaten, enerzijds, en de Verenigde Mexicaanse Staten, anderzijds, om rekening te houden met de toetreding van de Republiek Bulgarije en Roemenië tot de Europese Unie

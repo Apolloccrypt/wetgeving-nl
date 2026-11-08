@@ -9,7 +9,7 @@ laatste_update: 2026-06-26
 status: geldig
 toestand: 2026-06-26
 bron: "https://wetten.overheid.nl/BWBR0051616"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 7 oktober 2025, nr. PO/F&V/54397891, houdende regels voor de bekostiging van het primair onderwijs in Caribisch Nederland voor het kalenderjaar 2026 (Regeling bekostiging WPO BES 2026)

@@ -9,7 +9,7 @@ laatste_update: 2025-10-02
 status: geldig
 toestand: 2025-10-02
 bron: "https://wetten.overheid.nl/BWBR0051550"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Minister van Economische Zaken van 30 september 2025 nr. WJZ/101233925, tot aanwijzing van toezichthoudende ambtenaren op grond van de Wet beschikbaarheid goederen (Aanwijzingsbesluit toezichthoudende ambtenaren Wet beschikbaarheid goederen)

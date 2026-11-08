@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051624"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Beleidsregel van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 21 september 2025, nr. 2025-0000539215, omtrent de goedkeuringsprocedure die de Kieswet voorschrijft (Beleidsregel goedkeuringsprocedure regelingen Kiesraad)

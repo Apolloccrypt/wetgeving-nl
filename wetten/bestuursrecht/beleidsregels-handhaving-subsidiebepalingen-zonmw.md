@@ -9,7 +9,7 @@ laatste_update: 2025-09-03
 status: geldig
 toestand: 2025-09-03
 bron: "https://wetten.overheid.nl/BWBR0051442"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-08
 ---
 
 # Besluit van het bestuur van ZonMw van 27 augustus 2025, houdende vaststelling van de Beleidsregels handhaving subsidiebepalingen ZonMw in verband met het verlagen van de subsidievaststelling bij het niet tijdig voldoen aan de aanlevering van de controle- of Sisa-verklaring en het ontbreken van een goedkeurende accountantsverklaring

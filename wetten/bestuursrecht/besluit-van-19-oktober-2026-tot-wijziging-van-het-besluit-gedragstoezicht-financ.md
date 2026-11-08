@@ -9,7 +9,7 @@ laatste_update: 2026-10-30
 status: geldig
 toestand: 2026-10-30
 bron: "https://wetten.overheid.nl/BWBR0053268"
-opgehaald: 2026-11-07
+opgehaald: 2026-11-08
 ---
 
 # Besluit van 19 oktober 2026 tot wijziging van het Besluit Gedragstoezicht financiële ondernemingen Wft, het Besluit openbare biedingen Wft, het Besluit prudentiële regels Wft, het Besluit bestuurlijke boetes financiële sector en het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling (Besluit implementatie Europees centraal toegangspunt) [KetenID WGK26632]

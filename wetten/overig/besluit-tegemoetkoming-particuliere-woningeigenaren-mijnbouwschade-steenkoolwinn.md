@@ -9,7 +9,7 @@ laatste_update: 2025-12-22
 status: geldig
 toestand: 2025-12-22
 bron: "https://wetten.overheid.nl/BWBR0051623"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Minister van Klimaat en Groene Groei van 11 oktober 2025, nr. WJZ/101291496, over de verstrekking van een tegemoetkoming voor schade aan particuliere woningeigenaren door bodembeweging als gevolg van de voormalige steenkoolwinning in Limburg (Besluit tegemoetkoming particuliere woningeigenaren mijnbouwschade steenkoolwinning Limburg)

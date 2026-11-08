@@ -9,7 +9,7 @@ laatste_update: 2025-12-01
 status: geldig
 toestand: 2025-12-01
 bron: "https://wetten.overheid.nl/BWBR0051768"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat van 14 november 2025, nr. IENW/BSK-2025/280122, houdende wijziging van de Regeling aanwijzing consumentenvuurwerk in verband met herstel van een omissie [KetenID WGK028388]

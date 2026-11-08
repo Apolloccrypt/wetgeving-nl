@@ -9,7 +9,7 @@ laatste_update: 2025-11-19
 status: geldig
 toestand: 2025-11-19
 bron: "https://wetten.overheid.nl/BWBR0051765"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 10 november 2025 nr. BOACAT2025/186, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Oss.

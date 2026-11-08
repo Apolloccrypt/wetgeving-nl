@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051756"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van 10 november 2025 tot vaststelling subsidieplafonds voor literair vertalers 2026 en de inkomensgrens Stichting Nederlands Letterenfonds

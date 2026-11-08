@@ -9,7 +9,7 @@ laatste_update: 2025-12-18
 status: geldig
 toestand: 2025-12-18
 bron: "https://wetten.overheid.nl/BWBR0051974"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Regeling van het bestuur van de Raad voor Rechtsbijstand van 28 mei 2025 betreffende de archiefbeheersregels voor de Raad voor Rechtsbijstand

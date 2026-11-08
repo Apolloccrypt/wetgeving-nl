@@ -9,7 +9,7 @@ laatste_update: 2025-10-09
 status: geldig
 toestand: 2025-10-09
 bron: "https://wetten.overheid.nl/BWBR0051578"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat van 7 oktober 2025, nr. IENW/BSK-2025/238367, houdende vaststelling van tijdelijke regels ter stimulering van de opschaling van watertechnologische innovaties voor testen in een pilotomgeving (Tijdelijke Subsidieregeling stimulering opschaling watertechnologische innovaties voor testen in een pilotomgeving)

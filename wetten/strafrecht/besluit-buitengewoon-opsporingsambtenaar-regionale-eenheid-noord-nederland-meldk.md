@@ -9,7 +9,7 @@ laatste_update: 2025-10-01
 status: geldig
 toestand: 2025-10-01
 bron: "https://wetten.overheid.nl/BWBR0051542"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 23 september 2025 nr. BOACAT2025/177, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij regionale eenheid Noord-Nederland, afdeling meldkamer

@@ -9,7 +9,7 @@ laatste_update: 2025-10-04
 status: geldig
 toestand: 2025-10-04
 bron: "https://wetten.overheid.nl/BWBR0051566"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 2 oktober 2025, nr. 6707255, houdende toestemming tot het verstrekken van justitiële gegevens aan De Nederlandsche Bank N.V. en de Stichting Autoriteit Financiële Markten ten behoeve van het vaststellen van de betrouwbaarheid van specifieke personen in de financiële sector (Machtigingsbesluit verstrekking justitiële gegevens beoordeling betrouwbaarheid van specifieke personen in de financiële sector)

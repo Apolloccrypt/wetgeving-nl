@@ -9,7 +9,7 @@ laatste_update: 2025-09-23
 status: geldig
 toestand: 2025-09-23
 bron: "https://wetten.overheid.nl/BWBR0051529"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van 15 september 2025, houdende Wijziging van het Besluit algemene rechtspositie politie, Besluit bezoldiging politie en het Besluit reis-, verblijf-, en verhuiskosten politie in verband met de formalisering van de afspraak over anders roosteren uit het arbeidsvoorwaardenakkoord sector Politie 2022–2024, de afspraak over een overbruggingsregeling voor vervroegd uittreden uit het onderhandelaarsakkoord sector Politie van 9 oktober 2024, alsmede enkele andere wijzigingen van ondergeschikte aard (Verzamelbesluit rechtspositie politie 2025) [KetenID WGK028000]

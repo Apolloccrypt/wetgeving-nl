@@ -9,7 +9,7 @@ laatste_update: 2025-09-17
 status: geldig
 toestand: 2025-09-17
 bron: "https://wetten.overheid.nl/BWBR0051511"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Wet van 14 juli 2025 tot wijziging van de Wet milieubeheer, de Wet havenstaatcontrole, de Wet voorkoming verontreiniging door schepen en de Wet luchtvaart ten behoeve van de implementatie van Verordening (EU) 2023/1805 van het Europees Parlement en de Raad van 13 september 2023 betreffende het gebruik van hernieuwbare en koolstofarme brandstoffen in het zeevervoer, en tot wijziging van Richtlijn 2009/16/EG (PbEU 2023, L 234) en ten behoeve van de implementatie van Verordening (EU) 2023/2405 van het Europees Parlement en de Raad van 18 oktober 2023 inzake het waarborgen van een gelijk speelveld voor duurzaam luchtvervoer (ReFuelEU Luchtvaart) (PbEU 2023, L 2023/2405) en enkele aanpassingen van een ondergeschikte aard (Uitvoeringswet FuelEU Maritiem en ReFuelEU Luchtvaart)

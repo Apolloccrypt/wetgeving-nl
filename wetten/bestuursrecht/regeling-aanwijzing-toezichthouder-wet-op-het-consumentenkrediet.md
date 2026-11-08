@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051878"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 20 november 2025, nr. 2025-0000260698, tot aanwijzing van toezichthouders van de Dienst Financieel-Economische Integriteit voor het toezicht op de artikelen 47 en 48 van de Wet op het consumentenkrediet (Regeling aanwijzing toezichthouder Wet op het consumentenkrediet) [KetenID WGK028533]

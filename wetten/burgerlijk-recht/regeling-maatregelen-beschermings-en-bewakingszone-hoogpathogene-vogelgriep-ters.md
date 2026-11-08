@@ -9,7 +9,7 @@ laatste_update: 2025-11-17
 status: geldig
 toestand: 2025-11-17
 bron: "https://wetten.overheid.nl/BWBR0051791"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Regeling van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur van 17 november 2025, nr. WJZ/102500586, houdende specifieke maatregelen in de beschermings- en de bewakingszone in verband met de bestrijding van hoogpathogene aviaire influenza in Terschuur (Regeling maatregelen beschermings- en bewakingszone hoogpathogene vogelgriep Terschuur 2025)

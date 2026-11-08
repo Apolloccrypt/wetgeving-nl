@@ -9,7 +9,7 @@ laatste_update: 2025-11-19
 status: geldig
 toestand: 2025-11-19
 bron: "https://wetten.overheid.nl/BWBR0051767"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Wet van 1 oktober 2025 tot wijziging van de Faillissementswet en de Wet op het financieel toezicht ter implementatie van Verordening 2024/886 betreffende instantovermakingen in euro’s (Implementatiewet verordening instantovermakingen in euro’s)

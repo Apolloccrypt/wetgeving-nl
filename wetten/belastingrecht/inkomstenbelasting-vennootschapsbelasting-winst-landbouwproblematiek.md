@@ -8,7 +8,7 @@ laatste_update: 2025-11-15
 status: geldig
 toestand: 2025-11-15
 bron: "https://wetten.overheid.nl/BWBR0051755"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Inkomstenbelasting, vennootschapsbelasting, winst; landbouwproblematiek

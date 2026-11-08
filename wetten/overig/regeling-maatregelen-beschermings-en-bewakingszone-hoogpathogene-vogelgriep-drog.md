@@ -9,7 +9,7 @@ laatste_update: 2025-11-14
 status: geldig
 toestand: 2025-11-14
 bron: "https://wetten.overheid.nl/BWBR0051776"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Regeling van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur van 14 november 2025, nr. WJZ/102459732, houdende specifieke maatregelen in de beschermings- en de bewakingszone in verband met de bestrijding van hoogpathogene aviaire influenza in Drogeham (Regeling maatregelen beschermings- en bewakingszone hoogpathogene vogelgriep Drogeham II 2025)

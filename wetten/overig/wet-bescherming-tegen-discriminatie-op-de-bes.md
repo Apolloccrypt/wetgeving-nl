@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051827"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Wet van 8 oktober 2025, houdende regels over onafhankelijke bijstand en individuele oordeelsvorming bij discriminatie en tot wijziging van de Algemene wet gelijke behandeling en enige andere wetten in verband met de invoering van regels inzake gelijke behandeling in Bonaire, Sint Eustatius en Saba (Wet bescherming tegen discriminatie op de BES)

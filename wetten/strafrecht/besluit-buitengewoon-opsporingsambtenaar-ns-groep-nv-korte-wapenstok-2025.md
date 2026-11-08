@@ -9,7 +9,7 @@ laatste_update: 2025-10-25
 status: geldig
 toestand: 2025-10-25
 bron: "https://wetten.overheid.nl/BWBR0051645"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 17 oktober 2025 nr. BOACAT2025/147, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij NS Groep N.V.

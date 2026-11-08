@@ -9,7 +9,7 @@ laatste_update: 2025-11-05
 status: geldig
 toestand: 2025-11-05
 bron: "https://wetten.overheid.nl/BWBR0051899"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 2 oktober 2025, nr 54106451, houdende wijziging van de Gemeenschappelijke regeling Brabants Historisch Informatie Centrum

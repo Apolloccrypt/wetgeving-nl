@@ -9,7 +9,7 @@ laatste_update: 2025-11-06
 status: geldig
 toestand: 2025-11-06
 bron: "https://wetten.overheid.nl/BWBR0051709"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit verrekening buitenlandse heffing van een afgezonderdparticulier vermogen in verdragssituaties

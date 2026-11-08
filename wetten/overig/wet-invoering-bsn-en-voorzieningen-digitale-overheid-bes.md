@@ -9,7 +9,7 @@ laatste_update: 2025-11-11
 status: geldig
 toestand: 2025-11-11
 bron: "https://wetten.overheid.nl/BWBR0051725"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Wet van 1 oktober 2025, houdende wijziging van diverse wetten in verband met het invoeren van het burgerservicenummer en de voorzieningen van de digitale overheid in de openbare lichamen Bonaire, Sint Eustatius en Saba (Wet invoering BSN en voorzieningen digitale overheid BES)

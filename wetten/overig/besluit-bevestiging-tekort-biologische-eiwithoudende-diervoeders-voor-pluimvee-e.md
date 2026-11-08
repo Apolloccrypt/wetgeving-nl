@@ -9,7 +9,7 @@ laatste_update: 2025-12-13
 status: geldig
 toestand: 2025-12-13
 bron: "https://wetten.overheid.nl/BWBR0051949"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Minister van Landbouw, Voedselzekerheid, Visserij en Natuur van 8 december 2025, nr. DGA / 99372308 ter bevestiging van het tekort biologische eiwithoudende diervoeders voor pluimvee en varkens in 2024 en 2025

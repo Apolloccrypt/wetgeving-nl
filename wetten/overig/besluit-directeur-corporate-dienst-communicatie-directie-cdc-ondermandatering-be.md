@@ -9,7 +9,7 @@ laatste_update: 2025-09-11
 status: geldig
 toestand: 2025-09-11
 bron: "https://wetten.overheid.nl/BWBR0051465"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de directeur Corporate Dienst Communicatie (CDC) van de directie CDC van 12 augustus 2025 houdende ondermandatering van de bevoegdheden op het terrein van Organisatie en Personeel

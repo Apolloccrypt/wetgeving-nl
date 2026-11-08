@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051884"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Regeling van het bestuur van de Dienst voor het kadaster en de openbare registers tot vaststelling van de Tarievenregeling Kadaster BES 2026

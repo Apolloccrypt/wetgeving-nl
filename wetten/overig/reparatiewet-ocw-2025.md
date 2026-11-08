@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051640"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Wet van 1 oktober 2025, houdende Wijziging van wetten op het terrein van onderwijs, cultuur en wetenschap in verband met het repareren van wetstechnische en redactionele vergissingen en verschrijvingen (Reparatiewet OCW 2025)

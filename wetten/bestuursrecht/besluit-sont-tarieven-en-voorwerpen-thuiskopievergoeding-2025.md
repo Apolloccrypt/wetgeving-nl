@@ -8,7 +8,7 @@ laatste_update: 2024-10-08
 status: geldig
 toestand: 2024-10-08
 bron: "https://wetten.overheid.nl/BWBR0051525"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit SONT tarieven en voorwerpen thuiskopievergoeding 2025

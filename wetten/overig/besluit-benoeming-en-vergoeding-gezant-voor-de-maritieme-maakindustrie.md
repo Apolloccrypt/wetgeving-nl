@@ -9,7 +9,7 @@ laatste_update: 2025-09-26
 status: geldig
 toestand: 2025-09-26
 bron: "https://wetten.overheid.nl/BWBR0051543"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Minister van Economische Zaken van 18 september 2025, kenmerk DGBI-TOP / 100647940, houdende benoeming en vergoeding van gezant voor de maritieme maakindustrie

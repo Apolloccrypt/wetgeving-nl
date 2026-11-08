@@ -8,7 +8,7 @@ laatste_update: 2025-12-01
 status: geldig
 toestand: 2025-12-01
 bron: "https://wetten.overheid.nl/BWBR0051746"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Specifiek interventiebeleid NVWA diergeneesmiddelen (IB03-SPEC 03, versie 10)

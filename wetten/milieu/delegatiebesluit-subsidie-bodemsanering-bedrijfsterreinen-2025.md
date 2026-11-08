@@ -9,7 +9,7 @@ laatste_update: 2025-12-04
 status: geldig
 toestand: 2025-12-04
 bron: "https://wetten.overheid.nl/BWBR0051893"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Waterstaat van 1 december 2025, nr. IENW/BSK-2025/292324, tot het overdragen van de bevoegdheid tot het verstrekken van subsidie ten behoeve van de sanering van bedrijfsterreinen voor de toepassing van het Besluit financiële bepalingen bodemsanering (Delegatiebesluit subsidie bodemsanering bedrijfsterreinen 2025)

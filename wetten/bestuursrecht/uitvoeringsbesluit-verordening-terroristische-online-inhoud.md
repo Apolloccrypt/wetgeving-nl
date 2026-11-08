@@ -9,7 +9,7 @@ laatste_update: 2025-09-05
 status: geldig
 toestand: 2025-09-05
 bron: "https://wetten.overheid.nl/BWBR0051455"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van 30 augustus 2025, houdende regels voor de openbaar te maken gegevens in geval van openbaarmaking van boetebesluiten van de Autoriteit Online Terroristisch en Kinderpornografisch Materiaal, wijziging van het Besluit politiegegevens met het oog op het introduceren van een grondslag voor gegevensdeling door de politie, alsmede vaststelling van het tijdstip van inwerkingtreding van de artikelen 13 en 16 van de Uitvoeringswet verordening terroristische online-inhoud (Uitvoeringsbesluit verordening terroristische online-inhoud) [KetenID WGK027198]

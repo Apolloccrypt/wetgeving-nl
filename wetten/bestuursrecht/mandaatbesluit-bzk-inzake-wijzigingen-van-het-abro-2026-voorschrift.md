@@ -8,7 +8,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051923"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Mandaatbesluit BZK inzake wijzigingen van het ABRO 2026 voorschrift

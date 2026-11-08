@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-07-15
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051662"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Beleidsregel prestatiebeschrijvingen en tarieven gespecialiseerde zorg Wlz 2026

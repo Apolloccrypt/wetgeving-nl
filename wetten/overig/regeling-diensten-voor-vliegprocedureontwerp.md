@@ -9,7 +9,7 @@ laatste_update: 2025-10-23
 status: geldig
 toestand: 2025-10-23
 bron: "https://wetten.overheid.nl/BWBR0051643"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat van 21 oktober 2025, nr. IENW/BSK-2025/119810, houdende vaststelling van regels voor het verlenen van diensten voor het ontwerpen van vliegprocedures (Regeling diensten voor vliegprocedureontwerp) [KetenID WGK027445]

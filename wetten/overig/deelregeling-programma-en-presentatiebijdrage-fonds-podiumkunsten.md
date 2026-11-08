@@ -9,7 +9,7 @@ laatste_update: 2026-01-31
 status: geldig
 toestand: 2026-01-31
 bron: "https://wetten.overheid.nl/BWBR0051544"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Deelregeling van het bestuur van het Fonds Podiumkunsten van 20 juni 2025, inhoudende regels voor het programmeren van divers en toegankelijk podiumkunstenaanbod in Nederland en het Caribisch deel van het Koninkrijk

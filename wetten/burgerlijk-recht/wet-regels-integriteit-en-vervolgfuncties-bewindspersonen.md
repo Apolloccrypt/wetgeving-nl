@@ -9,7 +9,7 @@ laatste_update: 2026-02-20
 status: geldig
 toestand: 2026-02-20
 bron: "https://wetten.overheid.nl/BWBR0051611"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Wet van 1 oktober 2025, houdende invoering van regels met betrekking tot de integriteit en het loopbaanvervolg van bewindspersonen, alsmede een tweetal wijzigingen van de Wet adviescollege rechtspositie politieke ambtsdragers (Wet regels integriteit en vervolgfuncties bewindspersonen)

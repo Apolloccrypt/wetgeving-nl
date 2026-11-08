@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051793"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Beschikking van de Staatssecretaris van Justitie en Veiligheid, van 13 november 2025, nr. 6855335 Directie Wetgeving en Juridische Zaken, tot vaststelling van het percentage waarmee de bedragen voor levensonderhoud met ingang van 1 januari 2026 worden verhoogd (Beschikking wijzigingspercentage levensonderhoud 2026)

@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051788"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur houdende inwilliging AVV-verzoek Programma Onderzoek en Innovatie Kennis in je Kas 2026–2027 brancheorganisatie G&F Nederland

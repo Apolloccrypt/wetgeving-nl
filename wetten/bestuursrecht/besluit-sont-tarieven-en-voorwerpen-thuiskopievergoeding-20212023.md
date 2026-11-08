@@ -8,7 +8,7 @@ laatste_update: 2020-10-16
 status: geldig
 toestand: 2020-10-16
 bron: "https://wetten.overheid.nl/BWBR0051523"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit SONT tarieven en voorwerpen thuiskopievergoeding 2021–2023

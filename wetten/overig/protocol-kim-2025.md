@@ -9,7 +9,7 @@ laatste_update: 2025-11-29
 status: geldig
 toestand: 2025-11-29
 bron: "https://wetten.overheid.nl/BWBR0051881"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat van 25 november 2025, nr. IENW/BSK-2025/284535, houdende vaststelling van het Protocol inzake de beheers- en beleidsmatige positie van het Kennisinstituut voor Mobiliteitsbeleid (Protocol KiM 2025)

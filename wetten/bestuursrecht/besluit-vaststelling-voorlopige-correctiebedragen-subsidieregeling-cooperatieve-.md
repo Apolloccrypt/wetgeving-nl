@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051687"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Minister van Klimaat en Groene Groei van 25 oktober 2025, nr. WJZ/101444591, tot vaststelling van de correcties voor de voorschotverlening coöperatieve energieopwekking 2026 (Besluit vaststelling voorlopige correctiebedragen Subsidieregeling coöperatieve energieopwekking 2026) [KetenID 28331]

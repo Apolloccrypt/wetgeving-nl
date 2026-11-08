@@ -9,7 +9,7 @@ laatste_update: 2025-09-12
 status: geldig
 toestand: 2025-09-12
 bron: "https://wetten.overheid.nl/BWBR0051493"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de directeur-generaal Dienst Uitvoering Onderwijs van 27 augustus 2025, nr. DUO/HD.I.025.119, houdende de vaststelling van het Besluit ondermandaat, volmacht en machtiging DUO 2025 (Besluit ondermandaat, volmacht en machtiging DUO 2025)

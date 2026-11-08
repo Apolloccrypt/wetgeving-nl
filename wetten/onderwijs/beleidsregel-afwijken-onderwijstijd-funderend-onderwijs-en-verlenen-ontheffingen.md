@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051659"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Beleidsregel van de Inspecteur-Generaal van het onderwijs van 15 oktober 2025, nr. 51880053, houdende regels over het instemmen met afwijking van het verplichte minimum aantal uren onderwijstijd in de WPO, WEC en WVO 2020 alsmede het verlenen van ontheffing voor de toelatingsleeftijd en het uitschrijven van een 20+ leerling als bedoeld in de WEC en ontheffing voor de duur van de stage als bedoeld in het Onderwijskundig besluit WEC (Beleidsregel afwijken onderwijstijd funderend onderwijs en verlenen ontheffingen WEC 2025)

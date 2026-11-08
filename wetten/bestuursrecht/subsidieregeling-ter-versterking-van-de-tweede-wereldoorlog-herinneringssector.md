@@ -9,7 +9,7 @@ laatste_update: 2026-04-29
 status: geldig
 toestand: 2026-04-29
 bron: "https://wetten.overheid.nl/BWBR0051488"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport, van 3 september 2025, kenmerk 4196411-1086983-DMO, houdende regels voor het subsidiëren van activiteiten ter versterking van de Tweede Wereldoorlog herinneringssector (Subsidieregeling ter versterking van de Tweede Wereldoorlog herinneringssector) [KetenID WGK027850]

@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051744"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport, van 21 oktober 2025, kenmerk 4210318-1086143-Z, houdende de aanwijzing van de zorgkantoren 2026

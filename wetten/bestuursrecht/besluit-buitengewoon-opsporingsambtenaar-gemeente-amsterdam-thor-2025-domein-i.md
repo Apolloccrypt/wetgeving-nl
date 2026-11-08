@@ -9,7 +9,7 @@ laatste_update: 2025-12-11
 status: geldig
 toestand: 2025-12-11
 bron: "https://wetten.overheid.nl/BWBR0051690"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 27 oktober 2025 nr. BOACAT2025/187, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Amsterdam THOR

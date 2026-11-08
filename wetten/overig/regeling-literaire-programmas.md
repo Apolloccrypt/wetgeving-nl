@@ -8,7 +8,7 @@ laatste_update: 2025-12-09
 status: geldig
 toestand: 2025-12-09
 bron: "https://wetten.overheid.nl/BWBR0051906"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Regeling literaire programma’s

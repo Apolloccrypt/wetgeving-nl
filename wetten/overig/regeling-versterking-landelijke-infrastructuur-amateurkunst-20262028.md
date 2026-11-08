@@ -8,7 +8,7 @@ laatste_update: 2025-12-16
 status: geldig
 toestand: 2025-12-16
 bron: "https://wetten.overheid.nl/BWBR0051961"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Regeling Versterking landelijke infrastructuur amateurkunst 2026–2028

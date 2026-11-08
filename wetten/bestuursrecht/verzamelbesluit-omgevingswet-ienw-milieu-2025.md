@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051527"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van 4 september 2025 tot wijziging van het Besluit activiteiten leefomgeving, het Besluit bouwwerken leefomgeving, het Besluit kwaliteit leefomgeving, het Omgevingsbesluit, het Invoeringsbesluit Omgevingswet, het Asbestverwijderingsbesluit 2005, het Besluit administratieve bepalingen inzake het wegverkeer, het Besluit veiligheidsregio’s en het Besluit stortplaatsen en stortverboden afvalstoffen (Verzamelbesluit Omgevingswet IenW milieu 2025) [Ketenid WGK025523]

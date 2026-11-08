@@ -9,7 +9,7 @@ laatste_update: 2025-12-12
 status: geldig
 toestand: 2025-12-12
 bron: "https://wetten.overheid.nl/BWBR0051948"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van 4 december 2025 tot wijziging van enige uitvoeringsbesluiten op het gebied van de belastingen (Fiscaal verzamelbesluit 2025)

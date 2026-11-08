@@ -9,7 +9,7 @@ laatste_update: 2025-11-08
 status: geldig
 toestand: 2025-11-08
 bron: "https://wetten.overheid.nl/BWBR0051716"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 28 oktober 2025 nr. 54606746, houdende vaststelling van de peildatum voor de telling van het aantal leden van de omroeporganisaties voor de erkenningperiode 2029–2033

@@ -8,7 +8,7 @@ laatste_update: 2025-10-05
 status: geldig
 toestand: 2025-10-05
 bron: "https://wetten.overheid.nl/BWBR0051556"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit vaststelling voorschrift inrichting en gebruik van schietinrichtingen 2025

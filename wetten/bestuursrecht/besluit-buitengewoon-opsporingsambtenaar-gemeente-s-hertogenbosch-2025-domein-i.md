@@ -9,7 +9,7 @@ laatste_update: 2026-02-19
 status: geldig
 toestand: 2026-02-19
 bron: "https://wetten.overheid.nl/BWBR0051711"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 28 oktober 2025 nr. BOACAT2025/190, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente 's-Hertogenbosch

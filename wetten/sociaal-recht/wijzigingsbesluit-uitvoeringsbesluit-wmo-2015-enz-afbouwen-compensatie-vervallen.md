@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051562"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van 24 september 2025, houdende wijziging van het Uitvoeringsbesluit Wmo 2015 en het Besluit langdurige zorg in verband met het afbouwen van de compensatie vervallen ouderentoeslag en het afschaffen van de extra vermogensvrijstelling [KetenID WGK026946]

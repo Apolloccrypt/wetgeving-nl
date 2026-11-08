@@ -9,7 +9,7 @@ laatste_update: 2025-11-06
 status: geldig
 toestand: 2025-11-06
 bron: "https://wetten.overheid.nl/BWBR0051722"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit tot het stellen van beperkingen aan de openbaarheid van het archief van het Ministerie van Justitie, Gratiebeleid en uitvoering, (1827) 1947–1988 (1998), toegangsnummer 2.09.116

@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051771"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Nadere voorschriften van 4 november 2025, houdende regels voor de permanente educatie van accountants (Nadere voorschriften permanente educatie 2026)

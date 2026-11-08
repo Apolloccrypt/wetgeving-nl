@@ -9,7 +9,7 @@ laatste_update: 2025-12-10
 status: geldig
 toestand: 2025-12-10
 bron: "https://wetten.overheid.nl/BWBR0051935"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Minister van Volkshuisvesting en Ruimtelijke Ordening van 5 november 2025, nr. 2025-0000034685, houdende de aanwijzing van de Functionaris voor gegevensbescherming voor de AVG en van de plaatsvervangend Functionaris voor gegevensbescherming voor de AVG bij het Ministerie van Volkshuisvesting en Ruimtelijke Ordening

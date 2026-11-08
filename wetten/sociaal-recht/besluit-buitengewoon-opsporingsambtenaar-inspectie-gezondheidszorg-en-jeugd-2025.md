@@ -9,7 +9,7 @@ laatste_update: 2026-01-14
 status: geldig
 toestand: 2026-01-14
 bron: "https://wetten.overheid.nl/BWBR0051448"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 29 augustus 2025 nr. BOACAT2025/168, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Inspectie Gezondheidszorg en Jeugd

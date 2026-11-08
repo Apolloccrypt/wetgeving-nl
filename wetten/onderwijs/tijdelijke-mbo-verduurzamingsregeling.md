@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051739"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat van 10 november 2025, nr. IENW/BSK-2025/274529, houdende vaststelling van regels voor subsidie ter stimulering van inzet van duurzaamheidscoördinatoren 2026–2029 (Tijdelijke mbo-verduurzamingsregeling) [KetenID WGK028158]

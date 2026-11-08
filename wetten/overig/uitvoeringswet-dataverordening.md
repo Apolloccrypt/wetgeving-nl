@@ -9,7 +9,7 @@ laatste_update: 2025-11-21
 status: geldig
 toestand: 2025-11-21
 bron: "https://wetten.overheid.nl/BWBR0051796"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Wet van 29 oktober 2025 tot uitvoering van Verordening (EU) 2023/2854 van het Europees Parlement en de Raad van 13 december 2023 betreffende geharmoniseerde regels inzake eerlijke toegang tot en eerlijk gebruik van data en tot wijziging van Verordening (EU) 2017/2394 en Richtlijn (EU) 2020/1828 (Dataverordening) (Uitvoeringswet dataverordening) [KetenID WGK014687]

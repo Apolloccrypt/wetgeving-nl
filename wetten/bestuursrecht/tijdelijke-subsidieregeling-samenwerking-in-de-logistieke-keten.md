@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0051451"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat van 21 augustus 2025, nr. IENW/BSK-2025/217504, houdende vaststelling van de Tijdelijke subsidieregeling Samenwerking in de logistieke keten [KetenID WGK027847]

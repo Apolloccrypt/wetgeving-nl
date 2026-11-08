@@ -8,7 +8,7 @@ laatste_update: 2025-12-16
 status: geldig
 toestand: 2025-12-16
 bron: "https://wetten.overheid.nl/BWBR0051962"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Regeling voortzetting mandaat, volmacht en machtiging Ministerie van Asiel en Migratie 2025

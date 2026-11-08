@@ -9,7 +9,7 @@ laatste_update: 2026-02-01
 status: geldig
 toestand: 2026-02-01
 bron: "https://wetten.overheid.nl/BWBR0051970"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van 4 december 2025 tot wijziging van het Besluit vergoedingen rechtsbijstand 2000 en het Besluit toevoeging mediation in verband met de aanpassing van enkele vergoedingen voor rechtsbijstandverleners en mediators en de uitbreiding van de bevoorschotting [KetenID WGK028087]

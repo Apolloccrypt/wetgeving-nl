@@ -9,7 +9,7 @@ laatste_update: 2025-10-04
 status: geldig
 toestand: 2025-10-04
 bron: "https://wetten.overheid.nl/BWBR0051561"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Autoriteit Persoonsgegevens van 23 september 2025, betreffende het Bestuursreglement Autoriteit Persoonsgegevens

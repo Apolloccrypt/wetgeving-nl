@@ -9,7 +9,7 @@ laatste_update: 2025-10-10
 status: geldig
 toestand: 2025-10-10
 bron: "https://wetten.overheid.nl/BWBR0051591"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 30 september 2025, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordiging in Algerije, ambassade Algiers (1975–2013)

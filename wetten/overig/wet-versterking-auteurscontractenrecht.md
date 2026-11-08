@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051858"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Wet van 29 oktober 2025 tot wijziging van de Auteurswet, de Wet op de naburige rechten en de Wet auteurscontractenrecht in verband met de verdere versterking van de positie van de maker en de uitvoerende kunstenaar bij overeenkomsten betreffende het auteursrecht en het naburig recht (Wet versterking auteurscontractenrecht)

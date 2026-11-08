@@ -8,7 +8,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBV0006367"
-opgehaald: 2026-11-07
+opgehaald: 2026-11-08
 ---
 
 # Akte van Genève bij de Overeenkomst van 's-Gravenhage betreffende de internationale inschrijving van tekeningen of modellen van nijverheid

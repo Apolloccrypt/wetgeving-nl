@@ -9,7 +9,7 @@ laatste_update: 2025-11-10
 status: geldig
 toestand: 2025-11-10
 bron: "https://wetten.overheid.nl/BWBR0051734"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Regeling van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur, van 10 november 2025 nr. WJZ/102367126, houdende specifieke maatregelen in de beschermings- en de bewakingszone in verband met de bestrijding van hoogpathogene aviaire influenza in Bennekom (Regeling maatregelen beschermings- en bewakingszone hoogpathogene vogelgriep Bennekom 2025)

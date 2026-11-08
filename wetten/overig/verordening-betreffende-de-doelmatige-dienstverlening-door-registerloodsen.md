@@ -9,7 +9,7 @@ laatste_update: 2025-10-23
 status: geldig
 toestand: 2025-10-23
 bron: "https://wetten.overheid.nl/BWBR0051696"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Verordening betreffende de kwaliteit en borging van de doelmatige dienstverlening door registerloodsen

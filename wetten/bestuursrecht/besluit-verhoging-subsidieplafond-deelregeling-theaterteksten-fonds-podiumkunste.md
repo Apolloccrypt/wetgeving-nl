@@ -8,7 +8,7 @@ laatste_update: 2025-11-27
 status: geldig
 toestand: 2025-11-27
 bron: "https://wetten.overheid.nl/BWBR0051854"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit verhoging subsidieplafond Deelregeling theaterteksten Fonds Podiumkunsten

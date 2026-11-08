@@ -9,7 +9,7 @@ laatste_update: 2026-06-16
 status: geldig
 toestand: 2026-06-16
 bron: "https://wetten.overheid.nl/BWBR0051926"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 28 november 2025, kenmerk 4253146-1090325-WJZ, houdende regels met betrekking tot de aanwijzing van de elektronische verzendwijze van formele berichten aan VWS (Aanwijzing elektronische verzendwijzen VWS)

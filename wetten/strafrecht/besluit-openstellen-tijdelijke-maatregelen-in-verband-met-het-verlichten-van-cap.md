@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051830"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 17 november 2025, kenmerk 6859763, inzake het openstellen van de tijdelijke maatregelen in verband met het verlichten van capaciteitsproblemen binnen het gevangeniswezen

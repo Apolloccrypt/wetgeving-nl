@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051944"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 1 december 2025, nr. IENW/BSK-2025/283829, tot wijziging van de Regeling eisen theorie-examen rijbewijscategorie B en de Regeling vakbekwaamheid bestuurders 2012, vanwege uitbreiding van de gewenste kennis van de verschillende soorten veiligheidsaspecten die van belang zijn bij deelneming aan het verkeer [KetenID WGK027974]

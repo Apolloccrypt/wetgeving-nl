@@ -9,7 +9,7 @@ laatste_update: 2025-10-11
 status: geldig
 toestand: 2025-10-11
 bron: "https://wetten.overheid.nl/BWBR0051610"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # HERDRUK Regeling van de Minister-President, Minister van Algemene Zaken van 29 september 2025 nr. 9188318, tot vaststelling van de Aanwijzingen voor convenanten

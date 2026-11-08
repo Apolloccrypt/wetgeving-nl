@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051560"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Wet van 30 augustus 2025 houdende vaststelling van regels ten behoeve van de verdediging en de bescherming van de belangen van het Koninkrijk en de handhaving en de bevordering van de internationale rechtsorde alsmede het voldoen aan (financiële) afspraken binnen de Noord-Atlantische Verdragsorganisatie (NAVO) en andere bondgenootschappen (Wet financiële defensieverplichtingen)

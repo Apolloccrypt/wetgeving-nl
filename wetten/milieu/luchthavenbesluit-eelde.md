@@ -9,7 +9,7 @@ laatste_update: 2025-11-01
 status: geldig
 toestand: 2025-11-01
 bron: "https://wetten.overheid.nl/BWBR0051670"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Besluit van 27 oktober tot vaststelling van een luchthavenbesluit voor de luchthaven Eelde (Luchthavenbesluit Eelde) [KetenID WGK002925]

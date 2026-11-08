@@ -9,7 +9,7 @@ laatste_update: 2025-08-28
 status: geldig
 toestand: 2025-08-28
 bron: "https://wetten.overheid.nl/BWBR0051411"
-opgehaald: 2026-09-08
+opgehaald: 2026-11-08
 ---
 
 # Besluit van de directeur-generaal Belastingdienst d.d. 11 augustus 2025, houdende verlening van ondermandaat betreffende de uitvoering van de Wet open overheid aangaande het directoraat-generaal Belastingdienst (Besluit ondermandaat Wet open overheid directoraat-generaal Belastingdienst)

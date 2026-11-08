@@ -9,7 +9,7 @@ laatste_update: 2026-06-10
 status: geldig
 toestand: 2026-06-10
 bron: "https://wetten.overheid.nl/BWBR0051614"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 2 oktober 2025, nr. MBO/53160358, houdende voorschriften inzake het terugdringen van het aantal voortijdig schoolverlaters in de jaren 2026 tot en met 2029 en de verbetering van de stap van school naar werk (Regeling regionaal programma en Doorstroompuntfunctie 2026–2029)

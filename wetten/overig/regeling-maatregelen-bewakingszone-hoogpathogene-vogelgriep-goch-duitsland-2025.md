@@ -9,7 +9,7 @@ laatste_update: 2025-11-18
 status: geldig
 toestand: 2025-11-18
 bron: "https://wetten.overheid.nl/BWBR0051808"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Regeling van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur van 18 november 2025, nr. WJZ/102528817, houdende specifieke maatregelen in de bewakingszone in verband met de bestrijding van hoogpathogene aviaire influenza in Goch, Duitsland (Regeling maatregelen bewakingszone hoogpathogene vogelgriep Goch, Duitsland 2025)

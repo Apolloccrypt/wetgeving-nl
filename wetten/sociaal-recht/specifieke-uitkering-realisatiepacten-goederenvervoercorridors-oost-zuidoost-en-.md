@@ -9,7 +9,7 @@ laatste_update: 2025-12-03
 status: geldig
 toestand: 2025-12-03
 bron: "https://wetten.overheid.nl/BWBR0051887"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-08
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 1 december 2025, nr. IENW/BSK-2025/105165, houdende regels voor de verstrekking van een specifieke uitkering in verband met de aanleg en verbetering van openbare havenfaciliteiten op de goederenvervoercorridors Oost, Zuidoost en Zuid of maatregelen gericht op het versterken van multimodaal en duurzaam gebruik van goederenvervoer op de multimodale knooppunten (Regeling specifieke uitkering realisatiepacten bovengemiddelde knooppunten goederenvervoercorridors Oost, Zuidoost en Zuid 2025–2027) [KetenID WGK027873]
