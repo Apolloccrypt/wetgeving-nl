@@ -9,7 +9,7 @@ laatste_update: 2026-01-22
 status: geldig
 toestand: 2026-01-22
 bron: "https://wetten.overheid.nl/BWBR0052199"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van het hoofd van de afdeling Toegang Rechtsbestel van het directoraat-generaal Rechtspleging en Rechtshandhaving van het Ministerie van Justitie en Veiligheid van 13 januari 2026 nr. 7018151 houdende verlening van ondermandaat aan de in dit besluit genoemde coördinator Kwartiersmakersteam landelijk dekkend netwerk sociaaljuridische dienstverlening (Mandaatbesluit Kwartiermakersteam landelijk dekkend netwerk sociaaljuridische dienstverlening 2026)

@@ -9,7 +9,7 @@ laatste_update: 2025-12-25
 status: geldig
 toestand: 2025-12-25
 bron: "https://wetten.overheid.nl/BWBR0052023"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur van 15 december 2025 kenmerk 102812978. tot vaststelling van de Regeling voor het informatiebeheer van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur (Regeling informatiebeheer LVVN 2025)

@@ -8,7 +8,7 @@ laatste_update: 2026-04-08
 status: geldig
 toestand: 2026-04-08
 bron: "https://wetten.overheid.nl/BWBR0052506"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Beleidsregels Meerzorg pgb CZ Zorgkantoor

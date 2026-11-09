@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051986"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 9 december 2025, BZ2523017, tot aanwijzing van elektronische kanalen voor het verzenden van berichten aan het Ministerie van Buitenlandse Zaken (Aanwijzingsbesluit elektronische kanalen Buitenlandse Zaken)

@@ -9,7 +9,7 @@ laatste_update: 2026-04-01
 status: geldig
 toestand: 2026-04-01
 bron: "https://wetten.overheid.nl/BWBR0052483"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Verlening van ondermandaat door de Secretaris-Generaal van het Ministerie van Defensie aan de Plaatsvervangend Secretaris-Generaal van het Ministerie van Defensie inzake Mandaatregeling Defensie Wet op de inlichtingen- en veiligheidsdiensten 2017 en Wet veiligheidsonderzoeken

@@ -9,7 +9,7 @@ laatste_update: 2026-07-09
 status: geldig
 toestand: 2026-07-09
 bron: "https://wetten.overheid.nl/BWBR0052320"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Autoriteit Consument en Markt van 5 februari 2026, kenmerk ACM/UIT/666112 op grond van artikel 3.121 van de Energiewet en artikel 36 van de Elektriciteitswet 1998 juncto artikel 7.42, tweede lid, van de Energiewet tot goedkeuring en vaststelling van de methoden en voorwaarden over de elektriciteitsbegrippen in de codes (Begrippencode elektriciteit 2026)

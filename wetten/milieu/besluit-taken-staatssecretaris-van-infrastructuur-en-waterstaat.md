@@ -9,7 +9,7 @@ laatste_update: 2026-04-15
 status: geldig
 toestand: 2026-04-15
 bron: "https://wetten.overheid.nl/BWBR0052536"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat van 13 april 2026, nr. IENW/BSK-2026/57677, houdende vaststelling van de taken waarmee de Staatssecretaris van Infrastructuur en Waterstaat wordt belast

@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0052067"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Beleidsregels van de Staatssecretaris van Justitie en Veiligheid, de Minister van Infrastructuur en Waterstaat, de voorzitter van het CAK, de voorzitter van de Autoriteit online Terroristisch en Kinderpornografisch Materiaal, het bestuur van de Nederlandse Emissieautoriteit, de secretaris-generaal van het Ministerie van Financiën, de Directeur-Generaal Dienst Uitvoering Onderwijs, de Directeur-Generaal van de Rijksdienst voor Ondernemend Nederland, de waarnemend inspecteur-generaal Inspectie Justitie en Veiligheid, de Inspecteur-Generaal Nederlandse Voedsel- en Warenautoriteit, de Inspecteur-Generaal van de Rijksinspectie Digitale Infrastructuur en de Raad van Bestuur van het Uitvoeringsinstituut Werknemersverzekeringen, van 1 november 2025, nr. 6815099, betreffende betalingsregelingen bij rijksincassovorderingen (Beleidsregels betalingsregelingen Rijk 2026)

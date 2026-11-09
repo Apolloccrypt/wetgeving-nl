@@ -8,7 +8,7 @@ laatste_update: 2026-01-06
 status: geldig
 toestand: 2026-01-06
 bron: "https://wetten.overheid.nl/BWBR0052114"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Tijdelijke subsidieregels Landelijk ondersteuningsprogramma Informatiepunten Digitale Overheid Koninklijke Bibliotheek 2026

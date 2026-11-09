@@ -8,7 +8,7 @@ laatste_update: 2026-01-07
 status: geldig
 toestand: 2026-01-07
 bron: "https://wetten.overheid.nl/BWBR0052131"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Tarieven wettelijke diensten Edelmetaal Waarborg Nederland

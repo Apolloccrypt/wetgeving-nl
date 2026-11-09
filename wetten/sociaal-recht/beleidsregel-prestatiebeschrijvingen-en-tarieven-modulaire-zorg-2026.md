@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-07-16
 toestand: 2026-03-25
 bron: "https://wetten.overheid.nl/BWBR0052447"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Beleidsregel prestatiebeschrijvingen en tarieven modulaire zorg 2026

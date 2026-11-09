@@ -9,7 +9,7 @@ laatste_update: 2026-04-17
 status: geldig
 toestand: 2026-04-17
 bron: "https://wetten.overheid.nl/BWBR0052550"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Autoriteit Persoonsgegevens van 31 maart 2026 houdende vaststelling van de Beleidsregels openbaarmaking door de Autoriteit Persoonsgegevens 2026 en intrekking van de Beleidsregels openbaarmaking door de Autoriteit Persoonsgegevens

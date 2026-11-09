@@ -8,7 +8,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0052096"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Aanwijzingsbesluit elektronische kanalen publieke dienstverlening CBR 2026

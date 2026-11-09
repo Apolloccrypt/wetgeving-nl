@@ -9,7 +9,7 @@ laatste_update: 2026-02-20
 status: geldig
 toestand: 2026-02-20
 bron: "https://wetten.overheid.nl/BWBR0052295"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van 12 februari 2026, houdende invoering van regels met betrekking tot het loopbaanvervolg van bewindspersonen (Besluit regels vervolgfuncties bewindspersonen) [KetenID: WGK026980]

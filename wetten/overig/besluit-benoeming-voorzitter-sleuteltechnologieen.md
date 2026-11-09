@@ -9,7 +9,7 @@ laatste_update: 2026-02-09
 status: geldig
 toestand: 2026-02-09
 bron: "https://wetten.overheid.nl/BWBR0052282"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Economische Zaken van 26 januari 2026, kenmerk DG BI-I / 103661683, houdende benoeming van Voorzitter Sleuteltechnologieën

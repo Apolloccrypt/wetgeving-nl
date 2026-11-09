@@ -9,7 +9,7 @@ laatste_update: 2026-04-14
 status: geldig
 toestand: 2026-04-14
 bron: "https://wetten.overheid.nl/BWBR0052535"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Staatssecretaris van Financiën van 31 maart 2026 nr. 2026-48474 over het verzamelbesluit lijfrenten en andere periodieke uitkeringen

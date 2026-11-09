@@ -9,7 +9,7 @@ laatste_update: 2026-01-23
 status: geldig
 toestand: 2026-01-23
 bron: "https://wetten.overheid.nl/BWBR0052206"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Landelijke commissie sociale hygiëne (de Lcsh), van 13 januari 2026, met kenmerk CIBG 26-09242, tot aanwijzing van elektronische kanalen voor het indienen van berichten in de zin van artikel 2:13, tweede lid, van de Algemene wet bestuursrecht bij de Landelijke commissie sociale hygiëne (Aanwijzingsbesluit elektronische kanalen publieke dienstverlening Lcsh 2026)

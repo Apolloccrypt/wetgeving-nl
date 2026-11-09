@@ -9,7 +9,7 @@ laatste_update: 2026-04-11
 status: geldig
 toestand: 2026-04-11
 bron: "https://wetten.overheid.nl/BWBR0052528"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Wet van 1 april 2026, houdende wijziging van de Wet op de internationale bijstandsverlening bij de heffing van belastingen en de Algemene wet inzake rijksbelastingen in verband met de implementatie van Richtlijn (EU) 2023/2226 van de Raad van 17 oktober 2023 tot wijziging van Richtlijn 2011/16/EU betreffende de administratieve samenwerking op het gebied van de belastingen (PbEU L 2023/2226) (Wet implementatie EU-richtlijn gegevensuitwisseling cryptoactiva)

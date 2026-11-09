@@ -9,7 +9,7 @@ laatste_update: 2026-10-30
 status: geldig
 toestand: 2026-10-30
 bron: "https://wetten.overheid.nl/BWBR0053266"
-opgehaald: 2026-11-08
+opgehaald: 2026-11-09
 ---
 
 # Regeling van het bestuur van de Stichting Nederlands Fonds voor Podiumkunsten van 20 oktober 2026, houdende regels voor de verstrekking van subsidies (Deelregeling compositie Fonds Podiumkunsten)

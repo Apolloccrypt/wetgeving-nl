@@ -9,7 +9,7 @@ laatste_update: 2026-02-04
 status: geldig
 toestand: 2026-02-04
 bron: "https://wetten.overheid.nl/BWBR0052245"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 26 januari 2026, nr. IOE/61192975, tot aanwijzing van kanalen voor het verzenden van berichten aan de Inspectie Overheidsinformatie en Erfgoed in de zin van de artikelen 2:13 en 2:14 van de Algemene wet bestuursrecht (Aanwijzingsbesluit elektronische kanalen Inspectie Overheidsinformatie en Erfgoed)

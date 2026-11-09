@@ -8,7 +8,7 @@ laatste_update: 2026-03-25
 status: geldig
 toestand: 2026-03-25
 bron: "https://wetten.overheid.nl/BWBR0052452"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Beleidsregel prestatiebeschrijvingen en tarieven zorgzwaartepakketten en volledig pakket thuis 2026

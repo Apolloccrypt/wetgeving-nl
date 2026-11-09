@@ -9,7 +9,7 @@ laatste_update: 2026-05-28
 status: geldig
 toestand: 2026-05-28
 bron: "https://wetten.overheid.nl/BWBR0052323"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Autoriteit Consument en Markt van 5 februari 2026, kenmerk ACM/UIT/666116 op grond van artikel 3.121 van de Energiewet, en artikel 12f van de Gaswet juncto artikel 7.42, tweede lid, van de Energiewet over transport van gas door de TSB (Transportcode gas TSB)

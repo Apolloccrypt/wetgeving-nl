@@ -9,7 +9,7 @@ laatste_update: 2026-02-01
 status: geldig
 toestand: 2026-02-01
 bron: "https://wetten.overheid.nl/BWBR0052227"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Regeling van het bestuur van het Stimuleringsfonds Creatieve Industrie van 21 januari 2026, houdende wijzigingen van de Regeling Digitale cultuur 2025–2028 (eerste wijziging)

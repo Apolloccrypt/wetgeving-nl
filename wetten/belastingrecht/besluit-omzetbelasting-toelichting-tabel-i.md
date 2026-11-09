@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0052086"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Staatssecretaris van Financiën van 22 december 2025, nr. 2025-30110 over Tabel I behorend bij de Wet op de omzetbelasting 1968 (Besluit omzetbelasting toelichting tabel I)

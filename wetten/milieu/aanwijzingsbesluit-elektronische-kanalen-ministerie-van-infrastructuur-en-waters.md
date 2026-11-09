@@ -9,7 +9,7 @@ laatste_update: 2026-04-10
 status: geldig
 toestand: 2026-04-10
 bron: "https://wetten.overheid.nl/BWBR0052504"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat van 4 maart 2026, nr. IENW/BSK-2026/26937, tot aanwijzing van elektronische kanalen voor het verzenden van berichten (Aanwijzingsbesluit elektronische kanalen Ministerie van Infrastructuur en Waterstaat)

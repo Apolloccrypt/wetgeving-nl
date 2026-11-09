@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0052016"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Autoriteit Persoonsgegevens van 9 december 2025 tot aanwijzing van elektronische kanalen voor het indienen van berichten in de zin van artikel 2:13, tweede lid, van de Algemene wet bestuursrecht

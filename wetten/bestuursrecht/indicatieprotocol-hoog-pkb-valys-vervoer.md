@@ -9,7 +9,7 @@ laatste_update: 2026-01-23
 status: geldig
 toestand: 2026-01-23
 bron: "https://wetten.overheid.nl/BWBR0052202"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Staatssecretaris Langdurige en Maatschappelijke Zorg, van 12 januari 2026, 4299382-1091493-DMO, houdende de vaststelling van regels betreffende het toekennen van het Valys Hoog Persoonlijk Kilometerbudget

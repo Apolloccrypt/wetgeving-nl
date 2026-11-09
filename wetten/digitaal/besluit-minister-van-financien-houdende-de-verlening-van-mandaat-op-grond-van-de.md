@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0052070"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Financiën van 7 december 2025, 2025-0000521988, houdende de verlening van mandaat op grond van de Wet politiegegevens aan de secretaris-generaal van het Ministerie van Financiën

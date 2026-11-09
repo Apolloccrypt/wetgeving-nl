@@ -9,7 +9,7 @@ laatste_update: 2026-03-26
 status: geldig
 toestand: 2026-03-26
 bron: "https://wetten.overheid.nl/BWBR0052448"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Klimaat en Groene Groei van 9 maart 2026, nr. WJZ/104169007, tot vaststelling van de taken van de Staatssecretaris van Klimaat en Groene Groei (Besluit vaststelling taken Staatssecretaris van Klimaat en Groene Groei 2026)

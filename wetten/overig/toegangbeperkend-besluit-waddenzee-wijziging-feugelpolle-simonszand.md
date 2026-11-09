@@ -9,7 +9,7 @@ laatste_update: 2026-04-11
 status: geldig
 toestand: 2026-04-11
 bron: "https://wetten.overheid.nl/BWBR0052527"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur (kenmerk DGNV-NV/104801078) van 10 april 2026, tot wijziging van het ‘Toegangbeperkend Besluit Waddenzee & Noordzeekustzone’ inhoudende een wijziging in beperking ten aanzien van de toegankelijkheid van een tweetal gebieden gelegen binnen het Natura 2000-gebied Waddenzee, op grond van artikel 2.45, lid 1 juncto lid 2, van de Omgevingswet (citeertitel ‘Toegangbeperkend Besluit Waddenzee; wijziging Feugelpôlle & Simonszand’)

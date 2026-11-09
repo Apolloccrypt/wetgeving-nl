@@ -8,7 +8,7 @@ laatste_update: 2026-03-02
 status: geldig
 toestand: 2026-03-02
 bron: "https://wetten.overheid.nl/BWBR0052376"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Circulaire toepassen Baseline Informatiebeveiliging Overheid 2 in het digitale verkeer met het Rijk

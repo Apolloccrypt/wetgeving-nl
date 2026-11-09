@@ -8,7 +8,7 @@ laatste_update: 2026-04-14
 status: geldig
 toestand: 2026-04-14
 bron: "https://wetten.overheid.nl/BWBR0052518"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Vervangingsregeling CBR 2026

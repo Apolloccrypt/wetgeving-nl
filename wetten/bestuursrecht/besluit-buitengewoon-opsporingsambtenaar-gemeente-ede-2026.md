@@ -9,7 +9,7 @@ laatste_update: 2026-04-10
 status: geldig
 toestand: 2026-04-10
 bron: "https://wetten.overheid.nl/BWBR0052356"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 17 februari 2026 nr. BOACAT2026/013, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Ede

@@ -8,7 +8,7 @@ laatste_update: 2026-03-21
 status: geldig
 toestand: 2026-03-21
 bron: "https://wetten.overheid.nl/BWBR0052437"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Beleidsregel verpleegkundige dagopvang en verblijf bij medische kindzorg

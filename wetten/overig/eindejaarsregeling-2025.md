@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0052073"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Regeling van de Staatssecretaris van Financiën van 24 december 2025 tot wijziging van onder meer enige uitvoeringsregelingen op het gebied van belastingen en toeslagen (Eindejaarsregeling 2025)

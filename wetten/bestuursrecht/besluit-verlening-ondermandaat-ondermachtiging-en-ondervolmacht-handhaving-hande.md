@@ -9,7 +9,7 @@ laatste_update: 2026-02-25
 status: geldig
 toestand: 2026-02-25
 bron: "https://wetten.overheid.nl/BWBR0052346"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de directeur van de Dienst Financieel-Economische Integriteit van het Ministerie van Financiën van 9 februari 2026, houdende verlening van ondermandaat, ondermachtiging en ondervolmacht ten behoeve van de handhaving van de Handelsregisterwet 2007

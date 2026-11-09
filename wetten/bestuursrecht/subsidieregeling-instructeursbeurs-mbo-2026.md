@@ -9,7 +9,7 @@ laatste_update: 2026-04-01
 status: geldig
 toestand: 2026-04-01
 bron: "https://wetten.overheid.nl/BWBR0052480"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 24 maart 2026, nr. MBO/62696879 houdende het opnieuw vaststellen van de vervallen Subsidieregeling instructeursbeurs 2025 om mogelijk te maken dat voor de studiejaren 2026–2027 en 2027–2028 subsidie voor herhaalaanvragen wordt verstrekt (Subsidieregeling herhaalaanvragen instructeursbeurs mbo 2026–2028)

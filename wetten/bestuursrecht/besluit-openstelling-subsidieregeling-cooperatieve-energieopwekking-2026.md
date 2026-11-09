@@ -9,7 +9,7 @@ laatste_update: 2026-03-01
 status: geldig
 toestand: 2026-03-01
 bron: "https://wetten.overheid.nl/BWBR0052274"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Klimaat en Groene Groei van 30 januari 2026, nr. WJZ/101765171, tot openstelling van de Subsidieregeling coöperatieve energieopwekking 2026 (Besluit openstelling Subsidieregeling coöperatieve energieopwekking 2026)

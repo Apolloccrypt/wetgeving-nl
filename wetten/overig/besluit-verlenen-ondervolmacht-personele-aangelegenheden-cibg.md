@@ -9,7 +9,7 @@ laatste_update: 2026-01-21
 status: geldig
 toestand: 2026-01-21
 bron: "https://wetten.overheid.nl/BWBR0052195"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Algemeen directeur van het CIBG van het Ministerie van Volksgezondheid, Welzijn en Sport van 9 januari 2026, kenmerk CIBG 25-07742, betreffende het verlenen van ondervolmacht aan directeuren en afdelingshoofden van het CIBG (Besluit verlenen ondervolmacht personele aangelegenheden CIBG)

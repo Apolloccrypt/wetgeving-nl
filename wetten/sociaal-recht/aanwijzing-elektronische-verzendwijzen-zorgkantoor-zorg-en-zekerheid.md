@@ -9,7 +9,7 @@ laatste_update: 2026-03-20
 status: geldig
 toestand: 2026-03-20
 bron: "https://wetten.overheid.nl/BWBR0052478"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van Stichting Wlz-uitvoerder Zorg en Zekerheid houdende regels met betrekking tot de aanwijzing van de elektronische verzendwijze van officiële berichten aan Zorgkantoor Zorg en Zekerheid (Aanwijzing elektronische verzendwijzen Zorgkantoor Zorg en Zekerheid

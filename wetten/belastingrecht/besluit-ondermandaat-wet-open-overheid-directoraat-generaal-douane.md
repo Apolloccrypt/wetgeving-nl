@@ -9,7 +9,7 @@ laatste_update: 2025-12-30
 status: geldig
 toestand: 2025-12-30
 bron: "https://wetten.overheid.nl/BWBR0052043"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de directeur-generaal Douane d.d. 22 oktober 2025, nummer 2025-0000599812, houdende verlenging van ondermandaat, volmacht en machtiging betreffende de uitvoering van de Wet open overheid op het terrein van het directoraat-generaal Douane (Besluit ondermandaat Wet open overheid directoraat-generaal Douane)

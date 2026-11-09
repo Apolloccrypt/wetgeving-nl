@@ -8,7 +8,7 @@ laatste_update: 2026-02-06
 status: geldig
 toestand: 2026-02-06
 bron: "https://wetten.overheid.nl/BWBR0052271"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit vaststelling subsidieplafonds en data subsidierondes Regeling Literatuur Caribe, Regeling Leesbevordering Nederlands Letterenfonds, Regeling projectsubsidies voor makers van boeken en Regeling literaire programma's

@@ -9,7 +9,7 @@ laatste_update: 2025-12-20
 status: geldig
 toestand: 2025-12-20
 bron: "https://wetten.overheid.nl/BWBR0051992"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 5 december 2025, nr. FEZ/57499776, tot verlening van de bevoegdheid tot aanwijzing en intrekking van een zodanige aanwijzing van de kasbeheerder van het Financieel Diensten Centrum (Besluit mandaat kasbeheer FDC OCW 2025)

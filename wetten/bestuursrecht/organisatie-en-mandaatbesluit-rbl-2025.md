@@ -9,7 +9,7 @@ laatste_update: 2026-02-26
 status: geldig
 toestand: 2026-02-26
 bron: "https://wetten.overheid.nl/BWBR0052359"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Directeur van de Rijksorganisatie Beveiliging en Logistiek van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties van 9 januari 2026 houdende verlening van ondermandaat, alsmede het doorgeven van volmacht en machtiging van onder de Directeur ressorterende ambtenaren

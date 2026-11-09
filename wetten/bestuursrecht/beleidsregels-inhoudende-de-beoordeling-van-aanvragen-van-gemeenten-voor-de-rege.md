@@ -9,7 +9,7 @@ laatste_update: 2025-12-19
 status: geldig
 toestand: 2025-12-19
 bron: "https://wetten.overheid.nl/BWBR0051984"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-09
 ---
 
 # Beleidsregels van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 10 december 2025, kenmerk 4314698-1091860-SB, inhoudende de beoordeling van aanvragen van gemeenten voor de Regeling specifieke uitkering stimulering sport 2024–2026

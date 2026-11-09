@@ -9,7 +9,7 @@ laatste_update: 2025-12-20
 status: geldig
 toestand: 2025-12-20
 bron: "https://wetten.overheid.nl/BWBR0051981"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de inspecteur-generaal Overheidsinformatie en Erfgoed van 25 november 2025, nr. 54413708, houdende de verlening van ondermandaat en het doorgeven van volmacht en machtiging aan onder de inspecteur-generaal ressorterende ambtenaren (Mandaatbesluit Inspectie Overheidsinformatie en Erfgoed 2025)

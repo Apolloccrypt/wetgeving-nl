@@ -9,7 +9,7 @@ laatste_update: 2026-02-25
 status: geldig
 toestand: 2026-02-25
 bron: "https://wetten.overheid.nl/BWBR0052347"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Staatssecretaris van Financiën van 13 februari 2026, nr. 2026-405, Loonheffingen. Premie arbeidsinschakeling

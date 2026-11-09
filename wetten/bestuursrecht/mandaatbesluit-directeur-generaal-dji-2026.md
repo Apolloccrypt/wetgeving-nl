@@ -9,7 +9,7 @@ laatste_update: 2026-01-16
 status: geldig
 toestand: 2026-01-16
 bron: "https://wetten.overheid.nl/BWBR0052143"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de directeur-generaal Dienst Justitiële Inrichtingen van 24 december 2025, nr. 7034938, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan onder de directeur-generaal Dienst Justitiële Inrichtingen ressorterende ambtenaren (Mandaatbesluit directeur-generaal DJI 2026)

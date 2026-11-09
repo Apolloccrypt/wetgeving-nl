@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0052066"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Centrale Commissie Mensgebonden Onderzoek, de CCMO, van 11 december 2025 houdende de aanwijzing van elektronische kanalen voor het verzenden van formele berichten aan de Centrale Commissie Mensgebonden Onderzoek (Aanwijzing elektronische kanalen CCMO 2025)

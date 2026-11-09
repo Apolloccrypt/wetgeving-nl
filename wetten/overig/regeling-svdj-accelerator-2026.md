@@ -9,7 +9,7 @@ laatste_update: 2026-03-04
 status: geldig
 toestand: 2026-03-04
 bron: "https://wetten.overheid.nl/BWBR0052381"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Stimuleringsfonds voor de Journalistiek van 3 december 2025, nr. INV2026, tot vaststelling van een subsidieregeling Journalistieke Innovatie 2026

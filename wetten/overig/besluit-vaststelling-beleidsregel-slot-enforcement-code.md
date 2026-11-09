@@ -8,7 +8,7 @@ laatste_update: 2026-02-25
 status: geldig
 toestand: 2026-02-25
 bron: "https://wetten.overheid.nl/BWBR0052360"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit vaststelling beleidsregel 'Slot Enforcement Code'

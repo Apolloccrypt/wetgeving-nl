@@ -9,7 +9,7 @@ laatste_update: 2026-02-18
 status: geldig
 toestand: 2026-02-18
 bron: "https://wetten.overheid.nl/BWBR0052294"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Economische Zaken van 6 februari 2026 nr. WJZ/103520718, tot verlening van machtiging aan de directeur van het Nationaal Cyber Security Centrum van het Ministerie van Justitie en Veiligheid voor het verrichten van feitelijke handelingen die verband houden met de uitoefening van taken en bevoegdheden op grond van de Wet bevordering digitale weerbaarheid bedrijven

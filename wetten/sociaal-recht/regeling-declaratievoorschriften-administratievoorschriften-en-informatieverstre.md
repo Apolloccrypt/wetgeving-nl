@@ -8,7 +8,7 @@ laatste_update: 2026-03-25
 status: geldig
 toestand: 2026-03-25
 bron: "https://wetten.overheid.nl/BWBR0052453"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Regeling declaratievoorschriften, administratievoorschriften en informatieverstrekking Wlz 2026

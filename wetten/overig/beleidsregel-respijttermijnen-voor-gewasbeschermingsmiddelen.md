@@ -8,7 +8,7 @@ laatste_update: 2025-12-30
 status: geldig
 toestand: 2025-12-30
 bron: "https://wetten.overheid.nl/BWBR0052055"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Beleidsregel respijttermijnen voor gewasbeschermingsmiddelen

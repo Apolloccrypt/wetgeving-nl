@@ -9,7 +9,7 @@ laatste_update: 2025-12-25
 status: geldig
 toestand: 2025-12-25
 bron: "https://wetten.overheid.nl/BWBR0052021"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Klimaat en Groene Groei van 15 december 2025 kenmerk 102804120 tot vaststelling van de Regeling voor het informatiebeheer van het Ministerie van Klimaat en Groene Groei (Regeling informatiebeheer KGG 2025)

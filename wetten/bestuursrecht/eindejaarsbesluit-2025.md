@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0052072"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van 19 december 2025 tot wijziging van enige uitvoeringsbesluiten op het gebied van de belastingen en enige andere besluiten (Eindejaarsbesluit 2025)

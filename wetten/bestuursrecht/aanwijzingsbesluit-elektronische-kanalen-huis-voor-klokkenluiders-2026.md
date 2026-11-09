@@ -9,7 +9,7 @@ laatste_update: 2026-03-05
 status: geldig
 toestand: 2026-03-05
 bron: "https://wetten.overheid.nl/BWBR0052388"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van het Huis voor Klokkenluiders van 24 februari 2026 houdende de aanwijzing van elektronische kanalen voor het verzenden van berichten in de zin van artikel 2:13, tweede lid, van de Algemene wet bestuursrecht

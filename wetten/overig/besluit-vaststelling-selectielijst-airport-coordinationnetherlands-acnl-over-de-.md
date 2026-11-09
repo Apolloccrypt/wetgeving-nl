@@ -8,7 +8,7 @@ laatste_update: 2026-01-17
 status: geldig
 toestand: 2026-01-17
 bron: "https://wetten.overheid.nl/BWBR0052187"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit vaststelling selectielijst Airport CoordinationNetherlands (ACNL) over de periode vanaf 1 april 2020

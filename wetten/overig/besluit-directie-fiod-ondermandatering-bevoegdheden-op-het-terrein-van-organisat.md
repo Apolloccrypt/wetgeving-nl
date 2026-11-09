@@ -9,7 +9,7 @@ laatste_update: 2026-01-16
 status: geldig
 toestand: 2026-01-16
 bron: "https://wetten.overheid.nl/BWBR0052181"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de directeur Intelligence en directeur Kennis, Vaktechniek en Veiligheid van de directie FIOD van 24 november 2025 houdende ondermandatering van de bevoegdheden op het terrein van Organisatie en Personeel

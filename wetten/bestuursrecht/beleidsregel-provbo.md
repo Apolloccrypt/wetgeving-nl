@@ -9,7 +9,7 @@ laatste_update: 2026-02-13
 status: geldig
 toestand: 2026-02-13
 bron: "https://wetten.overheid.nl/BWBR0052287"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Beleidsregel van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 3 februari 2026, nr. 61729394, houdende nadere regels voor het organiseren van onderbouwklassen voor praktijkonderwijs en voorbereidend beroepsonderwijs (Beleidsregel pro/vbo)

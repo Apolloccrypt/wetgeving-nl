@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0052087"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 18 december 2025, nr. 2025-0000292050, houdende vaststelling van de Beleidsregel handhaving Wet kinderopvang BES

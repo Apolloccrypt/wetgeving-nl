@@ -8,7 +8,7 @@ laatste_update: 2005-02-01
 status: geldig
 toestand: 2005-02-01
 bron: "https://wetten.overheid.nl/BWBV0001649"
-opgehaald: 2026-11-08
+opgehaald: 2026-11-09
 ---
 
 # Aanvullend Protocol bij de Overeenkomst inzake economisch partnerschap, politieke coördinatie en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Verenigde Mexicaanse Staten, anderzijds, in verband met de toetreding van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Hongarije, de Republiek Letland, de Republiek Litouwen, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek tot de Europese Unie

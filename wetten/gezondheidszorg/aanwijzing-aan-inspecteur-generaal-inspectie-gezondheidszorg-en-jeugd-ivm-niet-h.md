@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-06-25
 toestand: 2026-02-04
 bron: "https://wetten.overheid.nl/BWBR0052267"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 3 februari 2026, kenmerk 4346820-1093991-WJZ, aan de inspecteur-generaal van de Inspectie gezondheidszorg en jeugd in verband met het niet handhavend optreden tegen een overtreding van de handelsvergunningplicht op grond van de Geneesmiddelenwet

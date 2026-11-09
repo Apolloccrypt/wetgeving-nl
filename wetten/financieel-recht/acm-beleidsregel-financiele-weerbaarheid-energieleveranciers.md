@@ -8,7 +8,7 @@ laatste_update: 2026-04-11
 status: geldig
 toestand: 2026-04-11
 bron: "https://wetten.overheid.nl/BWBR0052520"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # ACM Beleidsregel financiële weerbaarheid energieleveranciers

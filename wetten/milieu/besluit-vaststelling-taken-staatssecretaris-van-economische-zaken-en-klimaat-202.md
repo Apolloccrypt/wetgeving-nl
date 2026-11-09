@@ -9,7 +9,7 @@ laatste_update: 2026-03-25
 status: geldig
 toestand: 2026-03-25
 bron: "https://wetten.overheid.nl/BWBR0052444"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat van 13 maart 2026, nr. WJZ/104167525, tot vaststelling van de taken van de Staatssecretaris van Economische Zaken en Klimaat (Besluit vaststelling taken Staatssecretaris van Economische Zaken en Klimaat 2026)

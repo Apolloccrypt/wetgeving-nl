@@ -9,7 +9,7 @@ laatste_update: 2026-03-25
 status: geldig
 toestand: 2026-03-25
 bron: "https://wetten.overheid.nl/BWBR0052441"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur van 16 maart 2026, nr. WJZ/104165608, tot vaststelling van de taken van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur (Besluit vaststelling taken Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur 2026)

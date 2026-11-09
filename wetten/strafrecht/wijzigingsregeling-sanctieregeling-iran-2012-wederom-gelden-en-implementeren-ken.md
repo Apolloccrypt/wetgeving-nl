@@ -9,7 +9,7 @@ laatste_update: 2026-03-06
 status: geldig
 toestand: 2026-03-06
 bron: "https://wetten.overheid.nl/BWBR0052404"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 26 februari 2026, nr. BZ2625435, tot wijziging van de Sanctieregeling Iran 2012

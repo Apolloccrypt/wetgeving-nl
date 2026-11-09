@@ -9,7 +9,7 @@ laatste_update: 2026-03-11
 status: geldig
 toestand: 2026-03-11
 bron: "https://wetten.overheid.nl/BWBR0052412"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 5 februari 2026, nr. RE/1777067, houdende instelling van een Kwaliteitsraad Nationale Aanpak Professionalisering Leraren (NAPL) (Instellingsbesluit Kwaliteitsraad NAPL)

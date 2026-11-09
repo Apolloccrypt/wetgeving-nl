@@ -9,7 +9,7 @@ laatste_update: 2026-02-21
 status: geldig
 toestand: 2026-02-21
 bron: "https://wetten.overheid.nl/BWBR0052314"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Beleidsregel van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 6 februari 2026, nr. PO/55067900, houdende regels voor een vervolgexperiment ten behoeve van onderzoek naar een andere dag- en weekindeling in het primair onderwijs (Beleidsregel vervolg andere dag- en weekindeling)

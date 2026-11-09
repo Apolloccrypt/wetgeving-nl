@@ -9,7 +9,7 @@ laatste_update: 2026-01-03
 status: geldig
 toestand: 2026-01-03
 bron: "https://wetten.overheid.nl/BWBR0052106"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Regeling van het bestuur van ZorgOnderzoek Nederland, houdende vaststelling van de Algemene subsidiebepalingen ZonMw (Algemene subsidiebepalingen ZonMw)

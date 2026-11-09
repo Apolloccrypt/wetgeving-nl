@@ -9,7 +9,7 @@ laatste_update: 2026-02-20
 status: geldig
 toestand: 2026-02-20
 bron: "https://wetten.overheid.nl/BWBR0052307"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 5 februari 2026, nr. WJZ/61832636, houdende regels voor de subsidieverstrekking ten behoeve van grote restauratieopgaven van niet-woonhuisrijksmonumenten (Subsidieregeling grote restauratieopgaven niet-woonhuisrijksmonumenten)

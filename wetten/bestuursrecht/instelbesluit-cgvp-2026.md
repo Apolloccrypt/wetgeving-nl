@@ -9,7 +9,7 @@ laatste_update: 2026-02-03
 status: geldig
 toestand: 2026-02-03
 bron: "https://wetten.overheid.nl/BWBR0052264"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Staatssecretaris van Financiën van 20 januari 2026, nr. 2025-15294, over de verantwoordelijkheid, taakomschrijving, werkterrein en werkwijze van de Coördinatiegroep verrekenprijzen (Instelbesluit CGVP 2026)

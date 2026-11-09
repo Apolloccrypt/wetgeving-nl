@@ -8,7 +8,7 @@ laatste_update: 2026-04-16
 status: geldig
 toestand: 2026-04-16
 bron: "https://wetten.overheid.nl/BWBR0052541"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit vaststelling taakomschrijving Staatssecretaris van Defensie

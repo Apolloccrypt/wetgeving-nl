@@ -8,7 +8,7 @@ laatste_update: 2025-12-25
 status: geldig
 toestand: 2025-12-25
 bron: "https://wetten.overheid.nl/BWBR0052025"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Instellingsbesluit Commissie advisering bezwaarschriften Defensie

@@ -9,7 +9,7 @@ laatste_update: 2026-03-05
 status: geldig
 toestand: 2026-03-05
 bron: "https://wetten.overheid.nl/BWBR0052390"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de algemeen directeur Justitiële ICT Organisatie van 9 februari 2026, nr. Z22.56131 / GOUPU / 117710, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan onder de algemeen directeur Justitiële ICT Organisatie ressorterende ambtenaren (Mandaatbesluit algemeen directeur Justitiële ICT Organisatie 2026)

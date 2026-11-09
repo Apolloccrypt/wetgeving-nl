@@ -9,7 +9,7 @@ laatste_update: 2026-11-01
 status: geldig
 toestand: 2026-11-01
 bron: "https://wetten.overheid.nl/BWBR0014330"
-opgehaald: 2026-11-08
+opgehaald: 2026-11-09
 ---
 
 # Besluit van 26 november 2002 tot vaststelling van een luchthavenverkeerbesluit voor de luchthaven Schiphol (Luchthavenverkeerbesluit Schiphol)

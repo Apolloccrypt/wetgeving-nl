@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0052118"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Nederlandsche Bank N.V. van 19 december 2025 houdende regels met betrekking tot de aanwijzing van de elektronische verzendwijze van formele berichten aan DNB (Aanwijzingsbesluit elektronische verzending formele berichten DNB)

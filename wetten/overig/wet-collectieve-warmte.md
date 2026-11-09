@@ -9,7 +9,7 @@ laatste_update: 2026-02-14
 status: geldig
 toestand: 2026-02-14
 bron: "https://wetten.overheid.nl/BWBR0052212"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Wet van 10 december 2025, houdende regels omtrent productie, transport en levering van warmte (Wet collectieve warmte)

@@ -9,7 +9,7 @@ laatste_update: 2026-04-18
 status: geldig
 toestand: 2026-04-18
 bron: "https://wetten.overheid.nl/BWBR0052548"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Regeling van de Minister-President, Minister van Algemene Zaken van 2 april 2026, nr. 9932284, houdende vaststelling van de Aanwijzingen inzake externe contacten van rijksambtenaren

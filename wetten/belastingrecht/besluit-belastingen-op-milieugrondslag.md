@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-06-26
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0052089"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Staatssecretaris van Financiën van 22 december 2025, nr. 2025-27601 over Belastingen op milieugrondslag

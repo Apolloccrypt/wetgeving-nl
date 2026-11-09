@@ -9,7 +9,7 @@ laatste_update: 2026-04-14
 status: geldig
 toestand: 2026-04-14
 bron: "https://wetten.overheid.nl/BWBR0052516"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Langdurige Zorg, Jeugd en Sport van 1 april 2026, kenmerk 4360480-1095301-LZ, houdende vaststelling van een nadere aanwijzing voor de besteedbare middelen ter dekking van de beheerskosten Wlz 2026 (Nadere aanwijzing besteedbare middelen beheerskosten Wlz 2026)

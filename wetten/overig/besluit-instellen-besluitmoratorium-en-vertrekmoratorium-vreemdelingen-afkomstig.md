@@ -9,7 +9,7 @@ laatste_update: 2026-03-24
 status: geldig
 toestand: 2026-03-24
 bron: "https://wetten.overheid.nl/BWBR0052445"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Asiel en Migratie van 18 maart 2026, nummer 7273172 tot het instellen van een besluitmoratorium en vertrekmoratorium voor vreemdelingen afkomstig uit Iran

@@ -9,7 +9,7 @@ laatste_update: 2026-04-13
 status: geldig
 toestand: 2026-04-13
 bron: "https://wetten.overheid.nl/BWBR0052525"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Volkshuisvesting en Ruimtelijke Ordening van 8 april 2026, nr. 2026-0000149542, tot verlenging van de instellingsduur, bedoeld in artikel 3, eerste lid, van het Instellingsbesluit landelijke versnellingstafel woningbouw

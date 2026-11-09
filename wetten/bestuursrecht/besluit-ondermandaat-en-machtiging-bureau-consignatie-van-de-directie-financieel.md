@@ -9,7 +9,7 @@ laatste_update: 2026-04-03
 status: geldig
 toestand: 2026-04-03
 bron: "https://wetten.overheid.nl/BWBR0052490"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de directeur Financieel-Economische Zaken van het Ministerie van Financiën van 4 maart 2026 (2026-0000069311), houdende verlening van ondermandaat en machtiging voor de uitvoering van de Wet op de consignatie van gelden (Besluit ondermandaat en machtiging Bureau Consignatie van de directie Financieel-Economische Zaken)

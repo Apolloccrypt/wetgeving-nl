@@ -8,7 +8,7 @@ laatste_update: 2026-03-06
 status: geldig
 toestand: 2026-03-06
 bron: "https://wetten.overheid.nl/BWBR0052407"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit verlening ondermandaat functionarissen Logius

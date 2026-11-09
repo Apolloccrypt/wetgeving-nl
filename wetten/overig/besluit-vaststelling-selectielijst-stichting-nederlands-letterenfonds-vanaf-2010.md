@@ -8,7 +8,7 @@ laatste_update: 2026-02-18
 status: geldig
 toestand: 2026-02-18
 bron: "https://wetten.overheid.nl/BWBR0052289"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit vaststelling selectielijst Stichting Nederlands Letterenfonds vanaf 2010

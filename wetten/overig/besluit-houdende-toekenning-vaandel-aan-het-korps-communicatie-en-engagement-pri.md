@@ -9,7 +9,7 @@ laatste_update: 2026-01-06
 status: geldig
 toestand: 2026-01-06
 bron: "https://wetten.overheid.nl/BWBR0052113"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van 4 december 2025, houdende de toekenning van een vaandel aan het Korps Communicatie en Engagement Prinses Ariane

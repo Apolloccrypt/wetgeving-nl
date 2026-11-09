@@ -9,7 +9,7 @@ laatste_update: 2026-03-28
 status: geldig
 toestand: 2026-03-28
 bron: "https://wetten.overheid.nl/BWBR0052466"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 26 maart 2026 nr. IENW/BSK-2026/34761, houdende vaststelling van de Tijdelijke subsidieregeling energietransitie binnenvaartmotoren (Tijdelijke subsidieregeling energietransitie binnenvaartmotoren 2026–2027) [KetenID WGK028335]

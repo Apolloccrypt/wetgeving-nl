@@ -9,7 +9,7 @@ laatste_update: 2026-01-29
 status: geldig
 toestand: 2026-01-29
 bron: "https://wetten.overheid.nl/BWBR0052209"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Pensioen- en Uitkeringsraad van 14 januari 2026, houdende de bekendmaking van de beleidsregels voorzieningen 2026 (Besluit wijziging Beleidsregels voorzieningen PUR 2026)

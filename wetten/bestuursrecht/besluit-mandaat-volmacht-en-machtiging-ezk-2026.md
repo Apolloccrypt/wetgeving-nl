@@ -9,7 +9,7 @@ laatste_update: 2026-07-15
 status: geldig
 toestand: 2026-07-15
 bron: "https://wetten.overheid.nl/BWBR0052019"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Economische Zaken van 10 december 2025, nr. WJZ/102570452, tot verlening van mandaat, volmacht en machtiging (Besluit mandaat, volmacht en machtiging EZ 2025)

@@ -9,7 +9,7 @@ laatste_update: 2026-01-16
 status: geldig
 toestand: 2026-01-16
 bron: "https://wetten.overheid.nl/BWBR0052153"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van het lid dienstleiding Dienst Justitiële Inrichtingen verantwoordelijk voor het Gevangeniswezen, Vreemdelingenbewaring en Veiligheid en Vervoer en Ondersteuning van 24 december 2025, nr. 7034897, houdende verlening van ondermandaat, volmacht en machtiging aan de onder het lid dienstleiding ressorterende directeuren (Mandaatbesluit DJI lid dienstleiding verantwoordelijk voor het Gevangeniswezen, Vreemdelingenbewaring en Veiligheid en Vervoer en Ondersteuning)

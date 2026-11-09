@@ -9,7 +9,7 @@ laatste_update: 2026-04-08
 status: geldig
 toestand: 2026-04-08
 bron: "https://wetten.overheid.nl/BWBR0052497"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 24 maart 2026, nr. WJZ/1787349, houdende regels voor subsidieverstrekking voor de instandhouding van monumenten met een woonfunctie op Bonaire, Sint Eustatius en Saba (Subsidieregeling instandhouding woonhuis-monumenten Caribisch Nederland 2026)

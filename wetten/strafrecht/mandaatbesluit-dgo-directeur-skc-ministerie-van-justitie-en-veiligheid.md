@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-06-30
 toestand: 2026-01-06
 bron: "https://wetten.overheid.nl/BWBR0052119"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de programmadirecteur-generaal Ondermijning van het Ministerie van Justitie en Veiligheid van 1 december 2025, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan de directeur van het Strategisch Kenniscentrum (SKC) van het programmadirectoraat-generaal ondermijning

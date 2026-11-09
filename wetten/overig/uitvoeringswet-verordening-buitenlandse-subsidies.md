@@ -9,7 +9,7 @@ laatste_update: 2026-04-30
 status: geldig
 toestand: 2026-04-30
 bron: "https://wetten.overheid.nl/BWBR0052450"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Wet van 25 februari 2026 tot uitvoering van verordening (EU) 2022/2560 van het Europees Parlement en de Raad van 14 december 2022 betreffende buitenlandse subsidies die de interne markt verstoren (Uitvoeringswet verordening buitenlandse subsidies)

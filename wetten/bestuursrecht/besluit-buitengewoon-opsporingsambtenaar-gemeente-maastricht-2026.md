@@ -9,7 +9,7 @@ laatste_update: 2026-05-25
 status: geldig
 toestand: 2026-05-25
 bron: "https://wetten.overheid.nl/BWBR0052438"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 13 maart 2026, nr. BOACAT2026/020, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Maastricht

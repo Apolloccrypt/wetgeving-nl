@@ -8,7 +8,7 @@ laatste_update: 2025-12-31
 status: geldig
 toestand: 2025-12-31
 bron: "https://wetten.overheid.nl/BWBR0052060"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit goedkeuring tarieven Stichting Groene Erkenningen 2026

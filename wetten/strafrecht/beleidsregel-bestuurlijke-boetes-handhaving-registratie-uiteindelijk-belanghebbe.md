@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0052090"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Beleidsregel van de Minister van Financiën van 7 december 2025, 2025-0000548953, over de bepaling van de hoogte van bestuurlijke boetes bij overtreding van artikel 47 juncto artikelen 19, eerste lid en 15a, tweede en derde lid, van de Handelsregisterwet 2007 (Beleidsregel bestuurlijke boetes handhaving registratie uiteindelijk belanghebbenden van vennootschappen en andere juridische entiteiten)

@@ -8,7 +8,7 @@ laatste_update: 2026-03-01
 status: geldig
 toestand: 2026-03-01
 bron: "https://wetten.overheid.nl/BWBR0052185"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Aanwijzingsbesluit gemeente Gouda experiment nieuw stembiljet

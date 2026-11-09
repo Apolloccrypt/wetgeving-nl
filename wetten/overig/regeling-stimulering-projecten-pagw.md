@@ -9,7 +9,7 @@ laatste_update: 2026-03-01
 status: geldig
 toestand: 2026-03-01
 bron: "https://wetten.overheid.nl/BWBR0052358"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 6 februari 2026, nr. IENW/BSK-2026/15802, houdende regels ter stimulering van het uitvoeren van projecten in het kader van de Programmatische Aanpak Grote Wateren (Regeling stimulering projecten PAGW) [KetenID WGK027450]

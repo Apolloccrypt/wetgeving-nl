@@ -9,7 +9,7 @@ laatste_update: 2026-03-06
 status: geldig
 toestand: 2026-03-06
 bron: "https://wetten.overheid.nl/BWBR0052396"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Buitenlandse Handel en Ontwikkelingssamenwerking van 3 maart 2026, nr. BZ2625321, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 in verband met aanvullende geoormerkte middelen voor mine action in Oekraïne (Optopping Mine Action en Clustermunitie Programma III 2025–2030)

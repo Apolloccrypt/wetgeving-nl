@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-06-30
 toestand: 2026-01-28
 bron: "https://wetten.overheid.nl/BWBR0052215"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Regeling van de Minister van Asiel en Migratie en de Minister voor Asiel en Migratie van 16 januari 2026, nr. 6944227, houdende tijdelijke regels om de uitstroom van vergunninghouders uit de asielopvang te stimuleren (Tijdelijke regeling stimuleren uitstroom vergunninghouders uit de asielopvang 2026)

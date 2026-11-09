@@ -9,7 +9,7 @@ laatste_update: 2026-02-21
 status: geldig
 toestand: 2026-02-21
 bron: "https://wetten.overheid.nl/BWBR0052317"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de directeur-generaal van de AIVD van 17 februari 2026 houdende (onder)mandaatverlening voor het optreden als National Security Authority in civiele aangelegenheden ((Onder)mandaatbesluit NSA civiel)

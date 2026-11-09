@@ -8,7 +8,7 @@ laatste_update: 2026-04-07
 status: geldig
 toestand: 2026-04-07
 bron: "https://wetten.overheid.nl/BWBR0052498"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Beleidsregel Meerzorg pgb Salland Zorgkantoor

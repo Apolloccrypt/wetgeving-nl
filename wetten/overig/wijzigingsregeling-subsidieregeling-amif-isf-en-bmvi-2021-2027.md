@@ -9,7 +9,7 @@ laatste_update: 2026-04-16
 status: geldig
 toestand: 2026-04-16
 bron: "https://wetten.overheid.nl/BWBR0052543"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Regeling van de Minister van Asiel en Migratie, Minister van Justitie en Veiligheid en de Minister van Werk en Participatie van 9 april 2026, nummer 7300182, houdende wijziging van de Subsidieregeling AMIF, ISF en BMVI 2021-2027

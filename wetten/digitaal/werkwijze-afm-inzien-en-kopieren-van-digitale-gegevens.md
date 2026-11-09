@@ -8,7 +8,7 @@ laatste_update: 2025-12-23
 status: geldig
 toestand: 2025-12-23
 bron: "https://wetten.overheid.nl/BWBR0052015"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-09
 ---
 
 # Werkwijze AFM inzien en kopiëren van digitale gegevens

@@ -9,7 +9,7 @@ laatste_update: 2026-05-01
 status: geldig
 toestand: 2026-05-01
 bron: "https://wetten.overheid.nl/BWBR0052474"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 13 maart 2026 nr. 6849024, houdende vaststelling van modellen van akte ten behoeve van de kennisgeving van gerechtelijke mededelingen 2026 (Regeling modellen van akte gerechtelijke mededelingen 2026)

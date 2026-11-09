@@ -9,7 +9,7 @@ laatste_update: 2026-02-04
 status: geldig
 toestand: 2026-02-04
 bron: "https://wetten.overheid.nl/BWBR0052247"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 20 januari 2026, nr. M&C/1798931, houdende de aanwijzing van de Geschillencommissie Auteurscontractenrecht (Besluit aanwijzing Geschillencommissie Auteurscontractenrecht)

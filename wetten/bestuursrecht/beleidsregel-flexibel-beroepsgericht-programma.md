@@ -9,7 +9,7 @@ laatste_update: 2026-02-01
 status: geldig
 toestand: 2026-02-01
 bron: "https://wetten.overheid.nl/BWBR0052166"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Beleidsregel van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 4 december 2025, houdende nadere regels voor het aanbieden van een flexibel beroepsgericht programma in de beroepsgerichte profielen in de basisberoepsgerichte, de kaderberoepsgerichte en de gemengde leerweg vmbo (Beleidsregel flexibel beroepsgericht programma)

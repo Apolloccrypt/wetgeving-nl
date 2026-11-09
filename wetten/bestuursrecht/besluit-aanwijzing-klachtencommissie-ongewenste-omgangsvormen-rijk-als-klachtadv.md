@@ -9,7 +9,7 @@ laatste_update: 2026-04-10
 status: geldig
 toestand: 2026-04-10
 bron: "https://wetten.overheid.nl/BWBR0052508"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Financiën van 23 februari 2026 tot aanwijzing van de Klachtencommissie Ongewenste Omgangsvormen Rijk als klachtadviescommissie

@@ -8,7 +8,7 @@ laatste_update: 2026-02-25
 status: geldig
 toestand: 2026-02-25
 bron: "https://wetten.overheid.nl/BWBR0052349"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit beperking openbaarheid archiefbescheiden Zuurkast archief (1959-2000)

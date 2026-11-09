@@ -9,7 +9,7 @@ laatste_update: 2026-02-06
 status: geldig
 toestand: 2026-02-06
 bron: "https://wetten.overheid.nl/BWBR0052244"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 26 januari 2026 nr. BOACAT2026/006, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Hengelo

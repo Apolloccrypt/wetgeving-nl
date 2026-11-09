@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0052098"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Autoriteit Financiële Markten van 16 december 2025, houdende regels met betrekking tot aanwijzing van de elektronische verzendwijze van verzenden van officiële berichten aan de Autoriteit Financiële Markten (Besluit aanwijzing elektronische verzendwijzen AFM)

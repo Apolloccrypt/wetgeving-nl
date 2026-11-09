@@ -9,7 +9,7 @@ laatste_update: 2026-02-20
 status: geldig
 toestand: 2026-02-20
 bron: "https://wetten.overheid.nl/BWBR0052299"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken van 12 februari 2026, nr. 2026-0000064950, houdende invoering van regels met betrekking tot het loopbaanvervolg van bewindspersonen (Regeling vervolgfuncties bewindspersonen) [KetenID: WGK026982]

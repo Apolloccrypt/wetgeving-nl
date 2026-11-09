@@ -9,7 +9,7 @@ laatste_update: 2026-04-25
 status: geldig
 toestand: 2026-04-25
 bron: "https://wetten.overheid.nl/BWBR0052573"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van 16 april 2026, houdende regels voor de openbaar te maken gegevens in geval van openbaarmaking van een bestuurlijke boete of last onder dwangsom en het behoud van kinderpornografisch materiaal, alsmede vaststelling van het tijdstip van inwerkingtreding van de artikelen 9 en 12 van de Wet bestuursrechtelijke aanpak online kinderpornografisch materiaal (Besluit bestuursrechtelijke aanpak online kinderpornografisch materiaal) [KetenID WGK027195]

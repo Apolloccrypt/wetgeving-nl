@@ -9,7 +9,7 @@ laatste_update: 2026-01-20
 status: geldig
 toestand: 2026-01-20
 bron: "https://wetten.overheid.nl/BWBR0052191"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Raad van Bestuur van Zorginstituut Nederland van 9 december 2025, kenmerk 2025014275, tot vaststelling van de Beleidsregels beheerskosten Wlz en overige zorgkosten 2026

@@ -9,7 +9,7 @@ laatste_update: 2026-04-04
 status: geldig
 toestand: 2026-04-04
 bron: "https://wetten.overheid.nl/BWBR0052491"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 13 maart 2026, nr. 62201047, houdende de instelling van de Begeleidingscommissie Creative Industries Immersive Impact Coalition (CIIIC) (Instellingsbesluit Begeleidingscommissie Creative Industries Immersive Impact Coalition (CIIIC))

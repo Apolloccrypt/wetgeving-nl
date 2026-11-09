@@ -9,7 +9,7 @@ laatste_update: 2025-12-17
 status: geldig
 toestand: 2025-12-17
 bron: "https://wetten.overheid.nl/BWBR0052165"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 10 december 2025, kenmerk 4315913-1091949-PZo, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake de verstrekking van de beschikbaarheidbijdrage (medische) vervolgopleidingen voor de jaren 2026 en verder

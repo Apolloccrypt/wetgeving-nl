@@ -9,7 +9,7 @@ laatste_update: 2026-01-29
 status: geldig
 toestand: 2026-01-29
 bron: "https://wetten.overheid.nl/BWBR0052226"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Tijdelijke subsidieregeling van het bestuur van de Raad voor Rechtsbijstand van 21 november 2025 tot het verstrekken van subsidie voor rechtsbijstand aan rechtzoekenden bij wie beslag op inkomen en vermogen is gelegd (Tijdelijke subsidieregeling rechtsbijstand bij beslag op inkomen of vermogen 2026–2028)

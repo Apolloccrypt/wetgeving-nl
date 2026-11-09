@@ -9,7 +9,7 @@ laatste_update: 2026-01-09
 status: geldig
 toestand: 2026-01-09
 bron: "https://wetten.overheid.nl/BWBR0052139"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van 17 december 2025 tot wijziging van het Besluit bewijzen van bevoegdheid voor de luchtvaart in verband met enkele aanpassingen ten aanzien van de bewijzen van bevoegdheid voor ASO en FISO (Besluit aanpassingen eisen voor ASO’s en FISO’s) [KetenID WGK026305]

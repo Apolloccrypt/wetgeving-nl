@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0052030"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van het Instituut Mijnbouwschade Groningen van 20 november 2025 houdende de vaststelling van een beleidsregel met betrekking tot het toekennen van een tegemoetkoming in de vorm van een subsidie in natura voor een maatregel die nodig is om te bewerkstelligen dat de schade waarvoor door het Instituut Mijnbouwschade Groningen in het kader van zijn wettelijke taakuitoefening op grond van het Burgerlijk Wetboek een vergoeding wordt toegekend, duurzaam kan worden hersteld (Beleidsregel Duurzaam herstel 2026)

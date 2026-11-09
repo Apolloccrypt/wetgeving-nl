@@ -9,7 +9,7 @@ laatste_update: 2026-02-06
 status: geldig
 toestand: 2026-02-06
 bron: "https://wetten.overheid.nl/BWBR0052269"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de programmadirecteur-generaal Ondermijning van het Ministerie van Justitie en Veiligheid van 1 januari 2026, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan onder de programmadirecteur-generaal ressorterende ambtenaren (Mandaatbesluit DGO Ministerie van Justitie en Veiligheid 2026)

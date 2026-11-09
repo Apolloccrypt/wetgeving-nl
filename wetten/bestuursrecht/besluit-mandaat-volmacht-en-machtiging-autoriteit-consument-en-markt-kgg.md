@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0052029"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Klimaat en Groene Groei van 14 december 2025, nr. WJZ/102293002, houdende regels inzake de verlening van mandaat, volmacht en machtiging aan de ACM (Besluit mandaat, volmacht en machtiging Autoriteit Consument en Markt KGG)

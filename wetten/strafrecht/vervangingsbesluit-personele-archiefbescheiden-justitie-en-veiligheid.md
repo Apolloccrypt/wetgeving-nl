@@ -8,7 +8,7 @@ laatste_update: 2026-03-26
 status: geldig
 toestand: 2026-03-26
 bron: "https://wetten.overheid.nl/BWBR0052451"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Vervangingsbesluit personele archiefbescheiden Justitie en Veiligheid

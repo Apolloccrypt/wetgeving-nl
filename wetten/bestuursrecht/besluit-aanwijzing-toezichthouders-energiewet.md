@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0052003"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Klimaat en Groene Groei van 14 december 2025, nr. WJZ/102303353, tot aanwijzing van toezichthouders voor de Energiewet (Besluit aanwijzing toezichthouders Energiewet)

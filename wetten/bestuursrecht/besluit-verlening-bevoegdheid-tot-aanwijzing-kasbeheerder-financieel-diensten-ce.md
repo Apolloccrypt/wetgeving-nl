@@ -9,7 +9,7 @@ laatste_update: 2026-03-04
 status: geldig
 toestand: 2026-03-04
 bron: "https://wetten.overheid.nl/BWBR0052377"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 20 januari 2026, kenmerk 2025-0000697166, tot verlening van de bevoegdheid tot aanwijzing van de kasbeheerder van het Financieel Diensten Centrum

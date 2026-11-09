@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0052272"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Wet van 28 januari 2026 tot wijziging van enkele wetten van het Ministerie van Sociale Zaken en Werkgelegenheid in verband met verscheidene technische en kleine beleidsmatige wijzigingen (Verzamelwet SZW 2026)

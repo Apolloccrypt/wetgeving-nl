@@ -9,7 +9,7 @@ laatste_update: 2026-02-28
 status: geldig
 toestand: 2026-02-28
 bron: "https://wetten.overheid.nl/BWBR0052380"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Staatssecretaris van Financiën van 8 februari 2026, nr. 2026-1395 over Tabel II bij de Wet op de omzetbelasting 1968 (Besluit Toelichting Tabel II)

@@ -9,7 +9,7 @@ laatste_update: 2026-03-31
 status: geldig
 toestand: 2026-03-31
 bron: "https://wetten.overheid.nl/BWBR0052471"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Regeling van de Staatssecretaris van Justitie en Veiligheid van 24 maart 2026, nr. 7253609, houdende regels inzake subsidie om gecertificeerde instellingen te ondersteunen bij het inzetten van zij-instromers (Regeling subsidie zij-instromers gecertificeerde instellingen 2026)

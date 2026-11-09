@@ -9,7 +9,7 @@ laatste_update: 2025-12-20
 status: geldig
 toestand: 2025-12-20
 bron: "https://wetten.overheid.nl/BWBR0052011"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-09
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 11 december 2025, nr. 2025-0000241766, tot aanwijzen Klachtencommissie Ongewenste Omgangsvormen Rijk als klachtadviescommissie

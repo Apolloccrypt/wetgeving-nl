@@ -9,7 +9,7 @@ laatste_update: 2025-12-19
 status: geldig
 toestand: 2025-12-19
 bron: "https://wetten.overheid.nl/BWBR0052156"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 15 december 2025, kenmerk 4315397-1091712-PZo, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake de invoering van budgetbekostiging voor de spoedeisende hulp

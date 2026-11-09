@@ -9,7 +9,7 @@ laatste_update: 2025-12-31
 status: geldig
 toestand: 2025-12-31
 bron: "https://wetten.overheid.nl/BWBR0052054"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 10 december 2025, kenmerk 57892002, houdende wijziging van de Gemeenschappelijke regeling Tresoar

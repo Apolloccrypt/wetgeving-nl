@@ -9,7 +9,7 @@ laatste_update: 2026-01-16
 status: geldig
 toestand: 2026-01-16
 bron: "https://wetten.overheid.nl/BWBR0052176"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de clusterdirecteur Inning van de directie Centrale Administratieve Processen van 18 november 2025 houdende ondermandatering van de bevoegdheden op het terrein van Organisatie en Personeel

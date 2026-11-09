@@ -9,7 +9,7 @@ laatste_update: 2026-04-18
 status: geldig
 toestand: 2026-04-18
 bron: "https://wetten.overheid.nl/BWBR0052547"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Regeling van de Minister van Langdurige zorg, Jeugd en Sport, van 9 april 2026, kenmerk 4366014-1095423-DMO, houdende regels omtrent het verstrekken van subsidie voor de coördinatiekosten levensloopaanpak (Subsidieregeling coördinatiekosten levensloopaanpak) [KetenID WGK028610]

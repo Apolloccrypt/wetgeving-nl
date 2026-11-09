@@ -9,7 +9,7 @@ laatste_update: 2026-02-13
 status: geldig
 toestand: 2026-02-13
 bron: "https://wetten.overheid.nl/BWBR0052125"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 29 december 2025 nr. BOACAT2025/212, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Stichting Landschap Overijssel

@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0052047"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Wet van 17 december 2025, houdende wijziging van enkele belastingwetten en enige andere wetten (Overige fiscale maatregelen 2026)

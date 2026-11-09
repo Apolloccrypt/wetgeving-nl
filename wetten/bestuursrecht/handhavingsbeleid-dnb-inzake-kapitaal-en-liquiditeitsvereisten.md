@@ -9,7 +9,7 @@ laatste_update: 2026-03-10
 status: geldig
 toestand: 2026-03-10
 bron: "https://wetten.overheid.nl/BWBR0052408"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Beleidsregel van De Nederlandsche Bank N.V. van 6 maart 2026 houdende regels met betrekking tot de handhaving van kapitaal- en liquiditeitsvereisten

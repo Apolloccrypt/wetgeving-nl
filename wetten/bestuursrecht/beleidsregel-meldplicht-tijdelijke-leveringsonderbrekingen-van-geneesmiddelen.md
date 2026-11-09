@@ -9,7 +9,7 @@ laatste_update: 2026-04-01
 status: geldig
 toestand: 2026-04-01
 bron: "https://wetten.overheid.nl/BWBR0052168"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Beleidsregel van de Minister van Volksgezondheid, Welzijn en Sport van 1 december 2025, kenmerk 4299709-1091532-GMT, over de meldplicht tijdelijke leveringsonderbrekingen van geneesmiddelen (Beleidsregel meldplicht tijdelijke leveringsonderbrekingen van geneesmiddelen)

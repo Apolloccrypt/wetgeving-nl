@@ -9,7 +9,7 @@ laatste_update: 2026-03-26
 status: geldig
 toestand: 2026-03-26
 bron: "https://wetten.overheid.nl/BWBR0052455"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 3 februari 2026, nr. 50239766, houdende vaststelling van het onderwijsaccountantsprotocol voor de sectoren PO, VO en MBO in Caribisch Nederland (Regeling onderwijsaccountantsprotocol OCW BES 2025)

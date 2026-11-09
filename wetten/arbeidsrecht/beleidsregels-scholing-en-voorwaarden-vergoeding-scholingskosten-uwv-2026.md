@@ -8,7 +8,7 @@ laatste_update: 2026-01-20
 status: geldig
 toestand: 2026-01-20
 bron: "https://wetten.overheid.nl/BWBR0052200"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Beleidsregels Scholing en voorwaarden vergoeding scholingskosten UWV 2026

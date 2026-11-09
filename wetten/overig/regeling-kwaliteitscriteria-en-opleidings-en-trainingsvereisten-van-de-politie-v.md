@@ -8,7 +8,7 @@ laatste_update: 2010-09-01
 status: geldig
 toestand: 2010-09-01
 bron: "https://wetten.overheid.nl/BWBR0052577"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Regeling kwaliteitscriteria en opleidings- en trainingsvereisten van de politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba

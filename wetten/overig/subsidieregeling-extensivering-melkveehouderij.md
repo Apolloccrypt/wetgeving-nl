@@ -9,7 +9,7 @@ laatste_update: 2026-07-23
 status: geldig
 toestand: 2026-07-23
 bron: "https://wetten.overheid.nl/BWBR0052578"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Regeling van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur, van 23 april 2026, nr. WJZ/105608552, houdende regels voor de verstrekking van subsidie voor het nemen van extensiveringsmaatregelen op melkveehouderijbedrijven (Subsidieregeling extensivering melkveehouderij)

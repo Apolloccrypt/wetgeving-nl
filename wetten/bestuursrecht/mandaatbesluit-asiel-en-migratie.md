@@ -9,7 +9,7 @@ laatste_update: 2025-12-20
 status: geldig
 toestand: 2025-12-20
 bron: "https://wetten.overheid.nl/BWBR0051994"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Asiel en Migratie van 17 december 2025 (kenmerk 7002790/25/DP&O), houdende verlening van mandaat, volmacht en machtiging (Mandaatbesluit Ministerie van Asiel en Migratie)

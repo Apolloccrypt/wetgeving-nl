@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0052018"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-09
 ---
 
 # Wet van 10 december 2025 tot wijziging van de Algemene wet inkomensafhankelijke regelingen, de Wet hersteloperatie toeslagen en enkele andere wetten met het oog op het verbeteren van het toeslagenstelsel en het aanpassen van enkele aanvraagtermijnen van bepaalde regelingen inzake de hersteloperatie toeslagen (Wet verbetermaatregelen toeslagen en aanpassing termijnen hersteloperatie toeslagen)

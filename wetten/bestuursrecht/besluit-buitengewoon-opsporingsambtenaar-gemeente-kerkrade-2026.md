@@ -9,7 +9,7 @@ laatste_update: 2026-03-03
 status: geldig
 toestand: 2026-03-03
 bron: "https://wetten.overheid.nl/BWBR0052280"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 3 februari 2026 nr. BOACAT2026/007, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Kerkrade

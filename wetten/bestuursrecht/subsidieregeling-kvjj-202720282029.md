@@ -9,7 +9,7 @@ laatste_update: 2026-03-01
 status: geldig
 toestand: 2026-03-01
 bron: "https://wetten.overheid.nl/BWBR0052368"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Regeling van 12 februari 2026 van de Staatssecretaris van Justitie en Veiligheid, kenmerk 7151130, houdende vaststelling van een subsidieregeling voor Kleinschalige Voorzieningen Justitiële Jeugd

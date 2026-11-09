@@ -8,7 +8,7 @@ laatste_update: 2026-04-09
 status: geldig
 toestand: 2026-04-09
 bron: "https://wetten.overheid.nl/BWBR0052503"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Regeling verantwoording bbaz 2025 compartiment 2

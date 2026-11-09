@@ -8,7 +8,7 @@ laatste_update: 2026-02-28
 status: geldig
 toestand: 2026-02-28
 bron: "https://wetten.overheid.nl/BWBR0052302"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Regeling Transparantie zorgcontractering Zvw

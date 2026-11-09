@@ -8,7 +8,7 @@ laatste_update: 2026-04-15
 status: geldig
 toestand: 2026-04-15
 bron: "https://wetten.overheid.nl/BWBR0052526"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Richtlijn voor strafvordering aanranding

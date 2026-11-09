@@ -9,7 +9,7 @@ laatste_update: 2026-04-18
 status: geldig
 toestand: 2026-04-18
 bron: "https://wetten.overheid.nl/BWBR0052291"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 3 februari 2026 nr. BOACAT2026/005, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Lelystad

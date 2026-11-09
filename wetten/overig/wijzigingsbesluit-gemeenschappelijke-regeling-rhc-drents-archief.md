@@ -9,7 +9,7 @@ laatste_update: 2025-12-23
 status: geldig
 toestand: 2025-12-23
 bron: "https://wetten.overheid.nl/BWBR0052028"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 10 december 2025, kenmerk 57891550, houdende wijziging van de Gemeenschappelijke regeling RHC Drents Archief

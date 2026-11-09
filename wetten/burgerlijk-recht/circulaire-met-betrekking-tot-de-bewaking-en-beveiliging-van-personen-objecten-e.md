@@ -8,7 +8,7 @@ laatste_update: 2026-02-24
 status: geldig
 toestand: 2026-02-24
 bron: "https://wetten.overheid.nl/BWBR0052355"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Circulaire met betrekking tot de bewaking en beveiliging van personen, objecten en diensten 2026

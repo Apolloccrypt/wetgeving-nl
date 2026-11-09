@@ -9,7 +9,7 @@ laatste_update: 2026-03-25
 status: geldig
 toestand: 2026-03-25
 bron: "https://wetten.overheid.nl/BWBR0052442"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur van 13 maart 2026, nr. nvwa/2026/010018642, houdende aanwijzing en bekendmaking van de aardappelen behorende tot resistente rassen, bedoeld in artikel 16, tweede lid, van de Regeling plantgezondheid

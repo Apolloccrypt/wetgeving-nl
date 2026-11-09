@@ -9,7 +9,7 @@ laatste_update: 2026-03-27
 status: geldig
 toestand: 2026-03-27
 bron: "https://wetten.overheid.nl/BWBR0052458"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur van 13 maart 2026, nr. nvwa/2026/010018635, houdende vaststelling en bekendmaking van de lijst aardappelrassen met bijbehorend resistentieniveau, bedoeld in artikel 36, eerste lid, van de Regeling plantgezondheid

@@ -9,7 +9,7 @@ laatste_update: 2026-01-09
 status: geldig
 toestand: 2026-01-09
 bron: "https://wetten.overheid.nl/BWBR0052133"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Regeling van het College voor toetsen en examens van 1 december 2025 nummer CvTE-25.012.16, houdende vaststelling van de regeling voor de procedure om te komen tot de beoordelingsnormen van de doorstroomtoets po op Bonaire (de Regeling beoordelingsnormen doorstroomtoets PO Bonaire)

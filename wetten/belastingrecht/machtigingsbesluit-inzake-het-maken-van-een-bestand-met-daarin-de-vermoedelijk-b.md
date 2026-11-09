@@ -9,7 +9,7 @@ laatste_update: 2026-02-20
 status: geldig
 toestand: 2026-02-20
 bron: "https://wetten.overheid.nl/BWBR0052308"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de inspecteur, algemeen directeur Grote Ondernemingen van de Belastingdienst, houdende de verlening van machtiging aan de directeur-generaal Rijksdienst voor Ondernemend Nederland voor het verrichten van werkzaamheden om een bestand te maken met daarin de vermoedelijk belastingplichtigen voor de CO2-heffing glastuinbouw (doelgroepbestand)

@@ -9,7 +9,7 @@ laatste_update: 2026-03-12
 status: geldig
 toestand: 2026-03-12
 bron: "https://wetten.overheid.nl/BWBR0052421"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Staatssecretaris van Defensie van 20 februari 2026, nr. MINDEF20260010335, tot geheimverklaring van opdrachten in het kader van de Nederlandse Special Operation Forces

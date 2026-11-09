@@ -9,7 +9,7 @@ laatste_update: 2026-05-29
 status: geldig
 toestand: 2026-05-29
 bron: "https://wetten.overheid.nl/BWBR0052569"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Wet van 19 maart 2026, houdende wijziging van de Wet op het financieel toezicht ter implementatie van Richtlijn (EU) 2024/927 tot wijziging van de Richtlijnen 2011/61/EU en 2009/65/EG wat betreft delegatieregelingen, liquiditeitsrisicobeheer, toezichtrapportage, verlening van bewaar- en bewaarnemingsdiensten en leninginitiëring door alternatieve beleggingsfondsen (Implementatiewet gewijzigde AIFM-richtlijn en icbe-richtlijn)

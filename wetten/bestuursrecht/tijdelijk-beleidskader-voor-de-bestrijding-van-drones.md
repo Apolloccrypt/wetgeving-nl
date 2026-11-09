@@ -9,7 +9,7 @@ laatste_update: 2026-06-24
 status: geldig
 toestand: 2026-06-24
 bron: "https://wetten.overheid.nl/BWBR0052430"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Tijdelijk beleidskader van de Minister van Justitie en Veiligheid van 19 december 2025, kenmerk 7020757, voor het bestrijden van onbemande luchtvaartuigen (drones) (Tijdelijk beleidskader voor de bestrijding van drones)

@@ -8,7 +8,7 @@ laatste_update: 2026-04-18
 status: geldig
 toestand: 2026-04-18
 bron: "https://wetten.overheid.nl/BWBR0052546"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit tot vervanging van papieren archiefbescheiden door digitale reproducties AFM 2026

@@ -9,7 +9,7 @@ laatste_update: 2026-03-11
 status: geldig
 toestand: 2026-03-11
 bron: "https://wetten.overheid.nl/BWBR0052416"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Waterstaat van 23 februari 2026, nr. IENW/BSK-2026/12867 houdende tijdelijke vrijstelling op grond van artikel 46, eerste lid van de Wet gewasbeschermingsmiddelen en biociden voor het gebruik van VectoBac WG voor het bestrijden van exotische muggen in binnenruimten (Vrijstelling VectoBac WG Exotische muggen 2026)

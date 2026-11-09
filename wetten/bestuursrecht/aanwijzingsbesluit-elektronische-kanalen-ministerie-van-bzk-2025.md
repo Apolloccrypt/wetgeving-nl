@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0052034"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 15 december 2025 houdende de aanwijzing van elektronische kanalen voor het verzenden van berichten in de zin van artikel 2:13, tweede lid, van de Algemene wet bestuursrecht (Aanwijzingsbesluit elektronische kanalen BZK 2025)

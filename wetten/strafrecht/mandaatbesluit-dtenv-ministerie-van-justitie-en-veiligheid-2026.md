@@ -9,7 +9,7 @@ laatste_update: 2026-01-31
 status: geldig
 toestand: 2026-01-31
 bron: "https://wetten.overheid.nl/BWBR0052238"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de algemeen directeur van de Dienst Terugkeer en Vertrek van het Ministerie van Justitie en Veiligheid van 1 februari 2026, nr. DJ7062637, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan onder de algemeen directeur ressorterende functionarissen (Mandaatbesluit DTenV Ministerie van Justitie en Veiligheid 2026

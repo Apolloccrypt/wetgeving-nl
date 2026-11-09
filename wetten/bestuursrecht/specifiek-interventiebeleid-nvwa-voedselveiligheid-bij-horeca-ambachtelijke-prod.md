@@ -9,7 +9,7 @@ laatste_update: 2026-04-01
 status: geldig
 toestand: 2026-04-01
 bron: "https://wetten.overheid.nl/BWBR0052403"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister van Volksgezondheid, Welzijn en Sport van 23 februari 2026 tot vaststelling van het Specifiek interventiebeleid NVWA voedselveiligheid bij horeca, ambachtelijke productie, retail en instellingen (IB03-SPEC 37, versie 11)

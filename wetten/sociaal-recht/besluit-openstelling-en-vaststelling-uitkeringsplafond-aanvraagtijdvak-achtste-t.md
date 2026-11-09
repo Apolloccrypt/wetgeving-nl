@@ -9,7 +9,7 @@ laatste_update: 2026-02-01
 status: geldig
 toestand: 2026-02-01
 bron: "https://wetten.overheid.nl/BWBR0052167"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Volkshuisvesting en Ruimtelijke Ordening van 21 december 2025, nr. 2025-0000700636 tot openstelling en vaststelling uitkeringsplafond aanvraagtijdvak van de achtste tranche van de Woningbouwimpuls

@@ -8,7 +8,7 @@ laatste_update: 2026-04-01
 status: geldig
 toestand: 2026-04-01
 bron: "https://wetten.overheid.nl/BWBR0052487"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit Normbedragen Voorzieningen UWV 2026

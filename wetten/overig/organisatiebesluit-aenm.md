@@ -9,7 +9,7 @@ laatste_update: 2025-12-20
 status: geldig
 toestand: 2025-12-20
 bron: "https://wetten.overheid.nl/BWBR0051998"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Asiel en Migratie van 17 december 2025, 6935891, houdende vaststelling van de organisatie van het Ministerie van Asiel en Migratie (Organisatiebesluit Ministerie van Asiel en Migratie)

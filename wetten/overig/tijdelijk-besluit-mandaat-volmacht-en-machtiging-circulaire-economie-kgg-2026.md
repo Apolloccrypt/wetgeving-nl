@@ -9,7 +9,7 @@ laatste_update: 2026-04-30
 status: geldig
 toestand: 2026-04-30
 bron: "https://wetten.overheid.nl/BWBR0052579"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Klimaat en Groene Groei van 21 april 2026, nr. WJZ/105683766, tot vaststelling van het Tijdelijk besluit mandaat, volmacht en machtiging circulaire economie KGG 2026 (Tijdelijk besluit mandaat, volmacht en machtiging circulaire economie KGG 2026)

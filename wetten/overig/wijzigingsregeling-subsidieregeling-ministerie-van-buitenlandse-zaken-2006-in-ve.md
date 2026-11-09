@@ -9,7 +9,7 @@ laatste_update: 2026-04-21
 status: geldig
 toestand: 2026-04-21
 bron: "https://wetten.overheid.nl/BWBR0052552"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Regeling van de Minister van Buitenlandse Handel en Ontwikkelingssamenwerking van 10 april 2026, nr. BZ2626902, tot wijziging van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 in verband met subsidieverstrekking voor beleidsbeïnvloeding in Nederland

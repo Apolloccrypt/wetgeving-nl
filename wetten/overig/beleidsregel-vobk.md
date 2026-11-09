@@ -8,7 +8,7 @@ laatste_update: 2026-03-27
 status: geldig
 toestand: 2026-03-27
 bron: "https://wetten.overheid.nl/BWBR0052443"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Beleidsregel VOBK

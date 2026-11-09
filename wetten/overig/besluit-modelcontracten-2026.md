@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0052036"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Autoriteit Consument en Markt van 12 december 2025, met kenmerk ACM/UIT/664047 houdende de vaststelling van de modelcontracten als bedoeld in artikel 2.23, tweede lid, van de Energiewet

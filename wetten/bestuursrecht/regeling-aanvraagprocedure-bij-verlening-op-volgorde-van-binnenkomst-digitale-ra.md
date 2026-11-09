@@ -9,7 +9,7 @@ laatste_update: 2025-12-24
 status: geldig
 toestand: 2025-12-24
 bron: "https://wetten.overheid.nl/BWBR0052020"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-09
 ---
 
 # Regeling van de Minister van Economische Zaken van 15 december 2025, nr. WJZ/102953095, tot vaststelling van regels met betrekking tot de aanvraag van vergunningen voor lokale commerciële radio-omroep (Regeling aanvraagprocedure bij verlening op volgorde van binnenkomst digitale commerciële radio-omroep DAB laag 6)

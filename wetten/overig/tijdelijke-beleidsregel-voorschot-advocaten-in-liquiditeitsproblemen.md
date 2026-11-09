@@ -9,7 +9,7 @@ laatste_update: 2026-04-17
 status: geldig
 toestand: 2026-04-17
 bron: "https://wetten.overheid.nl/BWBR0052545"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van het bestuur van de Raad voor Rechtsbijstand, d.d. 11 december 2025, houdende de bekendmaking van een tijdelijke beleidsregel tot verlening van een voorschot aan advocaten die in liquiditeitsproblemen zijn gekomen door vertraging in de afhandeling van aanvragen of procedures door een bestuursorgaan of een gerechtelijke instantie (Tijdelijke beleidsregel voorschot advocaten in liquiditeitsproblemen)

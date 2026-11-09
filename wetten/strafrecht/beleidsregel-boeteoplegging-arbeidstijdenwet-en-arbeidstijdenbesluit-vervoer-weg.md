@@ -9,7 +9,7 @@ laatste_update: 2026-03-18
 status: geldig
 toestand: 2026-03-18
 bron: "https://wetten.overheid.nl/BWBR0052429"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Beleidsregel van de Minister van Infrastructuur en Waterstaat en de Minister van Sociale Zaken en Werkgelegenheid, van 17 februari 2026, nr. ILT-2025/54705, over vaststelling van boetebedragen voor overtredingen van de Arbeidstijdenwet begaan door personen, werkzaam in of op motorrijtuigen als bedoeld in artikel 5: 12, tweede lid, onder a, van die wet (Beleidsregel boeteoplegging Arbeidstijdenwet en Arbeidstijdenbesluit vervoer (wegvervoer) 2026)

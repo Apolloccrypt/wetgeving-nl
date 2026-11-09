@@ -9,7 +9,7 @@ laatste_update: 2026-02-20
 status: geldig
 toestand: 2026-02-20
 bron: "https://wetten.overheid.nl/BWBR0052305"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat van 9 februari 2026, nr. IENW/BSK-2026/15968, houdende tijdelijke regels ter stimulering van demonstraties binnen het Maritiem Masterplan 2026 (Tijdelijke subsidieregeling Maritiem Masterplan 2026) [KetenID WGK 028498]

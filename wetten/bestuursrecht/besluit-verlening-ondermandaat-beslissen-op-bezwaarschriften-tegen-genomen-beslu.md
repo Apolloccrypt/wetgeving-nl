@@ -9,7 +9,7 @@ laatste_update: 2026-04-03
 status: geldig
 toestand: 2026-04-03
 bron: "https://wetten.overheid.nl/BWBR0052489"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de secretaris-generaal van het Ministerie van Financiën van 25 februari 2026, houdende verlening van ondermandaat ten behoeve van het beslissen op bezwaarschriften tegen in verband met de Wet ter voorkoming van witwassen en financieren van terrorisme genomen besluiten

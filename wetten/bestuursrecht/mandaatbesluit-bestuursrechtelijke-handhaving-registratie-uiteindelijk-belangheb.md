@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0052101"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Financiën van 7 december 2025, 2025-0000527474, directie Financiële Markten, houdende verlening van mandaat, volmacht en machtiging voor de bestuursrechtelijke handhaving van verplichtingen in het kader van de registratie van de uiteindelijk belanghebbenden vennootschappen en andere juridische entiteiten op grond van de Handelsregisterwet 2007 (Mandaatbesluit bestuursrechtelijke handhaving registratie uiteindelijk belanghebbenden Handelsregisterwet 2007)

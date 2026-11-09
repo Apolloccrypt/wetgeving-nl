@@ -9,7 +9,7 @@ laatste_update: 2026-01-20
 status: geldig
 toestand: 2026-01-20
 bron: "https://wetten.overheid.nl/BWBR0052190"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de algemeen directeur van de directie Informatievoorziening van 1 september 2025 houdende ondermandatering van de bevoegdheden op het terrein van Organisatie en Personeel

@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-06-30
 toestand: 2026-04-15
 bron: "https://wetten.overheid.nl/BWBR0052539"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur 10 april 2026, nr. RT-0000134677, houdende tijdelijke vrijstelling op grond van artikel 38 van de Wet gewasbeschermingsmiddelen en biociden voor de beheersing van tulpengalmijt in de onbedekte teelt van tulp (Tijdelijke vrijstelling voor de beheersing van tulpengalmijt in de onbedekte teelt van tulp, 2026)

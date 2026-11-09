@@ -9,7 +9,7 @@ laatste_update: 2026-01-28
 status: geldig
 toestand: 2026-01-28
 bron: "https://wetten.overheid.nl/BWBR0052220"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Klimaat en Groene Groei van 22 januari 2026, nr. WJZ/103610128, tot vaststelling van de voorlopige correctiebedragen voor 2026 voor de Subsidieregeling opschaling volledig hernieuwbare waterstofproductie via elektrolyse en de Subsidieregeling grootschalige productie volledig hernieuwbare waterstof via elektrolyse

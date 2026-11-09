@@ -9,7 +9,7 @@ laatste_update: 2026-04-15
 status: geldig
 toestand: 2026-04-15
 bron: "https://wetten.overheid.nl/BWBR0052337"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Beleidsregel van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 6 februari 2026, nr. PO/55072181, houdende regels voor een vervolgexperiment ten behoeve van wetenschappelijk onderzoek naar flexibele vakanties in het kader van de onderwijstijd in het primair onderwijs (Beleidsregel experiment vervolg en verfijning van ruimte in onderwijstijd)

@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-06-19
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0052088"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Regeling voorwaarden deelname examen LPG technicus

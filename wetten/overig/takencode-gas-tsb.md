@@ -9,7 +9,7 @@ laatste_update: 2026-02-21
 status: geldig
 toestand: 2026-02-21
 bron: "https://wetten.overheid.nl/BWBR0052339"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Autoriteit Consument en Markt van 5 februari 2026, kenmerk ACM/UIT/666102, op grond van artikel 3.121 van de Energiewet, en artikel 12f van de Gaswet juncto artikel 7.42, tweede lid, van de Energiewet over de taken van de TSB voor gas (Takencode gas TSB)

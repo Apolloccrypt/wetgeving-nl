@@ -9,7 +9,7 @@ laatste_update: 2025-12-31
 status: geldig
 toestand: 2025-12-31
 bron: "https://wetten.overheid.nl/BWBR0052045"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Wet van 17 december 2025 tot wijziging van de Algemene wet inzake rijksbelastingen en enkele andere wetten in verband met het stroomlijnen van het fiscale inzagerecht (Wet stroomlijning fiscaal inzagerecht)

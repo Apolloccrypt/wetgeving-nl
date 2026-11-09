@@ -9,7 +9,7 @@ laatste_update: 2026-01-14
 status: geldig
 toestand: 2026-01-14
 bron: "https://wetten.overheid.nl/BWBR0052174"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Beleidsregel van de Minister van Infrastructuur en Waterstaat van 12 januari 2026, nr. IENW/BSK-2025/311350, over de nadere bepaling van de boetehoogte op grond van artikel 16, eerste lid, van de Wet vrachtwagenheffing (Beleidsregel hoogte bestuurlijke boete Wet vrachtwagenheffing)

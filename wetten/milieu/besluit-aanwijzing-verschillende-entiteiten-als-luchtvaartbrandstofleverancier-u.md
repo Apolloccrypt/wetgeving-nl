@@ -9,7 +9,7 @@ laatste_update: 2026-02-12
 status: geldig
 toestand: 2026-02-12
 bron: "https://wetten.overheid.nl/BWBR0052286"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat, van 5 februari 2026, nr. IENW/BSK-2026/15584, tot aanwijzing van verschillende entiteiten als luchtvaartbrandstofleverancier op de Unieluchthaven Schiphol

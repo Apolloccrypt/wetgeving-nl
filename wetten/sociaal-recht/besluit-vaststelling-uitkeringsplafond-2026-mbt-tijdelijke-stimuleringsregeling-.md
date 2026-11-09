@@ -9,7 +9,7 @@ laatste_update: 2026-01-08
 status: geldig
 toestand: 2026-01-08
 bron: "https://wetten.overheid.nl/BWBR0052130"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat, van 5 januari 2026, nr. IENW/BSK-2025/306214, houdende vaststelling van het uitkeringsplafond voor het kalenderjaar 2026 met betrekking tot de Tijdelijke stimuleringsregeling slim, veilig, doelmatig en duurzaam gebruik van mobiliteitsinfrastructuur 2023–2027

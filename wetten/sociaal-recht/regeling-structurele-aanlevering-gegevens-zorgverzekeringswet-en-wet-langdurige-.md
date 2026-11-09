@@ -9,7 +9,7 @@ laatste_update: 2026-03-11
 status: geldig
 toestand: 2026-03-11
 bron: "https://wetten.overheid.nl/BWBR0052413"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Regeling van de Raad van Bestuur van Zorginstituut Nederland van 24 februari 2026, referentie 2026002934, houdende regels met betrekking tot de structurele aanlevering van gegevens Zorgverzekeringswet 2026 en gegevens Wet langdurige zorg 2026 (Regeling structurele aanlevering gegevens Zorgverzekeringswet en Wet langdurige zorg 2026)

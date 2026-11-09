@@ -9,7 +9,7 @@ laatste_update: 2025-12-31
 status: geldig
 toestand: 2025-12-31
 bron: "https://wetten.overheid.nl/BWBR0052033"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Wet van 17 december 2025, houdende Tweede wijziging van de Wet minimumbelasting 2024 in verband met de in december 2023, juni 2024 en januari 2025 internationaal overeengekomen administratieve richtsnoeren en een aantal overige technische wijzigingen (Tweede wet aanpassing Wet minimumbelasting 2024)

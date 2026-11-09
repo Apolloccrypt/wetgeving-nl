@@ -9,7 +9,7 @@ laatste_update: 2026-03-03
 status: geldig
 toestand: 2026-03-03
 bron: "https://wetten.overheid.nl/BWBR0052386"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van het bestuur van ZonMw van 21 november 2025 en de Raad van Bestuur van Zorginstituut Nederland van 11 november 2025, kenmerk 2025026005, tot vaststelling van het reglement van de Commissie Onderzoek Passende zorg 2025 (Reglement Commissie Onderzoek Passende Zorg 2025)

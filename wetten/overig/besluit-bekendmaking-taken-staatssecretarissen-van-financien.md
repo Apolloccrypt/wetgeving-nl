@@ -9,7 +9,7 @@ laatste_update: 2026-03-07
 status: geldig
 toestand: 2026-03-07
 bron: "https://wetten.overheid.nl/BWBR0052392"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Financiën van 1 maart 2026, nr. 2026-58678, houdende bekendmaking van de taken waarmee de Staatssecretarissen van Financiën in het bijzonder zijn belast

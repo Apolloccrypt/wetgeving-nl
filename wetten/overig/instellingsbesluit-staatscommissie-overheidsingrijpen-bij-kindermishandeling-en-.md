@@ -9,7 +9,7 @@ laatste_update: 2026-04-01
 status: geldig
 toestand: 2026-04-01
 bron: "https://wetten.overheid.nl/BWBR0052476"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van 28 maart 2026, nr. 2026000680, houdende instelling van een staatscommissie overheidsingrijpen in gezinnen in geval van kindermishandeling en ontwikkelingsbedreiging (Instellingsbesluit staatscommissie overheidsingrijpen bij kindermishandeling en ontwikkelingsbedreiging)

@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-04-14
 toestand: 2026-03-10
 bron: "https://wetten.overheid.nl/BWBR0052409"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur 5 maart 2026, nr. RT-0000131866, houdende tijdelijke vrijstelling op grond van artikel 38 van de Wet gewasbeschermingsmiddelen en biociden voor de beheersing van appelbloesemkever in de teelt van appel in grondwaterbeschermingsgebieden en in de biologische appelteelt (Tijdelijke vrijstelling voor de beheersing van appelbloesemkever in de teelt van appel in grondwaterbeschermingsgebieden en biologische appelteelt, 2026)

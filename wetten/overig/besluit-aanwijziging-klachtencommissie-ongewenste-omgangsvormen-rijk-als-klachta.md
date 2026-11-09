@@ -8,7 +8,7 @@ laatste_update: 2026-04-25
 status: geldig
 toestand: 2026-04-25
 bron: "https://wetten.overheid.nl/BWBR0052576"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit aanwijzen Klachtencommissie Ongewenste Omgangsvormen Rijk als klachtadviescommissie Ministerie van Justitie en Veiligheid

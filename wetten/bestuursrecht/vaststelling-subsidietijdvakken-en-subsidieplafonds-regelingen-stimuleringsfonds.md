@@ -8,7 +8,7 @@ laatste_update: 2026-03-04
 status: geldig
 toestand: 2026-03-04
 bron: "https://wetten.overheid.nl/BWBR0052391"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Vaststelling subsidietijdvakken en subsidieplafonds regelingen Stimuleringsfonds Creatieve Industrie 2026

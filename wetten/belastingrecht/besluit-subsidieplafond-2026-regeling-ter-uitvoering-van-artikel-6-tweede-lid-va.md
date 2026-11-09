@@ -8,7 +8,7 @@ laatste_update: 2026-01-27
 status: geldig
 toestand: 2026-01-27
 bron: "https://wetten.overheid.nl/BWBR0052211"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit subsidieplafond 2026 Regeling ter uitvoering van artikel 6, tweede lid, van de Tijdelijke subsidieregels samenwerking Belastingdienst, de Dienst Toeslagen en de Koninklijke Bibliotheek 2024–2027

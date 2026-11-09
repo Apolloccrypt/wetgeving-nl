@@ -9,7 +9,7 @@ laatste_update: 2026-04-08
 status: geldig
 toestand: 2026-04-08
 bron: "https://wetten.overheid.nl/BWBR0052499"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Regeling van de Staatssecretaris van Financiën van 29 maart 2026, houdende nadere regels ten behoeve van de operationalisering van het mechanisme voor een koolstofcorrectie aan de grens (Regeling CBAM)

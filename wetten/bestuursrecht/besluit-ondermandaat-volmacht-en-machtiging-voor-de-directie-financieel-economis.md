@@ -9,7 +9,7 @@ laatste_update: 2026-04-08
 status: geldig
 toestand: 2026-04-08
 bron: "https://wetten.overheid.nl/BWBR0052501"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de directeur Financieel-Economische Zaken van het Ministerie van Klimaat en Groene Groei tot verlening van ondermandaat, volmacht en machtiging voor de directie Financieel-Economische Zaken (Besluit ondermandaat, volmacht en machtiging voor de directie Financieel-Economische Zaken KGG 2025)

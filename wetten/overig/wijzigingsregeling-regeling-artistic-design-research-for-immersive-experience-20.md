@@ -9,7 +9,7 @@ laatste_update: 2026-03-26
 status: geldig
 toestand: 2026-03-26
 bron: "https://wetten.overheid.nl/BWBR0052433"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Regeling van het bestuur van het Stimuleringsfonds Creatieve Industrie, houdende wijzigingen van de Regeling Artistic & Design Research for Immersive Experiences 2025–2029 (eerste wijziging)

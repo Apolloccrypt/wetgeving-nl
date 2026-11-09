@@ -9,7 +9,7 @@ laatste_update: 2026-03-31
 status: geldig
 toestand: 2026-03-31
 bron: "https://wetten.overheid.nl/BWBR0052473"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister-President, Minister van Algemene Zaken van 11 maart 2026, nr. 9851947 houdende vaststelling van de Algemene Rijksinkoopvoorwaarden 2026 (ARIV-2026)

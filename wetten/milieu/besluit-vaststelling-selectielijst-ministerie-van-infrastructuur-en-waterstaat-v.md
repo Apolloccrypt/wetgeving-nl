@@ -8,7 +8,7 @@ laatste_update: 2026-02-11
 status: geldig
 toestand: 2026-02-11
 bron: "https://wetten.overheid.nl/BWBR0052276"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit vaststelling selectielijst Ministerie van Infrastructuur en Waterstaat voor de periode vanaf 2026

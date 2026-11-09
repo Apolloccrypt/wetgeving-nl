@@ -9,7 +9,7 @@ laatste_update: 2026-06-09
 status: geldig
 toestand: 2026-06-09
 bron: "https://wetten.overheid.nl/BWBR0052551"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 13 april 2026 nr. BOACAT2026/025, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Omgevingsdienst Groene Metropool (ODGM)

@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-06-30
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0052042"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Regeling van de Raad voor Rechtsbijstand over de voorwaarden tot inschrijving van advocaten 2026 (Inschrijvingsvoorwaarden advocatuur 2026)

@@ -9,7 +9,7 @@ laatste_update: 2026-04-01
 status: geldig
 toestand: 2026-04-01
 bron: "https://wetten.overheid.nl/BWBR0052278"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van 4 februari 2026 tot wijziging van het Besluit vrijwilligersmedaille openbare orde en veiligheid in verband met het voorkomen van dubbele decoratie na het van toepassing verklaren van het Besluit medaille trouwe en langdurige dienst Nederlandse politie op de vrijwillige ambtenaar, bedoeld in artikel 2, onderdeel c, van de Politiewet 2012, die is aangesteld voor de uitvoering van de politietaak, onderscheidenlijk voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie in de hoedanigheid van buitengewoon opsporingsambtenaar als bedoeld in artikel 142 van het Wetboek van Strafvordering [KetenID WGK014739]

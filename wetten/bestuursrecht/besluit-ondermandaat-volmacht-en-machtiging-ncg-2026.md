@@ -9,7 +9,7 @@ laatste_update: 2026-03-12
 status: geldig
 toestand: 2026-03-12
 bron: "https://wetten.overheid.nl/BWBR0052420"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Algemeen directeur van de Dienst Nationaal Coördinator Groningen van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties van 2 maart 2026, kenmerk NCG50710624, houdende verlening van ondermandaat, volmacht en machtiging voor de Dienst Nationaal Coördinator Groningen (Besluit ondermandaat, volmacht en machtiging NCG 2026)

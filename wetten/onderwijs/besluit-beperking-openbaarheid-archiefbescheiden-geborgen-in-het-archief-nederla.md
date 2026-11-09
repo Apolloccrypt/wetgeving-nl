@@ -9,7 +9,7 @@ laatste_update: 2026-03-27
 status: geldig
 toestand: 2026-03-27
 bron: "https://wetten.overheid.nl/BWBR0052459"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 18 maart 2026, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordiging in Uruguay, (1965) 1975–1984 (2013)

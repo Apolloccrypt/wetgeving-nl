@@ -9,7 +9,7 @@ laatste_update: 2026-01-29
 status: geldig
 toestand: 2026-01-29
 bron: "https://wetten.overheid.nl/BWBR0052230"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Staatssecretaris van Financiën van 15 januari 2026 nr. 2026-436 over resultaat uit overige werkzaamheden (Besluit ROW 2026)

@@ -9,7 +9,7 @@ laatste_update: 2026-03-03
 status: geldig
 toestand: 2026-03-03
 bron: "https://wetten.overheid.nl/BWBR0052374"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 10 februari 2026, 2025-0000610431, tot instelling van het Forum Standaardisatie (Instellingsbesluit Forum Standaardisatie 2026)

@@ -9,7 +9,7 @@ laatste_update: 2026-04-04
 status: geldig
 toestand: 2026-04-04
 bron: "https://wetten.overheid.nl/BWBR0052241"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 26 januari 2026 nr. BOACAT2026/003, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Woerden

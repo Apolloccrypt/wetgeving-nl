@@ -9,7 +9,7 @@ laatste_update: 2026-02-18
 status: geldig
 toestand: 2026-02-18
 bron: "https://wetten.overheid.nl/BWBR0052297"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Regeling van het bestuur van de Raad voor Rechtsbijstand van 16 december 2025 tot wijziging van de Subsidieregeling startbijdrage mediation

@@ -9,7 +9,7 @@ laatste_update: 2025-12-19
 status: geldig
 toestand: 2025-12-19
 bron: "https://wetten.overheid.nl/BWBR0051990"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Klimaat en Groene Groei van 16 december 2025, nr. WJZ/102802534, tot openstelling van het Besluit tegemoetkoming particuliere woningeigenaren mijnbouwschade steenkoolwinning Limburg

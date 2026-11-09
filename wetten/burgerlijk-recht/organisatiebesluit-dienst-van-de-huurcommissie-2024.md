@@ -9,7 +9,7 @@ laatste_update: 2025-12-23
 status: geldig
 toestand: 2025-12-23
 bron: "https://wetten.overheid.nl/BWBR0052017"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-09
 ---
 
 # Besluit van het bestuur van de huurcommissie, van 17 juni 2025 houdende de organisatie-inrichting van administratieve ondersteuning van de huurcommissie, aan te duiden als Dienst van de Huurcommissie (Organisatiebesluit dienst van de huurcommissie 2024)

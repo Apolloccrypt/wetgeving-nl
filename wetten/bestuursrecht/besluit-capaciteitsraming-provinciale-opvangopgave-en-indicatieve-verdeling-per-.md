@@ -8,7 +8,7 @@ laatste_update: 2026-04-01
 status: geldig
 toestand: 2026-04-01
 bron: "https://wetten.overheid.nl/BWBR0052384"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit capaciteitsraming, provinciale opvangopgave en indicatieve verdeling per gemeente 2026

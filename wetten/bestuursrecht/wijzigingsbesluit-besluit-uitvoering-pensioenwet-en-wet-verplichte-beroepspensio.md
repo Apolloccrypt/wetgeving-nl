@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0052001"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-09
 ---
 
 # Besluit van 16 december 2025 tot wijziging van met name het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling en het Besluit financieel toetsingskader pensioenfondsen in verband met de uitvoering van de pensioentransitie [KetenID WGK027244]

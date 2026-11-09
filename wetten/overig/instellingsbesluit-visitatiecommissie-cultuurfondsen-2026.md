@@ -9,7 +9,7 @@ laatste_update: 2025-12-30
 status: geldig
 toestand: 2025-12-30
 bron: "https://wetten.overheid.nl/BWBR0052057"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 16 december 2025, nr.1783837, tot instelling van een commissie voor de visitaties van de Rijkscultuurfondsen ex artikel 9 van de Wet op het specifiek cultuurbeleid (Instellingsbesluit visitatiecommissie 2026)

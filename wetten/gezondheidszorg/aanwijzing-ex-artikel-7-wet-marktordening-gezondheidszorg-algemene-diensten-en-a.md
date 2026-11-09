@@ -9,7 +9,7 @@ laatste_update: 2026-06-01
 status: geldig
 toestand: 2026-06-01
 bron: "https://wetten.overheid.nl/BWBR0052512"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport 31 maart 2026, kenmerk 365935-1095616-PZO, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake algemene diensten en activiteiten voor zorgondersteunende digitale patiënteninformatie

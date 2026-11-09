@@ -8,7 +8,7 @@ laatste_update: 2025-12-19
 status: geldig
 toestand: 2025-12-19
 bron: "https://wetten.overheid.nl/BWBR0051997"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-09
 ---
 
 # Beleidsregel uitgifte nummers 2025

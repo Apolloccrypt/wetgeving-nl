@@ -9,7 +9,7 @@ laatste_update: 2026-03-25
 status: geldig
 toestand: 2026-03-25
 bron: "https://wetten.overheid.nl/BWBR0052461"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Wet van 11 maart 2026 tot wijziging van de Wet op het financieel toezicht, de Faillissementswet en de Bankwet 1998 in verband met aanpassingen van het crisisraamwerk voor banken en beleggingsondernemingen ter aanvulling op de implementatie van Richtlijn 2014/59/EU en Richtlijn (EU) 2019/879 betreffende het kader voor herstel en afwikkeling van banken en beleggingsondernemingen (Wet nadere uitvoering BRRD-implementatie)

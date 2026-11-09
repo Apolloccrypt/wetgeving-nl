@@ -9,7 +9,7 @@ laatste_update: 2026-01-16
 status: geldig
 toestand: 2026-01-16
 bron: "https://wetten.overheid.nl/BWBR0052186"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Regeling van de Minister van Asiel en Migratie van 13 januari 2026, nummer 7047164, houdende wijziging van de Subsidieregeling ondersteuning zelfstandig vertrek 2023 (derde wijziging)

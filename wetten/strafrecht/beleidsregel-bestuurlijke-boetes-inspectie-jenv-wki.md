@@ -8,7 +8,7 @@ laatste_update: 2026-02-04
 status: geldig
 toestand: 2026-02-04
 bron: "https://wetten.overheid.nl/BWBR0052246"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Beleidsregel bestuurlijke boetes Inspectie JenV – Wki

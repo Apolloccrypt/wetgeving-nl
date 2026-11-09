@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0052069"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Regeling van de Minister van Klimaat en Groene Groei van 14 december 2025, nr. WJZ/99470189, tot regeling van overgangsrecht en intrekking en wijziging van regelingen voor de invoering van de Energiewet (Invoeringsregeling Energiewet)

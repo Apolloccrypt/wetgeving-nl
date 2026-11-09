@@ -8,7 +8,7 @@ laatste_update: 2025-12-23
 status: geldig
 toestand: 2025-12-23
 bron: "https://wetten.overheid.nl/BWBR0052188"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Statuten Nederlands Fonds voor Podiumkunsten

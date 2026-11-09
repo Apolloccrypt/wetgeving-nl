@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-07-07
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0052171"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Beleidsregel bestuurlijke boete voertuig openbare weg zonder handelaarskenteken

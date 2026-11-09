@@ -9,7 +9,7 @@ laatste_update: 2026-02-04
 status: geldig
 toestand: 2026-02-04
 bron: "https://wetten.overheid.nl/BWBR0052250"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Wet van 21 januari 2026 tot wijziging van de Wet minimumloon en minimumvakantiebijslag in verband met de implementatie van Richtlijn (EU) 2022/2041 van het Europees Parlement en de Raad van 19 oktober 2022 betreffende toereikende minimumlonen in de Europese Unie (Pb EU 2022, L 275) (Wet implementatie EU-richtlijn toereikende minimumlonen)

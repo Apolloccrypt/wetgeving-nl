@@ -9,7 +9,7 @@ laatste_update: 2026-03-17
 status: geldig
 toestand: 2026-03-17
 bron: "https://wetten.overheid.nl/BWBR0052428"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 8 maart 2026, nr. WJZ/62266938, houdende de taakverdeling tussen de Minister en de Staatssecretaris van Onderwijs, Cultuur en Wetenschap (Taakverdelingsbesluit OCW 2026)

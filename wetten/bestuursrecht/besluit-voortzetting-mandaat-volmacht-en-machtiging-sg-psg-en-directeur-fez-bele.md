@@ -9,7 +9,7 @@ laatste_update: 2026-03-26
 status: geldig
 toestand: 2026-03-26
 bron: "https://wetten.overheid.nl/BWBR0052446"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Klimaat en Groene Groei van 9 maart 2026, nr. WJZ/ 104198051, tot voortzetting mandaat, volmacht en machtiging SG, pSG en directeur FEZ beleidsterreinen KGG (Besluit voortzetting mandaat, volmacht en machtiging SG, pSG en directeur FEZ beleidsterreinen KGG)

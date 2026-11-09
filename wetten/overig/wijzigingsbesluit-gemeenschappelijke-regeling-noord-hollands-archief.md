@@ -9,7 +9,7 @@ laatste_update: 2025-12-23
 status: geldig
 toestand: 2025-12-23
 bron: "https://wetten.overheid.nl/BWBR0052012"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 10 december 2025, kenmerk 57891224, houdende wijziging van de Gemeenschappelijke regeling Noord-Hollands Archief

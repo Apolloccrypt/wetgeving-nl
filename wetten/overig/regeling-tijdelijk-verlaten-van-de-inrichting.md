@@ -9,7 +9,7 @@ laatste_update: 2026-10-31
 status: geldig
 toestand: 2026-10-31
 bron: "https://wetten.overheid.nl/BWBR0010171"
-opgehaald: 2026-11-08
+opgehaald: 2026-11-09
 ---
 
 # Regeling van de Minister van Justitie houdende vaststelling van de regels aangaande het tijdelijk verlaten van de inrichting bij wijze van verlof of strafonderbreking

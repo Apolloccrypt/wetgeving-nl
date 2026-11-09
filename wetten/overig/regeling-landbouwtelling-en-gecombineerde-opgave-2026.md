@@ -9,7 +9,7 @@ laatste_update: 2026-02-18
 status: geldig
 toestand: 2026-02-18
 bron: "https://wetten.overheid.nl/BWBR0052301"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Regeling van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur van 11 februari 2026, nr. WJZ/101289183, tot instelling van een Landbouwtelling en tot het aanbieden van een Gecombineerde opgave (Regeling Landbouwtelling en Gecombineerde opgave 2026) [KetenID WGK 28313]

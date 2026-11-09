@@ -8,7 +8,7 @@ laatste_update: 2026-03-28
 status: geldig
 toestand: 2026-03-28
 bron: "https://wetten.overheid.nl/BWBR0052467"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit beperking openbaarheid archief toegangsnummer 2.08.106 Directoraat-generaal Fiscale Zaken, periode (1954) 1990 – 2004, (1955) 1990 – 1994 (2004)

@@ -9,7 +9,7 @@ laatste_update: 2026-03-14
 status: geldig
 toestand: 2026-03-14
 bron: "https://wetten.overheid.nl/BWBR0052422"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Regeling van het College voor toetsen en examens van 2 maart 2026, nr. CvTE-26.00033, houdende aanwijzing van vakken waarin in het tweede tijdvak het centraal examen vo 2026 wordt afgenomen door het College voor toetsen en examens (Regeling aangewezen vakken tweede tijdvak centrale examens vo 2026)

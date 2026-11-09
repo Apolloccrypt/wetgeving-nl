@@ -9,7 +9,7 @@ laatste_update: 2026-07-16
 status: geldig
 toestand: 2026-07-16
 bron: "https://wetten.overheid.nl/BWBR0051991"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Klimaat en Groene Groei van 15 december 2025, nr. WJZ/102572219, tot verlening van mandaat, volmacht en machtiging (Besluit mandaat, volmacht en machtiging KGG 2025)

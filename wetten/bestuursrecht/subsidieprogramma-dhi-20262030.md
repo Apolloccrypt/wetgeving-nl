@@ -9,7 +9,7 @@ laatste_update: 2026-02-27
 status: geldig
 toestand: 2026-02-27
 bron: "https://wetten.overheid.nl/BWBR0052361"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Staatssecretaris van Buitenlandse Zaken van 16 februari 2026, nr. BZ2624775, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieprogramma DHI 2026–2030)

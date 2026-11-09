@@ -9,7 +9,7 @@ laatste_update: 2026-02-19
 status: geldig
 toestand: 2026-02-19
 bron: "https://wetten.overheid.nl/BWBR0052300"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de secretaris-generaal van het Ministerie van Klimaat en Groene Groei van 12 februari 2026, nr. WJZ / 104122043, tot verlening van ondermandaat, volmacht en machtiging (Besluit ondermandaat, volmacht en machtiging SG KGG 2026)

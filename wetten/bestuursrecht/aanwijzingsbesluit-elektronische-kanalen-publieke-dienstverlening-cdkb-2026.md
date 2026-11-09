@@ -9,7 +9,7 @@ laatste_update: 2026-01-23
 status: geldig
 toestand: 2026-01-23
 bron: "https://wetten.overheid.nl/BWBR0052213"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van het College donorgegevens kunstmatige bevruchting van 19 januari 2026, tot aanwijzing van elektronische kanalen voor het indienen van berichten in de zin van artikel 2:13, tweede lid, van de Algemene wet bestuursrecht bij het College donorgegevens kunstmatige bevruchting (Aanwijzingsbesluit elektronische kanalen publieke dienstverlening Cdkb 2026)

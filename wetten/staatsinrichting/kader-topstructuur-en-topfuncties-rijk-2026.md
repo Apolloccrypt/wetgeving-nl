@@ -9,7 +9,7 @@ laatste_update: 2026-03-03
 status: geldig
 toestand: 2026-03-03
 bron: "https://wetten.overheid.nl/BWBR0052369"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van BZK van 16 februari 2026, nr. 2026-0000002953, tot vaststelling van het Kader Topstructuur en Topfuncties Rijk 2026

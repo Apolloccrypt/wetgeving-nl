@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-06-19
 toestand: 2026-02-20
 bron: "https://wetten.overheid.nl/BWBR0052313"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Waterstaat van 19 januari 2026, nr. IENW/BSK- 2025/332894 houdende tijdelijke vrijstelling op grond van artikel 46, eerste lid van de Wet gewasbeschermingsmiddelen en biociden voor het gebruik van K-Othrine SC7.5 tegen knutten (Vrijstelling K-Othrine ter bestrijding van knutten 2026)

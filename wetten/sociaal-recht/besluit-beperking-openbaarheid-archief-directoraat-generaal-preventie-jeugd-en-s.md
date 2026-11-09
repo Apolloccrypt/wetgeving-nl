@@ -9,7 +9,7 @@ laatste_update: 2026-03-04
 status: geldig
 toestand: 2026-03-04
 bron: "https://wetten.overheid.nl/BWBR0052383"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 20 november 2025, kenmerk 6232147, houdende beperking van de openbaarheid van het archief van de van het Directoraat-Generaal Preventie, Jeugd en Sancties 1951–2007

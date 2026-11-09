@@ -9,7 +9,7 @@ laatste_update: 2026-03-18
 status: geldig
 toestand: 2026-03-18
 bron: "https://wetten.overheid.nl/BWBR0052432"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # HERDRUK Beleidsregel van de Minister van Infrastructuur en Waterstaat en de Minister van Sociale Zaken en Werkgelegenheid, van 17 februari 2026, nr. ILT-2025/544208, over vaststelling van boetebedragen voor overtredingen van de Arbeidstijdenwet met betrekking tot taxivervoer (Beleidsregel boeteoplegging Arbeidstijdenwet en Arbeidstijdenbesluit vervoer (taxivervoer) 2026)

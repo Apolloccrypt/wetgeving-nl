@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0052004"
-opgehaald: 2026-09-09
+opgehaald: 2026-11-09
 ---
 
 # Besluit tot aanwijzing van elektronische kanalen voor het indienen van berichten in de zin van artikel 2.13 van de Algemene wet bestuursrecht (Aanwijzingsbesluit elektronische kanalen Commissariaat voor de Media 2026)

@@ -8,7 +8,7 @@ laatste_update: 2026-02-01
 status: geldig
 toestand: 2026-02-01
 bron: "https://wetten.overheid.nl/BWBR0052221"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Wijzigingsregeling Regeling Architectuur 2025–2028 (eerste wijziging)

@@ -8,7 +8,7 @@ laatste_update: 2026-04-09
 status: geldig
 toestand: 2026-04-09
 bron: "https://wetten.overheid.nl/BWBR0052505"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Regeling controle en administratie zorgverzekeraars

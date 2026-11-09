@@ -8,7 +8,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0052120"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Standaard voor Kwaliteitsmanagement 3N, bij afkorting SKM3N

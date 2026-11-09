@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0052064"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van het College voor de toelating van gewasbeschermingsmiddelen en biociden van 24 september 2025, houdende vaststelling van de tarieven, verschuldigd in verband met de uitvoering van zijn wettelijke taken en overige diensten, als beschreven in dit besluit en de daarbij horende bijlagen (Tarievenbesluit 2026)

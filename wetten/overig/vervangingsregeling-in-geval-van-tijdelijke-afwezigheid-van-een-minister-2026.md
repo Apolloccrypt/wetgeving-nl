@@ -9,7 +9,7 @@ laatste_update: 2026-02-26
 status: geldig
 toestand: 2026-02-26
 bron: "https://wetten.overheid.nl/BWBR0052354"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van 23 februari 2026, nr. 2026000417, houdende wijziging van de vervangingsregeling in geval van tijdelijke afwezigheid van een minister

@@ -9,7 +9,7 @@ laatste_update: 2026-01-03
 status: geldig
 toestand: 2026-01-03
 bron: "https://wetten.overheid.nl/BWBR0052105"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 10 december 2025, nr. 2025-0000280468, tot het verlenen van mandaat en machtiging aan de Inspecteur-Generaal van de Inspectie van het Onderwijs tot het opleggen van een tijdelijk verbod tot exploitatie en het opstellen van een advies inzake het schorsen of intrekken van een vergunning als bedoeld in de Wet kinderopvang BES (Mandaatbesluit Wet kinderopvang BES)

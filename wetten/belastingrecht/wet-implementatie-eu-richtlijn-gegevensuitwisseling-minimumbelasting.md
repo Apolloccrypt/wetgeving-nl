@@ -9,7 +9,7 @@ laatste_update: 2026-04-11
 status: geldig
 toestand: 2026-04-11
 bron: "https://wetten.overheid.nl/BWBR0052128"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Wet van 17 december 2025 tot wijziging van de Wet op de internationale bijstandsverlening bij de heffing van belastingen en de Wet minimumbelasting 2024 in verband met de implementatie van Richtlijn (EU) 2025/872 van de Raad van 14 april 2025 tot wijziging van Richtlijn 2011/16/EU betreffende de administratieve samenwerking op het gebied van de belastingen (Wet implementatie EU-richtlijn gegevensuitwisseling minimumbelasting)

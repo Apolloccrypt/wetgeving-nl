@@ -9,7 +9,7 @@ laatste_update: 2026-01-06
 status: geldig
 toestand: 2026-01-06
 bron: "https://wetten.overheid.nl/BWBR0052122"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 23 december 2025, nr. RCE/1792420, houdende de aanwijzing van de juiste wijze van verzenden van berichten aan de Rijksdienst voor het Cultureel Erfgoed in de zin van de artikelen 2:13 en 2:14 van de Algemene wet bestuursrecht (Aanwijzingsbesluit elektronische kanalen Rijksdienst voor het Cultureel Erfgoed)

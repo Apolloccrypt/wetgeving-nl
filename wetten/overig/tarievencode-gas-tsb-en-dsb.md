@@ -9,7 +9,7 @@ laatste_update: 2026-05-28
 status: geldig
 toestand: 2026-05-28
 bron: "https://wetten.overheid.nl/BWBR0052341"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit van de Autoriteit Consument en Markt van 5 februari 2026, kenmerk ACM/UIT/666064, op grond van artikel 3.121 van de Energiewet, en artikel 12f van de Gaswet juncto artikel 7.42, tweede lid, van de Energiewet over de tariefregulering van gas bij de TSB en de DSBs (Tarievencode gas TSB en DSB)

@@ -8,7 +8,7 @@ laatste_update: 2026-06-20
 status: geldig
 toestand: 2026-06-20
 bron: "https://wetten.overheid.nl/BWBR0052239"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Besluit vaststelling subsidieplafonds en indiendata 2026

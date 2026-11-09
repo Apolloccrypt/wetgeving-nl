@@ -9,7 +9,7 @@ laatste_update: 2025-12-19
 status: geldig
 toestand: 2025-12-19
 bron: "https://wetten.overheid.nl/BWBR0052157"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-09
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 15 december 2025, kenmerk 4315206-1091945-PZO, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake het experiment bekostiging van regionale eerstelijns samenwerkingsverbanden
