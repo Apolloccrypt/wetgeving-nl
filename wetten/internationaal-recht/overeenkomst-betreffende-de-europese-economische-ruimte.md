@@ -8,7 +8,7 @@ laatste_update: 2025-02-19
 status: geldig
 toestand: 2025-02-19
 bron: "https://wetten.overheid.nl/BWBV0001070"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Overeenkomst betreffende de Europese Economische Ruimte

@@ -8,7 +8,7 @@ laatste_update: 2001-09-06
 status: geldig
 toestand: 2001-09-06
 bron: "https://wetten.overheid.nl/BWBV0001192"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag van de Verenigde Naties ter bestrijding van woestijnvorming in de landen die te kampen hebben met ernstige droogte en/of woestijnvorming, in het bijzonder in Afrika

@@ -9,7 +9,7 @@ laatste_update: 2026-05-14
 status: geldig
 toestand: 2026-05-14
 bron: "https://wetten.overheid.nl/BWBR0052617"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-10
 ---
 
 # Besluit van de Raad van bestuur van het Fonds Podiumkunsten tot wijziging van de verdeling van het budget over de landsdelen binnen onderdeel a van de Deelregeling Programma- en Presentatiebijdrage Fonds Podiumkunsten

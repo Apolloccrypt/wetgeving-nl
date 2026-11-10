@@ -8,7 +8,7 @@ laatste_update: 1998-03-29
 status: geldig
 toestand: 1998-03-29
 bron: "https://wetten.overheid.nl/BWBV0001206"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Overeenkomst ter uitvoering van artikel 45, eerste lid, van de Aanvullende Overeenkomst van 3 augustus 1959, zoals gewijzigd bij de Overeenkomsten van 21 oktober 1971, 18 mei 1981 en 18 maart 1993, bij het Verdrag tussen de Staten die partij zijn bij het Noordatlantisch Verdrag nopens de rechtspositie van hun krijgsmachten, met betrekking tot de in Duitsland gestationeerde buitenlandse krijgsmachten

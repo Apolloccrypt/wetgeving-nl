@@ -8,7 +8,7 @@ laatste_update: 1962-07-11
 status: geldig
 toestand: 1962-07-11
 bron: "https://wetten.overheid.nl/BWBV0001003"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag betreffende de status van staatlozen

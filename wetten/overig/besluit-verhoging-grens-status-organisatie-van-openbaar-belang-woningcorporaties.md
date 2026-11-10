@@ -9,7 +9,7 @@ laatste_update: 2026-05-20
 status: geldig
 toestand: 2026-05-20
 bron: "https://wetten.overheid.nl/BWBR0052628"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-10
 ---
 
 # Besluit van 16 april 2026 tot wijziging van het Besluit toezicht accountantsorganisaties in verband met de verhoging van de grens voor de status van organisatie van openbaar belang (Besluit verhoging grens status organisatie van openbaar belang woningcorporaties)

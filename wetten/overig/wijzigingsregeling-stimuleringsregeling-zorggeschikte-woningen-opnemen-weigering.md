@@ -9,7 +9,7 @@ laatste_update: 2026-05-13
 status: geldig
 toestand: 2026-05-13
 bron: "https://wetten.overheid.nl/BWBR0052614"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-10
 ---
 
 # Regeling van de Minister van Langdurige zorg, Jeugd en Sport van 7 mei 2026, kenmerk 4375799-1097325-LZ, houdende wijziging van de Stimuleringsregeling zorggeschikte woningen in verband met het opnemen van weigeringsgronden, het vaststellen van het aanvraagtijdvak en het subsidieplafond voor 2026 en enkele andere wijzigingen [KetenID WGK028991]

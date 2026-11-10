@@ -8,7 +8,7 @@ laatste_update: 2026-04-30
 status: geldig
 toestand: 2026-04-30
 bron: "https://wetten.overheid.nl/BWBR0052586"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-10
 ---
 
 # Regeling aanlevering declaratiegegevens door ziektekostenverzekeraars

@@ -9,7 +9,7 @@ laatste_update: 2026-05-20
 status: geldig
 toestand: 2026-05-20
 bron: "https://wetten.overheid.nl/BWBR0052632"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 7 mei 2026, nr. 2026-0000113609, houdende de inrichting van de directie Werknemersregelingen alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Werknemersregelingen (Organisatie-, mandaat- en volmachtbesluit directie Werknemersregelingen 2026)

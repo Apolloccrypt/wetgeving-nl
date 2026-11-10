@@ -8,7 +8,7 @@ laatste_update: 2002-05-01
 status: geldig
 toestand: 2002-05-01
 bron: "https://wetten.overheid.nl/BWBV0001454"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag inzake wederzijdse administratieve bijstand ten behoeve van de juiste toepassing van de douanewetgeving en de voorkoming, opsporing en bestrijding van inbreuken op de douanewetgeving tussen de Regering van het Koninkrijk der Nederlanden en de Macedonische Regering

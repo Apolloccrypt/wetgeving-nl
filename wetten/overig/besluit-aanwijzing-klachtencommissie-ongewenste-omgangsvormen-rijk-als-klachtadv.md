@@ -9,7 +9,7 @@ laatste_update: 2026-07-18
 status: geldig
 toestand: 2026-07-18
 bron: "https://wetten.overheid.nl/BWBR0052850"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Besluit van de Autoriteit Nucleaire Veiligheid en Stralingsbescherming van 9 juli 2026, nr. ANVS-2026/12522, tot aanwijzing Klachtencommissie Ongewenste Omgangsvormen Rijk als klachtadviescommissie voor de ANVS, tevens houdende besluit tot toepassing van de Klachtenregeling ongewenste omgangsvormen Rijk

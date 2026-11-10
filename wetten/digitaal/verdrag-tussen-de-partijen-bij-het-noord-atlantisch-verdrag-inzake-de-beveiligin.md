@@ -8,7 +8,7 @@ laatste_update: 1999-03-26
 status: geldig
 toestand: 1999-03-26
 bron: "https://wetten.overheid.nl/BWBV0001372"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag tussen de Partijen bij het Noord-Atlantisch Verdrag inzake de beveiliging van gegevens

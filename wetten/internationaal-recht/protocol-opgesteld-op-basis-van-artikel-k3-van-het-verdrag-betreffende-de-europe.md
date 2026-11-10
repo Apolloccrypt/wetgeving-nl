@@ -8,7 +8,7 @@ laatste_update: 2010-01-01
 status: geldig
 toestand: 2010-01-01
 bron: "https://wetten.overheid.nl/BWBV0001343"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Protocol opgesteld op basis van Artikel K.3 van het Verdrag betreffende de Europese Unie en Artikel 41, lid 3, van de Europol-Overeenkomst, betreffende de voorrechten en immuniteiten van Europol, de leden van zijn organen, zijn adjunct-directeuren en zijn personeelsleden

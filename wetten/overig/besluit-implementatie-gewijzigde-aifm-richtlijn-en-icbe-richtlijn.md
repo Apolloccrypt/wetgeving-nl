@@ -9,7 +9,7 @@ laatste_update: 2026-05-29
 status: geldig
 toestand: 2026-05-29
 bron: "https://wetten.overheid.nl/BWBR0052655"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Besluit van 4 mei 2026 tot wijziging van het Besluit prudentiële regels Wft, het Besluit Gedragstoezicht financiële ondernemingen Wft, het Besluit markttoegang financiële ondernemingen Wft en het Besluit bestuurlijke boetes financiële sector ter implementatie van Richtlijn (EU) 2024/927 tot wijziging van de richtlijnen 2011/61/EU en 2009/65/EG (Besluit implementatie gewijzigde AIFM-richtlijn en icbe-richtlijn)

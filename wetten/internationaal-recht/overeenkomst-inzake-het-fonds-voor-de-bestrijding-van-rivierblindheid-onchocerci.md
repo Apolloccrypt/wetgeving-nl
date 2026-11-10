@@ -8,7 +8,7 @@ laatste_update: 1993-03-09
 status: geldig
 toestand: 1993-03-09
 bron: "https://wetten.overheid.nl/BWBV0001079"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Overeenkomst inzake het fonds voor de bestrijding van rivierblindheid (onchocerciasis) 1992

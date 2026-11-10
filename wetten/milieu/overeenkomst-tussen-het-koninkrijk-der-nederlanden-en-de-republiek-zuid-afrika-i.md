@@ -8,7 +8,7 @@ laatste_update: 2009-10-07
 status: geldig
 toestand: 2009-10-07
 bron: "https://wetten.overheid.nl/BWBV0001060"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Zuid-Afrika inzake luchtdiensten tussen en via hun onderscheiden grondgebieden

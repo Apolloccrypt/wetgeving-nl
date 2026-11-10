@@ -8,7 +8,7 @@ laatste_update: 2025-12-27
 status: geldig
 toestand: 2025-12-27
 bron: "https://wetten.overheid.nl/BWBV0001196"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Overeenkomst betreffende de vaststelling van geharmoniseerde technische reglementen van de Verenigde Naties voor voertuigen op wielen en voor uitrustingsstukken en onderdelen die daarop kunnen worden gemonteerd en/of gebruikt, en betreffende de voorwaarden voor wederzijdse erkenning van goedkeuringen die krachtens die reglementen van de Verenigde Naties zijn verleend

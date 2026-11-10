@@ -9,7 +9,7 @@ laatste_update: 2026-05-09
 status: geldig
 toestand: 2026-05-09
 bron: "https://wetten.overheid.nl/BWBR0052606"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-10
 ---
 
 # Besluit van De Nederlandsche Bank N.V. van 23 april 2026 tot erkenning van de sinds 30 juni 2025 van toepassing zijnde macroprudentiële maatregel van Banca d’Italia inhoudende een systeemrisicobufferpercentage van 1,0%

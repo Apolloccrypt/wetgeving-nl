@@ -8,7 +8,7 @@ laatste_update: 1996-09-01
 status: geldig
 toestand: 1996-09-01
 bron: "https://wetten.overheid.nl/BWBV0001230"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Tweede Protocol bij de Algemene Overeenkomst betreffende de handel in diensten

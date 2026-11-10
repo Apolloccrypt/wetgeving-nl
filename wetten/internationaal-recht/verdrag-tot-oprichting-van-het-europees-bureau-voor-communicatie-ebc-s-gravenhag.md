@@ -8,7 +8,7 @@ laatste_update: 2013-03-01
 status: geldig
 toestand: 2013-03-01
 bron: "https://wetten.overheid.nl/BWBV0001128"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag tot oprichting van het Europees Bureau voor Communicatie (EBC) 's-Gravenhage op 23 juni 1993, zoals gewijzigd te Kopenhagen op 9 april 2002

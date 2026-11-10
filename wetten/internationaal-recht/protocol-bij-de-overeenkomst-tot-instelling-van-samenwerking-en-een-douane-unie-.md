@@ -8,7 +8,7 @@ laatste_update: 2002-04-01
 status: geldig
 toestand: 2002-04-01
 bron: "https://wetten.overheid.nl/BWBV0001333"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Protocol bij de Overeenkomst tot instelling van samenwerking en een douane-unie tussen de Europese Economische Gemeenschap en de Republiek San Marino naar aanleiding van de toetreding van de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden tot de Europese Unie

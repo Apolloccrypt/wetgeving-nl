@@ -9,7 +9,7 @@ laatste_update: 2026-05-05
 status: geldig
 toestand: 2026-05-05
 bron: "https://wetten.overheid.nl/BWBR0052599"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-10
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 21 april 2026, nr. HO&S/63327145, houdende regels voor de subsidieverstrekking ten behoeve van het inrichten van co-creatielabs in het kader van de Nationale Aanpak Professionalisering Leraren (Subsidieregeling co-creatielabs NAPL)

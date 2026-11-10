@@ -8,7 +8,7 @@ laatste_update: 1998-11-01
 status: geldig
 toestand: 1998-11-01
 bron: "https://wetten.overheid.nl/BWBV0001269"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Zesde Aanvullend Protocol bij het Algemeen Verdrag nopens de voorrechten en immuniteiten van de Raad van Europa

@@ -8,7 +8,7 @@ laatste_update: 1992-01-01
 status: geldig
 toestand: 1992-01-01
 bron: "https://wetten.overheid.nl/BWBV0001091"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Briefwisseling tussen de bevoegde autoriteiten van het Koninkrijk der Nederlanden en de Helleense Republiek inzake artikel 36, derde lid, van EEG-Verordening nr. 1408/71

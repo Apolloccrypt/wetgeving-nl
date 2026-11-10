@@ -8,7 +8,7 @@ laatste_update: 2000-09-15
 status: geldig
 toestand: 2000-09-15
 bron: "https://wetten.overheid.nl/BWBV0001411"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag betreffende particuliere bureaus voor arbeidsbemiddeling

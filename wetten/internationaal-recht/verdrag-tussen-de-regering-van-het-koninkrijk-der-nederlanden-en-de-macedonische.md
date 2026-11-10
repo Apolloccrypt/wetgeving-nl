@@ -8,7 +8,7 @@ laatste_update: 1999-06-01
 status: geldig
 toestand: 1999-06-01
 bron: "https://wetten.overheid.nl/BWBV0001388"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Macedonische Regering inzake de bevordering en de wederzijdse bescherming van investeringen

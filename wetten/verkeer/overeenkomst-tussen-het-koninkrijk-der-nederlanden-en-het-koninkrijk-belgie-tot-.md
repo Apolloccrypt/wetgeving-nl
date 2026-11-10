@@ -8,7 +8,7 @@ laatste_update: 2003-02-01
 status: geldig
 toestand: 2003-02-01
 bron: "https://wetten.overheid.nl/BWBV0001124"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk België tot regeling van het scheepvaartverkeer en van de recreatie op de gemeenschappelijke Maas

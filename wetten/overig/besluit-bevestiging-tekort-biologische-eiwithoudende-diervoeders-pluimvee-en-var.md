@@ -9,7 +9,7 @@ laatste_update: 2026-05-20
 status: geldig
 toestand: 2026-05-20
 bron: "https://wetten.overheid.nl/BWBR0052627"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-10
 ---
 
 # Besluit van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur van 6 mei 2026, nr. DGA / 105293347 ter bevestiging van het tekort biologische eiwithoudende diervoeders voor pluimvee en varkens in 2026

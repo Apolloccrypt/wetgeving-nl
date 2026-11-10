@@ -8,7 +8,7 @@ laatste_update: 2001-01-19
 status: geldig
 toestand: 2001-01-19
 bron: "https://wetten.overheid.nl/BWBV0001463"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag inzake de Europese groep van luchtmachten van 6 juli 1998, zoals gewijzigd bij het Protocol bij genoemd Verdrag

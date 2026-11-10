@@ -8,7 +8,7 @@ laatste_update: 2022-11-16
 status: geldig
 toestand: 2022-11-16
 bron: "https://wetten.overheid.nl/BWBV0001340"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag tot oprichting van het Internationaal Vaccinatie-Instituut

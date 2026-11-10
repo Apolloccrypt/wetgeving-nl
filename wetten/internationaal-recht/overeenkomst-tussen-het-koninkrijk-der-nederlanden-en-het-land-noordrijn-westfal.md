@@ -8,7 +8,7 @@ laatste_update: 1994-03-01
 status: geldig
 toestand: 1994-03-01
 bron: "https://wetten.overheid.nl/BWBV0001096"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Land Noordrijn-Westfalen inzake de samenwerking van de hogescholen van het Koninkrijk der Nederlanden met de Fachhochschulen van het Land Noordrijn-Westfalen

@@ -9,7 +9,7 @@ laatste_update: 2026-05-16
 status: geldig
 toestand: 2026-05-16
 bron: "https://wetten.overheid.nl/BWBR0052625"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-10
 ---
 
 # Besluit van de Minister van Buitenlandse Handel en Ontwikkelingssamenwerking van 7 mei 2026, BZ2627337, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieprogramma Fair Focus on Trade)

@@ -8,7 +8,7 @@ laatste_update: 1993-07-01
 status: geldig
 toestand: 1993-07-01
 bron: "https://wetten.overheid.nl/BWBV0001089"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Briefwisseling tussen de Nederlandse, de Belgische en de Luxemburgse Regeringen, enerzijds, en de Regering van de Poolse Republiek, anderzijds, houdende een overeenkomst inzake de afschaffing van de visumplicht

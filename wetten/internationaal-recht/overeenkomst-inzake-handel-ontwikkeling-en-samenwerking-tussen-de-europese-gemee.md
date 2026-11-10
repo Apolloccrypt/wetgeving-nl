@@ -8,7 +8,7 @@ laatste_update: 2016-03-01
 status: geldig
 toestand: 2016-03-01
 bron: "https://wetten.overheid.nl/BWBV0001476"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Overeenkomst inzake handel, ontwikkeling en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Zuid-Afrika, anderzijds

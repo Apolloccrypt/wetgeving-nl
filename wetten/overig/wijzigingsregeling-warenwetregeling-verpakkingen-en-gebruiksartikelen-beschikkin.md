@@ -9,7 +9,7 @@ laatste_update: 2026-05-29
 status: geldig
 toestand: 2026-05-29
 bron: "https://wetten.overheid.nl/BWBR0052605"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-10
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 23 april 2026, kenmerk 4375777-1097324-WJZ, houdende wijziging van de Warenwetregeling verpakkingen en gebruiksartikelen in verband met de Beschikking van het Benelux Comité van Ministers houdende vrijwaringsmaatregelen ten aanzien van keramische voorwerpen bestemd om met levensmiddelen in aanraking te komen [KetenID WGK028592]

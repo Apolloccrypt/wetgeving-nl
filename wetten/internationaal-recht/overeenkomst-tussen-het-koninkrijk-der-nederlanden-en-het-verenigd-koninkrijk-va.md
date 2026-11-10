@@ -8,7 +8,7 @@ laatste_update: 1993-03-03
 status: geldig
 toestand: 1993-03-03
 bron: "https://wetten.overheid.nl/BWBV0001074"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake de exploitatie van de voorkomens in het Markham-veld en de afname van bitumina daaruit

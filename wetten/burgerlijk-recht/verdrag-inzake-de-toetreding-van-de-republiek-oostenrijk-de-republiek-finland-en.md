@@ -8,7 +8,7 @@ laatste_update: 1998-10-01
 status: geldig
 toestand: 1998-10-01
 bron: "https://wetten.overheid.nl/BWBV0001299"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag inzake de toetreding van de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden tot het Verdrag inzake het recht dat van toepassing is op verbintenissen uit overeenkomst, ter ondertekening opengesteld te Rome op 19 juni 1980, en tot het Eerste en het Tweede Protocol betreffende de uitlegging ervan door het Hof van Justitie

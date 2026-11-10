@@ -8,7 +8,7 @@ laatste_update: 2004-12-28
 status: geldig
 toestand: 2004-12-28
 bron: "https://wetten.overheid.nl/BWBV0001109"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen

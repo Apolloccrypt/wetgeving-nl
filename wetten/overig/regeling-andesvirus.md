@@ -9,7 +9,7 @@ laatste_update: 2026-05-11
 status: geldig
 toestand: 2026-05-11
 bron: "https://wetten.overheid.nl/BWBR0052613"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-10
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport, van 8 mei 2026, kenmerk 4384032-1098404-IZB, ex artikel 20 van de Wet publieke gezondheid (Regeling andesvirus) [Keten-ID WGK029069]

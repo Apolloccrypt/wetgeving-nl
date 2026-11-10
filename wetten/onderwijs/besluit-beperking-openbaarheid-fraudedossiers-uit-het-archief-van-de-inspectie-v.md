@@ -9,7 +9,7 @@ laatste_update: 2026-07-18
 status: geldig
 toestand: 2026-07-18
 bron: "https://wetten.overheid.nl/BWBR0052847"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 15 juni 2026, nr. I/62678920, houdende beperking van de openbaarheid van fraudedossiers uit het archief van de Inspectie van het onderwijs over de periode 2001-2016

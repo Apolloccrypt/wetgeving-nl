@@ -9,7 +9,7 @@ laatste_update: 2026-07-15
 status: geldig
 toestand: 2026-07-15
 bron: "https://wetten.overheid.nl/BWBR0052841"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 6 juli 2026, kenmerk 4422465-1100356-PZO, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake de vaststelling van een prestatiebeschrijving voor inzet van doorbraakmiddelen ten behoeve van impactvolle transformaties

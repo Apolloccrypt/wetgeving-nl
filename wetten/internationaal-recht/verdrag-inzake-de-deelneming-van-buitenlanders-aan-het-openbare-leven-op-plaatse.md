@@ -8,7 +8,7 @@ laatste_update: 1997-05-01
 status: geldig
 toestand: 1997-05-01
 bron: "https://wetten.overheid.nl/BWBV0001275"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag inzake de deelneming van buitenlanders aan het openbare leven op plaatselijk niveau

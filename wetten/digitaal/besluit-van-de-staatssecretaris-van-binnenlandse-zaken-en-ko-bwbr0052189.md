@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0052189"
-opgehaald: 2026-10-04
+opgehaald: 2026-11-10
 ---
 
 # Besluit van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 8 december 2025, houdende vaststelling van een modeltoegankelijkheidsverklaring digitale toegankelijkheid overheid (Besluit modeltoegankelijkheidsverklaring digitale toegankelijkheid overheid)
@@ -20,7 +20,7 @@ Het model van een toegankelijkheidsverklaring, bedoeld in [artikel 4 van het Tij
 
 ##### Artikel 2
 
-Dit besluit treedt in werking met ingang van 1 oktober 2026.
+Dit besluit treedt in werking met ingang van 1 oktober 2026.
 
 ##### Artikel 3
 

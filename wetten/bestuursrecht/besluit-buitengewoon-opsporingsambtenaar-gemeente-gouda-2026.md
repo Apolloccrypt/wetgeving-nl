@@ -9,7 +9,7 @@ laatste_update: 2026-07-22
 status: geldig
 toestand: 2026-07-22
 bron: "https://wetten.overheid.nl/BWBR0052622"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-10
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 8 mei 2026, nr. BOACAT2026/031, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Gouda

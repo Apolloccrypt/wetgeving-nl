@@ -8,7 +8,7 @@ laatste_update: 2006-06-01
 status: geldig
 toestand: 2006-06-01
 bron: "https://wetten.overheid.nl/BWBV0001006"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag aangaande de uitlevering en de rechtshulp in strafzaken tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden

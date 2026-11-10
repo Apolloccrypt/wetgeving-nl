@@ -8,7 +8,7 @@ laatste_update: 1982-04-12
 status: geldig
 toestand: 1982-04-12
 bron: "https://wetten.overheid.nl/BWBV0001025"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Aanvullend Protocol bij het Europees Verdrag betreffende uitlevering

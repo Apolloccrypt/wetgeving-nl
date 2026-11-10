@@ -8,7 +8,7 @@ laatste_update: 1998-10-01
 status: geldig
 toestand: 1998-10-01
 bron: "https://wetten.overheid.nl/BWBV0001342"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag inzake de bescherming van kinderen en de samenwerking op het gebied van de interlandelijke adoptie

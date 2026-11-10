@@ -9,7 +9,7 @@ laatste_update: 2026-04-24
 status: geldig
 toestand: 2026-04-24
 bron: "https://wetten.overheid.nl/BWBR0052600"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-10
 ---
 
 # Besluit van de Staatssecretaris van Economische Zaken en Klimaat van 8 april 2026, houdende de aanwijzing van de gegevensuitwisselingsentiteit Energiewet als aangewezen organisatie onder de Wet digitale overheid

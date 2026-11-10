@@ -8,7 +8,7 @@ laatste_update: 1997-06-01
 status: geldig
 toestand: 1997-06-01
 bron: "https://wetten.overheid.nl/BWBV0001186"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en Oekraïne inzake bevordering en wederzijdse bescherming van investeringen

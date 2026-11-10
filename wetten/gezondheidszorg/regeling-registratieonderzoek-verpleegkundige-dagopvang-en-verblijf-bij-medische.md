@@ -8,7 +8,7 @@ laatste_update: 2026-05-08
 status: geldig
 toestand: 2026-05-08
 bron: "https://wetten.overheid.nl/BWBR0052608"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-10
 ---
 
 # Regeling registratieonderzoek verpleegkundige dagopvang en verblijf bij medische kindzorg

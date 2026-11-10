@@ -8,7 +8,7 @@ laatste_update: 1999-07-29
 status: geldig
 toestand: 1999-07-29
 bron: "https://wetten.overheid.nl/BWBV0001356"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en Roemenië tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen

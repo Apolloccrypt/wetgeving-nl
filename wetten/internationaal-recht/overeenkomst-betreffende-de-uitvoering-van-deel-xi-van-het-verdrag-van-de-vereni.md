@@ -8,7 +8,7 @@ laatste_update: 1996-07-28
 status: geldig
 toestand: 1996-07-28
 bron: "https://wetten.overheid.nl/BWBV0001149"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Overeenkomst betreffende de uitvoering van Deel XI van het Verdrag van de Verenigde Naties inzake het recht van de zee van 10 december 1982

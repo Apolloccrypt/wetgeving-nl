@@ -8,7 +8,7 @@ laatste_update: 2001-08-11
 status: geldig
 toestand: 2001-08-11
 bron: "https://wetten.overheid.nl/BWBV0001433"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag inzake toestemming voor de doorreis van Joegoslavische staatsburgers zonder verblijfsrecht

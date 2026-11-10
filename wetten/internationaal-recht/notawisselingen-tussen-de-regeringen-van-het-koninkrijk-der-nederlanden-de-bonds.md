@@ -8,7 +8,7 @@ laatste_update: 2000-05-01
 status: geldig
 toestand: 2000-05-01
 bron: "https://wetten.overheid.nl/BWBV0001430"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Notawisselingen tussen de regeringen van het Koninkrijk der Nederlanden, de Bondsrepubliek Duitsland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, enerzijds, en de regering van de Verenigde Staten van Amerika, anderzijds, houdende een verdrag inzake de toepassing van non-proliferatie-waarborgen op aan Taiwan geleverd licht verrijkt uranium

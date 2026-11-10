@@ -8,7 +8,7 @@ laatste_update: 1998-04-08
 status: geldig
 toestand: 1998-04-08
 bron: "https://wetten.overheid.nl/BWBV0001329"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag inzake luchtvervoer tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Russische Federatie

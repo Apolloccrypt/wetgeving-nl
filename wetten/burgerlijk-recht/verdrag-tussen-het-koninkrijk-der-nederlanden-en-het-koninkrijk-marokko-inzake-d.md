@@ -8,7 +8,7 @@ laatste_update: 2001-05-01
 status: geldig
 toestand: 2001-05-01
 bron: "https://wetten.overheid.nl/BWBV0001425"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko inzake de overbrenging van gevonniste personen

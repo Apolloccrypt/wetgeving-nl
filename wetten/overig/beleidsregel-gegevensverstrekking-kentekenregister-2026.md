@@ -9,7 +9,7 @@ laatste_update: 2026-07-15
 status: geldig
 toestand: 2026-07-15
 bron: "https://wetten.overheid.nl/BWBR0052837"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Beleidsregel van de directie van de Dienst Wegverkeer van 15 juli 2026, met kenmerk JBZ.26.0064112, betreffende de gegevensverstrekking uit het kentekenregister

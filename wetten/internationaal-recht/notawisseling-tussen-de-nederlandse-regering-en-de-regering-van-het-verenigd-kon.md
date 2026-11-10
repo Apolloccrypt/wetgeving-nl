@@ -8,7 +8,7 @@ laatste_update: 1999-05-01
 status: geldig
 toestand: 1999-05-01
 bron: "https://wetten.overheid.nl/BWBV0001391"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Notawisseling tussen de Nederlandse Regering en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland houdende een verdrag inzake voorrechten en immuniteiten te verlenen aan verbindingsofficieren die vanwege de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland bij Europol te 's-Gravenhage worden tewerkgesteld

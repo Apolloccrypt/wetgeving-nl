@@ -8,7 +8,7 @@ laatste_update: 2026-07-11
 status: geldig
 toestand: 2026-07-11
 bron: "https://wetten.overheid.nl/BWBR0052824"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Besluit goedkeuring tarieven Stichting Groene Erkenningen (ZK-0000137503)

@@ -8,7 +8,7 @@ laatste_update: 1999-07-01
 status: geldig
 toestand: 1999-07-01
 bron: "https://wetten.overheid.nl/BWBV0001332"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Interregionale Kaderovereenkomst voor samenwerking tussen de Europese Gemeenschap en haar Lid-Staten, enerzijds, en de Mercado Común del Sur en zijn deelnemende Staten, anderzijds

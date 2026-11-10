@@ -8,7 +8,7 @@ laatste_update: 1996-07-28
 status: geldig
 toestand: 1996-07-28
 bron: "https://wetten.overheid.nl/BWBV0001231"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Derde Protocol bij de Algemene Overeenkomst betreffende de handel in diensten

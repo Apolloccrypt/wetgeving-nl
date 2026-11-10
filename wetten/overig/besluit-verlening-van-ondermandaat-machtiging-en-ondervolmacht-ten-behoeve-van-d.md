@@ -8,7 +8,7 @@ laatste_update: 2026-05-23
 status: geldig
 toestand: 2026-05-23
 bron: "https://wetten.overheid.nl/BWBR0052635"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Besluit verlening van ondermandaat, machtiging en ondervolmacht ten behoeve van de handhaving Wet ter voorkoming van witwassen en financieren van terrorisme

@@ -8,7 +8,7 @@ laatste_update: 1999-01-01
 status: geldig
 toestand: 1999-01-01
 bron: "https://wetten.overheid.nl/BWBV0001366"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Notawisseling tussen de Nederlandse en de Zweedse Regering houdende een verdrag inzake voorrechten en immuniteiten te verlenen aan verbindingsofficieren die vanwege de Zweedse Regering bij Europol te 's-Gravenhage worden tewerkgesteld

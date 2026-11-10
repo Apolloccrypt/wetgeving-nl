@@ -9,7 +9,7 @@ laatste_update: 2026-07-10
 status: geldig
 toestand: 2026-07-10
 bron: "https://wetten.overheid.nl/BWBR0052813"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat van 3 juli 2026, nr. IENW/BSK-2026/104583, houdende vaststelling van het derde aanvraagtijdvak in 2026 en het daarbij behorende plafond voor rijksbijdragen als bedoeld in de Regeling stimulering verkeersveiligheidsmaatregelen 2025–2030

@@ -8,7 +8,7 @@ laatste_update: 2025-10-22
 status: geldig
 toestand: 2025-10-22
 bron: "https://wetten.overheid.nl/BWBV0001432"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag van Rotterdam inzake de procedure met betrekking tot voorafgaande geïnformeerde toestemming ten aanzien van bepaalde gevaarlijke chemische stoffen en pesticiden in de internationale handel

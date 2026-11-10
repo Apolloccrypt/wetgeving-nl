@@ -8,7 +8,7 @@ laatste_update: 1995-07-06
 status: geldig
 toestand: 1995-07-06
 bron: "https://wetten.overheid.nl/BWBV0001054"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Kameroen inzake het programma van wetenschappelijk en technisch onderzoek en ontwikkeling betreffende tropische regenwouden, genaamd "Tropenbos Kameroen"

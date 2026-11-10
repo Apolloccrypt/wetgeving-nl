@@ -7,7 +7,7 @@ laatste_update: 1995-04-21
 status: geldig
 toestand: 1995-04-21
 bron: "https://wetten.overheid.nl/BWBV0001213"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Zuid-Afrika inzake scheepvaart

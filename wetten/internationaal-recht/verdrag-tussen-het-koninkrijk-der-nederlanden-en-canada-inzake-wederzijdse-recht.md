@@ -8,7 +8,7 @@ laatste_update: 1992-05-01
 status: geldig
 toestand: 1992-05-01
 bron: "https://wetten.overheid.nl/BWBV0001049"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en Canada inzake wederzijdse rechtshulp in strafzaken

@@ -9,7 +9,7 @@ laatste_update: 1998-08-13
 status: geldig
 toestand: 1998-08-13
 bron: "https://wetten.overheid.nl/BWBV0001346"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en Australië inzake betaald werk van gezinsleden van diplomatiek en consulair personeel

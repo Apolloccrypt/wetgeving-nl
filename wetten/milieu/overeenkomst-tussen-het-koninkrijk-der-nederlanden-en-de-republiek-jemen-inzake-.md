@@ -8,7 +8,7 @@ laatste_update: 1998-06-24
 status: geldig
 toestand: 1998-06-24
 bron: "https://wetten.overheid.nl/BWBV0001120"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Jemen inzake geregelde luchtdiensten tussen en via hun onderscheiden grondgebieden

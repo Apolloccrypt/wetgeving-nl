@@ -8,7 +8,7 @@ laatste_update: 2005-02-01
 status: geldig
 toestand: 2005-02-01
 bron: "https://wetten.overheid.nl/BWBV0001406"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Overeenkomst tussen de Regeringen van de Beneluxstaten (het Koninkrijk België, het Koninkrijk der Nederlanden, het Groothertogdom Luxemburg) en de Regering van de Republiek Estland betreffende de overname van onregelmatig verblijvende personen (Overnameovereenkomst)

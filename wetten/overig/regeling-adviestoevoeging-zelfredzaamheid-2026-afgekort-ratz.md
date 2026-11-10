@@ -8,7 +8,7 @@ laatste_update: 2026-05-28
 status: geldig
 toestand: 2026-05-28
 bron: "https://wetten.overheid.nl/BWBR0052643"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Regeling adviestoevoeging zelfredzaamheid 2026 (afgekort: Ratz)

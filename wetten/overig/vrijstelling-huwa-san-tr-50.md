@@ -9,7 +9,7 @@ laatste_update: 2026-05-20
 status: geldig
 toestand: 2026-05-20
 bron: "https://wetten.overheid.nl/BWBR0052631"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Waterstaat van 19 mei 2026, nr. IENW/BSK-2026/89530 houdende tijdelijke vrijstelling op grond van artikel 46, eerste lid van de Wet gewasbeschermingsmiddelen en biociden voor het gebruik van Huwa-San TR-50 ter bestrijding van mogelijke infectie Andres-Hantavirus op het schip MV Hondius (Vrijstelling Huwa-San TR-50)

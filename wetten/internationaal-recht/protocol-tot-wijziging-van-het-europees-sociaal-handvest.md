@@ -7,7 +7,7 @@ laatste_update: 1991-10-21
 status: geldig
 toestand: 1991-10-21
 bron: "https://wetten.overheid.nl/BWBV0001087"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Protocol tot wijziging van het Europees Sociaal Handvest

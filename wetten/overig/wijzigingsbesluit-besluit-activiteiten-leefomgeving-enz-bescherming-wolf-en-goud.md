@@ -9,7 +9,7 @@ laatste_update: 2026-07-11
 status: geldig
 toestand: 2026-07-11
 bron: "https://wetten.overheid.nl/BWBR0052822"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Besluit van 7 juli 2026, houdende wijziging van het Besluit activiteiten leefomgeving en van het Besluit kwaliteit leefomgeving in verband met de bescherming van de wolf en goudjakhals [KetenID WGK027882]

@@ -7,7 +7,7 @@ laatste_update: 1999-06-28
 status: geldig
 toestand: 1999-06-28
 bron: "https://wetten.overheid.nl/BWBV0001412"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Protocol tot aanpassing van de institutionele aspecten van de Europa-Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en Roemenië, anderzijds, teneinde rekening te houden met de toetreding van de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden tot de Europese Unie

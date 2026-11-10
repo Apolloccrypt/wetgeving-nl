@@ -9,7 +9,7 @@ laatste_update: 2026-05-19
 status: geldig
 toestand: 2026-05-19
 bron: "https://wetten.overheid.nl/BWBR0052623"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-10
 ---
 
 # Besluit van de algemene rijksarchivaris van 30 april 2026, nr. NA/57503035, houdende de aanwijzing van de juiste wijze van verzenden van berichten aan het Nationaal Archief in de zin van de artikelen 2:13 en 2:14 van de Algemene wet bestuursrecht (Aanwijzingsbesluit elektronische kanalen Nationaal Archief)

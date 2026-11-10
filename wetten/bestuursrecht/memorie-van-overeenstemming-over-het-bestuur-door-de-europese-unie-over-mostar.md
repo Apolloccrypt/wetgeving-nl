@@ -8,7 +8,7 @@ laatste_update: 1994-07-05
 status: geldig
 toestand: 1994-07-05
 bron: "https://wetten.overheid.nl/BWBV0001133"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Memorie van Overeenstemming over het Bestuur door de Europese Unie over Mostar

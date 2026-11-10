@@ -8,7 +8,7 @@ laatste_update: 1994-10-10
 status: geldig
 toestand: 1994-10-10
 bron: "https://wetten.overheid.nl/BWBV0001136"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag inzake biologische diversiteit

@@ -9,7 +9,7 @@ laatste_update: 2026-05-11
 status: geldig
 toestand: 2026-05-11
 bron: "https://wetten.overheid.nl/BWBR0052612"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-10
 ---
 
 # Beleidsregel Meerzorg pgb Zilveren Kruis Zorgkantoor

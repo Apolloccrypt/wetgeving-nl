@@ -8,7 +8,7 @@ laatste_update: 1985-07-19
 status: geldig
 toestand: 1985-07-19
 bron: "https://wetten.overheid.nl/BWBV0001034"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Europees Verdrag tot bestrijding van terrorisme

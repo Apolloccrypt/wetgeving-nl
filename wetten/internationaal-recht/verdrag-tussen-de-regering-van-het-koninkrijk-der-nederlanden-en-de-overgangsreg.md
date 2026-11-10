@@ -8,7 +8,7 @@ laatste_update: 1995-02-08
 status: geldig
 toestand: 1995-02-08
 bron: "https://wetten.overheid.nl/BWBV0001078"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Overgangsregering van Ethiopië inzake technische samenwerking

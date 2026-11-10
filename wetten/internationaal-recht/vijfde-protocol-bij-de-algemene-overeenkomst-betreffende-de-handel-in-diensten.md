@@ -8,7 +8,7 @@ laatste_update: 1999-03-01
 status: geldig
 toestand: 1999-03-01
 bron: "https://wetten.overheid.nl/BWBV0001352"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Vijfde Protocol bij de Algemene Overeenkomst betreffende de handel in diensten

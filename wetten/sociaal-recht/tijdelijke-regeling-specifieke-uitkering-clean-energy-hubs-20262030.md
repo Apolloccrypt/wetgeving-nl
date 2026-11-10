@@ -9,7 +9,7 @@ laatste_update: 2026-05-01
 status: geldig
 toestand: 2026-05-01
 bron: "https://wetten.overheid.nl/BWBR0052580"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-10
 ---
 
 # Tijdelijke Regeling van de Minister van Infrastructuur en Waterstaat van 23 april 2026, nr. IENW/BSK-2026/68755, houdende regels voor het verstrekken van een specifieke uitkering ter stimulering van de realisatie van Clean Energy Hubs (Tijdelijke regeling specifieke uitkering Clean Energy Hubs 2026–2030) [KetenID WGK028222]

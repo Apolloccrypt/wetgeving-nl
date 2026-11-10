@@ -9,7 +9,7 @@ laatste_update: 2026-05-01
 status: geldig
 toestand: 2026-05-01
 bron: "https://wetten.overheid.nl/BWBR0052587"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-10
 ---
 
 # Besluit tot het stellen van beperkingen aan de openbaarheid van het archief van het Ministerie van Justitie, C-dossiers (1856) 1953–2005 (2012), (1856) 1953–2005 (2012), toegangsnummer 2.09.92.

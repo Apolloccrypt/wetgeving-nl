@@ -9,7 +9,7 @@ laatste_update: 2026-05-04
 status: geldig
 toestand: 2026-05-04
 bron: "https://wetten.overheid.nl/BWBR0052598"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-10
 ---
 
 # Besluit van 14 april 2026 houdende uitgestelde openbaarmaking volume uitgevoerde transacties met betrekking tot overheidsschuldinstrumenten in verband met Verordening (EU) nr. 600/2014 van het Europees Parlement en de Raad van 15 mei 2014

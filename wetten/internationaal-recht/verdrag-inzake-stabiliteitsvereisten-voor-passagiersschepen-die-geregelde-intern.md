@@ -8,7 +8,7 @@ laatste_update: 1997-04-01
 status: geldig
 toestand: 1997-04-01
 bron: "https://wetten.overheid.nl/BWBV0001276"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag inzake stabiliteitsvereisten voor passagiersschepen die geregelde internationale lijndiensten van en naar havens in Noord-West-Europa en de Baltische Zee onderhouden

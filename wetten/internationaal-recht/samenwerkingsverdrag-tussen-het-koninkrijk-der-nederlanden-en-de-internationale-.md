@@ -8,7 +8,7 @@ laatste_update: 1999-10-20
 status: geldig
 toestand: 1999-10-20
 bron: "https://wetten.overheid.nl/BWBV0001414"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Samenwerkingsverdrag tussen het Koninkrijk der Nederlanden en de Internationale Organisatie voor Migratie

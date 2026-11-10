@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0052637"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Besluit van de Staatssecretaris van Financiën van 17 mei 2026, nr. 2026-8260 over fiscale maatregelen voor Nederland en Caribisch Nederland naar aanleiding van de energieschok (Beleidsbesluit fiscale maatregelen naar aanleiding van de energieschok)

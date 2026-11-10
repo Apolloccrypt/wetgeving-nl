@@ -8,7 +8,7 @@ laatste_update: 2025-11-29
 status: geldig
 toestand: 2025-11-29
 bron: "https://wetten.overheid.nl/BWBV0001331"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Europees Verdrag inzake hoofdwaterwegen die van internationaal belang zijn (AGN)

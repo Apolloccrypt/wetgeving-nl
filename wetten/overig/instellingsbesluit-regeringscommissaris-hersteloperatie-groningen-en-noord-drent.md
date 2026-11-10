@@ -9,7 +9,7 @@ laatste_update: 2026-05-29
 status: geldig
 toestand: 2026-05-29
 bron: "https://wetten.overheid.nl/BWBR0052651"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 7 mei 2026, nr. 2026-0000013092 tot instelling van de regeringscommissaris hersteloperatie Groningen en Noord-Drenthe (Instellingsbesluit regeringscommissaris hersteloperatie Groningen en Noord-Drenthe)

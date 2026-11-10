@@ -8,7 +8,7 @@ laatste_update: 1997-09-01
 status: geldig
 toestand: 1997-09-01
 bron: "https://wetten.overheid.nl/BWBV0001296"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Letland inzake scheepvaart

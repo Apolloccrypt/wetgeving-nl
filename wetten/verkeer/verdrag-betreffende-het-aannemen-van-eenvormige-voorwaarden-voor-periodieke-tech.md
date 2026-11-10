@@ -8,7 +8,7 @@ laatste_update: 2007-07-04
 status: geldig
 toestand: 2007-07-04
 bron: "https://wetten.overheid.nl/BWBV0001368"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag betreffende het aannemen van eenvormige voorwaarden voor periodieke technische keuringen van motorvoertuigen en de wederzijdse erkenning van dergelijke keuringen

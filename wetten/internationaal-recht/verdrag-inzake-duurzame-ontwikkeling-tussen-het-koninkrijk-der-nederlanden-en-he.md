@@ -8,7 +8,7 @@ laatste_update: 1996-08-02
 status: geldig
 toestand: 1996-08-02
 bron: "https://wetten.overheid.nl/BWBV0001235"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag inzake duurzame ontwikkeling tussen het Koninkrijk der Nederlanden en het Koninkrijk Bhutan

@@ -9,7 +9,7 @@ laatste_update: 2026-07-11
 status: geldig
 toestand: 2026-07-11
 bron: "https://wetten.overheid.nl/BWBR0052836"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Besluit van de Staatssecretaris van Economische Zaken en Klimaat van 7 juli 2026, nr. DGED/DE/107033049, houdende de mogelijkheid voor de Autoriteit Consument en Markt tot toekenning van IMSI-nummers ten behoeve van de identificatie van gebruiksrelaties voor bepaalde categorieën besloten netwerken

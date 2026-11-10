@@ -8,7 +8,7 @@ laatste_update: 2024-12-31
 status: geldig
 toestand: 2024-12-31
 bron: "https://wetten.overheid.nl/BWBV0001440"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Moldavië tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen

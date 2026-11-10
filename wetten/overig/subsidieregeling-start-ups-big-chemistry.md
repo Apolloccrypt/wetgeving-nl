@@ -9,7 +9,7 @@ laatste_update: 2026-05-27
 status: geldig
 toestand: 2026-05-27
 bron: "https://wetten.overheid.nl/BWBR0052638"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 12 mei 2026, nr. 63286153, houdende regels voor de subsidieverstrekking aan startende ondernemingen in het kader van het Nationaal Groeifondsproject Big Chemistry (Subsidieregeling start-ups Big Chemistry)

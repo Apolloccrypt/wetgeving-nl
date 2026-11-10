@@ -8,7 +8,7 @@ laatste_update: 2001-03-13
 status: geldig
 toestand: 2001-03-13
 bron: "https://wetten.overheid.nl/BWBV0001468"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag inzake bestrijding van omkoping van buitenlandse ambtenaren bij internationale zakelijke transacties

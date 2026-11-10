@@ -9,7 +9,7 @@ laatste_update: 2026-05-14
 status: geldig
 toestand: 2026-05-14
 bron: "https://wetten.overheid.nl/BWBR0052610"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-10
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 29 april 2026, nr. 2026-0000120908, houdende de inrichting van de directie Stelsel en Volksverzekeringen alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Stelsel en Volksverzekeringen (Organisatie-, mandaat- en volmachtbesluit directie Stelsel en Volksverzekeringen 2026)

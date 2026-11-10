@@ -7,7 +7,7 @@ laatste_update: 1998-05-25
 status: geldig
 toestand: 1998-05-25
 bron: "https://wetten.overheid.nl/BWBV0001408"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Partnerschaps- en Samenwerkingsovereenkomst tussen de Europese Gemeenschappen en hun Lidstaten, enerzijds, en Turkmenistan, anderzijds

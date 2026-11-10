@@ -8,7 +8,7 @@ laatste_update: 2006-12-31
 status: geldig
 toestand: 2006-12-31
 bron: "https://wetten.overheid.nl/BWBV0001444"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Akkoord tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland inzake de door de Bondsrepubliek Duitsland te verlenen ondersteuning bij het beheer van onroerend goed te Seedorf

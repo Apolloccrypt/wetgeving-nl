@@ -8,7 +8,7 @@ laatste_update: 1999-05-01
 status: geldig
 toestand: 1999-05-01
 bron: "https://wetten.overheid.nl/BWBV0001390"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Notawisseling tussen de Nederlandse en de Ierse Regering houdende een verdrag inzake voorrechten en immuniteiten te verlenen aan verbindingsofficieren die vanwege de Ierse Regering bij Europol te 's-Gravenhage worden tewerkgesteld

@@ -9,7 +9,7 @@ laatste_update: 1995-09-01
 status: geldig
 toestand: 1995-09-01
 bron: "https://wetten.overheid.nl/BWBV0001184"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Albanië inzake de bevordering en de wederzijdse bescherming van investeringen

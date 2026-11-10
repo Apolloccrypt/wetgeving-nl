@@ -8,7 +8,7 @@ laatste_update: 1994-07-19
 status: geldig
 toestand: 1994-07-19
 bron: "https://wetten.overheid.nl/BWBV0001137"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Protocol tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de gevolgen van de Duitse eenwording voor de bilaterale verdragsrelaties

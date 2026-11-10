@@ -8,7 +8,7 @@ laatste_update: 2026-07-17
 status: geldig
 toestand: 2026-07-17
 bron: "https://wetten.overheid.nl/BWBR0052845"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Beleidsregel prestatiebeschrijvingen en tarieven modulaire zorg 2026

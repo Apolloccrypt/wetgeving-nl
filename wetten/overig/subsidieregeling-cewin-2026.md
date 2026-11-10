@@ -9,7 +9,7 @@ laatste_update: 2026-05-05
 status: geldig
 toestand: 2026-05-05
 bron: "https://wetten.overheid.nl/BWBR0052601"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-10
 ---
 
 # Regeling van de Minister van Langdurige Zorg, Jeugd en Sport van 30 april 2026, kenmerk 4377537-1097784-DMO, houdende regels voor de subsidiering van activiteiten voor de collectieve erkenning van Indische, Molukse, Papoea en Chinees-Indonesische gemeenschappen in Nederland (Subsidieregeling CEWIN 2026) [KetenID WGK028397]

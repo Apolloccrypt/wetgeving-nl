@@ -8,7 +8,7 @@ laatste_update: 1997-03-18
 status: geldig
 toestand: 1997-03-18
 bron: "https://wetten.overheid.nl/BWBV0001234"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Statuut van de Ontwikkelingsbank van de Raad van Europa

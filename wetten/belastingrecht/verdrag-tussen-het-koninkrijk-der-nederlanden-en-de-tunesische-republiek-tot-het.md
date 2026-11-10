@@ -8,7 +8,7 @@ laatste_update: 2010-12-15
 status: geldig
 toestand: 2010-12-15
 bron: "https://wetten.overheid.nl/BWBV0001199"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Tunesische Republiek tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen

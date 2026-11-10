@@ -8,7 +8,7 @@ laatste_update: 2016-09-01
 status: geldig
 toestand: 2016-09-01
 bron: "https://wetten.overheid.nl/BWBV0001138"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Naties betreffende de zetel van het Internationaal Tribunaal voor de vervolging van personen verantwoordelijk voor ernstige schendingen van het internationaal humanitair recht op het grondgebied van het voormalig Joegoslavië sedert 1991

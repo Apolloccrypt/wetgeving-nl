@@ -9,7 +9,7 @@ laatste_update: 2026-05-22
 status: geldig
 toestand: 2026-05-22
 bron: "https://wetten.overheid.nl/BWBR0052634"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Besluit van de directeur Informatievoorziening van het Ministerie van Economische Zaken en Klimaat van 11 mei 2026, nr. 106046662, tot verlening van ondermandaat, volmacht en machtiging voor de directie Informatievoorziening van het Ministerie van Economische Zaken en Klimaat (Besluit ondermandaat, volmacht en machtiging voor de directie Informatievoorziening van het Ministerie van Economische Zaken en Klimaat 2026)

@@ -8,7 +8,7 @@ laatste_update: 1997-12-01
 status: geldig
 toestand: 1997-12-01
 bron: "https://wetten.overheid.nl/BWBV0001261"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Overeenkomst inzake Partnerschap en Samenwerking waarbij een partnerschap tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Russische Federatie, anderzijds

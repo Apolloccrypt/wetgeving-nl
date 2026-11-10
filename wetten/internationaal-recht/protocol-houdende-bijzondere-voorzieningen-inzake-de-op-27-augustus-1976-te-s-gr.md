@@ -8,7 +8,7 @@ laatste_update: 1995-02-28
 status: geldig
 toestand: 1995-02-28
 bron: "https://wetten.overheid.nl/BWBV0001140"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Protocol houdende bijzondere voorzieningen inzake de op 27 augustus 1976 te 's-Gravenhage tot stand gekomen overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Suriname betreffende de uitlevering en rechtshulp in strafzaken

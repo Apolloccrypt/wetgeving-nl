@@ -8,7 +8,7 @@ laatste_update: 1999-02-01
 status: geldig
 toestand: 1999-02-01
 bron: "https://wetten.overheid.nl/BWBV0001351"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Kaderovereenkomst voor samenwerking ter voorbereiding van een associatie van politieke en economische aard tussen de Europese Gemeenschap en haar Lid-Staten, enerzijds, en de Republiek Chili, anderzijds, als einddoel

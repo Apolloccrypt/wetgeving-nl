@@ -8,7 +8,7 @@ laatste_update: 1998-11-01
 status: geldig
 toestand: 1998-11-01
 bron: "https://wetten.overheid.nl/BWBV0001271"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Elfde Protocol bij het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, betreffende herstructurering van het bij dat Verdrag ingestelde controlemechanisme

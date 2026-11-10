@@ -8,7 +8,7 @@ laatste_update: 1994-02-20
 status: geldig
 toestand: 1994-02-20
 bron: "https://wetten.overheid.nl/BWBV0001013"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag inzake de voorkoming van verontreiniging van de zee ten gevolge van het storten van afval en andere stoffen

@@ -9,7 +9,7 @@ laatste_update: 2026-07-16
 status: geldig
 toestand: 2026-07-16
 bron: "https://wetten.overheid.nl/BWBR0052842"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Besluit van 26 juni 2026 tot wijziging van het Algemeen militair ambtenarenreglement in verband met het recht op aanpassing van de arbeidsduur met gebruikmaking van onbezoldigd verlof in verband met deeltijdarbeid als bedoeld in de Wet flexibel werken (Wijzigingsbesluit deeltijdverlof militairen)

@@ -8,7 +8,7 @@ laatste_update: 1998-01-07
 status: geldig
 toestand: 1998-01-07
 bron: "https://wetten.overheid.nl/BWBV0001244"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag inzake duurzame ontwikkeling gesloten tussen het Koninkrijk der Nederlanden en de Republiek Benin

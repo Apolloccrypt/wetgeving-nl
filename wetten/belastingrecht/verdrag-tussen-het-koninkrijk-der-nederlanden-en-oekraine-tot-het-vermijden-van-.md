@@ -8,7 +8,7 @@ laatste_update: 2021-08-31
 status: geldig
 toestand: 2021-08-31
 bron: "https://wetten.overheid.nl/BWBV0001259"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en Oekraïne tot het vermijden van dubbele belasting met betrekking tot belastingen naar het inkomen en naar het vermogen en het voorkomen van het ontduiken en ontwijken van belasting

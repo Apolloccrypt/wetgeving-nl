@@ -9,7 +9,7 @@ laatste_update: 2026-05-28
 status: geldig
 toestand: 2026-05-28
 bron: "https://wetten.overheid.nl/BWBR0052656"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Aanwijzing van de Minister van Langdurige Zorg, Jeugd en Sport van 19 mei 2026, 4380551-1098043-PZO, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake de beschikbaarheidbijdrage (medische) vervolgopleidingen 2024 en 2025

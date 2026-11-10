@@ -8,7 +8,7 @@ laatste_update: 2001-07-15
 status: geldig
 toestand: 2001-07-15
 bron: "https://wetten.overheid.nl/BWBV0001451"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag tot oprichting van het Adviescentrum voor WTO-recht

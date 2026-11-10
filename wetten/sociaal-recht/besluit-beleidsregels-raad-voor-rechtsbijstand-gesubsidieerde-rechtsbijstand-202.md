@@ -9,7 +9,7 @@ laatste_update: 2026-07-13
 status: geldig
 toestand: 2026-07-13
 bron: "https://wetten.overheid.nl/BWBR0052829"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Besluit van het bestuur van de Raad voor Rechtsbijstand van 15 juni 2026, houdende de bekendmaking van de Beleidsregels 2026 (Besluit Beleidsregels RvR gesubsidieerde rechtsbijstand 2026)

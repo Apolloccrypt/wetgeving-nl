@@ -8,7 +8,7 @@ laatste_update: 1982-04-12
 status: geldig
 toestand: 1982-04-12
 bron: "https://wetten.overheid.nl/BWBV0001010"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Europees Verdrag betreffende uitlevering

@@ -8,7 +8,7 @@ laatste_update: 2002-06-01
 status: geldig
 toestand: 2002-06-01
 bron: "https://wetten.overheid.nl/BWBV0001479"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek der Filipijnen inzake de erkenning van vaarbevoegdheidsbewijzen ingevolge Voorschrift I/10 van het STCW-Verdrag van 1978

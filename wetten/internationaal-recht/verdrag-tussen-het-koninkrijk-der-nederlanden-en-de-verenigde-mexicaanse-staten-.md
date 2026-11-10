@@ -8,7 +8,7 @@ laatste_update: 1999-10-01
 status: geldig
 toestand: 1999-10-01
 bron: "https://wetten.overheid.nl/BWBV0001371"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Mexicaanse Staten inzake de bevordering, de aanmoediging en de wederzijdse bescherming van investeringen

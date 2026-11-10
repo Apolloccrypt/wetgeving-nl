@@ -8,7 +8,7 @@ laatste_update: 2002-10-17
 status: geldig
 toestand: 2002-10-17
 bron: "https://wetten.overheid.nl/BWBV0001473"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Overeenkomst, opgesteld op grond van Artikel K.3 van het Verdrag betreffende de Europese Unie, aangaande de bescherming van de financiële belangen van de Europese Gemeenschappen

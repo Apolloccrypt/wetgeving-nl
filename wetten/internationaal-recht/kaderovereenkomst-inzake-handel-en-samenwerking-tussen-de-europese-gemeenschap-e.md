@@ -8,7 +8,7 @@ laatste_update: 2014-06-01
 status: geldig
 toestand: 2014-06-01
 bron: "https://wetten.overheid.nl/BWBV0001374"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Kaderovereenkomst inzake handel en samenwerking tussen de Europese Gemeenschap en haar Lid-Staten, enerzijds, en de Republiek Korea, anderzijds

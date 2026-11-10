@@ -9,7 +9,7 @@ laatste_update: 2026-07-16
 status: geldig
 toestand: 2026-07-16
 bron: "https://wetten.overheid.nl/BWBR0052843"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Beleidsregel van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur van 29 juni 2026, nr. WJZ/22549150, houdende regels die zien op het verlenen van rechten voor het vissen en kweken van schelpdieren (Beleidsregel uitgifte rechten schelpdieren) [KetenID WGK26249]

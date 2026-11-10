@@ -8,7 +8,7 @@ laatste_update: 1979-01-10
 status: geldig
 toestand: 1979-01-10
 bron: "https://wetten.overheid.nl/BWBV0001018"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Suriname betreffende de wederzijdse erkenning en de tenuitvoerlegging van rechterlijke beslissingen en authentieke akten in burgerlijke zaken

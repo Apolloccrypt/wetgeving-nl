@@ -8,7 +8,7 @@ laatste_update: 1998-03-25
 status: geldig
 toestand: 1998-03-25
 bron: "https://wetten.overheid.nl/BWBV0001282"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag betreffende het voorkomen van zware industriële ongevallen

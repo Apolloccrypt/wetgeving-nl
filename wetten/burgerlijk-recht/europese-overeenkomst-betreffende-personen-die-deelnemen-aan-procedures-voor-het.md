@@ -8,7 +8,7 @@ laatste_update: 1999-01-01
 status: geldig
 toestand: 1999-01-01
 bron: "https://wetten.overheid.nl/BWBV0001270"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Europese Overeenkomst betreffende personen die deelnemen aan procedures voor het Europese Hof voor de Rechten van de Mens

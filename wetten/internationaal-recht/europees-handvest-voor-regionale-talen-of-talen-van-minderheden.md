@@ -8,7 +8,7 @@ laatste_update: 1998-03-01
 status: geldig
 toestand: 1998-03-01
 bron: "https://wetten.overheid.nl/BWBV0001223"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Europees Handvest voor regionale talen of talen van minderheden

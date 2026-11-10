@@ -8,7 +8,7 @@ laatste_update: 2013-02-06
 status: geldig
 toestand: 2013-02-06
 bron: "https://wetten.overheid.nl/BWBV0001174"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag inzake de bescherming en het gebruik van grensoverschrijdende waterlopen en internationale meren

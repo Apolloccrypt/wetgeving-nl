@@ -9,7 +9,7 @@ laatste_update: 2026-07-21
 status: geldig
 toestand: 2026-07-21
 bron: "https://wetten.overheid.nl/BWBR0052854"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Wet van 8 juli 2026 tot wijziging van de Wet op het financieel toezicht, de Wet toezicht accountantsorganisaties, het Burgerlijk Wetboek en enkele andere wetten in verband met de implementatie van Verordening (EU) 2023/2859, Richtlijn (EU) 2023/2864 en Verordening (EU) 2023/2869 betreffende het Europees centraal toegangspunt (Wet implementatie Europees centraal toegangspunt)

@@ -8,7 +8,7 @@ laatste_update: 2011-06-30
 status: geldig
 toestand: 2011-06-30
 bron: "https://wetten.overheid.nl/BWBV0001173"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Protocol inzake toetreding van de Helleense Republiek tot de Westeuropese Unie, met een bijlage

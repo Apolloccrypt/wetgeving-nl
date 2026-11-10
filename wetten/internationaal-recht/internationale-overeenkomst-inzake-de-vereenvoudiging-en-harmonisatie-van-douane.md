@@ -8,7 +8,7 @@ laatste_update: 2006-02-03
 status: geldig
 toestand: 2006-02-03
 bron: "https://wetten.overheid.nl/BWBV0001015"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Internationale Overeenkomst inzake de vereenvoudiging en harmonisatie van douaneprocedures

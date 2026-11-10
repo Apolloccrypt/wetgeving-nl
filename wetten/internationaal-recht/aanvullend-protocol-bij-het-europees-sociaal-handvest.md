@@ -8,7 +8,7 @@ laatste_update: 1992-09-04
 status: geldig
 toestand: 1992-09-04
 bron: "https://wetten.overheid.nl/BWBV0001057"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Aanvullend Protocol bij het Europees Sociaal Handvest

@@ -8,7 +8,7 @@ laatste_update: 2010-02-01
 status: geldig
 toestand: 2010-02-01
 bron: "https://wetten.overheid.nl/BWBV0001032"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Uitleveringsverdrag tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika

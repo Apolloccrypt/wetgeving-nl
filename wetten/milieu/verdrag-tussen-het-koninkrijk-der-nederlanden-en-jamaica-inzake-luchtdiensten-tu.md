@@ -8,7 +8,7 @@ laatste_update: 1995-04-01
 status: geldig
 toestand: 1995-04-01
 bron: "https://wetten.overheid.nl/BWBV0001131"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en Jamaica inzake luchtdiensten tussen en via hun onderscheiden grondgebieden

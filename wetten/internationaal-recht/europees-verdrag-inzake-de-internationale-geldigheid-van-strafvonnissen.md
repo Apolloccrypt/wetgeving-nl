@@ -8,7 +8,7 @@ laatste_update: 1993-09-06
 status: geldig
 toestand: 1993-09-06
 bron: "https://wetten.overheid.nl/BWBV0001038"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Europees Verdrag inzake de internationale geldigheid van strafvonnissen

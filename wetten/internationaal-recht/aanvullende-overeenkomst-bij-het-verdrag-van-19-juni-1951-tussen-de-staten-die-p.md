@@ -8,7 +8,7 @@ laatste_update: 2000-09-01
 status: geldig
 toestand: 2000-09-01
 bron: "https://wetten.overheid.nl/BWBV0001445"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Aanvullende Overeenkomst bij het Verdrag van 19 juni 1951 tussen de Staten die Partij zijn bij het Noord-Atlantisch Verdrag nopens de rechtspositie van hun krijgsmachten met betrekking tot de in het Koninkrijk der Nederlanden gestationeerde Duitse strijdkrachten

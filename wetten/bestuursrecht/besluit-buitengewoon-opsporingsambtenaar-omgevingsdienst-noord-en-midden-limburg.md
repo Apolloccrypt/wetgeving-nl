@@ -9,7 +9,7 @@ laatste_update: 2026-05-20
 status: geldig
 toestand: 2026-05-20
 bron: "https://wetten.overheid.nl/BWBR0052626"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-10
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 8 mei 2026 nr. BOACAT2026/036, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Omgevingsdienst Noord- en Midden-Limburg (ODNML)

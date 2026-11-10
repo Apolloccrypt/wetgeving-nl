@@ -8,7 +8,7 @@ laatste_update: 1999-04-20
 status: geldig
 toestand: 1999-04-20
 bron: "https://wetten.overheid.nl/BWBV0001334"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en het Kabinet van Ministers van Oekraïne inzake technische en financiële samenwerking

@@ -8,7 +8,7 @@ laatste_update: 2001-12-30
 status: geldig
 toestand: 2001-12-30
 bron: "https://wetten.overheid.nl/BWBV0001382"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag inzake de privileges en immuniteiten van het Internationale Hof voor het recht van de zee

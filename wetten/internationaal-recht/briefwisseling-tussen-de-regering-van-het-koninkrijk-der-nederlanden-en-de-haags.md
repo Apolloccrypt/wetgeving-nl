@@ -8,7 +8,7 @@ laatste_update: 1992-12-17
 status: geldig
 toestand: 1992-12-17
 bron: "https://wetten.overheid.nl/BWBV0001068"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Briefwisseling tussen de Regering van het Koninkrijk der Nederlanden en de Haagse Conferentie voor Internationaal Privaatrecht inzake het verlenen van nadere voorrechten en immuniteiten

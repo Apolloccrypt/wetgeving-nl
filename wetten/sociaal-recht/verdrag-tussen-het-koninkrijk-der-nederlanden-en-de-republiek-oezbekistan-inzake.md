@@ -8,7 +8,7 @@ laatste_update: 2000-08-23
 status: geldig
 toestand: 2000-08-23
 bron: "https://wetten.overheid.nl/BWBV0001446"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Oezbekistan inzake wederzijdse administratieve bijstand in douanezaken

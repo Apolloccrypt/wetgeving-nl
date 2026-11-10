@@ -9,7 +9,7 @@ laatste_update: 2026-05-19
 status: geldig
 toestand: 2026-05-19
 bron: "https://wetten.overheid.nl/BWBR0052621"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-10
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 8 mei 2026, nr. BOACAT2026/035, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Omgevingsdienst Utrecht (ODU)

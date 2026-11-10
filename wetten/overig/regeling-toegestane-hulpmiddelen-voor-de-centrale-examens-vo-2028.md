@@ -9,7 +9,7 @@ laatste_update: 2026-07-11
 status: geldig
 toestand: 2026-07-11
 bron: "https://wetten.overheid.nl/BWBR0052825"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Regeling van het College voor toetsen en examens van 29 juni 2026, nr. CvTE-26.00176, houdende vaststelling van toegestane hulpmiddelen voor de centrale examens van de eindexamens en de staatsexamens vo in 2028 (Regeling toegestane hulpmiddelen voor de centrale examens vo 2028)

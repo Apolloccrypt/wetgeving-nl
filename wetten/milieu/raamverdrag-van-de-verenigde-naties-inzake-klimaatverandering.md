@@ -8,7 +8,7 @@ laatste_update: 2013-01-09
 status: geldig
 toestand: 2013-01-09
 bron: "https://wetten.overheid.nl/BWBV0001115"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Raamverdrag van de Verenigde Naties inzake klimaatverandering

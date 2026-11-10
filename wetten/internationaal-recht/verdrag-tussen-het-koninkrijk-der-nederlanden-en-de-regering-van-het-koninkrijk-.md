@@ -8,7 +8,7 @@ laatste_update: 1994-07-08
 status: geldig
 toestand: 1994-07-08
 bron: "https://wetten.overheid.nl/BWBV0001134"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Regering van het Koninkrijk Nepal inzake "techische assistentie bij het opstellen van biodiversiteitsprofielen in Nepal"

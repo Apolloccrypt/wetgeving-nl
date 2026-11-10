@@ -8,7 +8,7 @@ laatste_update: 1996-08-12
 status: geldig
 toestand: 1996-08-12
 bron: "https://wetten.overheid.nl/BWBV0001246"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag inzake duurzame ontwikkeling tussen het Koninkrijk der Nederlanden en de Republiek Costa Rica

@@ -8,7 +8,7 @@ laatste_update: 2019-04-01
 status: geldig
 toestand: 2019-04-01
 bron: "https://wetten.overheid.nl/BWBV0001417"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Euro-Mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en het Hasjemitisch Koninkrijk Jordanië, anderzijds

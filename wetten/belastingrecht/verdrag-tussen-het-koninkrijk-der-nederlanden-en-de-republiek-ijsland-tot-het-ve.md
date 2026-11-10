@@ -8,7 +8,7 @@ laatste_update: 1998-12-27
 status: geldig
 toestand: 1998-12-27
 bron: "https://wetten.overheid.nl/BWBV0001355"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek IJsland tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen

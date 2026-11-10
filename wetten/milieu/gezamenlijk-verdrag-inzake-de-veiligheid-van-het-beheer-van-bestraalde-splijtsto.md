@@ -8,7 +8,7 @@ laatste_update: 2001-06-18
 status: geldig
 toestand: 2001-06-18
 bron: "https://wetten.overheid.nl/BWBV0001434"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Gezamenlijk Verdrag inzake de veiligheid van het beheer van bestraalde splijtstof en inzake de veiligheid van het beheer van radioactief afval

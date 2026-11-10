@@ -8,7 +8,7 @@ laatste_update: 2002-02-15
 status: geldig
 toestand: 2002-02-15
 bron: "https://wetten.overheid.nl/BWBV0001315"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Milieuprogramma van de Verenigde Naties betreffende de zetel van het coördinatiekantoor van het Wereldomvattend Programma van actie tot bescherming van het mariene milieu tegen activiteiten die op het land plaatsvinden

@@ -9,7 +9,7 @@ laatste_update: 2026-07-13
 status: geldig
 toestand: 2026-07-13
 bron: "https://wetten.overheid.nl/BWBR0052823"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat van 3 juli 2026, nr. IENW/BSK-2026/105816 tot aanwijzing van toezichthouders die zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens de Cyberbeveiligingswet en de Wet weerbaarheid kritieke entiteiten (Besluit aanwijzing toezichthouders Cyberbeveiligingswet en Wet weerbaarheid kritieke entiteiten)

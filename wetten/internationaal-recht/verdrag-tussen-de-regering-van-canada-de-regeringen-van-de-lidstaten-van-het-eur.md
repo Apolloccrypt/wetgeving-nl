@@ -8,7 +8,7 @@ laatste_update: 2005-06-28
 status: geldig
 toestand: 2005-06-28
 bron: "https://wetten.overheid.nl/BWBV0001325"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag tussen de Regering van Canada, de Regeringen van de Lidstaten van het Europees Ruimte-Agentschap, de Regering van Japan, de Regering van de Russische Federatie en de Regering van de Verenigde Staten van Amerika inzake samenwerking op het gebied van het civiele internationale ruimtestation

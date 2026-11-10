@@ -8,7 +8,7 @@ laatste_update: 1998-11-01
 status: geldig
 toestand: 1998-11-01
 bron: "https://wetten.overheid.nl/BWBV0001354"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Europese Politiedienst (Europol) betreffende de zetel van Europol

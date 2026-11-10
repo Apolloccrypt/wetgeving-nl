@@ -8,7 +8,7 @@ laatste_update: 2017-01-23
 status: geldig
 toestand: 2017-01-23
 bron: "https://wetten.overheid.nl/BWBV0001160"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Overeenkomst tot oprichting van de Wereldhandelsorganisatie

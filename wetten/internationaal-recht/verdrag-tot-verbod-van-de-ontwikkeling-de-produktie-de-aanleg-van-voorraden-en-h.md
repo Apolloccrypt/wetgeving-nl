@@ -8,7 +8,7 @@ laatste_update: 2020-06-07
 status: geldig
 toestand: 2020-06-07
 bron: "https://wetten.overheid.nl/BWBV0001193"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag tot verbod van de ontwikkeling, de produktie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens

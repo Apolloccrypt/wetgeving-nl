@@ -8,7 +8,7 @@ laatste_update: 1983-05-01
 status: geldig
 toestand: 1983-05-01
 bron: "https://wetten.overheid.nl/BWBV0001031"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Europees Verdrag inzake de rechtspositie van migrerende werknemers

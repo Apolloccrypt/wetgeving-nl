@@ -9,7 +9,7 @@ laatste_update: 2026-04-30
 status: geldig
 toestand: 2026-04-30
 bron: "https://wetten.overheid.nl/BWBR0052584"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-10
 ---
 
 # Besluit van de Minister van Klimaat en Groene Groei van 18 april 2026, nr. IENW/BSK-2026/49552, houdende vaststelling van het subsidieplafond op grond van de Tijdelijke mbo-verduurzamingsregeling

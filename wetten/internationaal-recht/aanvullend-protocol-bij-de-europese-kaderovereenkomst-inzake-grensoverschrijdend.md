@@ -8,7 +8,7 @@ laatste_update: 1998-12-01
 status: geldig
 toestand: 1998-12-01
 bron: "https://wetten.overheid.nl/BWBV0001289"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Aanvullend Protocol bij de Europese Kaderovereenkomst inzake grensoverschrijdende samenwerking tussen territoriale gemeenschappen of autoriteiten

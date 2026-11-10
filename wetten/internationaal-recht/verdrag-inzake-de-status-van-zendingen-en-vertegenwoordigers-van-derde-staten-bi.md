@@ -8,7 +8,7 @@ laatste_update: 1997-04-24
 status: geldig
 toestand: 1997-04-24
 bron: "https://wetten.overheid.nl/BWBV0001286"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag inzake de Status van Zendingen en Vertegenwoordigers van derde Staten bij de Noordatlantische Verdragsorganisatie

@@ -8,7 +8,7 @@ laatste_update: 2000-10-01
 status: geldig
 toestand: 2000-10-01
 bron: "https://wetten.overheid.nl/BWBV0001447"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Kroatië inzake sociale zekerheid

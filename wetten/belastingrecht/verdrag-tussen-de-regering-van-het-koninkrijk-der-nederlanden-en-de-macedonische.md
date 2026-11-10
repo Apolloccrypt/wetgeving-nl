@@ -8,7 +8,7 @@ laatste_update: 1999-04-21
 status: geldig
 toestand: 1999-04-21
 bron: "https://wetten.overheid.nl/BWBV0001380"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Macedonische Regering tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen

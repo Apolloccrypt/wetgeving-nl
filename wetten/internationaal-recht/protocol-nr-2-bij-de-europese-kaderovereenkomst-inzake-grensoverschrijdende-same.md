@@ -8,7 +8,7 @@ laatste_update: 2001-02-01
 status: geldig
 toestand: 2001-02-01
 bron: "https://wetten.overheid.nl/BWBV0001410"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Protocol Nr. 2 bij de Europese Kaderovereenkomst inzake grensoverschrijdende samenwerking tussen territoriale gemeenschappen of autoriteiten, betreffende interterritoriale samenwerking

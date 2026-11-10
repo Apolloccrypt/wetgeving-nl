@@ -8,7 +8,7 @@ laatste_update: 1995-02-01
 status: geldig
 toestand: 1995-02-01
 bron: "https://wetten.overheid.nl/BWBV0001092"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Overeenkomst tussen de drie Regeringen van het Koninkrijk der Nederlanden, de Bondsrepubliek Duitsland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en de Regering van de Verenigde Staten van Amerika betreffende de vestiging, bouw en exploitatie van een installatie voor de verrijking van uranium in de Verenigde Staten

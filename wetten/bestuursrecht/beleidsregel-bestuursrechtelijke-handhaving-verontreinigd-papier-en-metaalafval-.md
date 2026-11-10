@@ -9,7 +9,7 @@ laatste_update: 2026-05-21
 status: geldig
 toestand: 2026-05-21
 bron: "https://wetten.overheid.nl/BWBR0052630"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Beleidsregel van de Staatssecretaris van Infrastructuur en Waterstaat van 28 april 2026, nr. ILT-2026/19736, over de kwalificatie van verontreinigd papier- en metaalafval in verband met de bestuursrechtelijke handhaving van Verordening (EU) nr. 2024/1157 van het Europees Parlement en Raad van 11 april 2024 betreffende de overbrenging van afvalstoffen

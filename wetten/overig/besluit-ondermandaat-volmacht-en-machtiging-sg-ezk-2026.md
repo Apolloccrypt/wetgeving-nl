@@ -9,7 +9,7 @@ laatste_update: 2026-05-28
 status: geldig
 toestand: 2026-05-28
 bron: "https://wetten.overheid.nl/BWBR0052648"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Besluit van de van de secretaris-generaal van het Ministerie van Economische Zaken en Klimaat van 19 mei 2026, nr. WJZ/106344637, tot verlening van ondermandaat, volmacht en machtiging (Besluit ondermandaat, volmacht en machtiging SG EZK 2026)

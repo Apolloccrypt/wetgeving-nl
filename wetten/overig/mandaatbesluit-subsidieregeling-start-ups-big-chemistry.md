@@ -9,7 +9,7 @@ laatste_update: 2026-05-27
 status: geldig
 toestand: 2026-05-27
 bron: "https://wetten.overheid.nl/BWBR0052640"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 12 mei 2026, nr. 63288589, houdende de verlening van mandaat, volmacht en machtiging aan de Ontwikkelingsmaatschappij Oost-Nederland N.V. (Oost NL) in verband met de uitvoering van de Subsidieregeling start-ups Big Chemistry (Mandaatbesluit Subsidieregeling start-ups Big Chemistry)

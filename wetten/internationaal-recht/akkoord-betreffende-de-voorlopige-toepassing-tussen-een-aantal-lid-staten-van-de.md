@@ -8,7 +8,7 @@ laatste_update: 2005-12-25
 status: geldig
 toestand: 2005-12-25
 bron: "https://wetten.overheid.nl/BWBV0001459"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Akkoord betreffende de voorlopige toepassing tussen een aantal Lid-Staten van de Europese Unie van de op basis van artikel K.3 van het Verdrag betreffende de Europese Unie opgestelde Overeenkomst inzake het gebruik van informatica op douanegebied

@@ -8,7 +8,7 @@ laatste_update: 2026-07-10
 status: geldig
 toestand: 2026-07-10
 bron: "https://wetten.overheid.nl/BWBR0052817"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Besluit termijn beperking openbaarheid archief adoptiedossiers Raad voor de Kinderbescherming, geboortejaren 1970 tot en met 2001 (nummer toegang 2.09.169)

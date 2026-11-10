@@ -8,7 +8,7 @@ laatste_update: 1994-12-01
 status: geldig
 toestand: 1994-12-01
 bron: "https://wetten.overheid.nl/BWBV0001052"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden, het Groothertogdom Luxemburg, de Republiek Litouwen, de Republiek Estland, de Republiek Letland en het Koninkrijk België inzake vervoer over de weg

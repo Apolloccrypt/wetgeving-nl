@@ -8,7 +8,7 @@ laatste_update: 1994-01-01
 status: geldig
 toestand: 1994-01-01
 bron: "https://wetten.overheid.nl/BWBV0001100"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Protocol tot aanpassing van de Overeenkomst betreffende de Europese Economische Ruimte

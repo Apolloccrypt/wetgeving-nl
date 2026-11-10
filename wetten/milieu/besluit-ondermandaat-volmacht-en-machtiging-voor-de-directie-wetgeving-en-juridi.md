@@ -9,7 +9,7 @@ laatste_update: 2026-04-30
 status: geldig
 toestand: 2026-04-30
 bron: "https://wetten.overheid.nl/BWBR0052585"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-10
 ---
 
 # Besluit van de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat van 21 april 2026, nr. WJZ /105713755, tot verlening van ondermandaat, volmacht en machtiging voor de directie Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat (Besluit ondermandaat, volmacht en machtiging voor de directie Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat 2026)

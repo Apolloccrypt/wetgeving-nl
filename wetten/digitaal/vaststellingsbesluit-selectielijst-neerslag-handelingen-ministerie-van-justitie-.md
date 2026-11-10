@@ -8,7 +8,7 @@ laatste_update: 2026-05-28
 status: geldig
 toestand: 2026-05-28
 bron: "https://wetten.overheid.nl/BWBR0052639"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Vaststellingsbesluit selectielijst neerslag handelingen Ministerie van Justitie met betrekking tot handelingen College Bescherming Persoonsgegevens en Registratiekamer beleidsterrein Persoonsregistraties vanaf 1989

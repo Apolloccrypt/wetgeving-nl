@@ -8,7 +8,7 @@ laatste_update: 2026-07-15
 status: geldig
 toestand: 2026-07-15
 bron: "https://wetten.overheid.nl/BWBR0052840"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Gewijzigde Beleidsregel huisartsenzorg en multidisciplinaire zorg 2026

@@ -9,7 +9,7 @@ laatste_update: 2026-05-11
 status: geldig
 toestand: 2026-05-11
 bron: "https://wetten.overheid.nl/BWBR0052609"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-10
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 6 mei 2026 nr. BOACAT2026/034, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Breda

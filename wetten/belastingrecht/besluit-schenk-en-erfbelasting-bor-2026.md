@@ -9,7 +9,7 @@ laatste_update: 2026-05-23
 status: geldig
 toestand: 2026-05-23
 bron: "https://wetten.overheid.nl/BWBR0052644"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Besluit van de Staatssecretaris van Financiën van 30 april 2026, nr. 2026-174, Schenk- en erfbelasting, Bedrijfsopvolgingsregeling (Besluit schenk- en erfbelasting BOR 2026)

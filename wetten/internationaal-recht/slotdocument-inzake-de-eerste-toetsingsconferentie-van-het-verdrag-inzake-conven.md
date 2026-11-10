@@ -8,7 +8,7 @@ laatste_update: 1997-05-15
 status: geldig
 toestand: 1997-05-15
 bron: "https://wetten.overheid.nl/BWBV0001228"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Slotdocument inzake de eerste Toetsingsconferentie van het Verdrag inzake Conventionele strijdkrachten in Europa

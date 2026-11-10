@@ -8,7 +8,7 @@ laatste_update: 2008-11-21
 status: geldig
 toestand: 2008-11-21
 bron: "https://wetten.overheid.nl/BWBV0001307"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag tot oprichting van het Internationaal Instituut voor democratie en verkiezingsondersteuning

@@ -8,7 +8,7 @@ laatste_update: 1995-08-17
 status: geldig
 toestand: 1995-08-17
 bron: "https://wetten.overheid.nl/BWBV0001066"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Namibië inzake technische samenwerking

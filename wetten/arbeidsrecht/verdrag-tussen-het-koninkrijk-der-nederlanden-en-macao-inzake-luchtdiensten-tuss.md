@@ -8,7 +8,7 @@ laatste_update: 1995-09-25
 status: geldig
 toestand: 1995-09-25
 bron: "https://wetten.overheid.nl/BWBV0001172"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en Macao inzake luchtdiensten tussen en via hun onderscheiden grondgebieden

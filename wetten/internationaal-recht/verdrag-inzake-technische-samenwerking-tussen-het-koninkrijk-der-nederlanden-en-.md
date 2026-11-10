@@ -7,7 +7,7 @@ laatste_update: 1993-07-16
 status: geldig
 toestand: 1993-07-16
 bron: "https://wetten.overheid.nl/BWBV0001095"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag inzake technische samenwerking tussen het Koninkrijk der Nederlanden en Gambia

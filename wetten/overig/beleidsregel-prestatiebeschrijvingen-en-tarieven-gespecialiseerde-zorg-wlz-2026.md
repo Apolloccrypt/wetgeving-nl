@@ -8,7 +8,7 @@ laatste_update: 2026-07-16
 status: geldig
 toestand: 2026-07-16
 bron: "https://wetten.overheid.nl/BWBR0052844"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Beleidsregel prestatiebeschrijvingen en tarieven gespecialiseerde zorg Wlz 2026

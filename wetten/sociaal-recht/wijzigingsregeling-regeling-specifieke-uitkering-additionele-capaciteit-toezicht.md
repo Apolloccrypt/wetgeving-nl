@@ -9,7 +9,7 @@ laatste_update: 2026-05-14
 status: geldig
 toestand: 2026-05-14
 bron: "https://wetten.overheid.nl/BWBR0052620"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-10
 ---
 
 # Regeling van de Minister van Klimaat en Groene Groei van 11 mei 2026, nr. WJZ/106069811, tot wijziging van de Regeling specifieke uitkering additionele capaciteit voor toezicht en handhaving energiebesparing in verband met een nieuwe openstellingsperiode [KetenID WGK 29033]

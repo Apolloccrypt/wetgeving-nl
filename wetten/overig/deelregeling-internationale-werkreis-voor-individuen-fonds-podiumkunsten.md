@@ -8,7 +8,7 @@ laatste_update: 2026-05-27
 status: geldig
 toestand: 2026-05-27
 bron: "https://wetten.overheid.nl/BWBR0052641"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Deelregeling Internationale Werkreis voor Individuen Fonds Podiumkunsten

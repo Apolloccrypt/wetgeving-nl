@@ -9,7 +9,7 @@ laatste_update: 2026-07-11
 status: geldig
 toestand: 2026-07-11
 bron: "https://wetten.overheid.nl/BWBR0052818"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Besluit van de directeur-generaal van de Algemene Inlichtingen- en Veiligheidsdienst van 12 juni 2026, inzake mandatering van het verlenen van toestemming voor de uitoefening van bevoegdheden door de Algemene Inlichtingen- en Veiligheidsdienst (Mandaatbesluit (bijzondere) bevoegdheden AIVD 2026)

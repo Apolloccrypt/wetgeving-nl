@@ -9,7 +9,7 @@ laatste_update: 2026-05-28
 status: geldig
 toestand: 2026-05-28
 bron: "https://wetten.overheid.nl/BWBR0052649"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Besluit van de directeur-generaal Toeslagen van 12 mei 2026, nr. 2026-0000195249, houdende het verlenen van volmacht aan de programmadirecteur van directie Business Ontwikkeling voor het ondertekenen van gegevensleveringsovereenkomsten met kinderopvangorganisaties in het kader van de pilot gegevenslevering (Volmachtbesluit ondertekenen gegevensleveringsovereenkomsten KOO’s pilot gegevenslevering)

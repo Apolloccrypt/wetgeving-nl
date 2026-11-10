@@ -8,7 +8,7 @@ laatste_update: 2026-07-10
 status: geldig
 toestand: 2026-07-10
 bron: "https://wetten.overheid.nl/BWBR0052826"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Besluit beperkingen openbaarheid adoptiedossiers geboortejaren 1970 tot en met 2001

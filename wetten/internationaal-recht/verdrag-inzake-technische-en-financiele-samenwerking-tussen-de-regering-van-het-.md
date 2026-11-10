@@ -8,7 +8,7 @@ laatste_update: 1999-04-14
 status: geldig
 toestand: 1999-04-14
 bron: "https://wetten.overheid.nl/BWBV0001386"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag inzake technische en financiële samenwerking tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Bulgarije

@@ -8,7 +8,7 @@ laatste_update: 1997-03-01
 status: geldig
 toestand: 1997-03-01
 bron: "https://wetten.overheid.nl/BWBV0001274"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag inzake de samenwerking op het gebied van cultuur, onderwijs, wetenschappen en welzijn tussen het Koninkrijk der Nederlanden en de Vlaamse Gemeenschap in het Koninkrijk België

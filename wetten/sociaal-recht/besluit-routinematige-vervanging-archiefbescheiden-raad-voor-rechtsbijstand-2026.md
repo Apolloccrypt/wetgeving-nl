@@ -8,7 +8,7 @@ laatste_update: 2026-05-19
 status: geldig
 toestand: 2026-05-19
 bron: "https://wetten.overheid.nl/BWBR0052618"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-10
 ---
 
 # Besluit routinematige vervanging archiefbescheiden Raad voor Rechtsbijstand 2026

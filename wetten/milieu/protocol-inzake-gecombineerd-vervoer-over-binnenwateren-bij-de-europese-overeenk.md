@@ -8,7 +8,7 @@ laatste_update: 2016-12-29
 status: geldig
 toestand: 2016-12-29
 bron: "https://wetten.overheid.nl/BWBV0001415"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Protocol inzake gecombineerd vervoer over binnenwateren bij de Europese Overeenkomst inzake belangrijke internationale gecombineerde vervoerslijnen en daarmee samenhangende installaties (AGTC) van 1991

@@ -8,7 +8,7 @@ laatste_update: 2022-06-01
 status: geldig
 toestand: 2022-06-01
 bron: "https://wetten.overheid.nl/BWBV0001012"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Administratief Akkoord met betrekking tot de wijze van toepassing van het op 14 februari 1972 te Rabat ondertekende Algemeen Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko inzake sociale zekerheid

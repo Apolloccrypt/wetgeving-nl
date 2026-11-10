@@ -8,7 +8,7 @@ laatste_update: 1979-03-11
 status: geldig
 toestand: 1979-03-11
 bron: "https://wetten.overheid.nl/BWBV0001017"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Internationaal Verdrag inzake burgerrechten en politieke rechten

@@ -8,7 +8,7 @@ laatste_update: 2010-01-01
 status: geldig
 toestand: 2010-01-01
 bron: "https://wetten.overheid.nl/BWBV0001323"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Overeenkomst op grond van Artikel K.3 van het Verdrag betreffende de Europese Unie tot oprichting van een Europese Politiedienst (Europol-Overeenkomst)

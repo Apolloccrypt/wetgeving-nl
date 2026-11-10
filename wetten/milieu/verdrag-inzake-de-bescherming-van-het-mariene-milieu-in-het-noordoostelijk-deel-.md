@@ -8,7 +8,7 @@ laatste_update: 2011-10-28
 status: geldig
 toestand: 2011-10-28
 bron: "https://wetten.overheid.nl/BWBV0001119"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag inzake de bescherming van het mariene milieu in het noordoostelijk deel van de Atlantische Oceaan

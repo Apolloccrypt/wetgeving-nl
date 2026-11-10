@@ -8,7 +8,7 @@ laatste_update: 2007-01-01
 status: geldig
 toestand: 2007-01-01
 bron: "https://wetten.overheid.nl/BWBV0001144"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Europa-Overeenkomst waarbij een associatie tot stand wordt gebracht tussen Roemenië, enerzijds, en de Europese Gemeenschappen en hun Lid-Staten, anderzijds

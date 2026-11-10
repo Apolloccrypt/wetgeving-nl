@@ -8,7 +8,7 @@ laatste_update: 1992-06-18
 status: geldig
 toestand: 1992-06-18
 bron: "https://wetten.overheid.nl/BWBV0001053"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Protocol ingevolge artikel 3, lid 2, van het Raamverdrag inzake Vriendschap en nauwere Samenwerking tussen het Koninkrijk der Nederlanden en de Republiek Suriname van 18 juni 1992

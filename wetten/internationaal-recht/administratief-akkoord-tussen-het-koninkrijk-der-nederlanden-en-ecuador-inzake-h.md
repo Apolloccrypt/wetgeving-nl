@@ -8,7 +8,7 @@ laatste_update: 2013-03-09
 status: geldig
 toestand: 2013-03-09
 bron: "https://wetten.overheid.nl/BWBV0001214"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Administratief Akkoord tussen het Koninkrijk der Nederlanden en Ecuador inzake het project "SNV-programma Ecuador"

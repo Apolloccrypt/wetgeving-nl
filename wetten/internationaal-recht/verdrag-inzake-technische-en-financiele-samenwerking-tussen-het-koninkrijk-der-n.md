@@ -8,7 +8,7 @@ laatste_update: 2000-04-05
 status: geldig
 toestand: 2000-04-05
 bron: "https://wetten.overheid.nl/BWBV0001419"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag inzake technische en financiële samenwerking tussen het Koninkrijk der Nederlanden en Georgië

@@ -8,7 +8,7 @@ laatste_update: 2022-12-29
 status: geldig
 toestand: 2022-12-29
 bron: "https://wetten.overheid.nl/BWBV0001249"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Overeenkomst inzake de bescherming van Afrikaans-Euraziatische trekkende watervogels

@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-05-03
 toestand: 2026-04-25
 bron: "https://wetten.overheid.nl/BWBR0052581"
-opgehaald: 2026-09-10
+opgehaald: 2026-11-10
 ---
 
 # Tijdelijk besluit ondermandaat, ondervolmacht en ondermachtiging Hoofddirecteur Financiën en Control

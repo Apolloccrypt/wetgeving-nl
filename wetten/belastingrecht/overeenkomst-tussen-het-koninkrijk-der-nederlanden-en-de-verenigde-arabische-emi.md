@@ -8,7 +8,7 @@ laatste_update: 1992-11-17
 status: geldig
 toestand: 1992-11-17
 bron: "https://wetten.overheid.nl/BWBV0001059"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Verenigde Arabische Emiraten tot het vermijden van dubbele belasting van inkomsten en winsten verkregen uit het internationale luchtvervoer

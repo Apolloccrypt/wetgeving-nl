@@ -8,7 +8,7 @@ laatste_update: 2025-03-25
 status: geldig
 toestand: 2025-03-25
 bron: "https://wetten.overheid.nl/BWBV0001210"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag inzake de heffing van rechten voor het gebruik van bepaalde wegen door zware vrachtwagens

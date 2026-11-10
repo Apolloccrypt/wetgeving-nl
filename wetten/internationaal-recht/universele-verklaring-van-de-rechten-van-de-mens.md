@@ -7,7 +7,7 @@ laatste_update: 1948-12-10
 status: geldig
 toestand: 1948-12-10
 bron: "https://wetten.overheid.nl/BWBV0001008"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Universele Verklaring van de Rechten van de Mens

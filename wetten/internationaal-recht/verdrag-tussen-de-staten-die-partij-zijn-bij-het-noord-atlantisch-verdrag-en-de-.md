@@ -8,7 +8,7 @@ laatste_update: 1997-07-26
 status: geldig
 toestand: 1997-07-26
 bron: "https://wetten.overheid.nl/BWBV0001297"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag tussen de Staten die Partij zijn bij het Noord-Atlantisch Verdrag en de overige Staten die deelnemen aan het Partnerschap voor de Vrede nopens de rechtspositie van hun krijgsmachten

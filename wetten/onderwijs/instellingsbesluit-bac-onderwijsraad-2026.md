@@ -9,7 +9,7 @@ laatste_update: 2026-05-29
 status: geldig
 toestand: 2026-05-29
 bron: "https://wetten.overheid.nl/BWBR0052659"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 13 mei 2026, nr. KenS/63357573, houdende instelling van een adviescommissie voor de benoeming van leden van de Onderwijsraad (Instellingsbesluit BAC Onderwijsraad 2026)

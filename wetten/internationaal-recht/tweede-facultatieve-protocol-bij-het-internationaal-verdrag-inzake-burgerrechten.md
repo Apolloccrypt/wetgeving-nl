@@ -8,7 +8,7 @@ laatste_update: 1991-07-11
 status: geldig
 toestand: 1991-07-11
 bron: "https://wetten.overheid.nl/BWBV0001043"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Tweede Facultatieve Protocol bij het Internationaal Verdrag inzake burgerrechten en politieke rechten, gericht op de afschaffing van de doodstraf

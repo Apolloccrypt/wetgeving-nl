@@ -9,7 +9,7 @@ laatste_update: 2026-07-13
 status: geldig
 toestand: 2026-07-13
 bron: "https://wetten.overheid.nl/BWBR0052820"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Beleidsregel van de Minister van Financiën van 15 mei 2026, 2026-0000130200, directie Financiële Markten, over de bepaling van de hoogte van bestuurlijke boetes bij overtreding van artikelen 11, eerste en tweede lid, en 12 van de Implementatiewet registratie uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies (Beleidsregel bestuurlijke boetes handhaving registratie uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies)

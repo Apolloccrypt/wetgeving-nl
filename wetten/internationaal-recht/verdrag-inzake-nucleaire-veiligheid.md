@@ -8,7 +8,7 @@ laatste_update: 1997-01-13
 status: geldig
 toestand: 1997-01-13
 bron: "https://wetten.overheid.nl/BWBV0001256"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag inzake nucleaire veiligheid

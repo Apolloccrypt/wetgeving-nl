@@ -8,7 +8,7 @@ laatste_update: 2012-06-30
 status: geldig
 toestand: 2012-06-30
 bron: "https://wetten.overheid.nl/BWBV0001436"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Voedselhulpverdrag 1999

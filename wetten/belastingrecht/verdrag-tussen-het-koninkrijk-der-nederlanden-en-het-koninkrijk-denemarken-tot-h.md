@@ -8,7 +8,7 @@ laatste_update: 2018-12-31
 status: geldig
 toestand: 2018-12-31
 bron: "https://wetten.overheid.nl/BWBV0001313"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Denemarken tot het vermijden van dubbele belasting met betrekking tot belastingen naar het inkomen en het voorkomen van het ontduiken en ontwijken van belasting

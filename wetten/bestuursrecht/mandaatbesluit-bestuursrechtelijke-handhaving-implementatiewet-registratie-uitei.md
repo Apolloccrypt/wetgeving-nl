@@ -9,7 +9,7 @@ laatste_update: 2026-07-13
 status: geldig
 toestand: 2026-07-13
 bron: "https://wetten.overheid.nl/BWBR0052821"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Besluit van de Minister van Financiën van 15 mei 2026, 2026-0000130138, directie Financiële Markten, houdende verlening van mandaat, volmacht en machtiging voor de bestuursrechtelijke handhaving van verplichtingen in het kader van de registratie van de uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies op grond van de Implementatiewet registratie uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies (Mandaatbesluit bestuursrechtelijke handhaving Implementatiewet registratie uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies)

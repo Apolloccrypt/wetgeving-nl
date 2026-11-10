@@ -8,7 +8,7 @@ laatste_update: 2002-02-05
 status: geldig
 toestand: 2002-02-05
 bron: "https://wetten.overheid.nl/BWBV0001472"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag betreffende deeltijdwerk

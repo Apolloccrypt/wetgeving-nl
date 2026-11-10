@@ -8,7 +8,7 @@ laatste_update: 2002-05-01
 status: geldig
 toestand: 2002-05-01
 bron: "https://wetten.overheid.nl/BWBV0001484"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Slowaakse Republiek inzake de export van sociale zekerheidsuitkeringen

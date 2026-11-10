@@ -8,7 +8,7 @@ laatste_update: 1990-09-29
 status: geldig
 toestand: 1990-09-29
 bron: "https://wetten.overheid.nl/BWBV0001035"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Europees Verdrag betreffende de overdracht van strafvervolging

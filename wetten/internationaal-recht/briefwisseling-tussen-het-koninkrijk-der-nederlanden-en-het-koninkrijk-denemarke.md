@@ -8,7 +8,7 @@ laatste_update: 1999-03-01
 status: geldig
 toestand: 1999-03-01
 bron: "https://wetten.overheid.nl/BWBV0001335"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Briefwisseling tussen het Koninkrijk der Nederlanden en het Koninkrijk Denemarken inzake een verdrag houdende bepalingen inzake de status van de brigadestaf van de „United Nations Stand-by Forces High Readiness Brigade" (Shirbrig) in Denemarken

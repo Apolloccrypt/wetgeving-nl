@@ -8,7 +8,7 @@ laatste_update: 1999-10-01
 status: geldig
 toestand: 1999-10-01
 bron: "https://wetten.overheid.nl/BWBV0001384"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag inzake het verbod van het gebruik, de aanleg van voorraden, de productie en de overdracht van anti-personeelsmijnen en inzake de vernietiging van deze wapens

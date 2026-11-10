@@ -8,7 +8,7 @@ laatste_update: 2001-06-23
 status: geldig
 toestand: 2001-06-23
 bron: "https://wetten.overheid.nl/BWBV0001478"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de wederzijdse administratieve bijstand bij de invordering van belastingschulden en de uitreiking van documenten

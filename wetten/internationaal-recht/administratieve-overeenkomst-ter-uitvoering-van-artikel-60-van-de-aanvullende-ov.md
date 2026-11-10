@@ -8,7 +8,7 @@ laatste_update: 1998-03-29
 status: geldig
 toestand: 1998-03-29
 bron: "https://wetten.overheid.nl/BWBV0001080"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Administratieve Overeenkomst ter uitvoering van artikel 60 van de Aanvullende Overeenkomst van 3 augustus 1959, bij het Verdrag tussen de Staten die Partij zijn bij het Noordatlantisch Verdrag nopens de rechtspositie der krijgsmachten, betreffende de in de Bondsrepubliek Duitsland gestationeerde buitenlandse krijgsmachten, zoals gewijzigd bij de Overeenkomsten van 21 oktober 1971, 18 mei 1981 en 18 maart 1993

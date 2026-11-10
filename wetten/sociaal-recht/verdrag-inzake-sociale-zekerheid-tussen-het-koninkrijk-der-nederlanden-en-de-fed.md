@@ -7,7 +7,7 @@ laatste_update: 2002-03-07
 status: geldig
 toestand: 2002-03-07
 bron: "https://wetten.overheid.nl/BWBV0001477"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag inzake sociale zekerheid tussen het Koninkrijk der Nederlanden en de Federatieve Republiek Brazilië

@@ -8,7 +8,7 @@ laatste_update: 1997-06-07
 status: geldig
 toestand: 1997-06-07
 bron: "https://wetten.overheid.nl/BWBV0001293"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Organisatie voor het Verbod van Chemische Wapens (OVCW) betreffende de zetel van de OVCW

@@ -8,7 +8,7 @@ laatste_update: 1999-04-15
 status: geldig
 toestand: 1999-04-15
 bron: "https://wetten.overheid.nl/BWBV0001373"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Nader Aanvullend Protocol bij het Verdrag tussen de Staten die Partij zijn bij het Noord-Atlantisch Verdrag en de overige Staten die deelnemen aan het Partnerschap voor de Vrede nopens de rechtspositie van hun krijgsmachten

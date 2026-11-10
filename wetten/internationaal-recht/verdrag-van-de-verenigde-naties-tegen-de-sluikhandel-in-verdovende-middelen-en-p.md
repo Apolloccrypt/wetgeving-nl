@@ -8,7 +8,7 @@ laatste_update: 2024-12-03
 status: geldig
 toestand: 2024-12-03
 bron: "https://wetten.overheid.nl/BWBV0001103"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag van de Verenigde Naties tegen de sluikhandel in verdovende middelen en psychotrope stoffen

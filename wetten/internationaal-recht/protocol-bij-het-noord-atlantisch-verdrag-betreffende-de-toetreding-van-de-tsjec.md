@@ -8,7 +8,7 @@ laatste_update: 1998-12-04
 status: geldig
 toestand: 1998-12-04
 bron: "https://wetten.overheid.nl/BWBV0001362"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Protocol bij het Noord-Atlantisch Verdrag betreffende de toetreding van de Tsjechische Republiek

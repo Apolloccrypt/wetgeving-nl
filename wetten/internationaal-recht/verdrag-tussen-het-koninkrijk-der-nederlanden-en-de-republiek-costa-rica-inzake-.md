@@ -8,7 +8,7 @@ laatste_update: 2001-07-01
 status: geldig
 toestand: 2001-07-01
 bron: "https://wetten.overheid.nl/BWBV0001455"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Costa Rica inzake de bevordering en de wederzijdse bescherming van investeringen

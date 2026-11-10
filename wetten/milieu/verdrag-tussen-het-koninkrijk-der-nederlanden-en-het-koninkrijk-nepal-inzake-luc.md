@@ -8,7 +8,7 @@ laatste_update: 1999-03-15
 status: geldig
 toestand: 1999-03-15
 bron: "https://wetten.overheid.nl/BWBV0001379"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Nepal inzake luchtdiensten

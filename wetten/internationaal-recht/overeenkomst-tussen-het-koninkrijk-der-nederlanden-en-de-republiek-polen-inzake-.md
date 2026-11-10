@@ -8,7 +8,7 @@ laatste_update: 2019-02-02
 status: geldig
 toestand: 2019-02-02
 bron: "https://wetten.overheid.nl/BWBV0001114"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Polen inzake de bevordering en wederzijdse bescherming van investeringen

@@ -8,7 +8,7 @@ laatste_update: 1994-12-22
 status: geldig
 toestand: 1994-12-22
 bron: "https://wetten.overheid.nl/BWBV0001157"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-10
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Wereldgezondheidsorganisatie inzake de Eenheid in Bilthoven van het Regionaal Bureau voor Europa van de Wereldgezondheidsorganisatie
