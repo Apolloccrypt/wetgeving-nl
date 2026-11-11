@@ -8,7 +8,7 @@ laatste_update: 2005-07-27
 status: geldig
 toestand: 2005-07-27
 bron: "https://wetten.overheid.nl/BWBV0001744"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Briefwisseling houdende een overeenkomst tussen het Koninkrijk der Nederlanden en de Turks- en Caicoseilanden betreffende belastingheffing op inkomsten uit spaargelden

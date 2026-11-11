@@ -8,7 +8,7 @@ laatste_update: 2003-02-14
 status: geldig
 toestand: 2003-02-14
 bron: "https://wetten.overheid.nl/BWBV0001522"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-11
 ---
 
 # Verdrag betreffende het verbod op en de onmiddellijke actie voor de uitbanning van de ergste vormen van kinderarbeid

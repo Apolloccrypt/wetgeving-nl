@@ -8,7 +8,7 @@ laatste_update: 1979-08-20
 status: geldig
 toestand: 1979-08-20
 bron: "https://wetten.overheid.nl/BWBV0002002"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag betreffende de erkenning en de ten uitvoerlegging van buitenlandse vonnissen in burgerlijke en handelszaken

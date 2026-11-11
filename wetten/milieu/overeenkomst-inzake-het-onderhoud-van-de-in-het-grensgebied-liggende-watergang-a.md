@@ -8,7 +8,7 @@ laatste_update: 1992-03-01
 status: geldig
 toestand: 1992-03-01
 bron: "https://wetten.overheid.nl/BWBV0002218"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst inzake het onderhoud van de in het grensgebied liggende watergang, achtereenvolgens genaamd Bimmensche Wetering, Zeeländische Wässerung en Hauptwässerung

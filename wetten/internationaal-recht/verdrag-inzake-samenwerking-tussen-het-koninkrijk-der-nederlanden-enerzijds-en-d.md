@@ -8,7 +8,7 @@ laatste_update: 2006-02-20
 status: geldig
 toestand: 2006-02-20
 bron: "https://wetten.overheid.nl/BWBV0001784"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag inzake samenwerking tussen het Koninkrijk der Nederlanden, enerzijds, en de Franse Gemeenschap van België, het Waalse Gewest en de Franse Gemeenschapscommissie van het Brussels Hoofdstedelijk Gewest, anderzijds

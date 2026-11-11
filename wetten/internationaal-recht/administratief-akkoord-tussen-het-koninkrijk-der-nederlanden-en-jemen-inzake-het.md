@@ -8,7 +8,7 @@ laatste_update: 2002-10-12
 status: geldig
 toestand: 2002-10-12
 bron: "https://wetten.overheid.nl/BWBV0001551"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-11
 ---
 
 # Administratief akkoord tussen het Koninkrijk der Nederlanden en Jemen inzake het project "Support to the Shabwah government"

@@ -8,7 +8,7 @@ laatste_update: 1987-03-01
 status: geldig
 toestand: 1987-03-01
 bron: "https://wetten.overheid.nl/BWBV0002524"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst betreffende de internationale samenwerking op het gebied van administratieve bijstand aan vluchtelingen

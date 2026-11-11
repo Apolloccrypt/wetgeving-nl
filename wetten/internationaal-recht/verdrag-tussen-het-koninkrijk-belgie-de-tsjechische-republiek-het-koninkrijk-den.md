@@ -8,7 +8,7 @@ laatste_update: 2008-07-03
 status: geldig
 toestand: 2008-07-03
 bron: "https://wetten.overheid.nl/BWBV0001819"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag tussen het Koninkrijk België, de Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, Ierland, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, de Republiek Hongarije, de Republiek Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland (lidstaten van de Europese Unie) en de Republiek Bulgarije en de Republiek Roemenië betreffende de toetreding van de Republiek Bulgarije en de Republiek Roemenië tot de Europese Unie

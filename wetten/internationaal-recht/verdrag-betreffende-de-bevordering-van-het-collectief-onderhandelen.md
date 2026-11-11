@@ -8,7 +8,7 @@ laatste_update: 1994-12-22
 status: geldig
 toestand: 1994-12-22
 bron: "https://wetten.overheid.nl/BWBV0002151"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag betreffende de bevordering van het collectief onderhandelen

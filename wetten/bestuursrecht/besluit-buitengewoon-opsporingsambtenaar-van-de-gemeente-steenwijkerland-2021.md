@@ -6,10 +6,11 @@ categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
 publicatiedatum: 2021-11-10
 laatste_update: 2024-05-17
-status: geldig
+status: vervallen
+vervallen_op: 2026-11-09
 toestand: 2024-05-17
 bron: "https://wetten.overheid.nl/BWBR0045473"
-opgehaald: 2026-10-30
+opgehaald: 2026-11-11
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 7 juni 2021 nr. BOACAT2021/022, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Steenwijkerland

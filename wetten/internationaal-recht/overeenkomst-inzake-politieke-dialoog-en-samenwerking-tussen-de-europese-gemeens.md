@@ -8,7 +8,7 @@ laatste_update: 2014-05-01
 status: geldig
 toestand: 2014-05-01
 bron: "https://wetten.overheid.nl/BWBV0001726"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst inzake politieke dialoog en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republieken Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua en Panama, anderzijds

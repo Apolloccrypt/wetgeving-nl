@@ -8,7 +8,7 @@ laatste_update: 1989-07-10
 status: geldig
 toestand: 1989-07-10
 bron: "https://wetten.overheid.nl/BWBV0002604"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Aanvullend Protocol voor procedureregels inzake de ontwikkelingssamenwerking ingevolge artikel 11 van de Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Suriname betreffende ontwikkelingssamenwerking

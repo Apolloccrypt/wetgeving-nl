@@ -8,7 +8,7 @@ laatste_update: 2007-08-16
 status: geldig
 toestand: 2007-08-16
 bron: "https://wetten.overheid.nl/BWBV0002643"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Hasjemitische Koninkrijk Jordanië tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen

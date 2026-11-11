@@ -8,7 +8,7 @@ laatste_update: 2013-08-20
 status: geldig
 toestand: 2013-08-20
 bron: "https://wetten.overheid.nl/BWBV0001593"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag betreffende de werktijden van zeevarenden en de bemanning van schepen

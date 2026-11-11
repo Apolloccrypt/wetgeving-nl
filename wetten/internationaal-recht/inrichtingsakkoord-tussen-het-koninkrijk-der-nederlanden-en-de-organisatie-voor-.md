@@ -8,7 +8,7 @@ laatste_update: 2003-08-12
 status: geldig
 toestand: 2003-08-12
 bron: "https://wetten.overheid.nl/BWBV0001601"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Inrichtingsakkoord tussen het Koninkrijk der Nederlanden en de Organisatie voor het verbod van chemische wapens betreffende de inspectie ter plaatse van de inrichting gevestigd in het Prins Maurits Laboratorium van TNO

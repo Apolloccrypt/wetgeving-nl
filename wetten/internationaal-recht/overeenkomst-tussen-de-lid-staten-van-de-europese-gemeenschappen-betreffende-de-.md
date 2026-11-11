@@ -7,7 +7,7 @@ laatste_update: 1994-05-18
 status: geldig
 toestand: 1994-05-18
 bron: "https://wetten.overheid.nl/BWBV0002160"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst tussen de Lid-Staten van de Europese Gemeenschappen betreffende de vereenvoudiging en de modernisering van de wijze van toezending van uitleveringsverzoeken

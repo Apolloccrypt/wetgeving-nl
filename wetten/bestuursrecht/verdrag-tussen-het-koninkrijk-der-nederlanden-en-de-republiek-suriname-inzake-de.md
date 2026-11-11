@@ -8,7 +8,7 @@ laatste_update: 2002-11-01
 status: geldig
 toestand: 2002-11-01
 bron: "https://wetten.overheid.nl/BWBV0001496"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-11
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Suriname inzake de export en handhaving van sociale-verzekeringsuitkeringen

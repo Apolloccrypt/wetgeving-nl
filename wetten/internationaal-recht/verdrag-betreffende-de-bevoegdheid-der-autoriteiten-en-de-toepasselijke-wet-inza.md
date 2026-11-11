@@ -8,7 +8,7 @@ laatste_update: 1971-09-18
 status: geldig
 toestand: 1971-09-18
 bron: "https://wetten.overheid.nl/BWBV0002011"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag betreffende de bevoegdheid der autoriteiten en de toepasselijke wet inzake de bescherming van minderjarigen

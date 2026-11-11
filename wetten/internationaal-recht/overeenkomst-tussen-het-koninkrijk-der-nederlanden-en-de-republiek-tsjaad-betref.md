@@ -8,7 +8,7 @@ laatste_update: 2010-09-04
 status: geldig
 toestand: 2010-09-04
 bron: "https://wetten.overheid.nl/BWBV0002608"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Tsjaad betreffende de ter beschikkingstelling aan Tsjaad van ontwikkelingswerkers van de SNV-Organisatie voor ontwikkelingssamenwerking en bewustwording

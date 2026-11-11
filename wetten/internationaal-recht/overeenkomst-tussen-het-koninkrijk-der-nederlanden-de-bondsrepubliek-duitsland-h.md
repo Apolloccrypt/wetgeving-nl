@@ -8,7 +8,7 @@ laatste_update: 1993-01-01
 status: geldig
 toestand: 1993-01-01
 bron: "https://wetten.overheid.nl/BWBV0002367"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden, de Bondsrepubliek Duitsland, het Land Nedersaksen en het Land Noordrijn-Westfalen inzake grensoverschrijdende samenwerking tussen territoriale gemeenschappen of autoriteiten

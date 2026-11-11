@@ -8,7 +8,7 @@ laatste_update: 2003-07-15
 status: geldig
 toestand: 2003-07-15
 bron: "https://wetten.overheid.nl/BWBV0001974"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Bolivia inzake internationaal luchtverkeer tussen Aruba en Bolivia

@@ -8,7 +8,7 @@ laatste_update: 1984-08-01
 status: geldig
 toestand: 1984-08-01
 bron: "https://wetten.overheid.nl/BWBV0002034"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst van 's-Gravenhage betreffende het internationaal depot van tekeningen of modellen van nijverheid van 6 november 1925, herzien te Londen op 2 juni 1934 en te 's-Gravenhage op 28 november 1960

@@ -8,7 +8,7 @@ laatste_update: 2010-06-04
 status: geldig
 toestand: 2010-06-04
 bron: "https://wetten.overheid.nl/BWBV0001973"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Suriname inzake luchtdiensten tussen en via de Nederlandse Antillen en Suriname

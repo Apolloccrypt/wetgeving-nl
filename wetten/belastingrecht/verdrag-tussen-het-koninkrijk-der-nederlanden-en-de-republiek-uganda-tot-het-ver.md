@@ -8,7 +8,7 @@ laatste_update: 2006-09-10
 status: geldig
 toestand: 2006-09-10
 bron: "https://wetten.overheid.nl/BWBV0001723"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Uganda tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen

@@ -7,7 +7,7 @@ laatste_update: 2007-07-26
 status: geldig
 toestand: 2007-07-26
 bron: "https://wetten.overheid.nl/BWBV0002630"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst tussen de Europese Unie en de Verenigde Staten van Amerika inzake de verwerking en overdracht van persoonsgegevens van passagiers (PNR-gegevens) door luchtvaartmaatschappijen aan het Ministerie van Binnenlandse Veiligheid van de Verenigde Staten van Amerika (PNR-Overeenkomst 2007)

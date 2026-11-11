@@ -8,7 +8,7 @@ laatste_update: 2008-06-03
 status: geldig
 toestand: 2008-06-03
 bron: "https://wetten.overheid.nl/BWBV0001997"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Zwitserse Bondsraad betreffende militaire oefeningen, trainingen en opleidingen

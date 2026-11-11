@@ -8,7 +8,7 @@ laatste_update: 2022-04-30
 status: geldig
 toestand: 2022-04-30
 bron: "https://wetten.overheid.nl/BWBV0001578"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Polen tot het vermijden van dubbele belasting met betrekking tot belastingen naar het inkomen en het voorkomen van het ontduiken en ontwijken van belasting

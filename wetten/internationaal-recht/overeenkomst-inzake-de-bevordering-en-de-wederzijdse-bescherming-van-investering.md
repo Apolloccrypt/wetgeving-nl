@@ -8,7 +8,7 @@ laatste_update: 2008-11-01
 status: geldig
 toestand: 2008-11-01
 bron: "https://wetten.overheid.nl/BWBV0002525"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst inzake de bevordering en de wederzijdse bescherming van investeringen tussen het Koninkrijk der Nederlanden en de Republiek Venezuela

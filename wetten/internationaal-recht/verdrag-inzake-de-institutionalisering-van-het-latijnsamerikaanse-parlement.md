@@ -8,7 +8,7 @@ laatste_update: 1990-10-12
 status: geldig
 toestand: 1990-10-12
 bron: "https://wetten.overheid.nl/BWBV0002286"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag inzake de institutionalisering van het Latijnsamerikaanse Parlement

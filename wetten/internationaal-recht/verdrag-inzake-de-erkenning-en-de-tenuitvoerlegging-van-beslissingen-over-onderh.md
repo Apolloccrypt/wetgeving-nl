@@ -8,7 +8,7 @@ laatste_update: 1981-03-01
 status: geldig
 toestand: 1981-03-01
 bron: "https://wetten.overheid.nl/BWBV0001995"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag inzake de erkenning en de tenuitvoerlegging van beslissingen over onderhoudsverplichtingen

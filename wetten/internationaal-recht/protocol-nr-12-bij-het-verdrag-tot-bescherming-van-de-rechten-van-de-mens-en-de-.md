@@ -8,7 +8,7 @@ laatste_update: 2005-04-01
 status: geldig
 toestand: 2005-04-01
 bron: "https://wetten.overheid.nl/BWBV0001676"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Protocol nr. 12 bij het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden

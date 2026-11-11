@@ -8,7 +8,7 @@ laatste_update: 2003-12-01
 status: geldig
 toestand: 2003-12-01
 bron: "https://wetten.overheid.nl/BWBV0002066"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Administratief Akkoord voor de toepassing van het op 25 april 1984 te Jeruzalem tussen het Koninkrijk der Nederlanden en de Staat Israël ondertekende Verdrag inzake sociale zekerheid

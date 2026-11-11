@@ -8,7 +8,7 @@ laatste_update: 2002-03-05
 status: geldig
 toestand: 2002-03-05
 bron: "https://wetten.overheid.nl/BWBV0001512"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst betreffende de vaststelling van mondiale technische reglementen voor wielvoertuigen, uitrustingsstukken en onderdelen die kunnen worden aangebracht en/of gebruikt op wielvoertuigen

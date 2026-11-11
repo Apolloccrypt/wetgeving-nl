@@ -8,7 +8,7 @@ laatste_update: 2005-09-23
 status: geldig
 toestand: 2005-09-23
 bron: "https://wetten.overheid.nl/BWBV0001752"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Facultatief Protocol inzake de verkoop van kinderen, kinderprostitutie en kinderpornografie bij het Verdrag inzake de rechten van het kind

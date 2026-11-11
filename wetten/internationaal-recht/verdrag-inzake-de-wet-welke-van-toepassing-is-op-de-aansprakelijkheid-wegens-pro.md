@@ -8,7 +8,7 @@ laatste_update: 1979-09-01
 status: geldig
 toestand: 1979-09-01
 bron: "https://wetten.overheid.nl/BWBV0001996"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag inzake de wet welke van toepassing is op de aansprakelijkheid wegens produkten

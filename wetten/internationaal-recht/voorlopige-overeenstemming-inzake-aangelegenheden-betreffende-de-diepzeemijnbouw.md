@@ -8,7 +8,7 @@ laatste_update: 1988-06-20
 status: geldig
 toestand: 1988-06-20
 bron: "https://wetten.overheid.nl/BWBV0002394"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Voorlopige Overeenstemming inzake aangelegenheden betreffende de diepzeemijnbouw

@@ -8,7 +8,7 @@ laatste_update: 2005-12-01
 status: geldig
 toestand: 2005-12-01
 bron: "https://wetten.overheid.nl/BWBV0001712"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Scheldeverdrag

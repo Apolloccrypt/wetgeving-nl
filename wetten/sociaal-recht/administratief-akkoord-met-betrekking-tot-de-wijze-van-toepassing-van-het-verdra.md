@@ -8,7 +8,7 @@ laatste_update: 1994-01-01
 status: geldig
 toestand: 1994-01-01
 bron: "https://wetten.overheid.nl/BWBV0001840"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Administratief Akkoord met betrekking tot de wijze van toepassing van het Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Tunesië inzake sociale zekerheid

@@ -8,7 +8,7 @@ laatste_update: 1991-04-21
 status: geldig
 toestand: 1991-04-21
 bron: "https://wetten.overheid.nl/BWBV0002531"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Zimbabwe tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar vermogenswinsten

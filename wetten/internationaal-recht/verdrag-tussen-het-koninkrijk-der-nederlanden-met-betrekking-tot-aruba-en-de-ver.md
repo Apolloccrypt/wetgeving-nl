@@ -8,7 +8,7 @@ laatste_update: 2009-01-07
 status: geldig
 toestand: 2009-01-07
 bron: "https://wetten.overheid.nl/BWBV0001956"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden met betrekking tot Aruba en de Verenigde Staten van Amerika inzake douanevoorinspectie

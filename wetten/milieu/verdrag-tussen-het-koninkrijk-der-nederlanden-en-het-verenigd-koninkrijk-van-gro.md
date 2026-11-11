@@ -8,7 +8,7 @@ laatste_update: 2007-12-07
 status: geldig
 toestand: 2007-12-07
 bron: "https://wetten.overheid.nl/BWBV0001975"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake luchtdiensten tussen en via de Britse overzeese gebieden Anguilla, de Bermuda-eilanden, de Britse Maagdeneilanden, de Caymaneilanden, Montserrat en de Turks- en Caicoseilanden, enerzijds, en de Nederlandse Antillen, anderzijds

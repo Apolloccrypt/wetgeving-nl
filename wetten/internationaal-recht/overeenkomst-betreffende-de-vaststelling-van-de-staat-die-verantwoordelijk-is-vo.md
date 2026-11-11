@@ -8,7 +8,7 @@ laatste_update: 1997-09-01
 status: geldig
 toestand: 1997-09-01
 bron: "https://wetten.overheid.nl/BWBV0002149"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst betreffende de vaststelling van de Staat die verantwoordelijk is voor de behandeling van een asielverzoek dat bij een van de Lid-Staten van de Europese Gemeenschappen wordt ingediend

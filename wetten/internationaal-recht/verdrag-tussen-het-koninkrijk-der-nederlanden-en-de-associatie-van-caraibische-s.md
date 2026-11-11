@@ -9,7 +9,7 @@ laatste_update: 2001-11-02
 status: geldig
 toestand: 2001-11-02
 bron: "https://wetten.overheid.nl/BWBV0001901"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Associatie van Caraïbische Staten tot vaststelling van de voorwaarden van deelneming door de Nederlandse Antillen als geassocieerd lid

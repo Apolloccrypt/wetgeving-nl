@@ -8,7 +8,7 @@ laatste_update: 2003-05-01
 status: geldig
 toestand: 2003-05-01
 bron: "https://wetten.overheid.nl/BWBV0002519"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag inzake sociale zekerheid tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika

@@ -8,7 +8,7 @@ laatste_update: 2005-09-28
 status: geldig
 toestand: 2005-09-28
 bron: "https://wetten.overheid.nl/BWBV0001526"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst opgesteld op basis van Artikel K.3, lid 2, onder c), van het Verdrag betreffende de Europese Unie ter bestrijding van corruptie waarbij ambtenaren van de Europese Gemeenschappen of van de lidstaten van de Europese Unie betrokken zijn

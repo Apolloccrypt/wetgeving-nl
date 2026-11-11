@@ -8,7 +8,7 @@ laatste_update: 2003-07-01
 status: geldig
 toestand: 2003-07-01
 bron: "https://wetten.overheid.nl/BWBV0001498"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-11
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Turkije inzake internationaal vervoer over de weg

@@ -1,13 +1,13 @@
 {
- "gegenereerd": "2026-11-10",
+ "gegenereerd": "2026-11-11",
  "geverifieerd": true,
- "bwb_regelingen": 47045,
- "bwb_geldend": 22320,
- "site_totaal": 22577,
- "site_geldend": 22319,
+ "bwb_regelingen": 47049,
+ "bwb_geldend": 22322,
+ "site_totaal": 22581,
+ "site_geldend": 22321,
  "dekkingsgraad": 1.0,
  "aantal_ontbrekend": 1,
- "aantal_ten_onrechte_geldig": 258,
+ "aantal_ten_onrechte_geldig": 260,
  "aantal_onbekend": 0,
  "ontbrekend": [
   {
@@ -502,6 +502,10 @@
    "titel": "Besluit van de Minister voor Rechtsbescherming van 14 juli 2021 nr. BOACAT2021/028, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij politie eenheid Midden-Nederland"
   },
   {
+   "id": "BWBR0045473",
+   "titel": "Besluit van de Minister voor Rechtsbescherming van 7 juni 2021 nr. BOACAT2021/022, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Steenwijkerland"
+  },
+  {
    "id": "BWBR0045474",
    "titel": "Besluit van de Minister voor Rechtsbescherming van 2 juli 2021 nr. BOACAT2021/20, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Avri"
   },
@@ -544,6 +548,10 @@
   {
    "id": "BWBR0045769",
    "titel": "Besluit van de Minister voor Rechtsbescherming van 28 oktober 2021 nr. BOACAT2021/055, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Uitvoeringsinstituut Werknemersverzekeringen"
+  },
+  {
+   "id": "BWBR0045805",
+   "titel": "Besluit van de Minister voor Rechtsbescherming van 2 november 2021 nr. BOACAT2021/056, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Sociale Verzekeringsbank"
   },
   {
    "id": "BWBR0045807",
@@ -784,6 +792,10 @@
   {
    "id": "BWBR0050469",
    "titel": "Besluit van de Minister van Financiën van 16 november 2024 (2024-515548) houdende verlening van mandaat op het terrein van het tijdelijke programmadirectoraat-generaal Herstel betreffende de uitvoering van de Wet open overheid (Besluit mandaat tijdelijke programmadirectoraat-generaal Herstel uitvoering Wet open overheid)"
+  },
+  {
+   "id": "BWBR0050479",
+   "titel": "Richtlijn voor strafvordering vuurwerkdelicten"
   },
   {
    "id": "BWBR0050643",
@@ -1032,10 +1044,6 @@
   {
    "id": "BWBR0052896",
    "titel": "Besluit van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur 16 juli 2026, nr. 107537273, houdende tijdelijke vrijstelling op grond van artikel 38 van de Wet gewasbeschermingsmiddelen en biociden voor de beheersing van koolgalmug en koolwittevlieg in de onbedekte teelt van bloemkool (Tijdelijke vrijstelling voor de beheersing van koolwittevlieg en koolgalmug in de onbedekte teelt van bloemkool, 2026)"
-  },
-  {
-   "id": "BWBV0001980",
-   "titel": "Verdrag inzake samenwerking tussen het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika betreffende toegang tot en gebruik van faciliteiten in de Nederlandse Antillen en Aruba voor drugsbestrijding vanuit de lucht"
   },
   {
    "id": "BWBV0004357",

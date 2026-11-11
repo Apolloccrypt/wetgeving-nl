@@ -8,7 +8,7 @@ laatste_update: 2004-01-01
 status: geldig
 toestand: 2004-01-01
 bron: "https://wetten.overheid.nl/BWBV0001609"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Akkoord inzake sociale zekerheid tussen het Koninkrijk der Nederlanden en Québec

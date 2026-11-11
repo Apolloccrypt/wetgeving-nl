@@ -8,7 +8,7 @@ laatste_update: 2006-08-23
 status: geldig
 toestand: 2006-08-23
 bron: "https://wetten.overheid.nl/BWBV0001816"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Eiland Man tot het vermijden van dubbele belasting met betrekking tot ondernemingen die schepen of luchtvaartuigen exploiteren in het internationale verkeer

@@ -8,7 +8,7 @@ laatste_update: 2020-12-31
 status: geldig
 toestand: 2020-12-31
 bron: "https://wetten.overheid.nl/BWBV0001538"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-11
 ---
 
 # Protocol van Kyoto bij het Raamverdrag van de Verenigde Naties inzake klimaatverandering

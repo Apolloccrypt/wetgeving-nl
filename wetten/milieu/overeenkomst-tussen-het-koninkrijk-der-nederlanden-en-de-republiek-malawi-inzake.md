@@ -8,7 +8,7 @@ laatste_update: 1987-09-15
 status: geldig
 toestand: 1987-09-15
 bron: "https://wetten.overheid.nl/BWBV0002587"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Malawi inzake luchtdiensten tussen en via hun onderscheiden grondgebieden

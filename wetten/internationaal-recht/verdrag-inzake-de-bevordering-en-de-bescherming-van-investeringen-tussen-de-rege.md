@@ -8,7 +8,7 @@ laatste_update: 2005-03-01
 status: geldig
 toestand: 2005-03-01
 bron: "https://wetten.overheid.nl/BWBV0001707"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag inzake de bevordering en de bescherming van investeringen tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Korea

@@ -8,7 +8,7 @@ laatste_update: 2005-02-23
 status: geldig
 toestand: 2005-02-23
 bron: "https://wetten.overheid.nl/BWBV0001704"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag tot oprichting van de Internationale Organisatie voor Wijnbouw en Wijnbereiding

@@ -8,7 +8,7 @@ laatste_update: 2013-07-01
 status: geldig
 toestand: 2013-07-01
 bron: "https://wetten.overheid.nl/BWBV0001507"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-11
 ---
 
 # Verdrag betreffende de Europese Unie

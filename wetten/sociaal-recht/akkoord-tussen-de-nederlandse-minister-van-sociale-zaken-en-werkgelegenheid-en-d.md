@@ -8,7 +8,7 @@ laatste_update: 1982-08-12
 status: geldig
 toestand: 1982-08-12
 bron: "https://wetten.overheid.nl/BWBV0002060"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Akkoord tussen de Nederlandse Minister van Sociale Zaken en Werkgelegenheid en de Belgische Minister van Sociale Voorzorg inzake ziekengeld-, moederschaps- en invaliditeitsverzekering

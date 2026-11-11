@@ -8,7 +8,7 @@ laatste_update: 2005-04-27
 status: geldig
 toestand: 2005-04-27
 bron: "https://wetten.overheid.nl/BWBV0001706"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # WHO-Kaderverdrag inzake tabaksontmoediging

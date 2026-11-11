@@ -8,7 +8,7 @@ laatste_update: 1992-05-01
 status: geldig
 toestand: 1992-05-01
 bron: "https://wetten.overheid.nl/BWBV0002496"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst inzake het onderhoud van de Anselderbeek, Crombacherbeek en Bleijerheidebeek en van de daartoe behorende kunstwerken in het Nederlands-Duitse grensgebied

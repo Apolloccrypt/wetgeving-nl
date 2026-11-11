@@ -8,7 +8,7 @@ laatste_update: 2005-12-19
 status: geldig
 toestand: 2005-12-19
 bron: "https://wetten.overheid.nl/BWBV0001947"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden, voor Aruba, en de Regering van Canada inzake luchtvervoer

@@ -7,7 +7,7 @@ laatste_update: 1999-04-17
 status: geldig
 toestand: 1999-04-17
 bron: "https://wetten.overheid.nl/BWBV0001898"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag tussen lidstaten en geassocieerde leden van de Associatie van Caraïbische Staten inzake regionale samenwerking bij natuurrampen

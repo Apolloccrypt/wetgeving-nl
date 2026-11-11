@@ -8,7 +8,7 @@ laatste_update: 2004-02-01
 status: geldig
 toestand: 2004-02-01
 bron: "https://wetten.overheid.nl/BWBV0001614"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Zweden betreffende het afzien van de vergoeding van de uitkeringen aan werklozen

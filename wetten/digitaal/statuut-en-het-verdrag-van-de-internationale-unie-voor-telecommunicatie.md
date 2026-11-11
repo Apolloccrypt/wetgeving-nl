@@ -9,7 +9,7 @@ laatste_update: 2013-07-19
 status: geldig
 toestand: 2013-07-19
 bron: "https://wetten.overheid.nl/BWBV0001504"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-11
 ---
 
 # Statuut en Verdrag van de Internationale Unie voor Telecommunicatie

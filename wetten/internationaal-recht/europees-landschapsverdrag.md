@@ -8,7 +8,7 @@ laatste_update: 2005-11-01
 status: geldig
 toestand: 2005-11-01
 bron: "https://wetten.overheid.nl/BWBV0001748"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Europees landschapsverdrag

@@ -4,11 +4,11 @@ identifier: "BWBV0001517"
 categorie: "Internationaal recht"
 soort: "verdrag"
 publicatiedatum: 2004-05-17
-laatste_update: 2025-02-26
+laatste_update: 2026-10-09
 status: geldig
-toestand: 2025-02-26
+toestand: 2026-10-09
 bron: "https://wetten.overheid.nl/BWBV0001517"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-11
 ---
 
 # Verdrag van Stockholm inzake persistente organische verontreinigende stoffen

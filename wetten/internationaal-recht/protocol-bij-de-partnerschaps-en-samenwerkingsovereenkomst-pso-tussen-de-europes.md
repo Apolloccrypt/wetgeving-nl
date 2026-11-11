@@ -8,7 +8,7 @@ laatste_update: 2008-09-01
 status: geldig
 toestand: 2008-09-01
 bron: "https://wetten.overheid.nl/BWBV0002092"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Protocol bij de Partnerschaps- en Samenwerkingsovereenkomst (PSO) tussen de Europese Gemeenschappen en hun lidstaten, en Oekraïne, in verband met de toetreding van de Republiek Bulgarije en Roemenië tot de PSO

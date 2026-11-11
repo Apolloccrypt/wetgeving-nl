@@ -8,7 +8,7 @@ laatste_update: 1996-02-01
 status: geldig
 toestand: 1996-02-01
 bron: "https://wetten.overheid.nl/BWBV0002005"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag inzake het recht dat toepasselijk is op trusts en inzake de erkenning van trusts

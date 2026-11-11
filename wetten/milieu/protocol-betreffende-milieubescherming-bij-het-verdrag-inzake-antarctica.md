@@ -8,7 +8,7 @@ laatste_update: 2016-12-08
 status: geldig
 toestand: 2016-12-08
 bron: "https://wetten.overheid.nl/BWBV0001835"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Protocol betreffende milieubescherming bij het Verdrag inzake Antarctica

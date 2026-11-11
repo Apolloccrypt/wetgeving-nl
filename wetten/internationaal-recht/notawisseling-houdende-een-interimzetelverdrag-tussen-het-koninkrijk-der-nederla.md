@@ -8,7 +8,7 @@ laatste_update: 2006-04-01
 status: geldig
 toestand: 2006-04-01
 bron: "https://wetten.overheid.nl/BWBV0001566"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-11
 ---
 
 # Notawisseling houdende een interimzetelverdrag tussen het Koninkrijk der Nederlanden en het College van Eurojust

@@ -8,7 +8,7 @@ laatste_update: 2005-03-04
 status: geldig
 toestand: 2005-03-04
 bron: "https://wetten.overheid.nl/BWBV0001590"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Protocol inzake vorderingen, gerechtelijke procedures en vrijwaring bij het Kaderverdrag inzake een multilateraal nucleair milieuprogramma in de Russische Federatie

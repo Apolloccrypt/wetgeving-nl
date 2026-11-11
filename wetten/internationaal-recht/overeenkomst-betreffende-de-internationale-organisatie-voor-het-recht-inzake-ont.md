@@ -8,7 +8,7 @@ laatste_update: 2008-03-28
 status: geldig
 toestand: 2008-03-28
 bron: "https://wetten.overheid.nl/BWBV0002154"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst betreffende de Internationale Organisatie voor het Recht inzake Ontwikkeling

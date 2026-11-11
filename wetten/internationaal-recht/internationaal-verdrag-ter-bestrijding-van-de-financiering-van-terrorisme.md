@@ -8,7 +8,7 @@ laatste_update: 2002-04-10
 status: geldig
 toestand: 2002-04-10
 bron: "https://wetten.overheid.nl/BWBV0001518"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-11
 ---
 
 # Internationaal Verdrag ter bestrijding van de financiering van terrorisme

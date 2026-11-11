@@ -8,7 +8,7 @@ laatste_update: 2002-08-22
 status: geldig
 toestand: 2002-08-22
 bron: "https://wetten.overheid.nl/BWBV0001537"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-11
 ---
 
 # Facultatief Protocol bij het Verdrag inzake de uitbanning van alle vormen van discriminatie van vrouwen

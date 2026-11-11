@@ -8,7 +8,7 @@ laatste_update: 2014-09-24
 status: geldig
 toestand: 2014-09-24
 bron: "https://wetten.overheid.nl/BWBV0001580"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag tussen de staten die deelnemen in de „Multinational Stand-by High Readiness Brigade for UN Operations" inzake de rechtspositie van hun strijdkrachten

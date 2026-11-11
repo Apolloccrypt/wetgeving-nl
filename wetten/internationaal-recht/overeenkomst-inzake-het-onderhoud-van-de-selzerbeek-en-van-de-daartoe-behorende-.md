@@ -8,7 +8,7 @@ laatste_update: 1992-04-01
 status: geldig
 toestand: 1992-04-01
 bron: "https://wetten.overheid.nl/BWBV0002497"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst inzake het onderhoud van de Selzerbeek en van de daartoe behorende kunstwerken in het Nederlands-Duitse grensgebied

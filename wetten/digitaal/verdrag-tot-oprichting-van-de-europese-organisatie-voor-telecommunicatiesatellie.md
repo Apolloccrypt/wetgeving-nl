@@ -8,7 +8,7 @@ laatste_update: 2002-11-28
 status: geldig
 toestand: 2002-11-28
 bron: "https://wetten.overheid.nl/BWBV0002146"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag tot oprichting van de Europese Organisatie voor Telecommunicatiesatellieten "EUTELSAT", zoals gewijzigd op 20 mei 1999

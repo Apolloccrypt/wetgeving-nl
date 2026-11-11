@@ -8,7 +8,7 @@ laatste_update: 2006-05-01
 status: geldig
 toestand: 2006-05-01
 bron: "https://wetten.overheid.nl/BWBV0001952"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Protocol bij de Euro-Mediterrane Overeenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Staat Israël, anderzijds, in verband met de toetreding van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Hongarije, de Republiek Letland, de Republiek Litouwen, de Republiek Malta, de Republiek Polen, de Republiek Slovenië,en de Slowaakse Republiek tot de Europese Unie

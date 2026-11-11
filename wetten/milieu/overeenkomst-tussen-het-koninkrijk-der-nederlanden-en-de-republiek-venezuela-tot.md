@@ -8,7 +8,7 @@ laatste_update: 1996-03-13
 status: geldig
 toestand: 1996-03-13
 bron: "https://wetten.overheid.nl/BWBV0001913"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Venezuela tot instelling van een bilateraal rampenplan voor olieverontreiniging ter bescherming van de kustgebieden en het mariene milieu

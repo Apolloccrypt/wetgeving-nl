@@ -8,7 +8,7 @@ laatste_update: 1989-01-20
 status: geldig
 toestand: 1989-01-20
 bron: "https://wetten.overheid.nl/BWBV0002507"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag tegen foltering en andere wrede, onmenselijke en onterende behandeling of bestraffing

@@ -8,7 +8,7 @@ laatste_update: 2005-03-07
 status: geldig
 toestand: 2005-03-07
 bron: "https://wetten.overheid.nl/BWBV0001719"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Zweden inzake het wederzijds aanhouden van voorraden ruwe aardolie en/of aardolieproducten

@@ -8,7 +8,7 @@ laatste_update: 1983-12-04
 status: geldig
 toestand: 1983-12-04
 bron: "https://wetten.overheid.nl/BWBV0002593"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Groothertogdom Luxemburg inzake het wederzijds meerekenen van voorraden ruwe aardolie, halffabrikaten van aardolie en aardolieprodukten

@@ -7,7 +7,7 @@ laatste_update: 1989-08-01
 status: geldig
 toestand: 1989-08-01
 bron: "https://wetten.overheid.nl/BWBV0002000"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag inzake het recht dat van toepassing is op erfopvolging

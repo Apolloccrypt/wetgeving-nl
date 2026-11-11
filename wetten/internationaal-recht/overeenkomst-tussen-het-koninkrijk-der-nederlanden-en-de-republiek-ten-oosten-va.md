@@ -8,7 +8,7 @@ laatste_update: 1991-08-01
 status: geldig
 toestand: 1991-08-01
 bron: "https://wetten.overheid.nl/BWBV0002332"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek ten Oosten van de Uruguay inzake de bevordering en de wederzijdse bescherming van investeringen

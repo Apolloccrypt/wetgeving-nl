@@ -9,7 +9,7 @@ laatste_update: 2005-11-15
 status: geldig
 toestand: 2005-11-15
 bron: "https://wetten.overheid.nl/BWBV0001759"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Albanië tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen

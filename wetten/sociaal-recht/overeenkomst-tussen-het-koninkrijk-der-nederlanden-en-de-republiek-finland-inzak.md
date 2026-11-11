@@ -8,7 +8,7 @@ laatste_update: 1985-06-19
 status: geldig
 toestand: 1985-06-19
 bron: "https://wetten.overheid.nl/BWBV0002208"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Finland inzake wederzijdse bijstand in douanezaken

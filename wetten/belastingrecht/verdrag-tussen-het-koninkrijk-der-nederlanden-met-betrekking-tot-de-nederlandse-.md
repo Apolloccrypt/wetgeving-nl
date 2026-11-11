@@ -8,7 +8,7 @@ laatste_update: 2011-09-01
 status: geldig
 toestand: 2011-09-01
 bron: "https://wetten.overheid.nl/BWBV0002275"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden met betrekking tot de Nederlandse Antillen en het Koninkrijk Noorwegen tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen

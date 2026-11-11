@@ -8,7 +8,7 @@ laatste_update: 2006-10-01
 status: geldig
 toestand: 2006-10-01
 bron: "https://wetten.overheid.nl/BWBV0001808"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag van Boedapest inzake de Overeenkomst voor het vervoer van goederen over de binnenwateren (CMNI)

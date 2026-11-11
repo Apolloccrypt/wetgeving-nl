@@ -8,7 +8,7 @@ laatste_update: 2010-11-14
 status: geldig
 toestand: 2010-11-14
 bron: "https://wetten.overheid.nl/BWBV0002598"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst tot oprichting van het Multilaterale Agentschap voor Investeringsgaranties

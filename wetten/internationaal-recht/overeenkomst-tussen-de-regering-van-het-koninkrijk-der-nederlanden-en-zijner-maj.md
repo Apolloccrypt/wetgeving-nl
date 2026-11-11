@@ -8,7 +8,7 @@ laatste_update: 2010-08-10
 status: geldig
 toestand: 2010-08-10
 bron: "https://wetten.overheid.nl/BWBV0002517"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en Zijner Majesteits Regering van Nepal inzake de tewerkstelling van Nederlandse vrijwilligers

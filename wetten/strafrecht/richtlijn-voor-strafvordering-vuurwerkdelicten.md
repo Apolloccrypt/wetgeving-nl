@@ -5,10 +5,11 @@ categorie: "Strafrecht"
 soort: "beleidsregel"
 publicatiedatum: 2024-12-01
 laatste_update: 2024-12-01
-status: geldig
+status: vervallen
+vervallen_op: 2026-11-02
 toestand: 2024-12-01
 bron: "https://wetten.overheid.nl/BWBR0050479"
-opgehaald: 2026-11-06
+opgehaald: 2026-11-11
 ---
 
 # Richtlijn voor strafvordering vuurwerkdelicten

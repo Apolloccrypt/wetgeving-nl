@@ -8,7 +8,7 @@ laatste_update: 1962-12-14
 status: geldig
 toestand: 1962-12-14
 bron: "https://wetten.overheid.nl/BWBV0001998"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag nopens de wet welke op alimentatieverplichtingen jegens kinderen toepasselijk is

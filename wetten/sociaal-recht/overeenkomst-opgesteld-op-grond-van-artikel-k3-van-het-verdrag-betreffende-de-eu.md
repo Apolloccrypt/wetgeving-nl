@@ -8,7 +8,7 @@ laatste_update: 2009-06-23
 status: geldig
 toestand: 2009-06-23
 bron: "https://wetten.overheid.nl/BWBV0001559"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst opgesteld op grond van artikel K.3 van het Verdrag betreffende de Europese Unie inzake wederzijdse bijstand en samenwerking tussen de douane-administraties

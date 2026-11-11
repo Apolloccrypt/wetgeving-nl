@@ -8,7 +8,7 @@ laatste_update: 2025-04-20
 status: geldig
 toestand: 2025-04-20
 bron: "https://wetten.overheid.nl/BWBV0001700"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag betreffende toegang tot informatie, inspraak in besluitvorming en toegang tot de rechter inzake milieuaangelegenheden

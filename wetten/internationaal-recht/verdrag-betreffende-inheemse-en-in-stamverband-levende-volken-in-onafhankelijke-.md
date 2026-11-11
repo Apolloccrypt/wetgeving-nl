@@ -8,7 +8,7 @@ laatste_update: 1999-02-02
 status: geldig
 toestand: 1999-02-02
 bron: "https://wetten.overheid.nl/BWBV0002087"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag betreffende inheemse en in stamverband levende volken in onafhankelijke landen

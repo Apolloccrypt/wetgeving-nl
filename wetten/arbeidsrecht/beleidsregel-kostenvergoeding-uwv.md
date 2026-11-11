@@ -4,11 +4,11 @@ identifier: "BWBR0028578"
 categorie: "Overig"
 soort: "zbo"
 publicatiedatum: 2010-10-01
-laatste_update: 2026-09-08
+laatste_update: 2026-11-03
 status: geldig
-toestand: 2026-09-08
+toestand: 2026-11-03
 bron: "https://wetten.overheid.nl/BWBR0028578"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Beleidsregel kostenvergoeding UWV
@@ -51,7 +51,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4. Vergoeding reiskosten bij medische klachten of lichamelijke beperkingen
 
-Indien de opgeroepene naar het oordeel van UWV door medische klachten of lichamelijke beperkingen is aangewezen op eigen vervoer of vervoer per taxi, wordt bij gebruik van eigen vervoer per afgelegde kilometer vergoed het bedrag, genoemd in [artikel 31a, tweede lid, onderdeel a, onder 3°, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31a) vergoed, zonder minimum reisafstand, en bij gebruik van een taxi de werkelijke naar redelijkheid gemaakte kosten.
+Indien de opgeroepene naar het oordeel van UWV door medische klachten of lichamelijke beperkingen is aangewezen op eigen vervoer of vervoer per taxi, wordt bij gebruik van eigen vervoer € 0,23 per afgelegde kilometer vergoed, zonder minimum reisafstand, en bij gebruik van een taxi de werkelijke naar redelijkheid gemaakte kosten.
 
 ##### Artikel 5. Vergoeding verblijfkosten
 

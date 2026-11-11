@@ -7,7 +7,7 @@ laatste_update: 2005-11-28
 status: geldig
 toestand: 2005-11-28
 bron: "https://wetten.overheid.nl/BWBV0001780"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Gambia inzake de export en handhaving van sociale zekerheidsuitkeringen

@@ -8,7 +8,7 @@ laatste_update: 1984-01-24
 status: geldig
 toestand: 1984-01-24
 bron: "https://wetten.overheid.nl/BWBV0002453"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Democratische Socialistische Republiek Sri Lanka tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen

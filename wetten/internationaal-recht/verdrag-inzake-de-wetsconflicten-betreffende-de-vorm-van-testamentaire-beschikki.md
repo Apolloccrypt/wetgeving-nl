@@ -8,7 +8,7 @@ laatste_update: 1982-08-01
 status: geldig
 toestand: 1982-08-01
 bron: "https://wetten.overheid.nl/BWBV0002006"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag inzake de wetsconflicten betreffende de vorm van testamentaire beschikkingen

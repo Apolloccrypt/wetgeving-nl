@@ -8,7 +8,7 @@ laatste_update: 2007-01-01
 status: geldig
 toestand: 2007-01-01
 bron: "https://wetten.overheid.nl/BWBV0001499"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-11
 ---
 
 # Besluit van de Raad van de Europese Unie van 29 september 2000 betreffende het stelsel van eigen middelen van de Europese Gemeenschappen

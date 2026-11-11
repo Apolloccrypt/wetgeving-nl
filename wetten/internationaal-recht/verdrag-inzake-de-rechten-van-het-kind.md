@@ -8,7 +8,7 @@ laatste_update: 2002-11-18
 status: geldig
 toestand: 2002-11-18
 bron: "https://wetten.overheid.nl/BWBV0002508"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag inzake de rechten van het kind

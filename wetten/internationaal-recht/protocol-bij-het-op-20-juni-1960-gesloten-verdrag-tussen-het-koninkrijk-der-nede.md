@@ -8,7 +8,7 @@ laatste_update: 1988-11-01
 status: geldig
 toestand: 1988-11-01
 bron: "https://wetten.overheid.nl/BWBV0002557"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Protocol bij het op 20 juni 1960 gesloten Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Belgie betreffende de verbetering van het Kanaal van Terneuzen naar Gent en de regeling van enige daarmede verband houdende aangelegenheden

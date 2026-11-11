@@ -8,7 +8,7 @@ laatste_update: 2008-03-01
 status: geldig
 toestand: 2008-03-01
 bron: "https://wetten.overheid.nl/BWBV0001596"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst inzake zeevervoer tussen de Europese Gemeenschap en haar lidstaten enerzijds en de Regering van de Volksrepubliek China anderzijds

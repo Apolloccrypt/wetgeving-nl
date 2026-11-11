@@ -7,7 +7,7 @@ laatste_update: 2001-10-15
 status: geldig
 toestand: 2001-10-15
 bron: "https://wetten.overheid.nl/BWBV0001511"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-11
 ---
 
 # Besluit van de vertegenwoordigers van de regeringen der lidstaten van de Europese Unie, in het kader van de Raad bijeen, betreffende de voorrechten en immuniteiten die aan het Instituut voor veiligheidsstudies en het Satellietcentrum van de Europese Unie, alsmede aan hun organen en de leden van hun personeel worden verleend

@@ -8,7 +8,7 @@ laatste_update: 1981-06-07
 status: geldig
 toestand: 1981-06-07
 bron: "https://wetten.overheid.nl/BWBV0001993"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag inzake de verkrijging van bewijs in het buitenland in burgerlijke en in handelszaken

@@ -8,7 +8,7 @@ laatste_update: 2026-07-03
 status: geldig
 toestand: 2026-07-03
 bron: "https://wetten.overheid.nl/BWBV0001793"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en Eurojust

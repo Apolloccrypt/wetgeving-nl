@@ -8,7 +8,7 @@ laatste_update: 2006-06-01
 status: geldig
 toestand: 2006-06-01
 bron: "https://wetten.overheid.nl/BWBV0001787"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Volksrepubliek China inzake de wederzijdse erkenning van graden van instellingen voor hoger onderwijs en de toegang tot hoger onderwijs

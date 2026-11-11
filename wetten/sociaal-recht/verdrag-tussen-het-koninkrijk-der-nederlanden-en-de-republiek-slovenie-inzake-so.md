@@ -8,7 +8,7 @@ laatste_update: 2003-05-01
 status: geldig
 toestand: 2003-05-01
 bron: "https://wetten.overheid.nl/BWBV0001577"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Slovenië inzake sociale zekerheid

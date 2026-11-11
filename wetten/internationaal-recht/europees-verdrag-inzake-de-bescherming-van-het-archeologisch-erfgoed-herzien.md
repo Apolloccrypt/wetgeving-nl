@@ -8,7 +8,7 @@ laatste_update: 2007-12-12
 status: geldig
 toestand: 2007-12-12
 bron: "https://wetten.overheid.nl/BWBV0002031"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Europees Verdrag inzake de bescherming van het archeologisch erfgoed (herzien)

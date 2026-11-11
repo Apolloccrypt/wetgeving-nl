@@ -8,7 +8,7 @@ laatste_update: 2007-03-15
 status: geldig
 toestand: 2007-03-15
 bron: "https://wetten.overheid.nl/BWBV0001950"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Tunesië inzake het vervoer over de weg van personen en goederen en transitovervoer

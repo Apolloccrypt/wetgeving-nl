@@ -8,7 +8,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBV0002068"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Internationale Financieringsmaatchappij (IFC) inzake het African Training and Management Services (ATMS) Project van het Ontwikkelingsprogramma van de Verenigde Naties

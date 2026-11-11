@@ -8,7 +8,7 @@ laatste_update: 2006-02-16
 status: geldig
 toestand: 2006-02-16
 bron: "https://wetten.overheid.nl/BWBV0001763"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Internationaal Verdrag inzake plantgenetische bronnen voor voedsel en landbouw

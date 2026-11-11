@@ -8,7 +8,7 @@ laatste_update: 2002-03-09
 status: geldig
 toestand: 2002-03-09
 bron: "https://wetten.overheid.nl/BWBV0001519"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-11
 ---
 
 # Verdrag inzake de veiligheid van VN-personeel en geassocieerd personeel

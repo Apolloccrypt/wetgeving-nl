@@ -8,7 +8,7 @@ laatste_update: 2004-02-27
 status: geldig
 toestand: 2004-02-27
 bron: "https://wetten.overheid.nl/BWBV0001634"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Protocol bij het Noord-Atlantisch Verdrag betreffende de toetreding van de Slowaakse Republiek

@@ -8,7 +8,7 @@ laatste_update: 1993-04-08
 status: geldig
 toestand: 1993-04-08
 bron: "https://wetten.overheid.nl/BWBV0002254"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst inzake een uitgebreide politieke regeling van het Kambodjaconflict

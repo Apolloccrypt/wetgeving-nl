@@ -7,7 +7,7 @@ laatste_update: 2006-02-24
 status: geldig
 toestand: 2006-02-24
 bron: "https://wetten.overheid.nl/BWBV0001796"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Botswana inzake de export en handhaving van socialezekerheidsuitkeringen

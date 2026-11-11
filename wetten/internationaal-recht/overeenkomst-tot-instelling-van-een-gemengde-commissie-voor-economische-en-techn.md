@@ -8,7 +8,7 @@ laatste_update: 1989-09-05
 status: geldig
 toestand: 1989-09-05
 bron: "https://wetten.overheid.nl/BWBV0002173"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst tot instelling van een gemengde Commissie voor economische en technologische samenwerking tussen het Koninkrijk der Nederlanden en de Democratische Volksrepubliek Algerije

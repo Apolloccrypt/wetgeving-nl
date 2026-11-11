@@ -8,7 +8,7 @@ laatste_update: 1993-03-31
 status: geldig
 toestand: 1993-03-31
 bron: "https://wetten.overheid.nl/BWBV0002240"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst inzake de soevereiniteit, onafhankelijkheid, territoriale integriteit en onschendbaarheid, neutraliteit en nationale eenheid van Kambodja

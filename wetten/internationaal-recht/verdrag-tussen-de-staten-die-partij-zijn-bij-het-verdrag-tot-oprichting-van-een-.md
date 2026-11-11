@@ -8,7 +8,7 @@ laatste_update: 2005-04-20
 status: geldig
 toestand: 2005-04-20
 bron: "https://wetten.overheid.nl/BWBV0001724"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag tussen de Staten die partij zijn bij het Verdrag tot oprichting van een Europees ruimte-agentschap en het Europees ruimte-agentschap ten behoeve van de beveiliging en uitwisseling van gerubriceerde informatie

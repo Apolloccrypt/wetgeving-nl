@@ -8,7 +8,7 @@ laatste_update: 2019-06-21
 status: geldig
 toestand: 2019-06-21
 bron: "https://wetten.overheid.nl/BWBV0002086"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Protocol van Montreal betreffende stoffen die de ozonlaag afbreken

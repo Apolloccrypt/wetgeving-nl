@@ -8,7 +8,7 @@ laatste_update: 2010-12-31
 status: geldig
 toestand: 2010-12-31
 bron: "https://wetten.overheid.nl/BWBV0001755"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Administratief Akkoord tussen het Koninkrijk der Nederlanden en Bangladesh inzake het project "Char Development and Settlement Project III (CDSP III)"

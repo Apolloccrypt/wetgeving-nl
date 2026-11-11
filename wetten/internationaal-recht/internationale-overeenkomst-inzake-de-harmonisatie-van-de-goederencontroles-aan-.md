@@ -8,7 +8,7 @@ laatste_update: 2021-05-27
 status: geldig
 toestand: 2021-05-27
 bron: "https://wetten.overheid.nl/BWBV0002346"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Internationale Overeenkomst inzake de harmonisatie van de goederencontroles aan de grenzen

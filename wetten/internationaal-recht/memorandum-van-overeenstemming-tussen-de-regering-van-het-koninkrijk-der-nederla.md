@@ -8,7 +8,7 @@ laatste_update: 1988-11-01
 status: geldig
 toestand: 1988-11-01
 bron: "https://wetten.overheid.nl/BWBV0002427"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Memorandum van Overeenstemming tussen de Regering van het Koninkrijk der Nederlanden, de Regering van de Bondsrepubliek Duitsland, de Regering van de Franse Republiek en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland betreffende de gezamenlijke bouw en de gezamenlijke exploitatie van de Europese Transsone Windtunnel

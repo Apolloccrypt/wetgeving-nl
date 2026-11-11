@@ -8,7 +8,7 @@ laatste_update: 2004-07-13
 status: geldig
 toestand: 2004-07-13
 bron: "https://wetten.overheid.nl/BWBV0001777"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Samenwerkingsovereenkomst betreffende een Civiel Globaal Navigatiesatellietsysteem (GNSS) tussen de Europese Gemeenschap en haar Lidstaten en de Staat Israël

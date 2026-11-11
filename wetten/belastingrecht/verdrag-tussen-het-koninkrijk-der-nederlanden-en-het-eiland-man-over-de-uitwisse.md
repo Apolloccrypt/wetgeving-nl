@@ -8,7 +8,7 @@ laatste_update: 2006-07-24
 status: geldig
 toestand: 2006-07-24
 bron: "https://wetten.overheid.nl/BWBV0001817"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Eiland Man over de uitwisseling van informatie betreffende belastingzaken

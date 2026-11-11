@@ -8,7 +8,7 @@ laatste_update: 2003-12-01
 status: geldig
 toestand: 2003-12-01
 bron: "https://wetten.overheid.nl/BWBV0001576"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst tussen de Regering van de Republiek Hongarije en Regeringen van de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden) betreffende de overname van onregelmatig verblijvende personen

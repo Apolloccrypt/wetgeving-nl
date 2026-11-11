@@ -8,7 +8,7 @@ laatste_update: 2006-12-01
 status: geldig
 toestand: 2006-12-01
 bron: "https://wetten.overheid.nl/BWBV0001711"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Maasverdrag

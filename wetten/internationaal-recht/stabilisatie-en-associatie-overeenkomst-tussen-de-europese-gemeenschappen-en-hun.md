@@ -8,7 +8,7 @@ laatste_update: 2017-02-01
 status: geldig
 toestand: 2017-02-01
 bron: "https://wetten.overheid.nl/BWBV0001546"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-11
 ---
 
 # Stabilisatie- en Associatie-Overeenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Voormalige Joegoslavische Republiek Macedonië, anderzijds

@@ -8,7 +8,7 @@ laatste_update: 1994-06-01
 status: geldig
 toestand: 1994-06-01
 bron: "https://wetten.overheid.nl/BWBV0002624"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst inzake het behoud van het architectonische erfgoed van Europa

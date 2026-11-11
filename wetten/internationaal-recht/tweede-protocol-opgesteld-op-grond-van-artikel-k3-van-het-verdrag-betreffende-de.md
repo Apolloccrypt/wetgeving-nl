@@ -8,7 +8,7 @@ laatste_update: 2009-05-19
 status: geldig
 toestand: 2009-05-19
 bron: "https://wetten.overheid.nl/BWBV0001527"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-11
 ---
 
 # Tweede Protocol, opgesteld op grond van artikel K.3 van het Verdrag betreffende de Europese Unie, bij de Overeenkomst aangaande de bescherming van de financiële belangen van de Europese Gemeenschappen

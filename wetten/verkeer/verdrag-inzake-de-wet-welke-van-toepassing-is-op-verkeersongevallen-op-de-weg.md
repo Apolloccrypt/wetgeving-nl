@@ -8,7 +8,7 @@ laatste_update: 1978-12-30
 status: geldig
 toestand: 1978-12-30
 bron: "https://wetten.overheid.nl/BWBV0001994"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag inzake de wet welke van toepassing is op verkeersongevallen op de weg

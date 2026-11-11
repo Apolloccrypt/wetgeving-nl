@@ -8,7 +8,7 @@ laatste_update: 2006-11-30
 status: geldig
 toestand: 2006-11-30
 bron: "https://wetten.overheid.nl/BWBV0001830"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag van de Verenigde Naties tegen corruptie

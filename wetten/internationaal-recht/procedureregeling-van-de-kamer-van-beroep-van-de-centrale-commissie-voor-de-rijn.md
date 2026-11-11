@@ -8,7 +8,7 @@ laatste_update: 2007-07-01
 status: geldig
 toestand: 2007-07-01
 bron: "https://wetten.overheid.nl/BWBV0001982"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Procedureregeling van de Kamer van Beroep van de Centrale Commissie voor de Rijnvaart (van 23 november 2006)

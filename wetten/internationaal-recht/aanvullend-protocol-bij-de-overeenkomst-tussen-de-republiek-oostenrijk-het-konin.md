@@ -8,7 +8,7 @@ laatste_update: 2004-04-30
 status: geldig
 toestand: 2004-04-30
 bron: "https://wetten.overheid.nl/BWBV0001645"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Aanvullend Protocol bij de Overeenkomst tussen de Republiek Oostenrijk, het Koninkrijk België, het Koninkrijk Denemarken, de Republiek Finland, de Bondsrepubliek Duitsland, de Helleense Republiek, Ierland, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, de Portugese Republiek, het Koninkrijk Spanje en het Koninkrijk Zweden, de Europese Gemeenschap voor Atoomenergie en de Internationale Organisatie voor Atoomenergie ter uitvoering van artikel III, leden 1 en 4, van het Verdrag inzake de niet-verspreiding van kernwapens

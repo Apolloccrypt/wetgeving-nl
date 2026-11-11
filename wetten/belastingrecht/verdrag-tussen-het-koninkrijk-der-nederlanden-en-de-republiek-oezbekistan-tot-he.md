@@ -8,7 +8,7 @@ laatste_update: 2017-12-31
 status: geldig
 toestand: 2017-12-31
 bron: "https://wetten.overheid.nl/BWBV0001533"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-11
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Oezbekistan tot het vermijden van dubbele belasting met betrekking tot belastingen naar het inkomen en naar het vermogen en het voorkomen van het ontgaan en ontwijken van belasting

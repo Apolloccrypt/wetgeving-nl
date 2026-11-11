@@ -8,7 +8,7 @@ laatste_update: 2016-07-01
 status: geldig
 toestand: 2016-07-01
 bron: "https://wetten.overheid.nl/BWBV0001509"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-11
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Vorstendom Monaco inzake de betaling van Nederlandse sociale verzekeringsuitkeringen in Monaco

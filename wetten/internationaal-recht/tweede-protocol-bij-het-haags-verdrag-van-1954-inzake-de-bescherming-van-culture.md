@@ -8,7 +8,7 @@ laatste_update: 2007-04-30
 status: geldig
 toestand: 2007-04-30
 bron: "https://wetten.overheid.nl/BWBV0001962"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Tweede Protocol bij het Haags Verdrag van 1954 inzake de bescherming van culturele goederen in geval van een gewapend conflict

@@ -8,7 +8,7 @@ laatste_update: 1998-07-01
 status: geldig
 toestand: 1998-07-01
 bron: "https://wetten.overheid.nl/BWBV0001946"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Dominicaanse Republiek inzake economische en technologische samenwerking tussen de Nederlandse Antillen, Aruba en de Dominicaanse Republiek

@@ -8,7 +8,7 @@ laatste_update: 2001-05-02
 status: geldig
 toestand: 2001-05-02
 bron: "https://wetten.overheid.nl/BWBV0001954"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Inter-Amerikaans Verdrag inzake de bescherming en het behoud van zeeschildpadden

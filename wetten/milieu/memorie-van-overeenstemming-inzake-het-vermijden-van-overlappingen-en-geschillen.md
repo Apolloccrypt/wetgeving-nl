@@ -8,7 +8,7 @@ laatste_update: 1991-10-24
 status: geldig
 toestand: 1991-10-24
 bron: "https://wetten.overheid.nl/BWBV0002435"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Memorie van Overeenstemming inzake het vermijden van overlappingen en geschillen met betrekking tot zeebodemgebieden

@@ -8,7 +8,7 @@ laatste_update: 2005-10-05
 status: geldig
 toestand: 2005-10-05
 bron: "https://wetten.overheid.nl/BWBV0001638"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Protocol vastgesteld door de Raad overeenkomstig artikel 34 van het Verdrag betreffende de Europese Unie, bij de Overeenkomst betreffende de wederzijdse rechtshulp in strafzaken tussen de lidstaten van de Europese Unie

@@ -8,7 +8,7 @@ laatste_update: 1981-08-22
 status: geldig
 toestand: 1981-08-22
 bron: "https://wetten.overheid.nl/BWBV0002004"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag inzake de erkenning van echtscheidingen en scheidingen van tafel en bed

@@ -8,7 +8,7 @@ laatste_update: 2007-01-01
 status: geldig
 toestand: 2007-01-01
 bron: "https://wetten.overheid.nl/BWBV0002032"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Statuut van de Haagse Conferentie voor Internationaal Privaatrecht

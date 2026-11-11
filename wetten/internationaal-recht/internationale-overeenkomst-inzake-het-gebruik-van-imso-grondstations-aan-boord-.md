@@ -8,7 +8,7 @@ laatste_update: 1993-09-12
 status: geldig
 toestand: 1993-09-12
 bron: "https://wetten.overheid.nl/BWBV0002291"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Internationale Overeenkomst inzake het gebruik van IMSO-grondstations aan boord van schepen binnen de territoriale zee en de havens

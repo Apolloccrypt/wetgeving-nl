@@ -8,7 +8,7 @@ laatste_update: 2007-02-04
 status: geldig
 toestand: 2007-02-04
 bron: "https://wetten.overheid.nl/BWBV0001834"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag inzake de grensoverschrijdende gevolgen van industriële ongevallen

@@ -8,7 +8,7 @@ laatste_update: 1965-10-08
 status: geldig
 toestand: 1965-10-08
 bron: "https://wetten.overheid.nl/BWBV0002030"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag tot afschaffing van het vereiste van legalisatie voor buitenlandse openbare akten

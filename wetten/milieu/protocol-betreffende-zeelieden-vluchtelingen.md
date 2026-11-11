@@ -8,7 +8,7 @@ laatste_update: 1975-03-30
 status: geldig
 toestand: 1975-03-30
 bron: "https://wetten.overheid.nl/BWBV0002027"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Protocol betreffende zeelieden-vluchtelingen

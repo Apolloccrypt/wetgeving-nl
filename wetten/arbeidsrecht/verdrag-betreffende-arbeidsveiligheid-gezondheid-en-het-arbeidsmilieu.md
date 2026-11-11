@@ -8,7 +8,7 @@ laatste_update: 1992-05-22
 status: geldig
 toestand: 1992-05-22
 bron: "https://wetten.overheid.nl/BWBV0002487"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag betreffende arbeidsveiligheid, gezondheid en het arbeidsmilieu

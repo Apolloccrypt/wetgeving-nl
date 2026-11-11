@@ -8,7 +8,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBV0001829"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Internationaal Verdrag tegen doping in de sport

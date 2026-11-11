@@ -8,7 +8,7 @@ laatste_update: 2008-04-28
 status: geldig
 toestand: 2008-04-28
 bron: "https://wetten.overheid.nl/BWBV0001977"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Luchtvaartverdrag tussen het Koninkrijk der Nederlanden voor Aruba en de Verenigde Staten van Amerika inzake het luchtvervoer tussen Aruba en de Verenigde Staten van Amerika

@@ -8,7 +8,7 @@ laatste_update: 1992-09-01
 status: geldig
 toestand: 1992-09-01
 bron: "https://wetten.overheid.nl/BWBV0002007"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag inzake het recht dat van toepassing is op het huwelijksvermogensregime

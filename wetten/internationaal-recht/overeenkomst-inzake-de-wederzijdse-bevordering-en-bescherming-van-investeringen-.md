@@ -8,7 +8,7 @@ laatste_update: 1989-11-01
 status: geldig
 toestand: 1989-11-01
 bron: "https://wetten.overheid.nl/BWBV0002522"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst inzake de wederzijdse bevordering en bescherming van investeringen tussen het Koninkrijk der Nederlanden en de Republiek Turkije

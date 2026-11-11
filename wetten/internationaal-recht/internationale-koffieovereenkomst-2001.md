@@ -8,7 +8,7 @@ laatste_update: 2011-09-30
 status: geldig
 toestand: 2011-09-30
 bron: "https://wetten.overheid.nl/BWBV0002017"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Internationale Koffieovereenkomst 2001

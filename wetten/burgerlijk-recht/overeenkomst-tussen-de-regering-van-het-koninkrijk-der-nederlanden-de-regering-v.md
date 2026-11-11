@@ -8,7 +8,7 @@ laatste_update: 2004-05-29
 status: geldig
 toestand: 2004-05-29
 bron: "https://wetten.overheid.nl/BWBV0001585"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden, de Regering van het Koninkrijk België en de Regering van het Groothertogdom Luxemburg en de Federale Regering van de Federale Republiek Joegoslavië betreffende de terug- en overname van personen die niet of niet meer voldoen aan de voorwaarden voor binnenkomst of verblijf op het grondgebied van de andere Overeenkomstsluitende Staat

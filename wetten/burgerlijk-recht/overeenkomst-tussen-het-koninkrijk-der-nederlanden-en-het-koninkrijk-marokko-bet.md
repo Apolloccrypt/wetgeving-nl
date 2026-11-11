@@ -8,7 +8,7 @@ laatste_update: 1987-07-10
 status: geldig
 toestand: 1987-07-10
 bron: "https://wetten.overheid.nl/BWBV0002205"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko betreffende het internationale wegvervoer van personen en goederen

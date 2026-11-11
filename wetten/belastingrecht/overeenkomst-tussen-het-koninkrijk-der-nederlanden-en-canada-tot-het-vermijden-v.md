@@ -8,7 +8,7 @@ laatste_update: 1999-01-15
 status: geldig
 toestand: 1999-01-15
 bron: "https://wetten.overheid.nl/BWBV0002457"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en Canada tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen

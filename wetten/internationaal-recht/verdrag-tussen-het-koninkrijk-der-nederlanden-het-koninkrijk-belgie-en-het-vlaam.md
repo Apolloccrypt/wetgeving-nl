@@ -8,7 +8,7 @@ laatste_update: 2009-01-01
 status: geldig
 toestand: 2009-01-01
 bron: "https://wetten.overheid.nl/BWBV0001543"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-11
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden, het Koninkrijk België en het Vlaams Gewest tot herziening van het Reglement ter uitvoering van artikel IX van het Tractaat van 19 april 1839 en van hoofdstuk II, afdelingen 1 en 2, van het Tractaat van 5 november 1842, zoals gewijzigd, voor wat betreft het loodswezen en het gemeenschappelijk toezicht daarop (Scheldereglement)

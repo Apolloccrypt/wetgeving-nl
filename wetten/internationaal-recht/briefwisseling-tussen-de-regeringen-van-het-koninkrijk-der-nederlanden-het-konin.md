@@ -8,7 +8,7 @@ laatste_update: 2006-06-01
 status: geldig
 toestand: 2006-06-01
 bron: "https://wetten.overheid.nl/BWBV0001530"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-11
 ---
 
 # Briefwisseling tussen de Regeringen van het Koninkrijk der Nederlanden, het Koninkrijk België en het Groothertogdom Luxemburg, enerzijds, en de Regering van Peru, anderzijds, houdende een overeenkomst inzake de afschaffing van de visumplicht voor houders van diplomatieke en speciale of dienstpaspoorten

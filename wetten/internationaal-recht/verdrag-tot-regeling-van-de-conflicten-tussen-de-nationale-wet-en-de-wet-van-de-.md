@@ -7,7 +7,7 @@ laatste_update: 1955-06-15
 status: geldig
 toestand: 1955-06-15
 bron: "https://wetten.overheid.nl/BWBV0002026"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag tot regeling van de conflicten tussen de nationale wet en de wet van de woonplaats

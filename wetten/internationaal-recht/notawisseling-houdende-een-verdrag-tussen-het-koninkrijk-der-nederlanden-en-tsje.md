@@ -8,7 +8,7 @@ laatste_update: 2004-12-01
 status: geldig
 toestand: 2004-12-01
 bron: "https://wetten.overheid.nl/BWBV0001616"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en Tsjechië inzake privileges en immuniteiten voor verbindingsofficieren die door Tsjechië bij Europol te 's-Gravenhage gedetacheerd worden

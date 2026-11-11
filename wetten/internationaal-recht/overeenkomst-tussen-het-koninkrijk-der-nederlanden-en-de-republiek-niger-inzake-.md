@@ -8,7 +8,7 @@ laatste_update: 2015-02-27
 status: geldig
 toestand: 2015-02-27
 bron: "https://wetten.overheid.nl/BWBV0002657"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Niger inzake de tewerkstelling van Nederlandse vrijwilligers

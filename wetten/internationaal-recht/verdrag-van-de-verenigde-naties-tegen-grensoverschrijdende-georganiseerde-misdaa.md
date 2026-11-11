@@ -8,7 +8,7 @@ laatste_update: 2004-06-25
 status: geldig
 toestand: 2004-06-25
 bron: "https://wetten.overheid.nl/BWBV0001668"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag van de Verenigde Naties tegen grensoverschrijdende georganiseerde misdaad

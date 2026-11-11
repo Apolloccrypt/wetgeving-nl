@@ -8,7 +8,7 @@ laatste_update: 2015-10-08
 status: geldig
 toestand: 2015-10-08
 bron: "https://wetten.overheid.nl/BWBV0001986"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Statuut van de Internationale Arbeidsorganisatie

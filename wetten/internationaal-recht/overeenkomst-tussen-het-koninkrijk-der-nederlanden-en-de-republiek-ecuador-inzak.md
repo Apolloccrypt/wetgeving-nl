@@ -8,7 +8,7 @@ laatste_update: 1993-02-19
 status: geldig
 toestand: 1993-02-19
 bron: "https://wetten.overheid.nl/BWBV0002614"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Ecuador inzake technische samenwerking

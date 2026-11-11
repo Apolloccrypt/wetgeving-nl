@@ -8,7 +8,7 @@ laatste_update: 2005-08-26
 status: geldig
 toestand: 2005-08-26
 bron: "https://wetten.overheid.nl/BWBV0001749"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Protocol inzake de voorkoming, bestrijding en bestraffing van mensenhandel, in het bijzonder vrouwenhandel en kinderhandel, tot aanvulling van het Verdrag van de Verenigde Naties tegen grensoverschrijdende georganiseerde misdaad

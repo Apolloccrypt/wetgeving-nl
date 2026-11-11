@@ -8,7 +8,7 @@ laatste_update: 1994-11-21
 status: geldig
 toestand: 1994-11-21
 bron: "https://wetten.overheid.nl/BWBV0002144"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst inzake betrekkingen op het gebied van film en videofilm tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Canada

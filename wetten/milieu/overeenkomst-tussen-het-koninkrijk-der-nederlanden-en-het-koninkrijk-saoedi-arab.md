@@ -8,7 +8,7 @@ laatste_update: 1985-06-24
 status: geldig
 toestand: 1985-06-24
 bron: "https://wetten.overheid.nl/BWBV0002589"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Saoedi-Arabië inzake luchtvervoer

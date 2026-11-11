@@ -8,7 +8,7 @@ laatste_update: 2002-10-01
 status: geldig
 toestand: 2002-10-01
 bron: "https://wetten.overheid.nl/BWBV0001542"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-11
 ---
 
 # Aanvullend Protocol bij het Verdrag inzake de overbrenging van gevonniste personen

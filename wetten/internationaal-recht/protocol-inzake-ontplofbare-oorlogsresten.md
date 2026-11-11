@@ -8,7 +8,7 @@ laatste_update: 2006-11-12
 status: geldig
 toestand: 2006-11-12
 bron: "https://wetten.overheid.nl/BWBV0001746"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Protocol inzake ontplofbare oorlogsresten

@@ -8,7 +8,7 @@ laatste_update: 1988-11-18
 status: geldig
 toestand: 1988-11-18
 bron: "https://wetten.overheid.nl/BWBV0002459"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst inzake de regels voor het vervoer van bevroren en diepgevroren producten met vervoermiddelen met dunne zijwanden naar Italië en afkomstig uit Italië

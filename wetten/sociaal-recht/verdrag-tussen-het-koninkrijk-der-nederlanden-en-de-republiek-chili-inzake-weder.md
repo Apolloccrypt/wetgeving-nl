@@ -8,7 +8,7 @@ laatste_update: 2006-05-20
 status: geldig
 toestand: 2006-05-20
 bron: "https://wetten.overheid.nl/BWBV0001791"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Chili inzake wederzijdse administratieve bijstand ten behoeve van de juiste toepassing van de douanewetgeving en de voorkoming, opsporing en bestrijding van inbreuken op de douanewetgeving

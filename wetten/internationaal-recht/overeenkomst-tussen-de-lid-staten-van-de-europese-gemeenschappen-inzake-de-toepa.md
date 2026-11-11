@@ -8,7 +8,7 @@ laatste_update: 1994-04-06
 status: geldig
 toestand: 1994-04-06
 bron: "https://wetten.overheid.nl/BWBV0002161"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst tussen de Lid-Staten van de Europese Gemeenschappen inzake de toepassing van het beginsel ne bis in idem

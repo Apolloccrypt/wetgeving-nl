@@ -8,7 +8,7 @@ laatste_update: 1984-04-18
 status: geldig
 toestand: 1984-04-18
 bron: "https://wetten.overheid.nl/BWBV0002198"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Noorwegen inzake wederzijdse administratieve bijstand in douanezaken

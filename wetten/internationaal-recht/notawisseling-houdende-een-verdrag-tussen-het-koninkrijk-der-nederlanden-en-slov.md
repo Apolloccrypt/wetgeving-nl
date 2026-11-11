@@ -8,7 +8,7 @@ laatste_update: 2006-03-01
 status: geldig
 toestand: 2006-03-01
 bron: "https://wetten.overheid.nl/BWBV0001617"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en Slovenië inzake privileges en immuniteiten voor verbindingsofficieren die door Slovenië bij Europol te 's-Gravenhage gedetacheerd worden

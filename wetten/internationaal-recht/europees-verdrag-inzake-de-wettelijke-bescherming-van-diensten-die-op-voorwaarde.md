@@ -8,7 +8,7 @@ laatste_update: 2004-05-01
 status: geldig
 toestand: 2004-05-01
 bron: "https://wetten.overheid.nl/BWBV0001624"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Europees Verdrag inzake de wettelijke bescherming van diensten die op voorwaarden toegankelijk zijn

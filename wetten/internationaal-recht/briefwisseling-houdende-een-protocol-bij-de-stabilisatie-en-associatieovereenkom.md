@@ -8,7 +8,7 @@ laatste_update: 2005-08-01
 status: geldig
 toestand: 2005-08-01
 bron: "https://wetten.overheid.nl/BWBV0001664"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Briefwisseling houdende een Protocol bij de Stabilisatie- en associatieovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Voormalige Joegoslavische Republiek Macedonië, anderzijds, teneinde rekening te houden met de toetreding van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek tot de Europese Unie

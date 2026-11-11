@@ -8,7 +8,7 @@ laatste_update: 2020-12-15
 status: geldig
 toestand: 2020-12-15
 bron: "https://wetten.overheid.nl/BWBV0001500"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Zwitserse Bondsstaat, anderzijds, over het vrije verkeer van personen

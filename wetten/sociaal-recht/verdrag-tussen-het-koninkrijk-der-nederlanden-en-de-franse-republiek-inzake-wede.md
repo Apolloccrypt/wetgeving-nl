@@ -8,7 +8,7 @@ laatste_update: 2010-12-01
 status: geldig
 toestand: 2010-12-01
 bron: "https://wetten.overheid.nl/BWBV0001561"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-11
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Franse Republiek inzake wederzijdse bijstand en samenwerking tussen hun douaneadministraties ten behoeve van de juiste toepassing van de douanewetgeving en de voorkoming, opsporing, vaststelling en bestrijding van inbreuken op de douanewetgeving in het Caribisch gebied, in het bijzonder op het eiland Sint Maarten / Saint Martin

@@ -8,7 +8,7 @@ laatste_update: 2005-01-08
 status: geldig
 toestand: 2005-01-08
 bron: "https://wetten.overheid.nl/BWBV0001487"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-11
 ---
 
 # Verdrag van Tampere inzake de levering van telecommunicatievoorzieningen voor rampenmitigatie en noodhulpoperaties

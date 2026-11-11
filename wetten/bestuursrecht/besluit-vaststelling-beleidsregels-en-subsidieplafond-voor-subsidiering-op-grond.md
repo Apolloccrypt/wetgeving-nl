@@ -9,7 +9,7 @@ laatste_update: 2026-10-31
 status: geldig
 toestand: 2026-10-31
 bron: "https://wetten.overheid.nl/BWBR0050094"
-opgehaald: 2026-11-10
+opgehaald: 2026-11-11
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingshulp van 24 juli 2024, nr.BZ2403658, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieprogramma Sectorale Samenwerking IMVO 2024–2029)

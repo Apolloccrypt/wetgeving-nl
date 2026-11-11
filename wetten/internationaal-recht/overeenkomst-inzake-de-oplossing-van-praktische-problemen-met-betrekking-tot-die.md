@@ -8,7 +8,7 @@ laatste_update: 1988-10-19
 status: geldig
 toestand: 1988-10-19
 bron: "https://wetten.overheid.nl/BWBV0002303"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst inzake de oplossing van praktische problemen met betrekking tot diepzeemijnbouwgebieden

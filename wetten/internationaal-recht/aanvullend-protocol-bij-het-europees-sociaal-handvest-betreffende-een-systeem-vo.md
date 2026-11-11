@@ -8,7 +8,7 @@ laatste_update: 2006-07-01
 status: geldig
 toestand: 2006-07-01
 bron: "https://wetten.overheid.nl/BWBV0001801"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Aanvullend Protocol bij het Europees Sociaal Handvest betreffende een systeem voor collectieve klachten

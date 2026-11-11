@@ -8,7 +8,7 @@ laatste_update: 2004-01-18
 status: geldig
 toestand: 2004-01-18
 bron: "https://wetten.overheid.nl/BWBV0001615"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst over de toepassing van de bepalingen van het Verdrag van de Verenigde Naties inzake het recht van de zee van 10 december 1982 die betrekking hebben op de instandhouding en het beheer van de grensoverschrijdende en de over grote afstanden trekkende visbestanden

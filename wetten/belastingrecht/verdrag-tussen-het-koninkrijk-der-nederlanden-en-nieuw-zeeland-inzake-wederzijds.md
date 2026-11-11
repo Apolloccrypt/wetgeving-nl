@@ -8,7 +8,7 @@ laatste_update: 2004-08-22
 status: geldig
 toestand: 2004-08-22
 bron: "https://wetten.overheid.nl/BWBV0001541"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-11
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en Nieuw-Zeeland inzake wederzijdse bijstand bij de invordering van belastingvorderingen

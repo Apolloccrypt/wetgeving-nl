@@ -8,7 +8,7 @@ laatste_update: 2006-12-01
 status: geldig
 toestand: 2006-12-01
 bron: "https://wetten.overheid.nl/BWBV0001798"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en Zwitserland inzake privileges en immuniteiten voor verbindingsofficieren die door Zwitserland bij Europol te ’s-Gravenhage gedetacheerd worden

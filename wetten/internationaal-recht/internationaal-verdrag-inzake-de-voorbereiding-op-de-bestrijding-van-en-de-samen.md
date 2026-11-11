@@ -8,7 +8,7 @@ laatste_update: 1995-05-13
 status: geldig
 toestand: 1995-05-13
 bron: "https://wetten.overheid.nl/BWBV0002364"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Internationaal Verdrag inzake de voorbereiding op, de bestrijding van en de samenwerking bij olieverontreiniging

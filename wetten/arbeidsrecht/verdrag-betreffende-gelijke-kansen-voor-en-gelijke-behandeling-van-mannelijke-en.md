@@ -8,7 +8,7 @@ laatste_update: 1989-03-24
 status: geldig
 toestand: 1989-03-24
 bron: "https://wetten.overheid.nl/BWBV0002363"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag betreffende gelijke kansen voor en gelijke behandeling van mannelijke en vrouwelijke arbeiders: arbeiders met gezinsverantwoordelijkheden

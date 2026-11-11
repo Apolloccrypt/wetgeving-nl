@@ -9,7 +9,7 @@ laatste_update: 2006-06-27
 status: geldig
 toestand: 2006-06-27
 bron: "https://wetten.overheid.nl/BWBV0001811"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Europese Octrooiorganisatie betreffende het onderdeel van het Europees Octrooibureau in ’s-Gravenhage, inclusief Afzonderlijke overeenkomst

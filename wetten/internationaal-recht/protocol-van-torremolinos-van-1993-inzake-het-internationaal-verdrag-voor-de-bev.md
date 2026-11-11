@@ -8,7 +8,7 @@ laatste_update: 1993-04-02
 status: geldig
 toestand: 1993-04-02
 bron: "https://wetten.overheid.nl/BWBV0001531"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-11
 ---
 
 # Protocol van Torremolinos van 1993 inzake het Internationaal Verdrag van Torremolinos voor de beveiliging van vissersvaartuigen, 1977

@@ -8,7 +8,7 @@ laatste_update: 1992-04-27
 status: geldig
 toestand: 1992-04-27
 bron: "https://wetten.overheid.nl/BWBV0002348"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Gezamenlijk Protocol betreffende de toepassing van het Verdrag van Wenen en het Verdrag van Parijs

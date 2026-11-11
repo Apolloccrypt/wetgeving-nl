@@ -9,7 +9,7 @@ laatste_update: 2006-07-24
 status: geldig
 toestand: 2006-07-24
 bron: "https://wetten.overheid.nl/BWBV0001815"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Eiland Man inzake de toegang tot onderlinge overlegprocedures in verband met winstcorrecties van verbonden ondernemingen en de toepassing van de Nederlandse deelnemingsvrijstelling

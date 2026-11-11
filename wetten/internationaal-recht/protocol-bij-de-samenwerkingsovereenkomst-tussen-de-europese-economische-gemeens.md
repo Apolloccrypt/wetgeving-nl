@@ -7,7 +7,7 @@ laatste_update: 1988-06-16
 status: geldig
 toestand: 1988-06-16
 bron: "https://wetten.overheid.nl/BWBV0002641"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Protocol bij de Samenwerkingsovereenkomst tussen de Europese Economische Gemeenschap en de Syrische Arabische Republiek in verband met de toetreding van het Koninkrijk Spanje en de Portugese Republiek tot de Gemeenschap

@@ -8,7 +8,7 @@ laatste_update: 2006-10-01
 status: geldig
 toestand: 2006-10-01
 bron: "https://wetten.overheid.nl/BWBV0001588"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de uitoefening van de luchtverkeersleiding door de Bondsrepubliek Duitsland boven Nederlands grondgebied alsmede de gevolgen van het burgergebruik van luchthaven Niederrhein op het grondgebied van het Koninkrijk der Nederlanden

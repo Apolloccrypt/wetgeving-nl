@@ -7,7 +7,7 @@ laatste_update: 1956-06-01
 status: geldig
 toestand: 1956-06-01
 bron: "https://wetten.overheid.nl/BWBV0001999"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag nopens de erkenning van de rechtspersoonlijkheid van vreemde vennootschappen, verenigingen en stichtingen

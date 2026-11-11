@@ -8,7 +8,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBV0002357"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Protocol van 1988 bij het Internationaal Verdrag voor de Beveiliging van Mensenlevens op zee, 1974

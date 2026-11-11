@@ -8,7 +8,7 @@ laatste_update: 2025-11-21
 status: geldig
 toestand: 2025-11-21
 bron: "https://wetten.overheid.nl/BWBV0001874"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Euro-mediterrane luchtvaartovereenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en het Koninkrijk Marokko, anderzijds

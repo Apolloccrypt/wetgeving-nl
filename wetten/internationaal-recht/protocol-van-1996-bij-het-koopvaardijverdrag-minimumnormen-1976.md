@@ -8,7 +8,7 @@ laatste_update: 2013-08-20
 status: geldig
 toestand: 2013-08-20
 bron: "https://wetten.overheid.nl/BWBV0001594"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Protocol van 1996 bij het Koopvaardijverdrag (minimumnormen), 1976

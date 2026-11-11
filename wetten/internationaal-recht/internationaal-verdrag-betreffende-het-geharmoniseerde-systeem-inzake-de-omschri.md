@@ -8,7 +8,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBV0002538"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Internationaal Verdrag betreffende het geharmoniseerde systeem inzake de omschrijving en de codering van goederen

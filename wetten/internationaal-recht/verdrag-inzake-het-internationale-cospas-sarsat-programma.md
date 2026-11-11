@@ -8,7 +8,7 @@ laatste_update: 1995-03-03
 status: geldig
 toestand: 1995-03-03
 bron: "https://wetten.overheid.nl/BWBV0002153"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag inzake het Internationale COSPAS-SARSAT-Programma

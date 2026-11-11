@@ -8,7 +8,7 @@ laatste_update: 1982-05-29
 status: geldig
 toestand: 1982-05-29
 bron: "https://wetten.overheid.nl/BWBV0002521"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Protocol bij het Noord-Atlantisch Verdrag inzake de toetreding van Spanje

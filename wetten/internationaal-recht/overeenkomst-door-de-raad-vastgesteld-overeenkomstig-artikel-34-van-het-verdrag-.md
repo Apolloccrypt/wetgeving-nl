@@ -8,7 +8,7 @@ laatste_update: 2005-08-23
 status: geldig
 toestand: 2005-08-23
 bron: "https://wetten.overheid.nl/BWBV0001639"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst, door de Raad vastgesteld overeenkomstig artikel 34 van het Verdrag betreffende de Europese Unie, betreffende de wederzijdse rechtshulp in strafzaken tussen de lidstaten van de Europese Unie

@@ -8,7 +8,7 @@ laatste_update: 2010-06-06
 status: geldig
 toestand: 2010-06-06
 bron: "https://wetten.overheid.nl/BWBV0001985"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst tot oprichting van het Europees Centrum voor weersvoorspellingen op middellange termijn

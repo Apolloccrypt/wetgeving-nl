@@ -8,7 +8,7 @@ laatste_update: 2001-12-18
 status: geldig
 toestand: 2001-12-18
 bron: "https://wetten.overheid.nl/BWBV0001505"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-11
 ---
 
 # Statuut betreffende de Groep van Staten tegen Corruptie (GRECO)

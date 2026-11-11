@@ -8,7 +8,7 @@ laatste_update: 2008-05-01
 status: geldig
 toestand: 2008-05-01
 bron: "https://wetten.overheid.nl/BWBV0001990"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Intern Akkoord tussen de vertegenwoordigers van de regeringen van de lidstaten, in het kader van de Raad bijeen, betreffende de financiering van de steun van de Gemeenschap binnen het meerjarig financieel kader voor 2008-2013 voor de ACS-EG-Partnerschapsovereenkomst en de toewijzing van financiële bijstand ten behoeve van de landen en gebieden overzee waarop de bepalingen van deel vier van het EG-Verdrag van toepassing zijn

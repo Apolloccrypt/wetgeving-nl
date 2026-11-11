@@ -8,7 +8,7 @@ laatste_update: 2006-06-01
 status: geldig
 toestand: 2006-06-01
 bron: "https://wetten.overheid.nl/BWBV0001788"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Protocol No. 13 bij het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, inzake de afschaffing van de doodstraf onder alle omstandigheden

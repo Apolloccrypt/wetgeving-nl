@@ -8,7 +8,7 @@ laatste_update: 1985-11-02
 status: geldig
 toestand: 1985-11-02
 bron: "https://wetten.overheid.nl/BWBV0002187"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Portugese Republiek inzake culturele en wetenschappelijke samenwerking

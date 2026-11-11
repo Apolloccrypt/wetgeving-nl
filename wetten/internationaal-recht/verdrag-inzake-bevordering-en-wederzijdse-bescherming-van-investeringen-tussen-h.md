@@ -8,7 +8,7 @@ laatste_update: 2007-12-15
 status: geldig
 toestand: 2007-12-15
 bron: "https://wetten.overheid.nl/BWBV0001907"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag inzake bevordering en wederzijdse bescherming van investeringen tussen het Koninkrijk der Nederlanden en de Republiek Benin

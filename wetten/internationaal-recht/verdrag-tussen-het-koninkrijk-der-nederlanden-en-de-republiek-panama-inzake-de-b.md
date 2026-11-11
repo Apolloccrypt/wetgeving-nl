@@ -8,7 +8,7 @@ laatste_update: 2001-09-01
 status: geldig
 toestand: 2001-09-01
 bron: "https://wetten.overheid.nl/BWBV0001486"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-11
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Panama inzake de bevordering en de wederzijdse bescherming van investeringen

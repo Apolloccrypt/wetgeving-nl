@@ -8,7 +8,7 @@ laatste_update: 1988-02-01
 status: geldig
 toestand: 1988-02-01
 bron: "https://wetten.overheid.nl/BWBV0002622"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Europees Verdrag inzake de schadeloosstelling van slachtoffers van geweldmisdrijven

@@ -8,7 +8,7 @@ laatste_update: 2018-10-01
 status: geldig
 toestand: 2018-10-01
 bron: "https://wetten.overheid.nl/BWBV0001976"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Luchtvaartverdrag tussen het Koninkrijk der Nederlanden voor de Nederlandse Antillen en de Verenigde Staten van Amerika inzake het luchtvervoer tussen de Nederlandse Antillen en de Verenigde Staten van Amerika

@@ -8,7 +8,7 @@ laatste_update: 1986-12-05
 status: geldig
 toestand: 1986-12-05
 bron: "https://wetten.overheid.nl/BWBV0002500"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst terzake van de geheimhouding van gegevens betreffende diepzeegebieden

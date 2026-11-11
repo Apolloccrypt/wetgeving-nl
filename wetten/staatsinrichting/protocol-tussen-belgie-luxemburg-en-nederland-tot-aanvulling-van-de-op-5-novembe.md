@@ -8,7 +8,7 @@ laatste_update: 1959-11-07
 status: geldig
 toestand: 1959-11-07
 bron: "https://wetten.overheid.nl/BWBV0002018"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Protocol tussen België, Luxemburg en Nederland tot aanvulling van de op 5 november 1955 te Brussel gesloten Overeenkomst nopens de instelling van een Raadgevende Interparlementaire Beneluxraad

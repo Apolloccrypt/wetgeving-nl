@@ -8,7 +8,7 @@ laatste_update: 1993-09-01
 status: geldig
 toestand: 1993-09-01
 bron: "https://wetten.overheid.nl/BWBV0002638"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag inzake het witwassen, de opsporing, de inbeslagneming en de confiscatie van opbrengsten van misdrijven

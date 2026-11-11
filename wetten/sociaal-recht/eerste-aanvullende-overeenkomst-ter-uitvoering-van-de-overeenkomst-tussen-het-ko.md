@@ -8,7 +8,7 @@ laatste_update: 1990-02-05
 status: geldig
 toestand: 1990-02-05
 bron: "https://wetten.overheid.nl/BWBV0002494"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Eerste Aanvullende Overeenkomst ter uitvoering van de Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk België inzake wederzijdse bijstandsverlening bij het bestrijden van rampen en ongevallen

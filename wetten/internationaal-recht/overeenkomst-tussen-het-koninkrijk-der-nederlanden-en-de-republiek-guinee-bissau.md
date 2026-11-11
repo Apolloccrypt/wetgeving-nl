@@ -8,7 +8,7 @@ laatste_update: 2015-08-16
 status: geldig
 toestand: 2015-08-16
 bron: "https://wetten.overheid.nl/BWBV0002655"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Guinee-Bissau inzake de tewerkstelling van Nederlandse vrijwilligers

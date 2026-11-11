@@ -8,7 +8,7 @@ laatste_update: 2008-09-19
 status: geldig
 toestand: 2008-09-19
 bron: "https://wetten.overheid.nl/BWBV0001897"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag inzake luchtvervoer tussen de lidstaten en geassocieerde leden van de Associatie van Caraïbische Staten

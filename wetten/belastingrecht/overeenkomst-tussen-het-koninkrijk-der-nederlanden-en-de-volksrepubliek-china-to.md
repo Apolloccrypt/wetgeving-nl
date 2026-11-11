@@ -8,7 +8,7 @@ laatste_update: 2014-08-31
 status: geldig
 toestand: 2014-08-31
 bron: "https://wetten.overheid.nl/BWBV0002398"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Volksrepubliek China tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen

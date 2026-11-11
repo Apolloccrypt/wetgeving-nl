@@ -8,7 +8,7 @@ laatste_update: 1987-10-01
 status: geldig
 toestand: 1987-10-01
 bron: "https://wetten.overheid.nl/BWBV0002482"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek der Filippijnen ter bevordering en bescherming van investeringen

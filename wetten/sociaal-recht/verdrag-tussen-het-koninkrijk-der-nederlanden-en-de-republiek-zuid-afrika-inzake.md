@@ -9,7 +9,7 @@ laatste_update: 2003-04-01
 status: geldig
 toestand: 2003-04-01
 bron: "https://wetten.overheid.nl/BWBV0001579"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Zuid-Afrika inzake wederzijdse administratieve bijstand tussen hun douaneadministraties ten behoeve van de juiste toepassing van douanewetgeving en de voorkoming, opsporing en de bestrijding van inbreuken op de douanewetgeving

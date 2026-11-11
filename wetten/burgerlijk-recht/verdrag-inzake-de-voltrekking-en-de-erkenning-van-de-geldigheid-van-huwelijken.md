@@ -8,7 +8,7 @@ laatste_update: 1991-05-01
 status: geldig
 toestand: 1991-05-01
 bron: "https://wetten.overheid.nl/BWBV0002012"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag inzake de voltrekking en de erkenning van de geldigheid van huwelijken

@@ -7,7 +7,7 @@ laatste_update: 2004-04-28
 status: geldig
 toestand: 2004-04-28
 bron: "https://wetten.overheid.nl/BWBV0001683"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Besluit van de vertegenwoordigers van de regeringen der lidstaten, in het kader van de Raad bijeen, van 28/04/2004 betreffende de voorrechten en immuniteiten die aan ATHENA worden verleend

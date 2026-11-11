@@ -8,7 +8,7 @@ laatste_update: 2003-05-31
 status: geldig
 toestand: 2003-05-31
 bron: "https://wetten.overheid.nl/BWBV0001557"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-11
 ---
 
 # Protocol inzake de voorrechten en immuniteiten van de Internationale Zeebodemautoriteit

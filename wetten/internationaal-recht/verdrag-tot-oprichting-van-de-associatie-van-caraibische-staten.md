@@ -8,7 +8,7 @@ laatste_update: 2001-10-25
 status: geldig
 toestand: 2001-10-25
 bron: "https://wetten.overheid.nl/BWBV0001944"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag tot oprichting van de Associatie van Caraïbische Staten

@@ -8,7 +8,7 @@ laatste_update: 1994-01-06
 status: geldig
 toestand: 1994-01-06
 bron: "https://wetten.overheid.nl/BWBV0001983"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Briefwisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Venezuela inzake het omzetten van het Memorandum van Overeenstemming van 29 juni 1991 inzake luchtdiensten tussen en via de Nederlandse Antillen en de Republiek Venezuela

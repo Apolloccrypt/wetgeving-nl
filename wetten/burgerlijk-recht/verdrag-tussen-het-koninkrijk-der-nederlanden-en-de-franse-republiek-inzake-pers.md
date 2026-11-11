@@ -8,7 +8,7 @@ laatste_update: 2007-08-01
 status: geldig
 toestand: 2007-08-01
 bron: "https://wetten.overheid.nl/BWBV0002033"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Franse Republiek inzake personencontrole op de luchthavens op Sint Maarten

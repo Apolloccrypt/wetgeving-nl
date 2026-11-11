@@ -8,7 +8,7 @@ laatste_update: 2002-02-26
 status: geldig
 toestand: 2002-02-26
 bron: "https://wetten.overheid.nl/BWBV0002528"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Universiteit van de Verenigde Naties inzake het Instituut voor nieuwe technologieën van de Universiteit van de Verenigde Naties

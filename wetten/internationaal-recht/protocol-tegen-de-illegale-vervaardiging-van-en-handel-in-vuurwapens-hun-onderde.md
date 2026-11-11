@@ -8,7 +8,7 @@ laatste_update: 2005-07-03
 status: geldig
 toestand: 2005-07-03
 bron: "https://wetten.overheid.nl/BWBV0001710"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Protocol tegen de illegale vervaardiging van en handel in vuurwapens, hun onderdelen, componenten en munitie, tot aanvulling van het Verdrag van de Verenigde Naties tegen grensoverschrijdende georganiseerde misdaad

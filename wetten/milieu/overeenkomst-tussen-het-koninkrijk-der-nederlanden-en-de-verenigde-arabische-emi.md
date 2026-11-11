@@ -8,7 +8,7 @@ laatste_update: 1992-12-17
 status: geldig
 toestand: 1992-12-17
 bron: "https://wetten.overheid.nl/BWBV0002582"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Verenigde Arabische Emiraten ten behoeve van de instelling van luchtdiensten tussen en buiten hun onderscheiden grondgebieden

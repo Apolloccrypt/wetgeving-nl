@@ -8,7 +8,7 @@ laatste_update: 2000-06-15
 status: geldig
 toestand: 2000-06-15
 bron: "https://wetten.overheid.nl/BWBV0002317"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag betreffende arbeidsvoorwaarden en -omstandigheden in hotels, restaurants en soortgelijke bedrijven

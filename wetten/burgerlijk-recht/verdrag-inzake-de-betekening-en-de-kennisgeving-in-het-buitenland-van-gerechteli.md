@@ -8,7 +8,7 @@ laatste_update: 1976-01-02
 status: geldig
 toestand: 1976-01-02
 bron: "https://wetten.overheid.nl/BWBV0002015"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag inzake de betekening en de kennisgeving in het buitenland van gerechtelijke en buitengerechtelijke stukken in burgerlijke en in handelszaken

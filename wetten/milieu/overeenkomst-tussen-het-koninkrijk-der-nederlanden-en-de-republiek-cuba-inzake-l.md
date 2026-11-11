@@ -8,7 +8,7 @@ laatste_update: 1995-02-20
 status: geldig
 toestand: 1995-02-20
 bron: "https://wetten.overheid.nl/BWBV0001978"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Cuba inzake luchtdiensten tussen en via de Nederlandse Antillen en Cuba

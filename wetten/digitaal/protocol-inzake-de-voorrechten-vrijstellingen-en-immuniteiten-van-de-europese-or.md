@@ -8,7 +8,7 @@ laatste_update: 1988-08-17
 status: geldig
 toestand: 1988-08-17
 bron: "https://wetten.overheid.nl/BWBV0002432"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Protocol inzake de voorrechten, vrijstellingen en immuniteiten van de Europese Organisatie voor Telecommunicatiesatellieten (EUTELSAT)

@@ -8,7 +8,7 @@ laatste_update: 2010-01-01
 status: geldig
 toestand: 2010-01-01
 bron: "https://wetten.overheid.nl/BWBV0001730"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Partnerschaps- en samenwerkingsovereenkomst waarbij een partnerschap tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Republiek Tadzjikistan, anderzijds

@@ -8,7 +8,7 @@ laatste_update: 1987-05-07
 status: geldig
 toestand: 1987-05-07
 bron: "https://wetten.overheid.nl/BWBV0002436"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Fytosanitaire Overeenkomst tussen het Koninkrijk der Nederlanden en de Regering van de Volksrepubliek China

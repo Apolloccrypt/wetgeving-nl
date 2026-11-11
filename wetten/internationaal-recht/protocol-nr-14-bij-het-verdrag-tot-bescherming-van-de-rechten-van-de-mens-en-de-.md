@@ -8,7 +8,7 @@ laatste_update: 2010-06-01
 status: geldig
 toestand: 2010-06-01
 bron: "https://wetten.overheid.nl/BWBV0001786"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Protocol nr. 14 bij het Verdrag tot bescherming van de rechten van de mens en de fundamentale vrijheden, betreffende wijziging van het controlesysteem van het Verdrag

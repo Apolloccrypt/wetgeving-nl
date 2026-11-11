@@ -8,7 +8,7 @@ laatste_update: 2015-05-04
 status: geldig
 toestand: 2015-05-04
 bron: "https://wetten.overheid.nl/BWBV0002648"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Oeganda inzake de tewerkstelling van ontwikkelingswerkers uitgezonden door de SNV, Organisatie voor ontwikkelingssamenwerking en bewustwording

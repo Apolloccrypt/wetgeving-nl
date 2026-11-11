@@ -7,7 +7,7 @@ laatste_update: 2006-03-13
 status: geldig
 toestand: 2006-03-13
 bron: "https://wetten.overheid.nl/BWBV0001792"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Administratief Akkoord tussen het Koninkrijk der Nederlanden en de Republiek Indonesië inzake het project "Aceh and Nias Sea Defense, Flood Protection, Refuges and Early Warning Systems Consultancy"

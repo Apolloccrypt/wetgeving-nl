@@ -8,7 +8,7 @@ laatste_update: 2004-08-01
 status: geldig
 toestand: 2004-08-01
 bron: "https://wetten.overheid.nl/BWBV0002084"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Tweede Protocol waarbij aan het Hof van Justitie van de Europese Gemeenschappen bepaalde bevoegdheden worden toegekend inzake de uitlegging van het Verdrag inzake het recht dat van toepassing is op verbintenissen uit overeenkomst, ter ondertekening opengesteld te Rome op 19 juni 1980

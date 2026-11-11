@@ -8,7 +8,7 @@ laatste_update: 2024-06-13
 status: geldig
 toestand: 2024-06-13
 bron: "https://wetten.overheid.nl/BWBV0001489"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-11
 ---
 
 # Statuut van Rome inzake het Internationaal Strafhof

@@ -8,7 +8,7 @@ laatste_update: 2018-08-01
 status: geldig
 toestand: 2018-08-01
 bron: "https://wetten.overheid.nl/BWBV0001820"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Europees-mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschap en haar lid-staten, enerzijds, en de Republiek Libanon, anderzijds

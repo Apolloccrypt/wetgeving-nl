@@ -8,7 +8,7 @@ laatste_update: 1989-12-17
 status: geldig
 toestand: 1989-12-17
 bron: "https://wetten.overheid.nl/BWBV0002316"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Memorandum van Overeenstemming tussen het Koninkrijk der Nederlanden en de Universiteit van de Verenigde Naties

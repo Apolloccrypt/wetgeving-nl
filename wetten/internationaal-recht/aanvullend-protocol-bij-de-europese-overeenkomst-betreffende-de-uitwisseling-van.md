@@ -8,7 +8,7 @@ laatste_update: 1985-01-01
 status: geldig
 toestand: 1985-01-01
 bron: "https://wetten.overheid.nl/BWBV0002620"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Aanvullend Protocol bij de Europese Overeenkomst betreffende de uitwisseling van testsera voor bloedgroeponderzoek

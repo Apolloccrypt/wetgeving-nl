@@ -8,7 +8,7 @@ laatste_update: 1994-04-15
 status: geldig
 toestand: 1994-04-15
 bron: "https://wetten.overheid.nl/BWBV0002580"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Botswana inzake luchtdiensten tussen en via hun onderscheiden grondgebieden

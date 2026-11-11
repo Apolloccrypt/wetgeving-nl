@@ -7,7 +7,7 @@ laatste_update: 2002-10-08
 status: geldig
 toestand: 2002-10-08
 bron: "https://wetten.overheid.nl/BWBV0001670"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Protocol tot toetreding van de Europese Gemeenschap tot het Internationaal Verdrag tot samenwerking in het belang van de veiligheid van de luchtvaart „EUROCONTROL" van 13 december 1960, zoals meermalen gewijzigd en door het Protocol van 27 juni 1997 geconsolideerd

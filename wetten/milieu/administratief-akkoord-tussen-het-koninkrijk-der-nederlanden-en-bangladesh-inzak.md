@@ -8,7 +8,7 @@ laatste_update: 2011-06-30
 status: geldig
 toestand: 2011-06-30
 bron: "https://wetten.overheid.nl/BWBV0001610"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Administratief Akkoord tussen het Koninkrijk der Nederlanden en Bangladesh inzake het project " Integrated Planning for Sustinable Water Management (IPSWAM)"

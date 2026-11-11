@@ -8,7 +8,7 @@ laatste_update: 2010-02-28
 status: geldig
 toestand: 2010-02-28
 bron: "https://wetten.overheid.nl/BWBV0001623"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag tot oprichting van het Agentschap voor internationale handelsinformatie en -samenwerking, als intergouvernementele organisatie

@@ -8,7 +8,7 @@ laatste_update: 1984-01-03
 status: geldig
 toestand: 1984-01-03
 bron: "https://wetten.overheid.nl/BWBV0002477"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden, het Koninkrijk Belgie, de Bondsrepubliek Duitsland, Spanje, de Franse Republiek en het Verenigd Koninkrijk van Groot-Brittannie en Noord-Ierland betreffende het Airbus-programma

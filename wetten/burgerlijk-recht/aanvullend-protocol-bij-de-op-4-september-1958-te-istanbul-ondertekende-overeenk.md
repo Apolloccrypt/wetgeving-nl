@@ -8,7 +8,7 @@ laatste_update: 1991-03-01
 status: geldig
 toestand: 1991-03-01
 bron: "https://wetten.overheid.nl/BWBV0002085"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Aanvullend Protocol bij de op 4 september 1958 te Istanbul ondertekende Overeenkomst inzake internationale uitwisseling van gegevens op het gebied van de burgerlijke stand

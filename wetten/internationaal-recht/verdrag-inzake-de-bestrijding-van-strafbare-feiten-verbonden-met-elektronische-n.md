@@ -8,7 +8,7 @@ laatste_update: 2007-03-01
 status: geldig
 toestand: 2007-03-01
 bron: "https://wetten.overheid.nl/BWBV0001839"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag inzake de bestrijding van strafbare feiten verbonden met elektronische netwerken

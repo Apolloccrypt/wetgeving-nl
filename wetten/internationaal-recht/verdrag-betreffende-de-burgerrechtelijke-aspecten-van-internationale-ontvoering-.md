@@ -8,7 +8,7 @@ laatste_update: 1990-09-01
 status: geldig
 toestand: 1990-09-01
 bron: "https://wetten.overheid.nl/BWBV0002010"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag betreffende de burgerrechtelijke aspecten van internationale ontvoering van kinderen

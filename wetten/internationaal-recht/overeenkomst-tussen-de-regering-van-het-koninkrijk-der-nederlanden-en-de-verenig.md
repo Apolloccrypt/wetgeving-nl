@@ -8,7 +8,7 @@ laatste_update: 2002-05-01
 status: geldig
 toestand: 2002-05-01
 bron: "https://wetten.overheid.nl/BWBV0001535"
-opgehaald: 2026-09-11
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika inzake de geldendmaking van verplichtingen tot levensonderhoud

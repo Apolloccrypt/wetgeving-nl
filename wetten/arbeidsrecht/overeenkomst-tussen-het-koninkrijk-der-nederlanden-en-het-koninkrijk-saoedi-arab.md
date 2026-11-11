@@ -8,7 +8,7 @@ laatste_update: 1992-01-01
 status: geldig
 toestand: 1992-01-01
 bron: "https://wetten.overheid.nl/BWBV0002454"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Saoedi-Arabië tot wederzijdse vrijstelling van belastingen geheven naar de inkomsten en winsten van luchtvaartondernemingen uit de uitoefening van luchtvervoer in internationaal verkeer en hun werknemers

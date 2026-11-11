@@ -8,7 +8,7 @@ laatste_update: 1987-05-01
 status: geldig
 toestand: 1987-05-01
 bron: "https://wetten.overheid.nl/BWBV0002369"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Culturele Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko

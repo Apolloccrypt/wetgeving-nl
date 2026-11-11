@@ -8,7 +8,7 @@ laatste_update: 2007-01-01
 status: geldig
 toestand: 2007-01-01
 bron: "https://wetten.overheid.nl/BWBV0001945"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag inzake de oprichting van de Caraïbische Postunie, met Protocol inzake voorrechten en immuniteiten van de Caraïbische Postunie

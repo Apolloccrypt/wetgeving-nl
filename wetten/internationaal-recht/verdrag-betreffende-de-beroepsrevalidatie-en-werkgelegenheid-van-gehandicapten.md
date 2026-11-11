@@ -8,7 +8,7 @@ laatste_update: 1989-02-15
 status: geldig
 toestand: 1989-02-15
 bron: "https://wetten.overheid.nl/BWBV0002361"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag betreffende de beroepsrevalidatie en werkgelegenheid van gehandicapten

@@ -8,7 +8,7 @@ laatste_update: 1992-07-01
 status: geldig
 toestand: 1992-07-01
 bron: "https://wetten.overheid.nl/BWBV0002189"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika inzake wederzijdse administratieve bijstand bij het uitwisselen van informatie op effectengebied

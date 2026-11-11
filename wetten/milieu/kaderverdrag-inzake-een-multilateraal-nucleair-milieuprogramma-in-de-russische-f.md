@@ -8,7 +8,7 @@ laatste_update: 2005-03-04
 status: geldig
 toestand: 2005-03-04
 bron: "https://wetten.overheid.nl/BWBV0001589"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Kaderverdrag inzake een multilateraal nucleair milieuprogramma in de Russische Federatie

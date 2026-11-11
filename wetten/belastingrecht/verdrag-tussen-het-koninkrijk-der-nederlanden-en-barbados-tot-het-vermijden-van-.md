@@ -8,7 +8,7 @@ laatste_update: 2011-11-13
 status: geldig
 toestand: 2011-11-13
 bron: "https://wetten.overheid.nl/BWBV0002019"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en Barbados tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen

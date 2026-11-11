@@ -8,7 +8,7 @@ laatste_update: 1981-04-06
 status: geldig
 toestand: 1981-04-06
 bron: "https://wetten.overheid.nl/BWBV0002626"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Akkoord inzake de verzekering voor geneeskundige verzorging, ter uitvoering van het op 29 augustus 1947 te 's-Gravenhage ondertekende Verdrag tussen Nederland en België betreffende de toepassing der wederzijdse wetgeving op het punt der sociale verzekering

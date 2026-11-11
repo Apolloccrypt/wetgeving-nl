@@ -8,7 +8,7 @@ laatste_update: 1995-08-10
 status: geldig
 toestand: 1995-08-10
 bron: "https://wetten.overheid.nl/BWBV0002152"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-11
 ---
 
 # Protocol tot bestrijding van wederrechtelijke daden van geweld op luchthavens voor de internationale burgerluchtvaart bij het Verdrag tot bestrijding van wederrechtelijke gedragingen tegen de veiligheid van de burgerluchtvaart, gedaan te Montreal op 23 september 1971
