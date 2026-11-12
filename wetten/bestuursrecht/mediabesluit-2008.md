@@ -9,7 +9,7 @@ laatste_update: 2026-10-31
 status: geldig
 toestand: 2026-10-31
 bron: "https://wetten.overheid.nl/BWBR0025036"
-opgehaald: 2026-11-11
+opgehaald: 2026-11-12
 ---
 
 # Besluit van 29 december 2008 houdende vaststelling van een nieuw Mediabesluit (Mediabesluit 2008)

@@ -8,7 +8,7 @@ laatste_update: 2013-09-12
 status: geldig
 toestand: 2013-09-12
 bron: "https://wetten.overheid.nl/BWBV0002888"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tot oprichting van de Europese Bank voor Wederopbouw en Ontwikkeling

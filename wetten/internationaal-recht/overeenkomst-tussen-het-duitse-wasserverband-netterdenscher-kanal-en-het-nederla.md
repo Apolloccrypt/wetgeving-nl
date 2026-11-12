@@ -8,7 +8,7 @@ laatste_update: 1975-10-15
 status: geldig
 toestand: 1975-10-15
 bron: "https://wetten.overheid.nl/BWBV0003826"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tussen het Duitse Wasserverband "Netterden'scher Kanal" en het Nederlandse Polderdistrict "Oude Rijn" inzake het gemaal Kandia

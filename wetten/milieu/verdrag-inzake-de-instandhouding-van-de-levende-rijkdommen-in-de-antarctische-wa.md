@@ -8,7 +8,7 @@ laatste_update: 1990-03-25
 status: geldig
 toestand: 1990-03-25
 bron: "https://wetten.overheid.nl/BWBV0003305"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag inzake de instandhouding van de levende rijkdommen in de Antarctische wateren

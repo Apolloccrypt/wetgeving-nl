@@ -8,7 +8,7 @@ laatste_update: 2011-04-01
 status: geldig
 toestand: 2011-04-01
 bron: "https://wetten.overheid.nl/BWBV0003125"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Tweede aanvullend Protocol bij het Europees Verdrag inzake wederzijdse rechtshulp in strafzaken

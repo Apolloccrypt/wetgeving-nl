@@ -8,7 +8,7 @@ laatste_update: 2010-07-03
 status: geldig
 toestand: 2010-07-03
 bron: "https://wetten.overheid.nl/BWBV0003173"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Regionaal Samenwerkingsverdrag inzake de bestrijding van piraterij en gewapende overvallen op zee in Azië

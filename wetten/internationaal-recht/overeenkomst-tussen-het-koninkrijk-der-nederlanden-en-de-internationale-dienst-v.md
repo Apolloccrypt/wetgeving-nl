@@ -8,7 +8,7 @@ laatste_update: 2004-03-31
 status: geldig
 toestand: 2004-03-31
 bron: "https://wetten.overheid.nl/BWBV0003745"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Internationale Dienst voor nationaal landbouwkundig onderzoek (ISNAR) betreffende de zetel van de Organisatie

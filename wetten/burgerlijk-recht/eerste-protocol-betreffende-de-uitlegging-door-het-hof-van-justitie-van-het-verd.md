@@ -8,7 +8,7 @@ laatste_update: 2007-12-30
 status: geldig
 toestand: 2007-12-30
 bron: "https://wetten.overheid.nl/BWBV0002890"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Eerste Protocol betreffende de uitlegging door het Hof van Justitie van het Verdrag inzake het recht dat van toepassing is op verbintenissen uit overeenkomst, voor ondertekening opengesteld op 19 juni 1980

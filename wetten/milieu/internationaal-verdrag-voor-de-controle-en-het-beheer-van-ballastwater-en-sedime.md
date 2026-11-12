@@ -8,7 +8,7 @@ laatste_update: 2025-10-01
 status: geldig
 toestand: 2025-10-01
 bron: "https://wetten.overheid.nl/BWBV0003219"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Internationaal Verdrag voor de controle en het beheer van ballastwater en sedimenten van schepen, 2004

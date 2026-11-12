@@ -8,7 +8,7 @@ laatste_update: 1986-01-01
 status: geldig
 toestand: 1986-01-01
 bron: "https://wetten.overheid.nl/BWBV0002952"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag betreffende de toetreding van het Koninkrijk Spanje en de Portugese Republiek tot de Europese Economische Gemeenschap en de Europese Gemeenschap voor Atoomenergie en Akte, betreffende de voorwaarden voor de toetreding van het Koninkrijk Spanje en de Portugese Republiek en de aanpassing van de Verdragen

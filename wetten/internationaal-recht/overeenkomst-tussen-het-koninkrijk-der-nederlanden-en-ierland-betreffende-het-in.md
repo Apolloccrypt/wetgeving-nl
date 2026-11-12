@@ -8,7 +8,7 @@ laatste_update: 1984-01-29
 status: geldig
 toestand: 1984-01-29
 bron: "https://wetten.overheid.nl/BWBV0002935"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en Ierland betreffende het internationale goederenvervoer over de weg

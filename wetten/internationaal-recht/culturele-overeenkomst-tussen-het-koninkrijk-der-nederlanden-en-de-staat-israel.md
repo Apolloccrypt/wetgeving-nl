@@ -8,7 +8,7 @@ laatste_update: 1976-08-23
 status: geldig
 toestand: 1976-08-23
 bron: "https://wetten.overheid.nl/BWBV0003529"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Culturele Overeenkomst tussen het Koninkrijk der Nederlanden en de Staat Israël

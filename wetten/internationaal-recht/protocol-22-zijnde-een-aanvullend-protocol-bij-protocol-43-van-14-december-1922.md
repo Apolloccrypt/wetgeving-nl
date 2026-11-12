@@ -8,7 +8,7 @@ laatste_update: 1925-07-08
 status: geldig
 toestand: 1925-07-08
 bron: "https://wetten.overheid.nl/BWBV0003349"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Protocol 22, zijnde een aanvullend protocol bij Protocol 43 van 14 december 1922

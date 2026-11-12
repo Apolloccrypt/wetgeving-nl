@@ -8,7 +8,7 @@ laatste_update: 2007-05-01
 status: geldig
 toestand: 2007-05-01
 bron: "https://wetten.overheid.nl/BWBV0003726"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst houdende oprichting van een Europees Universitair Instituut

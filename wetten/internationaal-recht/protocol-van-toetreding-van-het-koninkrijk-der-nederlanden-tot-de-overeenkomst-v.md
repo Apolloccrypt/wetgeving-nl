@@ -8,7 +8,7 @@ laatste_update: 2016-07-23
 status: geldig
 toestand: 2016-07-23
 bron: "https://wetten.overheid.nl/BWBV0002982"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Protocol van toetreding van het Koninkrijk der Nederlanden tot de Overeenkomst van 16 december 1988 betreffende de bouw en de exploitatie van een Europese installatie voor synchrotronstraling

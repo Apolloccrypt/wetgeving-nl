@@ -8,7 +8,7 @@ laatste_update: 1973-08-16
 status: geldig
 toestand: 1973-08-16
 bron: "https://wetten.overheid.nl/BWBV0003478"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Portugese Republiek betreffende het internationaal wegvervoer

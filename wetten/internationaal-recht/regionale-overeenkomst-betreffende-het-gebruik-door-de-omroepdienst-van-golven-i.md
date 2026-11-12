@@ -8,7 +8,7 @@ laatste_update: 1978-11-23
 status: geldig
 toestand: 1978-11-23
 bron: "https://wetten.overheid.nl/BWBV0003722"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Regionale Overeenkomst betreffende het gebruik door de Omroepdienst van golven in de middengolfbanden in de gebieden 1 en 3 en in de langegolfbanden in gebied 1

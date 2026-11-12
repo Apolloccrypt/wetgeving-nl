@@ -8,7 +8,7 @@ laatste_update: 2000-09-15
 status: geldig
 toestand: 2000-09-15
 bron: "https://wetten.overheid.nl/BWBV0003000"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag betreffende veiligheid bij het gebruik van asbest

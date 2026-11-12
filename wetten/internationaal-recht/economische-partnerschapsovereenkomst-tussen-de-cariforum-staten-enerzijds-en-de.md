@@ -7,7 +7,7 @@ laatste_update: 2008-12-29
 status: geldig
 toestand: 2008-12-29
 bron: "https://wetten.overheid.nl/BWBV0003118"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Economische Partnerschapsovereenkomst tussen de CARIFORUM-staten, enerzijds, en de Europese Gemeenschap en haar lidstaten, anderzijds

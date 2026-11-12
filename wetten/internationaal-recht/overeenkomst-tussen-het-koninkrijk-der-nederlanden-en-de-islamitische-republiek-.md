@@ -8,7 +8,7 @@ laatste_update: 1989-10-01
 status: geldig
 toestand: 1989-10-01
 bron: "https://wetten.overheid.nl/BWBV0002923"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Islamitische Republiek Pakistan inzake economische samenwerking en bescherming van investeringen

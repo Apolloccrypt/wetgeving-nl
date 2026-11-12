@@ -8,7 +8,7 @@ laatste_update: 2006-03-13
 status: geldig
 toestand: 2006-03-13
 bron: "https://wetten.overheid.nl/BWBV0003739"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Memorandum van overeenstemming tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika over samenwerking inzake defensiematerieel

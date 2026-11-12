@@ -8,7 +8,7 @@ laatste_update: 1977-02-21
 status: geldig
 toestand: 1977-02-21
 bron: "https://wetten.overheid.nl/BWBV0003673"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tussen het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, Ierland, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, de Europese Gemeenschap voor Atoomenergie en de Internationale Organisatie voor Atoomenergie ter uitvoering van artikel III, eerste en vierde lid, van het Verdrag inzake de niet-verspreiding van kernwapens

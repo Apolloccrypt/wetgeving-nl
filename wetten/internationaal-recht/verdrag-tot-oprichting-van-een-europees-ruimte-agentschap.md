@@ -8,7 +8,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBV0003813"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag tot oprichting van een Europees Ruimte-Agentschap

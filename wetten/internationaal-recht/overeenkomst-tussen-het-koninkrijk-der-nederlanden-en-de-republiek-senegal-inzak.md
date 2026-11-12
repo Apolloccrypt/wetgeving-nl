@@ -8,7 +8,7 @@ laatste_update: 1981-05-05
 status: geldig
 toestand: 1981-05-05
 bron: "https://wetten.overheid.nl/BWBV0003599"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Senegal inzake de bevordering en de bescherming van investeringen

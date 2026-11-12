@@ -8,7 +8,7 @@ laatste_update: 1993-10-12
 status: geldig
 toestand: 1993-10-12
 bron: "https://wetten.overheid.nl/BWBV0003435"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst ter bescherming van producenten van fonogrammen tegen het ongeoorloofd kopiëren van hun fonogrammen

@@ -8,7 +8,7 @@ laatste_update: 1991-10-30
 status: geldig
 toestand: 1991-10-30
 bron: "https://wetten.overheid.nl/BWBV0003271"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst inzake de wettelijke aansprakelijkheid op het gebied van het zeevervoer van nucleaire stoffen

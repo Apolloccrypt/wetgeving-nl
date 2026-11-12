@@ -8,7 +8,7 @@ laatste_update: 1994-11-01
 status: geldig
 toestand: 1994-11-01
 bron: "https://wetten.overheid.nl/BWBV0003698"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst inzake de bescherming van de Rijn tegen verontreiniging door chloriden

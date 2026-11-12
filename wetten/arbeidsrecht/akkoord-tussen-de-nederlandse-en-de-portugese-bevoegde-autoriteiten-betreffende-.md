@@ -8,7 +8,7 @@ laatste_update: 1987-12-12
 status: geldig
 toestand: 1987-12-12
 bron: "https://wetten.overheid.nl/BWBV0002687"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Akkoord tussen de Nederlandse en de Portugese bevoegde autoriteiten betreffende de vergoeding van verstrekkingen bij ziekte en moederschap in het kader van Verordening 1408/71 van de Raad van de Europese Gemeenschappen inzake de toepassing van sociale zekerheidsregelingen op werknemers en zelfstandigen, alsmede op hun gezinsleden, die zich binnen de Gemeenschap verplaatsen

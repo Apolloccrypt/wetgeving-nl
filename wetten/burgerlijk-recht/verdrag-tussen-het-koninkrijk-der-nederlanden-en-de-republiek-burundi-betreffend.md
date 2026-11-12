@@ -8,7 +8,7 @@ laatste_update: 2016-08-17
 status: geldig
 toestand: 2016-08-17
 bron: "https://wetten.overheid.nl/BWBV0003411"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Burundi betreffende de status van het burgerlijke en militaire personeel van de Nederlandse en Burundese ministeries van defensie, aanwezig op hun onderscheiden grondgebieden, in het kader van het partnerschap voor de ontwikkeling van de veiligheidssector in Burundi

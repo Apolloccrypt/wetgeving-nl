@@ -8,7 +8,7 @@ laatste_update: 1978-07-27
 status: geldig
 toestand: 1978-07-27
 bron: "https://wetten.overheid.nl/BWBV0003596"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst inzake economische samenwerking tussen de Regering van het Koninkrijk der Nederlanden en de Regering van het Koninkrijk Marokko

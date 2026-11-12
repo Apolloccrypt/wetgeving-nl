@@ -5,11 +5,11 @@ identifier: "BWBR0018109"
 categorie: "Verkeer"
 soort: "ministeriele-regeling"
 publicatiedatum: 2005-04-14
-laatste_update: 2025-11-12
+laatste_update: 2026-11-05
 status: geldig
-toestand: 2025-11-12
+toestand: 2026-11-05
 bron: "https://wetten.overheid.nl/BWBR0018109"
-opgehaald: 2026-10-06
+opgehaald: 2026-11-12
 ---
 
 # Regeling tot vaststelling van regels ter uitvoering van de BDU verkeer en vervoer en van een beleidsregel ter uitvoering van artikel 11, eerste lid, onderdeel b, van de Wet BDU verkeer en vervoer (Uitvoeringsregeling en beleidsregel BDU verkeer en vervoer)
@@ -49,12 +49,12 @@ in welke formule voorstelt:
 
 ##### Artikel 3
 
-Het absolute aandeel bedraagt voor het uitkeringsjaar 2026 het bij de uitkeringsontvanger genoemde bedrag in onderstaande tabel:
+Het absolute aandeel bedraagt voor het uitkeringsjaar 2027 het bij de uitkeringsontvanger genoemde bedrag in onderstaande tabel:
 
 | Uitkeringsontvanger | Bedrag |
 | --- | --- |
-| Openbaar lichaam als bedoeld in artikel 36b, eerste lid, onderdeel a, Besluit personenvervoer 2000 | € 119.913.630,– |
-| Openbaar lichaam als bedoeld in artikel 36b, eerste lid, onderdeel b, Besluit personenvervoer 2000 | € 131.369.545,– |
+| Openbaar lichaam als bedoeld in artikel 36b, eerste lid, onderdeel a, Besluit personenvervoer 2000 | € 122.560.797 |
+| Openbaar lichaam als bedoeld in artikel 36b, eerste lid, onderdeel b, Besluit personenvervoer 2000 | € 152.620.311 |
 
 ##### Artikel 4
 

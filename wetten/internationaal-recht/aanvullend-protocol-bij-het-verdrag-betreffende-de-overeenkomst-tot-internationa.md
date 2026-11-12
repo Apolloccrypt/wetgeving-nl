@@ -8,7 +8,7 @@ laatste_update: 2011-06-05
 status: geldig
 toestand: 2011-06-05
 bron: "https://wetten.overheid.nl/BWBV0003063"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Aanvullend Protocol bij het Verdrag betreffende de overeenkomst tot internationaal vervoer van goederen over de weg (CMR) inzake de digitale vrachtbrief

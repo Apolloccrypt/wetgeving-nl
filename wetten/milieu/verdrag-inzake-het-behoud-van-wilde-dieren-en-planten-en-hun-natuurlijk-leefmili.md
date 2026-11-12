@@ -8,7 +8,7 @@ laatste_update: 2025-03-06
 status: geldig
 toestand: 2025-03-06
 bron: "https://wetten.overheid.nl/BWBV0003485"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag inzake het behoud van wilde dieren en planten en hun natuurlijk leefmilieu in Europa

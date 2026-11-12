@@ -8,7 +8,7 @@ laatste_update: 2022-02-20
 status: geldig
 toestand: 2022-02-20
 bron: "https://wetten.overheid.nl/BWBV0003749"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst inzake een Internationaal Energieprogramma

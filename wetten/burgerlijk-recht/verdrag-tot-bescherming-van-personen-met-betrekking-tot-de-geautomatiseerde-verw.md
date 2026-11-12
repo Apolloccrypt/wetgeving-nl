@@ -8,7 +8,7 @@ laatste_update: 1993-12-01
 status: geldig
 toestand: 1993-12-01
 bron: "https://wetten.overheid.nl/BWBV0002783"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens

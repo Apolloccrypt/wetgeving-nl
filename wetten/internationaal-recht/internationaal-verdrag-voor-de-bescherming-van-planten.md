@@ -8,7 +8,7 @@ laatste_update: 2005-10-02
 status: geldig
 toestand: 2005-10-02
 bron: "https://wetten.overheid.nl/BWBV0003652"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Internationaal Verdrag voor de bescherming van planten

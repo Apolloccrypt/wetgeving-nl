@@ -8,7 +8,7 @@ laatste_update: 1967-04-14
 status: geldig
 toestand: 1967-04-14
 bron: "https://wetten.overheid.nl/BWBV0003437"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tot wijziging van de Herziene Rijnvaartakte, ondertekend te Mannheim de 17e oktober 1868

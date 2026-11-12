@@ -8,7 +8,7 @@ laatste_update: 1972-01-09
 status: geldig
 toestand: 1972-01-09
 bron: "https://wetten.overheid.nl/BWBV0002911"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Internationaal Verdrag inzake de uitbanning van alle vormen van rassendiscriminatie

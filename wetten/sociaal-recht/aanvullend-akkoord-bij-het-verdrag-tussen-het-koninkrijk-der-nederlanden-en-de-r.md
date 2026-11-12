@@ -7,7 +7,7 @@ laatste_update: 2009-04-16
 status: geldig
 toestand: 2009-04-16
 bron: "https://wetten.overheid.nl/BWBV0003187"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Aanvullend Akkoord bij het Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Turkije overeenkomstig de artikelen 7 en 26 van het Europees Verdrag inzake sociale zekerheid, gesloten op 14 december 1972, en houdende herziening van het Verdrag inzake sociale zekerheid, gesloten tussen het Koninkrijk der Nederlanden en de Republiek Turkije op 5 april 1966

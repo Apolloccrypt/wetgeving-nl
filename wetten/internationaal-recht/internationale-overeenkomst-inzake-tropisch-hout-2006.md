@@ -8,7 +8,7 @@ laatste_update: 2011-12-07
 status: geldig
 toestand: 2011-12-07
 bron: "https://wetten.overheid.nl/BWBV0003277"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Internationale Overeenkomst inzake tropisch hout, 2006

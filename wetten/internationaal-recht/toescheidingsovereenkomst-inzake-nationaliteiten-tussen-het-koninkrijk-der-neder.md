@@ -8,7 +8,7 @@ laatste_update: 1995-12-01
 status: geldig
 toestand: 1995-12-01
 bron: "https://wetten.overheid.nl/BWBV0003487"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Toescheidingsovereenkomst inzake nationaliteiten tussen het Koninkrijk der Nederlanden en de Republiek Suriname

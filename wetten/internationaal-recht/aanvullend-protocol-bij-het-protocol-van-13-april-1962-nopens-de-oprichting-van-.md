@@ -8,7 +8,7 @@ laatste_update: 1980-02-28
 status: geldig
 toestand: 1980-02-28
 bron: "https://wetten.overheid.nl/BWBV0003416"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Aanvullend Protocol bij het Protocol van 13 april 1962 nopens de oprichting van Europese scholen

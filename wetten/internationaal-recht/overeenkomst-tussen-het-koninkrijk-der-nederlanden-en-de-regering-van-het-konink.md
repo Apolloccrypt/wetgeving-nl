@@ -8,7 +8,7 @@ laatste_update: 2014-11-07
 status: geldig
 toestand: 2014-11-07
 bron: "https://wetten.overheid.nl/BWBV0002659"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Regering van het Koninkrijk Bhutan inzake de tewerkstelling van ontwikkelingswerkers

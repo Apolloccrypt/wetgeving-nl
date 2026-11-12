@@ -8,7 +8,7 @@ laatste_update: 2011-03-21
 status: geldig
 toestand: 2011-03-21
 bron: "https://wetten.overheid.nl/BWBV0003489"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en Saint Vincent en de Grenadines inzake de uitwisseling van informatie betreffende belastingzaken

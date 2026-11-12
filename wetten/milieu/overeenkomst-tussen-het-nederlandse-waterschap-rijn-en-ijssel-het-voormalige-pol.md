@@ -8,7 +8,7 @@ laatste_update: 2008-05-22
 status: geldig
 toestand: 2008-05-22
 bron: "https://wetten.overheid.nl/BWBV0003191"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tussen het Nederlandse Waterschap Rijn en IJssel (het voormalige Polderdistrict Oude Rijn) en het Duitse Wasserverband Netterdenscher Kanal, inzake de streefpeilen op de Oude Rijn

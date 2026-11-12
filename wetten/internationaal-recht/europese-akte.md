@@ -8,7 +8,7 @@ laatste_update: 1993-11-01
 status: geldig
 toestand: 1993-11-01
 bron: "https://wetten.overheid.nl/BWBV0002951"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Europese Akte

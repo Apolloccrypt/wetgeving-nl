@@ -8,7 +8,7 @@ laatste_update: 2009-10-08
 status: geldig
 toestand: 2009-10-08
 bron: "https://wetten.overheid.nl/BWBV0002912"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Protocol betreffende registers inzake de uitstoot en overbrenging van verontreinigende stoffen

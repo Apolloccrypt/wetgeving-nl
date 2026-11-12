@@ -8,7 +8,7 @@ laatste_update: 2008-05-20
 status: geldig
 toestand: 2008-05-20
 bron: "https://wetten.overheid.nl/BWBV0002898"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Verdrag tussen het Koninkrijk België, de Bondsrepubliek Duitsland, het Koninkrijk Spanje, de Republiek Frankrijk, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden en de Republiek Oostenrijk inzake de intensivering van de grensoverschrijdende samenwerking, in het bijzonder ter bestrijding van het terrorisme, de grensoverschrijdende criminaliteit en de illegale migratie

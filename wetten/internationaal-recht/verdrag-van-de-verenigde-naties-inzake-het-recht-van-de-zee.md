@@ -8,7 +8,7 @@ laatste_update: 1996-07-28
 status: geldig
 toestand: 1996-07-28
 bron: "https://wetten.overheid.nl/BWBV0003172"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag van de Verenigde Naties inzake het recht van de zee

@@ -8,7 +8,7 @@ laatste_update: 2008-12-28
 status: geldig
 toestand: 2008-12-28
 bron: "https://wetten.overheid.nl/BWBV0003119"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Zuid-Afrika tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen

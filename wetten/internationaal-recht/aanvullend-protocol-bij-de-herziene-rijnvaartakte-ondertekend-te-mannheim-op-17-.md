@@ -8,7 +8,7 @@ laatste_update: 1975-02-27
 status: geldig
 toestand: 1975-02-27
 bron: "https://wetten.overheid.nl/BWBV0003383"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Aanvullend Protocol bij de Herziene Rijnvaartakte ondertekend te Mannheim op 17 oktober 1868

@@ -4,12 +4,12 @@ citeertitel: "Mediaregeling 2008"
 identifier: "BWBR0025040"
 categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-publicatiedatum: 2014-06-11
-laatste_update: 2025-10-24
+publicatiedatum: 2026-10-31
+laatste_update: 2026-10-31
 status: geldig
-toestand: 2025-10-24
+toestand: 2026-10-31
 bron: "https://wetten.overheid.nl/BWBR0025040"
-opgehaald: 2026-10-11
+opgehaald: 2026-11-12
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 18 december 2008, nr. WJZ/84447 (8240), houdende uitvoeringsregels van de Mediawet 2008 (Mediaregeling 2008)
@@ -31,7 +31,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Publieke mediadiensten
 
-#### Afdeling 2.1. Landelijke publieke mediadienst
+#### § 2.1. Landelijke publieke mediadienst
 
 ##### Artikel 2. Indiening concessiebeleidsplan
 
@@ -47,13 +47,13 @@ De NPO dient het concessiebeleidsplan in vóór 1 november van het tweede kalen
 
 ##### Artikel 3a. Inrichting aanvraag erkenning
 
-1. Een aanvraag als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.1&artikel=3&z=2025-10-24&g=2025-10-24), bevat voor zover beschikbaar de opgave van het door het Commissariaat vastgestelde aantal leden van de omroepvereniging.
+1. Een aanvraag als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2026-10-31&g=2026-10-31), bevat voor zover beschikbaar de opgave van het door het Commissariaat vastgestelde aantal leden van de omroepvereniging.
 
 2. Een aanvraag gaat vergezeld van vier kopieën.
 
 ##### Artikel 4. Inrichting aanvraag erkenning
 
-1. Een aanvraag als bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.1&artikel=3&z=2025-10-24&g=2025-10-24), bevat:
+1. Een aanvraag als bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2026-10-31&g=2026-10-31), bevat:
 
 - a. voor zover beschikbaar de opgave van het door het Commissariaat vastgestelde aantal leden van de omroepverenigingen, bedoeld in [artikel 2.27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.27);
 
@@ -79,9 +79,7 @@ De NPO dient het concessiebeleidsplan in vóór 1 november van het tweede kalen
 
 3. Een aanvraag gaat vergezeld van vier kopieën.
 
-#### Afdeling 2.2. Regionale en lokale publieke mediadiensten
-
-#### § 2.2.1. Aanwijzing
+#### § 2.2. Regionale publieke mediadienst
 
 ##### Artikel 5. Indiening aanvraag aanwijzing
 
@@ -89,17 +87,17 @@ De aanvraag voor een aanwijzing, bedoeld in [artikel 2.65 van de wet](https://we
 
 - a. een exemplaar van de notarieel vastgelegde statuten;
 
-- b. een overzicht van de belangrijkste in de gemeente respectievelijk provincie voorkomende maatschappelijke, culturele, godsdienstige en geestelijke stromingen van waaruit leden worden benoemd in het in [artikel 2.61, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.61) bedoelde orgaan;
+- b. een overzicht van de belangrijkste in de provincie voorkomende maatschappelijke, culturele, godsdienstige en geestelijke stromingen van waaruit leden worden benoemd in het in [artikel 2.61, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.61) bedoelde orgaan;
 
 - c. een overzicht van de leden van het orgaan, bedoeld in [artikel 2.61, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.61); en
 
 - d. een aanduiding van het gebied waarbinnen het media-aanbod zal worden verspreid.
 
-##### Artikel 6. Advisering door provinciale staten en gemeenteraad
+##### Artikel 6. Advisering door provinciale staten
 
-1. Het Commissariaat legt een aanvraag voor een aanwijzing van een regionale publieke media-instelling respectievelijk een lokale publieke media-instelling binnen vier weken na ontvangst daarvan ter advisering voor aan de desbetreffende provinciale staten respectievelijk gemeenteraad.
+1. Het Commissariaat legt een aanvraag voor een aanwijzing van een regionale publieke media-instelling binnen vier weken na ontvangst daarvan ter advisering voor aan de desbetreffende provinciale staten.
 
-2. Provinciale staten brengen respectievelijk de gemeenteraad brengt binnen achttien weken na ontvangst van de aanvraag advies uit aan het Commissariaat.
+2. Provinciale staten brengen binnen achttien weken na ontvangst van de aanvraag advies uit aan het Commissariaat.
 
 3. Het Commissariaat beslist binnen vier weken na ontvangst van het advies, bedoeld in het tweede lid, op de aanvraag en bepaalt daarbij de ingangsdatum van de aanwijzing.
 
@@ -107,19 +105,13 @@ De aanvraag voor een aanwijzing, bedoeld in [artikel 2.65 van de wet](https://we
 
 Als een aangewezen regionale publieke media-instelling voor een aansluitende periode van vijf jaar aangewezen wil worden, dient zij uiterlijk zes maanden voor het einde van de lopende aanwijzingsperiode de aanvraag voor een nieuwe aanwijzing in.
 
-##### Artikel 7a. Aanvraagtermijn lokale publieke media-instelling
-
-Een aanvraag voor aanwijzing als lokale publieke media-instelling als bedoeld in [artikel 2.65, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.65) kan enkel worden ingediend binnen een door het Commissariaat vastgestelde termijn.
-
 ##### Artikel 8. Afwijken van adviseringsprocedure
 
-Het Commissariaat kan in bijzondere gevallen afwijken van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.1&artikel=6&z=2025-10-24&g=2025-10-24).
+Het Commissariaat kan in bijzondere gevallen afwijken van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2026-10-31&g=2026-10-31).
 
 ##### Artikel 9. Intrekken aanwijzing
 
 Een besluit tot intrekking van de aanwijzing op grond van [artikel 2.67, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.67), en [2.68. eerste lid, onderdelen a en b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.68), gaat onmiddellijk in.
-
-#### § 2.2.1a. Bekostiging regionale publieke mediadiensten
 
 ##### Artikel 9a. Aanvraag bekostiging
 
@@ -131,7 +123,7 @@ Een besluit tot intrekking van de aanwijzing op grond van [artikel 2.67, eerste 
 
 ##### Artikel 9b. Begroting
 
-1. Een regionale publieke media-instelling volgt voor het opstellen van de begroting het model dat als [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&bijlage=II&z=2025-10-24&g=2025-10-24) bij deze regeling is gevoegd.
+1. Een regionale publieke media-instelling volgt voor het opstellen van de begroting het model dat is opgenomen in de [bijlage bij dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&bijlage=1&z=2026-10-31&g=2026-10-31).
 
 2. De begroting bevat in elk geval:
 
@@ -145,35 +137,71 @@ Een besluit tot intrekking van de aanwijzing op grond van [artikel 2.67, eerste 
 
 - e. een toelichting op voorgenomen investeringen, leningen of onttrekkingen van reserves.
 
-#### § 2.2.1b. Concessiebeleidsplan RPO
-
 ##### Artikel 9c. Concessiebeleidsplan RPO
 
 De RPO dient het concessiebeleidsplan RPO in vóór 1 april van het laatste jaar waarop het lopende concessiebeleidsplan RPO betrekking heeft.
 
-#### § 2.2.2. Reclame- en telewinkelboodschappen
+#### § 2.3. Lokale publieke mediadienst
 
-##### Artikel 10. Boekhouding
+##### Artikel 10. Concessiebeleidsplan NLPO
 
-1. Lokale en regionale publieke media-instellingen die reclame- en telewinkelboodschappen in het media-aanbod opnemen, voeren een behoorlijke boekhouding.
+De NLPO dient het concessiebeleidsplan NLPO in voorafgaand aan 1 april van het tweede jaar dat voorafgaat aan de periode waarop dat plan betrekking heeft.
 
-2. De boekhouding bevat ten minste gegevens over de kosten en opbrengsten, verdeeld naar:
+##### Artikel 10a. Gegevens of bescheiden bij aanvraag
 
-- a. de kosten en opbrengsten van de exploitatie van reclame- en telewinkelboodschappen;
+Een aanvraag als bedoeld in artikel 2.87k van de wet gaat in elk geval vergezeld van:
 
-- b. de kosten en opbrengsten van ander media-aanbod; en
+- a. de vermelding van het lokale verzorgingsgebied en de periode waarop de aanvraag betrekking heeft;
 
-- c. de kosten en opbrengsten van alle andere activiteiten.
+- b. een exemplaar van de notarieel vastgelegde statuten, bedoeld in artikel 2.87l van de wet;
 
-##### Artikel 11. Jaarrekening
+- c. een overzicht van de belangrijkste in het lokale verzorgingsgebied voorkomende maatschappelijke, culturele, godsdienstige en geestelijke stromingen die worden vertegenwoordigd in het programmabeleid bepalend orgaan;
 
-1. Lokale media-instellingen die reclame- en telewinkelboodschappen in het media-aanbod opnemen, zenden jaarlijks vóór 1 juni de jaarrekening aan het Commissariaat.
+- d. een lijst van de leden van het programmabeleid bepalend orgaan waaruit tevens blijkt welke stroming elk van hen vertegenwoordigt;
 
-2. De jaarrekening gaat vergezeld van een verklaring van een accountant-administratieconsulent of een registeraccountant omtrent de getrouwheid ervan.
+- e. het beleidsplan, bedoeld in artikel 2.87n van de wet; en
 
-3. Het Commissariaat kan voor bepaalde categorieën lokale media-instellingen vrijstelling verlenen van het tweede lid.
+- f. de begroting, bedoeld in artikel 2.87o van de wet.
 
-#### Afdeling 2.3. Nadere voorschriften publieke mediadiensten
+##### Artikel 10b. Aanvraagtijdvak, advies- en beslistermijnen
+
+1. Een aanvraag wordt ingediend in het tijdvak van 1 september tot en met 31 december van het tweede jaar dat voorafgaat aan de aanwijzingsperiode, bedoeld in artikel 2.87j, eerste lid, van de wet.
+
+2. Het Commissariaat verstuurt de adviesaanvraag, bedoeld in artikel 2.87p, eerste lid, van de wet, binnen vier weken na afloop van het aanvraagtijdvak naar de NLPO en de betrokken gemeenteraden.
+
+3. De NLPO en de betrokken gemeenteraden adviseren binnen tweeëntwintig weken na ontvangst van de adviesaanvraag.
+
+4. Het Commissariaat besluit voorafgaand aan 15 november van het jaar dat voorafgaat aan de aanwijzingsperiode, bedoeld in artikel 2.87j, eerste lid, van de wet, op de aanvragen waarover advies is gevraagd.
+
+5. Het Commissariaat kan in bijzondere gevallen afwijken van het eerste tot en met vierde lid.
+
+##### Artikel 10c. Aanvraag bekostiging
+
+1. Een lokale publieke media-instelling dient jaarlijks voorafgaand aan 15 september een aanvraag in bij het Commissariaat voor een bijdrage als bedoeld in artikel 2.170f, eerste lid, van de wet.
+
+2. In afwijking van het eerste lid wordt in het jaar dat voorafgaat aan de aanwijzingsperiode, bedoeld in artikel 2.87j, eerste lid, van de wet, de aanvraag ingediend voorafgaand aan 1 december.
+
+3. De aanvraag gaat vergezeld van een begroting en een activiteitenplan.
+
+4. Het activiteitenplan bevat een overzicht van de activiteiten waarvoor een bijdrage wordt gevraagd.
+
+##### Artikel 11. Begroting bij bekostigingsaanvraag
+
+1. Een lokale publieke media-instelling volgt voor het opstellen van de begroting, bedoeld in [artikel 10c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&paragraaf=2.3&artikel=10c&z=2026-10-31&g=2026-10-31), het model dat is opgenomen in de [bijlage bij dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&bijlage=2&z=2026-10-31&g=2026-10-31).
+
+2. De begroting bevat in elk geval:
+
+- a. een beschrijving van de wijze waarop door de lokale publieke media-instelling invulling wordt gegeven aan het voorgenomen media-aanbod met in achtneming van het bepaalde bij of krachtens de wet;
+
+- b. een raming van de financiële middelen die voor het volgend kalenderjaar nodig zijn om het voorgenomen media-aanbod te verwezenlijken en een raming voor de daaropvolgende vier jaar;
+
+- c. een toelichting op de onderscheiden onderdelen en begrotingsposten;
+
+- d. een beschrijving van de samenwerking met landelijke en regionale publieke media-instellingen en anderen; en
+
+- e. een toelichting op voorgenomen investeringen, leningen of onttrekkingen van reserves.
+
+#### § 2.4. Nadere voorschriften publieke mediadiensten
 
 ##### Artikel 11a. Experimentele nevenactiviteiten
 
@@ -201,7 +229,7 @@ De RPO dient het concessiebeleidsplan RPO in vóór 1 april van het laatste jaa
 
 1. Een experimentele nevenactiviteit is in duur beperkt tot een looptijd van ten hoogste een jaar.
 
-2. Eenmalige verlenging met ten hoogste een jaar is mogelijk, mits de nevenactiviteit zonder substantiële wijzigingen wordt voortgezet en de verlenging voor afloop van de oorspronkelijke looptijd wordt gemeld bij het Commissariaat. [Artikel 11a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.3&artikel=11a&z=2025-10-24&g=2025-10-24), is van toepassing.
+2. Eenmalige verlenging met ten hoogste een jaar is mogelijk, mits de nevenactiviteit zonder substantiële wijzigingen wordt voortgezet en de verlenging voor afloop van de oorspronkelijke looptijd wordt gemeld bij het Commissariaat. [Artikel 11a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&paragraaf=2.4&artikel=11a&z=2026-10-31&g=2026-10-31), is van toepassing.
 
 3. Een nevenactiviteit die naar zijn aard nagenoeg identiek is aan een eerder bij wijze van experiment uitgevoerde nevenactiviteit kan niet opnieuw als experimentele nevenactiviteit verricht worden binnen een jaar na afloop van de eerder uitgevoerde nevenactiviteit.
 
@@ -251,9 +279,19 @@ Als binnen de maximale looptijd van een experimentele nevenactiviteit voor die n
 
 4. Het totaal aan voorschotten in enig jaar is niet hoger dan het voor dat jaar vastgestelde totale budget van de desbetreffende regionale publieke media-instelling.
 
+##### Artikel 12b. Voorschotten lokale publieke media-instellingen
+
+1. Lokale publieke media-instellingen ontvangen voorschotten in twaalf maandelijkse termijnen. Het Commissariaat kan hiervan afwijken.
+
+2. Het Commissariaat bepaalt de hoogte van de voorschotten mede op basis van de begroting en, bij toepassing van het eerste lid, tweede volzin, een liquiditeitsprognose van de desbetreffende instelling.
+
+3. Lokale publieke media-instellingen zenden bij toepassing van het eerste lid, tweede volzin, een liquiditeitsprognose aan het Commissariaat vóór 1 november van het jaar dat voorafgaat aan het begrotingsjaar.
+
+4. Het totaal aan voorschotten in enig jaar is niet hoger dan het voor dat jaar vastgestelde totale budget van de desbetreffende lokale publieke media-instelling.
+
 ##### Artikel 13. Berekening budget
 
-Het moment, bedoeld in [artikel 2.152 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.152), is 1 januari 2014.
+*Vervallen*
 
 ##### Artikel 13a. Indiening begroting
 
@@ -287,7 +325,7 @@ Een commerciële media-instelling die een toestemming, bedoeld in [artikel 3.1, 
 
 ##### Artikel 17
 
-Een commerciële media-instelling is voor elke verkregen toestemming, bedoeld in [artikel 3.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.1), en voor elke van haar mediadiensten op aanvraag, bedoeld in [artikel 3.29a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.29a), jaarlijks aan het Commissariaat toezichtskosten verschuldigd berekend volgens de bij deze regeling gevoegde [bijlage](https://wetten.overheid.nl/BWBR0025040).
+Een commerciële media-instelling is voor elke verkregen toestemming, bedoeld in [artikel 3.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.1), en voor elke van haar mediadiensten op aanvraag, bedoeld in [artikel 3.29a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.29a), jaarlijks aan het Commissariaat toezichtskosten verschuldigd berekend volgens de [bijlage bij dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&bijlage=3&z=2026-10-31&g=2026-10-31).
 
 #### § 3.3. Informatieplicht investeringsverplichting
 
@@ -363,7 +401,7 @@ Het percentage, bedoeld in [artikel 8.8, eerste lid, onderdeel a, van de wet](ht
 
 1. Het Stimuleringsfonds bevestigt de ontvangst van een aanvraag.
 
-2. Als bij de aanvraag gegevens als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=5&paragraaf=5.2&artikel=20&z=2025-10-24&g=2025-10-24) niet kunnen worden ingediend, blijkt uit de aanvraag waarom.
+2. Als bij de aanvraag gegevens als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=5&paragraaf=5.2&artikel=20&z=2026-10-31&g=2026-10-31) niet kunnen worden ingediend, blijkt uit de aanvraag waarom.
 
 ##### Artikel 22. Subsidieverlening
 
@@ -405,11 +443,19 @@ Voor de toepassing van de aanvraagprocedure, bedoeld in [artikel 2.170, eerste l
 
 ##### Artikel 26
 
-In afwijking van [artikel 9c](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.1b&artikel=9c&z=2025-10-24&g=2025-10-24) dient de RPO het concessiebeleidsplan RPO in 2017 in vóór 1 juli.
+In afwijking van [artikel 9c](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&paragraaf=2.2&artikel=9c&z=2026-10-31&g=2026-10-31) dient de RPO het concessiebeleidsplan RPO in 2017 in vóór 1 juli.
 
 ##### Artikel 26a. Bijstelling percentage reclame- en telewinkelboodschappen 2024
 
 Het percentage, genoemd in [artikel 29c, eerste lid, onder c, van het Mediabesluit 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&artikel=29c), wordt bijgesteld naar acht procent.
+
+##### Artikel 26b. Overgangsrecht concessiebeleidsplan NLPO
+
+In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&paragraaf=2.3&artikel=10&z=2026-10-31&g=2026-10-31) dient de NLPO het eerste concessiebeleidsplan NLPO in voorafgaand aan het aanvraagtijdvak, bedoeld in artikel 2.87u, tweede lid, van de wet, dat betrekking heeft op de aanwijzingsperiode, bedoeld in artikel 2.87j, eerste lid, van de wet, die gelijktijdig is met de periode waarvoor het eerste concessiebeleidsplan NLPO geldt.
+
+##### Artikel 26c. Overgangsrecht eerste aanvraagtijdvak
+
+In afwijking van [artikel 10b](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&paragraaf=2.3&artikel=10b&z=2026-10-31&g=2026-10-31) wordt een aanvraag die betrekking heeft op de aanwijzingsperiode, bedoeld in artikel 2.87j, eerste lid, van de wet, die gelijktijdig is met de periode waarvoor het eerste concessiebeleidsplan NLPO geldt, ingediend in het tijdvak van 15 november tot en met 31 december van het tweede jaar dat voorafgaat aan die aanwijzingsperiode.
 
 ##### Artikel 27. Inwerkingtreding
 

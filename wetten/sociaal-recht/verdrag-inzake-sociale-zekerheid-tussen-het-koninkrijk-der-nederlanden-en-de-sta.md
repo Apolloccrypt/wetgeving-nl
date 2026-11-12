@@ -8,7 +8,7 @@ laatste_update: 2021-05-01
 status: geldig
 toestand: 2021-05-01
 bron: "https://wetten.overheid.nl/BWBV0002871"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Verdrag inzake sociale zekerheid tussen het Koninkrijk der Nederlanden en de Staat Israël

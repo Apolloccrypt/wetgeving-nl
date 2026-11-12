@@ -7,7 +7,7 @@ laatste_update: 2008-08-14
 status: geldig
 toestand: 2008-08-14
 bron: "https://wetten.overheid.nl/BWBV0003052"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Luchtvaartverdrag tussen het Koninkrijk der Nederlanden ten aanzien van de Nederlandse Antillen en de Bondsrepubliek Duitsland inzake luchtvervoer tussen de Bondsrepubliek Duitsland en de Nederlandse Antillen

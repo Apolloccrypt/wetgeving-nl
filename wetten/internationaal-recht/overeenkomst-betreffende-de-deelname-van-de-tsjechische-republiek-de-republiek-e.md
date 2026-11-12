@@ -8,7 +8,7 @@ laatste_update: 2005-12-06
 status: geldig
 toestand: 2005-12-06
 bron: "https://wetten.overheid.nl/BWBV0003057"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst betreffende de deelname van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Hongarije, de Republiek Letland, de Republiek Litouwen, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek aan de Europese Economische Ruimte

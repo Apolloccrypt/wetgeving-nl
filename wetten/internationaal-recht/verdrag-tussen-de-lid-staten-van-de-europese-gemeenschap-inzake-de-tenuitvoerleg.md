@@ -7,7 +7,7 @@ laatste_update: 1997-12-09
 status: geldig
 toestand: 1997-12-09
 bron: "https://wetten.overheid.nl/BWBV0003140"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag tussen de Lid-Staten van de Europese Gemeenschap inzake de tenuitvoerlegging van buitenlandse strafvonnissen

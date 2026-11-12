@@ -8,7 +8,7 @@ laatste_update: 1978-03-20
 status: geldig
 toestand: 1978-03-20
 bron: "https://wetten.overheid.nl/BWBV0003381"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Culturele Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Suriname

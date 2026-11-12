@@ -5,11 +5,11 @@ identifier: "BWBR0052214"
 categorie: "Bestuursrecht"
 soort: "zbo"
 publicatiedatum: 2026-01-26
-laatste_update: 2026-01-26
+laatste_update: 2026-11-09
 status: geldig
-toestand: 2026-01-26
+toestand: 2026-11-09
 bron: "https://wetten.overheid.nl/BWBR0052214"
-opgehaald: 2026-11-09
+opgehaald: 2026-11-12
 ---
 
 # Besluit van de directeur-generaal van de statistiek van 13 januari 2026 tot aanwijzing van elektronische kanalen voor het indienen van berichten in de zin van artikel 2:13, tweede lid, van de Algemene wet bestuursrecht bij het CBS (Aanwijzingsbesluit elektronische kanalen publieke dienstverlening CBS 2026)
@@ -24,7 +24,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2. Aanwijzing kanalen
 
-Voor berichten die de verzender uit eigen beweging, dan wel op verzoek van het CBS indient, worden de kanalen aangewezen zoals vermeld in het overzicht in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052214&bijlage=1&z=2026-01-26&g=2026-01-26) van dit besluit.
+Voor berichten die de verzender uit eigen beweging, dan wel op verzoek van het CBS indient, worden de kanalen aangewezen zoals vermeld in het overzicht in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052214&bijlage=1&z=2026-11-09&g=2026-11-09) van dit besluit.
 
 ##### Artikel 3. Inwerkingtreding besluit
 

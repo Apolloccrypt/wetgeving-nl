@@ -8,7 +8,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBV0002714"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Benelux-Overeenkomst inzake grensoverschrijdende samenwerking tussen territoriale samenwerkingsverbanden of autoriteiten

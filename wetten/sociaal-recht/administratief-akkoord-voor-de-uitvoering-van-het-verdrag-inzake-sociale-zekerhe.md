@@ -8,7 +8,7 @@ laatste_update: 2008-08-19
 status: geldig
 toestand: 2008-08-19
 bron: "https://wetten.overheid.nl/BWBV0003213"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Administratief Akkoord voor de uitvoering van het Verdrag inzake sociale zekerheid tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland

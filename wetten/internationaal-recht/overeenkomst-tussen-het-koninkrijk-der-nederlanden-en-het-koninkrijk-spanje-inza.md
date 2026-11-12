@@ -8,7 +8,7 @@ laatste_update: 1979-03-06
 status: geldig
 toestand: 1979-03-06
 bron: "https://wetten.overheid.nl/BWBV0003380"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Spanje inzake culturele en wetenschappelijke samenwerking

@@ -8,7 +8,7 @@ laatste_update: 1983-11-06
 status: geldig
 toestand: 1983-11-06
 bron: "https://wetten.overheid.nl/BWBV0003547"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Hasjemitische Koninkrijk Jordanië betreffende internationaal wegvervoer

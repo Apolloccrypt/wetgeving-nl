@@ -8,7 +8,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBV0003264"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974

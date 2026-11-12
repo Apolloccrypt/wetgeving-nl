@@ -7,7 +7,7 @@ laatste_update: 1988-01-21
 status: geldig
 toestand: 1988-01-21
 bron: "https://wetten.overheid.nl/BWBV0002668"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst inzake het onderhoud van de Rode Beek en het onderhoud en de instandhouding van de afvoerregulerende kunstwerken bij de Dalheimer Molenvijver

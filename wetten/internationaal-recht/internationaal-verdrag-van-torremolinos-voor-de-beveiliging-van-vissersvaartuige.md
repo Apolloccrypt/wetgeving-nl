@@ -7,7 +7,7 @@ laatste_update: 1977-04-02
 status: geldig
 toestand: 1977-04-02
 bron: "https://wetten.overheid.nl/BWBV0003251"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Internationaal Verdrag van Torremolinos voor de beveiliging van vissersvaartuigen, 1977

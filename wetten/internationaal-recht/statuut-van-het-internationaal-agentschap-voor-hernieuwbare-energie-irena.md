@@ -8,7 +8,7 @@ laatste_update: 2011-01-12
 status: geldig
 toestand: 2011-01-12
 bron: "https://wetten.overheid.nl/BWBV0003141"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Statuut van het Internationaal Agentschap voor hernieuwbare energie (IRENA)

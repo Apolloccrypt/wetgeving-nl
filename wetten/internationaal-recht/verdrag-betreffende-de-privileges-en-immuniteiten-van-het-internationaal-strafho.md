@@ -8,7 +8,7 @@ laatste_update: 2008-08-23
 status: geldig
 toestand: 2008-08-23
 bron: "https://wetten.overheid.nl/BWBV0003031"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag betreffende de privileges en immuniteiten van het Internationaal Strafhof

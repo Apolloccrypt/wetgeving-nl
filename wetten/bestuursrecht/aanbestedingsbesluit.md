@@ -4,12 +4,12 @@ citeertitel: "Aanbestedingsbesluit"
 identifier: "BWBR0032919"
 categorie: "Overig"
 soort: "AMvB"
-publicatiedatum: 2016-06-24
-laatste_update: 2022-01-01
+publicatiedatum: 2026-10-28
+laatste_update: 2026-11-06
 status: geldig
-toestand: 2022-01-01
+toestand: 2026-11-06
 bron: "https://wetten.overheid.nl/BWBR0032919"
-opgehaald: 2026-10-17
+opgehaald: 2026-11-12
 ---
 
 # Besluit van 11 februari 2013, houdende de regeling van enkele onderwerpen van de Aanbestedingswet 2012 (Aanbestedingsbesluit)
@@ -31,6 +31,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 - *geavanceerde elektronische handtekening:* elektronische handtekening als bedoeld in artikel 3, onderdeel 11, van de eidas-verordening;
 
 - *syntax:* machineleesbare taal of taalvariant die wordt gebruikt om de in een elektronische factuur vervatte gegevenselementen weer te geven;
+
+- *verordening (EU) 2022/1031:*
+ verordening (EU) 2022/1031 van het Europees Parlement en de Raad van 23 juni 2022 over toegang van ondernemers, goederen en diensten uit derde landen tot de aanbestedings- en concessiemarkten van de Unie en procedures ter ondersteuning van onderhandelingen over toegang van ondernemers, goederen en diensten uit de Unie tot de aanbestedings- en concessiemarkten van derde landen (Instrument voor Internationale Overheidsopdrachten – IIO) (PbEU 2022, L 173);.
 
 - *verordening (EU) nr. 1025/2012:* Verordening (EU) nr. 1025/2012 van het Europees Parlement en de Raad van 25 oktober 2012 betreffende Europese normalisatie, tot wijziging van de Richtlijnen 89/686/EEG en 93/15/EEG van de Raad alsmede de Richtlijnen 94/4/EG, 94/25/EG, 95/16/EG, 97/23/EG, 98/34/EG, 2004/22/EG, 2007/23/EG, 2009/23/EG en 2009/105/EG van het Europees Parlement en de Raad en tot intrekking van Beschikking 87/95/EEG van de Raad en Besluit nr. 1673/2006/EG van het Europees Parlement en de Raad (PbEU 2012, L 316);
 
@@ -92,7 +95,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3a
 
-1. In afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032919&hoofdstuk=3&artikel=3&z=2022-01-01&g=2022-01-01), kan een aanbestedende dienst of een speciale-sectorbedrijf het gebruik van een niet algemeen beschikbaar middel of instrument eisen, indien de aanbestedende dienst of het speciale-sectorbedrijf een alternatief toegangsmiddel aanbiedt.
+1. In afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032919&hoofdstuk=3&artikel=3&z=2026-11-06&g=2026-11-06), kan een aanbestedende dienst of een speciale-sectorbedrijf het gebruik van een niet algemeen beschikbaar middel of instrument eisen, indien de aanbestedende dienst of het speciale-sectorbedrijf een alternatief toegangsmiddel aanbiedt.
 
 2. Een aanbestedende dienst of een speciale-sectorbedrijf biedt een passend alternatief toegangsmiddel aan in een geval waarin zij:
 
@@ -199,6 +202,16 @@ Als misdrijven als bedoeld in [artikel 4.7, eerste lid, onderdeel b, van de wet]
 1. Als richtsnoer bedoeld in [artikel 1.22, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=1.22) wordt aangewezen het Aanbestedingsreglement Werken 2016, zoals gepubliceerd in Staatscourant 2020, nr. 30657.
 
 2. Als aanbestedende diensten, bedoeld in [artikel 1.22, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=1.22), worden aangewezen: alle aanbestedende diensten als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=1.1).
+
+### Hoofdstuk 5a. Uitvoering verordening (EU) 2022/1031
+
+##### Artikel 11a
+
+De in artikel 9, tweede lid, van verordening (EU) 2022/1031 bedoelde informatieverstrekking aan de Europese Commissie geschiedt met gebruikmaking van het daartoe door middel van het elektronische systeem voor aanbestedingen beschikbaar gestelde formulier.
+
+##### Artikel 11b
+
+Op verzoek van Onze Minister verstrekken aanbestedende diensten en speciale-sectorbedrijven informatie benodigd ter voldoening aan de artikelen 9, tweede lid, en 13 van verordening (EU) 2022/1031.
 
 ### Hoofdstuk 6. Slotbepalingen
 

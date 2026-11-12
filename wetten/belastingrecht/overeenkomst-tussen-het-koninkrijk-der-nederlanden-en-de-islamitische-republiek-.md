@@ -8,7 +8,7 @@ laatste_update: 1982-10-04
 status: geldig
 toestand: 1982-10-04
 bron: "https://wetten.overheid.nl/BWBV0002856"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Islamitische Republiek Pakistan tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen

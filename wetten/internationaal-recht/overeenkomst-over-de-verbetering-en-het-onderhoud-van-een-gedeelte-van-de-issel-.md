@@ -8,7 +8,7 @@ laatste_update: 1976-05-01
 status: geldig
 toestand: 1976-05-01
 bron: "https://wetten.overheid.nl/BWBV0003823"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst over de verbetering en het onderhoud van een gedeelte van de Issel (Oude IJssel) in het grensgebied

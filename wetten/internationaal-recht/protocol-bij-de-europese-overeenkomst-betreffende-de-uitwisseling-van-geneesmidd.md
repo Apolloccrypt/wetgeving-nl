@@ -8,7 +8,7 @@ laatste_update: 1982-04-19
 status: geldig
 toestand: 1982-04-19
 bron: "https://wetten.overheid.nl/BWBV0002901"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Protocol bij de Europese Overeenkomst betreffende de uitwisseling van geneesmiddelen van menselijke oorsprong, zoals gewijzigd

@@ -8,7 +8,7 @@ laatste_update: 1985-11-30
 status: geldig
 toestand: 1985-11-30
 bron: "https://wetten.overheid.nl/BWBV0003491"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Universele Auteursrecht-Conventie, zoals herzien te Parijs op 24 juli 1971

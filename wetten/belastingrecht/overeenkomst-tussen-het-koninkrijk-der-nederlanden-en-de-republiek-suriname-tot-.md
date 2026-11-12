@@ -8,7 +8,7 @@ laatste_update: 1977-04-13
 status: geldig
 toestand: 1977-04-13
 bron: "https://wetten.overheid.nl/BWBV0003461"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Suriname tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen

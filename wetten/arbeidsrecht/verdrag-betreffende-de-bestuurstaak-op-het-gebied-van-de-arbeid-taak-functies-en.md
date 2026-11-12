@@ -8,7 +8,7 @@ laatste_update: 1981-08-08
 status: geldig
 toestand: 1981-08-08
 bron: "https://wetten.overheid.nl/BWBV0003764"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag betreffende de bestuurstaak op het gebied van de arbeid: taak, functies en organisatie

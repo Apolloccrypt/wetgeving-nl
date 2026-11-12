@@ -8,7 +8,7 @@ laatste_update: 2008-11-08
 status: geldig
 toestand: 2008-11-08
 bron: "https://wetten.overheid.nl/BWBV0003449"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Europese Overeenkomst tot aanvulling van het Verdrag inzake het wegverkeer dat op 8 november 1968 te Wenen voor ondertekening werd opengesteld

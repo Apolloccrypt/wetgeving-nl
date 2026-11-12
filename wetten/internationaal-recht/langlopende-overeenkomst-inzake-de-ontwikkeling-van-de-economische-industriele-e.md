@@ -8,7 +8,7 @@ laatste_update: 1975-07-14
 status: geldig
 toestand: 1975-07-14
 bron: "https://wetten.overheid.nl/BWBV0003643"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Langlopende Overeenkomst inzake de ontwikkeling van de economische, industriële en technische samenwerking tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Volksrepubliek Polen

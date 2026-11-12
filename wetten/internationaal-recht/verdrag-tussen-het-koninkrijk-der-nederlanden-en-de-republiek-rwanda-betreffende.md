@@ -8,7 +8,7 @@ laatste_update: 2010-12-01
 status: geldig
 toestand: 2010-12-01
 bron: "https://wetten.overheid.nl/BWBV0003253"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Rwanda betreffende de status van militair en civiel personeel van hun Ministerie van Defensie, aanwezig op elkaars grondgebied voor activiteiten in het kader van bilaterale militaire samenwerking

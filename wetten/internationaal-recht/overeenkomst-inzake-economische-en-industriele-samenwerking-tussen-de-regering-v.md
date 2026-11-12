@@ -8,7 +8,7 @@ laatste_update: 1981-10-21
 status: geldig
 toestand: 1981-10-21
 bron: "https://wetten.overheid.nl/BWBV0003388"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst inzake economische en industriële samenwerking tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Federatieve Republiek Brazilië

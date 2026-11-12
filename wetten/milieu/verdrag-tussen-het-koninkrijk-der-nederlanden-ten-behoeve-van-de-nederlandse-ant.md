@@ -7,7 +7,7 @@ laatste_update: 2008-02-05
 status: geldig
 toestand: 2008-02-05
 bron: "https://wetten.overheid.nl/BWBV0003023"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden ten behoeve van de Nederlandse Antillen en het Koninkrijk België inzake luchtvervoer

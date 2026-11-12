@@ -7,7 +7,7 @@ laatste_update: 1971-12-09
 status: geldig
 toestand: 1971-12-09
 bron: "https://wetten.overheid.nl/BWBV0003676"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tussen zekere Lid-Staten van de Europese Organisatie voor Ruimteonderzoek en de Europese Organisatie voor Ruimteonderzoek inzake de tenuitvoerlegging van een programma betreffende luchtverkeerssatellieten

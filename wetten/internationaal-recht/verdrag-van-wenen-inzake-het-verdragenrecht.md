@@ -8,7 +8,7 @@ laatste_update: 1985-05-09
 status: geldig
 toestand: 1985-05-09
 bron: "https://wetten.overheid.nl/BWBV0003441"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag van Wenen inzake het verdragenrecht

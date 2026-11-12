@@ -8,7 +8,7 @@ laatste_update: 1993-07-06
 status: geldig
 toestand: 1993-07-06
 bron: "https://wetten.overheid.nl/BWBV0002862"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Document van de Staten die Partij zijn bij het Verdrag inzake conventionele strijdkrachten in Europa

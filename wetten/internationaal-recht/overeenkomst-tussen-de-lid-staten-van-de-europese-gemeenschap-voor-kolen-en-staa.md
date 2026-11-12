@@ -8,7 +8,7 @@ laatste_update: 1975-01-01
 status: geldig
 toestand: 1975-01-01
 bron: "https://wetten.overheid.nl/BWBV0003724"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tussen de Lid-Staten van de Europese Gemeenschap voor Kolen en Staal en de Europese Gemeenschap voor Kolen en Staal, enerzijds, en het Koninkrijk Noorwegen, anderzijds

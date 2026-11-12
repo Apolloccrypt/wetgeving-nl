@@ -8,7 +8,7 @@ laatste_update: 1980-06-19
 status: geldig
 toestand: 1980-06-19
 bron: "https://wetten.overheid.nl/BWBV0003733"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag betreffende de rol van beroepskeuzevoorlichting en beroepsopleiding bij de ontwikkeling van menselijke hulpbronnen

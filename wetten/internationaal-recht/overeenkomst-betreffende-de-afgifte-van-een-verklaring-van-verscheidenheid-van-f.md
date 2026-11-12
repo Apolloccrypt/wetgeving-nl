@@ -8,7 +8,7 @@ laatste_update: 1990-01-01
 status: geldig
 toestand: 1990-01-01
 bron: "https://wetten.overheid.nl/BWBV0002808"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst betreffende de afgifte van een verklaring van verscheidenheid van familienamen

@@ -8,7 +8,7 @@ laatste_update: 1985-05-22
 status: geldig
 toestand: 1985-05-22
 bron: "https://wetten.overheid.nl/BWBV0003721"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Europese Overeenkomst inzake de immuniteit van Staten

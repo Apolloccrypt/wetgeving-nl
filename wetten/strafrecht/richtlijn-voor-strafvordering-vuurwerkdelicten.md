@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-11-02
 toestand: 2024-12-01
 bron: "https://wetten.overheid.nl/BWBR0050479"
-opgehaald: 2026-11-11
+opgehaald: 2026-11-12
 ---
 
 # Richtlijn voor strafvordering vuurwerkdelicten

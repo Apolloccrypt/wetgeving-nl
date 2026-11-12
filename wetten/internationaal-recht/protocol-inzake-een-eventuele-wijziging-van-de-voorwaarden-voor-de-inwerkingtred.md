@@ -7,7 +7,7 @@ laatste_update: 1989-12-15
 status: geldig
 toestand: 1989-12-15
 bron: "https://wetten.overheid.nl/BWBV0002882"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Protocol inzake een eventuele wijziging van de voorwaarden voor de inwerkingtreding van het Akkoord betreffende Gemeenschapsoctrooien

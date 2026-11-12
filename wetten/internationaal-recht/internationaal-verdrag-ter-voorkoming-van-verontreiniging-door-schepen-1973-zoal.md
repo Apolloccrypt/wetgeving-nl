@@ -8,7 +8,7 @@ laatste_update: 2026-03-01
 status: geldig
 toestand: 2026-03-01
 bron: "https://wetten.overheid.nl/BWBV0003241"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973, zoals gewijzigd door het Protocol van 1978 daarbij

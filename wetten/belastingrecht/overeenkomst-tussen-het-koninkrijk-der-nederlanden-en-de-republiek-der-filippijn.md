@@ -8,7 +8,7 @@ laatste_update: 1991-09-20
 status: geldig
 toestand: 1991-09-20
 bron: "https://wetten.overheid.nl/BWBV0002851"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek der Filippijnen tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen

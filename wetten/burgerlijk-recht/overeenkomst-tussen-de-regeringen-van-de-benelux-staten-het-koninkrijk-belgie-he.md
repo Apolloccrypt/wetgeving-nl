@@ -8,7 +8,7 @@ laatste_update: 2008-12-01
 status: geldig
 toestand: 2008-12-01
 bron: "https://wetten.overheid.nl/BWBV0003149"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tussen de Regeringen van de Benelux-staten (het Koninkrijk België, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden) en de Macedoonse Regering betreffende de overname van onregelmatig verblijvende personen (Overnameovereenkomst)

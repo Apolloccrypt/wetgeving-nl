@@ -8,7 +8,7 @@ laatste_update: 1982-03-02
 status: geldig
 toestand: 1982-03-02
 bron: "https://wetten.overheid.nl/BWBV0002681"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Democratische Socialistische Republiek Sri Lanka inzake technische samenwerking

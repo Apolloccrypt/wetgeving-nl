@@ -8,7 +8,7 @@ laatste_update: 1998-10-01
 status: geldig
 toestand: 1998-10-01
 bron: "https://wetten.overheid.nl/BWBV0003771"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag inzake het recht dat van toepassing is op verbintenissen uit overeenkomst

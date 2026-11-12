@@ -8,7 +8,7 @@ laatste_update: 1991-08-22
 status: geldig
 toestand: 1991-08-22
 bron: "https://wetten.overheid.nl/BWBV0002909"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag inzake de uitbanning van alle vormen van discriminatie van vrouwen

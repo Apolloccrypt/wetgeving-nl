@@ -8,7 +8,7 @@ laatste_update: 2026-10-30
 status: geldig
 toestand: 2026-10-30
 bron: "https://wetten.overheid.nl/BWBR0053290"
-opgehaald: 2026-11-11
+opgehaald: 2026-11-12
 ---
 
 # Handhavingsbeleid van de Autoriteit Persoonsgegevens

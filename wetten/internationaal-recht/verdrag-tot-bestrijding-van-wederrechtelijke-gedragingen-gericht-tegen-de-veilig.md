@@ -8,7 +8,7 @@ laatste_update: 2011-05-30
 status: geldig
 toestand: 2011-05-30
 bron: "https://wetten.overheid.nl/BWBV0002724"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Verdrag tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van de zeevaart

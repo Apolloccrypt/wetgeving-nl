@@ -5,18 +5,18 @@ identifier: "BWBR0049524"
 categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
 publicatiedatum: 2024-04-05
-laatste_update: 2024-04-05
+laatste_update: 2026-11-06
 status: geldig
-toestand: 2024-04-05
+toestand: 2026-11-06
 bron: "https://wetten.overheid.nl/BWBR0049524"
-opgehaald: 2026-11-04
+opgehaald: 2026-11-12
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 26 maart 2024 nr. BOACAT2024/025, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Ameland
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049524&artikel=2&z=2024-04-05&g=2024-04-05).
+In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049524&artikel=2&z=2026-11-06&g=2026-11-06).
 
 ##### Artikel 2
 
@@ -32,7 +32,7 @@ De personen, werkzaam in de functie van handhaver openbare ruimte in dienst van 
 
 ##### Artikel 4
 
-Op grond van dit besluit kunnen maximaal 5 personen als buitengewoon opsporingsambtenaar worden beëdigd.
+Op grond van dit besluit kunnen maximaal 25 personen als buitengewoon opsporingsambtenaar worden beëdigd.
 
 ##### Artikel 5
 
@@ -44,13 +44,13 @@ Op grond van dit besluit kunnen maximaal 5 personen als buitengewoon opsporingsa
 
 1. De gemeente Ameland brengt jaarlijks, voor 1 april, verslag uit over:
 
-- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049524&artikel=2&z=2024-04-05&g=2024-04-05) genoemde functie;
+- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049524&artikel=2&z=2026-11-06&g=2026-11-06) genoemde functie;
 
 - b. de door die buitengewoon opsporingsambtenaren verrichte activiteiten;
 
 - c. de stand van zaken met betrekking tot de opleiding van die buitengewoon opsporingsambtenaren, waarbij in ieder geval wordt aangegeven hoeveel personen in het verslagjaar zijn aangemeld voor het door de Minister voor Rechtsbescherming goedgekeurde examen en hoeveel personen in dat jaar voor dat examen zijn geslaagd.
 
-2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049524&artikel=5&z=2024-04-05&g=2024-04-05) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid, Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
+2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049524&artikel=5&z=2026-11-06&g=2026-11-06) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid, Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
 
 ##### Artikel 7
 

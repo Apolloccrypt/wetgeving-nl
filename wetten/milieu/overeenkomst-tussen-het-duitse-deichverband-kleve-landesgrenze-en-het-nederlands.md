@@ -8,7 +8,7 @@ laatste_update: 2010-08-18
 status: geldig
 toestand: 2010-08-18
 bron: "https://wetten.overheid.nl/BWBV0003825"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tussen het Duitse Deichverband "Kleve-Landesgrenze" en het Nederlandse Polderdistrict "Maas en Waal" over de waterafvoer uit het gemeenschappelijke stroomgebied naar het gemaal te Nijmegen

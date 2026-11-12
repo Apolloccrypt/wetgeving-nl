@@ -8,7 +8,7 @@ laatste_update: 2010-08-19
 status: geldig
 toestand: 2010-08-19
 bron: "https://wetten.overheid.nl/BWBV0002868"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Facultatief Protocol bij het Verdrag inzake de veiligheid van VN-personeel en geassocieerd personeel

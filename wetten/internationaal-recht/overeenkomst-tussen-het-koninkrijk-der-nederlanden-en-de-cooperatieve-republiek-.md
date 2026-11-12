@@ -8,7 +8,7 @@ laatste_update: 1991-11-22
 status: geldig
 toestand: 1991-11-22
 bron: "https://wetten.overheid.nl/BWBV0002769"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Coöperatieve Republiek Guyana betreffende Tropenbos, het programma van onderzoek en ontwikkeling in vochtige tropenbos-landen

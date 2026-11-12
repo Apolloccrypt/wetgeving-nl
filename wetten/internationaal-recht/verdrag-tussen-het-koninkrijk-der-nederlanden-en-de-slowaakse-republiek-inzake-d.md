@@ -8,7 +8,7 @@ laatste_update: 2009-12-24
 status: geldig
 toestand: 2009-12-24
 bron: "https://wetten.overheid.nl/BWBV0003480"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Slowaakse Republiek inzake de privileges en immuniteiten van verbindingsofficieren die door de Slowaakse Republiek bij Europol gedetacheerd worden

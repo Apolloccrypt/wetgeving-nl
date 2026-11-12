@@ -5,10 +5,11 @@ categorie: "Overig"
 soort: "zbo"
 publicatiedatum: 2026-08-04
 laatste_update: 2026-08-04
-status: geldig
+status: vervallen
+vervallen_op: 2026-11-04
 toestand: 2026-08-04
 bron: "https://wetten.overheid.nl/BWBR0052956"
-opgehaald: 2026-10-07
+opgehaald: 2026-11-12
 ---
 
 # Beleidsregel budgettair kader Wlz 2026

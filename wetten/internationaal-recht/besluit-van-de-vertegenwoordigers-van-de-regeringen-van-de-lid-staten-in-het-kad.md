@@ -8,7 +8,7 @@ laatste_update: 2002-11-28
 status: geldig
 toestand: 2002-11-28
 bron: "https://wetten.overheid.nl/BWBV0003028"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Besluit van de Vertegenwoordigers van de regeringen van de Lid-Staten, in het kader van de Raad bijeen, van 25 juni 1996 betreffende de opstelling van een nood reisdocument

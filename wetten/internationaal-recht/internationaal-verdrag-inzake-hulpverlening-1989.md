@@ -8,7 +8,7 @@ laatste_update: 1998-12-10
 status: geldig
 toestand: 1998-12-10
 bron: "https://wetten.overheid.nl/BWBV0002920"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Internationaal Verdrag inzake hulpverlening, 1989

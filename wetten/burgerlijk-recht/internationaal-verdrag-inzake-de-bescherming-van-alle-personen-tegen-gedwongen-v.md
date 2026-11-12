@@ -8,7 +8,7 @@ laatste_update: 2011-04-22
 status: geldig
 toestand: 2011-04-22
 bron: "https://wetten.overheid.nl/BWBV0003065"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Internationaal Verdrag inzake de bescherming van alle personen tegen gedwongen verdwijning

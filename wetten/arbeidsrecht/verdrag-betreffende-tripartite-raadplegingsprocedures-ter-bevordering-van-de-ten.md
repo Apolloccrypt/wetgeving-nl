@@ -8,7 +8,7 @@ laatste_update: 1979-07-27
 status: geldig
 toestand: 1979-07-27
 bron: "https://wetten.overheid.nl/BWBV0003775"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag betreffende tripartite raadplegingsprocedures ter bevordering van de tenuitvoerlegging van internationale arbeidsnormen

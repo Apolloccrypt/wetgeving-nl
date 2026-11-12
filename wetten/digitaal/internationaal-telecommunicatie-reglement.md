@@ -8,7 +8,7 @@ laatste_update: 1991-10-17
 status: geldig
 toestand: 1991-10-17
 bron: "https://wetten.overheid.nl/BWBV0002750"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Internationaal telecommunicatie reglement

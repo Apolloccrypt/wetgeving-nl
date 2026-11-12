@@ -8,7 +8,7 @@ laatste_update: 1981-11-12
 status: geldig
 toestand: 1981-11-12
 bron: "https://wetten.overheid.nl/BWBV0003716"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag betreffende jaarlijks verlof met behoud van loon van zeevarenden

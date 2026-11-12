@@ -8,7 +8,7 @@ laatste_update: 2016-04-19
 status: geldig
 toestand: 2016-04-19
 bron: "https://wetten.overheid.nl/BWBV0003257"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Internationaal Verdrag van Nairobi inzake het opruimen van wrakken, 2007

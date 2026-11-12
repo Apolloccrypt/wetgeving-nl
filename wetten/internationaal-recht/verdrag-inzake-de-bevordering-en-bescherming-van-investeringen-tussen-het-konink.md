@@ -8,7 +8,7 @@ laatste_update: 2009-08-01
 status: geldig
 toestand: 2009-08-01
 bron: "https://wetten.overheid.nl/BWBV0003235"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag inzake de bevordering en bescherming van investeringen tussen het Koninkrijk der Nederlanden en de Republiek Burundi

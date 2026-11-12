@@ -7,7 +7,7 @@ laatste_update: 1977-05-31
 status: geldig
 toestand: 1977-05-31
 bron: "https://wetten.overheid.nl/BWBV0003791"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Mali betreffende samenwerking bij de opleiding van leraren voor het hoger landbouwonderwijs in Mali

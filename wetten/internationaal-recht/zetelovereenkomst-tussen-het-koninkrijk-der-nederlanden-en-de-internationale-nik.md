@@ -8,7 +8,7 @@ laatste_update: 2005-12-31
 status: geldig
 toestand: 2005-12-31
 bron: "https://wetten.overheid.nl/BWBV0003030"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Zetelovereenkomst tussen het Koninkrijk der Nederlanden en de Internationale Nikkel Studie Groep

@@ -7,7 +7,7 @@ laatste_update: 1999-10-06
 status: geldig
 toestand: 1999-10-06
 bron: "https://wetten.overheid.nl/BWBV0002980"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Protocol betreffende verontreiniging afkomstig van bronnen en activiteiten op het land bij het Verdrag inzake de bescherming en ontwikkeling van het mariene milieu in het Caraïbisch gebied, met bijlagen

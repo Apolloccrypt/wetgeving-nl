@@ -8,7 +8,7 @@ laatste_update: 2005-10-20
 status: geldig
 toestand: 2005-10-20
 bron: "https://wetten.overheid.nl/BWBV0003029"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst inzake vervoer over zee tussen het Koninkrijk der Nederlanden en de Verenigde Mexicaanse Staten

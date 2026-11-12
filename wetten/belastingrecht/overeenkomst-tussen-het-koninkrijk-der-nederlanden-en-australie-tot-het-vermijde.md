@@ -8,7 +8,7 @@ laatste_update: 1987-05-01
 status: geldig
 toestand: 1987-05-01
 bron: "https://wetten.overheid.nl/BWBV0003760"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en Australië tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen

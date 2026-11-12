@@ -8,7 +8,7 @@ laatste_update: 1989-11-29
 status: geldig
 toestand: 1989-11-29
 bron: "https://wetten.overheid.nl/BWBV0003778"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag betreffende de bescherming van het vakverenigingsrecht en procedures voor het vaststellen van arbeidsvoorwaarden in de openbare dienst

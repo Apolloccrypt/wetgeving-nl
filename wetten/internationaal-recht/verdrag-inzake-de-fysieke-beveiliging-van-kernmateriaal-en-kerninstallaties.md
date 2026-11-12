@@ -8,7 +8,7 @@ laatste_update: 2016-05-08
 status: geldig
 toestand: 2016-05-08
 bron: "https://wetten.overheid.nl/BWBV0003800"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag inzake de fysieke beveiliging van kernmateriaal en kerninstallaties

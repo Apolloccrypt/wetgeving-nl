@@ -8,7 +8,7 @@ laatste_update: 2008-03-06
 status: geldig
 toestand: 2008-03-06
 bron: "https://wetten.overheid.nl/BWBV0002861"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Uitvoeringsprotocol bij de Overeenkomst tussen de Europese Gemeenschap en de Republiek Albanië inzake de overname van personen die zonder vergunning in de Republiek Albanië of de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden) verblijven

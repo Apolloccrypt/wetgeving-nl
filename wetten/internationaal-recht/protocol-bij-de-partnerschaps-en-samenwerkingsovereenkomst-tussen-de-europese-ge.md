@@ -8,7 +8,7 @@ laatste_update: 2009-02-01
 status: geldig
 toestand: 2009-02-01
 bron: "https://wetten.overheid.nl/BWBV0003109"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Protocol bij de Partnerschaps- en Samenwerkingsovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Republiek Oezbekistan, anderzijds, om rekening te houden met de toetreding van de Republiek Bulgarije en Roemenië tot de Europese Unie

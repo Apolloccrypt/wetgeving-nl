@@ -8,7 +8,7 @@ laatste_update: 1987-06-10
 status: geldig
 toestand: 1987-06-10
 bron: "https://wetten.overheid.nl/BWBV0003326"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belastingen met betrekking tot belastingen naar het inkomen en naar het vermogen

@@ -8,7 +8,7 @@ laatste_update: 1979-02-06
 status: geldig
 toestand: 1979-02-06
 bron: "https://wetten.overheid.nl/BWBV0003419"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tussen bepaalde Lid-Staten van de Europese Organisatie voor Ruimteonderzoek en de Europese Organisatie voor Ruimteonderzoek betreffende de uitvoering van het Ruimtelaboratorium-programma

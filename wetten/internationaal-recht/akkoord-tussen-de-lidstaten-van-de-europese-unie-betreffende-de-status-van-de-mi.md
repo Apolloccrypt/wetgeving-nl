@@ -8,7 +8,7 @@ laatste_update: 2019-04-01
 status: geldig
 toestand: 2019-04-01
 bron: "https://wetten.overheid.nl/BWBV0003024"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Akkoord tussen de lidstaten van de Europese Unie betreffende de status van de militairen en leden van het burgerpersoneel die bij de instellingen van de Europese Unie gedetacheerd zijn, van de hoofdkwartieren en de strijdkrachten die ter beschikking van de Europese Unie kunnen worden gesteld in het kader van de voorbereiding en de uitvoering van de opdrachten bedoeld in artikel 17, lid 2, van het Verdrag betreffende de Europese Unie, en van de militairen en leden van het burgerpersoneel van de lidstaten die aan de Europese Unie beschikbaar zijn gesteld om in dit kader op te treden (EU-SOFA)

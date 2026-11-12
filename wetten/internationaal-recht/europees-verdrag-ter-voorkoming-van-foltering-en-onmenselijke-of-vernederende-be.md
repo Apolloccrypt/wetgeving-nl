@@ -8,7 +8,7 @@ laatste_update: 2002-03-01
 status: geldig
 toestand: 2002-03-01
 bron: "https://wetten.overheid.nl/BWBV0002785"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Europees Verdrag ter voorkoming van foltering en onmenselijke of vernederende behandeling of bestraffing, zoals gewijzigd door Protocol 1 en Protocol 2 van 4-11-1993

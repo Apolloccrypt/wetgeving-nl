@@ -5,11 +5,11 @@ identifier: "BWBR0050349"
 categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
 publicatiedatum: 2024-11-01
-laatste_update: 2026-05-06
+laatste_update: 2026-11-06
 status: geldig
-toestand: 2026-05-06
+toestand: 2026-11-06
 bron: "https://wetten.overheid.nl/BWBR0050349"
-opgehaald: 2026-11-06
+opgehaald: 2026-11-12
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 22 oktober 2024, kenmerk 3989124-1074008-DMO, houdende het verstrekken van een specifieke uitkering voor specialistische functies in het kader van de aanpak van het huiselijk geweld en kindermishandeling. (Regeling specifieke uitkering specialistische functies aanpak huiselijk geweld en kindermishandeling)
@@ -18,9 +18,9 @@ opgehaald: 2026-11-06
 
 In deze regeling wordt verstaan onder:
 
-- *specialistische functie:* functie, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050349&artikel=4&z=2026-05-06&g=2026-05-06), die wordt uitgevoerd door een coördinerende gemeente in het kader van de gemeentelijke verantwoordelijkheid voor de aanpak van huiselijk geweld en kindermishandeling;
+- *specialistische functie:* functie, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050349&artikel=4&z=2026-11-06&g=2026-11-06), die wordt uitgevoerd door een coördinerende gemeente in het kader van de gemeentelijke verantwoordelijkheid voor de aanpak van huiselijk geweld en kindermishandeling;
 
-- *coördinerende gemeente:* gemeente, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050349&artikel=3&z=2026-05-06&g=2026-05-06), die aangewezen is voor de uitvoering van de specialistische functie;
+- *coördinerende gemeente:* gemeente, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050349&artikel=3&z=2026-11-06&g=2026-11-06), die aangewezen is voor de uitvoering van de specialistische functie;
 
 - *huiselijk geweld:* huiselijk geweld als bedoeld in [artikel 1.1.1 van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=1.1.1);
 
@@ -82,7 +82,7 @@ De specifieke uitkering voor het jaar 2026 bedraagt per coördinerende gemeente 
 
 | Specialistische functie | Specifieke uitkering | Coördinerende gemeente |
 | --- | --- | --- |
-| Landelijk knooppunt huwelijksdwang en achterlating | € 824.135,88 | Den Haag |
+| Landelijk knooppunt huwelijksdwang en achterlating | € 860.135,88 | Den Haag |
 | Landelijke coördinatie Centra Seksueel Geweld | € 1.791.147,04 | Utrecht |
 | Hulp slachtoffers eergerelateerd geweld en seksuele uitbuiting | € 3.950.036,00 | Groningen |
 | € 2.195.522,36 | Tilburg |  |
@@ -125,7 +125,7 @@ De ontvanger van een specifieke uitkering legt verantwoording af over de bestedi
 
 ##### Artikel 9. Vaststelling en terugvordering
 
-1. De Minister besluit uiterlijk 37 weken na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0050349&artikel=8&z=2026-05-06&g=2026-05-06), over de vaststelling van de specifieke uitkering.
+1. De Minister besluit uiterlijk 37 weken na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0050349&artikel=8&z=2026-11-06&g=2026-11-06), over de vaststelling van de specifieke uitkering.
 
 2. Indien de activiteiten waarvoor de specifieke uitkering is verleend zijn verricht en daarnaast volledig is voldaan aan de voorwaarden en verplichtingen die verbonden zijn aan de specifieke uitkering wordt de specifieke uitkering vastgesteld op het bedrag dat bestaat uit de gerealiseerde kosten, tot ten hoogste het in de verleningsbeschikking genoemde bedrag.
 

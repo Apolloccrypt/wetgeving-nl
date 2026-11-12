@@ -8,7 +8,7 @@ laatste_update: 1988-12-27
 status: geldig
 toestand: 1988-12-27
 bron: "https://wetten.overheid.nl/BWBV0002799"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Verdrag van Wenen ter bescherming van de ozonlaag

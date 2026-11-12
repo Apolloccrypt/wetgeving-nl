@@ -8,7 +8,7 @@ laatste_update: 2008-02-01
 status: geldig
 toestand: 2008-02-01
 bron: "https://wetten.overheid.nl/BWBV0002917"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst betreffende samenwerking en een douane-unie tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek San Marino, anderzijds

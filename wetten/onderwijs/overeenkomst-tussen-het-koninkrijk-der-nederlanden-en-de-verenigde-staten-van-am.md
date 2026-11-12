@@ -8,7 +8,7 @@ laatste_update: 1973-08-08
 status: geldig
 toestand: 1973-08-08
 bron: "https://wetten.overheid.nl/BWBV0003425"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika inzake de financiering van bepaalde uitwisselingsprogramma's voor onderwijsdoeleinden

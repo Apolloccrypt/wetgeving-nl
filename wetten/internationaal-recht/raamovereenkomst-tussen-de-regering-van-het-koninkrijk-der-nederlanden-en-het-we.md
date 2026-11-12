@@ -8,7 +8,7 @@ laatste_update: 1972-02-01
 status: geldig
 toestand: 1972-02-01
 bron: "https://wetten.overheid.nl/BWBV0003521"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Raamovereenkomst tussen de Regering van het Koninkrijk der Nederlanden en het Wereldvoedselprogramma der Verenigde Naties/FAO betreffende hulp van het Wereldvoedselprogramma aan de Nederlandse Antillen

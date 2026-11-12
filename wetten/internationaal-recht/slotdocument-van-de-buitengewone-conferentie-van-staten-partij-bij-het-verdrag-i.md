@@ -8,7 +8,7 @@ laatste_update: 1992-06-05
 status: geldig
 toestand: 1992-06-05
 bron: "https://wetten.overheid.nl/BWBV0002803"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Slotdocument van de Buitengewone Conferentie van Staten Partij bij het Verdrag inzake conventionele strijdkrachten in Europa

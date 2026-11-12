@@ -8,7 +8,7 @@ laatste_update: 2008-03-01
 status: geldig
 toestand: 2008-03-01
 bron: "https://wetten.overheid.nl/BWBV0002897"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Paraguay inzake de export en handhaving van socialezekerheidsuitkeringen

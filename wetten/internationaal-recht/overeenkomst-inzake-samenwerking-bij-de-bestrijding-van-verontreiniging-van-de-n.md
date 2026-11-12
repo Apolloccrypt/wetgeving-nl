@@ -8,7 +8,7 @@ laatste_update: 2017-06-01
 status: geldig
 toestand: 2017-06-01
 bron: "https://wetten.overheid.nl/BWBV0002780"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst inzake samenwerking bij de bestrijding van verontreiniging van de Noordzee door olie en andere schadelijke stoffen

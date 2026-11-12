@@ -8,7 +8,7 @@ laatste_update: 1994-03-11
 status: geldig
 toestand: 1994-03-11
 bron: "https://wetten.overheid.nl/BWBV0003774"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden ten behoeve van Aruba en de Verenigde Staten van Amerika inzake de overdracht van geconfisqueerde gelden

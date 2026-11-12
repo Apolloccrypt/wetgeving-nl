@@ -7,7 +7,7 @@ laatste_update: 2009-01-22
 status: geldig
 toestand: 2009-01-22
 bron: "https://wetten.overheid.nl/BWBV0003195"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Tijdelijke economische partnerschapsovereenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en Centraal-Afrika, anderzijds

@@ -8,7 +8,7 @@ laatste_update: 1979-01-01
 status: geldig
 toestand: 1979-01-01
 bron: "https://wetten.overheid.nl/BWBV0003396"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tussen de Europese Economische Gemeenschap (EEG) en België, Denemarken, de Bondsrepubliek Duitsland, Frankrijk, Ierland, Italië, Luxemburg, Nederland en het Verenigd Koninkrijk, Lid-Staten van deze Gemeenschap (Lid-Staten), enerzijds en de Internationale Ontwikkelingsassociatie (Associatie) anderzijds

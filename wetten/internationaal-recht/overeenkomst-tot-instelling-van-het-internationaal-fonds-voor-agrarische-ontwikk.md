@@ -8,7 +8,7 @@ laatste_update: 2021-02-18
 status: geldig
 toestand: 2021-02-18
 bron: "https://wetten.overheid.nl/BWBV0003787"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tot instelling van het Internationaal Fonds voor Agrarische Ontwikkeling

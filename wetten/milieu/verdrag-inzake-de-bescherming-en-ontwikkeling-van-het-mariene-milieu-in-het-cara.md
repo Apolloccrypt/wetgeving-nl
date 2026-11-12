@@ -8,7 +8,7 @@ laatste_update: 1986-10-11
 status: geldig
 toestand: 1986-10-11
 bron: "https://wetten.overheid.nl/BWBV0002733"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Verdrag inzake de bescherming en ontwikkeling van het mariene milieu in het Caraïbisch gebied

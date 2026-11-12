@@ -8,7 +8,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBV0002893"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Verdrag ter afschaffing van dubbele belasting in geval van winstcorrecties tussen verbonden ondernemingen

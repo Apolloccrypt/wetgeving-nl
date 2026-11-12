@@ -8,7 +8,7 @@ laatste_update: 1975-09-16
 status: geldig
 toestand: 1975-09-16
 bron: "https://wetten.overheid.nl/BWBV0003422"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Protocol inzake de voorrechten en immuniteiten van de Europese Organisatie voor astronomisch onderzoek op het zuidelijk halfrond

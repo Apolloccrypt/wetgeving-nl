@@ -8,7 +8,7 @@ laatste_update: 2002-01-25
 status: geldig
 toestand: 2002-01-25
 bron: "https://wetten.overheid.nl/BWBV0002794"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Gemeenschappelijk Fonds voor Grondstoffen betreffende de zetel van het Fonds

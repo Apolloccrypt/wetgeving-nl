@@ -8,7 +8,7 @@ laatste_update: 2010-08-21
 status: geldig
 toestand: 2010-08-21
 bron: "https://wetten.overheid.nl/BWBV0002895"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Statuut van de Internationale Studiegroep voor Koper

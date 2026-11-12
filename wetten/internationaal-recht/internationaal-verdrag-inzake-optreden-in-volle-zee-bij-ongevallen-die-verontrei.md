@@ -8,7 +8,7 @@ laatste_update: 1975-12-18
 status: geldig
 toestand: 1975-12-18
 bron: "https://wetten.overheid.nl/BWBV0003246"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Internationaal Verdrag inzake optreden in volle zee bij ongevallen die verontreiniging door olie kunnen veroorzaken

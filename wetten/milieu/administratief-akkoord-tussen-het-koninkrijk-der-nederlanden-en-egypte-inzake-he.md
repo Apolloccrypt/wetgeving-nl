@@ -8,7 +8,7 @@ laatste_update: 2009-12-31
 status: geldig
 toestand: 2009-12-31
 bron: "https://wetten.overheid.nl/BWBV0003037"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Administratief Akkoord tussen het Koninkrijk der Nederlanden en Egypte inzake het project "Fayoum Drinking Water and Sanitation - Phase V"

@@ -8,7 +8,7 @@ laatste_update: 1994-07-30
 status: geldig
 toestand: 1994-07-30
 bron: "https://wetten.overheid.nl/BWBV0002965"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Protocol tot wijziging van de Overeenkomst tussen het Koninkrijk der Nederlanden en Canada tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen, met Protocol

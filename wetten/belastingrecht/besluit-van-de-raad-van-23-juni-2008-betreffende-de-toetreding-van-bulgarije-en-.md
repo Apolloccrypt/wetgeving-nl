@@ -8,7 +8,7 @@ laatste_update: 2008-07-01
 status: geldig
 toestand: 2008-07-01
 bron: "https://wetten.overheid.nl/BWBV0003131"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Besluit van de Raad van 23 juni 2008 betreffende de toetreding van Bulgarije en Roemenië tot het Verdrag van 23 juli 1990 ter afschaffing van dubbele belasting in geval van winstcorrecties tussen verbonden ondernemingen (2008/492/EG)

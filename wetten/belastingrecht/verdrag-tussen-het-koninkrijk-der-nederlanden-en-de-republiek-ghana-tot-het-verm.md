@@ -8,7 +8,7 @@ laatste_update: 2017-12-31
 status: geldig
 toestand: 2017-12-31
 bron: "https://wetten.overheid.nl/BWBV0003197"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Ghana tot het vermijden van dubbele belasting met betrekking tot belastingen naar het inkomen en naar vermogenswinsten en het voorkomen van het ontgaan en ontwijken van belasting

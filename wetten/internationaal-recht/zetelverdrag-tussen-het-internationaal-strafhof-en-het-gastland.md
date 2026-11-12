@@ -8,7 +8,7 @@ laatste_update: 2008-03-01
 status: geldig
 toestand: 2008-03-01
 bron: "https://wetten.overheid.nl/BWBV0002899"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Zetelverdrag tussen het Internationaal Strafhof en het Gastland

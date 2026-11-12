@@ -8,7 +8,7 @@ laatste_update: 1995-08-10
 status: geldig
 toestand: 1995-08-10
 bron: "https://wetten.overheid.nl/BWBV0003604"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van de burgerluchtvaart

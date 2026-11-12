@@ -8,7 +8,7 @@ laatste_update: 2004-11-19
 status: geldig
 toestand: 2004-11-19
 bron: "https://wetten.overheid.nl/BWBV0003694"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag inzake het verbod of de beperking van het gebruik van bepaalde conventionele wapens die geacht kunnen worden buitensporig leed te veroorzaken of een niet-onderscheidende werking te hebben

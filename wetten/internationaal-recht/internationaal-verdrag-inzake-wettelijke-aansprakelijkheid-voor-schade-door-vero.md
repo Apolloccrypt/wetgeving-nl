@@ -8,7 +8,7 @@ laatste_update: 2011-03-23
 status: geldig
 toestand: 2011-03-23
 bron: "https://wetten.overheid.nl/BWBV0003260"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Internationaal verdrag inzake wettelijke aansprakelijkheid voor schade door verontreiniging door bunkerolie, 2001

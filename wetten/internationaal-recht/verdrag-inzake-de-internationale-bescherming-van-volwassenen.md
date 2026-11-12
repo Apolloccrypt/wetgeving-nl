@@ -7,7 +7,7 @@ laatste_update: 2000-01-13
 status: geldig
 toestand: 2000-01-13
 bron: "https://wetten.overheid.nl/BWBV0003084"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag inzake de internationale bescherming van volwassenen

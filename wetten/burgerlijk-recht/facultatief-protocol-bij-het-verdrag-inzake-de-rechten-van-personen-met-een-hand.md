@@ -7,7 +7,7 @@ laatste_update: 2006-12-13
 status: geldig
 toestand: 2006-12-13
 bron: "https://wetten.overheid.nl/BWBV0003559"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Facultatief Protocol bij het Verdrag inzake de rechten van personen met een handicap

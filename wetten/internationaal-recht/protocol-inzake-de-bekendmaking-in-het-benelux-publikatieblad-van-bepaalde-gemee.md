@@ -8,7 +8,7 @@ laatste_update: 1982-06-01
 status: geldig
 toestand: 1982-06-01
 bron: "https://wetten.overheid.nl/BWBV0003524"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Protocol inzake de bekendmaking in het Benelux-Publikatieblad van bepaalde gemeenschappelijke rechtsregels voor de uitleg waarvan het Benelux-Gerechtshof bevoegd is

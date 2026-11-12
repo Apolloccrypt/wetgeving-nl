@@ -8,7 +8,7 @@ laatste_update: 2006-07-01
 status: geldig
 toestand: 2006-07-01
 bron: "https://wetten.overheid.nl/BWBV0002791"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Helleense Republiek tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen

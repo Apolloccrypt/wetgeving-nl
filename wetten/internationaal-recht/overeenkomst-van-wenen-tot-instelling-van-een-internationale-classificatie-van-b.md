@@ -8,7 +8,7 @@ laatste_update: 2007-01-31
 status: geldig
 toestand: 2007-01-31
 bron: "https://wetten.overheid.nl/BWBV0003767"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst van Wenen tot instelling van een internationale classificatie van beeldbestanddelen van merken

@@ -8,7 +8,7 @@ laatste_update: 1971-08-27
 status: geldig
 toestand: 1971-08-27
 bron: "https://wetten.overheid.nl/BWBV0003737"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland inzake de samenvoeging van de douanebehandeling aan de grensovergang Elten-Spijk en Elten-Babberich

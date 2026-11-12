@@ -8,7 +8,7 @@ laatste_update: 1977-07-31
 status: geldig
 toestand: 1977-07-31
 bron: "https://wetten.overheid.nl/BWBV0003606"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst inzake de aanduiding van geslachtsnamen en voornamen in de registers van de burgerlijke stand

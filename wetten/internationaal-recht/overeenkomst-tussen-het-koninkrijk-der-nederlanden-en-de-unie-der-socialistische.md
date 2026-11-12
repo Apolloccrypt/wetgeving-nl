@@ -8,7 +8,7 @@ laatste_update: 1991-07-20
 status: geldig
 toestand: 1991-07-20
 bron: "https://wetten.overheid.nl/BWBV0002919"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Unie der Socialistische Sovjetrepublieken inzake de bevordering en wederzijdse bescherming van investeringen

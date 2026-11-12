@@ -8,7 +8,7 @@ laatste_update: 2011-10-20
 status: geldig
 toestand: 2011-10-20
 bron: "https://wetten.overheid.nl/BWBV0003488"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Aruba, en Saint Vincent en de Grenadines inzake de uitwisseling van informatie betreffende belastingzaken

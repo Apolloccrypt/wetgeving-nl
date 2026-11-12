@@ -8,7 +8,7 @@ laatste_update: 2003-08-22
 status: geldig
 toestand: 2003-08-22
 bron: "https://wetten.overheid.nl/BWBV0003753"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Staat Qatar inzake luchtdiensten tussen en via hun onderscheiden grondgebieden

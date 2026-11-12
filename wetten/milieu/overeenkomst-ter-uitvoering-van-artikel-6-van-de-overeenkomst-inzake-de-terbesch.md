@@ -8,7 +8,7 @@ laatste_update: 1990-02-19
 status: geldig
 toestand: 1990-02-19
 bron: "https://wetten.overheid.nl/BWBV0002855"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst ter uitvoering van artikel 6 van de Overeenkomst inzake de terbeschikkingstelling en exploitatie van installaties en diensten voor het luchtvervoer door EUROCONTROL in het Luchtverkeersleidingcentrum Maastricht

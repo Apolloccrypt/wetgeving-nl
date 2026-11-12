@@ -8,7 +8,7 @@ laatste_update: 2010-06-02
 status: geldig
 toestand: 2010-06-02
 bron: "https://wetten.overheid.nl/BWBV0003163"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Arabische Emiraten tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen

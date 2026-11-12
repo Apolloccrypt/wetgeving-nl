@@ -8,7 +8,7 @@ laatste_update: 1987-02-01
 status: geldig
 toestand: 1987-02-01
 bron: "https://wetten.overheid.nl/BWBV0002999"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Oostenrijk inzake de erkenning van equivalenties op het gebied van het hoger onderwijs

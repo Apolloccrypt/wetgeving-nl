@@ -8,7 +8,7 @@ laatste_update: 2004-02-07
 status: geldig
 toestand: 2004-02-07
 bron: "https://wetten.overheid.nl/BWBV0002713"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst inzake de bescherming van vleermuizen in Europa

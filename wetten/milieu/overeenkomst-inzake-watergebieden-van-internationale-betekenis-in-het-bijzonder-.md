@@ -8,7 +8,7 @@ laatste_update: 1994-05-01
 status: geldig
 toestand: 1994-05-01
 bron: "https://wetten.overheid.nl/BWBV0003693"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst inzake watergebieden van internationale betekenis, in het bijzonder als verblijfplaats voor watervogels

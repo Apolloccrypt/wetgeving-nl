@@ -8,7 +8,7 @@ laatste_update: 2008-01-01
 status: geldig
 toestand: 2008-01-01
 bron: "https://wetten.overheid.nl/BWBV0002864"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Slovenië inzake het wederzijds aanhouden van voorraden ruwe aardolie en/of aardolieproducten

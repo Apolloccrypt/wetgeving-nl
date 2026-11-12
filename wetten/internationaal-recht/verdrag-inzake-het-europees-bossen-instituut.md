@@ -8,7 +8,7 @@ laatste_update: 2008-01-07
 status: geldig
 toestand: 2008-01-07
 bron: "https://wetten.overheid.nl/BWBV0002865"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Verdrag inzake het Europees Bossen Instituut

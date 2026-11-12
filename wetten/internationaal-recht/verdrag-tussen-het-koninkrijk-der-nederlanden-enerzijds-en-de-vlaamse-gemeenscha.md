@@ -8,7 +8,7 @@ laatste_update: 2008-10-01
 status: geldig
 toestand: 2008-10-01
 bron: "https://wetten.overheid.nl/BWBV0003047"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden, enerzijds en de Vlaamse Gemeenschap en het Vlaams Gewest, anderzijds inzake de samenwerking op het gebied van het beleid en het beheer in het Schelde-estuarium

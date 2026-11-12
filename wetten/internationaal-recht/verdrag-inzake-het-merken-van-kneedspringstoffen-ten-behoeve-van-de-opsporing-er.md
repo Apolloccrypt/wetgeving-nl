@@ -8,7 +8,7 @@ laatste_update: 1998-07-03
 status: geldig
 toestand: 1998-07-03
 bron: "https://wetten.overheid.nl/BWBV0003003"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag inzake het merken van kneedspringstoffen ten behoeve van de opsporing ervan

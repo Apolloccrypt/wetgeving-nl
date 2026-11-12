@@ -8,7 +8,7 @@ laatste_update: 1992-07-02
 status: geldig
 toestand: 1992-07-02
 bron: "https://wetten.overheid.nl/BWBV0002673"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst voor technische samenwerking tussen het Koninkrijk der Nederlanden en de Republiek Guatemala

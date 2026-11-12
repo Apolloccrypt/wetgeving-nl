@@ -8,7 +8,7 @@ laatste_update: 1982-02-25
 status: geldig
 toestand: 1982-02-25
 bron: "https://wetten.overheid.nl/BWBV0003481"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst van Straatsburg van 24 maart 1971 betreffende de internationale classificatie van octrooien

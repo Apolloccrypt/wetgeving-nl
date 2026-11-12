@@ -8,7 +8,7 @@ laatste_update: 1984-05-16
 status: geldig
 toestand: 1984-05-16
 bron: "https://wetten.overheid.nl/BWBV0003374"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Volksrepubliek China betreffende culturele samenwerking

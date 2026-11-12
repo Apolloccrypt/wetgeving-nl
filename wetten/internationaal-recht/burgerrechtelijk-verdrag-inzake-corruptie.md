@@ -8,7 +8,7 @@ laatste_update: 2008-04-01
 status: geldig
 toestand: 2008-04-01
 bron: "https://wetten.overheid.nl/BWBV0002863"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Burgerrechtelijk Verdrag inzake Corruptie

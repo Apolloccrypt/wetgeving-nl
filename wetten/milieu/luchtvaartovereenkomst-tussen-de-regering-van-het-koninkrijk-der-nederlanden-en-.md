@@ -8,7 +8,7 @@ laatste_update: 1980-04-01
 status: geldig
 toestand: 1980-04-01
 bron: "https://wetten.overheid.nl/BWBV0003810"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Luchtvaartovereenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Ministerraad van de Socialistische Republiek van de Unie van Birma

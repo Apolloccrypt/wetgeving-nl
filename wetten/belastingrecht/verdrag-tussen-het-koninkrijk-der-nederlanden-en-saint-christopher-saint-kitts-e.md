@@ -8,7 +8,7 @@ laatste_update: 2010-11-29
 status: geldig
 toestand: 2010-11-29
 bron: "https://wetten.overheid.nl/BWBV0003497"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en Saint Christopher (Saint Kitts) en Nevis inzake de uitwisseling van informatie betreffende belastingzaken

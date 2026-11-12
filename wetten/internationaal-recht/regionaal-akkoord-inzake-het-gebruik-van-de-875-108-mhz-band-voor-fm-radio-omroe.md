@@ -8,7 +8,7 @@ laatste_update: 1987-07-01
 status: geldig
 toestand: 1987-07-01
 bron: "https://wetten.overheid.nl/BWBV0002800"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Regionaal Akkoord inzake het gebruik van de 87,5 - 108 MHz Band voor FM radio omroep

@@ -8,7 +8,7 @@ laatste_update: 2026-03-05
 status: geldig
 toestand: 2026-03-05
 bron: "https://wetten.overheid.nl/BWBV0003779"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Europese Overeenkomst inzake internationale hoofdverkeerswegen

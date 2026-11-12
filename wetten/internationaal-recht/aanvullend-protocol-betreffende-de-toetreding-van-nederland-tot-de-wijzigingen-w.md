@@ -8,7 +8,7 @@ laatste_update: 1923-09-08
 status: geldig
 toestand: 1923-09-08
 bron: "https://wetten.overheid.nl/BWBV0003444"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Aanvullend Protocol betreffende de toetreding van Nederland tot de wijzigingen, welke door het Verdrag van Versailles zijn aangebracht in de Conventie van Mannheim van 1868

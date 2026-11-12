@@ -8,7 +8,7 @@ laatste_update: 1998-12-01
 status: geldig
 toestand: 1998-12-01
 bron: "https://wetten.overheid.nl/BWBV0003476"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Protocol betreffende de uitlegging door het Hof van Justitie van het Verdrag van 27 september 1968 betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken

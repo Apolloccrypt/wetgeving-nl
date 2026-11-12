@@ -8,7 +8,7 @@ laatste_update: 1993-11-01
 status: geldig
 toestand: 1993-11-01
 bron: "https://wetten.overheid.nl/BWBV0002751"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Chili inzake economische en technologische samenwerking

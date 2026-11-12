@@ -8,7 +8,7 @@ laatste_update: 1982-04-01
 status: geldig
 toestand: 1982-04-01
 bron: "https://wetten.overheid.nl/BWBV0002947"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Belgie inzake de Nederlandse Taalunie

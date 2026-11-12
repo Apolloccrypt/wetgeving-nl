@@ -8,7 +8,7 @@ laatste_update: 1999-09-16
 status: geldig
 toestand: 1999-09-16
 bron: "https://wetten.overheid.nl/BWBV0003601"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Protocol betreffende de authentieke tekst in vier talen van het op 7 december 1944 te Chicago tot stand gekomen Verdrag inzake de internationale burgerluchtvaart

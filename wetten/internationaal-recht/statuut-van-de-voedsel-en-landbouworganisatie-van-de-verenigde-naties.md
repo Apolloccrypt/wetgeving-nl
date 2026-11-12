@@ -8,7 +8,7 @@ laatste_update: 2003-12-08
 status: geldig
 toestand: 2003-12-08
 bron: "https://wetten.overheid.nl/BWBV0003179"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Statuut van de Voedsel- en Landbouworganisatie van de Verenigde Naties

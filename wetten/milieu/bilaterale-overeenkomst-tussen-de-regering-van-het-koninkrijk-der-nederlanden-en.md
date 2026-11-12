@@ -8,7 +8,7 @@ laatste_update: 1983-08-19
 status: geldig
 toestand: 1983-08-19
 bron: "https://wetten.overheid.nl/BWBV0002740"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Bilaterale Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Nigeria inzake luchtdiensten

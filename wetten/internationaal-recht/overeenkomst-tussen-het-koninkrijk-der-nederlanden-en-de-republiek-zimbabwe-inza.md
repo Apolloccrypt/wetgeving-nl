@@ -8,7 +8,7 @@ laatste_update: 2012-12-16
 status: geldig
 toestand: 2012-12-16
 bron: "https://wetten.overheid.nl/BWBV0002658"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Zimbabwe inzake de tewerkstelling van Nederlandse vrijwilligers in Zimbabwe

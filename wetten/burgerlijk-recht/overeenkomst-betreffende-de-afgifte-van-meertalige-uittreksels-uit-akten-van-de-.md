@@ -8,7 +8,7 @@ laatste_update: 1987-04-26
 status: geldig
 toestand: 1987-04-26
 bron: "https://wetten.overheid.nl/BWBV0003621"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst betreffende de afgifte van meertalige uittreksels uit akten van de burgerlijke stand

@@ -8,7 +8,7 @@ laatste_update: 2001-11-03
 status: geldig
 toestand: 2001-11-03
 bron: "https://wetten.overheid.nl/BWBV0003155"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Statuut van de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur

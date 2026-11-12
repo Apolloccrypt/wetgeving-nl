@@ -8,7 +8,7 @@ laatste_update: 1995-04-06
 status: geldig
 toestand: 1995-04-06
 bron: "https://wetten.overheid.nl/BWBV0003542"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst inzake het onderhoud van de Rode Beek, de Grensgraaf, de vroegere Rigolbach en de Ruisscherbeek

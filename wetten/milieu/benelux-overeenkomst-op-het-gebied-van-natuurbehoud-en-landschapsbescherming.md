@@ -8,7 +8,7 @@ laatste_update: 1992-06-15
 status: geldig
 toestand: 1992-06-15
 bron: "https://wetten.overheid.nl/BWBV0002665"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Benelux-Overeenkomst op het gebied van natuurbehoud en landschapsbescherming

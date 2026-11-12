@@ -9,7 +9,7 @@ laatste_update: 2005-01-01
 status: geldig
 toestand: 2005-01-01
 bron: "https://wetten.overheid.nl/BWBV0002948"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Aanvullend Protocol bij het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens inzake toezichthoudende autoriteiten en grensoverschrijdend verkeer van gegevens

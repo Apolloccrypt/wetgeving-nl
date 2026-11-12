@@ -8,7 +8,7 @@ laatste_update: 1983-11-24
 status: geldig
 toestand: 1983-11-24
 bron: "https://wetten.overheid.nl/BWBV0002870"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst inzake het onderhoud van het Schoonebeekerdiep/Grenzaa en de Nieuwe Sloot/Grenzschloot, alsmede het onderhoud en het beheer van werken in en langs deze watergangen

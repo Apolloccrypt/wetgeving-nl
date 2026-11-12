@@ -8,7 +8,7 @@ laatste_update: 2005-12-02
 status: geldig
 toestand: 2005-12-02
 bron: "https://wetten.overheid.nl/BWBV0002789"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Europese Overeenkomst voor de bescherming van gewervelde dieren die worden gebruikt voor experimentele en andere wetenschappelijke doeleinden, zoals gewijzigd door het Protocol tot wijziging

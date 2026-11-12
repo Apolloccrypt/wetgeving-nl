@@ -8,7 +8,7 @@ laatste_update: 2008-10-01
 status: geldig
 toestand: 2008-10-01
 bron: "https://wetten.overheid.nl/BWBV0003048"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Vlaams Gewest inzake het gemeenschappelijk nautisch beheer in het Scheldegebied

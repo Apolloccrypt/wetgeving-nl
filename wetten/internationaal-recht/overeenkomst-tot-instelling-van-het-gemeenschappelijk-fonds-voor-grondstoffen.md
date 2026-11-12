@@ -8,7 +8,7 @@ laatste_update: 2016-01-10
 status: geldig
 toestand: 2016-01-10
 bron: "https://wetten.overheid.nl/BWBV0003602"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tot instelling van het Gemeenschappelijk Fonds voor Grondstoffen

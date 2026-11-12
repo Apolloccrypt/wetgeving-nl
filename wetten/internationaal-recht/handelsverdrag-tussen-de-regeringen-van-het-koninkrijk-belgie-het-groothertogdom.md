@@ -8,7 +8,7 @@ laatste_update: 1973-06-01
 status: geldig
 toestand: 1973-06-01
 bron: "https://wetten.overheid.nl/BWBV0003776"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Handelsverdrag tussen de Regeringen van het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, Leden van de Benelux Economische Unie, en de Regering van de Unie van Socialistische Sowjet-Republieken

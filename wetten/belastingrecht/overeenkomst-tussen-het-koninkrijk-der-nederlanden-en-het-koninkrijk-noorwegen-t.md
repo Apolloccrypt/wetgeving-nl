@@ -8,7 +8,7 @@ laatste_update: 2013-11-30
 status: geldig
 toestand: 2013-11-30
 bron: "https://wetten.overheid.nl/BWBV0002712"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Noorwegen tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen

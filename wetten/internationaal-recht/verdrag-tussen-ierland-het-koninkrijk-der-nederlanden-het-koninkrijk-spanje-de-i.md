@@ -8,7 +8,7 @@ laatste_update: 2010-04-02
 status: geldig
 toestand: 2010-04-02
 bron: "https://wetten.overheid.nl/BWBV0002869"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Verdrag tussen Ierland, het Koninkrijk der Nederlanden, het Koninkrijk Spanje, de Italiaanse Republiek, de Portugese Republiek, de Franse Republiek en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland tot oprichting van een Maritiem Analyse- en Operatiecentrum op het gebied van verdovende middelen

@@ -8,7 +8,7 @@ laatste_update: 2017-10-23
 status: geldig
 toestand: 2017-10-23
 bron: "https://wetten.overheid.nl/BWBV0002731"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Verdrag inzake milieu-effectrapportage in grensoverschrijdend verband

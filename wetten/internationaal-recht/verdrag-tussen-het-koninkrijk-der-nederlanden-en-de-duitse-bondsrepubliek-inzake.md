@@ -8,7 +8,7 @@ laatste_update: 1972-12-07
 status: geldig
 toestand: 1972-12-07
 bron: "https://wetten.overheid.nl/BWBV0003545"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Duitse Bondsrepubliek inzake de begrenzing van het continentaal plat onder de Noordzee

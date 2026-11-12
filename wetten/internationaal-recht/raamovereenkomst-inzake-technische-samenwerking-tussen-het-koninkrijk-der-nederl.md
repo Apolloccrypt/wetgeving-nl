@@ -8,7 +8,7 @@ laatste_update: 1993-01-12
 status: geldig
 toestand: 1993-01-12
 bron: "https://wetten.overheid.nl/BWBV0002679"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Raamovereenkomst inzake technische samenwerking tussen het Koninkrijk der Nederlanden en de Republiek Peru

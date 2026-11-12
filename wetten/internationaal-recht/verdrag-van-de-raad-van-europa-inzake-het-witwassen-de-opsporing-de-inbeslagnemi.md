@@ -8,7 +8,7 @@ laatste_update: 2015-10-25
 status: geldig
 toestand: 2015-10-25
 bron: "https://wetten.overheid.nl/BWBV0003045"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag van de Raad van Europa inzake het witwassen, de opsporing, de inbeslagneming en de confiscatie van opbrengsten van misdrijven en de financiering van terrorisme

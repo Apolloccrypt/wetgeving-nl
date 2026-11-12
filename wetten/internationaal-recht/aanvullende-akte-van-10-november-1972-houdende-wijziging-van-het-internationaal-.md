@@ -8,7 +8,7 @@ laatste_update: 1977-02-11
 status: geldig
 toestand: 1977-02-11
 bron: "https://wetten.overheid.nl/BWBV0003807"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Aanvullende Akte van 10 november 1972 houdende wijziging van het Internationaal Verdrag tot bescherming van kweekprodukten

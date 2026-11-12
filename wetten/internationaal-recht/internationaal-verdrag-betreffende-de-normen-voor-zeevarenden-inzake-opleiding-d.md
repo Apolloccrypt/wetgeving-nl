@@ -8,7 +8,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBV0003452"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Internationaal Verdrag betreffende de normen voor zeevarenden inzake opleiding, diplomering en wachtdienst, 1978

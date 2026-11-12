@@ -8,7 +8,7 @@ laatste_update: 1954-01-28
 status: geldig
 toestand: 1954-01-28
 bron: "https://wetten.overheid.nl/BWBV0003276"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst betreffende het douane- en belastingregime voor gasolie, die in de Rijnvaart als boordvoorraad wordt verbruikt

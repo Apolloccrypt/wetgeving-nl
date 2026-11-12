@@ -8,7 +8,7 @@ laatste_update: 1990-04-11
 status: geldig
 toestand: 1990-04-11
 bron: "https://wetten.overheid.nl/BWBV0002722"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tussen de Drie Regeringen van het Koninkrijk der Nederlanden, de Bondsrepubliek Duitsland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en de Regering van de Verenigde Staten van Amerika inzake de beveiliging van gegevens die aan de Verenigde Staten van Amerika worden overgedragen in verband met de initiële fase van een project voor de bouw en exploitatie in de Verenigde Staten van een installatie voor de verrijking van uranium gebaseerd op het gas-ultracentrifuge-procédé dat in de drie Europese landen is ontwikkeld

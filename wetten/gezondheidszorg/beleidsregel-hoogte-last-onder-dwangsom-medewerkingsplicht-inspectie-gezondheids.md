@@ -8,7 +8,7 @@ laatste_update: 2026-11-03
 status: geldig
 toestand: 2026-11-03
 bron: "https://wetten.overheid.nl/BWBR0053289"
-opgehaald: 2026-11-11
+opgehaald: 2026-11-12
 ---
 
 # Beleidsregel hoogte last onder dwangsom medewerkingsplicht, Inspectie Gezondheidszorg en Jeugd

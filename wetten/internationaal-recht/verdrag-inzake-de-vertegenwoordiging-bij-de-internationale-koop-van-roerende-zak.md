@@ -7,7 +7,7 @@ laatste_update: 1983-02-07
 status: geldig
 toestand: 1983-02-07
 bron: "https://wetten.overheid.nl/BWBV0002686"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Verdrag inzake de vertegenwoordiging bij de internationale koop van roerende zaken

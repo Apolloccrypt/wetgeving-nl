@@ -9,7 +9,7 @@ laatste_update: 2026-11-03
 status: geldig
 toestand: 2026-11-03
 bron: "https://wetten.overheid.nl/BWBR0053288"
-opgehaald: 2026-11-11
+opgehaald: 2026-11-12
 ---
 
 # Besluit van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 27 oktober 2026, tot ontheffing van de zorgplicht en meldplicht Cyberbeveiligingswet in de sector overheid (Besluit ontheffing zorgplicht en meldplicht Cbw sector overheid)

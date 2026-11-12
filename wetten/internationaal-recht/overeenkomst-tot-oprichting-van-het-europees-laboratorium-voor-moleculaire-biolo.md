@@ -8,7 +8,7 @@ laatste_update: 1974-07-04
 status: geldig
 toestand: 1974-07-04
 bron: "https://wetten.overheid.nl/BWBV0003423"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tot oprichting van het Europees Laboratorium voor Moleculaire Biologie

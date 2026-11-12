@@ -5,11 +5,11 @@ identifier: "BWBR0053109"
 categorie: "Overig"
 soort: "zbo"
 publicatiedatum: 2026-10-01
-laatste_update: 2026-10-01
+laatste_update: 2026-11-04
 status: geldig
-toestand: 2026-10-01
+toestand: 2026-11-04
 bron: "https://wetten.overheid.nl/BWBR0053109"
-opgehaald: 2026-10-04
+opgehaald: 2026-11-12
 ---
 
 # Besluit van het Stimuleringsfonds voor de Journalistiek van 2 september 2026, nr. INC004, tot vaststelling van een Oproep Jongeren en Journalistiek
@@ -151,7 +151,7 @@ Binnen de Incubator wordt er gewerkt in teamverband. Bij de start worden in over
 
 ### 2.4. Aanvraagprocedure en criteria
 
-Geïnteresseerde deelnemers kunnen in de periode van 19 oktober 2026 tot en met 17 december 2026 een aanvraag indienen. De aanvraagprocedure bestaat uit twee onderdelen: een intakegesprek met het Stimuleringsfonds en het indienen van een aanvraagformulier. Beide onderdelen moeten voor sluiting van de aanvraagperiode zijn voltooid.
+Geïnteresseerde deelnemers kunnen in de periode van 2 november 2026 tot en met 8 januari 2027, 23.59 uur een aanvraag indienen. De aanvraagprocedure bestaat uit twee onderdelen: een intakegesprek met het Stimuleringsfonds en het indienen van een aanvraagformulier. Beide onderdelen moeten voor sluiting van de aanvraagperiode zijn voltooid.
 
 Het inplannen van een intakegesprek gaat via een online boekingssysteem via de website [www.svdj.nl](http://www.svdj.nl/) of het aanvraagformulier. Het intakegesprek dient voor *17 december 2026* te hebben plaatsgevonden. Het indienen van het aanvraagformulier kan digitaal via MijnSVDJ, het online portaal van het Stimuleringsfonds. Het aanvraagformulier bevat onderdelen voor zowel de werkgever, als de medewerker die beschikbaar wordt gesteld. Het invullen van het formulier doen ze samen. Dit geldt uiteraard niet voor zzp’ers, zij kunnen zelfstandig een aanvraag indienen.
 
@@ -252,7 +252,7 @@ In *Fase II (Ontwerpen)* werken de deelnemers ten minste drie onderscheidende op
 
 De exacte data voor de start- en einddata van de fasen worden bij aanvang van het programma bekendgemaakt aan de deelnemers.
 
-Naast de vergoeding voor de tijdsinvestering die in [Hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0053109&hoofdstuk=1&z=2026-10-01&g=2026-10-01) is beschreven, kunnen teams van de Incubator een aanvullende subsidie aanvragen voor de kosten van activiteiten in Fase II en Fase III. Deze subsidie is niet bedoeld als persoonlijke vergoeding, maar om daadwerkelijk de activiteiten te kunnen uitvoeren die nodig zijn om de oplossingen tot stand te brengen en verder uit te werken. Denk aan het inhuren van externe expertise of het organiseren van testsessies.
+Naast de vergoeding voor de tijdsinvestering die in [Hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0053109&hoofdstuk=1&z=2026-11-04&g=2026-11-04) is beschreven, kunnen teams van de Incubator een aanvullende subsidie aanvragen voor de kosten van activiteiten in Fase II en Fase III. Deze subsidie is niet bedoeld als persoonlijke vergoeding, maar om daadwerkelijk de activiteiten te kunnen uitvoeren die nodig zijn om de oplossingen tot stand te brengen en verder uit te werken. Denk aan het inhuren van externe expertise of het organiseren van testsessies.
 
 Om activiteitensubsidie aan te vragen, wijst elk team een penvoerder aan die het contact tussen het team en het Stimuleringsfonds onderhoudt. De penvoerder is ook de enige die activiteitensubsidie kan aanvragen voor het team als geheel. De aanwijzing van een penvoerder laat onverlet dat alle deelnemers van het team afzonderlijk als subsidieontvanger worden aangemerkt en ieder verantwoordelijk zijn voor de naleving van de aan de subsidie verbonden verplichtingen. Indien subsidie geheel of gedeeltelijk wordt teruggevorderd, kan het Stimuleringsfonds het terug te vorderen bedrag verhalen op ieder van de deelnemers.
 

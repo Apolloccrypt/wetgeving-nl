@@ -8,7 +8,7 @@ laatste_update: 2011-08-01
 status: geldig
 toestand: 2011-08-01
 bron: "https://wetten.overheid.nl/BWBV0003143"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag inzake clustermunitie

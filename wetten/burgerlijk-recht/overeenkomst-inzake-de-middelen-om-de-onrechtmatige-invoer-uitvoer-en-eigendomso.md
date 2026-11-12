@@ -8,7 +8,7 @@ laatste_update: 2009-10-17
 status: geldig
 toestand: 2009-10-17
 bron: "https://wetten.overheid.nl/BWBV0003412"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst inzake de middelen om de onrechtmatige invoer, uitvoer en eigendomsoverdracht van culturele goederen te verbieden en te verhinderen

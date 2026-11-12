@@ -8,7 +8,7 @@ laatste_update: 1980-09-04
 status: geldig
 toestand: 1980-09-04
 bron: "https://wetten.overheid.nl/BWBV0003809"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Aanvullend Protocol bij de Europese Overeenkomst nopens het verstrekken van inlichtingen over buitenlands recht

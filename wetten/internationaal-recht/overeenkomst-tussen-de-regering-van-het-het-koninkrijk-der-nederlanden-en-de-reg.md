@@ -8,7 +8,7 @@ laatste_update: 2011-11-15
 status: geldig
 toestand: 2011-11-15
 bron: "https://wetten.overheid.nl/BWBV0002660"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tussen de Regering van het het Koninkrijk der Nederlanden en de Regering van de de Democratische Volksrepubliek Ethiopië inzake de tewerkstelling van ontwikkelingswerkers

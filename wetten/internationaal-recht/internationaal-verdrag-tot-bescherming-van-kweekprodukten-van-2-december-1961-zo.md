@@ -8,7 +8,7 @@ laatste_update: 1998-04-24
 status: geldig
 toestand: 1998-04-24
 bron: "https://wetten.overheid.nl/BWBV0002685"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Internationaal Verdrag tot bescherming van kweekprodukten van 2 december 1961, zoals herzien te Genève op 10 november 1972, 23 oktober 1978, en 19 maart 1991

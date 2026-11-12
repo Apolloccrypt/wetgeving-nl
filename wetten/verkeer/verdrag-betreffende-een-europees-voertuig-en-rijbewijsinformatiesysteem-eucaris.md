@@ -8,7 +8,7 @@ laatste_update: 2018-03-01
 status: geldig
 toestand: 2018-03-01
 bron: "https://wetten.overheid.nl/BWBV0003170"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag betreffende een Europees voertuig- en rijbewijsinformatiesysteem (EUCARIS)

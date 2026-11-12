@@ -7,7 +7,7 @@ laatste_update: 2008-06-30
 status: geldig
 toestand: 2008-06-30
 bron: "https://wetten.overheid.nl/BWBV0003050"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tussen de Europese Unie en Australië inzake de verwerking en doorgifte van persoonsgegevens van passagiers (PNR) uit de Europese Unie door luchtvaartmaatschappijen aan de Australische douane

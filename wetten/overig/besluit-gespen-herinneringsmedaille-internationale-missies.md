@@ -5,11 +5,11 @@ identifier: "BWBR0012681"
 categorie: "Overig"
 soort: "ministeriele-regeling"
 publicatiedatum: 2001-07-21
-laatste_update: 2026-10-08
+laatste_update: 2026-11-06
 status: geldig
-toestand: 2026-10-08
+toestand: 2026-11-06
 bron: "https://wetten.overheid.nl/BWBR0012681"
-opgehaald: 2026-10-17
+opgehaald: 2026-11-12
 ---
 
 # Besluit gespen Herinneringsmedaille Vredesoperaties
@@ -292,7 +292,9 @@ Als gespen behorende bij de Herinneringsmedaille Internationale Missies worden i
 
 - mm. voor deelname aan Non-Combattant Evacuation Operation Kabul ‘NEO KABUL’, voor zover deze deelname heeft plaatsgevonden op het grondgebied in Kabul, Islamabad en Tblisi, alsmede in het luchtruim boven Afghanistan vanaf 16 augustus: NEO KABUL 2021;
 
-- nn. voor deelname aan de operatie ‘FORENSISCHE OPSPORING ICC’, voor zover deze deelname heeft plaatsgevonden op het grondgebied van Oekraïne, alsmede in Rzeszow, Polen, vanaf 14 mei 2022: FORENSISCHE OPSPORING.
+- nn. voor deelname aan de operatie ‘FORENSISCHE OPSPORING ICC’, voor zover deze deelname heeft plaatsgevonden op het grondgebied van Oekraïne, alsmede in Rzeszow, Polen, vanaf 14 mei 2022: FORENSISCHE OPSPORING;
+
+- oo. voor deelname aan non-reguliere operaties vanaf 24 februari 2022, waarbij kan worden afgeweken van de eis dat de inzet een aaneengesloten periode betreft: NR-OPERATIES.
 
 ##### Artikel 2
 

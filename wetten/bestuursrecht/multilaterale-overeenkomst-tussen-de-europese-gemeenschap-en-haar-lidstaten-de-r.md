@@ -8,7 +8,7 @@ laatste_update: 2017-12-01
 status: geldig
 toestand: 2017-12-01
 bron: "https://wetten.overheid.nl/BWBV0003210"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Multilaterale Overeenkomst tussen de Europese Gemeenschap en haar lidstaten, de Republiek Albanië, Bosnië en Herzegovina, de Republiek Bulgarije, de Republiek Kroatië, de Republiek IJsland, de Republiek Montenegro, de voormalige Joegoslavische Republiek Macedonië, het Koninkrijk Noorwegen, de Republiek Servië, Roemenië en de Missie van de Verenigde Naties voor interimbestuur in Kosovo (UNMIK) betreffende de totstandbrenging van een Europese Gemeenschappelijke Luchtvaartruimte

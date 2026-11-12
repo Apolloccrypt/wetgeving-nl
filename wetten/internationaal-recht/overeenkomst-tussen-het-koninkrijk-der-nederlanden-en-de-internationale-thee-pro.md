@@ -8,7 +8,7 @@ laatste_update: 1980-01-30
 status: geldig
 toestand: 1980-01-30
 bron: "https://wetten.overheid.nl/BWBV0003817"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Internationale Thee Promotie Associatie (ITPA) betreffende de zetel van de Organisatie

@@ -8,7 +8,7 @@ laatste_update: 1980-09-22
 status: geldig
 toestand: 1980-09-22
 bron: "https://wetten.overheid.nl/BWBV0003822"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tussen het Waterschap van de Berkel en het Wasser- und Bodenverband Kalkbachgebiet over het onderhoud van de Ratumsebeek en van een zijleiding in het grensgebied

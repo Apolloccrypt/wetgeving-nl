@@ -8,7 +8,7 @@ laatste_update: 2012-01-01
 status: geldig
 toestand: 2012-01-01
 bron: "https://wetten.overheid.nl/BWBV0003518"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag ter bevordering van de economische betrekkingen tussen het Koninkrijk der Nederlanden, ten behoeve van de Nederlandse Antillen, en de Regering van IJsland

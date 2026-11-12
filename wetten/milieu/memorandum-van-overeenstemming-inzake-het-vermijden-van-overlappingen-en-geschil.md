@@ -8,7 +8,7 @@ laatste_update: 1993-04-09
 status: geldig
 toestand: 1993-04-09
 bron: "https://wetten.overheid.nl/BWBV0002824"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Memorandum van Overeenstemming inzake het vermijden van overlappingen en geschillen met betrekking tot zeebodemgebieden

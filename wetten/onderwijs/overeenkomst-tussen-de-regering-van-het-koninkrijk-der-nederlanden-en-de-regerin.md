@@ -8,7 +8,7 @@ laatste_update: 1983-03-23
 status: geldig
 toestand: 1983-03-23
 bron: "https://wetten.overheid.nl/BWBV0002988"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland inzake de erkenning van equivalenties op het gebied van het hoger onderwijs

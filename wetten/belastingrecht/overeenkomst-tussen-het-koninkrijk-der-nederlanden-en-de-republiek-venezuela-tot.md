@@ -8,7 +8,7 @@ laatste_update: 1997-12-11
 status: geldig
 toestand: 1997-12-11
 bron: "https://wetten.overheid.nl/BWBV0002844"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Venezuela tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen

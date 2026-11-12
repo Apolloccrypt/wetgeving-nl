@@ -8,7 +8,7 @@ laatste_update: 1990-03-01
 status: geldig
 toestand: 1990-03-01
 bron: "https://wetten.overheid.nl/BWBV0002667"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst over de verbetering en het onderhoud van het Grenskanaal (Netterdenscher Kanal) en de Wild alsmede het onderhoud en de bediening van kunstwerken in en aan deze wateren

@@ -8,7 +8,7 @@ laatste_update: 2017-05-11
 status: geldig
 toestand: 2017-05-11
 bron: "https://wetten.overheid.nl/BWBV0002763"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst inzake tijdelijke invoer

@@ -8,7 +8,7 @@ laatste_update: 1999-05-13
 status: geldig
 toestand: 1999-05-13
 bron: "https://wetten.overheid.nl/BWBV0003752"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag betreffende de arbeidsveiligheid en gezondheid in havenarbeid

@@ -8,7 +8,7 @@ laatste_update: 1985-01-01
 status: geldig
 toestand: 1985-01-01
 bron: "https://wetten.overheid.nl/BWBV0002779"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Aanvullend Protocol bij de Overeenkomst inzake tijdelijke invoer, vrij van rechten, van medisch, chirurgisch en laboratoriummateriaal in bruikleen afgestaan aan ziekenhuizen en andere medische instellingen ten behoeve van diagnose en behandeling

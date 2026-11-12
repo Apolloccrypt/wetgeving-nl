@@ -8,7 +8,7 @@ laatste_update: 2010-02-01
 status: geldig
 toestand: 2010-02-01
 bron: "https://wetten.overheid.nl/BWBV0003222"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en Bermuda (zoals gemachtigd door de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland) tot het vermijden van dubbele belasting met betrekking tot ondernemingen die schepen of luchtvaartuigen exploiteren in het internationale verkeer

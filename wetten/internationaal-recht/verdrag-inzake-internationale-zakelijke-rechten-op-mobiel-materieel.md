@@ -8,7 +8,7 @@ laatste_update: 2010-09-01
 status: geldig
 toestand: 2010-09-01
 bron: "https://wetten.overheid.nl/BWBV0003189"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag inzake internationale zakelijke rechten op mobiel materieel

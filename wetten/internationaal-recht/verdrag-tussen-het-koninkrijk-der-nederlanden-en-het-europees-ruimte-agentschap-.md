@@ -8,7 +8,7 @@ laatste_update: 2008-02-21
 status: geldig
 toestand: 2008-02-21
 bron: "https://wetten.overheid.nl/BWBV0003016"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Europees Ruimte Agentschap inzake het Europees Centrum voor onderzoek en technologie-ontwikkeling op ruimtevaartgebied

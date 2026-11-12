@@ -8,7 +8,7 @@ laatste_update: 1977-09-14
 status: geldig
 toestand: 1977-09-14
 bron: "https://wetten.overheid.nl/BWBV0003695"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag betreffende betaald scholings- en vormingsverlof

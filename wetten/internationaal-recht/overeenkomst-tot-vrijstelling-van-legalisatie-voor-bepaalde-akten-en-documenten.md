@@ -8,7 +8,7 @@ laatste_update: 1981-05-01
 status: geldig
 toestand: 1981-05-01
 bron: "https://wetten.overheid.nl/BWBV0003768"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tot vrijstelling van legalisatie voor bepaalde akten en documenten

@@ -8,7 +8,7 @@ laatste_update: 1964-04-28
 status: geldig
 toestand: 1964-04-28
 bron: "https://wetten.overheid.nl/BWBV0002908"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Verdrag nopens de erkenning en de tenuitvoerlegging van beslissingen over onderhoudsverplichtingen jegens kinderen

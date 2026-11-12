@@ -8,7 +8,7 @@ laatste_update: 2008-07-01
 status: geldig
 toestand: 2008-07-01
 bron: "https://wetten.overheid.nl/BWBV0002913"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Intern Akkoord tussen de vertegenwoordigers van de regeringen van de lidstaten, in het kader van de Raad bijeen, inzake maatregelen en procedures voor de tenuitvoerlegging van de ACS-EG-Partnerschapsovereenkomst

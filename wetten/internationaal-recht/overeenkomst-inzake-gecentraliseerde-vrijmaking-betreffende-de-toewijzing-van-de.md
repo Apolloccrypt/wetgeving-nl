@@ -8,7 +8,7 @@ laatste_update: 2019-01-16
 status: geldig
 toestand: 2019-01-16
 bron: "https://wetten.overheid.nl/BWBV0003169"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst inzake gecentraliseerde vrijmaking, betreffende de toewijzing van de nationale inningskosten die worden ingehouden wanneer de traditionele eigen middelen ter beschikking van de EU-begroting worden gesteld

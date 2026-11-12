@@ -8,7 +8,7 @@ laatste_update: 2011-05-30
 status: geldig
 toestand: 2011-05-30
 bron: "https://wetten.overheid.nl/BWBV0003226"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Protocol tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van vaste platforms op het continentale plat

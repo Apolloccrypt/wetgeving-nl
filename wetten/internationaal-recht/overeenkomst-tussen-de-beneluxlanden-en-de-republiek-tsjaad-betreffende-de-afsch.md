@@ -8,7 +8,7 @@ laatste_update: 1977-12-01
 status: geldig
 toestand: 1977-12-01
 bron: "https://wetten.overheid.nl/BWBV0003372"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tussen de Beneluxlanden en de Republiek Tsjaad betreffende de afschaffing van visa voor de houders van diplomatieke paspoorten

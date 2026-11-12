@@ -8,7 +8,7 @@ laatste_update: 1983-10-10
 status: geldig
 toestand: 1983-10-10
 bron: "https://wetten.overheid.nl/BWBV0002725"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst over het onderhoud van de Dinkel in het grensgebied bij Gronau

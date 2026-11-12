@@ -8,7 +8,7 @@ laatste_update: 1980-01-10
 status: geldig
 toestand: 1980-01-10
 bron: "https://wetten.overheid.nl/BWBV0003677"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag betreffende de continuering van werkgelegenheid voor zeevarenden

@@ -7,7 +7,7 @@ laatste_update: 1998-09-22
 status: geldig
 toestand: 1998-09-22
 bron: "https://wetten.overheid.nl/BWBV0002977"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Protocol tot aanvulling van de Benelux-Overeenkomst inzake grensoverschrijdende samenwerking tussen territoriale samenwerkingsverbanden of autoriteiten ondertekend te Brussel op 12 september 1986

@@ -8,7 +8,7 @@ laatste_update: 2010-12-25
 status: geldig
 toestand: 2010-12-25
 bron: "https://wetten.overheid.nl/BWBV0003400"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Onderlinge Overeenkomst inzake de uitvoering van artikel 25, vijfde lid

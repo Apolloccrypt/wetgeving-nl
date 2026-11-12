@@ -8,7 +8,7 @@ laatste_update: 1986-01-19
 status: geldig
 toestand: 1986-01-19
 bron: "https://wetten.overheid.nl/BWBV0002937"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Zweden inzake wederzijdse bijstand in douanezaken

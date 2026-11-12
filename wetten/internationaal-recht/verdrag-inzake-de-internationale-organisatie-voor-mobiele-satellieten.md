@@ -8,7 +8,7 @@ laatste_update: 2008-10-06
 status: geldig
 toestand: 2008-10-06
 bron: "https://wetten.overheid.nl/BWBV0003238"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag inzake de Internationale Organisatie voor Mobiele Satellieten

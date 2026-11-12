@@ -8,7 +8,7 @@ laatste_update: 2023-01-15
 status: geldig
 toestand: 2023-01-15
 bron: "https://wetten.overheid.nl/BWBV0003139"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Protocol van 1996 bij het Verdrag inzake de voorkoming van verontreiniging van de zee ten gevolge van het storten van afval en andere stoffen van 1972

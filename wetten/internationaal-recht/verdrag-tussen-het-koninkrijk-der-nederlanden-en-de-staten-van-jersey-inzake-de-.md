@@ -8,7 +8,7 @@ laatste_update: 2008-03-01
 status: geldig
 toestand: 2008-03-01
 bron: "https://wetten.overheid.nl/BWBV0002877"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Staten van Jersey inzake de toegang tot onderlinge overlegprocedures in verband met de aanpassing van winsten van verbonden ondernemingen en de toepassing van de Nederlandse deelnemingsvrijstelling

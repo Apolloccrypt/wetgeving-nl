@@ -8,7 +8,7 @@ laatste_update: 2025-02-09
 status: geldig
 toestand: 2025-02-09
 bron: "https://wetten.overheid.nl/BWBV0003507"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag inzake het wegverkeer

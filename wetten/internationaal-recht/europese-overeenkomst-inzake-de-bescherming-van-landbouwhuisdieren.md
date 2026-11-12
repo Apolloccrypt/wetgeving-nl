@@ -8,7 +8,7 @@ laatste_update: 1981-10-22
 status: geldig
 toestand: 1981-10-22
 bron: "https://wetten.overheid.nl/BWBV0003479"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Europese Overeenkomst inzake de bescherming van landbouwhuisdieren

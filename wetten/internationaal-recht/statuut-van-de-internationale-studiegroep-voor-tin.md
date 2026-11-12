@@ -7,7 +7,7 @@ laatste_update: 1989-04-07
 status: geldig
 toestand: 1989-04-07
 bron: "https://wetten.overheid.nl/BWBV0002884"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Statuut van de Internationale Studiegroep voor Tin

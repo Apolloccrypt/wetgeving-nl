@@ -8,7 +8,7 @@ laatste_update: 1996-07-26
 status: geldig
 toestand: 1996-07-26
 bron: "https://wetten.overheid.nl/BWBV0003781"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Staat Israël tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen

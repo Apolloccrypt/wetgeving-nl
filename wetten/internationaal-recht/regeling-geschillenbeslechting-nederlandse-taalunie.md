@@ -9,7 +9,7 @@ laatste_update: 2019-09-02
 status: geldig
 toestand: 2019-09-02
 bron: "https://wetten.overheid.nl/BWBV0002955"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Belgie inzake de Nederlandse Taalunie

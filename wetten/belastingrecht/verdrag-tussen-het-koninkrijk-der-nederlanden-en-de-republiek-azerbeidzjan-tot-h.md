@@ -8,7 +8,7 @@ laatste_update: 2009-12-18
 status: geldig
 toestand: 2009-12-18
 bron: "https://wetten.overheid.nl/BWBV0003138"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Azerbeidzjan tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen

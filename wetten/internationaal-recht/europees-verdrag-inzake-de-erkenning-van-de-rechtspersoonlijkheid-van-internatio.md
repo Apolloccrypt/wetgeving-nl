@@ -8,7 +8,7 @@ laatste_update: 2007-06-01
 status: geldig
 toestand: 2007-06-01
 bron: "https://wetten.overheid.nl/BWBV0002875"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Europees Verdrag inzake de erkenning van de rechtspersoonlijkheid van internationale niet-gouvernementele organisaties

@@ -8,7 +8,7 @@ laatste_update: 2008-05-01
 status: geldig
 toestand: 2008-05-01
 bron: "https://wetten.overheid.nl/BWBV0002974"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden, ten behoeve van de Nederlandse Antillen, en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake luchtdiensten tussen en via het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, enerzijds, en de Nederlandse Antillen, anderzijds

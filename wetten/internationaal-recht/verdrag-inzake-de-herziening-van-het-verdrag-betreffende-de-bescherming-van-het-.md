@@ -8,7 +8,7 @@ laatste_update: 2010-01-15
 status: geldig
 toestand: 2010-01-15
 bron: "https://wetten.overheid.nl/BWBV0003153"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag inzake de herziening van het Verdrag betreffende de bescherming van het moederschap (herzien), 1952

@@ -8,7 +8,7 @@ laatste_update: 2015-03-09
 status: geldig
 toestand: 2015-03-09
 bron: "https://wetten.overheid.nl/BWBV0002961"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Protocol betreffende speciaal beschermde gebieden en wilde dieren en planten bij het Verdrag inzake de bescherming en ontwikkeling van het mariene milieu in het Caraïbisch gebied

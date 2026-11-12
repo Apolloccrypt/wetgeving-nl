@@ -8,7 +8,7 @@ laatste_update: 1996-06-03
 status: geldig
 toestand: 1996-06-03
 bron: "https://wetten.overheid.nl/BWBV0003530"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting met betrekking tot belastingen van nalatenschappen en verkrijgingen krachtens erfrecht en van schenkingen

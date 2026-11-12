@@ -8,7 +8,7 @@ laatste_update: 1976-11-19
 status: geldig
 toestand: 1976-11-19
 bron: "https://wetten.overheid.nl/BWBV0003710"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-12
 ---
 
 # Verdrag betreffende de bescherming van de vertegenwoordigers van de werknemers in de onderneming en de hun te verlenen faciliteiten

@@ -8,7 +8,7 @@ laatste_update: 1994-11-01
 status: geldig
 toestand: 1994-11-01
 bron: "https://wetten.overheid.nl/BWBV0002781"
-opgehaald: 2026-09-12
+opgehaald: 2026-11-12
 ---
 
 # Verdrag inzake handel met voorkennis
