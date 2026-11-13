@@ -8,7 +8,7 @@ laatste_update: 2012-01-20
 status: geldig
 toestand: 2012-01-20
 bron: "https://wetten.overheid.nl/BWBV0004083"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en Grenada inzake de uitwisseling van informatie betreffende belastingzaken

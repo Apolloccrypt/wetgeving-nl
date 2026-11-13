@@ -8,7 +8,7 @@ laatste_update: 1964-01-17
 status: geldig
 toestand: 1964-01-17
 bron: "https://wetten.overheid.nl/BWBV0004585"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag tot oprichting van een Europese Organisatie voor astronomisch onderzoek op het zuidelijk halfrond

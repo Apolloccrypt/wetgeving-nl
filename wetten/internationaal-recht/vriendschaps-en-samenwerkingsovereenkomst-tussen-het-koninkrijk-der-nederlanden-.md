@@ -8,7 +8,7 @@ laatste_update: 1982-02-01
 status: geldig
 toestand: 1982-02-01
 bron: "https://wetten.overheid.nl/BWBV0003897"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Vriendschaps- en samenwerkingsovereenkomst tussen het Koninkrijk der Nederlanden en de Republiek Suriname

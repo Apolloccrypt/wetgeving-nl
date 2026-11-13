@@ -8,7 +8,7 @@ laatste_update: 1971-09-14
 status: geldig
 toestand: 1971-09-14
 bron: "https://wetten.overheid.nl/BWBV0004691"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Unie van Socialistische Sowjet-Republieken inzake de Handelsscheepvaart

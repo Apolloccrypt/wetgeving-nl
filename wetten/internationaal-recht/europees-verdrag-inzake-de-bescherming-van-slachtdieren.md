@@ -8,7 +8,7 @@ laatste_update: 1986-12-28
 status: geldig
 toestand: 1986-12-28
 bron: "https://wetten.overheid.nl/BWBV0003992"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Europees Verdrag inzake de bescherming van slachtdieren

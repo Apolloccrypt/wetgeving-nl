@@ -8,7 +8,7 @@ laatste_update: 1962-03-29
 status: geldig
 toestand: 1962-03-29
 bron: "https://wetten.overheid.nl/BWBV0004482"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst betreffende tarwe van doorsnee-kwaliteit

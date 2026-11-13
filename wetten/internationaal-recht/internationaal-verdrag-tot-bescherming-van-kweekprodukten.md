@@ -8,7 +8,7 @@ laatste_update: 1977-02-11
 status: geldig
 toestand: 1977-02-11
 bron: "https://wetten.overheid.nl/BWBV0004510"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Internationaal Verdrag tot bescherming van kweekprodukten

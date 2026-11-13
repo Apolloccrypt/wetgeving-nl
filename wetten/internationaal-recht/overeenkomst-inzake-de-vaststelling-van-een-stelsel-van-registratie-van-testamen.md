@@ -8,7 +8,7 @@ laatste_update: 1978-03-13
 status: geldig
 toestand: 1978-03-13
 bron: "https://wetten.overheid.nl/BWBV0003945"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst inzake de vaststelling van een stelsel van registratie van testamenten

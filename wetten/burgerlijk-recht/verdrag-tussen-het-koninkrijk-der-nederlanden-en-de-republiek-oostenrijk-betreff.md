@@ -8,7 +8,7 @@ laatste_update: 1966-04-30
 status: geldig
 toestand: 1966-04-30
 bron: "https://wetten.overheid.nl/BWBV0004290"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Oostenrijk betreffende de wederzijdse erkenning en tenuitvoerlegging van rechterlijke beslissingen en authentieke akten op het gebied van het burgerlijk recht

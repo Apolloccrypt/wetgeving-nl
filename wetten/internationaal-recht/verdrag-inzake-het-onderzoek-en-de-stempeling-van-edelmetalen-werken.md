@@ -8,7 +8,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBV0004101"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag inzake het onderzoek en de stempeling van edelmetalen werken

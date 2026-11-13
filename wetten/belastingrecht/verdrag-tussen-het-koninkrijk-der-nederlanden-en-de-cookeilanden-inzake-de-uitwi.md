@@ -8,7 +8,7 @@ laatste_update: 2011-09-07
 status: geldig
 toestand: 2011-09-07
 bron: "https://wetten.overheid.nl/BWBV0004019"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Cookeilanden inzake de uitwisseling van informatie betreffende belastingzaken

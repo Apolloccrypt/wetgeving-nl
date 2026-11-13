@@ -9,7 +9,7 @@ laatste_update: 2026-11-05
 status: geldig
 toestand: 2026-11-05
 bron: "https://wetten.overheid.nl/BWBR0053303"
-opgehaald: 2026-11-12
+opgehaald: 2026-11-13
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 16 oktober 2026, nr. PO/F&V/66317487, houdende regels voor de bekostiging van het primair onderwijs in Caribisch Nederland voor het kalenderjaar 2027 (Regeling bekostiging WPO BES 2027)

@@ -8,7 +8,7 @@ laatste_update: 2016-11-08
 status: geldig
 toestand: 2016-11-08
 bron: "https://wetten.overheid.nl/BWBV0004451"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag betreffende de Internationale Hydrografische Organisatie

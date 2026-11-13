@@ -8,7 +8,7 @@ laatste_update: 1986-01-16
 status: geldig
 toestand: 1986-01-16
 bron: "https://wetten.overheid.nl/BWBV0004334"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag van Wenen inzake consulaire betrekkingen

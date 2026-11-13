@@ -8,7 +8,7 @@ laatste_update: 1996-08-20
 status: geldig
 toestand: 1996-08-20
 bron: "https://wetten.overheid.nl/BWBV0004452"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag betreffende beperking van gevallen van meervoudige nationaliteit en betreffende militaire verplichtingen in geval van meervoudige nationaliteit

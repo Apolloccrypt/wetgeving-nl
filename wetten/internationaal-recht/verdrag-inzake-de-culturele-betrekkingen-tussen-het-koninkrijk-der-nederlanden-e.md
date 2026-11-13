@@ -8,7 +8,7 @@ laatste_update: 1966-07-21
 status: geldig
 toestand: 1966-07-21
 bron: "https://wetten.overheid.nl/BWBV0004213"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag inzake de culturele betrekkingen tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Mexico

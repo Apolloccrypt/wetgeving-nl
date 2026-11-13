@@ -8,7 +8,7 @@ laatste_update: 1964-04-23
 status: geldig
 toestand: 1964-04-23
 bron: "https://wetten.overheid.nl/BWBV0004370"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst betreffende de vaststelling van de familierechtelijke betrekking tussen het onwettige kind en zijn moeder

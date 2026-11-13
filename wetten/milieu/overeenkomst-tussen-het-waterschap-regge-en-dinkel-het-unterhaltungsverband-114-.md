@@ -8,7 +8,7 @@ laatste_update: 1979-01-07
 status: geldig
 toestand: 1979-01-07
 bron: "https://wetten.overheid.nl/BWBV0003895"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen het waterschap Regge en Dinkel, het Unterhaltungsverband 114 "Vechte" en het Wasser- und Bodenverband "Rammelbecke" over het onderhoud van zowel de Rammelbeek als de Oude Rammelbeek

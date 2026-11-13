@@ -8,7 +8,7 @@ laatste_update: 2009-06-23
 status: geldig
 toestand: 2009-06-23
 bron: "https://wetten.overheid.nl/BWBV0004296"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen het Koninkrijk België, de Bondsrepubliek Duitsland, de Franse Republiek, de Italiaanse Republiek, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden inzake wederzijdse bijstand tussen de onderscheiden douane-administraties

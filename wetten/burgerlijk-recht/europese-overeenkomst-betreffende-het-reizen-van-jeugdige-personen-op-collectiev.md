@@ -8,7 +8,7 @@ laatste_update: 1963-08-05
 status: geldig
 toestand: 1963-08-05
 bron: "https://wetten.overheid.nl/BWBV0004570"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Europese Overeenkomst betreffende het reizen van jeugdige personen op collectieve paspoorten tussen de landen die lid zijn van de Raad van Europa

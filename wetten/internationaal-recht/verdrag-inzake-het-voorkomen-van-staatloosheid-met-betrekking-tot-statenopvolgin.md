@@ -8,7 +8,7 @@ laatste_update: 2011-10-01
 status: geldig
 toestand: 2011-10-01
 bron: "https://wetten.overheid.nl/BWBV0004054"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Verdrag inzake het voorkomen van staatloosheid met betrekking tot statenopvolging

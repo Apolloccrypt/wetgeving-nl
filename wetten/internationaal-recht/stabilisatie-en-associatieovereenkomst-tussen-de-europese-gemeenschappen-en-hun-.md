@@ -8,7 +8,7 @@ laatste_update: 2014-12-12
 status: geldig
 toestand: 2014-12-12
 bron: "https://wetten.overheid.nl/BWBV0004153"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Stabilisatie- en associatieovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Republiek Montenegro, anderzijds

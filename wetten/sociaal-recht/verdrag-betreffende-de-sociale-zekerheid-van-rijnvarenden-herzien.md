@@ -8,7 +8,7 @@ laatste_update: 2008-06-12
 status: geldig
 toestand: 2008-06-12
 bron: "https://wetten.overheid.nl/BWBV0004081"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag betreffende de sociale zekerheid van Rijnvarenden (herzien)

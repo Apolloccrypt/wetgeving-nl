@@ -8,7 +8,7 @@ laatste_update: 2010-07-01
 status: geldig
 toestand: 2010-07-01
 bron: "https://wetten.overheid.nl/BWBV0004123"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Groothertogdom Luxemburg tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen

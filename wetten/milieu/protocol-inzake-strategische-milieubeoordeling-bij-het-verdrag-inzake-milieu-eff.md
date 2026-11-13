@@ -8,7 +8,7 @@ laatste_update: 2010-07-11
 status: geldig
 toestand: 2010-07-11
 bron: "https://wetten.overheid.nl/BWBV0004167"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Protocol inzake strategische milieubeoordeling bij het Verdrag inzake milieu-effectrapportage in grensoverschrijdend verband

@@ -8,7 +8,7 @@ laatste_update: 1972-05-21
 status: geldig
 toestand: 1972-05-21
 bron: "https://wetten.overheid.nl/BWBV0004676"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst inzake beslissingen tot verbetering van akten van de Burgerlijke Stand

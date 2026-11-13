@@ -8,7 +8,7 @@ laatste_update: 2014-02-01
 status: geldig
 toestand: 2014-02-01
 bron: "https://wetten.overheid.nl/BWBV0004442"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België tot verbetering van de verbinding tussen het Julianakanaal en het Albertkanaal

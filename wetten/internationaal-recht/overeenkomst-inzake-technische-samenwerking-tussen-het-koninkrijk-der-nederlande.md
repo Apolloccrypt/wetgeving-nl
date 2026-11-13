@@ -8,7 +8,7 @@ laatste_update: 1964-11-17
 status: geldig
 toestand: 1964-11-17
 bron: "https://wetten.overheid.nl/BWBV0004677"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst inzake technische samenwerking tussen het Koninkrijk der Nederlanden en de Republiek Indonesië

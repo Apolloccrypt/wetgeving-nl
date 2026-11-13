@@ -1,13 +1,13 @@
 {
- "gegenereerd": "2026-11-12",
+ "gegenereerd": "2026-11-13",
  "geverifieerd": true,
- "bwb_regelingen": 47060,
- "bwb_geldend": 22331,
- "site_totaal": 22592,
- "site_geldend": 22330,
+ "bwb_regelingen": 47063,
+ "bwb_geldend": 22332,
+ "site_totaal": 22595,
+ "site_geldend": 22331,
  "dekkingsgraad": 1.0,
  "aantal_ontbrekend": 1,
- "aantal_ten_onrechte_geldig": 262,
+ "aantal_ten_onrechte_geldig": 264,
  "aantal_onbekend": 0,
  "ontbrekend": [
   {
@@ -694,6 +694,10 @@
    "titel": "Besluit van de Minister voor Primair en Voortgezet Onderwijs van 22 december 2023 nr. 43333381, houdende instelling van de programmaraad Ontwikkelkracht voor de periode 2023 tot en met 2025 (Instellingsbesluit programmaraad Ontwikkelkracht 2023–2025)"
   },
   {
+   "id": "BWBR0049326",
+   "titel": "Besluit van de secretaris-generaal van het Ministerie van Financiën tot verlening van mandaat, volmacht en machtiging aan de kwartiermaker Belangenbehartiger voor Belastingplichtigen en Toeslaggerechtigden (Mandaatbesluit kwartiermaker Belangenbehartiger voor Belastingplichtigen en Toeslaggerechtigden) van 7 november 2023 (2023-15911)"
+  },
+  {
    "id": "BWBR0049327",
    "titel": "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 5 december 2023, nr. OWB/42696432 houdende instelling van de Commissie die onderzoek gaat doen naar de mogelijkheden voor verlaging van het aantal proeven op niet-humane primaten (Instellingsbesluit Commissie onderzoek niet-humane primaten)"
   },
@@ -908,6 +912,10 @@
   {
    "id": "BWBR0051965",
    "titel": "Besluit van de Minister van Justitie en Veiligheid van 10 december 2025, kenmerk 6997890/25/DP&O, houdende bekendmaking van de taak waarmee de Staatssecretaris van Justitie en Veiligheid in het bijzonder is belast"
+  },
+  {
+   "id": "BWBR0052024",
+   "titel": "Beleidsregel van het Commissariaat voor de Media over de procedure tot aanwijzing van lokale publieke media-instellingen (Beleidsregel aanwijzingsprocedure lokale publieke media-instellingen 2025)"
   },
   {
    "id": "BWBR0052042",

@@ -8,7 +8,7 @@ laatste_update: 2010-07-30
 status: geldig
 toestand: 2010-07-30
 bron: "https://wetten.overheid.nl/BWBV0004602"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Internationaal Verdrag ter bestrijding van daden van nucleair terrorisme

@@ -8,7 +8,7 @@ laatste_update: 1964-05-16
 status: geldig
 toestand: 1964-05-16
 bron: "https://wetten.overheid.nl/BWBV0004480"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen de Regeringen van het Koninkrijk der Nederlanden, het Koninkrijk België en het Groothertogendom Luxemburg enerzijds, en de Regering van de Franse Republiek anderzijds, inzake het overnemen van personen aan de gemeenschappelijke grens van het grondgebied van de Beneluxlanden en Frankrijk

@@ -8,7 +8,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBV0003952"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Zambia tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen

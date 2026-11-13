@@ -8,7 +8,7 @@ laatste_update: 1966-02-25
 status: geldig
 toestand: 1966-02-25
 bron: "https://wetten.overheid.nl/BWBV0004709"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst betreffende de vrijwillige bijdragen bestemd voor de uitvoering van het project tot het behoud van de tempels van Aboe Simbel

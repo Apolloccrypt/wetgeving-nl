@@ -8,7 +8,7 @@ laatste_update: 1971-07-19
 status: geldig
 toestand: 1971-07-19
 bron: "https://wetten.overheid.nl/BWBV0004423"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden, de Bondsrepubliek Duitsland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake samenwerking bij de ontwikkeling en exploitatie van het gas-ultracentrifuge-procédé voor de produktie van verrijkt uranium

@@ -8,7 +8,7 @@ laatste_update: 1977-09-29
 status: geldig
 toestand: 1977-09-29
 bron: "https://wetten.overheid.nl/BWBV0003862"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Venezuela inzake de culturele betrekkingen tussen de Nederlandse Antillen en Venezuela

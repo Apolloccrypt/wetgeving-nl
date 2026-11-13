@@ -8,7 +8,7 @@ laatste_update: 1999-04-02
 status: geldig
 toestand: 1999-04-02
 bron: "https://wetten.overheid.nl/BWBV0004103"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Korea tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen

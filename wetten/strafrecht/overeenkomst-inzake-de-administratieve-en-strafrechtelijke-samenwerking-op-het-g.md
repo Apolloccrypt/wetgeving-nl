@@ -8,7 +8,7 @@ laatste_update: 2008-11-01
 status: geldig
 toestand: 2008-11-01
 bron: "https://wetten.overheid.nl/BWBV0004462"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst inzake de administratieve en strafrechtelijke samenwerking op het gebied van de regelingen die verband houden met de verwezenlijking van de doelstellingen van de Benelux Economische Unie

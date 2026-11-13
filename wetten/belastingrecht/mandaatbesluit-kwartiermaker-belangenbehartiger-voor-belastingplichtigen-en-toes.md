@@ -5,11 +5,12 @@ identifier: "BWBR0049326"
 categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
 publicatiedatum: 2024-02-03
-laatste_update: 2024-02-03
-status: geldig
-toestand: 2024-02-03
+laatste_update: 2025-03-01
+status: vervallen
+vervallen_op: 2026-11-05
+toestand: 2025-03-01
 bron: "https://wetten.overheid.nl/BWBR0049326"
-opgehaald: 2026-11-04
+opgehaald: 2026-11-13
 ---
 
 # Besluit van de secretaris-generaal van het Ministerie van Financiën tot verlening van mandaat, volmacht en machtiging aan de kwartiermaker Belangenbehartiger voor Belastingplichtigen en Toeslaggerechtigden (Mandaatbesluit kwartiermaker Belangenbehartiger voor Belastingplichtigen en Toeslaggerechtigden) van 7 november 2023 (2023-15911)
@@ -28,7 +29,7 @@ De Kwartiermaker is verantwoordelijk voor (de voorbereiding van) de oprichting e
 
 ##### Artikel 3. Mandaat, volmacht en machtiging
 
-1. Aan de Kwartiermaker wordt mandaat, volmacht en machtiging verleend voor alle aangelegenheden die vallen binnen zijn verantwoordelijkheid als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049326&artikel=2&z=2024-02-03&g=2024-02-03) en de volgende daarbij behorende taken:
+1. Aan de Kwartiermaker wordt mandaat, volmacht en machtiging verleend voor alle aangelegenheden die vallen binnen zijn verantwoordelijkheid als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049326&artikel=2&z=2024-02-03&g=2025-03-01) en de volgende daarbij behorende taken:
 
 - a. Een nadere uitwerking van de taken en bevoegdheden van de Belangenbehartiger;
 

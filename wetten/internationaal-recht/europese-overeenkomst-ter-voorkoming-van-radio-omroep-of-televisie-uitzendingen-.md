@@ -8,7 +8,7 @@ laatste_update: 1974-09-27
 status: geldig
 toestand: 1974-09-27
 bron: "https://wetten.overheid.nl/BWBV0004560"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Europese Overeenkomst ter voorkoming van radio-omroep- of televisie-uitzendingen door stations buiten nationaal gebied

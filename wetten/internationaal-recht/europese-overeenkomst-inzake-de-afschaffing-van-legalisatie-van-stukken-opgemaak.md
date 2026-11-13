@@ -8,7 +8,7 @@ laatste_update: 1970-10-10
 status: geldig
 toestand: 1970-10-10
 bron: "https://wetten.overheid.nl/BWBV0004597"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Europese Overeenkomst inzake de afschaffing van legalisatie van stukken opgemaakt door diplomatieke of consulaire ambtenaren

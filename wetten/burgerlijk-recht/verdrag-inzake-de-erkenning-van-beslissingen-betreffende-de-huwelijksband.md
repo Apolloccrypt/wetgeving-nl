@@ -8,7 +8,7 @@ laatste_update: 1981-07-30
 status: geldig
 toestand: 1981-07-30
 bron: "https://wetten.overheid.nl/BWBV0004359"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag inzake de erkenning van beslissingen betreffende de huwelijksband

@@ -8,7 +8,7 @@ laatste_update: 1962-06-25
 status: geldig
 toestand: 1962-06-25
 bron: "https://wetten.overheid.nl/BWBV0004388"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen de Regering van het Hasjemitisch Koninkrijk Jordanië en de Regering van het Koninkrijk der Nederlanden voor de instelling en het onderhouden van geregelde luchtdiensten tussen en via hun onderscheidene grondgebieden

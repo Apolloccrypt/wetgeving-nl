@@ -8,7 +8,7 @@ laatste_update: 2003-11-01
 status: geldig
 toestand: 2003-11-01
 bron: "https://wetten.overheid.nl/BWBV0004147"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1992 (Aansprakelijkheidsverdrag 1992)

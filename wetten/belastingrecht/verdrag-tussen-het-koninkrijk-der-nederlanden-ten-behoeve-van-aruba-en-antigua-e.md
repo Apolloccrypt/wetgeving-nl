@@ -8,7 +8,7 @@ laatste_update: 2013-12-01
 status: geldig
 toestand: 2013-12-01
 bron: "https://wetten.overheid.nl/BWBV0004716"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Aruba, en Antigua en Barbuda inzake de uitwisseling van informatie betreffende belastingen

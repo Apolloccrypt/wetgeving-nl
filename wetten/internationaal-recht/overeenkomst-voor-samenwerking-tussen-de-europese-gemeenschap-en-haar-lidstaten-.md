@@ -7,7 +7,7 @@ laatste_update: 2010-03-21
 status: geldig
 toestand: 2010-03-21
 bron: "https://wetten.overheid.nl/BWBV0004079"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst voor samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Zwitserse Bondsstaat, anderzijds, ter bestrijding van fraude en andere illegale activiteiten die hun financiële belangen schaden

@@ -8,7 +8,7 @@ laatste_update: 1980-11-01
 status: geldig
 toestand: 1980-11-01
 bron: "https://wetten.overheid.nl/BWBV0003891"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst over het onderhoud en het materiaaltransport van de Berkel in het grensgebied

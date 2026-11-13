@@ -8,7 +8,7 @@ laatste_update: 2010-03-14
 status: geldig
 toestand: 2010-03-14
 bron: "https://wetten.overheid.nl/BWBV0004061"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag van de Wereldorganisatie voor de intellectuele eigendom inzake uitvoeringen en fonogrammen (WPPT) (1996)

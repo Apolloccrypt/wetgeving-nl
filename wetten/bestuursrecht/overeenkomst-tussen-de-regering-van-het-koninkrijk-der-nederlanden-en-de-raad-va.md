@@ -8,7 +8,7 @@ laatste_update: 1970-10-14
 status: geldig
 toestand: 1970-10-14
 bron: "https://wetten.overheid.nl/BWBV0004220"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Raad van Bestuur ingesteld bij het Statuut van de Europese School, betreffende het functioneren van de Europese School in Nederland

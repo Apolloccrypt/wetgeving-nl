@@ -8,7 +8,7 @@ laatste_update: 1964-05-25
 status: geldig
 toestand: 1964-05-25
 bron: "https://wetten.overheid.nl/BWBV0004679"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag, ter aanvulling van het Verdrag van Warschau, tot het brengen van eenheid in enige bepalingen inzake het internationale luchtvervoer verricht door een ander dan de contractuele vervoerder

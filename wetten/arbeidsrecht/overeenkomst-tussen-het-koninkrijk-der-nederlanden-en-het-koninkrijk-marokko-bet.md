@@ -8,7 +8,7 @@ laatste_update: 1969-05-14
 status: geldig
 toestand: 1969-05-14
 bron: "https://wetten.overheid.nl/BWBV0004487"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko betreffende de aanwerving en de tewerkstelling van Marokkaanse werknemers in Nederland

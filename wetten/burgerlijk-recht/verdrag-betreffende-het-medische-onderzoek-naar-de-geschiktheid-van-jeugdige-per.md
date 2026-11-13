@@ -8,7 +8,7 @@ laatste_update: 1970-04-08
 status: geldig
 toestand: 1970-04-08
 bron: "https://wetten.overheid.nl/BWBV0004671"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag betreffende het medische onderzoek naar de geschiktheid van jeugdige personen voor tewerkstelling ondergronds in de mijnen

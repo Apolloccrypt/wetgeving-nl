@@ -8,7 +8,7 @@ laatste_update: 2011-10-11
 status: geldig
 toestand: 2011-10-11
 bron: "https://wetten.overheid.nl/BWBV0003987"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Veterinaire Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Tsjechoslowaakse Socialistische Republiek

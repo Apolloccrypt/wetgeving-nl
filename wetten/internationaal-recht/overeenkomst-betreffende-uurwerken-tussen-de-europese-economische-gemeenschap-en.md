@@ -8,7 +8,7 @@ laatste_update: 1968-01-01
 status: geldig
 toestand: 1968-01-01
 bron: "https://wetten.overheid.nl/BWBV0004222"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst betreffende uurwerken tussen de Europese Economische Gemeenschap en haar Lid-Staten, enerzijds, en de Zwitserse Bondsstaat, anderzijds

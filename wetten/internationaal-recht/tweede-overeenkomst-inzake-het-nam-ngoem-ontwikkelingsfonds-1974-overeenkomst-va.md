@@ -8,7 +8,7 @@ laatste_update: 1975-03-13
 status: geldig
 toestand: 1975-03-13
 bron: "https://wetten.overheid.nl/BWBV0004006"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Tweede Overeenkomst inzake het Nam Ngoem Ontwikkelingsfonds, 1974. Overeenkomst van 26 juni 1974 tussen de Regering van Australië, Canada, de Bondsrepubliek Duitsland, India, Japan, Laos, het Koninkrijk der Nederlanden, Nieuw-Zeeland, Thailand, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en de Verenigde Staten van Amerika, enerzijds, en de Aziatische Ontwikkelingsbank anderzijds

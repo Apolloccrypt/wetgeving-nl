@@ -8,7 +8,7 @@ laatste_update: 1979-09-20
 status: geldig
 toestand: 1979-09-20
 bron: "https://wetten.overheid.nl/BWBV0003961"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Volksrepubliek Polen inzake samenwerking op veterinair gebied

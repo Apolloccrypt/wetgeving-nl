@@ -8,7 +8,7 @@ laatste_update: 1971-02-03
 status: geldig
 toestand: 1971-02-03
 bron: "https://wetten.overheid.nl/BWBV0004614"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen van nalatenschappen en verkrijgingen krachtens erfrecht

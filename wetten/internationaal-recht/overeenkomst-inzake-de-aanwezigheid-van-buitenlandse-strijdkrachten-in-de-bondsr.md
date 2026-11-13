@@ -8,7 +8,7 @@ laatste_update: 1955-05-06
 status: geldig
 toestand: 1955-05-06
 bron: "https://wetten.overheid.nl/BWBV0004736"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst inzake de aanwezigheid van buitenlandse strijdkrachten in de Bondsrepubliek Duitsland

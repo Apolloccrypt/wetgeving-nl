@@ -8,7 +8,7 @@ laatste_update: 1983-10-06
 status: geldig
 toestand: 1983-10-06
 bron: "https://wetten.overheid.nl/BWBV0003936"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Verdrag inzake een gedragscode voor lijnvaartconferences

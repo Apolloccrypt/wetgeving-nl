@@ -9,7 +9,7 @@ laatste_update: 2026-10-28
 status: geldig
 toestand: 2026-10-28
 bron: "https://wetten.overheid.nl/BWBR0045051"
-opgehaald: 2026-11-12
+opgehaald: 2026-11-13
 ---
 
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 12 april 2021, nr. WJZ/21076966 , houdende regels ter voorkoming van specifieke besmettelijke dierziekten of zoönosen (Regeling veterinaire maatregelen specifieke dierziekten of zoönosen)

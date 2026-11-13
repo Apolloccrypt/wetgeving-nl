@@ -8,7 +8,7 @@ laatste_update: 2010-07-01
 status: geldig
 toestand: 2010-07-01
 bron: "https://wetten.overheid.nl/BWBV0004020"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en de Internationale Politie Organisatie (INTERPOL) inzake privileges en immuniteiten voor verbindingsofficieren die door INTERPOL bij Europol te 's-Gravenhage gedetacheerd worden

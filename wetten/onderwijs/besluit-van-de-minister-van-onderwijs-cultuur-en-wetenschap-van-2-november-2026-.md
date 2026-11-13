@@ -9,7 +9,7 @@ laatste_update: 2026-11-03
 status: geldig
 toestand: 2026-11-03
 bron: "https://wetten.overheid.nl/BWBR0053291"
-opgehaald: 2026-11-12
+opgehaald: 2026-11-13
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 2 november 2026, nr. 66275972, tot aanwijzing van de Stichting Nederlandse Lokale Publieke Omroepen als de NLPO, bedoeld in artikel 2.75 van de Mediawet 2008

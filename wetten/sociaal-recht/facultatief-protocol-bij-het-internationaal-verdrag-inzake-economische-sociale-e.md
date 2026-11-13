@@ -7,7 +7,7 @@ laatste_update: 2008-12-10
 status: geldig
 toestand: 2008-12-10
 bron: "https://wetten.overheid.nl/BWBV0004027"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Facultatief Protocol bij het Internationaal Verdrag inzake economische, sociale en culturele rechten

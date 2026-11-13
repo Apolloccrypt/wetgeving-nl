@@ -8,7 +8,7 @@ laatste_update: 1968-02-22
 status: geldig
 toestand: 1968-02-22
 bron: "https://wetten.overheid.nl/BWBV0004206"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Besluit van de Raad van de Voedsel - en Landbouworganisatie der Verenigde Naties tot instelling van de Caraïbische Planten beschermingscommissie

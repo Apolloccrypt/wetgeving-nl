@@ -6,10 +6,11 @@ categorie: "Overig"
 soort: "zbo"
 publicatiedatum: 2025-12-25
 laatste_update: 2025-12-25
-status: geldig
+status: vervallen
+vervallen_op: 2026-11-10
 toestand: 2025-12-25
 bron: "https://wetten.overheid.nl/BWBR0052024"
-opgehaald: 2026-11-09
+opgehaald: 2026-11-13
 ---
 
 # Beleidsregel van het Commissariaat voor de Media over de procedure tot aanwijzing van lokale publieke media-instellingen (Beleidsregel aanwijzingsprocedure lokale publieke media-instellingen 2025)

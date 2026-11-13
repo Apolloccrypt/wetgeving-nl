@@ -8,7 +8,7 @@ laatste_update: 2010-10-28
 status: geldig
 toestand: 2010-10-28
 bron: "https://wetten.overheid.nl/BWBV0004712"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Facultatief Protocol bij het Verdrag tegen foltering en andere wrede, onmenselijke of onterende behandeling of bestraffing

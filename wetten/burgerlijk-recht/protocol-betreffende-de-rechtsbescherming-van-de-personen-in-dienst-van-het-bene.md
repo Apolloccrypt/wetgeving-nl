@@ -8,7 +8,7 @@ laatste_update: 2014-06-01
 status: geldig
 toestand: 2014-06-01
 bron: "https://wetten.overheid.nl/BWBV0004469"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Protocol betreffende de rechtsbescherming van de personen in dienst van het Benelux-Merkenbureau en het Benelux-Bureau voor tekeningen of modellen

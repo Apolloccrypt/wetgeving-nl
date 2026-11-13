@@ -8,7 +8,7 @@ laatste_update: 1982-09-06
 status: geldig
 toestand: 1982-09-06
 bron: "https://wetten.overheid.nl/BWBV0004708"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst van Nice van 15 juni 1957 betreffende de internationale classificatie van de waren en diensten ten behoeve van de inschrijving van merken, herzien te Stockholm op 14 juli 1967

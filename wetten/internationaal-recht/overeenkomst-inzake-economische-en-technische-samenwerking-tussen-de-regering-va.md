@@ -8,7 +8,7 @@ laatste_update: 1966-09-08
 status: geldig
 toestand: 1966-09-08
 bron: "https://wetten.overheid.nl/BWBV0004289"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst inzake economische en technische samenwerking tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Ivoorkust

@@ -8,7 +8,7 @@ laatste_update: 2016-07-14
 status: geldig
 toestand: 2016-07-14
 bron: "https://wetten.overheid.nl/BWBV0004045"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Verdrag inzake de rechten van personen met een handicap

@@ -8,7 +8,7 @@ laatste_update: 1983-04-15
 status: geldig
 toestand: 1983-04-15
 bron: "https://wetten.overheid.nl/BWBV0003899"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Verdrag inzake het verbod van militair of enig ander vijandelijk gebruik van milieuveranderingstechnieken

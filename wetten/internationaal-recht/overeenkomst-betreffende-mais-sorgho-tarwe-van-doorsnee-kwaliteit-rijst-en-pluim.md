@@ -8,7 +8,7 @@ laatste_update: 1962-03-07
 status: geldig
 toestand: 1962-03-07
 bron: "https://wetten.overheid.nl/BWBV0004377"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst betreffende maïs, sorgho, tarwe van doorsnee-kwaliteit, rijst en pluimvee

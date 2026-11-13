@@ -8,7 +8,7 @@ laatste_update: 2019-05-16
 status: geldig
 toestand: 2019-05-16
 bron: "https://wetten.overheid.nl/BWBV0004292"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst inzake luchtvervoer tussen Canada en de Europese Gemeenschap en haar lidstaten

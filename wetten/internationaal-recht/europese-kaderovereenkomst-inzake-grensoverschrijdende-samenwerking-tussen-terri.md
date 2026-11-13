@@ -8,7 +8,7 @@ laatste_update: 1982-01-27
 status: geldig
 toestand: 1982-01-27
 bron: "https://wetten.overheid.nl/BWBV0004011"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Europese Kaderovereenkomst inzake grensoverschrijdende samenwerking tussen territoriale gemeenschappen of autoriteiten

@@ -8,7 +8,7 @@ laatste_update: 1965-09-18
 status: geldig
 toestand: 1965-09-18
 bron: "https://wetten.overheid.nl/BWBV0004468"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de zijdelingse begrenzing van het continentale plat in de nabijheid van de kust

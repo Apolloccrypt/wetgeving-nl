@@ -9,7 +9,7 @@ laatste_update: 2026-11-05
 status: geldig
 toestand: 2026-11-05
 bron: "https://wetten.overheid.nl/BWBR0053302"
-opgehaald: 2026-11-12
+opgehaald: 2026-11-13
 ---
 
 # Wet van 19 oktober 2026 tot goedkeuring van enkele ministeriële regelingen tot aanpassing van wetten van Nederlands-Antilliaanse oorsprong voor de openbare lichamen Bonaire, Sint Eustatius en Saba (Tweede goedkeuringswet BES)

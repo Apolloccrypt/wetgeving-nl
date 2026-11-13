@@ -8,7 +8,7 @@ laatste_update: 1989-01-05
 status: geldig
 toestand: 1989-01-05
 bron: "https://wetten.overheid.nl/BWBV0003905"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Internationaal Verdrag tegen het nemen van gijzelaars

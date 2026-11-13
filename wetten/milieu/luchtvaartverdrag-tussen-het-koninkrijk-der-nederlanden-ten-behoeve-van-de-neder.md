@@ -8,7 +8,7 @@ laatste_update: 2010-03-01
 status: geldig
 toestand: 2010-03-01
 bron: "https://wetten.overheid.nl/BWBV0004072"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Luchtvaartverdrag tussen het Koninkrijk der Nederlanden, ten behoeve van de Nederlandse Antillen, en Antigua en Barbuda inzake luchtvervoer tussen Antigua en Barbuda en de Nederlandse Antillen

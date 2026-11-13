@@ -8,7 +8,7 @@ laatste_update: 2022-04-23
 status: geldig
 toestand: 2022-04-23
 bron: "https://wetten.overheid.nl/BWBV0004455"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Europese Overeenkomst nopens de arbeidsvoorwaarden voor de bemanningen van motorrijtuigen in het internationale vervoer over de weg (AETR)

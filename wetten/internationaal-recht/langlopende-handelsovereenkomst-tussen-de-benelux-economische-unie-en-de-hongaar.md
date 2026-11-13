@@ -8,7 +8,7 @@ laatste_update: 1970-03-11
 status: geldig
 toestand: 1970-03-11
 bron: "https://wetten.overheid.nl/BWBV0004694"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Langlopende Handelsovereenkomst tussen de Benelux Economische Unie en de Hongaarse Volksrepubliek, ondertekend te Boedapest op 26 april 1967

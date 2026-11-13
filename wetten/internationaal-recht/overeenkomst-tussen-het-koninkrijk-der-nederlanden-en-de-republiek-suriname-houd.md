@@ -8,7 +8,7 @@ laatste_update: 1975-11-25
 status: geldig
 toestand: 1975-11-25
 bron: "https://wetten.overheid.nl/BWBV0003861"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Suriname, houdende regelen met betrekking tot de rechtspositie van militair en burgerpersoneel van het Koninkrijk der Nederlanden, ressorterende onder het Departement van Defensie

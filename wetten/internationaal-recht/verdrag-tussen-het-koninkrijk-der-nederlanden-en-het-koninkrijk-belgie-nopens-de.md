@@ -8,7 +8,7 @@ laatste_update: 1967-03-23
 status: geldig
 toestand: 1967-03-23
 bron: "https://wetten.overheid.nl/BWBV0004379"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België nopens de ontginning van steenkolen in evenwijdig aan de grens liggende stroken van de langs de Maas gelegen steenkolenmijnen

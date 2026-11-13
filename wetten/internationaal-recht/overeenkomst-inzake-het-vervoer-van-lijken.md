@@ -8,7 +8,7 @@ laatste_update: 1975-12-25
 status: geldig
 toestand: 1975-12-25
 bron: "https://wetten.overheid.nl/BWBV0003954"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst inzake het vervoer van lijken

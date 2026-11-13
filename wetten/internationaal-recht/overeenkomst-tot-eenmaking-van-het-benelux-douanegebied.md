@@ -8,7 +8,7 @@ laatste_update: 1971-02-01
 status: geldig
 toestand: 1971-02-01
 bron: "https://wetten.overheid.nl/BWBV0004231"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tot eenmaking van het Benelux-douanegebied

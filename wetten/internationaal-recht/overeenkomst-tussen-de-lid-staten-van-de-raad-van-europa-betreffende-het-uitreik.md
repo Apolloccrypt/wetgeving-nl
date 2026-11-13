@@ -8,7 +8,7 @@ laatste_update: 1964-06-22
 status: geldig
 toestand: 1964-06-22
 bron: "https://wetten.overheid.nl/BWBV0004540"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen de Lid-Staten van de Raad van Europa betreffende het uitreiken aan militaire en burger-oorlogsinvaliden van een internationaal bonboekje voor het herstellen van prothesen en orthopedische apparaten

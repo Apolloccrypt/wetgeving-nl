@@ -7,7 +7,7 @@ laatste_update: 2007-09-05
 status: geldig
 toestand: 2007-09-05
 bron: "https://wetten.overheid.nl/BWBV0004559"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag inzake de erkenning van geregistreerde partnerschappen

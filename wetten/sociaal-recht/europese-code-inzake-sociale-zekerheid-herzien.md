@@ -7,7 +7,7 @@ laatste_update: 1990-11-06
 status: geldig
 toestand: 1990-11-06
 bron: "https://wetten.overheid.nl/BWBV0004546"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Europese Code inzake Sociale Zekerheid (herzien)

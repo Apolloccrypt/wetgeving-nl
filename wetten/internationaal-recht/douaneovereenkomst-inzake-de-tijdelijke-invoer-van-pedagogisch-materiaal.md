@@ -8,7 +8,7 @@ laatste_update: 1986-09-06
 status: geldig
 toestand: 1986-09-06
 bron: "https://wetten.overheid.nl/BWBV0004259"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Douaneovereenkomst inzake de tijdelijke invoer van pedagogisch materiaal

@@ -8,7 +8,7 @@ laatste_update: 1984-06-01
 status: geldig
 toestand: 1984-06-01
 bron: "https://wetten.overheid.nl/BWBV0004328"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag tot oprichting van de Wereldorganisatie voor de Intellectuele Eigendom (OMPI/WIPO), zoals gewijzigd op 28 september 1979

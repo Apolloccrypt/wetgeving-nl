@@ -8,7 +8,7 @@ laatste_update: 1984-11-01
 status: geldig
 toestand: 1984-11-01
 bron: "https://wetten.overheid.nl/BWBV0004445"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Europese Overeenkomst inzake beperking van het gebruik van bepaalde detergenten in was- en reinigingsmiddelen

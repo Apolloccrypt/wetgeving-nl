@@ -9,7 +9,7 @@ laatste_update: 2026-10-16
 status: geldig
 toestand: 2026-10-16
 bron: "https://wetten.overheid.nl/BWBR0053231"
-opgehaald: 2026-11-12
+opgehaald: 2026-11-13
 ---
 
 # Wet van 14 oktober 2026 tot regels met betrekking tot de terugkeer van vreemdelingen en vreemdelingenbewaring (Wet terugkeer en vreemdelingenbewaring)

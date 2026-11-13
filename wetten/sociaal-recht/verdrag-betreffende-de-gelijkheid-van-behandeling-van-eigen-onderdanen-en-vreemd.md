@@ -8,7 +8,7 @@ laatste_update: 1965-07-03
 status: geldig
 toestand: 1965-07-03
 bron: "https://wetten.overheid.nl/BWBV0004625"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag betreffende de gelijkheid van behandeling van eigen onderdanen en vreemdelingen met betrekking tot de sociale zekerheid

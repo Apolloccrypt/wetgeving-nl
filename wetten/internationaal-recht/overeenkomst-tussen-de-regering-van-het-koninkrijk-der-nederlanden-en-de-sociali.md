@@ -8,7 +8,7 @@ laatste_update: 1967-07-31
 status: geldig
 toestand: 1967-07-31
 bron: "https://wetten.overheid.nl/BWBV0004576"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Socialistische Republiek Roemenië inzake de regeling van de hangende financiële vraagstukken

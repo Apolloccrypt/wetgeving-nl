@@ -8,7 +8,7 @@ laatste_update: 1964-05-03
 status: geldig
 toestand: 1964-05-03
 bron: "https://wetten.overheid.nl/BWBV0004305"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland ter verdere vereenvoudiging van het rechtsverkeer, zoals geregeld bij het op 1 maart 1954 te 's-Gravenhage gesloten Verdrag betreffende de burgerlijke rechtsvordering

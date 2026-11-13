@@ -8,7 +8,7 @@ laatste_update: 1970-04-02
 status: geldig
 toestand: 1970-04-02
 bron: "https://wetten.overheid.nl/BWBV0004298"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tot instelling van de Europese Conferentie inzake Moleculaire Biologie

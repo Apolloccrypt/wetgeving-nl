@@ -8,7 +8,7 @@ laatste_update: 1962-10-18
 status: geldig
 toestand: 1962-10-18
 bron: "https://wetten.overheid.nl/BWBV0004207"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Italiaanse Republiek inzake de dienstplicht van bipatriden

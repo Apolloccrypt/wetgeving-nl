@@ -8,7 +8,7 @@ laatste_update: 2026-11-05
 status: geldig
 toestand: 2026-11-05
 bron: "https://wetten.overheid.nl/BWBR0053304"
-opgehaald: 2026-11-12
+opgehaald: 2026-11-13
 ---
 
 # Besluit beperking openbaarheid archief Regionale Directie Domeinen West (1959) 1972 – 2002

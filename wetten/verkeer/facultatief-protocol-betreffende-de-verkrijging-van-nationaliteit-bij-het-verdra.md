@@ -8,7 +8,7 @@ laatste_update: 1984-10-07
 status: geldig
 toestand: 1984-10-07
 bron: "https://wetten.overheid.nl/BWBV0004538"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Facultatief Protocol betreffende de verkrijging van nationaliteit bij het Verdrag van Wenen inzake diplomatiek verkeer

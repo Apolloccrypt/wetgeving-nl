@@ -8,7 +8,7 @@ laatste_update: 1973-06-01
 status: geldig
 toestand: 1973-06-01
 bron: "https://wetten.overheid.nl/BWBV0003865"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Protocol inzake het Statuut van de handelsvertegenwoordiging van de Unie van Socialistische Sowjet-Republieken in Nederland

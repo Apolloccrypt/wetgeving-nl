@@ -8,7 +8,7 @@ laatste_update: 1982-06-24
 status: geldig
 toestand: 1982-06-24
 bron: "https://wetten.overheid.nl/BWBV0004331"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst inzake de inschrijving van binnenschepen

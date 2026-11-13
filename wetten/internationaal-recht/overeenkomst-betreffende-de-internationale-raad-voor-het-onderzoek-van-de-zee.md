@@ -8,7 +8,7 @@ laatste_update: 1975-11-12
 status: geldig
 toestand: 1975-11-12
 bron: "https://wetten.overheid.nl/BWBV0004667"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst betreffende de Internationale Raad voor het Onderzoek van de Zee

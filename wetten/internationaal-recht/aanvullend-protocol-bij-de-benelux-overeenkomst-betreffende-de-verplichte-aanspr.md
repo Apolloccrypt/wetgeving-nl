@@ -8,7 +8,7 @@ laatste_update: 1976-07-01
 status: geldig
 toestand: 1976-07-01
 bron: "https://wetten.overheid.nl/BWBV0004497"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Aanvullend Protocol bij de Benelux-Overeenkomst betreffende de verplichte aansprakelijkheidsverzekering inzake motorrijtuigen

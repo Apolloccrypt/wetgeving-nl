@@ -8,7 +8,7 @@ laatste_update: 1992-11-26
 status: geldig
 toestand: 1992-11-26
 bron: "https://wetten.overheid.nl/BWBV0003974"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst inzake de bescherming van het cultureel en natuurlijk erfgoed van de wereld

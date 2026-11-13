@@ -8,7 +8,7 @@ laatste_update: 1973-09-24
 status: geldig
 toestand: 1973-09-24
 bron: "https://wetten.overheid.nl/BWBV0004143"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Handvest van de Verenigde Naties

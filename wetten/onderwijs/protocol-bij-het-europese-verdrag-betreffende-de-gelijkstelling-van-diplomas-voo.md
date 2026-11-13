@@ -8,7 +8,7 @@ laatste_update: 1965-02-22
 status: geldig
 toestand: 1965-02-22
 bron: "https://wetten.overheid.nl/BWBV0004548"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Protocol bij het Europese Verdrag betreffende de gelijkstelling van diploma's voor toelating tot universiteiten

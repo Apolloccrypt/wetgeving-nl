@@ -8,7 +8,7 @@ laatste_update: 2004-11-30
 status: geldig
 toestand: 2004-11-30
 bron: "https://wetten.overheid.nl/BWBV0004067"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst inzake de Internationale Organisatie voor Telecommunicatiesatellieten

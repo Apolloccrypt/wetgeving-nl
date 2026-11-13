@@ -8,7 +8,7 @@ laatste_update: 1998-12-01
 status: geldig
 toestand: 1998-12-01
 bron: "https://wetten.overheid.nl/BWBV0004663"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken

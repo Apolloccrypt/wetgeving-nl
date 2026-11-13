@@ -8,7 +8,7 @@ laatste_update: 1967-02-09
 status: geldig
 toestand: 1967-02-09
 bron: "https://wetten.overheid.nl/BWBV0004263"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Douaneovereenkomst inzake welzijnsgoederen voor zeevarenden

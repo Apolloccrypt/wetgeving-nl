@@ -8,7 +8,7 @@ laatste_update: 1981-11-23
 status: geldig
 toestand: 1981-11-23
 bron: "https://wetten.overheid.nl/BWBV0004456"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst van Locarno van 8 oktober 1968 tot instelling van een internationale classificatie voor tekeningen en modellen van nijverheid

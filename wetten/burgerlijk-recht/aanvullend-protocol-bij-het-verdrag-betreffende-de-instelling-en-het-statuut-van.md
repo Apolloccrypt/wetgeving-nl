@@ -8,7 +8,7 @@ laatste_update: 1986-12-01
 status: geldig
 toestand: 1986-12-01
 bron: "https://wetten.overheid.nl/BWBV0004547"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Aanvullend Protocol bij het Verdrag betreffende de instelling en het statuut van een Benelux-Gerechtshof inzake de rechtsbescherming van de personen in dienst van de Benelux Economische Unie

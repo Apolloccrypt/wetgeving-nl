@@ -8,7 +8,7 @@ laatste_update: 2013-07-01
 status: geldig
 toestand: 2013-07-01
 bron: "https://wetten.overheid.nl/BWBV0004141"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag inzake de sluikhandel over zee, ter uitvoering van artikel 17 van het Verdrag van de Verenigde Naties tegen de sluikhandel in verdovende middelen en psychotrope stoffen

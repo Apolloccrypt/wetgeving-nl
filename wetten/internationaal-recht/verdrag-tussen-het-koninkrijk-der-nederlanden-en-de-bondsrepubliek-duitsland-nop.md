@@ -8,7 +8,7 @@ laatste_update: 1968-11-25
 status: geldig
 toestand: 1968-11-25
 bron: "https://wetten.overheid.nl/BWBV0004398"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland nopens de regeling van de spoorweggrensovergangen

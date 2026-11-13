@@ -9,7 +9,7 @@ laatste_update: 2026-11-10
 status: geldig
 toestand: 2026-11-10
 bron: "https://wetten.overheid.nl/BWBR0053123"
-opgehaald: 2026-11-12
+opgehaald: 2026-11-13
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 16 september 2026 nr. BOACAT2026/061, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Sociale Verzekeringsbank

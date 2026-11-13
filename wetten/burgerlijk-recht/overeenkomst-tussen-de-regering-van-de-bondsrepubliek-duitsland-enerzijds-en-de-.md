@@ -8,7 +8,7 @@ laatste_update: 1966-07-01
 status: geldig
 toestand: 1966-07-01
 bron: "https://wetten.overheid.nl/BWBV0004479"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen de Regering van de Bondsrepubliek Duitsland enerzijds en de Regeringen van het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden anderzijds, inzake het overnemen van personen aan de grens

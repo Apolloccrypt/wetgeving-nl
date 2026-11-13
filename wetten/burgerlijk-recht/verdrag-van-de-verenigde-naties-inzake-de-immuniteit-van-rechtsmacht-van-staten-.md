@@ -7,7 +7,7 @@ laatste_update: 2004-12-02
 status: geldig
 toestand: 2004-12-02
 bron: "https://wetten.overheid.nl/BWBV0004713"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag van de Verenigde Naties inzake de immuniteit van rechtsmacht van staten en hun eigendommen

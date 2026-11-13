@@ -8,7 +8,7 @@ laatste_update: 1977-11-06
 status: geldig
 toestand: 1977-11-06
 bron: "https://wetten.overheid.nl/BWBV0003920"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Regionale Overeenkomst inzake de erkenning van studies en diploma's op het gebied van het hoger onderwijs in Latijns-Amerika en in het Caraïbische gebied

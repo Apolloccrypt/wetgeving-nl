@@ -8,7 +8,7 @@ laatste_update: 1979-08-14
 status: geldig
 toestand: 1979-08-14
 bron: "https://wetten.overheid.nl/BWBV0004330"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst nopens de meting van binnenvaartuigen

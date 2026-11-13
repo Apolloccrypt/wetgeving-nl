@@ -8,7 +8,7 @@ laatste_update: 1986-03-01
 status: geldig
 toestand: 1986-03-01
 bron: "https://wetten.overheid.nl/BWBV0003975"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Complementair Protocol bij de Associatieovereenkomst tussen de Europese Economische Gemeenschap en Turkije in verband met de toetreding van nieuwe Lid-Staten tot de Gemeenschap

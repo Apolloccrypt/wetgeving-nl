@@ -8,7 +8,7 @@ laatste_update: 1981-02-17
 status: geldig
 toestand: 1981-02-17
 bron: "https://wetten.overheid.nl/BWBV0004569"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst inzake de redding van ruimtevaarders, de terugkeer van ruimtevaarders en de teruggave van in de kosmische ruimte gebrachte voorwerpen

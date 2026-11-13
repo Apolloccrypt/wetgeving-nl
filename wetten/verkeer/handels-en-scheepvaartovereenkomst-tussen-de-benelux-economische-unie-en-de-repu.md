@@ -8,7 +8,7 @@ laatste_update: 1967-02-13
 status: geldig
 toestand: 1967-02-13
 bron: "https://wetten.overheid.nl/BWBV0004256"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Handels- en Scheepvaartovereenkomst tussen de Benelux Economische Unie en de Republiek Paraguay

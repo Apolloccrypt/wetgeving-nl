@@ -8,7 +8,7 @@ laatste_update: 1971-03-08
 status: geldig
 toestand: 1971-03-08
 bron: "https://wetten.overheid.nl/BWBV0003874"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Tunesië inzake de aanwerving in Tunesië en de tewerkstelling in Nederland van Tunesische werknemers

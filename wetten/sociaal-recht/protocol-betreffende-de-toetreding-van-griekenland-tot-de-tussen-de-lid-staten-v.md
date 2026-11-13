@@ -8,7 +8,7 @@ laatste_update: 2009-06-23
 status: geldig
 toestand: 2009-06-23
 bron: "https://wetten.overheid.nl/BWBV0004512"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Protocol betreffende de toetreding van Griekenland tot de tussen de Lid-Staten van de Europese Economische Gemeenschap gesloten Overeenkomst inzake wederzijdse bijstand tussen de douane-administraties

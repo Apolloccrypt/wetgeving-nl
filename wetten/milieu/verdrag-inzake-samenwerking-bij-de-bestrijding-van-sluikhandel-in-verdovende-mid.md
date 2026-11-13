@@ -8,7 +8,7 @@ laatste_update: 2010-08-28
 status: geldig
 toestand: 2010-08-28
 bron: "https://wetten.overheid.nl/BWBV0004611"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag inzake samenwerking bij de bestrijding van sluikhandel in verdovende middelen en psychotrope stoffen over zee en door de lucht in het Caribisch gebied

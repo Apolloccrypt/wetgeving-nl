@@ -8,7 +8,7 @@ laatste_update: 1967-06-20
 status: geldig
 toestand: 1967-06-20
 bron: "https://wetten.overheid.nl/BWBV0004478"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst inzake de uitwisseling van stagiaires tussen het Koninkrijk der Nederlanden en het Koninkrijk Denemarken

@@ -8,7 +8,7 @@ laatste_update: 2009-10-24
 status: geldig
 toestand: 2009-10-24
 bron: "https://wetten.overheid.nl/BWBV0004034"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Facultatief Protocol bij het Verdrag inzake de rechten van het kind inzake de betrokkenheid van kinderen bij gewapende conflicten

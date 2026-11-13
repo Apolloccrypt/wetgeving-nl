@@ -8,7 +8,7 @@ laatste_update: 1970-04-20
 status: geldig
 toestand: 1970-04-20
 bron: "https://wetten.overheid.nl/BWBV0004681"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Protocol betreffende de authentieke tekst in drie talen van het Verdrag inzake de internationale burgerluchtvaart

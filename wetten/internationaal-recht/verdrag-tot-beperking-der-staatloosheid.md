@@ -8,7 +8,7 @@ laatste_update: 1985-08-11
 status: geldig
 toestand: 1985-08-11
 bron: "https://wetten.overheid.nl/BWBV0004351"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag tot beperking der staatloosheid

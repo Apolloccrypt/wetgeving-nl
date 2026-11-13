@@ -7,7 +7,7 @@ laatste_update: 1963-04-08
 status: geldig
 toestand: 1963-04-08
 bron: "https://wetten.overheid.nl/BWBV0004521"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tot vereenvoudiging van het reizigersverkeer tussen Ierland en de Beneluxlanden

@@ -8,7 +8,7 @@ laatste_update: 1986-03-01
 status: geldig
 toestand: 1986-03-01
 bron: "https://wetten.overheid.nl/BWBV0004701"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Aanvullend Protocol bij de op 12 september 1963 te Ankara ondertekende Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschap en Turkije

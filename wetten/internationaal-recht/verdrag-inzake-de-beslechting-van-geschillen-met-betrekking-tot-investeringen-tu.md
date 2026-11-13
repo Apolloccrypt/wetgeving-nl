@@ -8,7 +8,7 @@ laatste_update: 1966-10-14
 status: geldig
 toestand: 1966-10-14
 bron: "https://wetten.overheid.nl/BWBV0004615"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag inzake de beslechting van geschillen met betrekking tot investeringen tussen Staten en onderdanen van andere Staten

@@ -8,7 +8,7 @@ laatste_update: 1971-09-01
 status: geldig
 toestand: 1971-09-01
 bron: "https://wetten.overheid.nl/BWBV0004241"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Benelux-Overeenkomst betreffende de uitoefening van de advocatuur

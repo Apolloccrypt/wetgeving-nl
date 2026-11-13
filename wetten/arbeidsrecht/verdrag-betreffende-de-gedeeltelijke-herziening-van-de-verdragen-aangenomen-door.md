@@ -8,7 +8,7 @@ laatste_update: 1964-11-13
 status: geldig
 toestand: 1964-11-13
 bron: "https://wetten.overheid.nl/BWBV0004418"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag betreffende de gedeeltelijke herziening van de Verdragen aangenomen door de Algemene Conferentie van de Internationale Arbeidsorganisatie op haar eerste tweeëndertig zittingen, ten einde eenvormigheid te brengen in de bepalingen aangaande het opstellen van verslagen door de Raad van Beheer van het Internationaal Arbeidsbureau inzake de toepassing van Verdragen

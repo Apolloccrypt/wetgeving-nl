@@ -8,7 +8,7 @@ laatste_update: 1965-10-08
 status: geldig
 toestand: 1965-10-08
 bron: "https://wetten.overheid.nl/BWBV0004457"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Groothertogdom Luxemburg betreffende samenwerking op het gebied der diplomatieke vertegenwoordiging

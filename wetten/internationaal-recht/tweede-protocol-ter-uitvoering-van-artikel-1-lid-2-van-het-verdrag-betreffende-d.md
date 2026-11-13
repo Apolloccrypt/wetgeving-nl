@@ -8,7 +8,7 @@ laatste_update: 1982-08-01
 status: geldig
 toestand: 1982-08-01
 bron: "https://wetten.overheid.nl/BWBV0003933"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Tweede Protocol ter uitvoering van artikel 1, lid 2, van het Verdrag betreffende de instelling en het statuut van een Benelux-Gerechtshof

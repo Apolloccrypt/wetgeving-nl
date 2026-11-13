@@ -8,7 +8,7 @@ laatste_update: 1962-10-01
 status: geldig
 toestand: 1962-10-01
 bron: "https://wetten.overheid.nl/BWBV0004397"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Indonesië inzake Westelijk Nieuw-Guinea (West Irian)

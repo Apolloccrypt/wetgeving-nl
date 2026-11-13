@@ -8,7 +8,7 @@ laatste_update: 1969-09-21
 status: geldig
 toestand: 1969-09-21
 bron: "https://wetten.overheid.nl/BWBV0004295"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland betreffende de wederkerige erkenning en tenuitvoerlegging van vonnissen in burgerlijke zaken

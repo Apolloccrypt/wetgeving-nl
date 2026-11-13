@@ -8,7 +8,7 @@ laatste_update: 1976-06-24
 status: geldig
 toestand: 1976-06-24
 bron: "https://wetten.overheid.nl/BWBV0003871"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst inzake de ontwikkeling van de economische, industriële en technische samenwerking tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Hongaarse Volksrepubliek

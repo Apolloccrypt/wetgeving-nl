@@ -8,7 +8,7 @@ laatste_update: 1963-08-01
 status: geldig
 toestand: 1963-08-01
 bron: "https://wetten.overheid.nl/BWBV0004413"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Aanvullende Overeenkomst bij het op 8 april 1960 voor het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland ondertekende Verdrag tot regeling van de samenwerking in de Eemsmonding (Eems-Dollardverdrag)

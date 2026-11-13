@@ -8,7 +8,7 @@ laatste_update: 1976-09-06
 status: geldig
 toestand: 1976-09-06
 bron: "https://wetten.overheid.nl/BWBV0003866"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Tsjechoslowaakse Socialistische Republiek inzake economische, industriële en technische samenwerking

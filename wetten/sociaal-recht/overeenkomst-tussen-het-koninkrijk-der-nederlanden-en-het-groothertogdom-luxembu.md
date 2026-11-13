@@ -8,7 +8,7 @@ laatste_update: 1980-09-05
 status: geldig
 toestand: 1980-09-05
 bron: "https://wetten.overheid.nl/BWBV0003860"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Groothertogdom Luxemburg inzake de invordering van sociale verzekeringspremies

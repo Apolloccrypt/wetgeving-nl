@@ -8,7 +8,7 @@ laatste_update: 1975-05-02
 status: geldig
 toestand: 1975-05-02
 bron: "https://wetten.overheid.nl/BWBV0004367"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag inzake de niet-verspreiding van kernwapens

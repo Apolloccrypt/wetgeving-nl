@@ -8,7 +8,7 @@ laatste_update: 2008-03-17
 status: geldig
 toestand: 2008-03-17
 bron: "https://wetten.overheid.nl/BWBV0004465"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Europese Code inzake sociale zekerheid

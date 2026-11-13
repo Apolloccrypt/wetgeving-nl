@@ -8,7 +8,7 @@ laatste_update: 1982-01-15
 status: geldig
 toestand: 1982-01-15
 bron: "https://wetten.overheid.nl/BWBV0003924"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Protocol bij de Overeenkomst inzake de invoer van voorwerpen van opvoedkundige, wetenschappelijke of culturele aard

@@ -8,7 +8,7 @@ laatste_update: 1983-02-01
 status: geldig
 toestand: 1983-02-01
 bron: "https://wetten.overheid.nl/BWBV0003948"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Europese Overeenkomst betreffende de verlening van medische hulp aan personen die tijdelijk in het buitenland verblijven

@@ -8,7 +8,7 @@ laatste_update: 1976-01-14
 status: geldig
 toestand: 1976-01-14
 bron: "https://wetten.overheid.nl/BWBV0003886"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Verdrag tot verbod van de plaatsing van kernwapens en andere wapens voor massale vernietiging op de zeebedding en de oceaanbodem en in de ondergrond daarvan

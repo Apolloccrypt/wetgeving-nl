@@ -8,7 +8,7 @@ laatste_update: 1974-10-10
 status: geldig
 toestand: 1974-10-10
 bron: "https://wetten.overheid.nl/BWBV0004655"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag betreffende de vaststelling van minimumlonen, in het bijzonder met betrekking tot de ontwikkelingslanden

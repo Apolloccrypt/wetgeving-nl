@@ -8,7 +8,7 @@ laatste_update: 1992-11-01
 status: geldig
 toestand: 1992-11-01
 bron: "https://wetten.overheid.nl/BWBV0004550"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Protocol bij het Verdrag inzake de samenstelling van een Europese farmacopee

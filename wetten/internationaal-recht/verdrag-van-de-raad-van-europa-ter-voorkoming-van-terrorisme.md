@@ -8,7 +8,7 @@ laatste_update: 2010-11-01
 status: geldig
 toestand: 2010-11-01
 bron: "https://wetten.overheid.nl/BWBV0004604"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag van de Raad van Europa ter voorkoming van terrorisme

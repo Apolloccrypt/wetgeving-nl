@@ -8,7 +8,7 @@ laatste_update: 1973-01-01
 status: geldig
 toestand: 1973-01-01
 bron: "https://wetten.overheid.nl/BWBV0004703"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Akkoord betreffende de produkten die onder de bevoegdheid vallen van de Europese Gemeenschap voor Kolen en Staal

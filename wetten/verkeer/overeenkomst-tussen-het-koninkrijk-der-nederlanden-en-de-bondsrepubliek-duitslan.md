@@ -8,7 +8,7 @@ laatste_update: 1984-12-05
 status: geldig
 toestand: 1984-12-05
 bron: "https://wetten.overheid.nl/BWBV0003856"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de gemeenschappelijke informatie en begeleiding van de scheepvaart in de Eemsmonding door middel van walradar- en hoogfrequent-radio-installaties

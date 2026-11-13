@@ -8,7 +8,7 @@ laatste_update: 1982-03-05
 status: geldig
 toestand: 1982-03-05
 bron: "https://wetten.overheid.nl/BWBV0004636"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag betreffende de prestaties bij arbeidsongevallen en beroepsziekten

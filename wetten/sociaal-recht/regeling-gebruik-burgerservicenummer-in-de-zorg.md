@@ -5,11 +5,11 @@ identifier: "BWBR0023923"
 categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
 publicatiedatum: 2008-06-01
-laatste_update: 2025-11-11
+laatste_update: 2026-11-11
 status: geldig
-toestand: 2025-11-11
+toestand: 2026-11-11
 bron: "https://wetten.overheid.nl/BWBR0023923"
-opgehaald: 2026-10-10
+opgehaald: 2026-11-13
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 26 mei 2008, nr. MEVA/ICT-2838255, houdende regels omtrent het gebruik van het burgerservicenummer in de zorg (Regeling gebruik burgerservicenummer in de zorg)
@@ -62,17 +62,17 @@ De Minister publiceert op het internet de gegevens die zijn opgenomen in verstre
 
 ##### Artikel 6
 
-1. Voor een toegangsmiddel wordt een vergoeding voor twee jaar in rekening gebracht van:
+1. Voor een toegangsmiddel wordt een vergoeding voor een jaar in rekening gebracht van:
 
-- a. € 255,– voor een pas;
+- a. € 127,50,– voor een pas;
 
-- b. € 450,– voor een certificaat.
+- b. € 225,– voor een certificaat.
 
 2. Restitutie van betaalde vergoedingen, bedoeld in het eerste lid, is niet mogelijk, tenzij naar het oordeel van Onze Minister sprake is van een omstandigheid die niet kan worden toegerekend aan degene ten behoeve van wie de pas of het certificaat is geproduceerd.
 
 ##### Artikel 7
 
-De geldigheid van het toegangsmiddel is twee jaar gerekend vanaf de datum van uitgifte van het toegangsmiddel.
+De geldigheid van het toegangsmiddel is een jaar gerekend vanaf de datum van uitgifte van het toegangsmiddel.
 
 ##### Artikel 8
 

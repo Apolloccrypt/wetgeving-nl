@@ -8,7 +8,7 @@ laatste_update: 2009-12-22
 status: geldig
 toestand: 2009-12-22
 bron: "https://wetten.overheid.nl/BWBV0004726"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Complementair Protocol op de Aanvullende Overeenkomst betreffende de geldigheid voor het Vorstendom Liechtenstein van de Overeenkomst tussen de Lid-Staten van de Europese Gemeenschap voor Kolen en Staal en de Zwitserse Bondsstaat in verband met de toetreding van de Helleense Republiek tot de Gemeenschap

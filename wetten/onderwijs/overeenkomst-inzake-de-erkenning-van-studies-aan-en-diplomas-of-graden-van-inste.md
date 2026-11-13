@@ -8,7 +8,7 @@ laatste_update: 1982-07-15
 status: geldig
 toestand: 1982-07-15
 bron: "https://wetten.overheid.nl/BWBV0003973"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst inzake de erkenning van studies aan, en diploma's of graden van instellingen van hoger onderwijs in de Staten, behorende tot de Europese Regio

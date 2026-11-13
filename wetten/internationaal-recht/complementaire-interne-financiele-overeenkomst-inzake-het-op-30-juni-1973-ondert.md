@@ -8,7 +8,7 @@ laatste_update: 1977-08-04
 status: geldig
 toestand: 1977-08-04
 bron: "https://wetten.overheid.nl/BWBV0004555"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Complementaire Interne Financiële Overeenkomst inzake het op 30 juni 1973 ondertekende Complementaire Protocol

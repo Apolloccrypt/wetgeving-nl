@@ -8,7 +8,7 @@ laatste_update: 2009-12-01
 status: geldig
 toestand: 2009-12-01
 bron: "https://wetten.overheid.nl/BWBV0004041"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Verdrag inzake de bevordering en bescherming van investeringen tussen de Regering van het Koninkrijk der Nederlanden en de Regering van het Koninkrijk Bahrein

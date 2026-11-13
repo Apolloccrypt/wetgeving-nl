@@ -8,7 +8,7 @@ laatste_update: 2016-07-01
 status: geldig
 toestand: 2016-07-01
 bron: "https://wetten.overheid.nl/BWBV0003852"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst inzake luchtdiensten tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Republiek Tanzania

@@ -8,7 +8,7 @@ laatste_update: 2008-11-08
 status: geldig
 toestand: 2008-11-08
 bron: "https://wetten.overheid.nl/BWBV0004310"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag inzake verkeerstekens

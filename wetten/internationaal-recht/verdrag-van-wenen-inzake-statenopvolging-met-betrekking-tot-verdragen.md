@@ -7,7 +7,7 @@ laatste_update: 1978-08-23
 status: geldig
 toestand: 1978-08-23
 bron: "https://wetten.overheid.nl/BWBV0003934"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Verdrag van Wenen inzake Statenopvolging met betrekking tot verdragen

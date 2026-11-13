@@ -8,7 +8,7 @@ laatste_update: 1967-09-15
 status: geldig
 toestand: 1967-09-15
 bron: "https://wetten.overheid.nl/BWBV0004484"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Verenigde Naties, de Internationale Arbeidsorganisatie, de Voedsel- en Landbouworganisatie van de Verenigde Naties, de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur, de Internationale Burgerluchtvaart Organisatie, de Wereldgezondheidsorganisatie, de Internationale Vereniging voor Verreberichtgeving, de Wereld Meteorologische Organisatie, de Internationale Organisatie voor Atoomenergie, de Wereldpostvereniging en de Intergouvernementele Maritieme Consultatieve Organisatie inzake technische hulp aan Suriname en de Nederlandse Antillen

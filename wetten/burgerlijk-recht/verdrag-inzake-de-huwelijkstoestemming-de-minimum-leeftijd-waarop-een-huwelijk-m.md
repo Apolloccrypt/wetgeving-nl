@@ -8,7 +8,7 @@ laatste_update: 1965-09-30
 status: geldig
 toestand: 1965-09-30
 bron: "https://wetten.overheid.nl/BWBV0004321"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag inzake de huwelijkstoestemming, de minimum-leeftijd waarop een huwelijk mag worden aangegaan en de registratie van huwelijken

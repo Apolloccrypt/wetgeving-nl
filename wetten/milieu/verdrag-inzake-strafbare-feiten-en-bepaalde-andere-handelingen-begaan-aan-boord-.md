@@ -8,7 +8,7 @@ laatste_update: 2021-05-01
 status: geldig
 toestand: 2021-05-01
 bron: "https://wetten.overheid.nl/BWBV0004659"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag inzake strafbare feiten en bepaalde andere handelingen begaan aan boord van luchtvaartuigen

@@ -8,7 +8,7 @@ laatste_update: 1977-03-02
 status: geldig
 toestand: 1977-03-02
 bron: "https://wetten.overheid.nl/BWBV0004561"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Europese Overeenkomst nopens het verstrekken van inlichtingen over buitenlands recht

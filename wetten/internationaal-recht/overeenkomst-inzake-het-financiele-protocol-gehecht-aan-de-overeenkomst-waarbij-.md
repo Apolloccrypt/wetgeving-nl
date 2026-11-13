@@ -8,7 +8,7 @@ laatste_update: 1964-11-17
 status: geldig
 toestand: 1964-11-17
 bron: "https://wetten.overheid.nl/BWBV0004549"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst inzake het Financiële Protocol gehecht aan de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije

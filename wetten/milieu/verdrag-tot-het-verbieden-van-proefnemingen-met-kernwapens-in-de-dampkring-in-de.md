@@ -8,7 +8,7 @@ laatste_update: 1964-09-14
 status: geldig
 toestand: 1964-09-14
 bron: "https://wetten.overheid.nl/BWBV0004520"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag tot het verbieden van proefnemingen met kernwapens in de dampkring, in de kosmische ruimte en onder water

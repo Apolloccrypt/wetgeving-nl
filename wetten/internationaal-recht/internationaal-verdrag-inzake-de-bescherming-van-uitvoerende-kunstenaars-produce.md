@@ -8,7 +8,7 @@ laatste_update: 1993-10-07
 status: geldig
 toestand: 1993-10-07
 bron: "https://wetten.overheid.nl/BWBV0004329"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Internationaal Verdrag inzake de bescherming van uitvoerende kunstenaars, producenten van fonogrammen en omroeporganisaties

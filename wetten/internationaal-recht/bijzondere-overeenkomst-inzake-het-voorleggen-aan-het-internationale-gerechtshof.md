@@ -8,7 +8,7 @@ laatste_update: 1967-02-02
 status: geldig
 toestand: 1967-02-02
 bron: "https://wetten.overheid.nl/BWBV0004425"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Bijzondere Overeenkomst inzake het voorleggen aan het Internationale Gerechtshof van een geschil tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland betreffende de afbakening tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland van het continentaal plat in de Noordzee

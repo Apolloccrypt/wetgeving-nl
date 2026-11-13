@@ -8,7 +8,7 @@ laatste_update: 1989-04-01
 status: geldig
 toestand: 1989-04-01
 bron: "https://wetten.overheid.nl/BWBV0004557"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag inzake de toetreding van de Helleense Republiek tot het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken, alsmede tot het Protocol betreffende de uitlegging daarvan door het Hof van Justitie, zoals deze zijn gewijzigd bij het Verdrag inzake de toetreding van het Koninkrijk Denemarken, Ierland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland

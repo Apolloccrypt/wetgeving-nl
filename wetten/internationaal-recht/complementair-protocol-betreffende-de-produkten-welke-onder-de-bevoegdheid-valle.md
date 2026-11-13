@@ -8,7 +8,7 @@ laatste_update: 1986-03-01
 status: geldig
 toestand: 1986-03-01
 bron: "https://wetten.overheid.nl/BWBV0004008"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Complementair Protocol betreffende de produkten welke onder de bevoegdheid vallen van de Europese Gemeenschap voor Kolen en Staal

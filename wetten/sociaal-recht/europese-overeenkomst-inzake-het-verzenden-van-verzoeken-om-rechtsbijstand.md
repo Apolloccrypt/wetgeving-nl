@@ -8,7 +8,7 @@ laatste_update: 1992-04-13
 status: geldig
 toestand: 1992-04-13
 bron: "https://wetten.overheid.nl/BWBV0003985"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Europese Overeenkomst inzake het verzenden van verzoeken om rechtsbijstand

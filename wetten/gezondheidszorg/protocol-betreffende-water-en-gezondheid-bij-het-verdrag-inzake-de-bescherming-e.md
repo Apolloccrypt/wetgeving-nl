@@ -8,7 +8,7 @@ laatste_update: 2009-09-23
 status: geldig
 toestand: 2009-09-23
 bron: "https://wetten.overheid.nl/BWBV0004373"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Protocol betreffende water en gezondheid bij het Verdrag inzake de bescherming en het gebruik van grensoverschrijdende waterlopen en internationale meren van 1992

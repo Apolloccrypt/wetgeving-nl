@@ -9,7 +9,7 @@ laatste_update: 2026-11-06
 status: geldig
 toestand: 2026-11-06
 bron: "https://wetten.overheid.nl/BWBR0032919"
-opgehaald: 2026-11-12
+opgehaald: 2026-11-13
 ---
 
 # Besluit van 11 februari 2013, houdende de regeling van enkele onderwerpen van de Aanbestedingswet 2012 (Aanbestedingsbesluit)

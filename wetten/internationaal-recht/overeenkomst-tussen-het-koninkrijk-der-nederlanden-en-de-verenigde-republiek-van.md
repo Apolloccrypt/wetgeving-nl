@@ -8,7 +8,7 @@ laatste_update: 1986-10-30
 status: geldig
 toestand: 1986-10-30
 bron: "https://wetten.overheid.nl/BWBV0004647"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Verenigde Republiek van Tanzania inzake technische samenwerking

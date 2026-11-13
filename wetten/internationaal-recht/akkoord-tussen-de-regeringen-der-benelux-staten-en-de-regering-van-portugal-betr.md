@@ -8,7 +8,7 @@ laatste_update: 1967-07-01
 status: geldig
 toestand: 1967-07-01
 bron: "https://wetten.overheid.nl/BWBV0004228"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Akkoord tussen de Regeringen der Benelux-Staten en de Regering van Portugal betreffende het gebruik van het zeemansboekje als reisdocument

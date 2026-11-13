@@ -8,7 +8,7 @@ laatste_update: 1975-10-01
 status: geldig
 toestand: 1975-10-01
 bron: "https://wetten.overheid.nl/BWBV0003896"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst over de verbetering en het onderhoud van de Ramsbeek en de Veengoot

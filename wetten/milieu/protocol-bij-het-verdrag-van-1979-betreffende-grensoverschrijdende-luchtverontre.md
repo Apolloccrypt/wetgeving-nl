@@ -8,7 +8,7 @@ laatste_update: 1998-08-05
 status: geldig
 toestand: 1998-08-05
 bron: "https://wetten.overheid.nl/BWBV0004644"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Protocol bij het Verdrag van 1979 betreffende grensoverschrijdende luchtverontreiniging over lange afstand inzake de verdergaande vermindering van zwavelemissies

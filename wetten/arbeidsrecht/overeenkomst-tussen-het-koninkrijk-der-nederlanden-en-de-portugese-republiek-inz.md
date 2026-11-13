@@ -8,7 +8,7 @@ laatste_update: 1963-11-22
 status: geldig
 toestand: 1963-11-22
 bron: "https://wetten.overheid.nl/BWBV0004200"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Portugese Republiek inzake migratie, aanwerving en tewerkstelling van Portugese arbeiders in Nederland

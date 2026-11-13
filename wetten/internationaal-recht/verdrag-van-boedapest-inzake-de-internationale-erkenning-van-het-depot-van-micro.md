@@ -8,7 +8,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBV0004052"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Verdrag van Boedapest inzake de internationale erkenning van het depot van micro-organismen ten dienste van de octrooiverlening

@@ -8,7 +8,7 @@ laatste_update: 2011-11-08
 status: geldig
 toestand: 2011-11-08
 bron: "https://wetten.overheid.nl/BWBV0004197"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek der Marshalleilanden inzake de uitwisseling van informatie betreffende belastingzaken

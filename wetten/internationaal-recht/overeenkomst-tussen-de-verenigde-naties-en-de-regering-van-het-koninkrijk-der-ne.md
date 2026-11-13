@@ -8,7 +8,7 @@ laatste_update: 1970-03-05
 status: geldig
 toestand: 1970-03-05
 bron: "https://wetten.overheid.nl/BWBV0004317"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen de Verenigde Naties en de Regering van het Koninkrijk der Nederlanden inzake operationele hulp aan Suriname en de Nederlandse Antillen

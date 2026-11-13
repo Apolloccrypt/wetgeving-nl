@@ -8,7 +8,7 @@ laatste_update: 2002-07-05
 status: geldig
 toestand: 2002-07-05
 bron: "https://wetten.overheid.nl/BWBV0004446"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tot oprichting van de Afrikaanse Ontwikkelingsbank, gedaan te Khartoem op 4 augustus 1963, zoals gewijzigd bij Resolutie 05-79 aangenomen door de Raad van Bestuur op 17 mei 1979

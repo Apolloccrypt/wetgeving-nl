@@ -8,7 +8,7 @@ laatste_update: 1975-03-13
 status: geldig
 toestand: 1975-03-13
 bron: "https://wetten.overheid.nl/BWBV0003997"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Tweede Overeenkomst inzake het Nam Ngoem Ontwikkelingsfonds, 1974. Overeenkomst betreffende de aanvullende bijdrage door de Regering van het Koninkrijk der Nederlanden

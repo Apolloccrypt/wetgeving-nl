@@ -8,7 +8,7 @@ laatste_update: 1981-02-28
 status: geldig
 toestand: 1981-02-28
 bron: "https://wetten.overheid.nl/BWBV0003892"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst inzake het onderhoud van de Straelener Leitgraben en de Lingsforterbeek alsmede het beheren van de kunstwerken in en aan deze waterlossingen

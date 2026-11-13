@@ -8,7 +8,7 @@ laatste_update: 1981-06-22
 status: geldig
 toestand: 1981-06-22
 bron: "https://wetten.overheid.nl/BWBV0003925"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Verdrag tot verbod van de ontwikkeling, de produktie en de aanleg van voorraden van bacteriologische (biologische) en toxinewapens en inzake de vernietiging van deze wapens

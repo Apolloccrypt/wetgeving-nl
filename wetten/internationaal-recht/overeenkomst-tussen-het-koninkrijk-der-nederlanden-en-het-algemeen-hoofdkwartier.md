@@ -8,7 +8,7 @@ laatste_update: 1965-04-13
 status: geldig
 toestand: 1965-04-13
 bron: "https://wetten.overheid.nl/BWBV0004186"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Algemeen Hoofdkwartier van de Geallieerde Mogendheden in Europa inzake de bijzondere voorwaarden, die toepasselijk zijn op de vestiging en het functioneren van internationale militaire hoofdkwartieren binnen het Europese grondgebied van het Koninkrijk der Nederlanden

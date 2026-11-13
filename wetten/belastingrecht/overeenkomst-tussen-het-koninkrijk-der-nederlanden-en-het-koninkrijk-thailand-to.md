@@ -8,7 +8,7 @@ laatste_update: 1976-06-09
 status: geldig
 toestand: 1976-06-09
 bron: "https://wetten.overheid.nl/BWBV0003872"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Thailand tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen

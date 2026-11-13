@@ -8,7 +8,7 @@ laatste_update: 1984-07-11
 status: geldig
 toestand: 1984-07-11
 bron: "https://wetten.overheid.nl/BWBV0003946"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst ter regeling van de activiteiten van Staten op de maan en andere hemellichamen

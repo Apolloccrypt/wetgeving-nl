@@ -8,7 +8,7 @@ laatste_update: 2011-12-01
 status: geldig
 toestand: 2011-12-01
 bron: "https://wetten.overheid.nl/BWBV0004161"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Aruba, en de Regering van de Caymaneilanden zoals gemachtigd krachtens de volmacht van 1 september 2009 van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake de uitwisseling van informatie betreffende belastingen

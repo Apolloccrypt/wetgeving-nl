@@ -8,7 +8,7 @@ laatste_update: 2003-11-01
 status: geldig
 toestand: 2003-11-01
 bron: "https://wetten.overheid.nl/BWBV0004146"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Internationaal Verdrag betreffende de instelling van een Internationaal Fonds voor vergoeding van schade door verontreiniging door olie, 1992 (Fondsverdrag 1992)

@@ -8,7 +8,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBV0004424"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag tot bestrijding van het wederrechtelijk in zijn macht brengen van luchtvaartuigen

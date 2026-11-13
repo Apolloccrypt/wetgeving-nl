@@ -8,7 +8,7 @@ laatste_update: 1984-06-03
 status: geldig
 toestand: 1984-06-03
 bron: "https://wetten.overheid.nl/BWBV0004120"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag van Parijs tot bescherming van de industriële eigendom van 20 maart 1883, zoals herzien te Brussel op 14 december 1900, te Washington op 2 juni 1911, te 's-Gravenhage op 6 november 1925, te Londen op 2 juni 1934, te Lissabon op 31 oktober 1958 en te Stockholm op 14 juli 1967 en zoals gewijzigd te Stockholm op 28 september 1979

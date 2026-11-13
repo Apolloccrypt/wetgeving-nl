@@ -8,7 +8,7 @@ laatste_update: 2012-06-16
 status: geldig
 toestand: 2012-06-16
 bron: "https://wetten.overheid.nl/BWBV0004565"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en de Republiek Mali betreffende de status van militair en civiel personeel van de Nederlandse en Malinese Ministeries van Defensie, aanwezig op elkaars grondgebied voor activiteiten in het kader van militaire samenwerking

@@ -8,7 +8,7 @@ laatste_update: 1965-03-12
 status: geldig
 toestand: 1965-03-12
 bron: "https://wetten.overheid.nl/BWBV0004382"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen Staten die partij zijn bij het Noordatlantisch Verdrag, tot samenwerking inzake atoomgegevens

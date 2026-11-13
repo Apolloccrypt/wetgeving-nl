@@ -8,7 +8,7 @@ laatste_update: 1989-01-05
 status: geldig
 toestand: 1989-01-05
 bron: "https://wetten.overheid.nl/BWBV0003903"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Verdrag inzake de voorkoming en bestraffing van misdrijven tegen internationaal beschermde personen, met inbegrip van diplomaten

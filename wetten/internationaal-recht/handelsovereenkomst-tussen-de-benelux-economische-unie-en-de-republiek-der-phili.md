@@ -8,7 +8,7 @@ laatste_update: 1972-10-12
 status: geldig
 toestand: 1972-10-12
 bron: "https://wetten.overheid.nl/BWBV0004348"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Handelsovereenkomst tussen de Benelux Economische Unie en de Republiek der Philippijnen

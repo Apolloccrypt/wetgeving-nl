@@ -8,7 +8,7 @@ laatste_update: 2007-01-17
 status: geldig
 toestand: 2007-01-17
 bron: "https://wetten.overheid.nl/BWBV0004668"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag betreffende geneeskundige verzorging en uitkeringen bij ziekte

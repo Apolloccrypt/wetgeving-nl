@@ -8,7 +8,7 @@ laatste_update: 1971-01-29
 status: geldig
 toestand: 1971-01-29
 bron: "https://wetten.overheid.nl/BWBV0004210"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Protocol inzake de afschaffing van controles en formaliteiten aan de binnengrenzen van Benelux en inzake de opheffing van de belemmeringen van het vrije verkeer

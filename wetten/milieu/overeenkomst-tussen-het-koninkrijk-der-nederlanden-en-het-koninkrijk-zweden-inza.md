@@ -8,7 +8,7 @@ laatste_update: 1968-12-21
 status: geldig
 toestand: 1968-12-21
 bron: "https://wetten.overheid.nl/BWBV0004385"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Zweden inzake het vestigen en onderhouden van luchtdiensten

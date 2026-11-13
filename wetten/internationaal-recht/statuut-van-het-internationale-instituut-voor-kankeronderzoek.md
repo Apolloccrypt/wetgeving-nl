@@ -8,7 +8,7 @@ laatste_update: 1972-05-23
 status: geldig
 toestand: 1972-05-23
 bron: "https://wetten.overheid.nl/BWBV0004376"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Statuut van het Internationale Instituut voor Kankeronderzoek

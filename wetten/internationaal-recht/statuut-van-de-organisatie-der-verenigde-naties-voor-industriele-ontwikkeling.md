@@ -8,7 +8,7 @@ laatste_update: 1985-06-21
 status: geldig
 toestand: 1985-06-21
 bron: "https://wetten.overheid.nl/BWBV0003907"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Statuut van de Organisatie der Verenigde Naties voor Industriële Ontwikkeling

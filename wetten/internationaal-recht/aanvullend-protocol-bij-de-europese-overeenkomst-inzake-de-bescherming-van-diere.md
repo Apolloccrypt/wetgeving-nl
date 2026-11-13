@@ -8,7 +8,7 @@ laatste_update: 1989-11-07
 status: geldig
 toestand: 1989-11-07
 bron: "https://wetten.overheid.nl/BWBV0004568"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Aanvullend Protocol bij de Europese Overeenkomst inzake de bescherming van dieren tijdens internationaal vervoer

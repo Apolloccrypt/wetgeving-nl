@@ -8,7 +8,7 @@ laatste_update: 1981-02-24
 status: geldig
 toestand: 1981-02-24
 bron: "https://wetten.overheid.nl/BWBV0003868"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Kenya inzake luchtdiensten tussen en via hun onderscheiden grondgebieden

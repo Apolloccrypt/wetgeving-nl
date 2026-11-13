@@ -8,7 +8,7 @@ laatste_update: 1964-08-24
 status: geldig
 toestand: 1964-08-24
 bron: "https://wetten.overheid.nl/BWBV0004406"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Ivoorkust inzake het luchtvervoer

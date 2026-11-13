@@ -8,7 +8,7 @@ laatste_update: 1971-09-18
 status: geldig
 toestand: 1971-09-18
 bron: "https://wetten.overheid.nl/BWBV0004399"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # NAVO-Overeenkomst inzake de uitwisseling van technische gegevens voor defensiedoeleinden

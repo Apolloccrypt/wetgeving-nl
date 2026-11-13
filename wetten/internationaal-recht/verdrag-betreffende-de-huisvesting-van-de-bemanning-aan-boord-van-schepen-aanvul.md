@@ -8,7 +8,7 @@ laatste_update: 2013-08-20
 status: geldig
 toestand: 2013-08-20
 bron: "https://wetten.overheid.nl/BWBV0004640"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag betreffende de huisvesting van de bemanning aan boord van schepen (aanvullende bepalingen)

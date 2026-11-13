@@ -8,7 +8,7 @@ laatste_update: 1981-01-26
 status: geldig
 toestand: 1981-01-26
 bron: "https://wetten.overheid.nl/BWBV0003900"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst inzake de registratie van in de kosmische ruimte gebrachte voorwerpen

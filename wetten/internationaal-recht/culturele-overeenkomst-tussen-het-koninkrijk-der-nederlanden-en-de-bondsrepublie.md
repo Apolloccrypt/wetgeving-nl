@@ -8,7 +8,7 @@ laatste_update: 1962-04-21
 status: geldig
 toestand: 1962-04-21
 bron: "https://wetten.overheid.nl/BWBV0004215"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Culturele Overeenkomst tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland

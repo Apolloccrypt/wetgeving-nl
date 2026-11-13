@@ -8,7 +8,7 @@ laatste_update: 1968-05-29
 status: geldig
 toestand: 1968-05-29
 bron: "https://wetten.overheid.nl/BWBV0004218"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Culturele Overeenkomst tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Brazilië

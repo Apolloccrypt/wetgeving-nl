@@ -8,7 +8,7 @@ laatste_update: 1961-12-16
 status: geldig
 toestand: 1961-12-16
 bron: "https://wetten.overheid.nl/BWBV0004574"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Vierde Aanvullend Protocol bij het Algemeen Verdrag nopens de voorrechten en immuniteiten van de Raad van Europa

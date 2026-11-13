@@ -8,7 +8,7 @@ laatste_update: 1977-01-14
 status: geldig
 toestand: 1977-01-14
 bron: "https://wetten.overheid.nl/BWBV0003910"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Suriname met betrekking tot de overdracht aan de Republiek Suriname van roerende en onroerende goederen van de troepenmacht in Suriname

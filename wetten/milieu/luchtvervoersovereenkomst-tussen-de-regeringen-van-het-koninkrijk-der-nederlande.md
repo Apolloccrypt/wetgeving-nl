@@ -8,7 +8,7 @@ laatste_update: 2018-12-01
 status: geldig
 toestand: 2018-12-01
 bron: "https://wetten.overheid.nl/BWBV0003873"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Luchtvervoersovereenkomst tussen de Regeringen van het Koninkrijk der Nederlanden en van de Republiek ten Oosten van de Uruguay

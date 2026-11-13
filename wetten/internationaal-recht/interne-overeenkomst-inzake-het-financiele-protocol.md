@@ -8,7 +8,7 @@ laatste_update: 1977-08-04
 status: geldig
 toestand: 1977-08-04
 bron: "https://wetten.overheid.nl/BWBV0004498"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Interne Overeenkomst inzake het Financiële Protocol

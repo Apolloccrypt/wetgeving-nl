@@ -8,7 +8,7 @@ laatste_update: 1988-08-01
 status: geldig
 toestand: 1988-08-01
 bron: "https://wetten.overheid.nl/BWBV0004453"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Regionale Overeenkomst van de Europese omroepregio betreffende het gebruik van frequenties voor de (analoge) omroep in de VHF en UHF banden

@@ -8,7 +8,7 @@ laatste_update: 1983-12-29
 status: geldig
 toestand: 1983-12-29
 bron: "https://wetten.overheid.nl/BWBV0003889"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst over het onderhoud van de Aastrang (Bocholter Aa) in het grensgebied

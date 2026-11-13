@@ -8,7 +8,7 @@ laatste_update: 1979-08-12
 status: geldig
 toestand: 1979-08-12
 bron: "https://wetten.overheid.nl/BWBV0003957"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Europese Overeenkomst inzake de sociale bescherming van landbouwers

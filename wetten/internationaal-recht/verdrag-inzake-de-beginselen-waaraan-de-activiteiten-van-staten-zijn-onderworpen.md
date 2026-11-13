@@ -8,7 +8,7 @@ laatste_update: 1969-10-10
 status: geldig
 toestand: 1969-10-10
 bron: "https://wetten.overheid.nl/BWBV0004403"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag inzake de beginselen waaraan de activiteiten van Staten zijn onderworpen bij het onderzoek en gebruik van de kosmische ruimte, met inbegrip van de maan en andere hemellichamen

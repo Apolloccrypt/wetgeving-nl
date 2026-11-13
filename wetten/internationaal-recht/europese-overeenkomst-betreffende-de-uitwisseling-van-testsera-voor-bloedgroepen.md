@@ -8,7 +8,7 @@ laatste_update: 1978-04-07
 status: geldig
 toestand: 1978-04-07
 bron: "https://wetten.overheid.nl/BWBV0004573"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Europese Overeenkomst betreffende de uitwisseling van testsera voor bloedgroepenonderzoek

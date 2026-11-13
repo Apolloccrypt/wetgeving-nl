@@ -8,7 +8,7 @@ laatste_update: 2012-08-01
 status: geldig
 toestand: 2012-08-01
 bron: "https://wetten.overheid.nl/BWBV0004617"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden, ten behoeve van de Nederlandse Antillen, en de Regering van de Franse Republiek inzake de uitwisseling van informatie betreffende belastingen

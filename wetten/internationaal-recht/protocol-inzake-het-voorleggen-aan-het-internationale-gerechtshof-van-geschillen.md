@@ -8,7 +8,7 @@ laatste_update: 1967-02-02
 status: geldig
 toestand: 1967-02-02
 bron: "https://wetten.overheid.nl/BWBV0004715"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Protocol inzake het voorleggen aan het Internationale Gerechtshof van geschillen tussen de partijen betreffende de afbakening van het continentaal plat in de Noordzee

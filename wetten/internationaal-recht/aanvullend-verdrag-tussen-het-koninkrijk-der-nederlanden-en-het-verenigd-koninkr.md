@@ -8,7 +8,7 @@ laatste_update: 1970-03-16
 status: geldig
 toestand: 1970-03-16
 bron: "https://wetten.overheid.nl/BWBV0004429"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Aanvullend Verdrag tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland betreffende rechtsgedingen

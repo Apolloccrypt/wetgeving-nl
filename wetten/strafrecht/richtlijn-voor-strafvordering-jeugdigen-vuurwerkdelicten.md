@@ -8,7 +8,7 @@ laatste_update: 2026-11-03
 status: geldig
 toestand: 2026-11-03
 bron: "https://wetten.overheid.nl/BWBR0053297"
-opgehaald: 2026-11-12
+opgehaald: 2026-11-13
 ---
 
 # Richtlijn voor strafvordering jeugdigen vuurwerkdelicten

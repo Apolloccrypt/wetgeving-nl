@@ -8,7 +8,7 @@ laatste_update: 1965-09-15
 status: geldig
 toestand: 1965-09-15
 bron: "https://wetten.overheid.nl/BWBV0004221"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland betreffende de wederzijdse erkenning en tenuitvoerlegging van rechterlijke beslissingen en andere executoriale titels in burgerlijke zaken

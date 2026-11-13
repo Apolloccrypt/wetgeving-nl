@@ -8,7 +8,7 @@ laatste_update: 1980-09-22
 status: geldig
 toestand: 1980-09-22
 bron: "https://wetten.overheid.nl/BWBV0003890"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen het Waterschap van de Berkel, de Teilnehmergemeinschaft der Flurbereinigung Vreden en het Wasser- und Bodenverband Grosse Mast-Gaxel over de verbetering en het onderhoud van de Beurzerbeek met enkele zijleidingen in het grensgebied

@@ -8,7 +8,7 @@ laatste_update: 2011-12-28
 status: geldig
 toestand: 2011-12-28
 bron: "https://wetten.overheid.nl/BWBV0004163"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Sultanaat Oman tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen

@@ -8,7 +8,7 @@ laatste_update: 1970-07-21
 status: geldig
 toestand: 1970-07-21
 bron: "https://wetten.overheid.nl/BWBV0004332"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen zekere Lid-Staten van de Europese Organisatie voor Ruimteonderzoek en de Europese Organisatie voor Ruimteonderzoek inzake de uitvoering van een bijzonder TD-project

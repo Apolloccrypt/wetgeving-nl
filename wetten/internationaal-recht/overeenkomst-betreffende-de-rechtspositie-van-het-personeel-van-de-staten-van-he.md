@@ -8,7 +8,7 @@ laatste_update: 1969-12-21
 status: geldig
 toestand: 1969-12-21
 bron: "https://wetten.overheid.nl/BWBV0004474"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst betreffende de rechtspositie van het personeel van de staten van herkomst dat is verbonden aan een internationaal militair hoofdkwartier van de NAVO in de Bondsrepubliek Duitsland

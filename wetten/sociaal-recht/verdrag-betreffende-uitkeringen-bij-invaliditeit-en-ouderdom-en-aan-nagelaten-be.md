@@ -8,7 +8,7 @@ laatste_update: 1970-10-27
 status: geldig
 toestand: 1970-10-27
 bron: "https://wetten.overheid.nl/BWBV0004670"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag betreffende uitkeringen bij invaliditeit en ouderdom en aan nagelaten betrekkingen

@@ -8,7 +8,7 @@ laatste_update: 1961-04-08
 status: geldig
 toestand: 1961-04-08
 bron: "https://wetten.overheid.nl/BWBV0004184"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Spaanse Staat inzake migratie, aanwerving en tewerkstelling van Spaanse arbeiders in Nederland

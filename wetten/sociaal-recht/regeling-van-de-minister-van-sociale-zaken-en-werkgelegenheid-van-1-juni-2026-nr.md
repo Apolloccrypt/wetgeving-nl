@@ -5,11 +5,11 @@ identifier: "BWBR0052677"
 categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
 publicatiedatum: 2026-06-10
-laatste_update: 2026-06-10
+laatste_update: 2026-11-11
 status: geldig
-toestand: 2026-06-10
+toestand: 2026-11-11
 bron: "https://wetten.overheid.nl/BWBR0052677"
-opgehaald: 2026-09-21
+opgehaald: 2026-11-13
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 1 juni 2026, nr. 2025-0000281091, tot vaststelling van de Rijksbijdrage in de kosten van heffingskortingen en voor het Ouderdomsfonds 2026 [KetenID WGK028576]
@@ -22,17 +22,17 @@ De rijksbijdrage, bedoeld in [artikel 14, eerste lid, van de Wet financiering so
 
 De geraamde totale kosten voor de heffingskortingen, bedoeld in [artikel 15 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=15), bedragen voor het jaar 2026:
 
-€ 68.697.100.000.
+€ 68.368.200.000.
 
 ##### Artikel 3. Rijksbijdrage in de kosten van heffingskortingen per fonds
 
 Met de toepassing van de formule, bedoeld in [artikel 15 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=15), bedraagt de rijksbijdrage in de kosten van de heffingskortingen per fonds voor het jaar 2026:
 
-- a. ten gunste van het Ouderdomsfonds: € 4.084.300.000.
+- a. ten gunste van het Ouderdomsfonds: € 4.064.700.000.
 
 - b. ten gunste van het Nabestaandenfonds: € 0.
 
-- c. ten gunste van het Fonds langdurige zorg: € 6.299.400.000.
+- c. ten gunste van het Fonds langdurige zorg: € 6.269.300.000.
 
 ##### Artikel 4. Inwerkingtreding
 

@@ -8,7 +8,7 @@ laatste_update: 1977-07-31
 status: geldig
 toestand: 1977-07-31
 bron: "https://wetten.overheid.nl/BWBV0004358"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst inzake wettiging door huwelijk

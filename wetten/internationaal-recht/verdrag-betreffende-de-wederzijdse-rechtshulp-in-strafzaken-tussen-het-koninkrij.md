@@ -8,7 +8,7 @@ laatste_update: 2012-12-01
 status: geldig
 toestand: 2012-12-01
 bron: "https://wetten.overheid.nl/BWBV0004727"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag betreffende de wederzijdse rechtshulp in strafzaken tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko

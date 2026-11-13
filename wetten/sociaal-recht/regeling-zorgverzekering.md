@@ -9,7 +9,7 @@ laatste_update: 2026-11-05
 status: geldig
 toestand: 2026-11-05
 bron: "https://wetten.overheid.nl/BWBR0018715"
-opgehaald: 2026-11-12
+opgehaald: 2026-11-13
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 1 september 2005, nr. Z/VV-2611957, houdende regels ter zake van de uitvoering van de Zorgverzekeringswet (Regeling zorgverzekering)

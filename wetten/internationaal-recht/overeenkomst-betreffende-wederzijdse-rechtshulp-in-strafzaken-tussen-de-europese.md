@@ -8,7 +8,7 @@ laatste_update: 2010-02-01
 status: geldig
 toestand: 2010-02-01
 bron: "https://wetten.overheid.nl/BWBV0004049"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst betreffende wederzijdse rechtshulp in strafzaken tussen de Europese Unie en de Verenigde Staten van Amerika

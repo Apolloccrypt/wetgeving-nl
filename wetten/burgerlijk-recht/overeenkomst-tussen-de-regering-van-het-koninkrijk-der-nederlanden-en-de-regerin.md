@@ -8,7 +8,7 @@ laatste_update: 1971-08-13
 status: geldig
 toestand: 1971-08-13
 bron: "https://wetten.overheid.nl/BWBV0004426"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Volksrepubliek Polen betreffende het internationale personen- en goederenvervoer over de weg

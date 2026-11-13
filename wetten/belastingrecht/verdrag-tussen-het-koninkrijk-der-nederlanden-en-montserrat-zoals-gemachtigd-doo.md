@@ -8,7 +8,7 @@ laatste_update: 2011-12-01
 status: geldig
 toestand: 2011-12-01
 bron: "https://wetten.overheid.nl/BWBV0004047"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en Montserrat (zoals gemachtigd door de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland) inzake de uitwisseling van informatie betreffende belastingen

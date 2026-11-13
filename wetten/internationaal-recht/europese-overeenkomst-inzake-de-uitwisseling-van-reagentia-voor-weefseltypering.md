@@ -8,7 +8,7 @@ laatste_update: 1985-03-28
 status: geldig
 toestand: 1985-03-28
 bron: "https://wetten.overheid.nl/BWBV0004016"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Europese Overeenkomst inzake de uitwisseling van reagentia voor weefseltypering

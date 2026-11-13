@@ -8,7 +8,7 @@ laatste_update: 2009-04-01
 status: geldig
 toestand: 2009-04-01
 bron: "https://wetten.overheid.nl/BWBV0004076"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen het Wasserverband Netterdenscher Kanal en het waterschap Rijn en IJssel inzake het gemaal Kandia

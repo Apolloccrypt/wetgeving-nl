@@ -8,7 +8,7 @@ laatste_update: 1994-03-01
 status: geldig
 toestand: 1994-03-01
 bron: "https://wetten.overheid.nl/BWBV0004091"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Aanvullend Protocol bij de Verdragen van Genève van 12 augustus 1949, betreffende de bescherming van de slachtoffers van internationale gewapende conflicten (Protocol I)

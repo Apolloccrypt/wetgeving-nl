@@ -8,7 +8,7 @@ laatste_update: 1968-10-24
 status: geldig
 toestand: 1968-10-24
 bron: "https://wetten.overheid.nl/BWBV0004369"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Protocol tot instelling van een Commissie van verzoening en goede diensten belast met het zoeken van een oplossing voor geschillen, welke kunnen rijzen tussen Staten die partij zijn bij het Verdrag nopens de bestrijding van discriminatie in het onderwijs

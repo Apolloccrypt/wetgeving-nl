@@ -8,7 +8,7 @@ laatste_update: 1970-06-01
 status: geldig
 toestand: 1970-06-01
 bron: "https://wetten.overheid.nl/BWBV0004193"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen de Beneluxlanden en de Republiek Korea inzake de afschaffing van de visumplicht

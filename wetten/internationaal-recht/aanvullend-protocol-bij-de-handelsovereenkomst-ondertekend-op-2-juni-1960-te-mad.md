@@ -8,7 +8,7 @@ laatste_update: 1961-07-28
 status: geldig
 toestand: 1961-07-28
 bron: "https://wetten.overheid.nl/BWBV0004421"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Aanvullend Protocol bij de Handelsovereenkomst ondertekend op 2 juni 1960 te Madrid, tussen de Benelux Economische Unie, enerzijds, en de Spaanse Staat, anderzijds

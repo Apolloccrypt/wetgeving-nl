@@ -8,7 +8,7 @@ laatste_update: 1982-07-07
 status: geldig
 toestand: 1982-07-07
 bron: "https://wetten.overheid.nl/BWBV0004431"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk België inzake sociale zekerheid van hun onderdanen die overzee arbeid hebben verricht

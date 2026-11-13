@@ -8,7 +8,7 @@ laatste_update: 1968-03-17
 status: geldig
 toestand: 1968-03-17
 bron: "https://wetten.overheid.nl/BWBV0004541"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Protocol bij de Europese Code inzake Sociale Zekerheid

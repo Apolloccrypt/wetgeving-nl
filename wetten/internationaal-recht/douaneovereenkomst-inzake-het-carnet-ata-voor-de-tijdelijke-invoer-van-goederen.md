@@ -8,7 +8,7 @@ laatste_update: 2017-08-13
 status: geldig
 toestand: 2017-08-13
 bron: "https://wetten.overheid.nl/BWBV0004361"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Douaneovereenkomst inzake het carnet A.T.A. voor de tijdelijke invoer van goederen

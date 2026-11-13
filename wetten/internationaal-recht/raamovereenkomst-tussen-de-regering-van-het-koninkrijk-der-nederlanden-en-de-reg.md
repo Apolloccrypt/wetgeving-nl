@@ -8,7 +8,7 @@ laatste_update: 1971-06-14
 status: geldig
 toestand: 1971-06-14
 bron: "https://wetten.overheid.nl/BWBV0004485"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Raamovereenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Federatieve Republiek van Brazilië inzake technische samenwerking

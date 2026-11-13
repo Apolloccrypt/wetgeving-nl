@@ -8,7 +8,7 @@ laatste_update: 1992-01-01
 status: geldig
 toestand: 1992-01-01
 bron: "https://wetten.overheid.nl/BWBV0003909"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Verdrag der Verenigde Naties inzake internationale koopovereenkomsten betreffende roerende zaken

@@ -8,7 +8,7 @@ laatste_update: 1977-05-12
 status: geldig
 toestand: 1977-05-12
 bron: "https://wetten.overheid.nl/BWBV0004669"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag betreffende de accommodatie aan boord van vissersschepen

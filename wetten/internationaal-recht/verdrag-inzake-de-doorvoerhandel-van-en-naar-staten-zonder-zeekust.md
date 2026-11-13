@@ -8,7 +8,7 @@ laatste_update: 1971-12-30
 status: geldig
 toestand: 1971-12-30
 bron: "https://wetten.overheid.nl/BWBV0004642"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag inzake de doorvoerhandel van en naar Staten zonder zeekust

@@ -8,7 +8,7 @@ laatste_update: 1964-04-18
 status: geldig
 toestand: 1964-04-18
 bron: "https://wetten.overheid.nl/BWBV0004360"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Douaneovereenkomst inzake faciliteiten voor de invoer van goederen bestemd om op tentoonstellingen, beurzen, congressen of soortgelijke manifestaties te worden getoond of gebruikt

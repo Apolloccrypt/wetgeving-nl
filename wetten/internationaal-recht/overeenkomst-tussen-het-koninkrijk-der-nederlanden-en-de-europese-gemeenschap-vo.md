@@ -8,7 +8,7 @@ laatste_update: 1962-10-30
 status: geldig
 toestand: 1962-10-30
 bron: "https://wetten.overheid.nl/BWBV0004458"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Europese Gemeenschap voor Atoomenergie (Euratom) betreffende de vestiging te Petten van een inrichting van het Gemeenschappelijk Centrum voor Onderzoek op het gebied van de Kernenergie

@@ -8,7 +8,7 @@ laatste_update: 1988-01-01
 status: geldig
 toestand: 1988-01-01
 bron: "https://wetten.overheid.nl/BWBV0004551"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Europees Verdrag inzake het toezicht op voorwaardelijk veroordeelden of voorwaardelijk in vrijheid gestelden

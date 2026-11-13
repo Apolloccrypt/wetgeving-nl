@@ -8,7 +8,7 @@ laatste_update: 1981-03-04
 status: geldig
 toestand: 1981-03-04
 bron: "https://wetten.overheid.nl/BWBV0003893"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst inzake het onderhoud van de Oude Spanische Ley (Grensgraaf), de Nieuwe Spanische Ley, de Hülmer Leitgraben, de Wolfsgraben, de Horsterbeek en de Eckeltsebeek, alsmede het beheren van de kunstwerken in en aan deze waterlossingen

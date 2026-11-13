@@ -7,7 +7,7 @@ laatste_update: 2009-11-16
 status: geldig
 toestand: 2009-11-16
 bron: "https://wetten.overheid.nl/BWBV0004026"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Protocol Nr. 3 bij de Europese Kaderovereenkomst inzake grensoverschrijdende samenwerking tussen territoriale gemeenschappen of autoriteiten betreffende Euroregionale samenwerkingsverbanden (ESVs)

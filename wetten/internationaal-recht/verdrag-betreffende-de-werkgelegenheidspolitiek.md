@@ -8,7 +8,7 @@ laatste_update: 1968-01-09
 status: geldig
 toestand: 1968-01-09
 bron: "https://wetten.overheid.nl/BWBV0004631"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag betreffende de werkgelegenheidspolitiek

@@ -9,7 +9,7 @@ laatste_update: 2026-11-10
 status: geldig
 toestand: 2026-11-10
 bron: "https://wetten.overheid.nl/BWBR0053298"
-opgehaald: 2026-11-12
+opgehaald: 2026-11-13
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 27 oktober 2026 nr. BOACAT2026/073, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Steenwijkerland.

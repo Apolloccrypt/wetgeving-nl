@@ -8,7 +8,7 @@ laatste_update: 1967-06-17
 status: geldig
 toestand: 1967-06-17
 bron: "https://wetten.overheid.nl/BWBV0004662"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst inzake het uitwisselen van gegevens met betrekking tot het verkrijgen van nationaliteit

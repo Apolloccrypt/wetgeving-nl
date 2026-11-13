@@ -8,7 +8,7 @@ laatste_update: 1965-09-10
 status: geldig
 toestand: 1965-09-10
 bron: "https://wetten.overheid.nl/BWBV0004522"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Oostenrijk tot vereenvoudiging van het rechtsverkeer, zoals dit is geregeld bij het Haagse Verdrag van 1 maart 1954

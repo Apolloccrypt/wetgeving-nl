@@ -8,7 +8,7 @@ laatste_update: 1963-10-19
 status: geldig
 toestand: 1963-10-19
 bron: "https://wetten.overheid.nl/BWBV0004401"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen de Regeringen van Kambodja, Laos, Thailand en Vietnam en de Regering van het Koninkrijk der Nederlanden betreffende de Nederlandse bijdrage aan de Commissie voor de cöordinatie van het onderzoek in het stroomgebied van de Beneden-Mekong

@@ -8,7 +8,7 @@ laatste_update: 1972-02-29
 status: geldig
 toestand: 1972-02-29
 bron: "https://wetten.overheid.nl/BWBV0004505"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Europese Overeenkomst betreffende personen die deelnemen aan procedures voor de Europese Commissie en het Europese Hof voor de Rechten van de Mens

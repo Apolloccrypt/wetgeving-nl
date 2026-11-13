@@ -8,7 +8,7 @@ laatste_update: 2003-06-27
 status: geldig
 toestand: 2003-06-27
 bron: "https://wetten.overheid.nl/BWBV0003956"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Europees Verdrag betreffende de niet-toepasselijkheid van verjaring terzake van misdrijven tegen de menselijkheid en oorlogsmisdrijven

@@ -8,7 +8,7 @@ laatste_update: 2015-09-11
 status: geldig
 toestand: 2015-09-11
 bron: "https://wetten.overheid.nl/BWBV0003879"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Verenigde Republiek Tanzania inzake tewerkstelling van Nederlandse vrijwilligers

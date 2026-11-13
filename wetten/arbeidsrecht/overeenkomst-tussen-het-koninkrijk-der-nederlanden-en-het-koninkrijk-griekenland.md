@@ -8,7 +8,7 @@ laatste_update: 1966-09-13
 status: geldig
 toestand: 1966-09-13
 bron: "https://wetten.overheid.nl/BWBV0004588"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Griekenland betreffende de aanwerving, de plaatsing en de tewerkstelling in Nederland van arbeidskrachten

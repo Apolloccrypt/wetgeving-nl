@@ -8,7 +8,7 @@ laatste_update: 1971-07-20
 status: geldig
 toestand: 1971-07-20
 bron: "https://wetten.overheid.nl/BWBV0004526"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag inzake de visserij

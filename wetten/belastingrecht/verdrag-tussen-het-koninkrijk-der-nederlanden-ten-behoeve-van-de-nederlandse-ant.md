@@ -8,7 +8,7 @@ laatste_update: 2013-05-01
 status: geldig
 toestand: 2013-05-01
 bron: "https://wetten.overheid.nl/BWBV0004717"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van de Nederlandse Antillen, en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake de uitwisseling van informatie betreffende belastingen

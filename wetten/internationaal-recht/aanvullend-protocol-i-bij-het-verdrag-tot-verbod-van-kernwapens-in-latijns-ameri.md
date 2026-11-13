@@ -8,7 +8,7 @@ laatste_update: 1971-07-26
 status: geldig
 toestand: 1971-07-26
 bron: "https://wetten.overheid.nl/BWBV0004245"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Aanvullend Protocol I bij het Verdrag tot verbod van kernwapens in Latijns-Amerika en het Caraïbisch gebied

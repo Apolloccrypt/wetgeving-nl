@@ -8,7 +8,7 @@ laatste_update: 1966-01-20
 status: geldig
 toestand: 1966-01-20
 bron: "https://wetten.overheid.nl/BWBV0004226"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Culturele Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Tunesië

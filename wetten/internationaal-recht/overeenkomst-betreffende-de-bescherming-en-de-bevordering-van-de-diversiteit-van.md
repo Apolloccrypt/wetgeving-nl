@@ -8,7 +8,7 @@ laatste_update: 2010-01-09
 status: geldig
 toestand: 2010-01-09
 bron: "https://wetten.overheid.nl/BWBV0004039"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst betreffende de bescherming en de bevordering van de diversiteit van cultuuruitingen

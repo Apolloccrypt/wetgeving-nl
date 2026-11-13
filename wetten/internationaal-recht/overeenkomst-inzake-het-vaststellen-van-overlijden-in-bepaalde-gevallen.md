@@ -8,7 +8,7 @@ laatste_update: 1978-12-09
 status: geldig
 toestand: 1978-12-09
 bron: "https://wetten.overheid.nl/BWBV0004350"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst inzake het vaststellen van overlijden in bepaalde gevallen

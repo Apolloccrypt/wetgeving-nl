@@ -8,7 +8,7 @@ laatste_update: 2016-12-01
 status: geldig
 toestand: 2016-12-01
 bron: "https://wetten.overheid.nl/BWBV0004117"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Verdrag betreffende de instelling en het statuut van een Benelux-Gerechtshof

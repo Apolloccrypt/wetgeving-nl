@@ -5,11 +5,11 @@ identifier: "BWBR0053125"
 categorie: "Onderwijs"
 soort: "ministeriele-regeling"
 publicatiedatum: 2026-09-24
-laatste_update: 2026-09-24
+laatste_update: 2026-09-25
 status: geldig
-toestand: 2026-09-24
+toestand: 2026-09-25
 bron: "https://wetten.overheid.nl/BWBR0053125"
-opgehaald: 2026-10-05
+opgehaald: 2026-11-13
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 4 september 2026, nr. DE/62900222, houdende regels voor de subsidieverstrekking aan een samenwerkingsverband gericht op de rol van mannen bij het voorkomen van gendergerelateerd geweld tegen vrouwen en in het bijzonder femicide (Subsidieregeling mannenalliantie tegen gendergerelateerd geweld en femicide 2027–2031)
@@ -18,13 +18,13 @@ opgehaald: 2026-10-05
 
 In deze regeling wordt verstaan onder:
 
-- *ewustwordingsinterventie:* bactiviteit als bedoeld in [artikel 10, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=10&z=2026-09-24&g=2026-09-24).
+- *bewustwordingsinterventie:* activiteit als bedoeld in [artikel 10, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=10&z=2026-09-25&g=2026-09-25);
 
 - *DUS-I:* Dienst Uitvoering Subsidies aan Instellingen;
 
 - *femicide:* dodelijk gendergerelateerd geweld tegen vrouwen;
 
-- *gedragsinterventie:* activiteit als bedoeld in [artikel 10, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=10&z=2026-09-24&g=2026-09-24);
+- *gedragsinterventie:* activiteit als bedoeld in [artikel 10, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=10&z=2026-09-25&g=2026-09-25);
 
 - *gendergelijkheid:* gelijke rechten, kansen en behandeling van mensen, ongeacht geslacht, genderidentiteit of genderexpressie;
 
@@ -39,19 +39,19 @@ In deze regeling wordt verstaan onder:
 - *Kaderregeling:*
  [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603);
 
-- *klankbordgroep:* klankbordgroep als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=6&z=2026-09-24&g=2026-09-24);
+- *klankbordgroep:* klankbordgroep als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=6&z=2026-09-25&g=2026-09-25);
 
-- *organisatie:* organisatie als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=5&z=2026-09-24&g=2026-09-24);
+- *organisatie:* organisatie als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=5&z=2026-09-25&g=2026-09-25);
 
 - *minister:* Minister van Onderwijs, Cultuur en Wetenschap;
 
-- *penvoerder:* penvoerder als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=7&z=2026-09-24&g=2026-09-24);
+- *penvoerder:* penvoerder als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=7&z=2026-09-25&g=2026-09-25);
 
-- *plan van aanpak:* activiteitenplan als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=10&z=2026-09-24&g=2026-09-24).
+- *plan van aanpak:* activiteitenplan als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=10&z=2026-09-25&g=2026-09-25).
 
 - *pleger- en systeeminterventies:* interventies die gericht zijn op mensen die geweld hebben gepleegd of dreigen te gaan plegen, het gezin of degenen om hen heen, om de kans op geweld of de kans op de herhaling van geweld te verkleinen;
 
-- *samenwerkingsverband:* samenwerkingsverband als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=5&z=2026-09-24&g=2026-09-24).
+- *samenwerkingsverband:* samenwerkingsverband als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=5&z=2026-09-25&g=2026-09-25).
 
 ##### Artikel 2. Toepassing Kaderregeling
 
@@ -59,7 +59,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 ##### Artikel 3. Subsidiedoel, doelgroep en te subsidiëren activiteiten
 
-1. De minister kan aan de penvoerder van één samenwerkingsverband projectsubsidie verlenen voor het uitvoeren van een plan van aanpak, als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=10&z=2026-09-24&g=2026-09-24), dat erop is gericht om mannen een bijdrage te laten leveren aan het voorkomen, signaleren en bestrijden van gendergerelateerd geweld tegen vrouwen, en in het bijzonder femicide.
+1. De minister kan aan de penvoerder van één samenwerkingsverband projectsubsidie verlenen voor het uitvoeren van een plan van aanpak, als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=10&z=2026-09-25&g=2026-09-25), dat erop is gericht om mannen een bijdrage te laten leveren aan het voorkomen, signaleren en bestrijden van gendergerelateerd geweld tegen vrouwen, en in het bijzonder femicide.
 
 2. De doelgroep van het samenwerkingsband zijn jongens en mannen. In het bijzonder richt het samenwerkingsverband zich op mannen in de rol van opvoeders.
 
@@ -87,7 +87,7 @@ Het bedrag dat beschikbaar is voor subsidieverstrekking op grond van de subsidie
 
 - c. heeft ervaring met de rol van of het betrekken van mannen bij het bevorderen van gendergelijkheid of het voorkomen van gendergerelateerd geweld tegen vrouwen.
 
-4. De organisaties die het samenwerkingsverband vormen, sluiten een samenwerkingsovereenkomst. De samenwerkingsovereenkomst wordt opgesteld met gebruikmaking van de modelovereenkomst die in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&bijlage=2&z=2026-09-24&g=2026-09-24) is opgenomen, en voldoet aan de beoordelingscriteria die zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&bijlage=1&z=2026-09-24&g=2026-09-24).
+4. De organisaties die het samenwerkingsverband vormen, sluiten een samenwerkingsovereenkomst. De samenwerkingsovereenkomst wordt opgesteld met gebruikmaking van de modelovereenkomst die in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&bijlage=2&z=2026-09-25&g=2026-09-25) is opgenomen, en voldoet aan de beoordelingscriteria die zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&bijlage=1&z=2026-09-25&g=2026-09-25).
 
 ##### Artikel 6. Klankbordgroep
 
@@ -115,11 +115,11 @@ Het bedrag dat beschikbaar is voor subsidieverstrekking op grond van de subsidie
 
 2. Een aanvraag bevat de volgende stukken:
 
-- a. een samenwerkingsovereenkomst als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=5&z=2026-09-24&g=2026-09-24);
+- a. een samenwerkingsovereenkomst als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=5&z=2026-09-25&g=2026-09-25);
 
-- b. een plan van aanpak als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=10&z=2026-09-24&g=2026-09-24);
+- b. een plan van aanpak als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=10&z=2026-09-25&g=2026-09-25);
 
-- c. een begroting als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=11&z=2026-09-24&g=2026-09-24);
+- c. een begroting als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=11&z=2026-09-25&g=2026-09-25);
 
 - d. vastgestelde jaarverslagen van 2024 en 2025, voor zover beschikbaar, van alle organisaties in het samenwerkingsverband;
 
@@ -127,7 +127,7 @@ Het bedrag dat beschikbaar is voor subsidieverstrekking op grond van de subsidie
 
 ##### Artikel 10. Plan van aanpak
 
-1. Het plan van aanpak voldoet aan de beoordelingscriteria die zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&bijlage=1&z=2026-09-24&g=2026-09-24) en bevat ten minste een gedetailleerde uitwerking van de volgende activiteiten:
+1. Het plan van aanpak voldoet aan de beoordelingscriteria die zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&bijlage=1&z=2026-09-25&g=2026-09-25) en bevat ten minste een gedetailleerde uitwerking van de volgende activiteiten:
 
 - a. Het uitvoeren van offline en online bewustwordings- en gedragsinterventies, gericht op:
 
@@ -165,7 +165,7 @@ Het bedrag dat beschikbaar is voor subsidieverstrekking op grond van de subsidie
 
 - b. een activiteitenplanning met daarin de start- en einddatum van het project en een uitgewerkt overzicht van realiseerbare activiteiten in de projectperiode waarin in ieder geval fasering, mijlpalen en beoogde tussentijdse resultaten en eindresultaten worden opgenomen.
 
-3. Voor de eerste twee jaren wordt de activiteitenplanning in de aanvraag uitgewerkt op detailniveau, en voor de laatste twee jaar op hoofdlijnen, als beschreven in [artikel 17, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=17&z=2026-09-24&g=2026-09-24).
+3. Voor de eerste twee jaren wordt de activiteitenplanning in de aanvraag uitgewerkt op detailniveau, en voor de laatste twee jaar op hoofdlijnen, als beschreven in [artikel 17, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=17&z=2026-09-25&g=2026-09-25).
 
 ##### Artikel 11. Begroting
 
@@ -179,7 +179,7 @@ Het bedrag dat beschikbaar is voor subsidieverstrekking op grond van de subsidie
 
 3. De begroting van de laatste twee jaren bevat in ieder geval een globaal overzicht van de geraamde kosten en opbrengsten op activiteitniveau, voor zover deze betrekking hebben op de laatste twee jaren.
 
-4. De begroting van de laatste twee jaren dient te worden aangevuld, als beschreven in [artikel 17, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=17&z=2026-09-24&g=2026-09-24).
+4. De begroting van de laatste twee jaren dient te worden aangevuld, als beschreven in [artikel 17, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=17&z=2026-09-25&g=2026-09-25).
 
 ##### Artikel 12. Niet-subsidiabele kosten
 
@@ -197,9 +197,9 @@ Het bedrag dat beschikbaar is voor subsidieverstrekking op grond van de subsidie
 
 ##### Artikel 13. Procedure beoordeling projectsubsidie
 
-1. De minister bepaalt de rangschikking van de aanvragen op basis van een onderlinge afweging van de aanvragen. Hierbij geldt dat hoe meer punten de aanvraag scoort met inachtneming van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&bijlage=1&z=2026-09-24&g=2026-09-24) genoemde wegingspercentages, hoe hoger de aanvraag wordt gerangschikt.
+1. De minister bepaalt de rangschikking van de aanvragen op basis van een onderlinge afweging van de aanvragen. Hierbij geldt dat hoe meer punten de aanvraag scoort met inachtneming van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&bijlage=1&z=2026-09-25&g=2026-09-25) genoemde wegingspercentages, hoe hoger de aanvraag wordt gerangschikt.
 
-2. De minister beoordeelt de subsidieaanvraag aan de hand van de volgende onderdelen en beoordelingscriteria, zoals uitgewerkt in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&bijlage=1&z=2026-09-24&g=2026-09-24) behorende bij deze regeling:
+2. De minister beoordeelt de subsidieaanvraag aan de hand van de volgende onderdelen en beoordelingscriteria, zoals uitgewerkt in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&bijlage=1&z=2026-09-25&g=2026-09-25) behorende bij deze regeling:
 
 - a. *Samenwerkingsverband* (weging 20%):
 
@@ -229,19 +229,19 @@ Het bedrag dat beschikbaar is voor subsidieverstrekking op grond van de subsidie
 
 3. Om voor rangschikking in aanmerking te komen geldt dat minimaal 3 punten moeten zijn toegekend op ieder deelcriterium binnen het beoordelingskader.
 
-4. De minister verleent de projectsubsidie aan het samenwerkingsverband dat aan alle vereisten van de regeling voldoet en de hoogste rangschikking heeft. De minister besluit binnen 13 weken na afloop van de periode, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=8&z=2026-09-24&g=2026-09-24), op de aanvragen. De startdatum van het de projectsubsidie is 1 januari 2027.
+4. De minister verleent de projectsubsidie aan het samenwerkingsverband dat aan alle vereisten van de regeling voldoet en de hoogste rangschikking heeft. De minister besluit binnen 13 weken na afloop van de periode, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=8&z=2026-09-25&g=2026-09-25), op de aanvragen.
 
 ##### Artikel 14. Weigeringsgronden
 
 1. De subsidieverstrekking wordt geweigerd, indien:
 
-- a. ten minste één van de organisaties niet voldoet aan [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=5&z=2026-09-24&g=2026-09-24);
+- a. ten minste één van de organisaties niet voldoet aan [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=5&z=2026-09-25&g=2026-09-25);
 
-- b. het plan van aanpak geen uitwerking bevat van alle activiteiten genoemd in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=10&z=2026-09-24&g=2026-09-24);
+- b. het plan van aanpak geen uitwerking bevat van alle activiteiten genoemd in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=10&z=2026-09-25&g=2026-09-25);
 
-- c. de aanvraag wordt ingediend buiten de aanvraagperiode, zoals bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=8&z=2026-09-24&g=2026-09-24);
+- c. de aanvraag wordt ingediend buiten de aanvraagperiode, zoals bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=8&z=2026-09-25&g=2026-09-25);
 
-- d. er minder dan drie punten zijn toegekend op één van de beoordelingscriteria, zoals bedoeld in [artikel 13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=13&z=2026-09-24&g=2026-09-24).
+- d. er minder dan drie punten zijn toegekend op één van de beoordelingscriteria, zoals bedoeld in [artikel 13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=13&z=2026-09-25&g=2026-09-25).
 
 ##### Artikel 15. Subsidieverstrekking en bevoorschotting
 
@@ -251,13 +251,13 @@ Het bedrag dat beschikbaar is voor subsidieverstrekking op grond van de subsidie
 
 1. Het samenwerkingsverband is verplicht mee te werken aan de externe tussentijdse evaluatie die gericht is op de voortgang, kwaliteit, doelmatigheid en effectiviteit van de uitvoering van het plan van aanpak en de gesubsidieerde activiteiten. Deze tussentijdse evaluatie vangt binnen 13 weken na het tweede jaar vanaf het moment van beschikken aan. De penvoerder is verplicht om ten behoeve van de tussentijdse evaluatie:
 
-- a. de benodigde informatie te verzamelen, waaronder de resultaten van het plan van aanpak uit [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=10&z=2026-09-24&g=2026-09-24);
+- a. de benodigde informatie te verzamelen, waaronder de resultaten van het plan van aanpak uit [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=10&z=2026-09-25&g=2026-09-25);
 
 - b. deze informatie tijdig en volledig te verstrekken;
 
-- c. de voortgangsrapportages over het eerste en tweede jaar aan te leveren, zoals bedoeld in [artikel 17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=17&z=2026-09-24&g=2026-09-24);
+- c. de voortgangsrapportages over het eerste en tweede jaar aan te leveren, zoals bedoeld in [artikel 17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=17&z=2026-09-25&g=2026-09-25);
 
-- d. het gedetailleerde plan van aanpak en uitgewerkte begroting aan te leveren voor het derde jaar, bedoeld in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=17&z=2026-09-24&g=2026-09-24).
+- d. het gedetailleerde plan van aanpak en uitgewerkte begroting aan te leveren voor het derde jaar, bedoeld in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=17&z=2026-09-25&g=2026-09-25).
 
 2. De minister kan op basis van de tussentijdse evaluatie besluiten dat de subsidie voor de resterende periode wordt aangepast of ingetrokken.
 
@@ -265,9 +265,9 @@ Het bedrag dat beschikbaar is voor subsidieverstrekking op grond van de subsidie
 
 1. De penvoerder is verplicht zorg te dragen voor de uitvoering van de gesubsidieerde activiteiten volgens het plan van aanpak en de begroting.
 
-2. De penvoerder is verplicht uiterlijk tien weken voor het einde van het tweede jaar een gedetailleerd plan van aanpak en een uitgewerkte begroting, bedoeld in [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=10&z=2026-09-24&g=2026-09-24) en [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=11&z=2026-09-24&g=2026-09-24), in te dienen voor het derde jaar.
+2. De penvoerder is verplicht uiterlijk tien weken voor het einde van het tweede jaar een gedetailleerd plan van aanpak en een uitgewerkte begroting, bedoeld in [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=10&z=2026-09-25&g=2026-09-25) en [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=11&z=2026-09-25&g=2026-09-25), in te dienen voor het derde jaar.
 
-3. De penvoerder is verplicht uiterlijk tien weken voor het einde van het derde jaar een gedetailleerd plan van aanpak en een uitgewerkte begroting, bedoeld in [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=10&z=2026-09-24&g=2026-09-24), en [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=11&z=2026-09-24&g=2026-09-24), in te dienen voor het vierde jaar.
+3. De penvoerder is verplicht uiterlijk tien weken voor het einde van het derde jaar een gedetailleerd plan van aanpak en een uitgewerkte begroting, bedoeld in [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=10&z=2026-09-25&g=2026-09-25), en [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0053125&artikel=11&z=2026-09-25&g=2026-09-25), in te dienen voor het vierde jaar.
 
 4. De penvoerder dient binnen 13 weken na afloop van het eerste, tweede en derde jaar vanaf het moment van beschikking een voortgangsrapportage in waarin de resultaten en voortgang van het project beschreven zijn. De penvoerder maakt daarbij gebruik van het door DUS-I beschikbaar gestelde format.
 

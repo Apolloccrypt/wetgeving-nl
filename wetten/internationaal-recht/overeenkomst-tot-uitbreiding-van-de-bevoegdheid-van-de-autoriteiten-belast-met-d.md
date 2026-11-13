@@ -8,7 +8,7 @@ laatste_update: 1963-07-29
 status: geldig
 toestand: 1963-07-29
 bron: "https://wetten.overheid.nl/BWBV0004356"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tot uitbreiding van de bevoegdheid van de autoriteiten belast met de registratie van de erkenning van onwettige kinderen

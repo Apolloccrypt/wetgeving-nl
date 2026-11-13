@@ -8,7 +8,7 @@ laatste_update: 2013-07-01
 status: geldig
 toestand: 2013-07-01
 bron: "https://wetten.overheid.nl/BWBV0004033"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie (EURATOM)

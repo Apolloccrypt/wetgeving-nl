@@ -8,7 +8,7 @@ laatste_update: 1970-01-08
 status: geldig
 toestand: 1970-01-08
 bron: "https://wetten.overheid.nl/BWBV0004208"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst inzake culturele samenwerking tussen het Koninkrijk der Nederlanden en de Republiek Indonesië

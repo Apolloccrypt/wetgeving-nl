@@ -8,7 +8,7 @@ laatste_update: 1968-05-29
 status: geldig
 toestand: 1968-05-29
 bron: "https://wetten.overheid.nl/BWBV0004372"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst strekkende tot het vergemakkelijken van huwelijkssluiting in het buitenland

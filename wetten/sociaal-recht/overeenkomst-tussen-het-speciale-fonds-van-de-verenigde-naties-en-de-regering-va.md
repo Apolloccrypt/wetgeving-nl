@@ -8,7 +8,7 @@ laatste_update: 1964-02-27
 status: geldig
 toestand: 1964-02-27
 bron: "https://wetten.overheid.nl/BWBV0004314"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen het Speciale Fonds van de Verenigde Naties en de Regering van het Koninkrijk der Nederlanden inzake bijstand van het Speciale Fonds ten behoeve van de Nederlandse Antillen

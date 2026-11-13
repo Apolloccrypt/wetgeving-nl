@@ -8,7 +8,7 @@ laatste_update: 1963-02-08
 status: geldig
 toestand: 1963-02-08
 bron: "https://wetten.overheid.nl/BWBV0004219"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Uitvoeringsovereenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Canada bij de briefwisseling tussen de beide landen, ondertekend op 10 april 1952, houdende een overeenkomst ter bescherming van de rechten van bona fide houders van Canadese effecten

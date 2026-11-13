@@ -8,7 +8,7 @@ laatste_update: 2021-11-01
 status: geldig
 toestand: 2021-11-01
 bron: "https://wetten.overheid.nl/BWBV0004239"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Benelux-overeenkomst op het gebied van de jacht en de vogelbescherming

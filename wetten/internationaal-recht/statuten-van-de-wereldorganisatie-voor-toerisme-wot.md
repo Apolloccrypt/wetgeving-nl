@@ -8,7 +8,7 @@ laatste_update: 2008-05-09
 status: geldig
 toestand: 2008-05-09
 bron: "https://wetten.overheid.nl/BWBV0004272"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Statuten van de Wereldorganisatie voor Toerisme (WOT)

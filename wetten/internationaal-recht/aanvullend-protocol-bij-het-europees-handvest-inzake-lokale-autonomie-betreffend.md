@@ -8,7 +8,7 @@ laatste_update: 2012-06-01
 status: geldig
 toestand: 2012-06-01
 bron: "https://wetten.overheid.nl/BWBV0003999"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Aanvullend Protocol bij het Europees Handvest inzake lokale autonomie betreffende het recht op participatie in de aangelegenheden van lokale autoriteiten

@@ -8,7 +8,7 @@ laatste_update: 1965-04-01
 status: geldig
 toestand: 1965-04-01
 bron: "https://wetten.overheid.nl/BWBV0004481"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen de Bondsregering van de Republiek Oostenrijk, enerzijds, en de Regeringen van het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, anderzijds, betreffende de overname van personen aan de grens

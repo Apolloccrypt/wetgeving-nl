@@ -8,7 +8,7 @@ laatste_update: 1979-10-10
 status: geldig
 toestand: 1979-10-10
 bron: "https://wetten.overheid.nl/BWBV0003888"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen het Wasser- und Bodenverband "Itterbecker Moor" en het waterschap De Bovenvecht over het onderhoud van de Dooze

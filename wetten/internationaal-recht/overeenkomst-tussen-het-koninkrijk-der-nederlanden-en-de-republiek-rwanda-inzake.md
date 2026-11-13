@@ -8,7 +8,7 @@ laatste_update: 2015-06-25
 status: geldig
 toestand: 2015-06-25
 bron: "https://wetten.overheid.nl/BWBV0003880"
-opgehaald: 2026-09-13
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Rwanda inzake de tewerkstelling van Nederlandse vrijwilligers in Rwanda

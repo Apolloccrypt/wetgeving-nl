@@ -8,7 +8,7 @@ laatste_update: 1968-03-09
 status: geldig
 toestand: 1968-03-09
 bron: "https://wetten.overheid.nl/BWBV0004437"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Veterinaire Overeenkomst tussen het Koninkrijk der Nederlanden en de Socialistische Republiek Roemenië

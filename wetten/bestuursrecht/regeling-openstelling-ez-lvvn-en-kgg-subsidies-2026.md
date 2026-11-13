@@ -5,11 +5,11 @@ identifier: "BWBR0052002"
 categorie: "Milieu"
 soort: "ministeriele-regeling"
 publicatiedatum: 2026-01-01
-laatste_update: 2026-10-29
+laatste_update: 2026-11-07
 status: geldig
-toestand: 2026-10-29
+toestand: 2026-11-07
 bron: "https://wetten.overheid.nl/BWBR0052002"
-opgehaald: 2026-11-08
+opgehaald: 2026-11-13
 ---
 
 # Regeling van de Minister van Economische Zaken, de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur en de Minister van Klimaat en Groene Groei, van 13 december 2025, nr. WJZ/102735469, tot vaststelling van de subsidieplafonds en termijnen van openstelling van EZ-subsidie-instrumenten, LVVN-subsidie-instrumenten en KGG-subsidie-instrumenten (Regeling openstelling EZ-, LVVN- en KGG-subsidies 2026) [KetenID WGK 28368]
@@ -25,8 +25,8 @@ opgehaald: 2026-11-08
 | Instrument | Artikel | Groep | Thema/programma | Openstelling | Plafond |
 | Titel 2.2 | 2.2.2 | onderzoeksorganisaties | Onderzoek Kas als Energiebron | 21-10-2026 t/m 2-11-2026 | € 3.500.000 |
 | Titel 2.3: Energie-efficiëntie glastuinbouw | 2.3.2 | Glastuinbouw-onderneming | Energie-efficiëntie glastuinbouw | 08-09-2026 t/m 24-09-2026 | € 30.000.000 |
-| Titel 2.4 Subsidieregeling emissieloos landbouwmaterieel | Artikel 2.4.2, onderdeel a | Landbouwmachines |  | 2-6-2026 t/m 2-10-2026 | € 7.800.000,– |
-|  | Artikel 2.4.2, onderdelen b en c | Landbouwtractoren, al dan niet inclusief DC-laadstations |  | 2-6-2026 t/m 2-10-2026 | € 15.800.000,– |
+| Titel 2.4 Subsidieregeling emissieloos landbouwmaterieel | Artikel 2.4.2, onderdeel a | Landbouwmachines |  | 2-6-2026 t/m 2-10-2026 | € 8.632.500 |
+|  | Artikel 2.4.2, onderdelen b en c | Landbouwtractoren, al dan niet inclusief DC-laadstations |  | 2-6-2026 t/m 2-10-2026 | € 17.467.500 |
 | Titel 2.5: Borgstelling MKB-landbouw- en visserijkredieten | 2.5.2 | MKB-landbouw- en visserijonderneming | Borgstellingskredieten | 01-01-2026 t/m 31-12-2026 | € 60.000.000 |
 | Titel 2.6. Praktijkontwikkeling van regeneratieve landbouwmethoden | Artikel 2.6.2 |  |  | 1-7-2026 t/m 31-8-2026 | € 576.000,– |
 | Titel 2.7 | 2.7.2 | Landbouwondernemingen | Sociaal-economische begeleiding | 17 november 09:00 uur tot en met 17 december 2026 17:00 uur | € 35.400.000 |

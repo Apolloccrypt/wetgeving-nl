@@ -8,7 +8,7 @@ laatste_update: 1970-02-05
 status: geldig
 toestand: 1970-02-05
 bron: "https://wetten.overheid.nl/BWBV0004393"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Kongo inzake het luchtvervoer

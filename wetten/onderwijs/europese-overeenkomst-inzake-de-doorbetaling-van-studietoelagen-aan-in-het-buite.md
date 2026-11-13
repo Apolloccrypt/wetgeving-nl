@@ -8,7 +8,7 @@ laatste_update: 1971-10-02
 status: geldig
 toestand: 1971-10-02
 bron: "https://wetten.overheid.nl/BWBV0004441"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-13
 ---
 
 # Europese Overeenkomst inzake de doorbetaling van studietoelagen aan in het buitenland studerende studenten
