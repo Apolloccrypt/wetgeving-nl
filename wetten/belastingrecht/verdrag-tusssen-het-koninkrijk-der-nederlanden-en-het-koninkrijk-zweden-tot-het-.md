@@ -8,7 +8,7 @@ laatste_update: 1953-02-05
 status: geldig
 toestand: 1953-02-05
 bron: "https://wetten.overheid.nl/BWBV0005322"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag tusssen het Koninkrijk der Nederlanden en het Koninkrijk Zweden tot het vermijden van dubbele belasting en het vaststellen van regelen voor wederzijdse administratieve hulp met betrekking tot rechten terzake van nalatenschappen

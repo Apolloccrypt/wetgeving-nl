@@ -8,7 +8,7 @@ laatste_update: 2013-11-21
 status: geldig
 toestand: 2013-11-21
 bron: "https://wetten.overheid.nl/BWBV0004992"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Statuut van de Internationale Organisatie voor Migratie

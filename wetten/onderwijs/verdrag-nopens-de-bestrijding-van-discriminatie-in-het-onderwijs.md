@@ -8,7 +8,7 @@ laatste_update: 1966-06-25
 status: geldig
 toestand: 1966-06-25
 bron: "https://wetten.overheid.nl/BWBV0005155"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag nopens de bestrijding van discriminatie in het onderwijs

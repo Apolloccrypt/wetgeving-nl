@@ -8,7 +8,7 @@ laatste_update: 1959-05-11
 status: geldig
 toestand: 1959-05-11
 bron: "https://wetten.overheid.nl/BWBV0005256"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Vierde Aanvullende Overeenkomst bij het Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake sociale verzekering van 29 maart 1951 betreffende de regeling van aanspraken, die door Nederlandse werknemers tussen 13 mei 1940 en 1 september 1945 op grond van de Duitse sociale verzekering zijn verkregen

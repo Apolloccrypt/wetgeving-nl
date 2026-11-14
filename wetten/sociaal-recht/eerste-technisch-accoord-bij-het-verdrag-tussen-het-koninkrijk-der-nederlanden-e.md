@@ -8,7 +8,7 @@ laatste_update: 2010-01-01
 status: geldig
 toestand: 2010-01-01
 bron: "https://wetten.overheid.nl/BWBV0005128"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Eerste Technisch Accoord bij het Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake sociale verzekering

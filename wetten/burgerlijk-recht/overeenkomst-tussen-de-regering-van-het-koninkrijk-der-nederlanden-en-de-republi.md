@@ -8,7 +8,7 @@ laatste_update: 1959-11-28
 status: geldig
 toestand: 1959-11-28
 bron: "https://wetten.overheid.nl/BWBV0005293"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Republiek Turkije betreffende de regels van technische aard ter toepassing van de op 11 mei 1959 gesloten Overeenkomst nopens handelsschulden van personen woonachtig in Turkije

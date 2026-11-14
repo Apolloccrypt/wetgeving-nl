@@ -8,7 +8,7 @@ laatste_update: 2012-06-27
 status: geldig
 toestand: 2012-06-27
 bron: "https://wetten.overheid.nl/BWBV0005585"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst betreffende de Internationale Bank voor Herstel en Ontwikkeling

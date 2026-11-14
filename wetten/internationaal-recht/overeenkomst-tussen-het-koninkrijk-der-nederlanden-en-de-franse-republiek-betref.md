@@ -8,7 +8,7 @@ laatste_update: 1954-09-17
 status: geldig
 toestand: 1954-09-17
 bron: "https://wetten.overheid.nl/BWBV0005165"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Franse Republiek betreffende wederzijdse vergoeding van schade, toegebracht aan schepen tijdens de oorlog van 1939-1945

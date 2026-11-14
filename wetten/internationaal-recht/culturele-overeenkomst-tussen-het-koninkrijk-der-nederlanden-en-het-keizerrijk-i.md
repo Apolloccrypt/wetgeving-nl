@@ -8,7 +8,7 @@ laatste_update: 1961-08-30
 status: geldig
 toestand: 1961-08-30
 bron: "https://wetten.overheid.nl/BWBV0005384"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Culturele Overeenkomst tussen het Koninkrijk der Nederlanden en het Keizerrijk Iran

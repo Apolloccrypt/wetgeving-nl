@@ -8,7 +8,7 @@ laatste_update: 1967-03-22
 status: geldig
 toestand: 1967-03-22
 bron: "https://wetten.overheid.nl/BWBV0005289"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Protocol 3, gehecht aan de Universele Auteursrecht-Conventie, inzake voorwaardelijke bekrachtiging, aanvaarding of toetreding

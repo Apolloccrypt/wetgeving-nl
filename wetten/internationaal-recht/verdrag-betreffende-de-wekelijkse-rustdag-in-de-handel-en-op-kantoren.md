@@ -8,7 +8,7 @@ laatste_update: 1972-10-08
 status: geldig
 toestand: 1972-10-08
 bron: "https://wetten.overheid.nl/BWBV0004946"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Verdrag betreffende de wekelijkse rustdag in de handel en op kantoren

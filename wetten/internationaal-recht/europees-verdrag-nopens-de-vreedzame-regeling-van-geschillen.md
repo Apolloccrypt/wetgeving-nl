@@ -8,7 +8,7 @@ laatste_update: 1958-07-07
 status: geldig
 toestand: 1958-07-07
 bron: "https://wetten.overheid.nl/BWBV0005102"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Europees Verdrag nopens de vreedzame regeling van geschillen

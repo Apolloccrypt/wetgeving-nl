@@ -7,7 +7,7 @@ laatste_update: 1971-01-28
 status: geldig
 toestand: 1971-01-28
 bron: "https://wetten.overheid.nl/BWBV0004881"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Protocol van ondertekening tussen het Koninkrijk der Nederlanden, het Koninkrijk Denemarken en de Bondsrepubliek Duitsland inzake het continentaal plat

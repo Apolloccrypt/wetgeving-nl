@@ -8,7 +8,7 @@ laatste_update: 1981-01-01
 status: geldig
 toestand: 1981-01-01
 bron: "https://wetten.overheid.nl/BWBV0004848"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Administratief Akkoord met betrekking tot de wijze van toepassing van het op 19 juli 1979 te 's-Gravenhage tussen het Koninkrijk der Nederlanden en de Republiek Portugal ondertekende Verdrag inzake sociale zekerheid

@@ -8,7 +8,7 @@ laatste_update: 2021-05-28
 status: geldig
 toestand: 2021-05-28
 bron: "https://wetten.overheid.nl/BWBV0005077"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Georgië, anderzijds, betreffende een gemeenschappelijke luchtvaartruimte

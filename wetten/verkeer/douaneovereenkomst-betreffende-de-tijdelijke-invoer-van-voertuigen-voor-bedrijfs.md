@@ -8,7 +8,7 @@ laatste_update: 1992-10-30
 status: geldig
 toestand: 1992-10-30
 bron: "https://wetten.overheid.nl/BWBV0005229"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Douaneovereenkomst betreffende de tijdelijke invoer van voertuigen voor bedrijfsmatig vervoer langs de weg

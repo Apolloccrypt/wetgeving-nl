@@ -8,7 +8,7 @@ laatste_update: 2011-12-12
 status: geldig
 toestand: 2011-12-12
 bron: "https://wetten.overheid.nl/BWBV0005636"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst inzake de bevordering, de beschikbaarstelling en het gebruik van het GALILEO- en het GPS-satellietnavigatiesysteem en verwante toepassingen

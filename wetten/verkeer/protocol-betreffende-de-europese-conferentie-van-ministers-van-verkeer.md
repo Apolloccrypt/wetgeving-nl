@@ -8,7 +8,7 @@ laatste_update: 1954-03-09
 status: geldig
 toestand: 1954-03-09
 bron: "https://wetten.overheid.nl/BWBV0004882"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Protocol betreffende de Europese Conferentie van Ministers van Verkeer

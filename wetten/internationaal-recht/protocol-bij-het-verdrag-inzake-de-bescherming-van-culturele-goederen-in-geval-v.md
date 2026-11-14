@@ -8,7 +8,7 @@ laatste_update: 1959-01-14
 status: geldig
 toestand: 1959-01-14
 bron: "https://wetten.overheid.nl/BWBV0005313"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Protocol bij het Verdrag inzake de bescherming van culturele goederen in geval van een gewapend conflict

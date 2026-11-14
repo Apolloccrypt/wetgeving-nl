@@ -8,7 +8,7 @@ laatste_update: 1985-05-22
 status: geldig
 toestand: 1985-05-22
 bron: "https://wetten.overheid.nl/BWBV0004926"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Aanvullend Protocol bij de Europese Overeenkomst inzake de immuniteit van Staten

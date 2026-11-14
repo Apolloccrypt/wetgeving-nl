@@ -8,7 +8,7 @@ laatste_update: 1966-03-20
 status: geldig
 toestand: 1966-03-20
 bron: "https://wetten.overheid.nl/BWBV0005376"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag inzake de territoriale zee en de aansluitende zone

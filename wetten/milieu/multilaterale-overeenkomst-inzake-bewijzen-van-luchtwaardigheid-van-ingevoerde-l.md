@@ -8,7 +8,7 @@ laatste_update: 1962-10-25
 status: geldig
 toestand: 1962-10-25
 bron: "https://wetten.overheid.nl/BWBV0004921"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Multilaterale Overeenkomst inzake bewijzen van luchtwaardigheid van ingevoerde luchtvaartuigen

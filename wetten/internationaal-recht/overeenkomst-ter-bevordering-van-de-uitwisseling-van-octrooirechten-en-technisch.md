@@ -8,7 +8,7 @@ laatste_update: 1955-07-13
 status: geldig
 toestand: 1955-07-13
 bron: "https://wetten.overheid.nl/BWBV0005299"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst ter bevordering van de uitwisseling van octrooirechten en technische inlichtingen voor defensiedoeleinden

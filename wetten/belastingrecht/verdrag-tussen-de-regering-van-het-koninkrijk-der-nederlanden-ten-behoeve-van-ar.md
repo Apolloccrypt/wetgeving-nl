@@ -8,7 +8,7 @@ laatste_update: 2013-04-01
 status: geldig
 toestand: 2013-04-01
 bron: "https://wetten.overheid.nl/BWBV0005610"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden, ten behoeve van Aruba, en de Regering van de Franse Republiek inzake de uitwisseling van informatie betreffende belastingen

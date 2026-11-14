@@ -8,7 +8,7 @@ laatste_update: 2017-04-01
 status: geldig
 toestand: 2017-04-01
 bron: "https://wetten.overheid.nl/BWBV0005294"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst tot tweede wijziging van de Partnerschapsovereenkomst tussen de leden van de groep van staten in Afrika, het Caribische gebied en de Stille Oceaan, enerzijds, en de Europese Gemeenschap en haar Lidstaten, anderzijds, ondertekend te Cotonou op 23 juni 2000 en voor de eerste maal gewijzigd te Luxemburg op 25 juni 2005

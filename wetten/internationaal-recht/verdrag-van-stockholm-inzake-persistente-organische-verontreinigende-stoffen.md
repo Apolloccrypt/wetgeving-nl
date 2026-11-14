@@ -8,7 +8,7 @@ laatste_update: 2026-10-09
 status: geldig
 toestand: 2026-10-09
 bron: "https://wetten.overheid.nl/BWBV0001517"
-opgehaald: 2026-11-13
+opgehaald: 2026-11-14
 ---
 
 # Verdrag van Stockholm inzake persistente organische verontreinigende stoffen

@@ -8,7 +8,7 @@ laatste_update: 1990-03-16
 status: geldig
 toestand: 1990-03-16
 bron: "https://wetten.overheid.nl/BWBV0004980"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Gedeeltelijke herziening van het Radioreglement

@@ -8,7 +8,7 @@ laatste_update: 1960-08-01
 status: geldig
 toestand: 1960-08-01
 bron: "https://wetten.overheid.nl/BWBV0005285"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Akkoord ter uitvoering van het Europees Verdrag van 9 juli 1956 betreffende de sociale zekerheid van arbeiders werkzaam bij het internationaal vervoer

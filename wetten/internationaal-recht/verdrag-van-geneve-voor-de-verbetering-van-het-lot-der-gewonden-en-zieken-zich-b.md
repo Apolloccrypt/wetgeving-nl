@@ -8,7 +8,7 @@ laatste_update: 1955-02-03
 status: geldig
 toestand: 1955-02-03
 bron: "https://wetten.overheid.nl/BWBV0005565"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag van Genève voor de verbetering van het lot der gewonden en zieken, zich bevindende bij de strijdkrachten te velde

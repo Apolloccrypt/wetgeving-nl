@@ -8,7 +8,7 @@ laatste_update: 1954-02-11
 status: geldig
 toestand: 1954-02-11
 bron: "https://wetten.overheid.nl/BWBV0004770"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Notawisseling tussen de Nederlandse en de Turkse Regering inzake de afschaffing van visa

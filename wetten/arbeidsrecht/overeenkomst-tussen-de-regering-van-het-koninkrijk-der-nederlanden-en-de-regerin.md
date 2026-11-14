@@ -8,7 +8,7 @@ laatste_update: 1970-07-15
 status: geldig
 toestand: 1970-07-15
 bron: "https://wetten.overheid.nl/BWBV0004909"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Italiaanse Republiek betreffende de aanwerving en de tewerkstelling van Italiaanse arbeiders in Nederland

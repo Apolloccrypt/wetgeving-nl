@@ -8,7 +8,7 @@ laatste_update: 1969-05-21
 status: geldig
 toestand: 1969-05-21
 bron: "https://wetten.overheid.nl/BWBV0005225"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Europees Vestigingsverdrag

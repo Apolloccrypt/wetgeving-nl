@@ -8,7 +8,7 @@ laatste_update: 2011-06-30
 status: geldig
 toestand: 2011-06-30
 bron: "https://wetten.overheid.nl/BWBV0005601"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Protocol No. III betreffende het toezicht op de bewapening

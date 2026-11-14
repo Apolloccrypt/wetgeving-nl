@@ -9,7 +9,7 @@ laatste_update: 2026-11-09
 status: geldig
 toestand: 2026-11-09
 bron: "https://wetten.overheid.nl/BWBR0053328"
-opgehaald: 2026-11-13
+opgehaald: 2026-11-14
 ---
 
 # Regeling van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur van 9 november 2026, nr. WJZ/108965407, houdende specifieke maatregelen in de beschermings- en de bewakingszone in verband met de bestrijding van hoogpathogene aviaire influenza in Hierden (Regeling maatregelen beschermings- en bewakingszone hoogpathogene vogelgriep Hierden 2026)

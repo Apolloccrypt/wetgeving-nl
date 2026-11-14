@@ -9,7 +9,7 @@ laatste_update: 2026-10-31
 status: geldig
 toestand: 2026-10-31
 bron: "https://wetten.overheid.nl/BWBR0025040"
-opgehaald: 2026-11-13
+opgehaald: 2026-11-14
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 18 december 2008, nr. WJZ/84447 (8240), houdende uitvoeringsregels van de Mediawet 2008 (Mediaregeling 2008)

@@ -8,7 +8,7 @@ laatste_update: 1952-01-18
 status: geldig
 toestand: 1952-01-18
 bron: "https://wetten.overheid.nl/BWBV0005290"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Derde Aanvullend Protocol bij de Handelsovereenkomst van 29 juni 1951 tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland

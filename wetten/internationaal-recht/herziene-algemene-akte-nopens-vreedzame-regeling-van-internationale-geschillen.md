@@ -8,7 +8,7 @@ laatste_update: 1971-09-07
 status: geldig
 toestand: 1971-09-07
 bron: "https://wetten.overheid.nl/BWBV0005483"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Herziene Algemene Akte nopens vreedzame regeling van internationale geschillen

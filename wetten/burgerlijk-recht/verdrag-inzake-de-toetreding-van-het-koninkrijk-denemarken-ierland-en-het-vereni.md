@@ -8,7 +8,7 @@ laatste_update: 1986-11-01
 status: geldig
 toestand: 1986-11-01
 bron: "https://wetten.overheid.nl/BWBV0005093"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag inzake de toetreding van het Koninkrijk Denemarken, Ierland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland tot het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken, alsmede tot het Protocol betreffende de uitlegging daarvan door het Hof van Justitie

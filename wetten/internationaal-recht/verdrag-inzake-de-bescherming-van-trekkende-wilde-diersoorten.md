@@ -8,7 +8,7 @@ laatste_update: 2006-02-23
 status: geldig
 toestand: 2006-02-23
 bron: "https://wetten.overheid.nl/BWBV0004769"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Verdrag inzake de bescherming van trekkende wilde diersoorten

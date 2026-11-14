@@ -8,7 +8,7 @@ laatste_update: 2024-11-01
 status: geldig
 toestand: 2024-11-01
 bron: "https://wetten.overheid.nl/BWBV0005273"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Schikking van Madrid betreffende de internationale inschrijving van merken van 14 april 1891, zoals herzien te Brussel op 14 december 1900, te Washington op 2 juni 1911, te 's-Gravenhage op 6 november 1925, te Londen op 2 juni 1934, te Nice op 15 juni 1957 en te Stockholm op 14 juli 1967 en zoals gewijzigd te Genève op 28 september 1979

@@ -8,7 +8,7 @@ laatste_update: 2011-06-30
 status: geldig
 toestand: 2011-06-30
 bron: "https://wetten.overheid.nl/BWBV0005560"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Aanvullend Accoord ter uitvoering van het Verdrag, ondertekend op 7 november 1949, betreffende sociale en medische bijstand verleend door de landen welke Partij zijn bij het Verdrag van Brussel

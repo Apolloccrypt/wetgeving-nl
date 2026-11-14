@@ -8,7 +8,7 @@ laatste_update: 1952-06-17
 status: geldig
 toestand: 1952-06-17
 bron: "https://wetten.overheid.nl/BWBV0005388"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Vredesverdrag met Japan

@@ -8,7 +8,7 @@ laatste_update: 1978-02-24
 status: geldig
 toestand: 1978-02-24
 bron: "https://wetten.overheid.nl/BWBV0005634"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Volksrepubliek Bangladesh inzake technische samenwerking

@@ -8,7 +8,7 @@ laatste_update: 1963-04-11
 status: geldig
 toestand: 1963-04-11
 bron: "https://wetten.overheid.nl/BWBV0004823"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Culturele Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Turkije

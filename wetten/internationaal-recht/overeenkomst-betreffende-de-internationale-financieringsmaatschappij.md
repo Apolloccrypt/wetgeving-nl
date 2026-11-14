@@ -8,7 +8,7 @@ laatste_update: 2012-06-27
 status: geldig
 toestand: 2012-06-27
 bron: "https://wetten.overheid.nl/BWBV0004975"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst betreffende de Internationale Financieringsmaatschappij

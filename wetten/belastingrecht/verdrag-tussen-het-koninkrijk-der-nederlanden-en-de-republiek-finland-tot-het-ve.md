@@ -8,7 +8,7 @@ laatste_update: 1955-12-23
 status: geldig
 toestand: 1955-12-23
 bron: "https://wetten.overheid.nl/BWBV0004806"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Finland tot het vermijden van dubbele belasting en tot het vaststellen van regelen voor wederzijdse administratieve hulp met betrekking tot rechten ter zake van nalatenschappen

@@ -8,7 +8,7 @@ laatste_update: 2012-11-01
 status: geldig
 toestand: 2012-11-01
 bron: "https://wetten.overheid.nl/BWBV0005510"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Derde Aanvullend Protocol bij het Europees Verdrag betreffende uitlevering

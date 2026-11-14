@@ -8,7 +8,7 @@ laatste_update: 1957-12-05
 status: geldig
 toestand: 1957-12-05
 bron: "https://wetten.overheid.nl/BWBV0005239"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag van vriendschap, handel en scheepvaart tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika

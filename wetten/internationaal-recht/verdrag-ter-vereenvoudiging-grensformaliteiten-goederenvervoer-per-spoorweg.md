@@ -8,7 +8,7 @@ laatste_update: 1953-04-01
 status: geldig
 toestand: 1953-04-01
 bron: "https://wetten.overheid.nl/BWBV0005198"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag ter vereenvoudiging grensformaliteiten goederenvervoer per spoorweg

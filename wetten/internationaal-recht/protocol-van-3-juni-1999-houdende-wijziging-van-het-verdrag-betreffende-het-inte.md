@@ -8,7 +8,7 @@ laatste_update: 2006-07-01
 status: geldig
 toestand: 2006-07-01
 bron: "https://wetten.overheid.nl/BWBV0005620"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Protocol van 3 juni 1999 houdende wijziging van het Verdrag betreffende het internationale spoorwegvervoer (COTIF) van 9 mei 1980 (Protocol 1999)

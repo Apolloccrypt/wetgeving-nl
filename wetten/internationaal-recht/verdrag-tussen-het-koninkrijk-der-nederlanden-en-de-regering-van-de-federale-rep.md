@@ -8,7 +8,7 @@ laatste_update: 2018-02-01
 status: geldig
 toestand: 2018-02-01
 bron: "https://wetten.overheid.nl/BWBV0005623"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Regering van de Federale Republiek Brazilië inzake samenwerking ter zake van defensiegerelateerde aangelegenheden

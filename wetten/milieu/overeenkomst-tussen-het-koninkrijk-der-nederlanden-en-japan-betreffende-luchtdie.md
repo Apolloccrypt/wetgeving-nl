@@ -8,7 +8,7 @@ laatste_update: 2016-09-26
 status: geldig
 toestand: 2016-09-26
 bron: "https://wetten.overheid.nl/BWBV0005018"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en Japan betreffende luchtdiensten

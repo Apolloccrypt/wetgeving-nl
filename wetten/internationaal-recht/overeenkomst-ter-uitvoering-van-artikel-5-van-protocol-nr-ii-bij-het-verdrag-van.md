@@ -8,7 +8,7 @@ laatste_update: 2011-06-30
 status: geldig
 toestand: 2011-06-30
 bron: "https://wetten.overheid.nl/BWBV0005602"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst ter uitvoering van artikel 5 van Protocol nr. II bij het Verdrag van Brussel zoals gewijzigd bij de op 23 oktober 1954 te Parijs ondertekende Protocollen

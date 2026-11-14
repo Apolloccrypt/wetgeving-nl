@@ -8,7 +8,7 @@ laatste_update: 2017-04-01
 status: geldig
 toestand: 2017-04-01
 bron: "https://wetten.overheid.nl/BWBV0005264"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Partnerschapsovereenkomst tussen de leden van de groep van Staten in Afrika, het Caribisch Gebied en de Stille Oceaan, enerzijds, en de Europese Gemeenschap en haar Lidstaten, anderzijds

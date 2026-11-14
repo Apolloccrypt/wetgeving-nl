@@ -8,7 +8,7 @@ laatste_update: 1945-12-10
 status: geldig
 toestand: 1945-12-10
 bron: "https://wetten.overheid.nl/BWBV0005509"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Statuut van het Internationaal Gerechtshof

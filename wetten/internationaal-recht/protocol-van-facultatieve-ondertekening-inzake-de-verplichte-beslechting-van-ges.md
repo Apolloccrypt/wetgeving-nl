@@ -8,7 +8,7 @@ laatste_update: 1966-02-18
 status: geldig
 toestand: 1966-02-18
 bron: "https://wetten.overheid.nl/BWBV0005404"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Protocol van facultatieve ondertekening inzake de verplichte beslechting van geschillen

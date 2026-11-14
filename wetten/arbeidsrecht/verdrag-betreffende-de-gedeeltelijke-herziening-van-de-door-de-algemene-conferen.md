@@ -8,7 +8,7 @@ laatste_update: 1948-01-15
 status: geldig
 toestand: 1948-01-15
 bron: "https://wetten.overheid.nl/BWBV0005586"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag betreffende de gedeeltelijke herziening van de door de Algemene Conferentie van de Internationale Arbeidsorganisatie in haar eerste achtentwintig zittingen aangenomen Verdragen, welk Verdrag ten doel heeft te voorzien in de toekomstige uitoefening van bepaalde administratieve functies, die de Secretaris-Generaal van de Volkenbond bij die Verdragen waren opgedragen en in bedoelde Verdragen bepaalde aanvullende wijzigingen aan te brengen, die door de opheffing van de Volkenbond en door de wijziging van het Statuut van de Internationale Arbeidsorganisatie noodzakelijk zijn geworden

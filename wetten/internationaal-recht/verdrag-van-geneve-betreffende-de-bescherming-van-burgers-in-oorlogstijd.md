@@ -8,7 +8,7 @@ laatste_update: 1955-02-03
 status: geldig
 toestand: 1955-02-03
 bron: "https://wetten.overheid.nl/BWBV0005569"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag van Genève betreffende de bescherming van burgers in oorlogstijd

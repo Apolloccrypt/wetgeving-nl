@@ -8,7 +8,7 @@ laatste_update: 2012-01-31
 status: geldig
 toestand: 2012-01-31
 bron: "https://wetten.overheid.nl/BWBV0005279"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst tussen de Regering van de Verenigde Staten van Amerika en de Vier Regeringen van de Franse Republiek, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland betreffende de vestiging, bouw en exploitatie van installaties voor de verrijking van uranium met gebruikmaking van gas-ultracentrifugetechnologie in de Verenigde Staten van Amerika

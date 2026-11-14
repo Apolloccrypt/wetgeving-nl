@@ -8,7 +8,7 @@ laatste_update: 1962-04-27
 status: geldig
 toestand: 1962-04-27
 bron: "https://wetten.overheid.nl/BWBV0004928"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst inzake internationale uitwisseling van gegevens op het gebied van de burgerlijke stand

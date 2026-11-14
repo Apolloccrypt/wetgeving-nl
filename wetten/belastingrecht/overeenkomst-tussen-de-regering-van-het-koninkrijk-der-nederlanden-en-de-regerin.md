@@ -8,7 +8,7 @@ laatste_update: 2008-12-28
 status: geldig
 toestand: 2008-12-28
 bron: "https://wetten.overheid.nl/BWBV0005639"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Zuid-Afrika tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen

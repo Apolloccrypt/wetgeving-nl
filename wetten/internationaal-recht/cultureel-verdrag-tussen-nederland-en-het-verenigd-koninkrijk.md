@@ -8,7 +8,7 @@ laatste_update: 1958-02-19
 status: geldig
 toestand: 1958-02-19
 bron: "https://wetten.overheid.nl/BWBV0005470"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Cultureel Verdrag tussen Nederland en het Verenigd Koninkrijk

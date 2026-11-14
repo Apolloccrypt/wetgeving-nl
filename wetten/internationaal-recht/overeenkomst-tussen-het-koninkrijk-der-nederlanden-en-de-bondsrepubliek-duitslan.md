@@ -8,7 +8,7 @@ laatste_update: 1998-09-01
 status: geldig
 toestand: 1998-09-01
 bron: "https://wetten.overheid.nl/BWBV0004803"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake Nederlandse oorlogsgraven in de Bondsrepubliek Duitsland (Oorlogsgravenovereenkomst)

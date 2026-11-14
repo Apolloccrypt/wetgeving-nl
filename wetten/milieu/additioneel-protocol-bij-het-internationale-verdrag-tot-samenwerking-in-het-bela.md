@@ -8,7 +8,7 @@ laatste_update: 1986-01-01
 status: geldig
 toestand: 1986-01-01
 bron: "https://wetten.overheid.nl/BWBV0005301"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Additioneel Protocol bij het Internationale Verdrag tot samenwerking in het belang van de veiligheid van de luchtvaart "EUROCONTROL"

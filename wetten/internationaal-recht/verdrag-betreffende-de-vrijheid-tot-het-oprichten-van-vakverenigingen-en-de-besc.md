@@ -8,7 +8,7 @@ laatste_update: 1964-11-13
 status: geldig
 toestand: 1964-11-13
 bron: "https://wetten.overheid.nl/BWBV0005545"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag betreffende de vrijheid tot het oprichten van vakverenigingen en de bescherming van het vakverenigingsrecht

@@ -8,7 +8,7 @@ laatste_update: 2019-08-01
 status: geldig
 toestand: 2019-08-01
 bron: "https://wetten.overheid.nl/BWBV0004827"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst nopens de instelling van een Raadgevende Interparlementaire Beneluxraad

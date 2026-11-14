@@ -8,7 +8,7 @@ laatste_update: 1998-05-04
 status: geldig
 toestand: 1998-05-04
 bron: "https://wetten.overheid.nl/BWBV0005298"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Aanvullend Protocol bij het Verdrag nopens de oprichting van de “Eurofima”, Europese Maatschappij tot financiering van spoorwegmaterieel

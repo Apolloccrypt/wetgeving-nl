@@ -8,7 +8,7 @@ laatste_update: 1955-06-01
 status: geldig
 toestand: 1955-06-01
 bron: "https://wetten.overheid.nl/BWBV0005140"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst betreffende de uitwisseling van stagiaires tussen het Koninkrijk der Nederlanden en de Republiek Oostenrijk

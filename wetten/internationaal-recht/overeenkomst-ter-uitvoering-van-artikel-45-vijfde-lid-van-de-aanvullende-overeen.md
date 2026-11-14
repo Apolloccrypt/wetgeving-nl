@@ -8,7 +8,7 @@ laatste_update: 1963-07-01
 status: geldig
 toestand: 1963-07-01
 bron: "https://wetten.overheid.nl/BWBV0005303"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst ter uitvoering van artikel 45, vijfde lid van de Aanvullende Overeenkomst bij het Verdrag tussen de staten die partij zijn bij het Noordatlantische Verdrag nopens de rechtspositie van hun krijgsmachten met betrekking tot de in de Bondsrepubliek Duitsland gestationeerde buitenlandse krijgsmachten

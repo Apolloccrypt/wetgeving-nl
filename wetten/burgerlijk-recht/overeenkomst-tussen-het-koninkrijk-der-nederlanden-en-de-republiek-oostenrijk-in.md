@@ -8,7 +8,7 @@ laatste_update: 1960-05-18
 status: geldig
 toestand: 1960-05-18
 bron: "https://wetten.overheid.nl/BWBV0005082"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Oostenrijk inzake de regeling van vermogensrechtelijke vraagstukken

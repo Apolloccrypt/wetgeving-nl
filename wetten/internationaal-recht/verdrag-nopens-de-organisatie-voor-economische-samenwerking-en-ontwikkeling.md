@@ -8,7 +8,7 @@ laatste_update: 1961-11-13
 status: geldig
 toestand: 1961-11-13
 bron: "https://wetten.overheid.nl/BWBV0005057"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Verdrag nopens de Organisatie voor Economische Samenwerking en Ontwikkeling

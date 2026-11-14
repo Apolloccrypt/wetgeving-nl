@@ -8,7 +8,7 @@ laatste_update: 1956-02-08
 status: geldig
 toestand: 1956-02-08
 bron: "https://wetten.overheid.nl/BWBV0005098"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Europees Cultureel Verdrag

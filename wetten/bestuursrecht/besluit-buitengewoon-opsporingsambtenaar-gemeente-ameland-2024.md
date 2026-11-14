@@ -9,7 +9,7 @@ laatste_update: 2026-11-06
 status: geldig
 toestand: 2026-11-06
 bron: "https://wetten.overheid.nl/BWBR0049524"
-opgehaald: 2026-11-13
+opgehaald: 2026-11-14
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 26 maart 2024 nr. BOACAT2024/025, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Ameland

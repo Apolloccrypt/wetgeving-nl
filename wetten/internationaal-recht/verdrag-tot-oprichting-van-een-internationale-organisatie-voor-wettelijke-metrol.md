@@ -8,7 +8,7 @@ laatste_update: 1968-01-18
 status: geldig
 toestand: 1968-01-18
 bron: "https://wetten.overheid.nl/BWBV0004978"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Verdrag tot oprichting van een Internationale Organisatie voor wettelijke metrologie

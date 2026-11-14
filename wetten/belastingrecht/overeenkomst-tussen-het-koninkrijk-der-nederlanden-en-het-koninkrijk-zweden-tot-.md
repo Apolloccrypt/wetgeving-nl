@@ -8,7 +8,7 @@ laatste_update: 1992-08-12
 status: geldig
 toestand: 1992-08-12
 bron: "https://wetten.overheid.nl/BWBV0004767"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Zweden tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belastingen naar het inkomen en naar het vermogen

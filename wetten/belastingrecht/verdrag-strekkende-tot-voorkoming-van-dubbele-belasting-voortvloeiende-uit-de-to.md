@@ -8,7 +8,7 @@ laatste_update: 1954-05-22
 status: geldig
 toestand: 1954-05-22
 bron: "https://wetten.overheid.nl/BWBV0005563"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag strekkende tot voorkoming van dubbele belasting voortvloeiende uit de toepassing van de buitengewone belastingen op het vermogen of op de vermogensaanwas, geheven in Nederland en in Frankrijk

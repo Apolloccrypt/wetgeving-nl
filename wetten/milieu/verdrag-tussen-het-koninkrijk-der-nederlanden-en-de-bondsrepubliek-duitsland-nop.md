@@ -8,7 +8,7 @@ laatste_update: 2004-05-01
 status: geldig
 toestand: 2004-05-01
 bron: "https://wetten.overheid.nl/BWBV0005042"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland nopens het verloop van de gemeenschappelijke landgrens, de grenswateren, het grondbezit in de nabijheid van de grens, het grensoverschrijdende verkeer over land en via de binnenwateren en andere met de grens verband houdende vraagstukken, met Bijlagen en Slotprotocol (Grensverdrag)

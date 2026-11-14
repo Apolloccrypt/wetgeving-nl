@@ -8,7 +8,7 @@ laatste_update: 1978-08-08
 status: geldig
 toestand: 1978-08-08
 bron: "https://wetten.overheid.nl/BWBV0005277"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Derde Aanvullend Protocol bij het Algemeen Verdrag nopens de voorrechten en immuniteiten van de Raad van Europa

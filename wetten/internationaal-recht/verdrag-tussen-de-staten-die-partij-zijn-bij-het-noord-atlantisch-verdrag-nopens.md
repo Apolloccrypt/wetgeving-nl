@@ -8,7 +8,7 @@ laatste_update: 1953-12-18
 status: geldig
 toestand: 1953-12-18
 bron: "https://wetten.overheid.nl/BWBV0004785"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Verdrag tussen de Staten die partij zijn bij het Noord-Atlantisch Verdrag, nopens de rechtspositie van hun krijgsmachten

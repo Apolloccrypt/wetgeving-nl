@@ -7,7 +7,7 @@ laatste_update: 1996-09-10
 status: geldig
 toestand: 1996-09-10
 bron: "https://wetten.overheid.nl/BWBV0004747"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Alomvattend Kernstopverdrag

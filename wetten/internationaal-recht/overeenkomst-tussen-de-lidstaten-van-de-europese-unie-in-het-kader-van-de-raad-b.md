@@ -8,7 +8,7 @@ laatste_update: 2021-06-25
 status: geldig
 toestand: 2021-06-25
 bron: "https://wetten.overheid.nl/BWBV0005395"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst tussen de lidstaten van de Europese Unie, in het kader van de Raad bijeen, betreffende de bescherming van in het belang van de Europese Unie uitgewisselde gerubriceerde informatie

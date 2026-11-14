@@ -8,7 +8,7 @@ laatste_update: 1957-04-29
 status: geldig
 toestand: 1957-04-29
 bron: "https://wetten.overheid.nl/BWBV0005576"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Tweede Aanvullend Protocol bij het Algemeen Verdrag nopens de voorrechten en immuniteiten van de Raad van Europa

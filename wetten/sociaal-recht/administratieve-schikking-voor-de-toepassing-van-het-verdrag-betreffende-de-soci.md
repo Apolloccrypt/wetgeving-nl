@@ -8,7 +8,7 @@ laatste_update: 2007-02-23
 status: geldig
 toestand: 2007-02-23
 bron: "https://wetten.overheid.nl/BWBV0004890"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Administratieve Schikking voor de toepassing van het Verdrag betreffende de sociale zekerheid van Rijnvarenden (herzien)

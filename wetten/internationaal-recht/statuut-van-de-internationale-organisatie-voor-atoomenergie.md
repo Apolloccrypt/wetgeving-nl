@@ -8,7 +8,7 @@ laatste_update: 1989-12-28
 status: geldig
 toestand: 1989-12-28
 bron: "https://wetten.overheid.nl/BWBV0004777"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Statuut van de Internationale Organisatie voor Atoomenergie

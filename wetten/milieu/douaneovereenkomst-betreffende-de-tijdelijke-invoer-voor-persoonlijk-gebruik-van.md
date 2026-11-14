@@ -8,7 +8,7 @@ laatste_update: 1960-10-25
 status: geldig
 toestand: 1960-10-25
 bron: "https://wetten.overheid.nl/BWBV0005389"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Douaneovereenkomst betreffende de tijdelijke invoer voor persoonlijk gebruik van pleziervaartuigen en van luchtvaartuigen

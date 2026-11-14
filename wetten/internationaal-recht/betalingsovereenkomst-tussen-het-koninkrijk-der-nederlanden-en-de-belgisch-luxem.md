@@ -8,7 +8,7 @@ laatste_update: 1969-02-03
 status: geldig
 toestand: 1969-02-03
 bron: "https://wetten.overheid.nl/BWBV0004838"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Betalingsovereenkomst tussen het Koninkrijk der Nederlanden en de Belgisch-Luxemburgse Economische Unie, enerzijds, en de Roemeense Volksrepubliek, anderzijds

@@ -8,7 +8,7 @@ laatste_update: 2022-04-27
 status: geldig
 toestand: 2022-04-27
 bron: "https://wetten.overheid.nl/BWBV0005506"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Statuut van de Raad van Europa

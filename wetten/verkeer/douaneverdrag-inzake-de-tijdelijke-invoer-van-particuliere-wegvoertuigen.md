@@ -8,7 +8,7 @@ laatste_update: 2015-04-01
 status: geldig
 toestand: 2015-04-01
 bron: "https://wetten.overheid.nl/BWBV0005368"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Douaneverdrag inzake de tijdelijke invoer van particuliere wegvoertuigen

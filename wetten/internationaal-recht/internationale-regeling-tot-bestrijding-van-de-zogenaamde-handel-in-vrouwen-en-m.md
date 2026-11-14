@@ -8,7 +8,7 @@ laatste_update: 1951-06-21
 status: geldig
 toestand: 1951-06-21
 bron: "https://wetten.overheid.nl/BWBV0005574"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Internationale Regeling tot bestrijding van de zogenaamde handel in vrouwen en meisjes, zoals gewijzigd door het Protocol van 4 mei 1949

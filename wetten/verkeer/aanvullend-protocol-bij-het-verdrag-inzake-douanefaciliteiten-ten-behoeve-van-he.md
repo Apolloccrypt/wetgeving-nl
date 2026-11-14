@@ -8,7 +8,7 @@ laatste_update: 1958-06-05
 status: geldig
 toestand: 1958-06-05
 bron: "https://wetten.overheid.nl/BWBV0005344"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Aanvullend Protocol bij het Verdrag inzake douanefaciliteiten ten behoeve van het toeristenverkeer, met betrekking tot de invoer van toeristische propagandabescheiden en toeristisch propagandamateriaal

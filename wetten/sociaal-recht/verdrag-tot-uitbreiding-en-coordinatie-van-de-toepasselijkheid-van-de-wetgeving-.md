@@ -8,7 +8,7 @@ laatste_update: 2011-06-30
 status: geldig
 toestand: 2011-06-30
 bron: "https://wetten.overheid.nl/BWBV0005461"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag tot uitbreiding en coördinatie van de toepasselijkheid van de wetgeving inzake sociale zekerheid op de onderdanen van de landen, welke partij zijn bij het Verdrag van Brussel

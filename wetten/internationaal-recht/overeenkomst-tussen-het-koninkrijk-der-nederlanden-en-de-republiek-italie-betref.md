@@ -8,7 +8,7 @@ laatste_update: 1961-03-01
 status: geldig
 toestand: 1961-03-01
 bron: "https://wetten.overheid.nl/BWBV0005219"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Italië betreffende het wegvervoer

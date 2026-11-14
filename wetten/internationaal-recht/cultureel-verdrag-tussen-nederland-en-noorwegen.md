@@ -8,7 +8,7 @@ laatste_update: 1956-05-14
 status: geldig
 toestand: 1956-05-14
 bron: "https://wetten.overheid.nl/BWBV0004824"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Cultureel Verdrag tussen Nederland en Noorwegen

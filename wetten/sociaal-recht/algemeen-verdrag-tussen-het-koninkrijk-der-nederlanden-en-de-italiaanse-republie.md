@@ -8,7 +8,7 @@ laatste_update: 1955-01-01
 status: geldig
 toestand: 1955-01-01
 bron: "https://wetten.overheid.nl/BWBV0005126"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Algemeen Verdrag tussen het Koninkrijk der Nederlanden en de Italiaanse Republiek inzake sociale verzekering

@@ -8,7 +8,7 @@ laatste_update: 1958-12-09
 status: geldig
 toestand: 1958-12-09
 bron: "https://wetten.overheid.nl/BWBV0005208"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst van handel en scheepvaart tussen het Koninkrijk der Nederlanden en de Republiek Costa Rica

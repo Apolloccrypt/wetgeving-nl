@@ -8,7 +8,7 @@ laatste_update: 1962-08-20
 status: geldig
 toestand: 1962-08-20
 bron: "https://wetten.overheid.nl/BWBV0005056"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst van Nice betreffende de internationale classificatie van de waren en diensten waarop fabrieks- of handelsmerken betrekking hebben, ondertekend op 15 juni 1957

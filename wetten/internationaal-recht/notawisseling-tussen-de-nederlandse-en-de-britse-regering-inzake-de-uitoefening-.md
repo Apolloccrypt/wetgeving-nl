@@ -8,7 +8,7 @@ laatste_update: 1956-06-11
 status: geldig
 toestand: 1956-06-11
 bron: "https://wetten.overheid.nl/BWBV0004959"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Notawisseling tussen de Nederlandse en de Britse Regering inzake de uitoefening van rechten en verplichtingen welke ten aanzien van de in de Bondsrepubliek Duitsland gestationeerde Nederlandse militaire eenheden voortvloeien uit twee op 26 mei 1952 te Bonn gesloten en op 23 oktober 1954 te Parijs herziene Verdragen

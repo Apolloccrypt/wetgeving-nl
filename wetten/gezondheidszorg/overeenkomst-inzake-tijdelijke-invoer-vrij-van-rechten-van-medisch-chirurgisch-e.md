@@ -8,7 +8,7 @@ laatste_update: 1962-07-27
 status: geldig
 toestand: 1962-07-27
 bron: "https://wetten.overheid.nl/BWBV0005107"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst inzake tijdelijke invoer, vrij van rechten, van medisch, chirurgisch en laboratoriummateriaal in bruikleen afgestaan aan ziekenhuizen en andere medische instellingen ten behoeve van diagnose en behandeling

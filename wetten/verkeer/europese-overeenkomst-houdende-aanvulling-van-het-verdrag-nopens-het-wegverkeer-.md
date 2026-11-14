@@ -8,7 +8,7 @@ laatste_update: 1953-12-20
 status: geldig
 toestand: 1953-12-20
 bron: "https://wetten.overheid.nl/BWBV0005607"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Europese Overeenkomst houdende aanvulling van het Verdrag nopens het Wegverkeer en het Protocol nopens de verkeerstekens, ondertekend te Genève op 19 september 1949

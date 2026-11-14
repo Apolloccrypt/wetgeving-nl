@@ -8,7 +8,7 @@ laatste_update: 1962-08-08
 status: geldig
 toestand: 1962-08-08
 bron: "https://wetten.overheid.nl/BWBV0004833"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Culturele Overeenkomst tussen het Koninkrijk der Nederlanden en de Verenigde Arabische Republiek

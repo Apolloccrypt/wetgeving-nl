@@ -8,7 +8,7 @@ laatste_update: 1945-02-08
 status: geldig
 toestand: 1945-02-08
 bron: "https://wetten.overheid.nl/BWBV0005517"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst inzake het internationale luchtvervoer

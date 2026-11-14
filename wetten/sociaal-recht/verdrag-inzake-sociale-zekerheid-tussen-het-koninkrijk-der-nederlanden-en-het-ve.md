@@ -8,7 +8,7 @@ laatste_update: 2007-06-01
 status: geldig
 toestand: 2007-06-01
 bron: "https://wetten.overheid.nl/BWBV0005127"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag inzake sociale zekerheid tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk

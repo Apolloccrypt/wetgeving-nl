@@ -7,7 +7,7 @@ laatste_update: 2008-12-11
 status: geldig
 toestand: 2008-12-11
 bron: "https://wetten.overheid.nl/BWBV0005538"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag van de Verenigde Naties inzake de overeenkomsten voor het internationaal vervoer van goederen geheel of gedeeltelijk over zee

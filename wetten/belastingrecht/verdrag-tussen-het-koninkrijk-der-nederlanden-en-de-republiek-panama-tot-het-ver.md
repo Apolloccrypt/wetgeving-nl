@@ -8,7 +8,7 @@ laatste_update: 2011-12-01
 status: geldig
 toestand: 2011-12-01
 bron: "https://wetten.overheid.nl/BWBV0004968"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Panama tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen

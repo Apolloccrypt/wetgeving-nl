@@ -8,7 +8,7 @@ laatste_update: 1956-07-06
 status: geldig
 toestand: 1956-07-06
 bron: "https://wetten.overheid.nl/BWBV0005387"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Protocol van ondertekening bij het Protocol betreffende de nationale behandeling bij de aanbesteding van werken en de aankoop van goederen

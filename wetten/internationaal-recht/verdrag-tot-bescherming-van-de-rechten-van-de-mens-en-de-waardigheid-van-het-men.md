@@ -7,7 +7,7 @@ laatste_update: 1997-04-04
 status: geldig
 toestand: 1997-04-04
 bron: "https://wetten.overheid.nl/BWBV0005627"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag tot bescherming van de rechten van de mens en de waardigheid van het menselijk wezen met betrekking tot de toepassing van de biologie en de geneeskunde: Verdrag inzake de rechten van de mens en de biogeneeskunde

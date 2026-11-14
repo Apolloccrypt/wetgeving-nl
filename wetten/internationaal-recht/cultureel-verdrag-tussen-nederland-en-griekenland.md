@@ -8,7 +8,7 @@ laatste_update: 1954-03-20
 status: geldig
 toestand: 1954-03-20
 bron: "https://wetten.overheid.nl/BWBV0005383"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Cultureel Verdrag tussen Nederland en Griekenland

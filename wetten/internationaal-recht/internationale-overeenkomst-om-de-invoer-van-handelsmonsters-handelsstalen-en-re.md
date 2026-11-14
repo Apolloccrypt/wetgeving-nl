@@ -8,7 +8,7 @@ laatste_update: 1955-11-20
 status: geldig
 toestand: 1955-11-20
 bron: "https://wetten.overheid.nl/BWBV0005231"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Internationale Overeenkomst om de invoer van handelsmonsters, handelsstalen en reclamemateriaal te vergemakkelijken

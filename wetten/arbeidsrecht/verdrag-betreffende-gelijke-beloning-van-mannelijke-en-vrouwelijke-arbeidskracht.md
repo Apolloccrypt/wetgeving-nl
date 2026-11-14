@@ -8,7 +8,7 @@ laatste_update: 1972-06-16
 status: geldig
 toestand: 1972-06-16
 bron: "https://wetten.overheid.nl/BWBV0004933"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Verdrag betreffende gelijke beloning van mannelijke en vrouwelijke arbeidskrachten voor arbeid van gelijke waarde

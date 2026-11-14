@@ -8,7 +8,7 @@ laatste_update: 1955-08-01
 status: geldig
 toestand: 1955-08-01
 bron: "https://wetten.overheid.nl/BWBV0005315"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Protocol bij het Europees Verdrag betreffende sociale en medische bijstand

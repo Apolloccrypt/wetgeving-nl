@@ -8,7 +8,7 @@ laatste_update: 1958-10-01
 status: geldig
 toestand: 1958-10-01
 bron: "https://wetten.overheid.nl/BWBV0005125"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Europees Verdrag betreffende de sociale zekerheid van arbeiders werkzaam bij het internationaal vervoer

@@ -8,7 +8,7 @@ laatste_update: 1953-11-28
 status: geldig
 toestand: 1953-11-28
 bron: "https://wetten.overheid.nl/BWBV0005348"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Internationale Overeenkomst nopens het gebruik van de aanduidingen van herkomst en van de benamingen van kaassoorten

@@ -8,7 +8,7 @@ laatste_update: 2011-11-01
 status: geldig
 toestand: 2011-11-01
 bron: "https://wetten.overheid.nl/BWBV0005244"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Uitvoeringsprotocol tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Russische Federatie inzake de uitvoering van de Overnameovereenkomst tussen de Russische Federatie en de Europese Gemeenschap van 25 mei 2006

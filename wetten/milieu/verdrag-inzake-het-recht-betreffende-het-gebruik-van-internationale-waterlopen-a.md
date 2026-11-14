@@ -8,7 +8,7 @@ laatste_update: 2014-08-17
 status: geldig
 toestand: 2014-08-17
 bron: "https://wetten.overheid.nl/BWBV0004743"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Verdrag inzake het recht betreffende het gebruik van internationale waterlopen anders dan voor scheepvaart

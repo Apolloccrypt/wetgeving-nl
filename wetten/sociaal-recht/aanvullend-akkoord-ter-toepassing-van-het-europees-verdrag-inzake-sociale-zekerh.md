@@ -8,7 +8,7 @@ laatste_update: 2007-02-28
 status: geldig
 toestand: 2007-02-28
 bron: "https://wetten.overheid.nl/BWBV0004901"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Aanvullend Akkoord ter toepassing van het Europees Verdrag inzake sociale zekerheid

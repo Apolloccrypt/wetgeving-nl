@@ -8,7 +8,7 @@ laatste_update: 1959-07-15
 status: geldig
 toestand: 1959-07-15
 bron: "https://wetten.overheid.nl/BWBV0005170"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België, regelende de verlichting en bebakening van de Westerschelde en haar mondingen

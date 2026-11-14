@@ -8,7 +8,7 @@ laatste_update: 1997-11-06
 status: geldig
 toestand: 1997-11-06
 bron: "https://wetten.overheid.nl/BWBV0004791"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Statuut van de Europese Commissie voor de bestrijding van mond- en klauwzeer

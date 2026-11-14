@@ -8,7 +8,7 @@ laatste_update: 1967-06-06
 status: geldig
 toestand: 1967-06-06
 bron: "https://wetten.overheid.nl/BWBV0005182"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag inzake douanefaciliteiten ten behoeve van het toeristenverkeer

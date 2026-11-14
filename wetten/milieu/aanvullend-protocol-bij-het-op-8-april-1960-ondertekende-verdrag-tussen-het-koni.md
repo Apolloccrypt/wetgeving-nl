@@ -8,7 +8,7 @@ laatste_update: 1998-07-01
 status: geldig
 toestand: 1998-07-01
 bron: "https://wetten.overheid.nl/BWBV0005276"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Aanvullend Protocol bij het op 8 april 1960 ondertekende Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland tot regeling van de samenwerking in de Eemsmonding (Eems-Dollardverdrag) tot regeling van de samenwerking met betrekking tot het waterbeheer en het natuurbeheer in de Eemsmonding (Eems-Dollardmilieuprotocol)

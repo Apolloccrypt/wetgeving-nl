@@ -7,7 +7,7 @@ laatste_update: 2011-07-11
 status: geldig
 toestand: 2011-07-11
 bron: "https://wetten.overheid.nl/BWBV0005616"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag tot instelling van het Europees Stabiliteitsmechanisme (ESM) tussen het Koninkrijk België, de Bondsrepubliek Duitsland, de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Italiaanse Republiek, de Republiek Cyprus, het Groothertogdom Luxemburg, Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Portugese Republiek, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland

@@ -8,7 +8,7 @@ laatste_update: 1969-10-29
 status: geldig
 toestand: 1969-10-29
 bron: "https://wetten.overheid.nl/BWBV0004778"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Aanhangsel XII (herzien): Internationale Maritieme Organisatie bij het Verdrag nopens de voorrechten en immuniteiten van de gespecialiseerde organisaties

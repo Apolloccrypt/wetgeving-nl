@@ -7,7 +7,7 @@ laatste_update: 1989-07-14
 status: geldig
 toestand: 1989-07-14
 bron: "https://wetten.overheid.nl/BWBV0004874"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Tweede Aanvullend Protocol bij de Overeenkomst tussen de Lid-Staten van de Europese Gemeenschap voor Kolen en Staal en de Europese Gemeenschap voor Kolen en Staal enerzijds, en het Koninkrijk Noorwegen, anderzijds, in verband met de toetreding van het Koninkrijk Spanje en de Portugese Republiek tot de Gemeenschap

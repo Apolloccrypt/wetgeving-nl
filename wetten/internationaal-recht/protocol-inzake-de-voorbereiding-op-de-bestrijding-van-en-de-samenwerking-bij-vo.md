@@ -8,7 +8,7 @@ laatste_update: 2007-06-14
 status: geldig
 toestand: 2007-06-14
 bron: "https://wetten.overheid.nl/BWBV0004763"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Protocol inzake de voorbereiding op, de bestrijding van en de samenwerking bij voorvallen van verontreiniging door gevaarlijke en schadelijke stoffen van 2000

@@ -8,7 +8,7 @@ laatste_update: 2018-12-29
 status: geldig
 toestand: 2018-12-29
 bron: "https://wetten.overheid.nl/BWBV0005482"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag tot regeling van de walvisvangst

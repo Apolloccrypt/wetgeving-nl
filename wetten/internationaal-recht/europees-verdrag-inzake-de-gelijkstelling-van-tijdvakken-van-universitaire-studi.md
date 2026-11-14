@@ -8,7 +8,7 @@ laatste_update: 1959-12-10
 status: geldig
 toestand: 1959-12-10
 bron: "https://wetten.overheid.nl/BWBV0005357"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Europees Verdrag inzake de gelijkstelling van tijdvakken van universitaire studie

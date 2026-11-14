@@ -8,7 +8,7 @@ laatste_update: 2018-05-15
 status: geldig
 toestand: 2018-05-15
 bron: "https://wetten.overheid.nl/BWBV0005424"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Aanvullend Protocol bij het op 25 september 1950 te Bern ondertekende Protocol inzake de Internationale Commissie voor de Burgerlijke Stand

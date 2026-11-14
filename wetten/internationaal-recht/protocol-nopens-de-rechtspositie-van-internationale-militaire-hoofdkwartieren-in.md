@@ -8,7 +8,7 @@ laatste_update: 1954-07-22
 status: geldig
 toestand: 1954-07-22
 bron: "https://wetten.overheid.nl/BWBV0005255"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Protocol nopens de rechtspositie van internationale militaire hoofdkwartieren, ingesteld uit hoofde van het Noord-Atlantisch Verdrag

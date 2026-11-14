@@ -8,7 +8,7 @@ laatste_update: 2012-08-08
 status: geldig
 toestand: 2012-08-08
 bron: "https://wetten.overheid.nl/BWBV0005505"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Socialistische Republiek Vietnam inzake luchtdiensten tussen en via hun onderscheiden grondgebieden

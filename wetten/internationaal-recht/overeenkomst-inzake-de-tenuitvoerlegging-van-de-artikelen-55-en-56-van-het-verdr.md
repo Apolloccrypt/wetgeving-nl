@@ -8,7 +8,7 @@ laatste_update: 1963-10-01
 status: geldig
 toestand: 1963-10-01
 bron: "https://wetten.overheid.nl/BWBV0005296"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst inzake de tenuitvoerlegging van de artikelen 55 en 56 van het Verdrag tot instelling van de Benelux Economische Unie

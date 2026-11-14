@@ -8,7 +8,7 @@ laatste_update: 1954-05-18
 status: geldig
 toestand: 1954-05-18
 bron: "https://wetten.overheid.nl/BWBV0005129"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag nopens de rechtspositie van de Noord-Atlantische Verdragsorganisatie, van de nationale vertegenwoordigers bij haar organen en van haar internationale staf

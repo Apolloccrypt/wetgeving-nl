@@ -8,7 +8,7 @@ laatste_update: 1971-10-28
 status: geldig
 toestand: 1971-10-28
 bron: "https://wetten.overheid.nl/BWBV0005193"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag betreffende de politieke rechten van de vrouw

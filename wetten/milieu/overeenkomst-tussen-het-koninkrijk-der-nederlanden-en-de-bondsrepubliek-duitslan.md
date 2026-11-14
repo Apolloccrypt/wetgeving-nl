@@ -8,7 +8,7 @@ laatste_update: 1958-04-28
 status: geldig
 toestand: 1958-04-28
 bron: "https://wetten.overheid.nl/BWBV0005008"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake het luchtverkeer

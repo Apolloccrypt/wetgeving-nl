@@ -8,7 +8,7 @@ laatste_update: 1977-11-30
 status: geldig
 toestand: 1977-11-30
 bron: "https://wetten.overheid.nl/BWBV0004888"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst betreffende de opneming van de Internationale Populierencommissie in het kader van de F.A.O.

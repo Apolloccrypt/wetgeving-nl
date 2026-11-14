@@ -8,7 +8,7 @@ laatste_update: 1981-08-08
 status: geldig
 toestand: 1981-08-08
 bron: "https://wetten.overheid.nl/BWBV0004949"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Verdrag betreffende de arbeidsovereenkomst van vissers

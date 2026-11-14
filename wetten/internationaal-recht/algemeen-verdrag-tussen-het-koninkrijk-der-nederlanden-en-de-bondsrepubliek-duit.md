@@ -8,7 +8,7 @@ laatste_update: 1963-08-01
 status: geldig
 toestand: 1963-08-01
 bron: "https://wetten.overheid.nl/BWBV0004772"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Algemeen Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland tot regeling van met de grens verband houdende vraagstukken en andere tussen beide landen bestaande problemen

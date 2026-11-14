@@ -8,7 +8,7 @@ laatste_update: 2018-05-15
 status: geldig
 toestand: 2018-05-15
 bron: "https://wetten.overheid.nl/BWBV0005423"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Protocol inzake de Internationale Commissie voor de Burgerlijke Stand

@@ -8,7 +8,7 @@ laatste_update: 1962-12-07
 status: geldig
 toestand: 1962-12-07
 bron: "https://wetten.overheid.nl/BWBV0005328"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Akkoord inzake de vaststelling van een gedeelte van het gemeenschappelijk douanetarief met betrekking tot de produkten van lijst G opgenomen in het Verdrag tot oprichting van de Europese Economische Gemeenschap

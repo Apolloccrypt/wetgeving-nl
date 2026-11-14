@@ -8,7 +8,7 @@ laatste_update: 1964-07-23
 status: geldig
 toestand: 1964-07-23
 bron: "https://wetten.overheid.nl/BWBV0005176"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag over de erkenning en tenuitvoerlegging van buitenlandse scheidsrechterlijke uitspraken

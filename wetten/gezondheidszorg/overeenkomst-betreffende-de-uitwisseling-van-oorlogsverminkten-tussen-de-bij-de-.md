@@ -8,7 +8,7 @@ laatste_update: 1958-11-01
 status: geldig
 toestand: 1958-11-01
 bron: "https://wetten.overheid.nl/BWBV0005100"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst betreffende de uitwisseling van oorlogsverminkten tussen de bij de Raad van Europa aangesloten landen ten behoeve van medische behandeling

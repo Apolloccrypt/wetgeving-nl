@@ -8,7 +8,7 @@ laatste_update: 1955-02-12
 status: geldig
 toestand: 1955-02-12
 bron: "https://wetten.overheid.nl/BWBV0005430"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Administratief Accoord met betrekking tot de wijze van toepassing van het op 28 October 1952 te 's-Gravenhage ondertekende Algemeen Verdrag tussen het Koninkrijk der Nederlanden en de Italiaanse Republiek inzake sociale verzekering, voor wat betreft de mijnwerkers

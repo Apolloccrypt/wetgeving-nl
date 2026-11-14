@@ -8,7 +8,7 @@ laatste_update: 2012-06-20
 status: geldig
 toestand: 2012-06-20
 bron: "https://wetten.overheid.nl/BWBV0005351"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Aruba, en de Internationale Politie Organisatie inzake de priviliges en immuniteiten van de Internationale Politie Organisatie tijdens de Eenentwintigste Amerikaanse Regionale Conferentie

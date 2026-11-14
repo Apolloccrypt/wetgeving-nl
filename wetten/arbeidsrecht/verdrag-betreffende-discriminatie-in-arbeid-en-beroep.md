@@ -8,7 +8,7 @@ laatste_update: 1974-03-15
 status: geldig
 toestand: 1974-03-15
 bron: "https://wetten.overheid.nl/BWBV0004947"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Verdrag betreffende discriminatie in arbeid en beroep

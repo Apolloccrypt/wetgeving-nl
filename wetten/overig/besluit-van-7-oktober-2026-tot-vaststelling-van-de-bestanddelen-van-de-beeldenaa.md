@@ -9,7 +9,7 @@ laatste_update: 2026-11-06
 status: geldig
 toestand: 2026-11-06
 bron: "https://wetten.overheid.nl/BWBR0053309"
-opgehaald: 2026-11-13
+opgehaald: 2026-11-14
 ---
 
 # Besluit van 7 oktober 2026 tot vaststelling van de bestanddelen van de beeldenaar van de munten van vijf en tien euro worden uitgegeven met het thema Eise Eisinga Planetarium die in 2026 worden uitgegeven in de serie UNESCO Werelderfgoed

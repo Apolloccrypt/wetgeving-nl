@@ -8,7 +8,7 @@ laatste_update: 2010-12-01
 status: geldig
 toestand: 2010-12-01
 bron: "https://wetten.overheid.nl/BWBV0005016"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Tweede Aanvullend Protocol bij de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Chili, anderzijds, in verband met de toetreding van de Republiek Bulgarije en Roemenië tot de Europese Unie

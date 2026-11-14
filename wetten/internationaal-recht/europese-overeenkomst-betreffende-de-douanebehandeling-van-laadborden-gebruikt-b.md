@@ -8,7 +8,7 @@ laatste_update: 1963-01-20
 status: geldig
 toestand: 1963-01-20
 bron: "https://wetten.overheid.nl/BWBV0005179"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Europese Overeenkomst betreffende de douanebehandeling van laadborden gebruikt bij internationaal vervoer

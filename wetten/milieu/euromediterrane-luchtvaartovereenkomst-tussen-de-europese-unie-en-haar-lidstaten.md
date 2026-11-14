@@ -8,7 +8,7 @@ laatste_update: 2020-08-02
 status: geldig
 toestand: 2020-08-02
 bron: "https://wetten.overheid.nl/BWBV0005053"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Euromediterrane luchtvaartovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en het Hasjemitische Koninkrijk Jordanië, anderzijds

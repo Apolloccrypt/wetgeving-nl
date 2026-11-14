@@ -8,7 +8,7 @@ laatste_update: 1952-02-11
 status: geldig
 toestand: 1952-02-11
 bron: "https://wetten.overheid.nl/BWBV0005065"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst tussen de Regeringen van het Koninkrijk der Nederlanden, de Republiek Indonesië en de Verenigde Staten van Amerika

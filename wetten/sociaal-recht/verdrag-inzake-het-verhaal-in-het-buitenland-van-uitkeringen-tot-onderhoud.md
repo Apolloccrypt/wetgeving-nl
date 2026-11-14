@@ -8,7 +8,7 @@ laatste_update: 1962-08-30
 status: geldig
 toestand: 1962-08-30
 bron: "https://wetten.overheid.nl/BWBV0005233"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag inzake het verhaal in het buitenland van uitkeringen tot onderhoud

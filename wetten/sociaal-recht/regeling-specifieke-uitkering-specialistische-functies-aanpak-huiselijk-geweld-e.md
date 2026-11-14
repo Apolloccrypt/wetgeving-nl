@@ -9,7 +9,7 @@ laatste_update: 2026-11-06
 status: geldig
 toestand: 2026-11-06
 bron: "https://wetten.overheid.nl/BWBR0050349"
-opgehaald: 2026-11-13
+opgehaald: 2026-11-14
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 22 oktober 2024, kenmerk 3989124-1074008-DMO, houdende het verstrekken van een specifieke uitkering voor specialistische functies in het kader van de aanpak van het huiselijk geweld en kindermishandeling. (Regeling specifieke uitkering specialistische functies aanpak huiselijk geweld en kindermishandeling)

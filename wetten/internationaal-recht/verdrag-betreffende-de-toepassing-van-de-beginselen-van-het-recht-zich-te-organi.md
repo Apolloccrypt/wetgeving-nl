@@ -8,7 +8,7 @@ laatste_update: 1994-12-22
 status: geldig
 toestand: 1994-12-22
 bron: "https://wetten.overheid.nl/BWBV0005525"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag betreffende de toepassing van de beginselen van het recht zich te organiseren en collectief te onderhandelen

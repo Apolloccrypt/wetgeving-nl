@@ -8,7 +8,7 @@ laatste_update: 1966-09-18
 status: geldig
 toestand: 1966-09-18
 bron: "https://wetten.overheid.nl/BWBV0005551"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag inzake de voorkoming en de bestraffing van genocide

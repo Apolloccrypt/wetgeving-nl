@@ -8,7 +8,7 @@ laatste_update: 2010-01-15
 status: geldig
 toestand: 2010-01-15
 bron: "https://wetten.overheid.nl/BWBV0004944"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Verdrag betreffende de bescherming van het moederschap (herzien)

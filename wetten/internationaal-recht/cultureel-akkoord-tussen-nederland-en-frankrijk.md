@@ -8,7 +8,7 @@ laatste_update: 1948-07-07
 status: geldig
 toestand: 1948-07-07
 bron: "https://wetten.overheid.nl/BWBV0005463"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Cultureel-akkoord tussen Nederland en Frankrijk

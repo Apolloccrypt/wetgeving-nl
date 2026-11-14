@@ -8,7 +8,7 @@ laatste_update: 1960-06-02
 status: geldig
 toestand: 1960-06-02
 bron: "https://wetten.overheid.nl/BWBV0004967"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Verdrag inzake het Internationaal Koude-Instituut, ter vervanging van het Verdrag van 21 juni 1920, gewijzigd op 31 mei 1937

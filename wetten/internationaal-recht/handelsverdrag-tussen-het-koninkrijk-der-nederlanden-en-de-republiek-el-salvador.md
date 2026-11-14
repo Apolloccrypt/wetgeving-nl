@@ -8,7 +8,7 @@ laatste_update: 1956-06-27
 status: geldig
 toestand: 1956-06-27
 bron: "https://wetten.overheid.nl/BWBV0005204"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Handelsverdrag tussen het Koninkrijk der Nederlanden en de Republiek El Salvador

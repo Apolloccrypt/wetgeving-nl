@@ -8,7 +8,7 @@ laatste_update: 1962-02-17
 status: geldig
 toestand: 1962-02-17
 bron: "https://wetten.overheid.nl/BWBV0005110"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Veterinaire Overeenkomst tussen het Koninkrijk der Nederlanden en de Italiaanse Republiek

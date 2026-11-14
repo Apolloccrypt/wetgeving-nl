@@ -7,7 +7,7 @@ laatste_update: 1979-12-04
 status: geldig
 toestand: 1979-12-04
 bron: "https://wetten.overheid.nl/BWBV0004779"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst betreffende de toepassing van het Europees Verdrag tot bestrijding van terrorisme tussen de Lid-Staten van de Europese Gemeenschappen

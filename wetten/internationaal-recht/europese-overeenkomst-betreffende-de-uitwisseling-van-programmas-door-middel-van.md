@@ -8,7 +8,7 @@ laatste_update: 1967-03-05
 status: geldig
 toestand: 1967-03-05
 bron: "https://wetten.overheid.nl/BWBV0005104"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Europese Overeenkomst betreffende de uitwisseling van programma's door middel van televisiefilms

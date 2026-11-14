@@ -8,7 +8,7 @@ laatste_update: 1950-04-24
 status: geldig
 toestand: 1950-04-24
 bron: "https://wetten.overheid.nl/BWBV0005431"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Internationaal Verdrag ter bestrijding van de handel in vrouwen en kinderen, zoals gewijzigd door het Protocol van 12 november 1947

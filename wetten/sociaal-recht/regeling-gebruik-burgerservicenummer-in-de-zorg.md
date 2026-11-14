@@ -9,7 +9,7 @@ laatste_update: 2026-11-11
 status: geldig
 toestand: 2026-11-11
 bron: "https://wetten.overheid.nl/BWBR0023923"
-opgehaald: 2026-11-13
+opgehaald: 2026-11-14
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 26 mei 2008, nr. MEVA/ICT-2838255, houdende regels omtrent het gebruik van het burgerservicenummer in de zorg (Regeling gebruik burgerservicenummer in de zorg)

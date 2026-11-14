@@ -8,7 +8,7 @@ laatste_update: 1959-11-27
 status: geldig
 toestand: 1959-11-27
 bron: "https://wetten.overheid.nl/BWBV0004935"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Verdrag betreffende betaalde vakantie in de landbouw

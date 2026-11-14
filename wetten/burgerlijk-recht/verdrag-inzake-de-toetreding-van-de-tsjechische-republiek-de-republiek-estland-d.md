@@ -8,7 +8,7 @@ laatste_update: 2006-05-01
 status: geldig
 toestand: 2006-05-01
 bron: "https://wetten.overheid.nl/BWBV0005115"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag inzake de toetreding van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek tot het Verdrag inzake het recht dat van toepassing is op verbintenissen uit overeenkomst, ter ondertekening opengesteld te Rome op 19 juni 1980, en tot het Eerste en het Tweede Protocol betreffende de uitlegging ervan door het Hof van Justitie van de Europese Gemeenschappen

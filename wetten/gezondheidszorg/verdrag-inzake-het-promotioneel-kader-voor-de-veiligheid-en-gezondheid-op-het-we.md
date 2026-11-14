@@ -8,7 +8,7 @@ laatste_update: 2025-10-04
 status: geldig
 toestand: 2025-10-04
 bron: "https://wetten.overheid.nl/BWBV0005547"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag inzake het promotioneel kader voor de veiligheid en gezondheid op het werk

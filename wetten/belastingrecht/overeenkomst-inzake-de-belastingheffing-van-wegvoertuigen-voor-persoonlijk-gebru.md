@@ -8,7 +8,7 @@ laatste_update: 1959-08-18
 status: geldig
 toestand: 1959-08-18
 bron: "https://wetten.overheid.nl/BWBV0005379"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst inzake de belastingheffing van wegvoertuigen voor persoonlijk gebruik in internationaal verkeer

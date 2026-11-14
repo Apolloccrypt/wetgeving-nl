@@ -7,7 +7,7 @@ laatste_update: 1996-05-03
 status: geldig
 toestand: 1996-05-03
 bron: "https://wetten.overheid.nl/BWBV0004849"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Internationaal Verdrag inzake aansprakelijkheid en vergoeding voor schade in verband met het vervoer over zee van gevaarlijke en schadelijke stoffen, 1996

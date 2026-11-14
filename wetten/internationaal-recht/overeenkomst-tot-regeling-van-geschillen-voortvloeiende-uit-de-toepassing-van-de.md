@@ -8,7 +8,7 @@ laatste_update: 1953-09-10
 status: geldig
 toestand: 1953-09-10
 bron: "https://wetten.overheid.nl/BWBV0005270"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst tot regeling van geschillen voortvloeiende uit de toepassing van de bepalingen van artikel 15, lid a, van het Vredesverdrag met Japan

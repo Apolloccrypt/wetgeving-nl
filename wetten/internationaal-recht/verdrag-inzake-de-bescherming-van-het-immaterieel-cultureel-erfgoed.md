@@ -8,7 +8,7 @@ laatste_update: 2012-08-15
 status: geldig
 toestand: 2012-08-15
 bron: "https://wetten.overheid.nl/BWBV0005396"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag inzake de bescherming van het immaterieel cultureel erfgoed

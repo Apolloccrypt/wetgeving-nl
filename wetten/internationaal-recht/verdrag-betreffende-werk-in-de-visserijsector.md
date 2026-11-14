@@ -8,7 +8,7 @@ laatste_update: 2020-12-19
 status: geldig
 toestand: 2020-12-19
 bron: "https://wetten.overheid.nl/BWBV0005397"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag betreffende werk in de visserijsector

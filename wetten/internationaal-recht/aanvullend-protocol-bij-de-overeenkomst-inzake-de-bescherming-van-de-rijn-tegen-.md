@@ -8,7 +8,7 @@ laatste_update: 1994-11-01
 status: geldig
 toestand: 1994-11-01
 bron: "https://wetten.overheid.nl/BWBV0004793"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Aanvullend Protocol bij de Overeenkomst inzake de bescherming van de Rijn tegen verontreiniging door chloriden

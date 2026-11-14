@@ -8,7 +8,7 @@ laatste_update: 2013-08-20
 status: geldig
 toestand: 2013-08-20
 bron: "https://wetten.overheid.nl/BWBV0005435"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag betreffende het geneeskundig onderzoek van zeelieden

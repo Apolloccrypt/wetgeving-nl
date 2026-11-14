@@ -8,7 +8,7 @@ laatste_update: 2018-03-05
 status: geldig
 toestand: 2018-03-05
 bron: "https://wetten.overheid.nl/BWBV0005391"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Aanvullend Protocol inzake aansprakelijkheid en schadeloosstelling van Nagoya-Kuala Lumpur bij het Protocol van Cartagena inzake bioveiligheid

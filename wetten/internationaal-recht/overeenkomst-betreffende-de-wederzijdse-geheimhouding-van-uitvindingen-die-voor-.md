@@ -8,7 +8,7 @@ laatste_update: 1971-10-08
 status: geldig
 toestand: 1971-10-08
 bron: "https://wetten.overheid.nl/BWBV0005054"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst betreffende de wederzijdse geheimhouding van uitvindingen die voor de verdediging van belang zijn en waarvoor octrooiaanvragen zijn ingediend

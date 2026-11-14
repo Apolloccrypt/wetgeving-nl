@@ -8,7 +8,7 @@ laatste_update: 1986-03-10
 status: geldig
 toestand: 1986-03-10
 bron: "https://wetten.overheid.nl/BWBV0004908"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Toegevoegde Overeenkomst bij het Statuut van de Europese School houdende vaststelling van een regeling voor het Europese Baccalaureaat

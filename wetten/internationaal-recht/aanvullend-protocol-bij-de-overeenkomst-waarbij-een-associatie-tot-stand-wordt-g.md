@@ -7,7 +7,7 @@ laatste_update: 2004-05-01
 status: geldig
 toestand: 2004-05-01
 bron: "https://wetten.overheid.nl/BWBV0005453"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Aanvullend Protocol bij de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschap en Turkije naar aanleiding van de uitbreiding van de Europese Unie

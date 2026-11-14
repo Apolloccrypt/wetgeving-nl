@@ -8,7 +8,7 @@ laatste_update: 2010-08-18
 status: geldig
 toestand: 2010-08-18
 bron: "https://wetten.overheid.nl/BWBV0005001"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Wijziging kostenverdeling en herverdeling van de beheerskosten als genoemd in artikel 6 lid 2 en 3 van de op 20 september 1972 gesloten overeenkomst tussen Waterschap Rivierenland en Deichverband "Kleve-Landesgrenze" inzake de waterafvoer uit het gemeenschappelijke Duits-Nederlandse stroomgebied naar het Hollands-Duits gemaal te Nijmegen

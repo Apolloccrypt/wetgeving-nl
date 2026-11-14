@@ -8,7 +8,7 @@ laatste_update: 1966-09-13
 status: geldig
 toestand: 1966-09-13
 bron: "https://wetten.overheid.nl/BWBV0005191"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag tot vaststelling van enige eenvormige regelen inzake aanvaring in de binnenvaart

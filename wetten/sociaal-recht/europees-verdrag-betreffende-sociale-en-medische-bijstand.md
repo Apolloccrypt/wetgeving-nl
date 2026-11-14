@@ -8,7 +8,7 @@ laatste_update: 2016-02-22
 status: geldig
 toestand: 2016-02-22
 bron: "https://wetten.overheid.nl/BWBV0005096"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Europees Verdrag betreffende sociale en medische bijstand

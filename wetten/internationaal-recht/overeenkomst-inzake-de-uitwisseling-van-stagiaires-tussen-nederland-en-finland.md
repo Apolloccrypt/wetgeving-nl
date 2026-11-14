@@ -8,7 +8,7 @@ laatste_update: 1951-07-11
 status: geldig
 toestand: 1951-07-11
 bron: "https://wetten.overheid.nl/BWBV0005136"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst inzake de uitwisseling van stagiaires tussen Nederland en Finland

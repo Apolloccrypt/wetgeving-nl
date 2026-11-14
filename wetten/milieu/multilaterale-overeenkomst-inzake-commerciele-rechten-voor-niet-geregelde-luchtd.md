@@ -8,7 +8,7 @@ laatste_update: 1958-04-20
 status: geldig
 toestand: 1958-04-20
 bron: "https://wetten.overheid.nl/BWBV0004841"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Multilaterale Overeenkomst inzake commerciële rechten voor niet-geregelde luchtdiensten in Europa

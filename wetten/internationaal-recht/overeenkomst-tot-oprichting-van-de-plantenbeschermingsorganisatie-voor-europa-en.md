@@ -8,7 +8,7 @@ laatste_update: 1999-09-15
 status: geldig
 toestand: 1999-09-15
 bron: "https://wetten.overheid.nl/BWBV0005073"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst tot oprichting van de Plantenbeschermingsorganisatie voor Europa en het gebied van de Middellandse Zee

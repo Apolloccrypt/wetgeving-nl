@@ -8,7 +8,7 @@ laatste_update: 1946-12-11
 status: geldig
 toestand: 1946-12-11
 bron: "https://wetten.overheid.nl/BWBV0005454"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Notawisseling nopens de voorrechten en immuniteiten van het Internationale Gerechtshof

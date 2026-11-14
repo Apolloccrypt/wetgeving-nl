@@ -8,7 +8,7 @@ laatste_update: 2015-10-01
 status: geldig
 toestand: 2015-10-01
 bron: "https://wetten.overheid.nl/BWBV0005135"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België voor de ontwikkeling van de samenwerking en van de wederzijdse administratieve bijstand op het gebied van de sociale zekerheid

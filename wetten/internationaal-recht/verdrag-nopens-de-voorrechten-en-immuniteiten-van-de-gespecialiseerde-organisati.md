@@ -8,7 +8,7 @@ laatste_update: 1948-12-02
 status: geldig
 toestand: 1948-12-02
 bron: "https://wetten.overheid.nl/BWBV0005536"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag nopens de voorrechten en immuniteiten van de gespecialiseerde organisaties

@@ -8,7 +8,7 @@ laatste_update: 1955-02-11
 status: geldig
 toestand: 1955-02-11
 bron: "https://wetten.overheid.nl/BWBV0005335"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Algemeen Administratief Accoord met betrekking tot de wijze van toepassing van het Algemeen Verdrag tussen het Koninkrijk der Nederlanden en de Italiaanse Republiek inzake sociale verzekering, op 28 October 1952 te 's-Gravenhage ondertekend

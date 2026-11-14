@@ -8,7 +8,7 @@ laatste_update: 1951-12-20
 status: geldig
 toestand: 1951-12-20
 bron: "https://wetten.overheid.nl/BWBV0005403"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk België tot voorkoming van dubbele aanslag inzake belastingen op het kapitaal

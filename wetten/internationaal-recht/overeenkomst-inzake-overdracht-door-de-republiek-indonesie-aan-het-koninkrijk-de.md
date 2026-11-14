@@ -8,7 +8,7 @@ laatste_update: 1956-03-19
 status: geldig
 toestand: 1956-03-19
 bron: "https://wetten.overheid.nl/BWBV0005066"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst inzake overdracht door de Republiek Indonesië aan het Koninkrijk der Nederlanden van vorderingen op Nederlanders

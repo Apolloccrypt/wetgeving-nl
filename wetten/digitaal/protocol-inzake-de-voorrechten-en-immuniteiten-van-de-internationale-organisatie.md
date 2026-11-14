@@ -8,7 +8,7 @@ laatste_update: 1983-07-15
 status: geldig
 toestand: 1983-07-15
 bron: "https://wetten.overheid.nl/BWBV0004951"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Protocol inzake de voorrechten en immuniteiten van de Internationale Organisatie voor Telecommunicatiesatellieten “INTELSAT”

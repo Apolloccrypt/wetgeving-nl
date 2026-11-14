@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-11-05
 toestand: 2025-03-01
 bron: "https://wetten.overheid.nl/BWBR0049326"
-opgehaald: 2026-11-13
+opgehaald: 2026-11-14
 ---
 
 # Besluit van de secretaris-generaal van het Ministerie van Financiën tot verlening van mandaat, volmacht en machtiging aan de kwartiermaker Belangenbehartiger voor Belastingplichtigen en Toeslaggerechtigden (Mandaatbesluit kwartiermaker Belangenbehartiger voor Belastingplichtigen en Toeslaggerechtigden) van 7 november 2023 (2023-15911)

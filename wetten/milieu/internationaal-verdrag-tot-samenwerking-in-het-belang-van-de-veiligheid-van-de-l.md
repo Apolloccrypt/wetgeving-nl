@@ -8,7 +8,7 @@ laatste_update: 2022-07-01
 status: geldig
 toestand: 2022-07-01
 bron: "https://wetten.overheid.nl/BWBV0004802"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Internationaal Verdrag tot samenwerking in het belang van de veiligheid van de luchtvaart “EUROCONTROL”

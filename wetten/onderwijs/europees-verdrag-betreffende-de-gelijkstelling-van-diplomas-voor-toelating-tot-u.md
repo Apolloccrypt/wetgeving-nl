@@ -8,7 +8,7 @@ laatste_update: 1956-08-27
 status: geldig
 toestand: 1956-08-27
 bron: "https://wetten.overheid.nl/BWBV0005097"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Europees Verdrag betreffende de gelijkstelling van diploma's voor toelating tot universiteiten

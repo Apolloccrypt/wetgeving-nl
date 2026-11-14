@@ -8,7 +8,7 @@ laatste_update: 1956-12-19
 status: geldig
 toestand: 1956-12-19
 bron: "https://wetten.overheid.nl/BWBV0005332"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Bijzondere Overeenkomst betreffende de ouderdomsuitkeringen ter uitvoering van het Bijzonder Protocol, dat deel uitmaakt van het Algemeen Verdrag tussen het Koninkrijk der Nederlanden en de Italiaanse Republiek inzake sociale verzekering

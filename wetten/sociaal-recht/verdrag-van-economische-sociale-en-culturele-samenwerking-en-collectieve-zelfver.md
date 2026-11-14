@@ -8,7 +8,7 @@ laatste_update: 2011-06-30
 status: geldig
 toestand: 2011-06-30
 bron: "https://wetten.overheid.nl/BWBV0005480"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag van economische, sociale en culturele samenwerking en collectieve zelfverdediging tussen het Koninkrijk der Nederlanden, het Koninkrijk België, de Franse Republiek, het Groothertogdom Luxemburg en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland

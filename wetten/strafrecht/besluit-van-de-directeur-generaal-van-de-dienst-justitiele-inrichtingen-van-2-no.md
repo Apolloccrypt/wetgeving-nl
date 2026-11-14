@@ -9,7 +9,7 @@ laatste_update: 2026-11-11
 status: geldig
 toestand: 2026-11-11
 bron: "https://wetten.overheid.nl/BWBR0053323"
-opgehaald: 2026-11-13
+opgehaald: 2026-11-14
 ---
 
 # Besluit van de directeur-generaal van de Dienst Justitiële Inrichtingen van 2 november 2026, nr. 8056725, houdende verlening van mandaat, volmacht en machtiging aan de vestigingsdirecteuren van de penitentiaire inrichtingen, de directeuren van de rijks justitiële jeugdinrichting en de hoofden van de rijksinstellingen voor forensische zorg ten behoeve van hun deelname aan de stuurgroepen van de regionale Zorg- en Veiligheidshuizen (Mandaatbesluit DG DJI Zorg- en Veiligheidshuizen)

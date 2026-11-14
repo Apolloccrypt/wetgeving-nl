@@ -8,7 +8,7 @@ laatste_update: 1988-03-01
 status: geldig
 toestand: 1988-03-01
 bron: "https://wetten.overheid.nl/BWBV0004878"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Aanvullend Protocol bij de Overeenkomst tussen de Lid-Staten van de Europese Gemeenschap voor Kolen en Staal en de Europese Gemeenschap voor Kolen en Staal, enerzijds, en het Koninkrijk Noorwegen, anderzijds, in verband met de toetreding van de Helleense Republiek tot de Gemeenschap

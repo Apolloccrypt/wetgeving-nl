@@ -8,7 +8,7 @@ laatste_update: 1959-12-01
 status: geldig
 toestand: 1959-12-01
 bron: "https://wetten.overheid.nl/BWBV0005211"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Briefwisseling tussen de Nederlandse Minister van Buitenlandse Zaken en de Secretaris-Generaal van de Haagse Conferentie voor International Privaatrecht inzake het verlenen van voorrechten en immuniteiten aan de organen der Conferentie

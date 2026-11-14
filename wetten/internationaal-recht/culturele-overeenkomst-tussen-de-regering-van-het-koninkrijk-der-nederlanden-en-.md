@@ -8,7 +8,7 @@ laatste_update: 1973-05-11
 status: geldig
 toestand: 1973-05-11
 bron: "https://wetten.overheid.nl/BWBV0004984"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Culturele Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Tsjechoslowaakse Socialistische Republiek

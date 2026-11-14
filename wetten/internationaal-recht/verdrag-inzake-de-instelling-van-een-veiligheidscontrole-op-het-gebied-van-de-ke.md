@@ -8,7 +8,7 @@ laatste_update: 1959-07-22
 status: geldig
 toestand: 1959-07-22
 bron: "https://wetten.overheid.nl/BWBV0005163"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag inzake de Instelling van een Veiligheidscontrole op het gebied van de Kernenergie

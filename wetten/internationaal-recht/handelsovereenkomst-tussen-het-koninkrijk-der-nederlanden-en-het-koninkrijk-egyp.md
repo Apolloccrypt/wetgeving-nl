@@ -8,7 +8,7 @@ laatste_update: 1953-03-21
 status: geldig
 toestand: 1953-03-21
 bron: "https://wetten.overheid.nl/BWBV0005203"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Handelsovereenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Egypte

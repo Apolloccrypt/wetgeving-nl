@@ -8,7 +8,7 @@ laatste_update: 1961-06-30
 status: geldig
 toestand: 1961-06-30
 bron: "https://wetten.overheid.nl/BWBV0004977"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst betreffende de Internationale Ontwikkelingsassociatie

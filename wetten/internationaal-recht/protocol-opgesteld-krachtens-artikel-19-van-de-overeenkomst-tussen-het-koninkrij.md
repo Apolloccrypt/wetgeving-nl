@@ -8,7 +8,7 @@ laatste_update: 1979-11-01
 status: geldig
 toestand: 1979-11-01
 bron: "https://wetten.overheid.nl/BWBV0004954"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Protocol opgesteld krachtens artikel 19 van de Overeenkomst tussen het Koninkrijk der Nederlanden en de Portugese Republiek betreffende het internationale wegvervoer

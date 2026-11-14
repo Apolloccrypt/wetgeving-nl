@@ -7,7 +7,7 @@ laatste_update: 2009-04-17
 status: geldig
 toestand: 2009-04-17
 bron: "https://wetten.overheid.nl/BWBV0005402"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Maatregel 15 (2009) Aan land gaan van personen van passagiersschepen in het gebied waarop het Verdrag inzake Antarctica van toepassing is

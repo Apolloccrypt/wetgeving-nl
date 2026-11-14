@@ -8,7 +8,7 @@ laatste_update: 2013-09-01
 status: geldig
 toestand: 2013-09-01
 bron: "https://wetten.overheid.nl/BWBV0005131"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag inzake wederzijdse administratieve bijstand in belastingzaken

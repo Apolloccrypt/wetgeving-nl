@@ -8,7 +8,7 @@ laatste_update: 1983-05-15
 status: geldig
 toestand: 1983-05-15
 bron: "https://wetten.overheid.nl/BWBV0005094"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Europese Interim-Overeenkomst betreffende sociale zekerheid met uitsluiting van de regelingen voor ouderdom, invaliditeit en overlijden

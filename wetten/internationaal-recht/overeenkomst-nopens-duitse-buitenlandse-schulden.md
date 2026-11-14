@@ -8,7 +8,7 @@ laatste_update: 1958-08-01
 status: geldig
 toestand: 1958-08-01
 bron: "https://wetten.overheid.nl/BWBV0005325"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst nopens Duitse buitenlandse schulden

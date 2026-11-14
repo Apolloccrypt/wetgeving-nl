@@ -8,7 +8,7 @@ laatste_update: 1956-11-08
 status: geldig
 toestand: 1956-11-08
 bron: "https://wetten.overheid.nl/BWBV0004829"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Verdrag tussen Nederland, België en het Groothertogdom Luxemburg nopens wederkerige bijstand inzake de invordering van belastingschulden

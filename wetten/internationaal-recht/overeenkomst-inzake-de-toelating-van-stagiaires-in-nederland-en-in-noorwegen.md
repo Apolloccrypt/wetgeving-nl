@@ -8,7 +8,7 @@ laatste_update: 1951-06-28
 status: geldig
 toestand: 1951-06-28
 bron: "https://wetten.overheid.nl/BWBV0005139"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst inzake de toelating van stagiaires in Nederland en in Noorwegen

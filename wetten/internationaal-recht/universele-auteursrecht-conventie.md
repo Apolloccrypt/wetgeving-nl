@@ -8,7 +8,7 @@ laatste_update: 1967-03-22
 status: geldig
 toestand: 1967-03-22
 bron: "https://wetten.overheid.nl/BWBV0005162"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Universele Auteursrecht-Conventie

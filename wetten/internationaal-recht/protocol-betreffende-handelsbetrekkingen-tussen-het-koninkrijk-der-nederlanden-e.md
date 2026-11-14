@@ -8,7 +8,7 @@ laatste_update: 1964-10-21
 status: geldig
 toestand: 1964-10-21
 bron: "https://wetten.overheid.nl/BWBV0005269"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Protocol betreffende handelsbetrekkingen tussen het Koninkrijk der Nederlanden en de Belgisch-Luxemburgse Economische Unie, enerzijds, en Japan, anderzijds

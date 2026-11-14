@@ -8,7 +8,7 @@ laatste_update: 2011-12-01
 status: geldig
 toestand: 2011-12-01
 bron: "https://wetten.overheid.nl/BWBV0005075"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag tot oprichting van de Afrikaanse faciliteit voor juridische ondersteuning

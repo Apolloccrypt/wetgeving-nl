@@ -8,7 +8,7 @@ laatste_update: 2011-03-03
 status: geldig
 toestand: 2011-03-03
 bron: "https://wetten.overheid.nl/BWBV0005521"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst betreffende het Internationale Monetaire Fonds

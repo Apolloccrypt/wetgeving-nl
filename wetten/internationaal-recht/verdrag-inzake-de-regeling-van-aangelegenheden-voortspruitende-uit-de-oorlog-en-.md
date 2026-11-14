@@ -8,7 +8,7 @@ laatste_update: 1955-09-06
 status: geldig
 toestand: 1955-09-06
 bron: "https://wetten.overheid.nl/BWBV0005377"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag inzake de regeling van aangelegenheden voortspruitende uit de oorlog en de bezetting

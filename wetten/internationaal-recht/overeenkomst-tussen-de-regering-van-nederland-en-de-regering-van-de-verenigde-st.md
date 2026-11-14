@@ -8,7 +8,7 @@ laatste_update: 1952-05-15
 status: geldig
 toestand: 1952-05-15
 bron: "https://wetten.overheid.nl/BWBV0005174"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst tussen de Regering van Nederland en de Regering van de Verenigde Staten van Amerika betreffende het deelnemen van de Nederlandse strijdkrachten aan de actie van de Verenigde Naties in Korea

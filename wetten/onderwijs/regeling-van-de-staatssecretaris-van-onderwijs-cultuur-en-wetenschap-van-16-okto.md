@@ -9,7 +9,7 @@ laatste_update: 2026-11-05
 status: geldig
 toestand: 2026-11-05
 bron: "https://wetten.overheid.nl/BWBR0053301"
-opgehaald: 2026-11-13
+opgehaald: 2026-11-14
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 16 oktober 2027, nr. PO/FenV/66312491, houdende vaststelling van de bedragen voor bekostiging primair onderwijs voor het kalenderjaar 2027 en voor ondersteuning van leerlingen in het primair en voortgezet onderwijs kalenderjaar 2027 (Regeling bekostiging WPO en WEC 2027)

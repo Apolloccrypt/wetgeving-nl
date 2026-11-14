@@ -8,7 +8,7 @@ laatste_update: 1967-11-07
 status: geldig
 toestand: 1967-11-07
 bron: "https://wetten.overheid.nl/BWBV0005605"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verklaring betreffende de aanleg van internationale hoofdverkeerswegen

@@ -8,7 +8,7 @@ laatste_update: 1984-02-01
 status: geldig
 toestand: 1984-02-01
 bron: "https://wetten.overheid.nl/BWBV0005151"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Arabische Republiek Egypte inzake het Nederlands Instituut voor Archeologie en Arabische Studien te Kairo

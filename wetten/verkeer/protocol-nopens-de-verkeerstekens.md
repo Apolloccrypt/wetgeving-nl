@@ -8,7 +8,7 @@ laatste_update: 1964-10-22
 status: geldig
 toestand: 1964-10-22
 bron: "https://wetten.overheid.nl/BWBV0005570"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Protocol nopens de verkeerstekens

@@ -8,7 +8,7 @@ laatste_update: 1960-02-18
 status: geldig
 toestand: 1960-02-18
 bron: "https://wetten.overheid.nl/BWBV0004945"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Verdrag betreffende de afschaffing van gedwongen arbeid

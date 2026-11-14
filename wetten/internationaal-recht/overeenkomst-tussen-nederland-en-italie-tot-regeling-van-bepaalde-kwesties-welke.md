@@ -8,7 +8,7 @@ laatste_update: 1951-06-15
 status: geldig
 toestand: 1951-06-15
 bron: "https://wetten.overheid.nl/BWBV0005218"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst tussen Nederland en Italië tot regeling van bepaalde kwesties welke voortvloeien uit de economische bepalingen van het Vredesverdrag tussen de Geallieerde en Geassocieerde Mogendheden en Italië

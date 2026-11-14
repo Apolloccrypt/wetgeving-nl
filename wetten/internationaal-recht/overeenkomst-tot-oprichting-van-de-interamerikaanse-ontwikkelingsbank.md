@@ -8,7 +8,7 @@ laatste_update: 1977-01-10
 status: geldig
 toestand: 1977-01-10
 bron: "https://wetten.overheid.nl/BWBV0004920"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst tot oprichting van de Interamerikaanse Ontwikkelingsbank

@@ -8,7 +8,7 @@ laatste_update: 1955-04-01
 status: geldig
 toestand: 1955-04-01
 bron: "https://wetten.overheid.nl/BWBV0005309"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Protocol bij de Europese Interim-Overeenkomst betreffende de sociale zekerheid met uitsluiting van de regelingen voor ouderdom, invaliditeit en overlijden

@@ -8,7 +8,7 @@ laatste_update: 1956-06-01
 status: geldig
 toestand: 1956-06-01
 bron: "https://wetten.overheid.nl/BWBV0005067"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Protocol tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Japan inzake de regeling van het vraagstuk betreffende zekere soorten particuliere vorderingen van Nederlandse onderdanen

@@ -8,7 +8,7 @@ laatste_update: 2015-12-01
 status: geldig
 toestand: 2015-12-01
 bron: "https://wetten.overheid.nl/BWBV0004851"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland tot het vermijden van dubbele belasting op het gebied van belastingen van het inkomen en van het vermogen alsmede van verscheidene andere belastingen en tot het regelen van andere aangelegenheden op belastinggebied

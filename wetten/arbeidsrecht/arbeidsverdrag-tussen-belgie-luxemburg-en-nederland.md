@@ -8,7 +8,7 @@ laatste_update: 1960-11-01
 status: geldig
 toestand: 1960-11-01
 bron: "https://wetten.overheid.nl/BWBV0004805"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Arbeidsverdrag tussen België, Luxemburg en Nederland

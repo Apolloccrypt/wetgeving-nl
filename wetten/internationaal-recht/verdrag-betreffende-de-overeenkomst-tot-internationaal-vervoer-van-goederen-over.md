@@ -8,7 +8,7 @@ laatste_update: 1986-04-28
 status: geldig
 toestand: 1986-04-28
 bron: "https://wetten.overheid.nl/BWBV0005177"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag betreffende de overeenkomst tot internationaal vervoer van goederen over de weg (CMR)

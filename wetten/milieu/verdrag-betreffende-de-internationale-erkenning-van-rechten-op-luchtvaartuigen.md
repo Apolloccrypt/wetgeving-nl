@@ -8,7 +8,7 @@ laatste_update: 1959-11-30
 status: geldig
 toestand: 1959-11-30
 bron: "https://wetten.overheid.nl/BWBV0005409"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag betreffende de internationale erkenning van rechten op luchtvaartuigen

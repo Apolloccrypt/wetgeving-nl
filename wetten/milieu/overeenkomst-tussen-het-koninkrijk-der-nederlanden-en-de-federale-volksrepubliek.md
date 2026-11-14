@@ -8,7 +8,7 @@ laatste_update: 1958-03-03
 status: geldig
 toestand: 1958-03-03
 bron: "https://wetten.overheid.nl/BWBV0005254"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Federale Volksrepubliek Zuidslavië betreffende geregelde luchtdiensten

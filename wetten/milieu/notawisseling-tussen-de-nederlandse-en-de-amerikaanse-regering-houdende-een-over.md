@@ -8,7 +8,7 @@ laatste_update: 1958-06-30
 status: geldig
 toestand: 1958-06-30
 bron: "https://wetten.overheid.nl/BWBV0005147"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Notawisseling tussen de Nederlandse en de Amerikaanse Regering, houdende een Overeenkomst betreffende de oprichting van een Technisch Studiecentrum voor de luchtverdediging

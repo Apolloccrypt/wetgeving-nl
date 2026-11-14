@@ -8,7 +8,7 @@ laatste_update: 1963-08-01
 status: geldig
 toestand: 1963-08-01
 bron: "https://wetten.overheid.nl/BWBV0004815"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de regeling van financiële vraagstukken en inzake uitkeringen ten gunste van Nederlandse slachtoffers van de nationaal-socialistische vervolging (Financieel Verdrag)

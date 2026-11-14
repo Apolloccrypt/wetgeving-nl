@@ -8,7 +8,7 @@ laatste_update: 1961-05-01
 status: geldig
 toestand: 1961-05-01
 bron: "https://wetten.overheid.nl/BWBV0005002"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Koninklijke Afghaanse Regering inzake instellen en onderhouden van luchtdiensten

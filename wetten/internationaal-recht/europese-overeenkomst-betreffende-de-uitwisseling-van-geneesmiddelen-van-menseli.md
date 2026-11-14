@@ -8,7 +8,7 @@ laatste_update: 1982-04-19
 status: geldig
 toestand: 1982-04-19
 bron: "https://wetten.overheid.nl/BWBV0005318"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Europese Overeenkomst betreffende de uitwisseling van geneesmiddelen van menselijke oorsprong

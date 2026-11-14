@@ -8,7 +8,7 @@ laatste_update: 1971-01-17
 status: geldig
 toestand: 1971-01-17
 bron: "https://wetten.overheid.nl/BWBV0004885"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Verdrag tot oprichting van een Europese Organisatie voor kernphysisch onderzoek

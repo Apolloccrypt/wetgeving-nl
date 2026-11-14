@@ -8,7 +8,7 @@ laatste_update: 1951-07-26
 status: geldig
 toestand: 1951-07-26
 bron: "https://wetten.overheid.nl/BWBV0004807"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Griekenland tot wederzijdse vrijstelling van de belastingen op inkomsten van bepaalde voordelen, voortvloeiende uit internationale zeescheepvaart- of luchtvaartondernemingen

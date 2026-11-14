@@ -7,7 +7,7 @@ laatste_update: 2007-11-23
 status: geldig
 toestand: 2007-11-23
 bron: "https://wetten.overheid.nl/BWBV0005392"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag inzake de internationale inning van levensonderhoud voor kinderen en andere familieleden

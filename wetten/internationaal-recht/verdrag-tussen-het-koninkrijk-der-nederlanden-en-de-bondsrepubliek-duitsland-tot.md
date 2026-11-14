@@ -8,7 +8,7 @@ laatste_update: 1978-07-01
 status: geldig
 toestand: 1978-07-01
 bron: "https://wetten.overheid.nl/BWBV0005343"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland tot regeling van de samenwerking in de Eemsmonding (Eems-Dollardverdrag)

@@ -8,7 +8,7 @@ laatste_update: 2010-11-01
 status: geldig
 toestand: 2010-11-01
 bron: "https://wetten.overheid.nl/BWBV0004845"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Aanvullend Protocol bij het Verdrag inzake de bestrijding van strafbare feiten verbonden met elektronische netwerken, betreffende de strafbaarstelling van handelingen van racistische en xenofobische aard verricht via computersystemen

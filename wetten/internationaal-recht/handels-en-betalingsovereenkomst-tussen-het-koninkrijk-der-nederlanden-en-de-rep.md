@@ -7,7 +7,7 @@ laatste_update: 1957-11-26
 status: geldig
 toestand: 1957-11-26
 bron: "https://wetten.overheid.nl/BWBV0005235"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Handels- en Betalingsovereenkomst tussen het Koninkrijk der Nederlanden en de Republiek Argentinië

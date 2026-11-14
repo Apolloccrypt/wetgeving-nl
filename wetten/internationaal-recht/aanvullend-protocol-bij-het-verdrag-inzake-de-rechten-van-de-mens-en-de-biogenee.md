@@ -7,7 +7,7 @@ laatste_update: 2002-01-24
 status: geldig
 toestand: 2002-01-24
 bron: "https://wetten.overheid.nl/BWBV0005628"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Aanvullend Protocol bij het Verdrag inzake de rechten van de mens en de biogeneeskunde inzake transplantatie van organen en weefsel van menselijke herkomst

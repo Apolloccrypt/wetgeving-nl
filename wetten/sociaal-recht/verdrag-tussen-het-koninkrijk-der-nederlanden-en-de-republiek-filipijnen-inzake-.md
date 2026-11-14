@@ -8,7 +8,7 @@ laatste_update: 2016-05-01
 status: geldig
 toestand: 2016-05-01
 bron: "https://wetten.overheid.nl/BWBV0005195"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Filipijnen inzake wederzijdse administratieve bijstand in douanezaken

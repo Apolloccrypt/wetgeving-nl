@@ -8,7 +8,7 @@ laatste_update: 1957-10-31
 status: geldig
 toestand: 1957-10-31
 bron: "https://wetten.overheid.nl/BWBV0005577"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst inzake de invoer van voorwerpen van opvoedkundige, wetenschappelijke of culturele aard

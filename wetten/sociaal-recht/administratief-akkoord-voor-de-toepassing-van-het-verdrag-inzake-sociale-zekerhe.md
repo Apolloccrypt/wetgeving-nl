@@ -8,7 +8,7 @@ laatste_update: 2007-06-01
 status: geldig
 toestand: 2007-06-01
 bron: "https://wetten.overheid.nl/BWBV0005372"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Administratief Akkoord voor de toepassing van het Verdrag inzake sociale zekerheid tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, ondertekend te 's-Gravenhage op 11 augustus 1954

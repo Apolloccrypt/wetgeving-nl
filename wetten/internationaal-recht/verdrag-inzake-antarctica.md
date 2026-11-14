@@ -8,7 +8,7 @@ laatste_update: 1967-03-30
 status: geldig
 toestand: 1967-03-30
 bron: "https://wetten.overheid.nl/BWBV0005237"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag inzake Antarctica

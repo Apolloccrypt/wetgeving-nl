@@ -8,7 +8,7 @@ laatste_update: 1983-07-20
 status: geldig
 toestand: 1983-07-20
 bron: "https://wetten.overheid.nl/BWBV0004856"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Verdrag tot het vaststellen van enige eenvormige regels betreffende het conservatoir beslag op zeeschepen

@@ -8,7 +8,7 @@ laatste_update: 2010-12-27
 status: geldig
 toestand: 2010-12-27
 bron: "https://wetten.overheid.nl/BWBV0004818"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Verdrag inzake Octrooirecht

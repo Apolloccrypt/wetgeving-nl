@@ -8,7 +8,7 @@ laatste_update: 1963-08-29
 status: geldig
 toestand: 1963-08-29
 bron: "https://wetten.overheid.nl/BWBV0004919"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst inzake de voorrechten en immuniteiten van de Internationale Organisatie voor Atoomenergie

@@ -8,7 +8,7 @@ laatste_update: 2026-11-03
 status: geldig
 toestand: 2026-11-03
 bron: "https://wetten.overheid.nl/BWBR0053292"
-opgehaald: 2026-11-13
+opgehaald: 2026-11-14
 ---
 
 # Richtlijn voor strafvordering economische vuurwerkdelicten

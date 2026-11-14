@@ -8,7 +8,7 @@ laatste_update: 2011-05-01
 status: geldig
 toestand: 2011-05-01
 bron: "https://wetten.overheid.nl/BWBV0005433"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag inzake de bevoegdheid, het toepasselijke recht, de erkenning, de tenuitvoerlegging en de samenwerking op het gebied van ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen

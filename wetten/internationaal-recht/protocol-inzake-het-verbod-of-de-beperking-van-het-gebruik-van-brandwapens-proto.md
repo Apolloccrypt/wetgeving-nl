@@ -8,7 +8,7 @@ laatste_update: 1987-12-18
 status: geldig
 toestand: 1987-12-18
 bron: "https://wetten.overheid.nl/BWBV0004800"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Protocol inzake het verbod of de beperking van het gebruik van brandwapens (Protocol III)

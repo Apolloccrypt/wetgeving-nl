@@ -8,7 +8,7 @@ laatste_update: 1964-11-13
 status: geldig
 toestand: 1964-11-13
 bron: "https://wetten.overheid.nl/BWBV0005533"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag betreffende de organisatie van de dienst voor de werkgelegenheid

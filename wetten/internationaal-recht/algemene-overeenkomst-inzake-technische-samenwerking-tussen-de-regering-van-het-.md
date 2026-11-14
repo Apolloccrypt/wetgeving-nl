@@ -8,7 +8,7 @@ laatste_update: 1954-04-21
 status: geldig
 toestand: 1954-04-21
 bron: "https://wetten.overheid.nl/BWBV0005153"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Algemene Overeenkomst inzake technische samenwerking tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika

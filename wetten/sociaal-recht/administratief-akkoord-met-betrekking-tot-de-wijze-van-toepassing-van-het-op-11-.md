@@ -8,7 +8,7 @@ laatste_update: 1979-04-01
 status: geldig
 toestand: 1979-04-01
 bron: "https://wetten.overheid.nl/BWBV0005013"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Administratief Akkoord met betrekking tot de wijze van toepassing van het op 11 mei 1977 te Belgrado ondertekende Verdrag inzake sociale zekerheid tussen het Koninkrijk der Nederlanden en de Socialistische Federatieve Republiek Joegoslavië

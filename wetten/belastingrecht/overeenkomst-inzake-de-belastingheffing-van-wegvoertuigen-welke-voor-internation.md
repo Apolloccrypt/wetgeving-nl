@@ -8,7 +8,7 @@ laatste_update: 1986-10-30
 status: geldig
 toestand: 1986-10-30
 bron: "https://wetten.overheid.nl/BWBV0005187"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst inzake de belastingheffing van wegvoertuigen welke voor internationaal vervoer van goederen worden gebezigd

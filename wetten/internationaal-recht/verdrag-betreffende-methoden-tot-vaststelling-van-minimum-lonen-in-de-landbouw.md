@@ -8,7 +8,7 @@ laatste_update: 1955-06-11
 status: geldig
 toestand: 1955-06-11
 bron: "https://wetten.overheid.nl/BWBV0004932"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Verdrag betreffende methoden tot vaststelling van minimum-lonen in de landbouw

@@ -8,7 +8,7 @@ laatste_update: 1963-05-18
 status: geldig
 toestand: 1963-05-18
 bron: "https://wetten.overheid.nl/BWBV0005370"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Italiaanse Republiek betreffende de erkenning en de tenuitvoerlegging van rechterlijke beslissingen in burgerlijke en handelszaken

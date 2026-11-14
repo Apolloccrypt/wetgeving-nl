@@ -8,7 +8,7 @@ laatste_update: 2016-11-17
 status: geldig
 toestand: 2016-11-17
 bron: "https://wetten.overheid.nl/BWBV0005631"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Protocol van Nagoya inzake toegang tot genetische rijkdommen en de eerlijke en billijke verdeling van voordelen voortvloeiende uit hun gebruik bij het Verdrag inzake biologische diversiteit

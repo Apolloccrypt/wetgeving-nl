@@ -8,7 +8,7 @@ laatste_update: 2016-04-01
 status: geldig
 toestand: 2016-04-01
 bron: "https://wetten.overheid.nl/BWBV0004972"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst inzake de oprichting van een Internationale Commissie voor de Internationale Opsporingsdienst

@@ -8,7 +8,7 @@ laatste_update: 1945-01-30
 status: geldig
 toestand: 1945-01-30
 bron: "https://wetten.overheid.nl/BWBV0005516"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst inzake de doortocht van internationale luchtdiensten

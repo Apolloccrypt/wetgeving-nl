@@ -7,7 +7,7 @@ laatste_update: 2010-04-30
 status: geldig
 toestand: 2010-04-30
 bron: "https://wetten.overheid.nl/BWBV0005133"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Protocol van 2010 bij het Internationaal Verdrag inzake aansprakelijkheid en vergoeding voor schade in verband met het vervoer over zee van gevaarlijke en schadelijke stoffen, 1996

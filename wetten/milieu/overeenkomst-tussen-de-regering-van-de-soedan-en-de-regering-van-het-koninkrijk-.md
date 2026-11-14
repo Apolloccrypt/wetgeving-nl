@@ -8,7 +8,7 @@ laatste_update: 1956-07-31
 status: geldig
 toestand: 1956-07-31
 bron: "https://wetten.overheid.nl/BWBV0005064"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst tussen de Regering van de Soedan en de Regering van het Koninkrijk der Nederlanden voor de instelling en het onderhouden van luchtdiensten tussen hun onderscheidene grondgebieden en verder gelegen punten

@@ -8,7 +8,7 @@ laatste_update: 1948-04-19
 status: geldig
 toestand: 1948-04-19
 bron: "https://wetten.overheid.nl/BWBV0005561"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag nopens de voorrechten en immuniteiten van de Verenigde Naties

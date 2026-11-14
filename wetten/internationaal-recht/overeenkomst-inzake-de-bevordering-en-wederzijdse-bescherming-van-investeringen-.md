@@ -8,7 +8,7 @@ laatste_update: 1991-07-01
 status: geldig
 toestand: 1991-07-01
 bron: "https://wetten.overheid.nl/BWBV0004766"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst inzake de bevordering en wederzijdse bescherming van investeringen tussen het Koninkrijk der Nederlanden en de Republiek Ghana

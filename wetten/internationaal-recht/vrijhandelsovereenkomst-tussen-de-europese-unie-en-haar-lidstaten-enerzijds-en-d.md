@@ -8,7 +8,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBV0005188"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Vrijhandelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Korea, anderzijds

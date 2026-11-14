@@ -8,7 +8,7 @@ laatste_update: 1952-10-19
 status: geldig
 toestand: 1952-10-19
 bron: "https://wetten.overheid.nl/BWBV0005415"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag nopens het wegverkeer

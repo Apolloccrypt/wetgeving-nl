@@ -8,7 +8,7 @@ laatste_update: 1976-11-21
 status: geldig
 toestand: 1976-11-21
 bron: "https://wetten.overheid.nl/BWBV0005158"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst inzake de internationale uitwisseling van publikaties

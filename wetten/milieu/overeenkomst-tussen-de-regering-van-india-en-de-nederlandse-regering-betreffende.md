@@ -8,7 +8,7 @@ laatste_update: 1993-12-01
 status: geldig
 toestand: 1993-12-01
 bron: "https://wetten.overheid.nl/BWBV0005014"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst tussen de Regering van India en de Nederlandse Regering betreffende luchtdiensten

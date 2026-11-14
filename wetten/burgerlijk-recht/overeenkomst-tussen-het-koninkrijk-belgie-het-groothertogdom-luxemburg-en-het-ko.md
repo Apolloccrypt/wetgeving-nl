@@ -8,7 +8,7 @@ laatste_update: 2014-04-01
 status: geldig
 toestand: 2014-04-01
 bron: "https://wetten.overheid.nl/BWBV0005360"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden (de Benelux-staten) en de Republiek Kosovo betreffende de terug- en overname van onregelmatig binnengekomen en/of verblijvende personen en haar Uitvoeringsprotocol

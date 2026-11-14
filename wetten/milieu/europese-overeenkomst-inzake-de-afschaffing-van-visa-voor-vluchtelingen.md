@@ -8,7 +8,7 @@ laatste_update: 1960-09-04
 status: geldig
 toestand: 1960-09-04
 bron: "https://wetten.overheid.nl/BWBV0005106"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Europese Overeenkomst inzake de afschaffing van visa voor vluchtelingen

@@ -8,7 +8,7 @@ laatste_update: 1952-09-22
 status: geldig
 toestand: 1952-09-22
 bron: "https://wetten.overheid.nl/BWBV0005380"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst tussen Nederland en Italië tot regeling van bepaalde kwesties betreffende de industriële eigendom welke voortvloeien uit maatregelen genomen uit hoofde van de oorlogstoestand

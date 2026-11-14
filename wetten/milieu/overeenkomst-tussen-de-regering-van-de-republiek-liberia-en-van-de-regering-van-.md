@@ -8,7 +8,7 @@ laatste_update: 1959-09-22
 status: geldig
 toestand: 1959-09-22
 bron: "https://wetten.overheid.nl/BWBV0005032"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst tussen de Regering van de Republiek Liberia en van de Regering van het Koninkrijk der Nederlanden inzake het vestigen en onderhouden van luchtdiensten tussen hun onderscheiden grondgebieden en verder gelegen punten

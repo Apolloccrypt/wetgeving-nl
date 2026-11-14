@@ -8,7 +8,7 @@ laatste_update: 1967-11-29
 status: geldig
 toestand: 1967-11-29
 bron: "https://wetten.overheid.nl/BWBV0004950"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Verdrag betreffende de beveiliging van werknemers tegen ioniserende stralen

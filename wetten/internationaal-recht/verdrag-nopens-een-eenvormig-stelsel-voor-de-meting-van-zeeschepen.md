@@ -8,7 +8,7 @@ laatste_update: 1964-02-01
 status: geldig
 toestand: 1964-02-01
 bron: "https://wetten.overheid.nl/BWBV0005524"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag nopens een eenvormig stelsel voor de meting van zeeschepen

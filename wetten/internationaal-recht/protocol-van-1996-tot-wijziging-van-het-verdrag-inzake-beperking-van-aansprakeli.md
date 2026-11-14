@@ -8,7 +8,7 @@ laatste_update: 2015-06-08
 status: geldig
 toestand: 2015-06-08
 bron: "https://wetten.overheid.nl/BWBV0005123"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Protocol van 1996 tot wijziging van het Verdrag inzake beperking van aansprakelijkheid voor maritieme vorderingen, 1976

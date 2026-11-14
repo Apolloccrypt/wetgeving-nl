@@ -8,7 +8,7 @@ laatste_update: 1952-07-22
 status: geldig
 toestand: 1952-07-22
 bron: "https://wetten.overheid.nl/BWBV0005171"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Notawisseling tussen de Nederlandse en de Zwitserse Regering betreffende beroepsmatig vervoer van personen langs de weg in internationaal regiem

@@ -8,7 +8,7 @@ laatste_update: 2019-07-01
 status: geldig
 toestand: 2019-07-01
 bron: "https://wetten.overheid.nl/BWBV0005625"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Administratief Akkoord met betrekking tot de wijze van toepassing van het op 18 november 1981 te 's-Gravenhage tussen het Koninkrijk der Nederlanden en de Republiek Kaapverdië ondertekende Verdrag inzake sociale zekerheid

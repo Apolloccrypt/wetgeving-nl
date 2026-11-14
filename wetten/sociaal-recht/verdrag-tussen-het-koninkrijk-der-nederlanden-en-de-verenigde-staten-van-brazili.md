@@ -8,7 +8,7 @@ laatste_update: 1964-04-30
 status: geldig
 toestand: 1964-04-30
 bron: "https://wetten.overheid.nl/BWBV0004993"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Brazilië betreffende kosteloze rechtsbijstand

@@ -8,7 +8,7 @@ laatste_update: 2014-04-23
 status: geldig
 toestand: 2014-04-23
 bron: "https://wetten.overheid.nl/BWBV0005349"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag van Athene inzake het vervoer van passagiers en hun bagage over zee, 2002

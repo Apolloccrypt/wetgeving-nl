@@ -9,7 +9,7 @@ laatste_update: 2026-11-04
 status: geldig
 toestand: 2026-11-04
 bron: "https://wetten.overheid.nl/BWBR0053109"
-opgehaald: 2026-11-13
+opgehaald: 2026-11-14
 ---
 
 # Besluit van het Stimuleringsfonds voor de Journalistiek van 2 september 2026, nr. INC004, tot vaststelling van een Oproep Jongeren en Journalistiek

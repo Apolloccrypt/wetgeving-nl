@@ -8,7 +8,7 @@ laatste_update: 1952-02-05
 status: geldig
 toestand: 1952-02-05
 bron: "https://wetten.overheid.nl/BWBV0005456"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Handelsovereenkomst tussen het Koninkrijk der Nederlanden en de Verenigde Mexicaanse Staten

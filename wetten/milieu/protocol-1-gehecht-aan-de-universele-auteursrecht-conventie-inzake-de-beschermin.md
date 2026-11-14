@@ -8,7 +8,7 @@ laatste_update: 1967-06-22
 status: geldig
 toestand: 1967-06-22
 bron: "https://wetten.overheid.nl/BWBV0005287"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Protocol 1 gehecht aan de Universele Auteursrecht-Conventie, inzake de bescherming van werken van staatlozen en vluchtelingen

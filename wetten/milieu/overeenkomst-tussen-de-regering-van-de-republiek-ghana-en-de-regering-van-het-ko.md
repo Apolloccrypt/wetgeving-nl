@@ -8,7 +8,7 @@ laatste_update: 1963-07-23
 status: geldig
 toestand: 1963-07-23
 bron: "https://wetten.overheid.nl/BWBV0005011"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst tussen de Regering van de Republiek Ghana en de Regering van het Koninkrijk der Nederlanden voor luchtdiensten tussen en via hun onderscheidene grondgebieden

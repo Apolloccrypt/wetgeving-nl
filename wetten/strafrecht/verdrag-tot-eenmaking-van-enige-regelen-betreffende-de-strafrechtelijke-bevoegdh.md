@@ -8,7 +8,7 @@ laatste_update: 1971-12-27
 status: geldig
 toestand: 1971-12-27
 bron: "https://wetten.overheid.nl/BWBV0005145"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag tot eenmaking van enige regelen betreffende de strafrechtelijke bevoegdheid in zaken van aanvaring en andere scheepvaartongevallen

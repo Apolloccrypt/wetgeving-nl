@@ -8,7 +8,7 @@ laatste_update: 1951-06-29
 status: geldig
 toestand: 1951-06-29
 bron: "https://wetten.overheid.nl/BWBV0004904"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Handelsovereenkomst tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland

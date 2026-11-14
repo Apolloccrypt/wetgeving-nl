@@ -8,7 +8,7 @@ laatste_update: 1960-01-03
 status: geldig
 toestand: 1960-01-03
 bron: "https://wetten.overheid.nl/BWBV0004927"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst inzake kosteloze afgifte en vrijstelling van legalisatie van afschriften en uittreksels van akten van de burgerlijke stand

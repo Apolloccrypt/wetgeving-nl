@@ -9,7 +9,7 @@ laatste_update: 2026-11-06
 status: geldig
 toestand: 2026-11-06
 bron: "https://wetten.overheid.nl/BWBR0012681"
-opgehaald: 2026-11-13
+opgehaald: 2026-11-14
 ---
 
 # Besluit gespen Herinneringsmedaille Vredesoperaties

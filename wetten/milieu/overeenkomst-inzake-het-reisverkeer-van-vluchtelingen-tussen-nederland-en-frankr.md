@@ -8,7 +8,7 @@ laatste_update: 1957-05-28
 status: geldig
 toestand: 1957-05-28
 bron: "https://wetten.overheid.nl/BWBV0005084"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst inzake het reisverkeer van vluchtelingen tussen Nederland en Frankrijk

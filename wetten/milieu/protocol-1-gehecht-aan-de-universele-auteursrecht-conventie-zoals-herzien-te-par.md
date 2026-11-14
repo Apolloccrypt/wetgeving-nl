@@ -8,7 +8,7 @@ laatste_update: 1985-11-30
 status: geldig
 toestand: 1985-11-30
 bron: "https://wetten.overheid.nl/BWBV0004801"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Protocol 1, gehecht aan de Universele Auteursrecht-Conventie, zoals herzien te Parijs op 24 juli 1971, inzake de bescherming van werken van staatlozen en vluchtelingen

@@ -8,7 +8,7 @@ laatste_update: 1999-09-25
 status: geldig
 toestand: 1999-09-25
 bron: "https://wetten.overheid.nl/BWBV0004971"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Aanvullend Protocol bij het Verdrag inzake het verbod of de beperking van het gebruik van bepaalde conventionele wapens die geacht kunnen worden buitensporig leed te veroorzaken of een niet-onderscheidende werking te hebben

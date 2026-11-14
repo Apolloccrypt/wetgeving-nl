@@ -8,7 +8,7 @@ laatste_update: 1956-07-11
 status: geldig
 toestand: 1956-07-11
 bron: "https://wetten.overheid.nl/BWBV0005552"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Aanvullend Protocol bij het Algemeen Verdrag nopens de voorrechten en immuniteiten van de Raad van Europa

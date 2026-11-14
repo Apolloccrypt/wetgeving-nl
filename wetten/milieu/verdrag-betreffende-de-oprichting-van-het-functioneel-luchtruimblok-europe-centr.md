@@ -8,7 +8,7 @@ laatste_update: 2013-06-01
 status: geldig
 toestand: 2013-06-01
 bron: "https://wetten.overheid.nl/BWBV0004999"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Verdrag betreffende de oprichting van het functioneel luchtruimblok „Europe Central” tussen de Bondsrepubliek Duitsland, het Koninkrijk België, de Republiek Frankrijk, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden en de Zwitserse Bondsstaat

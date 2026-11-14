@@ -8,7 +8,7 @@ laatste_update: 1958-05-06
 status: geldig
 toestand: 1958-05-06
 bron: "https://wetten.overheid.nl/BWBV0005221"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Zweden betreffende het wegvervoer

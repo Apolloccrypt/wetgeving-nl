@@ -8,7 +8,7 @@ laatste_update: 1955-07-12
 status: geldig
 toestand: 1955-07-12
 bron: "https://wetten.overheid.nl/BWBV0005329"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Notawisseling tussen de Nederlandse en de Franse Regering houdende een overeenkomst tot regeling van oorlogs- en watersnoodschade

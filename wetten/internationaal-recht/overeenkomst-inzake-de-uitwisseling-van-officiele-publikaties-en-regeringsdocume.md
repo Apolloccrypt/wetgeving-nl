@@ -8,7 +8,7 @@ laatste_update: 1976-11-21
 status: geldig
 toestand: 1976-11-21
 bron: "https://wetten.overheid.nl/BWBV0005159"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst inzake de uitwisseling van officiële publikaties en regeringsdocumenten tussen Staten

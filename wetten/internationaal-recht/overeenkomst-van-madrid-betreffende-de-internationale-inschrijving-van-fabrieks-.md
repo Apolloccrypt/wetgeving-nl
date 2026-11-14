@@ -8,7 +8,7 @@ laatste_update: 1966-12-15
 status: geldig
 toestand: 1966-12-15
 bron: "https://wetten.overheid.nl/BWBV0005052"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst van Madrid betreffende de internationale inschrijving van fabrieks- of handelsmerken

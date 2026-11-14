@@ -8,7 +8,7 @@ laatste_update: 1978-05-13
 status: geldig
 toestand: 1978-05-13
 bron: "https://wetten.overheid.nl/BWBV0004846"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Aanvullend Protocol bij de Europese Overeenkomst inzake de uitwisseling van reagentia voor weefseltypering

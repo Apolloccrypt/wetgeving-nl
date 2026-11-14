@@ -8,7 +8,7 @@ laatste_update: 1998-06-05
 status: geldig
 toestand: 1998-06-05
 bron: "https://wetten.overheid.nl/BWBV0005381"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Aanvullende Overeenkomst bij het Verdrag tussen de Staten die partij zijn bij het Noordatlantische Verdrag nopens de rechtspositie van hun krijgsmachten, met betrekking tot de in de Bondsrepubliek Duitsland gestationeerde buitenlandse krijgsmachten

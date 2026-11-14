@@ -8,7 +8,7 @@ laatste_update: 2012-03-01
 status: geldig
 toestand: 2012-03-01
 bron: "https://wetten.overheid.nl/BWBV0005212"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en de Eastern Africa Standby Brigade Coordination Mechanism (EASBRICOM) betreffende de samenwerking ter ondersteuning van de Eastern Africa Standby Force

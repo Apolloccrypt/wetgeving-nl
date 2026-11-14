@@ -8,7 +8,7 @@ laatste_update: 1959-08-20
 status: geldig
 toestand: 1959-08-20
 bron: "https://wetten.overheid.nl/BWBV0005113"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst tussen de Noorse Regering en de Nederlandse Regering betreffende schadeloosstelling voor: 1. bepaalde Noorse obligaties, door Nederlandse eigenaars tijdens de Tweede Wereldoorlog verloren; 2. oorlogsschade, toegebracht aan het Scandinavisch Zeemanshuis te Rotterdam

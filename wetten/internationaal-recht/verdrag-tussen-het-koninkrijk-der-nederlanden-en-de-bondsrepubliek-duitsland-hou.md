@@ -8,7 +8,7 @@ laatste_update: 1961-11-25
 status: geldig
 toestand: 1961-11-25
 bron: "https://wetten.overheid.nl/BWBV0005144"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland houdende vaststelling van een ontginningsgrens voor oostelijk van de Nederlands-Duitse landsgrens gelegen steenkolenvelden

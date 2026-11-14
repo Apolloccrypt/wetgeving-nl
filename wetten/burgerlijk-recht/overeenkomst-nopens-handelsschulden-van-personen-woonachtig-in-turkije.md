@@ -8,7 +8,7 @@ laatste_update: 1962-11-16
 status: geldig
 toestand: 1962-11-16
 bron: "https://wetten.overheid.nl/BWBV0004907"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Overeenkomst nopens handelsschulden van personen woonachtig in Turkije

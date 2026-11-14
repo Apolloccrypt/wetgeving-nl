@@ -8,7 +8,7 @@ laatste_update: 2015-06-24
 status: geldig
 toestand: 2015-06-24
 bron: "https://wetten.overheid.nl/BWBV0004804"
-opgehaald: 2026-09-14
+opgehaald: 2026-11-14
 ---
 
 # Europese Overeenkomst nopens het verkeer van personen tussen de Lid-Staten van de Raad van Europa

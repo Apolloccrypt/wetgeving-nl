@@ -8,7 +8,7 @@ laatste_update: 1952-01-09
 status: geldig
 toestand: 1952-01-09
 bron: "https://wetten.overheid.nl/BWBV0005306"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-14
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Zwitserse Bondsstaat ter voorkoming van dubbele belasting op het gebied van successiebelastingen

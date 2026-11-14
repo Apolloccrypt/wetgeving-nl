@@ -9,7 +9,7 @@ laatste_update: 2026-11-11
 status: geldig
 toestand: 2026-11-11
 bron: "https://wetten.overheid.nl/BWBR0052677"
-opgehaald: 2026-11-13
+opgehaald: 2026-11-14
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 1 juni 2026, nr. 2025-0000281091, tot vaststelling van de Rijksbijdrage in de kosten van heffingskortingen en voor het Ouderdomsfonds 2026 [KetenID WGK028576]
