@@ -8,7 +8,7 @@ laatste_update: 2017-03-19
 status: geldig
 toestand: 2017-03-19
 bron: "https://wetten.overheid.nl/BWBV0006593"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Aruba, en de Verenigde Staten van Amerika inzake de veiligheid van de burgerluchtvaart voor voorinspectie-operaties op de internationale luchthaven Koningin Beatrix in Aruba

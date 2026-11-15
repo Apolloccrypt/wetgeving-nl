@@ -7,7 +7,7 @@ laatste_update: 1998-01-12
 status: geldig
 toestand: 1998-01-12
 bron: "https://wetten.overheid.nl/BWBV0006340"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Aanvullend Protocol bij het Verdrag inzake de bescherming van de mensenrechten en de waardigheid van de mens met betrekking tot de toepassing van de biologie en de geneeskunde betreffende het verbod van klonen van mensen

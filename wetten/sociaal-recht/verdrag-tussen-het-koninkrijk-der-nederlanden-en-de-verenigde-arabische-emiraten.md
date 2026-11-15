@@ -8,7 +8,7 @@ laatste_update: 2017-12-01
 status: geldig
 toestand: 2017-12-01
 bron: "https://wetten.overheid.nl/BWBV0006527"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Arabische Emiraten inzake wederzijdse administratieve bijstand in douanezaken

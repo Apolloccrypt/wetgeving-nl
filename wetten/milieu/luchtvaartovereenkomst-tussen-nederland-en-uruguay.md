@@ -7,7 +7,7 @@ laatste_update: 1947-05-12
 status: geldig
 toestand: 1947-05-12
 bron: "https://wetten.overheid.nl/BWBV0005779"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Luchtvaartovereenkomst tussen Nederland en Uruguay

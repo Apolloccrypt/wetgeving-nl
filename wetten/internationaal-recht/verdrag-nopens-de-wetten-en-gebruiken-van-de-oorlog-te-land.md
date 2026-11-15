@@ -8,7 +8,7 @@ laatste_update: 1910-01-26
 status: geldig
 toestand: 1910-01-26
 bron: "https://wetten.overheid.nl/BWBV0006273"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag nopens de wetten en gebruiken van de oorlog te land

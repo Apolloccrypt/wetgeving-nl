@@ -8,7 +8,7 @@ laatste_update: 2013-10-01
 status: geldig
 toestand: 2013-10-01
 bron: "https://wetten.overheid.nl/BWBV0005663"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake samenwerking bij de bestrijding van grensoverschrijdende fraude met socialezekerheidsuitkeringen en -premies door arbeid en met basisuitkeringen ten gunste van werkzoekenden alsmede met niet-aangemelde werkzaamheden en illegaal grensoverschrijdend uitzendwerk (Nederlands-Duits Verdrag tot bestrijding van grensoverschrijdende zwarte arbeid)

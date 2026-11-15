@@ -8,7 +8,7 @@ laatste_update: 1949-02-03
 status: geldig
 toestand: 1949-02-03
 bron: "https://wetten.overheid.nl/BWBV0005831"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Aanvullend Protocol bij de op 5 december 1947 te Brussel gesloten Overeenkomst betreffende onderling strijdige aanspraken op buiten Duitsland gelegen Duitse bezittingen, ondertekend te Brussel op 3 februari 1949

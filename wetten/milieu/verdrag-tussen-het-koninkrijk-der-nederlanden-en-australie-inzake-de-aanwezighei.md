@@ -8,7 +8,7 @@ laatste_update: 2019-06-28
 status: geldig
 toestand: 2019-06-28
 bron: "https://wetten.overheid.nl/BWBV0006377"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en Australië inzake de aanwezigheid van Australisch overheidspersoneel in Nederland ten behoeve van de reactie op het neerhalen van vlucht MH17 van Malaysia Airlines

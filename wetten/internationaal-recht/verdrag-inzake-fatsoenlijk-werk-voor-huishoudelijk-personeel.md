@@ -7,7 +7,7 @@ laatste_update: 2011-06-16
 status: geldig
 toestand: 2011-06-16
 bron: "https://wetten.overheid.nl/BWBV0005977"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Verdrag inzake fatsoenlijk werk voor huishoudelijk personeel

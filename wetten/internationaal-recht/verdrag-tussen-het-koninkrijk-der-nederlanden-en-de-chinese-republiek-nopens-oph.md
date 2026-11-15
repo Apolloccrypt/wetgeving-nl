@@ -8,7 +8,7 @@ laatste_update: 1945-12-05
 status: geldig
 toestand: 1945-12-05
 bron: "https://wetten.overheid.nl/BWBV0006522"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Chinese Republiek nopens opheffing van exterritoriale rechten in China en regeling van aanverwante zaken

@@ -8,7 +8,7 @@ laatste_update: 2018-01-04
 status: geldig
 toestand: 2018-01-04
 bron: "https://wetten.overheid.nl/BWBV0006052"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Administratief Akkoord tussen de Nederlandse Minister voor Europese Zaken en Ontwikkelingssamenwerking en de Afdeling Economische Betrekkingen van het Ministerie van Financiën van de Volksrepubliek Bangladesh inzake het project "Char Development and Settlement Project IV (CDSP IV)"

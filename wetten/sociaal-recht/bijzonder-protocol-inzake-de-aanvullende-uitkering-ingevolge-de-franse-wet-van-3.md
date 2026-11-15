@@ -8,7 +8,7 @@ laatste_update: 1958-12-01
 status: geldig
 toestand: 1958-12-01
 bron: "https://wetten.overheid.nl/BWBV0005687"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Bijzonder Protocol inzake de aanvullende uitkering ingevolge de Franse wet van 30 juni 1956 houdende instelling van een “Fonds National de Solidarité”

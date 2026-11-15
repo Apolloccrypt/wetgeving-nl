@@ -8,7 +8,7 @@ laatste_update: 1867-05-31
 status: geldig
 toestand: 1867-05-31
 bron: "https://wetten.overheid.nl/BWBV0006094"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tot herziening van het Tractaat van 19 april 1839, voor zoveel het Luxemburg betreft

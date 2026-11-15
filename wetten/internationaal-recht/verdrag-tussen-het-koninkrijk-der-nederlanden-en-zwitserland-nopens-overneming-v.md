@@ -8,7 +8,7 @@ laatste_update: 1912-01-03
 status: geldig
 toestand: 1912-01-03
 bron: "https://wetten.overheid.nl/BWBV0006135"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en Zwitserland nopens overneming van onderdanen en oud-onderdanen

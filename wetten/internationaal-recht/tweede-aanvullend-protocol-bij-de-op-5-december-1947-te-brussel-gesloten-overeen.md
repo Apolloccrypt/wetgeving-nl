@@ -8,7 +8,7 @@ laatste_update: 1950-05-10
 status: geldig
 toestand: 1950-05-10
 bron: "https://wetten.overheid.nl/BWBV0005833"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Tweede Aanvullend Protocol bij de op 5 december 1947 te Brussel gesloten Overeenkomst betreffende onderling strijdige aanspraken op buiten Duitsland gelegen Duitse bezittingen, en bij het op 3 februari 1949 te Brussel gesloten Aanvullende Protocol bij de Overeenkomst, ondertekend te Brussel op 10 mei 1950

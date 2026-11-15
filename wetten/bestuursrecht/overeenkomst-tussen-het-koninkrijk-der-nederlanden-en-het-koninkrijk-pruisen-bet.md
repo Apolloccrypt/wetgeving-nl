@@ -8,7 +8,7 @@ laatste_update: 1880-11-26
 status: geldig
 toestand: 1880-11-26
 bron: "https://wetten.overheid.nl/BWBV0006069"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Pruisen betreffende de grensscheiding tussen de beide Rijken onder de gemeenten Winterswijk van Nederlandse zijde en Barlo van Pruisische zijde

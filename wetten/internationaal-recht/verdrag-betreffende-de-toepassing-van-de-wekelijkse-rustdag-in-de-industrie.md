@@ -8,7 +8,7 @@ laatste_update: 1965-07-14
 status: geldig
 toestand: 1965-07-14
 bron: "https://wetten.overheid.nl/BWBV0006190"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag betreffende de toepassing van de wekelijkse rustdag in de industrie

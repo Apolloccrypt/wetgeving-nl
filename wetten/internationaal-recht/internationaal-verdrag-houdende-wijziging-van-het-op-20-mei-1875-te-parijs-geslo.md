@@ -8,7 +8,7 @@ laatste_update: 1929-01-01
 status: geldig
 toestand: 1929-01-01
 bron: "https://wetten.overheid.nl/BWBV0006253"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Internationaal Verdrag houdende wijziging van het op 20 mei 1875 te Parijs gesloten Verdrag ter verzekering van de internationale eenheid en de volmaking van het Metrieke stelsel en van het bij dat Verdrag behorende Reglement

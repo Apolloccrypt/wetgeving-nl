@@ -7,7 +7,7 @@ laatste_update: 1996-09-30
 status: geldig
 toestand: 1996-09-30
 bron: "https://wetten.overheid.nl/BWBV0006333"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Zuid-Afrika inzake samenwerking op het gebied van onderwijs en wetenschappen, kunst en cultuur, gezondheid, welzijn en sport

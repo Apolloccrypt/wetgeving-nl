@@ -8,7 +8,7 @@ laatste_update: 1927-11-25
 status: geldig
 toestand: 1927-11-25
 bron: "https://wetten.overheid.nl/BWBV0006150"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk België tot regeling der wederkerige uitlevering van misdadigers

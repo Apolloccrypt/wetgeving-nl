@@ -8,7 +8,7 @@ laatste_update: 1962-02-02
 status: geldig
 toestand: 1962-02-02
 bron: "https://wetten.overheid.nl/BWBV0006556"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Handelsovereenkomst tussen het Koninkrijk der Nederlanden, het Koninkrijk België en het Groothertogdom Luxemburg, enerzijds, en het Koninkrijk Marokko, anderzijds

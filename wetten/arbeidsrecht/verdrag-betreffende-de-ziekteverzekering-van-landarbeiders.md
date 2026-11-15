@@ -8,7 +8,7 @@ laatste_update: 1966-02-13
 status: geldig
 toestand: 1966-02-13
 bron: "https://wetten.overheid.nl/BWBV0006207"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag betreffende de ziekteverzekering van landarbeiders

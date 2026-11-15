@@ -8,7 +8,7 @@ laatste_update: 2018-06-08
 status: geldig
 toestand: 2018-06-08
 bron: "https://wetten.overheid.nl/BWBV0006558"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag betreffende de voorkoming en de beperking van de beroepsrisico’s veroorzaakt door kankerverwekkende stoffen en factoren die dit proces beïnvloeden

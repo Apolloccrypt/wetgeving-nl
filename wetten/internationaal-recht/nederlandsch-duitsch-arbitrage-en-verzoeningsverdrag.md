@@ -8,7 +8,7 @@ laatste_update: 1952-01-31
 status: geldig
 toestand: 1952-01-31
 bron: "https://wetten.overheid.nl/BWBV0005912"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Nederlandsch-Duitsch Arbitrage- en Verzoeningsverdrag

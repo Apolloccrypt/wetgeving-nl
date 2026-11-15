@@ -8,7 +8,7 @@ laatste_update: 1947-03-19
 status: geldig
 toestand: 1947-03-19
 bron: "https://wetten.overheid.nl/BWBV0006251"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Overeenkomst houdende instelling, te Parijs, van een Internationaal Wijnbureau

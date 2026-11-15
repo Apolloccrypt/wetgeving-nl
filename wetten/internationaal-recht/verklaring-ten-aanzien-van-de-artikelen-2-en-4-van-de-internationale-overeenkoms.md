@@ -8,7 +8,7 @@ laatste_update: 1888-05-01
 status: geldig
 toestand: 1888-05-01
 bron: "https://wetten.overheid.nl/BWBV0006502"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verklaring ten aanzien van de artikelen 2 en 4 van de internationale Overeenkomst van 14 maart 1884 tot bescherming der onderzeese telegraafkabels

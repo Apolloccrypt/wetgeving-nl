@@ -8,7 +8,7 @@ laatste_update: 2014-05-31
 status: geldig
 toestand: 2014-05-31
 bron: "https://wetten.overheid.nl/BWBV0006297"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Aruba, en de Republiek Argentinië inzake de uitwisseling van informatie betreffende belastingen

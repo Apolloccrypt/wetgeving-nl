@@ -8,7 +8,7 @@ laatste_update: 1908-07-02
 status: geldig
 toestand: 1908-07-02
 bron: "https://wetten.overheid.nl/BWBV0006265"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Noordzeeverklaring tussen het Koninkrijk der Nederlanden en Duitsland, Denemarken, Frankrijk, Groot-Brittannië en Zweden

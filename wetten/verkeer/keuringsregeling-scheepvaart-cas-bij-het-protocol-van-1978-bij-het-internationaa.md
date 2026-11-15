@@ -8,7 +8,7 @@ laatste_update: 2014-10-01
 status: geldig
 toestand: 2014-10-01
 bron: "https://wetten.overheid.nl/BWBV0006313"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Keuringsregeling scheepvaart (CAS) bij het Protocol van 1978 bij het Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973 (Keuringsregeling scheepvaart (CAS))

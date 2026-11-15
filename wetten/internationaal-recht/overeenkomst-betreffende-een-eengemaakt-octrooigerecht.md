@@ -8,7 +8,7 @@ laatste_update: 2023-06-26
 status: geldig
 toestand: 2023-06-26
 bron: "https://wetten.overheid.nl/BWBV0006168"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Overeenkomst betreffende een eengemaakt octrooigerecht

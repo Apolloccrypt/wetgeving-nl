@@ -8,7 +8,7 @@ laatste_update: 2016-06-01
 status: geldig
 toestand: 2016-06-01
 bron: "https://wetten.overheid.nl/BWBV0006060"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek ten Oosten van de Uruguay inzake de uitwisseling van informatie betreffende belastingzaken

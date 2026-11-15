@@ -8,7 +8,7 @@ laatste_update: 1925-10-28
 status: geldig
 toestand: 1925-10-28
 bron: "https://wetten.overheid.nl/BWBV0005947"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Handelsverdrag tussen Nederland en Canada

@@ -8,7 +8,7 @@ laatste_update: 1939-12-16
 status: geldig
 toestand: 1939-12-16
 bron: "https://wetten.overheid.nl/BWBV0006518"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Duitse Rijk houdende vaststelling van een ontginningsgrens voor de aan beide zijden van de grens langs de Worm gelegen steenkolenmijnen

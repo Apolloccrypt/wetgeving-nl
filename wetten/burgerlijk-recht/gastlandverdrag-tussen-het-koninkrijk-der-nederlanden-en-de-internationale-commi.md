@@ -8,7 +8,7 @@ laatste_update: 2017-04-12
 status: geldig
 toestand: 2017-04-12
 bron: "https://wetten.overheid.nl/BWBV0006549"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Gastlandverdrag tussen het Koninkrijk der Nederlanden en de Internationale Commissie voor Vermiste Personen

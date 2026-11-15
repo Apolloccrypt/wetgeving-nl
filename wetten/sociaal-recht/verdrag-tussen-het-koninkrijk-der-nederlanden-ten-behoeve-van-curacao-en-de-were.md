@@ -8,7 +8,7 @@ laatste_update: 2014-04-03
 status: geldig
 toestand: 2014-04-03
 bron: "https://wetten.overheid.nl/BWBV0006126"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Curaçao, en de Wereld Meteorologische Organisatie, betreffende de maatregelen voor de zestiende zitting van de WMO Regional Association IV (Noord-Amerika, Centraal Amerika en de Caraïben)

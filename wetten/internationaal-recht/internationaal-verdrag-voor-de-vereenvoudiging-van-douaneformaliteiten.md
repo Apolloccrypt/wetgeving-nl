@@ -8,7 +8,7 @@ laatste_update: 1925-08-28
 status: geldig
 toestand: 1925-08-28
 bron: "https://wetten.overheid.nl/BWBV0006239"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Internationaal Verdrag voor de vereenvoudiging van douaneformaliteiten

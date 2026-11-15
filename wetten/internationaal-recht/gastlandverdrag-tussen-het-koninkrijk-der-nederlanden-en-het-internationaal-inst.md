@@ -8,7 +8,7 @@ laatste_update: 2012-09-01
 status: geldig
 toestand: 2012-09-01
 bron: "https://wetten.overheid.nl/BWBV0005877"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Gastlandverdrag tussen het Koninkrijk der Nederlanden en het Internationaal Instituut voor Democratie en Verkiezingsondersteuning inzake de immuniteit en privileges van het Internationaal Instituut voor Democratie en Verkiezingsondersteuning en zijn functionarissen

@@ -8,7 +8,7 @@ laatste_update: 1931-02-26
 status: geldig
 toestand: 1931-02-26
 bron: "https://wetten.overheid.nl/BWBV0005981"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tussen Nederland en Polen tot beslechting van geschillen door rechtspraak, arbitrage en verzoening

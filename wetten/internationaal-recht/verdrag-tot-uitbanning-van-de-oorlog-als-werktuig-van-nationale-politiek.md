@@ -8,7 +8,7 @@ laatste_update: 1929-07-24
 status: geldig
 toestand: 1929-07-24
 bron: "https://wetten.overheid.nl/BWBV0006249"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tot uitbanning van de oorlog als werktuig van nationale politiek

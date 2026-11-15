@@ -8,7 +8,7 @@ laatste_update: 1951-02-28
 status: geldig
 toestand: 1951-02-28
 bron: "https://wetten.overheid.nl/BWBV0005735"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Aanvullende Overeenkomst op het Nederlands-Tsjechoslowaakse Handelsverdrag van 20 januari 1923

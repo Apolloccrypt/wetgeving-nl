@@ -8,7 +8,7 @@ laatste_update: 2011-12-13
 status: geldig
 toestand: 2011-12-13
 bron: "https://wetten.overheid.nl/BWBV0006584"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Aanvullende Akte bij de Overeenkomst van 's-Gravenhage van 6 november 1925 betreffende het internationaal depot van tekeningen of modellen van nijverheid, herzien te Londen op 2 juni 1934

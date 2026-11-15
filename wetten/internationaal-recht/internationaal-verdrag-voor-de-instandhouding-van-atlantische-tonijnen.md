@@ -8,7 +8,7 @@ laatste_update: 2014-02-06
 status: geldig
 toestand: 2014-02-06
 bron: "https://wetten.overheid.nl/BWBV0006284"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Internationaal Verdrag voor de instandhouding van Atlantische tonijnen

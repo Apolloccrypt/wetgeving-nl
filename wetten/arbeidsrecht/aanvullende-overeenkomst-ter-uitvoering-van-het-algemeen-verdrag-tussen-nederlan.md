@@ -8,7 +8,7 @@ laatste_update: 1954-06-01
 status: geldig
 toestand: 1954-06-01
 bron: "https://wetten.overheid.nl/BWBV0005809"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Aanvullende Overeenkomst ter uitvoering van het Algemeen Verdrag tussen Nederland en Frankrijk inzake de sociale zekerheid (Stelsel van Sociale Zekerheid van toepassing op arbeiders in de mijnen en daarmede gelijkgestelde ondernemingen)

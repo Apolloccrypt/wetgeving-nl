@@ -8,7 +8,7 @@ laatste_update: 2004-09-13
 status: geldig
 toestand: 2004-09-13
 bron: "https://wetten.overheid.nl/BWBV0006401"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Aruba, en de Verenigde Staten van Amerika inzake de uitwisseling van informatie met betrekking tot belastingen

@@ -8,7 +8,7 @@ laatste_update: 2009-05-01
 status: geldig
 toestand: 2009-05-01
 bron: "https://wetten.overheid.nl/BWBV0006153"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Prinsdom Monaco tot wederzijdse uitlevering van misdadigers

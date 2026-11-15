@@ -8,7 +8,7 @@ laatste_update: 1963-01-17
 status: geldig
 toestand: 1963-01-17
 bron: "https://wetten.overheid.nl/BWBV0005668"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Internationaal Verdrag tot bescherming van vogels

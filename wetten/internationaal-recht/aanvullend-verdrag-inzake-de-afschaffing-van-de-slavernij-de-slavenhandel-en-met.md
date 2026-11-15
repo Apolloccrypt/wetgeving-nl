@@ -8,7 +8,7 @@ laatste_update: 1957-12-03
 status: geldig
 toestand: 1957-12-03
 bron: "https://wetten.overheid.nl/BWBV0006246"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Aanvullend Verdrag inzake de afschaffing van de slavernij, de slavenhandel en met slavernij gelijk te stellen instellingen en praktijken

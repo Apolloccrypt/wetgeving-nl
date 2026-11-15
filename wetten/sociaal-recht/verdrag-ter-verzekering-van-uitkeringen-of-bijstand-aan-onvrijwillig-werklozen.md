@@ -8,7 +8,7 @@ laatste_update: 1967-01-17
 status: geldig
 toestand: 1967-01-17
 bron: "https://wetten.overheid.nl/BWBV0006226"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag ter verzekering van uitkeringen of bijstand aan onvrijwillig werklozen

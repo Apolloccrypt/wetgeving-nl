@@ -8,7 +8,7 @@ laatste_update: 1975-09-03
 status: geldig
 toestand: 1975-09-03
 bron: "https://wetten.overheid.nl/BWBV0006047"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk België, ter regeling der voorwaarden voor de bouw en het onderhoud van een brug over de Maas bij Maaseyk

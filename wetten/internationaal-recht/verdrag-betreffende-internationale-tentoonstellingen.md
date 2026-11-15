@@ -8,7 +8,7 @@ laatste_update: 1996-07-19
 status: geldig
 toestand: 1996-07-19
 bron: "https://wetten.overheid.nl/BWBV0006193"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag betreffende internationale tentoonstellingen

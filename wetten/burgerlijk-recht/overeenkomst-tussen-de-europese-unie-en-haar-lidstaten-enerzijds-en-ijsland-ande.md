@@ -8,7 +8,7 @@ laatste_update: 2018-11-27
 status: geldig
 toestand: 2018-11-27
 bron: "https://wetten.overheid.nl/BWBV0006503"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Overeenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en IJsland, anderzijds, betreffende de deelname van IJsland aan de gezamenlijke nakoming van de verbintenissen van de Unie, haar lidstaten en IJsland voor de tweede verbintenisperiode van het Protocol van Kyoto bij het Raamverdrag van de Verenigde Naties inzake klimaatverandering

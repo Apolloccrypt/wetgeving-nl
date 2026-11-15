@@ -8,7 +8,7 @@ laatste_update: 2020-08-02
 status: geldig
 toestand: 2020-08-02
 bron: "https://wetten.overheid.nl/BWBV0006607"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Protocol tot wijziging van de Euro-mediterrane Luchtvaartovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en het Hasjemitisch Koninkrijk Jordanië, anderzijds, teneinde rekening te houden met de toetreding van de Republiek Kroatië tot de Europese Unie

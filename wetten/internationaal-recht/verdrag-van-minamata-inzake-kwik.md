@@ -8,7 +8,7 @@ laatste_update: 2025-04-25
 status: geldig
 toestand: 2025-04-25
 bron: "https://wetten.overheid.nl/BWBV0006298"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag van Minamata inzake kwik

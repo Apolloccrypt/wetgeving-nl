@@ -8,7 +8,7 @@ laatste_update: 1937-07-01
 status: geldig
 toestand: 1937-07-01
 bron: "https://wetten.overheid.nl/BWBV0006240"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag nopens zekere vragen betreffende wetsconflicten inzake nationaliteit

@@ -8,7 +8,7 @@ laatste_update: 1931-08-01
 status: geldig
 toestand: 1931-08-01
 bron: "https://wetten.overheid.nl/BWBV0006272"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Berner Conventie tot bescherming van letterkundige en kunstwerken van 9 september 1886, herzien te Berlijn op 13 november 1908 en te Rome op 2 juni 1928

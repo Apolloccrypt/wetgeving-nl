@@ -8,7 +8,7 @@ laatste_update: 2012-06-01
 status: geldig
 toestand: 2012-06-01
 bron: "https://wetten.overheid.nl/BWBV0005856"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tussen het Koninkrijk Spanje, de Franse Republiek, de Italiaanse Republiek, het Koninkrijk der Nederlanden en de Portugese Republiek tot oprichting van het Europees Gendarmeriekorps EUROGENDFOR

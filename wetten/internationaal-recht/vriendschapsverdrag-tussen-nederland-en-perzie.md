@@ -8,7 +8,7 @@ laatste_update: 1931-01-17
 status: geldig
 toestand: 1931-01-17
 bron: "https://wetten.overheid.nl/BWBV0006001"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Vriendschapsverdrag tussen Nederland en Perzië

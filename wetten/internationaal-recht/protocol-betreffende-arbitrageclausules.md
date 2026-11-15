@@ -8,7 +8,7 @@ laatste_update: 1925-09-21
 status: geldig
 toestand: 1925-09-21
 bron: "https://wetten.overheid.nl/BWBV0006268"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Protocol betreffende arbitrageclausules

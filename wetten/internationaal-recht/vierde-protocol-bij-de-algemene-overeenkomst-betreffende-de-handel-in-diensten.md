@@ -8,7 +8,7 @@ laatste_update: 1998-02-05
 status: geldig
 toestand: 1998-02-05
 bron: "https://wetten.overheid.nl/BWBV0005855"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Vierde Protocol bij de Algemene Overeenkomst betreffende de handel in diensten

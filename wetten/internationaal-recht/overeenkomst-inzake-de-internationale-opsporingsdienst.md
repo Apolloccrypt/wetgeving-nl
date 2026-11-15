@@ -8,7 +8,7 @@ laatste_update: 2016-04-01
 status: geldig
 toestand: 2016-04-01
 bron: "https://wetten.overheid.nl/BWBV0005658"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Overeenkomst inzake de Internationale Opsporingsdienst

@@ -8,7 +8,7 @@ laatste_update: 1993-03-26
 status: geldig
 toestand: 1993-03-26
 bron: "https://wetten.overheid.nl/BWBV0006261"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Statuut van het Internationaal Instituut voor de Eenmaking van het Privaatrecht

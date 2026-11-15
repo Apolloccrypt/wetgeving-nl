@@ -8,7 +8,7 @@ laatste_update: 2016-05-30
 status: geldig
 toestand: 2016-05-30
 bron: "https://wetten.overheid.nl/BWBV0006594"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag betreffende de vestiging van het Galileo-referentiecentrum tussen het Koninkrijk der Nederlanden, de Europese Commissie en het Europese GNSS-Agentschap

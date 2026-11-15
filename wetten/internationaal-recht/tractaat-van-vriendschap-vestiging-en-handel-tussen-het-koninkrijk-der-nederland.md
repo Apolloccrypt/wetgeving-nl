@@ -8,7 +8,7 @@ laatste_update: 1997-01-10
 status: geldig
 toestand: 1997-01-10
 bron: "https://wetten.overheid.nl/BWBV0005976"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Tractaat van vriendschap, vestiging en handel tussen het Koninkrijk der Nederlanden en Zwitserland

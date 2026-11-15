@@ -8,7 +8,7 @@ laatste_update: 1961-05-25
 status: geldig
 toestand: 1961-05-25
 bron: "https://wetten.overheid.nl/BWBV0005772"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Luchtvaartovereenkomst tussen de Nederlandse Regering en de Oostenrijkse Federale Regering

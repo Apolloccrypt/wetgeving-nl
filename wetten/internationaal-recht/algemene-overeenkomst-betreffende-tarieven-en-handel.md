@@ -8,7 +8,7 @@ laatste_update: 1967-08-22
 status: geldig
 toestand: 1967-08-22
 bron: "https://wetten.overheid.nl/BWBV0006316"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Algemene Overeenkomst betreffende tarieven en handel

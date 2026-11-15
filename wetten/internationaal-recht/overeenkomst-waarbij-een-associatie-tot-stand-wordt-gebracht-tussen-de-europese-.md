@@ -8,7 +8,7 @@ laatste_update: 2024-05-01
 status: geldig
 toestand: 2024-05-01
 bron: "https://wetten.overheid.nl/BWBV0005882"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Unie en haar lidstaten, enerzijds, en Midden-Amerika, anderzijds

@@ -8,7 +8,7 @@ laatste_update: 1951-11-19
 status: geldig
 toestand: 1951-11-19
 bron: "https://wetten.overheid.nl/BWBV0005691"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Leningsverdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België

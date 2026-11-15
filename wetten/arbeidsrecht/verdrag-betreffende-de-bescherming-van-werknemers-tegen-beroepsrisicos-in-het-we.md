@@ -8,7 +8,7 @@ laatste_update: 2018-06-08
 status: geldig
 toestand: 2018-06-08
 bron: "https://wetten.overheid.nl/BWBV0006563"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag betreffende de bescherming van werknemers tegen beroepsrisico's in het werkmilieu als gevolg van luchtverontreiniging, lawaai en trillingen

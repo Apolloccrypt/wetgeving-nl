@@ -8,7 +8,7 @@ laatste_update: 1928-01-29
 status: geldig
 toestand: 1928-01-29
 bron: "https://wetten.overheid.nl/BWBV0005949"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Handelsverdrag tussen het Koninkrijk der Nederlanden en Haïti

@@ -8,7 +8,7 @@ laatste_update: 1934-07-01
 status: geldig
 toestand: 1934-07-01
 bron: "https://wetten.overheid.nl/BWBV0006387"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tot invoering van een eenvormige wet op cheques

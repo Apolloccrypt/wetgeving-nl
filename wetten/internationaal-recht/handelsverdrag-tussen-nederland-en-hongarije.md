@@ -8,7 +8,7 @@ laatste_update: 1926-02-27
 status: geldig
 toestand: 1926-02-27
 bron: "https://wetten.overheid.nl/BWBV0005946"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Handelsverdrag tussen Nederland en Hongarije

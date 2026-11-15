@@ -8,7 +8,7 @@ laatste_update: 1896-10-30
 status: geldig
 toestand: 1896-10-30
 bron: "https://wetten.overheid.nl/BWBV0006078"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Liberia tot regeling der wederzijdse uitlevering van misdadigers

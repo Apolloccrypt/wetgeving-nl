@@ -8,7 +8,7 @@ laatste_update: 2021-08-01
 status: geldig
 toestand: 2021-08-01
 bron: "https://wetten.overheid.nl/BWBV0006120"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Uitvoeringsprotocol tussen de Regeringen van de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden) en de Regering van de Republiek Moldavië bij de Overeenkomst tussen de Europese Gemeenschap en de Republiek Moldavië betreffende de overname van personen die zonder vergunning op het grondgebied verblijven

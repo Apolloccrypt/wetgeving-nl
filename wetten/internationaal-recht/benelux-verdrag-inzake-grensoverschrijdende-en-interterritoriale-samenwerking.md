@@ -8,7 +8,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBV0006323"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Benelux-Verdrag inzake grensoverschrijdende en interterritoriale samenwerking

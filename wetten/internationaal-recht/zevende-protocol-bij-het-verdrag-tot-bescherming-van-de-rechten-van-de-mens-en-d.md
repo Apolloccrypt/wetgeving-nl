@@ -7,7 +7,7 @@ laatste_update: 1984-11-22
 status: geldig
 toestand: 1984-11-22
 bron: "https://wetten.overheid.nl/BWBV0006339"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Zevende Protocol bij het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden

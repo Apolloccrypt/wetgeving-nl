@@ -8,7 +8,7 @@ laatste_update: 1930-09-01
 status: geldig
 toestand: 1930-09-01
 bron: "https://wetten.overheid.nl/BWBV0005942"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Voorlopige handelsovereenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Roemenië

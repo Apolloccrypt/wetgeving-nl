@@ -8,7 +8,7 @@ laatste_update: 1869-06-18
 status: geldig
 toestand: 1869-06-18
 bron: "https://wetten.overheid.nl/BWBV0006059"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Pruisen omtrent de grensscheiding tussen de beide Rijken op enige punten langs de provincie Limburg en het district Aken

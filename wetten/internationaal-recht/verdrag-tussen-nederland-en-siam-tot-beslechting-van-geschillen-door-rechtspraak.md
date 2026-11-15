@@ -8,7 +8,7 @@ laatste_update: 1929-06-28
 status: geldig
 toestand: 1929-06-28
 bron: "https://wetten.overheid.nl/BWBV0005966"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tussen Nederland en Siam tot beslechting van geschillen door rechtspraak en verzoening

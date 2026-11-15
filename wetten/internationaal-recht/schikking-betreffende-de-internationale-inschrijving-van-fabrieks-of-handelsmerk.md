@@ -8,7 +8,7 @@ laatste_update: 1902-09-14
 status: geldig
 toestand: 1902-09-14
 bron: "https://wetten.overheid.nl/BWBV0006160"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Schikking betreffende de internationale inschrijving van fabrieks- of handelsmerken

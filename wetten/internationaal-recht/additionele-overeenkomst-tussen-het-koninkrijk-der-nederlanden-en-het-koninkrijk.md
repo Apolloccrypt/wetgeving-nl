@@ -8,7 +8,7 @@ laatste_update: 1895-06-05
 status: geldig
 toestand: 1895-06-05
 bron: "https://wetten.overheid.nl/BWBV0006413"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Additionele Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk België houdende uitbreiding tot de Nederlandse koloniën van het uitleveringsverdrag van 31 mei 1889

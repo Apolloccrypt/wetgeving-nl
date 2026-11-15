@@ -8,7 +8,7 @@ laatste_update: 1924-07-16
 status: geldig
 toestand: 1924-07-16
 bron: "https://wetten.overheid.nl/BWBV0006229"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag nopens de vrijheid van de doorvoer met Statuut

@@ -8,7 +8,7 @@ laatste_update: 1924-05-15
 status: geldig
 toestand: 1924-05-15
 bron: "https://wetten.overheid.nl/BWBV0006115"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verklaring uitgewisseld tussen Nederland en België betreffende het achterwege laten der legalisatie van afschriften en uittreksels van akten van de Burgerlijke Stand, die in een der beide landen zijn opgemaakt en in het andere moeten worden overgelegd, onverschillig waarvoor zij moeten dienen

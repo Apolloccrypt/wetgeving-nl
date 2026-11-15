@@ -8,7 +8,7 @@ laatste_update: 1959-10-24
 status: geldig
 toestand: 1959-10-24
 bron: "https://wetten.overheid.nl/BWBV0006512"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland betreffende de winning van steenkolen in het Nederlands-Duitse grensgebied ten westen van Wegberg - Brüggen

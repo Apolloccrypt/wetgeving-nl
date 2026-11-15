@@ -8,7 +8,7 @@ laatste_update: 1932-04-02
 status: geldig
 toestand: 1932-04-02
 bron: "https://wetten.overheid.nl/BWBV0005970"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tussen Nederland en het Koninkrijk Zuidslavië tot beslechting van geschillen door rechtspraak, arbitrage en verzoening

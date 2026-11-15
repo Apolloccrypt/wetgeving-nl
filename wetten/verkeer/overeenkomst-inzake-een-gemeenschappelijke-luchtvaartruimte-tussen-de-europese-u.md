@@ -8,7 +8,7 @@ laatste_update: 2025-07-24
 status: geldig
 toestand: 2025-07-24
 bron: "https://wetten.overheid.nl/BWBV0005858"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Overeenkomst inzake een gemeenschappelijke luchtvaartruimte tussen de Europese Unie en haar lidstaten en de Republiek Moldavië

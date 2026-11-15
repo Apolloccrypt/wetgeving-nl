@@ -8,7 +8,7 @@ laatste_update: 1952-09-10
 status: geldig
 toestand: 1952-09-10
 bron: "https://wetten.overheid.nl/BWBV0005781"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Algemeen Verdrag nopens de voorrechten en immuniteiten van de Raad van Europa

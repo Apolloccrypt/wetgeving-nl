@@ -8,7 +8,7 @@ laatste_update: 2022-07-01
 status: geldig
 toestand: 2022-07-01
 bron: "https://wetten.overheid.nl/BWBV0006191"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Euro-mediterrane luchtvaartovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de regering van de Staat Israël, anderzijds

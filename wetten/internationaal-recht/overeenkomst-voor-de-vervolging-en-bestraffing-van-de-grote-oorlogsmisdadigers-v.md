@@ -8,7 +8,7 @@ laatste_update: 1945-09-25
 status: geldig
 toestand: 1945-09-25
 bron: "https://wetten.overheid.nl/BWBV0005717"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Overeenkomst voor de vervolging en bestraffing van de grote oorlogsmisdadigers van de Europese As

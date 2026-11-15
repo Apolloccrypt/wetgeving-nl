@@ -8,7 +8,7 @@ laatste_update: 2018-09-01
 status: geldig
 toestand: 2018-09-01
 bron: "https://wetten.overheid.nl/BWBV0006451"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Noorwegen inzake het gebruik van een penitentiaire inrichting in Nederland voor de tenuitvoerlegging van bij Noorse vonnissen opgelegde vrijheidsstraffen

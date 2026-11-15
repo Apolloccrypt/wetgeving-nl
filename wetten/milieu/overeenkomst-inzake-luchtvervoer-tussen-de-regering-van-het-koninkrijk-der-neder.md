@@ -8,7 +8,7 @@ laatste_update: 2011-12-29
 status: geldig
 toestand: 2011-12-29
 bron: "https://wetten.overheid.nl/BWBV0005825"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Overeenkomst inzake luchtvervoer tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Indonesië

@@ -8,7 +8,7 @@ laatste_update: 1985-06-20
 status: geldig
 toestand: 1985-06-20
 bron: "https://wetten.overheid.nl/BWBV0005771"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Portugese Republiek betreffende luchtvervoer

@@ -8,7 +8,7 @@ laatste_update: 1894-01-30
 status: geldig
 toestand: 1894-01-30
 bron: "https://wetten.overheid.nl/BWBV0006131"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk België strekkende om wederkerig ingezetenen, onderdanen van het andere land, toe te laten om kosteloos te procederen

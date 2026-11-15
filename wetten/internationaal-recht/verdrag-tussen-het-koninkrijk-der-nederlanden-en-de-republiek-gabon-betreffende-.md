@@ -8,7 +8,7 @@ laatste_update: 2015-08-01
 status: geldig
 toestand: 2015-08-01
 bron: "https://wetten.overheid.nl/BWBV0006429"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Gabon betreffende de status van civiel en militair personeel van hun Ministeries van Defensie, dat aanwezig zal zijn op elkaars grondgebied in het kader van militaire samenwerking

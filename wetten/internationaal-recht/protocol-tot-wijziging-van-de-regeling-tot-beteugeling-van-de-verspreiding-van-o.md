@@ -8,7 +8,7 @@ laatste_update: 1950-09-26
 status: geldig
 toestand: 1950-09-26
 bron: "https://wetten.overheid.nl/BWBV0005762"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Protocol tot wijziging van de Regeling tot beteugeling van de verspreiding van ontuchtige uitgaven, Parijs, 4 mei 1910

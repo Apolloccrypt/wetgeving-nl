@@ -8,7 +8,7 @@ laatste_update: 1934-01-08
 status: geldig
 toestand: 1934-01-08
 bron: "https://wetten.overheid.nl/BWBV0005951"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tussen Nederland en Noorwegen tot beslechting van geschillen door rechtspraak, arbitrage en verzoening

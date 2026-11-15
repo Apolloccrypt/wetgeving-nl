@@ -8,7 +8,7 @@ laatste_update: 1931-01-10
 status: geldig
 toestand: 1931-01-10
 bron: "https://wetten.overheid.nl/BWBV0006416"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Overeenkomst betreffende het geven van gelegenheid aan schepelingen ter koopvaardij om zich voor geslachtsziekten te doen behandelen

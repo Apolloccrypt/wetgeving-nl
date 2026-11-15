@@ -8,7 +8,7 @@ laatste_update: 1947-01-13
 status: geldig
 toestand: 1947-01-13
 bron: "https://wetten.overheid.nl/BWBV0005693"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Overeenkomst inzake de afgifte van een reisdocument aan vluchtelingen die ressorteren onder het Intergouvernementele Comité voor vluchtelingen

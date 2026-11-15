@@ -8,7 +8,7 @@ laatste_update: 1948-11-27
 status: geldig
 toestand: 1948-11-27
 bron: "https://wetten.overheid.nl/BWBV0005953"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Verdrag van vriendschap tussen het Koninkrijk der Nederlanden en het Koninkrijk Afghanistan

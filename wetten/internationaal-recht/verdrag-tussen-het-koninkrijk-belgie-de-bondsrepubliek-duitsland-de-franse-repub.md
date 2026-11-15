@@ -8,7 +8,7 @@ laatste_update: 1985-02-01
 status: geldig
 toestand: 1985-02-01
 bron: "https://wetten.overheid.nl/BWBV0006523"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tussen het Koninkrijk België, de Bondsrepubliek Duitsland, de Franse Republiek, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, Lid-Staten der Europese Gemeenschappen, het Koninkrijk Denemarken, Ierland, het Koninkrijk Noorwegen en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland betreffende de toetreding van het Koninkrijk Denemarken, Ierland, het Koninkrijk Noorwegen en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, tot de Europese Economische Gemeenschap en de Europese Gemeenschap voor Atoomenergie

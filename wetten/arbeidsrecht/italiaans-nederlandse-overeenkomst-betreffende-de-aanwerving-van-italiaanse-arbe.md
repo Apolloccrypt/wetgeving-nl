@@ -8,7 +8,7 @@ laatste_update: 1948-12-04
 status: geldig
 toestand: 1948-12-04
 bron: "https://wetten.overheid.nl/BWBV0005655"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Italiaans-Nederlandse overeenkomst betreffende de aanwerving van Italiaanse arbeiders voor de ondergrondse bedrijven der Nederlandse kolenmijnen

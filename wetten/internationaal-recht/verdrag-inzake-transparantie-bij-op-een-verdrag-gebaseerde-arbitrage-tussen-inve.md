@@ -7,7 +7,7 @@ laatste_update: 2014-12-10
 status: geldig
 toestand: 2014-12-10
 bron: "https://wetten.overheid.nl/BWBV0006609"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag inzake transparantie bij op een verdrag gebaseerde arbitrage tussen investeerders en staten

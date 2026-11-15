@@ -8,7 +8,7 @@ laatste_update: 1874-02-14
 status: geldig
 toestand: 1874-02-14
 bron: "https://wetten.overheid.nl/BWBV0006454"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk België tot wijziging van art. 6 van het Tractaat van 12 mei 1863 betreffende de regeling der wateraftappingen uit de Maas

@@ -8,7 +8,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBV0006598"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Naties betreffende het kantoor van het Joint Investigative Mechanism van de Organisatie voor het Verbod van Chemische Wapens (OPCW) - Verenigde Naties

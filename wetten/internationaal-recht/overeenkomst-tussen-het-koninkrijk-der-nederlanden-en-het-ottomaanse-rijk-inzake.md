@@ -8,7 +8,7 @@ laatste_update: 1857-08-07
 status: geldig
 toestand: 1857-08-07
 bron: "https://wetten.overheid.nl/BWBV0006434"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Ottomaanse Rijk inzake de toelating van Turkse Consuls in de voornaamste havens der Nederlandse koloniën

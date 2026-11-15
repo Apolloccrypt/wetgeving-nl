@@ -8,7 +8,7 @@ laatste_update: 1925-06-05
 status: geldig
 toestand: 1925-06-05
 bron: "https://wetten.overheid.nl/BWBV0005899"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Verdrag van handel en scheepvaart tussen het Koninkrijk der Nederlanden en de Republiek Polen

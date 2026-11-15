@@ -8,7 +8,7 @@ laatste_update: 1958-12-01
 status: geldig
 toestand: 1958-12-01
 bron: "https://wetten.overheid.nl/BWBV0005686"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Protocol inzake de ouderdomsuitkeringen voor de niet-loonarbeiders

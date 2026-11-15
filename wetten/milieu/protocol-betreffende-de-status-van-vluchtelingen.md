@@ -8,7 +8,7 @@ laatste_update: 1968-11-29
 status: geldig
 toestand: 1968-11-29
 bron: "https://wetten.overheid.nl/BWBV0006107"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Protocol betreffende de status van vluchtelingen

@@ -8,7 +8,7 @@ laatste_update: 2020-07-23
 status: geldig
 toestand: 2020-07-23
 bron: "https://wetten.overheid.nl/BWBV0006305"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika tot verbetering van de internationale naleving van de belastingplicht en tenuitvoerlegging van de FATCA

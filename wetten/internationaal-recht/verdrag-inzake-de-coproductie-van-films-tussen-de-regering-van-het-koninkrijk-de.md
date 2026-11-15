@@ -8,7 +8,7 @@ laatste_update: 2016-06-03
 status: geldig
 toestand: 2016-06-03
 bron: "https://wetten.overheid.nl/BWBV0006554"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag inzake de coproductie van films tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Volksrepubliek China

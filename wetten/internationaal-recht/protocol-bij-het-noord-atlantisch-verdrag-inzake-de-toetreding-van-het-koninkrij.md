@@ -8,7 +8,7 @@ laatste_update: 1952-02-15
 status: geldig
 toestand: 1952-02-15
 bron: "https://wetten.overheid.nl/BWBV0005845"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Protocol bij het Noord-Atlantisch Verdrag inzake de toetreding van het Koninkrijk Griekenland en de Republiek Turkije

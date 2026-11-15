@@ -7,7 +7,7 @@ laatste_update: 1967-02-14
 status: geldig
 toestand: 1967-02-14
 bron: "https://wetten.overheid.nl/BWBV0006344"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Aanvullend Protocol II bij het Verdrag tot verbod van kernwapens in Latijns-Amerika en het Caraïbisch gebied

@@ -8,7 +8,7 @@ laatste_update: 2017-08-01
 status: geldig
 toestand: 2017-08-01
 bron: "https://wetten.overheid.nl/BWBV0006474"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Overeenkomst tussen de Regeringen van de Benelux-Staten en de Regering van de Republiek Kazachstan inzake de afschaffing van de visumplicht voor houders van diplomatieke paspoorten

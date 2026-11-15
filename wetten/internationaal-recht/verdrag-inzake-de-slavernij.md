@@ -8,7 +8,7 @@ laatste_update: 1955-07-07
 status: geldig
 toestand: 1955-07-07
 bron: "https://wetten.overheid.nl/BWBV0006262"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag inzake de slavernij

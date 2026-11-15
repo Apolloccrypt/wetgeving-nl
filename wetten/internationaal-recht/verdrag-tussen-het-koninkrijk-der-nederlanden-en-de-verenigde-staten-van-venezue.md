@@ -8,7 +8,7 @@ laatste_update: 1921-02-23
 status: geldig
 toestand: 1921-02-23
 bron: "https://wetten.overheid.nl/BWBV0006471"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Venezuela tot herstel der diplomatieke betrekkingen tussen beide landen

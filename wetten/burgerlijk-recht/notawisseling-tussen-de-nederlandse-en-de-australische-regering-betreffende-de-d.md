@@ -8,7 +8,7 @@ laatste_update: 1950-04-26
 status: geldig
 toestand: 1950-04-26
 bron: "https://wetten.overheid.nl/BWBV0005753"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Notawisseling tussen de Nederlandse en de Australische Regering betreffende de deblokkering van eigendommen welke onderworpen waren aan speciale maatregelen ten gevolge van de vijandelijke bezetting van Nederland

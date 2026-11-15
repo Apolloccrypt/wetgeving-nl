@@ -8,7 +8,7 @@ laatste_update: 1933-11-04
 status: geldig
 toestand: 1933-11-04
 bron: "https://wetten.overheid.nl/BWBV0005972"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tussen Nederland en Turkije tot beslechting van geschillen door rechtspraak, arbitrage en verzoening

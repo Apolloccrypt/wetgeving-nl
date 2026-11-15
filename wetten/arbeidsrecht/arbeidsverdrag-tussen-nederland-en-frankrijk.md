@@ -8,7 +8,7 @@ laatste_update: 1954-05-21
 status: geldig
 toestand: 1954-05-21
 bron: "https://wetten.overheid.nl/BWBV0005682"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Arbeidsverdrag tussen Nederland en Frankrijk

@@ -8,7 +8,7 @@ laatste_update: 2020-10-01
 status: geldig
 toestand: 2020-10-01
 bron: "https://wetten.overheid.nl/BWBV0006383"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Protocol tot uitbanning van illegale handel in tabaksproducten

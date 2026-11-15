@@ -8,7 +8,7 @@ laatste_update: 2018-03-01
 status: geldig
 toestand: 2018-03-01
 bron: "https://wetten.overheid.nl/BWBV0005873"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Kaderovereenkomst inzake partnerschap en samenwerking tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek der Filipijnen, anderzijds

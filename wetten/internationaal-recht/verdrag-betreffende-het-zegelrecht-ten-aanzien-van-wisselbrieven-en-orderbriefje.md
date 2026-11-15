@@ -8,7 +8,7 @@ laatste_update: 1934-01-01
 status: geldig
 toestand: 1934-01-01
 bron: "https://wetten.overheid.nl/BWBV0006359"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag betreffende het zegelrecht ten aanzien van wisselbrieven en orderbriefjes

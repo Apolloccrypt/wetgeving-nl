@@ -8,7 +8,7 @@ laatste_update: 2021-09-01
 status: geldig
 toestand: 2021-09-01
 bron: "https://wetten.overheid.nl/BWBV0006528"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Gambia inzake luchtdiensten tussen en via hun respectieve grondgebieden

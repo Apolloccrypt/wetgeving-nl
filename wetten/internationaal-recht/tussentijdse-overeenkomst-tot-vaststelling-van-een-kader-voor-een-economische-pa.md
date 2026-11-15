@@ -7,7 +7,7 @@ laatste_update: 2009-08-29
 status: geldig
 toestand: 2009-08-29
 bron: "https://wetten.overheid.nl/BWBV0005864"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Tussentijdse Overeenkomst tot vaststelling van een kader voor een Economische Partnerschapsovereenkomst tussen staten in oostelijk en zuidelijk Afrika, enerzijds, en de Europese Gemeenschap en haar lidstaten, anderzijds

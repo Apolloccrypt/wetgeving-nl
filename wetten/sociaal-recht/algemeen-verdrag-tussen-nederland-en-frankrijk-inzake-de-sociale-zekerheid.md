@@ -8,7 +8,7 @@ laatste_update: 1952-06-27
 status: geldig
 toestand: 1952-06-27
 bron: "https://wetten.overheid.nl/BWBV0005723"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Algemeen Verdrag tussen Nederland en Frankrijk inzake de sociale zekerheid

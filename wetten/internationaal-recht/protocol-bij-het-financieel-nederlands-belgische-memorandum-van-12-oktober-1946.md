@@ -8,7 +8,7 @@ laatste_update: 1958-06-19
 status: geldig
 toestand: 1958-06-19
 bron: "https://wetten.overheid.nl/BWBV0005683"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Protocol bij het Financieel Nederlands-Belgische memorandum van 12 oktober 1946

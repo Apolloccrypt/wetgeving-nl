@@ -8,7 +8,7 @@ laatste_update: 1873-01-13
 status: geldig
 toestand: 1873-01-13
 bron: "https://wetten.overheid.nl/BWBV0006048"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk België betreffende de indijking van het Zwin

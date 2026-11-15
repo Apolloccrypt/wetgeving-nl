@@ -8,7 +8,7 @@ laatste_update: 2015-05-08
 status: geldig
 toestand: 2015-05-08
 bron: "https://wetten.overheid.nl/BWBV0006369"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tot instelling van het Caribisch Volksgezondheidsinstituut (CARPHA)

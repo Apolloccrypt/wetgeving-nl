@@ -8,7 +8,7 @@ laatste_update: 1906-03-08
 status: geldig
 toestand: 1906-03-08
 bron: "https://wetten.overheid.nl/BWBV0005999"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Algemeen arbitrageverdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Denemarken

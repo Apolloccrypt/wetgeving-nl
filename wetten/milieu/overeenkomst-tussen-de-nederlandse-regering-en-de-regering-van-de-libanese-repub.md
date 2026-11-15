@@ -8,7 +8,7 @@ laatste_update: 1956-10-16
 status: geldig
 toestand: 1956-10-16
 bron: "https://wetten.overheid.nl/BWBV0005695"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Overeenkomst tussen de Nederlandse Regering en de Regering van de Libanese Republiek inzake luchtvervoer

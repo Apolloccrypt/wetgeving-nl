@@ -8,7 +8,7 @@ laatste_update: 1888-12-22
 status: geldig
 toestand: 1888-12-22
 bron: "https://wetten.overheid.nl/BWBV0006269"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Internationale Overeenkomst, bestemd om te allen tijde en aan alle Mogendheden het vrije gebruik van het Kanaal van Suez te verzekeren

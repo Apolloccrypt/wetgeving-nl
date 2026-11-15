@@ -8,7 +8,7 @@ laatste_update: 1839-06-08
 status: geldig
 toestand: 1839-06-08
 bron: "https://wetten.overheid.nl/BWBV0006129"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Tractaat tussen het Koninkrijk der Nederlanden en het Koninkrijk België betreffende de scheiding der wederzijdse grondgebieden

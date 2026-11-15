@@ -8,7 +8,7 @@ laatste_update: 2016-04-01
 status: geldig
 toestand: 2016-04-01
 bron: "https://wetten.overheid.nl/BWBV0006435"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Protocol bij de Overeenkomst inzake Partnerschap en Samenwerking waarbij een partnerschap tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Russische Federatie, anderzijds, om rekening te houden met de toetreding van de Republiek Kroatië tot de Europese Unie

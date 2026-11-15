@@ -8,7 +8,7 @@ laatste_update: 1907-03-26
 status: geldig
 toestand: 1907-03-26
 bron: "https://wetten.overheid.nl/BWBV0006330"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Conventie betreffende hospitaalschepen

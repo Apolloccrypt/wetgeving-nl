@@ -8,7 +8,7 @@ laatste_update: 2012-11-02
 status: geldig
 toestand: 2012-11-02
 bron: "https://wetten.overheid.nl/BWBV0006088"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek India tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen

@@ -7,7 +7,7 @@ laatste_update: 1993-12-07
 status: geldig
 toestand: 1993-12-07
 bron: "https://wetten.overheid.nl/BWBV0006334"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Overeenkomst inzake het onderhoud van de Kendel en van de daartoe behorende kunstwerken in het Nederlands-Duitse grensgebied

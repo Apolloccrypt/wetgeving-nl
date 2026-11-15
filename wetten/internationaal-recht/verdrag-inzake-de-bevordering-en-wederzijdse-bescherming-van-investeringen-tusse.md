@@ -7,7 +7,7 @@ laatste_update: 2013-11-26
 status: geldig
 toestand: 2013-11-26
 bron: "https://wetten.overheid.nl/BWBV0006303"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag inzake de bevordering en wederzijdse bescherming van investeringen tussen het Koninkrijk der Nederlanden en de Verenigde Arabische Emiraten

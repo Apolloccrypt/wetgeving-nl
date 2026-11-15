@@ -7,7 +7,7 @@ laatste_update: 2012-06-21
 status: geldig
 toestand: 2012-06-21
 bron: "https://wetten.overheid.nl/BWBV0005867"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Aruba, en Grenada inzake de uitwisseling van informatie betreffende belastingzaken

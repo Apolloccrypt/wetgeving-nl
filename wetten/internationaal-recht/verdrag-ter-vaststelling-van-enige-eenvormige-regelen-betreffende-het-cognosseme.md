@@ -8,7 +8,7 @@ laatste_update: 1986-05-18
 status: geldig
 toestand: 1986-05-18
 bron: "https://wetten.overheid.nl/BWBV0006327"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag ter vaststelling van enige eenvormige regelen betreffende het cognossement

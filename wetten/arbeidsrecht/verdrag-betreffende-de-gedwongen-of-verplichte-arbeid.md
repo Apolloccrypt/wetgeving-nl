@@ -8,7 +8,7 @@ laatste_update: 2018-08-08
 status: geldig
 toestand: 2018-08-08
 bron: "https://wetten.overheid.nl/BWBV0006218"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag betreffende de gedwongen of verplichte arbeid

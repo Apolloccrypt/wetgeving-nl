@@ -7,7 +7,7 @@ laatste_update: 1997-09-18
 status: geldig
 toestand: 1997-09-18
 bron: "https://wetten.overheid.nl/BWBV0006396"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Bijkomend Verdrag aan het Verdrag van 9 februari 1994 inzake de heffing van rechten voor het gebruik van bepaalde wegen door zware vrachtwagens inzake een vrijstelling voor het gecombineerd vervoer

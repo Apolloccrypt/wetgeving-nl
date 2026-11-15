@@ -7,7 +7,7 @@ laatste_update: 2014-09-18
 status: geldig
 toestand: 2014-09-18
 bron: "https://wetten.overheid.nl/BWBV0006419"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag van de Raad van Europa inzake de manipulatie van sportwedstrijden

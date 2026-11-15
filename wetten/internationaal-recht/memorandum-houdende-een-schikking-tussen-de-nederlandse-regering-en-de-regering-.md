@@ -8,7 +8,7 @@ laatste_update: 1951-01-19
 status: geldig
 toestand: 1951-01-19
 bron: "https://wetten.overheid.nl/BWBV0006494"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Memorandum houdende een schikking tussen de Nederlandse Regering en de Regering van de Verenigde Staten van Amerika met betrekking tot aanspraken van de Nederlandse Regering op geroofde effecten

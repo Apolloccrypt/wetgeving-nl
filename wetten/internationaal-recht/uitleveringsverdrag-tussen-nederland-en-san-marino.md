@@ -8,7 +8,7 @@ laatste_update: 1903-04-23
 status: geldig
 toestand: 1903-04-23
 bron: "https://wetten.overheid.nl/BWBV0006181"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Uitleveringsverdrag tussen Nederland en San Marino

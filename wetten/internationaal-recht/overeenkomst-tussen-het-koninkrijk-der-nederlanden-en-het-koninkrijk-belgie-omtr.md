@@ -8,7 +8,7 @@ laatste_update: 1869-08-31
 status: geldig
 toestand: 1869-08-31
 bron: "https://wetten.overheid.nl/BWBV0006025"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk België omtrent de grensscheiding tussen de beide Rijken in het Zwin

@@ -8,7 +8,7 @@ laatste_update: 1898-02-20
 status: geldig
 toestand: 1898-02-20
 bron: "https://wetten.overheid.nl/BWBV0005936"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Argentijnse Republiek tot wederzijdse uitlevering van misdadigers

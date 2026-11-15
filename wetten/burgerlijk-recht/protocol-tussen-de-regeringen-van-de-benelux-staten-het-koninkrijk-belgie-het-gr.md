@@ -8,7 +8,7 @@ laatste_update: 2019-02-01
 status: geldig
 toestand: 2019-02-01
 bron: "https://wetten.overheid.nl/BWBV0006121"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Protocol tussen de Regeringen van de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden) en de Regering van de Republiek Servië ter uitvoering van de Overeenkomst tussen de Europese Gemeenschap en de Republiek Servië betreffende de overname van personen die zonder vergunning op het grondgebied verblijven

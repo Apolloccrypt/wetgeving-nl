@@ -8,7 +8,7 @@ laatste_update: 1967-12-04
 status: geldig
 toestand: 1967-12-04
 bron: "https://wetten.overheid.nl/BWBV0006331"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Tractaat van vriendschap, handel en scheepvaart tussen het Koninkrijk der Nederlanden en het Koninkrijk Italië

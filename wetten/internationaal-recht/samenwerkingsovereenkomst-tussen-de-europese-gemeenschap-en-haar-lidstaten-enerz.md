@@ -8,7 +8,7 @@ laatste_update: 2015-03-01
 status: geldig
 toestand: 2015-03-01
 bron: "https://wetten.overheid.nl/BWBV0006469"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Samenwerkingsovereenkomst tussen de Europese Gemeenschap en haar Lidstaten, enerzijds, en het Koninkrijk Marokko, anderzijds, betreffende een civiel mondiaal satellietnavigatiesysteem (Civil Global Navigation Satellite System) (GNSS)

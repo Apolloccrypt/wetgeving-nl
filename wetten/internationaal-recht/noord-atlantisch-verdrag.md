@@ -8,7 +8,7 @@ laatste_update: 1952-02-18
 status: geldig
 toestand: 1952-02-18
 bron: "https://wetten.overheid.nl/BWBV0005760"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Noord-Atlantisch Verdrag

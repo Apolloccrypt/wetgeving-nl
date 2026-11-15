@@ -8,7 +8,7 @@ laatste_update: 2021-08-01
 status: geldig
 toestand: 2021-08-01
 bron: "https://wetten.overheid.nl/BWBV0006319"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Protocol tussen de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden) en Bosnië en Herzegovina ter uitvoering van de Overeenkomst tussen de Europese Gemeenschap en Bosnië en Herzegovina betreffende de overname van personen die zonder vergunning op het grondgebied verblijven (Uitvoeringsprotocol)

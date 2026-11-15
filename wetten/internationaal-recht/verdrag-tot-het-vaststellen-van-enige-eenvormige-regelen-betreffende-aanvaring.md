@@ -8,7 +8,7 @@ laatste_update: 1913-03-01
 status: geldig
 toestand: 1913-03-01
 bron: "https://wetten.overheid.nl/BWBV0006270"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tot het vaststellen van enige eenvormige regelen betreffende aanvaring

@@ -8,7 +8,7 @@ laatste_update: 1922-08-28
 status: geldig
 toestand: 1922-08-28
 bron: "https://wetten.overheid.nl/BWBV0006051"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Duitse Rijk betreffende de ophoging van de Oude Rijnmond bij Lobith

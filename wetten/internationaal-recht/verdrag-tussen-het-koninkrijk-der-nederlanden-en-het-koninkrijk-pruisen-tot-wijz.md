@@ -8,7 +8,7 @@ laatste_update: 1868-08-31
 status: geldig
 toestand: 1868-08-31
 bron: "https://wetten.overheid.nl/BWBV0006057"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Pruisen tot wijziging van vroegere grenstractaten

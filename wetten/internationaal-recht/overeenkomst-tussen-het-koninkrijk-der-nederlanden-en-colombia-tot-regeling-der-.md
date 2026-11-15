@@ -8,7 +8,7 @@ laatste_update: 1883-09-18
 status: geldig
 toestand: 1883-09-18
 bron: "https://wetten.overheid.nl/BWBV0006329"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en Colombia tot regeling der voorwaarden, waarop de consulaire ambtenaren van Colombia in de voornaamste havens der Nederlandse overzeese bezittingen zullen worden toegelaten

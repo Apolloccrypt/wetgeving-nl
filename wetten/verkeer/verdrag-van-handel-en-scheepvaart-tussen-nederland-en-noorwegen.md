@@ -8,7 +8,7 @@ laatste_update: 1913-08-22
 status: geldig
 toestand: 1913-08-22
 bron: "https://wetten.overheid.nl/BWBV0006482"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag van handel en scheepvaart tussen Nederland en Noorwegen

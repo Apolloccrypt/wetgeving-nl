@@ -8,7 +8,7 @@ laatste_update: 1874-02-10
 status: geldig
 toestand: 1874-02-10
 bron: "https://wetten.overheid.nl/BWBV0006070"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Pruisen tot regeling der grensscheiding tussen de Nederlandse gemeente Dinxperlo en de Pruisische gemeente Süderwick

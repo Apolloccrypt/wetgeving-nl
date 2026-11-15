@@ -8,7 +8,7 @@ laatste_update: 2015-04-10
 status: geldig
 toestand: 2015-04-10
 bron: "https://wetten.overheid.nl/BWBV0006304"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Gastlandverdrag tussen het Koninkrijk der Nederlanden en de Internationale Organisatie voor Ontwikkelingsrecht

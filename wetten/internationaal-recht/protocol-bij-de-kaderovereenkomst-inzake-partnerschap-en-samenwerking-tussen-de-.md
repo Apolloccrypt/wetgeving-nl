@@ -8,7 +8,7 @@ laatste_update: 2018-05-01
 status: geldig
 toestand: 2018-05-01
 bron: "https://wetten.overheid.nl/BWBV0006462"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Protocol bij de Kaderovereenkomst inzake partnerschap en samenwerking tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek der Filipijnen, anderzijds, teneinde rekening te houden met de toetreding van de Republiek Kroatië tot de Europese Unie

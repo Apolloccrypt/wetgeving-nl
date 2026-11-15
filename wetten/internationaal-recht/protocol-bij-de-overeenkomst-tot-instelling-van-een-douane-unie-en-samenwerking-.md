@@ -7,7 +7,7 @@ laatste_update: 2013-07-01
 status: geldig
 toestand: 2013-07-01
 bron: "https://wetten.overheid.nl/BWBV0006314"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Protocol bij de Overeenkomst tot instelling van een douane-unie en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek San Marino, anderzijds, betreffende de deelname van de Republiek Kroatië als overeenkomstsluitende partij na de toetreding tot de Europese Unie

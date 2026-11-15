@@ -8,7 +8,7 @@ laatste_update: 1973-01-07
 status: geldig
 toestand: 1973-01-07
 bron: "https://wetten.overheid.nl/BWBV0005667"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Berner Conventie voor de bescherming van werken van letterkunde en kunst, ondertekend de 9de September 1886, aangevuld te Parijs de 4de Mei 1896, herzien te Berlijn de 13de November 1908, aangevuld te Bern de 20ste Maart 1914, herzien te Rome de 2de Juni 1928, en herzien te Brussel de 26ste Juni 1948

@@ -7,7 +7,7 @@ laatste_update: 2004-10-29
 status: geldig
 toestand: 2004-10-29
 bron: "https://wetten.overheid.nl/BWBV0005879"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tot vaststelling van een Grondwet voor Europa

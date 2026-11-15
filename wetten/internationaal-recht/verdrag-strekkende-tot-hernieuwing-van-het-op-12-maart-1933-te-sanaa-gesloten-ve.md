@@ -8,7 +8,7 @@ laatste_update: 1950-04-04
 status: geldig
 toestand: 1950-04-04
 bron: "https://wetten.overheid.nl/BWBV0005908"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Verdrag strekkende tot hernieuwing van het op 12 maart 1933 te Sana'a gesloten Verdrag van vriendschap tussen Nederland en Jemen

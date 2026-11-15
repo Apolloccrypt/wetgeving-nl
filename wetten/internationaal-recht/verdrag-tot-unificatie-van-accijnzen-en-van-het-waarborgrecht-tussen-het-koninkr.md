@@ -8,7 +8,7 @@ laatste_update: 1998-03-01
 status: geldig
 toestand: 1998-03-01
 bron: "https://wetten.overheid.nl/BWBV0005676"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tot unificatie van accijnzen en van het waarborgrecht tussen het Koninkrijk der Nederlanden, het Koninkrijk België en het Groot-Hertogdom Luxemburg

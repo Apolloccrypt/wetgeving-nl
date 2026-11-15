@@ -8,7 +8,7 @@ laatste_update: 2015-03-01
 status: geldig
 toestand: 2015-03-01
 bron: "https://wetten.overheid.nl/BWBV0006238"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Intern Akkoord tussen de vertegenwoordigers van de regeringen van de lidstaten van de Europese Unie, in het kader van de Raad bijeen, betreffende de financiering van de steun van de Europese Unie binnen het meerjarig financieel kader voor de periode 2014-2020, overeenkomstig de ACS-EU-partnerschapsovereenkomst, en betreffende de toewijzing van financiële bijstand ten behoeve van de landen en gebieden overzee waarop de bepalingen van het vierde deel van het Verdrag betreffende de werking van de Europese Unie van toepassing zijn

@@ -8,7 +8,7 @@ laatste_update: 2016-06-01
 status: geldig
 toestand: 2016-06-01
 bron: "https://wetten.overheid.nl/BWBV0006170"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België over de grensoverschrijdende uitwisseling van gegevens met het oog op het identificeren van personen die ervan verdacht worden inbreuken te hebben begaan in het kader van het gebruik van de weg

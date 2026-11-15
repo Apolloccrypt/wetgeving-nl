@@ -8,7 +8,7 @@ laatste_update: 1948-12-22
 status: geldig
 toestand: 1948-12-22
 bron: "https://wetten.overheid.nl/BWBV0005712"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Overeenkomst tussen de Koninklijke Nederlandse Regering en de Koninklijke Griekse Regering inzake luchtvervoer tussen haar onderscheiden grondgebieden

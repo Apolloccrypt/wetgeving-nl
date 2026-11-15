@@ -8,7 +8,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBV0006351"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Aanvullend Protocol bij de Vrijhandelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Korea, anderzijds, om rekening te houden met de toetreding van Kroatië tot de Europese Unie

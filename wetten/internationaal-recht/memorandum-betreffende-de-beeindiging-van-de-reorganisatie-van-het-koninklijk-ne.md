@@ -8,7 +8,7 @@ laatste_update: 1950-07-14
 status: geldig
 toestand: 1950-07-14
 bron: "https://wetten.overheid.nl/BWBV0005664"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Memorandum betreffende de beëindiging van de reorganisatie van het Koninklijk Nederlands-Indonesisch Leger (KNIL)

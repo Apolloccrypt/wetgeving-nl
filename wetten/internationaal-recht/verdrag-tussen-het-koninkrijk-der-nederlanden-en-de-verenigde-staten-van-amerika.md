@@ -8,7 +8,7 @@ laatste_update: 1928-03-10
 status: geldig
 toestand: 1928-03-10
 bron: "https://wetten.overheid.nl/BWBV0006130"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika betreffende de onderwerping van geschillen aan een permanente Internationale Commissie voor onderzoek en verslag

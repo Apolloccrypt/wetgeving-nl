@@ -8,7 +8,7 @@ laatste_update: 2015-12-25
 status: geldig
 toestand: 2015-12-25
 bron: "https://wetten.overheid.nl/BWBV0006531"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag betreffende de Aziatische Infrastructuurinvesteringsbank

@@ -8,7 +8,7 @@ laatste_update: 1968-12-21
 status: geldig
 toestand: 1968-12-21
 bron: "https://wetten.overheid.nl/BWBV0005741"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Luchtvaartovereenkomst tussen Nederland en Finland

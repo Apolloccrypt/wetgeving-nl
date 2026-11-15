@@ -8,7 +8,7 @@ laatste_update: 1933-01-27
 status: geldig
 toestand: 1933-01-27
 bron: "https://wetten.overheid.nl/BWBV0005971"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tussen Nederland en Spanje tot beslechting van geschillen door verzoening, rechtspraak en arbitrage

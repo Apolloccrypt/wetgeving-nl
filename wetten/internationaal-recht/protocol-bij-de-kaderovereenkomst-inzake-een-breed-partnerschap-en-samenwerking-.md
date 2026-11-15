@@ -7,7 +7,7 @@ laatste_update: 2014-11-19
 status: geldig
 toestand: 2014-11-19
 bron: "https://wetten.overheid.nl/BWBV0006456"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Protocol bij de Kaderovereenkomst inzake een breed partnerschap en samenwerking tussen de Europese Unie en haar lidstaten, enerzijds, en de Socialistische Republiek Vietnam, anderzijds, teneinde rekening te houden met de toetreding van de Republiek Kroatië tot de Europese Unie

@@ -8,7 +8,7 @@ laatste_update: 2005-12-31
 status: geldig
 toestand: 2005-12-31
 bron: "https://wetten.overheid.nl/BWBV0006315"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Socialistische Federatieve Republiek Joegoslavië tot het vermijden van dubbele belasting met betrekking tot belastingen naar het inkomen en naar het vermogen

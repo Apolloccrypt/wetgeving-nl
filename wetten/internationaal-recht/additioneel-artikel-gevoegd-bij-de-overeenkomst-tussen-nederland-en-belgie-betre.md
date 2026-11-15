@@ -8,7 +8,7 @@ laatste_update: 1843-10-03
 status: geldig
 toestand: 1843-10-03
 bron: "https://wetten.overheid.nl/BWBV0006021"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Additioneel artikel gevoegd bij de Overeenkomst tussen Nederland en België betreffende de grensscheiding, gesloten te Maastricht op 8 augustus 1843

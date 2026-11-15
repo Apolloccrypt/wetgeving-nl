@@ -8,7 +8,7 @@ laatste_update: 1855-05-11
 status: geldig
 toestand: 1855-05-11
 bron: "https://wetten.overheid.nl/BWBV0006455"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk België inzake de toelating van Belgische Consuls in de voornaamste havens der Nederlandse koloniën

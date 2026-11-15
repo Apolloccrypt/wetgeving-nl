@@ -8,7 +8,7 @@ laatste_update: 1928-07-27
 status: geldig
 toestand: 1928-07-27
 bron: "https://wetten.overheid.nl/BWBV0005968"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Verzoeningsverdrag tussen Nederland en Zweden

@@ -8,7 +8,7 @@ laatste_update: 2023-12-19
 status: geldig
 toestand: 2023-12-19
 bron: "https://wetten.overheid.nl/BWBV0006449"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Vlaamse Gewest betreffende de aanleg van de nieuwe sluis Terneuzen

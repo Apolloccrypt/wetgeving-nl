@@ -8,7 +8,7 @@ laatste_update: 2015-04-30
 status: geldig
 toestand: 2015-04-30
 bron: "https://wetten.overheid.nl/BWBV0006487"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot bankenbelastingen

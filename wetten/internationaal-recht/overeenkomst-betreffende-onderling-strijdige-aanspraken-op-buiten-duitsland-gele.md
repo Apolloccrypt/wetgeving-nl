@@ -8,7 +8,7 @@ laatste_update: 1951-01-24
 status: geldig
 toestand: 1951-01-24
 bron: "https://wetten.overheid.nl/BWBV0005692"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Overeenkomst betreffende onderling strijdige aanspraken op buiten Duitsland gelegen Duitse bezittingen

@@ -8,7 +8,7 @@ laatste_update: 1934-07-01
 status: geldig
 toestand: 1934-07-01
 bron: "https://wetten.overheid.nl/BWBV0006582"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag betreffende het zegelrecht ten aanzien van cheques

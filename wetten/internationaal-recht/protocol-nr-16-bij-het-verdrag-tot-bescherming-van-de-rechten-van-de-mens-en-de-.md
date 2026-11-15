@@ -8,7 +8,7 @@ laatste_update: 2019-06-01
 status: geldig
 toestand: 2019-06-01
 bron: "https://wetten.overheid.nl/BWBV0006299"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Protocol nr. 16 bij het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden

@@ -8,7 +8,7 @@ laatste_update: 1930-10-31
 status: geldig
 toestand: 1930-10-31
 bron: "https://wetten.overheid.nl/BWBV0006252"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Protocol nopens het verbod van het gebruik in de oorlog van verstikkende, giftige of overige chemische gassen en van het voeren van een bacteriologische oorlog

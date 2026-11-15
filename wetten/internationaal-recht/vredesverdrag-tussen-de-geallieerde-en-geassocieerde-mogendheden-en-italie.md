@@ -8,7 +8,7 @@ laatste_update: 1949-02-17
 status: geldig
 toestand: 1949-02-17
 bron: "https://wetten.overheid.nl/BWBV0005714"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Vredesverdrag tussen de Geallieerde en Geassocieerde Mogendheden en Italië

@@ -8,7 +8,7 @@ laatste_update: 2005-09-15
 status: geldig
 toestand: 2005-09-15
 bron: "https://wetten.overheid.nl/BWBV0005804"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Statuut van de Wereldgezondheidsorganisatie

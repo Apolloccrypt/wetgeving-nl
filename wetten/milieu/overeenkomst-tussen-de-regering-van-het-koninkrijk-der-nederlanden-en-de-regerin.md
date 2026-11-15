@@ -8,7 +8,7 @@ laatste_update: 1985-10-23
 status: geldig
 toestand: 1985-10-23
 bron: "https://wetten.overheid.nl/BWBV0006002"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Trinidad en Tobago inzake de instelling en exploitatie van luchtdiensten

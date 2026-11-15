@@ -8,7 +8,7 @@ laatste_update: 1878-10-01
 status: geldig
 toestand: 1878-10-01
 bron: "https://wetten.overheid.nl/BWBV0005985"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Aanvullend Protocol bij het Tractaat van vriendschap, vestiging en handel tussen het Koninkrijk der Nederlanden en Zwitserland

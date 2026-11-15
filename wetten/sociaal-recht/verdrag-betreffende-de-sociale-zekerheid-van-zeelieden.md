@@ -7,7 +7,7 @@ laatste_update: 1946-06-28
 status: geldig
 toestand: 1946-06-28
 bron: "https://wetten.overheid.nl/BWBV0006345"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag betreffende de sociale zekerheid van zeelieden

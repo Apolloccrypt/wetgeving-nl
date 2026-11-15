@@ -8,7 +8,7 @@ laatste_update: 1952-03-27
 status: geldig
 toestand: 1952-03-27
 bron: "https://wetten.overheid.nl/BWBV0005810"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Administratief Accoord met betrekking tot de wijze van toepassing van het op 7 januari 1950 tussen Nederland en Frankrijk gesloten Algemeen Verdrag inzake sociale zekerheid

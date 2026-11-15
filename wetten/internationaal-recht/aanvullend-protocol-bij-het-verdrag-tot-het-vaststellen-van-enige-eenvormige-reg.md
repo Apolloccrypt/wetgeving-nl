@@ -8,7 +8,7 @@ laatste_update: 1937-01-08
 status: geldig
 toestand: 1937-01-08
 bron: "https://wetten.overheid.nl/BWBV0006260"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Aanvullend Protocol bij het Verdrag tot het vaststellen van enige eenvormige regelen betreffende de immuniteit van Staatsschepen

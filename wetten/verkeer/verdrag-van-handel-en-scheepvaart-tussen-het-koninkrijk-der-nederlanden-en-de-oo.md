@@ -8,7 +8,7 @@ laatste_update: 1936-01-30
 status: geldig
 toestand: 1936-01-30
 bron: "https://wetten.overheid.nl/BWBV0006008"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Verdrag van handel en scheepvaart tussen het Koninkrijk der Nederlanden en de Oostelijke Republiek Uruguay

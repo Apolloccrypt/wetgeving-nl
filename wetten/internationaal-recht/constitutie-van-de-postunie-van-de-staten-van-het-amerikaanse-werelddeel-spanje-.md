@@ -8,7 +8,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBV0006309"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Constitutie van de Postunie van de Staten van het Amerikaanse Werelddeel, Spanje en Portugal

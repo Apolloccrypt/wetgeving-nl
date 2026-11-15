@@ -8,7 +8,7 @@ laatste_update: 1847-11-26
 status: geldig
 toestand: 1847-11-26
 bron: "https://wetten.overheid.nl/BWBV0006472"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag van scheepvaart en handel tussen het Koninkrijk der Nederlanden en het Koninkrijk van Zweden en Noorwegen

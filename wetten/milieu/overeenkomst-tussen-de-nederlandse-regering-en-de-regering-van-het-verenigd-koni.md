@@ -8,7 +8,7 @@ laatste_update: 1982-07-16
 status: geldig
 toestand: 1982-07-16
 bron: "https://wetten.overheid.nl/BWBV0005720"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Overeenkomst tussen de Nederlandse Regering en de Regering van het Verenigd Koninkrijk betreffende Bepaalde Luchtdiensten

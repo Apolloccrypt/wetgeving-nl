@@ -8,7 +8,7 @@ laatste_update: 1912-01-10
 status: geldig
 toestand: 1912-01-10
 bron: "https://wetten.overheid.nl/BWBV0006086"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verklaring tussen Nederland en België nopens de grensregeling tussen de beide landen in het kanaal van Gent naar Terneuzen

@@ -8,7 +8,7 @@ laatste_update: 1938-04-28
 status: geldig
 toestand: 1938-04-28
 bron: "https://wetten.overheid.nl/BWBV0006264"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tot het vaststellen van enige eenvormige bepalingen inzake conservatoir beslag op luchtvaartuigen

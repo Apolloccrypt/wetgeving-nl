@@ -8,7 +8,7 @@ laatste_update: 1946-01-24
 status: geldig
 toestand: 1946-01-24
 bron: "https://wetten.overheid.nl/BWBV0005679"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Overeenkomst betreffende de van Duitsland te ontvangen herstelbetalingen, de instelling van een Intergeallieerde Organisatie voor Herstelbetalingen en de teruggave van monetair goud

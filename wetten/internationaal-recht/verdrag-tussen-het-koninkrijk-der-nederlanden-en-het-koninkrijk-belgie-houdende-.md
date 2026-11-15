@@ -8,7 +8,7 @@ laatste_update: 1952-07-11
 status: geldig
 toestand: 1952-07-11
 bron: "https://wetten.overheid.nl/BWBV0005822"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België, houdende vaststelling van een ontginningsgrens voor de aan beide zijden van de grens langs de Maas gelegen steenkolenmijnen

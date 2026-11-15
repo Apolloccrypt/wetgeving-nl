@@ -8,7 +8,7 @@ laatste_update: 1964-11-13
 status: geldig
 toestand: 1964-11-13
 bron: "https://wetten.overheid.nl/BWBV0006201"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag betreffende vereenvoudiging aan te brengen in de inspectie van emigranten aan boord van schepen

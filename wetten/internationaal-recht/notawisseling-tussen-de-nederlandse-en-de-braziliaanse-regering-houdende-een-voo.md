@@ -8,7 +8,7 @@ laatste_update: 1937-03-15
 status: geldig
 toestand: 1937-03-15
 bron: "https://wetten.overheid.nl/BWBV0005941"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Notawisseling tussen de Nederlandse en de Braziliaanse Regering houdende een voorlopige overeenkomst tot regeling der handelsbetrekkingen

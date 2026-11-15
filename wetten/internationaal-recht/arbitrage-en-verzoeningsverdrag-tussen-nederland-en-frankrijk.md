@@ -8,7 +8,7 @@ laatste_update: 1930-05-10
 status: geldig
 toestand: 1930-05-10
 bron: "https://wetten.overheid.nl/BWBV0005958"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Arbitrage- en verzoeningsverdrag tussen Nederland en Frankrijk

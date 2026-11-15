@@ -8,7 +8,7 @@ laatste_update: 1971-07-07
 status: geldig
 toestand: 1971-07-07
 bron: "https://wetten.overheid.nl/BWBV0006250"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Algemene Akte nopens vreedzame regeling van internationale geschillen

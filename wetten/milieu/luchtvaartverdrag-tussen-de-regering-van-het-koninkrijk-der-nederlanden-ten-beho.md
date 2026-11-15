@@ -8,7 +8,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBV0006597"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Luchtvaartverdrag tussen de Regering van het Koninkrijk der Nederlanden, ten behoeve van Curaçao, en de Federale Regering van Oostenrijk

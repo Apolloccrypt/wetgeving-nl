@@ -8,7 +8,7 @@ laatste_update: 1964-11-13
 status: geldig
 toestand: 1964-11-13
 bron: "https://wetten.overheid.nl/BWBV0006224"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag betreffende de invoering van of de handhaving van methodes tot vaststelling van minimum lonen

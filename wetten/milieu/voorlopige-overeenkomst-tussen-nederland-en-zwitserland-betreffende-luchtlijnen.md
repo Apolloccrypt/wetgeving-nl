@@ -8,7 +8,7 @@ laatste_update: 1962-11-01
 status: geldig
 toestand: 1962-11-01
 bron: "https://wetten.overheid.nl/BWBV0005830"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Voorlopige Overeenkomst tussen Nederland en Zwitserland betreffende luchtlijnen

@@ -8,7 +8,7 @@ laatste_update: 1921-11-28
 status: geldig
 toestand: 1921-11-28
 bron: "https://wetten.overheid.nl/BWBV0006322"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verklaring houdende erkenning van het recht tot het voeren van een vlag door Staten zonder zeekust

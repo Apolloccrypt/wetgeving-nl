@@ -8,7 +8,7 @@ laatste_update: 1948-06-02
 status: geldig
 toestand: 1948-06-02
 bron: "https://wetten.overheid.nl/BWBV0005759"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Overeenkomst inzake de toelating van stagiaires in Frankrijk en in Nederland

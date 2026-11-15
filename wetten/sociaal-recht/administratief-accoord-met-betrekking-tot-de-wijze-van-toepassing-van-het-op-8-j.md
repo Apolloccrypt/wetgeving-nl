@@ -8,7 +8,7 @@ laatste_update: 1953-10-01
 status: geldig
 toestand: 1953-10-01
 bron: "https://wetten.overheid.nl/BWBV0005800"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Administratief Accoord met betrekking tot de wijze van toepassing van het op 8 juli 1950 tussen Nederland en het Groothertogdom Luxemburg gesloten Algemeen Verdrag inzake de sociale zekerheid

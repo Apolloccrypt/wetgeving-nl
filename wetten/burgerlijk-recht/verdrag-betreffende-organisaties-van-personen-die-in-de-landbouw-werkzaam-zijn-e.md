@@ -8,7 +8,7 @@ laatste_update: 1978-01-26
 status: geldig
 toestand: 1978-01-26
 bron: "https://wetten.overheid.nl/BWBV0006013"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Verdrag betreffende organisaties van personen die in de landbouw werkzaam zijn en hun rol in de sociaal-economische ontwikkeling

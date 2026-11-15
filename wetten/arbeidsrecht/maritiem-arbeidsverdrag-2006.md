@@ -8,7 +8,7 @@ laatste_update: 2024-12-23
 status: geldig
 toestand: 2024-12-23
 bron: "https://wetten.overheid.nl/BWBV0006220"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Maritiem arbeidsverdrag, 2006

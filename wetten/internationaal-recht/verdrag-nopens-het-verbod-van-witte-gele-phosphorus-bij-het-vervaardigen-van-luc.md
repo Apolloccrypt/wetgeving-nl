@@ -8,7 +8,7 @@ laatste_update: 1912-01-01
 status: geldig
 toestand: 1912-01-01
 bron: "https://wetten.overheid.nl/BWBV0006275"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag nopens het verbod van witte (gele) phosphorus bij het vervaardigen van lucifers

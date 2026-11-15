@@ -8,7 +8,7 @@ laatste_update: 1888-05-01
 status: geldig
 toestand: 1888-05-01
 bron: "https://wetten.overheid.nl/BWBV0006463"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Internationale Overeenkomst tot bescherming der onderzeese telegraafkabels, met additioneel artikel

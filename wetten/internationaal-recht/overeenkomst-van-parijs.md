@@ -8,7 +8,7 @@ laatste_update: 2017-08-27
 status: geldig
 toestand: 2017-08-27
 bron: "https://wetten.overheid.nl/BWBV0006603"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Overeenkomst van Parijs

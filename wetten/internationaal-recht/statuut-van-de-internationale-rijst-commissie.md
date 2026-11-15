@@ -8,7 +8,7 @@ laatste_update: 1973-11-30
 status: geldig
 toestand: 1973-11-30
 bron: "https://wetten.overheid.nl/BWBV0005694"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Statuut van de Internationale Rijst Commissie

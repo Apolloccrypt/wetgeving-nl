@@ -8,7 +8,7 @@ laatste_update: 1843-08-29
 status: geldig
 toestand: 1843-08-29
 bron: "https://wetten.overheid.nl/BWBV0006041"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Overeenkomst tussen Nederland en België tot regeling van de afwatering van Vlaanderen

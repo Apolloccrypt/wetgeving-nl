@@ -8,7 +8,7 @@ laatste_update: 1974-06-29
 status: geldig
 toestand: 1974-06-29
 bron: "https://wetten.overheid.nl/BWBV0005883"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Verdrag betreffende de arbeidsinspectie in de landbouw

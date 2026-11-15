@@ -8,7 +8,7 @@ laatste_update: 1971-06-14
 status: geldig
 toestand: 1971-06-14
 bron: "https://wetten.overheid.nl/BWBV0005681"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Luchtvaartovereenkomst tussen het Koninkrijk der Nederlanden en Ierland

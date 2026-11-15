@@ -8,7 +8,7 @@ laatste_update: 1875-03-01
 status: geldig
 toestand: 1875-03-01
 bron: "https://wetten.overheid.nl/BWBV0006050"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Pruisen tot regeling van de indijking van de Dollard

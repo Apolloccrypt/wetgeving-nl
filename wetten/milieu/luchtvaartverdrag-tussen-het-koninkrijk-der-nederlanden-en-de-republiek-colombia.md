@@ -7,7 +7,7 @@ laatste_update: 2014-11-24
 status: geldig
 toestand: 2014-11-24
 bron: "https://wetten.overheid.nl/BWBV0006442"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Luchtvaartverdrag tussen het Koninkrijk der Nederlanden en de Republiek Colombia

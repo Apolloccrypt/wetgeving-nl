@@ -8,7 +8,7 @@ laatste_update: 1950-08-25
 status: geldig
 toestand: 1950-08-25
 bron: "https://wetten.overheid.nl/BWBV0005661"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Notawisseling houdende een overeenkomst tussen Nederland en Luxemburg inzake de plaatsing van Nederlandse landarbeiders in Luxemburg

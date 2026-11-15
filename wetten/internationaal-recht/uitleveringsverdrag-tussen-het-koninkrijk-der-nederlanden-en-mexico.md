@@ -8,7 +8,7 @@ laatste_update: 1909-07-02
 status: geldig
 toestand: 1909-07-02
 bron: "https://wetten.overheid.nl/BWBV0006119"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Uitleveringsverdrag tussen het Koninkrijk der Nederlanden en Mexico

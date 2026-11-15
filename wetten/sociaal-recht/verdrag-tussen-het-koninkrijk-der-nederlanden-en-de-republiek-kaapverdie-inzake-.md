@@ -7,7 +7,7 @@ laatste_update: 2013-06-28
 status: geldig
 toestand: 2013-06-28
 bron: "https://wetten.overheid.nl/BWBV0006214"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Kaapverdië inzake wederzijdse administratieve bijstand in douanezaken

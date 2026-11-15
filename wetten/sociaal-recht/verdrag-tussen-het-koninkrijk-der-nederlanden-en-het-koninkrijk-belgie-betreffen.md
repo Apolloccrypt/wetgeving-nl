@@ -8,7 +8,7 @@ laatste_update: 1960-06-15
 status: geldig
 toestand: 1960-06-15
 bron: "https://wetten.overheid.nl/BWBV0005728"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België betreffende de toepassing der wederzijdse wetgeving op het punt der sociale verzekering

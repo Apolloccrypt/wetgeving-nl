@@ -8,7 +8,7 @@ laatste_update: 1909-04-27
 status: geldig
 toestand: 1909-04-27
 bron: "https://wetten.overheid.nl/BWBV0006077"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag betreffende de burgerlijke rechtsvordering

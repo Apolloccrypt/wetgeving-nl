@@ -8,7 +8,7 @@ laatste_update: 1994-02-24
 status: geldig
 toestand: 1994-02-24
 bron: "https://wetten.overheid.nl/BWBV0006498"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Akkoord tussen de Nederlandse Minister van Volksgezondheid en Milieuhygiëne en de Belgische Minister van Sociale Voorzorg inzake de verzekering voor geneeskundige verzorging

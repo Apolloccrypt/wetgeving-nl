@@ -8,7 +8,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBV0006576"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Interim-verdrag tussen het Koninkrijk der Nederlanden en de Republiek Kosovo betreffende de vestiging van de Kosovo Relocated Specialist Judicial Institution in Nederland

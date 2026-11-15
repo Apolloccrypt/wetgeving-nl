@@ -8,7 +8,7 @@ laatste_update: 1994-01-06
 status: geldig
 toestand: 1994-01-06
 bron: "https://wetten.overheid.nl/BWBV0006105"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Overeenkomst inzake het onderhoud van de Worm en de daartoe behorende kunstwerken in het Nederlands-Duitse grensgebied

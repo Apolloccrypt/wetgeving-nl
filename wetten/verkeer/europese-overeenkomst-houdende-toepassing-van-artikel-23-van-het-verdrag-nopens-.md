@@ -8,7 +8,7 @@ laatste_update: 1956-10-09
 status: geldig
 toestand: 1956-10-09
 bron: "https://wetten.overheid.nl/BWBV0005696"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Europese Overeenkomst houdende toepassing van artikel 23 van het Verdrag nopens het wegverkeer van 1949, betreffende de afmetingen en gewichten der op bepaalde wegen van de Overeenkomstsluitende Partijen toegelaten voertuigen

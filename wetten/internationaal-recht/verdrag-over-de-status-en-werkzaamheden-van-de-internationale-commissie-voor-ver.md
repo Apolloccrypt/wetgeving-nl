@@ -8,7 +8,7 @@ laatste_update: 2026-04-24
 status: geldig
 toestand: 2026-04-24
 bron: "https://wetten.overheid.nl/BWBV0006432"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag over de status en werkzaamheden van de Internationale Commissie voor Vermiste Personen

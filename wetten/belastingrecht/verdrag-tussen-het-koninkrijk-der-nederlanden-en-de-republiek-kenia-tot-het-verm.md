@@ -7,7 +7,7 @@ laatste_update: 2015-07-22
 status: geldig
 toestand: 2015-07-22
 bron: "https://wetten.overheid.nl/BWBV0006535"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Kenia tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen

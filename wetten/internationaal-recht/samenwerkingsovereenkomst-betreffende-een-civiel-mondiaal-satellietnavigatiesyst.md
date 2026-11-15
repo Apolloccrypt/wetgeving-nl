@@ -8,7 +8,7 @@ laatste_update: 2016-07-01
 status: geldig
 toestand: 2016-07-01
 bron: "https://wetten.overheid.nl/BWBV0006545"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Samenwerkingsovereenkomst betreffende een civiel mondiaal satellietnavigatiesysteem (Civil Global Navigation Satellite System) (GNSS) tussen de Europese Gemeenschap en haar Lidstaten, enerzijds, en de Republiek Korea, anderzijds

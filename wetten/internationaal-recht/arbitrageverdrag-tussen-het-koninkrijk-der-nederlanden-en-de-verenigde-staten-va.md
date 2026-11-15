@@ -8,7 +8,7 @@ laatste_update: 1930-07-17
 status: geldig
 toestand: 1930-07-17
 bron: "https://wetten.overheid.nl/BWBV0006114"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Arbitrageverdrag tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika

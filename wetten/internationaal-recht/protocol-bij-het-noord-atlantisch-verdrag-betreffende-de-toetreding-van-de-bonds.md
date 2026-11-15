@@ -8,7 +8,7 @@ laatste_update: 1955-05-05
 status: geldig
 toestand: 1955-05-05
 bron: "https://wetten.overheid.nl/BWBV0005844"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Protocol bij het Noord-Atlantisch Verdrag betreffende de toetreding van de Bondsrepubliek Duitsland

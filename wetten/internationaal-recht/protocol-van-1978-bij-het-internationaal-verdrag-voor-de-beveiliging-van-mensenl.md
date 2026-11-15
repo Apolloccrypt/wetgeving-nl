@@ -8,7 +8,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBV0006123"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Protocol van 1978 bij het Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974

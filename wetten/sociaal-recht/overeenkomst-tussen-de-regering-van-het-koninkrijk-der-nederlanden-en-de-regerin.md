@@ -8,7 +8,7 @@ laatste_update: 1954-06-01
 status: geldig
 toestand: 1954-06-01
 bron: "https://wetten.overheid.nl/BWBV0005684"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Franse Republiek, ter uitvoering van artikel 4, tweede lid, van het Algemeen Verdrag tussen Nederland en Frankrijk inzake de sociale zekerheid, ondertekend te 's-Gravenhage de 7e januari 1950

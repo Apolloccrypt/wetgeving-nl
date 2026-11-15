@@ -8,7 +8,7 @@ laatste_update: 1949-09-20
 status: geldig
 toestand: 1949-09-20
 bron: "https://wetten.overheid.nl/BWBV0005761"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tussen Nederland en België inzake de uitoefening der veeartsenijkunst in de grensgemeenten

@@ -8,7 +8,7 @@ laatste_update: 1939-04-03
 status: geldig
 toestand: 1939-04-03
 bron: "https://wetten.overheid.nl/BWBV0006274"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Overeenkomst nopens verschillende vraagstukken betreffende het stelsel toepasselijk op de Rijnvaart

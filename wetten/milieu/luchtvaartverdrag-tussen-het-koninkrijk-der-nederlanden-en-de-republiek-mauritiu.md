@@ -8,7 +8,7 @@ laatste_update: 2015-12-01
 status: geldig
 toestand: 2015-12-01
 bron: "https://wetten.overheid.nl/BWBV0006368"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Luchtvaartverdrag tussen het Koninkrijk der Nederlanden en de Republiek Mauritius

@@ -8,7 +8,7 @@ laatste_update: 1950-06-20
 status: geldig
 toestand: 1950-06-20
 bron: "https://wetten.overheid.nl/BWBV0005744"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Overeenkomst tussen de Nederlandse Regering en de Internationale Vluchtelingen Organisatie

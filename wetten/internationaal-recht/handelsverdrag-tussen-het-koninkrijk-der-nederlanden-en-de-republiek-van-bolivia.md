@@ -8,7 +8,7 @@ laatste_update: 1932-10-12
 status: geldig
 toestand: 1932-10-12
 bron: "https://wetten.overheid.nl/BWBV0006012"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Handelsverdrag tussen het Koninkrijk der Nederlanden en de Republiek van Bolivia

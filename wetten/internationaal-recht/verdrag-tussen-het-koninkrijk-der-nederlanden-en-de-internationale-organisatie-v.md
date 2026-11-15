@@ -8,7 +8,7 @@ laatste_update: 2012-06-01
 status: geldig
 toestand: 2012-06-01
 bron: "https://wetten.overheid.nl/BWBV0005699"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Internationale Organisatie voor Migratie inzake de juridische status, de privileges en immuniteiten van de Organisatie en haar medewerkers in Nederland

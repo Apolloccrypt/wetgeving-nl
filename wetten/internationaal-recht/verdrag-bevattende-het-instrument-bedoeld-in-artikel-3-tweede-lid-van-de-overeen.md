@@ -8,7 +8,7 @@ laatste_update: 2010-02-01
 status: geldig
 toestand: 2010-02-01
 bron: "https://wetten.overheid.nl/BWBV0006165"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag bevattende het instrument bedoeld in artikel 3, tweede lid, van de Overeenkomst betreffende uitlevering tussen de Verenigde Staten van Amerika en de Europese Unie, ondertekend te Washington op 25 juni 2003, inzake de toepassing van het Uitleveringsverdrag tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika, ondertekend te 's-Gravenhage op 24 juni 1980

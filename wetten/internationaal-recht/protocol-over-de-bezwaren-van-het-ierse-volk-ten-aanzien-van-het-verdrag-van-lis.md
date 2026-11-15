@@ -8,7 +8,7 @@ laatste_update: 2014-12-01
 status: geldig
 toestand: 2014-12-01
 bron: "https://wetten.overheid.nl/BWBV0005868"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Protocol over de bezwaren van het Ierse volk ten aanzien van het Verdrag van Lissabon

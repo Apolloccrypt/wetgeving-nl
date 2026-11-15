@@ -8,7 +8,7 @@ laatste_update: 1925-08-14
 status: geldig
 toestand: 1925-08-14
 bron: "https://wetten.overheid.nl/BWBV0006335"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag betreffende de Spitsbergen Archipel, met inbegrip van het Bereneiland

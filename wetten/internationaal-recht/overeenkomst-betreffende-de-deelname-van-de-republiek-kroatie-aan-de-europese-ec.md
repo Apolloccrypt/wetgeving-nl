@@ -8,7 +8,7 @@ laatste_update: 2025-02-19
 status: geldig
 toestand: 2025-02-19
 bron: "https://wetten.overheid.nl/BWBV0006381"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Overeenkomst betreffende de deelname van de Republiek Kroatië aan de Europese Economische Ruimte

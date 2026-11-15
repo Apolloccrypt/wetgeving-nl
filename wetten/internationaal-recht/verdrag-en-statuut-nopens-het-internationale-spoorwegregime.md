@@ -8,7 +8,7 @@ laatste_update: 1928-05-22
 status: geldig
 toestand: 1928-05-22
 bron: "https://wetten.overheid.nl/BWBV0006324"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag en Statuut nopens het Internationale Spoorwegregime

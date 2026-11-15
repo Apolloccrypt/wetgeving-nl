@@ -7,7 +7,7 @@ laatste_update: 1998-11-30
 status: geldig
 toestand: 1998-11-30
 bron: "https://wetten.overheid.nl/BWBV0006352"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Chili inzake bevordering en wederzijdse bescherming van investeringen

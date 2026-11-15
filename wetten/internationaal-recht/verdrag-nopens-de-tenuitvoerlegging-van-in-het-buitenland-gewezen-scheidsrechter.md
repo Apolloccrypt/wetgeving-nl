@@ -8,7 +8,7 @@ laatste_update: 1931-11-12
 status: geldig
 toestand: 1931-11-12
 bron: "https://wetten.overheid.nl/BWBV0006244"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag nopens de tenuitvoerlegging van in het buitenland gewezen scheidsrechterlijke uitspraken

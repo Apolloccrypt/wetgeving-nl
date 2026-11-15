@@ -8,7 +8,7 @@ laatste_update: 1920-12-28
 status: geldig
 toestand: 1920-12-28
 bron: "https://wetten.overheid.nl/BWBV0006479"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tussen de Nederlandse en Duitse Regering nopens krediet en steenkolen

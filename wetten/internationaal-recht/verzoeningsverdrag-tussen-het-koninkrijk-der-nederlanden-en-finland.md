@@ -8,7 +8,7 @@ laatste_update: 1929-02-08
 status: geldig
 toestand: 1929-02-08
 bron: "https://wetten.overheid.nl/BWBV0005956"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Verzoeningsverdrag tussen het Koninkrijk der Nederlanden en Finland

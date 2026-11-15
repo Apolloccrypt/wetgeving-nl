@@ -8,7 +8,7 @@ laatste_update: 1948-05-08
 status: geldig
 toestand: 1948-05-08
 bron: "https://wetten.overheid.nl/BWBV0005782"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België nopens samenvoeging van douanebehandeling aan de Nederlands-Belgische grens

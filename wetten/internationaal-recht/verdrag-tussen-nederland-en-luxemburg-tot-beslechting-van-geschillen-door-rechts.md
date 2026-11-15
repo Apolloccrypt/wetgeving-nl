@@ -8,7 +8,7 @@ laatste_update: 1930-08-13
 status: geldig
 toestand: 1930-08-13
 bron: "https://wetten.overheid.nl/BWBV0005962"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tussen Nederland en Luxemburg tot beslechting van geschillen door rechtspraak, arbitrage en verzoening

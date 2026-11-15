@@ -9,7 +9,7 @@ laatste_update: 1932-07-29
 status: geldig
 toestand: 1932-07-29
 bron: "https://wetten.overheid.nl/BWBV0006242"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag ter bestrijding van de valse munterij

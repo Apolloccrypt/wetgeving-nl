@@ -8,7 +8,7 @@ laatste_update: 1924-10-31
 status: geldig
 toestand: 1924-10-31
 bron: "https://wetten.overheid.nl/BWBV0006004"
-opgehaald: 2026-09-15
+opgehaald: 2026-11-15
 ---
 
 # Handelsverdrag tussen het Koninkrijk der Nederlanden en de Tsjechoslowaakse Republiek, met Protocol

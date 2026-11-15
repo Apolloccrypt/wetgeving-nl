@@ -8,7 +8,7 @@ laatste_update: 2017-06-01
 status: geldig
 toestand: 2017-06-01
 bron: "https://wetten.overheid.nl/BWBV0006473"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Overeenkomst tussen de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden) en de Republiek Kazachstan betreffende de terug- en overname

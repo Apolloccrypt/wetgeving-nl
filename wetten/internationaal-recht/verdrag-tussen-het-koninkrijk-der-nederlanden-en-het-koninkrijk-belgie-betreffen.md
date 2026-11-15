@@ -8,7 +8,7 @@ laatste_update: 1929-09-01
 status: geldig
 toestand: 1929-09-01
 bron: "https://wetten.overheid.nl/BWBV0006117"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België betreffende de territoriale rechterlijke bevoegdheid, betreffende het faillissement en betreffende het gezag en de tenuitvoerlegging van rechterlijke beslissingen, van scheidsrechterlijke uitspraken en van authentieke akten

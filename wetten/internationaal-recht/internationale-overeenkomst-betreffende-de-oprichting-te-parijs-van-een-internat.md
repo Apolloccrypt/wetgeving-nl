@@ -8,7 +8,7 @@ laatste_update: 1926-08-26
 status: geldig
 toestand: 1926-08-26
 bron: "https://wetten.overheid.nl/BWBV0006478"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-15
 ---
 
 # Internationale Overeenkomst betreffende de oprichting te Parijs van een Internationaal Bureau voor besmettelijke veeziekten
