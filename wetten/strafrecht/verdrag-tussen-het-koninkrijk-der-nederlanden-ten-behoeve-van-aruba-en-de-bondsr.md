@@ -8,7 +8,7 @@ laatste_update: 2017-06-29
 status: geldig
 toestand: 2017-06-29
 bron: "https://wetten.overheid.nl/BWBV0006687"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Aruba, en de Bondsrepubliek Duitsland inzake de uitwisseling van informatie betreffende belastingen, met inbegrip van strafrechtelijke belastingzaken, met Protocol

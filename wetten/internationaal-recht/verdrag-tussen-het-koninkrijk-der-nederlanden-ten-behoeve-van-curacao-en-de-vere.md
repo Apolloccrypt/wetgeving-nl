@@ -8,7 +8,7 @@ laatste_update: 2019-03-15
 status: geldig
 toestand: 2019-03-15
 bron: "https://wetten.overheid.nl/BWBV0006795"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Curaçao, en de Verenigde Staten van Amerika, inzake toegang tot en gebruik van faciliteiten op Curaçao voor humanitaire bevoorradingen bedoeld voor de bevolking van de Bolivariaanse Republiek Venezuela

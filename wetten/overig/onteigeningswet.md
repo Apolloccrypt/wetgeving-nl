@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0001842"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-16
 ---
 
 # Wet van 28 augustus 1851, regelende de onteigening ten algemeenen nutte

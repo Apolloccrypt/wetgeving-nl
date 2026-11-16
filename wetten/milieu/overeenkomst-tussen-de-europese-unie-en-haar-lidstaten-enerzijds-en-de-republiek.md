@@ -7,7 +7,7 @@ laatste_update: 2021-11-15
 status: geldig
 toestand: 2021-11-15
 bron: "https://wetten.overheid.nl/BWBV0006948"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Overeenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Armenië, anderzijds, inzake een gemeenschappelijke luchtvaartruimte

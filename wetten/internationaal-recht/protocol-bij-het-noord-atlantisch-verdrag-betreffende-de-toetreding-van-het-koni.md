@@ -8,7 +8,7 @@ laatste_update: 2024-03-07
 status: geldig
 toestand: 2024-03-07
 bron: "https://wetten.overheid.nl/BWBV0006964"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Protocol bij het Noord-Atlantisch Verdrag betreffende de toetreding van het Koninkrijk Zweden

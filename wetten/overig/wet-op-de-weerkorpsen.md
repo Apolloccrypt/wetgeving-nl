@@ -9,7 +9,7 @@ laatste_update: 1999-04-01
 status: geldig
 toestand: 1999-04-01
 bron: "https://wetten.overheid.nl/BWBR0001980"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-16
 ---
 
 # Wet van 11 september 1936, houdende voorzieningen omtrent weerkorpsen

@@ -9,7 +9,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0002113"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-16
 ---
 
 # Besluit van 20 juli 1953, tot vaststelling van regelen ter uitvoering van de Inkwartieringswet

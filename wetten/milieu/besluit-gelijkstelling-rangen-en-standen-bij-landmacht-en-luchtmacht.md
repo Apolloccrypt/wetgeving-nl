@@ -9,7 +9,7 @@ laatste_update: 1956-07-01
 status: geldig
 toestand: 1956-07-01
 bron: "https://wetten.overheid.nl/BWBR0002223"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-16
 ---
 
 # Besluit van 20 juni 1956, bepalende de gelijkstelling van rangen en standen bij de landmacht en de luchtmacht

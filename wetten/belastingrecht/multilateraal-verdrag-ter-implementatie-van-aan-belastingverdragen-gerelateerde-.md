@@ -8,7 +8,7 @@ laatste_update: 2019-07-01
 status: geldig
 toestand: 2019-07-01
 bron: "https://wetten.overheid.nl/BWBV0006679"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Multilateraal Verdrag ter implementatie van aan belastingverdragen gerelateerde maatregelen ter voorkoming van grondslaguitholling en winstverschuiving

@@ -9,7 +9,7 @@ laatste_update: 2017-09-01
 status: geldig
 toestand: 2017-09-01
 bron: "https://wetten.overheid.nl/BWBR0001863"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-16
 ---
 
 # Wet van 15 april 1896, houdende bepalingen ter uitvoering van artikel 152, 2de lid, der Grondwet

@@ -9,7 +9,7 @@ laatste_update: 1997-01-01
 status: geldig
 toestand: 1997-01-01
 bron: "https://wetten.overheid.nl/BWBR0001823"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-16
 ---
 
 # Wet van 29 september 1815, houdende instelling van de orde van de Nederlandse Leeuw

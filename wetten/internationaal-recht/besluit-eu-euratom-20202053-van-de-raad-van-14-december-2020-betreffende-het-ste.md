@@ -8,7 +8,7 @@ laatste_update: 2021-06-01
 status: geldig
 toestand: 2021-06-01
 bron: "https://wetten.overheid.nl/BWBV0006891"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Besluit (EU, Euratom) 2020/2053 van de Raad van 14 december 2020 betreffende het stelsel van eigen middelen van de Europese Unie en tot intrekking van Besluit 2014/335/EU, Euratom

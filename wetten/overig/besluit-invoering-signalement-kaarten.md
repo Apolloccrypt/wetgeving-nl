@@ -9,7 +9,7 @@ laatste_update: 1999-01-01
 status: geldig
 toestand: 1999-01-01
 bron: "https://wetten.overheid.nl/BWBR0001862"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-16
 ---
 
 # Besluit van 22 februari 1896, tot invoering van signalement-kaarten

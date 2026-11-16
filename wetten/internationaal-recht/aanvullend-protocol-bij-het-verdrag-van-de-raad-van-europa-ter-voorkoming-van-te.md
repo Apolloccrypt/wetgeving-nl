@@ -8,7 +8,7 @@ laatste_update: 2021-10-01
 status: geldig
 toestand: 2021-10-01
 bron: "https://wetten.overheid.nl/BWBV0006641"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Aanvullend Protocol bij het Verdrag van de Raad van Europa ter voorkoming van terrorisme

@@ -7,7 +7,7 @@ laatste_update: 2019-06-30
 status: geldig
 toestand: 2019-06-30
 bron: "https://wetten.overheid.nl/BWBV0006837"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Investeringsbeschermingsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Socialistische Republiek Vietnam, anderzijds

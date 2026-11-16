@@ -7,7 +7,7 @@ laatste_update: 2016-10-30
 status: geldig
 toestand: 2016-10-30
 bron: "https://wetten.overheid.nl/BWBV0006661"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Brede Economische en Handelsovereenkomst tussen Canada, enerzijds, en de Europese Unie en haar lidstaten, anderzijds

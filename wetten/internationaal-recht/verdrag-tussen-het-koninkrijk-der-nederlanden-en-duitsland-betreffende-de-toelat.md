@@ -8,7 +8,7 @@ laatste_update: 1907-01-29
 status: geldig
 toestand: 1907-01-29
 bron: "https://wetten.overheid.nl/BWBV0006689"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en Duitsland betreffende de toelating, vestiging en uitzetting van wederzijdse onderdanen op wederzijds staatsgebied

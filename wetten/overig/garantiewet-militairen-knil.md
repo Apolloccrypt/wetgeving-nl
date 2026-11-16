@@ -9,7 +9,7 @@ laatste_update: 2011-02-23
 status: geldig
 toestand: 2011-02-23
 bron: "https://wetten.overheid.nl/BWBR0002077"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-16
 ---
 
 # Wet van 22 juni 1951, houdende vaststelling van zekere waarborgen jegens bepaalde groepen militairen en gewezen militairen van het voormalige K.N.I.L., alsmede hun nagelaten betrekkingen

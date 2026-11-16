@@ -9,7 +9,7 @@ laatste_update: 1989-08-01
 status: geldig
 toestand: 1989-08-01
 bron: "https://wetten.overheid.nl/BWBR0002122"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-16
 ---
 
 # Besluit van 27 November 1953, tot uitvoering van artikel 4, vierde lid, en artikel 5, tweede lid, der Zondagswet

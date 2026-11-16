@@ -8,7 +8,7 @@ laatste_update: 2017-09-01
 status: geldig
 toestand: 2017-09-01
 bron: "https://wetten.overheid.nl/BWBV0006629"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Verdrag inzake sociale zekerheid tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Volksrepubliek China

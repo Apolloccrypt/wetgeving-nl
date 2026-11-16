@@ -7,7 +7,7 @@ laatste_update: 2013-07-01
 status: geldig
 toestand: 2013-07-01
 bron: "https://wetten.overheid.nl/BWBV0006688"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Protocol bij de Europees-mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Arabische Republiek Egypte, anderzijds, teneinde rekening te houden met de toetreding van de Republiek Kroatië tot de Europese Unie

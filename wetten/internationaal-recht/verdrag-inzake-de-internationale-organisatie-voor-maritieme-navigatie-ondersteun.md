@@ -8,7 +8,7 @@ laatste_update: 2024-08-22
 status: geldig
 toestand: 2024-08-22
 bron: "https://wetten.overheid.nl/BWBV0006901"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Verdrag inzake de Internationale Organisatie voor Maritieme Navigatie Ondersteunende Dienstverlening

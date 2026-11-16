@@ -8,7 +8,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBV0006657"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Protocol bij de Overeenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Zwitserse Bondsstaat, anderzijds, over het vrije verkeer van personen, in verband met de deelname van de Republiek Kroatië als overeenkomstsluitende partij, ten gevolge van haar toetreding tot de Europese Unie

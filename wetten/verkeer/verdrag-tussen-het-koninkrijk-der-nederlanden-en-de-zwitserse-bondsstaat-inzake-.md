@@ -8,7 +8,7 @@ laatste_update: 2023-05-01
 status: geldig
 toestand: 2023-05-01
 bron: "https://wetten.overheid.nl/BWBV0006976"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Zwitserse Bondsstaat inzake samenwerking met betrekking tot verkeersovertredingen

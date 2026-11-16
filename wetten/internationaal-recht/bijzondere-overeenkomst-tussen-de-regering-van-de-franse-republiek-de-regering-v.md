@@ -7,7 +7,7 @@ laatste_update: 2020-07-07
 status: geldig
 toestand: 2020-07-07
 bron: "https://wetten.overheid.nl/BWBV0006871"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Bijzondere Overeenkomst tussen de Regering van de Franse Republiek, de Regering van het Koninkrijk België, de Regering van het Koninkrijk der Nederlanden en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake veiligheidsvraagstukken met betrekking tot de treinen via de vaste kanaalverbinding

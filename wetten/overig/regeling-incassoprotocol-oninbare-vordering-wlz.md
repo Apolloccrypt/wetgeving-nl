@@ -8,7 +8,7 @@ laatste_update: 2026-11-07
 status: geldig
 toestand: 2026-11-07
 bron: "https://wetten.overheid.nl/BWBR0053322"
-opgehaald: 2026-11-15
+opgehaald: 2026-11-16
 ---
 
 # Regeling incassoprotocol oninbare vordering Wlz

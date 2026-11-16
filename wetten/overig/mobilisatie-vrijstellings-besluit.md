@@ -9,7 +9,7 @@ laatste_update: 1997-10-17
 status: geldig
 toestand: 1997-10-17
 bron: "https://wetten.overheid.nl/BWBR0001994"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-16
 ---
 
 # Besluit van 18 April 1939, betreffende vrijstelling en voorloopige vrijstelling van werkelijken dienst in geval van buitengewone omstandigheden

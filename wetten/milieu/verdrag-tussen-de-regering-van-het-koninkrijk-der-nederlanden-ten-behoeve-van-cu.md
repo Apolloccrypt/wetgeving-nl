@@ -7,7 +7,7 @@ laatste_update: 2020-11-25
 status: geldig
 toestand: 2020-11-25
 bron: "https://wetten.overheid.nl/BWBV0006889"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden, ten behoeve van Curaçao, en de Regering van de Verenigde Arabische Emiraten inzake luchtdiensten tussen en via hun onderscheiden grondgebieden

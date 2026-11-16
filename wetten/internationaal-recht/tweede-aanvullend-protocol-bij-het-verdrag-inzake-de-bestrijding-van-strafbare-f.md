@@ -7,7 +7,7 @@ laatste_update: 2022-05-12
 status: geldig
 toestand: 2022-05-12
 bron: "https://wetten.overheid.nl/BWBV0006966"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Tweede aanvullend protocol bij het Verdrag inzake de bestrijding van strafbare feiten verbonden met elektronische netwerken, inzake nauwere samenwerking en verstrekking van elektronisch bewijsmateriaal

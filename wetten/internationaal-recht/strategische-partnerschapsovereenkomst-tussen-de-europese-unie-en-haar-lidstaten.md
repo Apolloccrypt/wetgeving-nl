@@ -8,7 +8,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBV0006765"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Strategische partnerschapsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Japan, anderzijds

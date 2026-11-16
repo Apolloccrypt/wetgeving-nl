@@ -9,7 +9,7 @@ laatste_update: 1927-02-06
 status: geldig
 toestand: 1927-02-06
 bron: "https://wetten.overheid.nl/BWBR0001917"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-16
 ---
 
 # Wet van 2 juli 1923, tot regeling van de pensioenen voor de reserve-adjudanten-onderofficier van de landmacht, die op grond van de door hen bekleede betrekking geacht worden voortdurend in werkelijken dienst te zijn of geweest te zijn, alsmede voor hunne weduwen en weezen

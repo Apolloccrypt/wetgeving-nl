@@ -9,7 +9,7 @@ laatste_update: 1949-01-26
 status: geldig
 toestand: 1949-01-26
 bron: "https://wetten.overheid.nl/BWBR0002045"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-16
 ---
 
 # Wet van 13 januari 1949, houdende instelling van schuldregisters voor geldleningen ten laste van het Rijk

@@ -8,7 +8,7 @@ laatste_update: 2023-07-01
 status: geldig
 toestand: 2023-07-01
 bron: "https://wetten.overheid.nl/BWBV0006923"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Europese Overeenkomst tot bescherming van kleine huisdieren

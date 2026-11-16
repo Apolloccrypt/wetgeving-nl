@@ -8,7 +8,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBV0006650"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België voor de aanpassing van de grens tussen de Nederlandse gemeenten Eijsden-Margraten en Maastricht en de Belgische stad Wezet

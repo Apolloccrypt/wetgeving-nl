@@ -7,7 +7,7 @@ laatste_update: 2019-06-21
 status: geldig
 toestand: 2019-06-21
 bron: "https://wetten.overheid.nl/BWBV0006855"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Verdrag inzake het uitbannen van geweld en intimidatie op de werkvloer

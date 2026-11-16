@@ -9,7 +9,7 @@ laatste_update: 1956-01-01
 status: geldig
 toestand: 1956-01-01
 bron: "https://wetten.overheid.nl/BWBR0002187"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-16
 ---
 
 # Besluit van 18 Juni 1955, houdende uitvoering van artikel 11 van de Instellingswet Productschap voor Siergewassen

@@ -8,7 +8,7 @@ laatste_update: 2020-10-01
 status: geldig
 toestand: 2020-10-01
 bron: "https://wetten.overheid.nl/BWBV0006849"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Staat Koeweit inzake luchtdiensten tussen en via hun onderscheiden grondgebieden

@@ -8,7 +8,7 @@ laatste_update: 2021-01-08
 status: geldig
 toestand: 2021-01-08
 bron: "https://wetten.overheid.nl/BWBV0006749"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Kaderovereenkomst inzake de oprichting van de International Solar Alliance (ISA)

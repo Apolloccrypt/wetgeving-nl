@@ -8,7 +8,7 @@ laatste_update: 2023-09-01
 status: geldig
 toestand: 2023-09-01
 bron: "https://wetten.overheid.nl/BWBV0006769"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Protocol tussen de Republiek Armenië en de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden) ter uitvoering van de Overeenkomst tussen de Europese Unie en de Republiek Armenië inzake de overname van personen die zonder vergunning op het grondgebied verblijven

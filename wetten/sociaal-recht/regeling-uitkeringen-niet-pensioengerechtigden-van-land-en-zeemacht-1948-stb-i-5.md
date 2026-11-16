@@ -9,7 +9,7 @@ laatste_update: 1974-07-27
 status: geldig
 toestand: 1974-07-27
 bron: "https://wetten.overheid.nl/BWBR0002044"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-16
 ---
 
 # Besluit van 13 december 1948, houdende hernieuwde vaststelling van een regeling tot toekenning van geldelijke uitkeringen aan niet-pensioengerechtigden van land- en zeemacht

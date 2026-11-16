@@ -7,7 +7,7 @@ laatste_update: 2017-04-10
 status: geldig
 toestand: 2017-04-10
 bron: "https://wetten.overheid.nl/BWBV0006678"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Verdrag inzake samenwerking en wederzijdse administratieve bijstand in douanezaken tussen het Koninkrijk der Nederlanden en de Republiek Angola

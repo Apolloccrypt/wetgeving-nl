@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0002060"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-16
 ---
 
 # Wet van 11 mei 1950, tot vaststelling van zekere waarborgen jegens bepaalde groepen burgerlijke overheidsdienaren en gewezen burgerlijke overheidsdienaren van Indonesië en hun nagelaten betrekkingen

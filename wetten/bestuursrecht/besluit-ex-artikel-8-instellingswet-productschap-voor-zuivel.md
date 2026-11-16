@@ -9,7 +9,7 @@ laatste_update: 1956-10-15
 status: geldig
 toestand: 1956-10-15
 bron: "https://wetten.overheid.nl/BWBR0002229"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-16
 ---
 
 # Besluit van 20 augustus 1956, houdende uitvoering van artikel 8 van de Instellingswet Productschap voor Zuivel

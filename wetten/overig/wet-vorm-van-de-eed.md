@@ -9,7 +9,7 @@ laatste_update: 1911-08-24
 status: geldig
 toestand: 1911-08-24
 bron: "https://wetten.overheid.nl/BWBR0001881"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-16
 ---
 
 # Wet van 17 juli 1911, houdende voorziening in de bestaande onzekerheid ten aanzien van den vorm, waarin eeden, beloften en bevestigingen moeten worden afgelegd

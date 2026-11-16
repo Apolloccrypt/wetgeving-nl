@@ -8,7 +8,7 @@ laatste_update: 2022-04-01
 status: geldig
 toestand: 2022-04-01
 bron: "https://wetten.overheid.nl/BWBV0006779"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Luchtvaartverdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Curaçao, en de Tsjechische Republiek

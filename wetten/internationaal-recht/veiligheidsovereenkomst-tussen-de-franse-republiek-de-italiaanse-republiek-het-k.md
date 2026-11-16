@@ -8,7 +8,7 @@ laatste_update: 2020-12-05
 status: geldig
 toestand: 2020-12-05
 bron: "https://wetten.overheid.nl/BWBV0006669"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Veiligheidsovereenkomst tussen de Franse Republiek, de Italiaanse Republiek, het Koninkrijk der Nederlanden, de Portugese Republiek en het Koninkrijk Spanje betreffende de bescherming van gerubriceerde informatie van de European Gendarmerie Force (EUROGENDFOR)

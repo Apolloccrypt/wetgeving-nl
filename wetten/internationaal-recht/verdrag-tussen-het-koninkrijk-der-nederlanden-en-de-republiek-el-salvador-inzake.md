@@ -8,7 +8,7 @@ laatste_update: 2017-12-01
 status: geldig
 toestand: 2017-12-01
 bron: "https://wetten.overheid.nl/BWBV0006631"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek El Salvador inzake het vrij verrichten van betaalde werkzaamheden door afhankelijke gezinsleden van diplomatiek, consulair, administratief en technisch personeel van diplomatieke vertegenwoordigingen en consulaire posten

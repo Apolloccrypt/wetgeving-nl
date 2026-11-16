@@ -8,7 +8,7 @@ laatste_update: 2021-03-01
 status: geldig
 toestand: 2021-03-01
 bron: "https://wetten.overheid.nl/BWBV0006725"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Brede en versterkte Partnerschapsovereenkomst tussen de Europese Unie en de Europese Gemeenschap voor Atoomenergie en hun lidstaten, enerzijds, en de Republiek Armenië, anderzijds

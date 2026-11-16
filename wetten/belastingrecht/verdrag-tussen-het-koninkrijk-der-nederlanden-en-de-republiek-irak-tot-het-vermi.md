@@ -7,7 +7,7 @@ laatste_update: 2019-07-01
 status: geldig
 toestand: 2019-07-01
 bron: "https://wetten.overheid.nl/BWBV0006823"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Irak tot het vermijden van dubbele belasting met betrekking tot belastingen naar het inkomen en het voorkomen van het ontgaan en ontwijken van belasting

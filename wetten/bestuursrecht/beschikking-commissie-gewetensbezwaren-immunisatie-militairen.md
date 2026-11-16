@@ -8,7 +8,7 @@ laatste_update: 1953-11-18
 status: geldig
 toestand: 1953-11-18
 bron: "https://wetten.overheid.nl/BWBR0002121"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-16
 ---
 
 # Beschikking Commissie Gewetensbezwaren Immunisatie Militairen

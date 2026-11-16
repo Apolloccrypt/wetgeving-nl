@@ -8,7 +8,7 @@ laatste_update: 2023-04-21
 status: geldig
 toestand: 2023-04-21
 bron: "https://wetten.overheid.nl/BWBV0006819"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Verdrag tussen de Zwitserse Bondsstaat en de Republiek Oostenrijk met betrekking tot de oprichting en werking van het Internationaal Centrum voor de ontwikkeling van migratiebeleid (ICMPD), zoals gewijzigd bij het Verdrag van 27 maart 1996, het Verdrag van 26 april 1996 en het Verdrag van 25 juni 2003, en zoals aangevuld door het Verdrag van 26 mei 2014

@@ -8,7 +8,7 @@ laatste_update: 2023-09-01
 status: geldig
 toestand: 2023-09-01
 bron: "https://wetten.overheid.nl/BWBV0006809"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Uitvoeringsprotocol tussen de Benelux-staten (het Koninkrijk België, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden) en Oekraïne bij de Overnameovereenkomst tussen de Europese Gemeenschap en Oekraïne

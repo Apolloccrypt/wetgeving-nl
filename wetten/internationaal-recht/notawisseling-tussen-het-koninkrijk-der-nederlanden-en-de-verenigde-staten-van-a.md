@@ -8,7 +8,7 @@ laatste_update: 2020-04-22
 status: geldig
 toestand: 2020-04-22
 bron: "https://wetten.overheid.nl/BWBV0006777"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Notawisseling tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika houdende een verdrag tot uitbreiding van het Verdrag tussen het Koninkijk der Nederlanden en de Verenigde Staten van Amerika inzake de status van personeel van de Verenigde Staten in het Caribische deel van het Koninkrijk tot Curaçao

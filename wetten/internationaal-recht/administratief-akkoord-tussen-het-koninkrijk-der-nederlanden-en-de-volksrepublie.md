@@ -8,7 +8,7 @@ laatste_update: 2023-09-03
 status: geldig
 toestand: 2023-09-03
 bron: "https://wetten.overheid.nl/BWBV0006918"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Administratief Akkoord tussen het Koninkrijk der Nederlanden en de Volksrepubliek Bangladesh inzake het project 'Char Development and Settlement Project – Bridging (Additional Financing)'

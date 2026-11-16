@@ -8,7 +8,7 @@ laatste_update: 2022-04-01
 status: geldig
 toestand: 2022-04-01
 bron: "https://wetten.overheid.nl/BWBV0006954"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Suriname inzake de status van militair en burgerpersoneel van het Ministerie van Defensie van Nederland dat in verband met opleidingen en trainingen aanwezig zal zijn in de Republiek Suriname

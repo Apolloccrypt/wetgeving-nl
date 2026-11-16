@@ -7,7 +7,7 @@ laatste_update: 2018-10-19
 status: geldig
 toestand: 2018-10-19
 bron: "https://wetten.overheid.nl/BWBV0006789"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Partnerschaps- en Samenwerkingsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Singapore, anderzijds

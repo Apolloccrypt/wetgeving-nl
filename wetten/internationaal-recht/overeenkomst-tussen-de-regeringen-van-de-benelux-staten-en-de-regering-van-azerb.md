@@ -7,7 +7,7 @@ laatste_update: 2017-11-23
 status: geldig
 toestand: 2017-11-23
 bron: "https://wetten.overheid.nl/BWBV0006707"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Overeenkomst tussen de Regeringen van de Benelux-Staten en de Regering van Azerbeidzjan inzake de afschaffing van de visumplicht voor houders van dienstpaspoorten

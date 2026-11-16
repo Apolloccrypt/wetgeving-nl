@@ -9,7 +9,7 @@ laatste_update: 1950-06-24
 status: geldig
 toestand: 1950-06-24
 bron: "https://wetten.overheid.nl/BWBR0002062"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-16
 ---
 
 # Wet van 16 Juni 1950, houdende vaststelling van een overgangsregeling met betrekking tot de bevoegdheid der notarissen, in verband met de overgang van de gemeente Urk naar het arrondissement Zwolle bij de wet van 29 Maart 1950, Stb. K 113

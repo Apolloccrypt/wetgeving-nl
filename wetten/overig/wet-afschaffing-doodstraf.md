@@ -9,7 +9,7 @@ laatste_update: 1886-09-01
 status: geldig
 toestand: 1886-09-01
 bron: "https://wetten.overheid.nl/BWBR0001846"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-16
 ---
 
 # Wet van 17 september 1870, tot afschaffing der doodstraf

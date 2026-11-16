@@ -7,7 +7,7 @@ laatste_update: 2019-07-13
 status: geldig
 toestand: 2019-07-13
 bron: "https://wetten.overheid.nl/BWBV0006835"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Regionale Overeenkomst inzake de erkenning van studies, diploma’s en graden op het gebied van het hoger onderwijs in Latijns-Amerika en in het Caraïbische gebied

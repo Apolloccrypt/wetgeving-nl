@@ -7,7 +7,7 @@ laatste_update: 2001-11-02
 status: geldig
 toestand: 2001-11-02
 bron: "https://wetten.overheid.nl/BWBV0006655"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Verdrag inzake de bescherming van het cultureel erfgoed onder water

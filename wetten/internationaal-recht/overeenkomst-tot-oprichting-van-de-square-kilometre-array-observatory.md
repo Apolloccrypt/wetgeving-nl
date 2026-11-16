@@ -8,7 +8,7 @@ laatste_update: 2021-01-15
 status: geldig
 toestand: 2021-01-15
 bron: "https://wetten.overheid.nl/BWBV0006802"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Overeenkomst tot oprichting van de Square Kilometre Array Observatory

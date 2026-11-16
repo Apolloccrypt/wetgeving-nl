@@ -8,7 +8,7 @@ laatste_update: 2021-03-31
 status: geldig
 toestand: 2021-03-31
 bron: "https://wetten.overheid.nl/BWBV0006867"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Overeenkomst tot beëindiging van investeringsverdragen tussen de lidstaten van de Europese Unie

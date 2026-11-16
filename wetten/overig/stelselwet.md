@@ -9,7 +9,7 @@ laatste_update: 1821-08-01
 status: geldig
 toestand: 1821-08-01
 bron: "https://wetten.overheid.nl/BWBR0001826"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-16
 ---
 
 # Wet van 12 juli 1821, houdende de grondslagen van het stelsel van 's Rijks belastingen, met den jare 1822

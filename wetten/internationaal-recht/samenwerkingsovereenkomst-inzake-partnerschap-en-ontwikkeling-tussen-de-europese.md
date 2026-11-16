@@ -7,7 +7,7 @@ laatste_update: 2017-02-18
 status: geldig
 toestand: 2017-02-18
 bron: "https://wetten.overheid.nl/BWBV0006667"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Samenwerkingsovereenkomst inzake partnerschap en ontwikkeling tussen de Europese Unie en haar lidstaten, enerzijds, en de Islamitische Republiek Afghanistan, anderzijds

@@ -7,7 +7,7 @@ laatste_update: 2016-06-10
 status: geldig
 toestand: 2016-06-10
 bron: "https://wetten.overheid.nl/BWBV0006613"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Economische partnerschapsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de SADC-EPO-staten, anderzijds

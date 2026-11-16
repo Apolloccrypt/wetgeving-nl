@@ -8,7 +8,7 @@ laatste_update: 2020-04-01
 status: geldig
 toestand: 2020-04-01
 bron: "https://wetten.overheid.nl/BWBV0006615"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Verdrag van de Raad van Europa inzake een integrale benadering van veiligheid en gastvrijheid bij voetbalwedstrijden en andere sportevenementen

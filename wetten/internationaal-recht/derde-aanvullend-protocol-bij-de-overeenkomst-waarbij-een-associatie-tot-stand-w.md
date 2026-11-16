@@ -8,7 +8,7 @@ laatste_update: 2019-07-01
 status: geldig
 toestand: 2019-07-01
 bron: "https://wetten.overheid.nl/BWBV0006719"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Derde Aanvullend Protocol bij de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Chili, anderzijds, in verband met de toetreding van de Republiek Kroatië tot de Europese Unie

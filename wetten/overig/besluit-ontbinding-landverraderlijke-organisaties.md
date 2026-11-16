@@ -9,7 +9,7 @@ laatste_update: 1945-12-07
 status: geldig
 toestand: 1945-12-07
 bron: "https://wetten.overheid.nl/BWBR0002010"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-16
 ---
 
 # Besluit van 17 september 1944, houdende vaststelling van het Besluit ontbinding landverraderlijke organisaties

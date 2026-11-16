@@ -8,7 +8,7 @@ laatste_update: 2022-10-21
 status: geldig
 toestand: 2022-10-21
 bron: "https://wetten.overheid.nl/BWBV0006721"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Kaderovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Australië, anderzijds

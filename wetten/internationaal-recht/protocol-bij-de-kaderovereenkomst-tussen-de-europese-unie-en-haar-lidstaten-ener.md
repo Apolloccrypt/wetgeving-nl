@@ -8,7 +8,7 @@ laatste_update: 2018-08-01
 status: geldig
 toestand: 2018-08-01
 bron: "https://wetten.overheid.nl/BWBV0006783"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Protocol bij de kaderovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Korea, anderzijds, om rekening te houden met de toetreding van de Republiek Kroatië tot de Europese Unie

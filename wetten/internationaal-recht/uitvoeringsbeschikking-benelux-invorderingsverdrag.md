@@ -8,7 +8,7 @@ laatste_update: 1956-12-15
 status: geldig
 toestand: 1956-12-15
 bron: "https://wetten.overheid.nl/BWBR0002239"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-16
 ---
 
 # Uitvoeringsbeschikking Benelux Invorderingsverdrag

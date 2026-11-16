@@ -8,7 +8,7 @@ laatste_update: 2017-08-28
 status: geldig
 toestand: 2017-08-28
 bron: "https://wetten.overheid.nl/BWBV0006693"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Europese Organisatie voor de Veiligheid van de Luchtvaart inzake het verlenen van luchtvaartdiensten aan het operationele luchtverkeer

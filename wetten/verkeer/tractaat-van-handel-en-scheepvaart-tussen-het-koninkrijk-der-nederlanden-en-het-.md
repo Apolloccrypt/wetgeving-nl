@@ -8,7 +8,7 @@ laatste_update: 1891-05-23
 status: geldig
 toestand: 1891-05-23
 bron: "https://wetten.overheid.nl/BWBV0006617"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Tractaat van handel en scheepvaart tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Ierland

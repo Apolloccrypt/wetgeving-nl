@@ -8,7 +8,7 @@ laatste_update: 2023-03-01
 status: geldig
 toestand: 2023-03-01
 bron: "https://wetten.overheid.nl/BWBV0006926"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden, ten behoeve van Sint Maarten, en de Regering van de Verenigde Arabische Emiraten inzake luchtdiensten tussen en via hun onderscheiden grondgebieden

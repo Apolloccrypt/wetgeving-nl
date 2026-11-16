@@ -7,7 +7,7 @@ laatste_update: 2016-07-14
 status: geldig
 toestand: 2016-07-14
 bron: "https://wetten.overheid.nl/BWBV0006611"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko inzake wederzijdse administratieve bijstand in douanezaken

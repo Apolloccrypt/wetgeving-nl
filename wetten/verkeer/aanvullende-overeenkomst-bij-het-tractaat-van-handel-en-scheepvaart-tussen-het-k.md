@@ -8,7 +8,7 @@ laatste_update: 1851-04-16
 status: geldig
 toestand: 1851-04-16
 bron: "https://wetten.overheid.nl/BWBV0006621"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Aanvullende Overeenkomst bij het Tractaat van handel en scheepvaart tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Ierland

@@ -7,7 +7,7 @@ laatste_update: 2021-10-18
 status: geldig
 toestand: 2021-10-18
 bron: "https://wetten.overheid.nl/BWBV0006942"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Overeenkomst inzake luchtvervoer tussen de Europese Unie en haar lidstaten, enerzijds, en de Staat Qatar, anderzijds

@@ -7,7 +7,7 @@ laatste_update: 2019-11-25
 status: geldig
 toestand: 2019-11-25
 bron: "https://wetten.overheid.nl/BWBV0006925"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Mondiale Overeenkomst inzake de erkenning van kwalificaties in het hoger onderwijs

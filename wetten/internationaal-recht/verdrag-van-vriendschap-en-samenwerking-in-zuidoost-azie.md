@@ -8,7 +8,7 @@ laatste_update: 2022-08-03
 status: geldig
 toestand: 2022-08-03
 bron: "https://wetten.overheid.nl/BWBV0006893"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Verdrag van Vriendschap en Samenwerking in Zuidoost-Azië

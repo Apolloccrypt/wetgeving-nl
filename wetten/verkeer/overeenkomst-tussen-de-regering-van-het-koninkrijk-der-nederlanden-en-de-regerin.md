@@ -9,7 +9,7 @@ laatste_update: 2025-06-13
 status: geldig
 toestand: 2025-06-13
 bron: "https://wetten.overheid.nl/BWBV0006873"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Overeenkomst tussen de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en de Regering van het Koninkrijk der Nederlanden met betrekking tot grenscontroles op het treinverkeer tussen Nederland en het Verenigd Koninkrijk via de vaste kanaalverbinding

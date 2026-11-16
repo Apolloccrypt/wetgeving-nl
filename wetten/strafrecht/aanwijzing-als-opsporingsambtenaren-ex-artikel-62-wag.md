@@ -8,7 +8,7 @@ laatste_update: 1964-01-31
 status: geldig
 toestand: 1964-01-31
 bron: "https://wetten.overheid.nl/BWBR0002203"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-16
 ---
 
 # Aanwijzing als opsporingsambtenaren ex artikel 62 WAG

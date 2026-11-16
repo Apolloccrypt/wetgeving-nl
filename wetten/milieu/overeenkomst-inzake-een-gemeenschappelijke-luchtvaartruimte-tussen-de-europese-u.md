@@ -7,7 +7,7 @@ laatste_update: 2021-10-12
 status: geldig
 toestand: 2021-10-12
 bron: "https://wetten.overheid.nl/BWBV0006941"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Overeenkomst inzake een gemeenschappelijke luchtvaartruimte tussen de Europese Unie en haar lidstaten, enerzijds en Oekraïne, anderzijds

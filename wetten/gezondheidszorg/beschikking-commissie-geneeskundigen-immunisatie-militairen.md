@@ -9,7 +9,7 @@ laatste_update: 1954-01-18
 status: geldig
 toestand: 1954-01-18
 bron: "https://wetten.overheid.nl/BWBR0002125"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-16
 ---
 
 # Beschikking Commissie Geneeskundigen Immunisatie Militairen

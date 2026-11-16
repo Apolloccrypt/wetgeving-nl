@@ -8,7 +8,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBV0006929"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en Oekraïne inzake de voorrechten en immuniteiten van verbindingsofficieren die door Oekraïne bij Europol gedetacheerd worden

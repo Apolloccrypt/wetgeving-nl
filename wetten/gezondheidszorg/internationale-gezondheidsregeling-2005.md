@@ -8,7 +8,7 @@ laatste_update: 2016-07-11
 status: geldig
 toestand: 2016-07-11
 bron: "https://wetten.overheid.nl/BWBV0006969"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Internationale Gezondheidsregeling (2005)

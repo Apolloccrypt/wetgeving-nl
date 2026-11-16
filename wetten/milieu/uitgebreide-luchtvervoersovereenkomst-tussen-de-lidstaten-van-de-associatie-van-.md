@@ -7,7 +7,7 @@ laatste_update: 2022-10-17
 status: geldig
 toestand: 2022-10-17
 bron: "https://wetten.overheid.nl/BWBV0006978"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Uitgebreide Luchtvervoersovereenkomst tussen de lidstaten van de Associatie van Zuidoost-Aziatische Staten, enerzijds, en de Europese Unie en haar lidstaten, anderzijds

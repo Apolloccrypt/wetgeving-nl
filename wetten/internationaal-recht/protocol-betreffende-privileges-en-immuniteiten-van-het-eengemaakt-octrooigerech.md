@@ -8,7 +8,7 @@ laatste_update: 2021-10-27
 status: geldig
 toestand: 2021-10-27
 bron: "https://wetten.overheid.nl/BWBV0006612"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Protocol betreffende privileges en immuniteiten van het eengemaakt octrooigerecht

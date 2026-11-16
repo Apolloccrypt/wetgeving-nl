@@ -7,7 +7,7 @@ laatste_update: 2018-10-10
 status: geldig
 toestand: 2018-10-10
 bron: "https://wetten.overheid.nl/BWBV0006775"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Protocol tot wijziging van het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens

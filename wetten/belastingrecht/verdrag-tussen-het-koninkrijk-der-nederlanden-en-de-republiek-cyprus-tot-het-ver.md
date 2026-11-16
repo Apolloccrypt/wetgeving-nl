@@ -8,7 +8,7 @@ laatste_update: 2023-06-30
 status: geldig
 toestand: 2023-06-30
 bron: "https://wetten.overheid.nl/BWBV0006909"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Cyprus tot het vermijden van dubbele belasting met betrekking tot belastingen naar het inkomen en het voorkomen van het ontduiken en ontwijken van belasting

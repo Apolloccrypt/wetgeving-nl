@@ -8,7 +8,7 @@ laatste_update: 2023-04-04
 status: geldig
 toestand: 2023-04-04
 bron: "https://wetten.overheid.nl/BWBV0006962"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Protocol bij het Noord-Atlantisch Verdrag betreffende de toetreding van de Republiek Finland

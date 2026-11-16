@@ -7,7 +7,7 @@ laatste_update: 2020-11-26
 status: geldig
 toestand: 2020-11-26
 bron: "https://wetten.overheid.nl/BWBV0006903"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Protocol bij de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Unie en haar lidstaten, enerzijds, en Midden-Amerika, anderzijds, om rekening te houden met de toetreding van Kroatië tot de Europese Unie

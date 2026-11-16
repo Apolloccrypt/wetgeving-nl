@@ -8,7 +8,7 @@ laatste_update: 2022-07-21
 status: geldig
 toestand: 2022-07-21
 bron: "https://wetten.overheid.nl/BWBV0006639"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Partnerschapsovereenkomst op het gebied van betrekkingen en samenwerking tussen de Europese Unie en haar lidstaten, enerzijds, en Nieuw-Zeeland, anderzijds

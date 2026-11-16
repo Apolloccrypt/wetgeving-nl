@@ -8,7 +8,7 @@ laatste_update: 2026-06-01
 status: geldig
 toestand: 2026-06-01
 bron: "https://wetten.overheid.nl/BWBV0006652"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Verdrag inzake luchtdiensten tussen het Koninkrijk der Nederlanden, ten behoeve van Curaçao, en het Gemenebest van de Bahama's

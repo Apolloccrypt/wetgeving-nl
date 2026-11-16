@@ -8,7 +8,7 @@ laatste_update: 2018-08-28
 status: geldig
 toestand: 2018-08-28
 bron: "https://wetten.overheid.nl/BWBV0006683"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en Oekraïne inzake internationale juridische samenwerking met betrekking tot misdrijven die verband houden met het neerhalen van vlucht MH17 van Malaysia Airlines op 17 juli 2014

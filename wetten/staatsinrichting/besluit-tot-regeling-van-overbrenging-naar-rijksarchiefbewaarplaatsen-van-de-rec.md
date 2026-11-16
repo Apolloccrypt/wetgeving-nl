@@ -9,7 +9,7 @@ laatste_update: 1929-05-19
 status: geldig
 toestand: 1929-05-19
 bron: "https://wetten.overheid.nl/BWBR0001897"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-16
 ---
 
 # Besluit van 28 augustus 1919, tot regeling van de overbrenging naar de Rijksarchiefbewaarplaatsen van de rechterlijke archieven van 1811 tot 1838

@@ -8,7 +8,7 @@ laatste_update: 2019-09-02
 status: geldig
 toestand: 2019-09-02
 bron: "https://wetten.overheid.nl/BWBV0006853"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Regeling Geschillenbeslechting Nederlandse Taalunie (2019) (REGES Taalunie 2019)

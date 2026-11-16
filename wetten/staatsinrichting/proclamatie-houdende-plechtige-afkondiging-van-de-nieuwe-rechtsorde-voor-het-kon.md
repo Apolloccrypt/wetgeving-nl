@@ -9,7 +9,7 @@ laatste_update: 1954-12-29
 status: geldig
 toestand: 1954-12-29
 bron: "https://wetten.overheid.nl/BWBR0002167"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-16
 ---
 
 # Proclamatie van 29 December 1954, houdende plechtige afkondiging van de nieuwe rechtsorde voor het Koninkrijk, zoals deze is vervat in het Statuut voor het Koninkrijk der Nederlanden en van de acte van bevestiging van het Statuut voor het Koninkrijk der Nederlanden

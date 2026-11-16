@@ -8,7 +8,7 @@ laatste_update: 2025-01-29
 status: geldig
 toestand: 2025-01-29
 bron: "https://wetten.overheid.nl/BWBV0006764"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Radioreglement 1979

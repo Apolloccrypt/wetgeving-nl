@@ -9,7 +9,7 @@ laatste_update: 1963-01-01
 status: geldig
 toestand: 1963-01-01
 bron: "https://wetten.overheid.nl/BWBR0002248"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-16
 ---
 
 # Besluit van 1 juli 1957, houdende verhoging uitkeringen niet-pensioengerechtigden van land- en zeemacht met een algemene toeslag

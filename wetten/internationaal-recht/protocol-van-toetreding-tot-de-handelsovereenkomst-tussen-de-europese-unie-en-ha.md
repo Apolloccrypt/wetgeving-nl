@@ -8,7 +8,7 @@ laatste_update: 2024-11-01
 status: geldig
 toestand: 2024-11-01
 bron: "https://wetten.overheid.nl/BWBV0006654"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Protocol van toetreding tot de Handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds, om rekening te houden met de toetreding van Ecuador

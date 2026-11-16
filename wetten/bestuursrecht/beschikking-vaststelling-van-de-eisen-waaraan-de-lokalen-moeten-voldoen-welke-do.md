@@ -8,7 +8,7 @@ laatste_update: 1997-12-24
 status: geldig
 toestand: 1997-12-24
 bron: "https://wetten.overheid.nl/BWBR0002023"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-16
 ---
 
 # Beschikking vaststelling van de eisen, waaraan de lokalen moeten voldoen, welke door de gemeentebesturen beschikbaar worden gesteld voor de herkeuring, bedoeld in de IJkwet 1997 (Staatsblad no. 693)

@@ -8,7 +8,7 @@ laatste_update: 2021-07-01
 status: geldig
 toestand: 2021-07-01
 bron: "https://wetten.overheid.nl/BWBV0006833"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Luchtvaartverdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Sint Maarten, en de Federale Republiek Brazilië

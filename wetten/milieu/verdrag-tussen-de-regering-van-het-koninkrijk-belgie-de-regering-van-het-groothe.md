@@ -8,7 +8,7 @@ laatste_update: 2018-08-01
 status: geldig
 toestand: 2018-08-01
 bron: "https://wetten.overheid.nl/BWBV0006665"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk België, de Regering van het Groothertogdom Luxemburg, de Regering van de Franse Republiek en de Regering van het Koninkrijk der Nederlanden betreffende de samenwerking inzake luchtverdediging tegen niet-militaire luchtdreigingen

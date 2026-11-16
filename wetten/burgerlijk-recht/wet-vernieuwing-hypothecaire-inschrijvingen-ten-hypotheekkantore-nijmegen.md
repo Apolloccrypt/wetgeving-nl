@@ -9,7 +9,7 @@ laatste_update: 1947-09-01
 status: geldig
 toestand: 1947-09-01
 bron: "https://wetten.overheid.nl/BWBR0002031"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-16
 ---
 
 # Wet van 25 juli 1947, tot het treffen van maatregelen in zake de vernieuwing van hypothecaire inschrijvingen ten hypotheekkantore te Nijmegen

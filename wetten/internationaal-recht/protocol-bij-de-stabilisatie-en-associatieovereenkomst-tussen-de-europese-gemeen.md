@@ -7,7 +7,7 @@ laatste_update: 2017-02-01
 status: geldig
 toestand: 2017-02-01
 bron: "https://wetten.overheid.nl/BWBV0006676"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Protocol bij de stabilisatie- en associatieovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds en Bosnië en Herzegovina, anderzijds om rekening te houden met de toetreding van de Republiek Kroatië tot de Europese Unie

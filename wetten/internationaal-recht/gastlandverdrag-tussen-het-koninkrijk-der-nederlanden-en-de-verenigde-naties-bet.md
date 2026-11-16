@@ -8,7 +8,7 @@ laatste_update: 2017-09-07
 status: geldig
 toestand: 2017-09-07
 bron: "https://wetten.overheid.nl/BWBV0006698"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Gastlandverdrag tussen het Koninkrijk der Nederlanden en de Verenigde Naties betreffende het Centre for Artificial Intelligence and Robotics in '-s Gravenhage van het United Nations Interregional Crime and Justice Research Institute

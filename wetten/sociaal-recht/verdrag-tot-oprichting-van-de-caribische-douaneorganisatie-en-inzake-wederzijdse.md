@@ -7,7 +7,7 @@ laatste_update: 2019-05-22
 status: geldig
 toestand: 2019-05-22
 bron: "https://wetten.overheid.nl/BWBV0006825"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Verdrag tot oprichting van de Caribische Douaneorganisatie en inzake wederzijdse administratieve bijstand in douanezaken

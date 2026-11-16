@@ -7,7 +7,7 @@ laatste_update: 2016-12-12
 status: geldig
 toestand: 2016-12-12
 bron: "https://wetten.overheid.nl/BWBV0006659"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Overeenkomst inzake politieke dialoog en samenwerking tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Cuba, anderzijds

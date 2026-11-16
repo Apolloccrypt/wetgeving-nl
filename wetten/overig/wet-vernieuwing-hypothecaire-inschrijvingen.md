@@ -9,7 +9,7 @@ laatste_update: 1879-01-01
 status: geldig
 toestand: 1879-01-01
 bron: "https://wetten.overheid.nl/BWBR0001850"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-16
 ---
 
 # Wet van 5 juni 1878, tot vernieuwing der bestaande hypothecaire inschrijvingen

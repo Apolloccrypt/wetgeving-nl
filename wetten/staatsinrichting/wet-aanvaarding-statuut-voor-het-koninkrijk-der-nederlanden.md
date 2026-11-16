@@ -9,7 +9,7 @@ laatste_update: 1998-10-09
 status: geldig
 toestand: 1998-10-09
 bron: "https://wetten.overheid.nl/BWBR0002153"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-16
 ---
 
 # Wet van 28 October 1954, houdende aanvaarding van een statuut voor het Koninkrijk der Nederlanden

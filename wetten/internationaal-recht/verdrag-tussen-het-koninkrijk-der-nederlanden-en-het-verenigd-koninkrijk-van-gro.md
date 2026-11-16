@@ -8,7 +8,7 @@ laatste_update: 2018-07-19
 status: geldig
 toestand: 2018-07-19
 bron: "https://wetten.overheid.nl/BWBV0006753"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake de exploitatie van het Sillimanite-veld

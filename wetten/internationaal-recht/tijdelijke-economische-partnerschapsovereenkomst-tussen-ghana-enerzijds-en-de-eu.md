@@ -7,7 +7,7 @@ laatste_update: 2016-07-28
 status: geldig
 toestand: 2016-07-28
 bron: "https://wetten.overheid.nl/BWBV0006637"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Tijdelijke Economische Partnerschapsovereenkomst tussen Ghana, enerzijds, en de Europese Gemeenschap en haar lidstaten, anderzijds

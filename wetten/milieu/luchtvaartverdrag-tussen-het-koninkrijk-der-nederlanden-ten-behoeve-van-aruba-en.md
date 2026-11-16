@@ -7,7 +7,7 @@ laatste_update: 2018-06-05
 status: geldig
 toestand: 2018-06-05
 bron: "https://wetten.overheid.nl/BWBV0006743"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Luchtvaartverdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Aruba, en de Republiek Colombia

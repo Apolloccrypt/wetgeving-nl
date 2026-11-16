@@ -8,7 +8,7 @@ laatste_update: 2020-07-31
 status: geldig
 toestand: 2020-07-31
 bron: "https://wetten.overheid.nl/BWBV0006739"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Democratische Volksrepubliek Algerije tot het vermijden van dubbele belasting met betrekking tot belastingen naar het inkomen en naar het vermogen en het voorkomen van het ontduiken en ontwijken van belasting

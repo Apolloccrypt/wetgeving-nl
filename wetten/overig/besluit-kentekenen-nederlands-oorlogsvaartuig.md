@@ -9,7 +9,7 @@ laatste_update: 1956-03-01
 status: geldig
 toestand: 1956-03-01
 bron: "https://wetten.overheid.nl/BWBR0002209"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-16
 ---
 
 # Besluit van 19 maart 1956, houdende de kentekenen van een Nederlands oorlogsvaartuig

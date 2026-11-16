@@ -7,7 +7,7 @@ laatste_update: 2012-06-24
 status: geldig
 toestand: 2012-06-24
 bron: "https://wetten.overheid.nl/BWBV0006805"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Verdrag van Beijing inzake audiovisuele uitvoeringen

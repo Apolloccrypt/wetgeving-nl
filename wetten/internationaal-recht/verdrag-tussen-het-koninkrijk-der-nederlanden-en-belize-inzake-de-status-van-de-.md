@@ -8,7 +8,7 @@ laatste_update: 2019-05-01
 status: geldig
 toestand: 2019-05-01
 bron: "https://wetten.overheid.nl/BWBV0006709"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en Belize inzake de status van de strijdkrachten van het Koninkrijk der Nederlanden gedurende hun aanwezigheid in Belize

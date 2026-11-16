@@ -8,7 +8,7 @@ laatste_update: 2019-05-16
 status: geldig
 toestand: 2019-05-16
 bron: "https://wetten.overheid.nl/BWBV0006670"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Protocol tot wijziging van de Luchtvervoersovereenkomst tussen Canada en de Europese Gemeenschap en haar lidstaten, teneinde rekening te houden met de toetreding van de Republiek Kroatië tot de Europese Unie

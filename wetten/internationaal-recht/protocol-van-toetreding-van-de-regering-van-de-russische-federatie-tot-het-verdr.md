@@ -8,7 +8,7 @@ laatste_update: 2018-03-22
 status: geldig
 toestand: 2018-03-22
 bron: "https://wetten.overheid.nl/BWBV0006645"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Protocol van toetreding van de Regering van de Russische Federatie tot het Verdrag van 16 december 1988 inzake de bouw en de werking van een "European Synchrotron Radiation Facility" (Europese synchrotronstralingsfaciliteit)

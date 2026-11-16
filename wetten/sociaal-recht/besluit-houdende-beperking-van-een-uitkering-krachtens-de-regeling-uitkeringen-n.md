@@ -9,7 +9,7 @@ laatste_update: 2006-01-01
 status: geldig
 toestand: 2006-01-01
 bron: "https://wetten.overheid.nl/BWBR0002249"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-16
 ---
 
 # Besluit van 4 juli 1957, houdende beperking van een uitkering, toegekend krachtens de Regeling uitkeringen niet-pensioengerechtigden van land- en zeemacht (Stb. 1948, I 543) bij gelijktijdige aanspraak op een pensioen krachtens de Algemene Ouderdomswet

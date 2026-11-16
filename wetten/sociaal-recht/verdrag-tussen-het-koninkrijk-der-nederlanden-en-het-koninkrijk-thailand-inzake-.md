@@ -8,7 +8,7 @@ laatste_update: 2020-06-01
 status: geldig
 toestand: 2020-06-01
 bron: "https://wetten.overheid.nl/BWBV0006767"
-opgehaald: 2026-09-16
+opgehaald: 2026-11-16
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Thailand inzake wederzijdse administratieve bijstand in douanezaken
