@@ -7,7 +7,7 @@ laatste_update: 2023-11-15
 status: geldig
 toestand: 2023-11-15
 bron: "https://wetten.overheid.nl/BWBV0007046"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Partnerschapsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de leden van de Organisatie van Staten in Afrika, het Caribisch Gebied en de Stille Oceaan, anderzijds

@@ -7,7 +7,7 @@ laatste_update: 2024-09-05
 status: geldig
 toestand: 2024-09-05
 bron: "https://wetten.overheid.nl/BWBV0007089"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Kaderverdrag van de Raad van Europa over artificiële intelligentie en de mensenrechten, de democratie en de rechtsstaat

@@ -8,7 +8,7 @@ laatste_update: 2006-04-13
 status: geldig
 toestand: 2006-04-13
 bron: "https://wetten.overheid.nl/BWBR0011903"
-opgehaald: 2026-09-18
+opgehaald: 2026-11-17
 ---
 
 # Vaststelling selectielijst handelingen Minister van Sociale Zaken en Werkgelegenheid en de onder hem ressorterende actoren op het beleidsterrein sociale voorzieningen over de periode 1940-1996

@@ -7,7 +7,7 @@ laatste_update: 2022-12-14
 status: geldig
 toestand: 2022-12-14
 bron: "https://wetten.overheid.nl/BWBV0006981"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Kaderovereenkomst inzake een partnerschap en samenwerking tussen de Europese Unie en haar lidstaten, enerzijds, en de regering van Maleisië, anderzijds

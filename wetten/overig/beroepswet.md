@@ -9,7 +9,7 @@ laatste_update: 2026-11-16
 status: geldig
 toestand: 2026-11-16
 bron: "https://wetten.overheid.nl/BWBR0002170"
-opgehaald: 2026-11-16
+opgehaald: 2026-11-17
 ---
 
 # Wet van 2 februari 1955, houdende nieuwe regeling van de organisatie en procedure van de Centrale Raad van Beroep en de raden van beroep

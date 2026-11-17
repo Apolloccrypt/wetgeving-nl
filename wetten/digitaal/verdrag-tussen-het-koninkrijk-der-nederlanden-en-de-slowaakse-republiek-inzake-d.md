@@ -8,7 +8,7 @@ laatste_update: 2025-05-01
 status: geldig
 toestand: 2025-05-01
 bron: "https://wetten.overheid.nl/BWBV0007066"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Slowaakse Republiek inzake de uitwisseling en wederzijdse beveiliging van gerubriceerde gegevens

@@ -7,7 +7,7 @@ laatste_update: 2026-05-15
 status: geldig
 toestand: 2026-05-15
 bron: "https://wetten.overheid.nl/BWBV0007151"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek India inzake wederzijdse administratieve bijstand in douanezaken

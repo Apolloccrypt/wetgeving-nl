@@ -9,7 +9,7 @@ laatste_update: 2006-05-10
 status: geldig
 toestand: 2006-05-10
 bron: "https://wetten.overheid.nl/BWBR0002552"
-opgehaald: 2026-09-18
+opgehaald: 2026-11-17
 ---
 
 # Wet van 2 februari 1967, houdende overgangsregeling in verband met aanpassing van de Ziektewet aan de Wet op de arbeidsongeschiktheidsverzekering

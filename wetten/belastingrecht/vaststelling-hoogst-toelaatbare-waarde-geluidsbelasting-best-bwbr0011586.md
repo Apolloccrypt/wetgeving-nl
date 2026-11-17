@@ -8,7 +8,7 @@ laatste_update: 2000-10-31
 status: geldig
 toestand: 2000-10-31
 bron: "https://wetten.overheid.nl/BWBR0011586"
-opgehaald: 2026-09-18
+opgehaald: 2026-11-17
 ---
 
 # Vaststelling hoogst toelaatbare waarde geluidsbelasting bestaande woningen, gemeente Liesveld

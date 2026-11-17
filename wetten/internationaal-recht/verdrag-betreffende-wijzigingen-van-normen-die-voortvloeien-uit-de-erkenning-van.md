@@ -7,7 +7,7 @@ laatste_update: 2023-06-12
 status: geldig
 toestand: 2023-06-12
 bron: "https://wetten.overheid.nl/BWBV0007027"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Verdrag betreffende wijzigingen van normen die voortvloeien uit de erkenning van een veilige en gezonde werkomgeving als een fundamenteel beginsel

@@ -7,7 +7,7 @@ laatste_update: 1998-09-09
 status: geldig
 toestand: 1998-09-09
 bron: "https://wetten.overheid.nl/BWBV0007054"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Verdrag tussen de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, de Regering van de Franse Republiek, de Regering van de Bondsrepubliek Duitsland en de Regering van de Italiaanse Republiek tot oprichting van een Gezamenlijke Organisatie voor Samenwerking op Defensie-materieelgebied (Organisation Conjointe de Coopération en matière d'Armement) OCCAR

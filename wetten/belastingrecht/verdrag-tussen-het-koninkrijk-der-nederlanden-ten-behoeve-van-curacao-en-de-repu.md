@@ -8,7 +8,7 @@ laatste_update: 2026-02-28
 status: geldig
 toestand: 2026-02-28
 bron: "https://wetten.overheid.nl/BWBV0007096"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Curaçao, en de Republiek Cyprus tot het vermijden van dubbele belasting met betrekking tot belastingen naar het inkomen en het voorkomen van het ontduiken en ontwijken van belasting

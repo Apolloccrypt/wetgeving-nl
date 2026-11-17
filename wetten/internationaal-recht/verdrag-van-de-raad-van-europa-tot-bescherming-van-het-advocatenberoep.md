@@ -7,7 +7,7 @@ laatste_update: 2025-05-13
 status: geldig
 toestand: 2025-05-13
 bron: "https://wetten.overheid.nl/BWBV0007100"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Verdrag van de Raad van Europa tot bescherming van het advocatenberoep

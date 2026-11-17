@@ -7,7 +7,7 @@ laatste_update: 2023-05-26
 status: geldig
 toestand: 2023-05-26
 bron: "https://wetten.overheid.nl/BWBV0006996"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Verdrag tussen de regering van het Koninkrijk der Nederlanden en de regering van de Franse Republiek inzake de grensafbakening tussen het Koninkrijk der Nederlanden (Sint Maarten) en de Franse Republiek (Saint-Martin)

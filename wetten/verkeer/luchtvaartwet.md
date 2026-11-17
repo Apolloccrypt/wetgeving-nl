@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0002267"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Wet van 15 januari 1958, houdende nieuwe regelen omtrent de luchtvaart

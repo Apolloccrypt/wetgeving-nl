@@ -8,7 +8,7 @@ laatste_update: 2023-09-01
 status: geldig
 toestand: 2023-09-01
 bron: "https://wetten.overheid.nl/BWBV0007044"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Verdrag betreffende de erkenning en de tenuitvoerlegging van buitenlandse vonnissen in burgerlijke of handelszaken

@@ -9,7 +9,7 @@ laatste_update: 2026-06-04
 status: geldig
 toestand: 2026-06-04
 bron: "https://wetten.overheid.nl/BWBR0002393"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Wet van 12 december 1962, houdende een regeling betreffende het vorderen van zaken door de landsoverheid

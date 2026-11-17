@@ -8,7 +8,7 @@ laatste_update: 2001-07-25
 status: geldig
 toestand: 2001-07-25
 bron: "https://wetten.overheid.nl/BWBR0012642"
-opgehaald: 2026-09-18
+opgehaald: 2026-11-17
 ---
 
 # Register 'Niet bekostigde educatie' van instellingen met diploma-erkenning (artikel 1.4a.1 WEB)

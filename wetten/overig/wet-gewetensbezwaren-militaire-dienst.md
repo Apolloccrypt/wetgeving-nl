@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0002386"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Wet van 27 september 1962, houdende regeling inzake vrijstelling van de militaire dienst wegens ernstige gewetensbezwaren

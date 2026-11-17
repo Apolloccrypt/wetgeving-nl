@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0002528"
-opgehaald: 2026-09-18
+opgehaald: 2026-11-17
 ---
 
 # Besluit van 18 mei 1966, tot uitvoering van artikel 15, tweede lid, van de Vorderingswet 1962

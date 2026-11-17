@@ -7,7 +7,7 @@ laatste_update: 2023-11-17
 status: geldig
 toestand: 2023-11-17
 bron: "https://wetten.overheid.nl/BWBV0007074"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Verdrag inzake de overeenkomst van internationaal spoorwegvervoer van goederen

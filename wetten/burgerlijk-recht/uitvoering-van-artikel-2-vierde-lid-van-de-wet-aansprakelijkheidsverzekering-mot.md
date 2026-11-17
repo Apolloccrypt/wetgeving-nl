@@ -8,7 +8,7 @@ laatste_update: 1965-01-24
 status: geldig
 toestand: 1965-01-24
 bron: "https://wetten.overheid.nl/BWBR0002477"
-opgehaald: 2026-09-18
+opgehaald: 2026-11-17
 ---
 
 # Uitvoering van artikel 2, vierde lid, van de Wet aansprakelijkheidsverzekering motorrijtuigen

@@ -7,7 +7,7 @@ laatste_update: 2023-12-13
 status: geldig
 toestand: 2023-12-13
 bron: "https://wetten.overheid.nl/BWBV0007087"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Geavanceerde Kaderovereenkomst tussen de Europese Unie en haar Lidstaten, enerzijds, en de Republiek Chili, anderzijds

@@ -5,11 +5,11 @@ identifier: "BWBR0050406"
 categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling"
 publicatiedatum: 2025-01-01
-laatste_update: 2026-09-01
+laatste_update: 2026-11-12
 status: geldig
-toestand: 2026-09-01
+toestand: 2026-11-12
 bron: "https://wetten.overheid.nl/BWBR0050406"
-opgehaald: 2026-11-03
+opgehaald: 2026-11-17
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 5 november 2024, nr. 2024-0000896682, houdende de vaststelling van een tijdelijke subsidieregeling gericht op het uitvoeren van interventies ter uitbreiding van de arbeidstijd voor wetenschappelijk onderzoek in het kader van het programma Meer uren werkt! (Tijdelijke subsidieregeling onderzoek interventies ter uitbreiding arbeidstijd)
@@ -22,9 +22,9 @@ In deze regeling wordt verstaan onder:
 
 - *aanvraagtijdvak:* een door de Minister vastgesteld tijdvak waarin aanvragen voor subsidie op grond van deze regeling kunnen worden ingediend;
 
-- *aanvrager:* een organisatievorm, bedoeld in [artikel 2.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&hoofdstuk=2&artikel=2.10&z=2026-09-01&g=2026-09-01), die de subsidie aanvraagt op basis van deze regeling, of in het geval van een samenwerkingsverband, de hoofdaanvrager;
+- *aanvrager:* een organisatievorm, bedoeld in [artikel 2.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&hoofdstuk=2&artikel=2.10&z=2026-11-12&g=2026-11-12), die de subsidie aanvraagt op basis van deze regeling, of in het geval van een samenwerkingsverband, de hoofdaanvrager;
 
-- *activiteit:* een activiteit als bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&hoofdstuk=2&artikel=2.2&z=2026-09-01&g=2026-09-01);
+- *activiteit:* een activiteit als bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&hoofdstuk=2&artikel=2.2&z=2026-11-12&g=2026-11-12);
 
 - *bevoegd gezag van een school:* het bevoegd gezag van een uit ’s Rijks kas bekostigde school, zoals bedoeld in [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1), [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1) en [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1);
 
@@ -34,11 +34,11 @@ In deze regeling wordt verstaan onder:
 
 - *btw:* omzetbelasting als bedoeld in [artikel 1 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=1);
 
-- *deelnemende organisaties:* organisaties bij welke de activiteiten worden uitgevoerd met een minimum van vijftig werknemers per organisatie, waarbij eventuele verschillende vestigingen onderdeel zijn van de deelnemende organisatie en geen aparte deelnemende organisaties;
+- *deelnemende organisaties:* organisaties bij welke de activiteiten worden uitgevoerd met een minimum van vijftig werknemers per organisatie, waarbij eventuele verschillende vestigingen onderdeel kunnen zijn van de deelnemende organisatie;
 
 - *deeltijdwerknemer:* een werknemer van wie de werktijd korter is dan een arbeidsduur welke gemiddeld vijfendertig werkuren per week omvat;
 
-- *hoofdaanvrager:* een organisatie als bedoeld in [artikel 2.10, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&hoofdstuk=2&artikel=2.10&z=2026-09-01&g=2026-09-01);
+- *hoofdaanvrager:* een organisatie als bedoeld in [artikel 2.10, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&hoofdstuk=2&artikel=2.10&z=2026-11-12&g=2026-11-12);
 
 - *interventiepartner:* een organisatie, niet zijnde de kennisinstelling, die activiteiten uitvoert binnen de deelnemende organisaties, volgens de door de kennisinstelling voorgeschreven wetenschappelijk methode;
 
@@ -59,7 +59,7 @@ In deze regeling wordt verstaan onder:
 
 - *onderzoekslocatie:* een of meerdere vestigingen van een deelnemende organisatie met een groep deelnemers;
 
-- *samenwerkingsverband:* een samenwerking tussen partijen genoemd in [artikel 2.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&hoofdstuk=2&artikel=2.10&z=2026-09-01&g=2026-09-01);
+- *samenwerkingsverband:* een samenwerking tussen partijen genoemd in [artikel 2.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&hoofdstuk=2&artikel=2.10&z=2026-11-12&g=2026-11-12);
 
 - *sector kinderopvang:* de sectoren met sbi-code 88.91 en 88.99;
 
@@ -97,7 +97,7 @@ Het doel van deze regeling is dat aanvragers of samenwerkingsverbanden worden ge
 
 ##### Artikel 2.2. Subsidiabele activiteiten
 
-1. De Minister kan op aanvraag subsidie verstrekken voor de volgende activiteiten die passen bij het doel van deze regeling en bedoeld zijn voor deeltijdwerknemers in de sectoren zorg en welzijn, onderwijs en kinderopvang:
+1. De Minister kan op aanvraag subsidie verstrekken voor de volgende activiteiten die passen bij het doel van deze regeling en bedoeld zijn voor deeltijdwerknemers in alle sectoren op de arbeidsmarkt:
 
 - a. de activiteit genaamd ‘alternatieve roostersessies’, waarbij inzichtelijk wordt gemaakt wat op maat gemaakte alternatieve roostering betekent;
 
@@ -117,7 +117,7 @@ Het doel van deze regeling is dat aanvragers of samenwerkingsverbanden worden ge
 
 3. De activiteiten worden in samenwerking met de kennisinstelling uitgevoerd op basis van de samenwerkingsovereenkomst overeenkomstig het daartoe verstrekte format op [www.uitvoeringvanbeleidszw.nl](http://www.uitvoeringvanbeleidszw.nl/).
 
-4. Voor de activiteiten, bedoeld in het eerste lid, onderdeel a tot en met e, geldt dat per aanvraag een tot tien deelnemende organisaties uit dezelfde sector deelnemen en het onderzoek op tien onderzoekslocaties wordt uitgevoerd.
+4. Voor de activiteiten, bedoeld in het eerste lid, onderdeel a tot en met e, geldt dat per aanvraag een tot tien deelnemende organisaties deelnemen en het onderzoek op tien onderzoekslocaties wordt uitgevoerd.
 
 5. Voor de activiteit, bedoeld in het tweede lid, onderdeel a, geldt dat per aanvraag een tot tien deelnemende organisaties deelnemen en het onderzoek op tien onderzoekslocaties wordt uitgevoerd.
 
@@ -131,13 +131,13 @@ Het doel van deze regeling is dat aanvragers of samenwerkingsverbanden worden ge
 
 - a. directe loonkosten van de werknemers die zich in de organisatie van de aanvrager of een van de partijen in het samenwerkingsverband bezighouden met de uitvoering van de activiteit, op basis van het aantal werkelijk gerealiseerde uren tegen een individueel berekend tarief op basis van het brutoloon van die personen vermeerderd met een opslag van 32% naar rato van de individuele gerealiseerde uren en uitgaande van 1.565 werkbare uren op jaarbasis bij een 40-urig voltijds dienstverband. Bij een afwijkend voltijds dienstverband kunnen de werkbare uren naar rato worden bijgesteld;
 
-- b. externe kosten voor een interventiepartner tot een bedrag van € 65.000 voor de activiteit bedoeld in [artikel 2.2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&hoofdstuk=2&artikel=2.2&z=2026-09-01&g=2026-09-01), en € 210.000 voor de activiteiten, bedoeld in artikel 2.2, eerste lid en tweede lid, onderdeel a, mits sprake is van marktconformiteit als bedoeld in het vierde of vijfde lid;
+- b. externe kosten voor een interventiepartner tot een bedrag van € 65.000 voor de activiteit bedoeld in [artikel 2.2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&hoofdstuk=2&artikel=2.2&z=2026-11-12&g=2026-11-12), en € 210.000 voor de activiteiten, bedoeld in artikel 2.2, eerste lid en tweede lid, onderdeel a, mits sprake is van marktconformiteit als bedoeld in het vierde of vijfde lid;
 
-- c. externe kosten voor HR-ondersteuning voor de activiteiten, bedoeld in [artikel 2.2, eerste lid en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&hoofdstuk=2&artikel=2.2&z=2026-09-01&g=2026-09-01), tot een bedrag van € 100.000, mits sprake is van marktconformiteit als bedoeld in het vierde lid;
+- c. externe kosten voor HR-ondersteuning voor de activiteiten, bedoeld in [artikel 2.2, eerste lid en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&hoofdstuk=2&artikel=2.2&z=2026-11-12&g=2026-11-12), tot een bedrag van € 100.000, mits sprake is van marktconformiteit als bedoeld in het vierde lid;
 
-- d. een toeslag van 15% op de kosten, bedoeld in onderdelen a en b. De kosten waarover de toeslag wordt berekend zijn gemaximeerd tot een bedrag van € 65.000 voor de activiteit bedoeld in [artikel 2.2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&hoofdstuk=2&artikel=2.2&z=2026-09-01&g=2026-09-01), en € 210.000 voor de activiteiten, bedoeld in artikel 2.2, eerste lid en tweede lid, onderdeel a;
+- d. een toeslag van 15% op de kosten, bedoeld in onderdelen a en b. De kosten waarover de toeslag wordt berekend zijn gemaximeerd tot een bedrag van € 65.000 voor de activiteit bedoeld in [artikel 2.2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&hoofdstuk=2&artikel=2.2&z=2026-11-12&g=2026-11-12), en € 210.000 voor de activiteiten, bedoeld in artikel 2.2, eerste lid en tweede lid, onderdeel a;
 
-- e. een forfaitair bedrag ter dekking van de kosten van een accountantsproduct ter hoogte van € 7.500, indien deze verplicht is op grond van [artikel 2.14, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&hoofdstuk=2&artikel=2.14&z=2026-09-01&g=2026-09-01); en
+- e. een forfaitair bedrag ter dekking van de kosten van een accountantsproduct ter hoogte van € 7.500, indien deze verplicht is op grond van [artikel 2.14, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&hoofdstuk=2&artikel=2.14&z=2026-11-12&g=2026-11-12); en
 
 - f. in rekening gebrachte btw, voor zover deze kosten niet verrekend kunnen worden en voor deze kosten geen beroep kan worden gedaan op het BTW-compensatiefonds, genoemd in [artikel 2 van de Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817&artikel=2).
 
@@ -201,17 +201,27 @@ Niet voor subsidie komen in aanmerking:
 
 ##### Artikel 2.5. Subsidieplafond en hoeveelheid aanvragen
 
-1. De Minister stelt in het kalenderjaar 2025 in totaal een bedrag beschikbaar van € 6.600.000, waarvan € 1.050.000 beschikbaar is voor ieder van de activiteiten, bedoeld in [artikel 2.2, eerste lid en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&hoofdstuk=2&artikel=2.2&z=2026-09-01&g=2026-09-01), en € 300.000 beschikbaar is voor de activiteit, bedoeld in artikel 2.2, tweede lid, onderdeel b.
+1. De Minister stelt in het kalenderjaar 2025 in totaal een bedrag beschikbaar van € 6.600.000, waarvan € 1.050.000 beschikbaar is voor ieder van de activiteiten, bedoeld in [artikel 2.2, eerste lid en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&hoofdstuk=2&artikel=2.2&z=2026-11-12&g=2026-11-12), en € 300.000 beschikbaar is voor de activiteit, bedoeld in artikel 2.2, tweede lid, onderdeel b.
 
-2. Voor de activiteiten, bedoeld in [artikel 2.2, eerste lid en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&hoofdstuk=2&artikel=2.2&z=2026-09-01&g=2026-09-01), bedraagt het subsidiebedrag ten minste € 25.000 en ten hoogste € 350.000 per aanvraag, waarvan maximaal € 100.000 voor de kosten van HR-ondersteuning.
+2. De Minister stelt in het kalenderjaar 2026 in totaal een bedrag beschikbaar van € 3.150.000, waarvan:
 
-3. Voor de activiteit, bedoeld in [artikel 2.2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&hoofdstuk=2&artikel=2.2&z=2026-09-01&g=2026-09-01), bedraagt het subsidiebedrag ten minste € 25.000 en ten hoogste € 75.000 per aanvraag.
+- a. € 700.000 beschikbaar is voor de activiteit, bedoeld in [artikel 2.2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&hoofdstuk=2&artikel=2.2&z=2026-11-12&g=2026-11-12);
 
-4. Voor iedere activiteit wordt een aparte aanvraag ingediend.
+- b. € 350.000 beschikbaar is voor de activiteit, bedoeld in [artikel 2.2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&hoofdstuk=2&artikel=2.2&z=2026-11-12&g=2026-11-12);
 
-5. Per sector wordt maximaal één aanvraag per activiteit, bedoeld in [artikel 2.2, eerste lid, onderdeel a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&hoofdstuk=2&artikel=2.2&z=2026-09-01&g=2026-09-01), toegewezen.
+- c. € 700.000 beschikbaar is voor de activiteit, bedoeld in [artikel 2.2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&hoofdstuk=2&artikel=2.2&z=2026-11-12&g=2026-11-12);
 
-6. In afwijking van het vijfde lid, kan per sector meer dan één aanvraag per activiteit worden toegewezen, indien het beschikbare bedrag, bedoeld in het tweede en derde lid, voor een activiteit niet volledig wordt benut. Het resterende bedrag wordt in die gevallen aangewend voor de eerstvolgende volledige aanvraag voor een activiteit in een andere sector.
+- d. € 700.000 beschikbaar is voor de activiteit, bedoeld in [artikel 2.2, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&hoofdstuk=2&artikel=2.2&z=2026-11-12&g=2026-11-12); en
+
+- e. € 700.000 beschikbaar is voor de activiteit, bedoeld in [artikel 2.2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&hoofdstuk=2&artikel=2.2&z=2026-11-12&g=2026-11-12).
+
+3. Voor de activiteiten, bedoeld in [artikel 2.2, eerste lid en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&hoofdstuk=2&artikel=2.2&z=2026-11-12&g=2026-11-12), bedraagt het subsidiebedrag ten minste € 25.000 en ten hoogste € 350.000 per aanvraag, waarvan maximaal € 100.000 voor de kosten van HR-ondersteuning.
+
+4. Voor de activiteit, bedoeld in [artikel 2.2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&hoofdstuk=2&artikel=2.2&z=2026-11-12&g=2026-11-12), bedraagt het subsidiebedrag ten minste € 25.000 en ten hoogste € 75.000 per aanvraag.
+
+5. Voor iedere activiteit wordt een aparte aanvraag ingediend.
+
+6. Indien het beschikbare bedrag, bedoeld in tweede lid, onderdelen a tot en met e, voor een activiteit niet volledig wordt benut, kan het resterende bedrag worden aangewend voor de eerstvolgende volledige aanvraag voor een activiteit, bedoeld in de onderdelen a tot en met e.
 
 ##### Artikel 2.6. Aanvraagtijdvak
 
@@ -221,15 +231,17 @@ Niet voor subsidie komen in aanmerking:
 
 3. Het derde aanvraagtijdvak loopt van maandag 24 november 2025 9:00 uur tot en met vrijdag 5 december 2025 17:00 uur.
 
+4. Het vierde aanvraagtijdvak loopt van maandag 16 november 2026 9:00 uur tot en met vrijdag 27 november 2026 17:00 uur.
+
 ##### Artikel 2.7. Looptijd van de activiteiten en projectperiode
 
 1. De activiteiten starten uiterlijk drie maanden na de datum van de subsidieverlening, met uitzondering van de activiteiten in de sector onderwijs. Deze starten uiterlijk in de maand februari volgend op de datum van de subsidieverlening.
 
-2. De projectperiode van een activiteitenplan start op de dag waarop het aanvraagtijdvak, bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&hoofdstuk=2&artikel=2.6&z=2026-09-01&g=2026-09-01), opengaat waarin de subsidieaanvraag wordt ingediend. De projectperiode eindigt op de dag waarop de looptijd, bedoeld in het derde en vierde lid, eindigt.
+2. De projectperiode van een activiteitenplan start op de dag waarop het aanvraagtijdvak, bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&hoofdstuk=2&artikel=2.6&z=2026-11-12&g=2026-11-12), opengaat waarin de subsidieaanvraag wordt ingediend. De projectperiode eindigt op de dag waarop de looptijd, bedoeld in het derde en vierde lid, eindigt.
 
-3. De activiteiten, bedoeld in [artikel 2.2, eerste lid, onderdeel c en e, en tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&hoofdstuk=2&artikel=2.2&z=2026-09-01&g=2026-09-01), hebben een looptijd van minimaal zeventien weken en maximaal 52 weken, gerekend vanaf de startdatum van de activiteit.
+3. De activiteiten, bedoeld in [artikel 2.2, eerste lid, onderdeel c en e, en tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&hoofdstuk=2&artikel=2.2&z=2026-11-12&g=2026-11-12), hebben een looptijd van minimaal zeventien weken en maximaal 52 weken, gerekend vanaf de startdatum van de activiteit.
 
-4. De activiteiten, bedoeld in [artikel 2.2, eerste lid, onderdeel a, b en d, en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&hoofdstuk=2&artikel=2.2&z=2026-09-01&g=2026-09-01), hebben een looptijd van minimaal 26 weken en maximaal 52 weken, gerekend vanaf de startdatum van de activiteit.
+4. De activiteiten, bedoeld in [artikel 2.2, eerste lid, onderdeel a, b en d, en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&hoofdstuk=2&artikel=2.2&z=2026-11-12&g=2026-11-12), hebben een looptijd van minimaal 26 weken en maximaal 52 weken, gerekend vanaf de startdatum van de activiteit.
 
 5. De Minister kan eenmalig de looptijd, bedoeld in het derde en vierde lid, op verzoek van de subsidieontvanger verlengen met een periode van maximaal 10 weken.
 
@@ -237,7 +249,7 @@ Niet voor subsidie komen in aanmerking:
 
 1. De subsidieaanvraag wordt ingediend door middel van een elektronisch aanvraagformulier ondertekend door een daartoe bevoegd functionaris van de aanvrager. Onderdeel van de aanvraag is in ieder geval:
 
-- a. een activiteitenplan dat, in aanvulling op [artikel 3.4 van de Kaderregeling subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.4), voldoet aan de eisen die worden gesteld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&bijlage=I&z=2026-09-01&g=2026-09-01) bij deze regeling;
+- a. een activiteitenplan dat, in aanvulling op [artikel 3.4 van de Kaderregeling subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.4), voldoet aan de eisen die worden gesteld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&bijlage=I&z=2026-11-12&g=2026-11-12) bij deze regeling;
 
 - b. het bedrag waarvoor subsidie wordt aangevraagd;
 
@@ -247,7 +259,7 @@ Niet voor subsidie komen in aanmerking:
 
 - e. een onderbouwde begroting van de kosten van de activiteiten waarvoor subsidie wordt aangevraagd.
 
-2. De subsidieaanvraag gaat vergezeld met de samenwerkingsovereenkomst, bedoeld in het [artikel 2.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&hoofdstuk=2&artikel=2.2&z=2026-09-01&g=2026-09-01), en, indien van toepassing, de samenwerkingsovereenkomst, bedoeld in [2.10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&hoofdstuk=2&artikel=2.10&z=2026-09-01&g=2026-09-01).
+2. De subsidieaanvraag gaat vergezeld met de samenwerkingsovereenkomst, bedoeld in het [artikel 2.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&hoofdstuk=2&artikel=2.2&z=2026-11-12&g=2026-11-12), en, indien van toepassing, de samenwerkingsovereenkomst, bedoeld in [2.10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&hoofdstuk=2&artikel=2.10&z=2026-11-12&g=2026-11-12).
 
 3. Voor zover de aanvrager of het samenwerkingsverband naast de activiteit waarvoor op grond van deze regeling subsidie is aangevraagd een of meer activiteiten als bedoeld in deze regeling beoogt uit te voeren op basis van een andere subsidie of daarvoor een andere financiële bijdrage heeft gevraagd of zal aanvragen bij een ander bestuursorgaan of rechtspersoon, doet hij daarvan mededeling in de subsidieaanvraag, onder vermelding van het aangevraagde bedrag en de stand van zaken van de beoordeling van die andere aanvraag.
 
@@ -275,7 +287,7 @@ Niet voor subsidie komen in aanmerking:
 
 ##### Artikel 2.11. Subsidieverlening
 
-1. De Minister besluit binnen 13 weken na sluiting van het aanvraagtijdvak, bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&hoofdstuk=2&artikel=2.6&z=2026-09-01&g=2026-09-01), op de in dat tijdvak ingediende subsidieaanvragen.
+1. De Minister besluit binnen 13 weken na sluiting van het aanvraagtijdvak, bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&hoofdstuk=2&artikel=2.6&z=2026-11-12&g=2026-11-12), op de in dat tijdvak ingediende subsidieaanvragen.
 
 2. De subsidie wordt verleend aan de aanvrager.
 
@@ -299,7 +311,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 - d. de subsidiabele kosten niet in een redelijke verhouding staan tot de voorgenomen prestaties en de daarvan te verwachten resultaten;
 
-- e. de subsidieaanvraag tot gevolg heeft dat een subsidieplafond als bedoeld in [artikel 2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&hoofdstuk=2&artikel=2.5&z=2026-09-01&g=2026-09-01), in een aanvraagtijdvak wordt overschreden;
+- e. de subsidieaanvraag tot gevolg heeft dat een subsidieplafond als bedoeld in [artikel 2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&hoofdstuk=2&artikel=2.5&z=2026-11-12&g=2026-11-12), in een aanvraagtijdvak wordt overschreden;
 
 - f. dezelfde subsidiabele kosten reeds uit hoofde van deze of een andere regeling worden gefinancierd.
 

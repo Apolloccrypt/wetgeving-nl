@@ -8,7 +8,7 @@ laatste_update: 1998-06-22
 status: geldig
 toestand: 1998-06-22
 bron: "https://wetten.overheid.nl/BWBR0009678"
-opgehaald: 2026-09-18
+opgehaald: 2026-11-17
 ---
 
 # Aanpassing voorschriften ingevolge het Besluit betaling emolumenten burgerlijk rijkspersoneel (1998)

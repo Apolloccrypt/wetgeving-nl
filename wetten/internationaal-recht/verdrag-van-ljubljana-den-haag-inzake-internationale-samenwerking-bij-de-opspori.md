@@ -7,7 +7,7 @@ laatste_update: 2024-02-15
 status: geldig
 toestand: 2024-02-15
 bron: "https://wetten.overheid.nl/BWBV0007040"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Verdrag van Ljubljana-Den Haag inzake internationale samenwerking bij de opsporing en vervolging van genocide, misdrijven tegen de menselijkheid, oorlogsmisdrijven en andere internationale misdrijven

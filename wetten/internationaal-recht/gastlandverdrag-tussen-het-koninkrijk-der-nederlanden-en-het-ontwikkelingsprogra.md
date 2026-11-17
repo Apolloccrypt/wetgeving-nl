@@ -8,7 +8,7 @@ laatste_update: 2025-02-05
 status: geldig
 toestand: 2025-02-05
 bron: "https://wetten.overheid.nl/BWBV0007090"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Gastlandverdrag tussen het Koninkrijk der Nederlanden en het Ontwikkelingsprogramma van de Verenigde Naties betreffende het kantoor van het Ontwikkelingsprogramma van de Verenigde Naties in ‘s-Gravenhage

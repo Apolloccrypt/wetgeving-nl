@@ -7,7 +7,7 @@ laatste_update: 2004-09-24
 status: geldig
 toestand: 2004-09-24
 bron: "https://wetten.overheid.nl/BWBV0007039"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # OCCAR-Beveiligingsverdrag tussen de Regering van de Franse Republiek, de Regering van de Bondsrepubliek Duitsland, de Regering van het Koninkrijk België, de Regering van de Italiaanse Republiek en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland

@@ -7,7 +7,7 @@ laatste_update: 2024-01-08
 status: geldig
 toestand: 2024-01-08
 bron: "https://wetten.overheid.nl/BWBV0007034"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Ivoorkust betreffende de status van het personeel van het Ministerie van Defensie van het Koninkrijk der Nederlanden dat zich op het Ivoriaanse grondgebied bevindt in het kader van militaire activiteiten

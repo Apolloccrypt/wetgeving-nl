@@ -8,7 +8,7 @@ laatste_update: 2000-11-29
 status: geldig
 toestand: 2000-11-29
 bron: "https://wetten.overheid.nl/BWBR0011715"
-opgehaald: 2026-09-18
+opgehaald: 2026-11-17
 ---
 
 # Vaststelling hoogst toelaatbare waarde geluidsbelasting bestaande woningen, gemeente Hardenberg

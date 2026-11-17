@@ -8,7 +8,7 @@ laatste_update: 2003-12-07
 status: geldig
 toestand: 2003-12-07
 bron: "https://wetten.overheid.nl/BWBR0015419"
-opgehaald: 2026-09-18
+opgehaald: 2026-11-17
 ---
 
 # Selectielijst neerslag handelingen m.b.t. Emancipatie en gelijke behandeling vanaf 1965-heden, Verkeer en Waterstaat

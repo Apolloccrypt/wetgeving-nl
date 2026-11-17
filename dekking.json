@@ -1,13 +1,13 @@
 {
- "gegenereerd": "2026-11-16",
+ "gegenereerd": "2026-11-17",
  "geverifieerd": true,
- "bwb_regelingen": 47063,
+ "bwb_regelingen": 47064,
  "bwb_geldend": 22331,
- "site_totaal": 22595,
+ "site_totaal": 22596,
  "site_geldend": 22330,
  "dekkingsgraad": 1.0,
  "aantal_ontbrekend": 1,
- "aantal_ten_onrechte_geldig": 265,
+ "aantal_ten_onrechte_geldig": 266,
  "aantal_onbekend": 0,
  "ontbrekend": [
   {
@@ -800,6 +800,10 @@
   {
    "id": "BWBR0050479",
    "titel": "Richtlijn voor strafvordering vuurwerkdelicten"
+  },
+  {
+   "id": "BWBR0050632",
+   "titel": "Deelreglement Distributie van de Stichting Nederlands Fonds voor de film"
   },
   {
    "id": "BWBR0050643",

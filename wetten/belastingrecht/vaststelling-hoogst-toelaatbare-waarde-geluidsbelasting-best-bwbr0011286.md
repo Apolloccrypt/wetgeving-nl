@@ -8,7 +8,7 @@ laatste_update: 2000-04-12
 status: geldig
 toestand: 2000-04-12
 bron: "https://wetten.overheid.nl/BWBR0011286"
-opgehaald: 2026-09-18
+opgehaald: 2026-11-17
 ---
 
 # Vaststelling hoogst toelaatbare waarde geluidsbelasting bestaande woningen, gemeente Nuenen, Gerwen en Nederwetten

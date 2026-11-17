@@ -7,7 +7,7 @@ laatste_update: 2026-03-10
 status: geldig
 toestand: 2026-03-10
 bron: "https://wetten.overheid.nl/BWBV0007141"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Franse Republiek inzake het wederzijdse recht van achtervolging tijdens maritieme antidrugsoperaties in de nabijheid van Saint Martin en Sint Maarten

@@ -8,7 +8,7 @@ laatste_update: 2023-04-01
 status: geldig
 toestand: 2023-04-01
 bron: "https://wetten.overheid.nl/BWBV0006997"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Protocol bij de samenwerkingsovereenkomst betreffende een civiel mondiaal satellietnavigatiesysteem (Civil Global Navigation Satellite System) (GNSS) tussen de Europese Gemeenschap en haar Lidstaten, enerzijds, en de Republiek Korea, anderzijds, in verband met de toetreding van de Republiek Bulgarije, de Republiek Kroatië en Roemenië tot de Europese Unie

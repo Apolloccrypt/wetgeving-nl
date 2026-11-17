@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-11-13
 toestand: 2025-11-14
 bron: "https://wetten.overheid.nl/BWBV0007122"
-opgehaald: 2026-11-16
+opgehaald: 2026-11-17
 ---
 
 # Briefwisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en het Internationaal Agentschap voor Atoomenergie (IAEA) inzake de “Regional Training Course on Practical Aspects of Paediatric Radiotherapy: Module I”, te Utrecht, Nederland, van 15 tot en met 19 december 2025

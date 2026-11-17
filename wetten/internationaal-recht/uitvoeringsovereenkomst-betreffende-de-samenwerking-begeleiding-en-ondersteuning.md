@@ -8,7 +8,7 @@ laatste_update: 2023-10-01
 status: geldig
 toestand: 2023-10-01
 bron: "https://wetten.overheid.nl/BWBV0007042"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Uitvoeringsovereenkomst betreffende de samenwerking, begeleiding en ondersteuning in het kader van de opdrachten in toepassing van de vreemdelingenwetgevingen op het grondgebied van de Benelux-landen

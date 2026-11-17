@@ -7,7 +7,7 @@ laatste_update: 2025-05-06
 status: geldig
 toestand: 2025-05-06
 bron: "https://wetten.overheid.nl/BWBV0007099"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Overeenkomst tussen de Benelux-Staten en Belize inzake de vrijstelling van de visumplicht voor houders van geldige diplomatieke paspoorten

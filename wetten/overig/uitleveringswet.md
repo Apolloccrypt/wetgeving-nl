@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0002559"
-opgehaald: 2026-09-18
+opgehaald: 2026-11-17
 ---
 
 # Wet van 9 maart 1967, houdende nieuwe regelen betreffende uitlevering en andere vormen van internationale rechtshulp in strafzaken

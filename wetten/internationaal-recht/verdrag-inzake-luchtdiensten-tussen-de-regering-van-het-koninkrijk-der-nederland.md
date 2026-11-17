@@ -7,7 +7,7 @@ laatste_update: 2026-05-07
 status: geldig
 toestand: 2026-05-07
 bron: "https://wetten.overheid.nl/BWBV0007150"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Verdrag inzake luchtdiensten tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Benin

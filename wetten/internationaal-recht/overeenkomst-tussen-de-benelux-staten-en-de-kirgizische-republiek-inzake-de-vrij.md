@@ -7,7 +7,7 @@ laatste_update: 2025-06-18
 status: geldig
 toestand: 2025-06-18
 bron: "https://wetten.overheid.nl/BWBV0007114"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Overeenkomst tussen de Benelux-Staten en de Kirgizische Republiek inzake de vrijstelling van de visumplicht voor houders van geldige diplomatieke paspoorten en officiële/dienstpaspoorten

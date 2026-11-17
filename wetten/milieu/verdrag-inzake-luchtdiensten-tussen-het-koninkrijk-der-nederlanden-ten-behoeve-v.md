@@ -7,7 +7,7 @@ laatste_update: 2023-06-01
 status: geldig
 toestand: 2023-06-01
 bron: "https://wetten.overheid.nl/BWBV0006991"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Verdrag inzake luchtdiensten tussen het Koninkrijk der Nederlanden, ten behoeve van Sint Maarten, en de Republiek Finland

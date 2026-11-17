@@ -9,7 +9,7 @@ laatste_update: 2006-12-06
 status: geldig
 toestand: 2006-12-06
 bron: "https://wetten.overheid.nl/BWBW7972"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Wet van 10 mei 2006 tot goedkeuring van het op 25 februari 2005 te Den Haag tot stand gekomen Benelux-verdrag inzake de intellectuele eigendom (merken en tekeningen of modellen), met Protocol (Trb. 2005, 96)

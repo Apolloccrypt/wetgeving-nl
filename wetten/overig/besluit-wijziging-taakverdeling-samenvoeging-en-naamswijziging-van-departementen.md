@@ -9,7 +9,7 @@ laatste_update: 1959-06-18
 status: geldig
 toestand: 1959-06-18
 bron: "https://wetten.overheid.nl/BWBR0002317"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Besluit van 19 mei 1959, houdende wijziging in de taakverdeling, samenvoeging en naamswijziging van departementen

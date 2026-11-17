@@ -7,7 +7,7 @@ laatste_update: 2025-12-16
 status: geldig
 toestand: 2025-12-16
 bron: "https://wetten.overheid.nl/BWBV0007126"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Verdrag tot oprichting van een internationale schadevergoedingscommissie voor Oekraïne

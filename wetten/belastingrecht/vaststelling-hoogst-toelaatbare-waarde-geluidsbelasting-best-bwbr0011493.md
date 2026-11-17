@@ -8,7 +8,7 @@ laatste_update: 2000-07-26
 status: geldig
 toestand: 2000-07-26
 bron: "https://wetten.overheid.nl/BWBR0011493"
-opgehaald: 2026-09-18
+opgehaald: 2026-11-17
 ---
 
 # Vaststelling hoogst toelaatbare waarde geluidsbelasting bestaande woningen, gemeente Bergen

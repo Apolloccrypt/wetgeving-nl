@@ -9,7 +9,7 @@ laatste_update: 1994-01-01
 status: geldig
 toestand: 1994-01-01
 bron: "https://wetten.overheid.nl/BWBR0002291"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Besluit van 9 augustus 1958 tot vaststelling van een nieuw Reglement voor de Rijkskweekschool voor Vroedvrouwen te Rotterdam

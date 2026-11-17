@@ -8,7 +8,7 @@ laatste_update: 2003-02-05
 status: geldig
 toestand: 2003-02-05
 bron: "https://wetten.overheid.nl/BWBR0014620"
-opgehaald: 2026-09-18
+opgehaald: 2026-11-17
 ---
 
 # Aanpassing vergoeding materiële instandhouding (MI) basisscholen als gevolg van groei (2003)

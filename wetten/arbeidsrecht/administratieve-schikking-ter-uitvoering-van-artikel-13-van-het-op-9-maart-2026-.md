@@ -7,7 +7,7 @@ laatste_update: 2026-03-09
 status: geldig
 toestand: 2026-03-09
 bron: "https://wetten.overheid.nl/BWBV0007153"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Administratieve Schikking ter uitvoering van artikel 13 van het op 9 maart 2026 te Brussel gesloten Benelux-Verdrag ter verbetering en versterking van de grensoverschrijdende samenwerking op het gebied van de bestrijding van sociale fraude en onjuistheden in de sociale zekerheid, de bescherming van de gezondheid en de veiligheid op het werk en van fatsoenlijke arbeidsvoorwaarden

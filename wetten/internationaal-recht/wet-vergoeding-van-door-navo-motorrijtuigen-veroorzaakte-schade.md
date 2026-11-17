@@ -9,7 +9,7 @@ laatste_update: 2023-05-01
 status: geldig
 toestand: 2023-05-01
 bron: "https://wetten.overheid.nl/BWBR0002641"
-opgehaald: 2026-09-18
+opgehaald: 2026-11-17
 ---
 
 # Wet van 11 december 1968, tot vergoeding van door NAVO-motorrijtuigen veroorzaakte schade

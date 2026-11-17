@@ -9,7 +9,7 @@ laatste_update: 1971-06-25
 status: geldig
 toestand: 1971-06-25
 bron: "https://wetten.overheid.nl/BWBR0002378"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Wet van 12 juli 1962, tot tijdelijke openstelling van de mogelijkheid van adoptie in afwijking van sommige bepalingen van het Burgerlijk Wetboek

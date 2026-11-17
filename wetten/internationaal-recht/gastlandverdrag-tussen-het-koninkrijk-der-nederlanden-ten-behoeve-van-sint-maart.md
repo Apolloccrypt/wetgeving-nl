@@ -8,7 +8,7 @@ laatste_update: 2023-04-03
 status: geldig
 toestand: 2023-04-03
 bron: "https://wetten.overheid.nl/BWBV0006989"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Gastlandverdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Sint Maarten, en de Verenigde Naties inzake de vestiging van een kantoor van het United Nations Office for Project Services in Sint Maarten

@@ -9,7 +9,7 @@ laatste_update: 1993-09-03
 status: geldig
 toestand: 1993-09-03
 bron: "https://wetten.overheid.nl/BWBR0005277"
-opgehaald: 2026-09-18
+opgehaald: 2026-11-17
 ---
 
 # Wet van 14 november 1991, tot wijziging van de Wet op de Geneesmiddelenvoorziening

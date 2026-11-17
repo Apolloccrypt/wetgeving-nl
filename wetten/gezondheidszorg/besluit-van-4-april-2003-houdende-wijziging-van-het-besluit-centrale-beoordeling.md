@@ -9,7 +9,7 @@ laatste_update: 2003-04-25
 status: geldig
 toestand: 2003-04-25
 bron: "https://wetten.overheid.nl/BWBR0014920"
-opgehaald: 2026-09-18
+opgehaald: 2026-11-17
 ---
 
 # Besluit van 4 april 2003, houdende wijziging van het Besluit centrale beoordeling medisch-wetenschappelijk onderzoek met mensen

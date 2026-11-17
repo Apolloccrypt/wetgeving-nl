@@ -7,7 +7,7 @@ laatste_update: 2024-01-09
 status: geldig
 toestand: 2024-01-09
 bron: "https://wetten.overheid.nl/BWBV0007037"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Overeenkomst tussen de Benelux-Staten en Mongolië inzake de vrijstelling van de visumplicht voor houders van een diplomatiek paspoort en houders van een officieel/dienstpaspoort

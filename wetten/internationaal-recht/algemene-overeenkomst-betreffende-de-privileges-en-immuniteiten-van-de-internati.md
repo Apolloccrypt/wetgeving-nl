@@ -8,7 +8,7 @@ laatste_update: 2025-11-24
 status: geldig
 toestand: 2025-11-24
 bron: "https://wetten.overheid.nl/BWBV0007138"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Algemene Overeenkomst betreffende de privileges en immuniteiten van de Internationale Politie Organisatie – INTERPOL

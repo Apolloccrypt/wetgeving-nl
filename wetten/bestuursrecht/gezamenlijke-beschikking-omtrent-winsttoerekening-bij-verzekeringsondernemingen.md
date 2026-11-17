@@ -9,7 +9,7 @@ laatste_update: 1965-01-01
 status: geldig
 toestand: 1965-01-01
 bron: "https://wetten.overheid.nl/BWBR0002472"
-opgehaald: 2026-09-18
+opgehaald: 2026-11-17
 ---
 
 # GEZAMENLIJKE BESCHIKKING OMTRENT WINSTTOEREKENING BIJ VERZEKERINGSONDERNEMINGEN

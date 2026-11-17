@@ -9,7 +9,7 @@ laatste_update: 1960-12-24
 status: geldig
 toestand: 1960-12-24
 bron: "https://wetten.overheid.nl/BWBR0002350"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Besluit van 6 december 1960, houdende toekenning van enige prijsregelende bevoegdheid aan het Produktschap voor Veevoeder

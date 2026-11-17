@@ -9,7 +9,7 @@ laatste_update: 2004-10-30
 status: geldig
 toestand: 2004-10-30
 bron: "https://wetten.overheid.nl/BWBR0016825"
-opgehaald: 2026-09-18
+opgehaald: 2026-11-17
 ---
 
 # Vaststelling selectielijst neerslag handelingen op het beleidsterrein Cultuurbeheer over de periode 1945–2000: Universiteit Twente

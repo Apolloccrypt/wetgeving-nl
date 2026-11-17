@@ -9,7 +9,7 @@ laatste_update: 2005-03-16
 status: geldig
 toestand: 2005-03-16
 bron: "https://wetten.overheid.nl/BWBR0002391"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Wet van 5 december 1962, houdende regeling van het vervoer te land en op de binnenwateren in buitengewone omstandigheden

@@ -7,7 +7,7 @@ laatste_update: 2005-10-27
 status: geldig
 toestand: 2005-10-27
 bron: "https://wetten.overheid.nl/BWBV0007033"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Kaderverdrag van de Raad van Europa inzake de waarde van cultureel erfgoed voor de samenleving

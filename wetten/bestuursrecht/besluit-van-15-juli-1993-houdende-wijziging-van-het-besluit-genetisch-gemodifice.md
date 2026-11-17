@@ -9,7 +9,7 @@ laatste_update: 1993-10-01
 status: geldig
 toestand: 1993-10-01
 bron: "https://wetten.overheid.nl/BWBR0006082"
-opgehaald: 2026-09-18
+opgehaald: 2026-11-17
 ---
 
 # Besluit van 15 juli 1993, houdende wijziging van het Besluit genetisch gemodificeerde organismen Wet milieugevaarlijke stoffen en het Inrichtingen- en vergunningenbesluit milieubeheer

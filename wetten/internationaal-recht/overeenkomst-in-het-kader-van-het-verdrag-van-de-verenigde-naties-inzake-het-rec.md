@@ -7,7 +7,7 @@ laatste_update: 2023-06-19
 status: geldig
 toestand: 2023-06-19
 bron: "https://wetten.overheid.nl/BWBV0007029"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Overeenkomst in het kader van het Verdrag van de Verenigde Naties inzake het recht van de zee, inzake het behoud en het duurzame gebruik van de mariene biologische diversiteit van gebieden voorbij de grenzen van de nationale rechtsmacht

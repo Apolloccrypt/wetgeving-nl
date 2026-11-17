@@ -7,7 +7,7 @@ laatste_update: 2025-11-21
 status: geldig
 toestand: 2025-11-21
 bron: "https://wetten.overheid.nl/BWBV0007124"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Protocol tot wijziging van de Euromediterrane Luchtvaartovereenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en het Koninkrijk Marokko, anderzijds, om rekening te houden met de toetreding van de Republiek Kroatië tot de Europese Unie

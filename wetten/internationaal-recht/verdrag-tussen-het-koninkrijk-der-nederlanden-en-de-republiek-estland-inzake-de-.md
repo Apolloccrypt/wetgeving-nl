@@ -7,7 +7,7 @@ laatste_update: 2026-03-16
 status: geldig
 toestand: 2026-03-16
 bron: "https://wetten.overheid.nl/BWBV0007136"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Estland inzake de uitwisseling en wederzijdse beveiliging van gerubriceerde gegevens

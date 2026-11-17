@@ -7,7 +7,7 @@ laatste_update: 2025-08-27
 status: geldig
 toestand: 2025-08-27
 bron: "https://wetten.overheid.nl/BWBV0007104"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland betreffende de exploitatie van grensoverschrijdende koolwaterstoffenvelden in de Noordzee (met Bijlagen)

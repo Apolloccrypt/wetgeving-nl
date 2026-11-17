@@ -7,7 +7,7 @@ laatste_update: 2014-03-14
 status: geldig
 toestand: 2014-03-14
 bron: "https://wetten.overheid.nl/BWBV0007165"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Overeenkomst betreffende de afgifte van meertalige en gecodeerde uittreksels en certificaten uit akten van de burgerlijke stand

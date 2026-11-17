@@ -9,7 +9,7 @@ laatste_update: 1994-10-01
 status: geldig
 toestand: 1994-10-01
 bron: "https://wetten.overheid.nl/BWBR0002387"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Besluit van 29 september 1962, houdende instelling van het Nieuw-Guinea-herinneringskruis

@@ -8,7 +8,7 @@ laatste_update: 2023-07-14
 status: geldig
 toestand: 2023-07-14
 bron: "https://wetten.overheid.nl/BWBV0007001"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Gastlandverdrag tussen het Koninkrijk der Nederlanden en de Raad van Europa betreffende de zetel van het register van schade veroorzaakt door de agressie van de Russische Federatie tegen Oekraïne

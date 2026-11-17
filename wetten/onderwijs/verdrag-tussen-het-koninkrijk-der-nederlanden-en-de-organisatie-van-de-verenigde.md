@@ -8,7 +8,7 @@ laatste_update: 2025-03-31
 status: geldig
 toestand: 2025-03-31
 bron: "https://wetten.overheid.nl/BWBV0007072"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur (UNESCO) inzake de verlenging van de categorie-2-status onder auspiciën van UNESCO van het IHE Delft Institute for Water Education in Nederland

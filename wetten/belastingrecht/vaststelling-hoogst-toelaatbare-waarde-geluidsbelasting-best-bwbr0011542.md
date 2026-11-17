@@ -8,7 +8,7 @@ laatste_update: 2000-11-24
 status: geldig
 toestand: 2000-11-24
 bron: "https://wetten.overheid.nl/BWBR0011542"
-opgehaald: 2026-09-18
+opgehaald: 2026-11-17
 ---
 
 # Vaststelling hoogst toelaatbare waarde geluidsbelasting bestaande woningen, gemeente Binnenmaas

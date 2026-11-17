@@ -7,7 +7,7 @@ laatste_update: 2026-03-09
 status: geldig
 toestand: 2026-03-09
 bron: "https://wetten.overheid.nl/BWBV0007155"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Benelux-Verdrag ter verbetering en versterking van de grensoverschrijdende samenwerking op het gebied van de bestrijding van de sociale fraude en onjuistheden in de sociale zekerheid, de bescherming van de gezondheid en de veiligheid op het werk en van fatsoenlijke arbeidsvoorwaarden

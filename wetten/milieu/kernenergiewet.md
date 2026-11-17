@@ -9,7 +9,7 @@ laatste_update: 2024-07-01
 status: geldig
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0002402"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Wet van 21 februari 1963, houdende regelen met betrekking tot de vrijmaking van kernenergie en de aanwending van radioactieve stoffen en ioniserende stralen uitzendende toestellen

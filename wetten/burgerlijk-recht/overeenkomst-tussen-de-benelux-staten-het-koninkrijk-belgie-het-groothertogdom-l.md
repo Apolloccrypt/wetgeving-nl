@@ -7,7 +7,7 @@ laatste_update: 2025-06-18
 status: geldig
 toestand: 2025-06-18
 bron: "https://wetten.overheid.nl/BWBV0007117"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Overeenkomst tussen de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden) en de Kirgizische Republiek betreffende de terug- en overname van onregelmatig binnengekomen en/ of verblijvende personen (terug- en overnameovereenkomst)

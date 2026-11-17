@@ -7,7 +7,7 @@ laatste_update: 2024-07-28
 status: geldig
 toestand: 2024-07-28
 bron: "https://wetten.overheid.nl/BWBV0007068"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Curaçao, en de Caribische Gemeenschap tot vaststelling van de voorwaarden voor het verlenen aan Curaçao van de status van geassocieerd lid van de Caribische Gemeenschap

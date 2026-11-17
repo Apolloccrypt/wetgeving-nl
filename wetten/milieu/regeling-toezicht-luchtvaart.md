@@ -9,7 +9,7 @@ laatste_update: 2016-07-01
 status: geldig
 toestand: 2016-07-01
 bron: "https://wetten.overheid.nl/BWBR0002309"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Besluit van 22 januari 1959, houdende vaststelling van een Regeling Toezicht Luchtvaart

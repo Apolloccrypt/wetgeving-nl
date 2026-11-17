@@ -9,7 +9,7 @@ laatste_update: 1969-10-18
 status: geldig
 toestand: 1969-10-18
 bron: "https://wetten.overheid.nl/BWBR0002669"
-opgehaald: 2026-09-18
+opgehaald: 2026-11-17
 ---
 
 # Besluit van 23 september 1969, houdende vaststelling van de modellen van de monsterrol ter uitvoering van artikel 6 van het Schepelingenbesluit

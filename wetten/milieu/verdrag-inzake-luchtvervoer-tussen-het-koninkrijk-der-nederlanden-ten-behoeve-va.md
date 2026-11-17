@@ -8,7 +8,7 @@ laatste_update: 2024-09-01
 status: geldig
 toestand: 2024-09-01
 bron: "https://wetten.overheid.nl/BWBV0007021"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Verdrag inzake luchtvervoer tussen het Koninkrijk der Nederlanden, ten behoeve van Curaçao, en de Republiek Trinidad en Tobago

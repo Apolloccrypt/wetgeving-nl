@@ -8,7 +8,7 @@ laatste_update: 2000-09-13
 status: geldig
 toestand: 2000-09-13
 bron: "https://wetten.overheid.nl/BWBR0011495"
-opgehaald: 2026-09-18
+opgehaald: 2026-11-17
 ---
 
 # Vaststelling hoogst toelaatbare waarde geluidsbelasting bestaande woningen, gemeente Waalwijk

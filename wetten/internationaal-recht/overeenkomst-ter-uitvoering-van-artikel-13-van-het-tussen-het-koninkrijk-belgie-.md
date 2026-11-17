@@ -8,7 +8,7 @@ laatste_update: 2025-12-12
 status: geldig
 toestand: 2025-12-12
 bron: "https://wetten.overheid.nl/BWBV0007058"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Overeenkomst ter uitvoering van artikel 13 van het tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden op 23 juli 2018 te Brussel gesloten Verdrag inzake politiesamenwerking

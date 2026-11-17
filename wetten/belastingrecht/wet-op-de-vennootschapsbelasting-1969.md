@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0002672"
-opgehaald: 2026-09-18
+opgehaald: 2026-11-17
 ---
 
 # Wet van 8 oktober 1969, houdende vervanging van het Besluit op de Vennootschapsbelasting 1942 door een nieuwe wettelijke regeling

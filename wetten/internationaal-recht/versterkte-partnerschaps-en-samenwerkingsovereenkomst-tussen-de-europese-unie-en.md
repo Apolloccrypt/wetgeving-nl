@@ -8,7 +8,7 @@ laatste_update: 2024-06-25
 status: geldig
 toestand: 2024-06-25
 bron: "https://wetten.overheid.nl/BWBV0007080"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Versterkte Partnerschaps- en Samenwerkingsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Kirgizische Republiek, anderzijds (met Bijlagen en Protocol)

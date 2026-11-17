@@ -7,7 +7,7 @@ laatste_update: 2026-03-19
 status: geldig
 toestand: 2026-03-19
 bron: "https://wetten.overheid.nl/BWBV0007140"
-opgehaald: 2026-09-17
+opgehaald: 2026-11-17
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Bulgarije inzake de uitwisseling en wederzijdse beveiliging van gerubriceerde gegevens
