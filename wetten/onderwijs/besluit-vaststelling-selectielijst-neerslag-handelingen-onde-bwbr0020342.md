@@ -8,7 +8,7 @@ laatste_update: 2006-10-21
 status: geldig
 toestand: 2006-10-21
 bron: "https://wetten.overheid.nl/BWBR0020342"
-opgehaald: 2026-09-19
+opgehaald: 2026-11-18
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen Onderwijsraad beleidsterrein Middelbaar beroepsonderwijs en Voortgezet Algemeen Volwassenenonderwijs 1968–1999

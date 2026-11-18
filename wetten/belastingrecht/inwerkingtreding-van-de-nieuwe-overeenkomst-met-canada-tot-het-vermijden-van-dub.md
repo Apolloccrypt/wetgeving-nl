@@ -6,10 +6,11 @@ categorie: "Belastingrecht"
 soort: "beleidsregel"
 publicatiedatum: 1987-08-24
 laatste_update: 1987-08-24
-status: geldig
+status: vervallen
+vervallen_op: 2026-11-10
 toestand: 1987-08-24
 bron: "https://wetten.overheid.nl/BWBR0027791"
-opgehaald: 2026-10-13
+opgehaald: 2026-11-18
 ---
 
 # Resolutie Ministerie van Financiën 24 augustus 1987, nr. 087-1692

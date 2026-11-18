@@ -8,7 +8,7 @@ laatste_update: 2007-10-20
 status: geldig
 toestand: 2007-10-20
 bron: "https://wetten.overheid.nl/BWBR0022645"
-opgehaald: 2026-09-19
+opgehaald: 2026-11-18
 ---
 
 # Vaststellingsbesluit selectielijst neerslag handelingen beleidsterrein Beroepenkwaliteit vanaf 1945 (Nederlands Instituut van Registeraccountants)

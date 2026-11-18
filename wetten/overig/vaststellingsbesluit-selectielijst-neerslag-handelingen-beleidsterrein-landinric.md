@@ -8,7 +8,7 @@ laatste_update: 2006-01-12
 status: geldig
 toestand: 2006-01-12
 bron: "https://wetten.overheid.nl/BWBR0018581"
-opgehaald: 2026-09-18
+opgehaald: 2026-11-18
 ---
 
 # Vaststellingsbesluit selectielijst neerslag handelingen beleidsterrein Landinrichting periode 1945-1993 (Minister van Financiën)

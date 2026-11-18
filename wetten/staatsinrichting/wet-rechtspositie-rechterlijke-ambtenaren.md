@@ -9,7 +9,7 @@ laatste_update: 2026-11-16
 status: geldig
 toestand: 2026-11-16
 bron: "https://wetten.overheid.nl/BWBR0008365"
-opgehaald: 2026-11-17
+opgehaald: 2026-11-18
 ---
 
 # Wet van 29 november 1996 tot vaststelling van de gewijzigde Wet rechtspositie rechterlijke ambtenaren (aanvulling met onder meer de onderwerpen omvang van de taak, arbeidstijd, vakantie en verlof)

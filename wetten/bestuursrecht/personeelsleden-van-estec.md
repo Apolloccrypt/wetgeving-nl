@@ -5,10 +5,11 @@ categorie: "Overig"
 soort: "beleidsregel"
 publicatiedatum: 1990-01-03
 laatste_update: 1990-01-03
-status: geldig
+status: vervallen
+vervallen_op: 2026-11-10
 toestand: 1990-01-03
 bron: "https://wetten.overheid.nl/BWBR0004687"
-opgehaald: 2026-09-26
+opgehaald: 2026-11-18
 ---
 
 # Personeelsleden van ESTEC

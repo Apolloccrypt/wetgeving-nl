@@ -5,10 +5,11 @@ categorie: "Sociaal recht"
 soort: "beleidsregel"
 publicatiedatum: 2002-07-08
 laatste_update: 2002-07-08
-status: geldig
+status: vervallen
+vervallen_op: 2026-11-10
 toestand: 2002-07-08
 bron: "https://wetten.overheid.nl/BWBR0013868"
-opgehaald: 2026-10-03
+opgehaald: 2026-11-18
 ---
 
 # Aanvullend (vrijwillig) pensioen voor leden van het Europees Parlement

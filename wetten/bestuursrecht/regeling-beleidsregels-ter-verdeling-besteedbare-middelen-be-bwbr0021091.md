@@ -8,7 +8,7 @@ laatste_update: 2008-02-01
 status: geldig
 toestand: 2008-02-01
 bron: "https://wetten.overheid.nl/BWBR0021091"
-opgehaald: 2026-09-19
+opgehaald: 2026-11-18
 ---
 
 # Regeling beleidsregels ter verdeling besteedbare middelen beheerskosten verbindingskantoren AWBZ 2007

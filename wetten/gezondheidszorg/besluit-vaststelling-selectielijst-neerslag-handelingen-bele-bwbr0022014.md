@@ -8,7 +8,7 @@ laatste_update: 2007-06-07
 status: geldig
 toestand: 2007-06-07
 bron: "https://wetten.overheid.nl/BWBR0022014"
-opgehaald: 2026-09-19
+opgehaald: 2026-11-18
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Gezondheid en Welzijn van Dieren vanaf 1945 (Minister van Verkeer en Waterstaat)

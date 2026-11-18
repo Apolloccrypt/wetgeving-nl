@@ -8,7 +8,7 @@ laatste_update: 2006-02-26
 status: geldig
 toestand: 2006-02-26
 bron: "https://wetten.overheid.nl/BWBR0018659"
-opgehaald: 2026-09-18
+opgehaald: 2026-11-18
 ---
 
 # Vaststellingsbesluit selectielijst neerslag handelingen beleidsterrein Wetenschappelijk onderwijs 1945-1986 (Universiteit Maastricht)

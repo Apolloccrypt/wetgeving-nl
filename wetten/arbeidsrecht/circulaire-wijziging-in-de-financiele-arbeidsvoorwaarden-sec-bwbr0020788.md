@@ -8,7 +8,7 @@ laatste_update: 2007-01-01
 status: geldig
 toestand: 2007-01-01
 bron: "https://wetten.overheid.nl/BWBR0020788"
-opgehaald: 2026-09-19
+opgehaald: 2026-11-18
 ---
 
 # Circulaire Wijziging in de financiële arbeidsvoorwaarden sector Rijk per 1 januari 2007

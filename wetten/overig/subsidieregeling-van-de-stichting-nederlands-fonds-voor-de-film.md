@@ -9,7 +9,7 @@ laatste_update: 2012-01-01
 status: geldig
 toestand: 2012-01-01
 bron: "https://wetten.overheid.nl/BWBR0022008"
-opgehaald: 2026-09-19
+opgehaald: 2026-11-18
 ---
 
 # Subsidieregeling van de Stichting Nederlands Fonds voor de Film

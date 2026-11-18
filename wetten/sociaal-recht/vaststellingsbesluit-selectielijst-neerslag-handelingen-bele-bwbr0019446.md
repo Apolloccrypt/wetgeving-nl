@@ -8,7 +8,7 @@ laatste_update: 2006-04-13
 status: geldig
 toestand: 2006-04-13
 bron: "https://wetten.overheid.nl/BWBR0019446"
-opgehaald: 2026-09-18
+opgehaald: 2026-11-18
 ---
 
 # Vaststellingsbesluit selectielijst neerslag handelingen beleidsterrein Sociale Voorzieningen 1940–2004 (Minister van Landbouw, Natuur en Voedselkwaliteit)

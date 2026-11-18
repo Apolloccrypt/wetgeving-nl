@@ -8,7 +8,7 @@ laatste_update: 2006-01-01
 status: geldig
 toestand: 2006-01-01
 bron: "https://wetten.overheid.nl/BWBR0018984"
-opgehaald: 2026-09-18
+opgehaald: 2026-11-18
 ---
 
 # Beschikking wijzigingspercentage optie- en naturalisatiegelden

@@ -8,7 +8,7 @@ laatste_update: 2006-01-28
 status: geldig
 toestand: 2006-01-28
 bron: "https://wetten.overheid.nl/BWBR0021099"
-opgehaald: 2026-09-19
+opgehaald: 2026-11-18
 ---
 
 # Regeling beleidsregels ter verdeling besteedbare middelen beheerskosten zorgverzekeraars AWBZ 2006

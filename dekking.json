@@ -1,13 +1,13 @@
 {
- "gegenereerd": "2026-11-17",
+ "gegenereerd": "2026-11-18",
  "geverifieerd": true,
- "bwb_regelingen": 47064,
- "bwb_geldend": 22331,
- "site_totaal": 22596,
- "site_geldend": 22330,
+ "bwb_regelingen": 47068,
+ "bwb_geldend": 22327,
+ "site_totaal": 22600,
+ "site_geldend": 22326,
  "dekkingsgraad": 1.0,
  "aantal_ontbrekend": 1,
- "aantal_ten_onrechte_geldig": 266,
+ "aantal_ten_onrechte_geldig": 274,
  "aantal_onbekend": 0,
  "ontbrekend": [
   {
@@ -17,6 +17,14 @@
   }
  ],
  "ten_onrechte_geldig": [
+  {
+   "id": "BWBR0004123",
+   "titel": "Nato airborne early warning and controlprogramme management agency (NAPMA)"
+  },
+  {
+   "id": "BWBR0004687",
+   "titel": "Personeelsleden van ESTEC"
+  },
   {
    "id": "BWBR0006174",
    "titel": "Regeling storing radioverbinding tijdens een gecontroleerde vlucht"
@@ -46,6 +54,10 @@
    "titel": "Besluit van 22 juli 2000, houdende regels voor de aanpassing van de arbeidsduur van militairen (Besluit aanpassing arbeidsduur militairen)"
   },
   {
+   "id": "BWBR0013868",
+   "titel": "Aanvullend (vrijwillig) pensioen voor leden van het Europees Parlement"
+  },
+  {
    "id": "BWBR0014493",
    "titel": "Besluit van de Staatssecretaris voor Ontwikkelingssamenwerking van 18 december 2002, kenmerk DCO/OC-870/02 tot vaststelling van een subsidieplafond op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken"
   },
@@ -64,6 +76,10 @@
   {
    "id": "BWBR0019826",
    "titel": "Vaststellingsbesluit selectielijst neerslag handelingen College Bescherming Persoonsgegevens beleidsterrein Persoonsregistraties vanaf 1989"
+  },
+  {
+   "id": "BWBR0020407",
+   "titel": "Fiscale positie van de ambtenaren en overige personeelsleden van de Europese Gemeenschappen (2006)"
   },
   {
    "id": "BWBR0020750",
@@ -92,6 +108,14 @@
   {
    "id": "BWBR0027522",
    "titel": "Besluit van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 12 april 2010, nr. BJZ2010010749, houdende machtiging van ambtenaren tot het horen van belanghebbenden ingevolge Titel IV van de onteigeningswet (Besluit machtiging ambtenaren horen belanghebbenden Titel IV onteigeningswet)"
+  },
+  {
+   "id": "BWBR0027791",
+   "titel": "Resolutie Ministerie van Financiën 24 augustus 1987, nr. 087-1692"
+  },
+  {
+   "id": "BWBR0027792",
+   "titel": "Iran-United States Claims Tribunal"
   },
   {
    "id": "BWBR0027937",
@@ -542,6 +566,10 @@
    "titel": "Tijdelijke Regeling eenmalige uitkering Dutchbat-III-veteranen"
   },
   {
+   "id": "BWBR0045713",
+   "titel": "Besluit van de Minister voor Rechtsbescherming van 14 oktober 2021 nr. BOACAT2021/050, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Rijswijk"
+  },
+  {
    "id": "BWBR0045762",
    "titel": "Besluit van de Minister voor Rechtsbescherming van 25 oktober 2021 nr. BOACAT2021/048, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Amsterdam, afdeling Amsterdamse Bos"
   },
@@ -860,6 +888,10 @@
   {
    "id": "BWBR0051261",
    "titel": "Beleidsregel huisartsenzorg en multidisciplinaire zorg 2026"
+  },
+  {
+   "id": "BWBR0051326",
+   "titel": "Algemeen organisatiebesluit Defensie 2025"
   },
   {
    "id": "BWBR0051329",

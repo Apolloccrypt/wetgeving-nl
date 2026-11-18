@@ -8,7 +8,7 @@ laatste_update: 2007-06-23
 status: geldig
 toestand: 2007-06-23
 bron: "https://wetten.overheid.nl/BWBR0022096"
-opgehaald: 2026-09-19
+opgehaald: 2026-11-18
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Constitutionele Zaken vanaf 1945 (Minister van Buitenlandse Zaken)

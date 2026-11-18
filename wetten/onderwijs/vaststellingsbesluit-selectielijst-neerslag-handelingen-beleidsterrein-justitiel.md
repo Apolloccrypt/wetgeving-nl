@@ -8,7 +8,7 @@ laatste_update: 2006-03-01
 status: geldig
 toestand: 2006-03-01
 bron: "https://wetten.overheid.nl/BWBR0019239"
-opgehaald: 2026-09-18
+opgehaald: 2026-11-18
 ---
 
 # Vaststellingsbesluit selectielijst neerslag handelingen beleidsterrein Justitiële Jeugdzorg 1945-2000 (Staatssecretaris van Onderwijs, Cultuur en Wetenschap)

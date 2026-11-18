@@ -8,7 +8,7 @@ laatste_update: 2006-10-04
 status: geldig
 toestand: 2006-10-04
 bron: "https://wetten.overheid.nl/BWBR0020176"
-opgehaald: 2026-09-19
+opgehaald: 2026-11-18
 ---
 
 # Vaststellingsbesluit selectielijst neerslag handelingen beleidsterrein In- en uitvoerregelingen vanaf 1945 (Minister van Economische Zaken)

@@ -5,10 +5,11 @@ categorie: "Overig"
 soort: "beleidsregel"
 publicatiedatum: 1988-06-02
 laatste_update: 1988-06-02
-status: geldig
+status: vervallen
+vervallen_op: 2026-11-10
 toestand: 1988-06-02
 bron: "https://wetten.overheid.nl/BWBR0027792"
-opgehaald: 2026-10-13
+opgehaald: 2026-11-18
 ---
 
 # Iran-United States Claims Tribunal

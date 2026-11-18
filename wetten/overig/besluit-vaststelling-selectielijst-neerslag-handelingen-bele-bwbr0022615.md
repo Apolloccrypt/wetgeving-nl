@@ -8,7 +8,7 @@ laatste_update: 2007-10-14
 status: geldig
 toestand: 2007-10-14
 bron: "https://wetten.overheid.nl/BWBR0022615"
-opgehaald: 2026-09-19
+opgehaald: 2026-11-18
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Voedselvoorziening en agrarisch markt- en prijsbeleid (1934) 1945-2000 (Minister van Financiën)

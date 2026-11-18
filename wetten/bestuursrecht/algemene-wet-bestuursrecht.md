@@ -9,7 +9,7 @@ laatste_update: 2026-11-10
 status: geldig
 toestand: 2026-11-10
 bron: "https://wetten.overheid.nl/BWBR0005537"
-opgehaald: 2026-11-17
+opgehaald: 2026-11-18
 ---
 
 # Wet van 4 juni 1992, houdende algemene regels van bestuursrecht (Algemene wet bestuursrecht)

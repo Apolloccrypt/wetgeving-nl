@@ -8,7 +8,7 @@ laatste_update: 2007-07-21
 status: geldig
 toestand: 2007-07-21
 bron: "https://wetten.overheid.nl/BWBR0022240"
-opgehaald: 2026-09-19
+opgehaald: 2026-11-18
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Kansspelen 1945-2000 (Minister van Financiën)

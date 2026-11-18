@@ -8,7 +8,7 @@ laatste_update: 2007-02-01
 status: geldig
 toestand: 2007-02-01
 bron: "https://wetten.overheid.nl/BWBR0021083"
-opgehaald: 2026-09-19
+opgehaald: 2026-11-18
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Bestuurlijke en financiële organisatie lagere overheden vanaf 1945 (Minister van Binnenlandse Zaken en Koninkrijksrelaties)

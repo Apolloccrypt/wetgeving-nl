@@ -5,10 +5,11 @@ categorie: "Internationaal recht"
 soort: "beleidsregel"
 publicatiedatum: 2006-10-21
 laatste_update: 2006-10-21
-status: geldig
+status: vervallen
+vervallen_op: 2026-11-10
 toestand: 2006-10-21
 bron: "https://wetten.overheid.nl/BWBR0020407"
-opgehaald: 2026-10-08
+opgehaald: 2026-11-18
 ---
 
 # Fiscale positie van de ambtenaren en overige personeelsleden van de Europese Gemeenschappen (2006)

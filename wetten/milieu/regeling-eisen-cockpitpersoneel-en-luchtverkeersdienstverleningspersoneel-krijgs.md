@@ -4,16 +4,26 @@ identifier: "BWBR0010740"
 categorie: "Verkeer"
 soort: "ministeriele-regeling"
 publicatiedatum: 1999-10-01
-laatste_update: 2014-07-01
+laatste_update: 2026-11-11
 status: geldig
-toestand: 2014-07-01
+toestand: 2026-11-11
 bron: "https://wetten.overheid.nl/BWBR0010740"
-opgehaald: 2026-10-01
+opgehaald: 2026-11-18
 ---
 
 # Regeling eisen cockpitpersoneel en luchtverkeersdienstverleningspersoneel krijgsmacht
 
 #### Paragraaf 1. Eisen inzake theoretische en praktische bekwaamheid cockpitpersoneel
+
+##### Artikel a1
+
+In deze regeling wordt verstaan onder:
+
+- – *open categorie:* vluchten met militaire onbemande luchtvaartuigen met een laag risico;
+
+- – *specifieke categorie:* vluchten met militaire onbemande luchtvaartuigen met een matig tot verhoogd risico;
+
+- – *gecertificeerde categorie:* vluchten met militaire onbemande luchtvaartuigen met een typecertificaat in de zin van [artikel 3.9 Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.9), met alle risicoprofielen.
 
 ##### Artikel 1
 
@@ -43,29 +53,33 @@ Vliegers voldoen aan de volgende eisen:
 
 ##### Artikel 1a
 
-Personen, belast met het op afstand bedienen van onbemande luchtvaartuigen van de krijgsmacht, voldoen aan de volgende eisen:
+1. De piloot op afstand, belast met het bedienen van een onbemande luchtvaartuig van de krijgsmacht in de open, specifieke en gecertificeerde categorieën, voldoen aan eisen van theoretische- en praktische bekwaamheid.
 
-- a. Theoretische bekwaamheid:
+2. Onder theoretische bekwaamheid wordt in ieder geval verstaan:
 
-   - 1. grondige kennis van de vakken, meteorologie, vliegtuigen, navigatie en luchtvaartvoorschriften;
+- a. kennis van vliegveiligheid, waaronder in ieder geval begrepen meteorologie, navigatie;
 
-   - 2. grondige kennis van de inrichting en bediening van de mechanische, elektrische en elektronische installaties van het onbemande luchtvaartuig, alsmede de apparatuur ten behoeve van de bediening op afstand;
+- b. kennis van luchtruimrestricties;
 
-   - 3. grondige kennis van de wijze waarop operaties door onbemande luchtvaartuigen worden uitgevoerd;
+- c. kennis van luchtvaartregelgeving;
 
-   - 4. grondige kennis inzake het veilig opereren met onbemande luchtvaartuigen;
+- d. kennis van menselijk functioneringsvermogen;
 
-   - 5. grondige kennis met betrekking tot het uitvoeren van noodprocedures.
+- e. kennis van de wijze waarop operationele procedures worden uitgevoerd, waaronder in ieder geval begrepen noodprocedures;
 
-- b. Praktische bekwaamheid:
+- f. kennis over privacy en databescherming.
 
-   - 1. goede bedrevenheid in de allesomvattende behandeling onder alle omstandigheden van het onbemande luchtvaartuig waarmee wordt gevlogen en zijn uitrusting;
+3. Onder praktische bekwaamheid wordt in ieder geval verstaan:
 
-   - 2. goede bedrevenheid in het bedienen van het onbemande luchtvaartuig waarmee wordt gevlogen met behulp van apparatuur ten behoeve van de bediening op afstand;
+- a. goede bedrevenheid in behandeling van het onbemande luchtvaartuig en zijn uitrusting;
 
-   - 3. goede bedrevenheid in het uitvoeren van noodprocedures;
+- b. goede bedrevenheid in het bedienen van het onbemande luchtvaartuig waarmee wordt gevolgen met behulp van apparatuur ten behoeve van de bediening op afstand;
 
-   - 4. het gedurende vijf vlieguren bedienen van een eenmotorig vliegtuig tot 2000 kilogram onder leiding van een instructeur.
+- c. goede bedrevenheid in het uitvoeren van noodprocedures.
+
+##### Artikel 1b
+
+Onverminderd het bepaalde in deze regeling kan de minister nadere eisen stellen ten aanzien van de theoretische en praktische bekwaamheid van de piloot op afstand belast met het bedienen van onbemande luchtvaartuigen van de krijgsmacht in de specifieke en gecertificeerde categorieën, indien het voorziene gebruik dit naar het oordeel van de minister noodzakelijk maakt.
 
 ##### Artikel 2
 
@@ -91,9 +105,7 @@ Overig cockpitpersoneel aan boord van militaire luchtvaartuigen voldoet aan de v
 
 ##### Artikel 3
 
-1. [Artikel 1, onderdeel a, sub 2°, en onderdeel b, sub 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0010740&paragraaf=1&artikel=1&z=2014-07-01&g=2014-07-01), alsmede [artikel 2, onderdeel a, sub 1° tot en met 3°, en onderdeel b, sub 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0010740&paragraaf=1&artikel=2&z=2014-07-01&g=2014-07-01), zijn niet van toepassing ten aanzien van vliegers en boordvliegproefkundigen die zijn belast met het bedienen van luchtvaartuigen tijdens vliegproeven, mits genoemd personeel met goed gevolg een opleiding aan een testvliegschool heeft gevolgd en door de bevoegde militaire autoriteiten als testvlieger danwel boordvliegproefkundige is aangemerkt.
-
-2. [Artikel 1a, onderdeel a, sub 1° en onderdeel b, sub 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0010740&paragraaf=1&artikel=1a&z=2014-07-01&g=2014-07-01) is niet van toepassing ten aanzien van personen belast met het op afstand bedienen van onbemande luchtvaartuigen van de krijgsmacht, voorzover uitsluitend wordt gevlogen in een gebied waarin het burgerluchtverkeer is verboden of beperkt.
+[Artikel 1, onderdeel a, sub 2°, en onderdeel b, sub 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0010740&paragraaf=1&artikel=1&z=2026-11-11&g=2026-11-11), alsmede [artikel 2, onderdeel a, sub 1° tot en met 3°, en onderdeel b, sub 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0010740&paragraaf=1&artikel=2&z=2026-11-11&g=2026-11-11), zijn niet van toepassing ten aanzien van vliegers en boordvliegproefkundigen die zijn belast met het bedienen van luchtvaartuigen tijdens vliegproeven, mits genoemd personeel met goed gevolg een opleiding aan een testvliegschool heeft gevolgd en door de bevoegde militaire autoriteiten als testvlieger danwel boordvliegproefkundige is aangemerkt.
 
 #### Paragraaf 2. Eisen inzake theoretische en praktische bekwaamheid luchtverkeersdienstverleningspersoneel
 
@@ -125,7 +137,7 @@ Personeel, belast met het geven van naderingsluchtverkeersleiding, voldoet aan d
 
 - a. Theoretische bekwaamheid:
 
-   - 1. de eisen, genoemd in [artikel 4, onderdeel a, sub 1° tot en met 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0010740&paragraaf=2&artikel=4&z=2014-07-01&g=2014-07-01);
+   - 1. de eisen, genoemd in [artikel 4, onderdeel a, sub 1° tot en met 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0010740&paragraaf=2&artikel=4&z=2026-11-11&g=2026-11-11);
 
    - 2. grondige kennis van het samenstel van procedures die moeten worden gebruikt bij het leiden van het luchtverkeer bij de naderingsluchtverkeersleidingsdienst onder alle weersomstandigheden.
 
@@ -141,7 +153,7 @@ Personeel, belast met het geven van algemene luchtverkeersleiding, voldoet aan d
 
 - a. Theoretische bekwaamheid:
 
-   - 1. de eisen, genoemd in [artikel 4, onderdeel a, sub 1° tot en met 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0010740&paragraaf=2&artikel=4&z=2014-07-01&g=2014-07-01);
+   - 1. de eisen, genoemd in [artikel 4, onderdeel a, sub 1° tot en met 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0010740&paragraaf=2&artikel=4&z=2026-11-11&g=2026-11-11);
 
    - 2. grondige kennis van het samenstel van procedures die moeten worden gebruikt bij het leiden van het luchtverkeer bij de algemene luchtverkeersleidingsdienst onder alle weersomstandigheden.
 
@@ -157,7 +169,7 @@ Personeel, belast met het geven van radarnaderingsluchtverkeersleiding, voldoet 
 
 - a. Theoretische bekwaamheid:
 
-   - 1. de eisen, genoemd in [artikel 4, onderdeel a, sub 1° tot en met 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0010740&paragraaf=2&artikel=4&z=2014-07-01&g=2014-07-01);
+   - 1. de eisen, genoemd in [artikel 4, onderdeel a, sub 1° tot en met 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0010740&paragraaf=2&artikel=4&z=2026-11-11&g=2026-11-11);
 
    - 2. grondige kennis van het samenstel van procedures die moeten worden gebruikt bij het geven van radarluchtverkeersleiding bij een naderingsluchtverkeersleidingsdienst onder alle weersomstandigheden.
 
@@ -173,7 +185,7 @@ Personeel, belast met het geven van algemene radarluchtverkeersleiding, voldoet 
 
 - a. Theoretische bekwaamheid:
 
-   - 1. de eisen, genoemd in [artikel 4, onderdeel a, sub 1° tot en met 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0010740&paragraaf=2&artikel=4&z=2014-07-01&g=2014-07-01);
+   - 1. de eisen, genoemd in [artikel 4, onderdeel a, sub 1° tot en met 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0010740&paragraaf=2&artikel=4&z=2026-11-11&g=2026-11-11);
 
    - 2. grondige kennis van het samenstel van procedures die moeten worden gebruikt bij het geven van radarluchtverkeersleiding bij een algemene luchtverkeersleidingsdienst onder alle weersomstandigheden.
 
@@ -187,9 +199,11 @@ Personeel, belast met het geven van algemene radarluchtverkeersleiding, voldoet 
 
 ##### Artikel 9
 
-1. Als eisen inzake de geestelijke en lichamelijke geschiktheid van het personeel van de krijgsmacht dat is belast met het bedienen van militaire luchtvaartuigen, dan wel dat is belast met het geven van luchtverkeersdienstverlening, gelden de militaire medische luchtvaarteisen FCL 3 zoals vastgesteld door de Militaire Luchtvaart Autoriteit.
+Als eisen inzake de geestelijke en lichamelijke geschiktheid van het personeel van de krijgsmacht dat is belast met het bedienen van militaire luchtvaartuigen, dan wel dat is belast met het geven van luchtverkeersdienstverlening, gelden de militaire medische luchtvaarteisen FCL 3 zoals vastgesteld door de Militaire Luchtvaart Autoriteit.
 
-2. Als eisen inzake de geestelijke en lichamelijke geschiktheid en inzake de keuring van niet tot de krijgsmacht behorende personen die zijn belast met het bedienen van onbemande luchtvaartuigen van de krijgsmacht, gelden de in de [bijlage](https://wetten.overheid.nl/BWBR0010740) vastgestelde eisen.
+##### Artikel 9a
+
+Als eisen inzake de geestelijke en lichamelijke geschiktheid van de piloot op afstand, belast met het op afstand bedienen van onbemande luchtvaartuigen van de krijgsmacht, gelden de eisen als vastgesteld door de minister, die voor de open, specifieke en gespecificeerde categorieën verschillend kunnen worden vastgesteld indien het voorziene gebruik dit naar zijn oordeel noodzakelijk maakt.
 
 #### Paragraaf 4. Slotbepalingen
 

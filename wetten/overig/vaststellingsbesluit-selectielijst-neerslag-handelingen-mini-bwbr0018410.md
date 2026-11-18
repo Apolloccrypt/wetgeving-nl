@@ -8,7 +8,7 @@ laatste_update: 2005-08-06
 status: geldig
 toestand: 2005-08-06
 bron: "https://wetten.overheid.nl/BWBR0018410"
-opgehaald: 2026-09-18
+opgehaald: 2026-11-18
 ---
 
 # Vaststellingsbesluit selectielijst neerslag handelingen Minister van Financiën, beleidsterrein Volkshuisvesting 1945–1996

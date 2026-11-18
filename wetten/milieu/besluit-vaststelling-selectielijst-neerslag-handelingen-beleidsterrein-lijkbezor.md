@@ -8,7 +8,7 @@ laatste_update: 2007-02-03
 status: geldig
 toestand: 2007-02-03
 bron: "https://wetten.overheid.nl/BWBR0021107"
-opgehaald: 2026-09-19
+opgehaald: 2026-11-18
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Lijkbezorging vanaf 1948 (Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer)

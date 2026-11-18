@@ -5,10 +5,11 @@ categorie: "Overig"
 soort: "ministeriele-regeling"
 publicatiedatum: 2025-07-26
 laatste_update: 2025-07-26
-status: geldig
+status: vervallen
+vervallen_op: 2026-11-10
 toestand: 2025-07-26
 bron: "https://wetten.overheid.nl/BWBR0051326"
-opgehaald: 2026-11-07
+opgehaald: 2026-11-18
 ---
 
 # Algemeen organisatiebesluit Defensie 2025

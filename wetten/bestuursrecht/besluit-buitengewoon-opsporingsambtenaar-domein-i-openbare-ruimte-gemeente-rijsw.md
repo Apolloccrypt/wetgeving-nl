@@ -6,10 +6,11 @@ categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
 publicatiedatum: 2021-11-18
 laatste_update: 2025-11-25
-status: geldig
+status: vervallen
+vervallen_op: 2026-11-17
 toestand: 2025-11-25
 bron: "https://wetten.overheid.nl/BWBR0045713"
-opgehaald: 2026-10-30
+opgehaald: 2026-11-18
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 14 oktober 2021 nr. BOACAT2021/050, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Rijswijk

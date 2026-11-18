@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-10-31
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0050632"
-opgehaald: 2026-11-17
+opgehaald: 2026-11-18
 ---
 
 # Deelreglement Distributie van de Stichting Nederlands Fonds voor de film

@@ -3,28 +3,20 @@ title: "Regeling aanwijzing militaire onbemande luchtvaartuigen"
 identifier: "BWBR0011104"
 categorie: "Verkeer"
 soort: "ministeriele-regeling"
-publicatiedatum: 2000-02-11
-laatste_update: 2000-02-11
+publicatiedatum: 2026-11-11
+laatste_update: 2026-11-11
 status: geldig
-toestand: 2000-02-11
+toestand: 2026-11-11
 bron: "https://wetten.overheid.nl/BWBR0011104"
-opgehaald: 2026-10-01
+opgehaald: 2026-11-18
 ---
 
 # Regeling aanwijzing militaire onbemande luchtvaartuigen
 
 ##### Artikel 1
 
-Als onbemande luchtvaartuigen aan boord waarvan zich geen gezagvoerder bevindt, worden aangewezen:
-
-- a. militaire onbemande luchtvaartuigen voor observatiedoeleinden vanuit de lucht;
-
-- b. militaire onbemande luchtvaartuigen die worden gebruikt als doel voor schietoefeningen of voor het slepen van een doel voor schietoefeningen.
+Als militaire onbemande luchtvaartuigen aan boord waarvan zich geen gezagvoerder bevindt wordt aangewezen elk militair luchtvaartuig waarmee vluchten worden uitgevoerd of dat is ontworpen om vluchten autonoom of op afstand bestuurd uit te voeren zonder piloot aan boord.
 
 ##### Artikel 2
-
-Deze regeling treedt in werking op het tijdstip waarop het Besluit van 1 december 1998, houdende enige voorzieningen met betrekking tot onbemande luchtvaartuigen (Stb. 1998, 674) in werking treedt.
-
-##### Artikel 3
 
 Deze regeling wordt aangehaald als: Regeling aanwijzing militaire onbemande luchtvaartuigen.

@@ -8,7 +8,7 @@ laatste_update: 2007-03-09
 status: geldig
 toestand: 2007-03-09
 bron: "https://wetten.overheid.nl/BWBR0021438"
-opgehaald: 2026-09-19
+opgehaald: 2026-11-18
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Voeding- en productveiligheid vanaf 1945 (Minister van Algemene Zaken)

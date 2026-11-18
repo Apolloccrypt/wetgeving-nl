@@ -5,10 +5,11 @@ categorie: "Overig"
 soort: "beleidsregel"
 publicatiedatum: 1987-03-09
 laatste_update: 1987-03-09
-status: geldig
+status: vervallen
+vervallen_op: 2026-11-10
 toestand: 1987-03-09
 bron: "https://wetten.overheid.nl/BWBR0004123"
-opgehaald: 2026-09-26
+opgehaald: 2026-11-18
 ---
 
 # Nato airborne early warning and controlprogramme management agency (NAPMA)
