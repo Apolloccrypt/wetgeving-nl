@@ -8,7 +8,7 @@ laatste_update: 2015-08-01
 status: geldig
 toestand: 2015-08-01
 bron: "https://wetten.overheid.nl/BWBR0036743"
-opgehaald: 2026-09-20
+opgehaald: 2026-11-19
 ---
 
 # Reglement erkenning leerbedrijven SBB

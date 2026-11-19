@@ -8,7 +8,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0037175"
-opgehaald: 2026-09-20
+opgehaald: 2026-11-19
 ---
 
 # Regeling declaratievoorschriften Wlz-zorg

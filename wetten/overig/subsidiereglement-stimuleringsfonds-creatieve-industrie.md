@@ -8,7 +8,7 @@ laatste_update: 2015-12-08
 status: geldig
 toestand: 2015-12-08
 bron: "https://wetten.overheid.nl/BWBR0037306"
-opgehaald: 2026-09-20
+opgehaald: 2026-11-19
 ---
 
 # Subsidiereglement Stimuleringsfonds Creatieve Industrie

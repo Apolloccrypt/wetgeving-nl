@@ -9,7 +9,7 @@ laatste_update: 2026-11-18
 status: geldig
 toestand: 2026-11-18
 bron: "https://wetten.overheid.nl/BWBR0052946"
-opgehaald: 2026-11-18
+opgehaald: 2026-11-19
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 17 juli 2026 nr. BOACAT2026/045, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Rijswijk

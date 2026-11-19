@@ -8,7 +8,7 @@ laatste_update: 2026-11-11
 status: geldig
 toestand: 2026-11-11
 bron: "https://wetten.overheid.nl/BWBR0046624"
-opgehaald: 2026-11-18
+opgehaald: 2026-11-19
 ---
 
 # Regeling kenmerken, registratie en luchtwaardigheid militaire luchtvaartuigen 2022

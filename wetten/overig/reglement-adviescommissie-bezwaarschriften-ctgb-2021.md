@@ -5,10 +5,11 @@ categorie: "Overig"
 soort: "zbo"
 publicatiedatum: 2021-12-07
 laatste_update: 2021-12-07
-status: geldig
+status: vervallen
+vervallen_op: 2026-11-12
 toestand: 2021-12-07
 bron: "https://wetten.overheid.nl/BWBR0045977"
-opgehaald: 2026-10-31
+opgehaald: 2026-11-19
 ---
 
 # Reglement Adviescommissie bezwaarschriften Ctgb 2021

@@ -8,7 +8,7 @@ laatste_update: 2011-01-19
 status: geldig
 toestand: 2011-01-19
 bron: "https://wetten.overheid.nl/BWBR0022819"
-opgehaald: 2026-09-19
+opgehaald: 2026-11-19
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Vaststelling tarieven gezondheidszorg vanaf 1945 (College van beroep voor het bedrijfsleven)

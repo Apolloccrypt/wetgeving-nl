@@ -5,11 +5,11 @@ identifier: "BWBR0041856"
 categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
 publicatiedatum: 2023-11-07
-laatste_update: 2024-01-31
+laatste_update: 2026-11-12
 status: geldig
-toestand: 2024-01-31
+toestand: 2026-11-12
 bron: "https://wetten.overheid.nl/BWBR0041856"
-opgehaald: 2026-10-26
+opgehaald: 2026-11-19
 ---
 
 # Regeling van de Minister voor Medische Zorg van 21 december 2018, kenmerk 1463057-185477-CZ, houdende regels voor het verstrekken van subsidie voor het operatief plaatsen van borstprothesen bij transvrouwen (Subsidieregeling borstprothesen transvrouwen)
@@ -40,9 +40,11 @@ Subsidie wordt uitsluitend verstrekt aan transvrouwen die:
 
 - – Ouder zijn dan 18 jaar;
 
-- – Op voorschrift van een BIG-geregistreerde arts:
+- – voorschrift van een BIG-geregistreerde arts:
 
-   - ○ minimaal een jaar voorafgaand aan de subsidieaanvraag met genderbevestigende hormoonbehandelingen gestart zijn als onderdeel van een genderbevestigende behandeling; of
+   - ○ minimaal een jaar voorafgaand aan de subsidieaanvraag met genderbevestigende hormoonbehandelingen gestart zijn, als onderdeel van een genderbevestigende behandeling, indien de behandeling, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041856&artikel=3&z=2026-11-12&g=2026-11-12), nog niet heeft plaatsgevonden; of
+
+   - ○ minimaal een jaar voorafgaand aan de reeds uitgevoerde behandeling, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041856&artikel=3&z=2026-11-12&g=2026-11-12), met genderbevestigende hormoonbehandelingen gestart zijn als onderdeel van een genderbevestigende behandeling; of
 
    - ○ op medische gronden geen genderbevestigende hormoonbehandelingen kunnen ondergaan; of
 
@@ -82,7 +84,7 @@ Bij de aanvraag tot verlening van de subsidie worden de volgende gegevens verstr
 
 - – Een door de Minister vastgesteld formulier met een verklaring voorzien van BIG-registratienummer van een BIG-geregistreerde arts dat:
 
-   - 1) de hormoonbehandelingen minimaal een jaar voor de aanvraag zijn voorgeschreven en gestart, of
+   - 1) de hormoonbehandelingen minimaal een jaar voor de aanvraag ofwel minimaal een jaar voor de behandeling zijn voorgeschreven en gestart, of
 
    - 2) op medische gronden geen genderbevestigende hormoonbehandelingen mogelijk zijn, of
 
@@ -96,9 +98,9 @@ Bij de aanvraag tot verlening van de subsidie worden de volgende gegevens verstr
 
 2. De Minister verleent bij het besluit tot verlening van de subsidie een voorschot van 100% van het subsidiebedrag.
 
-3. De behandeling, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041856&artikel=3&z=2024-01-31&g=2024-01-31), dient binnen een jaar na aanvraag van de subsidie plaats te vinden.
+3. De behandeling, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041856&artikel=3&z=2026-11-12&g=2026-11-12), heeft binnen zes maanden voorafgaand aan het indienen van de aanvraag plaatsgevonden of vindt binnen 12 maanden na aanvraag van de subsidie plaats.
 
-4. De Minister kan vrijstelling of ontheffing verlenen van de termijn, bedoeld in het derde lid.
+4. Indien de behandeling na de aanvraag plaatsvindt, kan de Minister vrijstelling of ontheffing verlenen van de termijn, bedoeld in het derde lid.
 
 ##### Artikel 9
 

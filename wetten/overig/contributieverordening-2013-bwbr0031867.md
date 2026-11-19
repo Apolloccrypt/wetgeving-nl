@@ -8,7 +8,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0031867"
-opgehaald: 2026-09-20
+opgehaald: 2026-11-19
 ---
 
 # Contributieverordening 2013

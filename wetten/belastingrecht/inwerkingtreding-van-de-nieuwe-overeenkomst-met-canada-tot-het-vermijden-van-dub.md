@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-11-10
 toestand: 1987-08-24
 bron: "https://wetten.overheid.nl/BWBR0027791"
-opgehaald: 2026-11-18
+opgehaald: 2026-11-19
 ---
 
 # Resolutie Ministerie van Financiën 24 augustus 1987, nr. 087-1692

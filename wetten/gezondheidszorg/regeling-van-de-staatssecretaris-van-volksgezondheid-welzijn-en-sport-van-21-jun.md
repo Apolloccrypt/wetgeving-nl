@@ -9,7 +9,7 @@ laatste_update: 2013-07-02
 status: geldig
 toestand: 2013-07-02
 bron: "https://wetten.overheid.nl/BWBR0033624"
-opgehaald: 2026-09-20
+opgehaald: 2026-11-19
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 21 juni 2013, 119387-104410-DMO, houdende aanpassing van de factoren, grondslagen en bedragen voor verzetsdeelnemers en oorlogsgetroffenen per 1 juli 2013

@@ -8,7 +8,7 @@ laatste_update: 2012-01-01
 status: geldig
 toestand: 2012-01-01
 bron: "https://wetten.overheid.nl/BWBR0030434"
-opgehaald: 2026-09-20
+opgehaald: 2026-11-19
 ---
 
 # Regeling mondzorg

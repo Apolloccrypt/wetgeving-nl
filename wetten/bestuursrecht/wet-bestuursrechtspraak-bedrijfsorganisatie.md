@@ -9,7 +9,7 @@ laatste_update: 2026-11-16
 status: geldig
 toestand: 2026-11-16
 bron: "https://wetten.overheid.nl/BWBR0002144"
-opgehaald: 2026-11-18
+opgehaald: 2026-11-19
 ---
 
 # Wet van 16 september 1954, houdende administratieve rechtspraak bedrijfsorganisatie

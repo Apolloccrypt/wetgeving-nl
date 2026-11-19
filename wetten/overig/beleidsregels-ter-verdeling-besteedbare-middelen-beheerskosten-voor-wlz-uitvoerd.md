@@ -9,7 +9,7 @@ laatste_update: 2016-11-02
 status: geldig
 toestand: 2016-11-02
 bron: "https://wetten.overheid.nl/BWBR0036501"
-opgehaald: 2026-09-20
+opgehaald: 2026-11-19
 ---
 
 # Beleidsregels ter verdeling besteedbare middelen beheerskosten voor Wlz-uitvoerders Wlz 2015

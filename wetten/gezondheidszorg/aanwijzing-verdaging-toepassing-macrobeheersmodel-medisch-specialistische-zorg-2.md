@@ -8,7 +8,7 @@ laatste_update: 2015-02-01
 status: geldig
 toestand: 2015-02-01
 bron: "https://wetten.overheid.nl/BWBR0035988"
-opgehaald: 2026-09-20
+opgehaald: 2026-11-19
 ---
 
 # Aanwijzing verdaging toepassing macrobeheersmodel medisch specialistische zorg 2012–2013

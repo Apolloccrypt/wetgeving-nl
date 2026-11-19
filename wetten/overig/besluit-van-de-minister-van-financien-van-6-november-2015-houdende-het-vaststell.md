@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0037198"
-opgehaald: 2026-09-20
+opgehaald: 2026-11-19
 ---
 
 # Besluit van de Minister van Financiën van 6 november 2015 houdende het vaststellen van de gelijkwaardige inspanning van decentrale overheden

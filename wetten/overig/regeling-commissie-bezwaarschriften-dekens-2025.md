@@ -5,10 +5,11 @@ categorie: "Overig"
 soort: "pbo"
 publicatiedatum: 2025-04-26
 laatste_update: 2025-04-26
-status: geldig
+status: vervallen
+vervallen_op: 2026-11-11
 toestand: 2025-04-26
 bron: "https://wetten.overheid.nl/BWBR0050982"
-opgehaald: 2026-11-07
+opgehaald: 2026-11-19
 ---
 
 # Regeling commissie bezwaarschriften dekens 2025

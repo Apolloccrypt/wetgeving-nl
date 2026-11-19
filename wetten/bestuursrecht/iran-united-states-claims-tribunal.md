@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-11-10
 toestand: 1988-06-02
 bron: "https://wetten.overheid.nl/BWBR0027792"
-opgehaald: 2026-11-18
+opgehaald: 2026-11-19
 ---
 
 # Iran-United States Claims Tribunal

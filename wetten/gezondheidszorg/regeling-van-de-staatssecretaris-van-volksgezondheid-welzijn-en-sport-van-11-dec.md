@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0036088"
-opgehaald: 2026-09-20
+opgehaald: 2026-11-19
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 11 december 2014, houdende vaststelling bedrag vrijstelling vermogensinkomsten wetten voor verzetsdeelnemers en oorlogsgetroffenen per 1 januari 2015

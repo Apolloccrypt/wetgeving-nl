@@ -9,7 +9,7 @@ laatste_update: 1974-07-22
 status: geldig
 toestand: 1974-07-22
 bron: "https://wetten.overheid.nl/BWBR0027782"
-opgehaald: 2026-09-20
+opgehaald: 2026-11-19
 ---
 
 # Besluit van 22 juli 1974, nr. B74-15201

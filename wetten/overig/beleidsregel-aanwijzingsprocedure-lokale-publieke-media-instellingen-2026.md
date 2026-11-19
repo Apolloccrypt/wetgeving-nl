@@ -8,7 +8,7 @@ laatste_update: 2026-11-11
 status: geldig
 toestand: 2026-11-11
 bron: "https://wetten.overheid.nl/BWBR0053324"
-opgehaald: 2026-11-18
+opgehaald: 2026-11-19
 ---
 
 # Beleidsregel aanwijzingsprocedure lokale publieke media-instellingen 2026

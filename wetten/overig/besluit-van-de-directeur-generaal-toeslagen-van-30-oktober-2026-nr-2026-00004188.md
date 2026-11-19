@@ -9,7 +9,7 @@ laatste_update: 2026-11-11
 status: geldig
 toestand: 2026-11-11
 bron: "https://wetten.overheid.nl/BWBR0053326"
-opgehaald: 2026-11-18
+opgehaald: 2026-11-19
 ---
 
 # Besluit van de directeur-generaal Toeslagen van 30 oktober 2026, nr. 2026-0000418898, tot het verlenen van mandaat, volmacht en machtiging aan de directeur van de Directie Buitengewone Zaken Blauw inzake het faciliteren van het Aanmeldportaal aanvullende schade en MijnHerstel in het kader van de Wet hersteloperatie toeslagen

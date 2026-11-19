@@ -9,7 +9,7 @@ laatste_update: 2008-06-20
 status: geldig
 toestand: 2008-06-20
 bron: "https://wetten.overheid.nl/BWBR0024138"
-opgehaald: 2026-09-19
+opgehaald: 2026-11-19
 ---
 
 # Besluit van 13 juni 2008, houdende wijziging van het Warenwetbesluit Toevoeging micro-voedingsstoffen aan levensmiddelen, inzake het toevoegen van jodium
