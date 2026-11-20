@@ -8,7 +8,7 @@ laatste_update: 2026-11-11
 status: geldig
 toestand: 2026-11-11
 bron: "https://wetten.overheid.nl/BWBR0010740"
-opgehaald: 2026-11-19
+opgehaald: 2026-11-20
 ---
 
 # Regeling eisen cockpitpersoneel en luchtverkeersdienstverleningspersoneel krijgsmacht

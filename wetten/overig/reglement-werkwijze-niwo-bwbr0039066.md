@@ -8,7 +8,7 @@ laatste_update: 2017-01-03
 status: geldig
 toestand: 2017-01-03
 bron: "https://wetten.overheid.nl/BWBR0039066"
-opgehaald: 2026-09-20
+opgehaald: 2026-11-20
 ---
 
 # Reglement werkwijze NIWO

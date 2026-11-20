@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-11-11
 toestand: 2025-04-26
 bron: "https://wetten.overheid.nl/BWBR0050982"
-opgehaald: 2026-11-19
+opgehaald: 2026-11-20
 ---
 
 # Regeling commissie bezwaarschriften dekens 2025

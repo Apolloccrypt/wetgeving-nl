@@ -9,7 +9,7 @@ laatste_update: 2019-05-01
 status: geldig
 toestand: 2019-05-01
 bron: "https://wetten.overheid.nl/BWBR0042167"
-opgehaald: 2026-09-20
+opgehaald: 2026-11-20
 ---
 
 # Beleidsregels van de Minister voor Medische Zorg van 25 april 2019, kenmerk 1518521-189623-S, inhoudende de beoordeling van aanvragen van gemeenten voor de Regeling specifieke uitkering stimulering sport

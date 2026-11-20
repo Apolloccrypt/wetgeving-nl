@@ -8,7 +8,7 @@ laatste_update: 2016-12-22
 status: geldig
 toestand: 2016-12-22
 bron: "https://wetten.overheid.nl/BWBR0038901"
-opgehaald: 2026-09-20
+opgehaald: 2026-11-20
 ---
 
 # Besluit beperking openbaarheid notulen en bescheiden van rijksministerraad, ministerraad, onderraden en ministeriële commissies (1 januari 1991 – 1 januari 1993)

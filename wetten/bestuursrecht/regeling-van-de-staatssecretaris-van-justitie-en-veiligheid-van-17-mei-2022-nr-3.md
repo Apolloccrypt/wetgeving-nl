@@ -9,7 +9,7 @@ laatste_update: 2022-05-25
 status: geldig
 toestand: 2022-05-25
 bron: "https://wetten.overheid.nl/BWBR0046695"
-opgehaald: 2026-09-21
+opgehaald: 2026-11-20
 ---
 
 # Regeling van de Staatssecretaris van Justitie en Veiligheid van 17 mei 2022, nr. 3994781, houdende een eenmalige specifieke uitkering voor gemeenten in verband met het treffen van maatregelen ter vermindering van overlast en criminaliteit veroorzaakt door asielzoekers in 2022 en 2023

@@ -8,7 +8,7 @@ laatste_update: 2016-11-01
 status: geldig
 toestand: 2016-11-01
 bron: "https://wetten.overheid.nl/BWBR0038567"
-opgehaald: 2026-09-20
+opgehaald: 2026-11-20
 ---
 
 # Besluit aanwijzing Geschillencommissie Auteurscontractenrecht

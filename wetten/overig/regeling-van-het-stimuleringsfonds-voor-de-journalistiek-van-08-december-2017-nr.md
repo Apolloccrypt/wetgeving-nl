@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0040386"
-opgehaald: 2026-09-20
+opgehaald: 2026-11-20
 ---
 
 # Regeling van het Stimuleringsfonds voor de Journalistiek van 08 december 2017, nr. 27129 tot vaststelling van subsidieplafonds voor het jaar 2018

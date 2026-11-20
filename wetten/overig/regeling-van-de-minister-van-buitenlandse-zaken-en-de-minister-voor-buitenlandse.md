@@ -9,7 +9,7 @@ laatste_update: 2023-07-01
 status: geldig
 toestand: 2023-07-01
 bron: "https://wetten.overheid.nl/BWBR0048346"
-opgehaald: 2026-09-21
+opgehaald: 2026-11-20
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken en de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 22 juni 2023, nr. Min-BuZa.2023.15529-15, tot wijziging van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006

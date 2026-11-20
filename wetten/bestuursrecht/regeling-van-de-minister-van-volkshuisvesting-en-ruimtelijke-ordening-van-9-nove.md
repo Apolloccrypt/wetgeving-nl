@@ -9,7 +9,7 @@ laatste_update: 2026-11-12
 status: geldig
 toestand: 2026-11-12
 bron: "https://wetten.overheid.nl/BWBR0053335"
-opgehaald: 2026-11-19
+opgehaald: 2026-11-20
 ---
 
 # Regeling van de Minister van Volkshuisvesting en Ruimtelijke Ordening van 9 november 2026, kenmerk 2026-0000584526, houdende regels met betrekking tot de specifieke uitkeringen ten behoeve van het versterken van de gemeentelijke uitvoeringskracht in de woningbouw en het uitvoeren van woondeals (Regeling specifieke uitkeringen uitvoeringskracht woningbouw) [KetenID: 29309]

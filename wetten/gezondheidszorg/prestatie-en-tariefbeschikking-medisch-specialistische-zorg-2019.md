@@ -8,7 +8,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0040882"
-opgehaald: 2026-09-20
+opgehaald: 2026-11-20
 ---
 
 # Prestatie- en tariefbeschikking medisch-specialistische zorg 2019

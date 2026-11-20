@@ -9,7 +9,7 @@ laatste_update: 2026-11-13
 status: geldig
 toestand: 2026-11-13
 bron: "https://wetten.overheid.nl/BWBR0053340"
-opgehaald: 2026-11-19
+opgehaald: 2026-11-20
 ---
 
 # Besluit van de Staatssecretaris van Economische Zaken en Klimaat van 12 oktober 2026, houdende de aanwijzing van Stichting Tijdelijk Noodfonds Energie als aangewezen organisatie onder de Wet digitale overheid

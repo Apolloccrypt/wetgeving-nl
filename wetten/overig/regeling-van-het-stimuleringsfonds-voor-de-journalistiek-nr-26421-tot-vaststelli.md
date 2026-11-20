@@ -9,7 +9,7 @@ laatste_update: 2019-07-30
 status: geldig
 toestand: 2019-07-30
 bron: "https://wetten.overheid.nl/BWBR0042468"
-opgehaald: 2026-09-20
+opgehaald: 2026-11-20
 ---
 
 # Regeling van het Stimuleringsfonds voor de journalistiek nr. 26421 tot vaststelling van subsidieplafonds voor het jaar 2019

@@ -9,7 +9,7 @@ laatste_update: 2024-04-11
 status: geldig
 toestand: 2024-04-11
 bron: "https://wetten.overheid.nl/BWBR0049561"
-opgehaald: 2026-09-21
+opgehaald: 2026-11-20
 ---
 
 # Besluit verlenen ondermandaat Regeling InformatiehuishoudingFinanciën 2022 (RINFIN 2022)

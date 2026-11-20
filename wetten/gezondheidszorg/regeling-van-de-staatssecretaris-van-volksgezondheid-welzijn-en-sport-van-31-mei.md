@@ -9,7 +9,7 @@ laatste_update: 2022-07-01
 status: geldig
 toestand: 2022-07-01
 bron: "https://wetten.overheid.nl/BWBR0046745"
-opgehaald: 2026-09-21
+opgehaald: 2026-11-20
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 31 mei 2022, kenmerk 3365813-1028934-WJZ, houdende aanpassing van de factoren, grondslagen en bedragen in de wetten voor verzetsdeelnemers en oorlogsgetroffenen per 1 juli 2022

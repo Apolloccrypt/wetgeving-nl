@@ -9,7 +9,7 @@ laatste_update: 2022-03-05
 status: geldig
 toestand: 2022-03-05
 bron: "https://wetten.overheid.nl/BWBR0046390"
-opgehaald: 2026-09-21
+opgehaald: 2026-11-20
 ---
 
 # Regeling Declaratievoorschriften, administratievoorschriften en informatieverstrekking Wlz 2021

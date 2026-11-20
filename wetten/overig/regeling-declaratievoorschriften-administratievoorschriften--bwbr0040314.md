@@ -8,7 +8,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0040314"
-opgehaald: 2026-09-20
+opgehaald: 2026-11-20
 ---
 
 # Regeling declaratievoorschriften, administratievoorschriften en informatieverstrekking Wlz 2018

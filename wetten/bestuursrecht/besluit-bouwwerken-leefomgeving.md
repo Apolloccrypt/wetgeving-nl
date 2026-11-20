@@ -9,7 +9,7 @@ laatste_update: 2026-09-24
 status: geldig
 toestand: 2026-09-24
 bron: "https://wetten.overheid.nl/BWBR0041297"
-opgehaald: 2026-11-19
+opgehaald: 2026-11-20
 ---
 
 # Besluit van 3 juli 2018, houdende regels over bouwwerken in de fysieke leefomgeving (Besluit bouwwerken leefomgeving)

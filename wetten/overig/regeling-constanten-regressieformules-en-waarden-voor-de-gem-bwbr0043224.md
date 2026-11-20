@@ -8,7 +8,7 @@ laatste_update: 2020-02-28
 status: geldig
 toestand: 2020-02-28
 bron: "https://wetten.overheid.nl/BWBR0043224"
-opgehaald: 2026-09-20
+opgehaald: 2026-11-20
 ---
 
 # Regeling constanten regressieformules en waarden voor de gemiddelde CO2-uitstoot voor benzine- en dieselauto's 2020 en 2021

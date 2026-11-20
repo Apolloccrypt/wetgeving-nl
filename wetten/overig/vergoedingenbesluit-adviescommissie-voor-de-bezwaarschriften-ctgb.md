@@ -8,7 +8,7 @@ laatste_update: 2026-11-13
 status: geldig
 toestand: 2026-11-13
 bron: "https://wetten.overheid.nl/BWBR0053339"
-opgehaald: 2026-11-19
+opgehaald: 2026-11-20
 ---
 
 # Vergoedingenbesluit adviescommissie voor de bezwaarschriften Ctgb

@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-11-10
 toestand: 1990-01-03
 bron: "https://wetten.overheid.nl/BWBR0004687"
-opgehaald: 2026-11-19
+opgehaald: 2026-11-20
 ---
 
 # Personeelsleden van ESTEC

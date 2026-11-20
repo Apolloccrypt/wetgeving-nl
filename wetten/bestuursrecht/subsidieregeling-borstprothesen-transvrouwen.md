@@ -9,7 +9,7 @@ laatste_update: 2026-11-12
 status: geldig
 toestand: 2026-11-12
 bron: "https://wetten.overheid.nl/BWBR0041856"
-opgehaald: 2026-11-19
+opgehaald: 2026-11-20
 ---
 
 # Regeling van de Minister voor Medische Zorg van 21 december 2018, kenmerk 1463057-185477-CZ, houdende regels voor het verstrekken van subsidie voor het operatief plaatsen van borstprothesen bij transvrouwen (Subsidieregeling borstprothesen transvrouwen)
@@ -40,7 +40,7 @@ Subsidie wordt uitsluitend verstrekt aan transvrouwen die:
 
 - – Ouder zijn dan 18 jaar;
 
-- – voorschrift van een BIG-geregistreerde arts:
+- – Op voorschrift van een BIG-geregistreerde arts:
 
    - ○ minimaal een jaar voorafgaand aan de subsidieaanvraag met genderbevestigende hormoonbehandelingen gestart zijn, als onderdeel van een genderbevestigende behandeling, indien de behandeling, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041856&artikel=3&z=2026-11-12&g=2026-11-12), nog niet heeft plaatsgevonden; of
 

@@ -8,7 +8,7 @@ laatste_update: 2023-09-15
 status: geldig
 toestand: 2023-09-15
 bron: "https://wetten.overheid.nl/BWBR0048614"
-opgehaald: 2026-09-21
+opgehaald: 2026-11-20
 ---
 
 # Vervallenverklaring tenaamstellingen kentekenregister

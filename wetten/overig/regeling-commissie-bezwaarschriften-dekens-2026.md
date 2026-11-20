@@ -8,7 +8,7 @@ laatste_update: 2026-11-12
 status: geldig
 toestand: 2026-11-12
 bron: "https://wetten.overheid.nl/BWBR0053331"
-opgehaald: 2026-11-19
+opgehaald: 2026-11-20
 ---
 
 # Regeling commissie bezwaarschriften dekens 2026

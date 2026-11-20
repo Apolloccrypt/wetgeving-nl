@@ -8,7 +8,7 @@ laatste_update: 2017-02-22
 status: geldig
 toestand: 2017-02-22
 bron: "https://wetten.overheid.nl/BWBR0037750"
-opgehaald: 2026-09-20
+opgehaald: 2026-11-20
 ---
 
 # Beleidsregels ter verdeling besteedbare middelen beheerskosten zorgkantoren Wlz 2016

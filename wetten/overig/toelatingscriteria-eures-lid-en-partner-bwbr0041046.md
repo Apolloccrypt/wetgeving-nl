@@ -8,7 +8,7 @@ laatste_update: 2018-06-21
 status: geldig
 toestand: 2018-06-21
 bron: "https://wetten.overheid.nl/BWBR0041046"
-opgehaald: 2026-09-20
+opgehaald: 2026-11-20
 ---
 
 # Toelatingscriteria EURES lid en partner

@@ -9,7 +9,7 @@ laatste_update: 2021-12-23
 status: geldig
 toestand: 2021-12-23
 bron: "https://wetten.overheid.nl/BWBR0044292"
-opgehaald: 2026-09-21
+opgehaald: 2026-11-20
 ---
 
 # Besluit van 13 oktober 2020 tot wijziging van het Besluit genetisch gemodificeerde organismen milieubeheer 2013 (vervallen onderscheid II-k en II-v en wijziging procedure gentherapie)
