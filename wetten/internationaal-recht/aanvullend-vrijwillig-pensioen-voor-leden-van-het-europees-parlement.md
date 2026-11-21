@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-11-10
 toestand: 2002-07-08
 bron: "https://wetten.overheid.nl/BWBR0013868"
-opgehaald: 2026-11-20
+opgehaald: 2026-11-21
 ---
 
 # Aanvullend (vrijwillig) pensioen voor leden van het Europees Parlement

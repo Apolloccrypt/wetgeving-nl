@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-11-12
 toestand: 2021-12-07
 bron: "https://wetten.overheid.nl/BWBR0045977"
-opgehaald: 2026-11-20
+opgehaald: 2026-11-21
 ---
 
 # Reglement Adviescommissie bezwaarschriften Ctgb 2021

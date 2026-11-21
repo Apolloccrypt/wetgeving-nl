@@ -4,11 +4,11 @@ identifier: "BWBR0045901"
 categorie: "Overig"
 soort: "ministeriele-regeling"
 publicatiedatum: 2021-11-25
-laatste_update: 2026-06-27
+laatste_update: 2026-11-14
 status: geldig
-toestand: 2026-06-27
+toestand: 2026-11-14
 bron: "https://wetten.overheid.nl/BWBR0045901"
-opgehaald: 2026-10-31
+opgehaald: 2026-11-21
 ---
 
 # Besluit benoeming en vergoeding leden Bezwaarschriftenadviescommissie hersteloperatie toeslagen
@@ -17,7 +17,7 @@ opgehaald: 2026-10-31
 
 Met ingang van 7 juli 2020 zijn voor de duur van de adviescommissie, bedoeld in [artikel 2, onderdeel a van de Instellingsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045876&artikel=2), tot lid benoemd:
 
-- a. mr. J.W. van den Berge, tevens voorzitter tot 30 mei 2023;
+- a. mr. J.W. van den Berge, lid tot 1 januari 2027;
 
 - b. mr. J.E. Biesheuvel-Vermeijden, tevens voorzitter;
 
@@ -33,11 +33,11 @@ Met ingang van 7 juli 2020 zijn voor de duur van de adviescommissie, bedoeld in
 
 - h. mr. E.B. van de Loo;
 
-- i. mr. U. van de Pol, lid tot 1 januari 2024;
+- i. prof. mr. L.G. Verburg, tevens voorzitter per 1 januari 2024 en per 1 januari 2026 voor de periode van één jaar lid van het bestuur van de BAC, met verlenging van deze benoeming per 1 januari 2027 voor de periode van één jaar.
 
 Met ingang van 1 december 2021 is voor de duur van de adviescommissie tot lid benoemd:
 
-- j. mr. H.H.C. Visser, tevens voorzitter en per 1 januari 2026 voor de periode van één jaar voorzitter van het bestuur van de BAC.
+- j. mr. H.H.C. Visser, tevens voorzitter en per 1 januari 2026 voor de periode van één jaar voorzitter van het bestuur van de BAC, met verlenging van deze benoeming per 1 januari 2027 voor de periode van één jaar.
 
 Met ingang van 1 januari 2022 is voor de duur van de adviescommissie tot lid benoemd:
 
@@ -105,7 +105,7 @@ Met ingang van 1 juni 2024 is voor de duur van de adviescommissie tot lid benoe
 
 Met ingang van 1 augustus 2024 is voor de duur van de adviescommissie tot lid benoemd:
 
-- ad. mr. S.B. de Pauw Gerlings-Döhrn.
+- ad. mr. S.B. de Pauw Gerlings-Döhrn, lid tot 22 augustus 2026.
 
 Met ingang van 1 september 2024 zijn voor de duur van de adviescommissie tot lid benoemd:
 
@@ -187,7 +187,7 @@ Met ingang van 1 mei 2025 worden voor de duur van de adviescommissie tot lid be
 
 - aae. mr. M. de Wilde;
 
-- aaf. mr. M.G.M. Schwengle.
+- aaf. mr. M.G.M. Schwengle, lid tot 1 november 2026.
 
 Met ingang van 1 juni 2025 wordt voor de duur van de adviescommissie tot lid benoemd:
 
@@ -196,6 +196,18 @@ Met ingang van 1 juni 2025 wordt voor de duur van de adviescommissie tot lid be
 Met ingang van 1 juni 2025 wordt voor de duur van de adviescommissie tot lid benoemd:
 
 - aah. drs. J.P. Kwint.
+
+Met ingang van 1 november 2026 wordt voor de duur van de adviescommissie tot lid benoemd:
+
+- aai. mr. P.R. Wery
+
+Met ingang van 1 december 2026 zijn voor de duur van de adviescommissie tot lid benoemd:
+
+- aaj. mr. J.P. Alspeer
+
+- aak. L. van Raan
+
+- aal. mr. H.C. van Olden
 
 ### Artikel 2. Vergoedingen
 
@@ -207,7 +219,7 @@ De deeltijdfactor van de andere leden is 0,2. In afwijking van de vorige zin:
 
 - – is de deeltijdfactor van de andere leden tot 1 november 2020 0,1;
 
-- – is de deeltijdfactor van mw. J. Aanzi 0,4 vanaf 1 september 2022, 0,6 vanaf 1 juni 2023 en 0,8 vanaf 1 januari 2024;
+- – is de deeltijdfactor van mw. J. Aanzi 0,4 vanaf 1 september 2022, 0,6 vanaf 1 juni 2023, 0,8 vanaf 1 januari 2024 en 1,0 vanaf 1 december 2026;
 
 - – is de deeltijdfactor van mr. E.B. van de Loo 0,4 vanaf 1 september 2022;
 
@@ -221,17 +233,13 @@ De deeltijdfactor van de andere leden is 0,2. In afwijking van de vorige zin:
 
 - – is de deeltijdfactor van mr. Th. Groeneveld 0,4 vanaf 1 september 2022 en 0,6 vanaf 1 oktober 2024;
 
-- – is de deeltijdfactor van mr. J.W. van den Berge 0,1 vanaf 1 juli 2023, 0,2 vanaf 1 januari 2025;
-
 - – is de deeltijdfactor van mr. A.M.A. Verscheure 0,4 vanaf 1 oktober 2023;
 
 - – is de deeltijdfactor van mr. J.S. van der Kolk 0,3 vanaf 1 januari 2024 en 0,4 vanaf 1 mei 2024 tot 1 april 2025 en vanaf 1 april 2025 0,6;
 
 - – is de deeltijdfactor van mr. dr. R.M. van Male 0,1 vanaf 1 april 2024 en 0,2 vanaf 1 januari 2025;
 
-- – is de deeltijdfactor van dr. mr. F.J. van der Vaart 0,3 vanaf 1 juli 2024 en 0,4 vanaf 1 januari 2025;
-
-- – is de deeltijdfactor van mr. S.B. de Pauw Gerlings-Döhrn 0,4 vanaf 1 augustus 2024;
+- – is de deeltijdfactor van dr. mr. F.J. van der Vaart 0,3 vanaf 1 juli 2024, 0,4 vanaf 1 januari 2025 en 0,6 vanaf 1 januari 2027;
 
 - – is de deeltijdfactor van mr. N.R. Docter 0,4 vanaf 1 september 2024;
 
@@ -247,7 +255,7 @@ De deeltijdfactor van de andere leden is 0,2. In afwijking van de vorige zin:
 
 - – is de deeltijdfactor van prof. mr. F.J.L. Pennings 0,4 vanaf 1 februari 2025;
 
-- – is de deeltijdfactor van mr. K.S. Nandram 0,4 fte vanaf 1 maart 2025;
+- – is de deeltijdfactor van mr. K.S. Nandram 0,4 fte vanaf 1 maart 2025 en 1,0 vanaf 1 november 2026;
 
 - – is de deeltijdfactor van K. Verschuure 0,4 vanaf 1 maart 2025, 0,1 vanaf 1 januari 2026 tot en met 31 april 2026 en 0,4 vanaf 1 mei 2026;
 
@@ -273,11 +281,17 @@ De deeltijdfactor van de andere leden is 0,2. In afwijking van de vorige zin:
 
 - – is de deeltijdfactor van mr. M. de Wilde 0,4 vanaf 1 mei 2025;
 
-- – is de deeltijdfactor van mr. M.G.M. Schwengle 0,3 vanaf 1 mei 2025;
-
 - – is de deeltijdfactor van mr. E.L. Benetreu 0,4 vanaf 1 juni 2025; en
 
 - – is de deeltijdfactor van drs. J.P. Kwint 0,4 vanaf 1 juni 2025.
+
+- – is de deeltijdfactor van mr. P.R. Wery 0,2 vanaf 1 november 2026;
+
+- – is de deeltijdfactor van mr. J.P. Alspeer 0,8 vanaf 1 december 2026;
+
+- – is de deeltijdfactor van L. van Raan 0,4 vanaf 1 december 2026; en
+
+- – is de deeltijdfactor van mr. H.C. van Olden 0,4 vanaf 1 december 2026.
 
 ### 3. Ingetrokken besluit
 

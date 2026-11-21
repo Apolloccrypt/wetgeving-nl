@@ -8,7 +8,7 @@ laatste_update: 1996-01-01
 status: geldig
 toestand: 1996-01-01
 bron: "https://wetten.overheid.nl/BWBV0001205"
-opgehaald: 2026-09-22
+opgehaald: 2026-11-21
 ---
 
 # Briefwisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Venezuela houdende een verdrag inzake de tewerkstelling van gezinsleden van diplomaten

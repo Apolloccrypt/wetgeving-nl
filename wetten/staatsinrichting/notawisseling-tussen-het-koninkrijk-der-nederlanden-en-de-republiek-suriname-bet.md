@@ -8,7 +8,7 @@ laatste_update: 1993-02-17
 status: geldig
 toestand: 1993-02-17
 bron: "https://wetten.overheid.nl/BWBV0001076"
-opgehaald: 2026-09-21
+opgehaald: 2026-11-21
 ---
 
 # Notawisseling tussen het Koninkrijk der Nederlanden en de Republiek Suriname betreffende de procedure inzake periodieke consultaties over onderwerpen van buitenlands beleid die de belangen van beide staten raken

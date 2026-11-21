@@ -5,11 +5,11 @@ identifier: "BWBR0039410"
 categorie: "Gezondheidszorg"
 soort: "zbo"
 publicatiedatum: 2016-09-01
-laatste_update: 2024-10-18
+laatste_update: 2026-11-12
 status: geldig
-toestand: 2024-10-18
+toestand: 2026-11-12
 bron: "https://wetten.overheid.nl/BWBR0039410"
-opgehaald: 2026-10-24
+opgehaald: 2026-11-21
 ---
 
 # Regeling Subsidie Lerend Werken, Stichting Vervangingsfonds en Bedrijfsgezondheidszorg voor het Onderwijs
@@ -120,13 +120,13 @@ Een aanvraag voor subsidie voldoet in ieder geval aan alle volgende criteria:
 
 - • de aanvraag is juist en volledig ingevuld;
 
+- • de aanvraag is uiterlijk 31 december 2026 ingediend;
+
 - • de gecoachte is een schoolleider in dienst van de werkgever;
 
-- • het uurtarief van de coach bedraagt maximaal € 200,00 (exclusief btw);
+- • het uurtarief van de coach bedraagt maximaal € 200,00 exclusief btw;
 
-- • het traject coaching on the job start na 1 september 2016;
-
-- • het traject coaching on the job is binnen 2 maanden na verlening van de subsidie gestart;
+- • het traject coaching on the job is binnen 2 maanden gestart na verlening van de subsidie gestart; en
 
 - • het traject coaching on the job is binnen 8 maanden na verlening van de subsidie afgerond, met als absolute einddatum 31 augustus 2026.
 
@@ -188,15 +188,15 @@ Om voor de subsidie Lerend Werken in aanmerking te komen dient cumulatief aan de
 
 - • de interventie ten behoeve van de verdere professionele ontwikkeling van de schoolleider dient door een coach te worden verricht;
 
-- • de interventie dient gericht te zijn op de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039410&hoofdstuk=1&artikel=2&z=2024-10-18&g=2024-10-18) genoemde activiteiten;
+- • de interventie dient gericht te zijn op de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039410&hoofdstuk=1&artikel=2&z=2026-11-12&g=2026-11-12) genoemde activiteiten;
 
-- • de coach en de offerte van de coach dienen te voldoen aan de voorwaarden zoals gesteld onder [artikel 9b](https://wetten.overheid.nl/jci1.3:c:BWBR0039410&hoofdstuk=3&artikel=9&z=2024-10-18&g=2024-10-18) van deze subsidieregeling;
+- • de coach en de offerte van de coach dienen te voldoen aan de voorwaarden zoals gesteld onder [artikel 9b](https://wetten.overheid.nl/jci1.3:c:BWBR0039410&hoofdstuk=3&artikel=9&z=2026-11-12&g=2026-11-12) van deze subsidieregeling;
 
 - • cofinanciering van de werkgever van tenminste 20% van de kosten.
 
 ##### Artikel 11. Keuze van de coach
 
-- a. Via de subsidie Lerend Werken wordt coaching on the job door een coach ten behoeve van een schoolleider vergoed, mits deze over een kwaliteitskeurmerk beschikt (zie [artikel 9b](https://wetten.overheid.nl/jci1.3:c:BWBR0039410&hoofdstuk=3&artikel=9&z=2024-10-18&g=2024-10-18) en [artikel 1k,l,m,n,o](https://wetten.overheid.nl/jci1.3:c:BWBR0039410&hoofdstuk=1&artikel=1&z=2024-10-18&g=2024-10-18)).
+- a. Via de subsidie Lerend Werken wordt coaching on the job door een coach ten behoeve van een schoolleider vergoed, mits deze over een kwaliteitskeurmerk beschikt (zie [artikel 9b](https://wetten.overheid.nl/jci1.3:c:BWBR0039410&hoofdstuk=3&artikel=9&z=2026-11-12&g=2026-11-12) en [artikel 1k,l,m,n,o](https://wetten.overheid.nl/jci1.3:c:BWBR0039410&hoofdstuk=1&artikel=1&z=2026-11-12&g=2026-11-12)).
 
 - b. De werkgever bepaalt in principe samen met de schoolleider welke coach zij inschakelen bij de aanpak van de aanwezige problematiek. Wel dienen werkgever en schoolleider zich te realiseren dat de keuze van de coach cruciaal is voor het uiteindelijke resultaat van de begeleiding. Bij de keuze van de coach zijn de volgende aspecten het meest van belang:
 

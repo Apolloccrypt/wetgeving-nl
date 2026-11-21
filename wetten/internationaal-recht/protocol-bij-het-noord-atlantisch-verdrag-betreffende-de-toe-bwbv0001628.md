@@ -8,7 +8,7 @@ laatste_update: 2004-02-27
 status: geldig
 toestand: 2004-02-27
 bron: "https://wetten.overheid.nl/BWBV0001628"
-opgehaald: 2026-09-22
+opgehaald: 2026-11-21
 ---
 
 # Protocol bij het Noord-Atlantisch Verdrag betreffende de toetreding van de Republiek Bulgarije

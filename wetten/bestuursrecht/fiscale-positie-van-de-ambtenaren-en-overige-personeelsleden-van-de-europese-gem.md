@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-11-10
 toestand: 2006-10-21
 bron: "https://wetten.overheid.nl/BWBR0020407"
-opgehaald: 2026-11-20
+opgehaald: 2026-11-21
 ---
 
 # Fiscale positie van de ambtenaren en overige personeelsleden van de Europese Gemeenschappen (2006)

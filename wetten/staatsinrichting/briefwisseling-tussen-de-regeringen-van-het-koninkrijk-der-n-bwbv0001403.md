@@ -7,7 +7,7 @@ laatste_update: 1999-07-01
 status: geldig
 toestand: 1999-07-01
 bron: "https://wetten.overheid.nl/BWBV0001403"
-opgehaald: 2026-09-22
+opgehaald: 2026-11-21
 ---
 
 # Briefwisseling tussen de regeringen van het Koninkrijk der Nederlanden, het Koninkrijk België en het Groothertogdom Luxemburg, enerzijds, en de regering van Letland, anderzijds, houdende een overeenkomst inzake de afschaffing van de visumplicht

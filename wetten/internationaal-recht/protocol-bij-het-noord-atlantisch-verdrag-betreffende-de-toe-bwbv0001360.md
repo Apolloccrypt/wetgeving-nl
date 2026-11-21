@@ -8,7 +8,7 @@ laatste_update: 1998-12-04
 status: geldig
 toestand: 1998-12-04
 bron: "https://wetten.overheid.nl/BWBV0001360"
-opgehaald: 2026-09-22
+opgehaald: 2026-11-21
 ---
 
 # Protocol bij het Noord-Atlantisch Verdrag betreffende de toetreding van de Republiek Hongarije

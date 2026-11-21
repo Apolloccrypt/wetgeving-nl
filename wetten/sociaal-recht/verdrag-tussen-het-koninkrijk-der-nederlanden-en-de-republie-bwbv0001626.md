@@ -7,7 +7,7 @@ laatste_update: 2003-12-01
 status: geldig
 toestand: 2003-12-01
 bron: "https://wetten.overheid.nl/BWBV0001626"
-opgehaald: 2026-09-22
+opgehaald: 2026-11-21
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Costa Rica inzake de controle van socialezekerheidsuitkeringen

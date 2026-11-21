@@ -7,7 +7,7 @@ laatste_update: 2026-11-11
 status: geldig
 toestand: 2026-11-11
 bron: "https://wetten.overheid.nl/BWBV0007190"
-opgehaald: 2026-11-20
+opgehaald: 2026-11-21
 ---
 
 # Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en de Republiek Kosovo inzake de privileges en immuniteiten van verbindingsofficieren die door Kosovo bij Europol gedetacheerd worden

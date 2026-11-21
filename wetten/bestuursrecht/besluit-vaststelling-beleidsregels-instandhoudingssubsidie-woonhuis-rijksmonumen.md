@@ -5,11 +5,11 @@ identifier: "BWBR0041915"
 categorie: "Onderwijs"
 soort: "ministeriele-regeling"
 publicatiedatum: 2023-04-20
-laatste_update: 2025-12-09
+laatste_update: 2026-11-14
 status: geldig
-toestand: 2025-12-09
+toestand: 2026-11-14
 bron: "https://wetten.overheid.nl/BWBR0041915"
-opgehaald: 2026-10-26
+opgehaald: 2026-11-21
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 12 februari 2019 nr. WJZ/1091575(8144), houdende vaststelling van beleidsregels en een subsidieplafond inzake een subsidie ten behoeve van de instandhouding van woonhuis-rijksmonumenten (Besluit vaststelling beleidsregels instandhoudingssubsidie woonhuis-rijksmonumenten)
@@ -30,11 +30,11 @@ Het Beleidskader instandhoudingssubsidie woonhuis-rijksmonumenten wordt vastgest
 
 - d. voor activiteiten die plaatsvinden in het kalenderjaar 2025 in totaal een bedrag van ten hoogste € 52,5 miljoen beschikbaar;
 
-- e. voor activiteiten die plaatsvinden in het kalenderjaar 2026 in totaal een bedrag van ten hoogste € 52,5 miljoen beschikbaar;
+- e. voor activiteiten die plaatsvinden in het kalenderjaar 2026 in totaal een bedrag van ten hoogste € 49,039 miljoen beschikbaar;
 
-- f. voor activiteiten die plaatsvinden in het kalenderjaar 2027 in totaal een bedrag van ten hoogste € 52,5 miljoen beschikbaar; en
+- f. voor activiteiten die plaatsvinden in het kalenderjaar 2027 in totaal een bedrag van ten hoogste € 49,039 miljoen beschikbaar; en
 
-- g. voor activiteiten die plaatsvinden in het kalenderjaar 2028 in totaal een bedrag van ten hoogste € 52,5 miljoen beschikbaar.
+- g. voor activiteiten die plaatsvinden in het kalenderjaar 2028 in totaal een bedrag van ten hoogste € 46,471 miljoen beschikbaar.
 
 2. Indien het voor subsidieverstrekking beschikbare bedrag, bedoeld in het eerste lid, onderdeel a, niet volledig wordt uitgeput, worden de resterende middelen toegevoegd aan het beschikbare bedrag, genoemd in het eerste lid, onderdeel b. Indien een beschikbaar bedrag als bedoeld in het eerste lid, onderdelen b tot en met f, niet volledig wordt uitgeput, worden de resterende middelen toegevoegd aan het beschikbare bedrag voor activiteiten die plaatsvinden in het daaropvolgende kalenderjaar.
 
@@ -42,7 +42,7 @@ Het Beleidskader instandhoudingssubsidie woonhuis-rijksmonumenten wordt vastgest
 
 ##### Artikel 3. Wijziging van het besluit
 
-Een besluit tot wijziging van dit besluit wordt niet eerder vastgesteld dan vier weken nadat een ontwerp daarvan aan de Tweede Kamer der Staten-Generaal is overgelegd, met uitzondering van een besluit tot wijziging dat enkel een verhoging van een subsidieplafond als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041915&artikel=2&z=2025-12-09&g=2025-12-09) behelst.
+Een besluit tot wijziging van dit besluit wordt niet eerder vastgesteld dan vier weken nadat een ontwerp daarvan aan de Tweede Kamer der Staten-Generaal is overgelegd, met uitzondering van een besluit tot wijziging dat enkel een verhoging van een subsidieplafond als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041915&artikel=2&z=2026-11-14&g=2026-11-14) behelst.
 
 ##### Artikel 3a. Toepasselijkheid Kaderregeling
 

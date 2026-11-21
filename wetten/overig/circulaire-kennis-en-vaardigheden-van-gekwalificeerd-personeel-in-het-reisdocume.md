@@ -8,7 +8,7 @@ laatste_update: 2026-06-02
 status: geldig
 toestand: 2026-06-02
 bron: "https://wetten.overheid.nl/BWBR0052663"
-opgehaald: 2026-09-21
+opgehaald: 2026-11-21
 ---
 
 # Circulaire kennis en vaardigheden van gekwalificeerd personeel in het reisdocumentenproces

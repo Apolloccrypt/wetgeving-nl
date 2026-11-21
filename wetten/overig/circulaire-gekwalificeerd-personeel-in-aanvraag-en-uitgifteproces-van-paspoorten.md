@@ -8,7 +8,7 @@ laatste_update: 2026-06-01
 status: geldig
 toestand: 2026-06-01
 bron: "https://wetten.overheid.nl/BWBR0052662"
-opgehaald: 2026-09-21
+opgehaald: 2026-11-21
 ---
 
 # Circulaire gekwalificeerd personeel in aanvraag- en uitgifteproces van paspoorten en identiteitskaarten

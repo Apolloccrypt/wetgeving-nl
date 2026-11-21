@@ -5,11 +5,11 @@ identifier: "BWBR0025028"
 categorie: "Overig"
 soort: "wet"
 publicatiedatum: 2020-09-30
-laatste_update: 2026-01-01
+laatste_update: 2026-10-31
 status: geldig
-toestand: 2026-01-01
+toestand: 2026-10-31
 bron: "https://wetten.overheid.nl/BWBR0025028"
-opgehaald: 2026-10-11
+opgehaald: 2026-11-21
 ---
 
 # Wet van 29 december 2008 tot vaststelling van een nieuwe Mediawet (Mediawet 2008)
@@ -34,27 +34,31 @@ opgehaald: 2026-10-11
 
 - *catch-up:* afname als mediadienst op aanvraag van media-aanbod gedurende een beperkte periode die begint tijdens of kort na de verspreiding van dat media-aanbod op een programmakanaal;
 
-- *commerciële mediadienst:* mediadienst die verzorgd wordt op grond van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&z=2026-01-01&g=2026-01-01);
+- *commerciële mediadienst:* mediadienst die verzorgd wordt op grond van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&z=2026-10-31&g=2026-10-31);
 
 - *commerciële media-instelling:* natuurlijke persoon of rechtspersoon die een commerciële mediadienst verzorgt en die voor de toepassing van deze wet onder de bevoegdheid van Nederland valt;
 
-- *Commissariaat:* Commissariaat voor de Media, genoemd in [artikel 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=7&titeldeel=7.1&artikel=7.1&z=2026-01-01&g=2026-01-01);
+- *Commissariaat:* Commissariaat voor de Media, genoemd in [artikel 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=7&titeldeel=7.1&artikel=7.1&z=2026-10-31&g=2026-10-31);
 
-- *concessiebeleidsplan:* concessiebeleidsplan als bedoeld in [artikel 2.20](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.4&artikel=2.20&z=2026-01-01&g=2026-01-01);
+- *concessiebeleidsplan:* concessiebeleidsplan als bedoeld in [artikel 2.20](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.4&artikel=2.20&z=2026-10-31&g=2026-10-31);
 
-- *concessiebeleidsplan RPO:* concessiebeleidsplan RPO als bedoeld in [artikel 2.60l](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.1&artikel=2.60l&z=2026-01-01&g=2026-01-01);
+- *concessiebeleidsplan NLPO:* concessiebeleidsplan NLPO als bedoeld in [artikel 2.87e](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.1&artikel=2.87e&z=2026-10-31&g=2026-10-31);
 
-- *dagbladmarkt:* door het Stimuleringsfonds voor de journalistiek, genoemd in [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=8&titeldeel=8.1&artikel=8.1&z=2026-01-01&g=2026-01-01), vastgestelde gemiddelde betaalde oplage, in een kalenderjaar, van persorganen die bestemd zijn voor het publiek in Nederland en ten minste zes keer per week verschijnen;
+- *concessiebeleidsplan RPO:* concessiebeleidsplan RPO als bedoeld in [artikel 2.60l](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.1&artikel=2.60l&z=2026-10-31&g=2026-10-31);
 
-- *erkenningperiode:* periode als bedoeld in [artikel 2.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.29&z=2026-01-01&g=2026-01-01);
+- *dagbladmarkt:* door het Stimuleringsfonds voor de journalistiek, genoemd in [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=8&titeldeel=8.1&artikel=8.1&z=2026-10-31&g=2026-10-31), vastgestelde gemiddelde betaalde oplage, in een kalenderjaar, van persorganen die bestemd zijn voor het publiek in Nederland en ten minste zes keer per week verschijnen;
+
+- *erkenningperiode:* periode als bedoeld in [artikel 2.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.29&z=2026-10-31&g=2026-10-31);
 
 - *Europese richtlijn:* Richtlijn 2010/13/EU van 10 maart 2010 van het Europees Parlement en de Raad betreffende de coördinatie van bepaalde wettelijke en bestuursrechtelijke bepalingen in de lidstaten inzake het aanbieden van audiovisuele mediadiensten (richtlijn audiovisuele mediadiensten);
 
 - *evenement:* georganiseerde voor het publiek toegankelijke gebeurtenis op het terrein van sport of cultuur;
 
-- *landelijke publieke media-instelling:* instelling die op grond van [titel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&z=2026-01-01&g=2026-01-01) media-aanbod voor de landelijke publieke mediadienst verzorgt;
+- *landelijke publieke media-instelling:* instelling die op grond van [titel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&z=2026-10-31&g=2026-10-31) media-aanbod voor de landelijke publieke mediadienst verzorgt;
 
-- *lokale publieke media-instelling:* instelling die op grond van [titel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&z=2026-01-01&g=2026-01-01) is aangewezen voor de verzorging van een lokale publieke mediadienst;
+- *lokaal verzorgingsgebied:* gebied dat bestaat uit een of meer gemeenten en dat het verzorgingsgebied is van een lokale publieke media-instelling voor de uitvoering van de publieke mediaopdracht op lokaal niveau;
+
+- *lokale publieke media-instelling:* instelling die op grond van [paragraaf 2.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.3&z=2026-10-31&g=2026-10-31) is aangewezen voor de verzorging van een lokale publieke mediadienst;
 
 - *media-aanbod:* één of meer elektronische producten met beeld- of geluidsinhoud die bestemd zijn voor afname door het algemene publiek of een deel daarvan;
 
@@ -62,17 +66,19 @@ opgehaald: 2026-10-11
 
 - *mediadienst op aanvraag:* mediadienst die bestaat uit het verzorgen van media-aanbod dat op individueel verzoek en op een moment naar keuze kan worden afgenomen;
 
-- *NOS:* Nederlandse Omroep Stichting, genoemd in [artikel 2.34a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2a&artikel=2.34a&z=2026-01-01&g=2026-01-01);
+- *NLPO:* Stichting Nederlandse Lokale Publieke Omroepen;
 
-- *NPO:* Stichting Nederlandse Publieke Omroep, genoemd in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.1&artikel=2.2&z=2026-01-01&g=2026-01-01);
+- *NOS:* Nederlandse Omroep Stichting, genoemd in [artikel 2.34a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2a&artikel=2.34a&z=2026-10-31&g=2026-10-31);
 
-- *NTR:* Stichting NTR, genoemd in [artikel 2.35](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.3&artikel=2.35&z=2026-01-01&g=2026-01-01);
+- *NPO:* Stichting Nederlandse Publieke Omroep, genoemd in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.1&artikel=2.2&z=2026-10-31&g=2026-10-31);
+
+- *NTR:* Stichting NTR, genoemd in [artikel 2.35](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.3&artikel=2.35&z=2026-10-31&g=2026-10-31);
 
 - *omroepdienst:* mediadienst die betrekking heeft op het verzorgen van media-aanbod dat op basis van een chronologisch schema dat is vastgesteld door de instelling die verantwoordelijk is voor het media-aanbod, al dan niet gecodeerd door middel van een omroepzender of een omroepnetwerk wordt verspreid voor gelijktijdige ontvangst door het algemene publiek of een deel daarvan;
 
 - *omroepnetwerk:* openbaar elektronisch communicatienetwerk als bedoeld in [artikel 1.1 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1), dat wordt gebruikt of mede wordt gebruikt om, hoofdzakelijk met gebruik van kabels, programma’s te verspreiden;
 
-- *omroeporganisatie:* omroeporganisatie als bedoeld in [artikel 2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-01-01&g=2026-01-01);
+- *omroeporganisatie:* omroeporganisatie als bedoeld in [artikel 2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-10-31&g=2026-10-31);
 
 - *omroepzender:* radiozendapparaat als bedoeld in [artikel 1.1 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1) dat wordt gebruikt of mede wordt gebruikt voor het verspreiden van programma’s;
 
@@ -80,7 +86,7 @@ opgehaald: 2026-10-11
 
 - *open televisieprogrammakanaal:* televisieprogrammakanaal dat ontvangen kan worden door ten minste vijfenzeventig procent van alle huishoudens in Nederland, waarvoor geen andere kosten verschuldigd zijn dan:
 
-   - 1°. het tarief dat een pakketaanbieder als bedoeld in [artikel 6.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.3&afdeling=6.3.1&artikel=6.9a&z=2026-01-01&g=2026-01-01) aan zijn abonnees in rekening brengt voor de ontvangst van het programma-aanbod van een door die aanbieder met inachtneming van de [artikelen 6.13 tot en met 6.14b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.3&afdeling=6.3.1&paragraaf=6.3.1.2&artikel=6.13&z=2026-01-01&g=2026-01-01) vast te stellen aantal programmakanalen; of
+   - 1°. het tarief dat een pakketaanbieder als bedoeld in [artikel 6.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.3&afdeling=6.3.1&artikel=6.9a&z=2026-10-31&g=2026-10-31) aan zijn abonnees in rekening brengt voor de ontvangst van het programma-aanbod van een door die aanbieder met inachtneming van de [artikelen 6.13 tot en met 6.14b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.3&afdeling=6.3.1&paragraaf=6.3.1.2&artikel=6.13&z=2026-10-31&g=2026-10-31) vast te stellen aantal programmakanalen; of
 
    - 2°. de kosten van aankoop of gebruik van technische voorzieningen die de ontvangst van televisieprogramma’s mogelijk maken;
 
@@ -94,13 +100,15 @@ opgehaald: 2026-10-11
 
 - *programma-aanbod:* geheel van media-aanbod dat wordt verspreid via een omroepdienst;
 
+- *programmabeleid bepalend orgaan:* programmabeleid bepalend orgaan als bedoeld in [artikel 2.87m](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.3&artikel=2.87m&z=2026-10-31&g=2026-10-31);
+
 - *programmakanaal:* geordende geheel van programma-aanbod dat onder een herkenbare naam wordt verspreid via een omroepzender of omroepnetwerk;
 
-- *publieke mediadienst:* mediadienst die verzorgd wordt op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&z=2026-01-01&g=2026-01-01);
+- *publieke mediadienst:* mediadienst die verzorgd wordt op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&z=2026-10-31&g=2026-10-31);
 
-- *publieke media-instelling:* instelling die op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&z=2026-01-01&g=2026-01-01) media-aanbod verzorgt;
+- *publieke media-instelling:* instelling die op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&z=2026-10-31&g=2026-10-31) media-aanbod verzorgt;
 
-- *publieke mediaopdracht:* mediaopdracht als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.1&artikel=2.1&z=2026-01-01&g=2026-01-01);
+- *publieke mediaopdracht:* mediaopdracht als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.1&artikel=2.1&z=2026-10-31&g=2026-10-31);
 
 - *raad van bestuur:* raad van bestuur van de NPO;
 
@@ -116,7 +124,7 @@ opgehaald: 2026-10-11
 
    - b. de ordening van het media-aanbod in een chronologisch schema voor wat betreft programma’s, of in een catalogus voor wat betreft het media-aanbod van mediadiensten op aanvraag;
 
-- *regionale publieke media-instelling:* instelling die op grond van [titel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&z=2026-01-01&g=2026-01-01) is aangewezen voor de verzorging van een regionale publieke mediadienst;
+- *regionale publieke media-instelling:* instelling die op grond van [paragraaf 2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.2&z=2026-10-31&g=2026-10-31) is aangewezen voor de verzorging van een regionale publieke mediadienst;
 
 - *RPO:* Stichting Regionale Publieke Omroep;
 
@@ -126,7 +134,7 @@ opgehaald: 2026-10-11
 
 - *sportwedstrijd:* wedstrijd of de voorbereiding op een wedstrijd, georganiseerd door of onder auspiciën van de door het NOC*NSF erkende nationale sportorganisaties en hun geledingen, of door vergelijkbare internationale, al dan niet overkoepelende sportorganisaties, dan wel een andere wedstrijd of de voorbereiding op een wedstrijd van een sport die door het NOC*NSF als sport is aangemerkt;
 
-- *Ster:* Stichting Etherreclame, genoemd in [artikel 2.99](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.2&paragraaf=2.5.2.3&artikel=2.99&z=2026-01-01&g=2026-01-01);
+- *Ster:* Stichting Etherreclame, genoemd in [artikel 2.99](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.2&paragraaf=2.5.2.3&artikel=2.99&z=2026-10-31&g=2026-10-31);
 
 - *teletekst:* televisieprogramma dat uitsluitend bestaat uit stilstaande tekstbeelden die door de kijker in een door hem bepaalde volgorde en op een door hem bepaald tijdstip kunnen worden geraadpleegd, en dat wordt verspreid via dezelfde transmissieruimte van een omroepzender of omroepnetwerk als die welke wordt gebruikt voor de verspreiding van andere televisieprogramma’s;
 
@@ -186,7 +194,7 @@ opgehaald: 2026-10-11
 
 ##### Artikel 2.2
 
-1. De Stichting Nederlandse Publieke Omroep is het sturings- en samenwerkingsorgaan voor de uitvoering van de publieke mediaopdracht op landelijk niveau, bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.1&artikel=2.1&z=2026-01-01&g=2026-01-01).
+1. De Stichting Nederlandse Publieke Omroep is het sturings- en samenwerkingsorgaan voor de uitvoering van de publieke mediaopdracht op landelijk niveau, bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.1&artikel=2.1&z=2026-10-31&g=2026-10-31).
 
 2. Naast de andere taken die de NPO heeft op grond van deze wet, is zij belast met:
 
@@ -216,13 +224,13 @@ opgehaald: 2026-10-11
 
 - l. het in samenwerking met publieke media-instellingen bevorderen van talentontwikkeling.
 
-3. Bij de uitvoering van haar taken stuurt de NPO en bevordert zij de samenwerking vanuit de kwantitatieve en kwalitatieve doelstellingen voor het media-aanbod en het publieksbereik van de landelijke publieke mediadienst, vervat in het concessiebeleidsplan, de prestatieovereenkomst, bedoeld in [artikel 2.22](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.4&artikel=2.22&z=2026-01-01&g=2026-01-01), de profielen van de aanbodkanalen, de afspraken, bedoeld in [artikel 2.55](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.55&z=2026-01-01&g=2026-01-01), de regeling, bedoeld in [artikel 2.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.57&z=2026-01-01&g=2026-01-01), en de begroting, bedoeld in [artikel 2.147](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.1&artikel=2.147&z=2026-01-01&g=2026-01-01), en neemt zij bij de verzorging van het media-aanbod door de landelijke publieke media-instellingen [artikel 2.88](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.1&artikel=2.88&z=2026-01-01&g=2026-01-01) in acht.
+3. Bij de uitvoering van haar taken stuurt de NPO en bevordert zij de samenwerking vanuit de kwantitatieve en kwalitatieve doelstellingen voor het media-aanbod en het publieksbereik van de landelijke publieke mediadienst, vervat in het concessiebeleidsplan, de prestatieovereenkomst, bedoeld in [artikel 2.22](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.4&artikel=2.22&z=2026-10-31&g=2026-10-31), de profielen van de aanbodkanalen, de afspraken, bedoeld in [artikel 2.55](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.55&z=2026-10-31&g=2026-10-31), de regeling, bedoeld in [artikel 2.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.57&z=2026-10-31&g=2026-10-31), en de begroting, bedoeld in [artikel 2.147](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.1&artikel=2.147&z=2026-10-31&g=2026-10-31), en neemt zij bij de verzorging van het media-aanbod door de landelijke publieke media-instellingen [artikel 2.88](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.1&artikel=2.88&z=2026-10-31&g=2026-10-31) in acht.
 
 ##### Artikel 2.3
 
-1. De NPO kan in het kader van haar taak, bedoeld in [artikel 2.2, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.1&artikel=2.2&z=2026-01-01&g=2026-01-01), in naam van de gezamenlijke landelijke publieke media-instellingen overeenkomsten met derden aangaan.
+1. De NPO kan in het kader van haar taak, bedoeld in [artikel 2.2, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.1&artikel=2.2&z=2026-10-31&g=2026-10-31), in naam van de gezamenlijke landelijke publieke media-instellingen overeenkomsten met derden aangaan.
 
-2. De NPO stelt in het kader van haar taak, bedoeld in [artikel 2.2, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.1&artikel=2.2&z=2026-01-01&g=2026-01-01), een gedragscode op ter bevordering van goed bestuur en integriteit bij de NPO, de landelijke publieke media-instellingen en de Ster.
+2. De NPO stelt in het kader van haar taak, bedoeld in [artikel 2.2, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.1&artikel=2.2&z=2026-10-31&g=2026-10-31), een gedragscode op ter bevordering van goed bestuur en integriteit bij de NPO, de landelijke publieke media-instellingen en de Ster.
 
 3. De gedragscode omvat in elk geval:
 
@@ -250,7 +258,7 @@ De organen van de NPO zijn een raad van toezicht, een raad van bestuur en een co
 
 1. De raad van toezicht bestaat uit een voorzitter en ten hoogste zes andere leden die op voordracht van Onze Minister bij koninklijk besluit worden benoemd, geschorst en ontslagen.
 
-2. Bij een vacature stelt de raad van toezicht profielschetsen voor de vacature en voor de raad als geheel op waarover hij in ieder geval de raad van bestuur, het college van omroepen, de representatieve maatschappelijke adviesraad, bedoeld in [artikel 2.10, tweede lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.2&artikel=2.10&z=2026-01-01&g=2026-01-01), en de gezamenlijke ondernemingsraden van de NPO, de NOS, de NTR en de omroeporganisaties die een erkenning als bedoeld in [artikel 2.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-01-01&g=2026-01-01), hebben verkregen, in de gelegenheid stelt binnen een redelijke termijn zienswijzen te geven.
+2. Bij een vacature stelt de raad van toezicht profielschetsen voor de vacature en voor de raad als geheel op waarover hij in ieder geval de raad van bestuur, het college van omroepen, de representatieve maatschappelijke adviesraad, bedoeld in [artikel 2.10, tweede lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.2&artikel=2.10&z=2026-10-31&g=2026-10-31), en de gezamenlijke ondernemingsraden van de NPO, de NOS, de NTR en de omroeporganisaties die een erkenning als bedoeld in [artikel 2.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-10-31&g=2026-10-31), hebben verkregen, in de gelegenheid stelt binnen een redelijke termijn zienswijzen te geven.
 
 3. Na betrekking van de zienswijzen stelt de raad van toezicht de profielschetsen vast en maakt deze openbaar.
 
@@ -272,7 +280,7 @@ De organen van de NPO zijn een raad van toezicht, een raad van bestuur en een co
 
 9. Ten behoeve van de ondersteuning bij het opstellen van de profielschetsen door de raad van toezicht en de selectie van kandidaten door de benoemingsadviescommissie, schakelt de raad van toezicht een wervingsadviesbureau in.
 
-10. Voor een van de andere leden als bedoeld in het eerste lid kunnen de gezamenlijke ondernemingsraden van de NPO, de NOS, de NTR en de omroeporganisaties die een erkenning als bedoeld in [artikel 2.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-01-01&g=2026-01-01), hebben verkregen, personen voor benoeming aanbevelen aan de benoemingsadviescommissie.
+10. Voor een van de andere leden als bedoeld in het eerste lid kunnen de gezamenlijke ondernemingsraden van de NPO, de NOS, de NTR en de omroeporganisaties die een erkenning als bedoeld in [artikel 2.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-10-31&g=2026-10-31), hebben verkregen, personen voor benoeming aanbevelen aan de benoemingsadviescommissie.
 
 11. Benoeming geschiedt voor vijf jaar en herbenoeming voor een aansluitende periode is eenmaal mogelijk.
 
@@ -340,7 +348,7 @@ De organen van de NPO zijn een raad van toezicht, een raad van bestuur en een co
 
 ##### Artikel 2.9
 
-1. Op het lidmaatschap van de raad van bestuur is artikel 2.6, eerste lid, aanhef en onderdelen a en c tot en met h, van overeenkomstige toepassing, met dien verstande dat [artikel 2.6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.2&artikel=2.6&z=2026-01-01&g=2026-01-01), niet van overeenkomstige toepassing is op het lidmaatschap van een orgaan van de Ster.
+1. Op het lidmaatschap van de raad van bestuur is artikel 2.6, eerste lid, aanhef en onderdelen a en c tot en met h, van overeenkomstige toepassing, met dien verstande dat [artikel 2.6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.2&artikel=2.6&z=2026-10-31&g=2026-10-31), niet van overeenkomstige toepassing is op het lidmaatschap van een orgaan van de Ster.
 
 2. De leden van de raad van bestuur zijn in dienst van de NPO. De raad van toezicht stelt hun arbeidsvoorwaarden vast.
 
@@ -364,11 +372,11 @@ De organen van de NPO zijn een raad van toezicht, een raad van bestuur en een co
 
 - e. het vaststellen van het concessiebeleidsplan;
 
-- f. het aangaan van de prestatieovereenkomst, bedoeld in [artikel 2.22](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.4&artikel=2.22&z=2026-01-01&g=2026-01-01);
+- f. het aangaan van de prestatieovereenkomst, bedoeld in [artikel 2.22](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.4&artikel=2.22&z=2026-10-31&g=2026-10-31);
 
-- g. het vaststellen van de begroting, bedoeld in [artikel 2.147](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.1&artikel=2.147&z=2026-01-01&g=2026-01-01);
+- g. het vaststellen van de begroting, bedoeld in [artikel 2.147](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.1&artikel=2.147&z=2026-10-31&g=2026-10-31);
 
-- h. het vaststellen van het bestuursverslag, bedoeld in [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.3&artikel=2.17&z=2026-01-01&g=2026-01-01); en
+- h. het vaststellen van het bestuursverslag, bedoeld in [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.3&artikel=2.17&z=2026-10-31&g=2026-10-31); en
 
 - i. het organiseren van representatieve publieksvertegenwoordiging, waaronder een representatieve maatschappelijke adviesraad, ter bevordering van de publieksbetrokkenheid bij de invulling van het media-aanbod van de landelijke publieke mediadienst.
 
@@ -378,7 +386,7 @@ De organen van de NPO zijn een raad van toezicht, een raad van bestuur en een co
 
 1. De volgende besluiten van de raad van bestuur behoeven de instemming van de raad van toezicht:
 
-- a. de besluiten, bedoeld in het [artikel 2.10, tweede lid, onderdelen e tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.2&artikel=2.10&z=2026-01-01&g=2026-01-01);
+- a. de besluiten, bedoeld in het [artikel 2.10, tweede lid, onderdelen e tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.2&artikel=2.10&z=2026-10-31&g=2026-10-31);
 
 - b. het doen van investeringen die een in de statuten van de NPO vastgesteld bedrag te boven gaan;
 
@@ -398,11 +406,11 @@ De raad van toezicht en het college van omroepen hebben ten minste tweemaal per 
 
 1. Het college van omroepen adviseert de raad van toezicht en de raad van bestuur desgevraagd of uit eigen beweging over het beleid inzake het media-aanbod van de landelijke publieke mediadienst.
 
-2. Het college van omroepen is zodanig samengesteld dat de omroeporganisaties die een erkenning als bedoeld in [artikel 2.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-01-01&g=2026-01-01), hebben verkregen, de omroepverenigingen die een voorlopige erkenning als bedoeld in artikel 2.23, tweede lid, hebben verkregen, de NOS en de NTR daarin elk één lid benoemen.
+2. Het college van omroepen is zodanig samengesteld dat de omroeporganisaties die een erkenning als bedoeld in [artikel 2.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-10-31&g=2026-10-31), hebben verkregen, de omroepverenigingen die een voorlopige erkenning als bedoeld in artikel 2.23, tweede lid, hebben verkregen, de NOS en de NTR daarin elk één lid benoemen.
 
 ##### Artikel 2.13
 
-1. Het lidmaatschap van het college van omroepen is onverenigbaar met het lidmaatschap van een redactie als bedoeld in [artikel 2.56](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.56&z=2026-01-01&g=2026-01-01).
+1. Het lidmaatschap van het college van omroepen is onverenigbaar met het lidmaatschap van een redactie als bedoeld in [artikel 2.56](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.56&z=2026-10-31&g=2026-10-31).
 
 2. Het college wijst uit zijn midden de voorzitter aan en regelt zijn eigen werkwijze.
 
@@ -410,21 +418,21 @@ De raad van toezicht en het college van omroepen hebben ten minste tweemaal per 
 
 1. De raad van bestuur vraagt het college van omroepen om advies voordat hij:
 
-- a. een overeenkomst aangaat als bedoeld in [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.1&artikel=2.3&z=2026-01-01&g=2026-01-01), of [2.10, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.2&artikel=2.10&z=2026-01-01&g=2026-01-01);
+- a. een overeenkomst aangaat als bedoeld in [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.1&artikel=2.3&z=2026-10-31&g=2026-10-31), of [2.10, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.2&artikel=2.10&z=2026-10-31&g=2026-10-31);
 
-- b. een besluit neemt over een taak als bedoeld in [artikel 2.10, tweede lid, onderdelen d, e, of g](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.2&artikel=2.10&z=2026-01-01&g=2026-01-01);
+- b. een besluit neemt over een taak als bedoeld in [artikel 2.10, tweede lid, onderdelen d, e, of g](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.2&artikel=2.10&z=2026-10-31&g=2026-10-31);
 
-- c. een besluit neemt over de wijze van aanwending van het budget, bedoeld in [artikel 2.149, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.149&z=2026-01-01&g=2026-01-01); of
+- c. een besluit neemt over de wijze van aanwending van het budget, bedoeld in [artikel 2.149, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.149&z=2026-10-31&g=2026-10-31); of
 
-- d. een besluit neemt over vaststelling van de jaarplannen met de programmeerstrategie in het kader van de regeling voor de coördinatie en ordening van het media-aanbod, bedoeld in [artikel 2.10, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.2&artikel=2.10&z=2026-01-01&g=2026-01-01).
+- d. een besluit neemt over vaststelling van de jaarplannen met de programmeerstrategie in het kader van de regeling voor de coördinatie en ordening van het media-aanbod, bedoeld in [artikel 2.10, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.2&artikel=2.10&z=2026-10-31&g=2026-10-31).
 
 2. De raad van bestuur stelt het college van omroepen een redelijke termijn voor het geven van het advies. Het uitblijven van het advies van het college staat aan het aangaan van een overeenkomst of het nemen van een besluit door de raad van bestuur niet in de weg.
 
-3. Als uit het advies blijkt dat het college niet instemt met een voorgenomen overeenkomst of een voorgenomen besluit dan wel belangrijke onderdelen daarvan en de raad van bestuur wenst zijn voornemen ongewijzigd te handhaven, kan de raad van bestuur het college in de gelegenheid stellen daarover te worden gehoord binnen een door de raad van bestuur te stellen redelijke termijn. De raad van bestuur doet dat in ieder geval indien het een voorgenomen besluit of een voorgenomen overeenkomst betreft als bedoeld in [artikel 2.10, tweede lid, onderdeel e, respectievelijk f](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.2&artikel=2.10&z=2026-01-01&g=2026-01-01).
+3. Als uit het advies blijkt dat het college niet instemt met een voorgenomen overeenkomst of een voorgenomen besluit dan wel belangrijke onderdelen daarvan en de raad van bestuur wenst zijn voornemen ongewijzigd te handhaven, kan de raad van bestuur het college in de gelegenheid stellen daarover te worden gehoord binnen een door de raad van bestuur te stellen redelijke termijn. De raad van bestuur doet dat in ieder geval indien het een voorgenomen besluit of een voorgenomen overeenkomst betreft als bedoeld in [artikel 2.10, tweede lid, onderdeel e, respectievelijk f](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.2&artikel=2.10&z=2026-10-31&g=2026-10-31).
 
 4. Indien de raad van bestuur na toepassing van het derde lid zijn voornemen ongewijzigd heeft gehandhaafd, legt hij de voorgenomen overeenkomst of het vastgestelde besluit ter instemming voor aan de raad van toezicht. De raad van bestuur motiveert daarbij waarom hij de voorgenomen overeenkomst ongewijzigd wil handhaven, respectievelijk het voorgenomen besluit ongewijzigd heeft vastgesteld.
 
-5. Alvorens de raad van toezicht besluit over instemming met een voorgenomen overeenkomst of vastgesteld besluit kan hij het college in de gelegenheid stellen daarover te worden gehoord binnen een door de raad van toezicht te stellen redelijke termijn. De raad van toezicht doet dat in ieder geval indien het een vastgesteld besluit of een voorgenomen overeenkomst betreft als bedoeld in [artikel 2.10, tweede lid, onderdeel e, respectievelijk f](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.2&artikel=2.10&z=2026-01-01&g=2026-01-01).
+5. Alvorens de raad van toezicht besluit over instemming met een voorgenomen overeenkomst of vastgesteld besluit kan hij het college in de gelegenheid stellen daarover te worden gehoord binnen een door de raad van toezicht te stellen redelijke termijn. De raad van toezicht doet dat in ieder geval indien het een vastgesteld besluit of een voorgenomen overeenkomst betreft als bedoeld in [artikel 2.10, tweede lid, onderdeel e, respectievelijk f](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.2&artikel=2.10&z=2026-10-31&g=2026-10-31).
 
 ##### Artikel 2.14a
 
@@ -474,7 +482,7 @@ De raad van toezicht en het college van omroepen hebben ten minste tweemaal per 
 
 2. De concessie geldt voor tien jaar en treedt in werking met ingang van een in het koninklijk besluit te bepalen tijdstip.
 
-3. Voor de toepassing van de [artikelen 2.20](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.4&artikel=2.20&z=2026-01-01&g=2026-01-01) en [2.29](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.29&z=2026-01-01&g=2026-01-01) bestaat de concessieperiode uit twee perioden van vijf jaar.
+3. Voor de toepassing van de [artikelen 2.20](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.4&artikel=2.20&z=2026-10-31&g=2026-10-31) en [2.29](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.29&z=2026-10-31&g=2026-10-31) bestaat de concessieperiode uit twee perioden van vijf jaar.
 
 ##### Artikel 2.20
 
@@ -502,7 +510,7 @@ De raad van toezicht en het college van omroepen hebben ten minste tweemaal per 
 
 2. Over het concessiebeleidsplan vraagt Onze Minister advies aan het Commissariaat en de Raad voor cultuur. Bij toepassing van het vierde lid wordt het advies gevraagd na afloop van de termijn, genoemd in dat lid, onder a. Het advies heeft in elk geval betrekking op de wijze waarop in het concessiebeleidsplan vorm wordt gegeven aan de pluriformiteit van het media-aanbod.
 
-3. Het concessiebeleidsplan behoeft de instemming van Onze Minister voor zover het betreft de onderwerpen, bedoeld in [artikel 2.20, tweede lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.4&artikel=2.20&z=2026-01-01&g=2026-01-01), waarbij de instemming geschiedt in overeenstemming met het bepaalde in de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950).
+3. Het concessiebeleidsplan behoeft de instemming van Onze Minister voor zover het betreft de onderwerpen, bedoeld in [artikel 2.20, tweede lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.4&artikel=2.20&z=2026-10-31&g=2026-10-31), waarbij de instemming geschiedt in overeenstemming met het bepaalde in de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950).
 
 4. Voor zover de instemming, bedoeld in het derde lid, betrekking heeft op een nieuw of significant gewijzigd aanbodkanaal:
 
@@ -520,7 +528,7 @@ De raad van toezicht en het college van omroepen hebben ten minste tweemaal per 
 
 ##### Artikel 2.21a
 
-1. [Artikel 2.21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.4&artikel=2.21&z=2026-01-01&g=2026-01-01), is niet van toepassing, als bij wijze van experiment van beperkte omvang of duur media-aanbod via andere aanbodkanalen dan die, bedoeld in [artikel 2.20, tweede lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.4&artikel=2.20&z=2026-01-01&g=2026-01-01), wordt aangeboden. Een experiment dient om te onderzoeken of deze aanbodkanalen een bijdrage kunnen leveren aan de verwezenlijking van de publieke mediaopdracht op landelijk niveau.
+1. [Artikel 2.21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.4&artikel=2.21&z=2026-10-31&g=2026-10-31), is niet van toepassing, als bij wijze van experiment van beperkte omvang of duur media-aanbod via andere aanbodkanalen dan die, bedoeld in [artikel 2.20, tweede lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.4&artikel=2.20&z=2026-10-31&g=2026-10-31), wordt aangeboden. Een experiment dient om te onderzoeken of deze aanbodkanalen een bijdrage kunnen leveren aan de verwezenlijking van de publieke mediaopdracht op landelijk niveau.
 
 2. Bij algemene maatregel van bestuur wordt bepaald wanneer sprake is van beperkte omvang of duur en kunnen nadere regels worden gesteld over het uitvoeren van experimenten.
 
@@ -542,7 +550,7 @@ De raad van toezicht en het college van omroepen hebben ten minste tweemaal per 
 
 ##### Artikel 2.23
 
-1. Onze Minister kan eens in de vijf jaar aan ten hoogste zes omroeporganisaties erkenningen verlenen voor de verzorging van media-aanbod voor de landelijke publieke mediadienst volgens de bepalingen van deze afdeling. Een omroeporganisatie is een omroepvereniging als bedoeld in [artikel 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.24&z=2026-01-01&g=2026-01-01) of een samenwerkingsomroep als bedoeld in [artikel 2.24a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.24a&z=2026-01-01&g=2026-01-01).
+1. Onze Minister kan eens in de vijf jaar aan ten hoogste zes omroeporganisaties erkenningen verlenen voor de verzorging van media-aanbod voor de landelijke publieke mediadienst volgens de bepalingen van deze afdeling. Een omroeporganisatie is een omroepvereniging als bedoeld in [artikel 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.24&z=2026-10-31&g=2026-10-31) of een samenwerkingsomroep als bedoeld in [artikel 2.24a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.24a&z=2026-10-31&g=2026-10-31).
 
 2. Onze Minister kan eens in de vijf jaar voorlopige erkenningen verlenen aan omroepverenigingen voor de verzorging van media-aanbod voor de landelijke publieke mediadienst volgens de bepalingen van deze afdeling.
 
@@ -598,11 +606,11 @@ De raad van toezicht en het college van omroepen hebben ten minste tweemaal per 
 
    - 2°. waarvan voor zover het een samenwerkingsomroep betreft, de omroepverenigingen die hij vertegenwoordigt, samen ten minste 100.000 leden hebben en afzonderlijk niet minder dan 50.000 leden;
 
-- c. die op 31 december van het jaar voorafgaand aan dat waarin die erkenning ingaat, een reserve als bedoeld in [artikel 2.174a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6&paragraaf=2.6.6.2&artikel=2.174a&z=2026-01-01&g=2026-01-01), heeft waarvan het saldo nihil of positief is en voor zover het een samenwerkingsomroep betreft, ook elke omroepvereniging die hij vertegenwoordigt, op die datum een reserve als bedoeld in artikel 2.174a, tweede lid, heeft waarvan het saldo nihil of positief is; en
+- c. die op 31 december van het jaar voorafgaand aan dat waarin die erkenning ingaat, een reserve als bedoeld in [artikel 2.174a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6&paragraaf=2.6.6.2&artikel=2.174a&z=2026-10-31&g=2026-10-31), heeft waarvan het saldo nihil of positief is en voor zover het een samenwerkingsomroep betreft, ook elke omroepvereniging die hij vertegenwoordigt, op die datum een reserve als bedoeld in artikel 2.174a, tweede lid, heeft waarvan het saldo nihil of positief is; en
 
-- d. die de beschikbaarheid van het media-aanbod op de aanbodkanalen, bedoeld in [artikel 2.55, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.55&z=2026-01-01&g=2026-01-01), heeft zeker gesteld en voldoet aan de [artikelen 2.142a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.6&artikel=2.142a&z=2026-01-01&g=2026-01-01) en [2.178, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6&paragraaf=2.6.6.3&artikel=2.178&z=2026-01-01&g=2026-01-01).
+- d. die de beschikbaarheid van het media-aanbod op de aanbodkanalen, bedoeld in [artikel 2.55, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.55&z=2026-10-31&g=2026-10-31), heeft zeker gesteld en voldoet aan de [artikelen 2.142a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.6&artikel=2.142a&z=2026-10-31&g=2026-10-31) en [2.178, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6&paragraaf=2.6.6.3&artikel=2.178&z=2026-10-31&g=2026-10-31).
 
-2. De hoogte van het saldo, bedoeld in het eerste lid, wordt aangetoond door overlegging van de jaarrekening, bedoeld in [artikel 2.171, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6&paragraaf=2.6.6.1&artikel=2.171&z=2026-01-01&g=2026-01-01), die vergezeld gaat van een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&boek=2).
+2. De hoogte van het saldo, bedoeld in het eerste lid, wordt aangetoond door overlegging van de jaarrekening, bedoeld in [artikel 2.171, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6&paragraaf=2.6.6.1&artikel=2.171&z=2026-10-31&g=2026-10-31), die vergezeld gaat van een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&boek=2).
 
 3. In afwijking van het eerste lid, onderdeel a, kan ook in aanmerking komen voor een erkenning een samenwerkingsomroep waarin zijn vertegenwoordigd:
 
@@ -612,7 +620,7 @@ De raad van toezicht en het college van omroepen hebben ten minste tweemaal per 
 
    - 1°. die omroepvereniging ten minste 50.000 leden heeft; en
 
-   - 2°. van die omroepvereniging niet tijdens de periode van de voorlopige erkenning onvoldoende is gebleken dat het media-aanbod voldoet aan de eisen, bedoeld in [artikel 2.26, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.26&z=2026-01-01&g=2026-01-01).
+   - 2°. van die omroepvereniging niet tijdens de periode van de voorlopige erkenning onvoldoende is gebleken dat het media-aanbod voldoet aan de eisen, bedoeld in [artikel 2.26, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.26&z=2026-10-31&g=2026-10-31).
 
 ##### Artikel 2.26
 
@@ -622,17 +630,17 @@ De raad van toezicht en het college van omroepen hebben ten minste tweemaal per 
 
 - b. ten minste 50.000 leden heeft;
 
-- c. op 31 december van het jaar voorafgaand aan dat waarin die erkenning ingaat, een reserve als bedoeld in [artikel 2.174a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6&paragraaf=2.6.6.2&artikel=2.174a&z=2026-01-01&g=2026-01-01), heeft waarvan het saldo nihil of positief is;
+- c. op 31 december van het jaar voorafgaand aan dat waarin die erkenning ingaat, een reserve als bedoeld in [artikel 2.174a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6&paragraaf=2.6.6.2&artikel=2.174a&z=2026-10-31&g=2026-10-31), heeft waarvan het saldo nihil of positief is;
 
-- d. zich naar stroming als bedoeld in [artikel 2.24, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.24&z=2026-01-01&g=2026-01-01), en naar voorgenomen media-aanbod wat betreft genre, inhoud en doelgroepen zodanig onderscheidt van de omroeporganisaties, bedoeld in [artikel 2.25](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.25&z=2026-01-01&g=2026-01-01), dat de verscheidenheid van het media-aanbod van de landelijke publieke mediadienst wordt vergroot en een vernieuwende bijdrage wordt geleverd aan de uitvoering van de publieke mediaopdracht op landelijk niveau;
+- d. zich naar stroming als bedoeld in [artikel 2.24, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.24&z=2026-10-31&g=2026-10-31), en naar voorgenomen media-aanbod wat betreft genre, inhoud en doelgroepen zodanig onderscheidt van de omroeporganisaties, bedoeld in [artikel 2.25](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.25&z=2026-10-31&g=2026-10-31), dat de verscheidenheid van het media-aanbod van de landelijke publieke mediadienst wordt vergroot en een vernieuwende bijdrage wordt geleverd aan de uitvoering van de publieke mediaopdracht op landelijk niveau;
 
-- e. de voorschriften met betrekking tot ledenwerving, bedoeld in [artikel 2.137](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.6&artikel=2.137&z=2026-01-01&g=2026-01-01), in acht heeft genomen;
+- e. de voorschriften met betrekking tot ledenwerving, bedoeld in [artikel 2.137](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.6&artikel=2.137&z=2026-10-31&g=2026-10-31), in acht heeft genomen;
 
-- f. de verzorging van haar media-aanbod opdraagt aan de NTR of een omroeporganisatie die een erkenning als bedoeld in [artikel 2.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-01-01&g=2026-01-01), heeft verkregen en waarmee zij overeenstemming heeft bereikt; en
+- f. de verzorging van haar media-aanbod opdraagt aan de NTR of een omroeporganisatie die een erkenning als bedoeld in [artikel 2.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-10-31&g=2026-10-31), heeft verkregen en waarmee zij overeenstemming heeft bereikt; en
 
-- g. voldoet aan de [artikelen 2.142a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.6&artikel=2.142a&z=2026-01-01&g=2026-01-01), en [2.178, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6&paragraaf=2.6.6.3&artikel=2.178&z=2026-01-01&g=2026-01-01).
+- g. voldoet aan de [artikelen 2.142a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.6&artikel=2.142a&z=2026-10-31&g=2026-10-31), en [2.178, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6&paragraaf=2.6.6.3&artikel=2.178&z=2026-10-31&g=2026-10-31).
 
-2. [Artikel 2.25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.25&z=2026-01-01&g=2026-01-01), is van toepassing.
+2. [Artikel 2.25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.25&z=2026-10-31&g=2026-10-31), is van toepassing.
 
 ##### Artikel 2.27
 
@@ -644,7 +652,7 @@ De raad van toezicht en het college van omroepen hebben ten minste tweemaal per 
 
 - b. in Nederland woonachtig zijn; en
 
-- c. de jaarlijkse minimumcontributie, bedoeld in [artikel 2.24, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.24&z=2026-01-01&g=2026-01-01), of 2.24a, eerste lid, onderdeel e, hebben betaald.
+- c. de jaarlijkse minimumcontributie, bedoeld in [artikel 2.24, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.24&z=2026-10-31&g=2026-10-31), of 2.24a, eerste lid, onderdeel e, hebben betaald.
 
 3. Het Commissariaat bepaalt de wijze waarop de vaststelling van het aantal leden gebeurt en de aanvrager verstrekt aan het Commissariaat alle gegevens die het daarvoor nodig acht.
 
@@ -654,9 +662,9 @@ De raad van toezicht en het college van omroepen hebben ten minste tweemaal per 
 
 ##### Artikel 2.29
 
-1. Een erkenning of een voorlopige erkenning wordt op aanvraag verleend en geldt voor een periode van vijf jaar die samenvalt met een vijfjaarlijkse periode van de concessie als bedoeld in [artikel 2.19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.4&artikel=2.19&z=2026-01-01&g=2026-01-01), en vervalt van rechtswege na afloop van de erkenningperiode.
+1. Een erkenning of een voorlopige erkenning wordt op aanvraag verleend en geldt voor een periode van vijf jaar die samenvalt met een vijfjaarlijkse periode van de concessie als bedoeld in [artikel 2.19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.4&artikel=2.19&z=2026-10-31&g=2026-10-31), en vervalt van rechtswege na afloop van de erkenningperiode.
 
-2. Een erkenning kan alleen overgaan met toestemming van Onze Minister op aanvraag van de omroeporganisatie waaraan deze is verleend, en alleen aan een omroeporganisatie die door fusie is gevormd overeenkomstig [artikel 2.25, eerste lid, aanhef en onderdeel a, onder 2°, 3° of 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.25&z=2026-01-01&g=2026-01-01). Aan een toestemming kunnen voorwaarden worden verbonden. [Artikel 2.32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.32&z=2026-01-01&g=2026-01-01), wat betreft de [artikelen 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.24&z=2026-01-01&g=2026-01-01) en [2.24a, en tweede lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.24a&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
+2. Een erkenning kan alleen overgaan met toestemming van Onze Minister op aanvraag van de omroeporganisatie waaraan deze is verleend, en alleen aan een omroeporganisatie die door fusie is gevormd overeenkomstig [artikel 2.25, eerste lid, aanhef en onderdeel a, onder 2°, 3° of 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.25&z=2026-10-31&g=2026-10-31). Aan een toestemming kunnen voorwaarden worden verbonden. [Artikel 2.32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.32&z=2026-10-31&g=2026-10-31), wat betreft de [artikelen 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.24&z=2026-10-31&g=2026-10-31) en [2.24a, en tweede lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.24a&z=2026-10-31&g=2026-10-31), is van overeenkomstige toepassing.
 
 3. Een erkenning of voorlopige erkenning geeft aanspraak op een financiële bijdrage voor de verzorging van media-aanbod volgens het bepaalde bij of krachtens deze wet.
 
@@ -672,7 +680,7 @@ De raad van toezicht en het college van omroepen hebben ten minste tweemaal per 
 
 - b. de voornemens en afspraken over samenwerking ten behoeve van de landelijke publieke mediadienst met andere aanvragers van een erkenning of een voorlopige erkenning, de NPO, de NOS of de NTR; en
 
-- c. voor zover het betreft het beleidsplan van een aanvrager van een voorlopige erkenning, de voornemens en afspraken over de wijze waarop zijn verantwoordelijkheid, bedoeld in [artikel 2.88, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.1&artikel=2.88&z=2026-01-01&g=2026-01-01), in de samenwerking met de NTR of een omroeporganisatie, bedoeld in [artikel 2.26, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.26&z=2026-01-01&g=2026-01-01), is gewaarborgd.
+- c. voor zover het betreft het beleidsplan van een aanvrager van een voorlopige erkenning, de voornemens en afspraken over de wijze waarop zijn verantwoordelijkheid, bedoeld in [artikel 2.88, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.1&artikel=2.88&z=2026-10-31&g=2026-10-31), in de samenwerking met de NTR of een omroeporganisatie, bedoeld in [artikel 2.26, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.26&z=2026-10-31&g=2026-10-31), is gewaarborgd.
 
 3. Het deel van het beleidsplan dat betrekking heeft op samenwerking kan door de desbetreffende aanvragers gezamenlijk worden ingediend.
 
@@ -692,19 +700,19 @@ De raad van toezicht en het college van omroepen hebben ten minste tweemaal per 
 
 2. Het uitblijven van een advies staat aan het nemen van een besluit over het verlenen van een erkenning of voorlopige erkenning niet in de weg.
 
-3. Als een aanvraag is ingediend door een omroepvereniging als bedoeld in [artikel 2.25, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.25&z=2026-01-01&g=2026-01-01), bevat het advies een concreet voorstel voor het samengaan van deze aanvrager met een of meer andere aanvragers, gericht op de totstandkoming van een samenwerkingsomroep. De mate waarin aanvragers kunnen bijdragen aan de uitvoering van de publieke mediaopdracht op landelijk niveau met inachtneming van hun in het media-aanbod te weerspiegelen identiteit, is bepalend voor de inhoud van het voorstel.
+3. Als een aanvraag is ingediend door een omroepvereniging als bedoeld in [artikel 2.25, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.25&z=2026-10-31&g=2026-10-31), bevat het advies een concreet voorstel voor het samengaan van deze aanvrager met een of meer andere aanvragers, gericht op de totstandkoming van een samenwerkingsomroep. De mate waarin aanvragers kunnen bijdragen aan de uitvoering van de publieke mediaopdracht op landelijk niveau met inachtneming van hun in het media-aanbod te weerspiegelen identiteit, is bepalend voor de inhoud van het voorstel.
 
-4. Als het advies een voorstel als bedoeld in het derde lid bevat, stelt Onze Minister na overweging van het advies, de betreffende aanvragers in de gelegenheid als samenwerkingsomroep gezamenlijk een nieuwe aanvraag in te dienen. [Artikel 2.30](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.30&z=2026-01-01&g=2026-01-01) en het eerste lid zijn van toepassing.
+4. Als het advies een voorstel als bedoeld in het derde lid bevat, stelt Onze Minister na overweging van het advies, de betreffende aanvragers in de gelegenheid als samenwerkingsomroep gezamenlijk een nieuwe aanvraag in te dienen. [Artikel 2.30](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.30&z=2026-10-31&g=2026-10-31) en het eerste lid zijn van toepassing.
 
 ##### Artikel 2.32
 
-1. Onze Minister wijst een aanvraag voor een erkenning of een voorlopige erkenning af als de aanvrager niet voldoet aan de [artikelen 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.24&z=2026-01-01&g=2026-01-01), [2.24a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.24a&z=2026-01-01&g=2026-01-01), [2.25, eerste lid, onderdelen a, b en d, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.25&z=2026-01-01&g=2026-01-01), of [2.26, eerste lid, onderdelen a, b, en d tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.26&z=2026-01-01&g=2026-01-01).
+1. Onze Minister wijst een aanvraag voor een erkenning of een voorlopige erkenning af als de aanvrager niet voldoet aan de [artikelen 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.24&z=2026-10-31&g=2026-10-31), [2.24a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.24a&z=2026-10-31&g=2026-10-31), [2.25, eerste lid, onderdelen a, b en d, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.25&z=2026-10-31&g=2026-10-31), of [2.26, eerste lid, onderdelen a, b, en d tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.26&z=2026-10-31&g=2026-10-31).
 
 2. Onze Minister kan een aanvraag afwijzen als:
 
-- a. de aanvrager blijkens de tweede evaluatie, bedoeld in [artikel 2.184, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.7&artikel=2.184&z=2026-01-01&g=2026-01-01), onvoldoende heeft bijgedragen aan de uitvoering van de publieke mediaopdracht op landelijk niveau door de wijze waarop hij uitvoering heeft gegeven aan zijn publieke taak, bedoeld in [artikel 2.24, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.24&z=2026-01-01&g=2026-01-01), of [2.24a, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.24a&z=2026-01-01&g=2026-01-01);
+- a. de aanvrager blijkens de tweede evaluatie, bedoeld in [artikel 2.184, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.7&artikel=2.184&z=2026-10-31&g=2026-10-31), onvoldoende heeft bijgedragen aan de uitvoering van de publieke mediaopdracht op landelijk niveau door de wijze waarop hij uitvoering heeft gegeven aan zijn publieke taak, bedoeld in [artikel 2.24, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.24&z=2026-10-31&g=2026-10-31), of [2.24a, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.24a&z=2026-10-31&g=2026-10-31);
 
-- b. de aanvrager niet voldoet aan [artikel 2.30, eerste tot en met derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.30&z=2026-01-01&g=2026-01-01), of de krachtens artikel 2.30, vierde lid, gestelde eisen;
+- b. de aanvrager niet voldoet aan [artikel 2.30, eerste tot en met derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.30&z=2026-10-31&g=2026-10-31), of de krachtens artikel 2.30, vierde lid, gestelde eisen;
 
 - c. aannemelijk is dat de aanvrager zich, mede gelet op zijn handelwijze in een voorafgaande periode waarin hij een erkenning heeft gehad, niet zal houden aan het bepaalde bij of krachtens deze wet; of
 
@@ -714,21 +722,21 @@ De raad van toezicht en het college van omroepen hebben ten minste tweemaal per 
 
    - 2°. het door de aanvrager te verzorgen media-aanbod voldoet aan de daaraan bij of krachtens deze wet gestelde eisen; of
 
-   - 3°. de aanvrager bereid is tot samenwerking ten behoeve van de landelijk publieke mediadienst en zijn verantwoordelijkheid gewaarborgd is als bedoeld in [artikel 2.30, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.30&z=2026-01-01&g=2026-01-01).
+   - 3°. de aanvrager bereid is tot samenwerking ten behoeve van de landelijk publieke mediadienst en zijn verantwoordelijkheid gewaarborgd is als bedoeld in [artikel 2.30, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.30&z=2026-10-31&g=2026-10-31).
 
-3. Onze Minister kan daarnaast een aanvraag afwijzen als de aanvraag niet uitgaat van een voorstel als bedoeld in [artikel 2.31, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.31&z=2026-01-01&g=2026-01-01).
+3. Onze Minister kan daarnaast een aanvraag afwijzen als de aanvraag niet uitgaat van een voorstel als bedoeld in [artikel 2.31, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.31&z=2026-10-31&g=2026-10-31).
 
 ##### Artikel 2.33
 
-1. Onze Minister trekt een erkenning of een voorlopige erkenning in als een instelling niet meer voldoet aan de [artikelen 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.24&z=2026-01-01&g=2026-01-01), [2.24a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.24a&z=2026-01-01&g=2026-01-01), [2.25, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.25&z=2026-01-01&g=2026-01-01), of [2.26, eerste lid, onderdelen f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.26&z=2026-01-01&g=2026-01-01), dan wel niet voldoet aan artikel 2.25, eerste lid, onderdeel c, of 2.26, eerste lid, onderdeel c.
+1. Onze Minister trekt een erkenning of een voorlopige erkenning in als een instelling niet meer voldoet aan de [artikelen 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.24&z=2026-10-31&g=2026-10-31), [2.24a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.24a&z=2026-10-31&g=2026-10-31), [2.25, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.25&z=2026-10-31&g=2026-10-31), of [2.26, eerste lid, onderdelen f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.26&z=2026-10-31&g=2026-10-31), dan wel niet voldoet aan artikel 2.25, eerste lid, onderdeel c, of 2.26, eerste lid, onderdeel c.
 
-2. Onze Minister kan een erkenning of voorlopige erkenning intrekken als het Commissariaat aan de instelling binnen een jaar ten minste twee maal een bestuurlijke sanctie als bedoeld in [titel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=7&titeldeel=7.2&z=2026-01-01&g=2026-01-01) heeft opgelegd wegens overtreding van het bepaalde bij of krachtens deze wet of [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20).
+2. Onze Minister kan een erkenning of voorlopige erkenning intrekken als het Commissariaat aan de instelling binnen een jaar ten minste twee maal een bestuurlijke sanctie als bedoeld in [titel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=7&titeldeel=7.2&z=2026-10-31&g=2026-10-31) heeft opgelegd wegens overtreding van het bepaalde bij of krachtens deze wet of [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20).
 
-3. Onze Minister kan een erkenning of voorlopige erkenning daarnaast intrekken als bij de tweede evaluatie, bedoeld in [artikel 2.184, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.7&artikel=2.184&z=2026-01-01&g=2026-01-01), is vastgesteld dat de instelling onvoldoende heeft bijgedragen aan de uitvoering van de publieke mediaopdracht op landelijk niveau door de wijze waarop zij uitvoering heeft gegeven aan de publieke taak, bedoeld in [artikel 2.24, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.24&z=2026-01-01&g=2026-01-01), of [2.24a, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.24a&z=2026-01-01&g=2026-01-01). [Artikel 2.31, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.31&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing. Een besluit als bedoeld in de eerste volzin voorziet in het tijdstip met ingang waarvan de erkenning of voorlopige erkenning wordt ingetrokken. Dit tijdstip is niet later dan één jaar na de bekendmaking van het besluit, bedoeld in de eerste volzin.
+3. Onze Minister kan een erkenning of voorlopige erkenning daarnaast intrekken als bij de tweede evaluatie, bedoeld in [artikel 2.184, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.7&artikel=2.184&z=2026-10-31&g=2026-10-31), is vastgesteld dat de instelling onvoldoende heeft bijgedragen aan de uitvoering van de publieke mediaopdracht op landelijk niveau door de wijze waarop zij uitvoering heeft gegeven aan de publieke taak, bedoeld in [artikel 2.24, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.24&z=2026-10-31&g=2026-10-31), of [2.24a, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.24a&z=2026-10-31&g=2026-10-31). [Artikel 2.31, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.31&z=2026-10-31&g=2026-10-31), is van overeenkomstige toepassing. Een besluit als bedoeld in de eerste volzin voorziet in het tijdstip met ingang waarvan de erkenning of voorlopige erkenning wordt ingetrokken. Dit tijdstip is niet later dan één jaar na de bekendmaking van het besluit, bedoeld in de eerste volzin.
 
 4. Onze Minister kan op verzoek van de raad van bestuur een erkenning of voorlopige erkenning intrekken als:
 
-- a. de raad van bestuur aan de instelling binnen de erkenningperiode twee maal een sanctie als bedoeld in [artikel 2.154](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.154&z=2026-01-01&g=2026-01-01) heeft opgelegd; of
+- a. de raad van bestuur aan de instelling binnen de erkenningperiode twee maal een sanctie als bedoeld in [artikel 2.154](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.154&z=2026-10-31&g=2026-10-31) heeft opgelegd; of
 
 - b. de instelling naar de mening van de raad van bestuur onvoldoende uitvoering geeft aan de bereidheid tot samenwerking ten behoeve van de landelijk publieke mediadienst.
 
@@ -808,7 +816,7 @@ De organen van de NOS zijn een raad van toezicht en een directie.
 
 3. Ontslag is verder mogelijk op eigen verzoek.
 
-4. De leden van de raad van toezicht kunnen gezamenlijk worden ontslagen, als bij de tweede evaluatie, bedoeld in [artikel 2.184, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.7&artikel=2.184&z=2026-01-01&g=2026-01-01), is vastgesteld dat de NOS onvoldoende heeft bijgedragen aan de uitvoering van de publieke mediaopdracht op landelijk niveau door de wijze waarop zij uitvoering heeft gegeven aan de publieke taak, bedoeld in [artikel 2.34a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2a&artikel=2.34a&z=2026-01-01&g=2026-01-01). In geval van een ontslag als bedoeld in de eerste volzin benoemt Onze Minister de leden van de nieuwe raad van toezicht.
+4. De leden van de raad van toezicht kunnen gezamenlijk worden ontslagen, als bij de tweede evaluatie, bedoeld in [artikel 2.184, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.7&artikel=2.184&z=2026-10-31&g=2026-10-31), is vastgesteld dat de NOS onvoldoende heeft bijgedragen aan de uitvoering van de publieke mediaopdracht op landelijk niveau door de wijze waarop zij uitvoering heeft gegeven aan de publieke taak, bedoeld in [artikel 2.34a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2a&artikel=2.34a&z=2026-10-31&g=2026-10-31). In geval van een ontslag als bedoeld in de eerste volzin benoemt Onze Minister de leden van de nieuwe raad van toezicht.
 
 5. De leden van de raad van toezicht ontvangen van de NOS een door Onze Minister vast te stellen vergoeding.
 
@@ -822,7 +830,7 @@ De organen van de NOS zijn een raad van toezicht en een directie.
 
 1. De directie van de NOS bestaat uit ten hoogste drie leden die worden benoemd, geschorst en ontslagen door de raad van toezicht.
 
-2. [Artikel 2.34d, eerste lid, aanhef en onderdelen b tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2a&artikel=2.34d&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing op de leden van de directie.
+2. [Artikel 2.34d, eerste lid, aanhef en onderdelen b tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2a&artikel=2.34d&z=2026-10-31&g=2026-10-31), is van overeenkomstige toepassing op de leden van de directie.
 
 3. De directieleden zijn in dienst van de NOS. De raad van toezicht stelt hun arbeidsvoorwaarden vast.
 
@@ -864,7 +872,7 @@ De organen van de NOS zijn een raad van toezicht en een directie.
 
 3. De NTR heeft eveneens tot taak het voor de landelijke publieke mediadienst verzorgen van een breed en samenhangend educatief media-aanbod op het gebied van onderwijs, scholing en vorming.
 
-4. De raad van bestuur kan de NTR belasten met het verzorgen van media-aanbod als bedoeld in [artikel 2.54, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.54&z=2026-01-01&g=2026-01-01).
+4. De raad van bestuur kan de NTR belasten met het verzorgen van media-aanbod als bedoeld in [artikel 2.54, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.54&z=2026-10-31&g=2026-10-31).
 
 ##### Artikel 2.35a
 
@@ -920,7 +928,7 @@ De organen van de NTR zijn een raad van toezicht, een algemeen directeur en een 
 
 3. Ontslag is verder mogelijk op eigen verzoek.
 
-4. De leden van de raad van toezicht kunnen gezamenlijk worden ontslagen, als bij de tweede evaluatie, bedoeld in [artikel 2.184, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.7&artikel=2.184&z=2026-01-01&g=2026-01-01), is vastgesteld dat de NTR onvoldoende heeft bijgedragen aan de uitvoering van de publieke mediaopdracht op landelijk niveau door de wijze waarop zij uitvoering heeft gegeven aan de publieke taak, bedoeld in [artikel 2.35](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.3&artikel=2.35&z=2026-01-01&g=2026-01-01). In geval van een ontslag als bedoeld in de eerste volzin benoemt Onze Minister de leden van de nieuwe raad van toezicht.
+4. De leden van de raad van toezicht kunnen gezamenlijk worden ontslagen, als bij de tweede evaluatie, bedoeld in [artikel 2.184, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.7&artikel=2.184&z=2026-10-31&g=2026-10-31), is vastgesteld dat de NTR onvoldoende heeft bijgedragen aan de uitvoering van de publieke mediaopdracht op landelijk niveau door de wijze waarop zij uitvoering heeft gegeven aan de publieke taak, bedoeld in [artikel 2.35](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.3&artikel=2.35&z=2026-10-31&g=2026-10-31). In geval van een ontslag als bedoeld in de eerste volzin benoemt Onze Minister de leden van de nieuwe raad van toezicht.
 
 5. De leden van de raad van toezicht ontvangen van de NTR een door Onze Minister vast te stellen vergoeding.
 
@@ -934,7 +942,7 @@ De organen van de NTR zijn een raad van toezicht, een algemeen directeur en een 
 
 1. De algemeen directeur van de NTR wordt benoemd, geschorst en ontslagen door de raad van toezicht.
 
-2. [Artikel 2.37, eerste lid, aanhef en onderdelen b tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.3&artikel=2.37&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing op de algemeen directeur.
+2. [Artikel 2.37, eerste lid, aanhef en onderdelen b tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.3&artikel=2.37&z=2026-10-31&g=2026-10-31), is van overeenkomstige toepassing op de algemeen directeur.
 
 3. De algemeen directeur is in dienst van de NTR. De raad van toezicht stelt zijn arbeidsvoorwaarden vast.
 
@@ -1008,7 +1016,7 @@ De statuten van de NTR regelen de instelling van een adviesraad die de algemeen 
 
 ##### Artikel 2.50
 
-Gedurende de concessieperiode, bedoeld in [artikel 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.4&artikel=2.19&z=2026-01-01&g=2026-01-01), wordt:
+Gedurende de concessieperiode, bedoeld in [artikel 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.4&artikel=2.19&z=2026-10-31&g=2026-10-31), wordt:
 
 - a. op ten minste twee algemene televisieprogrammakanalen en op ten minste vijf algemene radioprogrammakanalen van de landelijke publieke mediadienst programma-aanbod verzorgd; en
 
@@ -1016,13 +1024,13 @@ Gedurende de concessieperiode, bedoeld in [artikel 2.19](https://wetten.overheid
 
 ##### Artikel 2.51
 
-1. Het media-aanbod van de landelijke publieke media-instellingen en de Ster wordt uitsluitend verspreid via een aanbodkanaal als bedoeld in [artikel 2.20, tweede lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.4&artikel=2.20&z=2026-01-01&g=2026-01-01), waarvoor Onze Minister instemming heeft verleend als bedoeld in [artikel 2.21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.4&artikel=2.21&z=2026-01-01&g=2026-01-01).
+1. Het media-aanbod van de landelijke publieke media-instellingen en de Ster wordt uitsluitend verspreid via een aanbodkanaal als bedoeld in [artikel 2.20, tweede lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.4&artikel=2.20&z=2026-10-31&g=2026-10-31), waarvoor Onze Minister instemming heeft verleend als bedoeld in [artikel 2.21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.4&artikel=2.21&z=2026-10-31&g=2026-10-31).
 
-2. Het eerste lid is niet van toepassing op media-aanbod als bedoeld in [artikel 2.21a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.4&artikel=2.21a&z=2026-01-01&g=2026-01-01).
+2. Het eerste lid is niet van toepassing op media-aanbod als bedoeld in [artikel 2.21a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.4&artikel=2.21a&z=2026-10-31&g=2026-10-31).
 
 ##### Artikel 2.52
 
-Bij de coördinatie en ordening op en tussen de aanbodkanalen kan de raad van bestuur voorstellen voor programma’s toetsen aan de kwantitatieve en kwalitatieve doelstellingen voor het media-aanbod en het publieksbereik van de landelijke publieke mediadienst, vervat in het concessiebeleidsplan, de prestatieovereenkomst, bedoeld in [artikel 2.22](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.4&artikel=2.22&z=2026-01-01&g=2026-01-01), de profielen van de aanbodkanalen, de afspraken, bedoeld in [artikel 2.55](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.55&z=2026-01-01&g=2026-01-01), de regeling, bedoeld in [artikel 2.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.57&z=2026-01-01&g=2026-01-01), en de begroting, bedoeld in [artikel 2.147](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.1&artikel=2.147&z=2026-01-01&g=2026-01-01), en neemt zij [artikel 2.88](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.1&artikel=2.88&z=2026-01-01&g=2026-01-01) in acht.
+Bij de coördinatie en ordening op en tussen de aanbodkanalen kan de raad van bestuur voorstellen voor programma’s toetsen aan de kwantitatieve en kwalitatieve doelstellingen voor het media-aanbod en het publieksbereik van de landelijke publieke mediadienst, vervat in het concessiebeleidsplan, de prestatieovereenkomst, bedoeld in [artikel 2.22](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.4&artikel=2.22&z=2026-10-31&g=2026-10-31), de profielen van de aanbodkanalen, de afspraken, bedoeld in [artikel 2.55](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.55&z=2026-10-31&g=2026-10-31), de regeling, bedoeld in [artikel 2.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.57&z=2026-10-31&g=2026-10-31), en de begroting, bedoeld in [artikel 2.147](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.1&artikel=2.147&z=2026-10-31&g=2026-10-31), en neemt zij [artikel 2.88](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.1&artikel=2.88&z=2026-10-31&g=2026-10-31) in acht.
 
 ##### Artikel 2.53
 
@@ -1038,7 +1046,7 @@ Bij de coördinatie en ordening op en tussen de aanbodkanalen kan de raad van be
 
 ##### Artikel 2.54
 
-1. De raad van bestuur zorgt er in het kader van de coördinatie voor dat het media-aanbod op de aanbodkanalen van de landelijke publieke mediadienst past binnen de kaders van [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.1&artikel=2.1&z=2026-01-01&g=2026-01-01), het concessiebeleidsplan en de profielen van de aanbodkanalen en voldoet aan de [artikelen 2.115](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.4&paragraaf=2.5.4.1&artikel=2.115&z=2026-01-01&g=2026-01-01), [2.116](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.4&paragraaf=2.5.4.1&artikel=2.116&z=2026-01-01&g=2026-01-01) en [2.119 tot en met 2.123](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.4&paragraaf=2.5.4.1&artikel=2.119&z=2026-01-01&g=2026-01-01), alsmede dat de landelijke publieke media-instellingen beschikken over ruimte op de aanbodkanalen die nodig is om media-aanbod dat is vervaardigd met de budgetten, bedoeld in [artikel 2.149, eerste lid, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.149&z=2026-01-01&g=2026-01-01), te kunnen plaatsen.
+1. De raad van bestuur zorgt er in het kader van de coördinatie voor dat het media-aanbod op de aanbodkanalen van de landelijke publieke mediadienst past binnen de kaders van [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.1&artikel=2.1&z=2026-10-31&g=2026-10-31), het concessiebeleidsplan en de profielen van de aanbodkanalen en voldoet aan de [artikelen 2.115](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.4&paragraaf=2.5.4.1&artikel=2.115&z=2026-10-31&g=2026-10-31), [2.116](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.4&paragraaf=2.5.4.1&artikel=2.116&z=2026-10-31&g=2026-10-31) en [2.119 tot en met 2.123](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.4&paragraaf=2.5.4.1&artikel=2.119&z=2026-10-31&g=2026-10-31), alsmede dat de landelijke publieke media-instellingen beschikken over ruimte op de aanbodkanalen die nodig is om media-aanbod dat is vervaardigd met de budgetten, bedoeld in [artikel 2.149, eerste lid, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.149&z=2026-10-31&g=2026-10-31), te kunnen plaatsen.
 
 2. De raad van bestuur kan het initiatief nemen tot het verzorgen van media-aanbod door een landelijke publieke media-instelling op basis van een voorstel dat niet afkomstig is van de NPO of een landelijke publieke media-instelling.
 
@@ -1062,15 +1070,15 @@ Bij de coördinatie en ordening op en tussen de aanbodkanalen kan de raad van be
 
 1. Voor de coördinatie en ordening op en tussen de aanbodkanalen van het media-aanbod van de landelijke publieke mediadienst wordt de raad van bestuur bijgestaan door een redactie, die als volgt is samengesteld:
 
-- a. de omroeporganisaties die een erkenning als bedoeld in [artikel 2.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-01-01&g=2026-01-01), hebben verkregen, de NOS en de NTR benoemen elk een lid; en
+- a. de omroeporganisaties die een erkenning als bedoeld in [artikel 2.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-10-31&g=2026-10-31), hebben verkregen, de NOS en de NTR benoemen elk een lid; en
 
-- b. de omroepverenigingen die een voorlopige erkenning als bedoeld in [artikel 2.23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-01-01&g=2026-01-01), hebben verkregen worden vertegenwoordigd door het voor de NTR benoemde lid of het voor de omroeporganisatie, bedoeld in [artikel 2.26, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.26&z=2026-01-01&g=2026-01-01), benoemde lid.
+- b. de omroepverenigingen die een voorlopige erkenning als bedoeld in [artikel 2.23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-10-31&g=2026-10-31), hebben verkregen worden vertegenwoordigd door het voor de NTR benoemde lid of het voor de omroeporganisatie, bedoeld in [artikel 2.26, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.26&z=2026-10-31&g=2026-10-31), benoemde lid.
 
 2. Het lidmaatschap van een redactie is onverenigbaar met het lidmaatschap van een orgaan van de NPO, een landelijke publieke media-instelling of een omroepvereniging die in een samenwerkingsomroep vertegenwoordigd is.
 
 ##### Artikel 2.57
 
-Een regeling voor de coördinatie en ordening van het media-aanbod als bedoeld in [artikel 2.10, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.2&artikel=2.10&z=2026-01-01&g=2026-01-01), regelt in elk geval:
+Een regeling voor de coördinatie en ordening van het media-aanbod als bedoeld in [artikel 2.10, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.2&artikel=2.10&z=2026-10-31&g=2026-10-31), regelt in elk geval:
 
 - a. de wijze waarop de coördinatie en ordening van het media-aanbod op en tussen de verschillende aanbodkanalen plaatsvindt;
 
@@ -1078,7 +1086,7 @@ Een regeling voor de coördinatie en ordening van het media-aanbod als bedoeld i
 
 - c. de wijze waarop de raad van bestuur de bevoegdheid, bedoeld in artikel 2.54, tweede lid, gebruikt; en
 
-- d. de wijze waarop de raad van bestuur het tot stand komen van afspraken als bedoeld in [artikel 2.55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.55&z=2026-01-01&g=2026-01-01), bevordert.
+- d. de wijze waarop de raad van bestuur het tot stand komen van afspraken als bedoeld in [artikel 2.55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.55&z=2026-10-31&g=2026-10-31), bevordert.
 
 ##### Artikel 2.58
 
@@ -1086,13 +1094,13 @@ Een regeling voor de coördinatie en ordening van het media-aanbod als bedoeld i
 
 - a. een beschrijving van de wijze waarop door de NPO en de landelijke publieke media-instellingen op de verschillende aanbodkanalen uitvoering is gegeven aan de publieke mediaopdracht;
 
-- b. de samenstelling van het media-aanbod van de publieke mediadienst op de programmakanalen en voor zover mogelijk op de overige aanbodkanalen, waaronder de uren die besteed zijn aan media-aanbod op de terreinen genoemd in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.1&artikel=2.1&z=2026-01-01&g=2026-01-01);
+- b. de samenstelling van het media-aanbod van de publieke mediadienst op de programmakanalen en voor zover mogelijk op de overige aanbodkanalen, waaronder de uren die besteed zijn aan media-aanbod op de terreinen genoemd in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.1&artikel=2.1&z=2026-10-31&g=2026-10-31);
 
-- c. een rapportage over de realisering van de doelstellingen van de prestatieovereenkomst, bedoeld in [artikel 2.22](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.4&artikel=2.22&z=2026-01-01&g=2026-01-01), en een verantwoording over de doelmatigheid en doeltreffendheid van die realisering;
+- c. een rapportage over de realisering van de doelstellingen van de prestatieovereenkomst, bedoeld in [artikel 2.22](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.4&artikel=2.22&z=2026-10-31&g=2026-10-31), en een verantwoording over de doelmatigheid en doeltreffendheid van die realisering;
 
-- d. de naleving van de [artikelen 2.115 tot en met 2.123](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.4&paragraaf=2.5.4.1&artikel=2.115&z=2026-01-01&g=2026-01-01);
+- d. de naleving van de [artikelen 2.115 tot en met 2.123](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.4&paragraaf=2.5.4.1&artikel=2.115&z=2026-10-31&g=2026-10-31);
 
-- e. de naleving van de gedragscode, bedoeld in [artikel 2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.1&artikel=2.3&z=2026-01-01&g=2026-01-01); en
+- e. de naleving van de gedragscode, bedoeld in [artikel 2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.1&artikel=2.3&z=2026-10-31&g=2026-10-31); en
 
 - f. de maatregelen die de NPO treft om de toegankelijkheid van het audiovisueel media-aanbod voor personen met een handicap verder te ontwikkelen.
 
@@ -1106,17 +1114,17 @@ Een regeling voor de coördinatie en ordening van het media-aanbod als bedoeld i
 
 ##### Artikel 2.60
 
-1. Onverminderd [artikel 2.88, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.1&artikel=2.88&z=2026-01-01&g=2026-01-01), zijn de regelingen, bedoeld in [artikel 2.10, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.2&artikel=2.10&z=2026-01-01&g=2026-01-01), en de overige besluiten die de raad van bestuur of de door hem gemandateerden nemen in de uitoefening van hun taken, bindend voor de landelijke publieke media-instellingen en de Ster, voor zover die regelingen en besluiten hen aangaan.
+1. Onverminderd [artikel 2.88, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.1&artikel=2.88&z=2026-10-31&g=2026-10-31), zijn de regelingen, bedoeld in [artikel 2.10, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.2&artikel=2.10&z=2026-10-31&g=2026-10-31), en de overige besluiten die de raad van bestuur of de door hem gemandateerden nemen in de uitoefening van hun taken, bindend voor de landelijke publieke media-instellingen en de Ster, voor zover die regelingen en besluiten hen aangaan.
 
 2. De raad van bestuur ziet er op toe dat de regelingen en besluiten worden nageleefd.
 
-### Titel 2.3. Regionale en lokale publieke mediadiensten
+### Titel 2.3. Regionale publieke mediadienst
 
 #### Paragraaf 2.3.1. Stichting Regionale Publieke Omroep
 
 ##### Artikel 2.60a
 
-1. Onze Minister wijst een stichting aan als het samenwerkings- en coördinatieorgaan voor de uitvoering van de publieke mediaopdracht op regionaal niveau, bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.1&artikel=2.1&z=2026-01-01&g=2026-01-01).
+1. Onze Minister wijst een stichting aan als het samenwerkings- en coördinatieorgaan voor de uitvoering van de publieke mediaopdracht op regionaal niveau, bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.1&artikel=2.1&z=2026-10-31&g=2026-10-31).
 
 2. De stichting, bedoeld in het eerste lid, wordt voor de toepassing van deze wet aangeduid als de RPO.
 
@@ -1220,7 +1228,7 @@ De organen van de RPO zijn een raad van toezicht en een bestuur.
 
 ##### Artikel 2.60g
 
-1. Voor het bestuur van de RPO is [artikel 2.60d, eerste lid, onder c tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.1&artikel=2.60d&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing.
+1. Voor het bestuur van de RPO is [artikel 2.60d, eerste lid, onder c tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.1&artikel=2.60d&z=2026-10-31&g=2026-10-31), van overeenkomstige toepassing.
 
 2. Het lidmaatschap van het bestuur van de RPO is onverenigbaar met het lidmaatschap van een orgaan van of een dienstbetrekking bij een publieke media-instelling, de regionale publieke media-instellingen uitgezonderd.
 
@@ -1242,17 +1250,17 @@ De organen van de RPO zijn een raad van toezicht en een bestuur.
 
 - c. het vaststellen van het concessiebeleidsplan RPO;
 
-- d. het aangaan van de prestatieovereenkomst, bedoeld in [artikel 2.60n](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.1&artikel=2.60n&z=2026-01-01&g=2026-01-01);
+- d. het aangaan van de prestatieovereenkomst, bedoeld in [artikel 2.60n](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.1&artikel=2.60n&z=2026-10-31&g=2026-10-31);
 
-- e. het vaststellen van de begroting, bedoeld in [artikel 2.169a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.5&artikel=2.169a&z=2026-01-01&g=2026-01-01); en
+- e. het vaststellen van de begroting, bedoeld in [artikel 2.169a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.5&artikel=2.169a&z=2026-10-31&g=2026-10-31); en
 
-- f. het vaststellen van het bestuursverslag, bedoeld in [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.3&artikel=2.17&z=2026-01-01&g=2026-01-01), in samenhang met [artikel 2.60j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.1&artikel=2.60j&z=2026-01-01&g=2026-01-01).
+- f. het vaststellen van het bestuursverslag, bedoeld in [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.3&artikel=2.17&z=2026-10-31&g=2026-10-31), in samenhang met [artikel 2.60j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.1&artikel=2.60j&z=2026-10-31&g=2026-10-31).
 
 ##### Artikel 2.60i
 
 1. De volgende besluiten van het bestuur van de RPO behoeven de instemming van de raad van toezicht van de RPO:
 
-- a. de besluiten, bedoeld in het [artikel 2.60h, tweede lid, onder c tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.1&artikel=2.60h&z=2026-01-01&g=2026-01-01);
+- a. de besluiten, bedoeld in het [artikel 2.60h, tweede lid, onder c tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.1&artikel=2.60h&z=2026-10-31&g=2026-10-31);
 
 - b. het doen van investeringen die een in de statuten van de RPO vastgesteld bedrag te boven gaan;
 
@@ -1268,7 +1276,7 @@ De organen van de RPO zijn een raad van toezicht en een bestuur.
 
 ##### Artikel 2.60j
 
-1. De [artikelen 2.15 tot en met 2.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.3&artikel=2.15&z=2026-01-01&g=2026-01-01), zijn van overeenkomstige toepassing voor de RPO.
+1. De [artikelen 2.15 tot en met 2.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.3&artikel=2.15&z=2026-10-31&g=2026-10-31), zijn van overeenkomstige toepassing voor de RPO.
 
 2. De raad van toezicht van de RPO en het bestuur van de RPO kunnen niet besluiten tot ontbinding van de RPO.
 
@@ -1302,7 +1310,7 @@ Voor de verwezenlijking van de publieke mediaopdracht op regionaal niveau wordt 
 
 2. Over het concessiebeleidsplan RPO vraagt Onze Minister advies aan het Commissariaat en de Raad voor cultuur. Bij toepassing van het vierde lid wordt het advies gevraagd na afloop van de termijn, genoemd in dat lid, onder a.
 
-3. Het concessiebeleidsplan RPO behoeft de instemming van Onze Minister voor zover het betreft de onderwerpen, bedoeld in [artikel 2.60l, tweede lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.1&artikel=2.60l&z=2026-01-01&g=2026-01-01), waarbij de instemming geschiedt in overeenstemming met het bepaalde in de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950).
+3. Het concessiebeleidsplan RPO behoeft de instemming van Onze Minister voor zover het betreft de onderwerpen, bedoeld in [artikel 2.60l, tweede lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.1&artikel=2.60l&z=2026-10-31&g=2026-10-31), waarbij de instemming geschiedt in overeenstemming met het bepaalde in de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950).
 
 4. Voor zover de instemming, bedoeld in het derde lid, betrekking heeft op een nieuw of significant gewijzigd aanbodkanaal:
 
@@ -1320,7 +1328,7 @@ Voor de verwezenlijking van de publieke mediaopdracht op regionaal niveau wordt 
 
 ##### Artikel 2.60m1
 
-1. [Artikel 2.60m, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.1&artikel=2.60m&z=2026-01-01&g=2026-01-01), is niet van toepassing, als bij wijze van experiment van beperkte omvang of duur media-aanbod via andere aanbodkanalen dan die, bedoeld in [artikel 2.60l, tweede lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.1&artikel=2.60l&z=2026-01-01&g=2026-01-01), wordt aangeboden. Een experiment dient om te onderzoeken of deze aanbodkanalen een bijdrage kunnen leveren aan de verwezenlijking van de publieke mediaopdracht op regionaal niveau.
+1. [Artikel 2.60m, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.1&artikel=2.60m&z=2026-10-31&g=2026-10-31), is niet van toepassing, als bij wijze van experiment van beperkte omvang of duur media-aanbod via andere aanbodkanalen dan die, bedoeld in [artikel 2.60l, tweede lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.1&artikel=2.60l&z=2026-10-31&g=2026-10-31), wordt aangeboden. Een experiment dient om te onderzoeken of deze aanbodkanalen een bijdrage kunnen leveren aan de verwezenlijking van de publieke mediaopdracht op regionaal niveau.
 
 2. Bij algemene maatregel van bestuur wordt bepaald wanneer sprake is van beperkte omvang of duur en kunnen nadere regels worden gesteld over het uitvoeren van experimenten.
 
@@ -1342,21 +1350,21 @@ Voor de verwezenlijking van de publieke mediaopdracht op regionaal niveau wordt 
 
 De regionale publieke media-instellingen verstrekken desgevraagd aan de raad van toezicht van de RPO, het bestuur van de RPO en de door hem daartoe aangewezen medewerkers van de RPO alle inlichtingen voor zover dat voor de vervulling van de taken van de raad van toezicht van de RPO en het bestuur van de RPO redelijkerwijs nodig is.
 
-#### Paragraaf 2.3.1a. Aanwijzing van regionale of lokale publieke media-instelling
+#### Paragraaf 2.3.2. Aanwijzing van regionale publieke media-instelling
 
 ##### Artikel 2.61
 
-1. Voor de verzorging van de publieke mediadiensten op regionaal en lokaal niveau kan het Commissariaat regionale respectievelijk lokale instellingen als publieke media-instellingen aanwijzen volgens de bepalingen van deze paragraaf.
+1. Voor de verzorging van de publieke mediadiensten op regionaal niveau kan het Commissariaat regionale instellingen als publieke media-instellingen aanwijzen volgens de bepalingen van deze paragraaf.
 
 2. Voor aanwijzing komen slechts in aanmerking instellingen die:
 
 - a. rechtspersoon naar Nederlands recht met volledige rechtsbevoegdheid zijn;
 
-- b. zich volgens de statuten uitsluitend of hoofdzakelijk ten doel stellen het op regionaal respectievelijk lokaal niveau uitvoeren van de publieke mediaopdracht door het verzorgen van media-aanbod dat gericht is op de bevrediging van maatschappelijke behoeften die in een provincie, een gemeente of een deel van de provincie waarop de instelling zich richt leven, en het verrichten van alle activiteiten die nodig zijn om daarmee een publieke taak te vervullen; en
+- b. zich volgens de statuten uitsluitend of hoofdzakelijk ten doel stellen het op regionaal niveau uitvoeren van de publieke mediaopdracht door het verzorgen van media-aanbod dat gericht is op de bevrediging van maatschappelijke behoeften die in een provincie of een deel van de provincie waarop de instelling zich richt leven, en het verrichten van alle activiteiten die nodig zijn om daarmee een publieke taak te vervullen; en
 
-- c. volgens de statuten een orgaan hebben dat het beleid voor het media-aanbod bepaalt en dat representatief is voor de belangrijkste in de desbetreffende provincie of gemeente voorkomende maatschappelijke, culturele, godsdienstige en geestelijke stromingen.
+- c. volgens de statuten een orgaan hebben dat het beleid voor het media-aanbod bepaalt en dat representatief is voor de belangrijkste in de desbetreffende provincie voorkomende maatschappelijke, culturele, godsdienstige en geestelijke stromingen.
 
-3. Aanwijzing geschiedt nadat provinciale staten hebben dan wel de gemeenteraad heeft geadviseerd over de vraag of de instelling aan de eisen, bedoeld in het tweede lid, voldoet.
+3. Aanwijzing geschiedt nadat provinciale staten hebben geadviseerd over de vraag of de instelling aan de eisen, bedoeld in het tweede lid, voldoet.
 
 ##### Artikel 2.62
 
@@ -1366,45 +1374,41 @@ De regionale publieke media-instellingen verstrekken desgevraagd aan de raad van
 
 ##### Artikel 2.63
 
-1. Als meer dan één lokale instelling in een gemeente aan de eisen, bedoeld in [artikel 2.61, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.1a&artikel=2.61&z=2026-01-01&g=2026-01-01), voldoet, bevordert het college van burgemeester en wethouders voor zover dat redelijkerwijs mogelijk is het samengaan van die instellingen.
-
-2. Er kan per gemeente slechts één lokale publieke media-instelling worden aangewezen, waarbij het Commissariaat acht slaat op alle factoren die voor het functioneren van de instelling van belang kunnen zijn.
+*Vervallen*
 
 ##### Artikel 2.64
 
-1. Een instelling die de publieke mediaopdracht wil uitvoeren voor meer dan één provincie of gemeente, wordt alleen dan voor dat gebied aangewezen, als provinciale staten of de gemeenteraden van de desbetreffende provincies of gemeenten het in [artikel 2.61, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.1a&artikel=2.61&z=2026-01-01&g=2026-01-01) bedoelde advies gezamenlijk hebben uitgebracht.
+1. Een instelling die de publieke mediaopdracht wil uitvoeren voor meer dan één provincie, wordt alleen dan voor dat gebied aangewezen, als provinciale staten van de desbetreffende provincies het in [artikel 2.61, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.2&artikel=2.61&z=2026-10-31&g=2026-10-31) bedoelde advies gezamenlijk hebben uitgebracht.
 
-2. Het Commissariaat stelt provinciale staten en de gemeenteraden van de desbetreffende provincies of gemeenten in kennis van een aanvraag van een instelling als bedoeld in het eerste lid.
+2. Het Commissariaat stelt provinciale staten van de desbetreffende provincies in kennis van een aanvraag van een instelling als bedoeld in het eerste lid.
 
 ##### Artikel 2.65
 
-1. Een aanwijzing als regionale publieke media-instelling geschiedt op aanvraag, geldt voor de duur van vijf jaar, die begint met ingang van de concessie, bedoeld in [artikel 2.60k](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.1&artikel=2.60k&z=2026-01-01&g=2026-01-01), dan wel met ingang van het zesde jaar van die concessie, en daarna van rechtswege vervalt.
+1. Een aanwijzing als regionale publieke media-instelling geschiedt op aanvraag, geldt voor de duur van vijf jaar en vervalt daarna van rechtswege.
 
-2. Een aanwijzing als lokale publieke media-instelling geschiedt op aanvraag, geldt voor vijf jaar en vervalt daarna van rechtswege.
-
-3. Zonodig wijst het Commissariaat de dagen waarop en de uren waarin programma-aanbod van regionale en lokale mediadiensten wordt uitgezonden op de voor de regionale dan wel lokale publieke mediadiensten beschikbare ruimte op een omroepzender.
+2. De duur van de aanwijzing begint met ingang van de concessie, bedoeld in [artikel 2.60k](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.1&artikel=2.60k&z=2026-10-31&g=2026-10-31), dan wel met ingang van het zesde jaar van die concessie.
 
 ##### Artikel 2.66
 
-1. Provinciale staten brengen dan wel de gemeenteraad brengt tijdens de aanwijzingsperiode ten minste eenmaal aan het Commissariaat advies uit over de vraag of een aangewezen regionale of lokale publieke media-instelling naar hun of zijn mening nog voldoet aan de eisen van [artikel 2.61, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.1a&artikel=2.61&z=2026-01-01&g=2026-01-01).
+1. Provinciale staten brengen tijdens de aanwijzingsperiode ten minste eenmaal aan het Commissariaat advies uit over de vraag of een aangewezen regionale publieke media-instelling naar hun mening nog voldoet aan de eisen van [artikel 2.61, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.2&artikel=2.61&z=2026-10-31&g=2026-10-31).
 
-2. Als tijdens de aanwijzingsperiode bij het Commissariaat ernstige twijfel bestaat of de regionale of lokale publieke media-instelling nog aan de eisen van [artikel 2.61, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.1a&artikel=2.61&z=2026-01-01&g=2026-01-01), voldoet, kan hij een tussentijds advies vragen.
+2. Als tijdens de aanwijzingsperiode bij het Commissariaat ernstige twijfel bestaat of de regionale publieke media-instelling nog aan de eisen van [artikel 2.61, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.2&artikel=2.61&z=2026-10-31&g=2026-10-31), voldoet, kan hij een tussentijds advies vragen.
 
 ##### Artikel 2.67
 
-1. Het Commissariaat trekt een aanwijzing in, als de desbetreffende regionale of lokale publieke media-instelling niet meer voldoet aan de eisen van [artikel 2.61, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.1a&artikel=2.61&z=2026-01-01&g=2026-01-01).
+1. Het Commissariaat trekt een aanwijzing in, als de desbetreffende regionale publieke media-instelling niet meer voldoet aan de eisen van [artikel 2.61, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.2&artikel=2.61&z=2026-10-31&g=2026-10-31).
 
-2. Het Commissariaat trekt de aanwijzing van een regionale of lokale publieke media-instelling die niet meer voldoet aan [artikel 2.61, tweede lid, onderdelen b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.1a&artikel=2.61&z=2026-01-01&g=2026-01-01), pas in nadat de desbetreffende media-instelling gedurende vier maanden, gerekend van de dag waarop het desbetreffende feit is geconstateerd, in de gelegenheid is gesteld opnieuw aan dit vereiste te voldoen en zij daarin niet is geslaagd.
+2. Het Commissariaat trekt de aanwijzing van een regionale publieke media-instelling die niet meer voldoet aan [artikel 2.61, tweede lid, onderdelen b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.2&artikel=2.61&z=2026-10-31&g=2026-10-31), pas in nadat de desbetreffende media-instelling gedurende vier maanden, gerekend van de dag waarop het desbetreffende feit is geconstateerd, in de gelegenheid is gesteld opnieuw aan dit vereiste te voldoen en zij daarin niet is geslaagd.
 
 ##### Artikel 2.68
 
 1. Een aanwijzing kan door het Commissariaat worden ingetrokken als:
 
-- a. de regionale of lokale publieke media-instelling in een periode van een jaar geen media-aanbod dat voldoet aan de eisen van deze wet heeft verzorgd en dat aanbod gedurende een ononderbroken periode van ten minste twee maanden is verspreid; of
+- a. de regionale publieke media-instelling in een periode van een jaar geen media-aanbod dat voldoet aan de eisen van deze wet heeft verzorgd en dat aanbod gedurende een ononderbroken periode van ten minste twee maanden is verspreid; of
 
-- b. het Commissariaat aan de regionale of lokale publieke media-instelling binnen een periode van een jaar ten minste twee maal een bestuurlijke sanctie als bedoeld in [titel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=7&titeldeel=7.2&z=2026-01-01&g=2026-01-01) heeft opgelegd voor overtreding van het bepaalde bij of krachtens deze wet of [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20).
+- b. het Commissariaat aan de regionale publieke media-instelling binnen een periode van een jaar ten minste twee maal een bestuurlijke sanctie als bedoeld in [titel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=7&titeldeel=7.2&z=2026-10-31&g=2026-10-31) heeft opgelegd voor overtreding van het bepaalde bij of krachtens deze wet of [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20).
 
-2. Het Commissariaat beslist pas over intrekking op grond van het eerste lid, onderdeel a, nadat hij gedeputeerde staten respectievelijk het college van burgemeester en wethouders van de desbetreffende provincie of gemeente in de gelegenheid heeft gesteld binnen een door het Commissariaat te stellen redelijke termijn hun zienswijze te geven.
+2. Het Commissariaat beslist pas over intrekking op grond van het eerste lid, onderdeel a, nadat hij gedeputeerde staten van de desbetreffende provincie in de gelegenheid heeft gesteld binnen een door het Commissariaat te stellen redelijke termijn hun zienswijze te geven.
 
 3. Het uitblijven van een zienswijze binnen de gestelde termijn staat aan het nemen van een beslissing door het Commissariaat niet in de weg.
 
@@ -1416,67 +1420,45 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld over:
 
 - b. de termijn waarbinnen beslissingen op de aanvragen worden genomen;
 
-- c. de termijn waarop adviezen als bedoeld in [artikel 2.61, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.1a&artikel=2.61&z=2026-01-01&g=2026-01-01) worden uitgebracht; en
+- c. de termijn waarop adviezen als bedoeld in [artikel 2.61, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.2&artikel=2.61&z=2026-10-31&g=2026-10-31) worden uitgebracht; en
 
 - d. de termijn waarop beslissingen over aanwijzing of intrekking van een aanwijzing in werking treden.
 
-#### Paragraaf 2.3.2. Media-aanbod van regionale of lokale publieke mediadienst
+#### Paragraaf 2.3.3. Regionaal publiek media-aanbod
 
 ##### Artikel 2.70
 
-Het programma-aanbod van de regionale en lokale publieke mediadienst bestaat per programmakanaal:
+Het media-aanbod van een regionale publieke media-instelling bestaat per programmakanaal voor:
 
-- a. voor ten minste vijftig procent van de duur uit aanbod van informatieve, culturele en educatieve aard dat in het bijzonder betrekking heeft op de provincie respectievelijk gemeente waarvoor het aanbod bestemd is; en
+- a. ten minste vijftig procent uit aanbod dat in het bijzonder betrekking heeft op de provincie of het deel van een provincie waarvoor het aanbod is bestemd; en
 
-- b. voor ten minste uit een bij algemene maatregel van bestuur vast te stellen percentage aanbod als bedoeld in onderdeel a dat door de regionale respectievelijk lokale publieke media-instelling zelf of uitsluitend in haar opdracht is geproduceerd.
+- b. ten minste vijftig procent uit aanbod dat door de regionale publieke media-instelling zelf of uitsluitend in haar opdracht is geproduceerd.
 
 ##### Artikel 2.71
 
-1. Een lokale publieke media-instelling kan met de regionale publieke media-instelling in wier verzorgingsgebied zij werkzaam is een samenwerkingsovereenkomst sluiten.
-
-2. De overeenkomst wordt overgelegd aan het Commissariaat.
-
-3. Bij een samenwerkingsovereenkomst voor de verzorging van programma-aanbod kan in afwijking van [artikel 2.70](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.2&artikel=2.70&z=2026-01-01&g=2026-01-01) het programma-aanbod van de lokale publieke mediadienst:
-
-- a. voor ten minste vijftig procent van de duur bestaan uit aanbod dat in het bijzonder betrekking heeft op de gemeente waarvoor het programma-aanbod bestemd is, of op de provincie waarbinnen die gemeente ligt; en
-
-- b. voor ten minste het percentage, bedoeld in [artikel 2.70, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.2&artikel=2.70&z=2026-01-01&g=2026-01-01), bestaan uit aanbod dat:
-
-   - 1°. geproduceerd is door de lokale publieke media-instelling zelf;
-
-   - 2°. geproduceerd is door de regionale publieke media-instelling waarmee zij de samenwerkingsovereenkomst heeft gesloten; of
-
-   - 3°. uitsluitend in opdracht van een van hen of van hen beiden, is geproduceerd.
-
-4. Bij algemene maatregel van bestuur kan worden bepaald:
-
-- a. dat een gedeelte van het aanbod, bedoeld in het derde lid, onderdeel a, in het bijzonder betrekking heeft op de gemeente waarvoor het programma-aanbod is bestemd; en
-
-- b. dat een gedeelte van het aanbod, bedoeld in het derde lid, onderdeel b, door de lokale publieke media-instelling zelf of uitsluitend in haar opdracht is geproduceerd.
+*Vervallen*
 
 ##### Artikel 2.72
 
 1. Het media-aanbod van de regionale publieke media-instellingen wordt uitsluitend verspreid via:
 
-- a. een aanbodkanaal als bedoeld in [artikel 2.60l, tweede lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.1&artikel=2.60l&z=2026-01-01&g=2026-01-01), waarvoor Onze Minister toestemming heeft verleend als bedoeld in [artikel 2.60m, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.1&artikel=2.60m&z=2026-01-01&g=2026-01-01);
+- a. een aanbodkanaal als bedoeld in [artikel 2.60l, tweede lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.1&artikel=2.60l&z=2026-10-31&g=2026-10-31), waarvoor Onze Minister toestemming heeft verleend als bedoeld in [artikel 2.60m, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.1&artikel=2.60m&z=2026-10-31&g=2026-10-31);
 
-- b. een aanbodkanaal van de landelijke publieke mediadienst; of
+- b. een aanbodkanaal van de landelijke publieke mediadienst.
 
-- c. een aanbodkanaal van een lokale publieke media-instelling in het geval van een samenwerkingsovereenkomst als bedoeld in [artikel 2.71](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.2&artikel=2.71&z=2026-01-01&g=2026-01-01).
-
-2. Het eerste lid, onder a, is niet van toepassing op media-aanbod als bedoeld in [artikel 2.60m1](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.1&artikel=2.60m1&z=2026-01-01&g=2026-01-01).
+2. Het eerste lid, onder a, is niet van toepassing op media-aanbod als bedoeld in [artikel 2.60m1](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.1&artikel=2.60m1&z=2026-10-31&g=2026-10-31).
 
 ##### Artikel 2.73
 
 1. De raad van bestuur kan media-aanbod van een regionale publieke media-instelling dat daarvoor door die media-instelling met voldoende gebruiksrechten beschikbaar is gesteld plaatsen op een aanbodkanaal van de landelijke publieke mediadienst.
 
-2. Op het eerste lid zijn de [artikelen 2.52](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.52&z=2026-01-01&g=2026-01-01), [2.53](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.53&z=2026-01-01&g=2026-01-01), [2.54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.54&z=2026-01-01&g=2026-01-01), [2.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.57&z=2026-01-01&g=2026-01-01), [2.58](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.58&z=2026-01-01&g=2026-01-01), [2.59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.59&z=2026-01-01&g=2026-01-01), en [2.60](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.60&z=2026-01-01&g=2026-01-01) zoveel mogelijk van overeenkomstige toepassing.
+2. Op het eerste lid zijn de [artikelen 2.52](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.52&z=2026-10-31&g=2026-10-31), [2.53](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.53&z=2026-10-31&g=2026-10-31), [2.54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.54&z=2026-10-31&g=2026-10-31), [2.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.57&z=2026-10-31&g=2026-10-31), [2.58](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.58&z=2026-10-31&g=2026-10-31), [2.59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.59&z=2026-10-31&g=2026-10-31), en [2.60](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.60&z=2026-10-31&g=2026-10-31) zoveel mogelijk van overeenkomstige toepassing.
 
 3. Op media-aanbod van een regionale publieke media-instelling dat is geplaatst op een aanbodkanaal van de landelijke publieke mediadienst zijn de regels over reclame- en telewinkelboodschappen voor de landelijke publieke mediadienst van overeenkomstige toepassing.
 
 ##### Artikel 2.74
 
-1. Het aanbodkanaal, bedoeld in [artikel 2.50, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.50&z=2026-01-01&g=2026-01-01), is mede bestemd voor de catch-up van de programma’s op de televisieprogrammakanalen van de regionale publieke mediadienst.
+1. Het aanbodkanaal, bedoeld in [artikel 2.50, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.50&z=2026-10-31&g=2026-10-31), is mede bestemd voor de catch-up van de programma’s op de televisieprogrammakanalen van de regionale publieke mediadienst.
 
 2. Een regionale publieke media-instelling kan voor plaatsing op het aanbodkanaal, bedoeld in het eerste lid, beschikbaar stellen een programma als bedoeld in het eerste lid:
 
@@ -1486,85 +1468,429 @@ Het programma-aanbod van de regionale en lokale publieke mediadienst bestaat per
 
 - c. in overeenstemming met de regels over reclame- en telewinkelboodschappen voor de landelijke publieke mediadienst.
 
-3. In afwijking van [artikel 2.73](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.2&artikel=2.73&z=2026-01-01&g=2026-01-01 jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.2&artikel=2.73&z=2026-01-01&g=2026-01-01), eerste lid, plaatst de raad van bestuur een programma dat tijdig beschikbaar is gesteld met toepassing van het tweede lid op het aanbodkanaal, bedoeld in het eerste lid.
+3. In afwijking van [artikel 2.73](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.3&artikel=2.73&z=2026-10-31&g=2026-10-31), eerste lid, plaatst de raad van bestuur een programma dat tijdig beschikbaar is gesteld met toepassing van het tweede lid op het aanbodkanaal, bedoeld in het eerste lid.
 
-4. In afwijking van [artikel 2.73, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.2&artikel=2.73&z=2026-01-01&g=2026-01-01 jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.2&artikel=2.73&z=2026-01-01&g=2026-01-01), is op het derde lid uitsluitend [artikel 2.59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.59&z=2026-01-01&g=2026-01-01), zoveel mogelijk van overeenkomstige toepassing.
+4. In afwijking van [artikel 2.73, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.3&artikel=2.73&z=2026-10-31&g=2026-10-31), is op het derde lid uitsluitend [artikel 2.59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.59&z=2026-10-31&g=2026-10-31), zoveel mogelijk van overeenkomstige toepassing.
 
-### Titel 2.4. Wereldomroep
+### Titel 2.4. Lokale publieke mediadienst
 
-#### Paragraaf 2.4.1. Taken
-
-##### Artikel 2.72
-
-*Vervallen*
-
-#### Paragraaf 2.4.2. Organisatie
-
-##### Artikel 2.73
-
-*Vervallen*
-
-##### Artikel 2.74
-
-*Vervallen*
+#### Paragraaf 2.4.1. Stichting Nederlandse Lokale Publieke Omroepen
 
 ##### Artikel 2.75
 
-*Vervallen*
+1. Onze Minister wijst een stichting aan als het samenwerkings- en coördinatieorgaan voor de uitvoering van de publieke mediaopdracht op lokaal niveau, bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.1&artikel=2.1&z=2026-10-31&g=2026-10-31).
+
+2. De stichting, bedoeld in het eerste lid, wordt voor de toepassing van deze wet aangeduid als de NLPO.
+
+3. De NLPO wordt belast met de volgende taken:
+
+- a. het bevorderen van samenwerking en coördinatie met het oog op de uitvoering van de publieke mediaopdracht op lokaal niveau;
+
+- b. het behartigen van zaken die van gemeenschappelijk belang zijn voor de lokale publieke mediadienst;
+
+- c. het sluiten van collectieve arbeidsovereenkomsten en het overeenkomen van normen voor de honorering van freelancers, mede in naam van de lokale publieke media-instellingen;
+
+- d. het bevorderen van een doelmatige inzet van de gelden die bestemd zijn voor de verzorging en verspreiding van het media-aanbod van de lokale publieke media-instellingen en het bevorderen van geïntegreerde financiële verslaglegging en verantwoording;
+
+- e. het inrichten, in stand houden, beheren, exploiteren en regelen van het gebruik van organen, diensten en faciliteiten, waaronder studio’s en distributie-infrastructuren, die nodig zijn voor een goede uitvoering van de publieke mediaopdracht op lokaal niveau; en
+
+- f. andere taken waarmee zij bij de wet wordt belast.
 
 ##### Artikel 2.76
 
-*Vervallen*
+De organen van de NLPO zijn een raad van toezicht, een bestuur en een college van omroepen.
 
 ##### Artikel 2.77
 
-*Vervallen*
+1. De raad van toezicht van de NLPO bestaat uit een voorzitter en ten hoogste vier andere leden die op voordracht van Onze Minister bij koninklijk besluit worden benoemd, geschorst en ontslagen.
+
+2. Bij een vacature stelt de raad van toezicht profielschetsen voor de vacature en voor de raad als geheel op waarover hij in ieder geval het bestuur van de NLPO en het college van omroepen in de gelegenheid stelt binnen een redelijke termijn zienswijzen te geven.
+
+3. Na betrekking van de zienswijzen stelt de raad van toezicht de profielschetsen vast en maakt deze openbaar.
+
+4. Voor de selectie van kandidaten stelt de raad van toezicht een onafhankelijke benoemingsadviescommissie in. De benoemingsadviescommissie adviseert de raad van toezicht.
+
+5. De raad van toezicht geeft een zwaarwegend advies aan Onze Minister voor de voordracht, bedoeld in het eerste lid.
+
+6. Het advies, bedoeld in het vijfde lid, is gemotiveerd, waarbij in elk geval wordt ingegaan op de geschiktheid, de profielschetsen, de positie van de kandidaat in het rooster van aftreden en de procedure die heeft geleid tot het advies.
+
+7. Onze Minister neemt het advies over, tenzij het in strijd is met:
+
+- a. deze wet;
+
+- b. eisen van zorgvuldigheid; of
+
+- c. andere zwaarwegende belangen.
+
+8. Indien Onze Minister het advies niet overneemt, verzoekt hij onder opgave van een schriftelijke motivering de raad van toezicht ervoor te zorgen dat tot een nieuw advies wordt gekomen en informeert hij de Tweede Kamer dat een advies niet is overgenomen en de grond hiervoor.
+
+9. Ten behoeve van de ondersteuning bij het opstellen van de profielschetsen door de raad van toezicht en de selectie van kandidaten door de benoemingsadviescommissie, schakelt de raad van toezicht een wervingsadviesbureau in.
+
+10. Het college van omroepen kan voor benoeming van een van de andere leden, bedoeld in het eerste lid, personen aanbevelen aan de benoemingsadviescommissie.
+
+11. Benoeming geschiedt voor vijf jaar en herbenoeming voor een aansluitende periode is eenmaal mogelijk.
 
 ##### Artikel 2.78
 
-*Vervallen*
+1. Het lidmaatschap van de raad van toezicht van de NLPO is onverenigbaar met:
+
+- a. het lidmaatschap van het bestuur van de NLPO;
+
+- b. het lidmaatschap van het college van omroepen van de NLPO;
+
+- c. het lidmaatschap van een orgaan van of een dienstbetrekking bij een publieke media-instelling, de NPO of de RPO;
+
+- d. het lidmaatschap van een orgaan van of een dienstbetrekking bij een commerciële media-instelling;
+
+- e. het lidmaatschap van een van beide Kamers der Staten-Generaal, een provinciaal bestuur, een gemeentebestuur of een waterschapsbestuur;
+
+- f. een dienstbetrekking bij een ministerie of bij een dienst, instelling of bedrijf vallende onder de verantwoordelijkheid van een Minister; en
+
+- g. het hebben van financiële of andere belangen bij bedrijven of instellingen of het vervullen van nevenfuncties waardoor een goede vervulling van de functie of de handhaving van de onafhankelijkheid van het betrokken lid of van het vertrouwen daarin in het geding kan zijn.
+
+2. Schorsing en ontslag zijn mogelijk wegens:
+
+- a. ongeschiktheid;
+
+- b. disfunctioneren; of
+
+- c. onverenigbaarheid als bedoeld in het eerste lid.
+
+3. Ontslag is verder mogelijk op eigen verzoek.
+
+4. De leden van de raad van toezicht van de NLPO ontvangen van de NLPO een door Onze Minister vast te stellen vergoeding.
 
 ##### Artikel 2.79
 
-*Vervallen*
+1. De raad van toezicht van de NLPO houdt toezicht op het beleid van het bestuur van de NLPO, de algemene gang van zaken bij de NLPO en staat het bestuur van de NLPO met advies terzijde.
+
+2. De raad van toezicht van de NLPO is verder belast met:
+
+- a. het vaststellen van de jaarrekening van de NLPO; en
+
+- b. het wijzigen van de statuten van de NLPO, op voorstel van het bestuur van de NLPO.
+
+3. Bij de vervulling van hun taak richten de leden van de raad van toezicht van de NLPO zich naar het gemeenschappelijke belang van de uitvoering van de publieke mediaopdracht op lokaal niveau.
+
+4. De raad van toezicht stelt een rooster van aftreden voor zijn leden op waarin wordt voorzien dat de leden niet allen gelijktijdig aftreden.
 
 ##### Artikel 2.80
 
-*Vervallen*
+1. Het bestuur van de NLPO bestaat uit ten hoogste drie leden die worden benoemd, geschorst en ontslagen door de raad van toezicht van de NLPO.
 
-#### Paragraaf 2.4.3. Informatie, jaarverslag en statuten
+2. Benoeming geschiedt voor vijf jaar en herbenoeming voor een aansluitende periode is eenmaal mogelijk.
 
 ##### Artikel 2.81
 
-*Vervallen*
+1. Voor het bestuur van de NLPO is [artikel 2.78, eerste lid, onder b tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.1&artikel=2.78&z=2026-10-31&g=2026-10-31), van overeenkomstige toepassing.
+
+2. De leden van het bestuur van de NLPO zijn in dienst van de NLPO. De raad van toezicht van de NLPO stelt hun arbeidsvoorwaarden vast.
+
+3. [Artikel 668a, eerste tot en met vierde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=668a) is niet van toepassing op de leden van het bestuur van de NLPO.
+
+4. Een lid van het bestuur van de NLPO kan niet na beëindiging van dat lidmaatschap voor een aansluitende periode worden benoemd als lid van de raad van toezicht van de NLPO.
 
 ##### Artikel 2.82
 
-*Vervallen*
+1. Het bestuur van de NLPO is belast met de uitvoering van de taken van de NLPO.
+
+2. Naast de andere taken en bevoegdheden die het bestuur van de NLPO heeft op grond van deze wet, is hij belast met:
+
+- a. de dagelijkse leiding over de werkzaamheden van de NLPO;
+
+- b. het vaststellen van het concessiebeleidsplan NLPO;
+
+- c. het aangaan van de prestatieovereenkomst, bedoeld in [artikel 2.87g](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.1&artikel=2.87g&z=2026-10-31&g=2026-10-31);
+
+- d. het vaststellen van de begroting, bedoeld in [artikel 2.170b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.5a&artikel=2.170b&z=2026-10-31&g=2026-10-31); en
+
+- e. het vaststellen van het bestuursverslag.
 
 ##### Artikel 2.83
 
-*Vervallen*
+De volgende besluiten van het bestuur van de NLPO behoeven de instemming van de raad van toezicht van de NLPO:
 
-#### Paragraaf 2.4.4. Beleidsplan en prestatieovereenkomst
+- a. de besluiten, bedoeld in [artikel 2.82, tweede lid, onderdelen b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.1&artikel=2.82&z=2026-10-31&g=2026-10-31);
+
+- b. het doen van investeringen die een in de statuten van de NLPO vastgesteld bedrag te boven gaan;
+
+- c. het door de NLPO aangaan of verbreken van duurzame samenwerking met een andere rechtspersoon of vennootschap als die samenwerking van ingrijpende betekenis is voor de NLPO of de lokale publieke media-instellingen;
+
+- d. collectief ontslag van een aanmerkelijk aantal werknemers; en
+
+- e. het vaststellen van ingrijpende wijzigingen in de arbeidsomstandigheden van een aanmerkelijk aantal werknemers.
 
 ##### Artikel 2.84
 
-*Vervallen*
+1. Het college van omroepen van de NLPO bestaat uit ten minste vijf en ten hoogste zeven leden die op voordracht van het college van omroepen van de NLPO en de lokale publieke media-instellingen door de raad van toezicht van de NLPO worden benoemd, geschorst en ontslagen.
+
+2. Benoeming gebeurt voor vijf jaar en herbenoeming voor een aansluitende periode is eenmaal mogelijk.
+
+3. De leden wijzen uit hun midden de voorzitter aan.
 
 ##### Artikel 2.85
 
-*Vervallen*
+1. Het college van omroepen van de NLPO vertegenwoordigt de lokale publieke media-instellingen bij de NLPO.
+
+2. Het college van omroepen van de NLPO is zodanig samengesteld dat de lokale publieke media-instellingen representatief worden vertegenwoordigd, met inachtneming van hun verscheidenheid in elk geval naar omvang en geografische ligging.
 
 ##### Artikel 2.86
 
-*Vervallen*
+1. Het college van omroepen van de NLPO adviseert de raad van toezicht van de NLPO en het bestuur van de NLPO desgevraagd of uit eigen beweging over het beleid inzake het media-aanbod van de lokale publieke mediadienst.
 
-#### Paragraaf 2.4.5. Media-aanbod
+2. Het college van omroepen van de NLPO adviseert in elk geval over de besluiten van de NLPO die de instemming behoeven van de raad van toezicht van de NLPO.
 
 ##### Artikel 2.87
 
-*Vervallen*
+1. De NLPO verstrekt Onze Minister desgevraagd alle inlichtingen met betrekking tot de werkzaamheden van de NLPO.
+
+2. Onze Minister kan inzage verlangen in zakelijke gegevens en bescheiden van de NLPO voor zover dat voor de vervulling van zijn taak nodig is.
+
+##### Artikel 2.87a
+
+1. De NLPO stelt jaarlijks vóór 1 juni een bestuursverslag over het afgelopen kalenderjaar vast.
+
+2. In het bestuursverslag wordt aandacht besteed aan de werkzaamheden van de NLPO, het gevoerde beleid in het algemeen en de doelmatigheid en doeltreffendheid van de werkwijze in het bijzonder.
+
+3. De NLPO zendt het verslag aan Onze Minister en maakt het openbaar.
+
+##### Artikel 2.87b
+
+1. Wijzigingen in de statuten van de NLPO behoeven de instemming van Onze Minister.
+
+2. De raad van toezicht van de NLPO en het bestuur van de NLPO kunnen niet besluiten tot ontbinding van de NLPO.
+
+##### Artikel 2.87c
+
+De verdere werkwijze van de raad van toezicht van de NLPO, het bestuur van de NLPO en het college van omroepen van de NLPO wordt geregeld in de statuten en reglementen van de NLPO.
+
+##### Artikel 2.87d
+
+Voor de verwezenlijking van de publieke mediaopdracht op lokaal niveau wordt bij koninklijk besluit aan de NLPO een concessie verleend die geldt voor tien jaar en in werking treedt met ingang van een in het koninklijk besluit te bepalen tijdstip.
+
+##### Artikel 2.87e
+
+1. Voorafgaand aan de concessieverlening en vóór aanvang van de tweede periode van vijf jaar van de concessieperiode dient de NLPO een concessiebeleidsplan NLPO voor de komende vijf jaar in bij Onze Minister.
+
+2. Het concessiebeleidsplan NLPO bevat in elk geval:
+
+- a. een beschrijving van de wijze waarop in de komende vijf jaar de publieke mediaopdracht op lokaal niveau wordt uitgevoerd, tevens uitgewerkt in kwantitatieve en kwalitatieve doelstellingen voor het media-aanbod en het publieksbereik van de lokale publieke mediadienst;
+
+- b. een onderbouwd overzicht van de naar verwachting benodigde organisatorische, personele, materiële en financiële middelen; en
+
+- c. een beschrijving van de samenwerking met de landelijke en regionale publieke media-instellingen en anderen.
+
+3. Onze Minister kan bij ministeriële regeling regels stellen over de inrichting van het concessiebeleidsplan NLPO en het tijdstip van indiening.
+
+4. De NLPO stelt het concessiebeleidsplan NLPO, voor zover het de samenwerking betreft, vast na overleg met de betrokken landelijke en regionale publieke media-instellingen.
+
+##### Artikel 2.87f
+
+1. De NLPO maakt het concessiebeleidsplan NLPO openbaar.
+
+2. Over het concessiebeleidsplan NLPO vraagt Onze Minister advies aan het Commissariaat en de Raad voor cultuur. Het advies van het Commissariaat heeft in elk geval betrekking op de wijze waarop het concessiebeleidsplan NLPO bijdraagt aan de uitvoering van de publieke mediaopdracht op lokaal niveau en op de onderbouwing van de daarin gemaakte keuzes.
+
+##### Artikel 2.87g
+
+1. Mede op basis van het concessiebeleidsplan NLPO sluiten Onze Minister en de NLPO een prestatieovereenkomst voor de duur van het concessiebeleidsplan NLPO.
+
+2. De prestatieovereenkomst bevat afspraken over:
+
+- a. de inzet van de NLPO ten behoeve van het media-aanbod van de lokale publieke media-instellingen;
+
+- b. de rapportage over de inzet, bedoeld in onderdeel a, alsmede de maatregelen bij niet naleving van de over die inzet gemaakte afspraken; en
+
+- c. tussentijdse wijziging in verband met veranderende inzichten of omstandigheden.
+
+3. De prestatieovereenkomst heeft geen betrekking op de inhoud van het media-aanbod van de lokale publieke media-instellingen.
+
+#### Paragraaf 2.4.2. Lokale verzorgingsgebieden
+
+##### Artikel 2.87h
+
+1. Nederland is ingedeeld in lokale verzorgingsgebieden.
+
+2. Gemeenten in een lokaal verzorgingsgebied zijn onderling nabijgelegen.
+
+3. Een lokaal verzorgingsgebied is wat betreft de oppervlakte of het aantal inwoners aanmerkelijk kleiner dan de provincie of elk van de provincies waarmee het lokale verzorgingsgebied grondgebied deelt.
+
+4. Een lokaal verzorgingsgebied is zoveel mogelijk een gebied dat een kenbare identiteit heeft of waarbinnen het algemene leefpatroon van de inwoners zich in belangrijke mate afspeelt.
+
+5. Bij algemene maatregel van bestuur worden het maximumaantal en de indeling in lokale verzorgingsgebieden vastgesteld, waarbij het maximumaantal lokale verzorgingsgebieden uitsluitend voorafgaand aan iedere concessie, bedoeld in [artikel 2.87d](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.1&artikel=2.87d&z=2026-10-31&g=2026-10-31), voor de duur van die concessie kan worden vastgesteld. De voordracht voor een wijziging van deze algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.
+
+#### Paragraaf 2.4.3. Aanwijzing van lokale publieke media-instelling
+
+##### Artikel 2.87i
+
+1. Voor de verzorging van publieke mediadiensten op lokaal niveau kan het Commissariaat instellingen als lokale publieke media-instelling aanwijzen volgens de bepalingen van deze paragraaf.
+
+2. Per lokaal verzorgingsgebied kan één lokale publieke media-instelling worden aangewezen.
+
+##### Artikel 2.87j
+
+1. Een aanwijzing als lokale publieke media-instelling geldt vijf jaar en vervalt daarna van rechtswege.
+
+2. De aanwijzing begint met ingang van de concessie, bedoeld in [artikel 2.87d](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.1&artikel=2.87d&z=2026-10-31&g=2026-10-31), dan wel met ingang van het zesde jaar van die concessie.
+
+3. In geval van intrekking van een aanwijzing kan het Commissariaat, in afwijking van het eerste en tweede lid, voor de resterende duur van de vijf jaar, bedoeld in het eerste lid, voor hetzelfde lokale verzorgingsgebied een lokale publieke media-instelling aanwijzen.
+
+##### Artikel 2.87k
+
+1. Aanwijzing gebeurt op aanvraag.
+
+2. Voor aanwijzing gelden de criteria die zijn opgenomen in de [artikelen 2.87l tot en met 2.87o](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.3&artikel=2.87l&z=2026-10-31&g=2026-10-31).
+
+3. Als er meer dan één aanvraag is voor hetzelfde lokale verzorgingsgebied, beslist het Commissariaat na onderlinge afweging van de aanvragen.
+
+##### Artikel 2.87l
+
+De instelling heeft statuten die bepalen dat de instelling:
+
+- a. rechtspersoon is naar Nederlands recht, met volledige rechtsbevoegdheid;
+
+- b. zich uitsluitend of hoofdzakelijk ten doel stelt het op lokaal niveau uitvoeren van de publieke mediaopdracht door het verzorgen van media-aanbod dat gericht is op de bevrediging van maatschappelijke behoeften die leven in het lokale verzorgingsgebied waarop de instelling zich richt, en het verrichten van alle activiteiten die nodig zijn om daarmee een publieke taak te vervullen; en
+
+- c. een programmabeleid bepalend orgaan heeft.
+
+##### Artikel 2.87m
+
+1.De instelling heeft een orgaan dat het beleid voor het media-aanbod van de instelling bepaalt. Dit orgaan wordt programmabeleid bepalend orgaan genoemd.
+
+- 2. Het programmabeleid bepalend orgaan:
+
+   - a. is representatief voor de belangrijkste maatschappelijke, culturele, godsdienstige en geestelijke stromingen die in het lokale verzorgingsgebied voorkomen;
+
+   - b. is een afzonderlijk orgaan van de instelling; en
+
+   - c. bestaat uit ten minste vijf leden, onder wie de voorzitter en per gemeente die deel uitmaakt van het lokale verzorgingsgebied waar het media-aanbod van de instelling zich op richt minimaal één lid.
+
+##### Artikel 2.87n
+
+1. De instelling heeft een beleidsplan dat is afgestemd op het concessiebeleidsplan NLPO voor dezelfde periode. Het beleidsplan heeft betrekking op de uitvoering van de publieke mediaopdracht op lokaal niveau, met bijzondere aandacht voor journalistieke inhoud, in iedere gemeente van het lokale verzorgingsgebied.
+
+2. Het beleidsplan bevat in elk geval:
+
+- a. de voorgenomen aanbodkanalen;
+
+- b. het voorgenomen beleid ten aanzien van het media-aanbod;
+
+- c. de voornemens en afspraken over samenwerkingen binnen het publieke mediabestel;
+
+- d. de voornemens over het bedienen van de geografische en sociaal-culturele verscheidenheid binnen het lokale verzorgingsgebied;
+
+- e. de voornemens over de zichtbaarheid en vindbaarheid van het media-aanbod binnen het lokale verzorgingsgebied; en
+
+- f. de voornemens en afspraken over de inzet van vrijwilligers en over samenwerking met partners in het lokale verzorgingsgebied.
+
+##### Artikel 2.87o
+
+De instelling heeft een begroting voor de periode van het beleidsplan waarin in elk geval zijn opgenomen:
+
+- a. een overzicht van de baten en lasten in verband met de uitvoering van het beleidsplan; en
+
+- b. een toelichting.
+
+##### Artikel 2.87p
+
+1. Over de aanvragen van instellingen die voldoen aan [artikel 2.87l](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.3&artikel=2.87l&z=2026-10-31&g=2026-10-31), vraagt het Commissariaat advies aan de NLPO en de gemeenteraad van de gemeente of de gemeenteraden van de gemeenten binnen het lokale verzorgingsgebied.
+
+2. De NLPO adviseert over een aanvraag aan de hand van de criteria, bedoeld in de [artikelen 2.87n, eerste en tweede lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.3&artikel=2.87n&z=2026-10-31&g=2026-10-31), en [2.87o](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.3&artikel=2.87o&z=2026-10-31&g=2026-10-31).
+
+3. De gemeenteraad adviseert over een aanvraag aan de hand van de criteria, bedoeld in de [artikelen 2.87m](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.3&artikel=2.87m&z=2026-10-31&g=2026-10-31) en [2.87n, tweede lid, onderdelen d tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.3&artikel=2.87n&z=2026-10-31&g=2026-10-31). Het advies heeft geen betrekking op de inhoud van het media-aanbod.
+
+4. Als advies wordt gevraagd over meer dan één aanvraag voor hetzelfde lokale verzorgingsgebied brengen de NLPO en de gemeenteraad of gemeenteraden in hun adviezen per criterium een rangorde aan van de geschiktheid van de aanvragen.
+
+5. In het geval van adviezen van meer dan één gemeenteraad in het kader van één aanwijzing wordt door het Commissariaat aan elk advies per criterium gewicht toegekend naar rato van het aantal leden van elke gemeenteraad, met toepassing van [artikel 8, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=8).
+
+##### Artikel 2.87q
+
+1. Het Commissariaat wijst een aanvraag af als de weging, bedoeld in [artikel 2.87k, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.3&artikel=2.87k&z=2026-10-31&g=2026-10-31), uitvalt ten gunste van een andere aanvraag voor dezelfde aanwijzing.
+
+2. Het Commissariaat kan een aanvraag afwijzen als:
+
+- a. de instelling niet voldoet aan de vereisten, bedoeld in [artikel 2.87l](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.3&artikel=2.87l&z=2026-10-31&g=2026-10-31);
+
+- b. de instelling in onvoldoende mate voldoet aan ten minste één van de criteria waarover de NLPO dan wel de gemeenteraad of gemeenteraden om advies wordt gevraagd; of
+
+- c. uit de aanvraag overigens blijkt dat het door de instelling te verzorgen media-aanbod in onvoldoende mate voldoet aan de daaraan bij of krachtens deze wet gestelde eisen.
+
+3. Het Commissariaat kan een aanvraag verder afwijzen als er mede gelet op de handelwijze van de instelling in een voorafgaande periode waarin zij een aanwijzing heeft gehad gegronde reden bestaat om aan te nemen dat de instelling zich niet zal houden aan het bepaalde bij of krachtens deze wet.
+
+##### Artikel 2.87r
+
+Als tijdens de aanwijzingsperiode bij het Commissariaat ernstige twijfel bestaat of een lokale publieke media-instelling nog voldoet aan de vereisten, bedoeld in [artikel 2.87m](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.3&artikel=2.87m&z=2026-10-31&g=2026-10-31), kan het Commissariaat daarover tussentijds advies vragen aan de desbetreffende gemeenteraad of gemeenteraden.
+
+##### Artikel 2.87s
+
+1. Het Commissariaat kan een aanwijzing intrekken, als de lokale publieke media-instelling niet meer voldoet aan de vereisten, bedoeld in de [artikelen 2.87l](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.3&artikel=2.87l&z=2026-10-31&g=2026-10-31) of [2.87m](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.3&artikel=2.87m&z=2026-10-31&g=2026-10-31).
+
+2. Het Commissariaat kan een aanwijzing verder intrekken als:
+
+- a. de lokale publieke media-instelling gedurende een aaneengesloten periode van ten minste twee maanden geen media-aanbod heeft verzorgd dat voldoet aan de eisen van deze wet; of
+
+- b. het Commissariaat aan de lokale publieke media-instelling binnen een periode van een jaar twee maal een bestuurlijke sanctie als bedoeld in [titel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=7&titeldeel=7.2&z=2026-10-31&g=2026-10-31) heeft opgelegd.
+
+3. Voor zover geen toepassing is gegeven aan het tweede lid, onderdeel b, trekt het Commissariaat een aanwijzing in als het Commissariaat aan de lokale publieke media-instelling binnen een periode van een jaar drie maal een bestuurlijke sanctie als bedoeld in [titel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=7&titeldeel=7.2&z=2026-10-31&g=2026-10-31) heeft opgelegd.
+
+4. Het Commissariaat vraagt de NLPO en het college van burgemeester en wethouders van de gemeente of gemeenten binnen het lokale verzorgingsgebied om een zienswijze over een voorgenomen intrekking als bedoeld in het tweede lid.
+
+##### Artikel 2.87s1
+
+1. Het Commissariaat kan op aanvraag van een lokale publieke media-instelling de aanwijzing, bedoeld in [artikel 2.87i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.3&artikel=2.87i&z=2026-10-31&g=2026-10-31), herzien.
+
+2. De herziening, bedoeld in het eerste lid, heeft uitsluitend betrekking op uitbreiding van het beleidsplan en overeenkomstige verruiming van de begroting bij het beleidsplan.
+
+3. De lokale publieke media-instelling dient een herzieningsaanvraag in bij het Commissariaat voor 1 september van het kalenderjaar dat voorafgaat aan het kalenderjaar waarin de herziening in werking treedt.
+
+4. Het Commissariaat stelt de NLPO en de gemeenteraad van de gemeente of de gemeenteraden van de gemeenten binnen het betreffende lokale verzorgingsgebied in staat binnen zes weken na indiening van de herzieningsaanvraag een zienswijze naar voren te brengen over de herzieningsaanvraag.
+
+5. Bij het besluit op de herzieningsaanvraag, bedoeld in het eerste lid, slaat het Commissariaat mede acht op de naar voren gebrachte zienswijzen.
+
+6. Het Commissariaat besluit voor 1 januari van het kalenderjaar waarin de herziening in werking treedt, op de herzieningsaanvraag.
+
+##### Artikel 2.87t
+
+Ten behoeve van het bepaalde in deze paragraaf, voor zover dit betrekking heeft op het programmabeleid bepalend orgaan, kunnen het Commissariaat en de desbetreffende gemeenteraad of gemeenteraden de volgende bijzondere persoonsgegevens, bedoeld in artikel 9 van de Algemene verordening gegevensbescherming, verwerken: persoonsgegevens waaruit ras of etnische afkomst, politieke opvattingen, religieuze of levensbeschouwelijke overtuigingen of het lidmaatschap van een vakbond blijken of gegevens over gezondheid, of gegevens met betrekking tot iemands seksueel gedrag of seksuele gerichtheid.
+
+##### Artikel 2.87u
+
+1. Bij ministeriële regeling worden regels gesteld over de gegevens of bescheiden die in elk geval bij een aanvraag voor aanwijzing als lokale publieke media-instelling worden gevoegd.
+
+2. Bij ministeriële regeling worden regels gesteld over het aanvraagtijdvak voor een aanwijzing als lokale publieke media-instelling, alsmede de advies- en beslistermijnen ter zake.
+
+3. Bij ministeriële regeling kunnen regels worden gesteld over de overige advies-, beslis- en zienswijzetermijnen in deze paragraaf.
+
+4. Bij algemene maatregel van bestuur worden regels gesteld over de verwerking van bijzondere persoonsgegevens, bedoeld in [artikel 2.87t](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.3&artikel=2.87t&z=2026-10-31&g=2026-10-31), en over passende en specifieke maatregelen ter bescherming van de grondrechten en fundamentele belangen van de betrokkenen, waaronder in elk geval:
+
+- a. een verbod op verdere verwerking van bijzondere persoonsgegevens;
+
+- b. maximale bewaartermijnen; en
+
+- c. een verbod op het delen van de bijzondere persoonsgegevens met derden.
+
+##### Artikel 2.87v
+
+1. Het Commissariaat kan regels stellen over de wijze waarop per criterium een rangorde als bedoeld in [artikel 2.87p, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.3&artikel=2.87p&z=2026-10-31&g=2026-10-31), wordt aangegeven.
+
+2. Het Commissariaat kan regels stellen over de wijze waarop de adviezen van de NLPO en de gemeenteraad of gemeenteraden worden verstrekt.
+
+#### Paragraaf 2.4.4. Overige bepalingen over lokale publieke mediadienst
+
+##### Artikel 2.87w
+
+Het programmabeleid bepalend orgaan stelt een reglement vast over samenstelling en werkwijze. Het reglement geeft in elk geval voorschriften over functies die onverenigbaar zijn met het lidmaatschap van het programmabeleid bepalend orgaan.
+
+##### Artikel 2.87x
+
+Het media-aanbod van een lokale publieke media-instelling bestaat per programmakanaal voor:
+
+- a. ten minste vijftig procent uit aanbod dat in het bijzonder betrekking heeft op het lokale verzorgingsgebied waarvoor het aanbod is bestemd; en
+
+- b. ten minste vijftig procent uit aanbod dat door de lokale publieke media-instelling zelf of uitsluitend in haar opdracht is geproduceerd.
+
+##### Artikel 2.87y
+
+Een lokale publieke media-instelling verstrekt desgevraagd aan de raad van toezicht van de NLPO, het bestuur van de NLPO en de door hem aangewezen medewerkers dan wel door hem ingestelde commissies alle inlichtingen voor zover dat voor de vervulling van de taken van de raad van toezicht van de NLPO en het bestuur van de NLPO redelijkerwijs nodig is.
 
 ### Titel 2.5. Nadere voorschriften media-aanbod publieke mediadiensten
 
@@ -1582,7 +1908,7 @@ Het programma-aanbod van de regionale en lokale publieke mediadienst bestaat per
 
 - b. waarborgen voor redactionele onafhankelijkheid ten opzichte van adverteerders, sponsors en anderen die bijdragen hebben verstrekt voor de totstandkoming van media-aanbod.
 
-4. De NTR en omroeporganisaties, waaraan omroepverenigingen die een voorlopige erkenning als bedoeld in [artikel 2.23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-01-01&g=2026-01-01), hebben verkregen, de verzorging van hun media-aanbod hebben opgedragen, dragen ervoor zorg dat de verantwoordelijkheid van die omroepverenigingen in de samenwerking is gewaarborgd.
+4. De NTR en omroeporganisaties, waaraan omroepverenigingen die een voorlopige erkenning als bedoeld in [artikel 2.23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-10-31&g=2026-10-31), hebben verkregen, de verzorging van hun media-aanbod hebben opgedragen, dragen ervoor zorg dat de verantwoordelijkheid van die omroepverenigingen in de samenwerking is gewaarborgd.
 
 5. Een publieke media-instelling neemt passende maatregelen om te voorkomen dat het aanbod van haar mediadiensten aanzet tot geweld of haat jegens een groep personen of een lid van een groep, op een van de gronden genoemd in artikel 21 van het Handvest van de grondrechten van de Europese Unie, of uitlokt tot het plegen van een terroristisch misdrijf.
 
@@ -1598,7 +1924,7 @@ Publieke media-instellingen stellen ten minste de volgende gegevens van de media
 
 - c. contactgegevens waaronder e-mailadres of internetadres; en
 
-- d. de naam van het Commissariaat als het orgaan dat is belast met het toezicht op de naleving op grond van [titel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=7&titeldeel=7.2&z=2026-01-01&g=2026-01-01).
+- d. de naam van het Commissariaat als het orgaan dat is belast met het toezicht op de naleving op grond van [titel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=7&titeldeel=7.2&z=2026-10-31&g=2026-10-31).
 
 ##### Artikel 2.88b
 
@@ -1628,7 +1954,7 @@ Publieke media-instellingen stellen ten minste de volgende gegevens van de media
 
 ##### Artikel 2.90
 
-Behoudens toestemming van het Commissariaat bevat het media-aanbod van de publieke mediadiensten geen oproepen in het kader van ledenwerving, andere verenigingsactiviteiten of nevenactiviteiten als bedoeld in [afdeling 2.5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.6&z=2026-01-01&g=2026-01-01).
+Behoudens toestemming van het Commissariaat bevat het media-aanbod van de publieke mediadiensten geen oproepen in het kader van ledenwerving, andere verenigingsactiviteiten of nevenactiviteiten als bedoeld in [afdeling 2.5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.6&z=2026-10-31&g=2026-10-31).
 
 ##### Artikel 2.91
 
@@ -1646,7 +1972,7 @@ Behoudens toestemming van het Commissariaat bevat het media-aanbod van de publie
 
 ##### Artikel 2.93
 
-Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de wijze waarop inzicht wordt gegeven in de financiën die betrekking hebben op de verzorging van reclame- en telewinkelboodschappen in het media-aanbod van de regionale en lokale publieke mediadiensten.
+*Vervallen*
 
 #### Paragraaf 2.5.2.2. Specifieke voorschriften
 
@@ -1688,7 +2014,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ove
 
 - b. op zondagen niet direct vooraf gaan aan of direct aansluiten op programma’s van kerkelijke of geestelijke aard, tenzij de instelling die voor de inhoud van zodanig programma verantwoordelijk is daartegen geen bezwaar heeft gemaakt; en
 
-- c. niet in programma’s worden opgenomen, behoudens het bepaalde in [artikel 2.97](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.2&paragraaf=2.5.2.2&artikel=2.97&z=2026-01-01&g=2026-01-01).
+- c. niet in programma’s worden opgenomen, behoudens het bepaalde in [artikel 2.97](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.2&paragraaf=2.5.2.2&artikel=2.97&z=2026-10-31&g=2026-10-31).
 
 2. Telewinkelboodschappen in het programma-aanbod duren elk ten hoogste één minuut en een blok als bedoeld in het eerste lid, onderdeel a, bestaat voor ten hoogste tweederde van de duur uit telewinkelboodschappen.
 
@@ -1714,7 +2040,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ove
 
 ##### Artikel 2.98
 
-1. De [artikelen 2.94 tot en met 2.97](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.2&paragraaf=2.5.2.2&artikel=2.94&z=2026-01-01&g=2026-01-01) zijn zo veel mogelijk van overeenkomstige toepassing op het overige media-aanbod van de publieke mediadiensten. Wat betreft de toepassing van [artikel 2.96, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.2&paragraaf=2.5.2.2&artikel=2.96&z=2026-01-01&g=2026-01-01), geldt de vorige volzin uitsluitend voor het overige media-aanbod met beeldinhoud, al dan niet mede met geluidsinhoud.
+1. De [artikelen 2.94 tot en met 2.97](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.2&paragraaf=2.5.2.2&artikel=2.94&z=2026-10-31&g=2026-10-31) zijn zo veel mogelijk van overeenkomstige toepassing op het overige media-aanbod van de publieke mediadiensten. Wat betreft de toepassing van [artikel 2.96, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.2&paragraaf=2.5.2.2&artikel=2.96&z=2026-10-31&g=2026-10-31), geldt de vorige volzin uitsluitend voor het overige media-aanbod met beeldinhoud, al dan niet mede met geluidsinhoud.
 
 2. In afwijking van het eerste lid bevat het media-aanbod met beeldinhoud, al dan niet mede met geluidsinhoud, van mediadiensten op aanvraag van de landelijke publieke mediadienst geen reclame- of telewinkelboodschappen.
 
@@ -1738,11 +2064,11 @@ De organen van de Ster zijn een raad van toezicht en een bestuur.
 
 ##### Artikel 2.99c
 
-1. Bij een vacature draagt de raad van toezicht van de Ster zorg voor de procedure die leidt tot de voordracht, bedoeld in [artikel 2.99b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.2&paragraaf=2.5.2.3&artikel=2.99b&z=2026-01-01&g=2026-01-01).
+1. Bij een vacature draagt de raad van toezicht van de Ster zorg voor de procedure die leidt tot de voordracht, bedoeld in [artikel 2.99b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.2&paragraaf=2.5.2.3&artikel=2.99b&z=2026-10-31&g=2026-10-31).
 
 2. De raad van toezicht stelt profielschetsen op voor de vacature en voor de raad als geheel.
 
-3. De NPO en, voor zover de Ster media-aanbod voor de regionale respectievelijk lokale publieke mediadiensten verzorgt, de RPO en het overlegorgaan, bedoeld in [artikel 2.146, aanhef en onder l](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.1&artikel=2.146&z=2026-01-01&g=2026-01-01), worden in de gelegenheid gesteld om binnen een redelijke termijn zienswijzen te geven op de profielschetsen.
+3. De NPO en, voor zover de Ster media-aanbod voor de regionale respectievelijk lokale publieke mediadiensten verzorgt, de RPO en de NLPO, worden in de gelegenheid gesteld om binnen een redelijke termijn zienswijzen te geven op de profielschetsen.
 
 4. De profielschetsen behoeven de instemming van Onze Minister.
 
@@ -1768,7 +2094,7 @@ De organen van de Ster zijn een raad van toezicht en een bestuur.
 
 - a. de functie van lid van het bestuur van de Ster;
 
-- b. het lidmaatschap van een orgaan van of een dienstbetrekking bij de NPO, de RPO, het overlegorgaan, bedoeld in [artikel 2.146, aanhef en onder l](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.1&artikel=2.146&z=2026-01-01&g=2026-01-01), of een publieke media-instelling;
+- b. het lidmaatschap van een orgaan van of een dienstbetrekking bij de NPO, de RPO, de NLPO, of een publieke media-instelling;
 
 - c. het lidmaatschap van een orgaan van of een dienstbetrekking bij een commerciële media-instelling;
 
@@ -1802,7 +2128,7 @@ De organen van de Ster zijn een raad van toezicht en een bestuur.
 
 1. Het bestuur van de Ster bestaat uit ten hoogste drie leden, die door de raad van toezicht van de Ster worden benoemd, geschorst en ontslagen.
 
-2. [Artikel 2.99d, eerste lid, aanhef en onder b tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.2&paragraaf=2.5.2.3&artikel=2.99d&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing op het lidmaatschap van het bestuur van de Ster.
+2. [Artikel 2.99d, eerste lid, aanhef en onder b tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.2&paragraaf=2.5.2.3&artikel=2.99d&z=2026-10-31&g=2026-10-31), is van overeenkomstige toepassing op het lidmaatschap van het bestuur van de Ster.
 
 3. Het bestuur is in dienst van de Ster. De raad van toezicht stelt zijn arbeidsvoorwaarden vast.
 
@@ -1816,7 +2142,7 @@ De organen van de Ster zijn een raad van toezicht en een bestuur.
 
 - b. disfunctioneren; en
 
-- c. onverenigbaarheid als bedoeld in [artikel 2.99d, eerste lid, aanhef en onder b tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.2&paragraaf=2.5.2.3&artikel=2.99d&z=2026-01-01&g=2026-01-01), in samenhang met [artikel 2.100, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.2&paragraaf=2.5.2.3&artikel=2.100&z=2026-01-01&g=2026-01-01).
+- c. onverenigbaarheid als bedoeld in [artikel 2.99d, eerste lid, aanhef en onder b tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.2&paragraaf=2.5.2.3&artikel=2.99d&z=2026-10-31&g=2026-10-31), in samenhang met [artikel 2.100, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.2&paragraaf=2.5.2.3&artikel=2.100&z=2026-10-31&g=2026-10-31).
 
 3. Ontslag is verder mogelijk op eigen verzoek.
 
@@ -1910,7 +2236,7 @@ De raad van bestuur bevordert dat tussen de NPO en de Ster afspraken tot stand k
 
 ##### Artikel 2.108
 
-1. In gesponsord media-aanbod mogen producten of diensten van een sponsor worden vermeld of getoond, behalve als deze een bijdrage in geld heeft gegeven en onverminderd [artikel 2.88b, derde lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.1&artikel=2.88b&z=2026-01-01&g=2026-01-01).
+1. In gesponsord media-aanbod mogen producten of diensten van een sponsor worden vermeld of getoond, behalve als deze een bijdrage in geld heeft gegeven en onverminderd [artikel 2.88b, derde lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.1&artikel=2.88b&z=2026-10-31&g=2026-10-31).
 
 2. Het Commissariaat kan toestemming verlenen voor het vermelden of vertonen van de naam, het (beeld)merk, producten of diensten van sponsors in de titel van gesponsord media-aanbod, mits het publiek niet rechtstreeks door middel van specifieke aanprijzingen wordt aangespoord tot het kopen of huren van producten of afname van diensten van de sponsors.
 
@@ -1930,13 +2256,13 @@ De landelijke publieke media-instellingen sturen een afschrift van een sponsorov
 
 ##### Artikel 2.111
 
-1. Als de raad van bestuur binnen twee weken na ontvangst van het afschrift van de sponsorovereenkomst, of in het geval van [artikel 2.110, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.3&artikel=2.110&z=2026-01-01&g=2026-01-01), vóór de beoogde datum van verspreiding, schriftelijk heeft meegedeeld dat de sponsorovereenkomst in strijd is met het gemeenschappelijke belang van de landelijke publieke mediadienst, wordt het media-aanbod waarop de overeenkomst betrekking heeft niet verspreid, tenzij de overeenkomst wordt ontbonden of gewijzigd.
+1. Als de raad van bestuur binnen twee weken na ontvangst van het afschrift van de sponsorovereenkomst, of in het geval van [artikel 2.110, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.3&artikel=2.110&z=2026-10-31&g=2026-10-31), vóór de beoogde datum van verspreiding, schriftelijk heeft meegedeeld dat de sponsorovereenkomst in strijd is met het gemeenschappelijke belang van de landelijke publieke mediadienst, wordt het media-aanbod waarop de overeenkomst betrekking heeft niet verspreid, tenzij de overeenkomst wordt ontbonden of gewijzigd.
 
 2. In het geval de raad van bestuur aanvullende informatie verlangt, moet voor de toepassing van het eerste lid de schriftelijke mededeling zijn gegeven binnen twee weken nadat de aanvullende informatie is ontvangen.
 
 ##### Artikel 2.112
 
-De [artikelen 2.110](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.3&artikel=2.110&z=2026-01-01&g=2026-01-01) en [2.111](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.3&artikel=2.111&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing op de wijziging van een sponsorovereenkomst.
+De [artikelen 2.110](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.3&artikel=2.110&z=2026-10-31&g=2026-10-31) en [2.111](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.3&artikel=2.111&z=2026-10-31&g=2026-10-31) zijn van overeenkomstige toepassing op de wijziging van een sponsorovereenkomst.
 
 ##### Artikel 2.113
 
@@ -1944,7 +2270,7 @@ De publieke media-instellingen brengen jaarlijks via de jaarrekening verslag uit
 
 ##### Artikel 2.114
 
-De [artikelen 2.107 tot en met 2.113](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.3&artikel=2.107&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing als een andere instelling dan bedoeld in de begripsomschrijving van sponsoring in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=1&artikel=1.1&z=2026-01-01&g=2026-01-01) een bijdrage heeft gegeven voor de productie of aankoop van media-aanbod om de verspreiding daarvan te bevorderen of mogelijk te maken.
+De [artikelen 2.107 tot en met 2.113](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.3&artikel=2.107&z=2026-10-31&g=2026-10-31) zijn van overeenkomstige toepassing als een andere instelling dan bedoeld in de begripsomschrijving van sponsoring in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=1&artikel=1.1&z=2026-10-31&g=2026-10-31) een bijdrage heeft gegeven voor de productie of aankoop van media-aanbod om de verspreiding daarvan te bevorderen of mogelijk te maken.
 
 #### Afdeling 2.5.4. Europese producties, onafhankelijke producties, Nederlands- en Friestalige producties en films
 
@@ -1964,13 +2290,13 @@ De [artikelen 2.107 tot en met 2.113](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 ##### Artikel 2.116
 
-1. Bij algemene maatregel van bestuur wordt vastgesteld hoeveel procent van het totaal van de budgetten, bedoeld in [artikel 2.149, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.149&z=2026-01-01&g=2026-01-01), met uitzondering van onderdeel e, wordt besteed aan Europese producties als bedoeld in artikel 1 van de Europese richtlijn die kunnen worden aangemerkt als onafhankelijke productie. Het percentage, bedoeld in de vorige volzin, wordt vastgesteld op ten minste tien en ten hoogste vijfentwintig procent.
+1. Bij algemene maatregel van bestuur wordt vastgesteld hoeveel procent van het totaal van de budgetten, bedoeld in [artikel 2.149, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.149&z=2026-10-31&g=2026-10-31), met uitzondering van onderdeel e, wordt besteed aan Europese producties als bedoeld in artikel 1 van de Europese richtlijn die kunnen worden aangemerkt als onafhankelijke productie. Het percentage, bedoeld in de vorige volzin, wordt vastgesteld op ten minste tien en ten hoogste vijfentwintig procent.
 
-2. Op elk van de televisieprogrammakanalen van de landelijke publieke mediadienst bestaat het programma-aanbod uit ten minste tien procent van de duur uit producties als bedoeld in [artikel 2.115](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.4&paragraaf=2.5.4.1&artikel=2.115&z=2026-01-01&g=2026-01-01) die kunnen worden aangemerkt als onafhankelijke productie.
+2. Op elk van de televisieprogrammakanalen van de landelijke publieke mediadienst bestaat het programma-aanbod uit ten minste tien procent van de duur uit producties als bedoeld in [artikel 2.115](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.4&paragraaf=2.5.4.1&artikel=2.115&z=2026-10-31&g=2026-10-31) die kunnen worden aangemerkt als onafhankelijke productie.
 
 ##### Artikel 2.117
 
-Op elk van de televisieprogrammakanalen van de regionale publieke mediadienst bestaat het programma-aanbod voor ten minste tien procent van de duur uit producties als bedoeld in [artikel 2.115](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.4&paragraaf=2.5.4.1&artikel=2.115&z=2026-01-01&g=2026-01-01) die kunnen worden aangemerkt als onafhankelijke productie.
+Op elk van de televisieprogrammakanalen van de regionale publieke mediadienst bestaat het programma-aanbod voor ten minste tien procent van de duur uit producties als bedoeld in [artikel 2.115](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.4&paragraaf=2.5.4.1&artikel=2.115&z=2026-10-31&g=2026-10-31) die kunnen worden aangemerkt als onafhankelijke productie.
 
 ##### Artikel 2.118
 
@@ -1978,7 +2304,7 @@ Op elk van de televisieprogrammakanalen van de regionale publieke mediadienst be
 
 ##### Artikel 2.119
 
-Ten minste een derde deel van de programma’s, bedoeld in de [artikelen 2.116](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.4&paragraaf=2.5.4.1&artikel=2.116&z=2026-01-01&g=2026-01-01) en [2.117](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.4&paragraaf=2.5.4.1&artikel=2.117&z=2026-01-01&g=2026-01-01), is niet ouder dan vijf jaar.
+Ten minste een derde deel van de programma’s, bedoeld in de [artikelen 2.116](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.4&paragraaf=2.5.4.1&artikel=2.116&z=2026-10-31&g=2026-10-31) en [2.117](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.4&paragraaf=2.5.4.1&artikel=2.117&z=2026-10-31&g=2026-10-31), is niet ouder dan vijf jaar.
 
 ##### Artikel 2.120
 
@@ -1998,13 +2324,13 @@ Ten minste een derde deel van de programma’s, bedoeld in de [artikelen 2.116](
 
 2. Bij algemene maatregel van bestuur:
 
-- a. kunnen nadere regels worden gesteld over de toepassing van het eerste lid en de [artikelen 2.116 tot en met 2.119](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.4&paragraaf=2.5.4.1&artikel=2.116&z=2026-01-01&g=2026-01-01); en
+- a. kunnen nadere regels worden gesteld over de toepassing van het eerste lid en de [artikelen 2.116 tot en met 2.119](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.4&paragraaf=2.5.4.1&artikel=2.116&z=2026-10-31&g=2026-10-31); en
 
 - b. kan worden bepaald dat in andere dan de in het eerste lid bedoelde gevallen media-aanbod wordt aangemerkt als onafhankelijke productie.
 
 ##### Artikel 2.121
 
-1. Voor de toepassing van de [artikelen 2.116, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.4&paragraaf=2.5.4.1&artikel=2.116&z=2026-01-01&g=2026-01-01), en [2.117 tot en met 2.120](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.4&paragraaf=2.5.4.1&artikel=2.117&z=2026-01-01&g=2026-01-01) blijft buiten beschouwing media-aanbod:
+1. Voor de toepassing van de [artikelen 2.116, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.4&paragraaf=2.5.4.1&artikel=2.116&z=2026-10-31&g=2026-10-31), en [2.117 tot en met 2.120](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.4&paragraaf=2.5.4.1&artikel=2.117&z=2026-10-31&g=2026-10-31) blijft buiten beschouwing media-aanbod:
 
 - a. dat bestaat uit nieuws;
 
@@ -2018,13 +2344,13 @@ Ten minste een derde deel van de programma’s, bedoeld in de [artikelen 2.116](
 
 - f. dat bestaat uit teletekst.
 
-2. Voor de toepassing van [artikel 2.116, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.4&paragraaf=2.5.4.1&artikel=2.116&z=2026-01-01&g=2026-01-01), blijft buiten beschouwing media-aanbod als bedoeld in het eerste lid, onder a, d, e en f.
+2. Voor de toepassing van [artikel 2.116, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.4&paragraaf=2.5.4.1&artikel=2.116&z=2026-10-31&g=2026-10-31), blijft buiten beschouwing media-aanbod als bedoeld in het eerste lid, onder a, d, e en f.
 
 #### Paragraaf 2.5.4.2. Nederlands- en Friestalige producties
 
 ##### Artikel 2.122
 
-1. Op elk televisieprogrammakanaal van de landelijke en regionale publieke mediadienst bestaat het programma-aanbod voor ten minste vijftig procent van de duur uit oorspronkelijk Nederlands- of Friestalige producties.
+1. Op elk televisieprogrammakanaal van de landelijke, regionale en lokale publieke mediadienst bestaat het programma-aanbod voor ten minste vijftig procent van de duur uit oorspronkelijk Nederlands- of Friestalige producties.
 
 2. Voor de toepassing van het eerste lid blijft buiten beschouwing:
 
@@ -2036,7 +2362,7 @@ Ten minste een derde deel van de programma’s, bedoeld in de [artikelen 2.116](
 
 ##### Artikel 2.123
 
-1. Bij algemene maatregel van bestuur kunnen regels worden gesteld over de ondertiteling van televisieprogramma-aanbod, waarbij onder meer kan worden bepaald welk percentage van het televisieprogramma-aanbod van de landelijke publieke mediadienst bestaat uit producties als bedoeld in [artikel 2.122, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.4&paragraaf=2.5.4.2&artikel=2.122&z=2026-01-01&g=2026-01-01), die voorzien zijn van ondertiteling ten behoeve van personen met een auditieve beperking.
+1. Bij algemene maatregel van bestuur kunnen regels worden gesteld over de ondertiteling van televisieprogramma-aanbod, waarbij onder meer kan worden bepaald welk percentage van het televisieprogramma-aanbod van de landelijke publieke mediadienst bestaat uit producties als bedoeld in [artikel 2.122, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.4&paragraaf=2.5.4.2&artikel=2.122&z=2026-10-31&g=2026-10-31), die voorzien zijn van ondertiteling ten behoeve van personen met een auditieve beperking.
 
 2. Het Commissariaat kan in bijzondere gevallen geheel of gedeeltelijk ontheffing verlenen van een verplichting betreffende het percentage, bedoeld in het eerste lid. Het Commissariaat kan aan een ontheffing voorschriften verbinden.
 
@@ -2088,9 +2414,9 @@ In het media-aanbod van de publieke mediadiensten worden geen films opgenomen bu
 
 ##### Artikel 2.132
 
-1. De NPO en de publieke media-instellingen mogen alleen na voorafgaande toestemming van het Commissariaat nevenactiviteiten verrichten.
+1. De NPO, de RPO en de NLPO en de publieke media-instellingen mogen alleen na voorafgaande toestemming van het Commissariaat nevenactiviteiten verrichten.
 
-2. Nevenactiviteiten zijn activiteiten, directe of indirecte deelnemingen in rechtspersonen daaronder begrepen, die niet rechtstreeks verband houden met of ten dienste staan van de uitvoering van de publieke mediaopdracht, met uitzondering van verenigingsactiviteiten als bedoeld in [artikel 2.136](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.6&artikel=2.136&z=2026-01-01&g=2026-01-01).
+2. Nevenactiviteiten zijn activiteiten, directe of indirecte deelnemingen in rechtspersonen daaronder begrepen, die niet rechtstreeks verband houden met of ten dienste staan van de uitvoering van de publieke mediaopdracht, met uitzondering van verenigingsactiviteiten als bedoeld in [artikel 2.136](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.6&artikel=2.136&z=2026-10-31&g=2026-10-31).
 
 3. Toestemming kan alleen worden gegeven als een nevenactiviteit verband houdt met of ten dienste staat van de verwezenlijking van de publieke mediaopdracht en direct gerelateerd is aan het media-aanbod van de publieke media-instelling, op marktconforme wijze wordt verricht en ten minste kostendekkend is.
 
@@ -2100,7 +2426,7 @@ In het media-aanbod van de publieke mediadiensten worden geen films opgenomen bu
 
 - b. culturele instellingen.
 
-5. De NPO en de publieke media-instellingen melden nevenactiviteiten als bedoeld in het vierde lid bij het Commissariaat.
+5. De NPO, de RPO en de NLPO en de publieke media-instellingen melden nevenactiviteiten als bedoeld in het vierde lid bij het Commissariaat.
 
 6. Bij ministeriële regeling kunnen nadere regels worden gesteld over:
 
@@ -2114,25 +2440,25 @@ In het media-aanbod van de publieke mediadiensten worden geen films opgenomen bu
 
 ##### Artikel 2.133
 
-Op overeenkomsten ter zake van nevenactiviteiten die er toe strekken om rechten op en de bekendheid van media-aanbod dat voor de landelijke publieke mediadienst is verzorgd of daaraan verbonden namen en merken buiten de publieke mediadienst te exploiteren, zijn de [artikelen 2.110 tot en met 2.112](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.3&artikel=2.110&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing, met dien verstande dat de termijn, bedoeld in [artikel 2.111, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.3&artikel=2.111&z=2026-01-01&g=2026-01-01), twee maanden is.
+Op overeenkomsten ter zake van nevenactiviteiten die er toe strekken om rechten op en de bekendheid van media-aanbod dat voor de landelijke publieke mediadienst is verzorgd of daaraan verbonden namen en merken buiten de publieke mediadienst te exploiteren, zijn de [artikelen 2.110 tot en met 2.112](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.3&artikel=2.110&z=2026-10-31&g=2026-10-31) van overeenkomstige toepassing, met dien verstande dat de termijn, bedoeld in [artikel 2.111, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.3&artikel=2.111&z=2026-10-31&g=2026-10-31), twee maanden is.
 
 ##### Artikel 2.134
 
-1. In het kader van nevenactiviteiten kunnen de NPO en de publieke media-instellingen rechtspersonen of samenwerkingsverbanden oprichten of daarin deelnemen.
+1. In het kader van nevenactiviteiten kunnen de NPO, de RPO en de NLPO en de publieke media-instellingen rechtspersonen of samenwerkingsverbanden oprichten of daarin deelnemen.
 
 2. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over het verrichten van nevenactiviteiten.
 
-3. De instellingen die nevenactiviteiten willen verrichten, tonen desgevraagd ten genoegen van het Commissariaat aan dat de nevenactiviteiten voldoen aan het bepaalde bij of krachtens [artikel 2.132](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.6&artikel=2.132&z=2026-01-01&g=2026-01-01) en dit artikel.
+3. De instellingen die nevenactiviteiten willen verrichten, tonen desgevraagd ten genoegen van het Commissariaat aan dat de nevenactiviteiten voldoen aan het bepaalde bij of krachtens [artikel 2.132](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.6&artikel=2.132&z=2026-10-31&g=2026-10-31) en dit artikel.
 
 ##### Artikel 2.135
 
-1. Tenzij bij of krachtens deze wet anders is bepaald, gebruiken de NPO, de RPO en de publieke media-instellingen al hun inkomsten voor de uitvoering van de publieke mediaopdracht.
+1. Tenzij bij of krachtens deze wet anders is bepaald, gebruiken de NPO, de RPO, de NLPO en de publieke media-instellingen al hun inkomsten voor de uitvoering van de publieke mediaopdracht.
 
 2. De landelijke publieke media-instelling die samenwerkingsomroep is, draagt ervoor zorg dat de omroepverenigingen die hij vertegenwoordigt, al hun inkomsten voor de uitvoering van de publieke mediaopdracht gebruiken, tenzij bij of krachtens deze wet anders is bepaald.
 
 ##### Artikel 2.136
 
-1. Omroeporganisaties die een erkenning of een voorlopige erkenning als bedoeld in [artikel 2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-01-01&g=2026-01-01) hebben verkregen, kunnen netto inkomsten uit contributies en verenigingsactiviteiten en, tot ten hoogste een bij algemene maatregel van bestuur te bepalen bedrag en volgens bij algemene maatregel van bestuur te stellen nadere regels uit programmabladen gebruiken voor eigen verenigingsactiviteiten.
+1. Omroeporganisaties die een erkenning of een voorlopige erkenning als bedoeld in [artikel 2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-10-31&g=2026-10-31) hebben verkregen, kunnen netto inkomsten uit contributies en verenigingsactiviteiten en, tot ten hoogste een bij algemene maatregel van bestuur te bepalen bedrag en volgens bij algemene maatregel van bestuur te stellen nadere regels uit programmabladen gebruiken voor eigen verenigingsactiviteiten.
 
 2. Verenigingsactiviteiten zijn activiteiten die:
 
@@ -2142,7 +2468,7 @@ Op overeenkomsten ter zake van nevenactiviteiten die er toe strekken om rechten 
 
 - c. in de vorm van evenementen ondersteunend zijn aan het uitdragen van de missie van de vereniging.
 
-3. Onder verenigingsactiviteiten als bedoeld in het eerste lid worden ook verstaan activiteiten van een stichting die samenwerkingsomroep is en die een erkenning als bedoeld in [artikel 2.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-01-01&g=2026-01-01), heeft verkregen, en welke activiteiten:
+3. Onder verenigingsactiviteiten als bedoeld in het eerste lid worden ook verstaan activiteiten van een stichting die samenwerkingsomroep is en die een erkenning als bedoeld in [artikel 2.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-10-31&g=2026-10-31), heeft verkregen, en welke activiteiten:
 
 - a. redelijkerwijs nodig zijn voor het goed functioneren van de stichting en haar organen;
 
@@ -2162,21 +2488,21 @@ Op overeenkomsten ter zake van nevenactiviteiten die er toe strekken om rechten 
 
 ##### Artikel 2.138
 
-1. Als een omroeporganisatie voornemens is na afloop van de periode waarvoor een erkenning of een voorlopige erkenning als bedoeld in [artikel 2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-01-01&g=2026-01-01) is verleend een commerciële omroepdienst te verzorgen of een belang te verwerven in een commerciële media-instelling, meldt zij dit aan het Commissariaat.
+1. Als een omroeporganisatie voornemens is na afloop van de periode waarvoor een erkenning of een voorlopige erkenning als bedoeld in [artikel 2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-10-31&g=2026-10-31) is verleend een commerciële omroepdienst te verzorgen of een belang te verwerven in een commerciële media-instelling, meldt zij dit aan het Commissariaat.
 
 2. Na de melding kan de omroeporganisatie in het laatste jaar van de erkenningperiode activiteiten verrichten die noodzakelijk zijn om te zorgen dat zij of de rechtspersoon waarin zij een belang verwerft na afloop van de erkenningperiode een commerciële omroepdienst kan verzorgen.
 
-3. Tijdens de periode dat een omroeporganisatie activiteiten als bedoeld in het tweede lid verricht, is [artikel 2.33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.33&z=2026-01-01&g=2026-01-01), niet van toepassing en wordt zij beschouwd als omroeporganisatie.
+3. Tijdens de periode dat een omroeporganisatie activiteiten als bedoeld in het tweede lid verricht, is [artikel 2.33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.33&z=2026-10-31&g=2026-10-31), niet van toepassing en wordt zij beschouwd als omroeporganisatie.
 
 ##### Artikel 2.138a
 
-1. Wanneer een omroeporganisatie uitvoering geeft aan het voornemen, bedoeld in [artikel 2.138, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.6&artikel=2.138&z=2026-01-01&g=2026-01-01), draagt zij binnen vier maanden na afloop van de periode waarvoor een erkenning of een voorlopige erkenning als bedoeld in [artikel 2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-01-01&g=2026-01-01) is verleend, zorg voor de vaststelling van een eindafrekening. De eindafrekening gaat vergezeld van een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). [Artikel 2.171, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6&paragraaf=2.6.6.1&artikel=2.171&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing. Het Commissariaat kan de termijn, bedoeld in de eerste volzin, verlengen met een door hem te stellen termijn.
+1. Wanneer een omroeporganisatie uitvoering geeft aan het voornemen, bedoeld in [artikel 2.138, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.6&artikel=2.138&z=2026-10-31&g=2026-10-31), draagt zij binnen vier maanden na afloop van de periode waarvoor een erkenning of een voorlopige erkenning als bedoeld in [artikel 2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-10-31&g=2026-10-31) is verleend, zorg voor de vaststelling van een eindafrekening. De eindafrekening gaat vergezeld van een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). [Artikel 2.171, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6&paragraaf=2.6.6.1&artikel=2.171&z=2026-10-31&g=2026-10-31), is van overeenkomstige toepassing. Het Commissariaat kan de termijn, bedoeld in de eerste volzin, verlengen met een door hem te stellen termijn.
 
-2. Mede op basis van de eindafrekening, bedoeld in het eerste lid, stelt het Commissariaat het terug te betalen bedrag vast. Teruggevorderde bedragen voegt het Commissariaat toe aan de algemene mediareserve, bedoeld in [artikel 2.166](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.4&artikel=2.166&z=2026-01-01&g=2026-01-01).
+2. Mede op basis van de eindafrekening, bedoeld in het eerste lid, stelt het Commissariaat het terug te betalen bedrag vast. Teruggevorderde bedragen voegt het Commissariaat toe aan de algemene mediareserve, bedoeld in [artikel 2.166](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.4&artikel=2.166&z=2026-10-31&g=2026-10-31).
 
 3. In het geval, bedoeld in het eerste lid:
 
-- a. betaalt de omroeporganisatie de op het moment, bedoeld in [artikel 2.138, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.6&artikel=2.138&z=2026-01-01&g=2026-01-01), aanwezige gelden die bestemd zijn voor de verzorging van media-aanbod voor de landelijke publieke omroep, terug aan het Commissariaat;
+- a. betaalt de omroeporganisatie de op het moment, bedoeld in [artikel 2.138, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.6&artikel=2.138&z=2026-10-31&g=2026-10-31), aanwezige gelden die bestemd zijn voor de verzorging van media-aanbod voor de landelijke publieke omroep, terug aan het Commissariaat;
 
 - b. draagt de omroeporganisatie er zorg voor dat programmamateriaal dat verspreid is op de programmakanalen van de landelijke publieke omroep dan wel daarvoor is geproduceerd of aangekocht en de daaraan verbonden programmaformats, namen en merken, voor zover het auteurs- of gebruiksrecht daarop bij de omroeporganisatie berust, gedurende drie jaar na afloop van de periode waarvoor een erkenning of voorlopige erkenning is verleend, om niet ter beschikking wordt gesteld aan de raad van bestuur voor gebruik op aanbodkanalen van de landelijke publieke omroep;
 
@@ -2188,11 +2514,11 @@ Op overeenkomsten ter zake van nevenactiviteiten die er toe strekken om rechten 
 
 5. Het eerste tot en met vierde lid zijn van overeenkomstige toepassing, als:
 
-- a. aan een omroeporganisatie geen erkenning als bedoeld in [artikel 2.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-01-01&g=2026-01-01), wordt verleend;
+- a. aan een omroeporganisatie geen erkenning als bedoeld in [artikel 2.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-10-31&g=2026-10-31), wordt verleend;
 
-- b. een erkenning of voorlopige erkenning overeenkomstig [artikel 2.33](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.33&z=2026-01-01&g=2026-01-01) wordt ingetrokken; en
+- b. een erkenning of voorlopige erkenning overeenkomstig [artikel 2.33](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.33&z=2026-10-31&g=2026-10-31) wordt ingetrokken; en
 
-- c. een omroeporganisatie in strijd met [artikel 2.34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.34&z=2026-01-01&g=2026-01-01), tijdens een erkenningperiode niet langer als omroeporganisatie media-aanbod voor de landelijke publieke omroep verzorgt.
+- c. een omroeporganisatie in strijd met [artikel 2.34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.34&z=2026-10-31&g=2026-10-31), tijdens een erkenningperiode niet langer als omroeporganisatie media-aanbod voor de landelijke publieke omroep verzorgt.
 
 ##### Artikel 2.138b
 
@@ -2200,7 +2526,7 @@ Op overeenkomsten ter zake van nevenactiviteiten die er toe strekken om rechten 
 
 ##### Artikel 2.139
 
-1. De landelijke publieke media-instellingen stellen de volgende gegevens van hun programma-aanbod ter beschikking van de NPO: per programma de titel, een korte omschrijving, de naam van de landelijke publieke media-instelling die het programma verzorgt, het programmakanaal waarop het programma wordt verspreid, de datum en het tijdstip van verspreiding, en de classificatie, bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=4&artikel=4.2&z=2026-01-01&g=2026-01-01).
+1. De landelijke publieke media-instellingen stellen de volgende gegevens van hun programma-aanbod ter beschikking van de NPO: per programma de titel, een korte omschrijving, de naam van de landelijke publieke media-instelling die het programma verzorgt, het programmakanaal waarop het programma wordt verspreid, de datum en het tijdstip van verspreiding, en de classificatie, bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=4&artikel=4.2&z=2026-10-31&g=2026-10-31).
 
 2. De landelijke publieke media-instellingen aanvaarden dat de NPO de gegevens voor vermenigvuldiging en openbaarmaking aan het publiek via gedrukte of elektronische programmagidsen ter beschikking stelt aan de omroeporganisaties en tegen een marktconforme vergoeding aan andere afnemers die daarom verzoeken.
 
@@ -2224,13 +2550,13 @@ Op overeenkomsten ter zake van nevenactiviteiten die er toe strekken om rechten 
 
 ##### Artikel 2.141
 
-1. De NPO, de RPO en de publieke media-instellingen zijn met al hun activiteiten niet dienstbaar aan het maken van winst door derden en tonen dat desgevraagd naar genoegen van het Commissariaat aan.
+1. De NPO, de RPO, de NLPO en de publieke media-instellingen zijn met al hun activiteiten niet dienstbaar aan het maken van winst door derden en tonen dat desgevraagd naar genoegen van het Commissariaat aan.
 
 2. De landelijke publieke media-instelling die samenwerkingsomroep is, draagt ervoor zorg dat de omroepverenigingen die hij vertegenwoordigt, met al hun activiteiten niet dienstbaar zijn aan het maken van winst door derden en tonen dat desgevraagd naar genoegen van het Commissariaat aan.
 
 ##### Artikel 2.142
 
-1. De NPO, de RPO en de publieke media-instellingen zorgen er voor dat leden van hun organen, werknemers en andere personen of rechtspersonen waarmee een overeenkomst is gesloten met het oog op de uitvoering van de publieke mediaopdracht, voor zichzelf of voor anderen geen op geld waardeerbaar voordeel van derden bedingen of aanvaarden dat direct of indirect verband houdt met werkzaamheden van de betrokkene voor de instelling, tenzij het daartoe bevoegde orgaan van de instelling daarvoor toestemming heeft gegeven.
+1. De NPO, de RPO, de NLPO en de publieke media-instellingen zorgen er voor dat leden van hun organen, werknemers en andere personen of rechtspersonen waarmee een overeenkomst is gesloten met het oog op de uitvoering van de publieke mediaopdracht, voor zichzelf of voor anderen geen op geld waardeerbaar voordeel van derden bedingen of aanvaarden dat direct of indirect verband houdt met werkzaamheden van de betrokkene voor de instelling, tenzij het daartoe bevoegde orgaan van de instelling daarvoor toestemming heeft gegeven.
 
 2. Toestemming wordt alleen gegeven als de betrokkene aannemelijk maakt dat het voordeel niet is bedoeld als tegenprestatie voor het door hem in de uitoefening van zijn werkzaamheden voor de instelling bevoordelen van derden.
 
@@ -2240,7 +2566,7 @@ Op overeenkomsten ter zake van nevenactiviteiten die er toe strekken om rechten 
 
 ##### Artikel 2.142a
 
-1. De NPO, de RPO, de landelijke en regionale publieke media-instellingen en de instellingen die door Onze Minister zijn aangewezen voor het in stand houden en exploiteren van omroeporkesten en omroepkoren, van een media-archief en van een expertisecentrum voor media-educatie, richten hun bestuurlijke organisatie zodanig in dat overeenkomstig hun statuten en reglementen:
+1. De NPO, de RPO, de NLPO en de landelijke, regionale en lokale publieke media-instellingen en de instellingen die door Onze Minister zijn aangewezen voor het in stand houden en exploiteren van omroeporkesten en omroepkoren, van een media-archief en van een expertisecentrum voor media-educatie, richten hun bestuurlijke organisatie zodanig in dat overeenkomstig hun statuten en reglementen:
 
 - a. de inrichting daarvan sober, doelmatig en evenwichtig is;
 
@@ -2250,7 +2576,7 @@ Op overeenkomsten ter zake van nevenactiviteiten die er toe strekken om rechten 
 
 - d. de leden van het toezichthoudende orgaan worden benoemd op basis van vooraf vastgestelde openbare profielen.
 
-2. De NPO en de landelijke publieke media-instellingen volgen daarbij zo veel als mogelijk aanbevelingen uit de gedragscode, bedoeld in [artikel 2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.1&artikel=2.3&z=2026-01-01&g=2026-01-01).
+2. De NPO en de landelijke publieke media-instellingen volgen daarbij zo veel als mogelijk aanbevelingen uit de gedragscode, bedoeld in [artikel 2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.1&artikel=2.3&z=2026-10-31&g=2026-10-31).
 
 3. De landelijke publieke media-instelling die samenwerkingsomroep is, draagt ervoor zorg dat de omroepverenigingen die hij vertegenwoordigt, overeenkomstig het eerste en tweede lid handelen.
 
@@ -2262,13 +2588,13 @@ Op overeenkomsten ter zake van nevenactiviteiten die er toe strekken om rechten 
 
 ##### Artikel 2.143
 
-1. De NPO, de RPO en de publieke media-instellingen voorzien op onafhankelijke wijze in de uitvoering van de publieke mediaopdracht en hebben daarvoor op de wijze zoals geregeld in deze wet aanspraak op bekostiging uit ’s Rijks kas die een kwalitatief hoogwaardig media-aanbod mogelijk maakt en waardoor continuïteit van financiering gewaarborgd is.
+1. De NPO, de RPO, de NLPO en de landelijke, regionale en lokale publieke media-instellingen voorzien op onafhankelijke wijze in de uitvoering van de publieke mediaopdracht en hebben daarvoor op de wijze zoals geregeld in deze wet aanspraak op bekostiging uit ’s Rijks kas die een kwalitatief hoogwaardig media-aanbod mogelijk maakt en waardoor continuïteit van financiering gewaarborgd is.
 
-2. Voor de bekostiging van de uitvoering van de publieke mediaopdracht en ter bestrijding van de overige kosten, bedoeld in [artikel 2.146](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.1&artikel=2.146&z=2026-01-01&g=2026-01-01), worden onder de naam «rijksmediabijdrage» jaarlijks gelden beschikbaar gesteld door Onze Minister.
+2. Voor de bekostiging van de uitvoering van de publieke mediaopdracht en ter bestrijding van de overige kosten, bedoeld in [artikel 2.146](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.1&artikel=2.146&z=2026-10-31&g=2026-10-31), worden onder de naam «rijksmediabijdrage» jaarlijks gelden beschikbaar gesteld door Onze Minister.
 
 ##### Artikel 2.144
 
-1. De rijksmediabijdrage bestaat ten minste uit een bedrag dat voor het jaar 2025 € 1.040.379.000 bedraagt.
+1. De rijksmediabijdrage bestaat ten minste uit een bedrag dat voor het jaar 2028 € 1.126.491.000 bedraagt.
 
 2. Het bedrag van de rijksmediabijdrage wordt jaarlijks bijgesteld overeenkomstig:
 
@@ -2278,19 +2604,21 @@ Op overeenkomsten ter zake van nevenactiviteiten die er toe strekken om rechten 
 
 ##### Artikel 2.145
 
-Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de toepassing van de [artikelen 2.143, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.1&artikel=2.143&z=2026-01-01&g=2026-01-01), en [2.144](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.1&artikel=2.144&z=2026-01-01&g=2026-01-01).
+Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de toepassing van de [artikelen 2.143, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.1&artikel=2.143&z=2026-10-31&g=2026-10-31), en [2.144](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.1&artikel=2.144&z=2026-10-31&g=2026-10-31).
 
 ##### Artikel 2.146
 
 De rijksmediabijdrage en de inkomsten van de Ster dienen ter bestrijding van de kosten verbonden aan:
 
-- a. de bekostiging van de uitvoering van de publieke mediaopdracht op landelijk niveau volgens [afdeling 2.6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&z=2026-01-01&g=2026-01-01);
+- a. de bekostiging van de uitvoering van de publieke mediaopdracht op landelijk niveau volgens [afdeling 2.6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&z=2026-10-31&g=2026-10-31);
 
-- b. de bekostiging van de uitvoering van de publieke mediaopdracht op regionaal niveau volgens [afdeling 2.6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.5&z=2026-01-01&g=2026-01-01);
+- b. de bekostiging van de uitvoering van de publieke mediaopdracht op regionaal niveau volgens [afdeling 2.6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.5&z=2026-10-31&g=2026-10-31);
 
-- c. het Europese media-aanbod, bedoeld in [artikel 2.2, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.1&artikel=2.2&z=2026-01-01&g=2026-01-01);
+- b1. de bekostiging van de uitvoering van de publieke mediaopdracht op lokaal niveau volgens [afdeling 2.6.5a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.5a&z=2026-10-31&g=2026-10-31);
 
-- d. het Stimuleringsfonds voor de journalistiek, genoemd in [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=8&titeldeel=8.1&artikel=8.1&z=2026-01-01&g=2026-01-01);
+- c. het Europese media-aanbod, bedoeld in [artikel 2.2, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.1&artikel=2.2&z=2026-10-31&g=2026-10-31);
+
+- d. het Stimuleringsfonds voor de journalistiek, genoemd in [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=8&titeldeel=8.1&artikel=8.1&z=2026-10-31&g=2026-10-31);
 
 - e. de Raad voor cultuur, voor zover samenhangend met de advisering over radio, televisie, pers en andere vormen van massacommunicatie, tot een door Onze Minister te bepalen bedrag;
 
@@ -2304,11 +2632,7 @@ De rijksmediabijdrage en de inkomsten van de Ster dienen ter bestrijding van de 
 
 - j. vergoedingen aan een door Onze Minister aangewezen instelling voor het in stand houden en exploiteren van een media-archief;
 
-- k. *dit onderdeel is nog niet in werking getreden;*
-
-- l. het door Onze Minister aangewezen overlegorgaan van lokale publieke media-instellingen; en
-
-- m. bijdragen voor de verzorging van media-aanbod van regionale en lokale publieke mediadiensten dat gericht is op minderheden.
+- k. *dit onderdeel is nog niet in werking getreden.*
 
 #### Afdeling 2.6.2. Bekostiging landelijke publieke mediadienst
 
@@ -2352,7 +2676,7 @@ De rijksmediabijdrage en de inkomsten van de Ster dienen ter bestrijding van de 
 
 ##### Artikel 2.148a
 
-1. Voorafgaand aan elke periode van vijf jaar, bedoeld in [artikel 2.19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.4&artikel=2.19&z=2026-01-01&g=2026-01-01), wordt door Onze Minister het bedrag vastgesteld dat de landelijke publieke mediadienst in die periode jaarlijks ten minste ter beschikking wordt gesteld ten behoeve van zijn taakvervulling.
+1. Voorafgaand aan elke periode van vijf jaar, bedoeld in [artikel 2.19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.4&artikel=2.19&z=2026-10-31&g=2026-10-31), wordt door Onze Minister het bedrag vastgesteld dat de landelijke publieke mediadienst in die periode jaarlijks ten minste ter beschikking wordt gesteld ten behoeve van zijn taakvervulling.
 
 2. Het in het eerste lid bedoelde bedrag is voor het eerste jaar van de genoemde periode gelijk aan het bedrag dat ten behoeve van de landelijke publieke mediadienst beschikbaar wordt gesteld in de rijksbegroting voor dat jaar. Het aandeel van de rijksmediabijdrage in dat bedrag wordt voor de daaropvolgende jaren bijgesteld overeenkomstig:
 
@@ -2366,11 +2690,11 @@ De rijksmediabijdrage en de inkomsten van de Ster dienen ter bestrijding van de 
 
 ##### Artikel 2.149
 
-1. Onze Minister stelt jaarlijks vóór 1 december met inachtneming van [artikel 2.148a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.148a&z=2026-01-01&g=2026-01-01) de budgetten van de landelijke publieke mediadienst voor het komende jaar vast voor:
+1. Onze Minister stelt jaarlijks vóór 1 december met inachtneming van [artikel 2.148a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.148a&z=2026-10-31&g=2026-10-31) de budgetten van de landelijke publieke mediadienst voor het komende jaar vast voor:
 
-- a. de verzorging van het media-aanbod van de omroeporganisaties die een erkenning als bedoeld in [artikel 2.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-01-01&g=2026-01-01), hebben verkregen, gezamenlijk;
+- a. de verzorging van het media-aanbod van de omroeporganisaties die een erkenning als bedoeld in [artikel 2.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-10-31&g=2026-10-31), hebben verkregen, gezamenlijk;
 
-- b. de verzorging van het media-aanbod van de omroepverenigingen die een voorlopige erkenning als bedoeld in [artikel 2.23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-01-01&g=2026-01-01), hebben verkregen, gezamenlijk;
+- b. de verzorging van het media-aanbod van de omroepverenigingen die een voorlopige erkenning als bedoeld in [artikel 2.23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-10-31&g=2026-10-31), hebben verkregen, gezamenlijk;
 
 - c. de verzorging van het media-aanbod van de NOS;
 
@@ -2384,35 +2708,35 @@ De rijksmediabijdrage en de inkomsten van de Ster dienen ter bestrijding van de 
 
 ##### Artikel 2.150
 
-1. Het budget, bedoeld in [artikel 2.149, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.149&z=2026-01-01&g=2026-01-01), bedraagt vijftig procent van het totaal van de budgetten, bedoeld in artikel 2.149, eerste lid, onderdelen a en b, en dertig procent van het totaal van de budgetten, bedoeld in artikel 2.149, eerste lid, onderdelen c en d.
+1. Het budget, bedoeld in [artikel 2.149, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.149&z=2026-10-31&g=2026-10-31), bedraagt vijftig procent van het totaal van de budgetten, bedoeld in artikel 2.149, eerste lid, onderdelen a en b, en dertig procent van het totaal van de budgetten, bedoeld in artikel 2.149, eerste lid, onderdelen c en d.
 
 2. Onder versterking van het media-aanbod wordt verstaan stimulering van de verzorging van media-aanbod en samenwerking ter bevordering van de pluriformiteit van het media-aanbod.
 
 3. Het budget komt geheel ten goede aan media-aanbod van de omroeporganisaties, de NOS en de NTR.
 
-4. Het media-aanbod, bedoeld in [artikel 2.54, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.54&z=2026-01-01&g=2026-01-01), komt ten laste van het budget, bedoeld in [artikel 2.149, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.149&z=2026-01-01&g=2026-01-01).
+4. Het media-aanbod, bedoeld in [artikel 2.54, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.54&z=2026-10-31&g=2026-10-31), komt ten laste van het budget, bedoeld in [artikel 2.149, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.149&z=2026-10-31&g=2026-10-31).
 
 ##### Artikel 2.150a
 
-Onze Minister kan de budgetten, bedoeld in [artikel 2.149, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.149&z=2026-01-01&g=2026-01-01), in de loop van het jaar verhogen naar aanleiding van een bijstelling als bedoeld in [artikel 2.148a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.148a&z=2026-01-01&g=2026-01-01). Daarbij geeft hij toepassing aan de verdeling, bedoeld in [artikel 2.150, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.150&z=2026-01-01&g=2026-01-01).
+Onze Minister kan de budgetten, bedoeld in [artikel 2.149, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.149&z=2026-10-31&g=2026-10-31), in de loop van het jaar verhogen naar aanleiding van een bijstelling als bedoeld in [artikel 2.148a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.148a&z=2026-10-31&g=2026-10-31). Daarbij geeft hij toepassing aan de verdeling, bedoeld in [artikel 2.150, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.150&z=2026-10-31&g=2026-10-31).
 
 ##### Artikel 2.151
 
 1. Onze Minister stelt de budgetten door tussenkomst van het Commissariaat ter beschikking van de raad van bestuur.
 
-2. De budgetten, bedoeld in [artikel 2.149, eerste lid, onderdelen e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.149&z=2026-01-01&g=2026-01-01), besteedt de raad van bestuur aan de daar genoemde doelen.
+2. De budgetten, bedoeld in [artikel 2.149, eerste lid, onderdelen e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.149&z=2026-10-31&g=2026-10-31), besteedt de raad van bestuur aan de daar genoemde doelen.
 
 ##### Artikel 2.152
 
-1. De raad van bestuur verdeelt het budget, bedoeld in [artikel 2.149, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.149&z=2026-01-01&g=2026-01-01), over de omroeporganisaties met een erkenning, bedoeld in [artikel 2.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-01-01&g=2026-01-01), zodanig dat elke omroeporganisatie een bedrag ontvangt dat gelijk is aan de som van de bedragen die worden toegerekend aan de organisaties waaruit de omroeporganisatie is samengesteld.
+1. De raad van bestuur verdeelt het budget, bedoeld in [artikel 2.149, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.149&z=2026-10-31&g=2026-10-31), over de omroeporganisaties met een erkenning, bedoeld in [artikel 2.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-10-31&g=2026-10-31), zodanig dat elke omroeporganisatie een bedrag ontvangt dat gelijk is aan de som van de bedragen die worden toegerekend aan de organisaties waaruit de omroeporganisatie is samengesteld.
 
 2. De organisaties waaruit een omroeporganisatie kan zijn samengesteld zijn:
 
-- a. een samenwerkingsomroep als bedoeld in [artikel 2.24a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.24a&z=2026-01-01&g=2026-01-01);
+- a. een samenwerkingsomroep als bedoeld in [artikel 2.24a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.24a&z=2026-10-31&g=2026-10-31);
 
-- b. een omroepvereniging als bedoeld in [artikel 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.24&z=2026-01-01&g=2026-01-01);
+- b. een omroepvereniging als bedoeld in [artikel 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.24&z=2026-10-31&g=2026-10-31);
 
-- c. een omroepvereniging met een voorlopige erkenning als bedoeld in [artikel 2.23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-01-01&g=2026-01-01).
+- c. een omroepvereniging met een voorlopige erkenning als bedoeld in [artikel 2.23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-10-31&g=2026-10-31).
 
 3. Bepalend voor de indeling, bedoeld in het tweede lid, is de organisatie waarvan sprake was bij aanvang van de erkenningperiode met begindatum 1 januari 2016, met dien verstande dat:
 
@@ -2420,17 +2744,17 @@ Onze Minister kan de budgetten, bedoeld in [artikel 2.149, eerste lid](https://w
 
 - b. met een samenwerkingsomroep gelijk wordt gesteld een omroepvereniging die op 1 januari 2016 was gevormd uit twee of meer omroepverenigingen die afzonderlijk een erkenning hadden bij aanvang van de daaraan voorafgaande erkenningperiode.
 
-4. Voor indeling bij het tweede lid, onder c, geldt ook een voorlopige erkenning als bedoeld in [artikel 2.23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-01-01&g=2026-01-01), in een erkenningperiode later dan die, bedoeld in het derde lid, maar eerder dan de erkenningperiode waarin het jaar valt waarop op de budgetverdeling betrekking heeft.
+4. Voor indeling bij het tweede lid, onder c, geldt ook een voorlopige erkenning als bedoeld in [artikel 2.23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-10-31&g=2026-10-31), in een erkenningperiode later dan die, bedoeld in het derde lid, maar eerder dan de erkenningperiode waarin het jaar valt waarop op de budgetverdeling betrekking heeft.
 
 5. De bedragen die worden toegerekend aan de organisaties, bedoeld in het tweede lid, onder respectievelijk a, b en c, verhouden zich tot elkaar als 3: 2: 1.
 
 ##### Artikel 2.152a
 
-1. De raad van bestuur verdeelt het budget, bedoeld in [artikel 2.149, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.149&z=2026-01-01&g=2026-01-01), over de omroepverenigingen met een voorlopige erkenning, bedoeld in [artikel 2.23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-01-01&g=2026-01-01), zodanig dat elke omroepvereniging met een voorlopige erkenning over een bedrag beschikt dat gelijk is aan vijftien procent van het bedrag voor een omroeporganisatie die met toepassing van [artikel 2.152, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.152&z=2026-01-01&g=2026-01-01), wordt ingedeeld als omroepvereniging als bedoeld in [artikel 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.24&z=2026-01-01&g=2026-01-01).
+1. De raad van bestuur verdeelt het budget, bedoeld in [artikel 2.149, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.149&z=2026-10-31&g=2026-10-31), over de omroepverenigingen met een voorlopige erkenning, bedoeld in [artikel 2.23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-10-31&g=2026-10-31), zodanig dat elke omroepvereniging met een voorlopige erkenning over een bedrag beschikt dat gelijk is aan vijftien procent van het bedrag voor een omroeporganisatie die met toepassing van [artikel 2.152, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.152&z=2026-10-31&g=2026-10-31), wordt ingedeeld als omroepvereniging als bedoeld in [artikel 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.24&z=2026-10-31&g=2026-10-31).
 
-2. De NTR en de omroeporganisaties, bedoeld in [artikel 2.26, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.26&z=2026-01-01&g=2026-01-01), ontvangen de bedragen, bedoeld in het eerste lid en [artikel 2.150, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.150&z=2026-01-01&g=2026-01-01), van elk van de omroepverenigingen die een voorlopige erkenning hebben verkregen, ten beheer.
+2. De NTR en de omroeporganisaties, bedoeld in [artikel 2.26, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.26&z=2026-10-31&g=2026-10-31), ontvangen de bedragen, bedoeld in het eerste lid en [artikel 2.150, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.150&z=2026-10-31&g=2026-10-31), van elk van de omroepverenigingen die een voorlopige erkenning hebben verkregen, ten beheer.
 
-3. De landelijke publieke media-instellingen, bedoeld in [artikel 2.149, eerste lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.149&z=2026-01-01&g=2026-01-01), besteden de ontvangen bedragen en de budgetten aan de in de desbetreffende onderdelen genoemde doelen.
+3. De landelijke publieke media-instellingen, bedoeld in [artikel 2.149, eerste lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.149&z=2026-10-31&g=2026-10-31), besteden de ontvangen bedragen en de budgetten aan de in de desbetreffende onderdelen genoemde doelen.
 
 ##### Artikel 2.153
 
@@ -2444,7 +2768,7 @@ Onze Minister kan de budgetten, bedoeld in [artikel 2.149, eerste lid](https://w
 
 - b. een omroeporganisatie naar de mening van de raad van bestuur onvoldoende uitvoering geeft aan de bereidheid tot samenwerking ten behoeve van de landelijke publieke mediadienst.
 
-2. Ingehouden bedragen worden toegevoegd aan het budget, bedoeld in [artikel 2.149, eerste lid, aanhef en onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.149&z=2026-01-01&g=2026-01-01).
+2. Ingehouden bedragen worden toegevoegd aan het budget, bedoeld in [artikel 2.149, eerste lid, aanhef en onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.149&z=2026-10-31&g=2026-10-31).
 
 ##### Artikel 2.155
 
@@ -2456,9 +2780,9 @@ De raad van bestuur beslist jaarlijks vóór 1 januari over de verdeling van de
 
 ##### Artikel 2.157
 
-1. De landelijke publieke media-instellingen ontvangen voorschotten volgens bij ministeriële regeling te stellen regels. De NTR en de omroeporganisaties, bedoeld in [artikel 2.26, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.26&z=2026-01-01&g=2026-01-01), ontvangen tevens de bedragen ten beheer die zijn gemoeid met de bevoorschotting van de omroepverenigingen die een voorlopige erkenning als bedoeld in [artikel 2.23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-01-01&g=2026-01-01), hebben verkregen.
+1. De landelijke publieke media-instellingen ontvangen voorschotten volgens bij ministeriële regeling te stellen regels. De NTR en de omroeporganisaties, bedoeld in [artikel 2.26, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.26&z=2026-10-31&g=2026-10-31), ontvangen tevens de bedragen ten beheer die zijn gemoeid met de bevoorschotting van de omroepverenigingen die een voorlopige erkenning als bedoeld in [artikel 2.23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-10-31&g=2026-10-31), hebben verkregen.
 
-2. Als een instelling zijn jaarrekening, bedoeld in [artikel 2.171, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6&paragraaf=2.6.6.1&artikel=2.171&z=2026-01-01&g=2026-01-01), niet tijdig indient:
+2. Als een instelling zijn jaarrekening, bedoeld in [artikel 2.171, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6&paragraaf=2.6.6.1&artikel=2.171&z=2026-10-31&g=2026-10-31), niet tijdig indient:
 
 - a. verzoekt het Commissariaat de raad van bestuur de bevoorschotting met twintig procent te verminderen; en
 
@@ -2526,15 +2850,15 @@ De raad van bestuur beslist jaarlijks vóór 1 januari over de verdeling van de
 
 1. Onze Minister kan, voor zover dat de financiering van de rekening-courantverhouding niet in gevaar brengt, uit de algemene mediareserve gelden ter beschikking stellen ten behoeve van:
 
-- a. de NPO, de RPO en de landelijke en regionale publieke media-instellingen;
+- a. de NPO, de RPO, de NLPO en de landelijke, regionale en lokale publieke media-instellingen;
 
-- b. het overlegorgaan van lokale publieke media-instellingen, bedoeld in [artikel 2.146, onder l](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.1&artikel=2.146&z=2026-01-01&g=2026-01-01), het Stimuleringsfonds voor de journalistiek, bedoeld in [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=8&titeldeel=8.1&artikel=8.1&z=2026-01-01&g=2026-01-01), en de door hem aangewezen instellingen voor het in stand houden en exploiteren van omroeporkesten en omroepkoren, van een media-archief en van een expertisecentrum voor media-educatie;
+- b. het Stimuleringsfonds voor de journalistiek, bedoeld in [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=8&titeldeel=8.1&artikel=8.1&z=2026-10-31&g=2026-10-31), en de door hem aangewezen instellingen voor het in stand houden en exploiteren van omroeporkesten en omroepkoren, van een media-archief en van een expertisecentrum voor media-educatie;
 
 - c. het Commissariaat.
 
-2. Onze Minister stelt gelden ten behoeve van de NPO en de landelijke publieke media-instellingen door tussenkomst van het Commissariaat ter beschikking aan de raad van bestuur. Voor de landelijke publieke media-instellingen is [artikel 2.152a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.152a&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing.
+2. Onze Minister stelt gelden ten behoeve van de NPO en de landelijke publieke media-instellingen door tussenkomst van het Commissariaat ter beschikking aan de raad van bestuur. Voor de landelijke publieke media-instellingen is [artikel 2.152a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.152a&z=2026-10-31&g=2026-10-31), van overeenkomstige toepassing.
 
-3. Onze Minister stelt gelden ten behoeve van de RPO, de regionale publieke media-instellingen en de instellingen, bedoeld in het eerste lid, onderdeel b, door tussenkomst van het Commissariaat aan hen ter beschikking.
+3. Onze Minister stelt gelden ten behoeve van de RPO, de NLPO, de regionale en lokale publieke media-instellingen en de instellingen, bedoeld in het eerste lid, onderdeel b, door tussenkomst van het Commissariaat aan hen ter beschikking.
 
 ##### Artikel 2.168
 
@@ -2542,23 +2866,23 @@ De raad van bestuur beslist jaarlijks vóór 1 januari over de verdeling van de
 
 2. Onze Minister kan uit de renteopbrengsten gelden ter beschikking stellen aan:
 
-- a. de NPO, de RPO en de landelijke en regionale publieke media-instellingen;
+- a. de NPO, de RPO, de NLPO en de landelijke, regionale en lokale publieke media-instellingen;
 
-- b. het overlegorgaan van lokale publieke media-instellingen, bedoeld in [artikel 2.146, onder l](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.1&artikel=2.146&z=2026-01-01&g=2026-01-01), het Stimuleringsfonds voor de journalistiek, bedoeld in [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=8&titeldeel=8.1&artikel=8.1&z=2026-01-01&g=2026-01-01), en de door hem aangewezen instellingen voor het in stand houden en exploiteren van omroeporkesten en omroepkoren, van een media-archief en van een expertisecentrum voor media-educatie;
+- b. het Stimuleringsfonds voor de journalistiek, bedoeld in [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=8&titeldeel=8.1&artikel=8.1&z=2026-10-31&g=2026-10-31), en de door hem aangewezen instellingen voor het in stand houden en exploiteren van omroeporkesten en omroepkoren, van een media-archief en van een expertisecentrum voor media-educatie;
 
 - c. het Commissariaat.
 
-3. [Artikel 2.167, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.4&artikel=2.167&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
+3. [Artikel 2.167, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.4&artikel=2.167&z=2026-10-31&g=2026-10-31), is van overeenkomstige toepassing.
 
 ##### Artikel 2.169
 
-1. Onze Minister kan aan een besluit tot het ter beschikking stellen van gelden op grond van de [artikelen 2.167](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.4&artikel=2.167&z=2026-01-01&g=2026-01-01) en [2.168](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.4&artikel=2.168&z=2026-01-01&g=2026-01-01) voorschriften verbinden.
+1. Onze Minister kan aan een besluit tot het ter beschikking stellen van gelden op grond van de [artikelen 2.167](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.4&artikel=2.167&z=2026-10-31&g=2026-10-31) en [2.168](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.4&artikel=2.168&z=2026-10-31&g=2026-10-31) voorschriften verbinden.
 
 2. De voorschriften hebben geen betrekking op de specifieke inhoud van media-aanbod.
 
 3. Onze Minister kan een besluit tot het ter beschikking stellen van gelden intrekken of wijzigen, als de voorschriften niet worden nageleefd.
 
-#### Afdeling 2.6.5. Bekostiging regionale en lokale publieke mediadiensten
+#### Afdeling 2.6.5. Bekostiging regionale publieke mediadienst
 
 ##### Artikel 2.169a
 
@@ -2610,7 +2934,7 @@ De raad van bestuur beslist jaarlijks vóór 1 januari over de verdeling van de
 
 3. Aan de verstrekking van de bijdrage, bedoeld in het tweede lid, worden geen voorwaarden verbonden die in strijd zijn met het bepaalde bij of krachtens deze wet.
 
-4. Een aanvraag als bedoeld in het tweede lid gaat vergezeld van een begroting die is afgestemd op de begroting, bedoeld in [artikel 2.169a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.5&artikel=2.169a&z=2026-01-01&g=2026-01-01), voor dezelfde periode.
+4. Een aanvraag als bedoeld in het tweede lid gaat vergezeld van een begroting die is afgestemd op de begroting, bedoeld in [artikel 2.169a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.5&artikel=2.169a&z=2026-10-31&g=2026-10-31), voor dezelfde periode.
 
 5. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over:
 
@@ -2626,7 +2950,7 @@ De raad van bestuur beslist jaarlijks vóór 1 januari over de verdeling van de
 
 8. De regionale publieke media-instellingen ontvangen voorschotten volgens bij ministeriële regeling te stellen regels.
 
-9. Als een regionale publieke media-instelling haar jaarrekening, bedoeld in [artikel 2.173a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6&paragraaf=2.6.6.1&artikel=2.173a&z=2026-01-01&g=2026-01-01), niet tijdig indient:
+9. Als een regionale publieke media-instelling haar jaarrekening, bedoeld in [artikel 2.173a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6&paragraaf=2.6.6.1&artikel=2.173a&z=2026-10-31&g=2026-10-31), niet tijdig indient:
 
 - a. vermindert het Commissariaat de bevoorschotting met twintig procent; en
 
@@ -2636,13 +2960,13 @@ Als een instelling voorschotten in strijd met het bepaalde bij of krachtens de w
 
 ##### Artikel 2.170a
 
-1. Als een regionale publieke media-instelling voornemens is na afloop van de periode waarvoor een aanwijzing als bedoeld in [artikel 2.61](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.1a&artikel=2.61&z=2026-01-01&g=2026-01-01) is verleend, een commerciële omroepdienst te verzorgen of een belang te verwerven in een commerciële media- instelling, meldt zij dit aan het Commissariaat.
+1. Als een regionale publieke media-instelling voornemens is na afloop van de periode waarvoor een aanwijzing als bedoeld in [artikel 2.61](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.2&artikel=2.61&z=2026-10-31&g=2026-10-31) is verleend, een commerciële omroepdienst te verzorgen of een belang te verwerven in een commerciële media- instelling, meldt zij dit aan het Commissariaat.
 
 2. Na de melding kan de regionale publieke media-instelling in het laatste jaar van de periode waarvoor een aanwijzing is verleend, activiteiten verrichten die noodzakelijk zijn om te zorgen dat zij of de rechtspersoon waarin zij een belang verwerft, na afloop van de periode waarvoor die aanwijzing is verleend, een commerciële omroepdienst kan verzorgen.
 
-3. Als een regionale publieke media-instelling uitvoering geeft aan het voornemen, bedoeld in het eerste lid, draagt zij binnen vier maanden na afloop van de periode waarvoor een aanwijzing is verleend, zorg voor de vaststelling van een eindafrekening. [Artikel 2.138a, eerste lid, tweede, derde en vierde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.6&artikel=2.138a&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
+3. Als een regionale publieke media-instelling uitvoering geeft aan het voornemen, bedoeld in het eerste lid, draagt zij binnen vier maanden na afloop van de periode waarvoor een aanwijzing is verleend, zorg voor de vaststelling van een eindafrekening. [Artikel 2.138a, eerste lid, tweede, derde en vierde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.6&artikel=2.138a&z=2026-10-31&g=2026-10-31), is van overeenkomstige toepassing.
 
-4. Mede op basis van de eindafrekening, bedoeld in het derde lid, stelt het Commissariaat het terug te betalen bedrag vast. [Artikel 2.138a, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.6&artikel=2.138a&z=2026-01-01&g=2026-01-01), is van toepassing.
+4. Mede op basis van de eindafrekening, bedoeld in het derde lid, stelt het Commissariaat het terug te betalen bedrag vast. [Artikel 2.138a, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.6&artikel=2.138a&z=2026-10-31&g=2026-10-31), is van toepassing.
 
 5. In het geval, bedoeld in het derde lid:
 
@@ -2654,45 +2978,149 @@ Als een instelling voorschotten in strijd met het bepaalde bij of krachtens de w
 
 6. Voor de toepassing van het derde, vierde en vijfde lid wordt onder regionale publieke media-instelling tevens begrepen haar rechtsopvolger of rechtsverkrijgende.
 
-7. Als een regionale publieke media-instelling na afloop van de periode waarvoor een aanwijzing is verleend, niet opnieuw wordt aangewezen, draagt zij binnen vier maanden na afloop van de periode waarvoor die aanwijzing is verleend, zorg voor de vaststelling van een eindafrekening wat betreft de financiën die betrekking hebben op de verzorging van media-aanbod voor de regionale publieke mediadienst. [Artikel 2.138a, eerste lid, tweede, derde en vierde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.6&artikel=2.138a&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing. Artikel 2.138a, tweede lid, is van toepassing.
+7. Als een regionale publieke media-instelling na afloop van de periode waarvoor een aanwijzing is verleend, niet opnieuw wordt aangewezen, draagt zij binnen vier maanden na afloop van de periode waarvoor die aanwijzing is verleend, zorg voor de vaststelling van een eindafrekening wat betreft de financiën die betrekking hebben op de verzorging van media-aanbod voor de regionale publieke mediadienst. [Artikel 2.138a, eerste lid, tweede, derde en vierde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.6&artikel=2.138a&z=2026-10-31&g=2026-10-31), is van overeenkomstige toepassing. Artikel 2.138a, tweede lid, is van toepassing.
 
 8. In het geval, bedoeld in het zevende lid, zijn het vijfde en zesde lid van overeenkomstige toepassing.
 
-9. Het zevende lid is eveneens van toepassing, als een aanwijzing overeenkomstig [artikel 2.67](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.1a&artikel=2.67&z=2026-01-01&g=2026-01-01) of [artikel 2.68](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.1a&artikel=2.68&z=2026-01-01&g=2026-01-01) wordt ingetrokken. [Artikel 2.138a, eerste lid, tweede, derde en vierde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.6&artikel=2.138a&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing. Artikel 2.138a, tweede lid, is van toepassing.
+9. Het zevende lid is eveneens van toepassing, als een aanwijzing overeenkomstig [artikel 2.67](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.2&artikel=2.67&z=2026-10-31&g=2026-10-31) of [artikel 2.68](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.2&artikel=2.68&z=2026-10-31&g=2026-10-31) wordt ingetrokken. [Artikel 2.138a, eerste lid, tweede, derde en vierde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.6&artikel=2.138a&z=2026-10-31&g=2026-10-31), is van overeenkomstige toepassing. Artikel 2.138a, tweede lid, is van toepassing.
 
 10. In het geval, bedoeld in het negende lid, zijn het vijfde en zesde lid van overeenkomstige toepassing.
 
+#### Afdeling 2.6.5a. Bekostiging lokale publieke mediadienst
+
 ##### Artikel 2.170b
 
-1. Het college van burgemeester en wethouders zorgt voor de bekostiging van het functioneren van de lokale publieke media-instelling als de gemeenteraad een advies als bedoeld in [artikel 2.61, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.1a&artikel=2.61&z=2026-01-01&g=2026-01-01) heeft uitgebracht en daarbij positief heeft geadviseerd over de vraag of de instelling voldoet aan de eis, bedoeld in artikel 2.61, tweede lid, onderdeel c.
+1. De NLPO dient jaarlijks vóór 15 september een begroting voor de lokale publieke mediadienst in bij Onze Minister en het Commissariaat. De NLPO maakt de begroting openbaar.
 
-2. De bekostiging betreft vergoeding van de kosten die rechtstreeks verband houden met het verzorgen van de lokale publieke mediadienst, voor zover die kosten niet op andere wijze zijn gedekt, op zodanige wijze dat op lokaal niveau in een toereikend media-aanbod kan worden voorzien en continuïteit van bekostiging is gewaarborgd.
+2. Het Commissariaat zendt vóór 15 oktober daaropvolgend zijn opmerkingen over de begroting aan Onze Minister.
 
-3. Als twee of meer gemeenteraden gezamenlijk een advies als bedoeld in [artikel 2.61, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.1a&artikel=2.61&z=2026-01-01&g=2026-01-01) hebben uitgebracht, en daarbij positief hebben geadviseerd over de vraag of de instelling voldoet aan de eis, bedoeld in artikel 2.61, tweede lid, onderdeel c, zorgen de colleges van burgemeester en wethouders van de desbetreffende gemeenten gezamenlijk voor de bekostiging, bedoeld in het eerste lid.
+3. De begroting bevat in elk geval:
 
-4. Aan de bekostiging worden geen voorschriften verbonden die in strijd zijn met het bepaalde bij of krachtens deze wet.
+- a. een beschrijving van de wijze waarop door de NLPO en de lokale publieke media-instellingen invulling wordt gegeven aan het voorgenomen media-aanbod;
 
-5. Onze Minister zendt telkens na drie jaar aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van het bepaalde in dit artikel in de praktijk.
+- b. een overzicht van de aanbodkanalen van de lokale publieke media-instellingen;
+
+- c. de financiële middelen die voor het volgende kalenderjaar nodig zijn om de voornemens voor de lokale publieke mediadienst te verwezenlijken en een raming voor de daarop volgende vier jaar;
+
+- d. een toelichting op de onderscheiden onderdelen en begrotingsposten; en
+
+- e. een beschrijving van de samenwerking met de landelijke en regionale publieke media-instellingen en anderen.
+
+4. De financiële middelen worden als volgt onderverdeeld:
+
+- a. de financiële middelen voor de uitvoering van de taken van de NLPO;
+
+- b. de financiële middelen voor de uitvoering van de taken van de lokale publieke media-instellingen, die kunnen bestaan uit:
+
+   - 1°. eigen inkomsten;
+
+   - 2°. de rijksbijdrage;
+
+   - 3°. gemeentelijke subsidies als bedoeld in [afdeling 2.6.6a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6a&z=2026-10-31&g=2026-10-31); of
+
+   - 4°. overige subsidies.
+
+5. Het derde lid, aanhef en onderdeel b, is niet van toepassing op de begroting voor het eerste jaar van de aanwijzingsperiode, bedoeld in [artikel 2.87j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.3&artikel=2.87j&z=2026-10-31&g=2026-10-31).
+
+6. Onze Minister kan bij ministeriële regeling nadere regels stellen over de inhoud en inrichting van de begroting.
 
 ##### Artikel 2.170c
 
-1. Het overlegorgaan, bedoeld in [artikel 2.146, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.1&artikel=2.146&z=2026-01-01&g=2026-01-01), dient jaarlijks vóór 15 september een begroting in bij Onze Minister.
+1. Onze Minister stelt jaarlijks vóór 1 december het budget vast voor de uitvoering van de taken en werkzaamheden van de NLPO.
 
-2. Het overlegorgaan dient jaarlijks vóór 1 mei een jaarrekening over het voorafgaande kalenderjaar in bij Onze Minister.
+2. Onze Minister kan aan een besluit tot het vaststellen van het budget schriftelijke voorwaarden verbinden.
+
+3. Het budget, bedoeld in het eerste lid, stelt Onze Minister door tussenkomst van het Commissariaat ter beschikking aan de NLPO.
+
+4. Onze Minister stelt het budget vast op tachtig procent van het budget van het voorgaande jaar als de NLPO de begroting niet volgens de daarvoor geldende regels heeft ingediend.
+
+5. Het budget, bedoeld in het eerste lid, besteedt het bestuur van de NLPO aan de daar genoemde doelen.
 
 ##### Artikel 2.170d
 
-1. Onze Minister stelt uit de rijksmediabijdrage en de inkomsten van de Ster aan het overlegorgaan, bedoeld in [artikel 2.146, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.1&artikel=2.146&z=2026-01-01&g=2026-01-01), een bijdrage in de kosten ter beschikking.
+Onze Minister stelt vóór 1 augustus van het tweede jaar dat voorafgaat aan de aanwijzingsperiode, bedoeld in [artikel 2.87j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.3&artikel=2.87j&z=2026-10-31&g=2026-10-31), het totaalbudget vast dat gedurende die periode jaarlijks ten minste beschikbaar is voor de bekostiging van de lokale publieke media-instellingen.
 
-2. Onze Minister kan aan een besluit tot het ter beschikking stellen van bijdragen voorschriften verbinden.
+##### Artikel 2.170e
 
-3. Als het overlegorgaan niet voldoet aan [artikel 2.170c](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.5&artikel=2.170c&z=2026-01-01&g=2026-01-01) of indien hij de aan een besluit tot het ter beschikking stellen van bijdragen verbonden voorschriften niet naleeft, kan Onze Minister:
+1. Onze Minister stelt jaarlijks vóór 1 december het totaalbudget vast dat voor het volgende jaar beschikbaar is voor de bekostiging van de lokale publieke media-instellingen. Onze Minister stelt het totaalbudget ter beschikking van het Commissariaat.
 
-- a. de beschikking waarbij de desbetreffende instelling is aangewezen, intrekken; of
+2. Bij algemene maatregel van bestuur worden regels gesteld over de verdeling van het totaalbudget over de lokale publieke media-instellingen.
 
-- b. het besluit tot het ter beschikking stellen van bijdragen intrekken of wijzigen.
+##### Artikel 2.170f
 
-#### Afdeling 2.6.6. Financiële verantwoording landelijke en regionale publieke mediadiensten
+1. Het Commissariaat kan op aanvraag van een lokale publieke media-instelling uit het totaalbudget, bedoeld in [artikel 2.170e](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.5a&artikel=2.170e&z=2026-10-31&g=2026-10-31), een rijksbijdrage verstrekken in de kosten die rechtstreeks verband houden met de uitvoering van de publieke mediaopdracht op lokaal niveau, voor zover die kosten niet op andere wijze zijn gedekt.
+
+2. Het Commissariaat beslist jaarlijks vóór 1 januari op een aanvraag als bedoeld in het eerste lid.
+
+3. Aan de verstrekking van de rijksbijdrage, bedoeld in het eerste lid, worden geen voorwaarden verbonden die in strijd zijn met het bepaalde bij of krachtens deze wet.
+
+4. De lokale publieke media-instellingen besteden de ontvangen rijksbijdrage aan de uitvoering van de publieke mediaopdracht op lokaal niveau.
+
+5. Het eerste lid is van overeenkomstige toepassing voor een instelling die als lokale publieke media-instelling is aangewezen met ingang van het volgende kalenderjaar.
+
+##### Artikel 2.170g
+
+1. Een aanvraag als bedoeld in [artikel 2.170f](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.5a&artikel=2.170f&z=2026-10-31&g=2026-10-31) gaat vergezeld van een begroting.
+
+2. De begroting is afgestemd op de begroting, bedoeld in [artikel 2.170b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.5a&artikel=2.170b&z=2026-10-31&g=2026-10-31), voor dezelfde periode.
+
+3. In de begroting, bedoeld in het eerste lid, worden de financiële middelen die nodig zijn voor de uitvoering van de taken van de lokale publieke media-instelling onderverdeeld in:
+
+- a. eigen inkomsten;
+
+- b. de rijksbijdrage;
+
+- c. de gemeentelijke subsidie, bedoeld in [afdeling 2.6.6a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6a&z=2026-10-31&g=2026-10-31); of
+
+- d. overige subsidies.
+
+4. Onze Minister stelt bij ministeriële regeling nadere regels over:
+
+- a. de inhoud, de inrichting en het tijdstip van indiening van de aanvraag, bedoeld in [artikel 2.170f](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.5a&artikel=2.170f&z=2026-10-31&g=2026-10-31); en
+
+- b. de inhoud en de inrichting van de begroting, bedoeld in het eerste lid.
+
+##### Artikel 2.170h
+
+1. Het Commissariaat verleent voorschotten op de rijksbijdrage.
+
+2. Als een lokale publieke media-instelling de jaarrekening, bedoeld in [artikel 2.173b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6&paragraaf=2.6.6.1&artikel=2.173b&z=2026-10-31&g=2026-10-31), niet tijdig indient, kan het Commissariaat de bevoorschotting met twintig procent verminderen.
+
+3. Het Commissariaat kan de bevoorschotting verder verminderen of beëindigen wanneer ondanks herhaalde aanmaningen van het Commissariaat de instelling in gebreke blijft met het indienen van de jaarrekening.
+
+4. Als een lokale publieke media-instelling voorschotten in strijd met het bepaalde bij of krachtens de wet gebruikt, kan het Commissariaat de bevoorschotting verminderen of beëindigen.
+
+5. Onze Minister stelt bij ministeriële regeling nadere regels over de bevoorschotting.
+
+##### Artikel 2.170i
+
+Onze Minister stuurt telkens na drie jaar aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van de rijksbijdrage, bedoeld in [2.170f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.5a&artikel=2.170f&z=2026-10-31&g=2026-10-31), en de gemeentelijke subsidie, bedoeld in [afdeling 2.6.6a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6a&z=2026-10-31&g=2026-10-31), in de praktijk.
+
+##### Artikel 2.170j
+
+1. Als een lokale publieke media-instelling voornemens is na afloop van de periode waarvoor een aanwijzing als bedoeld in [artikel 2.87i](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.3&artikel=2.87i&z=2026-10-31&g=2026-10-31) is verleend, een commerciële omroepdienst te verzorgen of een belang te verwerven in een commerciële media- instelling, meldt zij dit aan het Commissariaat.
+
+2. Na de melding kan de lokale publieke media-instelling in het laatste jaar van de periode waarvoor een aanwijzing is verleend, activiteiten verrichten die noodzakelijk zijn om te zorgen dat zij of de rechtspersoon waarin zij een belang verwerft, na afloop van de periode waarvoor die aanwijzing is verleend, een commerciële omroepdienst kan verzorgen.
+
+3. Als een lokale publieke media-instelling uitvoering geeft aan het voornemen, bedoeld in het eerste lid, draagt zij binnen vier maanden na afloop van de periode waarvoor een aanwijzing is verleend, zorg voor de vaststelling van een eindafrekening. De eindafrekening gaat vergezeld van een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). Het Commissariaat kan de termijn, bedoeld in de eerste volzin, verlengen met een door hem vast te stellen termijn.
+
+4. Mede op basis van de eindafrekening, bedoeld in het derde lid, stelt het Commissariaat het terug te betalen bedrag vast. Teruggevorderde bedragen voegt het Commissariaat toe aan de algemene mediareserve, bedoeld in [artikel 2.166](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.4&artikel=2.166&z=2026-10-31&g=2026-10-31).
+
+5. In het geval, bedoeld in het derde lid:
+
+- a. betaalt de lokale publieke media-instelling de op het moment, bedoeld in het eerste lid, aanwezige gelden die bestemd zijn voor de verzorging van media-aanbod voor de lokale publieke mediadienst, terug aan het Commissariaat;
+
+- b. stelt de lokale publieke media-instelling het programmamateriaal dat verspreid is op de programmakanalen van de lokale publieke media-instelling dan wel daarvoor is geproduceerd of aangekocht en de daaraan verbonden programmaformats, namen en merken, voor zover het auteurs- en gebruiksrecht bij de lokale publieke media-instelling berust, ter beschikking aan de door Onze Minister aangewezen instelling voor het in stand houden en exploiteren van een media-archief voor gebruik door andere publieke media-instellingen; en
+
+- c. onthoudt de lokale publieke media-instelling zich gedurende drie jaar na afloop van de periode waarvoor de aanwijzing is verleend, van gebruik of exploitatie van het programmamateriaal, bedoeld in onderdeel b, en de daaraan verbonden programmaformats, namen en merken, voor zover het auteurs- en gebruiksrecht bij de lokale publieke media-instelling berust.
+
+6. Voor de toepassing van het derde, vierde en vijfde lid wordt onder lokale publieke media-instelling tevens begrepen haar rechtsopvolger of rechtverkrijgende.
+
+7. Als een lokale publieke media-instelling na afloop van de periode waarvoor een aanwijzing is verleend, niet opnieuw voor hetzelfde lokale verzorgingsgebied wordt aangewezen, draagt zij binnen vier maanden na afloop van de periode waarvoor die aanwijzing is verleend, zorg voor de vaststelling van een eindafrekening wat betreft de financiën die betrekking hebben op de verzorging van media-aanbod voor de lokale publieke mediadienst. Het derde lid, tweede en derde volzin, en het vierde lid, tweede volzin, zijn van toepassing. Het vierde lid, eerste volzin, en het vijfde en zesde lid zijn van overeenkomstige toepassing.
+
+8. Als de aanwijzing van een lokale publieke media-instelling wordt ingetrokken als bedoeld in [artikel 2.87s](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.3&artikel=2.87s&z=2026-10-31&g=2026-10-31) draagt zij binnen vier maanden na het van kracht worden van de intrekking zorg voor de vaststelling van een eindafrekening wat betreft de financiën die betrekking hebben op de verzorging van media-aanbod voor de lokale publieke mediadienst. Het derde lid, tweede en derde volzin, en het vierde lid, tweede volzin, zijn van toepassing. Het vierde lid, eerste volzin, en het vijfde en zesde lid zijn van overeenkomstige toepassing.
+
+#### Afdeling 2.6.6. Financiële verantwoording landelijke, regionale en lokale publieke mediadiensten
 
 #### Paragraaf 2.6.6.1. Rechtmatigheidstoetsing en jaarrekening
 
@@ -2700,7 +3128,7 @@ Als een instelling voorschotten in strijd met het bepaalde bij of krachtens de w
 
 1. Het Commissariaat is belast met de rechtmatigheidstoetsing van de uitgaven van de NPO, de landelijke publieke media-instellingen en de Ster.
 
-2. De landelijke publieke media-instellingen en de Ster zenden jaarlijks vóór 1 mei de jaarrekening aan het Commissariaat en sturen gelijktijdig een afschrift daarvan aan de raad van bestuur. De NPO, de landelijke publieke media-instellingen en de Ster nemen in het bestuursverslag, bedoeld in de [artikelen 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.3&artikel=2.17&z=2026-01-01&g=2026-01-01), [2.34i](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2a&artikel=2.34i&z=2026-01-01&g=2026-01-01), [2.40](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.3&artikel=2.40&z=2026-01-01&g=2026-01-01) en [2.103](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.2&paragraaf=2.5.2.3&artikel=2.103&z=2026-01-01&g=2026-01-01), in samenhang met de [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=48) en [300 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=300) een samengevatte jaarrekening op.
+2. De landelijke publieke media-instellingen en de Ster zenden jaarlijks vóór 1 mei de jaarrekening aan het Commissariaat en sturen gelijktijdig een afschrift daarvan aan de raad van bestuur. De NPO, de landelijke publieke media-instellingen en de Ster nemen in het bestuursverslag, bedoeld in de [artikelen 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.3&artikel=2.17&z=2026-10-31&g=2026-10-31), [2.34i](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2a&artikel=2.34i&z=2026-10-31&g=2026-10-31), [2.40](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.3&artikel=2.40&z=2026-10-31&g=2026-10-31) en [2.103](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.2&paragraaf=2.5.2.3&artikel=2.103&z=2026-10-31&g=2026-10-31), in samenhang met de [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=48) en [300 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=300) een samengevatte jaarrekening op.
 
 3. De raad van bestuur zendt vóór 1 juli de jaarrekening van de NPO aan het Commissariaat.
 
@@ -2716,7 +3144,7 @@ Als een instelling voorschotten in strijd met het bepaalde bij of krachtens de w
 
 ##### Artikel 2.173
 
-Het Commissariaat brengt als onderdeel van het financieel verslag, bedoeld in [artikel 7.7](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=7&titeldeel=7.1&artikel=7.7&z=2026-01-01&g=2026-01-01), verslag uit over de rechtmatigheidstoetsing.
+Het Commissariaat brengt als onderdeel van het financieel verslag, bedoeld in [artikel 7.7](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=7&titeldeel=7.1&artikel=7.7&z=2026-10-31&g=2026-10-31), verslag uit over de rechtmatigheidstoetsing.
 
 ##### Artikel 2.173a
 
@@ -2724,7 +3152,29 @@ Het Commissariaat brengt als onderdeel van het financieel verslag, bedoeld in [a
 
 2. De RPO en de regionale publieke media-instellingen zenden jaarlijks vóór 1 mei de jaarrekening aan het Commissariaat.
 
-3. De [artikelen 2.172](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6&paragraaf=2.6.6.1&artikel=2.172&z=2026-01-01&g=2026-01-01) en [2.173](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6&paragraaf=2.6.6.1&artikel=2.173&z=2026-01-01&g=2026-01-01) zijn van toepassing.
+3. De [artikelen 2.172](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6&paragraaf=2.6.6.1&artikel=2.172&z=2026-10-31&g=2026-10-31) en [2.173](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6&paragraaf=2.6.6.1&artikel=2.173&z=2026-10-31&g=2026-10-31) zijn van toepassing.
+
+##### Artikel 2.173b
+
+1. Het Commissariaat is belast met de rechtmatigheidstoetsing van de NLPO en de lokale publieke media-instellingen.
+
+2. De NLPO en de lokale publieke media-instellingen zenden jaarlijks vóór 1 mei de jaarrekening aan het Commissariaat.
+
+3. De [artikelen 2.172, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6&paragraaf=2.6.6.1&artikel=2.172&z=2026-10-31&g=2026-10-31), en [2.173](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6&paragraaf=2.6.6.1&artikel=2.173&z=2026-10-31&g=2026-10-31) zijn van toepassing.
+
+4. In de jaarrekening van een lokale publieke media-instelling worden de financiële middelen voor de uitvoering van haar taken onderverdeeld in:
+
+- a. eigen inkomsten;
+
+- b. de rijksbijdrage;
+
+- c. de gemeentelijke subsidie, bedoeld in [afdeling 2.6.6a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6a&z=2026-10-31&g=2026-10-31); of
+
+- d. overige subsidies.
+
+5. Het tweede lid is niet van toepassing op lokale publieke media-instellingen in het eerste jaar van de aanwijzingsperiode, bedoeld in [artikel 2.87j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.3&artikel=2.87j&z=2026-10-31&g=2026-10-31), tenzij de lokale publieke media-instelling in het voorafgaande kalenderjaar een aanwijzing had voor hetzelfde verzorgingsgebied.
+
+6. Onze Minister kan bij ministeriële regeling nadere regels stellen over de inhoud en inrichting van de jaarrekening van de NLPO en de lokale publieke media-instellingen.
 
 #### Paragraaf 2.6.6.2. Reservering en terugvordering
 
@@ -2732,25 +3182,23 @@ Het Commissariaat brengt als onderdeel van het financieel verslag, bedoeld in [a
 
 1. De landelijke publieke media-instellingen kunnen met toestemming van de raad van bestuur en onder de door hem te stellen voorwaarden, die per instelling of categorie van instellingen kunnen verschillen, gelden voor de verzorging van media-aanbod reserveren. De NPO kan gelden die bestemd zijn voor de verzorging van media-aanbod door de landelijke publieke media-instellingen, reserveren. De NPO kan tevens gelden die bestemd zijn voor de uitvoering van zijn taken en werkzaamheden, reserveren.
 
-2. Het totaal van de gereserveerde gelden in een kalenderjaar bedraagt niet meer dan tien procent van de uitgaven van de NPO en de landelijke publieke media-instellingen met uitzondering van de uitgaven aan verenigingsactiviteiten, zoals opgenomen in de jaarrekening, bedoeld in [artikel 2.171, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6&paragraaf=2.6.6.1&artikel=2.171&z=2026-01-01&g=2026-01-01).
+2. Het totaal van de gereserveerde gelden in een kalenderjaar bedraagt niet meer dan tien procent van de uitgaven van de NPO en de landelijke publieke media-instellingen met uitzondering van de uitgaven aan verenigingsactiviteiten, zoals opgenomen in de jaarrekening, bedoeld in [artikel 2.171, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6&paragraaf=2.6.6.1&artikel=2.171&z=2026-10-31&g=2026-10-31).
 
 3. Gelden die in strijd met het eerste lid zijn gereserveerd, worden terugbetaald aan de raad van bestuur.
 
 ##### Artikel 2.174a
 
-1. Omroeporganisaties die een erkenning of een voorlopige erkenning als bedoeld in [artikel 2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-01-01&g=2026-01-01) hebben verkregen, kunnen netto inkomsten uit contributies en verenigingsactiviteiten als bedoeld in [artikel 2.136](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.6&artikel=2.136&z=2026-01-01&g=2026-01-01) tot een bij algemene maatregel van bestuur vast te stellen bedrag reserveren voor die verenigingsactiviteiten.
+1. Omroeporganisaties die een erkenning of een voorlopige erkenning als bedoeld in [artikel 2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-10-31&g=2026-10-31) hebben verkregen, kunnen netto inkomsten uit contributies en verenigingsactiviteiten als bedoeld in [artikel 2.136](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.6&artikel=2.136&z=2026-10-31&g=2026-10-31) tot een bij algemene maatregel van bestuur vast te stellen bedrag reserveren voor die verenigingsactiviteiten.
 
-2. De landelijke publieke media-instelling die samenwerkingsomroep is, draagt ervoor zorg dat de omroepverenigingen die hij vertegenwoordigt, slechts tot een bij algemene maatregel van bestuur vast te stellen bedrag overeenkomstig het eerste lid reserveren voor eigen verenigingsactiviteiten. De instelling ontvangt jaarlijks aan het einde van het boekjaar, bedoeld in [artikel 2.172, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6&paragraaf=2.6.6.1&artikel=2.172&z=2026-01-01&g=2026-01-01), van de omroepverenigingen over dat boekjaar het deel van hun exploitatiesaldo dat overblijft na aftrek van de overeenkomstig de eerste volzin voor verenigingsactiviteiten gereserveerde gelden.
+2. De landelijke publieke media-instelling die samenwerkingsomroep is, draagt ervoor zorg dat de omroepverenigingen die hij vertegenwoordigt, slechts tot een bij algemene maatregel van bestuur vast te stellen bedrag overeenkomstig het eerste lid reserveren voor eigen verenigingsactiviteiten. De instelling ontvangt jaarlijks aan het einde van het boekjaar, bedoeld in [artikel 2.172, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6&paragraaf=2.6.6.1&artikel=2.172&z=2026-10-31&g=2026-10-31), van de omroepverenigingen over dat boekjaar het deel van hun exploitatiesaldo dat overblijft na aftrek van de overeenkomstig de eerste volzin voor verenigingsactiviteiten gereserveerde gelden.
 
 3. Gelden die in strijd met het eerste lid zijn gereserveerd of in strijd met het tweede lid, tweede volzin, niet zijn ontvangen, worden terugbetaald aan de raad van bestuur.
 
 ##### Artikel 2.175
 
-1. De regionale publieke media-instellingen kunnen met toestemming van het Commissariaat en onder door hem te stellen voorwaarden, die per instelling kunnen verschillen, gelden voor de verzorging van media-aanbod reserveren. De RPO kan gelden reserveren die bestemd zijn voor de uitvoering van haar taken en werkzaamheden.
+1. De regionale en lokale publieke media-instellingen kunnen met toestemming van het Commissariaat en onder door hem te stellen voorwaarden, die per instelling kunnen verschillen, gelden reserveren voor de verzorging van media-aanbod, tot een maximum per kalenderjaar van tien procent van de uitgaven in dat jaar van de media-instelling.
 
-2. Het totaal van de gereserveerde gelden in een kalenderjaar bedraagt niet meer dan tien procent van de uitgaven van een regionale publieke media-instelling of de RPO.
-
-3. Gelden die in strijd met het eerste lid zijn gereserveerd, worden terugbetaald aan het Commissariaat.
+2. De RPO en de NLPO kunnen gelden reserveren die bestemd zijn voor de uitvoering van hun taken en werkzaamheden, tot een maximum per kalenderjaar van tien procent van de uitgaven in dat jaar van de RPO of NLPO.
 
 ##### Artikel 2.176
 
@@ -2758,11 +3206,11 @@ Het Commissariaat brengt als onderdeel van het financieel verslag, bedoeld in [a
 
 2. Onze Minister kan voor de landelijke publieke media-instellingen op verzoek van de raad van bestuur ontheffing verlenen van het eerste lid. Onze Minister kan aan een ontheffing voorschriften verbinden.
 
-3. Het Commissariaat kan op verzoek van een regionale publieke media-instelling ontheffing verlenen van het eerste lid. Het Commissariaat kan aan een ontheffing voorschriften verbinden.
+3. Het Commissariaat kan op verzoek van een regionale of lokale publieke media-instelling ontheffing verlenen van het eerste lid. Het Commissariaat kan aan een ontheffing voorschriften verbinden.
 
 ##### Artikel 2.177
 
-1. Gelden die in strijd met het bepaalde bij of krachtens deze wet zijn gebruikt of die in strijd met de [artikelen 2.174, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6&paragraaf=2.6.6.2&artikel=2.174&z=2026-01-01&g=2026-01-01), [2.174a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6&paragraaf=2.6.6.2&artikel=2.174a&z=2026-01-01&g=2026-01-01), en [2.175, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6&paragraaf=2.6.6.2&artikel=2.175&z=2026-01-01&g=2026-01-01), zijn gereserveerd, of die in strijd met artikel 2.174a, tweede lid, tweede volzin, niet zijn ontvangen, vordert het Commissariaat van de NPO, de RPO of de landelijke of regionale publieke media-instelling terug.
+1. Gelden die in strijd met het bepaalde bij of krachtens deze wet zijn gebruikt of die in strijd met de [artikelen 2.174, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6&paragraaf=2.6.6.2&artikel=2.174&z=2026-10-31&g=2026-10-31), [2.174a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6&paragraaf=2.6.6.2&artikel=2.174a&z=2026-10-31&g=2026-10-31), en [2.175](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6&paragraaf=2.6.6.2&artikel=2.175&z=2026-10-31&g=2026-10-31), zijn gereserveerd, of die in strijd met artikel 2.174a, tweede lid, tweede volzin, niet zijn ontvangen, vordert het Commissariaat terug van de NPO, de RPO, de NLPO, of de landelijke, regionale of lokale publieke media-instelling.
 
 2. Teruggevorderde gelden worden toegevoegd aan de algemene mediareserve.
 
@@ -2770,17 +3218,35 @@ Het Commissariaat brengt als onderdeel van het financieel verslag, bedoeld in [a
 
 ##### Artikel 2.178
 
-1. De landelijke en regionale publieke media-instellingen en de Ster richten hun organisatie zodanig in dat een deugdelijke inrichting, sturing en beheersing van de bedrijfsprocessen gewaarborgd is.
+1. De landelijke, regionale en lokale publieke media-instellingen en de Ster richten hun organisatie zodanig in dat een deugdelijke inrichting, sturing en beheersing van de bedrijfsprocessen gewaarborgd is.
 
-2. De landelijke en regionale publieke media-instellingen en de Ster voeren een deugdelijke administratie waaruit te allen tijde Onze Minister, de raad van bestuur en het Commissariaat elk de benodigde informatie die zij voor de uitvoering van hun taken nodig hebben, op eenduidige wijze kunnen verkrijgen.
+2. De landelijke, regionale en lokale publieke media-instellingen en de Ster voeren een deugdelijke administratie waaruit te allen tijde Onze Minister, de raad van bestuur en het Commissariaat elk de benodigde informatie die zij voor de uitvoering van hun taken nodig hebben, op eenduidige wijze kunnen verkrijgen.
 
 3. De landelijke publieke media-instelling die samenwerkingsomroep is, draagt ervoor zorg dat de omroepverenigingen die hij vertegenwoordigt, overeenkomstig het eerste en tweede lid handelen.
 
-4. De raad van bestuur en het Commissariaat bevorderen dat onderscheidenlijk de landelijke publieke media-instellingen en de regionale publieke media-instellingen een eenduidige financiële boekhouding voeren.
+4. De raad van bestuur en het Commissariaat bevorderen dat onderscheidenlijk de landelijke, regionale en lokale publieke media-instellingen een eenduidige financiële boekhouding voeren.
+
+#### Afdeling 2.6.6a. Bijzondere bepalingen voor subsidie van gemeente aan lokale publieke media-instelling
 
 ##### Artikel 2.179
 
-*Vervallen*
+Deze afdeling is van toepassing op subsidie van een gemeente aan de lokale publieke media-instelling in het verzorgingsgebied waartoe de gemeente behoort, voor de uitvoering van de publieke mediaopdracht op lokaal niveau.
+
+##### Artikel 2.179a
+
+1. De gemeenteraad maakt voorafgaand aan het aanvraagtijdvak, bedoeld in [artikel 2.87u, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.3&artikel=2.87u&z=2026-10-31&g=2026-10-31), het budget dat voor subsidie beschikbaar is voor de aanwijzingsperiode, bedoeld in [artikel 2.87j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.3&artikel=2.87j&z=2026-10-31&g=2026-10-31), bekend door opname daarvan in de gemeentelijke begroting.
+
+2. De gemeenteraad maakt jaarlijks uiterlijk voor 1 augustus het geraamde budget dat voor subsidie opgenomen wordt in de gemeentelijke begroting voor het volgende kalenderjaar bekend.
+
+3. De gemeentelijke subsidiebeschikkingen bevatten geen verplichtingen die in strijd zijn met het bepaalde bij of krachtens deze wet of die niet passen in het desbetreffende concessiebeleidsplan NLPO of besluit tot aanwijzing als lokale publieke media-instelling.
+
+4. In afwijking van [artikel 2.177, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6&paragraaf=2.6.6.2&artikel=2.177&z=2026-10-31&g=2026-10-31), worden gelden die het Commissariaat terugvordert van een lokale publieke media-instelling mede terugbetaald aan de gemeente, in verhouding tot het aandeel van de gemeentelijke subsidie in:
+
+- a. de gelden die in strijd met het bepaalde bij of krachtens deze wet zijn gebruikt; of
+
+- b. de reserve van de lokale publieke media-instelling in het jaar waarop de terugvordering betrekking heeft.
+
+5. In afwijking van [artikel 2.170j, vierde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.5a&artikel=2.170j&z=2026-10-31&g=2026-10-31), mede in samenhang met artikel 2.170j, zevende en achtste lid, worden gelden die het Commissariaat terugvordert van de instelling in verhouding tot het aandeel van de gemeentelijke subsidie in het terug te betalen bedrag mede terugbetaald aan de gemeente.
 
 #### Afdeling 2.6.7. Omroeporkesten, omroepkoren, media-archief en expertisecentrum voor media-educatie
 
@@ -2808,7 +3274,7 @@ Het Commissariaat brengt als onderdeel van het financieel verslag, bedoeld in [a
 
 2. Onze Minister kan aan een besluit tot het ter beschikking stellen van bijdragen voorschriften verbinden.
 
-3. Als een instelling niet voldoet aan de [artikelen 2.180](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.7&artikel=2.180&z=2026-01-01&g=2026-01-01) en [2.181](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.7&artikel=2.181&z=2026-01-01&g=2026-01-01) of de aan een besluit tot het ter beschikking stellen van bijdragen verbonden voorschriften niet naleeft, kan Onze Minister:
+3. Als een instelling niet voldoet aan de [artikelen 2.180](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.7&artikel=2.180&z=2026-10-31&g=2026-10-31) en [2.181](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.7&artikel=2.181&z=2026-10-31&g=2026-10-31) of de aan een besluit tot het ter beschikking stellen van bijdragen verbonden voorschriften niet naleeft, kan Onze Minister:
 
 - a. de beschikking waarbij de desbetreffende instelling is aangewezen, intrekken; of
 
@@ -2822,7 +3288,7 @@ Het Commissariaat brengt als onderdeel van het financieel verslag, bedoeld in [a
 
 2. Een evaluatie vindt in elk geval eens in de vijf jaar plaats.
 
-3. Als de evaluatiecommissie in haar rapportage, bedoeld in [artikel 2.186, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.7&artikel=2.186&z=2026-01-01&g=2026-01-01), heeft vastgesteld dat er gegronde redenen zijn aan te nemen dat een omroeporganisatie onvoldoende heeft bijgedragen aan de uitvoering van de publieke mediaopdracht op landelijk niveau door de wijze waarop zij uitvoering heeft gegeven aan de publieke taak, bedoeld in [artikel 2.24, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.24&z=2026-01-01&g=2026-01-01), of [2.24a, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.24a&z=2026-01-01&g=2026-01-01), vindt in afwijking van het tweede lid in elk geval binnen twee jaar en vier jaar na het tijdstip waarop deze rapportage is uitgebracht een eerste respectievelijk tweede evaluatie plaats van de wijze waarop de betreffende omroeporganisatie uitvoering geeft aan deze publieke taak.
+3. Als de evaluatiecommissie in haar rapportage, bedoeld in [artikel 2.186, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.7&artikel=2.186&z=2026-10-31&g=2026-10-31), heeft vastgesteld dat er gegronde redenen zijn aan te nemen dat een omroeporganisatie onvoldoende heeft bijgedragen aan de uitvoering van de publieke mediaopdracht op landelijk niveau door de wijze waarop zij uitvoering heeft gegeven aan de publieke taak, bedoeld in [artikel 2.24, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.24&z=2026-10-31&g=2026-10-31), of [2.24a, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.24a&z=2026-10-31&g=2026-10-31), vindt in afwijking van het tweede lid in elk geval binnen twee jaar en vier jaar na het tijdstip waarop deze rapportage is uitgebracht een eerste respectievelijk tweede evaluatie plaats van de wijze waarop de betreffende omroeporganisatie uitvoering geeft aan deze publieke taak.
 
 4. Het derde lid is van overeenkomstige toepassing op de NTR en de NOS en de wijze waarop zij uitvoering hebben gegeven aan hun wettelijke taak.
 
@@ -2840,11 +3306,11 @@ Het Commissariaat brengt als onderdeel van het financieel verslag, bedoeld in [a
 
 - b. de mate waarin het media-aanbod van de landelijke publieke mediadienst tegemoet komt aan de interesses en inzichten van het algemene publiek en van specifieke bevolkings- en leeftijdsgroepen;
 
-- c. de wijze waarop de omroepverenigingen waaraan een voorlopige erkenning als bedoeld in [artikel 2.23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-01-01&g=2026-01-01), is verleend, een bijdrage hebben geleverd aan de vergroting van de verscheidenheid van het media-aanbod van de landelijke publieke mediadienst en daarmee een vernieuwende bijdrage hebben geleverd aan de uitvoering van de publieke mediaopdracht op landelijk niveau; en
+- c. de wijze waarop de omroepverenigingen waaraan een voorlopige erkenning als bedoeld in [artikel 2.23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-10-31&g=2026-10-31), is verleend, een bijdrage hebben geleverd aan de vergroting van de verscheidenheid van het media-aanbod van de landelijke publieke mediadienst en daarmee een vernieuwende bijdrage hebben geleverd aan de uitvoering van de publieke mediaopdracht op landelijk niveau; en
 
 - d. andere onderwerpen die zijn opgenomen in het besluit tot instelling van de evaluatiecommissie of die door Onze Minister zijn aangegeven.
 
-2. De evaluatiecommissie rapporteert over de wijze waarop omroeporganisaties, de NTR of de NOS afzonderlijk uitvoering hebben gegeven aan de publieke mediaopdracht op landelijk niveau als bedoeld in [artikel 2.184, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.7&artikel=2.184&z=2026-01-01&g=2026-01-01).
+2. De evaluatiecommissie rapporteert over de wijze waarop omroeporganisaties, de NTR of de NOS afzonderlijk uitvoering hebben gegeven aan de publieke mediaopdracht op landelijk niveau als bedoeld in [artikel 2.184, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.7&artikel=2.184&z=2026-10-31&g=2026-10-31).
 
 ##### Artikel 2.187
 
@@ -2854,9 +3320,29 @@ Het Commissariaat brengt als onderdeel van het financieel verslag, bedoeld in [a
 
 ##### Artikel 2.188
 
-1. Bij of krachtens algemene maatregel van bestuur worden criteria vastgesteld op basis waarvan afzonderlijke landelijke publieke media-instellingen worden geëvalueerd als bedoeld in [artikel 2.186, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.7&artikel=2.186&z=2026-01-01&g=2026-01-01).
+1. Bij of krachtens algemene maatregel van bestuur worden criteria vastgesteld op basis waarvan afzonderlijke landelijke publieke media-instellingen worden geëvalueerd als bedoeld in [artikel 2.186, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.7&artikel=2.186&z=2026-10-31&g=2026-10-31).
 
 2. De voordracht voor een krachtens het eerste lid vast te stellen algemene maatregel van bestuur wordt niet gedaan dan nadat het ontwerp in de Staatscourant is bekendgemaakt en aan een ieder de gelegenheid is geboden om binnen vier weken na de dag waarop de bekendmaking is geschied, wensen en bedenkingen ter kennis van Onze Minister te brengen. Gelijktijdig met de bekendmaking wordt het ontwerp aan de beide kamers der Staten-Generaal overgelegd.
+
+##### Artikel 2.189
+
+1. Een lokale publieke media-instelling evalueert in het tweede jaar van de aanwijzingsperiode, bedoeld in [artikel 2.87j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.3&artikel=2.87j&z=2026-10-31&g=2026-10-31), de wijze waarop zij uitvoering geeft aan de publieke mediaopdracht op lokaal niveau. Zij brengt het evaluatierapport uit aan de NLPO, die het aan Onze Minister zendt en openbaar maakt.
+
+2. Het eerste lid is niet van toepassing als toepassing is gegeven aan [artikel 2.87j, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.3&artikel=2.87j&z=2026-10-31&g=2026-10-31).
+
+##### Artikel 2.190
+
+1. De NLPO kan, voor zover een evaluatie of evaluaties als bedoeld in [artikel 2.189](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.7&artikel=2.189&z=2026-10-31&g=2026-10-31) daarvoor aanleiding geven, een onafhankelijke evaluatie laten verrichten van de uitvoering van de publieke mediaopdracht op lokaal niveau. Deze evaluatie kan ook begrensd zijn tot deelonderwerpen van die uitvoering, de NLPO of een deel van de lokale publieke media-instellingen.
+
+2. De onafhankelijke evaluatie gebeurt in het derde jaar van de aanwijzingsperiode, bedoeld in [artikel 2.87j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.3&artikel=2.87j&z=2026-10-31&g=2026-10-31).
+
+3. De NLPO stelt voor de duur van de onafhankelijke evaluatie een commissie in die tot taak heeft de evaluatie te verrichten. De commissie bestaat uit ten minste vijf onafhankelijke deskundigen.
+
+4. De leden van de evaluatiecommissie worden op voordracht van het bestuur van de NLPO benoemd door de raad van toezicht van de NLPO.
+
+5. De evaluatiecommissie kan aanbevelingen doen over de uitvoering van de publieke mediaopdracht op lokaal niveau.
+
+6. De evaluatiecommissie brengt het evaluatierapport uit aan de raad van toezicht van de NLPO, die het aan Onze Minister zendt en openbaar maakt.
 
 ### Hoofdstuk 3. Commerciële mediadiensten
 
@@ -2866,7 +3352,7 @@ Het Commissariaat brengt als onderdeel van het financieel verslag, bedoeld in [a
 
 1. Onverminderd het bepaalde bij of krachtens de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) is het verzorgen van een commerciële omroepdienst alleen toegestaan met toestemming van het Commissariaat.
 
-2. In afwijking van het eerste lid is [artikel 3.29b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2a&artikel=3.29b&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing voor zover de commerciële omroepdienst bestaat uit het verzorgen van radioprogramma-aanbod via het open internet.
+2. In afwijking van het eerste lid is [artikel 3.29b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2a&artikel=3.29b&z=2026-10-31&g=2026-10-31) van overeenkomstige toepassing voor zover de commerciële omroepdienst bestaat uit het verzorgen van radioprogramma-aanbod via het open internet.
 
 3. Als een commerciële media-instelling meerdere programmakanalen verzorgt, is voor ieder programmakanaal afzonderlijk toestemming nodig.
 
@@ -2898,7 +3384,7 @@ Het Commissariaat kan een aanvraag afwijzen als:
 
 - a. daarom verzoekt; of
 
-- b. in gebreke blijft met de betaling van de verschuldigde toezichtskosten, bedoeld in [artikel 3.30](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.3&artikel=3.30&z=2026-01-01&g=2026-01-01).
+- b. in gebreke blijft met de betaling van de verschuldigde toezichtskosten, bedoeld in [artikel 3.30](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.3&artikel=3.30&z=2026-10-31&g=2026-10-31).
 
 2. Het Commissariaat kan een toestemming intrekken als de commerciële media-instelling:
 
@@ -2928,7 +3414,7 @@ Het Commissariaat kan een aanvraag afwijzen als:
 
 - c. contactgegevens waaronder e-mailadres of internetadres; en
 
-- d. de naam van het Commissariaat als het orgaan dat is belast met het toezicht op de naleving op grond van [titel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=7&titeldeel=7.2&z=2026-01-01&g=2026-01-01).
+- d. de naam van het Commissariaat als het orgaan dat is belast met het toezicht op de naleving op grond van [titel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=7&titeldeel=7.2&z=2026-10-31&g=2026-10-31).
 
 2. Een commerciële media-instelling informeert het Commissariaat onverwijld over wijzigingen die van invloed kunnen zijn op de bevoegdheid van Nederland over deze commerciële media-instelling.
 
@@ -2982,7 +3468,7 @@ Het Commissariaat kan een aanvraag afwijzen als:
 
 2. Blokken van telewinkelboodschappen zijn gedurende de gehele duur daarvan door visuele en akoestische middelen duidelijk als zodanig herkenbaar.
 
-3. [Artikel 3.8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.2&artikel=3.8&z=2026-01-01&g=2026-01-01), is niet van toepassing op de telewinkelblokken.
+3. [Artikel 3.8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.2&artikel=3.8&z=2026-10-31&g=2026-10-31), is niet van toepassing op de telewinkelblokken.
 
 ##### Artikel 3.10
 
@@ -3012,7 +3498,7 @@ In televisieprogramma’s die bestaan uit het verslag van een evenement worden a
 
 ##### Artikel 3.14
 
-1. In afwijking van de [artikelen 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.2&artikel=3.8&z=2026-01-01&g=2026-01-01) en [3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.2&artikel=3.11&z=2026-01-01&g=2026-01-01) mag een televisieprogrammakanaal worden verzorgd dat:
+1. In afwijking van de [artikelen 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.2&artikel=3.8&z=2026-10-31&g=2026-10-31) en [3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.2&artikel=3.11&z=2026-10-31&g=2026-10-31) mag een televisieprogrammakanaal worden verzorgd dat:
 
 - a. uitsluitend bestaat uit ten behoeve van zelfpromotie uitgezonden reclameboodschappen; of
 
@@ -3024,7 +3510,7 @@ In televisieprogramma’s die bestaan uit het verslag van een evenement worden a
 
 ##### Artikel 3.15
 
-1. Programma-aanbod wordt alleen gesponsord als in het redactiestatuut, bedoeld in [artikel 3.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.1&artikel=3.5&z=2026-01-01&g=2026-01-01), waarborgen zijn opgenomen voor de redactionele onafhankelijkheid van de werknemers die belast zijn met de verzorging en samenstelling van het programma-aanbod ten opzichte van de sponsors.
+1. Programma-aanbod wordt alleen gesponsord als in het redactiestatuut, bedoeld in [artikel 3.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.1&artikel=3.5&z=2026-10-31&g=2026-10-31), waarborgen zijn opgenomen voor de redactionele onafhankelijkheid van de werknemers die belast zijn met de verzorging en samenstelling van het programma-aanbod ten opzichte van de sponsors.
 
 2. Programma-aanbod bestaande uit nieuws, actualiteiten of politieke informatie wordt niet gesponsord.
 
@@ -3044,7 +3530,7 @@ In televisieprogramma’s die bestaan uit het verslag van een evenement worden a
 
 1. In gesponsord programma-aanbod mogen:
 
-- a. onverminderd [afdeling 3.2.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.3a&z=2026-01-01&g=2026-01-01), producten of diensten van sponsors worden vermeld of getoond; en
+- a. onverminderd [afdeling 3.2.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.3a&z=2026-10-31&g=2026-10-31), producten of diensten van sponsors worden vermeld of getoond; en
 
 - b. in de titel de naam, het (beeld)merk, producten of diensten van sponsors worden vermeld of getoond.
 
@@ -3054,13 +3540,13 @@ In televisieprogramma’s die bestaan uit het verslag van een evenement worden a
 
 ##### Artikel 3.18
 
-[Artikel 3.16, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.3&artikel=3.16&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing als een andere instelling dan bedoeld in de begripsomschrijving van sponsoring in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=1&artikel=1.1&z=2026-01-01&g=2026-01-01) een bijdrage heeft gegeven voor de productie of aankoop van programma-aanbod om de verspreiding daarvan te bevorderen of mogelijk te maken.
+[Artikel 3.16, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.3&artikel=3.16&z=2026-10-31&g=2026-10-31), is van overeenkomstige toepassing als een andere instelling dan bedoeld in de begripsomschrijving van sponsoring in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=1&artikel=1.1&z=2026-10-31&g=2026-10-31) een bijdrage heeft gegeven voor de productie of aankoop van programma-aanbod om de verspreiding daarvan te bevorderen of mogelijk te maken.
 
 ##### Artikel 3.19
 
 1. Bij programma-aanbod dat bestaat uit het verslag of de weergave van een evenement dat niet voornamelijk bestemd is om als programma te worden uitgezonden, mogen de namen of (beeld)merken van die personen, bedrijven of instellingen, die een financiële of andere bijdrage hebben gegeven voor de totstandkoming van het evenement worden vermeld of getoond.
 
-2. [Artikel 3.16, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.3&artikel=3.16&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
+2. [Artikel 3.16, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.3&artikel=3.16&z=2026-10-31&g=2026-10-31), is van overeenkomstige toepassing.
 
 3. Het eerste en tweede lid zijn niet van toepassing op situaties die vallen onder het verbod op sponsoring op grond van [artikel 5 van de Tabaks- en rookwarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=5).
 
@@ -3074,7 +3560,7 @@ In televisieprogramma’s die bestaan uit het verslag van een evenement worden a
 
 ##### Artikel 3.19b
 
-1. Productplaatsing mag alleen voorkomen als in het redactiestatuut, bedoeld in [artikel 3.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.1&artikel=3.5&z=2026-01-01&g=2026-01-01), waarborgen zijn opgenomen voor de redactionele onafhankelijkheid van de werknemers die belast zijn met de verzorging en samenstelling van het programma-aanbod in verband met productplaatsing.
+1. Productplaatsing mag alleen voorkomen als in het redactiestatuut, bedoeld in [artikel 3.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.1&artikel=3.5&z=2026-10-31&g=2026-10-31), waarborgen zijn opgenomen voor de redactionele onafhankelijkheid van de werknemers die belast zijn met de verzorging en samenstelling van het programma-aanbod in verband met productplaatsing.
 
 2. Productplaatsing in het programma-aanbod is zodanig vormgegeven dat:
 
@@ -3094,7 +3580,7 @@ In televisieprogramma’s die bestaan uit het verslag van een evenement worden a
 
 ##### Artikel 3.19c
 
-[Artikel 3.19b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.3a&artikel=3.19b&z=2026-01-01&g=2026-01-01), is niet van toepassing op programma-aanbod met productplaatsing dat niet geproduceerd of besteld is door of in opdracht van de commerciële media-instelling dan wel door of in opdracht van een aan haar verbonden onderneming.
+[Artikel 3.19b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.3a&artikel=3.19b&z=2026-10-31&g=2026-10-31), is niet van toepassing op programma-aanbod met productplaatsing dat niet geproduceerd of besteld is door of in opdracht van de commerciële media-instelling dan wel door of in opdracht van een aan haar verbonden onderneming.
 
 #### Afdeling 3.2.4. Europese producties, onafhankelijke producties, Nederlands- en Friestalige producties en films
 
@@ -3108,7 +3594,7 @@ In televisieprogramma’s die bestaan uit het verslag van een evenement worden a
 
 ##### Artikel 3.21
 
-1. Op een televisieprogrammakanaal bestaat het programma-aanbod uit ten minste tien procent van de duur uit producties als bedoeld in [artikel 3.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.4&paragraaf=3.2.4.1&artikel=3.20&z=2026-01-01&g=2026-01-01), die kunnen worden aangemerkt als onafhankelijke producties.
+1. Op een televisieprogrammakanaal bestaat het programma-aanbod uit ten minste tien procent van de duur uit producties als bedoeld in [artikel 3.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.4&paragraaf=3.2.4.1&artikel=3.20&z=2026-10-31&g=2026-10-31), die kunnen worden aangemerkt als onafhankelijke producties.
 
 2. Ten minste een derde deel van de producties, bedoeld in het eerste lid, is niet ouder dan vijf jaar.
 
@@ -3130,13 +3616,13 @@ In televisieprogramma’s die bestaan uit het verslag van een evenement worden a
 
 2. Bij algemene maatregel van bestuur:
 
-- a. kunnen nadere regels worden gesteld over de toepassing van dit artikel en de [artikelen 3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.4&paragraaf=3.2.4.1&artikel=3.20&z=2026-01-01&g=2026-01-01) en [3.21](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.4&paragraaf=3.2.4.1&artikel=3.21&z=2026-01-01&g=2026-01-01); en
+- a. kunnen nadere regels worden gesteld over de toepassing van dit artikel en de [artikelen 3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.4&paragraaf=3.2.4.1&artikel=3.20&z=2026-10-31&g=2026-10-31) en [3.21](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.4&paragraaf=3.2.4.1&artikel=3.21&z=2026-10-31&g=2026-10-31); en
 
 - b. kan worden bepaald dat in andere dan de in het eerste lid bedoelde gevallen programma-aanbod wordt aangemerkt als onafhankelijke productie.
 
 ##### Artikel 3.23
 
-1. Voor de toepassing van de [artikelen 3.20 tot en met 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.4&paragraaf=3.2.4.1&artikel=3.20&z=2026-01-01&g=2026-01-01) blijft buiten beschouwing programma-aanbod dat:
+1. Voor de toepassing van de [artikelen 3.20 tot en met 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.4&paragraaf=3.2.4.1&artikel=3.20&z=2026-10-31&g=2026-10-31) blijft buiten beschouwing programma-aanbod dat:
 
 - a. bestaat uit nieuws;
 
@@ -3150,11 +3636,11 @@ In televisieprogramma’s die bestaan uit het verslag van een evenement worden a
 
 - f. bestaat uit teletekst.
 
-2. De [artikelen 3.20 tot en met 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.4&paragraaf=3.2.4.1&artikel=3.20&z=2026-01-01&g=2026-01-01) zijn niet van toepassing op:
+2. De [artikelen 3.20 tot en met 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.4&paragraaf=3.2.4.1&artikel=3.20&z=2026-10-31&g=2026-10-31) zijn niet van toepassing op:
 
 - a. programma-aanbod dat in slechts één gemeente of een beperkt aantal aan elkaar grenzende gemeenten kan worden ontvangen;
 
-- b. programma-aanbod als bedoeld in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.2&artikel=3.14&z=2026-01-01&g=2026-01-01); en
+- b. programma-aanbod als bedoeld in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.2&artikel=3.14&z=2026-10-31&g=2026-10-31); en
 
 - c. programma-aanbod dat uitsluitend bestemd is voor ontvangst in andere staten dan de lidstaten van de Europese Unie en dat niet direct of indirect kan worden ontvangen door het publiek in één of meer lidstaten van de Europese Unie.
 
@@ -3168,7 +3654,7 @@ In televisieprogramma’s die bestaan uit het verslag van een evenement worden a
 
 ##### Artikel 3.25
 
-1. Bij algemene maatregel van bestuur kunnen regels worden gesteld over de ondertiteling van televisieprogramma’s, waarbij onder meer kan worden bepaald welk percentage van het programma-aanbod, bedoeld in [artikel 3.24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.4&paragraaf=3.2.4.2&artikel=3.24&z=2026-01-01&g=2026-01-01), voorzien is van ondertiteling ten behoeve van personen met een auditieve beperking.
+1. Bij algemene maatregel van bestuur kunnen regels worden gesteld over de ondertiteling van televisieprogramma’s, waarbij onder meer kan worden bepaald welk percentage van het programma-aanbod, bedoeld in [artikel 3.24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.4&paragraaf=3.2.4.2&artikel=3.24&z=2026-10-31&g=2026-10-31), voorzien is van ondertiteling ten behoeve van personen met een auditieve beperking.
 
 2. Het Commissariaat kan in bijzondere gevallen geheel of gedeeltelijk ontheffing verlenen van een verplichting betreffende het percentage, bedoeld in het eerste lid. Het Commissariaat kan aan een ontheffing voorschriften verbinden.
 
@@ -3192,7 +3678,7 @@ In het programma-aanbod worden geen films opgenomen buiten de met de rechthebben
 
 ##### Artikel 3.29
 
-De [artikelen 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.2&artikel=3.8&z=2026-01-01&g=2026-01-01), [3.9, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.2&artikel=3.9&z=2026-01-01&g=2026-01-01), [3.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.2&artikel=3.10&z=2026-01-01&g=2026-01-01), [3.11 tot en met 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.2&artikel=3.11&z=2026-01-01&g=2026-01-01) en [3.19 tot en met 3.26](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.3&artikel=3.19&z=2026-01-01&g=2026-01-01) zijn niet van toepassing op programma-aanbod dat niet direct of indirect buiten Nederland ontvangen kan worden en dat:
+De [artikelen 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.2&artikel=3.8&z=2026-10-31&g=2026-10-31), [3.9, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.2&artikel=3.9&z=2026-10-31&g=2026-10-31), [3.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.2&artikel=3.10&z=2026-10-31&g=2026-10-31), [3.11 tot en met 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.2&artikel=3.11&z=2026-10-31&g=2026-10-31) en [3.19 tot en met 3.26](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.3&artikel=3.19&z=2026-10-31&g=2026-10-31) zijn niet van toepassing op programma-aanbod dat niet direct of indirect buiten Nederland ontvangen kan worden en dat:
 
 - a. voor zover het de beeldinhoud betreft uitsluitend of nagenoeg uitsluitend bestaat uit stilstaande beelden; of
 
@@ -3242,7 +3728,7 @@ In deze titel en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3.29d
 
-Op commerciële mediadiensten op aanvraag zijn de [artikelen 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.1&artikel=3.5&z=2026-01-01&g=2026-01-01), [3.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.1&artikel=3.5b&z=2026-01-01&g=2026-01-01), [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.2&artikel=3.6&z=2026-01-01&g=2026-01-01), [3.7, tweede lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.2&artikel=3.7&z=2026-01-01&g=2026-01-01), [3.15 tot en met 3.19c](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.3&artikel=3.15&z=2026-01-01&g=2026-01-01), [3.26](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.4&paragraaf=3.2.4.3&artikel=3.26&z=2026-01-01&g=2026-01-01) en [3.27](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.5&artikel=3.27&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing met uitzondering van de [artikelen 3.16, tweede lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.3&artikel=3.16&z=2026-01-01&g=2026-01-01), en [3.19b, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.3a&artikel=3.19b&z=2026-01-01&g=2026-01-01).
+Op commerciële mediadiensten op aanvraag zijn de [artikelen 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.1&artikel=3.5&z=2026-10-31&g=2026-10-31), [3.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.1&artikel=3.5b&z=2026-10-31&g=2026-10-31), [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.2&artikel=3.6&z=2026-10-31&g=2026-10-31), [3.7, tweede lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.2&artikel=3.7&z=2026-10-31&g=2026-10-31), [3.15 tot en met 3.19c](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.3&artikel=3.15&z=2026-10-31&g=2026-10-31), [3.26](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.4&paragraaf=3.2.4.3&artikel=3.26&z=2026-10-31&g=2026-10-31) en [3.27](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.5&artikel=3.27&z=2026-10-31&g=2026-10-31) van overeenkomstige toepassing met uitzondering van de [artikelen 3.16, tweede lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.3&artikel=3.16&z=2026-10-31&g=2026-10-31), en [3.19b, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.3a&artikel=3.19b&z=2026-10-31&g=2026-10-31).
 
 ##### Artikel 3.29e
 
@@ -3272,19 +3758,19 @@ Op commerciële mediadiensten op aanvraag zijn de [artikelen 3.5](https://wetten
 
 Onder Nederlands cultureel audiovisueel product wordt verstaan een Europese productie in de zin van artikel 1, onderdeel n, van de Europese richtlijn, niet zijnde een verslag of de weergave van een of meer sportevenementen of sportwedstrijden, die voldoet aan ten minste twee van de volgende voorwaarden, waarvan ten minste één van de onder a of b genoemde voorwaarden:
 
-- a. het scenario is voor ten minste 75 procent geschreven in de Nederlandse of Friese taal;
+- a. het scenario is voor ten minste 75 procent geschreven in de Nederlandse of Friese taal, of een taal die in Nederland is erkend onder deel II van het Europees Handvest voor regionale talen of talen van minderheden;
 
-- b. de hoofdpersonages drukken zich voor ten minste 75 procent uit in de Nederlandse of Friese taal;
+- b. de hoofdpersonages drukken zich voor ten minste 75 procent uit in de Nederlandse of Friese taal, of een taal die in Nederland is erkend onder deel II van het Europees Handvest voor regionale talen of talen van minderheden;
 
-- c. het scenario is gebaseerd op een origineel literair werk in de Nederlandse of Friese taal;
+- c. het scenario is gebaseerd op een origineel literair werk in de Nederlandse of Friese taal, of een taal die in Nederland is erkend onder deel II van het Europees Handvest voor regionale talen of talen van minderheden;
 
 - d. het hoofdthema houdt verband met de Nederlandse cultuur, geschiedenis, maatschappij of politiek.
 
 ##### Artikel 3.29g
 
-1. De investering, bedoeld in [artikel 3.29e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2a&artikel=3.29e&z=2026-01-01&g=2026-01-01), wordt uitgevoerd voordat twee boekjaren zijn verstreken sinds het einde van het boekjaar waarin de relevante omzet, bedoeld in artikel 3.29e, is gegenereerd.
+1. De investering, bedoeld in [artikel 3.29e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2a&artikel=3.29e&z=2026-10-31&g=2026-10-31), wordt uitgevoerd voordat twee boekjaren zijn verstreken sinds het einde van het boekjaar waarin de relevante omzet, bedoeld in artikel 3.29e, is gegenereerd.
 
-2. Indien een media-instelling in één boekjaar meer investeert dan waartoe hij op grond van [artikel 3.29e](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2a&artikel=3.29e&z=2026-01-01&g=2026-01-01) verplicht is, telt het meer geïnvesteerde mee in het daarop volgende boekjaar.
+2. Indien een media-instelling in één boekjaar meer investeert dan waartoe hij op grond van [artikel 3.29e](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2a&artikel=3.29e&z=2026-10-31&g=2026-10-31) verplicht is, telt het meer geïnvesteerde mee in het daarop volgende boekjaar.
 
 3. De investering vindt plaats in media-aanbod dat kwalificeert als Nederlands cultureel audiovisueel aanbod en bestaat uit:
 
@@ -3296,7 +3782,7 @@ Onder Nederlands cultureel audiovisueel product wordt verstaan een Europese prod
 
 4. Ten minste de helft van het te investeren bedrag wordt aangewend ten behoeve van media-aanbod dat kwalificeert als Nederlands cultureel audiovisueel product en een documentairefilm, documentaireserie, dramaserie of speelfilm is.
 
-5. Ten minste zestig procent van het te investeren bedrag wordt aangewend ten behoeve van onafhankelijke producties als bedoeld in [artikel 3.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.4&paragraaf=3.2.4.1&artikel=3.22&z=2026-01-01&g=2026-01-01). Artikel 3.22, tweede lid, is van overeenkomstige toepassing.
+5. Ten minste zestig procent van het te investeren bedrag wordt aangewend ten behoeve van onafhankelijke producties als bedoeld in [artikel 3.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.4&paragraaf=3.2.4.1&artikel=3.22&z=2026-10-31&g=2026-10-31). Artikel 3.22, tweede lid, is van overeenkomstige toepassing.
 
 6. De investering is uitgevoerd wanneer een of meer overeenkomsten zijn gesloten ten behoeve van een investering of verkrijging als bedoeld in het derde lid dan wel, voor zover het betreft een investering, bedoeld in het derde lid, onder a, het te investeren bedrag op andere wijze aantoonbaar daarvoor is aangewend.
 
@@ -3304,11 +3790,11 @@ Onder Nederlands cultureel audiovisueel product wordt verstaan een Europese prod
 
 ##### Artikel 3.29h
 
-1. Een media-instelling als bedoeld in [artikel 3.29e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2a&artikel=3.29e&z=2026-01-01&g=2026-01-01), informeert het Commissariaat jaarlijks vóór 1 juli met betrekking tot het voorgaande boekjaar over het volgende:
+1. Een media-instelling als bedoeld in [artikel 3.29e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2a&artikel=3.29e&z=2026-10-31&g=2026-10-31), informeert het Commissariaat jaarlijks vóór 1 juli met betrekking tot het voorgaande boekjaar over het volgende:
 
 - a. de samenstelling en hoogte van de relevante omzet; en
 
-- b. de uitvoering van de investering bedoeld in [artikel 3.29e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2a&artikel=3.29e&z=2026-01-01&g=2026-01-01).
+- b. de uitvoering van de investering bedoeld in [artikel 3.29e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2a&artikel=3.29e&z=2026-10-31&g=2026-10-31).
 
 2. Het eerste lid is niet van toepassing op een media-instelling waarvan de totale in Nederland gegenereerde omzet minder dan € 10 miljoen per boekjaar betreft.
 
@@ -3316,9 +3802,9 @@ Onder Nederlands cultureel audiovisueel product wordt verstaan een Europese prod
 
 ##### Artikel 3.29i
 
-1. De [artikelen 3.29e](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2a&artikel=3.29e&z=2026-01-01&g=2026-01-01), [3.29g](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2a&artikel=3.29g&z=2026-01-01&g=2026-01-01) en [3.29h](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2a&artikel=3.29h&z=2026-01-01&g=2026-01-01) zijn eveneens van toepassing op een aanbieder van mediadiensten die krachtens artikel 2 van de Europese richtlijn onder de bevoegdheid van een andere lidstaat valt en een commerciële mediadienst op aanvraag verzorgt die zich geheel of gedeeltelijk richt op publiek in Nederland, behalve wanneer de mediadienst een klein publiek heeft.
+1. De [artikelen 3.29e](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2a&artikel=3.29e&z=2026-10-31&g=2026-10-31), [3.29g](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2a&artikel=3.29g&z=2026-10-31&g=2026-10-31) en [3.29h](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2a&artikel=3.29h&z=2026-10-31&g=2026-10-31) zijn eveneens van toepassing op een aanbieder van mediadiensten die krachtens artikel 2 van de Europese richtlijn onder de bevoegdheid van een andere lidstaat valt en een commerciële mediadienst op aanvraag verzorgt die zich geheel of gedeeltelijk richt op publiek in Nederland, behalve wanneer de mediadienst een klein publiek heeft.
 
-2. Het Commissariaat kan een aanbieder van mediadiensten als bedoeld in het eerste lid ontheffing verlenen van [artikel 3.29e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2a&artikel=3.29e&z=2026-01-01&g=2026-01-01), indien toepassing gelet op de aard of het onderwerp van de betreffende mediadienst, of het gebruik van innovatieve formats, praktisch onuitvoerbaar of ongerechtvaardigd zou zijn. Artikel 3.29e, zesde lid, is van overeenkomstige toepassing.
+2. Het Commissariaat kan een aanbieder van mediadiensten als bedoeld in het eerste lid ontheffing verlenen van [artikel 3.29e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2a&artikel=3.29e&z=2026-10-31&g=2026-10-31), indien toepassing gelet op de aard of het onderwerp van de betreffende mediadienst, of het gebruik van innovatieve formats, praktisch onuitvoerbaar of ongerechtvaardigd zou zijn. Artikel 3.29e, zesde lid, is van overeenkomstige toepassing.
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen indicatoren worden vastgesteld waaruit kan worden opgemaakt dat een mediadienst zich richt op publiek in Nederland.
 
@@ -3354,7 +3840,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 - *door gebruiker gegenereerde video:* een reeks bewegende beelden, al dan niet met geluid, die ongeacht de duur ervan een afzonderlijk element vormt, die door een gebruiker is gecreëerd en door die gebruiker of een andere gebruiker naar een videoplatform is geüpload;
 
-- *gedragscode:* gedragscode voor een of meer videoplatformen, gericht op de gebruikers van een videoplatformdienst, waarin in ieder geval regels als bedoeld in [artikel 3a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3a&artikel=3a.3&z=2026-01-01&g=2026-01-01) zijn opgenomen.
+- *gedragscode:* gedragscode voor een of meer videoplatformen, gericht op de gebruikers van een videoplatformdienst, waarin in ieder geval regels als bedoeld in [artikel 3a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3a&artikel=3a.3&z=2026-10-31&g=2026-10-31) zijn opgenomen.
 
 - *productplaatsing:* het tegen betaling of soortgelijke vergoeding opnemen van of het verwijzen naar een product, dienst of (beeld)merk binnen het kader van een programma, met een programma overeenkomend onderdeel van het media-aanbod, of door een gebruiker gegenereerde video;
 
@@ -3418,11 +3904,11 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 4.1
 
-1. Het audiovisueel media-aanbod mag alleen dan aanbod bevatten dat schade kan toebrengen aan de lichamelijke, geestelijke of morele ontwikkeling van personen jonger dan zestien jaar, als de instelling die verantwoordelijk is voor de inhoud van het aanbod is aangesloten bij de door Onze Minister erkende organisatie, bedoeld in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=4&artikel=4.2&z=2026-01-01&g=2026-01-01), en ter zake gebonden is aan de regels en het toezicht daarop van die organisatie met betrekking tot het verspreiden van het hiervoor bedoelde aanbod.
+1. Het audiovisueel media-aanbod mag alleen dan aanbod bevatten dat schade kan toebrengen aan de lichamelijke, geestelijke of morele ontwikkeling van personen jonger dan zestien jaar, als de instelling die verantwoordelijk is voor de inhoud van het aanbod is aangesloten bij de door Onze Minister erkende organisatie, bedoeld in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=4&artikel=4.2&z=2026-10-31&g=2026-10-31), en ter zake gebonden is aan de regels en het toezicht daarop van die organisatie met betrekking tot het verspreiden van het hiervoor bedoelde aanbod.
 
-2. De instelling die is aangesloten bij de door Onze Minister erkende organisatie, bedoeld in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=4&artikel=4.2&z=2026-01-01&g=2026-01-01), toont dit aan door een schriftelijke verklaring van de erkende organisatie aan het Commissariaat over te leggen.
+2. De instelling die is aangesloten bij de door Onze Minister erkende organisatie, bedoeld in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=4&artikel=4.2&z=2026-10-31&g=2026-10-31), toont dit aan door een schriftelijke verklaring van de erkende organisatie aan het Commissariaat over te leggen.
 
-3. Het eerste en tweede lid zijn niet van toepassing voor zover het audiovisueel media-aanbod wordt aangeboden in een andere lidstaat van de Europese Unie en de aanbieder daarvan aan het Commissariaat heeft aangetoond dat de bescherming van personen jonger dan zestien jaar tegen het betreffende audiovisuele media-aanbod ten minste overeenkomstig is aan het beschermingsniveau als bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=4&artikel=4.2&z=2026-01-01&g=2026-01-01).
+3. Het eerste en tweede lid zijn niet van toepassing voor zover het audiovisueel media-aanbod wordt aangeboden in een andere lidstaat van de Europese Unie en de aanbieder daarvan aan het Commissariaat heeft aangetoond dat de bescherming van personen jonger dan zestien jaar tegen het betreffende audiovisuele media-aanbod ten minste overeenkomstig is aan het beschermingsniveau als bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=4&artikel=4.2&z=2026-10-31&g=2026-10-31).
 
 ##### Artikel 4.1a
 
@@ -3430,13 +3916,13 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 2. De meest schadelijke inhoud als nodeloos geweld en pornografie wordt door de instelling die verantwoordelijk is voor de inhoud van het aanbod ontoegankelijk gemaakt voor personen jonger dan zestien jaar.
 
-3. Voor zover het televisieprogramma-aanbod betreft dat niet als meest schadelijke inhoud kan worden gekwalificeerd, worden de maatregelen die volgen uit de regelingen als bedoeld in [artikel 4.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=4&artikel=4.2&z=2026-01-01&g=2026-01-01), beschouwd als maatregelen als bedoeld in het eerste lid.
+3. Voor zover het televisieprogramma-aanbod betreft dat niet als meest schadelijke inhoud kan worden gekwalificeerd, worden de maatregelen die volgen uit de regelingen als bedoeld in [artikel 4.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=4&artikel=4.2&z=2026-10-31&g=2026-10-31), beschouwd als maatregelen als bedoeld in het eerste lid.
 
 4. De op grond van dit artikel door media-instellingen verzamelde of anderszins gegenereerde persoonsgegevens van minderjarigen worden niet verwerkt voor commerciële doeleinden.
 
 ##### Artikel 4.2
 
-1. Onze Minister kan een organisatie erkennen die voorziet in regelingen omtrent classificatie en het verspreiden van aanbod als bedoeld in [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=4&artikel=4.1&z=2026-01-01&g=2026-01-01), en het toezicht daarop.
+1. Onze Minister kan een organisatie erkennen die voorziet in regelingen omtrent classificatie en het verspreiden van aanbod als bedoeld in [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=4&artikel=4.1&z=2026-10-31&g=2026-10-31), en het toezicht daarop.
 
 2. De regelingen hebben in ieder geval betrekking op:
 
@@ -3460,7 +3946,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 1. Een organisatie komt slechts voor erkenning in aanmerking als:
 
-- a. onafhankelijk toezicht door de organisatie op de naleving van de regelingen, bedoeld in [artikel 4.2 , eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=4&artikel=4.2&z=2026-01-01&g=2026-01-01), is gewaarborgd;
+- a. onafhankelijk toezicht door de organisatie op de naleving van de regelingen, bedoeld in [artikel 4.2 , eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=4&artikel=4.2&z=2026-10-31&g=2026-10-31), is gewaarborgd;
 
 - b. voorzien is in voldoende betrokkenheid van belanghebbenden, onder wie in ieder geval vertegenwoordigers uit de consumentensfeer, publieke media-instellingen, deskundigen op het gebied van de audiovisuele media en producenten van audiovisuele media; en
 
@@ -3472,9 +3958,9 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 4.4
 
-1. Onze Minister trekt een erkenning in als de erkende organisatie niet meer voldoet aan de [artikelen 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=4&artikel=4.2&z=2026-01-01&g=2026-01-01) en [4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=4&artikel=4.3&z=2026-01-01&g=2026-01-01).
+1. Onze Minister trekt een erkenning in als de erkende organisatie niet meer voldoet aan de [artikelen 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=4&artikel=4.2&z=2026-10-31&g=2026-10-31) en [4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=4&artikel=4.3&z=2026-10-31&g=2026-10-31).
 
-2. Onze Minister kan een erkenning intrekken als de erkende organisatie niet voldoet aan de nadere regels en andere eisen, bedoeld in [artikel 4.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=4&artikel=4.3&z=2026-01-01&g=2026-01-01), of de voorschriften, bedoeld in [artikel 4.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=4&artikel=4.3&z=2026-01-01&g=2026-01-01).
+2. Onze Minister kan een erkenning intrekken als de erkende organisatie niet voldoet aan de nadere regels en andere eisen, bedoeld in [artikel 4.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=4&artikel=4.3&z=2026-10-31&g=2026-10-31), of de voorschriften, bedoeld in [artikel 4.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=4&artikel=4.3&z=2026-10-31&g=2026-10-31).
 
 ##### Artikel 4.5
 
@@ -3502,11 +3988,11 @@ Van een beschikking tot erkenning en intrekking van een erkenning wordt mededeli
 
 ##### Artikel 5.2
 
-Bij algemene maatregel van bestuur worden nadere regels gesteld ter uitvoering van de verplichting, bedoeld in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=5&artikel=5.1&z=2026-01-01&g=2026-01-01), waarbij in ieder geval wordt bepaald of de op de lijst genoemde evenementen, wanneer zij als televisieprogramma worden verspreid, in ieder geval worden verspreid op een open televisieprogrammakanaal door middel van volledige of gedeeltelijke rechtstreekse verslaggeving dan wel door middel van volledige of gedeeltelijke uitgestelde verslaggeving.
+Bij algemene maatregel van bestuur worden nadere regels gesteld ter uitvoering van de verplichting, bedoeld in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=5&artikel=5.1&z=2026-10-31&g=2026-10-31), waarbij in ieder geval wordt bepaald of de op de lijst genoemde evenementen, wanneer zij als televisieprogramma worden verspreid, in ieder geval worden verspreid op een open televisieprogrammakanaal door middel van volledige of gedeeltelijke rechtstreekse verslaggeving dan wel door middel van volledige of gedeeltelijke uitgestelde verslaggeving.
 
 ##### Artikel 5.3
 
-1. Publieke media-instellingen en commerciële media-instellingen oefenen verworven verspreidingsrechten die betrekking hebben op evenementen die zijn vermeld op de lijst van evenementen uit overeenkomstig de krachtens [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=5&artikel=5.2&z=2026-01-01&g=2026-01-01) gestelde regels.
+1. Publieke media-instellingen en commerciële media-instellingen oefenen verworven verspreidingsrechten die betrekking hebben op evenementen die zijn vermeld op de lijst van evenementen uit overeenkomstig de krachtens [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=5&artikel=5.2&z=2026-10-31&g=2026-10-31) gestelde regels.
 
 2. De instellingen oefenen na 30 juli 1997 verworven uitzendrechten uit overeenkomstig de regels die door andere lidstaten van de Europese Unie overeenkomstig artikel 14, van de Europese richtlijn zijn gesteld.
 
@@ -3552,7 +4038,7 @@ Bij algemene maatregel van bestuur worden nadere regels gesteld ter uitvoering v
 
 ##### Artikel 6.2
 
-1. Als een politieke partij op grond van de [artikelen 137c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=137c), [137d](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=137d), [137e](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=137e), [137f](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=137f), [137g](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=137g) of [429quater van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=429quater) is veroordeeld tot een onvoorwaardelijke geldboete, wijst het Commissariaat in afwijking van [artikel 6.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.1&afdeling=6.1.1&artikel=6.1&z=2026-01-01&g=2026-01-01), aan deze politieke partij geen uren toe gedurende een periode die ingaat op de dag waarop de veroordeling onherroepelijk is geworden. Deze periode is:
+1. Als een politieke partij op grond van de [artikelen 137c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=137c), [137d](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=137d), [137e](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=137e), [137f](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=137f), [137g](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=137g) of [429quater van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=429quater) is veroordeeld tot een onvoorwaardelijke geldboete, wijst het Commissariaat in afwijking van [artikel 6.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.1&afdeling=6.1.1&artikel=6.1&z=2026-10-31&g=2026-10-31), aan deze politieke partij geen uren toe gedurende een periode die ingaat op de dag waarop de veroordeling onherroepelijk is geworden. Deze periode is:
 
 - a. één jaar, bij een geldboete van minder dan € 1 125;
 
@@ -3562,15 +4048,15 @@ Bij algemene maatregel van bestuur worden nadere regels gesteld ter uitvoering v
 
 - d. vier jaar, bij een geldboete van € 3 375 of meer.
 
-2. Als een politieke partij is veroordeeld wegens een terroristisch misdrijf als bedoeld in [artikel 83 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=83) is, wijst het Commissariaat in afwijking van [artikel 6.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.1&afdeling=6.1.1&artikel=6.1&z=2026-01-01&g=2026-01-01), aan deze politieke partij geen uren toe gedurende een periode van vier jaar die ingaat op de dag waarop de veroordeling onherroepelijk is geworden.
+2. Als een politieke partij is veroordeeld wegens een terroristisch misdrijf als bedoeld in [artikel 83 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=83) is, wijst het Commissariaat in afwijking van [artikel 6.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.1&afdeling=6.1.1&artikel=6.1&z=2026-10-31&g=2026-10-31), aan deze politieke partij geen uren toe gedurende een periode van vier jaar die ingaat op de dag waarop de veroordeling onherroepelijk is geworden.
 
-3. Als aan de lijst van een politieke partij aan de lijst waarvan op de dag waarop de veroordeling onherroepelijk wordt op grond van de [Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627) geen zetels zijn toegewezen, op grond van een verkiezing die plaatsvindt binnen een periode van twee jaar na die dag één of meer zetels worden toegewezen, gaat de periode gedurende welke aan deze politieke partij geen uren als bedoeld in [artikel 6.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.1&afdeling=6.1.1&artikel=6.1&z=2026-01-01&g=2026-01-01), worden toegewezen, in op de dag waarop de verkiezing heeft plaatsgevonden.
+3. Als aan de lijst van een politieke partij aan de lijst waarvan op de dag waarop de veroordeling onherroepelijk wordt op grond van de [Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627) geen zetels zijn toegewezen, op grond van een verkiezing die plaatsvindt binnen een periode van twee jaar na die dag één of meer zetels worden toegewezen, gaat de periode gedurende welke aan deze politieke partij geen uren als bedoeld in [artikel 6.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.1&afdeling=6.1.1&artikel=6.1&z=2026-10-31&g=2026-10-31), worden toegewezen, in op de dag waarop de verkiezing heeft plaatsgevonden.
 
 ##### Artikel 6.3
 
-1. Na een veroordeling als bedoeld in [artikel 6.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.1&afdeling=6.1.1&artikel=6.2&z=2026-01-01&g=2026-01-01), worden aan de politieke partij, zo nodig in afwijking van [artikel 6.2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.1&afdeling=6.1.1&artikel=6.2&z=2026-01-01&g=2026-01-01), in ieder geval geen uren als bedoeld in [artikel 6.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.1&afdeling=6.1.1&artikel=6.1&z=2026-01-01&g=2026-01-01), toegewezen binnen twee jaar na de dag waarop de veroordeling onherroepelijk is geworden.
+1. Na een veroordeling als bedoeld in [artikel 6.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.1&afdeling=6.1.1&artikel=6.2&z=2026-10-31&g=2026-10-31), worden aan de politieke partij, zo nodig in afwijking van [artikel 6.2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.1&afdeling=6.1.1&artikel=6.2&z=2026-10-31&g=2026-10-31), in ieder geval geen uren als bedoeld in [artikel 6.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.1&afdeling=6.1.1&artikel=6.1&z=2026-10-31&g=2026-10-31), toegewezen binnen twee jaar na de dag waarop de veroordeling onherroepelijk is geworden.
 
-2. Als aan een politieke partij met toepassing van [artikel 6.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.1&afdeling=6.1.1&artikel=6.2&z=2026-01-01&g=2026-01-01), geen uren meer worden toegewezen, dan vervallen met ingang van de dag waarop de veroordeling onherroepelijk is geworden van rechtswege ook de uren die al zijn toegewezen.
+2. Als aan een politieke partij met toepassing van [artikel 6.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.1&afdeling=6.1.1&artikel=6.2&z=2026-10-31&g=2026-10-31), geen uren meer worden toegewezen, dan vervallen met ingang van de dag waarop de veroordeling onherroepelijk is geworden van rechtswege ook de uren die al zijn toegewezen.
 
 ##### Artikel 6.4
 
@@ -3604,7 +4090,7 @@ Een politieke partij gebruikt de aan haar toegewezen uren geheel en alleen voor 
 
 ##### Artikel 6.8
 
-De [artikelen 2.53](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.53&z=2026-01-01&g=2026-01-01), [2.59](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.59&z=2026-01-01&g=2026-01-01), [2.60](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.60&z=2026-01-01&g=2026-01-01), [2.88, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.1&artikel=2.88&z=2026-01-01&g=2026-01-01), [2.89](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.2&paragraaf=2.5.2.1&artikel=2.89&z=2026-01-01&g=2026-01-01), [2.106 tot en met 2.109](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.3&artikel=2.106&z=2026-01-01&g=2026-01-01), [2.114](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.3&artikel=2.114&z=2026-01-01&g=2026-01-01), [2.124](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.4&paragraaf=2.5.4.3&artikel=2.124&z=2026-01-01&g=2026-01-01), [2.139](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.6&artikel=2.139&z=2026-01-01&g=2026-01-01) en [2.142](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.6&artikel=2.142&z=2026-01-01&g=2026-01-01) en [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=4&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing op politieke partijen en de overheid en het gebruik van de aan hen toegewezen uren. De [artikelen 2.59](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.59&z=2026-01-01&g=2026-01-01) en [2.60](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.60&z=2026-01-01&g=2026-01-01) zijn daarbij slechts van overeenkomstige toepassing voor zover het betreft de activiteiten die verband houden met het gebruik van de toegewezen uren.
+De [artikelen 2.53](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.53&z=2026-10-31&g=2026-10-31), [2.59](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.59&z=2026-10-31&g=2026-10-31), [2.60](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.60&z=2026-10-31&g=2026-10-31), [2.88, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.1&artikel=2.88&z=2026-10-31&g=2026-10-31), [2.89](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.2&paragraaf=2.5.2.1&artikel=2.89&z=2026-10-31&g=2026-10-31), [2.106 tot en met 2.109](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.3&artikel=2.106&z=2026-10-31&g=2026-10-31), [2.114](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.3&artikel=2.114&z=2026-10-31&g=2026-10-31), [2.124](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.4&paragraaf=2.5.4.3&artikel=2.124&z=2026-10-31&g=2026-10-31), [2.139](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.6&artikel=2.139&z=2026-10-31&g=2026-10-31) en [2.142](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.6&artikel=2.142&z=2026-10-31&g=2026-10-31) en [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=4&z=2026-10-31&g=2026-10-31) zijn van overeenkomstige toepassing op politieke partijen en de overheid en het gebruik van de aan hen toegewezen uren. De [artikelen 2.59](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.59&z=2026-10-31&g=2026-10-31) en [2.60](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.60&z=2026-10-31&g=2026-10-31) zijn daarbij slechts van overeenkomstige toepassing voor zover het betreft de activiteiten die verband houden met het gebruik van de toegewezen uren.
 
 ### Titel 6.2. Toestemming omroepdiensten voor bijzondere doelen
 
@@ -3628,7 +4114,7 @@ In deze afdeling wordt verstaan onder:
 
 - *«programmapakket»:* een door een natuurlijk persoon of rechtspersoon samengesteld geheel van televisie- en radioprogrammakanalen die hoofdzakelijk door derden zijn geproduceerd;
 
-- *«standaardprogrammapakket»:* een programmapakket als bedoeld in [artikel 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.3&afdeling=6.3.1&paragraaf=6.3.1.2&artikel=6.13&z=2026-01-01&g=2026-01-01) of in [artikel 6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.3&afdeling=6.3.1&paragraaf=6.3.1.2&artikel=6.14&z=2026-01-01&g=2026-01-01).
+- *«standaardprogrammapakket»:* een programmapakket als bedoeld in [artikel 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.3&afdeling=6.3.1&paragraaf=6.3.1.2&artikel=6.13&z=2026-10-31&g=2026-10-31) of in [artikel 6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.3&afdeling=6.3.1&paragraaf=6.3.1.2&artikel=6.14&z=2026-10-31&g=2026-10-31).
 
 #### Paragraaf 6.3.1.1. Verspreiding programma-aanbod
 
@@ -3646,7 +4132,7 @@ De aanbieder van een omroepzender of een omroepnetwerk verspreidt geen programma
 
 De eerste volzin is van overeenkomstige toepassing op een pakketaanbieder.
 
-2. [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=4&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing.
+2. [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=4&z=2026-10-31&g=2026-10-31) is van overeenkomstige toepassing.
 
 #### Paragraaf 6.3.1.2. Verspreiding van pakketten televisie- en radioprogrammakanalen
 
@@ -3666,13 +4152,13 @@ De eerste volzin is van overeenkomstige toepassing op een pakketaanbieder.
 
 3. Voor zover het betreft televisieprogrammakanalen, bevat het standaardprogrammapakket in elk geval:
 
-- a. de algemene televisieprogrammakanalen van de landelijke publieke mediadienst, bedoeld in [artikel 2.50, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.50&z=2026-01-01&g=2026-01-01), en een derde algemeen televisieprogrammakanaal voor zover dat door de landelijke publieke mediadienst wordt verzorgd;
+- a. de algemene televisieprogrammakanalen van de landelijke publieke mediadienst, bedoeld in [artikel 2.50, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.50&z=2026-10-31&g=2026-10-31), en een derde algemeen televisieprogrammakanaal voor zover dat door de landelijke publieke mediadienst wordt verzorgd;
 
-- b. één televisieprogrammakanaal van de regionale publieke mediadienst met programma-aanbod als bedoeld in [artikel 2.70](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.2&artikel=2.70&z=2026-01-01&g=2026-01-01), dat bestemd is voor de provincie of het deel van de provincie waarbinnen de abonnees woonachtig zijn;
+- b. één televisieprogrammakanaal van de regionale publieke mediadienst met programma-aanbod als bedoeld in [artikel 2.70](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.3&artikel=2.70&z=2026-10-31&g=2026-10-31), dat bestemd is voor de provincie of het deel van de provincie waarbinnen de abonnees woonachtig zijn;
 
-- c. de televisieprogrammakanalen van de regionale publieke mediadienst met programma-aanbod als bedoeld in [artikel 2.70](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.2&artikel=2.70&z=2026-01-01&g=2026-01-01), dat bestemd is voor de provincies aangrenzend aan de provincie waarbinnen de abonnees woonachtig zijn;
+- c. de televisieprogrammakanalen van de regionale publieke mediadienst met programma-aanbod als bedoeld in [artikel 2.70](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.3&artikel=2.70&z=2026-10-31&g=2026-10-31), dat bestemd is voor de provincies aangrenzend aan de provincie waarbinnen de abonnees woonachtig zijn;
 
-- d. één televisieprogrammakanaal van de lokale publieke mediadienst met programma-aanbod als bedoeld in [artikel 2.70](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.2&artikel=2.70&z=2026-01-01&g=2026-01-01), dat bestemd is voor de gemeente waarbinnen de abonnees woonachtig zijn en dat door de pakketaanbieder wordt verspreid vanaf een in de markt gebruikelijk en geschikt centraal overnamepunt in Nederland voor de aanlevering en verspreiding van televisieprogrammakanalen;
+- d. één televisieprogrammakanaal van de lokale publieke mediadienst met programma-aanbod als bedoeld in [artikel 2.87x](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.4&artikel=2.87x&z=2026-10-31&g=2026-10-31), dat bestemd is voor het lokale verzorgingsgebied waarbinnen de abonnees woonachtig zijn en dat door de pakketaanbieder wordt verspreid vanaf een in de markt gebruikelijk en geschikt centraal overnamepunt in Nederland voor de aanlevering en verspreiding van televisieprogrammakanalen;
 
 - e. ten hoogste twee televisieprogrammakanalen van de lokale publieke mediadienst met ander programma-aanbod dan bedoeld in onderdeel d, dat een lokale publieke media-instelling verzorgt en dat is gericht op specifieke bevolkings- en leeftijdsgroepen waaronder minderheden en dat door de pakketaanbieder wordt verspreid vanaf een in de markt gebruikelijk en geschikt centraal overnamepunt in Nederland voor de aanlevering en verspreiding van televisieprogrammakanalen; en
 
@@ -3682,9 +4168,9 @@ De eerste volzin is van overeenkomstige toepassing op een pakketaanbieder.
 
 - a. vijf algemene radioprogrammakanalen van de landelijke publieke mediadienst;
 
-- b. één radioprogrammakanaal van de regionale publieke mediadienst met programma-aanbod als bedoeld in [artikel 2.70](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.2&artikel=2.70&z=2026-01-01&g=2026-01-01), dat bestemd is voor de provincie of het deel van de provincie waarbinnen de abonnees woonachtig zijn;
+- b. één radioprogrammakanaal van de regionale publieke mediadienst met programma-aanbod als bedoeld in [artikel 2.70](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.3&artikel=2.70&z=2026-10-31&g=2026-10-31), dat bestemd is voor de provincie of het deel van de provincie waarbinnen de abonnees woonachtig zijn;
 
-- c. één radioprogrammakanaal van de lokale publieke mediadienst met programma-aanbod als bedoeld in [artikel 2.70](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.2&artikel=2.70&z=2026-01-01&g=2026-01-01), dat bestemd is voor de gemeente waarbinnen de abonnees woonachtig zijn en dat door de pakketaanbieder wordt verspreid vanaf een in de markt gebruikelijk en geschikt centraal overnamepunt in Nederland voor de aanlevering en verspreiding van radioprogrammakanalen;
+- c. één radioprogrammakanaal van de lokale publieke mediadienst met programma-aanbod als bedoeld in [artikel 2.87x](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.4&artikel=2.87x&z=2026-10-31&g=2026-10-31), dat bestemd is voor het lokale verzorgingsgebied waarbinnen de abonnees woonachtig zijn en dat door de pakketaanbieder wordt verspreid vanaf een in de markt gebruikelijk en geschikt centraal overnamepunt in Nederland voor de aanlevering en verspreiding van radioprogrammakanalen;
 
 - d. ten hoogste vijf radioprogrammakanalen van de lokale publieke mediadienst met ander programma-aanbod dan bedoeld in onderdeel c, dat een lokale publieke media-instelling verzorgt en dat is gericht op specifieke bevolkings- en leeftijdsgroepen waaronder minderheden en dat door de pakketaanbieder wordt verspreid vanaf een in de markt gebruikelijk en geschikt centraal overnamepunt in Nederland voor de aanlevering en verspreiding van radioprogrammakanalen; en
 
@@ -3706,9 +4192,9 @@ De eerste volzin is van overeenkomstige toepassing op een pakketaanbieder.
 
 2. Het standaardprogrammapakket bestaat uit ten minste vijftien televisieprogrammakanalen en een door de pakketaanbieder met inachtneming van het vierde lid te bepalen aantal radioprogrammakanalen. De programmakanalen worden ongewijzigd verspreid.
 
-3. [Artikel 6.13, derde lid, aanhef en onderdelen a, b, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.3&afdeling=6.3.1&paragraaf=6.3.1.2&artikel=6.13&z=2026-01-01&g=2026-01-01), is van toepassing. Artikel 6.13, derde lid, aanhef en onderdeel f, is van toepassing met dien verstande dat het aantal televisieprogrammakanalen twee bedraagt.
+3. [Artikel 6.13, derde lid, aanhef en onderdelen a, b, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.3&afdeling=6.3.1&paragraaf=6.3.1.2&artikel=6.13&z=2026-10-31&g=2026-10-31), is van toepassing. Artikel 6.13, derde lid, aanhef en onderdeel f, is van toepassing met dien verstande dat het aantal televisieprogrammakanalen twee bedraagt.
 
-4. [Artikel 6.13, vierde lid, aanhef en onderdelen a, b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.3&afdeling=6.3.1&paragraaf=6.3.1.2&artikel=6.13&z=2026-01-01&g=2026-01-01), is van toepassing. Artikel 6.13, vierde lid, aanhef en onderdeel e, is van toepassing met dien verstande dat het aantal radioprogrammakanalen twee bedraagt.
+4. [Artikel 6.13, vierde lid, aanhef en onderdelen a, b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.3&afdeling=6.3.1&paragraaf=6.3.1.2&artikel=6.13&z=2026-10-31&g=2026-10-31), is van toepassing. Artikel 6.13, vierde lid, aanhef en onderdeel e, is van toepassing met dien verstande dat het aantal radioprogrammakanalen twee bedraagt.
 
 ##### Artikel 6.14a
 
@@ -3716,7 +4202,7 @@ De eerste volzin is van overeenkomstige toepassing op een pakketaanbieder.
 
 ##### Artikel 6.14b
 
-Het digitale standaardprogrammapakket dat een pakketaanbieder door middel van een satelliet verspreidt of laat verspreiden, bevat in afwijking van [artikel 6.13, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.3&afdeling=6.3.1&paragraaf=6.3.1.2&artikel=6.13&z=2026-01-01&g=2026-01-01), niet het programma-aanbod op programmakanalen als bedoeld in de onderdelen b, c, d en e van artikel 6.13, derde lid, onderscheidenlijk de onderdelen b, c en d van artikel 6.13, vierde lid.
+Het digitale standaardprogrammapakket dat een pakketaanbieder door middel van een satelliet verspreidt of laat verspreiden, bevat in afwijking van [artikel 6.13, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.3&afdeling=6.3.1&paragraaf=6.3.1.2&artikel=6.13&z=2026-10-31&g=2026-10-31), niet het programma-aanbod op programmakanalen als bedoeld in de onderdelen b, c, d en e van artikel 6.13, derde lid, onderscheidenlijk de onderdelen b, c en d van artikel 6.13, vierde lid.
 
 ##### Artikel 6.14c
 
@@ -3724,13 +4210,13 @@ Het digitale standaardprogrammapakket dat een pakketaanbieder door middel van ee
 
 ##### Artikel 6.14d
 
-Het Commissariaat kan geheel of gedeeltelijk ontheffing verlenen van de verplichtingen, bedoeld in de [artikelen 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.3&afdeling=6.3.1&paragraaf=6.3.1.2&artikel=6.13&z=2026-01-01&g=2026-01-01), [6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.3&afdeling=6.3.1&paragraaf=6.3.1.2&artikel=6.14&z=2026-01-01&g=2026-01-01) en [6.14b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.3&afdeling=6.3.1&paragraaf=6.3.1.2&artikel=6.14b&z=2026-01-01&g=2026-01-01) en de op die artikelen berustende voorschriften, als het onverkort nakomen daarvan leidt tot disproportionele kosten, tot een belemmering van innovatie of tot anderszins onredelijke uitkomsten. Het Commissariaat kan aan een ontheffing voorschriften verbinden.
+Het Commissariaat kan geheel of gedeeltelijk ontheffing verlenen van de verplichtingen, bedoeld in de [artikelen 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.3&afdeling=6.3.1&paragraaf=6.3.1.2&artikel=6.13&z=2026-10-31&g=2026-10-31), [6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.3&afdeling=6.3.1&paragraaf=6.3.1.2&artikel=6.14&z=2026-10-31&g=2026-10-31) en [6.14b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.3&afdeling=6.3.1&paragraaf=6.3.1.2&artikel=6.14b&z=2026-10-31&g=2026-10-31) en de op die artikelen berustende voorschriften, als het onverkort nakomen daarvan leidt tot disproportionele kosten, tot een belemmering van innovatie of tot anderszins onredelijke uitkomsten. Het Commissariaat kan aan een ontheffing voorschriften verbinden.
 
 #### Paragraaf 6.3.1.3. Geschillencommissie
 
 ##### Artikel 6.15
 
-[Artikel 6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.3&afdeling=6.3.1&paragraaf=6.3.1.2&artikel=6.12&z=2026-01-01&g=2026-01-01) is van toepassing.
+[Artikel 6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.3&afdeling=6.3.1&paragraaf=6.3.1.2&artikel=6.12&z=2026-10-31&g=2026-10-31) is van toepassing.
 
 ##### Artikel 6.16
 
@@ -3780,7 +4266,7 @@ Het Commissariaat kan geheel of gedeeltelijk ontheffing verlenen van de verplich
 
 ##### Artikel 6.25
 
-[Artikel 6.23](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.3&afdeling=6.3.2&artikel=6.23&z=2026-01-01&g=2026-01-01) is niet van toepassing op:
+[Artikel 6.23](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.3&afdeling=6.3.2&artikel=6.23&z=2026-10-31&g=2026-10-31) is niet van toepassing op:
 
 - a. de frequentieruimte die wordt gebruikt voor de verspreiding van programma-aanbod van de publieke mediadiensten; en
 
@@ -3810,7 +4296,7 @@ Het Commissariaat kan geheel of gedeeltelijk ontheffing verlenen van de verplich
 
 2. *Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.*
 
-Onze Minister-President, Minister van Algemene Zaken, is bevoegd in de algemene noodtoestand, na overleg met Onze Minister, regels te stellen ten aanzien van de inhoud van radio- en televisieprogramma’s en het toezicht daarop, waarbij kan worden afgeweken van het bepaalde in [artikel 7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=7&titeldeel=7.2&artikel=7.11&z=2026-01-01&g=2026-01-01).
+Onze Minister-President, Minister van Algemene Zaken, is bevoegd in de algemene noodtoestand, na overleg met Onze Minister, regels te stellen ten aanzien van de inhoud van radio- en televisieprogramma’s en het toezicht daarop, waarbij kan worden afgeweken van het bepaalde in [artikel 7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=7&titeldeel=7.2&artikel=7.11&z=2026-10-31&g=2026-10-31).
 
 3. De in het tweede lid bedoelde bevoegdheid wordt onverwijld beëindigd zodra [artikel 31, eerste lid, van de Oorlogswet voor Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0007983&artikel=31) in werking wordt gesteld.
 
@@ -3836,7 +4322,7 @@ Bij algemene maatregel van bestuur kunnen regels worden gesteld over het verzorg
 
 ##### Artikel 7.2
 
-Op het Commissariaat is de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) van toepassing met uitzondering van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=17) voor zover het betreft het bepaalde in [artikel 2.139, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.6&artikel=2.139&z=2026-01-01&g=2026-01-01), van de Mediawet 2008.
+Op het Commissariaat is de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) van toepassing met uitzondering van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=17) voor zover het betreft het bepaalde in [artikel 2.139, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.6&artikel=2.139&z=2026-10-31&g=2026-10-31), van de Mediawet 2008.
 
 ##### Artikel 7.3
 
@@ -3880,7 +4366,7 @@ Onverminderd [artikel 13 van de Kaderwet zelfstandige bestuursorganen](https://w
 
 - b. een dienstbetrekking bij een ministerie, een dienst, instelling of bedrijf vallende onder de verantwoordelijkheid van een minister; en
 
-- c. het lidmaatschap van een orgaan van of een dienstbetrekking bij de NPO, de RPO, een publieke media-instelling, een omroepvereniging die in een samenwerkingsomroep vertegenwoordigd is, een commerciële media-instelling of een uitgever van een persorgaan.
+- c. het lidmaatschap van een orgaan van of een dienstbetrekking bij de NPO, de RPO, de NLPO, een publieke media-instelling, een omroepvereniging die in een samenwerkingsomroep vertegenwoordigd is, een commerciële media-instelling of een uitgever van een persorgaan.
 
 ##### Artikel 7.5
 
@@ -3896,7 +4382,7 @@ De kosten van het Commissariaat worden door Onze Minister vergoed op basis van d
 
 ##### Artikel 7.7
 
-1. Onverminderd [artikel 34 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34) dient het Commissariaat jaarlijks voor 1 september bij Onze Minister een financieel verslag in over het beheer van de algemene mediareserve, bedoeld in [artikel 2.166](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.4&artikel=2.166&z=2026-01-01&g=2026-01-01).
+1. Onverminderd [artikel 34 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34) dient het Commissariaat jaarlijks voor 1 september bij Onze Minister een financieel verslag in over het beheer van de algemene mediareserve, bedoeld in [artikel 2.166](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.4&artikel=2.166&z=2026-10-31&g=2026-10-31).
 
 2. Het financieel verslag gaat vergezeld van een verklaring omtrent de getrouwheid en de rechtmatigheid, afgegeven door een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) en behoeft de instemming van Onze Minister.
 
@@ -3926,9 +4412,9 @@ Het Commissariaat plaatst besluiten tot vaststelling van nadere regels op grond 
 
 1. Het Commissariaat is belast met de bestuursrechtelijke handhaving van het bepaalde bij of krachtens deze wet, met uitzondering van:
 
-- a. de [artikelen 2.2, eerste lid en tweede lid, onderdelen a tot en met h, j tot en met l](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.1&artikel=2.2&z=2026-01-01&g=2026-01-01), [2.3, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.1&artikel=2.3&z=2026-01-01&g=2026-01-01), [2.4 tot en met 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.2&artikel=2.4&z=2026-01-01&g=2026-01-01), [2.18 tot en met 2.27](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.3&artikel=2.18&z=2026-01-01&g=2026-01-01), [2.29 tot en met 2.33](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.29&z=2026-01-01&g=2026-01-01), [2.34a tot en met 2.34j](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2a&artikel=2.34a&z=2026-01-01&g=2026-01-01), [2.36 tot en met 2.41](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.3&artikel=2.36&z=2026-01-01&g=2026-01-01), [2.53 tot en met 2.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.53&z=2026-01-01&g=2026-01-01), [2.59](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.59&z=2026-01-01&g=2026-01-01), [2.60](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.60&z=2026-01-01&g=2026-01-01), [2.60a tot en met 2.60o](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.1&artikel=2.60a&z=2026-01-01&g=2026-01-01), [2.125 tot en met 2.131](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.5&paragraaf=2.5.5.1&artikel=2.125&z=2026-01-01&g=2026-01-01), [2.143 tot en met 2.145](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.1&artikel=2.143&z=2026-01-01&g=2026-01-01), [2.148a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.148a&z=2026-01-01&g=2026-01-01), [2.149](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.149&z=2026-01-01&g=2026-01-01), [2.150, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.150&z=2026-01-01&g=2026-01-01), [2.151, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.151&z=2026-01-01&g=2026-01-01), [2.166 tot en met 2.168](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.4&artikel=2.166&z=2026-01-01&g=2026-01-01), [2.169c, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.5&artikel=2.169c&z=2026-01-01&g=2026-01-01), [2.170c](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.5&artikel=2.170c&z=2026-01-01&g=2026-01-01), [2.170d](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.5&artikel=2.170d&z=2026-01-01&g=2026-01-01), [2.180 tot en met 2.187](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.7&artikel=2.180&z=2026-01-01&g=2026-01-01), [4.2 tot en met 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=4&artikel=4.2&z=2026-01-01&g=2026-01-01) en [6.26](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.4&artikel=6.26&z=2026-01-01&g=2026-01-01); en
+- a. de [artikelen 2.2, eerste lid en tweede lid, onderdelen a tot en met h, j tot en met l](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.1&artikel=2.2&z=2026-10-31&g=2026-10-31), [2.3, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.1&artikel=2.3&z=2026-10-31&g=2026-10-31), [2.4 tot en met 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.2&artikel=2.4&z=2026-10-31&g=2026-10-31), [2.18 tot en met 2.27](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.3&artikel=2.18&z=2026-10-31&g=2026-10-31), [2.29 tot en met 2.33](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.29&z=2026-10-31&g=2026-10-31), [2.34a tot en met 2.34j](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2a&artikel=2.34a&z=2026-10-31&g=2026-10-31), [2.36 tot en met 2.41](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.3&artikel=2.36&z=2026-10-31&g=2026-10-31), [2.53 tot en met 2.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.53&z=2026-10-31&g=2026-10-31), [2.59](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.59&z=2026-10-31&g=2026-10-31), [2.60](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.60&z=2026-10-31&g=2026-10-31), [2.60a tot en met 2.60o](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.1&artikel=2.60a&z=2026-10-31&g=2026-10-31), [2.75 tot en met 2.87](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.1&artikel=2.75&z=2026-10-31&g=2026-10-31), [2.87b tot en met 2.87h](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.1&artikel=2.87b&z=2026-10-31&g=2026-10-31), [2.87y](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.4&artikel=2.87y&z=2026-10-31&g=2026-10-31), [2.125 tot en met 2.131](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.5&paragraaf=2.5.5.1&artikel=2.125&z=2026-10-31&g=2026-10-31), [2.143 tot en met 2.145](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.1&artikel=2.143&z=2026-10-31&g=2026-10-31), [2.148a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.148a&z=2026-10-31&g=2026-10-31), [2.149](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.149&z=2026-10-31&g=2026-10-31), [2.150, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.150&z=2026-10-31&g=2026-10-31), [2.151, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.151&z=2026-10-31&g=2026-10-31), [2.166 tot en met 2.168](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.4&artikel=2.166&z=2026-10-31&g=2026-10-31), [2.169c, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.5&artikel=2.169c&z=2026-10-31&g=2026-10-31), [2.170c, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.5a&artikel=2.170c&z=2026-10-31&g=2026-10-31), [2.170d](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.5a&artikel=2.170d&z=2026-10-31&g=2026-10-31), [2.179](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6a&artikel=2.179&z=2026-10-31&g=2026-10-31), [2.179a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6a&artikel=2.179a&z=2026-10-31&g=2026-10-31), [2.180 tot en met 2.187](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.7&artikel=2.180&z=2026-10-31&g=2026-10-31), [4.2 tot en met 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=4&artikel=4.2&z=2026-10-31&g=2026-10-31) en [6.26](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.4&artikel=6.26&z=2026-10-31&g=2026-10-31); en
 
-- b. [hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=8&z=2026-01-01&g=2026-01-01).
+- b. [hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=8&z=2026-10-31&g=2026-10-31).
 
 2. Met het toezicht op de naleving zijn belast de leden van het Commissariaat en de bij besluit van het Commissariaat aangewezen medewerkers van het Commissariaat.
 
@@ -3936,23 +4422,23 @@ Het Commissariaat plaatst besluiten tot vaststelling van nadere regels op grond 
 
 ##### Artikel 7.12
 
-1. Bij overtreding van het bepaalde bij of krachtens deze wet, met uitzondering van de [artikelen 2.34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.34&z=2026-01-01&g=2026-01-01), [2.58, onderdelen a tot en met c, en e](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.58&z=2026-01-01&g=2026-01-01), [2.170, eerste tot en met zesde lid, en achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.5&artikel=2.170&z=2026-01-01&g=2026-01-01), en [2.170b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.5&artikel=2.170b&z=2026-01-01&g=2026-01-01), of van [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) kan het Commissariaat aan de overtreder een bestuurlijke boete opleggen van ten hoogste € 225 000 per overtreding.
+1. Bij overtreding van het bepaalde bij of krachtens deze wet, met uitzondering van de [artikelen 2.34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.34&z=2026-10-31&g=2026-10-31), [2.58, onderdelen a tot en met c, en e](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.58&z=2026-10-31&g=2026-10-31), [2.170, eerste tot en met zesde lid, en achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.5&artikel=2.170&z=2026-10-31&g=2026-10-31), en [2.170b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.5a&artikel=2.170b&z=2026-10-31&g=2026-10-31), [2.170e tot en met 2.170f, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.5a&artikel=2.170e&z=2026-10-31&g=2026-10-31), [2.170g](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.5a&artikel=2.170g&z=2026-10-31&g=2026-10-31), [2.170h](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.5a&artikel=2.170h&z=2026-10-31&g=2026-10-31), [2.179](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6a&artikel=2.179&z=2026-10-31&g=2026-10-31) en [2.179a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6a&artikel=2.179a&z=2026-10-31&g=2026-10-31), of van [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) kan het Commissariaat aan de overtreder een bestuurlijke boete opleggen van ten hoogste € 225 000 per overtreding.
 
-2. De bestuurlijke boete bij overtreding van het bepaalde in [artikel 2.34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.34&z=2026-01-01&g=2026-01-01), bedraagt tien procent van het totale bedrag aan gelden dat gemiddeld in de kalenderjaren voorafgaand aan de overtreding tijdens de lopende erkenningperiode aan de omroeporganisatie ter beschikking is gesteld voor de verzorging van media-aanbod voor de landelijke publieke mediadienst.
+2. De bestuurlijke boete bij overtreding van het bepaalde in [artikel 2.34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.34&z=2026-10-31&g=2026-10-31), bedraagt tien procent van het totale bedrag aan gelden dat gemiddeld in de kalenderjaren voorafgaand aan de overtreding tijdens de lopende erkenningperiode aan de omroeporganisatie ter beschikking is gesteld voor de verzorging van media-aanbod voor de landelijke publieke mediadienst.
 
-3. Bij overtreding van het bepaalde bij of krachtens deze wet, met uitzondering van de [artikelen 2.34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.34&z=2026-01-01&g=2026-01-01), [2.35](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.3&artikel=2.35&z=2026-01-01&g=2026-01-01), [2.58, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.58&z=2026-01-01&g=2026-01-01), [2.70](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.2&artikel=2.70&z=2026-01-01&g=2026-01-01), [2.71, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.2&artikel=2.71&z=2026-01-01&g=2026-01-01), [2.88b tot en met 2.92](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.2&paragraaf=2.5.2.1&artikel=2.89&z=2026-01-01&g=2026-01-01), [2.94 tot en met 2.99](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.2&paragraaf=2.5.2.2&artikel=2.94&z=2026-01-01&g=2026-01-01), [2.106 tot en met 2.108](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.3&artikel=2.106&z=2026-01-01&g=2026-01-01), [2.111, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.3&artikel=2.111&z=2026-01-01&g=2026-01-01), [2.115 tot en met 2.124](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.4&paragraaf=2.5.4.1&artikel=2.115&z=2026-01-01&g=2026-01-01), [2.150, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.150&z=2026-01-01&g=2026-01-01), [2.151, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.151&z=2026-01-01&g=2026-01-01), [2.169c, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.5&artikel=2.169c&z=2026-01-01&g=2026-01-01), [2.170, eerste tot en met zesde lid, en achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.5&artikel=2.170&z=2026-01-01&g=2026-01-01) en [2.170b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.5&artikel=2.170b&z=2026-01-01&g=2026-01-01), [3.5b tot en met 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.2&artikel=3.6&z=2026-01-01&g=2026-01-01), [3.15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.3&artikel=3.15&z=2026-01-01&g=2026-01-01), [3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.3&artikel=3.16&z=2026-01-01&g=2026-01-01), [3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.3&artikel=3.17&z=2026-01-01&g=2026-01-01), [3.19 tot en met 3.19b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.3&artikel=3.19&z=2026-01-01&g=2026-01-01), [3.20 tot en met 3.26](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.4&paragraaf=3.2.4.1&artikel=3.20&z=2026-01-01&g=2026-01-01), [3.29](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.5&artikel=3.29&z=2026-01-01&g=2026-01-01), [3.29d](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2a&artikel=3.29d&z=2026-01-01&g=2026-01-01), [3a.5](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3a&artikel=3a.5&z=2026-01-01&g=2026-01-01), [4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=4&artikel=4.1&z=2026-01-01&g=2026-01-01), [4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=4&artikel=4.6&z=2026-01-01&g=2026-01-01), [5.1 tot en met 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=5&artikel=5.1&z=2026-01-01&g=2026-01-01), [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.1&afdeling=6.1.1&artikel=6.4&z=2026-01-01&g=2026-01-01), [6.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.1&afdeling=6.1.2&artikel=6.6&z=2026-01-01&g=2026-01-01), en [6.23 tot en met 6.25](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.3&afdeling=6.3.2&artikel=6.23&z=2026-01-01&g=2026-01-01) kan het Commissariaat aan de overtreder een last onder dwangsom opleggen.
+3. Bij overtreding van het bepaalde bij of krachtens deze wet, met uitzondering van de [artikelen 2.34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.34&z=2026-10-31&g=2026-10-31), [2.35](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.3&artikel=2.35&z=2026-10-31&g=2026-10-31), [2.58, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.5&artikel=2.58&z=2026-10-31&g=2026-10-31), [2.70](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.3&artikel=2.70&z=2026-10-31&g=2026-10-31), [2.87x](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.4&artikel=2.87x&z=2026-10-31&g=2026-10-31), [2.88b tot en met 2.92](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.2&paragraaf=2.5.2.1&artikel=2.89&z=2026-10-31&g=2026-10-31), [2.94 tot en met 2.99](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.2&paragraaf=2.5.2.2&artikel=2.94&z=2026-10-31&g=2026-10-31), [2.106 tot en met 2.108](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.3&artikel=2.106&z=2026-10-31&g=2026-10-31), [2.111, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.3&artikel=2.111&z=2026-10-31&g=2026-10-31), [2.115 tot en met 2.124](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.4&paragraaf=2.5.4.1&artikel=2.115&z=2026-10-31&g=2026-10-31), [2.150, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.150&z=2026-10-31&g=2026-10-31), [2.151, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.151&z=2026-10-31&g=2026-10-31), [2.169c, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.5&artikel=2.169c&z=2026-10-31&g=2026-10-31), [2.170, eerste tot en met zesde lid, en achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.5&artikel=2.170&z=2026-10-31&g=2026-10-31) en [2.170b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.5a&artikel=2.170b&z=2026-10-31&g=2026-10-31), [2.170c, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.5a&artikel=2.170c&z=2026-10-31&g=2026-10-31), [2.170e](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.5a&artikel=2.170e&z=2026-10-31&g=2026-10-31), [2.170f, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.5a&artikel=2.170f&z=2026-10-31&g=2026-10-31), [2.170g](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.5a&artikel=2.170g&z=2026-10-31&g=2026-10-31) en [2.170h](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.5a&artikel=2.170h&z=2026-10-31&g=2026-10-31), [3.5b tot en met 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.2&artikel=3.6&z=2026-10-31&g=2026-10-31), [3.15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.3&artikel=3.15&z=2026-10-31&g=2026-10-31), [3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.3&artikel=3.16&z=2026-10-31&g=2026-10-31), [3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.3&artikel=3.17&z=2026-10-31&g=2026-10-31), [3.19 tot en met 3.19b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.3&artikel=3.19&z=2026-10-31&g=2026-10-31), [3.20 tot en met 3.26](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.4&paragraaf=3.2.4.1&artikel=3.20&z=2026-10-31&g=2026-10-31), [3.29](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.5&artikel=3.29&z=2026-10-31&g=2026-10-31), [3.29d](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2a&artikel=3.29d&z=2026-10-31&g=2026-10-31), [3a.5](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3a&artikel=3a.5&z=2026-10-31&g=2026-10-31), [4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=4&artikel=4.1&z=2026-10-31&g=2026-10-31), [4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=4&artikel=4.6&z=2026-10-31&g=2026-10-31), [5.1 tot en met 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=5&artikel=5.1&z=2026-10-31&g=2026-10-31), [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.1&afdeling=6.1.1&artikel=6.4&z=2026-10-31&g=2026-10-31), [6.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.1&afdeling=6.1.2&artikel=6.6&z=2026-10-31&g=2026-10-31), en [6.23 tot en met 6.25](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.3&afdeling=6.3.2&artikel=6.23&z=2026-10-31&g=2026-10-31) kan het Commissariaat aan de overtreder een last onder dwangsom opleggen.
 
 ##### Artikel 7.13
 
-De te betalen geldsommen van de bestuurlijke boeten en dwangsommen komen toe aan Onze Minister en zijn bestemd voor door hem te bepalen mediadoelen in brede zin, met uitzondering van de bestuurlijke boete, bedoeld in [artikel 7.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=7&titeldeel=7.2&artikel=7.12&z=2026-01-01&g=2026-01-01), die wordt toegevoegd aan de algemene mediareserve, bedoeld in [artikel 2.166](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.4&artikel=2.166&z=2026-01-01&g=2026-01-01).
+De te betalen geldsommen van de bestuurlijke boeten en dwangsommen komen toe aan Onze Minister en zijn bestemd voor door hem te bepalen mediadoelen in brede zin, met uitzondering van de bestuurlijke boete, bedoeld in [artikel 7.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=7&titeldeel=7.2&artikel=7.12&z=2026-10-31&g=2026-10-31), die wordt toegevoegd aan de algemene mediareserve, bedoeld in [artikel 2.166](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.4&artikel=2.166&z=2026-10-31&g=2026-10-31).
 
 ##### Artikel 7.14
 
 Bij overtreding van het bepaalde bij of krachtens deze wet of [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) kan het Commissariaat, naast of in plaats van het opleggen van een bestuurlijke boete en een last onder dwangsom:
 
-- a. de in de artikelen [6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.1&afdeling=6.1.1&artikel=6.1&z=2026-01-01&g=2026-01-01) en [6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.1&afdeling=6.1.2&artikel=6.5&z=2026-01-01&g=2026-01-01) bedoelde uren van de desbetreffende instelling verminderen of intrekken; en
+- a. de in de artikelen [6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.1&afdeling=6.1.1&artikel=6.1&z=2026-10-31&g=2026-10-31) en [6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.1&afdeling=6.1.2&artikel=6.5&z=2026-10-31&g=2026-10-31) bedoelde uren van de desbetreffende instelling verminderen of intrekken; en
 
-- b. de uren intrekken of verminderen die de Ster op grond van [artikel 2.95](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.2&paragraaf=2.5.2.2&artikel=2.95&z=2026-01-01&g=2026-01-01) op de programmakanalen van de landelijke publieke mediadienst ter beschikking heeft.
+- b. de uren intrekken of verminderen die de Ster op grond van [artikel 2.95](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.2&paragraaf=2.5.2.2&artikel=2.95&z=2026-10-31&g=2026-10-31) op de programmakanalen van de landelijke publieke mediadienst ter beschikking heeft.
 
 ##### Artikel 7.15
 
@@ -3960,11 +4446,11 @@ Bij overtreding van het bepaalde bij of krachtens deze wet of [artikel 5:20, eer
 
 1. Bij een onherroepelijke veroordeling tot een onvoorwaardelijke geldboete op grond van [artikel 137d van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=137d) verbiedt het Commissariaat:
 
-- a. een omroepvereniging, de educatieve media-instelling en een kerkgenootschap of genootschap op geestelijke grondslag tijdelijk een erkenning of aanwijzing als bedoeld in [hoofdstuk 2, afdeling 2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&z=2026-01-01&g=2026-01-01) respectievelijk [afdeling 2.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.4&z=2026-01-01&g=2026-01-01), te gebruiken;
+- a. een omroepvereniging, de educatieve media-instelling en een kerkgenootschap of genootschap op geestelijke grondslag tijdelijk een erkenning of aanwijzing als bedoeld in [hoofdstuk 2, afdeling 2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&z=2026-10-31&g=2026-10-31) respectievelijk [afdeling 2.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.4&z=2026-10-31&g=2026-10-31), te gebruiken;
 
-- b. een regionale of lokale publieke media-instelling tijdelijk een aanwijzing als bedoeld in [hoofdstuk 2, paragraaf 2.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.1&z=2026-01-01&g=2026-01-01), te gebruiken; en
+- b. een regionale of lokale publieke media-instelling tijdelijk een aanwijzing als bedoeld in [hoofdstuk 2, paragraaf 2.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.1&z=2026-10-31&g=2026-10-31), te gebruiken; en
 
-- c. een commerciële media-instelling tijdelijk een toestemming als bedoeld in [hoofdstuk 3, titel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.1&z=2026-01-01&g=2026-01-01), te gebruiken.
+- c. een commerciële media-instelling tijdelijk een toestemming als bedoeld in [hoofdstuk 3, titel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.1&z=2026-10-31&g=2026-10-31), te gebruiken.
 
 2. Een verbod geldt voor een periode van:
 
@@ -3982,7 +4468,7 @@ Bij overtreding van het bepaalde bij of krachtens deze wet of [artikel 5:20, eer
 
 ##### Artikel 7.16a
 
-1. Het Commissariaat kan aan een landelijke of regionale publieke media-instelling een aanwijzing geven, als:
+1. Het Commissariaat kan aan een landelijke, regionale of lokale publieke media-instelling of de NLPO een aanwijzing geven, als:
 
 - a. sprake is van wanbeheer van een of meer leden van het bestuur of van het toezichthoudende orgaan; of
 
@@ -4008,7 +4494,7 @@ Een aanwijzing omvat een of meer maatregelen en is evenredig aan het doel waarvo
 
 ##### Artikel 7.17
 
-Bij intrekking of vermindering van uren kan het Commissariaat als dat nodig is de verdeling van de uren, bedoeld in de [artikelen 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.1&afdeling=6.1.1&artikel=6.1&z=2026-01-01&g=2026-01-01) en [6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.1&afdeling=6.1.2&artikel=6.5&z=2026-01-01&g=2026-01-01), herzien.
+Bij intrekking of vermindering van uren kan het Commissariaat als dat nodig is de verdeling van de uren, bedoeld in de [artikelen 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.1&afdeling=6.1.1&artikel=6.1&z=2026-10-31&g=2026-10-31) en [6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.1&afdeling=6.1.2&artikel=6.5&z=2026-10-31&g=2026-10-31), herzien.
 
 ##### Artikel 7.18
 
@@ -4018,7 +4504,7 @@ Bij intrekking of vermindering van uren kan het Commissariaat als dat nodig is d
 
 ##### Artikel 7.19
 
-1. De in [artikel 7.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=7&titeldeel=7.2&artikel=7.11&z=2026-01-01&g=2026-01-01), bedoelde toezichthouders zijn bevoegd:
+1. De in [artikel 7.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=7&titeldeel=7.2&artikel=7.11&z=2026-10-31&g=2026-10-31), bedoelde toezichthouders zijn bevoegd:
 
 - a. met medeneming van de benodigde apparatuur, een woning binnen te treden zonder toestemming van de bewoner; en
 
@@ -4042,13 +4528,13 @@ Bij intrekking of vermindering van uren kan het Commissariaat als dat nodig is d
 
 3. Het Commissariaat maakt zijn bevindingen openbaar, met uitzondering van gegevens die naar hun aard vertrouwelijk zijn.
 
-4. Het Commissariaat handhaaft de naleving van het redactiestatuut, bedoeld in de [artikelen 2.88, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.1&artikel=2.88&z=2026-01-01&g=2026-01-01), en [3.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.1&artikel=3.5&z=2026-01-01&g=2026-01-01).
+4. Het Commissariaat handhaaft de naleving van het redactiestatuut, bedoeld in de [artikelen 2.88, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.1&artikel=2.88&z=2026-10-31&g=2026-10-31), en [3.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.1&artikel=3.5&z=2026-10-31&g=2026-10-31).
 
 ##### Artikel 7:22
 
-1. Het Commissariaat houdt een lijst bij met publieke en commerciële media-instellingen die op grond van [artikel 1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=1&artikel=1.2&z=2026-01-01&g=2026-01-01), onder de bevoegdheid van Nederland vallen, met de vermelding op welk criterium als bedoeld in artikel 2, tweede tot en met vijfde lid, van de Europese richtlijn de rechtsmacht van de betreffende aanbieder is gebaseerd.
+1. Het Commissariaat houdt een lijst bij met publieke en commerciële media-instellingen die op grond van [artikel 1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=1&artikel=1.2&z=2026-10-31&g=2026-10-31), onder de bevoegdheid van Nederland vallen, met de vermelding op welk criterium als bedoeld in artikel 2, tweede tot en met vijfde lid, van de Europese richtlijn de rechtsmacht van de betreffende aanbieder is gebaseerd.
 
-2. Het Commissariaat houdt een lijst bij met de aanbieders van videoplatformen die op grond van [artikel 3a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3a&artikel=3a.2&z=2026-01-01&g=2026-01-01), onder de bevoegdheid van Nederland vallen, met de vermelding op welk criterium als bedoeld in artikel 28bis, eerste tot en met vierde lid, van de Europese richtlijn de rechtsmacht van de betreffende aanbieder is gebaseerd.
+2. Het Commissariaat houdt een lijst bij met de aanbieders van videoplatformen die op grond van [artikel 3a.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3a&artikel=3a.2&z=2026-10-31&g=2026-10-31), onder de bevoegdheid van Nederland vallen, met de vermelding op welk criterium als bedoeld in artikel 28bis, eerste tot en met vierde lid, van de Europese richtlijn de rechtsmacht van de betreffende aanbieder is gebaseerd.
 
 ### Hoofdstuk 8. De journalistiek
 
@@ -4116,7 +4602,7 @@ Onverminderd [artikel 13 van de Kaderwet zelfstandige bestuursorganen](https://w
 
 - b. een dienstbetrekking bij een ministerie, een dienst, instelling of bedrijf vallende onder de verantwoordelijkheid van een minister; en
 
-- c. het lidmaatschap van een orgaan van of een dienstbetrekking bij de NPO, een publieke media-instelling, een omroepvereniging die in een samenwerkingsomroep vertegenwoordigd is, een commerciële media-instelling of een uitgever van een persorgaan.
+- c. het lidmaatschap van een orgaan van of een dienstbetrekking bij de NPO de RPO en de NLPO, een publieke media-instelling, een omroepvereniging die in een samenwerkingsomroep vertegenwoordigd is, een commerciële media-instelling of een uitgever van een persorgaan.
 
 ##### Artikel 8.6
 
@@ -4128,7 +4614,7 @@ Onverminderd [artikel 13 van de Kaderwet zelfstandige bestuursorganen](https://w
 
 ##### Artikel 8.7
 
-Onze Minister vergoedt uit de in [artikel 8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=8&titeldeel=8.1&artikel=8.8&z=2026-01-01&g=2026-01-01) bedoelde inkomsten en uit andere beschikbare financiële middelen de kosten van het Stimuleringsfonds op basis van de door hem goedgekeurde begroting.
+Onze Minister vergoedt uit de in [artikel 8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=8&titeldeel=8.1&artikel=8.8&z=2026-10-31&g=2026-10-31) bedoelde inkomsten en uit andere beschikbare financiële middelen de kosten van het Stimuleringsfonds op basis van de door hem goedgekeurde begroting.
 
 ##### Artikel 8.8
 
@@ -4246,7 +4732,7 @@ Bij ministeriële regeling kunnen regels worden gesteld over de inrichting van d
 
 ##### Artikel 8.15a
 
-1. Het Stimuleringsfonds kan op basis van daartoe door hem vast te stellen regelingen subsidie verstrekken voor andere activiteiten dan die, bedoeld in de [artikelen 8.11 tot en met 8.15](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=8&titeldeel=8.2&artikel=8.11&z=2026-01-01&g=2026-01-01), voor zover die activiteiten passen in de doelstellingen van het Stimuleringsfonds.
+1. Het Stimuleringsfonds kan op basis van daartoe door hem vast te stellen regelingen subsidie verstrekken voor andere activiteiten dan die, bedoeld in de [artikelen 8.11 tot en met 8.15](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=8&titeldeel=8.2&artikel=8.11&z=2026-10-31&g=2026-10-31), voor zover die activiteiten passen in de doelstellingen van het Stimuleringsfonds.
 
 2. Deze regelingen behoeven de goedkeuring van Onze Minister.
 
@@ -4306,7 +4792,7 @@ Het Stimuleringsfonds doet van een besluit tot verlening van een subsidie binnen
 
 ##### Artikel 9.1
 
-In afwijking van [artikel 2.144, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.1&artikel=2.144&z=2026-01-01&g=2026-01-01), bedraagt de vermeerdering van de rijksmediabijdrage:
+In afwijking van [artikel 2.144, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.1&artikel=2.144&z=2026-10-31&g=2026-10-31), bedraagt de vermeerdering van de rijksmediabijdrage:
 
 - a. € 49,799 miljoen voor het jaar 2008;
 
@@ -4316,7 +4802,7 @@ In afwijking van [artikel 2.144, eerste lid, tweede volzin](https://wetten.overh
 
 ##### Artikel 9.2
 
-De [artikelen 2.94, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.2&paragraaf=2.5.2.2&artikel=2.94&z=2026-01-01&g=2026-01-01), en [3.7, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.2&artikel=3.7&z=2026-01-01&g=2026-01-01), zijn tot één jaar na het tijdstip waarop deze wet in werking treedt niet van toepassing op de verspreiding van reclame- en telewinkelboodschappen ter uitvoering van overeenkomsten met adverteerders die zijn aangegaan vóór het tijdstip van inwerkingtreding van deze wet.
+De [artikelen 2.94, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.2&paragraaf=2.5.2.2&artikel=2.94&z=2026-10-31&g=2026-10-31), en [3.7, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.2&artikel=3.7&z=2026-10-31&g=2026-10-31), zijn tot één jaar na het tijdstip waarop deze wet in werking treedt niet van toepassing op de verspreiding van reclame- en telewinkelboodschappen ter uitvoering van overeenkomsten met adverteerders die zijn aangegaan vóór het tijdstip van inwerkingtreding van deze wet.
 
 ##### Artikel 9.3
 
@@ -4342,7 +4828,7 @@ Bij algemene maatregel van bestuur kunnen tot twee jaar na het tijdstip waarop d
 
 ##### Artikel 9.7
 
-Voor de erkenningperiode die loopt van 1 januari 2016 tot en met 31 december 2020 kan Onze Minister met inachtneming van [afdeling 2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&z=2026-01-01&g=2026-01-01) en onverminderd [artikel 9.8a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.6&z=2026-01-01&g=2026-01-01) de erkenningen, bedoeld in [artikel 2.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-01-01&g=2026-01-01), alleen verlenen aan:
+Voor de erkenningperiode die loopt van 1 januari 2016 tot en met 31 december 2020 kan Onze Minister met inachtneming van [afdeling 2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&z=2026-10-31&g=2026-10-31) en onverminderd [artikel 9.8a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.6&z=2026-10-31&g=2026-10-31) de erkenningen, bedoeld in [artikel 2.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-10-31&g=2026-10-31), alleen verlenen aan:
 
 - a. de omroepverenigingen Evangelische Omroep, MAX en VPRO;
 
@@ -4352,39 +4838,39 @@ Voor de erkenningperiode die loopt van 1 januari 2016 tot en met 31 december 2
 
 ##### Artikel 9.8
 
-1. In afwijking van [artikel 2.32, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.32&z=2026-01-01&g=2026-01-01), wijst Onze Minister een aanvraag voor een erkenning voor de periode die loopt van 1 januari 2016 tot en met 31 december 2020 eveneens af, als de aanvrager niet voldoet aan [artikel 9.7](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=9&titeldeel=9.2&afdeling=9.2.1&artikel=9.7&z=2026-01-01&g=2026-01-01).
+1. In afwijking van [artikel 2.32, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.32&z=2026-10-31&g=2026-10-31), wijst Onze Minister een aanvraag voor een erkenning voor de periode die loopt van 1 januari 2016 tot en met 31 december 2020 eveneens af, als de aanvrager niet voldoet aan [artikel 9.7](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=9&titeldeel=9.2&afdeling=9.2.1&artikel=9.7&z=2026-10-31&g=2026-10-31).
 
-2. In afwijking van [artikel 2.33, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.33&z=2026-01-01&g=2026-01-01), trekt Onze Minister een erkenning voor de periode die loopt van 1 januari 2016 tot en met 31 december 2020 eveneens in, als de aanvrager niet meer voldoet aan [artikel 9.7](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=9&titeldeel=9.2&afdeling=9.2.1&artikel=9.7&z=2026-01-01&g=2026-01-01).
+2. In afwijking van [artikel 2.33, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.33&z=2026-10-31&g=2026-10-31), trekt Onze Minister een erkenning voor de periode die loopt van 1 januari 2016 tot en met 31 december 2020 eveneens in, als de aanvrager niet meer voldoet aan [artikel 9.7](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=9&titeldeel=9.2&afdeling=9.2.1&artikel=9.7&z=2026-10-31&g=2026-10-31).
 
 ##### Artikel 9.8a
 
-De omroepverenigingen PowNed en WNL kunnen afzien van deelname aan de procedure tot verlening van de erkenningen, bedoeld in [artikel 9.7](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=9&titeldeel=9.2&afdeling=9.2.1&artikel=9.7&z=2026-01-01&g=2026-01-01), door het indienen van een aanvraag voor een voorlopige erkenning als bedoeld in [artikel 2.23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-01-01&g=2026-01-01). In afwijking van [artikel 2.26, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.26&z=2026-01-01&g=2026-01-01), kan Onze Minister voor de erkenningperiode die loopt van 1 januari 2016 tot en met 31 december 2020, een voorlopige erkenning als bedoeld in artikel 2.23, tweede lid, verlenen aan een of beide van de omroepverenigingen.
+De omroepverenigingen PowNed en WNL kunnen afzien van deelname aan de procedure tot verlening van de erkenningen, bedoeld in [artikel 9.7](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=9&titeldeel=9.2&afdeling=9.2.1&artikel=9.7&z=2026-10-31&g=2026-10-31), door het indienen van een aanvraag voor een voorlopige erkenning als bedoeld in [artikel 2.23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-10-31&g=2026-10-31). In afwijking van [artikel 2.26, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.26&z=2026-10-31&g=2026-10-31), kan Onze Minister voor de erkenningperiode die loopt van 1 januari 2016 tot en met 31 december 2020, een voorlopige erkenning als bedoeld in artikel 2.23, tweede lid, verlenen aan een of beide van de omroepverenigingen.
 
 #### Afdeling 9.2.2. Overgangsrecht raad van toezicht NTR
 
 ##### Artikel 9.9
 
-De leden van de raad van toezicht van de Nederlandse Programma Stichting, bedoeld in [artikel 2.36](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.3&artikel=2.36&z=2026-01-01&g=2026-01-01), zoals dat artikel luidde op de dag voorafgaande aan het tijdstip van inwerkingtreding van het onderdeel betreffende artikel 2.36 van de [Wet van 6 november 2013 tot wijziging van de Mediawet 2008 teneinde het stelsel van de landelijke publieke omroep te moderniseren](https://wetten.overheid.nl/jci1.3:c:BWBR0034182), zijn met ingang van dat tijdstip van inwerkingtreding, lid van de raad van toezicht van de NTR, bedoeld in artikel 2.36, zoals dat artikel luidt op dat tijdstip, voor het resterende gedeelte van hun benoemingstermijn. Deze leden van de raad van toezicht van de NTR kunnen voor een aansluitende periode van maximaal vier jaar eenmaal herbenoemd worden.
+De leden van de raad van toezicht van de Nederlandse Programma Stichting, bedoeld in [artikel 2.36](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.3&artikel=2.36&z=2026-10-31&g=2026-10-31), zoals dat artikel luidde op de dag voorafgaande aan het tijdstip van inwerkingtreding van het onderdeel betreffende artikel 2.36 van de [Wet van 6 november 2013 tot wijziging van de Mediawet 2008 teneinde het stelsel van de landelijke publieke omroep te moderniseren](https://wetten.overheid.nl/jci1.3:c:BWBR0034182), zijn met ingang van dat tijdstip van inwerkingtreding, lid van de raad van toezicht van de NTR, bedoeld in artikel 2.36, zoals dat artikel luidt op dat tijdstip, voor het resterende gedeelte van hun benoemingstermijn. Deze leden van de raad van toezicht van de NTR kunnen voor een aansluitende periode van maximaal vier jaar eenmaal herbenoemd worden.
 
 #### Afdeling 9.2.3. Overgangsrecht financiële verantwoording kerkgenootschappen en genootschappen op geestelijke grondslag
 
 ##### Artikel 9.10
 
-Ten behoeve van de financiële verantwoording over het jaar 2015 blijven met betrekking tot kerkgenootschappen, genootschappen op geestelijke grondslag en rechtspersonen waarin twee of meer van deze genootschappen samenwerken waaraan een aanwijzing was verleend, bedoeld in [artikel 2.42](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.4&artikel=2.42&z=2026-01-01&g=2026-01-01), zoals dat artikel luidde op 31 december 2015, de [artikelen 2.171 tot en met 2.174](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6&paragraaf=2.6.6.1&artikel=2.171&z=2026-01-01&g=2026-01-01) en [2.176 tot en met 2.178](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6&paragraaf=2.6.6.2&artikel=2.176&z=2026-01-01&g=2026-01-01) van toepassing. De [artikelen 2.138b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.6&artikel=2.138b&z=2026-01-01&g=2026-01-01) en [2.179](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6&paragraaf=2.6.6.3&artikel=2.179&z=2026-01-01&g=2026-01-01) zoals die artikelen luidden op 31 december 2015 zijn eveneens van toepassing.
+Ten behoeve van de financiële verantwoording over het jaar 2015 blijven met betrekking tot kerkgenootschappen, genootschappen op geestelijke grondslag en rechtspersonen waarin twee of meer van deze genootschappen samenwerken waaraan een aanwijzing was verleend, bedoeld in [artikel 2.42](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.4&artikel=2.42&z=2026-10-31&g=2026-10-31), zoals dat artikel luidde op 31 december 2015, de [artikelen 2.171 tot en met 2.174](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6&paragraaf=2.6.6.1&artikel=2.171&z=2026-10-31&g=2026-10-31) en [2.176 tot en met 2.178](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6&paragraaf=2.6.6.2&artikel=2.176&z=2026-10-31&g=2026-10-31) van toepassing. De [artikelen 2.138b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.6&artikel=2.138b&z=2026-10-31&g=2026-10-31) en [2.179](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6a&artikel=2.179&z=2026-10-31&g=2026-10-31) zoals die artikelen luidden op 31 december 2015 zijn eveneens van toepassing.
 
 #### Afdeling 9.2.4. Overgangsrecht vaststelling budget NTR voor de periode 2014–2016
 
 ##### Artikel 9.11
 
-De vaststelling van het budget, bedoeld in [artikel 2.149, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.149&z=2026-01-01&g=2026-01-01), is voor de kalenderjaren 2014 en 2015 ten minste gebaseerd op de wettelijke grondslagen zoals die golden op de dag voorafgaand aan de inwerkingtreding van het onderdeel betreffende artikel 2.149 van de [Wet van 6 november 2013 tot wijziging van de Mediawet 2008 teneinde het stelsel van de landelijke publieke omroep te moderniseren](https://wetten.overheid.nl/jci1.3:c:BWBR0034182), ten aanzien van de vaststelling van het budget van de Nederlandse Programma Stichting en de educatieve media-instelling die een erkenning had verkregen op grond van [artikel 2.28](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.28&z=2026-01-01&g=2026-01-01), zoals dat artikel toen luidde.
+De vaststelling van het budget, bedoeld in [artikel 2.149, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.149&z=2026-10-31&g=2026-10-31), is voor de kalenderjaren 2014 en 2015 ten minste gebaseerd op de wettelijke grondslagen zoals die golden op de dag voorafgaand aan de inwerkingtreding van het onderdeel betreffende artikel 2.149 van de [Wet van 6 november 2013 tot wijziging van de Mediawet 2008 teneinde het stelsel van de landelijke publieke omroep te moderniseren](https://wetten.overheid.nl/jci1.3:c:BWBR0034182), ten aanzien van de vaststelling van het budget van de Nederlandse Programma Stichting en de educatieve media-instelling die een erkenning had verkregen op grond van [artikel 2.28](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.28&z=2026-10-31&g=2026-10-31), zoals dat artikel toen luidde.
 
 #### Afdeling 9.2.5. Overgangsrecht programmaversterkingsbudget voor de periode 2016–2021
 
 ##### Artikel 9.12
 
-1. In afwijking van [artikel 2.150, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.150&z=2026-01-01&g=2026-01-01), komt:
+1. In afwijking van [artikel 2.150, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.150&z=2026-10-31&g=2026-10-31), komt:
 
-- a. jaarlijks voor de kalenderjaren 2016 tot en met 2020 vijf procent van het totaal van de budgetten, bedoeld in [artikel 2.149, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.149&z=2026-01-01&g=2026-01-01), dat is vastgesteld voor het kalenderjaar 2016 ten goede aan media-aanbod van de omroeporganisaties, bedoeld in [artikel 9.7, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=9&titeldeel=9.2&afdeling=9.2.1&artikel=9.7&z=2026-01-01&g=2026-01-01), of van de omroeporganisaties van de in dat onderdeel genoemde samenstelling met inbegrip van een of beide omroepverenigingen PowNed en WNL; en
+- a. jaarlijks voor de kalenderjaren 2016 tot en met 2020 vijf procent van het totaal van de budgetten, bedoeld in [artikel 2.149, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.2&paragraaf=2.6.2.2&artikel=2.149&z=2026-10-31&g=2026-10-31), dat is vastgesteld voor het kalenderjaar 2016 ten goede aan media-aanbod van de omroeporganisaties, bedoeld in [artikel 9.7, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=9&titeldeel=9.2&afdeling=9.2.1&artikel=9.7&z=2026-10-31&g=2026-10-31), of van de omroeporganisaties van de in dat onderdeel genoemde samenstelling met inbegrip van een of beide omroepverenigingen PowNed en WNL; en
 
 - b. het overige budget geheel ten goede aan media-aanbod van de omroeporganisaties, de NOS, en de NTR.
 
@@ -4394,13 +4880,13 @@ De vaststelling van het budget, bedoeld in [artikel 2.149, eerste lid, onderdee
 
 ##### Artikel 9.13
 
-De [artikelen 2.184 tot en met 2.187](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.7&artikel=2.184&z=2026-01-01&g=2026-01-01) blijven buiten toepassing voor de vijfjaarlijkse periode van de concessie, bedoeld in [artikel 2.19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.4&artikel=2.19&z=2026-01-01&g=2026-01-01), die loopt van 1 september 2010 tot en met 31 december 2015.
+De [artikelen 2.184 tot en met 2.187](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.7&artikel=2.184&z=2026-10-31&g=2026-10-31) blijven buiten toepassing voor de vijfjaarlijkse periode van de concessie, bedoeld in [artikel 2.19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.4&artikel=2.19&z=2026-10-31&g=2026-10-31), die loopt van 1 september 2010 tot en met 31 december 2015.
 
 #### Afdeling 9.2.7. Overgangsrecht vrijstelling overdrachtsbelasting
 
 ##### Artikel 9.14
 
-1. Van overdrachtsbelasting zijn vrijgesteld verkrijgingen van onroerende zaken en de rechten waaraan deze zijn onderworpen, bij vorming van een omroeporganisatie als bedoeld in [artikel 9.7, aanhef en onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=9&titeldeel=9.2&afdeling=9.2.1&artikel=9.7&z=2026-01-01&g=2026-01-01).
+1. Van overdrachtsbelasting zijn vrijgesteld verkrijgingen van onroerende zaken en de rechten waaraan deze zijn onderworpen, bij vorming van een omroeporganisatie als bedoeld in [artikel 9.7, aanhef en onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=9&titeldeel=9.2&afdeling=9.2.1&artikel=9.7&z=2026-10-31&g=2026-10-31).
 
 2. Het eerste lid is alleen van toepassing als de onroerende zaken en de rechten waaraan deze zijn onderworpen uiterlijk 1 juli 2015 worden verkregen vanwege fusie tot een omroepvereniging of oprichting van een samenwerkingsomroep.
 
@@ -4412,9 +4898,9 @@ De [artikelen 2.184 tot en met 2.187](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 1. In afwijking van [artikel 34 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=34) is geen melding vereist voor een voornemen tot concentratie van:
 
-- a. omroepverenigingen als bedoeld in [artikel 9.7, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=9&titeldeel=9.2&afdeling=9.2.1&artikel=9.7&z=2026-01-01&g=2026-01-01), voor zover dat leidt tot de in dat onderdeel bedoelde omroeporganisaties; of
+- a. omroepverenigingen als bedoeld in [artikel 9.7, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=9&titeldeel=9.2&afdeling=9.2.1&artikel=9.7&z=2026-10-31&g=2026-10-31), voor zover dat leidt tot de in dat onderdeel bedoelde omroeporganisaties; of
 
-- b. een omroepvereniging als bedoeld in [artikel 9.7, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=9&titeldeel=9.2&afdeling=9.2.1&artikel=9.7&z=2026-01-01&g=2026-01-01), met een omroepvereniging als bedoeld in artikel 9.7, onderdeel a, of met een omroeporganisatie als bedoeld in artikel 9.7, onderdeel b.
+- b. een omroepvereniging als bedoeld in [artikel 9.7, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=9&titeldeel=9.2&afdeling=9.2.1&artikel=9.7&z=2026-10-31&g=2026-10-31), met een omroepvereniging als bedoeld in artikel 9.7, onderdeel a, of met een omroeporganisatie als bedoeld in artikel 9.7, onderdeel b.
 
 2. Dit artikel is van toepassing in de periode vanaf 1 januari 2013 tot en met 31 december 2015.
 
@@ -4424,9 +4910,9 @@ De [artikelen 2.184 tot en met 2.187](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 1. In afwijking van [artikel 34 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=34) is geen melding vereist voor een voornemen tot concentratie van:
 
-- a. omroepverenigingen als bedoeld in [artikel 9.7, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=9&titeldeel=9.2&afdeling=9.2.1&artikel=9.7&z=2026-01-01&g=2026-01-01), voor zover dat leidt tot de in dat onderdeel bedoelde omroeporganisaties; of
+- a. omroepverenigingen als bedoeld in [artikel 9.7, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=9&titeldeel=9.2&afdeling=9.2.1&artikel=9.7&z=2026-10-31&g=2026-10-31), voor zover dat leidt tot de in dat onderdeel bedoelde omroeporganisaties; of
 
-- b. een omroepvereniging als bedoeld in [artikel 9.7, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=9&titeldeel=9.2&afdeling=9.2.1&artikel=9.7&z=2026-01-01&g=2026-01-01), met een omroepvereniging als bedoeld in artikel 9.7, onderdeel a, of met een omroeporganisatie als bedoeld in artikel 9.7, onderdeel b.
+- b. een omroepvereniging als bedoeld in [artikel 9.7, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=9&titeldeel=9.2&afdeling=9.2.1&artikel=9.7&z=2026-10-31&g=2026-10-31), met een omroepvereniging als bedoeld in artikel 9.7, onderdeel a, of met een omroeporganisatie als bedoeld in artikel 9.7, onderdeel b.
 
 2. Dit artikel is van toepassing in de periode vanaf 1 januari 2013 tot en met 31 december 2015.
 
@@ -4434,25 +4920,25 @@ De [artikelen 2.184 tot en met 2.187](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 ##### Artikel 9.14c
 
-1. In afwijking van [artikel 2.60k](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.1&artikel=2.60k&z=2026-01-01&g=2026-01-01) kan de eerste concessie die wordt verleend aan de RPO gelden voor een periode korter dan tien jaar.
+1. In afwijking van [artikel 2.60k](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.1&artikel=2.60k&z=2026-10-31&g=2026-10-31) kan de eerste concessie die wordt verleend aan de RPO gelden voor een periode korter dan tien jaar.
 
-2. In geval van toepassing van het eerste lid heeft het eerste concessiebeleidsplan RPO, in afwijking van [artikel 2.60l](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.1&artikel=2.60l&z=2026-01-01&g=2026-01-01), betrekking op de volledige periode van de eerste concessie.
+2. In geval van toepassing van het eerste lid heeft het eerste concessiebeleidsplan RPO, in afwijking van [artikel 2.60l](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.1&artikel=2.60l&z=2026-10-31&g=2026-10-31), betrekking op de volledige periode van de eerste concessie.
 
 #### Afdeling 9.2.10. Verlenging van de concessie en de erkenningen van de landelijke publieke mediadienst die zijn verleend voor een periode die afloopt op 31 december 2020
 
 ##### Artikel 9.14d
 
-De concessie van de NPO, de concessieperiode en de tweede van de twee perioden van vijf jaar, bedoeld in [artikel 2.19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.4&artikel=2.19&z=2026-01-01&g=2026-01-01), de tweede periode van vijf jaar, bedoeld in [artikel 2.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.4&artikel=2.20&z=2026-01-01&g=2026-01-01), de erkenningen en de voorlopige erkenningen, bedoeld in [artikel 2.23, eerste, respectievelijk tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-01-01&g=2026-01-01), en de erkenningperiode die gelden op het moment van inwerkingtreding van dit artikel worden, voor zover van toepassing in afwijking van deze wet, van rechtswege met een jaar verlengd.
+De concessie van de NPO, de concessieperiode en de tweede van de twee perioden van vijf jaar, bedoeld in [artikel 2.19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.4&artikel=2.19&z=2026-10-31&g=2026-10-31), de tweede periode van vijf jaar, bedoeld in [artikel 2.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.4&artikel=2.20&z=2026-10-31&g=2026-10-31), de erkenningen en de voorlopige erkenningen, bedoeld in [artikel 2.23, eerste, respectievelijk tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-10-31&g=2026-10-31), en de erkenningperiode die gelden op het moment van inwerkingtreding van dit artikel worden, voor zover van toepassing in afwijking van deze wet, van rechtswege met een jaar verlengd.
 
 ##### Artikel 9.14d1
 
-De concessie van de NPO, de concessieperiode en de eerste van de twee perioden van vijf jaar, bedoeld in [artikel 2.19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.4&artikel=2.19&z=2026-01-01&g=2026-01-01), de erkenningen en de voorlopige erkenningen, bedoeld in [artikel 2.23, eerste](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-01-01&g=2026-01-01), respectievelijk tweede lid, en de erkenningperiode die gelden op het moment van inwerkingtreding van dit artikel worden, voor zover van toepassing in afwijking van deze wet, van rechtswege met twee jaar verlengd.
+De concessie van de NPO, de concessieperiode en de eerste van de twee perioden van vijf jaar, bedoeld in [artikel 2.19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.4&artikel=2.19&z=2026-10-31&g=2026-10-31), de erkenningen en de voorlopige erkenningen, bedoeld in [artikel 2.23, eerste](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2&artikel=2.23&z=2026-10-31&g=2026-10-31), respectievelijk tweede lid, en de erkenningperiode die gelden op het moment van inwerkingtreding van dit artikel worden, voor zover van toepassing in afwijking van deze wet, van rechtswege met twee jaar verlengd.
 
 #### Afdeling 9.2.11. Overgangsrecht maximum percentage reclame- en telewinkelboodschappen in televisieprogramma-aanbod landelijke publieke mediadienst
 
 ##### Artikel 9.14e
 
-1. In afwijking van [artikel 2.95, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.2&paragraaf=2.5.2.2&artikel=2.95&z=2026-01-01&g=2026-01-01), bedraagt het aandeel reclame- en telewinkelboodschappen per televisieprogrammakanaal van de landelijke publieke mediadienst niet meer dan een bij of krachtens algemene maatregel van bestuur vast te stellen percentage van de totale duur van het programma-aanbod op dat kanaal per jaar, welk percentage niet meer bedraagt dan tien.
+1. In afwijking van [artikel 2.95, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.2&paragraaf=2.5.2.2&artikel=2.95&z=2026-10-31&g=2026-10-31), bedraagt het aandeel reclame- en telewinkelboodschappen per televisieprogrammakanaal van de landelijke publieke mediadienst niet meer dan een bij of krachtens algemene maatregel van bestuur vast te stellen percentage van de totale duur van het programma-aanbod op dat kanaal per jaar, welk percentage niet meer bedraagt dan tien.
 
 2. De voordracht voor een op grond van het eerste lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
@@ -4462,25 +4948,85 @@ De concessie van de NPO, de concessieperiode en de eerste van de twee perioden v
 
 ##### Artikel 9.14f
 
-In afwijking van [artikel 2.65, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.1a&artikel=2.65&z=2026-01-01&g=2026-01-01), blijft een aanwijzing als regionale publieke media-instelling op grond van artikel 2.65, eerste lid, zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van dit artikel, die geldt op de dag waarop artikel I, onderdeel Ma, van de Wijziging van de Mediawet 2008 met het oog op de versterking van het toekomstperspectief van de publieke omroep in werking treedt, gelden tot en met 31 december 2025 en vervalt daarna van rechtswege.
+In afwijking van [artikel 2.65, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.2&artikel=2.65&z=2026-10-31&g=2026-10-31), blijft een aanwijzing als regionale publieke media-instelling op grond van artikel 2.65, eerste lid, zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van dit artikel, die geldt op de dag waarop artikel I, onderdeel Ma, van de Wijziging van de Mediawet 2008 met het oog op de versterking van het toekomstperspectief van de publieke omroep in werking treedt, gelden tot en met 31 december 2025 en vervalt daarna van rechtswege.
 
 ### Titel 9.2a. Overgangsbepalingen en evaluatiebepaling investeringsverplichting commerciële mediadiensten op aanvraag
 
 ##### Artikel 9.14g
 
-De relevante omzet, bedoeld in [artikel 3.29e](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2a&artikel=3.29e&z=2026-01-01&g=2026-01-01), wordt voor het eerst bepaald over de resterende maanden van het op de datum van inwerkingtreding van dit artikel lopende boekjaar, dan wel over het boekjaar dat aanvangt op de datum van inwerkingtreding van dit artikel.
+De relevante omzet, bedoeld in [artikel 3.29e](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2a&artikel=3.29e&z=2026-10-31&g=2026-10-31), wordt voor het eerst bepaald over de resterende maanden van het op de datum van inwerkingtreding van dit artikel lopende boekjaar, dan wel over het boekjaar dat aanvangt op de datum van inwerkingtreding van dit artikel.
 
 ##### Artikel 9.14h
 
-1. Onze Minister van Onderwijs, Cultuur en Wetenschap zendt binnen drie jaar na de inwerkingtreding van de [artikelen 3.29e tot en met 3.29i](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2a&artikel=3.29e&z=2026-01-01&g=2026-01-01) aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van die bepalingen in de praktijk.
+1. Onze Minister van Onderwijs, Cultuur en Wetenschap zendt binnen drie jaar na de inwerkingtreding van de [artikelen 3.29e tot en met 3.29i](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2a&artikel=3.29e&z=2026-10-31&g=2026-10-31) aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van die bepalingen in de praktijk.
 
-2. Onze Minister doet voorts jaarlijks verslag aan de Staten-Generaal over de door media-instellingen in het daaraan voorafgaande boekjaar gedane investeringen in Nederlands cultureel audiovisueel product, zijnde een documentairefilm, documentaireserie, dramaserie of speelfilm, en vermeldt daarbij tevens welke investeringen zijn aangewend ten behoeve van onafhankelijke producties als bedoeld in [artikel 3.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.4&paragraaf=3.2.4.1&artikel=3.22&z=2026-01-01&g=2026-01-01).
+2. Onze Minister doet voorts jaarlijks verslag aan de Staten-Generaal over de door media-instellingen in het daaraan voorafgaande boekjaar gedane investeringen in Nederlands cultureel audiovisueel product, zijnde een documentairefilm, documentaireserie, dramaserie of speelfilm, en vermeldt daarbij tevens welke investeringen zijn aangewend ten behoeve van onafhankelijke producties als bedoeld in [artikel 3.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.4&paragraaf=3.2.4.1&artikel=3.22&z=2026-10-31&g=2026-10-31).
+
+### Titel 9.2b. Evaluatiebepaling en overgangsbepalingen wet van 28 oktober 2026 tot wijziging van de Mediawet 2008 in verband met de versterking van de uitvoering van de publieke mediaopdracht op lokaal niveau (Stb. 2026, 354)
+
+##### Artikel 9.14h1
+
+In deze titel wordt verstaan onder:
+
+- *nieuwe wet:* Wet van 28 oktober 2026 tot wijziging van de Mediawet 2008 in verband met de versterking van de uitvoering van de publieke mediaopdracht op lokaal niveau (Stb. 2026, 354).
+
+##### Artikel 9.14i
+
+Onze Minister zendt binnen zeven jaar na de inwerkingtreding van de nieuwe wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van die wet in de praktijk.
+
+##### Artikel 9.14j
+
+In afwijking van [artikel 2.87a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.1&artikel=2.87a&z=2026-10-31&g=2026-10-31) stelt de NLPO het bestuursverslag voor het eerst vast over het eerste kalenderjaar na de aanwijzing, bedoeld in [artikel 2.75, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.1&artikel=2.75&z=2026-10-31&g=2026-10-31).
+
+##### Artikel 9.14k
+
+1. Aanwijzingen als lokale publieke media-instelling op grond van [paragraaf 2.3.1a](https://wetten.overheid.nl/BWBR0025028) van de Mediawet 2008 zoals die luidde voorafgaand aan de inwerkingtreding van de nieuwe wet die gelden op het moment van de inwerkingtreding van de nieuwe wet blijven van rechtswege gelden tot het begin van de eerste concessie die wordt verleend aan de NLPO op grond van [artikel 2.87d](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.1&artikel=2.87d&z=2026-10-31&g=2026-10-31), en vervallen daarna van rechtswege.
+
+2. Voor de lokale publieke media-instellingen, bedoeld in het eerste lid, blijft de Mediawet 2008 van toepassing zoals deze luidde voorafgaand aan de inwerkingtreding van de nieuwe wet.
+
+3. In afwijking van het tweede lid bestaat het college van omroepen van de NLPO tot het begin van de eerste concessie van de NLPO uit het college van omroepen van het overlegorgaan, bedoeld in [artikel 2.146, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.1&artikel=2.146&z=2026-10-31&g=2026-10-31), van de Mediawet 2008 zoals die luidde voorafgaand aan de inwerkingtreding van de nieuwe wet, zoals dat college van omroepen was samengesteld voorafgaand aan de inwerkingtreding van de nieuwe wet.
+
+4. Op bezwaar en beroep tegen een besluit over aanwijzing als lokale publieke media-instelling dat is genomen voorafgaand aan de inwerkingtreding van de nieuwe wet blijft de Mediawet 2008 zoals die luidde voorafgaand aan de inwerkingtreding van de nieuwe wet van toepassing.
+
+5. Indien op het moment van de inwerkingtreding van de nieuwe wet in een gemeente of gemeenten geen geldende aanwijzing als lokale publieke media-instelling is op grond van [paragraaf 2.3.1a](https://wetten.overheid.nl/BWBR0025028) van de Mediawet 2008 zoals die luidde voorafgaand aan de inwerkingtreding van de nieuwe wet, de laatste zodanige aanwijzing is vervallen na 1 juli 2026, er een lopende aanwijzingsprocedure is op grond van paragraaf 2.3.1a van de Mediawet 2008 zoals die luidde voorafgaand aan de inwerkingtreding van de nieuwe wet en er één aanvrager is over wie in die aanwijzingsprocedure door de betrokken gemeenteraad of -raden op grond van artikel 2.61, derde lid, van de Mediawet 2008 zoals die luidde voorafgaand aan de inwerkingtreding van de nieuwe wet is geadviseerd dat deze voldoet aan de eisen, bedoeld in [artikel 2.61, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.2&artikel=2.61&z=2026-10-31&g=2026-10-31), van de Mediawet 2008 zoals die luidde voorafgaand aan de inwerkingtreding van de nieuwe wet, danwel één aanvrager die de voorkeur heeft gekregen in de adviesvraag aan de gemeenteraad of -raden in het kader van de toetsing van het Commissariaat, bedoeld in [artikel 2.63, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.3&paragraaf=2.3.2&artikel=2.63&z=2026-10-31&g=2026-10-31), van de Mediawet 2008 zoals die luidde voorafgaand aan de inwerkingtreding van de nieuwe wet, wordt die aanvrager van rechtswege aangewezen als de betreffende lokale publieke media-instelling met ingang van de inwerkingtreding van de nieuwe wet. Deze aanwijzing geldt tot het begin van de eerste concessie van de NLPO en vervalt daarna van rechtswege.
+
+6. Indien op het moment van de inwerkingtreding van de nieuwe wet in een gemeente geen geldende aanwijzing als lokale publieke media-instelling is op grond van [paragraaf 2.3.1a](https://wetten.overheid.nl/BWBR0025028) van de Mediawet 2008 zoals die luidde voorafgaand aan de inwerkingtreding van de nieuwe wet, de laatste zodanige aanwijzing is vervallen na 1 juli 2026 en het vijfde lid niet van toepassing is, wordt de laatste zodanig aangewezen lokale publieke media-instelling in die gemeente van rechtswege aangewezen als de betreffende lokale publieke media-instelling met ingang van de inwerkingtreding van de nieuwe wet. Deze aanwijzing geldt tot het begin van de eerste concessie van de NLPO en vervalt daarna van rechtswege.
+
+7. Bij toepassing van het vijfde of zesde lid is het tweede lid van overeenkomstige toepassing.
+
+8. Het vijfde en zesde lid zijn niet van toepassing bij inwerkingtreding van de nieuwe wet na april 2027.
+
+9. In afwijking van [artikel 2.170b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.5a&artikel=2.170b&z=2026-10-31&g=2026-10-31), van de Mediawet 2008 zoals die luidde voorafgaand aan de inwerkingtreding van de nieuwe wet, dragen de betrokken colleges van burgemeester en wethouders bij toepassing van het zesde lid gedurende de periode vanaf de inwerkingtreding van de nieuwe wet tot het begin van de eerste concessie van de NLPO zorg voor de bekostiging van de lokale publieke media-instelling in hun gemeente.
+
+##### Artikel 9.14l
+
+In afwijking van de [artikelen 2.170b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.5a&artikel=2.170b&z=2026-10-31&g=2026-10-31), [2.170c](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.5a&artikel=2.170c&z=2026-10-31&g=2026-10-31) en [2.173b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6&paragraaf=2.6.6.1&artikel=2.173b&z=2026-10-31&g=2026-10-31) geldt voor de periode tussen de aanwijzing als NLPO, bedoeld in [artikel 2.75, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.1&artikel=2.75&z=2026-10-31&g=2026-10-31), en het begin van de eerste concessie die wordt verleend aan de NLPO op grond van [artikel 2.87d](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.1&artikel=2.87d&z=2026-10-31&g=2026-10-31), het volgende:
+
+- a. De NLPO dient zo snel mogelijk na de aanwijzing als NLPO, bedoeld in [artikel 2.75, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.1&artikel=2.75&z=2026-10-31&g=2026-10-31), een begroting in voor de uitvoering van haar taken in het resterende deel van het kalenderjaar. Indien de periode, bedoeld in de aanhef, mede een volgend kalenderjaar omvat, wordt de uiterste datum voor indiening van de begroting van de NLPO voor dat jaar bepaald door Onze Minister, met dien verstande dat indiening in elk geval plaatsvindt vóór het begin van dat kalenderjaar.
+
+- b. Onze Minister stelt uit de rijksmediabijdrage en de inkomsten van de Ster aan de NLPO een bijdrage in de kosten ter beschikking.
+
+- c. Onze Minister kan aan een besluit tot het ter beschikking stellen van de bijdrage voorschriften verbinden.
+
+- d. Onze Minister kan een besluit tot het ter beschikking stellen van de bijdrage intrekken of wijzigen als de NLPO de aan het besluit verbonden voorschriften niet naleeft.
+
+##### Artikel 9.14m
+
+De begroting, bedoeld in [artikel 2.170b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.5a&artikel=2.170b&z=2026-10-31&g=2026-10-31), voor het eerste jaar van de duur van de eerste concessie die wordt verleend aan de NLPO op grond van [artikel 2.87d](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.1&artikel=2.87d&z=2026-10-31&g=2026-10-31), voldoet aan de vereisten van artikel 2.170b, derde en vierde lid, naar de mate waarin de desbetreffende informatie redelijkerwijs beschikbaar is voor de NLPO.
+
+##### Artikel 9.14m1
+
+In afwijking van [artikel 2.170d](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.5a&artikel=2.170d&z=2026-10-31&g=2026-10-31) stelt Onze Minister voorafgaand aan de aanwijzingsperiode, bedoeld in [artikel 2.87j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.3&artikel=2.87j&z=2026-10-31&g=2026-10-31), waarvan het begin gelijktijdig is met het begin van de eerste concessie van de NLPO, het totaalbudget dat gedurende die aanwijzingsperiode jaarlijks ten minste beschikbaar is voor de bekostiging van de lokale publieke media-instellingen vast voorafgaand aan de start van het aanvraagtijdvak, bedoeld in [artikel 2.87u, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.3&artikel=2.87u&z=2026-10-31&g=2026-10-31), dat op die aanwijzingsperiode betrekking heeft.
+
+##### Artikel 9.14n
+
+[Artikel 2.173b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.6&paragraaf=2.6.6.1&artikel=2.173b&z=2026-10-31&g=2026-10-31), is voor de NLPO voor het eerst van toepassing in het tweede kalenderjaar na het begin van de eerste concessie die haar wordt verleend op grond van [artikel 2.87d](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.4&paragraaf=2.4.1&artikel=2.87d&z=2026-10-31&g=2026-10-31).
 
 ### Titel 9.3. Slotbepalingen
 
 ##### Artikel 9.15
 
-De voordracht voor een krachtens de [artikelen 2.21a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.4&artikel=2.21a&z=2026-01-01&g=2026-01-01), [2.34a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2a&artikel=2.34a&z=2026-01-01&g=2026-01-01), [2.116](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.4&paragraaf=2.5.4.1&artikel=2.116&z=2026-01-01&g=2026-01-01) of [2.136](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.6&artikel=2.136&z=2026-01-01&g=2026-01-01) vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
+De voordracht voor een krachtens de [artikelen 2.21a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.1&paragraaf=2.2.1.4&artikel=2.21a&z=2026-10-31&g=2026-10-31), [2.34a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.2&afdeling=2.2.2a&artikel=2.34a&z=2026-10-31&g=2026-10-31), [2.116](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.4&paragraaf=2.5.4.1&artikel=2.116&z=2026-10-31&g=2026-10-31) of [2.136](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.6&artikel=2.136&z=2026-10-31&g=2026-10-31) vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
 ##### Artikel 9.16
 
@@ -4488,15 +5034,15 @@ Onze Minister stelt regels ter uitvoering van artikel 22 van de Europese richtli
 
 ##### Artikel 9.17
 
-Een wijziging van de Europese richtlijn gaat voor de toepassing van het bepaalde bij of krachtens de [artikelen 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=1&artikel=1.2&z=2026-01-01&g=2026-01-01), [2.115 tot en met 2.121](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.4&paragraaf=2.5.4.1&artikel=2.115&z=2026-01-01&g=2026-01-01), [3.20 tot en met 3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.4&paragraaf=3.2.4.1&artikel=3.20&z=2026-01-01&g=2026-01-01), en [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=5&z=2026-01-01&g=2026-01-01) gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
+Een wijziging van de Europese richtlijn gaat voor de toepassing van het bepaalde bij of krachtens de [artikelen 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=1&artikel=1.2&z=2026-10-31&g=2026-10-31), [2.115 tot en met 2.121](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.5&afdeling=2.5.4&paragraaf=2.5.4.1&artikel=2.115&z=2026-10-31&g=2026-10-31), [3.20 tot en met 3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.2&afdeling=3.2.4&paragraaf=3.2.4.1&artikel=3.20&z=2026-10-31&g=2026-10-31), en [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=5&z=2026-10-31&g=2026-10-31) gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
 ##### Artikel 9.17a
 
-Vooruitlopend op wetgeving ter zake kunnen bij ministeriële regeling regels worden gesteld voor vormen van audiovisuele commerciële communicatie in de zin van artikel 1 van de Europese richtlijn waarop de [hoofdstukken 1 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=1&z=2026-01-01&g=2026-01-01) van deze wet niet van toepassing zijn.
+Vooruitlopend op wetgeving ter zake kunnen bij ministeriële regeling regels worden gesteld voor vormen van audiovisuele commerciële communicatie in de zin van artikel 1 van de Europese richtlijn waarop de [hoofdstukken 1 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=1&z=2026-10-31&g=2026-10-31) van deze wet niet van toepassing zijn.
 
 ##### Artikel 9.17b
 
-Onze Minister zendt binnen vijf jaar na inwerkingtreding van dit artikel en vervolgens iedere vijf jaar aan de Staten-Generaal een verslag over de effecten en de uitvoering van de [artikelen 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.3&afdeling=6.3.1&paragraaf=6.3.1.2&artikel=6.13&z=2026-01-01&g=2026-01-01) en [6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.3&afdeling=6.3.1&paragraaf=6.3.1.2&artikel=6.14&z=2026-01-01&g=2026-01-01) in de praktijk.
+Onze Minister zendt binnen vijf jaar na inwerkingtreding van dit artikel en vervolgens iedere vijf jaar aan de Staten-Generaal een verslag over de effecten en de uitvoering van de [artikelen 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.3&afdeling=6.3.1&paragraaf=6.3.1.2&artikel=6.13&z=2026-10-31&g=2026-10-31) en [6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.3&afdeling=6.3.1&paragraaf=6.3.1.2&artikel=6.14&z=2026-10-31&g=2026-10-31) in de praktijk.
 
 ##### Artikel 9.18
 
@@ -4504,11 +5050,11 @@ Na inwerkingtreding van deze wet:
 
 - a. *vervallen;*
 
-- b. berust het [besluit van 23 juni 1988 (Stb. 341), houdende regelen ter uitvoering van artikel 173 van de Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0004354), op [artikel 6.26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.4&artikel=6.26&z=2026-01-01&g=2026-01-01);
+- b. berust het [besluit van 23 juni 1988 (Stb. 341), houdende regelen ter uitvoering van artikel 173 van de Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0004354), op [artikel 6.26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.4&artikel=6.26&z=2026-10-31&g=2026-10-31);
 
-- c. berust de [Regeling toezichtskosten commerciële omroep](https://wetten.overheid.nl/jci1.3:c:BWBR0012826) op [artikel 3.30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.3&artikel=3.30&z=2026-01-01&g=2026-01-01);
+- c. berust de [Regeling toezichtskosten commerciële omroep](https://wetten.overheid.nl/jci1.3:c:BWBR0012826) op [artikel 3.30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=3&titeldeel=3.3&artikel=3.30&z=2026-10-31&g=2026-10-31);
 
-- d. berust de [Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014740) op [artikel 6.23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.3&afdeling=6.3.2&artikel=6.23&z=2026-01-01&g=2026-01-01).
+- d. berust de [Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014740) op [artikel 6.23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=6&titeldeel=6.3&afdeling=6.3.2&artikel=6.23&z=2026-10-31&g=2026-10-31).
 
 ##### Artikel 9.19
 
@@ -4518,7 +5064,7 @@ De [Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0004149) wordt ingetrokken
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. Als deze wet na 31 december 2008 in werking treedt, werken de [artikelen 2.143](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.1&artikel=2.143&z=2026-01-01&g=2026-01-01), [2.144](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.1&artikel=2.144&z=2026-01-01&g=2026-01-01) en [9.1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=9&titeldeel=9.1&artikel=9.1&z=2026-01-01&g=2026-01-01), terug tot en met 1 januari 2008.
+2. Als deze wet na 31 december 2008 in werking treedt, werken de [artikelen 2.143](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.1&artikel=2.143&z=2026-10-31&g=2026-10-31), [2.144](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=2&titeldeel=2.6&afdeling=2.6.1&artikel=2.144&z=2026-10-31&g=2026-10-31) en [9.1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&hoofdstuk=9&titeldeel=9.1&artikel=9.1&z=2026-10-31&g=2026-10-31), terug tot en met 1 januari 2008.
 
 ##### Artikel 9.21
 

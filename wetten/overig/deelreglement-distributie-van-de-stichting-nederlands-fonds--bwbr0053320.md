@@ -8,7 +8,7 @@ laatste_update: 2026-11-01
 status: geldig
 toestand: 2026-11-01
 bron: "https://wetten.overheid.nl/BWBR0053320"
-opgehaald: 2026-11-20
+opgehaald: 2026-11-21
 ---
 
 # Deelreglement Distributie van de Stichting Nederlands Fonds voor de film

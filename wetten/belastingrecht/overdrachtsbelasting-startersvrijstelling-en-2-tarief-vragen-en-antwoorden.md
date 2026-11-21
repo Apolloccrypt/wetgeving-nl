@@ -5,10 +5,11 @@ categorie: "Belastingrecht"
 soort: "beleidsregel"
 publicatiedatum: 2021-07-24
 laatste_update: 2021-07-24
-status: geldig
+status: vervallen
+vervallen_op: 2026-11-13
 toestand: 2021-07-24
 bron: "https://wetten.overheid.nl/BWBR0045469"
-opgehaald: 2026-10-30
+opgehaald: 2026-11-21
 ---
 
 # Overdrachtsbelasting, startersvrijstelling en 2%-tarief; vragen en antwoorden

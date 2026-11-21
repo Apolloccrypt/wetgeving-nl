@@ -1,0 +1,133 @@
+---
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 6 november 2026 nr. WJZ/66371810 (29513), houdende regels voor het verstrekken van specifieke uitkeringen voor de uitoefening van de door de minister overgedragen taken en bevoegdheden tot beheer van rijksarchief (Regeling specifieke uitkering beheer rijksarchief)"
+citeertitel: "Regeling specifieke uitkering beheer rijksarchief"
+identifier: "BWBR0053364"
+categorie: "Sociaal recht"
+soort: "ministeriele-regeling"
+publicatiedatum: 2026-11-14
+laatste_update: 2026-11-14
+status: geldig
+toestand: 2026-11-14
+bron: "https://wetten.overheid.nl/BWBR0053364"
+opgehaald: 2026-11-21
+---
+
+# Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 6 november 2026 nr. WJZ/66371810 (29513), houdende regels voor het verstrekken van specifieke uitkeringen voor de uitoefening van de door de minister overgedragen taken en bevoegdheden tot beheer van rijksarchief (Regeling specifieke uitkering beheer rijksarchief)
+
+### Hoofdstuk 1. Begripspalingen van de regeling
+
+##### Artikel 1. Begripsbepalingen
+
+In deze regeling wordt verstaan onder:
+
+- *minister:* Minister van Onderwijs, Cultuur en Wetenschap;
+
+- *Regionaal Historisch Centrum:* krachtens gemeenschappelijke regeling ingesteld openbaar lichaam, genoemd in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0053364&hoofdstuk=2&artikel=2&z=2026-11-14&g=2026-11-14).
+
+### Hoofdstuk 2. Specifieke uitkering aan regionaal historische centra
+
+##### Artikel 2. Specifieke uitkering aan RHC’s
+
+1. De minister verstrekt specifieke uitkeringen aan de Regionaal Historische Centra ten behoeve van de uitoefening van de taken en bevoegdheden die de minister ingevolge [artikel 3.1, eerste lid, van de Archiefwet 2026](https://wetten.overheid.nl/jci1.3:c:BWBR0052739&artikel=3.1), aan het desbetreffende Regionaal Historisch Centrum heeft overgedragen.
+
+2. De minister verstrekt jaarlijks de volgende uitkeringsbedragen aan de volgende Regionaal Historische Centra:
+
+| Regionaal Historisch Centrum | Bedrag specifieke uitkering1 |
+| --- | --- |
+| Brabants Historisch Informatie Centrum | € 3.489.197 |
+| Collectie Overijssel | € 2.431.249 |
+| Drents Archief | € 2.162.358 |
+| Gelders Archief | € 3.093.926 |
+| Groninger Archieven | € 3.653.6152 |
+| Het Flevolands Archief | € 771.781 |
+| Het Utrechts Archief | € 3.097.398 |
+| Historisch Centrum Limburg | € 3.806.808 |
+| Noord-Hollands Archief | € 2.966.669 |
+| Tresoar | € 2.753.111 |
+| Zeeuws Archief | € 3.882.997 |
+
+1 Prijspeil 2027.
+
+2 Voor het Regionaal Historisch Centrum Groninger Archieven bedraagt de specifieke uitkering voor 2027 eenmalig € 3.684.418.
+
+3. De minister verleent de specifieke uitkeringen jaarlijks ambtshalve voor 1 oktober, ten behoeve van de uitoefening in het daaropvolgende jaar van de taken en bevoegdheden, bedoeld in het eerste lid.
+
+4. De minister kan de specifieke uitkering jaarlijks verhogen, rekening houdend met de ontwikkeling van de kosten in de arbeidsvoorwaarden of van de kosten in de ontwikkeling van het prijspeil.
+
+5. Indien de specifieke uitkering met toepassing van het vierde lid wordt verhoogd, bepaalt de minister welk percentage van de specifieke uitkering wordt aangemerkt als loongevoelig onderscheidenlijk prijsgevoelig.
+
+6. De minister verstrekt een voorschot van 100%, dat in vier gelijke delen per kwartaal wordt uitbetaald. De betalingen geschieden in de maanden januari, april, juli en oktober van het jaar waarop de specifieke uitkering betrekking heeft. De betaling van een jaarlijkse verhoging als bedoeld in het vierde lid geschiedt afzonderlijk.
+
+##### Artikel 3. Verplichtingen
+
+Aan de specifieke uitkering zijn de volgende verplichtingen verbonden:
+
+- a. het Regionaal Historisch Centrum dient de volgende documenten op de hieronder aangegeven momenten in bij de minister:
+
+   - 1°. jaarlijks uiterlijk op 30 september, de vastgestelde begroting, bedoeld in [artikel 35 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=35), met betrekking tot het volgende kalenderjaar; en
+
+   - 2°. vierjaarlijks uiterlijk op 30 september, een meerjarenbeleidsplan.
+
+- b. het Regionaal Historisch Centrum werkt, onder meer door het verschaffen van de daartoe benodigde inlichtingen, gegevens en bescheiden, mee aan door of namens de minister ingesteld onderzoek en overleg dat erop is gericht de minister inlichtingen te verschaffen die van belang zijn voor de werking van deze regeling en de ontwikkeling van het door de minister te voeren archiefbeleid; en
+
+- c. het Regionaal Historisch Centrum informeert de minister onverwijld, schriftelijk en onder overlegging van de relevante stukken, indien:
+
+   - 1°. aannemelijk is geworden dat de activiteiten waarvoor de specifieke uitkering is verstrekt niet, niet tijdig of niet geheel zullen worden verricht;
+
+   - 2°. aannemelijk is geworden dat niet, niet tijdig of niet geheel aan de verplichtingen die verbonden zijn aan de specifieke uitkering zal worden voldaan; of
+
+   - 3°. zich andere omstandigheden voordoen of zullen voordoen die van belang kunnen zijn voor een beslissing tot wijziging, intrekking of vaststelling van de specifieke uitkering.
+
+##### Artikel 4. Tussentijdse verlaging specifieke uitkering
+
+Indien één van de omstandigheden, bedoeld in [artikel 3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0053364&hoofdstuk=2&artikel=3&z=2026-11-14&g=2026-11-14), van toepassing is, kan de minister het besluit tot verlening van de specifieke uitkering tussentijds ambtshalve verlagen.
+
+##### Artikel 5. Verantwoording
+
+1. Het Regionaal Historisch Centrum legt verantwoording af over de specifieke uitkering onder toepassing van [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a). De minister bepaalt daartoe in de beschikking of de wijze van verantwoording door provincies, hetzij de wijze van verantwoording door gemeenten, ten aanzien van het Regionaal Historisch Centrum van toepassing is.
+
+2. [Artikel 58a van het Besluit begroting en verantwoording provincies en gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&artikel=58a) is van overeenkomstige toepassing.
+
+##### Artikel 6. Vaststelling
+
+1. De minister stelt een specifieke uitkering vast binnen 22 weken na ontvangst van de verantwoording, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0053364&hoofdstuk=2&artikel=5&z=2026-11-14&g=2026-11-14), over het jaar waarin de activiteiten waarvoor de specifieke uitkering is verleend zijn afgerond.
+
+2. De minister kan er bij de vaststelling mee instemmen dat bij een positief resultaat de specifieke uitkering gedeeltelijk wordt aangewend voor de vorming van een reserve of voorziening.
+
+3. De minister kan de specifieke uitkering op een lager bedrag vaststellen als:
+
+- a. de specifieke uitkering, na de eventuele vorming van de in het tweede lid bedoelde reserves, niet of niet volledig overeenkomstig het doel van deze regeling is besteed, of voor zover de rechtmatigheid van de besteding onzeker is; of
+
+- b. niet of niet volledig is voldaan aan de verplichtingen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0053364&hoofdstuk=2&artikel=3&z=2026-11-14&g=2026-11-14), of de verplichting tot verantwoording, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0053364&hoofdstuk=2&artikel=5&z=2026-11-14&g=2026-11-14).
+
+##### Artikel 7. Terugvordering verrekening
+
+1. Indien een specifieke uitkering ingevolge [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0053364&hoofdstuk=2&artikel=4&z=2026-11-14&g=2026-11-14) tussentijds is verlaagd of ingevolge [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0053364&hoofdstuk=2&artikel=6&z=2026-11-14&g=2026-11-14), op een lager bedrag is vastgesteld, kan de minister de onverschuldigd betaalde bedragen terugvorderen.
+
+2. Terugvordering van een onverschuldigd bedrag als bedoeld in het eerste lid vindt niet plaats voor zover na de dag waarop de specifieke uitkering is vastgesteld, vijf jaren zijn verstreken.
+
+3. De minister kan een terug te vorderen bedrag verrekenen met de nog uit te betalen voorschotten van de specifieke uitkering voor hetzelfde kalenderjaar of met de specifieke uitkering voor een daaropvolgend kalenderjaar.
+
+### Hoofdstuk 3. Overgangs- en slotbepalingen
+
+##### Artikel 8. Begrotingsvoorbehoud
+
+1. Indien de minister op grond van deze regeling specifieke uitkeringen verstrekt ten laste van een begroting die nog niet is vastgesteld, worden de specifieke uitkeringen verstrekt onder de voorwaarde dat daartoe in de begroting voldoende middelen ter beschikking worden gesteld.
+
+2. [Artikel 4:34, derde tot en met vijfde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34) is van overeenkomstige toepassing.
+
+##### Artikel 9. Verstrekking specifieke uitkeringen voor 2027
+
+In afwijking van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0053364&hoofdstuk=2&artikel=2&z=2026-11-14&g=2026-11-14), verstrekt de minister de specifieke uitkeringen voor het kalenderjaar 2027 ambtshalve voor 1 december 2026.
+
+##### Artikel 10. Omhangbepaling
+
+Deze regeling berust op [artikel 3.2 van de Archiefwet 2026](https://wetten.overheid.nl/jci1.3:c:BWBR0052739&artikel=3.2).
+
+##### Artikel 11. Inwerkingtreding
+
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0053364&hoofdstuk=3&artikel=10&z=2026-11-14&g=2026-11-14), dat in werking treedt met ingang van 1 januari 2027.
+
+##### Artikel 12. Citeertitel
+
+Deze regeling wordt aangehaald als: Regeling specifieke uitkering beheer rijksarchief.

@@ -8,7 +8,7 @@ laatste_update: 2026-11-13
 status: geldig
 toestand: 2026-11-13
 bron: "https://wetten.overheid.nl/BWBR0053337"
-opgehaald: 2026-11-20
+opgehaald: 2026-11-21
 ---
 
 # Reglement Adviescommissie voor de bezwaarschriften Ctgb 2026

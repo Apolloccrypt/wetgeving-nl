@@ -8,7 +8,7 @@ laatste_update: 1995-06-14
 status: geldig
 toestand: 1995-06-14
 bron: "https://wetten.overheid.nl/BWBV0001188"
-opgehaald: 2026-09-22
+opgehaald: 2026-11-21
 ---
 
 # Briefwisseling tussen de Regeringen van het Koninkrijk der Nederlanden, het Koninkrijk België en het Groothertogdom Luxemburg, enerzijds, en de Regering van Roemenië, anderzijds, houdende een overeenkomst met betrekking tot de afschaffing van de visumplicht met betrekking tot diplomatieke paspoorten
