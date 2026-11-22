@@ -9,7 +9,7 @@ laatste_update: 2026-11-14
 status: geldig
 toestand: 2026-11-14
 bron: "https://wetten.overheid.nl/BWBR0041915"
-opgehaald: 2026-11-21
+opgehaald: 2026-11-22
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 12 februari 2019 nr. WJZ/1091575(8144), houdende vaststelling van beleidsregels en een subsidieplafond inzake een subsidie ten behoeve van de instandhouding van woonhuis-rijksmonumenten (Besluit vaststelling beleidsregels instandhoudingssubsidie woonhuis-rijksmonumenten)

@@ -9,7 +9,7 @@ laatste_update: 2026-11-13
 status: geldig
 toestand: 2026-11-13
 bron: "https://wetten.overheid.nl/BWBR0053342"
-opgehaald: 2026-11-21
+opgehaald: 2026-11-22
 ---
 
 # Regeling van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur van 9 november 2026, nr. WJZ/99411265, houdende regels voor de verstrekking van subsidie voor het sluiten van veehouderijlocaties voor de reductie van ammoniakemissie (Landelijke vrijwillige beëindigingsregeling veehouderijlocaties) [KetenID WGK 27616]

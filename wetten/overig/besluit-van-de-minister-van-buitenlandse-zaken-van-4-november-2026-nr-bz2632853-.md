@@ -9,7 +9,7 @@ laatste_update: 2026-11-13
 status: geldig
 toestand: 2026-11-13
 bron: "https://wetten.overheid.nl/BWBR0053357"
-opgehaald: 2026-11-21
+opgehaald: 2026-11-22
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 4 november 2026, nr. BZ2632853, tot vaststelling van beleidsregels en een subsidieplafond op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidiebeleidskader NFRP Politieke Partijen Programma 2027)

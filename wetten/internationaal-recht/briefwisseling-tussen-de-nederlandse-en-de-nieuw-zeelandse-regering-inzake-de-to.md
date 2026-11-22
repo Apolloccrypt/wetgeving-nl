@@ -8,7 +8,7 @@ laatste_update: 1982-06-09
 status: geldig
 toestand: 1982-06-09
 bron: "https://wetten.overheid.nl/BWBV0002647"
-opgehaald: 2026-09-23
+opgehaald: 2026-11-22
 ---
 
 # Briefwisseling tussen de Nederlandse en de Nieuw-Zeelandse Regering inzake de toepassing van het Verdrag tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Ierland tot uitlevering van misdadigers

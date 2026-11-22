@@ -8,7 +8,7 @@ laatste_update: 1997-09-29
 status: geldig
 toestand: 1997-09-29
 bron: "https://wetten.overheid.nl/BWBV0002848"
-opgehaald: 2026-09-23
+opgehaald: 2026-11-22
 ---
 
 # Protocol bij het Verdrag van 1979 betreffende grensoverschrijdende luchtverontreiniging over lange afstand, inzake de beheersing van emissies van vluchtige organische stoffen of hun grensoverschrijdende stromen

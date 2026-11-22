@@ -8,7 +8,7 @@ laatste_update: 2026-11-12
 status: geldig
 toestand: 2026-11-12
 bron: "https://wetten.overheid.nl/BWBR0053343"
-opgehaald: 2026-11-21
+opgehaald: 2026-11-22
 ---
 
 # Besluit beperkingen openbaarheid archiefbescheiden Bureau Invordering (2.04.77), Ordedienst en Binnenlandse Strijdkrachten (2.13.137), Ambassade en Consulaat Pretoria (Zuid-Afrika) (2.05.122), Beleidsarchief IND (2.09.5026), Binnenlandse Veiligheidsdienst en Voorgangers, Persoonsdossiers (2.04.125), Nederlandse Missie Geallieerde Bestuursraad Berlijn: Sectie VI (2.05.113), Gezantschap Canada (2.05.50.01), Nederlands Consulaat-Generaal Singapore (2.05.297) en Rijksrecherche (2.09.130)

@@ -9,7 +9,7 @@ laatste_update: 2026-11-12
 status: geldig
 toestand: 2026-11-12
 bron: "https://wetten.overheid.nl/BWBR0039410"
-opgehaald: 2026-11-21
+opgehaald: 2026-11-22
 ---
 
 # Regeling Subsidie Lerend Werken, Stichting Vervangingsfonds en Bedrijfsgezondheidszorg voor het Onderwijs

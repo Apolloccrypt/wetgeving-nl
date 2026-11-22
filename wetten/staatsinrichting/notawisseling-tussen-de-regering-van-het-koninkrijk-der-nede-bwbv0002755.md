@@ -8,7 +8,7 @@ laatste_update: 1984-08-29
 status: geldig
 toestand: 1984-08-29
 bron: "https://wetten.overheid.nl/BWBV0002755"
-opgehaald: 2026-09-23
+opgehaald: 2026-11-22
 ---
 
 # Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Unie van Socialistische Sowjet-Republieken betreffende luchtdiensten

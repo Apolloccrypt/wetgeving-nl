@@ -9,7 +9,7 @@ laatste_update: 2007-08-14
 status: geldig
 toestand: 2007-08-14
 bron: "https://wetten.overheid.nl/BWBV0002754"
-opgehaald: 2026-09-23
+opgehaald: 2026-11-22
 ---
 
 # Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en de Haagse Conferentie voor Internationaal Privaatrecht inzake de tewerkstelling van gezinsleden die deel uitmaken van het huishouden van de functionarissen van de Haagse Conferentie voor Internationaal Privaatrecht

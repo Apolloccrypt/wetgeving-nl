@@ -9,7 +9,7 @@ laatste_update: 2026-11-12
 status: geldig
 toestand: 2026-11-12
 bron: "https://wetten.overheid.nl/BWBR0049346"
-opgehaald: 2026-11-21
+opgehaald: 2026-11-22
 ---
 
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 5 februari 2024, nr. 43729265, houdende regels voor subsidieverstrekking ten behoeve van de verbetering van de verbinding tussen het primair en voortgezet onderwijs (Subsidieregeling verbinding po-vo)

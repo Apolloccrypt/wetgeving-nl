@@ -8,7 +8,7 @@ laatste_update: 2019-07-01
 status: geldig
 toestand: 2019-07-01
 bron: "https://wetten.overheid.nl/BWBV0002964"
-opgehaald: 2026-09-23
+opgehaald: 2026-11-22
 ---
 
 # Verdrag inzake sociale zekerheid tussen het Koninkrijk der Nederlanden en de Republiek Kaapverdië

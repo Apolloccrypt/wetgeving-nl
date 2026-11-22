@@ -8,7 +8,7 @@ laatste_update: 1984-01-27
 status: geldig
 toestand: 1984-01-27
 bron: "https://wetten.overheid.nl/BWBV0002786"
-opgehaald: 2026-09-23
+opgehaald: 2026-11-22
 ---
 
 # Overeenkomst inzake technische samenwerking tussen het Koninkrijk der Nederlanden en de Republiek Mali

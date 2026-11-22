@@ -9,7 +9,7 @@ laatste_update: 2026-11-14
 status: geldig
 toestand: 2026-11-14
 bron: "https://wetten.overheid.nl/BWBR0053362"
-opgehaald: 2026-11-21
+opgehaald: 2026-11-22
 ---
 
 # Beleidsbesluit van de Staatssecretaris van Financiën van 6 november 2026, nr. 2026-20391 over de startersvrijstelling en het verlaagde woningtarief voor de overdrachtsbelasting (Beleidsbesluit startersvrijstelling en het verlaagde woningtarief overdrachtsbelasting)

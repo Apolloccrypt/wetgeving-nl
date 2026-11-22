@@ -8,7 +8,7 @@ laatste_update: 1990-08-30
 status: geldig
 toestand: 1990-08-30
 bron: "https://wetten.overheid.nl/BWBV0002472"
-opgehaald: 2026-09-23
+opgehaald: 2026-11-22
 ---
 
 # Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van het Gemenebest der Bahamas inzake de afschaffing van de visumplicht

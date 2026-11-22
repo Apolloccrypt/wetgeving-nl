@@ -8,7 +8,7 @@ laatste_update: 2026-11-12
 status: geldig
 toestand: 2026-11-12
 bron: "https://wetten.overheid.nl/BWBR0053333"
-opgehaald: 2026-11-21
+opgehaald: 2026-11-22
 ---
 
 # Besluit stellen beperkingen openbaarheid archiefbescheiden archieven Kabinet van de Minister-President (2.03.01) en Nederlandse diplomatieke vertegenwoordiging in Kroatië (2.05.266)

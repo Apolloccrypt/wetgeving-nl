@@ -8,7 +8,7 @@ laatste_update: 2009-04-01
 status: geldig
 toestand: 2009-04-01
 bron: "https://wetten.overheid.nl/BWBV0002834"
-opgehaald: 2026-09-23
+opgehaald: 2026-11-22
 ---
 
 # Briefwisseling houdende een overeenkomst tussen de Regeringen van de Benelux-staten en de Regering van het Gemenebest van de Bahama’s inzake de afschaffing van de visumplicht voor houders van diplomatieke en officiële of dienstpaspoorten

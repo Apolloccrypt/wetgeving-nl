@@ -8,7 +8,7 @@ laatste_update: 2010-10-01
 status: geldig
 toestand: 2010-10-01
 bron: "https://wetten.overheid.nl/BWBV0003095"
-opgehaald: 2026-09-23
+opgehaald: 2026-11-22
 ---
 
 # Protocol bij de Partnerschaps- en samenwerkingsovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Republiek Kazachstan, anderzijds, om rekening te houden met de toetreding van de Republiek Bulgarije en Roemenië tot de Europese Unie

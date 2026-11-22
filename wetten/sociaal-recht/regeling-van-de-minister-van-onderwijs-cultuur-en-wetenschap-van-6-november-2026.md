@@ -9,7 +9,7 @@ laatste_update: 2026-11-14
 status: geldig
 toestand: 2026-11-14
 bron: "https://wetten.overheid.nl/BWBR0053364"
-opgehaald: 2026-11-21
+opgehaald: 2026-11-22
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 6 november 2026 nr. WJZ/66371810 (29513), houdende regels voor het verstrekken van specifieke uitkeringen voor de uitoefening van de door de minister overgedragen taken en bevoegdheden tot beheer van rijksarchief (Regeling specifieke uitkering beheer rijksarchief)

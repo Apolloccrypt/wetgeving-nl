@@ -8,7 +8,7 @@ laatste_update: 1990-08-14
 status: geldig
 toestand: 1990-08-14
 bron: "https://wetten.overheid.nl/BWBV0003011"
-opgehaald: 2026-09-23
+opgehaald: 2026-11-22
 ---
 
 # Overeenkomst inzake technische samenwerking tussen het Koninkrijk der Nederlanden en de Republiek Bolivia

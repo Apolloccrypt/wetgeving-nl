@@ -9,7 +9,7 @@ laatste_update: 2026-11-14
 status: geldig
 toestand: 2026-11-14
 bron: "https://wetten.overheid.nl/BWBR0041330"
-opgehaald: 2026-11-21
+opgehaald: 2026-11-22
 ---
 
 # Besluit van 3 juli 2018, houdende regels over activiteiten in de fysieke leefomgeving (Besluit activiteiten leefomgeving)
