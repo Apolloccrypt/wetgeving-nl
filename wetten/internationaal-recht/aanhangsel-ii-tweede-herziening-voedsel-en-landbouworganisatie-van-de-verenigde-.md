@@ -8,7 +8,7 @@ laatste_update: 1966-12-09
 status: geldig
 toestand: 1966-12-09
 bron: "https://wetten.overheid.nl/BWBV0004774"
-opgehaald: 2026-09-24
+opgehaald: 2026-11-23
 ---
 
 # Aanhangsel II (tweede herziening): Voedsel- en Landbouworganisatie van de Verenigde Naties bij het Verdrag nopens de voorrechten en immuniteiten van de gespecialiseerde organisaties

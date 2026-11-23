@@ -8,7 +8,7 @@ laatste_update: 2005-05-01
 status: geldig
 toestand: 2005-05-01
 bron: "https://wetten.overheid.nl/BWBV0004448"
-opgehaald: 2026-09-24
+opgehaald: 2026-11-23
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Socialistische Federatieve Republiek Joegoslavië betreffende het internationale wegvervoer

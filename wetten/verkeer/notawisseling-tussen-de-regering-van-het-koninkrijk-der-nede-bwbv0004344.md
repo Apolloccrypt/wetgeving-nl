@@ -8,7 +8,7 @@ laatste_update: 1961-10-25
 status: geldig
 toestand: 1961-10-25
 bron: "https://wetten.overheid.nl/BWBV0004344"
-opgehaald: 2026-09-24
+opgehaald: 2026-11-23
 ---
 
 # Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland inzake samenvoeging van grenscontrole in het spoorwegverkeer

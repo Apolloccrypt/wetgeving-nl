@@ -8,7 +8,7 @@ laatste_update: 1972-03-23
 status: geldig
 toestand: 1972-03-23
 bron: "https://wetten.overheid.nl/BWBV0004509"
-opgehaald: 2026-09-24
+opgehaald: 2026-11-23
 ---
 
 # Overeenkomst betreffende de vrijwillige bijdragen bestemd voor de uitvoering van het project tot het behoud van de tempels van Philae

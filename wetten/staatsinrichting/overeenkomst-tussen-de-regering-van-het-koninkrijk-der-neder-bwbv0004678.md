@@ -8,7 +8,7 @@ laatste_update: 1966-12-21
 status: geldig
 toestand: 1966-12-21
 bron: "https://wetten.overheid.nl/BWBV0004678"
-opgehaald: 2026-09-24
+opgehaald: 2026-11-23
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Columbia inzake technische samenwerking

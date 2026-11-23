@@ -8,7 +8,7 @@ laatste_update: 1969-02-18
 status: geldig
 toestand: 1969-02-18
 bron: "https://wetten.overheid.nl/BWBV0004516"
-opgehaald: 2026-09-24
+opgehaald: 2026-11-23
 ---
 
 # Notawisseling tussen de Nederlandse en de Belgische Regering betreffende de oprichting en het gebruik van twee onbemande radarstations op Nederlands grondgebied

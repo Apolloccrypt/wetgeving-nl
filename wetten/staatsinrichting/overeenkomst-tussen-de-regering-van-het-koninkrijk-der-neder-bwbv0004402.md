@@ -8,7 +8,7 @@ laatste_update: 1971-04-14
 status: geldig
 toestand: 1971-04-14
 bron: "https://wetten.overheid.nl/BWBV0004402"
-opgehaald: 2026-09-24
+opgehaald: 2026-11-23
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Hongaarse Volksrepubliek betreffende het internationale wegvervoer

@@ -8,7 +8,7 @@ laatste_update: 1967-05-29
 status: geldig
 toestand: 1967-05-29
 bron: "https://wetten.overheid.nl/BWBV0004544"
-opgehaald: 2026-09-24
+opgehaald: 2026-11-23
 ---
 
 # Culturele Overeenkomst tussen het Koninkrijk der Nederlanden en de Socialistische Federale Republiek Zuidslavië

@@ -8,7 +8,7 @@ laatste_update: 1966-02-28
 status: geldig
 toestand: 1966-02-28
 bron: "https://wetten.overheid.nl/BWBV0004581"
-opgehaald: 2026-09-24
+opgehaald: 2026-11-23
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Hongaarse Volksrepubliek ter regeling van hangende financiële aangelegenheden

@@ -8,7 +8,7 @@ laatste_update: 1967-04-26
 status: geldig
 toestand: 1967-04-26
 bron: "https://wetten.overheid.nl/BWBV0004830"
-opgehaald: 2026-09-24
+opgehaald: 2026-11-23
 ---
 
 # Betalingsovereenkomst tussen het Koninkrijk der Nederlanden en de Belgisch-Luxemburgse Economische Unie, enerzijds, en de Hongaarse Volksrepubliek, anderzijds

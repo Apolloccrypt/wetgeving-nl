@@ -8,7 +8,7 @@ laatste_update: 1973-12-21
 status: geldig
 toestand: 1973-12-21
 bron: "https://wetten.overheid.nl/BWBV0003631"
-opgehaald: 2026-09-23
+opgehaald: 2026-11-23
 ---
 
 # Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland inzake de samenvoeging van de grenscontrole aan de grensovergang Wymeer-Bellingwolde

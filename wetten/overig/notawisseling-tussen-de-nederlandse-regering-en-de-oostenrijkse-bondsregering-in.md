@@ -8,7 +8,7 @@ laatste_update: 2006-04-30
 status: geldig
 toestand: 2006-04-30
 bron: "https://wetten.overheid.nl/BWBV0004740"
-opgehaald: 2026-09-24
+opgehaald: 2026-11-23
 ---
 
 # Notawisseling tussen de Nederlandse Regering en de Oostenrijkse Bondsregering inzake de afschaffing van de paspoortplicht

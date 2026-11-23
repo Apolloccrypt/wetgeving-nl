@@ -8,7 +8,7 @@ laatste_update: 1976-05-10
 status: geldig
 toestand: 1976-05-10
 bron: "https://wetten.overheid.nl/BWBV0004589"
-opgehaald: 2026-09-24
+opgehaald: 2026-11-23
 ---
 
 # Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland inzake samenvoeging grenscontrole bij de grensovergang Herzogenrath-Kirchrather Strasse/Kerkrade-Baalsbruggen

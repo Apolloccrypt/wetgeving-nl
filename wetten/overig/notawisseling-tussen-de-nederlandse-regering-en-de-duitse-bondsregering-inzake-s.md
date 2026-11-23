@@ -8,7 +8,7 @@ laatste_update: 1980-03-01
 status: geldig
 toestand: 1980-03-01
 bron: "https://wetten.overheid.nl/BWBV0003632"
-opgehaald: 2026-09-23
+opgehaald: 2026-11-23
 ---
 
 # Notawisseling tussen de Nederlandse Regering en de Duitse Bondsregering inzake samenvoeging van de grenscontrole Posterholt/Karken

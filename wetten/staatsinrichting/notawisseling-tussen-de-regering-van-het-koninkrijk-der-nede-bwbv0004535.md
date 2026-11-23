@@ -8,7 +8,7 @@ laatste_update: 1973-07-17
 status: geldig
 toestand: 1973-07-17
 bron: "https://wetten.overheid.nl/BWBV0004535"
-opgehaald: 2026-09-24
+opgehaald: 2026-11-23
 ---
 
 # Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland inzake samenvoeging van de grenscontrole op de autowegen Herzogenrath-Kerkrade

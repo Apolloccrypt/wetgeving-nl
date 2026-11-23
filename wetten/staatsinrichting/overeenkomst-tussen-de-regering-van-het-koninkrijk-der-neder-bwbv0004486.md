@@ -8,7 +8,7 @@ laatste_update: 1967-01-11
 status: geldig
 toestand: 1967-01-11
 bron: "https://wetten.overheid.nl/BWBV0004486"
-opgehaald: 2026-09-24
+opgehaald: 2026-11-23
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Tunesië inzake technische samenwerking

@@ -8,7 +8,7 @@ laatste_update: 1987-05-01
 status: geldig
 toestand: 1987-05-01
 bron: "https://wetten.overheid.nl/BWBV0004685"
-opgehaald: 2026-09-24
+opgehaald: 2026-11-23
 ---
 
 # Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland inzake wijziging van de regeling van de samenvoeging van de grenscontrole aan grensovergang 's-Heerenberg - Oost - Herenburgerbrücke - Ost

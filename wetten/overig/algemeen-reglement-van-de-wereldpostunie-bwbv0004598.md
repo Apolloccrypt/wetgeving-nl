@@ -8,7 +8,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBV0004598"
-opgehaald: 2026-09-24
+opgehaald: 2026-11-23
 ---
 
 # Algemeen Reglement van de Wereldpostunie

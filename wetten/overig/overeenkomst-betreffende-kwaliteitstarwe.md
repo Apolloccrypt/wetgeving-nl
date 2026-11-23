@@ -8,7 +8,7 @@ laatste_update: 1962-03-07
 status: geldig
 toestand: 1962-03-07
 bron: "https://wetten.overheid.nl/BWBV0004352"
-opgehaald: 2026-09-24
+opgehaald: 2026-11-23
 ---
 
 # Overeenkomst betreffende kwaliteitstarwe

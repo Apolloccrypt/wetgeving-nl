@@ -8,7 +8,7 @@ laatste_update: 1968-12-20
 status: geldig
 toestand: 1968-12-20
 bron: "https://wetten.overheid.nl/BWBV0004543"
-opgehaald: 2026-09-24
+opgehaald: 2026-11-23
 ---
 
 # Briefwisseling ter uitvoering van artikel 10 van de Culturele Overeenkomst tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland

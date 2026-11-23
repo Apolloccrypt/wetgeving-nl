@@ -8,7 +8,7 @@ laatste_update: 1987-10-23
 status: geldig
 toestand: 1987-10-23
 bron: "https://wetten.overheid.nl/BWBV0004427"
-opgehaald: 2026-09-24
+opgehaald: 2026-11-23
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland betreffende het internationale vervoer van goederen over de weg

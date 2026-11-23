@@ -8,7 +8,7 @@ laatste_update: 1964-07-10
 status: geldig
 toestand: 1964-07-10
 bron: "https://wetten.overheid.nl/BWBV0004435"
-opgehaald: 2026-09-24
+opgehaald: 2026-11-23
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Poolse Volksrepubliek inzake schadeloosstelling voor bepaalde Nederlandse belangen in Polen

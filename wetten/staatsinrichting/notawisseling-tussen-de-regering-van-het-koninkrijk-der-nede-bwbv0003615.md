@@ -8,7 +8,7 @@ laatste_update: 1979-06-01
 status: geldig
 toestand: 1979-06-01
 bron: "https://wetten.overheid.nl/BWBV0003615"
-opgehaald: 2026-09-23
+opgehaald: 2026-11-23
 ---
 
 # Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland inzake de samenvoeging van de grenscontrole op stations en in treinen op het traject Kleef-Arnhem

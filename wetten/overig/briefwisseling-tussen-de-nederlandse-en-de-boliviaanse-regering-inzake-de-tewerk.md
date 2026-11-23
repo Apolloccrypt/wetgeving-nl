@@ -8,7 +8,7 @@ laatste_update: 2015-07-22
 status: geldig
 toestand: 2015-07-22
 bron: "https://wetten.overheid.nl/BWBV0004489"
-opgehaald: 2026-09-24
+opgehaald: 2026-11-23
 ---
 
 # Briefwisseling tussen de Nederlandse en de Boliviaanse Regering inzake de tewerkstelling van Nederlandse vrijwilligers in Bolivia

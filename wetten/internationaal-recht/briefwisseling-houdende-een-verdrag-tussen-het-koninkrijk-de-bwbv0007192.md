@@ -8,7 +8,7 @@ laatste_update: 2026-11-09
 status: geldig
 toestand: 2026-11-09
 bron: "https://wetten.overheid.nl/BWBV0007192"
-opgehaald: 2026-11-22
+opgehaald: 2026-11-23
 ---
 
 # Briefwisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Naties inzake de “United Nations Strategic Force Generation and Capability Planning Workshop”, te Breda, Nederland, van 16 tot en met 20 november 2026

@@ -8,7 +8,7 @@ laatste_update: 1962-04-03
 status: geldig
 toestand: 1962-04-03
 bron: "https://wetten.overheid.nl/BWBV0004320"
-opgehaald: 2026-09-24
+opgehaald: 2026-11-23
 ---
 
 # Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland inzake de samenvoeging van de grenscontrole Gronau-Enschede

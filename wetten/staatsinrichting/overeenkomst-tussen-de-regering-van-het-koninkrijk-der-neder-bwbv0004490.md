@@ -8,7 +8,7 @@ laatste_update: 2010-05-06
 status: geldig
 toestand: 2010-05-06
 bron: "https://wetten.overheid.nl/BWBV0004490"
-opgehaald: 2026-09-24
+opgehaald: 2026-11-23
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Boven-Volta inzake de algemene voorwaarden voor de tewerkstelling van Nederlandse vrijwilligers in Boven-Volta

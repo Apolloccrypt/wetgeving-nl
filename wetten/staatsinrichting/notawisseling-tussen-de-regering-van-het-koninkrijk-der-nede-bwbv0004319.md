@@ -8,7 +8,7 @@ laatste_update: 1962-03-30
 status: geldig
 toestand: 1962-03-30
 bron: "https://wetten.overheid.nl/BWBV0004319"
-opgehaald: 2026-09-24
+opgehaald: 2026-11-23
 ---
 
 # Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland inzake grenscontrole op de autoweg Emmerik-Arnhem

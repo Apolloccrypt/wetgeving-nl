@@ -8,7 +8,7 @@ laatste_update: 1963-10-24
 status: geldig
 toestand: 1963-10-24
 bron: "https://wetten.overheid.nl/BWBV0004639"
-opgehaald: 2026-09-24
+opgehaald: 2026-11-23
 ---
 
 # Briefwisseling tussen de Nederlandse en de Spaanse Regering bij de Handelsovereenkomst van 2 juni 1960

@@ -8,7 +8,7 @@ laatste_update: 1972-07-01
 status: geldig
 toestand: 1972-07-01
 bron: "https://wetten.overheid.nl/BWBV0003608"
-opgehaald: 2026-09-23
+opgehaald: 2026-11-23
 ---
 
 # Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland inzake samenvoeging van de grenscontrole bij de grensovergang Neurhede-Boertange

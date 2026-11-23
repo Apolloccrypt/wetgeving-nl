@@ -8,7 +8,7 @@ laatste_update: 1964-04-07
 status: geldig
 toestand: 1964-04-07
 bron: "https://wetten.overheid.nl/BWBV0004528"
-opgehaald: 2026-09-24
+opgehaald: 2026-11-23
 ---
 
 # Overeenkomst inzake overgangsrechten

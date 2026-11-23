@@ -9,7 +9,7 @@ laatste_update: 2026-11-14
 status: geldig
 toestand: 2026-11-14
 bron: "https://wetten.overheid.nl/BWBR0053359"
-opgehaald: 2026-11-22
+opgehaald: 2026-11-23
 ---
 
 # Besluit van 19 oktober 2026, houdende de instelling van het Kruis voor Moedig en Beleidvol Optreden
