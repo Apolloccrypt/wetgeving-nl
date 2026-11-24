@@ -5,11 +5,11 @@ identifier: "BWBR0041519"
 categorie: "Overig"
 soort: "ministeriele-regeling"
 publicatiedatum: 2018-11-08
-laatste_update: 2024-08-29
+laatste_update: 2026-11-17
 status: geldig
-toestand: 2024-08-29
+toestand: 2026-11-17
 bron: "https://wetten.overheid.nl/BWBR0041519"
-opgehaald: 2026-10-26
+opgehaald: 2026-11-24
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 29 oktober 2018, nr. 2388102/18/DP&O, houdende verlening van mandaat, volmacht en machtiging (Mandaatbesluit Ministerie van Justitie en Veiligheid)
@@ -61,7 +61,7 @@ Aan de secretaris-generaal wordt mandaat verleend ten aanzien van de tot de vera
 
 2. Het ondermandaat kan steeds één hiërarchisch niveau verder worden doorgegeven.
 
-3. In afwijking van het tweede lid kunnen de hoofden van de clusters, genoemd in [artikel 2, tweede lid, onderdelen a en b van het Organisatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2), het (onder)mandaat inzake besluiten en klachtenprocedures op grond van de Algemene verordening gegevensbescherming, verzoeken op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754), verzoeken op grond van de [Wet hergebruik van overheidsinformatie](https://wetten.overheid.nl/jci1.3:c:BWBR0036795), klachten, subsidiebesluiten, beleidsregels en, met inachtneming van [artikel 2, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0041519&artikel=2&z=2024-08-29&g=2024-08-29), Nationale ombudsmanprocedures doorgeven aan de directeur Wetgeving en Juridische Zaken. Het ondermandaat kan steeds één hiërarchisch niveau verder worden doorgegeven.
+3. In afwijking van het tweede lid kunnen de hoofden van de clusters, genoemd in [artikel 2, tweede lid, onderdelen a en b van het Organisatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2), het (onder)mandaat inzake besluiten en klachtenprocedures op grond van de Algemene verordening gegevensbescherming, verzoeken op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754), verzoeken op grond van de [Wet hergebruik van overheidsinformatie](https://wetten.overheid.nl/jci1.3:c:BWBR0036795), klachten, subsidiebesluiten, beleidsregels en, met inachtneming van [artikel 2, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0041519&artikel=2&z=2026-11-17&g=2026-11-17), Nationale ombudsmanprocedures doorgeven aan de directeur Wetgeving en Juridische Zaken. Het ondermandaat kan steeds één hiërarchisch niveau verder worden doorgegeven.
 
 4. In afwijking van het tweede lid kunnen de hoofden van de clusters, genoemd in [artikel 2, tweede lid, van het Organisatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2), hun (onder)mandaat inzake de aangelegenheden, bedoeld in [artikel 5, tweede lid, onderdeel a, van het Organisatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=5), doorgeven aan de directeur Wetgeving en Juridische Zaken. Het ondermandaat kan steeds één hiërarchisch niveau verder worden doorgegeven.
 
@@ -71,7 +71,7 @@ Aan de secretaris-generaal wordt mandaat verleend ten aanzien van de tot de vera
 
 - b. de secretaris-generaal alsmede het hoofd van het cluster, genoemd in [artikel 2, tweede lid, onderdeel f, van het Organisatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2), het hoofd van de dienst, genoemd in artikel 2, derde lid, onderdeel a, onder 1°, van het Organisatiebesluit, en het hoofd van het baten-lastenagentschap, genoemd in artikel 2, derde lid, onderdeel b, onder 4°, van het Organisatiebesluit, en de door deze aan te wijzen hoofden van andere dienstonderdelen voor zover het betreft het nemen van besluiten op het terrein van de vreemdelingenwetgeving en van de [Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738).
 
-6. In afwijking van het tweede lid kan het hoofd van de dienst als bedoeld in [artikel 2, derde lid, onderdeel a, onder 4, van het Organisatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2) zijn ondermandaat inzake de aangelegenheden, bedoeld in [artikel 5, tweede lid, onderdeel a, van het Organisatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=5), doorgeven aan de directeur Wetgeving en Juridische Zaken. Het ondermandaat kan steeds één hiërarchisch niveau verder worden doorgegeven.
+6. In afwijking van het tweede lid kunnen de hoofden van de diensten, genoemd in [artikel 2, derde lid, onderdeel a van het Organisatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2) hun (onder)mandaat inzake de aangelegenheden bedoeld in [artikel 5, tweede lid, onderdeel a, van het Organisatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=5), doorgeven aan de directeur Wetgeving en Juridische Zaken. Het ondermandaat kan steeds één hiërarchisch niveau verder worden doorgegeven.
 
 ##### Artikel 4
 
@@ -95,7 +95,7 @@ De hoofden van de clusters, genoemd in [artikel 2, tweede lid, onderdelen c tot
 
 - b. machtiging om in naam van de bewindspersoon handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn.
 
-2. Voor de toepassing van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041519&artikel=3&z=2024-08-29&g=2024-08-29) geldt dat het doorgeven van een volmacht om privaatrechtelijke rechtshandelingen te verrichten slechts is toegestaan voor zover het regelmatig voorkomende rechtshandelingen betreft.
+2. Voor de toepassing van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041519&artikel=3&z=2026-11-17&g=2026-11-17) geldt dat het doorgeven van een volmacht om privaatrechtelijke rechtshandelingen te verrichten slechts is toegestaan voor zover het regelmatig voorkomende rechtshandelingen betreft.
 
 ##### Artikel 8
 

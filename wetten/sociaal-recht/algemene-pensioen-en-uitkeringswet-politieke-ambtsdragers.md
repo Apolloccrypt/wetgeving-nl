@@ -9,7 +9,7 @@ laatste_update: 2026-04-24
 status: geldig
 toestand: 2026-04-24
 bron: "https://wetten.overheid.nl/BWBR0002691"
-opgehaald: 2026-09-25
+opgehaald: 2026-11-24
 ---
 
 # Wet van 10 december 1969, houdende nieuwe regeling van de toekenning van uitkering en van pensioen aan politieke ambtsdragers, zomede van pensioen aan hun nabestaanden

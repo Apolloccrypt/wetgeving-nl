@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0002786"
-opgehaald: 2026-09-25
+opgehaald: 2026-11-24
 ---
 
 # Besluit van 14 september 1971, houdende uitvoering van de Wet op de vennootschapsbelasting 1969

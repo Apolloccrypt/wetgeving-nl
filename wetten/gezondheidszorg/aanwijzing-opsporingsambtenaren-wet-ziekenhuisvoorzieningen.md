@@ -8,7 +8,7 @@ laatste_update: 1971-12-09
 status: geldig
 toestand: 1971-12-09
 bron: "https://wetten.overheid.nl/BWBR0002792"
-opgehaald: 2026-09-25
+opgehaald: 2026-11-24
 ---
 
 # Aanwijzing opsporingsambtenaren Wet Ziekenhuisvoorzieningen

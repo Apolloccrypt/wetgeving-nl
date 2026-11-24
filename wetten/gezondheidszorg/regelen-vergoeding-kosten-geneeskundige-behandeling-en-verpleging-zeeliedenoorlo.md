@@ -8,7 +8,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0002901"
-opgehaald: 2026-09-25
+opgehaald: 2026-11-24
 ---
 
 # Regelen vergoeding kosten geneeskundige behandeling en verpleging zeeliedenoorlogsslachtoffers

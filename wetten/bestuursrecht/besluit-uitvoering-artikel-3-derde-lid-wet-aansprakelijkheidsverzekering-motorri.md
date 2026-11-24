@@ -9,7 +9,7 @@ laatste_update: 2022-06-30
 status: geldig
 toestand: 2022-06-30
 bron: "https://wetten.overheid.nl/BWBR0002847"
-opgehaald: 2026-09-25
+opgehaald: 2026-11-24
 ---
 
 # Besluit van 23 november 1972, tot uitvoering van artikel 3, derde lid, van de Wet aansprakelijkheidsverzekering motorrijtuigen (aanwijzing van landen en gebieden)

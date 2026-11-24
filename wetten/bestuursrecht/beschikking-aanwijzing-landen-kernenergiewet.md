@@ -8,7 +8,7 @@ laatste_update: 2010-12-02
 status: geldig
 toestand: 2010-12-02
 bron: "https://wetten.overheid.nl/BWBR0002688"
-opgehaald: 2026-09-25
+opgehaald: 2026-11-24
 ---
 
 # Beschikking aanwijzing landen Kernenergiewet

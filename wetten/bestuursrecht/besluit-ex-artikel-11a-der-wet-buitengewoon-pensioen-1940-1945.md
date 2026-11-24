@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0002801"
-opgehaald: 2026-09-25
+opgehaald: 2026-11-24
 ---
 
 # Besluit van 21 februari 1972, tot uitvoering van artikel 11a der Wet buitengewoon pensioen 1940-1945

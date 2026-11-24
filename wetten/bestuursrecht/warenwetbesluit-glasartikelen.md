@@ -9,7 +9,7 @@ laatste_update: 2020-01-21
 status: geldig
 toestand: 2020-01-21
 bron: "https://wetten.overheid.nl/BWBR0002841"
-opgehaald: 2026-09-25
+opgehaald: 2026-11-24
 ---
 
 # Besluit van 7 november 1972, houdende vaststelling van het Glasartikelenbesluit

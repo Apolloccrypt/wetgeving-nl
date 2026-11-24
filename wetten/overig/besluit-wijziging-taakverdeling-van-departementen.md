@@ -9,7 +9,7 @@ laatste_update: 1971-09-22
 status: geldig
 toestand: 1971-09-22
 bron: "https://wetten.overheid.nl/BWBR0002780"
-opgehaald: 2026-09-25
+opgehaald: 2026-11-24
 ---
 
 # Besluit van 4 augustus 1971, houdende wijziging van de taakverdeling van departementen

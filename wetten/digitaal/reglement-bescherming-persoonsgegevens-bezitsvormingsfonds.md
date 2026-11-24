@@ -8,7 +8,7 @@ laatste_update: 1976-03-14
 status: geldig
 toestand: 1976-03-14
 bron: "https://wetten.overheid.nl/BWBR0003016"
-opgehaald: 2026-09-25
+opgehaald: 2026-11-24
 ---
 
 # Reglement bescherming persoonsgegevens Bezitsvormingsfonds

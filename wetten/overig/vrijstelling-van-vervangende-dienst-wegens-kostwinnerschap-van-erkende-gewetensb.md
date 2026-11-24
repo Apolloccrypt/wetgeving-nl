@@ -8,7 +8,7 @@ laatste_update: 1978-10-21
 status: geldig
 toestand: 1978-10-21
 bron: "https://wetten.overheid.nl/BWBR0003039"
-opgehaald: 2026-09-25
+opgehaald: 2026-11-24
 ---
 
 # Vrijstelling van vervangende dienst wegens kostwinnerschap van erkende gewetensbezwaarde

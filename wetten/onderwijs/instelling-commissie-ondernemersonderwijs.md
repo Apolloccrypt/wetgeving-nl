@@ -8,7 +8,7 @@ laatste_update: 1972-05-01
 status: geldig
 toestand: 1972-05-01
 bron: "https://wetten.overheid.nl/BWBR0002811"
-opgehaald: 2026-09-25
+opgehaald: 2026-11-24
 ---
 
 # Instelling Commissie ondernemersonderwijs

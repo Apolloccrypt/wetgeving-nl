@@ -4,18 +4,18 @@ identifier: "BWBR0052797"
 categorie: "Overig"
 soort: "zbo"
 publicatiedatum: 2026-07-08
-laatste_update: 2026-07-08
+laatste_update: 2026-11-18
 status: geldig
-toestand: 2026-07-08
+toestand: 2026-11-18
 bron: "https://wetten.overheid.nl/BWBR0052797"
-opgehaald: 2026-11-21
+opgehaald: 2026-11-24
 ---
 
 # Besluit vaststelling subsidieplafond en indieningsperiode Deelregeling Interdisciplinair Individu
 
 ##### Artikel 1. Subsidieplafond
 
-Voor de [Deelregeling Interdisciplinair Individu](https://wetten.overheid.nl/jci1.3:c:BWBR0052792) geldt voor de aanvraagronde in 2026 een subsidieplafond van € 300.000,–.
+Voor de [Deelregeling Interdisciplinair Individu](https://wetten.overheid.nl/jci1.3:c:BWBR0052792) geldt voor de aanvraagronde in 2026 een subsidieplafond van € 2.988.000,–.
 
 ##### Artikel 2. Indieningsperiode
 

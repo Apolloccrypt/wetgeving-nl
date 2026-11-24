@@ -8,7 +8,7 @@ laatste_update: 1974-01-01
 status: geldig
 toestand: 1974-01-01
 bron: "https://wetten.overheid.nl/BWBR0002907"
-opgehaald: 2026-09-25
+opgehaald: 2026-11-24
 ---
 
 # Beschikking wijziging-percentages levensonderhoud 1974

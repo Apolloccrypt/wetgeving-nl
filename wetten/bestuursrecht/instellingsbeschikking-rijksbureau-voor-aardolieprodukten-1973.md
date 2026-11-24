@@ -8,7 +8,7 @@ laatste_update: 1973-11-14
 status: geldig
 toestand: 1973-11-14
 bron: "https://wetten.overheid.nl/BWBR0002909"
-opgehaald: 2026-09-25
+opgehaald: 2026-11-24
 ---
 
 # Instellingsbeschikking Rijksbureau voor Aardolieprodukten 1973

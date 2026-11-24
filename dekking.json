@@ -1,13 +1,13 @@
 {
- "gegenereerd": "2026-11-23",
+ "gegenereerd": "2026-11-24",
  "geverifieerd": true,
- "bwb_regelingen": 47086,
- "bwb_geldend": 22341,
- "site_totaal": 22618,
- "site_geldend": 22340,
+ "bwb_regelingen": 47095,
+ "bwb_geldend": 22349,
+ "site_totaal": 22627,
+ "site_geldend": 22348,
  "dekkingsgraad": 1.0,
  "aantal_ontbrekend": 1,
- "aantal_ten_onrechte_geldig": 278,
+ "aantal_ten_onrechte_geldig": 279,
  "aantal_onbekend": 0,
  "ontbrekend": [
   {
@@ -572,6 +572,10 @@
   {
    "id": "BWBR0045713",
    "titel": "Besluit van de Minister voor Rechtsbescherming van 14 oktober 2021 nr. BOACAT2021/050, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Rijswijk"
+  },
+  {
+   "id": "BWBR0045739",
+   "titel": "Besluit van de Minister voor Rechtsbescherming van 8 oktober 2021 nr. BOACAT2021/044, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Papendrecht in het domein I Openbare Ruimte"
   },
   {
    "id": "BWBR0045762",

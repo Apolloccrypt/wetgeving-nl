@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0002888"
-opgehaald: 2026-09-25
+opgehaald: 2026-11-24
 ---
 
 # Besluit van 21 juni 1973, houdende nadere regelen met betrekking tot de tegemoetkoming in bijzondere kosten en de bepaling van de financiële draagkracht ingevolge de Wet uitkeringen vervolgingsslachtoffers 1940-1945

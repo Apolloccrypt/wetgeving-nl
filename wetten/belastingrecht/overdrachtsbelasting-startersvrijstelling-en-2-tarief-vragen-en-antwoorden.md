@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-11-13
 toestand: 2021-07-24
 bron: "https://wetten.overheid.nl/BWBR0045469"
-opgehaald: 2026-11-23
+opgehaald: 2026-11-24
 ---
 
 # Overdrachtsbelasting, startersvrijstelling en 2%-tarief; vragen en antwoorden

@@ -8,7 +8,7 @@ laatste_update: 1969-12-12
 status: geldig
 toestand: 1969-12-12
 bron: "https://wetten.overheid.nl/BWBR0002677"
-opgehaald: 2026-09-25
+opgehaald: 2026-11-24
 ---
 
 # Overbrengingsbesluit notariële archiefbescheiden

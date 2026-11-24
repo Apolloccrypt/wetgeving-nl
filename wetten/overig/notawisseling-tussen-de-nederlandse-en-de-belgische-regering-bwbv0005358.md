@@ -8,7 +8,7 @@ laatste_update: 1959-03-16
 status: geldig
 toestand: 1959-03-16
 bron: "https://wetten.overheid.nl/BWBV0005358"
-opgehaald: 2026-09-24
+opgehaald: 2026-11-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Belgische Regering houdende een overeenkomst inzake de verwijdering van ongewenste personen

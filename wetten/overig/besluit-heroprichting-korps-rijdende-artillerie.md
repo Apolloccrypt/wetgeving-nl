@@ -9,7 +9,7 @@ laatste_update: 1973-10-01
 status: geldig
 toestand: 1973-10-01
 bron: "https://wetten.overheid.nl/BWBR0002894"
-opgehaald: 2026-09-25
+opgehaald: 2026-11-24
 ---
 
 # Besluit van 3 september 1973, houdende heroprichting van het Korps rijdende artillerie

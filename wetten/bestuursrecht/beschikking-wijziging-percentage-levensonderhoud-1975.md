@@ -8,7 +8,7 @@ laatste_update: 1975-01-01
 status: geldig
 toestand: 1975-01-01
 bron: "https://wetten.overheid.nl/BWBR0002945"
-opgehaald: 2026-09-25
+opgehaald: 2026-11-24
 ---
 
 # Beschikking wijziging percentage levensonderhoud 1975

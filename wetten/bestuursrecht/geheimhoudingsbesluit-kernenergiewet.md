@@ -9,7 +9,7 @@ laatste_update: 2018-02-06
 status: geldig
 toestand: 2018-02-06
 bron: "https://wetten.overheid.nl/BWBR0002768"
-opgehaald: 2026-09-25
+opgehaald: 2026-11-24
 ---
 
 # Besluit van 17 juni 1971, houdende toepassing van artikel 68 van de Kernenergiewet

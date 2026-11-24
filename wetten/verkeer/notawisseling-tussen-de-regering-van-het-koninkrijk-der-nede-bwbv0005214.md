@@ -8,7 +8,7 @@ laatste_update: 1979-10-01
 status: geldig
 toestand: 1979-10-01
 bron: "https://wetten.overheid.nl/BWBV0005214"
-opgehaald: 2026-09-24
+opgehaald: 2026-11-24
 ---
 
 # Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland inzake de samenvoeging van de grenscontrole in het goederenverkeer per spoor op Nederlands grondgebied op het station Coevorden

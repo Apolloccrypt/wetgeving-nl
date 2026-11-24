@@ -8,7 +8,7 @@ laatste_update: 1973-09-20
 status: geldig
 toestand: 1973-09-20
 bron: "https://wetten.overheid.nl/BWBR0002898"
-opgehaald: 2026-09-25
+opgehaald: 2026-11-24
 ---
 
 # Tarieven voor diensten door het K.N.M.I. aan derden verleend

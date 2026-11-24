@@ -5,11 +5,11 @@ identifier: "BWBR0018743"
 categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
 publicatiedatum: 2005-09-21
-laatste_update: 2026-08-31
+laatste_update: 2026-11-17
 status: geldig
-toestand: 2026-08-31
+toestand: 2026-11-17
 bron: "https://wetten.overheid.nl/BWBR0018743"
-opgehaald: 2026-11-04
+opgehaald: 2026-11-24
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 12 september 2005, nr. PG-2.611.880, houdende de regels inzake de verstrekking van subsidies op het terrein van de publieke gezondheid (Subsidieregeling publieke gezondheid)
@@ -40,7 +40,7 @@ Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.
 
 ##### Artikel 2
 
-Deze regeling is van toepassing op de subsidies, bedoeld in [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&z=2026-08-31&g=2026-08-31).
+Deze regeling is van toepassing op de subsidies, bedoeld in [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&z=2026-11-17&g=2026-11-17).
 
 ##### Artikel 3
 
@@ -288,7 +288,7 @@ De subsidieontvanger die aan derden goederen ter beschikking stelt of voor derde
 
 ##### Artikel 31
 
-Indien bij de minister het vermoeden is gerezen dat [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=28&z=2026-08-31&g=2026-08-31) niet is nageleefd, spant de subsidieontvanger zich desgevraagd in de jaarrekening van de desbetreffende organisatie over te leggen.
+Indien bij de minister het vermoeden is gerezen dat [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=28&z=2026-11-17&g=2026-11-17) niet is nageleefd, spant de subsidieontvanger zich desgevraagd in de jaarrekening van de desbetreffende organisatie over te leggen.
 
 #### § 9. De aanvraag tot subsidievaststelling
 
@@ -298,9 +298,9 @@ Indien bij de minister het vermoeden is gerezen dat [artikel 28](https://wetten.
 
 2. De aanvraag voor de subsidievaststelling gaat vergezeld van:
 
-- a. het verslag, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=22&z=2026-08-31&g=2026-08-31);
+- a. het verslag, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=22&z=2026-11-17&g=2026-11-17);
 
-- b. de subsidiedeclaratie, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=9&artikel=33&z=2026-08-31&g=2026-08-31);
+- b. de subsidiedeclaratie, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=9&artikel=33&z=2026-11-17&g=2026-11-17);
 
 - c. de jaarrekening; en
 
@@ -338,7 +338,7 @@ De subsidiedeclaratie geeft een zodanig inzicht dat een verantwoord oordeel kan 
 
 ##### Artikel 36
 
-Binnen 22 weken na ontvangst van de aanvraag, bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=9&artikel=32&z=2026-08-31&g=2026-08-31), geeft de minister een beschikking tot vaststelling van de subsidie.
+Binnen 22 weken na ontvangst van de aanvraag, bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=9&artikel=32&z=2026-11-17&g=2026-11-17), geeft de minister een beschikking tot vaststelling van de subsidie.
 
 ### Hoofdstuk II. Specifieke subsidiebepalingen
 
@@ -396,7 +396,7 @@ In deze paragraaf wordt verstaan onder:
 
 - b. voor zover van de personen, bedoeld onder a, geen betalingen worden verlangd voor deelname aan het onderzoek;
 
-- c. voor zover de screeningsorganisatie met de Staat een overeenkomst sluit waarbij de Staat haar belast met en zij zich verplicht tot het verrichten van de dienst van algemeen economisch belang, bedoeld in [artikel 47a](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=2&artikel=47a&z=2026-08-31&g=2026-08-31).
+- c. voor zover de screeningsorganisatie met de Staat een overeenkomst sluit waarbij de Staat haar belast met en zij zich verplicht tot het verrichten van de dienst van algemeen economisch belang, bedoeld in [artikel 47a](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=2&artikel=47a&z=2026-11-17&g=2026-11-17).
 
 ##### Artikel 43
 
@@ -408,7 +408,7 @@ De screeningsorganisatie draagt er voor zorg dat de verhouding tussen de bij de 
 
 ##### Artikel 45
 
-Bij de verlening van de subsidie, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=2&artikel=42&z=2026-08-31&g=2026-08-31), kan de minister verplichtingen opleggen met betrekking tot:
+Bij de verlening van de subsidie, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=2&artikel=42&z=2026-11-17&g=2026-11-17), kan de minister verplichtingen opleggen met betrekking tot:
 
 - a. de kwaliteit van het bevolkingsonderzoek naar baarmoederhalskanker;
 
@@ -416,7 +416,7 @@ Bij de verlening van de subsidie, bedoeld in [artikel 42](https://wetten.overhei
 
 ##### Artikel 46
 
-1. In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=2&artikel=4&z=2026-08-31&g=2026-08-31) bestaat de subsidie, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=2&artikel=42&z=2026-08-31&g=2026-08-31), voor het jaar 2026 en voor het jaar 2027 uit het bedrag dat wordt berekend overeenkomstig de volgende formule:
+1. In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=2&artikel=4&z=2026-11-17&g=2026-11-17) bestaat de subsidie, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=2&artikel=42&z=2026-11-17&g=2026-11-17), voor het jaar 2026 en voor het jaar 2027 uit het bedrag dat wordt berekend overeenkomstig de volgende formule:
 
 (Qpu x Ppu) + (Qcpu x Pcpu) + (Qzas x Pzas) + (Qcuzm x Pcuzm) + (Quzas x Puzas) + (Qoo x Poo)
 
@@ -428,7 +428,7 @@ waarbij wordt verstaan onder:
 
 - Qcpu. het aantal cytologische beoordelingen dat, naar aanleiding van primaire uitstrijkjes, in het desbetreffende jaar heeft plaatsgevonden in het kader van het bevolkingsonderzoek naar baarmoederhalskanker van de desbetreffende screeningsorganisatie waarbij sprake is van een uitslag naar de desbetreffende vrouw;
 
-- Pcpu. een bedrag van € 32,95 voor laboratoriumonderzoek per cytologische beoordeling naar aanleiding van een positieve hrHPV-test bij een primair uitstrijkje;
+- Pcpu. een bedrag van € 40,71 voor laboratoriumonderzoek per cytologische beoordeling naar aanleiding van een positieve hrHPV-test bij een primair uitstrijkje;
 
 - Qzas. het aantal zelfafnamesets dat in het desbetreffende jaar is beoordeeld op hrHPV in het kader van het bevolkingsonderzoek naar baarmoederhalskanker van de desbetreffende screeningsorganisatie waarbij sprake is van een uitslag naar de desbetreffende vrouw;
 
@@ -436,21 +436,21 @@ waarbij wordt verstaan onder:
 
 - Qcuzm. het aantal controle-uitstrijkjes dat in het desbetreffende jaar is beoordeeld in het kader van het bevolkingsonderzoek naar baarmoederhalskanker van de desbetreffende screeningsorganisatie waarbij sprake is van een uitslag naar de desbetreffende vrouw;
 
-- Pcuzm. een bedrag van € 69,19 per beoordeeld controle-uitstrijkje, waarvan € 43,02 voor laboratoriumonderzoek;
+- Pcuzm. een bedrag van € 76,95 per beoordeeld controle-uitstrijkje, waarvan € 50,78 voor laboratoriumonderzoek;
 
 - Quzas. het aantal uitstrijkjes naar aanleiding van een hrHPV-positieve test van vaginaal materiaal verkregen door de vrouw met een zelfafnameset, dat in het desbetreffende jaar is beoordeeld in het kader van het bevolkingsonderzoek naar baarmoederhalskanker van de desbetreffende screeningsorganisatie waarbij sprake is van een uitslag naar de desbetreffende vrouw;
 
-- Puzas. een bedrag van € 67,88 per beoordeeld uitstrijkje na een hrHPV-positieve test van vaginaal materiaal uit een ZAS, waarvan € 43,02 voor laboratoriumonderzoek;
+- Puzas. een bedrag van € 75,64 per beoordeeld uitstrijkje na een hrHPV-positieve test van vaginaal materiaal uit een ZAS, waarvan € 50,78 voor laboratoriumonderzoek;
 
 - Qoo. overige organisatiekosten, berekend op basis van het totaal van het aantal in 2019 beoordeelde zelfafnamesets op hrHPV en het aantal beoordeelde hrHPV-testen dat, naar aanleiding van primaire uitstrijkjes, in het desbetreffende jaar is verricht in het kader van het bevolkingsonderzoek naar baarmoederhalskanker van de desbetreffende screeningsorganisatie, waarbij sprake is van een uitslag naar de desbetreffende vrouw of aansluitende cytologische beoordeling;
 
-- Poo. een bedrag van € 36,07 per het totaal van het aantal beoordeelde hrHPV-testen naar aanleiding van een primair uitstrijkje en het aantal beoordeelde zelfafnamesets op hrHPV.
+- Poo. een bedrag van € 32,13 per het totaal van het aantal beoordeelde hrHPV-testen naar aanleiding van een primair uitstrijkje en het aantal beoordeelde zelfafnamesets op hrHPV.
 
 2. Het subsidiebedrag, bedoeld in het eerste lid, wordt in het besluit tot verlening gecorrigeerd voor wat betreft de tarieven voor laboratoriumonderzoek, in verband met de in de praktijk door de screeningslaboratoria aan de screeningsorganisatie in rekening gebrachte tarieven voor laboratoriumonderzoek.
 
 3. De screeningsorganisatie toont aan dat de te subsidiëren activiteiten hebben plaatsgevonden overeenkomstig de aan de verleende subsidie verbonden verplichtingen en legt rekening en verantwoording af omtrent de met de gesubsidieerde activiteiten samenhangende kosten en opbrengsten.
 
-4. Indien de activiteiten waarvoor de subsidie is verleend geheel zijn verricht en volledig is voldaan aan de verplichtingen die verbonden zijn aan de verleende subsidie, wordt de subsidie vastgesteld op het bedrag waarvan de hoogte bij de verlening is genoemd, verminderd met de eventuele overschrijding van de maximaal toegestane reservering, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=23&z=2026-08-31&g=2026-08-31).
+4. Indien de activiteiten waarvoor de subsidie is verleend geheel zijn verricht en volledig is voldaan aan de verplichtingen die verbonden zijn aan de verleende subsidie, wordt de subsidie vastgesteld op het bedrag waarvan de hoogte bij de verlening is genoemd, verminderd met de eventuele overschrijding van de maximaal toegestane reservering, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=23&z=2026-11-17&g=2026-11-17).
 
 ##### Artikel 46a
 
@@ -458,11 +458,11 @@ waarbij wordt verstaan onder:
 
 ##### Artikel 47
 
-Onverminderd [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=20&z=2026-08-31&g=2026-08-31), meldt de screeningsorganisatie onverwijld schriftelijk aan de minister indien sprake is van een stijging of daling van de som van het aantal Qpu en Qzas, bedoeld in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=2&artikel=46&z=2026-08-31&g=2026-08-31), van meer dan 2% ten opzichte van de subsidieverlening.
+Onverminderd [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=20&z=2026-11-17&g=2026-11-17), meldt de screeningsorganisatie onverwijld schriftelijk aan de minister indien sprake is van een stijging of daling van de som van het aantal Qpu en Qzas, bedoeld in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=2&artikel=46&z=2026-11-17&g=2026-11-17), van meer dan 2% ten opzichte van de subsidieverlening.
 
 ##### Artikel 47a
 
-De uitvoering van een bevolkingsonderzoek naar baarmoederhalskanker als bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=2&artikel=42&z=2026-08-31&g=2026-08-31) wordt aangewezen als een dienst van algemeen economisch belang in de zin van artikel 106, tweede lid, van het Verdrag betreffende de werking van de Europese Unie.
+De uitvoering van een bevolkingsonderzoek naar baarmoederhalskanker als bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=2&artikel=42&z=2026-11-17&g=2026-11-17) wordt aangewezen als een dienst van algemeen economisch belang in de zin van artikel 106, tweede lid, van het Verdrag betreffende de werking van de Europese Unie.
 
 #### § 3. Bevolkingsonderzoek naar borstkanker
 
@@ -482,25 +482,25 @@ Voor de uitvoering van een bevolkingsonderzoek naar borstkanker kan de minister 
 
 ##### Artikel 50
 
-Subsidie als bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=3&artikel=49&z=2026-08-31&g=2026-08-31) wordt slechts verstrekt:
+Subsidie als bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=3&artikel=49&z=2026-11-17&g=2026-11-17) wordt slechts verstrekt:
 
 - a. voor bevolkingsonderzoek naar borstkanker bij vrouwen in de leeftijdsgroep van 50 tot en met 75 jaar, alsmede transmannelijke en genderdiverse personen in de leeftijdsgroep van 50 tot en met 75 jaar met borstweefsel die geen borst verwijderende operatie hebben ondergaan en zich hebben aangemeld bij de screeningsorganisatie in de leeftijdsgroep 50 tot en met 75 jaar;
 
 - b. voor zover van de personen, bedoeld onder a, geen betalingen worden verlangd voor deelname aan het onderzoek;
 
-- c. voor zover de screeningsorganisatie met de Staat een overeenkomst sluit waarbij de Staat haar belast met en zij zich verplicht tot het verrichten van de dienst van algemeen economisch belang, bedoeld in [artikel 52b](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=3&artikel=52b&z=2026-08-31&g=2026-08-31).
+- c. voor zover de screeningsorganisatie met de Staat een overeenkomst sluit waarbij de Staat haar belast met en zij zich verplicht tot het verrichten van de dienst van algemeen economisch belang, bedoeld in [artikel 52b](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=3&artikel=52b&z=2026-11-17&g=2026-11-17).
 
 ##### Artikel 51
 
-1. In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=2&artikel=4&z=2026-08-31&g=2026-08-31) bedraagt de subsidie, bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=3&artikel=49&z=2026-08-31&g=2026-08-31), voor het jaar 2026 en voor het jaar 2027 ten hoogste € 118,33 voor elk onderzoek dat in het desbetreffende jaar is verricht in het kader van het bevolkingsonderzoek naar borstkanker van de desbetreffende screeningsorganisatie.
+1. In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=2&artikel=4&z=2026-11-17&g=2026-11-17) bedraagt de subsidie, bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=3&artikel=49&z=2026-11-17&g=2026-11-17), voor het jaar 2026 en voor het jaar 2027 ten hoogste € 118,33 voor elk onderzoek dat in het desbetreffende jaar is verricht in het kader van het bevolkingsonderzoek naar borstkanker van de desbetreffende screeningsorganisatie.
 
 2. De screeningsorganisatie toont aan dat de te subsidiëren activiteiten hebben plaatsgevonden overeenkomstig de aan de verleende subsidie verbonden verplichtingen en legt rekening en verantwoording af omtrent de met de gesubsidieerde activiteiten samenhangende kosten en opbrengsten.
 
-3. Indien de activiteiten waarvoor de subsidie is verleend geheel zijn verricht en volledig is voldaan aan de verplichtingen die verbonden zijn aan de verleende subsidie, wordt de subsidie vastgesteld op het bedrag waarvan de hoogte bij de verlening is genoemd, verminderd met de eventuele overschrijding van de maximaal toegestane reservering, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=23&z=2026-08-31&g=2026-08-31) tot ten hoogste het bij de verlening genoemde bedrag.
+3. Indien de activiteiten waarvoor de subsidie is verleend geheel zijn verricht en volledig is voldaan aan de verplichtingen die verbonden zijn aan de verleende subsidie, wordt de subsidie vastgesteld op het bedrag waarvan de hoogte bij de verlening is genoemd, verminderd met de eventuele overschrijding van de maximaal toegestane reservering, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=23&z=2026-11-17&g=2026-11-17) tot ten hoogste het bij de verlening genoemde bedrag.
 
 ##### Artikel 52
 
-Bij de verlening van de subsidie, bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=3&artikel=49&z=2026-08-31&g=2026-08-31), kan de minister verplichtingen opleggen met betrekking tot:
+Bij de verlening van de subsidie, bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=3&artikel=49&z=2026-11-17&g=2026-11-17), kan de minister verplichtingen opleggen met betrekking tot:
 
 - a. de kwaliteit van het bevolkingsonderzoek naar borstkanker;
 
@@ -510,11 +510,11 @@ Bij de verlening van de subsidie, bedoeld in [artikel 49](https://wetten.overhei
 
 ##### Artikel 52a
 
-Onverminderd [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=20&z=2026-08-31&g=2026-08-31), meldt de screeningsorganisatie onverwijld schriftelijk aan de minister indien sprake is van een stijging of daling van het aantal onderzoeken naar borstkanker van meer dan 2% ten opzichte van de subsidieverlening.
+Onverminderd [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=20&z=2026-11-17&g=2026-11-17), meldt de screeningsorganisatie onverwijld schriftelijk aan de minister indien sprake is van een stijging of daling van het aantal onderzoeken naar borstkanker van meer dan 2% ten opzichte van de subsidieverlening.
 
 ##### Artikel 52b
 
-De uitvoering van een bevolkingsonderzoek naar borstkanker als bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=3&artikel=49&z=2026-08-31&g=2026-08-31) wordt aangewezen als een dienst van algemeen economisch belang in de zin van artikel 106, tweede lid, van het Verdrag betreffende de werking van de Europese Unie.
+De uitvoering van een bevolkingsonderzoek naar borstkanker als bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=3&artikel=49&z=2026-11-17&g=2026-11-17) wordt aangewezen als een dienst van algemeen economisch belang in de zin van artikel 106, tweede lid, van het Verdrag betreffende de werking van de Europese Unie.
 
 #### § 4. Bevolkingsonderzoek naar darmkanker
 
@@ -532,17 +532,17 @@ Voor de uitvoering van het bevolkingsonderzoek naar darmkanker kan de minister e
 
 ##### Artikel 55
 
-Subsidie als bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=4&artikel=54&z=2026-08-31&g=2026-08-31) wordt slechts verstrekt:
+Subsidie als bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=4&artikel=54&z=2026-11-17&g=2026-11-17) wordt slechts verstrekt:
 
 - a. voor onderzoek bij alle personen in de leeftijdsgroep 55 tot en met 75 jaar;
 
 - b. voor zover van de personen, bedoeld onder a, geen betalingen worden verlangd voor deelname aan het onderzoek;
 
-- c. voor zover de screeningsorganisatie met de Staat een overeenkomst sluit waarbij de Staat haar belast met en zij zich verplicht tot het verrichten van de dienst van algemeen economisch belang, bedoeld in [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=4&artikel=59&z=2026-08-31&g=2026-08-31).
+- c. voor zover de screeningsorganisatie met de Staat een overeenkomst sluit waarbij de Staat haar belast met en zij zich verplicht tot het verrichten van de dienst van algemeen economisch belang, bedoeld in [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=4&artikel=59&z=2026-11-17&g=2026-11-17).
 
 ##### Artikel 56
 
-Bij de verlening van de subsidie, bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=4&artikel=54&z=2026-08-31&g=2026-08-31), kan de minister verplichtingen opleggen met betrekking tot:
+Bij de verlening van de subsidie, bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=4&artikel=54&z=2026-11-17&g=2026-11-17), kan de minister verplichtingen opleggen met betrekking tot:
 
 - a. de kwaliteit van het bevolkingsonderzoek naar darmkanker;
 
@@ -554,19 +554,19 @@ Bij de verlening van de subsidie, bedoeld in [artikel 54](https://wetten.overhei
 
 ##### Artikel 57
 
-1. In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=2&artikel=4&z=2026-08-31&g=2026-08-31) bedraagt de subsidie, bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=4&artikel=54&z=2026-08-31&g=2026-08-31), voor het jaar 2026 en voor het jaar 2027 ten hoogste € 20,93 voor elk onderzoek dat in het desbetreffende jaar is verricht in het kader van het bevolkingsonderzoek naar darmkanker van de betreffende screeningsorganisatie.
+1. In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=2&artikel=4&z=2026-11-17&g=2026-11-17) bedraagt de subsidie, bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=4&artikel=54&z=2026-11-17&g=2026-11-17), voor het jaar 2026 en voor het jaar 2027 ten hoogste € 20,93 voor elk onderzoek dat in het desbetreffende jaar is verricht in het kader van het bevolkingsonderzoek naar darmkanker van de betreffende screeningsorganisatie.
 
 2. De screeningsorganisatie toont aan dat de te subsidiëren activiteiten hebben plaatsgevonden overeenkomstig de aan de verleende subsidie verbonden verplichtingen en legt rekening en verantwoording af omtrent de met de gesubsidieerde activiteiten samenhangende kosten en opbrengsten.
 
-3. Indien de activiteiten waarvoor de subsidie is verleend geheel zijn verricht en volledig is voldaan aan de verplichtingen die verbonden zijn aan de verleende subsidie, wordt de subsidie vastgesteld op het bedrag waarvan de hoogte bij de verlening is genoemd, verminderd met de eventuele overschrijding van de maximaal toegestane reservering, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=23&z=2026-08-31&g=2026-08-31).
+3. Indien de activiteiten waarvoor de subsidie is verleend geheel zijn verricht en volledig is voldaan aan de verplichtingen die verbonden zijn aan de verleende subsidie, wordt de subsidie vastgesteld op het bedrag waarvan de hoogte bij de verlening is genoemd, verminderd met de eventuele overschrijding van de maximaal toegestane reservering, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=23&z=2026-11-17&g=2026-11-17).
 
 ##### Artikel 58
 
-Onverminderd [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=20&z=2026-08-31&g=2026-08-31), meldt de screeningsorganisatie onverwijld schriftelijk aan de minister indien sprake is van een stijging of daling van het aantal onderzoeken naar darmkanker van meer dan 2% ten opzichte van de subsidieverlening.
+Onverminderd [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=20&z=2026-11-17&g=2026-11-17), meldt de screeningsorganisatie onverwijld schriftelijk aan de minister indien sprake is van een stijging of daling van het aantal onderzoeken naar darmkanker van meer dan 2% ten opzichte van de subsidieverlening.
 
 ##### Artikel 59
 
-De uitvoering van een bevolkingsonderzoek naar darmkanker als bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=4&artikel=54&z=2026-08-31&g=2026-08-31) wordt aangewezen als een dienst van algemeen economisch belang in de zin van artikel 106, tweede lid, van het Verdrag betreffende de werking van de Europese Unie.
+De uitvoering van een bevolkingsonderzoek naar darmkanker als bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=4&artikel=54&z=2026-11-17&g=2026-11-17) wordt aangewezen als een dienst van algemeen economisch belang in de zin van artikel 106, tweede lid, van het Verdrag betreffende de werking van de Europese Unie.
 
 ##### Artikel 59a
 
@@ -580,7 +580,7 @@ Voor de uitvoering van het Nationaal Programma Grieppreventie kan de minister ee
 
 ##### Artikel 61
 
-De subsidie, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2026-08-31&g=2026-08-31), wordt verstrekt voor griepvaccinaties die in de periode van 1 september van enig jaar tot en met 30 april van het daarop volgende jaar worden toegediend door:
+De subsidie, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2026-11-17&g=2026-11-17), wordt verstrekt voor griepvaccinaties die in de periode van 1 september van enig jaar tot en met 30 april van het daarop volgende jaar worden toegediend door:
 
 - a. huisartsen aan:
 
@@ -616,17 +616,17 @@ De subsidie, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR001
 
 ##### Artikel 62
 
-In afwijking van [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=19&z=2026-08-31&g=2026-08-31), loopt het boekjaar voor de instellingssubsidie, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2026-08-31&g=2026-08-31), van 1 mei van enig jaar tot en met 30 april van het daarop volgende jaar.
+In afwijking van [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=19&z=2026-11-17&g=2026-11-17), loopt het boekjaar voor de instellingssubsidie, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2026-11-17&g=2026-11-17), van 1 mei van enig jaar tot en met 30 april van het daarop volgende jaar.
 
 ##### Artikel 63
 
-In het boekjaar van 1 mei 2026 tot en met 30 april 2027 bestaat de subsidie, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2026-08-31&g=2026-08-31), uit het bedrag dat wordt berekend overeenkomstig de volgende formule:
+In het boekjaar van 1 mei 2026 tot en met 30 april 2027 bestaat de subsidie, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2026-11-17&g=2026-11-17), uit het bedrag dat wordt berekend overeenkomstig de volgende formule:
 
 Qt x Pt + U
 
 waarbij wordt verstaan onder:
 
-Qt. het aantal griepvaccins, bedoeld in [artikel 61, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=61&z=2026-08-31&g=2026-08-31), dat in het boekjaar waarvoor de subsidie wordt verstrekt in het kader van het Nationaal Programma Grieppreventie wordt toegediend;
+Qt. het aantal griepvaccins, bedoeld in [artikel 61, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=61&z=2026-11-17&g=2026-11-17), dat in het boekjaar waarvoor de subsidie wordt verstrekt in het kader van het Nationaal Programma Grieppreventie wordt toegediend;
 
 Pt. een bedrag van € 16,27;
 
@@ -634,23 +634,23 @@ U. het verschil tussen de overige baten en lasten van de uitvoering van het Nati
 
 ##### Artikel 64
 
-Bij de verlening van de subsidie, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2026-08-31&g=2026-08-31), kan de minister verplichtingen opleggen met betrekking tot de kwaliteit van het Nationaal Programma Grieppreventie.
+Bij de verlening van de subsidie, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2026-11-17&g=2026-11-17), kan de minister verplichtingen opleggen met betrekking tot de kwaliteit van het Nationaal Programma Grieppreventie.
 
 ##### Artikel 65
 
-In afwijking van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=23&z=2026-08-31&g=2026-08-31) bedraagt het totaal van de in artikel 23, eerste lid, bedoelde reservering van de overschotten van de instellingssubsidies, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2026-08-31&g=2026-08-31) en [67a](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5a&artikel=67a&z=2026-08-31&g=2026-08-31), ten hoogste € 275.000.
+In afwijking van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=23&z=2026-11-17&g=2026-11-17) bedraagt het totaal van de in artikel 23, eerste lid, bedoelde reservering van de overschotten van de instellingssubsidies, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2026-11-17&g=2026-11-17) en [67a](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5a&artikel=67a&z=2026-11-17&g=2026-11-17), ten hoogste € 275.000.
 
 ##### Artikel 66
 
-De stichting, genoemd in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2026-08-31&g=2026-08-31), draagt er zorg voor dat artsen, bedoeld in [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=61&z=2026-08-31&g=2026-08-31):
+De stichting, genoemd in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2026-11-17&g=2026-11-17), draagt er zorg voor dat artsen, bedoeld in [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=61&z=2026-11-17&g=2026-11-17):
 
-- a. registreren tot welke risicogroepen, bedoeld in [artikel 61, onderdeel a, sub 1° tot en met 9°](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=61&z=2026-08-31&g=2026-08-31), gevaccineerden behoren;
+- a. registreren tot welke risicogroepen, bedoeld in [artikel 61, onderdeel a, sub 1° tot en met 9°](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=61&z=2026-11-17&g=2026-11-17), gevaccineerden behoren;
 
 - b. gedurende ten minste vijf jaren de registratie, bedoeld onder a, bewaren.
 
 ##### Artikel 67
 
-De stichting, genoemd in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2026-08-31&g=2026-08-31):
+De stichting, genoemd in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2026-11-17&g=2026-11-17):
 
 - a. verleent medewerking aan de publieksvoorlichting over het Nationaal Programma Grieppreventie en aan de evaluatie van het Nationaal Programma Grieppreventie, die door de minister of door andere organisaties in opdracht van de minister worden uitgevoerd;
 
@@ -664,7 +664,7 @@ Voor de uitvoering van de vaccinatie tegen de pneumokokkenziekte kan de minister
 
 ##### Artikel 67b
 
-De subsidie, bedoeld in [artikel 67a](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5a&artikel=67a&z=2026-08-31&g=2026-08-31), wordt verstrekt voor vaccinaties tegen de pneumokokkenziekte die in de periode van 1 mei van enig jaar tot en met 30 april van het daaropvolgende jaar worden toegediend door:
+De subsidie, bedoeld in [artikel 67a](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5a&artikel=67a&z=2026-11-17&g=2026-11-17), wordt verstrekt voor vaccinaties tegen de pneumokokkenziekte die in de periode van 1 mei van enig jaar tot en met 30 april van het daaropvolgende jaar worden toegediend door:
 
 - a. huisartsen aan personen geboren in de periode van 1948 tot en met 1952 en personen geboren in 1966;
 
@@ -672,17 +672,17 @@ De subsidie, bedoeld in [artikel 67a](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 ##### Artikel 67c
 
-In afwijking van [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=19&z=2026-08-31&g=2026-08-31), loopt het boekjaar voor de instellingssubsidie, bedoeld in [artikel 67a](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5a&artikel=67a&z=2026-08-31&g=2026-08-31), van 1 mei van enig jaar tot en met 30 april van het daaropvolgende jaar.
+In afwijking van [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=19&z=2026-11-17&g=2026-11-17), loopt het boekjaar voor de instellingssubsidie, bedoeld in [artikel 67a](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5a&artikel=67a&z=2026-11-17&g=2026-11-17), van 1 mei van enig jaar tot en met 30 april van het daaropvolgende jaar.
 
 ##### Artikel 67d
 
-1. Met ingang van het boekjaar van 1 mei 2026 tot en met 30 april 2027 bestaat de subsidie, bedoeld in [artikel 67a](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5a&artikel=67a&z=2026-08-31&g=2026-08-31), uit het bedrag dat wordt berekend overeenkomstig de volgende formule:
+1. Met ingang van het boekjaar van 1 mei 2026 tot en met 30 april 2027 bestaat de subsidie, bedoeld in [artikel 67a](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5a&artikel=67a&z=2026-11-17&g=2026-11-17), uit het bedrag dat wordt berekend overeenkomstig de volgende formule:
 
 Qt x Pt + U
 
 waarbij wordt verstaan onder:
 
-- Qt. het aantal toegediende vaccins, bedoeld in [artikel 67b](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5a&artikel=67b&z=2026-08-31&g=2026-08-31), dat in het boekjaar waarvoor de subsidie wordt verstrekt in het kader van de vaccinatie tegen de pneumokokkenziekte;
+- Qt. het aantal toegediende vaccins, bedoeld in [artikel 67b](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5a&artikel=67b&z=2026-11-17&g=2026-11-17), dat in het boekjaar waarvoor de subsidie wordt verstrekt in het kader van de vaccinatie tegen de pneumokokkenziekte;
 
 - Pt. een bedrag van € 25,51;
 
@@ -696,7 +696,7 @@ waarbij wordt verstaan onder:
 
 ##### Artikel 67f
 
-Bij de verlening van de subsidie, bedoeld in [artikel 67a](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5a&artikel=67a&z=2026-08-31&g=2026-08-31), kan de minister verplichtingen opleggen met betrekking tot de kwaliteit van de vaccinatie tegen de pneumokokkenziekte.
+Bij de verlening van de subsidie, bedoeld in [artikel 67a](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5a&artikel=67a&z=2026-11-17&g=2026-11-17), kan de minister verplichtingen opleggen met betrekking tot de kwaliteit van de vaccinatie tegen de pneumokokkenziekte.
 
 ##### Artikel 67g
 
@@ -704,11 +704,11 @@ Bij de verlening van de subsidie, bedoeld in [artikel 67a](https://wetten.overhe
 
 ##### Artikel 67h
 
-De stichting, genoemd in [artikel 67a](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5a&artikel=67a&z=2026-08-31&g=2026-08-31), draagt er zorg voor dat huisartsen, bedoeld in [artikel 67b](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5a&artikel=67b&z=2026-08-31&g=2026-08-31), de gevaccineerden registreren en deze registratie gedurende ten minste twintig jaren bewaren.
+De stichting, genoemd in [artikel 67a](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5a&artikel=67a&z=2026-11-17&g=2026-11-17), draagt er zorg voor dat huisartsen, bedoeld in [artikel 67b](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5a&artikel=67b&z=2026-11-17&g=2026-11-17), de gevaccineerden registreren en deze registratie gedurende ten minste twintig jaren bewaren.
 
 ##### Artikel 67i
 
-De stichting, genoemd in [artikel 67a](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5a&artikel=67a&z=2026-08-31&g=2026-08-31):
+De stichting, genoemd in [artikel 67a](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5a&artikel=67a&z=2026-11-17&g=2026-11-17):
 
 - a. verleent medewerking aan de publieksvoorlichting over de vaccinatie tegen de pneumokokkenziekte en aan de evaluatie hiervan, die door de minister of door andere organisaties in opdracht van de minister worden uitgevoerd;
 
@@ -898,11 +898,11 @@ De minister kan jaarlijks *een instellingssubsidie verstrekken aan de Stichting 
 
 ##### Artikel 75s
 
-In afwijking van [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=19&z=2026-08-31&g=2026-08-31), loopt het boekjaar voor de instellingssubsidie, bedoeld in [artikel 75r, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=7&artikel=75r&z=2026-08-31&g=2026-08-31), van 1 mei van enig jaar tot en met 30 april van het daaropvolgende jaar.
+In afwijking van [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=19&z=2026-11-17&g=2026-11-17), loopt het boekjaar voor de instellingssubsidie, bedoeld in [artikel 75r, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=7&artikel=75r&z=2026-11-17&g=2026-11-17), van 1 mei van enig jaar tot en met 30 april van het daaropvolgende jaar.
 
 ##### Artikel 75t
 
-In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=2&artikel=4&z=2026-08-31&g=2026-08-31) wordt de hoogte van de te verlenen subsidie, bedoeld in [artikel 75r, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=7&artikel=75r&z=2026-08-31&g=2026-08-31), per boekjaar berekend overeenkomstig de volgende formule:
+In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=2&artikel=4&z=2026-11-17&g=2026-11-17) wordt de hoogte van de te verlenen subsidie, bedoeld in [artikel 75r, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=7&artikel=75r&z=2026-11-17&g=2026-11-17), per boekjaar berekend overeenkomstig de volgende formule:
 
 (Qh * Ph) + (Qa1 * Pa1) + (Qa2 * Pa2) + (Qa3 * Pa3) + U
 
@@ -928,15 +928,15 @@ U. de verwachte kosten van de *ondersteunende activiteiten als bedoeld in artike
 
 ##### Artikel 75u
 
-De minister kan verplichtingen opleggen als bedoeld in de [artikelen 4:38](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:38) en [4:39 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:39) met betrekking tot de ondersteunende activiteiten als bedoeld in [artikel 75r, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=7&artikel=75r&z=2026-08-31&g=2026-08-31).
+De minister kan verplichtingen opleggen als bedoeld in de [artikelen 4:38](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:38) en [4:39 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:39) met betrekking tot de ondersteunende activiteiten als bedoeld in [artikel 75r, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=7&artikel=75r&z=2026-11-17&g=2026-11-17).
 
 ##### Artikel 75v
 
 Indien de activiteiten waarvoor de subsidie is verleend geheel zijn verricht en volledig is voldaan aan de verplichtingen die verbonden zijn aan de verleende subsidie, wordt de subsidie vastgesteld op de werkelijk gemaakte kosten in het boekjaar waarvoor de subsidie is verleend, met betrekking tot:
 
-- a. het vergoeden van de declaraties van voorschrijvende consulten, bedoeld in [artikel 75r, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=7&artikel=75r&z=2026-08-31&g=2026-08-31);
+- a. het vergoeden van de declaraties van voorschrijvende consulten, bedoeld in [artikel 75r, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=7&artikel=75r&z=2026-11-17&g=2026-11-17);
 
-- b. het vergoeden van de declaraties van de terhandstellingen, bedoeld in [artikel 75r, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=7&artikel=75r&z=2026-08-31&g=2026-08-31); en
+- b. het vergoeden van de declaraties van de terhandstellingen, bedoeld in [artikel 75r, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=7&artikel=75r&z=2026-11-17&g=2026-11-17); en
 
 - c. de *ondersteunende activiteiten, bedoeld in artikel* 75r, eerste lid, onder c tot ten hoogste € 150.000.
 

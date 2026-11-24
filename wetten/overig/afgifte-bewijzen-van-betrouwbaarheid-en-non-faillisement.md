@@ -9,7 +9,7 @@ laatste_update: 2004-04-01
 status: geldig
 toestand: 2004-04-01
 bron: "https://wetten.overheid.nl/BWBR0003028"
-opgehaald: 2026-09-25
+opgehaald: 2026-11-24
 ---
 
 # Afgifte bewijzen van betrouwbaarheid

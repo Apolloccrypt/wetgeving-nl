@@ -9,7 +9,7 @@ laatste_update: 2026-11-14
 status: geldig
 toestand: 2026-11-14
 bron: "https://wetten.overheid.nl/BWBR0053360"
-opgehaald: 2026-11-23
+opgehaald: 2026-11-24
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 5 november 2026, nr. BOACAT2026/075, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Waalwijk

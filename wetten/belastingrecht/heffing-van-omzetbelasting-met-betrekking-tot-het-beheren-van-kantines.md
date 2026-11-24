@@ -8,7 +8,7 @@ laatste_update: 1975-05-09
 status: geldig
 toestand: 1975-05-09
 bron: "https://wetten.overheid.nl/BWBR0002966"
-opgehaald: 2026-09-25
+opgehaald: 2026-11-24
 ---
 
 # Heffing van omzetbelasting met betrekking tot het beheren van kantines

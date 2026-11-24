@@ -8,7 +8,7 @@ laatste_update: 1985-09-11
 status: geldig
 toestand: 1985-09-11
 bron: "https://wetten.overheid.nl/BWBR0002994"
-opgehaald: 2026-09-25
+opgehaald: 2026-11-24
 ---
 
 # Aanwijzing vestigingsplaatsen casino's Breda, Groningen, Nijmegen en Rotterdam

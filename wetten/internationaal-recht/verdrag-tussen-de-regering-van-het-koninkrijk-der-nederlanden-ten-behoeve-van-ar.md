@@ -7,7 +7,7 @@ laatste_update: 2025-10-28
 status: geldig
 toestand: 2025-10-28
 bron: "https://wetten.overheid.nl/BWBV0007118"
-opgehaald: 2026-11-17
+opgehaald: 2026-11-24
 ---
 
 # Verdrag tussen de regering van het Koninkrijk der Nederlanden ten behoeve van Aruba en de regering van de Verenigde Staten van Amerika inzake douane-voorinspectie
@@ -84,7 +84,7 @@ For the purposes of this Agreement:
 
 1. The Parties agree that this Agreement shall apply to Preclearance conducted at Queen Beatrix International Airport. The Parties shall mutually agree in writing on any additional airport location(s) where this Agreement shall apply. However Preclearance at such future locations shall not be authorized until the Airport Operator has executed an understanding with the United States in support of Preclearance at that airport.
 
-2. Flights eligible for Preclearance shall consist of any commercial flight (scheduled or charter, including ferry flights) of any size aircraft or any Private Aircraft flight that is destined nonstop from Aruba to the United States, so long as Preclearance has been requested pursuant to applicable procedures, including but not limited to those stipulated in [Article IX](https://wetten.overheid.nl/jci1.3:c:BWBV0007118&artikel=IX&z=2025-10-28&g=2025-10-28) and approved by the United States for that flight. State aircraft (not including military flights or military charter flights) may be considered for Preclearance on a case-by-case basis.
+2. Flights eligible for Preclearance shall consist of any commercial flight (scheduled or charter, including ferry flights) of any size aircraft or any Private Aircraft flight that is destined nonstop from Aruba to the United States, so long as Preclearance has been requested pursuant to applicable procedures, including but not limited to those stipulated in [Article IX](https://wetten.overheid.nl/BWBV0007118) and approved by the United States for that flight. State aircraft (not including military flights or military charter flights) may be considered for Preclearance on a case-by-case basis.
 
 3. Cargo shall not be eligible for Preclearance under this Agreement.
 
@@ -136,7 +136,7 @@ For the purposes of this Agreement:
 
 - j) Permit DHS employees or contractors who are not assigned to the Preclearance Area and other official U.S. Government personnel visitors to obtain proper ID badges and enter and undergo screening at the employee entry and screening points to gain access to security sterile areas.
 
-3. The Parties affirm that they have entered into a separate agreement regarding the implementation and maintenance of aviation security screening standards and protocols that are comparable to those in the United States. If the United States determines that the aviation security screening standards and protocols delineated in that separate agreement are not adequately implemented and maintained, travelers and their goods that are precleared by the United States in Aruba shall be subject to aviation security re-screening, consistent with [Article IV(2)(m)](https://wetten.overheid.nl/jci1.3:c:BWBV0007118&artikel=IV&z=2025-10-28&g=2025-10-28), before they shall be permitted to enter the sterile area of a United States airport to transfer to a connecting flight.
+3. The Parties affirm that they have entered into a separate agreement regarding the implementation and maintenance of aviation security screening standards and protocols that are comparable to those in the United States. If the United States determines that the aviation security screening standards and protocols delineated in that separate agreement are not adequately implemented and maintained, travelers and their goods that are precleared by the United States in Aruba shall be subject to aviation security re-screening, consistent with [Article IV(2)(m)](https://wetten.overheid.nl/BWBV0007118), before they shall be permitted to enter the sterile area of a United States airport to transfer to a connecting flight.
 
 4. The Parties acknowledge that nothing in this Agreement infringes upon the authority of the Parties to impose charges on a non-discriminatory basis on Travelers or Air Carriers consistent with the Parties’ respective laws and regulations.
 
@@ -238,15 +238,15 @@ For the purposes of this Agreement:
 
 - g) Ensures that the Preclearance Area is only accessible to Travelers, authorized personnel, and Goods that have undergone security screening at an airport at which Preclearance is authorized pursuant to this Agreement and that all Travelers and Goods have undergone security screening in accordance with screening standards and protocols that are comparable to those of the United States, as determined by the U.S. Transportation Security Administration, prior to boarding;
 
-- h) Further ensures that the Preclearance Area is only accessible to those persons authorized to access the Preclearance Area pursuant to [Article IV (1)(e)](https://wetten.overheid.nl/jci1.3:c:BWBV0007118&artikel=IV&z=2025-10-28&g=2025-10-28);
+- h) Further ensures that the Preclearance Area is only accessible to those persons authorized to access the Preclearance Area pursuant to [Article IV (1)(e)](https://wetten.overheid.nl/BWBV0007118);
 
 - i) Permits the United States to review and approve the Goods and merchandise made available to Travelers, including for purchase, in the Preclearance Area or on board precleared aircraft;
 
 - j) Provides a Preclearance Area (including the Preclearance Facility and all operational, security, communication, information technology, radiation detection equipment and infrastructure therein) that meets the technical design standards of the United States, including any amendments or updates to those standards;
 
-- k) Permits the installation and operation by the United States of such equipment and aids, including those proprietary items described in [Article IX(2)(c)](https://wetten.overheid.nl/jci1.3:c:BWBV0007118&artikel=IX&z=2025-10-28&g=2025-10-28) as is deemed necessary by the United States for the effective operation of Preclearance;
+- k) Permits the installation and operation by the United States of such equipment and aids, including those proprietary items described in [Article IX(2)(c)](https://wetten.overheid.nl/BWBV0007118) as is deemed necessary by the United States for the effective operation of Preclearance;
 
-- l) Pays the United States for all costs associated with the provisions of Preclearance services in excess of the Baseline as reflected in an understanding between the United States and the Airport Operator, to the extent permitted by United States laws, regulations, and policies. Such costs may include salaries, expenses, relocation costs of Preclearance Officers and other United States government personnel, Preclearance operations costs, and the purchase, installation, maintenance, the operation by the United States of equipment and aids not provided pursuant to subparagraph (k) of this paragraph (including those proprietary items described in [Article IX (2)(c))](https://wetten.overheid.nl/jci1.3:c:BWBV0007118&artikel=IX&z=2025-10-28&g=2025-10-28), as is deemed necessary by the United States to provide Preclearance service, and the administrative costs of provision of Preclearance service; and
+- l) Pays the United States for all costs associated with the provisions of Preclearance services in excess of the Baseline as reflected in an understanding between the United States and the Airport Operator, to the extent permitted by United States laws, regulations, and policies. Such costs may include salaries, expenses, relocation costs of Preclearance Officers and other United States government personnel, Preclearance operations costs, and the purchase, installation, maintenance, the operation by the United States of equipment and aids not provided pursuant to subparagraph (k) of this paragraph (including those proprietary items described in [Article IX (2)(c))](https://wetten.overheid.nl/BWBV0007118), as is deemed necessary by the United States to provide Preclearance service, and the administrative costs of provision of Preclearance service; and
 
 - m) Acknowledges that the United States has the right to enter into Compliance Agreements (containing penalties for noncompliance) regarding the sale of merchandise in the Preclearance Area or on-board precleared flights.
 
@@ -320,7 +320,7 @@ For the purposes of this Agreement:
 
 ##### Article IX. Costs
 
-1. The Parties agree that the following conditions shall apply to the payment of the costs referred to in [subparagraph 1(l) of Article V](https://wetten.overheid.nl/jci1.3:c:BWBV0007118&artikel=V&z=2025-10-28&g=2025-10-28):
+1. The Parties agree that the following conditions shall apply to the payment of the costs referred to in [subparagraph 1(l) of Article V](https://wetten.overheid.nl/BWBV0007118):
 
 - a) The United States shall ensure that CBP make its best efforts, including by working with Congress, to obtain necessary resources and funds to support Preclearance operations in Aruba;
 
@@ -334,13 +334,13 @@ For the purposes of this Agreement:
 
 - f) The United States shall not be responsible for any costs, including accommodation and maintenance costs, for any Traveler on a carrier who is refused passage onward by the United States and must be removed to the Traveler’s point of embarkation; or to the country of which that Traveler is a citizen or national, if that Traveler is traveling In-Transit through the territory of Aruba.
 
-2. The following conditions shall apply to the payment of the costs for the activities described in [subparagraph 1(j) of Article V of this Agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0007118&artikel=V&z=2025-10-28&g=2025-10-28):
+2. The following conditions shall apply to the payment of the costs for the activities described in [subparagraph 1(j) of Article V of this Agreement](https://wetten.overheid.nl/BWBV0007118):
 
 - a) Aruba shall ensure that the provision of the necessary Preclearance Facilities (including construction, furniture, equipment, and ongoing maintenance) shall be the responsibility of the Airport Operator;
 
 - b) Such Preclearance Facilities (including furniture and equipment) shall not become the property of the United States but may be retained by the Airport Operator; and
 
-- c) The furniture and equipment purchased by the Airport Operator shall not include proprietary items (including data storage devices, software, services, and information reflected in [paragraph 2 of Article VI](https://wetten.overheid.nl/jci1.3:c:BWBV0007118&artikel=VI&z=2025-10-28&g=2025-10-28)) specified by the United States.
+- c) The furniture and equipment purchased by the Airport Operator shall not include proprietary items (including data storage devices, software, services, and information reflected in [paragraph 2 of Article VI](https://wetten.overheid.nl/BWBV0007118)) specified by the United States.
 
 3. Neither Party shall be responsible for costs associated with persons obtaining advice from legal counsel during Preclearance, if permitted.
 
@@ -358,7 +358,7 @@ As far as the Kingdom of the Netherlands is concerned, this Agreement shall be a
 
 1. The Parties may amend this Agreement by mutual written agreement.
 
-2. Any amendment to the Agreement agreed upon by the Parties shall enter into force in accordance with the procedure described in [paragraph 1 of Article XIII](https://wetten.overheid.nl/jci1.3:c:BWBV0007118&artikel=XIII&z=2025-10-28&g=2025-10-28).
+2. Any amendment to the Agreement agreed upon by the Parties shall enter into force in accordance with the procedure described in [paragraph 1 of Article XIII](https://wetten.overheid.nl/BWBV0007118).
 
 ##### Article XIII. Entry into Force and Duration
 

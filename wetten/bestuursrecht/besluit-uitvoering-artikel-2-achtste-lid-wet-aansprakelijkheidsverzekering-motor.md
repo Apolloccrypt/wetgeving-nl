@@ -9,7 +9,7 @@ laatste_update: 2023-12-23
 status: geldig
 toestand: 2023-12-23
 bron: "https://wetten.overheid.nl/BWBR0002846"
-opgehaald: 2026-09-25
+opgehaald: 2026-11-24
 ---
 
 # Besluit van 23 november 1972, tot uitvoering van artikel 2, achtste lid van de Wet aansprakelijkheidsverzekering motorrijtuigen (aanwijzing van landen)
