@@ -8,7 +8,7 @@ laatste_update: 1983-01-31
 status: geldig
 toestand: 1983-01-31
 bron: "https://wetten.overheid.nl/BWBR0003572"
-opgehaald: 2026-09-26
+opgehaald: 2026-11-25
 ---
 
 # Belastingplicht van sportverenigingen

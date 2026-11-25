@@ -9,7 +9,7 @@ laatste_update: 2024-07-01
 status: geldig
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0003403"
-opgehaald: 2026-09-25
+opgehaald: 2026-11-25
 ---
 
 # Wet van 21 mei 1981, houdende regelen omtrent leegstaande woningen en andere gebouwen

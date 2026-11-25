@@ -8,7 +8,7 @@ laatste_update: 1983-05-27
 status: geldig
 toestand: 1983-05-27
 bron: "https://wetten.overheid.nl/BWBR0003591"
-opgehaald: 2026-09-26
+opgehaald: 2026-11-25
 ---
 
 # Faciliteitenregeling Vluchtelingen

@@ -9,7 +9,7 @@ laatste_update: 2016-07-20
 status: geldig
 toestand: 2016-07-20
 bron: "https://wetten.overheid.nl/BWBR0003658"
-opgehaald: 2026-09-26
+opgehaald: 2026-11-25
 ---
 
 # Regeling Residuen van bestrijdingsmiddelen

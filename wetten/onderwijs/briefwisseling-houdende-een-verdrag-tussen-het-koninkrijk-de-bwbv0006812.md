@@ -8,7 +8,7 @@ laatste_update: 2019-05-02
 status: geldig
 toestand: 2019-05-02
 bron: "https://wetten.overheid.nl/BWBV0006812"
-opgehaald: 2026-09-25
+opgehaald: 2026-11-25
 ---
 
 # Briefwisseling houdende een verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Aruba, en de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur (UNESCO) betreffende de vijftiende zitting van de Intergouvernementele Oceanografische Commissie (IOC) Subcommissie voor de Caribische en aangrenzende regio's IOCARIBE (SC-IOCARIBE-XV) en de Associated Sciences Conferentie, te Oranjestad, Aruba, van 6 tot en met 10 mei 2019

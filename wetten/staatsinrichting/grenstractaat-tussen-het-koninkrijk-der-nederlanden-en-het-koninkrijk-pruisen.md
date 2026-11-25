@@ -8,7 +8,7 @@ laatste_update: 1940-05-06
 status: geldig
 toestand: 1940-05-06
 bron: "https://wetten.overheid.nl/BWBV0006055"
-opgehaald: 2026-09-25
+opgehaald: 2026-11-25
 ---
 
 # Grenstractaat tussen het Koninkrijk der Nederlanden en het Koninkrijk Pruisen

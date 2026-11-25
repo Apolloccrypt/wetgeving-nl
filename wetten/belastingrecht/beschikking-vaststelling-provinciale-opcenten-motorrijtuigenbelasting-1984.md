@@ -9,7 +9,7 @@ laatste_update: 1983-12-16
 status: geldig
 toestand: 1983-12-16
 bron: "https://wetten.overheid.nl/BWBR0003635"
-opgehaald: 2026-09-26
+opgehaald: 2026-11-25
 ---
 
 # Beschikking vaststelling provinciale opcenten motorrijtuigen belasting 1984

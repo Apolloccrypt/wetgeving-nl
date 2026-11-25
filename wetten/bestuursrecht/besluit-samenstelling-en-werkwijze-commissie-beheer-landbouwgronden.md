@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0003453"
-opgehaald: 2026-09-26
+opgehaald: 2026-11-25
 ---
 
 # Besluit van 30 oktober 1981, houdende voorschriften betreffende de samenstelling en de werkwijze van de commissie beheer landbouwgronden

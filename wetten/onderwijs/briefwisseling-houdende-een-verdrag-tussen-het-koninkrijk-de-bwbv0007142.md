@@ -8,7 +8,7 @@ laatste_update: 2026-03-18
 status: geldig
 toestand: 2026-03-18
 bron: "https://wetten.overheid.nl/BWBV0007142"
-opgehaald: 2026-09-25
+opgehaald: 2026-11-25
 ---
 
 # Briefwisseling houdende een verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Curaçao, en de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur (UNESCO) betreffende de negentiende zitting van de Intergouvernementele Oceanografische Commissie (IOC) voor de "Tsunami and other Coastal Hazards Warning System for the Caribbean and Adjacent Regions" (ICG/CARIBE EWS-XIX), te Willemstad, Curaçao, van 20 tot en met 24 april 2026

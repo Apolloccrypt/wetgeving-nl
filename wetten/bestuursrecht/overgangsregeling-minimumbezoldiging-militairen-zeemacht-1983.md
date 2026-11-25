@@ -9,7 +9,7 @@ laatste_update: 1983-07-01
 status: geldig
 toestand: 1983-07-01
 bron: "https://wetten.overheid.nl/BWBR0003656"
-opgehaald: 2026-09-26
+opgehaald: 2026-11-25
 ---
 
 # Besluit van 16 januari 1984, houdende vaststelling van een overgangsregeling minimumbezoldiging, ingaande 1 juli 1983, voor militairen der zeemacht

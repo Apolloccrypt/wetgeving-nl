@@ -4,11 +4,11 @@ identifier: "BWBV0003922"
 categorie: "Internationaal recht"
 soort: "verdrag"
 publicatiedatum: 1993-12-07
-laatste_update: 2025-12-06
+laatste_update: 2026-11-25
 status: geldig
-toestand: 2025-12-06
+toestand: 2026-11-25
 bron: "https://wetten.overheid.nl/BWBV0003922"
-opgehaald: 2026-11-18
+opgehaald: 2026-11-25
 ---
 
 # Verdrag inzake psychotrope stoffen

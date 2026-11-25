@@ -8,7 +8,7 @@ laatste_update: 1979-11-20
 status: geldig
 toestand: 1979-11-20
 bron: "https://wetten.overheid.nl/BWBR0003272"
-opgehaald: 2026-09-25
+opgehaald: 2026-11-25
 ---
 
 # Beschikking aanwijzing opsporingsambtenaren Wet op de economische delicten

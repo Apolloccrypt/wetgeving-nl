@@ -8,7 +8,7 @@ laatste_update: 2019-03-27
 status: geldig
 toestand: 2019-03-27
 bron: "https://wetten.overheid.nl/BWBV0006727"
-opgehaald: 2026-09-25
+opgehaald: 2026-11-25
 ---
 
 # Briefwisseling houdende een verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Curaçao, en de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur (UNESCO) betreffende de dertiende zitting van de Intergouvernementele Oceanografische Commissie (IOC) (ICG/CARIBE EWS-XIII), te Willemstad, Curaçao, van 24 tot en met 27 april 2018

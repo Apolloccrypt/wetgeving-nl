@@ -9,7 +9,7 @@ laatste_update: 2026-11-18
 status: geldig
 toestand: 2026-11-18
 bron: "https://wetten.overheid.nl/BWBR0053384"
-opgehaald: 2026-11-24
+opgehaald: 2026-11-25
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 6 november 2026 houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordiging in Venezuela, (1962) 1975–2012

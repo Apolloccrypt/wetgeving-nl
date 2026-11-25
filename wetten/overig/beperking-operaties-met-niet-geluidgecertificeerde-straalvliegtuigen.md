@@ -8,7 +8,7 @@ laatste_update: 1984-05-27
 status: geldig
 toestand: 1984-05-27
 bron: "https://wetten.overheid.nl/BWBR0003673"
-opgehaald: 2026-09-26
+opgehaald: 2026-11-25
 ---
 
 # Beperking operaties met niet-geluidgecertificeerde straalvliegtuigen

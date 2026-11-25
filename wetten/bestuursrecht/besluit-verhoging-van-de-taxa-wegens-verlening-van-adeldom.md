@@ -9,7 +9,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0003489"
-opgehaald: 2026-09-26
+opgehaald: 2026-11-25
 ---
 
 # Besluit van 26 maart 1982, houdende verhoging van de taxa wegens verlening van adeldom

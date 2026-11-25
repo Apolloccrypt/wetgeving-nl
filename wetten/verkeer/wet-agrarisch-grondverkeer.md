@@ -9,7 +9,7 @@ laatste_update: 2026-06-04
 status: geldig
 toestand: 2026-06-04
 bron: "https://wetten.overheid.nl/BWBR0003386"
-opgehaald: 2026-09-25
+opgehaald: 2026-11-25
 ---
 
 # Wet van 26 maart 1981, houdende regeling van het agrarisch grondverkeer

@@ -9,7 +9,7 @@ laatste_update: 1981-10-01
 status: geldig
 toestand: 1981-10-01
 bron: "https://wetten.overheid.nl/BWBR0003355"
-opgehaald: 2026-09-25
+opgehaald: 2026-11-25
 ---
 
 # Beschikking wijziging percentage levensonderhoud 1981

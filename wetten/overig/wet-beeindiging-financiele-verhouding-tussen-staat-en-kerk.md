@@ -9,7 +9,7 @@ laatste_update: 1994-01-01
 status: geldig
 toestand: 1994-01-01
 bron: "https://wetten.overheid.nl/BWBR0003640"
-opgehaald: 2026-09-26
+opgehaald: 2026-11-25
 ---
 
 # Wet van 7 december 1983, tot beëindiging van de financiële verhouding tussen Staat en Kerk

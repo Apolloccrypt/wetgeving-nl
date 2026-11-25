@@ -9,7 +9,7 @@ laatste_update: 1996-01-01
 status: geldig
 toestand: 1996-01-01
 bron: "https://wetten.overheid.nl/BWBR0003603"
-opgehaald: 2026-09-26
+opgehaald: 2026-11-25
 ---
 
 # Wet van 6 juli 1983, tot instelling gemeenten Almere en Zeewolde

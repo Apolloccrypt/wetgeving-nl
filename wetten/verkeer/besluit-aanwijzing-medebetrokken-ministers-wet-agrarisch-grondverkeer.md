@@ -9,7 +9,7 @@ laatste_update: 2012-12-07
 status: geldig
 toestand: 2012-12-07
 bron: "https://wetten.overheid.nl/BWBR0003507"
-opgehaald: 2026-09-26
+opgehaald: 2026-11-25
 ---
 
 # Besluit van 13 juli 1982, houdende aanwijzing van medebetrokken ministers Wet agrarisch grondverkeer

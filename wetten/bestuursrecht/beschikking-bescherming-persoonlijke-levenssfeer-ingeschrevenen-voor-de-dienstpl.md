@@ -8,7 +8,7 @@ laatste_update: 1978-08-01
 status: geldig
 toestand: 1978-08-01
 bron: "https://wetten.overheid.nl/BWBR0003187"
-opgehaald: 2026-09-25
+opgehaald: 2026-11-25
 ---
 
 # Beschikking bescherming persoonlijke levenssfeer ingeschrevenen voor de dienstplicht

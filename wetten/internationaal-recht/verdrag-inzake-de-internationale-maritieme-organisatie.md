@@ -8,7 +8,7 @@ laatste_update: 2008-12-07
 status: geldig
 toestand: 2008-12-07
 bron: "https://wetten.overheid.nl/BWBV0004069"
-opgehaald: 2026-11-24
+opgehaald: 2026-11-25
 ---
 
 # Verdrag inzake de Internationale Maritieme Organisatie

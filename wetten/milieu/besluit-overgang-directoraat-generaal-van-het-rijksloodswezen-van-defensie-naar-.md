@@ -9,7 +9,7 @@ laatste_update: 1980-01-01
 status: geldig
 toestand: 1980-01-01
 bron: "https://wetten.overheid.nl/BWBR0003282"
-opgehaald: 2026-09-25
+opgehaald: 2026-11-25
 ---
 
 # Besluit van 12 december 1979, houdende overgang van het Directoraat-Generaal van het Rijksloodswezen van het departement van Defensie naar het departement van Verkeer en Waterstaat

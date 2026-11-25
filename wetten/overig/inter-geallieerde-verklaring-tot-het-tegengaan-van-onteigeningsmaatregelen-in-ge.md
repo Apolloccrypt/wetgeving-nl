@@ -8,7 +8,7 @@ laatste_update: 1943-01-05
 status: geldig
 toestand: 1943-01-05
 bron: "https://wetten.overheid.nl/BWBV0006306"
-opgehaald: 2026-09-25
+opgehaald: 2026-11-25
 ---
 
 # Inter-Geallieerde verklaring tot het tegengaan van onteigeningsmaatregelen in gebieden onder vijandelijke bezetting of controle

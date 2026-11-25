@@ -9,7 +9,7 @@ laatste_update: 1984-01-01
 status: geldig
 toestand: 1984-01-01
 bron: "https://wetten.overheid.nl/BWBR0003649"
-opgehaald: 2026-09-26
+opgehaald: 2026-11-25
 ---
 
 # Overgangsbeschikking omzetbelasting

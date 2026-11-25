@@ -9,7 +9,7 @@ laatste_update: 1981-04-16
 status: geldig
 toestand: 1981-04-16
 bron: "https://wetten.overheid.nl/BWBR0003390"
-opgehaald: 2026-09-25
+opgehaald: 2026-11-25
 ---
 
 # Eerste uitvoeringsbeschikking provinciale opcenten motorrijtuigenbelasting

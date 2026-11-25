@@ -9,7 +9,7 @@ laatste_update: 1983-02-02
 status: geldig
 toestand: 1983-02-02
 bron: "https://wetten.overheid.nl/BWBR0003567"
-opgehaald: 2026-09-26
+opgehaald: 2026-11-25
 ---
 
 # Wet van 13 januari 1983, houdende machtiging tot deelneming door Nederland in de Eerste Aanvulling der Middelen van het Internationale Fonds voor Agrarische Ontwikkeling (IFAD)

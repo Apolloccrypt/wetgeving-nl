@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0003299"
-opgehaald: 2026-09-25
+opgehaald: 2026-11-25
 ---
 
 # Wet van 1 maart 1980, houdende aanpassing van de Nederlandse wetgeving aan de richtlijn van de Raad van de Europese Gemeenschappen van 9 februari 1976 inzake de gelijke behandeling van mannen en vrouwen

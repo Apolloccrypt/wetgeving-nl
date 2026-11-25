@@ -7,7 +7,7 @@ laatste_update: 2026-06-04
 status: geldig
 toestand: 2026-06-04
 bron: "https://wetten.overheid.nl/BWBV0007158"
-opgehaald: 2026-09-25
+opgehaald: 2026-11-25
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Peru inzake wederzijdse administratieve bijstand in douanezaken

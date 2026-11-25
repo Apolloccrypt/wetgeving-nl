@@ -7,7 +7,7 @@ laatste_update: 2019-06-25
 status: geldig
 toestand: 2019-06-25
 bron: "https://wetten.overheid.nl/BWBV0006829"
-opgehaald: 2026-09-25
+opgehaald: 2026-11-25
 ---
 
 # Verdrag inzake luchtvervoer tussen het Koninkrijk der Nederlanden, ten behoeve van Curaçao, en de Portugese Republiek

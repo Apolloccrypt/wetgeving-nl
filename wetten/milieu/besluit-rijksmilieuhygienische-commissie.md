@@ -9,7 +9,7 @@ laatste_update: 1992-10-01
 status: geldig
 toestand: 1992-10-01
 bron: "https://wetten.overheid.nl/BWBR0003697"
-opgehaald: 2026-09-26
+opgehaald: 2026-11-25
 ---
 
 # Besluit van 25 juli 1984, houdende instelling van een Rijksmilieuhygiënische commissie

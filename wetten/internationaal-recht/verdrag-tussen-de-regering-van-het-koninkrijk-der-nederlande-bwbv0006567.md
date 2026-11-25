@@ -7,7 +7,7 @@ laatste_update: 2015-12-11
 status: geldig
 toestand: 2015-12-11
 bron: "https://wetten.overheid.nl/BWBV0006567"
-opgehaald: 2026-09-25
+opgehaald: 2026-11-25
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Zuid-Afrika betreffende audiovisuele coproductie

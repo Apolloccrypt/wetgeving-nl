@@ -8,7 +8,7 @@ laatste_update: 1988-07-28
 status: geldig
 toestand: 1988-07-28
 bron: "https://wetten.overheid.nl/BWBR0003319"
-opgehaald: 2026-09-25
+opgehaald: 2026-11-25
 ---
 
 # Aanwijzing ambtenaren bevoegd tot het verlenen van machtiging voor het in het verkeer brengen van aan bederf onderhevige levensmiddelen

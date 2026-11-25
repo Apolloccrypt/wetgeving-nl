@@ -5,11 +5,11 @@ identifier: "BWBR0050805"
 categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
 publicatiedatum: 2025-02-28
-laatste_update: 2026-01-31
+laatste_update: 2026-11-19
 status: geldig
-toestand: 2026-01-31
+toestand: 2026-11-19
 bron: "https://wetten.overheid.nl/BWBR0050805"
-opgehaald: 2026-11-06
+opgehaald: 2026-11-25
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap, van 20 februari 2025, nr. OWB/49374826 houdende regels voor subsidieverstrekking voor het versterken van sociale veiligheid in het hoger onderwijs en de wetenschap (Subsidieregeling sociale veiligheid in hoger onderwijs en wetenschap)
@@ -18,7 +18,7 @@ opgehaald: 2026-11-06
 
 In deze regeling wordt verstaan onder:
 
-- *activiteitenplan:* activiteitenplan als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0050805&artikel=10&z=2026-01-31&g=2026-01-31);
+- *activiteitenplan:* activiteitenplan als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0050805&artikel=10&z=2026-11-19&g=2026-11-19);
 
 - *beoordelingskader:* beoordelingskader als bedoeld in de [bijlage](https://wetten.overheid.nl/BWBR0050805);
 
@@ -31,9 +31,9 @@ In deze regeling wordt verstaan onder:
 
 - *minister:* Minister van Onderwijs, Cultuur en Wetenschap;
 
-- *penvoerder van de regiegroep:* penvoerder als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050805&artikel=4&z=2026-01-31&g=2026-01-31);
+- *penvoerder van de regiegroep:* penvoerder als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050805&artikel=4&z=2026-11-19&g=2026-11-19);
 
-- *penvoerder van een samenwerkingsverband:* penvoerder als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050805&artikel=4&z=2026-01-31&g=2026-01-31);
+- *penvoerder van een samenwerkingsverband:* penvoerder als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050805&artikel=4&z=2026-11-19&g=2026-11-19);
 
 - *programmaplan:* programmaplan als bedoeld in [artikel 8 van het Instellingsbesluit Regiegroep Sociale Veiligheid in Hoger Onderwijs en Wetenschap](https://wetten.overheid.nl/jci1.3:c:BWBR0049755&artikel=8);
 
@@ -57,11 +57,11 @@ Deze regeling geldt in aanvulling op de [kaderregeling](https://wetten.overheid.
 
 ##### Artikel 4. Penvoerder
 
-1. De penvoerder van de regiegroep is de organisatie met rechtspersoonlijkheid die de subsidieaanvragen indient voor activiteiten van de regiegroep als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050805&artikel=3&z=2026-01-31&g=2026-01-31).
+1. De penvoerder van de regiegroep is de organisatie met rechtspersoonlijkheid die de subsidieaanvragen indient voor activiteiten van de regiegroep als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050805&artikel=3&z=2026-11-19&g=2026-11-19).
 
 2. Op de penvoerder van de regiegroep rusten alle aan de subsidie verbonden verplichtingen, ongeacht welke organisatie feitelijk is belast met de uitvoering van de daarop betrekking hebbende werkzaamheden.
 
-3. Een subsidieaanvraag voor activiteiten als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050805&artikel=3&z=2026-01-31&g=2026-01-31), die worden uitgevoerd door een samenwerkingsverband van organisaties, wordt ingediend door één deelnemende organisatie die optreedt als penvoerder van het samenwerkingsverband.
+3. Een subsidieaanvraag voor activiteiten als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050805&artikel=3&z=2026-11-19&g=2026-11-19), die worden uitgevoerd door een samenwerkingsverband van organisaties, wordt ingediend door één deelnemende organisatie die optreedt als penvoerder van het samenwerkingsverband.
 
 4. Op de penvoerder van een samenwerkingsverband rusten alle aan de subsidie verbonden verplichtingen, ongeacht welke organisatie feitelijk is belast met de uitvoering van de daarop betrekking hebbende werkzaamheden.
 
@@ -69,21 +69,21 @@ Deze regeling geldt in aanvulling op de [kaderregeling](https://wetten.overheid.
 
 1. Voor de subsidieverstrekking op grond van deze regeling is voor:
 
-- a. de activiteiten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050805&artikel=3&z=2026-01-31&g=2026-01-31), in de kalenderjaren 2025 tot en met 2027 jaarlijks een bedrag van € 2.250.000 beschikbaar;
+- a. de activiteiten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050805&artikel=3&z=2026-11-19&g=2026-11-19), in de kalenderjaren 2025 tot en met 2027 jaarlijks een bedrag van € 2.250.000 beschikbaar;
 
-- b. de activiteiten, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050805&artikel=3&z=2026-01-31&g=2026-01-31), in de kalenderjaren 2025 tot en met 2027 jaarlijks een bedrag van € 2.250.000 beschikbaar.
+- b. de activiteiten, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050805&artikel=3&z=2026-11-19&g=2026-11-19), in de kalenderjaren 2025 tot en met 2027 jaarlijks een bedrag van € 2.250.000 beschikbaar.
 
-2. Indien na afloop van de aanvraagperiode van een kalenderjaar, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050805&artikel=8&z=2026-01-31&g=2026-01-31), blijkt dat het bedrag, bedoeld in het eerste lid, onderdeel a, niet volledig wordt verstrekt in dat jaar, wordt het resterende bedrag toegevoegd aan het bedrag, bedoeld in het tweede lid, onderdeel b, van dat jaar.
+2. Indien na afloop van de aanvraagperiode van een kalenderjaar, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050805&artikel=8&z=2026-11-19&g=2026-11-19), blijkt dat het bedrag, bedoeld in het eerste lid, onderdeel a, niet volledig wordt verstrekt in dat jaar, wordt het resterende bedrag toegevoegd aan het bedrag, bedoeld in het tweede lid, onderdeel b, van dat jaar.
 
 ##### Artikel 6. Beoordeling aanvragen
 
-De minister beslist op de subsidieaanvraag voor activiteiten als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050805&artikel=3&z=2026-01-31&g=2026-01-31), aan de hand van de beoordelingscriteria die zijn uitgewerkt in het beoordelingskader.
+De minister beslist op de subsidieaanvraag voor activiteiten als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050805&artikel=3&z=2026-11-19&g=2026-11-19), aan de hand van de beoordelingscriteria die zijn uitgewerkt in het beoordelingskader.
 
 ##### Artikel 7. Beoordeling aanvragen en wijze van verdeling beschikbaar budget subsidieaanvraag organisatie of penvoerder van een samenwerkingsverband
 
-1. De minister beslist op een subsidieaanvraag voor activiteiten als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050805&artikel=3&z=2026-01-31&g=2026-01-31), aan de hand van de beoordelingscriteria die zijn uitgewerkt in het beoordelingskader.
+1. De minister beslist op een subsidieaanvraag voor activiteiten als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050805&artikel=3&z=2026-11-19&g=2026-11-19), aan de hand van de beoordelingscriteria die zijn uitgewerkt in het beoordelingskader.
 
-2. Indien het beschikbare budget, bedoeld in [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0050805&artikel=5&z=2026-01-31&g=2026-01-31), ontoereikend is voor toekenning van alle als voldoende beoordeelde aanvragen, verdeelt de minister dit budget als volgt over deze aanvragen:
+2. Indien het beschikbare budget, bedoeld in [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0050805&artikel=5&z=2026-11-19&g=2026-11-19), ontoereikend is voor toekenning van alle als voldoende beoordeelde aanvragen, verdeelt de minister dit budget als volgt over deze aanvragen:
 
 - a. eerst wordt subsidie toegekend aan de aanvraag van een samenwerkingsverband van organisaties met de hoogste score;
 
@@ -115,7 +115,7 @@ De minister beslist op de subsidieaanvraag voor activiteiten als bedoeld in [art
 
 ##### Artikel 9. Bij de subsidieaanvraag in te dienen documenten
 
-1. Een subsidieaanvraag voor activiteiten als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050805&artikel=3&z=2026-01-31&g=2026-01-31), bestaat uit:
+1. Een subsidieaanvraag voor activiteiten als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050805&artikel=3&z=2026-11-19&g=2026-11-19), bestaat uit:
 
 - a. een activiteitenplan;
 
@@ -125,7 +125,7 @@ De minister beslist op de subsidieaanvraag voor activiteiten als bedoeld in [art
 
 - d. een verklaring dat de kosten voor een activiteit waarvoor subsidie wordt aangevraagd niet uit anderen hoofde zijn of worden vergoed.
 
-2. Een subsidieaanvraag voor activiteiten als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050805&artikel=3&z=2026-01-31&g=2026-01-31), bestaat uit:
+2. Een subsidieaanvraag voor activiteiten als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050805&artikel=3&z=2026-11-19&g=2026-11-19), bestaat uit:
 
 - a. een activiteitenplan;
 
@@ -133,7 +133,7 @@ De minister beslist op de subsidieaanvraag voor activiteiten als bedoeld in [art
 
 - c. een verklaring dat de kosten voor een activiteit waarvoor subsidie wordt aangevraagd niet uit anderen hoofde zijn of worden vergoed.
 
-3. Indien de subsidieaanvrager een studentenorganisatie, promovendi-organisatie of werknemersorganisatie is, bestaat een subsidieaanvraag voor activiteiten als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050805&artikel=3&z=2026-01-31&g=2026-01-31), tevens uit:
+3. Indien de subsidieaanvrager een studentenorganisatie, promovendi-organisatie of werknemersorganisatie is, bestaat een subsidieaanvraag voor activiteiten als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050805&artikel=3&z=2026-11-19&g=2026-11-19), tevens uit:
 
 - a. een document waaruit blijkt dat deze rechtspersoon voor ten minste drie jaar financiële middelen ontvangt van hoger onderwijsinstelling, de minister of een gemeente;
 
@@ -143,7 +143,7 @@ De minister beslist op de subsidieaanvraag voor activiteiten als bedoeld in [art
 
 - d. het nummer waaronder deze organisatie is geregistreerd bij de Kamer van Koophandel.
 
-4. In het geval van een samenwerkingsverband van organisaties bestaat een subsidieaanvraag voor activiteiten als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050805&artikel=3&z=2026-01-31&g=2026-01-31), tevens uit:
+4. In het geval van een samenwerkingsverband van organisaties bestaat een subsidieaanvraag voor activiteiten als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050805&artikel=3&z=2026-11-19&g=2026-11-19), tevens uit:
 
 - a. een samenwerkingsovereenkomst tussen de deelnemende organisaties en de penvoerder van het samenwerkingsverband, die uiterlijk bij de start van de activiteiten aanvangt en ten minste geldig is tot en met 1 november 2028. In deze samenwerkingsovereenkomst is in elk geval een beschrijving opgenomen van:
 
@@ -159,7 +159,7 @@ De minister beslist op de subsidieaanvraag voor activiteiten als bedoeld in [art
 
 1. De subsidieaanvrager omschrijft in het activiteitenplan per activiteit hoe deze activiteit bijdraagt aan het doel of een realisatiedoelstelling uit het programmaplan en hoe de voortgang van de activiteit wordt gemonitord.
 
-2. De beschrijving in het activiteitenplan bestaat in totaal uit ten hoogste 4.000 woorden.
+2. De beschrijving in het activiteitenplan bestaat in totaal uit ten hoogste het totaal aantal woorden, genoemd in het beoordelingskader.
 
 3. Voor het overzicht van de geraamde kosten in de begroting, bedoeld in [artikel 3.5 van de kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.5), kan voor zover het de personeelskosten betreft worden gekozen uit vier functies met een vast integraal uurtarief inclusief opslag voor overhead en administratie, maar exclusief de belasting over de toegevoegde waarde:
 
@@ -175,9 +175,9 @@ De minister beslist op de subsidieaanvraag voor activiteiten als bedoeld in [art
 
 1. De subsidie wordt aangevraagd met het aanvraagformulier dat is bekendgemaakt op de website [www.dus-i.nl](http://www.dus-i.nl).
 
-2. Voor de verklaringen, bedoeld in [artikel 9, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0050805&artikel=9&z=2026-01-31&g=2026-01-31), de verklaring, bedoeld in artikel 9, tweede lid, onderdeel c, en de samenwerkingsovereenkomst, bedoeld in artikel 9, vierde lid, onderdeel a, wordt gebruik gemaakt van de formats die bekend zijn gemaakt op de website [www.dus-i.nl](http://www.dus-i.nl/).
+2. Voor de verklaringen, bedoeld in [artikel 9, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0050805&artikel=9&z=2026-11-19&g=2026-11-19), de verklaring, bedoeld in artikel 9, tweede lid, onderdeel c, en de samenwerkingsovereenkomst, bedoeld in artikel 9, vierde lid, onderdeel a, wordt gebruik gemaakt van de formats die bekend zijn gemaakt op de website [www.dus-i.nl](http://www.dus-i.nl/).
 
-3. De minister deelt de activiteitenplannen en begrotingen, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0050805&artikel=9&z=2026-01-31&g=2026-01-31), met de regiegroep ten behoeve van de voorbereiding van de besluitvorming.
+3. De minister deelt de activiteitenplannen en begrotingen, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0050805&artikel=9&z=2026-11-19&g=2026-11-19), met de regiegroep ten behoeve van de voorbereiding van de besluitvorming.
 
 ##### Artikel 12. Weigeringsgronden
 
@@ -203,7 +203,7 @@ Een subsidie aan een hoger onderwijsinstelling die minder dan € 25.000 bedraa
 
 ##### Artikel 14. Verplichtingen subsidie
 
-1. De activiteiten waarvoor subsidie wordt verleend, zijn uiterlijk op 31 december 2027 uitgevoerd.
+1. De activiteiten waarvoor subsidie wordt verleend, zijn uiterlijk op 30 september 2028 uitgevoerd.
 
 2. De toegankelijkheid van activiteiten of de resultaten ervan is kosteloos en de verspreiding van de resultaten geschiedt zonder winstoogmerk.
 
@@ -225,9 +225,9 @@ Indien de subsidie van een subsidieontvanger die geen hoger onderwijsinstelling 
 
 ##### Artikel 16. Besteding en verantwoording subsidie hoger onderwijsinstellingen
 
-1. Indien aan de verplichtingen van de subsidie is voldaan, kan een hoger onderwijsinstelling al dan niet in de hoedanigheid van penvoerder van een samenwerkingsverband, het niet aangewende deel van de subsidie voor activiteiten als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050805&artikel=3&z=2026-01-31&g=2026-01-31), besteden aan andere activiteiten waarvoor bekostiging wordt verstrekt.
+1. Indien aan de verplichtingen van de subsidie is voldaan, kan een hoger onderwijsinstelling al dan niet in de hoedanigheid van penvoerder van een samenwerkingsverband, het niet aangewende deel van de subsidie voor activiteiten als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050805&artikel=3&z=2026-11-19&g=2026-11-19), besteden aan andere activiteiten waarvoor bekostiging wordt verstrekt.
 
-2. De verantwoording van de subsidie voor activiteiten als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050805&artikel=3&z=2026-01-31&g=2026-01-31), van een hoger onderwijsinstelling al dan niet in de hoedanigheid van een penvoerder van een samenwerkingsverband, geschiedt in de jaarverslaggeving overeenkomstig de [Regeling jaarverslaggeving onderwijs met model G, onderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=4).
+2. De verantwoording van de subsidie voor activiteiten als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050805&artikel=3&z=2026-11-19&g=2026-11-19), van een hoger onderwijsinstelling al dan niet in de hoedanigheid van een penvoerder van een samenwerkingsverband, geschiedt in de jaarverslaggeving overeenkomstig de [Regeling jaarverslaggeving onderwijs met model G, onderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=4).
 
 ##### Artikel 17. Bevoorschotting en betaling
 

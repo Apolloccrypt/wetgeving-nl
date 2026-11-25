@@ -9,7 +9,7 @@ laatste_update: 1984-07-17
 status: geldig
 toestand: 1984-07-17
 bron: "https://wetten.overheid.nl/BWBR0003685"
-opgehaald: 2026-09-26
+opgehaald: 2026-11-25
 ---
 
 # Besluit van 27 juni 1984, houdende herindeling van de ministeriële taak met betrekking tot het consumentenkrediet
