@@ -8,7 +8,7 @@ laatste_update: 2004-07-15
 status: geldig
 toestand: 2004-07-15
 bron: "https://wetten.overheid.nl/BWBR0005091"
-opgehaald: 2026-09-27
+opgehaald: 2026-11-26
 ---
 
 # Instelling Gemeenschappelijke Raadgevende Commissie

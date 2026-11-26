@@ -9,7 +9,7 @@ laatste_update: 2026-11-17
 status: geldig
 toestand: 2026-11-17
 bron: "https://wetten.overheid.nl/BWBR0053368"
-opgehaald: 2026-11-25
+opgehaald: 2026-11-26
 ---
 
 # Besluit van de Inspecteur-Generaal van de Inspectie Gezondheidszorg en Jeugd van 5 november 2026, kenmerk DT26-030, houdende de verlening van ondermandaat en ondervolmacht aan functionarissen van de Inspectie Gezondheidszorg en Jeugd

@@ -8,7 +8,7 @@ laatste_update: 1991-04-24
 status: geldig
 toestand: 1991-04-24
 bron: "https://wetten.overheid.nl/BWBR0005052"
-opgehaald: 2026-09-27
+opgehaald: 2026-11-26
 ---
 
 # Instelling tijdelijke externe Commissie Bestuursorganisatie in het Wetenschappelijk Onderwijs

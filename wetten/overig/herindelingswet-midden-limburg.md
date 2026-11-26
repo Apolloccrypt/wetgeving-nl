@@ -9,7 +9,7 @@ laatste_update: 1998-08-01
 status: geldig
 toestand: 1998-08-01
 bron: "https://wetten.overheid.nl/BWBR0004857"
-opgehaald: 2026-09-27
+opgehaald: 2026-11-26
 ---
 
 # Wet van 12 september 1990, houdende wijziging van de gemeentelijke indeling van Midden-Limburg

@@ -6,10 +6,11 @@ categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
 publicatiedatum: 2021-11-26
 laatste_update: 2021-11-26
-status: geldig
+status: vervallen
+vervallen_op: 2026-11-25
 toestand: 2021-11-26
 bron: "https://wetten.overheid.nl/BWBR0045899"
-opgehaald: 2026-10-31
+opgehaald: 2026-11-26
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 12 november 2021, nr. BOACAT2021/060, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Hulst

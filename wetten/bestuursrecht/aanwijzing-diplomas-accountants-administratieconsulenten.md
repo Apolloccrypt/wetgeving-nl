@@ -9,7 +9,7 @@ laatste_update: 1990-08-25
 status: geldig
 toestand: 1990-08-25
 bron: "https://wetten.overheid.nl/BWBR0004839"
-opgehaald: 2026-09-27
+opgehaald: 2026-11-26
 ---
 
 # Aanwijzing van andere diploma's als bedoeld in artikel 2 tweede lid, van het Examenbesluit accountants-administratie-consulenten

@@ -8,7 +8,7 @@ laatste_update: 1985-12-14
 status: geldig
 toestand: 1985-12-14
 bron: "https://wetten.overheid.nl/BWBR0003887"
-opgehaald: 2026-09-26
+opgehaald: 2026-11-26
 ---
 
 # Ondernemersbesluit ontvanginrichtingen

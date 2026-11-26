@@ -9,7 +9,7 @@ laatste_update: 2026-11-17
 status: geldig
 toestand: 2026-11-17
 bron: "https://wetten.overheid.nl/BWBR0053369"
-opgehaald: 2026-11-25
+opgehaald: 2026-11-26
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid d.d. 25 juni 2026, kenmerk 7288651, houdende beperking van de openbaarheid van het archief Bureau A van de Tweede Afdeling, Bureau en (Onder) Afdeling Internationale Rechtshulp, o.a. Uitleveringsdossiers 1980–2005 (1977–2009) van het Ministerie van Justitie

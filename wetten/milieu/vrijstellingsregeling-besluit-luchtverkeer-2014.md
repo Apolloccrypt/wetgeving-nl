@@ -5,11 +5,11 @@ identifier: "BWBR0035900"
 categorie: "Milieu"
 soort: "ministeriele-regeling"
 publicatiedatum: 2014-12-12
-laatste_update: 2025-07-01
+laatste_update: 2026-11-26
 status: geldig
-toestand: 2025-07-01
+toestand: 2026-11-26
 bron: "https://wetten.overheid.nl/BWBR0035900"
-opgehaald: 2026-10-20
+opgehaald: 2026-11-26
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 9 december 2014, nr. IENM/BSK-2014/260116, houdende vaststelling van regels tot vrijstelling van het Besluit luchtverkeer 2014 ter uitvoering van uitvoeringsverordening (EU) nr. 923/2012 van de Commissie van 26 september 2012 tot vaststelling van gemeenschappelijke luchtverkeersregels en operationele bepalingen betreffende luchtvaartnavigatiediensten en -procedures en tot wijziging van Uitvoeringsverordening (EU) nr. 1035/2011 en Verordeningen (EG) nr. 1265/2007, (EG) nr. 1794/2006, (EG) nr. 730/2006, (EG) nr. 1033/2006 en (EU) nr. 255/2010 (Vrijstellingsregeling Besluit luchtverkeer 2014)
@@ -86,7 +86,7 @@ In deze regeling wordt verstaan onder:
 
 3. Er wordt uitsluitend buiten de daglichtperiode gevlogen gedurende de periode dat dit noodzakelijk is voor het doel van de vlucht.
 
-4. Het eerste lid, onderdeel a, is niet van toepassing op vluchten als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035900&hoofdstuk=2&artikel=2.7&z=2025-07-01&g=2025-07-01).
+4. Het eerste lid, onderdeel a, is niet van toepassing op vluchten als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035900&hoofdstuk=2&artikel=2.7&z=2026-11-26&g=2026-11-26).
 
 ##### Artikel 2.3. Luchtvaartuiglichten
 
@@ -102,7 +102,7 @@ Ten aanzien van politievluchten en kustwachtvluchten gelden de volgende regels, 
 
 ##### Artikel 2.4. Buitenlandse luchtvaartuigen
 
-De [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035900&hoofdstuk=2&artikel=2.1&z=2025-07-01&g=2025-07-01) en [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035900&hoofdstuk=2&artikel=2.2&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing op een politievlucht uitgevoerd door de bevoegde autoriteit van de Bondsrepubliek Duitsland met een luchtvaartuig als bedoeld in artikel 25, vierde lid, van het op 2 maart 2005 tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de grensoverschrijdende politiële samenwerking en de samenwerking in strafrechtelijke aangelegenheden (Trb. 2005, 86).
+De [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035900&hoofdstuk=2&artikel=2.1&z=2026-11-26&g=2026-11-26) en [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035900&hoofdstuk=2&artikel=2.2&z=2026-11-26&g=2026-11-26) zijn van overeenkomstige toepassing op een politievlucht uitgevoerd door de bevoegde autoriteit van de Bondsrepubliek Duitsland met een luchtvaartuig als bedoeld in artikel 25, vierde lid, van het op 2 maart 2005 tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de grensoverschrijdende politiële samenwerking en de samenwerking in strafrechtelijke aangelegenheden (Trb. 2005, 86).
 
 ##### Artikel 2.5. VFR-vlucht in luchtruimklasse A
 
@@ -168,7 +168,7 @@ Het uitvoeren van een vlucht met een vrije ballon buiten de daglichtperiode is t
 
    - 6°. noodverlichting in de vorm van zaklantaarns;
 
-- f. ten minste twee uren vóór de aanvang van de vlucht wordt een vliegplan voorgelegd aan de supervisor van AOCS Nieuw Milligen, bedoeld in [artikel 1 van de Regeling luchtverkeersdienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=1) onder opgave van:
+- f. ten minste twee uren vóór de aanvang van de vlucht wordt een vliegplan voorgelegd aan de supervisor van LVNL onder opgave van:
 
    - 1°. het registratiekenmerk van de vrije ballon,
 

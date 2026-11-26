@@ -8,7 +8,7 @@ laatste_update: 1985-01-01
 status: geldig
 toestand: 1985-01-01
 bron: "https://wetten.overheid.nl/BWBR0003741"
-opgehaald: 2026-09-26
+opgehaald: 2026-11-26
 ---
 
 # Overgangsmaatregel m.b.t. bevoegdheden

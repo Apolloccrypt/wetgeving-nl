@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0003763"
-opgehaald: 2026-09-26
+opgehaald: 2026-11-26
 ---
 
 # Uitvoering Wet op de gevaarlijke werktuigen en Besluit containers

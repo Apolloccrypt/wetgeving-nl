@@ -9,7 +9,7 @@ laatste_update: 2005-08-24
 status: geldig
 toestand: 2005-08-24
 bron: "https://wetten.overheid.nl/BWBR0004253"
-opgehaald: 2026-09-26
+opgehaald: 2026-11-26
 ---
 
 # Regeling vaststelling internationaal taxivervoer

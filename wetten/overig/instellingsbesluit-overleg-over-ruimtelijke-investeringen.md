@@ -8,7 +8,7 @@ laatste_update: 1990-11-15
 status: geldig
 toestand: 1990-11-15
 bron: "https://wetten.overheid.nl/BWBR0004902"
-opgehaald: 2026-09-27
+opgehaald: 2026-11-26
 ---
 
 # Instellingsbesluit Overleg over Ruimtelijke Investeringen

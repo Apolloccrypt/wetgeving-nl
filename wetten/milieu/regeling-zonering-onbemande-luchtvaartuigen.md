@@ -5,11 +5,11 @@ identifier: "BWBR0044597"
 categorie: "Milieu"
 soort: "ministeriele-regeling"
 publicatiedatum: 2026-09-23
-laatste_update: 2026-10-21
+laatste_update: 2026-11-26
 status: geldig
-toestand: 2026-10-21
+toestand: 2026-11-26
 bron: "https://wetten.overheid.nl/BWBR0044597"
-opgehaald: 2026-10-31
+opgehaald: 2026-11-26
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 21 december 2020, nr. IENW/BSK-2020/236627, houdende de vaststelling van regels met betrekking tot het afbakenen en aanwijzen van geografische zones voor onbemande luchtvaartuigen (Regeling zonering onbemande luchtvaartuigen)
@@ -196,13 +196,13 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3a. Vluchten in civiele CTR’s
 
-1. De gebieden met als geografische omvang de Schiphol CTR, de Lelystad CTR 1, de Lelystad CTR 2, de Eelde CTR, de Maastricht CTR en de Rotterdam CTR, bedoeld in [artikel 5, eerste en tweede lid, van de Regeling luchtverkeersdienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=5), zijn opgedeeld in de geografische zones 1, 2A, 2B, 3 en 4 zoals aangeduid in [bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0044597&bijlage=1a&z=2026-10-21&g=2026-10-21) bij deze regeling.
+1. De gebieden met als geografische omvang de Schiphol CTR, de Lelystad CTR 1, de Lelystad CTR 2, de Eelde CTR, de Maastricht CTR en de Rotterdam CTR, bedoeld in [artikel 5, eerste en tweede lid, van de Regeling luchtverkeersdienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=5), zijn opgedeeld in de geografische zones 1, 2A, 2B, 3 en 4 zoals aangeduid in [bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0044597&bijlage=1a&z=2026-11-26&g=2026-11-26) bij deze regeling.
 
 2. Het is verboden om een vlucht in de open categorie uit te voeren in zones 1, 2A en 2B.
 
 3. Onverminderd het bepaalde in het tweede lid, is toegang voor onbemande luchtvaartuigen tot zones 1, 2b en 4 alleen toegestaan indien:
 
-- a. de vluchtuitvoering is aangemeld en geautoriseerd conform de procedure in [bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0044597&bijlage=1a&z=2026-10-21&g=2026-10-21) bij deze regeling;
+- a. de vluchtuitvoering is aangemeld en geautoriseerd conform de procedure in [bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0044597&bijlage=1a&z=2026-11-26&g=2026-11-26) bij deze regeling;
 
 - b. de vluchtuitvoering is geklaard voor vertrek door de luchtverkeersleiding voorafgaand aan de vlucht;
 
@@ -228,7 +228,7 @@ In deze regeling wordt verstaan onder:
 
 3. Toegang tot de zones, bedoeld in het eerste lid, is alleen toegestaan indien:
 
-- a. de vluchtuitvoering is aangemeld en geautoriseerd conform de procedure in [bijlage 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0044597&bijlage=1b&z=2026-10-21&g=2026-10-21) bij deze regeling;
+- a. de vluchtuitvoering is aangemeld en geautoriseerd conform de procedure in [bijlage 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0044597&bijlage=1b&z=2026-11-26&g=2026-11-26) bij deze regeling;
 
 - b. de vluchtuitvoering is geklaard door de betrokken luchtverkeersleiding voorafgaand aan de vlucht;
 
@@ -274,7 +274,7 @@ Het is verboden in de open categorie een vlucht uit te voeren in de geografische
 
 ##### Artikel 5. Industriegebieden en locaties
 
-Het is verboden een vlucht uit te voeren met onbemande luchtvaartuigen in de open categorie in de geografische zones zoals bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044597&bijlage=1&z=2026-10-21&g=2026-10-21).
+Het is verboden een vlucht uit te voeren met onbemande luchtvaartuigen in de open categorie in de geografische zones zoals bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044597&bijlage=1&z=2026-11-26&g=2026-11-26).
 
 ##### Artikel 6. Vitale infrastructuur en beveiligde gebieden
 
@@ -548,7 +548,7 @@ Het is verboden een vlucht uit te voeren met onbemande luchtvaartuigen in de ope
 
    - d. 52°23'01.0"N 4°39'51.4"E.
 
-- 7) Het is verboden een vlucht uit te voeren met onbemande luchtvaartuigen in de open categorie in de geografische zones, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044597&bijlage=2&z=2026-10-21&g=2026-10-21).
+- 7) Het is verboden een vlucht uit te voeren met onbemande luchtvaartuigen in de open categorie in de geografische zones, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044597&bijlage=2&z=2026-11-26&g=2026-11-26).
 
 ##### Artikel 7. Inwerkingtreding
 

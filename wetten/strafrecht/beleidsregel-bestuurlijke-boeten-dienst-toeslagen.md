@@ -5,11 +5,11 @@ identifier: "BWBR0051123"
 categorie: "Bestuursrecht"
 soort: "beleidsregel"
 publicatiedatum: 2025-06-20
-laatste_update: 2025-06-20
+laatste_update: 2026-11-20
 status: geldig
-toestand: 2025-06-20
+toestand: 2026-11-20
 bron: "https://wetten.overheid.nl/BWBR0051123"
-opgehaald: 2026-11-07
+opgehaald: 2026-11-26
 ---
 
 # Beleidsregel van de Staatssecretaris van Financiën van 10 Juni 2025 over herziening van het boetebeleid (Beleidsregel bestuurlijke boeten Dienst Toeslagen)
@@ -92,7 +92,7 @@ Boetes aan overtreder, niet zijnde een kinderopvangorganisatie
 | € 10.000 | € 20.000 | € 600 | € 1.200 |
 | € 20.000 | maximum | Handmatig, uitgaand van 5% nadeelbedrag | Handmatig, uitgaand van 10% nadeelbedrag |
 
-2. Als een bedrag is teruggevorderd op grond van [artikel 41, eerste lid, van de Awir](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=41) dan geldt dit bedrag als uitgangspunt voor het opleggen van de bestuurlijke boete. Als geen bedrag is teruggevorderd dan geldt voor het bedrag dat zou zijn teruggevorderd het bedrag dat zou zijn teruggevorderd als overeenkomstig het systeem van bevoorschotting was uitbetaald, op het moment van beschikken. In de individuele straftoemeting kan het feit dat geen voordeel is behaald meewegen.
+2. Als een bedrag is teruggevorderd als bedoeld in [artikel 41, eerste lid, van de Awir](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=41) dan geldt dit bedrag als uitgangspunt voor het opleggen van de bestuurlijke boete. Als geen bedrag is teruggevorderd dan geldt voor het bedrag dat zou zijn teruggevorderd het bedrag dat zou zijn teruggevorderd als overeenkomstig het systeem van bevoorschotting was uitbetaald, op het moment van beschikken. In de individuele straftoemeting kan het feit dat geen voordeel is behaald meewegen.
 
 Boetes aan kinderopvangorganisaties
 
@@ -129,19 +129,27 @@ Boetes aan kinderopvangorganisaties
 
 4. Wanneer het opleggen van een vergrijpboete door Dienst Toeslagen wordt overwogen wordt de procedure van [afdeling 5.4.2. van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=5.4.2) gevolgd.
 
-5. Bij het opleggen van een vergrijpboete zal Dienst Toeslagen steeds toepassing geven aan [artikel 5:53 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:53), waarbij een kennisgeving van het voornemen om een boete op te leggen wordt aangemerkt als een rapport in de zin van [artikel 5:48 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48).
+5. Bij het opleggen van een vergrijpboete zal Dienst Toeslagen steeds toepassing geven aan [artikel 5:53 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:53) en een boeterapport opmaken. Het boeterapport wordt bij de kennisgeving van het voornemen om een boete op te leggen aan de overtreder uitgereikt of toegezonden.
 
 ##### Artikel 5. Overige bepalingen
 
-1. Een eenmaal opgelegde verzuimboete sluit het opleggen van een vergrijpboete voor hetzelfde feit uit behoudens bij nieuwe bezwaren. Het opleggen van een vergrijpboete sluit het nadien opleggen van een verzuimboete voor hetzelfde feit uit. Een opgelegde vergrijpboete kan niet worden omgezet in een verzuimboete.
+1. Dienst Toeslagen gebruikt de in dit besluit genoemde boetebedragen als uitgangspunt maar houdt bij het bepalen van de hoogte van de boete rekening met eventuele bijzondere omstandigheden die straf verminderend en strafverzwarend kunnen zijn. Factoren die onder meer een rol kunnen spelen bij de inachtneming van bijzondere omstandigheden zijn (i) de ernst van de overtreding (ii) de duur en omvang van de overtreding (iii) behaald voordeel (iv) persoonlijke omstandigheden waaronder (v) financiële draagkracht (vi) medische toestand en (vii)relationele omstandigheden en het doen en nalaten van Dienst Toeslagen.
 
-2. Met een strafrechtelijke sanctie genoemd in [artikel 41, tweede lid, onderdeel b, van de Awir](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=41) wordt gelijkgesteld het vervallen van het recht tot strafvordering vanwege een transactie ingevolge [artikel 74 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74).
+2. Gedragingen van overtreder na het begaan van het beboetbare feit, kunnen ook bij de straftoemeting worden betrokken. Bij straf verminderende omstandigheden ligt de nadruk op buiten de (directe) invloedssfeer van overtreder liggende gebeurtenissen. Voor de beoordeling of die omstandigheden tot matiging van de boete aanleiding kunnen geven, kan het van belang zijn of overtreder maatregelen heeft getroffen of had kunnen treffen om de overtreding te voorkomen.
 
-3. Het opleggen van een bestuurlijke boete aan overtreder sluit in beginsel strafvervolging tegen hem ter zake van hetzelfde feit uit. Op grond van [artikel 243, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=243) blijft het echter mogelijk een zaak te heropenen, indien bij nader inzien blijkt dat zij te ernstig is om bestuurlijk te worden afgedaan. Er moet dan sprake zijn van nieuwe bezwaren in de zin van [artikel 255 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=255).
+3. De ernst van de te beboeten gedraging kan aanleiding geven de op te leggen vergrijpboete te verhogen tot het wettelijk maximum. Hiertoe is in elk geval aanleiding indien sprake is van listigheid, valsheid of samenspanning. De stelplicht en bewijslast van strafverzwarende factoren rusten op Dienst Toeslagen; de stelplicht en bewijslast van straf verminderende factoren op overtreder.
 
-4. Het Protocol aanmelding en afdoening van fiscale delicten en delicten op het gebied van douane en toeslagen (Stcrt. 2023, 16878) bevat aanvullende voorschriften voor de afdoening van toeslagendelicten en afstemming daarover met het Openbaar Ministerie.
+4. Indien Dienst Toeslagen op de hoogte is van bijzondere omstandigheden, zal bij het opleggen van de boete daarmee rekening moeten worden gehouden. Dienst Toeslagen hoeft niet ambtshalve te onderzoeken of van straf verminderende factoren sprake is.
 
-5. Voor een mogelijke vermindering van de boete als gevolg van overschrijding van de redelijke termijn gelden de nadere regels die de Hoge Raad heeft gegeven in zijn arrest van 19 december 2008, nr. 42763, en zoals daarna bekrachtigd door de Raad van State.
+5. Een eenmaal opgelegde verzuimboete sluit het opleggen van een vergrijpboete voor hetzelfde feit uit behoudens bij nieuwe bezwaren. Het opleggen van een vergrijpboete sluit het nadien opleggen van een verzuimboete voor hetzelfde feit uit. Een opgelegde vergrijpboete kan niet worden omgezet in een verzuimboete.
+
+6. Met een strafrechtelijke sanctie genoemd in [artikel 41, tweede lid, onderdeel b, van de Awir](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=41) wordt gelijkgesteld het vervallen van het recht tot strafvordering vanwege een transactie ingevolge [artikel 74 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74).
+
+7. Het opleggen van een bestuurlijke boete aan overtreder sluit in beginsel strafvervolging tegen hem ter zake van hetzelfde feit uit. Op grond van [artikel 243, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=243) blijft het echter mogelijk een zaak te heropenen, indien bij nader inzien blijkt dat zij te ernstig is om bestuurlijk te worden afgedaan. Er moet dan sprake zijn van nieuwe bezwaren in de zin van [artikel 255 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=255).
+
+8. Het Protocol aanmelding en afdoening van fiscale delicten en delicten op het gebied van douane en toeslagen (Stcrt. 2023, 16878) bevat aanvullende voorschriften voor de afdoening van toeslagendelicten en afstemming daarover met het Openbaar Ministerie.
+
+9. Voor een mogelijke vermindering van de boete als gevolg van overschrijding van de redelijke termijn gelden de nadere regels die de Hoge Raad heeft gegeven in zijn arrest van 19 december 2008, nr. 42763, en zoals daarna bekrachtigd door de Raad van State.
 
 ##### Artikel 6. Intrekking besluit
 

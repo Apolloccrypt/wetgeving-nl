@@ -9,7 +9,7 @@ laatste_update: 2026-11-17
 status: geldig
 toestand: 2026-11-17
 bron: "https://wetten.overheid.nl/BWBR0053370"
-opgehaald: 2026-11-25
+opgehaald: 2026-11-26
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 9 november 2026, kenmerk 4560257-1105778-IZB, houdende het verstrekken van een specifieke uitkering voor de opvang, het testen en de zorg voor opvarenden van cruiseschip m/v Hondius in verband met het andesvirus (Regeling specifieke uitkering opvang, testen en zorg opvarenden cruiseschip Hondius) [KetenID WGK029560]

@@ -9,7 +9,7 @@ laatste_update: 2019-07-01
 status: geldig
 toestand: 2019-07-01
 bron: "https://wetten.overheid.nl/BWBR0004611"
-opgehaald: 2026-09-26
+opgehaald: 2026-11-26
 ---
 
 # Premieregeling opgeviste milieugevaarijke stoffen

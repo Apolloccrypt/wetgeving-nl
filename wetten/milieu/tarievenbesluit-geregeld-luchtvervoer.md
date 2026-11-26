@@ -9,7 +9,7 @@ laatste_update: 2010-06-12
 status: geldig
 toestand: 2010-06-12
 bron: "https://wetten.overheid.nl/BWBR0004913"
-opgehaald: 2026-09-27
+opgehaald: 2026-11-26
 ---
 
 # Besluit van 23 november 1990, houdende regels inzake tarieven voor geregeld luchtvervoer

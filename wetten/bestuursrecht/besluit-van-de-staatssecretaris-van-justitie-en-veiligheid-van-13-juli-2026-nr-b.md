@@ -9,7 +9,7 @@ laatste_update: 2026-11-24
 status: geldig
 toestand: 2026-11-24
 bron: "https://wetten.overheid.nl/BWBR0052948"
-opgehaald: 2026-11-25
+opgehaald: 2026-11-26
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 13 juli 2026 nr. BOACAT2026/042, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Papendrecht

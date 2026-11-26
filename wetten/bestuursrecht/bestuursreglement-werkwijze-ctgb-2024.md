@@ -6,10 +6,11 @@ categorie: "Bestuursrecht"
 soort: "zbo"
 publicatiedatum: 2024-01-01
 laatste_update: 2024-01-01
-status: geldig
+status: vervallen
+vervallen_op: 2026-11-20
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0049170"
-opgehaald: 2026-11-04
+opgehaald: 2026-11-26
 ---
 
 # Bestuursreglement werkwijze College voor de toelating van gewasbeschermingsmiddelen en biociden 2024

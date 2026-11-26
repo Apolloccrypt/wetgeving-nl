@@ -8,7 +8,7 @@ laatste_update: 1986-07-28
 status: geldig
 toestand: 1986-07-28
 bron: "https://wetten.overheid.nl/BWBR0003985"
-opgehaald: 2026-09-26
+opgehaald: 2026-11-26
 ---
 
 # Instelling Begeleidingscommissie uitvoering Wet uitkeringen vervolgingsslachtoffers

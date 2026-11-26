@@ -5,11 +5,11 @@ identifier: "BWBR0044598"
 categorie: "Milieu"
 soort: "ministeriele-regeling"
 publicatiedatum: 2020-12-31
-laatste_update: 2026-01-01
+laatste_update: 2026-11-26
 status: geldig
-toestand: 2026-01-01
+toestand: 2026-11-26
 bron: "https://wetten.overheid.nl/BWBR0044598"
-opgehaald: 2026-10-29
+opgehaald: 2026-11-26
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 21 december 2020, nr. IENW/BSK-2020/247616, houdende de vaststelling van regels met betrekking tot onbemande luchtvaartuigen (Regeling onbemande luchtvaartuigen)
@@ -72,9 +72,7 @@ Deze paragraaf is van toepassing op vluchten die worden uitgevoerd met een onbem
 
 ##### Artikel 7. Beperkingen luchtverkeer binnen civiele en militaire luchtverkeersleidingsgebieden
 
-1. Het is verboden met een onbemand luchtvaartuig een vlucht uit te voeren in de Schiphol CTR, Maastricht CTR, Lelystad CTR 1 en Lelystad CTR 2, Eelde CTR, Rotterdam CTR en het boven Nederlands grondgebied gelegen deel van de Niederrhein CTR, bedoeld in [artikel 5 van de Regeling luchtverkeersdienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=5).
-
-2. Het is verboden met een onbemand luchtvaartuig een vlucht uit te voeren in de Eindhoven CTR, Gilze-Rijen CTR, Leeuwarden CTR, Volkel CTR, Woensdrecht CTR, Deelen CTR, de Peel CTR, de Kooy CTR en het boven Nederlands grondgebied gelegen deel van de Kleine-Brogel CTR, bedoeld in [artikel 5 van de Regeling luchtverkeersdienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=5).
+*Vervallen*
 
 ##### Artikel 8. Objecten of gebieden die onderdeel uitmaken van vitale processen
 

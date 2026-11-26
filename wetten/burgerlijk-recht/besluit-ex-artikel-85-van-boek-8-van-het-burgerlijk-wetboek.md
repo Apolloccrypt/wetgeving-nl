@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0005011"
-opgehaald: 2026-09-27
+opgehaald: 2026-11-26
 ---
 
 # Besluit van 11 maart 1991, ter uitvoering van artikel 85, vijfde lid, van Boek 8 van het Burgerlijk Wetboek

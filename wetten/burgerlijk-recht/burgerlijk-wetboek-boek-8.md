@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0005034"
-opgehaald: 2026-09-27
+opgehaald: 2026-11-26
 ---
 
 # Burgerlijk Wetboek Boek 8, Verkeersmiddelen en vervoer

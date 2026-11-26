@@ -8,7 +8,7 @@ laatste_update: 1991-06-01
 status: geldig
 toestand: 1991-06-01
 bron: "https://wetten.overheid.nl/BWBR0005064"
-opgehaald: 2026-09-27
+opgehaald: 2026-11-26
 ---
 
 # Zimbabwaanse uitvoeringsvoorschriften belastingovereenkomst Nederland-Zimbabwe

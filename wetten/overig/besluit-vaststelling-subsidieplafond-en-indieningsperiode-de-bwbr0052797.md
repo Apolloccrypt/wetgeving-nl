@@ -8,7 +8,7 @@ laatste_update: 2026-11-18
 status: geldig
 toestand: 2026-11-18
 bron: "https://wetten.overheid.nl/BWBR0052797"
-opgehaald: 2026-11-25
+opgehaald: 2026-11-26
 ---
 
 # Besluit vaststelling subsidieplafond en indieningsperiode Deelregeling Interdisciplinair Individu

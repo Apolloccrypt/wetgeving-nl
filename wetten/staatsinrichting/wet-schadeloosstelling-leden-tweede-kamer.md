@@ -9,7 +9,7 @@ laatste_update: 2026-07-07
 status: geldig
 toestand: 2026-07-07
 bron: "https://wetten.overheid.nl/BWBR0004939"
-opgehaald: 2026-09-27
+opgehaald: 2026-11-26
 ---
 
 # Wet van 19 december 1990, houdende een nieuwe regeling voor de schadeloosstelling en onkostenvergoedingen van leden van de Tweede Kamer der Staten-Generaal

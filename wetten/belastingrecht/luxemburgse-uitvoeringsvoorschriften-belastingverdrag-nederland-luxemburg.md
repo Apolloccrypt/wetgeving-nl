@@ -9,7 +9,7 @@ laatste_update: 1991-01-01
 status: geldig
 toestand: 1991-01-01
 bron: "https://wetten.overheid.nl/BWBR0004828"
-opgehaald: 2026-09-27
+opgehaald: 2026-11-26
 ---
 
 # Luxemburgse uitvoeringsvoorschriften belastingverdrag Nederland – Luxemburg

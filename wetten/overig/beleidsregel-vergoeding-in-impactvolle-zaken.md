@@ -8,7 +8,7 @@ laatste_update: 2026-11-17
 status: geldig
 toestand: 2026-11-17
 bron: "https://wetten.overheid.nl/BWBR0053374"
-opgehaald: 2026-11-25
+opgehaald: 2026-11-26
 ---
 
 # Beleidsregel vergoeding in impactvolle zaken

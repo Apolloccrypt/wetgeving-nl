@@ -5,11 +5,11 @@ identifier: "BWBR0022880"
 categorie: "Milieu"
 soort: "ministeriele-regeling"
 publicatiedatum: 2014-12-09
-laatste_update: 2014-12-12
+laatste_update: 2026-11-26
 status: geldig
-toestand: 2014-12-12
+toestand: 2026-11-26
 bron: "https://wetten.overheid.nl/BWBR0022880"
-opgehaald: 2026-10-09
+opgehaald: 2026-11-26
 ---
 
 # Regeling van de Minister van Verkeer en Waterstaat houdende regels voor het onderscheppen van luchtvaartuigen (Regeling onderschepping luchtvaartuigen)
@@ -24,7 +24,7 @@ Deze regeling berust op [artikel 25 van het Besluit luchtverkeer 2014](https://w
 
 ##### Artikel 2
 
-Een luchtverkeersleider die een wederrechtelijke inmenging signaleert, of gedragingen vaststelt die daarop kunnen wijzen, of andere omstandigheden signaleert die een onderschepping wenselijk maken, informeert terstond zijn supervisor. Deze waarschuwt terstond de Supervisor MilATCC Nieuw Milligen van het Ministerie van Defensie.
+Een luchtverkeersleider die een wederrechtelijke inmenging signaleert, of gedragingen vaststelt die daarop kunnen wijzen, of andere omstandigheden signaleert die een onderschepping wenselijk maken, informeert terstond zijn supervisor. Deze waarschuwt terstond de Supervisor LGL Nieuw Milligen van het Ministerie van Defensie.
 
 ##### Artikel 3
 

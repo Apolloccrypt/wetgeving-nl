@@ -9,7 +9,7 @@ laatste_update: 2026-11-18
 status: geldig
 toestand: 2026-11-18
 bron: "https://wetten.overheid.nl/BWBR0053381"
-opgehaald: 2026-11-25
+opgehaald: 2026-11-26
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 9 november 2026, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordiging in de Collectie Oltmans, 1956–2001 (2002)

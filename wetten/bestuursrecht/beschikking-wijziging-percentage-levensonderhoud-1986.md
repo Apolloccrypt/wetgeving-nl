@@ -9,7 +9,7 @@ laatste_update: 1986-01-01
 status: geldig
 toestand: 1986-01-01
 bron: "https://wetten.overheid.nl/BWBR0003878"
-opgehaald: 2026-09-26
+opgehaald: 2026-11-26
 ---
 
 # Wijziging percentage levensonderhoud 1986

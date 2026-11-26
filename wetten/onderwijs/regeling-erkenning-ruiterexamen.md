@@ -8,7 +8,7 @@ laatste_update: 1985-06-01
 status: geldig
 toestand: 1985-06-01
 bron: "https://wetten.overheid.nl/BWBR0003799"
-opgehaald: 2026-09-26
+opgehaald: 2026-11-26
 ---
 
 # Regeling erkenning ruiterexamen

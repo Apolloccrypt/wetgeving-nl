@@ -9,7 +9,7 @@ laatste_update: 2005-09-01
 status: geldig
 toestand: 2005-09-01
 bron: "https://wetten.overheid.nl/BWBR0005107"
-opgehaald: 2026-09-27
+opgehaald: 2026-11-26
 ---
 
 # Wet van 6 juni 1991, tot wijziging van de Kadasterwet en van enige andere wetten en regeling van het overgangsrecht in verband met de inwerkingtreding van de Kadasterwet

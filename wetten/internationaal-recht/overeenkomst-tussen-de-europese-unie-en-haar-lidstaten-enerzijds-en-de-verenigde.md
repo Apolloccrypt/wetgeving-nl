@@ -7,7 +7,7 @@ laatste_update: 2026-05-22
 status: geldig
 toestand: 2026-05-22
 bron: "https://wetten.overheid.nl/BWBV0007188"
-opgehaald: 2026-11-25
+opgehaald: 2026-11-26
 ---
 
 # Overeenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Verenigde Mexicaanse Staten, anderzijds, inzake een strategisch partnerschap op het vlak van politiek, economie en samenwerking
