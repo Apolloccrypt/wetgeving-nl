@@ -1,13 +1,13 @@
 {
- "gegenereerd": "2026-11-26",
+ "gegenereerd": "2026-11-27",
  "geverifieerd": true,
- "bwb_regelingen": 47101,
- "bwb_geldend": 22352,
- "site_totaal": 22633,
- "site_geldend": 22351,
+ "bwb_regelingen": 47106,
+ "bwb_geldend": 22356,
+ "site_totaal": 22638,
+ "site_geldend": 22355,
  "dekkingsgraad": 1.0,
  "aantal_ontbrekend": 1,
- "aantal_ten_onrechte_geldig": 282,
+ "aantal_ten_onrechte_geldig": 283,
  "aantal_onbekend": 0,
  "ontbrekend": [
   {
@@ -600,6 +600,10 @@
   {
    "id": "BWBR0045899",
    "titel": "Besluit van de Minister voor Rechtsbescherming van 12 november 2021, nr. BOACAT2021/060, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Hulst"
+  },
+  {
+   "id": "BWBR0045905",
+   "titel": "Besluit van de Minister voor Rechtsbescherming van 25 november 2021 nr. BOACAT2021/065, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij het Functioneel Parket"
   },
   {
    "id": "BWBR0045977",

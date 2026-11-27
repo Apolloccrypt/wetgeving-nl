@@ -4,12 +4,12 @@ citeertitel: "Besluit mandaat en machtiging Rijksdienst voor Ondernemend Nederla
 identifier: "BWBR0035845"
 categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-publicatiedatum: 2014-12-04
-laatste_update: 2015-10-22
+publicatiedatum: 2026-11-12
+laatste_update: 2026-11-20
 status: geldig
-toestand: 2015-10-22
+toestand: 2026-11-20
 bron: "https://wetten.overheid.nl/BWBR0035845"
-opgehaald: 2026-10-20
+opgehaald: 2026-11-27
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 25 november 2014, houdende verlening mandaat en machtiging aan de Rijksdienst voor Ondernemend Nederland subsidieverstrekkingTopsector Life Sciences and Health (Besluit mandaat en machtiging Rijksdienst Ondernemend Nederland subsidieverstrekking Topsector Life Sciences and Health)
@@ -22,13 +22,13 @@ In dit besluit wordt verstaan onder:
 
 - b. *Rijksdienst voor Ondernemend Nederland:* baten-lastendienst van het Ministerie van Economische Zaken, bedoeld in [artikel 1 van het Instellingsbesluit baten-lastenagentschap Rijksdienst voor Ondernemend Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0034567&artikel=1);
 
-- c. *Algemeen directeur RVO.nl:* algemeen directeur van de Rijksdienst voor Ondernemend Nederland, welke functienaam tot 1 maart 2015 luidde ‘directeur- generaal van de Rijksdienst voor Ondernemend Nederland’;
+- c. *Directeur-generaal:* directeur-generaal van de Rijksdienst voor Ondernemend Nederland;
 
 - d. *Topsector Life Sciences and Health:* de samenwerking van publiek-private partijen in de sector Life Sciences and Health die zich richt op betere oplossingen voor de patiënt en de reductie van zorgkosten.
 
 ##### Artikel 2
 
-Aan de algemeen directeur RVO.nl wordt mandaat verleend tot:
+Aan de directeur-generaal wordt mandaat verleend tot:
 
 - a. het nemen van besluiten tot subsidieverstrekking op grond van de [Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455) voor zover het gaat om bestedingen van middelen die bestemd zijn voor activiteiten van de Topsector Life Sciences and Health;
 
@@ -36,13 +36,27 @@ Aan de algemeen directeur RVO.nl wordt mandaat verleend tot:
 
 ##### Artikel 3
 
-1. De algemeen directeur RVO.nl is gemachtigd tot het afdoen van alle stukken die betrekking hebben op besluiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035845&artikel=2&z=2015-10-22&g=2015-10-22).
+1. De directeur-generaal is gemachtigd tot het afdoen van alle stukken die betrekking hebben op besluiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035845&artikel=2&z=2026-11-20&g=2026-11-20).
 
-2. De algemeen directeur RVO.nl is gemachtigd ten aanzien van verweer- en beroepschriften in administratiefrechtelijke procedures, ten behoeve van het vertegenwoordigen van de minister in deze procedures en tot het afdoen van alle stukken die daarop betrekking hebben.
+2. De directeur-generaal is gemachtigd ten aanzien van verweer- en beroepschriften in administratiefrechtelijke procedures, ten behoeve van het vertegenwoordigen van de minister in deze procedures en tot het afdoen van alle stukken die daarop betrekking hebben.
+
+##### Artikel 3a
+
+1. De directeur-generaal kan aan de algemeen directeur van het Centraal Justitieel Incassobureau ondermandaat, volmacht en machtiging verlenen voor het uitvaardigen van dwangbevelen en de daaruit voortvloeiende uitvoering van executiegeschillen, en voor het treffen van betalingsregelingen. De directeur-generaal kan de algemeen directeur toestaan ondermandaat, volmacht en machtiging te verlenen aan één of meer onder hem ressorterende functionarissen.
+
+2. Aan de directeur-generaal wordt mandaat verleend om beleidsregels vast te stellen ter zake van de uitoefening van de krachtens het eerste lid aan de algemeen directeur van het Centraal Justitieel Incassobureau toekomende bevoegdheden.
+
+##### Artikel 3b
+
+Aan de directeur-generaal wordt mandaat verleend tot het nemen van een besluit als bedoeld in [artikel 2:13, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:13) tot aanwijzing per type bericht van een voldoende betrouwbare en vertrouwelijke wijze van verzenden.
+
+##### Artikel 3c
+
+De directeur-generaal wordt mandaat, volmacht en machtiging verleend om vorderingen op derden tot een bedrag van € 1.500.000,– inclusief BTW buiten invordering te stellen of kwijt te schelden indien blijkt dat de vordering niet invorderbaar is.
 
 ##### Artikel 4
 
-1. De algemeen directeur RVO.nl kan ondermandaat en machtiging verlenen aan onder hem ressorterende functionarissen tot het geheel of gedeeltelijk uitoefenen van zijn op grond van dit besluit toegekende bevoegdheden.
+1. De directeur-generaal kan ondermandaat en machtiging verlenen aan onder hem ressorterende functionarissen tot het geheel of gedeeltelijk uitoefenen van zijn op grond van dit besluit toegekende bevoegdheden.
 
 2. Besluiten tot verlening van ondermandaat en machtiging worden in afschrift gezonden aan het Ministerie van Volksgezondheid, Welzijn en Sport ten behoeve van het centraal register, bedoeld in [artikel 17, van de Mandaatregeling VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&artikel=17).
 

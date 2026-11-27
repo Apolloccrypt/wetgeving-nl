@@ -9,7 +9,7 @@ laatste_update: 1994-01-04
 status: geldig
 toestand: 1994-01-04
 bron: "https://wetten.overheid.nl/BWBR0006314"
-opgehaald: 2026-09-28
+opgehaald: 2026-11-27
 ---
 
 # Aanwijzing gemeente Utrecht als vestigingsplaats speelcasino

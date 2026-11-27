@@ -4,11 +4,11 @@ identifier: "BWBR0051894"
 categorie: "Overig"
 soort: "ministeriele-regeling"
 publicatiedatum: 2025-12-04
-laatste_update: 2026-07-11
+laatste_update: 2026-11-21
 status: geldig
-toestand: 2026-07-11
+toestand: 2026-11-21
 bron: "https://wetten.overheid.nl/BWBR0051894"
-opgehaald: 2026-11-08
+opgehaald: 2026-11-27
 ---
 
 # Regeling reüniefaciliteiten Defensie
@@ -41,7 +41,7 @@ In deze regeling wordt verstaan onder:
 
 - *reünieregister* een register waarin reünieverenigingen zijn opgenomen die over een reüniecertificaat beschikken;
 
-- *reünievereniging* een bij de Kamer van Koophandel ingeschreven vereniging van veteranen, militaire oorlogs- en dienstslachtoffers of postactieven die als doel heeft om de onderlinge contacten tussen haar leden dan wel de contacten tussen de leden van reünieverenigingen en het actieve defensiepersoneel te bevorderen en te onderhouden.
+- *reünievereniging* een bij de Kamer van Koophandel ingeschreven vereniging of stichting van veteranen, militaire oorlogs- en dienstslachtoffers of postactieven die als doel heeft om de onderlinge contacten tussen haar leden dan wel de contacten tussen de leden van reünieverenigingen en het actieve defensiepersoneel te bevorderen en te onderhouden.
 
 ##### Artikel 2. Toekenning reüniecertificaat en opneming in reünieregister
 
@@ -49,7 +49,7 @@ In deze regeling wordt verstaan onder:
 
 2. De reünievereniging geeft jaarlijks wijzigingen in het aantal leden van de ledenlijst of donateurslijst door aan het defensieonderdeel, bedoeld in het eerste lid.
 
-3. Indien naar het oordeel van het hoofd defensieonderdeel, na consultering van het Nederlands Veteraneninstituut, de reünievereniging voldoet aan de omschrijving, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051894&artikel=1&z=2026-07-11&g=2026-07-11), beslist het hoofd defensieonderdeel namens Onze Minister of het reüniecertificaat wordt toegekend.
+3. Indien naar het oordeel van het hoofd defensieonderdeel, na consultering van het Nederlands Veteraneninstituut, de reünievereniging voldoet aan de omschrijving, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051894&artikel=1&z=2026-11-21&g=2026-11-21), beslist het hoofd defensieonderdeel namens Onze Minister of het reüniecertificaat wordt toegekend.
 
 4. Na toekenning wordt door zorg van het Nederlands Veteraneninstituut het reüniecertificaat opgenomen in het reünieregister en verstrekt aan de reünievereniging.
 
@@ -75,7 +75,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 5. Belangenvereniging
 
-1. Een belangenvereniging kan ten laste van Defensie per kalenderjaar eenmalig aanspraak maken op een tegemoetkoming in de kosten van een reünie die als doel heeft om de onderlinge contacten tussen haar leden dan wel de contacten tussen de leden van de belangenvereniging en het actieve defensiepersoneel te bevorderen en te onderhouden, tot een maximum normbedrag als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051894&artikel=3&z=2026-07-11&g=2026-07-11), per lid, ongeacht of de reünie al dan niet plaatsvindt op een defensielocatie.
+1. Een belangenvereniging kan ten laste van Defensie per kalenderjaar eenmalig aanspraak maken op een tegemoetkoming in de kosten van een reünie die als doel heeft om de onderlinge contacten tussen haar leden dan wel de contacten tussen de leden van de belangenvereniging en het actieve defensiepersoneel te bevorderen en te onderhouden, tot een maximum normbedrag als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051894&artikel=3&z=2026-11-21&g=2026-11-21), per lid, ongeacht of de reünie al dan niet plaatsvindt op een defensielocatie.
 
 2. De tegemoetkoming geldt voor elk lid van een belangenvereniging die zich heeft aangemeld voor de reünie, alsmede voor elke:
 
@@ -83,7 +83,7 @@ In deze regeling wordt verstaan onder:
 
 - b. begeleider van een lid van een belangenvereniging, indien dit lid om sociaal-medische redenen niet zelfstandig naar een reünie kan reizen of niet zelfstandig kan bijwonen.
 
-3. De aanvraag voor de tegemoetkoming wordt door een belangenvereniging ingediend bij commandant Divisie Personeel en Organisatie Defensie die tevens zorg draagt voor de ondersteuning bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0051894&artikel=4&z=2026-07-11&g=2026-07-11).
+3. De aanvraag voor de tegemoetkoming wordt door een belangenvereniging ingediend bij commandant Divisie Personeel en Organisatie Defensie die tevens zorg draagt voor de ondersteuning bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0051894&artikel=4&z=2026-11-21&g=2026-11-21).
 
 ##### Artikel 6. Intrekking
 
@@ -91,7 +91,7 @@ De [Regeling reüniefaciliteiten veteranen, oorlogs- en dienstslachtoffers en po
 
 ##### Artikel 7. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt ten aanzien van [artikel 1, rechthebbenden, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0051894&artikel=1&z=2026-07-11&g=2026-07-11), en [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051894&artikel=3&z=2026-07-11&g=2026-07-11), terug tot en met 1 januari 2024.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt ten aanzien van [artikel 1, rechthebbenden, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0051894&artikel=1&z=2026-11-21&g=2026-11-21), en [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051894&artikel=3&z=2026-11-21&g=2026-11-21), terug tot en met 1 januari 2024.
 
 ##### Artikel 8. Citeertitel
 

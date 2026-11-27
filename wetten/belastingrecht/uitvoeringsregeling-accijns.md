@@ -8,7 +8,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0005355"
-opgehaald: 2026-09-27
+opgehaald: 2026-11-27
 ---
 
 # Uitvoeringsregeling accijns

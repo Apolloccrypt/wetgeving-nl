@@ -9,7 +9,7 @@ laatste_update: 1994-01-19
 status: geldig
 toestand: 1994-01-19
 bron: "https://wetten.overheid.nl/BWBR0006322"
-opgehaald: 2026-09-28
+opgehaald: 2026-11-27
 ---
 
 # Wet van 15 december 1993, houdende maatregelen in verband met de financiële positie van het Spoorwegpensioenfonds

@@ -8,7 +8,7 @@ laatste_update: 1993-07-12
 status: geldig
 toestand: 1993-07-12
 bron: "https://wetten.overheid.nl/BWBR0006063"
-opgehaald: 2026-09-28
+opgehaald: 2026-11-27
 ---
 
 # Regeling auteursrecht handboek huisstijl en logo politie

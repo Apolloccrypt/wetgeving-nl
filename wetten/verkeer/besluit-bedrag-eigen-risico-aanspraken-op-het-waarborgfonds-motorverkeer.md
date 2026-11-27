@@ -9,7 +9,7 @@ laatste_update: 2007-06-11
 status: geldig
 toestand: 2007-06-11
 bron: "https://wetten.overheid.nl/BWBR0005115"
-opgehaald: 2026-09-27
+opgehaald: 2026-11-27
 ---
 
 # Besluit van 18 juni 1991, houdende vaststelling van het bedrag bedoeld in artikel 26, vierde lid, van de Wet aansprakelijkheidsverzekering Motorrijtuigen

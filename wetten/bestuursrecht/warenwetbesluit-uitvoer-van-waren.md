@@ -9,7 +9,7 @@ laatste_update: 2006-01-01
 status: geldig
 toestand: 2006-01-01
 bron: "https://wetten.overheid.nl/BWBR0006007"
-opgehaald: 2026-09-27
+opgehaald: 2026-11-27
 ---
 
 # Besluit van 1 juni 1993, houdende Warenwetbesluit Uitvoer van waren

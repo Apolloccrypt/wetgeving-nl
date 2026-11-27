@@ -9,7 +9,7 @@ laatste_update: 2009-08-01
 status: geldig
 toestand: 2009-08-01
 bron: "https://wetten.overheid.nl/BWBR0006257"
-opgehaald: 2026-09-28
+opgehaald: 2026-11-27
 ---
 
 # Besluit van 17 november 1993, houdende regels voor het verhaal van kosten van invordering van kinderalimentaties

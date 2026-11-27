@@ -9,7 +9,7 @@ laatste_update: 1994-02-18
 status: geldig
 toestand: 1994-02-18
 bron: "https://wetten.overheid.nl/BWBR0006232"
-opgehaald: 2026-09-28
+opgehaald: 2026-11-27
 ---
 
 # Wet van 8 november 1993, houdende wijziging van de Luchtvaartwet met betrekking tot luchtvervoersvergunningen

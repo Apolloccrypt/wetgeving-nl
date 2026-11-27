@@ -9,7 +9,7 @@ laatste_update: 1998-08-01
 status: geldig
 toestand: 1998-08-01
 bron: "https://wetten.overheid.nl/BWBR0006329"
-opgehaald: 2026-09-28
+opgehaald: 2026-11-27
 ---
 
 # Wet van 16 december 1993, tot wijziging van de Wet op de belasting van personenauto's en motorrijwielen 1992 in verband met verruiming van het begrip personenauto

@@ -9,7 +9,7 @@ laatste_update: 2024-07-01
 status: geldig
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0005730"
-opgehaald: 2026-09-27
+opgehaald: 2026-11-27
 ---
 
 # Circulaire van de Minister-President van 18 november 1992

@@ -9,7 +9,7 @@ laatste_update: 1993-07-14
 status: geldig
 toestand: 1993-07-14
 bron: "https://wetten.overheid.nl/BWBR0006028"
-opgehaald: 2026-09-28
+opgehaald: 2026-11-27
 ---
 
 # Besluit van 24 juni 1993, houdende regels betreffende de wijze waarop met de daarvoor in aanmerking komende vertegenwoordigers van de rampbestrijders overleg wordt gepleegd over de voorschriften die ter uitvoering van de Wet rechtspositionele voorzieningen rampbestrijders worden gesteld

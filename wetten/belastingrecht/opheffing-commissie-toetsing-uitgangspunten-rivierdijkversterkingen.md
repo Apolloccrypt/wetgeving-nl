@@ -8,7 +8,7 @@ laatste_update: 1993-05-03
 status: geldig
 toestand: 1993-05-03
 bron: "https://wetten.overheid.nl/BWBR0005955"
-opgehaald: 2026-09-27
+opgehaald: 2026-11-27
 ---
 
 # Opheffing Commissie toetsing uitgangspunten rivierdijkversterkingen

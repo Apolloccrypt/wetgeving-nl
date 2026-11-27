@@ -9,7 +9,7 @@ laatste_update: 2026-11-19
 status: geldig
 toestand: 2026-11-19
 bron: "https://wetten.overheid.nl/BWBR0053392"
-opgehaald: 2026-11-26
+opgehaald: 2026-11-27
 ---
 
 # Besluit van de Minister van Financiën van 2 november 2026, kenmerk 2026-0000408686, houdende instelling van een externe commissie ter evaluatie van de Inspectie belastingen, toeslagen en douane (Instellingsbesluit Evaluatiecommissie IBTD)

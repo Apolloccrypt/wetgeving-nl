@@ -9,7 +9,7 @@ laatste_update: 1994-04-01
 status: geldig
 toestand: 1994-04-01
 bron: "https://wetten.overheid.nl/BWBR0006137"
-opgehaald: 2026-09-28
+opgehaald: 2026-11-27
 ---
 
 # Wet van 9 september 1993, tot gemeentelijke herindeling in het noordoostelijke deel van de provincie Noord-Brabant

@@ -9,7 +9,7 @@ laatste_update: 1991-11-01
 status: geldig
 toestand: 1991-11-01
 bron: "https://wetten.overheid.nl/BWBR0005188"
-opgehaald: 2026-09-27
+opgehaald: 2026-11-27
 ---
 
 # Besluit van 30 augustus 1991, houdende instelling van een gemengde ambtelijke werkgroep met als taak de voorbereiding van de vereenvoudiging en modernisering van het Statuut voor het Koninkrijk der Nederlanden

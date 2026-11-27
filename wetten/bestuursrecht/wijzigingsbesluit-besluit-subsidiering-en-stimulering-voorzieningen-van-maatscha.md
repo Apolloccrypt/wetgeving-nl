@@ -9,7 +9,7 @@ laatste_update: 1993-09-01
 status: geldig
 toestand: 1993-09-01
 bron: "https://wetten.overheid.nl/BWBR0006121"
-opgehaald: 2026-09-28
+opgehaald: 2026-11-27
 ---
 
 # Besluit van 25 augustus 1993, houdende wijziging van het Besluit subsidiëring en stimulering voorzieningen van maatschappelijk en sociaal-cultureel welzijn

@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-11-23
 toestand: 2021-11-24
 bron: "https://wetten.overheid.nl/BWBR0045739"
-opgehaald: 2026-11-26
+opgehaald: 2026-11-27
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 8 oktober 2021 nr. BOACAT2021/044, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Papendrecht in het domein I Openbare Ruimte

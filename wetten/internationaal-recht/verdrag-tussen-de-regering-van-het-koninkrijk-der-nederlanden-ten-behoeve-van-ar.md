@@ -7,7 +7,7 @@ laatste_update: 2025-10-28
 status: geldig
 toestand: 2025-10-28
 bron: "https://wetten.overheid.nl/BWBV0007118"
-opgehaald: 2026-11-26
+opgehaald: 2026-11-27
 ---
 
 # Verdrag tussen de regering van het Koninkrijk der Nederlanden ten behoeve van Aruba en de regering van de Verenigde Staten van Amerika inzake douane-voorinspectie

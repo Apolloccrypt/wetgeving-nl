@@ -9,7 +9,7 @@ laatste_update: 2026-11-17
 status: geldig
 toestand: 2026-11-17
 bron: "https://wetten.overheid.nl/BWBR0041519"
-opgehaald: 2026-11-26
+opgehaald: 2026-11-27
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 29 oktober 2018, nr. 2388102/18/DP&O, houdende verlening van mandaat, volmacht en machtiging (Mandaatbesluit Ministerie van Justitie en Veiligheid)

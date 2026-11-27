@@ -4,12 +4,12 @@ citeertitel: "Mandaatbesluit Rijksdienst voor Ondernemend Nederland inzake de Su
 identifier: "BWBR0049815"
 categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-publicatiedatum: 2024-06-19
-laatste_update: 2024-06-19
+publicatiedatum: 2026-11-12
+laatste_update: 2026-11-20
 status: geldig
-toestand: 2024-06-19
+toestand: 2026-11-20
 bron: "https://wetten.overheid.nl/BWBR0049815"
-opgehaald: 2026-11-05
+opgehaald: 2026-11-27
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 5 september 2022, kenmerk 3424323-1033616-GMT, houdende verlening van mandaat, volmacht en machtiging aan de Rijksdienst voor Ondernemend Nederland in verband met de subsidieverstrekking inzake subsidiëring van activiteiten die binnen de reikwijdte van Important Projects of Common European Interest op het gebied van Health vallen (Mandaatbesluit Rijksdienst voor Ondernemend Nederland inzake de Subsidieregeling IPCEI Health)
@@ -20,27 +20,41 @@ In dit besluit wordt verstaan onder:
 
 - a. *Minister:* de Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. *algemeen directeur:* de algemeen directeur Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken en Klimaat.
+- b. *directeur-generaal:* de directeur-generaal Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken en Klimaat.
 
 ##### Artikel 2
 
-Aan de algemeen directeur wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten op grond van de [Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455) en het verrichten van alle benodigde werkzaamheden, waaronder het tekenen van stukken, ter voorbereiding en uitvoering van de [Subsidieregeling IPCEI Health](https://wetten.overheid.nl/jci1.3:c:BWBR0046873).
+Aan de directeur-generaal wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten op grond van de [Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455) en het verrichten van alle benodigde werkzaamheden, waaronder het tekenen van stukken, ter voorbereiding en uitvoering van de [Subsidieregeling IPCEI Health](https://wetten.overheid.nl/jci1.3:c:BWBR0046873).
 
 ##### Artikel 3
 
-Aan de algemeen directeur wordt:
+Aan de directeur-generaal wordt:
 
-- a. mandaat verleend tot het beslissen op bezwaarschriften tegen besluiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049815&artikel=2&z=2024-06-19&g=2024-06-19), voor zover het besluit waartegen het bezwaar zich richt, niet door hem in mandaat is genomen;
+- a. mandaat verleend tot het beslissen op bezwaarschriften tegen besluiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049815&artikel=2&z=2026-11-20&g=2026-11-20), voor zover het besluit waartegen het bezwaar zich richt, niet door hem in mandaat is genomen;
 
 - b. machtiging verleend ten aanzien van verweer- en beroepschriften in administratieve procedures, het vertegenwoordigen van de Minister in deze procedures en tot het afdoen van alle stukken en het verrichten van alle feitelijke handelingen die daarop betrekking hebben.
 
+##### Artikel 3a
+
+1. De directeur-generaal kan aan de algemeen directeur van het Centraal Justitieel Incassobureau ondermandaat, volmacht en machtiging verlenen voor het uitvaardigen van dwangbevelen en de daaruit voortvloeiende uitvoering van executiegeschillen, en voor het treffen van betalingsregelingen. De directeur-generaal kan de algemeen directeur toestaan ondermandaat, volmacht en machtiging te verlenen aan één of meer onder hem ressorterende functionarissen.
+
+2. Aan de directeur-generaal wordt mandaat verleend om beleidsregels vast te stellen ter zake van de uitoefening van de krachtens het eerste lid aan de algemeen directeur van het Centraal Justitieel Incassobureau toekomende bevoegdheden.
+
+##### Artikel 3b
+
+Aan de directeur-generaal wordt mandaat verleend tot het nemen van een besluit als bedoeld in [artikel 2:13, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:13) tot aanwijzing per type bericht van een voldoende betrouwbare en vertrouwelijke wijze van verzenden.
+
+##### Artikel 3c
+
+De directeur-generaal wordt mandaat, volmacht en machtiging verleend om vorderingen op derden tot een bedrag van € 1.500.000,– inclusief BTW buiten invordering te stellen of kwijt te schelden indien blijkt dat de vordering niet invorderbaar is.
+
 ##### Artikel 4
 
-Bij afwezigheid of verhindering van de algemeen directeur worden, voor de duur van de afwezigheid of verhindering, diens bevoegdheden uitgeoefend door de plaatsvervanger, behoudens de bevoegdheid tot het verlenen van een ondermandaat, volmacht of machtiging.
+Bij afwezigheid of verhindering van de directeur-generaal worden, voor de duur van de afwezigheid of verhindering, diens bevoegdheden uitgeoefend door de plaatsvervanger, behoudens de bevoegdheid tot het verlenen van een ondermandaat, volmacht of machtiging.
 
 ##### Artikel 5
 
-1. De algemeen directeur kan ondermandaat, volmacht en machtiging verlenen aan onder hem ressorterende functionarissen tot het geheel of gedeeltelijk uitoefenen van zijn op grond van dit besluit toegekende bevoegdheden.
+1. De directeur-generaal kan ondermandaat, volmacht en machtiging verlenen aan onder hem ressorterende functionarissen tot het geheel of gedeeltelijk uitoefenen van zijn op grond van dit besluit toegekende bevoegdheden.
 
 2. Besluiten tot verlening van ondermandaat, volmacht en machtiging worden in afschrift gezonden aan het Ministerie van Volksgezondheid, Welzijn en Sport ten behoeve van het centraal register, bedoeld in [artikel 17 van de Mandaatregeling VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&artikel=17) en [artikel 18 van de Volmachtregeling VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&artikel=18).
 

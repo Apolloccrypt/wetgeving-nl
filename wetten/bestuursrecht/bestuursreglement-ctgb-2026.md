@@ -8,7 +8,7 @@ laatste_update: 2026-11-21
 status: geldig
 toestand: 2026-11-21
 bron: "https://wetten.overheid.nl/BWBR0053394"
-opgehaald: 2026-11-26
+opgehaald: 2026-11-27
 ---
 
 # Bestuursreglement Ctgb 2026

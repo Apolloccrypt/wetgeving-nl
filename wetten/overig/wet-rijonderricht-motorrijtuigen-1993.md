@@ -9,7 +9,7 @@ laatste_update: 2021-04-24
 status: geldig
 toestand: 2021-04-24
 bron: "https://wetten.overheid.nl/BWBR0006073"
-opgehaald: 2026-09-28
+opgehaald: 2026-11-27
 ---
 
 # Wet van 7 juli 1993, houdende herziening van de Wet rijonderricht motorrijtuigen

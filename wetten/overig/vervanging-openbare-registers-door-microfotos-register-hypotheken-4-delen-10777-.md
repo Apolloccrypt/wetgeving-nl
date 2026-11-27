@@ -9,7 +9,7 @@ laatste_update: 1993-08-16
 status: geldig
 toestand: 1993-08-16
 bron: "https://wetten.overheid.nl/BWBR0006098"
-opgehaald: 2026-09-28
+opgehaald: 2026-11-27
 ---
 
 # Vervanging openbare registers door microfoto's (kadaster Amsterdam)

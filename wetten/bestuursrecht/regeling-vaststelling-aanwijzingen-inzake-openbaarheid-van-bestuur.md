@@ -8,7 +8,7 @@ laatste_update: 1992-05-01
 status: geldig
 toestand: 1992-05-01
 bron: "https://wetten.overheid.nl/BWBR0005470"
-opgehaald: 2026-09-27
+opgehaald: 2026-11-27
 ---
 
 # Regeling vaststelling aanwijzingen inzake openbaarheid van bestuur

@@ -8,7 +8,7 @@ laatste_update: 1993-08-22
 status: geldig
 toestand: 1993-08-22
 bron: "https://wetten.overheid.nl/BWBR0006091"
-opgehaald: 2026-09-28
+opgehaald: 2026-11-27
 ---
 
 # Regeling financiering Landelijk selectie- en opleidingsinstituut politie

@@ -8,7 +8,7 @@ laatste_update: 1993-05-01
 status: geldig
 toestand: 1993-05-01
 bron: "https://wetten.overheid.nl/BWBR0005847"
-opgehaald: 2026-09-27
+opgehaald: 2026-11-27
 ---
 
 # Typegoedkeuring motorvoertuigen in EG-kader

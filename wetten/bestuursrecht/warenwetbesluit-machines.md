@@ -9,7 +9,7 @@ laatste_update: 2020-02-01
 status: geldig
 toestand: 2020-02-01
 bron: "https://wetten.overheid.nl/BWBR0005577"
-opgehaald: 2026-09-27
+opgehaald: 2026-11-27
 ---
 
 # Besluit van 30 juni 1992 houdende regelen betreffende de veiligheid van machines

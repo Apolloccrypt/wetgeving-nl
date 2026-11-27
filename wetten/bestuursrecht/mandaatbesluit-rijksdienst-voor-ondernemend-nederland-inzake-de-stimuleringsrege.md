@@ -4,39 +4,53 @@ citeertitel: "Mandaatbesluit Rijksdienst voor Ondernemend Nederland inzake de St
 identifier: "BWBR0043915"
 categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-publicatiedatum: 2020-07-23
-laatste_update: 2020-07-23
+publicatiedatum: 2026-11-12
+laatste_update: 2026-11-20
 status: geldig
-toestand: 2020-07-23
+toestand: 2026-11-20
 bron: "https://wetten.overheid.nl/BWBR0043915"
-opgehaald: 2026-10-28
+opgehaald: 2026-11-27
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 20 juli 2020, houdende verlening van mandaat en machtiging aan de Rijksdienst voor Ondernemend Nederland in verband met de subsidieverstrekking inzake de stimulering van e-health thuis ten tijde van de coronacrisis (Mandaatbesluit Rijksdienst voor Ondernemend Nederland inzake de Stimuleringsregeling E-health Thuis COVID-19 2.0)
 
 ##### Artikel 1
 
-Aan de algemeen directeur Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken en Klimaat, verder te noemen de algemeen directeur, wordt mandaat verleend tot:
+Aan de directeur-generaal Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken en Klimaat, verder te noemen de directeur-generaal, wordt mandaat verleend tot:
 
-- a. het nemen van besluiten op grond van de [Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455) voor zover het gaat om subsidies op grond van de Stimuleringsregeling E-health Thuis COVID-19 2.0, en
+- a. het nemen van besluiten op grond van de [Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455) voor zover het gaat om subsidies op grond van de [Stimuleringsregeling E-health Thuis COVID-19 2.0](https://wetten.overheid.nl/jci1.3:c:BWBR0043914), en
 
 - b. het beslissen op bezwaarschriften tegen besluiten als bedoeld in onderdeel a, voor zover het besluit waartegen het bezwaar zich richt, niet door hem in mandaat is genomen.
 
 ##### Artikel 2
 
-De algemeen directeur is gemachtigd:
+De directeur-generaal is gemachtigd:
 
-- a. tot het verrichten van alle feitelijke handelingen en het afdoen van alle stukken die betrekking hebben op besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043915&artikel=1&z=2020-07-23&g=2020-07-23), en
+- a. tot het verrichten van alle feitelijke handelingen en het afdoen van alle stukken die betrekking hebben op besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043915&artikel=1&z=2026-11-20&g=2026-11-20), en
 
 - b. ten aanzien van verweer- en beroepschriften in administratiefrechtelijke procedures, het vertegenwoordigen van de minister in deze procedures en tot het afdoen van alle stukken en het verrichten van alle feitelijke handelingen die daarop betrekking hebben.
 
 ##### Artikel 3
 
-Bij afwezigheid of verhindering van de algemeen directeur worden, voor de duur van de afwezigheid of verhindering, diens bevoegdheden uitgeoefend door de plaatsvervanger, behoudens de bevoegdheid tot het verlenen van een ondermandaat en machtiging.
+Bij afwezigheid of verhindering van de directeur-generaal worden, voor de duur van de afwezigheid of verhindering, diens bevoegdheden uitgeoefend door de plaatsvervanger, behoudens de bevoegdheid tot het verlenen van een ondermandaat en machtiging.
+
+##### Artikel 3a
+
+1. De directeur-generaal kan aan de algemeen directeur van het Centraal Justitieel Incassobureau ondermandaat, volmacht en machtiging verlenen voor het uitvaardigen van dwangbevelen en de daaruit voortvloeiende uitvoering van executiegeschillen, en voor het treffen van betalingsregelingen. De directeur-generaal kan de algemeen directeur toestaan ondermandaat, volmacht en machtiging te verlenen aan één of meer onder hem ressorterende functionarissen.
+
+2. Aan de directeur-generaal wordt mandaat verleend om beleidsregels vast te stellen ter zake van de uitoefening van de krachtens het eerste lid aan de algemeen directeur van het Centraal Justitieel Incassobureau toekomende bevoegdheden.
+
+##### Artikel 3b
+
+Aan de directeur-generaal wordt mandaat verleend tot het nemen van een besluit als bedoeld in [artikel 2:13, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:13) tot aanwijzing per type bericht van een voldoende betrouwbare en vertrouwelijke wijze van verzenden.
+
+##### Artikel 3c
+
+De directeur-generaal wordt mandaat, volmacht en machtiging verleend om vorderingen op derden tot een bedrag van € 1.500.000,– inclusief BTW buiten invordering te stellen of kwijt te schelden indien blijkt dat de vordering niet invorderbaar is.
 
 ##### Artikel 4
 
-1. De algemeen directeur kan ondermandaat en machtiging verlenen aan onder hem ressorterende functionarissen tot het geheel of gedeeltelijk uitoefenen van zijn op grond van dit besluit toegekende bevoegdheden.
+1. De directeur-generaal kan ondermandaat en machtiging verlenen aan onder hem ressorterende functionarissen tot het geheel of gedeeltelijk uitoefenen van zijn op grond van dit besluit toegekende bevoegdheden.
 
 2. Besluiten tot verlening van ondermandaat en machtiging worden in afschrift gezonden aan het Ministerie van Volksgezondheid, Welzijn en Sport ten behoeve van het centraal register, bedoeld in [artikel 17 van de Mandaatregeling VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&artikel=17).
 

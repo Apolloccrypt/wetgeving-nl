@@ -9,7 +9,7 @@ laatste_update: 2026-11-26
 status: geldig
 toestand: 2026-11-26
 bron: "https://wetten.overheid.nl/BWBR0009900"
-opgehaald: 2026-11-26
+opgehaald: 2026-11-27
 ---
 
 # Regeling tot vaststelling van nieuwe regelen inzake vliegplannen

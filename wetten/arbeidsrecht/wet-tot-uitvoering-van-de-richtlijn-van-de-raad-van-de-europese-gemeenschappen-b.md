@@ -9,7 +9,7 @@ laatste_update: 1997-04-01
 status: geldig
 toestand: 1997-04-01
 bron: "https://wetten.overheid.nl/BWBR0006282"
-opgehaald: 2026-09-28
+opgehaald: 2026-11-27
 ---
 
 # Wet van 2 december 1993, tot uitvoering van de richtlijn van de Raad van de Europese Gemeenschappen betreffende informatie van de werknemer over zijn arbeidsovereenkomst of arbeidsverhouding

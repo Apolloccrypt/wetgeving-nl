@@ -9,7 +9,7 @@ laatste_update: 2026-11-19
 status: geldig
 toestand: 2026-11-19
 bron: "https://wetten.overheid.nl/BWBR0037533"
-opgehaald: 2026-11-26
+opgehaald: 2026-11-27
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 5 januari 2016, nr. WJZ/717829 (10547), houdende regels over het beheer van de rijkscollectie, de subsidiëring van instellingen met een wettelijke taak tot beheer van collecties en enkele technische aanpassingen (Regeling beheer rijkscollectie en subsidiëring museale instellingen)

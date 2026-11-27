@@ -8,7 +8,7 @@ laatste_update: 2009-07-01
 status: geldig
 toestand: 2009-07-01
 bron: "https://wetten.overheid.nl/BWBR0005366"
-opgehaald: 2026-09-27
+opgehaald: 2026-11-27
 ---
 
 # Regeling opvang asielzoekers

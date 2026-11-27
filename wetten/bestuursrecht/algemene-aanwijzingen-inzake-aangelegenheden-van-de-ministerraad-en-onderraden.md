@@ -9,7 +9,7 @@ laatste_update: 1992-05-01
 status: geldig
 toestand: 1992-05-01
 bron: "https://wetten.overheid.nl/BWBR0005471"
-opgehaald: 2026-09-27
+opgehaald: 2026-11-27
 ---
 
 # Circulaire van 10 april 1992

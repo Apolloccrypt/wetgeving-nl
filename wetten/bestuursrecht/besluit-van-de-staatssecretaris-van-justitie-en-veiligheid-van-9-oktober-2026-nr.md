@@ -9,7 +9,7 @@ laatste_update: 2026-11-26
 status: geldig
 toestand: 2026-11-26
 bron: "https://wetten.overheid.nl/BWBR0053202"
-opgehaald: 2026-11-26
+opgehaald: 2026-11-27
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 9 oktober 2026 nr. BOACAT2026/066, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Hulst

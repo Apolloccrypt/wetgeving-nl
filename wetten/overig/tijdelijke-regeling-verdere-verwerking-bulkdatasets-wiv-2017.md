@@ -5,11 +5,11 @@ identifier: "BWBR0044304"
 categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
 publicatiedatum: 2020-11-06
-laatste_update: 2020-11-06
+laatste_update: 2026-11-21
 status: geldig
-toestand: 2020-11-06
+toestand: 2026-11-21
 bron: "https://wetten.overheid.nl/BWBR0044304"
-opgehaald: 2026-10-29
+opgehaald: 2026-11-27
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Defensie van 3 november 2020, nr. 2020-0000611095, houdende nadere regels met betrekking tot enkele aspecten van de werkwijze inzake de verdere verwerking van bulkdatasets verworven door de AIVD en MIVD op grond van de Wiv 2017 (Tijdelijke regeling verdere verwerking bulkdatasets Wiv 2017)
@@ -68,7 +68,7 @@ Deze regeling is van toepassing op de verdere verwerking van door de diensten ve
 
 1. Een binnen de dienst of ingevolge [artikel 91 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=91) ten behoeve van de AIVD werkzame ambtenaar onderscheidenlijk ingevolge [artikel 92](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=92) ten behoeve van de MIVD werkzame ambtenaar, is, voor zover dat noodzakelijk is voor een goede uitvoering van de aan de desbetreffende ambtenaar opgedragen taak, bevoegd tot het bevragen van de bij de desbetreffende dienst aanwezige bulkdatasets.
 
-2. De verkrijging van de aan de bevraging gerelateerde gegevens geschiedt met inachtneming van het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044304&artikel=5&z=2020-11-06&g=2020-11-06), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0044304&artikel=6&z=2020-11-06&g=2020-11-06) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0044304&artikel=7&z=2020-11-06&g=2020-11-06).
+2. De verkrijging van de aan de bevraging gerelateerde gegevens geschiedt met inachtneming van het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044304&artikel=5&z=2026-11-21&g=2026-11-21), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0044304&artikel=6&z=2026-11-21&g=2026-11-21) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0044304&artikel=7&z=2026-11-21&g=2026-11-21).
 
 ##### Artikel 5. Standaard toegangsregime
 
@@ -84,13 +84,15 @@ De verkrijging van in bulkdatasets met een beperkt toegangsregime opgenomen gege
 
 ##### Artikel 7. Strikt beperkt toegangsregime
 
-1. De verkrijging in bulkdatasets met een strikt beperkt toegangsregime opgenomen gegevens is uitsluitend toegestaan door:
+1. De verkrijging van in bulkdatasets met een strikt beperkt toegangsregime opgenomen gegevens is uitsluitend toegestaan door:
 
 - a. daartoe door het hoofd van de dienst aangewezen functiegroepen;
 
 - b. een daartoe door het hoofd van de dienst aangewezen team op een daartoe strekkend verzoek van het unithoofd onderscheidenlijk het afdelingshoofd en na advies van de betrokken afdeling Juridische Zaken. Het verzoek bevat de reden waarom verkrijging van de in de bulkdataset opgenomen gegevens door het desbetreffende team noodzakelijk is. Een toestemming wordt verleend voor de duur van ten hoogste 12 maanden en kan telkens op een daartoe strekkend verzoek voor eenzelfde periode worden verlengd.
 
 2. De verkrijging van de gegevens door een ingevolge het eerste lid, onder b, aangewezen team, vindt slechts plaats op basis van kenmerken gerelateerd aan het desbetreffende onderzoek die door het teamhoofd onderscheidenlijk de teamleider dan wel het bureauhoofd zijn vastgesteld. Kenmerken worden voorzien van een toereikende motivering in relatie tot het onderzoek waarvoor ze dienen te worden toegepast.
+
+3. Ten behoeve van veiligheidsonderzoeken als bedoeld in de [Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277) kan het hoofd van de dienst categorieën van kenmerken vaststellen op basis waarvan gegevens worden verkregen voor veiligheidsonderzoeken. De vaststelling geldt voor de duur van ten hoogste 12 maanden en kan telkens voor de duur van ten hoogste 12 maanden worden verlengd. De categorieën worden voorzien van een toereikende motivering in relatie tot het toepassen van kenmerken uit de betreffende categorie voor veiligheidsonderzoeken. In afwijking van het tweede lid worden individuele kenmerken uit vastgestelde categorieën niet vastgesteld of gemotiveerd indien en voor zover de verkrijging van gegevens op basis van deze kenmerken vast onderdeel is van veiligheidsonderzoeken.
 
 ##### Artikel 8. Periodieke beoordeling noodzaak tot verwijdering bulkdatasets
 
@@ -104,7 +106,7 @@ Onverminderd het bepaalde in [artikel 20, eerste lid, van de wet](https://wetten
 
 ##### Artikel 9. Overgangsbepaling
 
-Voor de toepassing van het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044304&artikel=8&z=2020-11-06&g=2020-11-06) wordt, waar het reeds bij de diensten aanwezige bulkdatasets betreft, de datum van inwerkingtreding van deze regeling aangemerkt als de datum waarop voor deze bulkdatasets is vastgesteld dat deze betekenis hebben als bedoeld in [artikel 20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=20).
+Voor de toepassing van het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044304&artikel=8&z=2026-11-21&g=2026-11-21) wordt, waar het reeds bij de diensten aanwezige bulkdatasets betreft, de datum van inwerkingtreding van deze regeling aangemerkt als de datum waarop voor deze bulkdatasets is vastgesteld dat deze betekenis hebben als bedoeld in [artikel 20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=20).
 
 ##### Artikel 10. Verstrekking bulkdatasets
 

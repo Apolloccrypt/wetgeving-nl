@@ -9,7 +9,7 @@ laatste_update: 1991-12-06
 status: geldig
 toestand: 1991-12-06
 bron: "https://wetten.overheid.nl/BWBR0005275"
-opgehaald: 2026-09-27
+opgehaald: 2026-11-27
 ---
 
 # Wet van 14 november 1991, houdende enige wijzigingen van de Grondwaterwet en van de Wet bodembescherming met betrekking tot infiltraties

@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0006298"
-opgehaald: 2026-09-28
+opgehaald: 2026-11-27
 ---
 
 # Wet van 9 december 1993, houdende voorschriften inzake uitbetaling en verhoging van Surinaams pensioen voor Surinaams gepensioneerden in Nederland

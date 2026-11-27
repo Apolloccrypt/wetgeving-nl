@@ -9,7 +9,7 @@ laatste_update: 1993-12-23
 status: geldig
 toestand: 1993-12-23
 bron: "https://wetten.overheid.nl/BWBR0006284"
-opgehaald: 2026-09-28
+opgehaald: 2026-11-27
 ---
 
 # Wet van 2 december 1993, tot wijziging van de Wet op de kansspelen in verband met het organiseren van de instantloterij

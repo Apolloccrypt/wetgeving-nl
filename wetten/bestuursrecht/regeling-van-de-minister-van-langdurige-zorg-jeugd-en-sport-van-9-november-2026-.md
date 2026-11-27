@@ -9,7 +9,7 @@ laatste_update: 2026-11-19
 status: geldig
 toestand: 2026-11-19
 bron: "https://wetten.overheid.nl/BWBR0053387"
-opgehaald: 2026-11-26
+opgehaald: 2026-11-27
 ---
 
 # Regeling van de Minister van Langdurige Zorg, Jeugd en Sport van 9 november 2026, kenmerk 4565889-1106265-SB, houdende het verstrekken van een specifieke uitkering voor de gemeentelijke uitgaven aan sportinfrastructuur en de Brede Regeling Combinatiefuncties 2027–2029 (Regeling specifieke uitkering sportinfrastructuur en Brede Regeling Combinatiefuncties 2027–2029) [KetenID WGK029661]

@@ -8,7 +8,7 @@ laatste_update: 2026-11-17
 status: geldig
 toestand: 2026-11-17
 bron: "https://wetten.overheid.nl/BWBR0053367"
-opgehaald: 2026-11-26
+opgehaald: 2026-11-27
 ---
 
 # Besluit vaststelling subsidierondes en subsidieplafonds voor de subsidie voor het verlenen van een opdracht compositie of libretto binnen de Deelregeling compositie Fonds Podiumkunsten
