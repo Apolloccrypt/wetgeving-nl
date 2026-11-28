@@ -9,7 +9,7 @@ laatste_update: 1999-12-20
 status: geldig
 toestand: 1999-12-20
 bron: "https://wetten.overheid.nl/BWBR0006926"
-opgehaald: 2026-09-28
+opgehaald: 2026-11-28
 ---
 
 # Besluit van de Minister van Justitie van 19 september 1994, nr. 457711/594/NE, houdende mandaat aan de procureurs-generaal inzake toekenning van politiebevoegdheden aan buitengewoon opsporingsambtenaren

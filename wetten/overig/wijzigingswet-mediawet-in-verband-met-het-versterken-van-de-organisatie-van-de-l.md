@@ -9,7 +9,7 @@ laatste_update: 1995-01-01
 status: geldig
 toestand: 1995-01-01
 bron: "https://wetten.overheid.nl/BWBR0006643"
-opgehaald: 2026-09-28
+opgehaald: 2026-11-28
 ---
 
 # Wet van 28 april 1994, houdende wijziging van bepalingen van de Mediawet in verband met het versterken van de organisatie van de landelijke publieke omroep en het bieden van langdurige zekerheid aan omroepinstellingen

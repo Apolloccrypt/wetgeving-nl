@@ -8,7 +8,7 @@ laatste_update: 1994-08-12
 status: geldig
 toestand: 1994-08-12
 bron: "https://wetten.overheid.nl/BWBR0006835"
-opgehaald: 2026-09-28
+opgehaald: 2026-11-28
 ---
 
 # Klachtenregeling seksuele intimidatie burgerlijk rijkspersoneel

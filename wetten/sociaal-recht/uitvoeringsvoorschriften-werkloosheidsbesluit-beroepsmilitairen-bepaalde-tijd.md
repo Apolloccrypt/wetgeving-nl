@@ -8,7 +8,7 @@ laatste_update: 1995-05-30
 status: geldig
 toestand: 1995-05-30
 bron: "https://wetten.overheid.nl/BWBR0007411"
-opgehaald: 2026-09-29
+opgehaald: 2026-11-28
 ---
 
 # Uitvoeringsvoorschriften werkloosheidsbesluit beroepsmilitairen bepaalde tijd

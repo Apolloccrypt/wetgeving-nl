@@ -9,7 +9,7 @@ laatste_update: 2026-11-17
 status: geldig
 toestand: 2026-11-17
 bron: "https://wetten.overheid.nl/BWBR0053397"
-opgehaald: 2026-11-27
+opgehaald: 2026-11-28
 ---
 
 # Regeling van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur van 17 november 2026, nr. WJZ/109032205 houdende specifieke maatregelen in de beschermings- en de bewakingszone in verband met de bestrijding van hoogpathogene aviaire influenza in Tzummarum (Regeling maatregelen beschermings- en bewakingszone hoogpathogene vogelgriep Tzummarum 2026)

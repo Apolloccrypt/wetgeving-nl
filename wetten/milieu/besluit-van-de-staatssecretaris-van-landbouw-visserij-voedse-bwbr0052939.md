@@ -2,8 +2,8 @@
 title: "Tijdelijke vrijstelling voor de bestrijding van het quarantaineorganisme Scirtothrips dorsalis en Scirtothrips aurantii in de bedekte niet-grondgebonden teelt van boomkwekerijgewassen, 2026"
 identifier: "BWBR0052939"
 categorie: "Overig"
-publicatiedatum: 2026-08-04
-laatste_update: 2026-08-05
+publicatiedatum: 2026-07-30
+laatste_update: 2026-07-30
 status: geldig
 bron: "https://wetten.overheid.nl/BWBR0052939"
 ---
@@ -16,15 +16,13 @@ Gelet op [artikel 38 van de Wet gewasbeschermingsmiddelen en biociden](https://w
 
 BESLUIT:
 
-De datum van inwerkingtreding in de publicatie ligt voor de datum van uitgifte.
-
 ##### Artikel 1
 
 Tijdelijke vrijstelling als bedoeld in [artikel 38 van de Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=38) en artikel 53 van [Verordening (EG) nr. 1107/2009](32009R1107) wordt verleend voor het gebruik van Gazelle voor de bestrijding van de quarantaineorganisme **Scirtothrips dorsalis**en **Scirtothrips auranti** in de bedekte niet-grondgebonden teelt van boomkwekerijgewassen.
 
 ##### Artikel 2
 
-Aan de vrijstelling bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052939&artikel=1&z=2026-08-04&g=2026-08-04) zijn de in de bijlage bij dit besluit opgenomen voorschriften en beperkingen verbonden.
+Aan de vrijstelling bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052939&artikel=1&z=2026-07-30&g=2026-07-30) zijn de in de bijlage bij dit besluit opgenomen voorschriften en beperkingen verbonden.
 
 ##### Artikel 3
 

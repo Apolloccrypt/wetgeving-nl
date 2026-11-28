@@ -9,7 +9,7 @@ laatste_update: 2023-06-01
 status: geldig
 toestand: 2023-06-01
 bron: "https://wetten.overheid.nl/BWBR0007118"
-opgehaald: 2026-09-28
+opgehaald: 2026-11-28
 ---
 
 # Rijkswet van 15 december 1994, houdende regels met betrekking tot octrooien

@@ -9,7 +9,7 @@ laatste_update: 2026-11-20
 status: geldig
 toestand: 2026-11-20
 bron: "https://wetten.overheid.nl/BWBR0042032"
-opgehaald: 2026-11-27
+opgehaald: 2026-11-28
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 13 maart 2019, kenmerk 1498911-188109-DMO, houdende verlening van mandaat, volmacht en machtiging aan de Rijksdienst voor Ondernemend Nederland in verband met de subsidieverstrekking inzake de stimulering van de ontwikkeling en totstandkoming van woonzorgarrangementen (Mandaatbesluit Rijksdienst voor Ondernemend Nederland inzake de Stimuleringsregeling Wonen en Zorg)

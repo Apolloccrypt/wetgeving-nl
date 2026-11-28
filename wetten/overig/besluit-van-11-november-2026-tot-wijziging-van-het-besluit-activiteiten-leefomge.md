@@ -9,7 +9,7 @@ laatste_update: 2026-11-20
 status: geldig
 toestand: 2026-11-20
 bron: "https://wetten.overheid.nl/BWBR0053412"
-opgehaald: 2026-11-27
+opgehaald: 2026-11-28
 ---
 
 # Besluit van 11 november 2026 tot wijziging van het Besluit activiteiten leefomgeving in verband met de tweede verlenging van de tijdelijke overbruggingsregeling windturbineparken (Wijzigingsbesluit tweede verlenging tijdelijke overbruggingsregeling windturbineparken) [KetenID WGK029178]

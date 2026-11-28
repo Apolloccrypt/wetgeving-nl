@@ -8,7 +8,7 @@ laatste_update: 1995-02-01
 status: geldig
 toestand: 1995-02-01
 bron: "https://wetten.overheid.nl/BWBR0007153"
-opgehaald: 2026-09-28
+opgehaald: 2026-11-28
 ---
 
 # Instelling werkgroep fiscaal-technische herziening loon- en inkomstenbelasting

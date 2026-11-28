@@ -8,7 +8,7 @@ laatste_update: 1995-06-02
 status: geldig
 toestand: 1995-06-02
 bron: "https://wetten.overheid.nl/BWBR0007284"
-opgehaald: 2026-09-28
+opgehaald: 2026-11-28
 ---
 
 # Openbaarheid archiefbescheiden Militair Gezag

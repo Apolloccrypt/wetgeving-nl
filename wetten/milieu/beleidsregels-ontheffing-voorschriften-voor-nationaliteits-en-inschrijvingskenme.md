@@ -8,7 +8,7 @@ laatste_update: 1995-08-04
 status: geldig
 toestand: 1995-08-04
 bron: "https://wetten.overheid.nl/BWBR0007492"
-opgehaald: 2026-09-29
+opgehaald: 2026-11-28
 ---
 
 # Beleidsregels ontheffing voorschriften voor nationaliteits- en inschrijvingskenmerken van luchtvaartuigen

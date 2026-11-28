@@ -9,7 +9,7 @@ laatste_update: 2020-04-01
 status: geldig
 toestand: 2020-04-01
 bron: "https://wetten.overheid.nl/BWBR0007399"
-opgehaald: 2026-09-29
+opgehaald: 2026-11-28
 ---
 
 # Verordening inzake de aanwijzing van regionale loodsstations, alsmede inzake de vaststelling van de bevoegdheden van registerloodsen (Bevoegdhedenverordening registerloodsen 1995)

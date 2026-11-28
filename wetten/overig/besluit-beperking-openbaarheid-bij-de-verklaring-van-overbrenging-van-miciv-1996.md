@@ -8,7 +8,7 @@ laatste_update: 2026-11-21
 status: geldig
 toestand: 2026-11-21
 bron: "https://wetten.overheid.nl/BWBR0053403"
-opgehaald: 2026-11-27
+opgehaald: 2026-11-28
 ---
 
 # Besluit beperking openbaarheid bij de Verklaring van Overbrenging van MICIV 1996 en 1999

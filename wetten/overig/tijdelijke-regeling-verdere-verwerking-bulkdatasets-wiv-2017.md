@@ -9,7 +9,7 @@ laatste_update: 2026-11-21
 status: geldig
 toestand: 2026-11-21
 bron: "https://wetten.overheid.nl/BWBR0044304"
-opgehaald: 2026-11-27
+opgehaald: 2026-11-28
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Defensie van 3 november 2020, nr. 2020-0000611095, houdende nadere regels met betrekking tot enkele aspecten van de werkwijze inzake de verdere verwerking van bulkdatasets verworven door de AIVD en MIVD op grond van de Wiv 2017 (Tijdelijke regeling verdere verwerking bulkdatasets Wiv 2017)

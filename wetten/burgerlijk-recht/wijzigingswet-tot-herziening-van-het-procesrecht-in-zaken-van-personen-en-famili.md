@@ -9,7 +9,7 @@ laatste_update: 1995-04-01
 status: geldig
 toestand: 1995-04-01
 bron: "https://wetten.overheid.nl/BWBR0006804"
-opgehaald: 2026-09-28
+opgehaald: 2026-11-28
 ---
 
 # Wet van 7 juli 1994, tot herziening van het procesrecht in zaken van personen- en familierecht

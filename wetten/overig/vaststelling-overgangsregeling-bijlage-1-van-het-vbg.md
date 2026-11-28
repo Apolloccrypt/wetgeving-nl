@@ -8,7 +8,7 @@ laatste_update: 1995-01-01
 status: geldig
 toestand: 1995-01-01
 bron: "https://wetten.overheid.nl/BWBR0007128"
-opgehaald: 2026-09-28
+opgehaald: 2026-11-28
 ---
 
 # Vaststelling overgangsregeling bijlage 1 van het VBG

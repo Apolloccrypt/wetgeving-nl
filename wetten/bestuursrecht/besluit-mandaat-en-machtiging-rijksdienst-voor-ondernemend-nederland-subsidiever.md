@@ -9,7 +9,7 @@ laatste_update: 2026-11-20
 status: geldig
 toestand: 2026-11-20
 bron: "https://wetten.overheid.nl/BWBR0035845"
-opgehaald: 2026-11-27
+opgehaald: 2026-11-28
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 25 november 2014, houdende verlening mandaat en machtiging aan de Rijksdienst voor Ondernemend Nederland subsidieverstrekkingTopsector Life Sciences and Health (Besluit mandaat en machtiging Rijksdienst Ondernemend Nederland subsidieverstrekking Topsector Life Sciences and Health)

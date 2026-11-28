@@ -9,7 +9,7 @@ laatste_update: 2026-11-19
 status: geldig
 toestand: 2026-11-19
 bron: "https://wetten.overheid.nl/BWBR0053386"
-opgehaald: 2026-11-27
+opgehaald: 2026-11-28
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat van 17 november 2026, nr. IENW/BSK-2026/202947, houdende vaststelling van een subsidieplafond en een aanvraagperiode voor subsidies in het kader van de Tijdelijke subsidieregeling onderzoek Topsector Logistiek 2025–2029 voor het jaar 2027

@@ -8,7 +8,7 @@ laatste_update: 1995-10-05
 status: geldig
 toestand: 1995-10-05
 bron: "https://wetten.overheid.nl/BWBR0007546"
-opgehaald: 2026-09-29
+opgehaald: 2026-11-28
 ---
 
 # Instelling Commissie werkbelasting strafkamer Hoge Raad

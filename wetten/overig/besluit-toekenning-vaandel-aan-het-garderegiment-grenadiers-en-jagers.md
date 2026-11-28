@@ -9,7 +9,7 @@ laatste_update: 1995-04-06
 status: geldig
 toestand: 1995-04-06
 bron: "https://wetten.overheid.nl/BWBR0006934"
-opgehaald: 2026-09-28
+opgehaald: 2026-11-28
 ---
 
 # Besluit van 22 september 1994, houdende toekenning vaandel aan het Garderegiment Grenadiers en Jagers

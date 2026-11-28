@@ -9,7 +9,7 @@ laatste_update: 1996-01-12
 status: geldig
 toestand: 1996-01-12
 bron: "https://wetten.overheid.nl/BWBR0007006"
-opgehaald: 2026-09-28
+opgehaald: 2026-11-28
 ---
 
 # Besluit van 4 november 1994, houdende bepalingen met betrekking tot het verkeersbegeleidingstarief

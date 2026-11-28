@@ -9,7 +9,7 @@ laatste_update: 2026-11-21
 status: geldig
 toestand: 2026-11-21
 bron: "https://wetten.overheid.nl/BWBR0046957"
-opgehaald: 2026-11-27
+opgehaald: 2026-11-28
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 12 juli 2022, nr. IENW/BSK-2021/328700, houdende vaststelling van een tijdelijke regeling stimulering van het nemen van maatregelen in het kader van de tweede fase van het Deltaprogramma zoetwater (Tijdelijke regeling stimuleren maatregelen tweede fase Deltaprogramma zoetwater)

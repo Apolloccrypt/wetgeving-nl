@@ -9,7 +9,7 @@ laatste_update: 2026-11-20
 status: geldig
 toestand: 2026-11-20
 bron: "https://wetten.overheid.nl/BWBR0053400"
-opgehaald: 2026-11-27
+opgehaald: 2026-11-28
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 12 november 2026, nr. KenO/1937478, houdende regels voor het verstrekken van subsidie voor het inzetten van een brugfunctie op school (Subsidieregeling brugfunctie 2027–2028)

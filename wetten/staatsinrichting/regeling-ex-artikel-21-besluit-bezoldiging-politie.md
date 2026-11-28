@@ -8,7 +8,7 @@ laatste_update: 2025-04-01
 status: geldig
 toestand: 2025-04-01
 bron: "https://wetten.overheid.nl/BWBR0007332"
-opgehaald: 2026-09-29
+opgehaald: 2026-11-28
 ---
 
 # Regeling ex artikel 21 Besluit bezoldiging politie

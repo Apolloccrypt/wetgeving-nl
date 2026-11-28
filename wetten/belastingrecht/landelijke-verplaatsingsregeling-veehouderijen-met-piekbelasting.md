@@ -9,7 +9,7 @@ laatste_update: 2026-11-21
 status: geldig
 toestand: 2026-11-21
 bron: "https://wetten.overheid.nl/BWBR0050183"
-opgehaald: 2026-11-27
+opgehaald: 2026-11-28
 ---
 
 # Regeling van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur van 28 augustus 2024, nr. WJZ/ 26374198, tot vaststelling van een regeling voor de verstrekking van subsidie voor het verplaatsen van veehouderijen met piekbelasting op natuurgebieden (Landelijke verplaatsingsregeling veehouderijen met piekbelasting)

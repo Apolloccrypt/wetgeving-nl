@@ -9,7 +9,7 @@ laatste_update: 1993-04-01
 status: geldig
 toestand: 1993-04-01
 bron: "https://wetten.overheid.nl/BWBR0007262"
-opgehaald: 2026-09-28
+opgehaald: 2026-11-28
 ---
 
 # Wet van 1 maart 1995, houdende wettelijke grondslag wijziging bezoldiging rechterlijke ambtenaren per 1 april 1993

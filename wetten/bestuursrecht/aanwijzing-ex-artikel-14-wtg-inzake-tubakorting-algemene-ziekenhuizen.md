@@ -8,7 +8,7 @@ laatste_update: 1996-02-25
 status: geldig
 toestand: 1996-02-25
 bron: "https://wetten.overheid.nl/BWBR0007356"
-opgehaald: 2026-09-29
+opgehaald: 2026-11-28
 ---
 
 # Aanwijzing ex artikel 14 w.t.g. inzake Tubakorting algemene ziekenhuizen

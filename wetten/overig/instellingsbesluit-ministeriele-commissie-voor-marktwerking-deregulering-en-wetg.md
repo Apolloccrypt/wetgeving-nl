@@ -8,7 +8,7 @@ laatste_update: 1995-01-22
 status: geldig
 toestand: 1995-01-22
 bron: "https://wetten.overheid.nl/BWBR0007201"
-opgehaald: 2026-09-28
+opgehaald: 2026-11-28
 ---
 
 # Instellingsbesluit ministeriële commissie voor marktwerking, deregulering en wetgevingskwaliteit

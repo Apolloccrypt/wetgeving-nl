@@ -9,7 +9,7 @@ laatste_update: 1995-05-17
 status: geldig
 toestand: 1995-05-17
 bron: "https://wetten.overheid.nl/BWBR0006456"
-opgehaald: 2026-09-28
+opgehaald: 2026-11-28
 ---
 
 # Wet van 4 februari 1994, tot wijziging van de regeling van de milieu-effectrapportage in de Wet milieubeheer

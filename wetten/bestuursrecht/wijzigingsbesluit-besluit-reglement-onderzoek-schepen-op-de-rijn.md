@@ -9,7 +9,7 @@ laatste_update: 1994-10-01
 status: geldig
 toestand: 1994-10-01
 bron: "https://wetten.overheid.nl/BWBR0006831"
-opgehaald: 2026-09-28
+opgehaald: 2026-11-28
 ---
 
 # Besluit van 16 juli 1994, houdende wijziging van het Besluit Reglement onderzoek schepen op de Rijn

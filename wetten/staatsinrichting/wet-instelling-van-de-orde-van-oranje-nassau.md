@@ -9,7 +9,7 @@ laatste_update: 1997-01-01
 status: geldig
 toestand: 1997-01-01
 bron: "https://wetten.overheid.nl/BWBR0001859"
-opgehaald: 2026-09-29
+opgehaald: 2026-11-28
 ---
 
 # Wet van 4 april 1892, houdende instelling van de Orde van Oranje-Nassau

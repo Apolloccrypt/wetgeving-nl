@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-11-26
 toestand: 2021-11-27
 bron: "https://wetten.overheid.nl/BWBR0045905"
-opgehaald: 2026-11-27
+opgehaald: 2026-11-28
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 25 november 2021 nr. BOACAT2021/065, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij het Functioneel Parket

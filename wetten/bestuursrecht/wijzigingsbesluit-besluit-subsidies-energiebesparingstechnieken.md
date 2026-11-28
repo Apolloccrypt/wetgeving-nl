@@ -9,7 +9,7 @@ laatste_update: 1994-03-18
 status: geldig
 toestand: 1994-03-18
 bron: "https://wetten.overheid.nl/BWBR0006500"
-opgehaald: 2026-09-28
+opgehaald: 2026-11-28
 ---
 
 # Besluit van 2 maart 1994, houdende wijziging van het Besluit subsidies energiebesparingstechnieken

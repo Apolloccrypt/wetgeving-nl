@@ -9,7 +9,7 @@ laatste_update: 2026-06-17
 status: geldig
 toestand: 2026-06-17
 bron: "https://wetten.overheid.nl/BWBR0006923"
-opgehaald: 2026-09-28
+opgehaald: 2026-11-28
 ---
 
 # Besluit van 15 september 1994, houdende het van kracht zijn voor de Rijn in Nederland van het Reglement van politie voor de Rijnvaart

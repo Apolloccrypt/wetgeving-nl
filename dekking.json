@@ -1,14 +1,14 @@
 {
- "gegenereerd": "2026-11-27",
+ "gegenereerd": "2026-11-28",
  "geverifieerd": true,
- "bwb_regelingen": 47106,
+ "bwb_regelingen": 46414,
  "bwb_geldend": 22356,
  "site_totaal": 22638,
  "site_geldend": 22355,
  "dekkingsgraad": 1.0,
  "aantal_ontbrekend": 1,
- "aantal_ten_onrechte_geldig": 283,
- "aantal_onbekend": 0,
+ "aantal_ten_onrechte_geldig": 281,
+ "aantal_onbekend": 2,
  "ontbrekend": [
   {
    "id": "BWBV0001764",
@@ -48,10 +48,6 @@
   {
    "id": "BWBR0009519",
    "titel": "Bekendmaking aan de scheepvaart; Instellen maximum vaarsnelheid op de Waddenzee"
-  },
-  {
-   "id": "BWBR0011531",
-   "titel": "Besluit van 22 juli 2000, houdende regels voor de aanpassing van de arbeidsduur van militairen (Besluit aanpassing arbeidsduur militairen)"
   },
   {
    "id": "BWBR0013868",
@@ -706,10 +702,6 @@
    "titel": "Beleidsregel Vaststelling aandoeningen Neonatale hielprikscreening en Prenatale screening Infectieziekten en Erytrocytenimmunisatie 2023"
   },
   {
-   "id": "BWBR0048320",
-   "titel": "Besluit toepassing voorschriften internationaal belastingrecht in de winstsfeer"
-  },
-  {
    "id": "BWBR0048376",
    "titel": "Regeling van de Minister van Justitie en Veiligheid en de Minister voor Rechtsbescherming van 4 juli 2023, nr. 4605733, houdende regels met betrekking tot het verstrekken van een eenmalige specifieke uitkering ter voorkoming van jeugdcriminaliteit (Regeling specifieke uitkering ter voorkoming van jeugdcriminaliteit 2023)"
   },
@@ -1150,5 +1142,14 @@
    "titel": "Briefwisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en het Internationaal Agentschap voor Atoomenergie (IAEA) inzake de “Regional Training Course on Practical Aspects of Paediatric Radiotherapy: Module I”, te Utrecht, Nederland, van 15 tot en met 19 december 2025"
   }
  ],
- "onbekend": []
+ "onbekend": [
+  {
+   "id": "BWBR0011531",
+   "titel": "Besluit van 22 juli 2000, houdende regels voor de aanpassing van de arbeidsduur van militairen (Besluit aanpassing arbeidsduur militairen)"
+  },
+  {
+   "id": "BWBR0048320",
+   "titel": "Besluit toepassing voorschriften internationaal belastingrecht in de winstsfeer"
+  }
+ ]
 }

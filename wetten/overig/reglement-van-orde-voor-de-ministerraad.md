@@ -9,7 +9,7 @@ laatste_update: 2020-04-16
 status: geldig
 toestand: 2020-04-16
 bron: "https://wetten.overheid.nl/BWBR0006501"
-opgehaald: 2026-09-28
+opgehaald: 2026-11-28
 ---
 
 # Besluit van 2 maart 1994, houdende vaststelling van een reglement van orde voor de ministerraad

@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0006481"
-opgehaald: 2026-09-28
+opgehaald: 2026-11-28
 ---
 
 # Regeling vacatiegelden leden Centrale Landinrichtingscommissie, commissie beheer landbouwgronden, provinciale commissie beheer landbouwgronden en geschillencommissie

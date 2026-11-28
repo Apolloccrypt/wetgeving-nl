@@ -9,7 +9,7 @@ laatste_update: 1999-02-17
 status: geldig
 toestand: 1999-02-17
 bron: "https://wetten.overheid.nl/BWBR0006451"
-opgehaald: 2026-09-28
+opgehaald: 2026-11-28
 ---
 
 # Wet van 4 februari 1994, tot wijziging van de Wet op de bezoldiging van de rechterlijke ambtenaren en enkele andere wetten (wijziging bezoldigingsstructuur)

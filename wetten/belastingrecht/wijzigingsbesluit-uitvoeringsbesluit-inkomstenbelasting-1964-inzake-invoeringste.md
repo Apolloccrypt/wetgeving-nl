@@ -9,7 +9,7 @@ laatste_update: 1995-06-01
 status: geldig
 toestand: 1995-06-01
 bron: "https://wetten.overheid.nl/BWBR0006545"
-opgehaald: 2026-09-28
+opgehaald: 2026-11-28
 ---
 
 # Besluit van 25 maart 1994, houdende Invoeringstermijn identificatieplicht voor de loonbelasting

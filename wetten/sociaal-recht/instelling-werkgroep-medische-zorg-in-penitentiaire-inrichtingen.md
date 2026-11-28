@@ -8,7 +8,7 @@ laatste_update: 1995-04-08
 status: geldig
 toestand: 1995-04-08
 bron: "https://wetten.overheid.nl/BWBR0007328"
-opgehaald: 2026-09-29
+opgehaald: 2026-11-28
 ---
 
 # Instelling Werkgroep medische zorg in penitentiaire inrichtingen

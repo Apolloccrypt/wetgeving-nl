@@ -9,7 +9,7 @@ laatste_update: 1994-12-30
 status: geldig
 toestand: 1994-12-30
 bron: "https://wetten.overheid.nl/BWBR0007171"
-opgehaald: 2026-09-28
+opgehaald: 2026-11-28
 ---
 
 # Wet van 23 december 1994, tot wijziging van de inkomstenbelasting (kapitaalverzekeringen en periodieke uitkeringen)

@@ -9,7 +9,7 @@ laatste_update: 2009-07-01
 status: geldig
 toestand: 2009-07-01
 bron: "https://wetten.overheid.nl/BWBR0006715"
-opgehaald: 2026-09-28
+opgehaald: 2026-11-28
 ---
 
 # Besluit van 7 juni 1994, houdende regels inzake de verstrekking van subsidies ter ondersteuning van de zeescheepsnieuwbouw in 1994

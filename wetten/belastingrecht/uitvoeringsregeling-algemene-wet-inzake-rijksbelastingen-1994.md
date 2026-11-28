@@ -8,7 +8,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0006736"
-opgehaald: 2026-09-28
+opgehaald: 2026-11-28
 ---
 
 # Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994

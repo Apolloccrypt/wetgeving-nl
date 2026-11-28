@@ -9,7 +9,7 @@ laatste_update: 1994-08-12
 status: geldig
 toestand: 1994-08-12
 bron: "https://wetten.overheid.nl/BWBR0006801"
-opgehaald: 2026-09-28
+opgehaald: 2026-11-28
 ---
 
 # Wet van 7 juli 1994, tot samenvoeging van de gemeenten Aardenburg en Sluis

@@ -9,7 +9,7 @@ laatste_update: 2026-11-27
 status: geldig
 toestand: 2026-11-27
 bron: "https://wetten.overheid.nl/BWBR0053076"
-opgehaald: 2026-11-27
+opgehaald: 2026-11-28
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 25 augustus 2026 nr. BOACAT2026/056, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Functioneel Parket

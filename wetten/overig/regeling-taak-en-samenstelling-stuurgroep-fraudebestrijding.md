@@ -8,7 +8,7 @@ laatste_update: 1995-02-14
 status: geldig
 toestand: 1995-02-14
 bron: "https://wetten.overheid.nl/BWBR0007235"
-opgehaald: 2026-09-28
+opgehaald: 2026-11-28
 ---
 
 # Regeling taak en samenstelling Stuurgroep fraudebestrijding

@@ -8,7 +8,7 @@ laatste_update: 2008-01-01
 status: geldig
 toestand: 2008-01-01
 bron: "https://wetten.overheid.nl/BWBR0007142"
-opgehaald: 2026-09-28
+opgehaald: 2026-11-28
 ---
 
 # Uitvoeringsregeling uitgezonderde objecten Wet waardering onroerende zaken

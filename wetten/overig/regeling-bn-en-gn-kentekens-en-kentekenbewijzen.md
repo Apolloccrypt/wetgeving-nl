@@ -8,7 +8,7 @@ laatste_update: 2002-09-01
 status: geldig
 toestand: 2002-09-01
 bron: "https://wetten.overheid.nl/BWBR0007040"
-opgehaald: 2026-09-28
+opgehaald: 2026-11-28
 ---
 
 # Regeling BN- en GN-kentekens en -kentekenbewijzen

@@ -8,7 +8,7 @@ laatste_update: 1995-07-15
 status: geldig
 toestand: 1995-07-15
 bron: "https://wetten.overheid.nl/BWBR0007449"
-opgehaald: 2026-09-29
+opgehaald: 2026-11-28
 ---
 
 # Risicobeoordeling bestaande stoffen

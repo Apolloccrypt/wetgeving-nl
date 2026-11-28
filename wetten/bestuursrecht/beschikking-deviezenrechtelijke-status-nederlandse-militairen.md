@@ -8,7 +8,7 @@ laatste_update: 1994-09-14
 status: geldig
 toestand: 1994-09-14
 bron: "https://wetten.overheid.nl/BWBR0006902"
-opgehaald: 2026-09-28
+opgehaald: 2026-11-28
 ---
 
 # Beschikking deviezenrechtelijke status Nederlandse militairen

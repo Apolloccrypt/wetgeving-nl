@@ -9,7 +9,7 @@ laatste_update: 1995-06-28
 status: geldig
 toestand: 1995-06-28
 bron: "https://wetten.overheid.nl/BWBR0007430"
-opgehaald: 2026-09-29
+opgehaald: 2026-11-28
 ---
 
 # Besluit van 6 juni 1995, houdende regelen omtrent eenmalige uitkeringen als bedoeld in artikel XVIII van de Wet van 4 februari 1994 (Stb. 81)

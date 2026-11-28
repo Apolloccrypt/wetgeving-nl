@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0007041"
-opgehaald: 2026-09-28
+opgehaald: 2026-11-28
 ---
 
 # Regeling schorsing geldigheid kentekenbewijs

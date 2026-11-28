@@ -9,7 +9,7 @@ laatste_update: 2026-11-26
 status: geldig
 toestand: 2026-11-26
 bron: "https://wetten.overheid.nl/BWBR0036568"
-opgehaald: 2026-11-27
+opgehaald: 2026-11-28
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 23 april 2015, IENM/BSK-2015/11533, houdende de vaststelling van regels voor op afstand bestuurde luchtvaartuigen

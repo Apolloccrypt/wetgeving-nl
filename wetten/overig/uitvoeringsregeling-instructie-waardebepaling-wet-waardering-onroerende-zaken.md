@@ -8,7 +8,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0007165"
-opgehaald: 2026-09-28
+opgehaald: 2026-11-28
 ---
 
 # Uitvoeringsregeling instructie waardebepaling Wet waardering onroerende zaken
